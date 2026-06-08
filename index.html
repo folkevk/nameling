@@ -1,0 +1,82 @@
+<!doctype html>
+<html lang="de">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Nameling</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <img class="scene scene-left" src="assets/nameling_landscape_left.png" alt="" />
+    <img class="scene scene-right" src="assets/nameling_landscape_right.png" alt="" />
+    <img class="leaf-corner" src="assets/nameling_leaf_corner.png" alt="" />
+    <nav class="site-nav" aria-label="Hauptnavigation">
+      <a href="index.html" aria-current="page">Suche</a>
+      <a href="about.html">About</a>
+    </nav>
+    <main class="app-shell">
+      <section class="search-panel" aria-labelledby="app-title">
+        <div class="brand">
+          <img class="brand-forest" src="assets/nameling_forest_logo.png" alt="" />
+          <div>
+            <h1 id="app-title">Nameling</h1>
+            <p class="tagline">Vornamen, die gemeinsam schwingen.</p>
+          </div>
+          <img src="assets/butterfly.svg" alt="" class="brand-butterfly" />
+        </div>
+
+        <form id="search-form" class="search-form" autocomplete="off">
+          <label for="name-input">Name</label>
+          <div class="input-row">
+            <input
+              id="name-input"
+              name="name"
+              type="search"
+              aria-controls="name-suggestions"
+              aria-expanded="false"
+              placeholder="z. B. Folke"
+              spellcheck="false"
+            />
+            <button type="submit">Suchen</button>
+          </div>
+          <div id="name-suggestions" class="suggestions" role="listbox"></div>
+        </form>
+
+        <div class="metric-row">
+          <label for="metric-select">Metrik</label>
+          <select id="metric-select"></select>
+        </div>
+
+        <p id="status" class="status" role="status">Lade Namensindex...</p>
+
+        <section class="favorites-panel" aria-labelledby="favorites-title">
+          <div class="favorites-header">
+            <h2 id="favorites-title">Favoriten</h2>
+            <button id="clear-favorites" type="button">Leeren</button>
+          </div>
+          <ol id="favorites-list" class="favorites-list"></ol>
+        </section>
+      </section>
+
+      <section class="results-panel" aria-labelledby="results-title">
+        <div class="results-header">
+          <div>
+            <p class="eyebrow">Ähnliche Namen</p>
+            <h2 id="results-title">Top 10</h2>
+          </div>
+          <div class="pager">
+            <button id="prev-page" type="button" aria-label="Vorherige Treffer">‹</button>
+            <span id="page-label">1 / 10</span>
+            <button id="next-page" type="button" aria-label="Weitere Treffer">›</button>
+          </div>
+        </div>
+
+        <ol id="results-list" class="results-list"></ol>
+      </section>
+    </main>
+
+    <script src="supabase-config.js" defer></script>
+    <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2" defer></script>
+    <script src="app.js" defer></script>
+  </body>
+</html>

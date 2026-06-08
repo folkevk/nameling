@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 180" role="img" aria-labelledby="title desc">
+  <title id="title">Nameling butterfly</title>
+  <desc id="desc">A colorful butterfly mark for the Nameling similarity app.</desc>
+  <defs>
+    <linearGradient id="leftWing" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#ff8fb7"/>
+      <stop offset="0.48" stop-color="#8f6bff"/>
+      <stop offset="1" stop-color="#2bb7c9"/>
+    </linearGradient>
+    <linearGradient id="rightWing" x1="1" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#ffd166"/>
+      <stop offset="0.48" stop-color="#ff7b7b"/>
+      <stop offset="1" stop-color="#4dc4ff"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="50%" cy="50%" r="55%">
+      <stop offset="0" stop-color="#ffffff" stop-opacity="0.7"/>
+      <stop offset="1" stop-color="#ffffff" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <path d="M114 87C91 42 48 13 23 30-2 47 18 94 58 104c-38 16-49 57-24 68 27 12 65-19 82-62" fill="url(#leftWing)"/>
+  <path d="M126 87c23-45 66-74 91-57 25 17 5 64-35 74 38 16 49 57 24 68-27 12-65-19-82-62" fill="url(#rightWing)"/>
+  <path d="M116 54c-7 24-7 69 0 97 2 9 6 15 10 15s8-6 10-15c7-28 7-73 0-97-2-8-6-13-10-13s-8 5-10 13Z" fill="#24324f"/>
+  <path d="M118 49C106 24 91 10 75 7" fill="none" stroke="#24324f" stroke-width="6" stroke-linecap="round"/>
+  <path d="M134 49c12-25 27-39 43-42" fill="none" stroke="#24324f" stroke-width="6" stroke-linecap="round"/>
+  <circle cx="62" cy="72" r="18" fill="url(#glow)"/>
+  <circle cx="180" cy="72" r="18" fill="url(#glow)"/>
+  <circle cx="72" cy="134" r="13" fill="url(#glow)"/>
+  <circle cx="168" cy="134" r="13" fill="url(#glow)"/>
+</svg>
