@@ -13,6 +13,8 @@
     <nav class="site-nav" aria-label="Hauptnavigation">
       <a href="index.html" aria-current="page">Suche</a>
       <a href="about.html">About</a>
+      <a href="impressum.html">Impressum</a>
+      <a href="datenschutz.html">Datenschutz</a>
     </nav>
     <main class="app-shell">
       <section class="search-panel" aria-labelledby="app-title">
@@ -75,8 +77,22 @@
       </section>
     </main>
 
+    <section id="consent-banner" class="consent-banner" aria-labelledby="consent-title" hidden>
+      <div>
+        <h2 id="consent-title">Datenspeicherung erlauben?</h2>
+        <p>
+          Nameling kann Favoriten auf diesem Gerät merken und anonyme Nutzungsereignisse zur
+          Verbesserung speichern. Ohne Zustimmung bleibt die Suche nutzbar, aber ohne dauerhafte
+          Favoriten und ohne Supabase-Auswertung.
+        </p>
+      </div>
+      <div class="consent-actions">
+        <button id="consent-deny" class="consent-secondary" type="button">Ablehnen</button>
+        <button id="consent-allow" class="consent-primary" type="button">Erlauben</button>
+      </div>
+    </section>
+
     <script src="supabase-config.js" defer></script>
-    <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2" defer></script>
     <script src="app.js" defer></script>
   </body>
 </html>

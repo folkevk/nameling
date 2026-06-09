@@ -13,6 +13,7 @@ const state = {
   draggedFavorite: "",
   sessionId: "",
   supabaseClient: null,
+  storageConsent: "unknown",
 };
 
 const elements = {
@@ -28,10 +29,16 @@ const elements = {
   pageLabel: document.querySelector("#page-label"),
   favorites: document.querySelector("#favorites-list"),
   clearFavorites: document.querySelector("#clear-favorites"),
+  consentBanner: document.querySelector("#consent-banner"),
+  consentAllow: document.querySelector("#consent-allow"),
+  consentDeny: document.querySelector("#consent-deny"),
 };
 
 const FAVORITES_KEY = "nameling.favorites";
 const SESSION_KEY = "nameling.session_id";
+const CONSENT_KEY = "nameling.consent";
+const SUPABASE_SCRIPT_URL = "https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2";
+let supabaseScriptPromise = null;
 
 function normalizeName(value) {
   return value
@@ -64,9 +71,21 @@ function createId() {
   return `${Date.now()}-${Math.random().toString(16).slice(2)}`;
 }
 
+function optionalStorageAllowed() {
+  return state.storageConsent === "granted";
+}
+
 function setupSession() {
-  state.sessionId = localStorage.getItem(SESSION_KEY) || createId();
-  localStorage.setItem(SESSION_KEY, state.sessionId);
+  if (!optionalStorageAllowed()) {
+    state.sessionId = "";
+    return;
+  }
+  try {
+    state.sessionId = localStorage.getItem(SESSION_KEY) || createId();
+    localStorage.setItem(SESSION_KEY, state.sessionId);
+  } catch {
+    state.sessionId = createId();
+  }
 }
 
 function setupDebugMode() {
@@ -76,16 +95,45 @@ function setupDebugMode() {
   document.body.classList.toggle("debug-on", state.debug);
 }
 
-function setupSupabase() {
-  const config = window.NAMELING_SUPABASE || {};
-  if (!config.url || !config.anonKey || !window.supabase?.createClient) {
+function loadSupabaseLibrary() {
+  if (window.supabase?.createClient) {
+    return Promise.resolve();
+  }
+  if (!supabaseScriptPromise) {
+    supabaseScriptPromise = new Promise((resolve, reject) => {
+      const script = document.createElement("script");
+      script.src = SUPABASE_SCRIPT_URL;
+      script.async = true;
+      script.onload = resolve;
+      script.onerror = reject;
+      document.head.appendChild(script);
+    });
+  }
+  return supabaseScriptPromise;
+}
+
+async function setupSupabase() {
+  if (!optionalStorageAllowed()) {
+    state.supabaseClient = null;
     return;
   }
-  state.supabaseClient = window.supabase.createClient(config.url, config.anonKey);
+  const config = window.NAMELING_SUPABASE || {};
+  if (!config.url || !config.anonKey) {
+    return;
+  }
+  try {
+    await loadSupabaseLibrary();
+    state.supabaseClient = window.supabase.createClient(config.url, config.anonKey);
+  } catch (error) {
+    state.supabaseClient = null;
+    if (state.debug) {
+      console.warn("Supabase library could not be loaded", error);
+    }
+  }
 }
 
 async function trackEvent(eventType, payload = {}) {
-  if (!state.supabaseClient) return;
+  if (!optionalStorageAllowed() || !state.supabaseClient) return;
   try {
     await state.supabaseClient.from("nameling_usage_events").insert({
       event_type: eventType,
@@ -111,7 +159,9 @@ function favoriteSnapshot() {
 }
 
 function persistFavorites(eventType, payload = {}) {
-  localStorage.setItem(FAVORITES_KEY, JSON.stringify(state.favorites));
+  if (optionalStorageAllowed()) {
+    localStorage.setItem(FAVORITES_KEY, JSON.stringify(state.favorites));
+  }
   renderFavorites();
   trackEvent(eventType, {
     ...payload,
@@ -158,6 +208,10 @@ function populateNames(indexPayload) {
 }
 
 function loadFavorites() {
+  if (!optionalStorageAllowed()) {
+    renderFavorites();
+    return;
+  }
   try {
     const favorites = JSON.parse(localStorage.getItem(FAVORITES_KEY) || "[]");
     state.favorites = favorites
@@ -167,6 +221,88 @@ function loadFavorites() {
     state.favorites = [];
   }
   renderFavorites();
+}
+
+function clearNamelingCookies() {
+  document.cookie.split(";").forEach((cookie) => {
+    const name = cookie.split("=")[0]?.trim();
+    if (!name?.startsWith("nameling")) return;
+    document.cookie = `${name}=; Max-Age=0; path=/; SameSite=Lax`;
+  });
+}
+
+function clearOptionalStorage() {
+  try {
+    localStorage.removeItem(FAVORITES_KEY);
+    localStorage.removeItem(SESSION_KEY);
+  } catch {
+    // Ignore blocked storage; the app can continue without persistence.
+  }
+  clearNamelingCookies();
+  state.sessionId = "";
+  state.supabaseClient = null;
+}
+
+function rememberConsent(value) {
+  try {
+    localStorage.setItem(CONSENT_KEY, value);
+  } catch {
+    state.storageConsent = value;
+  }
+}
+
+function hideConsentBanner() {
+  if (elements.consentBanner) {
+    elements.consentBanner.hidden = true;
+  }
+}
+
+function showConsentBanner() {
+  if (elements.consentBanner) {
+    elements.consentBanner.hidden = false;
+  }
+}
+
+async function applyConsent(value) {
+  state.storageConsent = value;
+  rememberConsent(value);
+  hideConsentBanner();
+
+  if (optionalStorageAllowed()) {
+    setupSession();
+    await setupSupabase();
+    try {
+      if (state.favorites.length) {
+        localStorage.setItem(FAVORITES_KEY, JSON.stringify(state.favorites));
+      } else {
+        loadFavorites();
+      }
+    } catch {
+      renderFavorites();
+    }
+    trackEvent("consent_granted");
+    return;
+  }
+
+  clearOptionalStorage();
+  renderFavorites();
+}
+
+function setupConsent() {
+  try {
+    const value = localStorage.getItem(CONSENT_KEY);
+    if (value === "granted" || value === "denied") {
+      state.storageConsent = value;
+      hideConsentBanner();
+      if (value === "denied") {
+        clearOptionalStorage();
+      }
+      return;
+    }
+  } catch {
+    state.storageConsent = "unknown";
+  }
+  showConsentBanner();
 }
 
 function isFavorite(normalized) {
@@ -510,6 +646,14 @@ elements.clearFavorites.addEventListener("click", () => {
   renderResults();
 });
 
+elements.consentAllow?.addEventListener("click", () => {
+  applyConsent("granted");
+});
+
+elements.consentDeny?.addEventListener("click", () => {
+  applyConsent("denied");
+});
+
 elements.prev.addEventListener("click", () => {
   state.page -= 1;
   renderResults();
@@ -520,7 +664,8 @@ elements.next.addEventListener("click", () => {
   renderResults();
 });
 
-setupSession();
 setupDebugMode();
+setupConsent();
+setupSession();
 setupSupabase();
 bootstrap();
