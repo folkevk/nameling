@@ -126,15 +126,17 @@ select {
 .brand {
   position: relative;
   display: grid;
-  grid-template-columns: 92px minmax(0, 1fr) 30px;
+  grid-template-columns: 78px minmax(0, 1fr) 30px;
   align-items: end;
-  gap: 10px;
+  gap: 4px;
   min-height: 108px;
   margin-bottom: 24px;
 }
 
-.brand-forest {
-  width: 92px;
+.brand-tree {
+  width: 82px;
+  max-height: 104px;
+  object-fit: contain;
   align-self: center;
   filter: drop-shadow(0 8px 8px rgba(33, 91, 52, 0.12));
 }
@@ -155,7 +157,7 @@ p {
 
 h1 {
   color: #8d9090;
-  font-size: clamp(38px, 4.6vw, 52px);
+  font-size: clamp(40px, 4.8vw, 56px);
   line-height: 0.94;
   font-weight: 300;
   letter-spacing: 0;
@@ -535,12 +537,14 @@ body.debug-on .score {
   }
 
   .brand {
-    grid-template-columns: 76px minmax(0, 1fr) 26px;
+    grid-template-columns: 68px minmax(0, 1fr) 26px;
+    gap: 4px;
     min-height: 96px;
   }
 
-  .brand-forest {
-    width: 76px;
+  .brand-tree {
+    width: 70px;
+    max-height: 90px;
   }
 
   .scene-left,
@@ -556,12 +560,13 @@ body.debug-on .score {
   }
 
   .brand {
-    grid-template-columns: 56px minmax(0, 1fr) 22px;
-    gap: 8px;
+    grid-template-columns: 52px minmax(0, 1fr) 22px;
+    gap: 4px;
   }
 
-  .brand-forest {
-    width: 56px;
+  .brand-tree {
+    width: 54px;
+    max-height: 72px;
   }
 
   .input-row {
@@ -606,6 +611,20 @@ body.debug-on .score {
 .site-nav a[aria-current="page"] {
   background: var(--green-soft);
   color: #24492a;
+}
+
+.site-nav .nav-search-link {
+  border-color: rgba(79, 143, 58, 0.32);
+  background: var(--green);
+  color: white;
+  font-weight: 700;
+  box-shadow: 0 8px 22px rgba(65, 83, 69, 0.12);
+}
+
+.site-nav .nav-search-link:hover,
+.site-nav .nav-search-link[aria-current="page"] {
+  background: var(--green-deep);
+  color: white;
 }
 
 .about-page {
@@ -778,6 +797,43 @@ body.debug-on .score {
   margin-top: 22px;
   color: var(--soft-ink);
   font-size: clamp(18px, 2.1vw, 23px);
+}
+
+.hero-actions {
+  margin-top: 24px;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px 16px;
+  align-items: center;
+}
+
+.hero-actions span {
+  color: var(--soft-ink);
+  font-size: 15px;
+}
+
+.primary-link {
+  min-height: 46px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 999px;
+  background: var(--green);
+  color: white;
+  padding: 0 20px;
+  text-decoration: none;
+  font-weight: 800;
+  box-shadow: 0 12px 28px rgba(65, 83, 69, 0.16);
+  transition:
+    transform 160ms ease,
+    background 160ms ease;
+}
+
+.primary-link:hover,
+.primary-link:focus {
+  background: var(--green-deep);
+  color: white;
+  transform: translateY(-1px);
 }
 
 .portrait-card {
