@@ -42,6 +42,8 @@ let supabaseScriptPromise = null;
 
 function normalizeName(value) {
   return value
+    .normalize("NFD")
+    .replace(/\p{M}+/gu, "")
     .normalize("NFC")
     .trim()
     .toLowerCase()
@@ -170,7 +172,7 @@ function persistFavorites(eventType, payload = {}) {
 }
 
 async function loadJson(path) {
-  const response = await fetch(path);
+  const response = await fetch(path, { cache: "no-cache" });
   if (!response.ok) {
     throw new Error(`${path} konnte nicht geladen werden`);
   }
@@ -203,8 +205,19 @@ function escapeHtml(value) {
 }
 
 function populateNames(indexPayload) {
-  state.names = indexPayload.names || [];
-  state.normalizedToName = new Map(state.names.map((entry) => [entry.normalized, entry]));
+  const dedupedNames = new Map();
+  for (const rawEntry of indexPayload.names || []) {
+    const normalized = normalizeName(rawEntry.normalized || rawEntry.name);
+    if (!normalized || dedupedNames.has(normalized)) continue;
+    dedupedNames.set(normalized, {
+      ...rawEntry,
+      normalized,
+      legacyPrefix: rawEntry.prefix || "",
+      prefix: prefixFor(normalized),
+    });
+  }
+  state.names = Array.from(dedupedNames.values());
+  state.normalizedToName = dedupedNames;
 }
 
 function loadFavorites() {
@@ -332,6 +345,7 @@ function removeFavorite(normalized, source = "favorites") {
 }
 
 function toggleFavorite(entry, source = "result") {
+  if (!entry) return;
   if (isFavorite(entry.normalized)) {
     removeFavorite(entry.normalized, source);
   } else {
@@ -409,6 +423,23 @@ function resolveName(rawName) {
   return state.normalizedToName.get(normalized) || null;
 }
 
+function resolveNameByNormalized(normalized) {
+  return state.normalizedToName.get(normalizeName(normalized)) || null;
+}
+
+function findNeighborsForEntry(prefixPayload, entry) {
+  const neighbors = prefixPayload.neighbors || {};
+  if (neighbors[entry.normalized]) {
+    return neighbors[entry.normalized];
+  }
+  for (const [key, rows] of Object.entries(neighbors)) {
+    if (normalizeName(key) === entry.normalized) {
+      return rows;
+    }
+  }
+  return [];
+}
+
 async function searchName(rawName) {
   const entry = resolveName(rawName);
   if (!entry) {
@@ -432,8 +463,24 @@ async function searchName(rawName) {
   });
 
   try {
-    const prefixPayload = await loadPrefix(state.selectedMetric, entry.prefix || prefixFor(entry.normalized));
-    state.results = prefixPayload.neighbors?.[entry.normalized] || [];
+    const prefixes = [...new Set([entry.prefix, entry.legacyPrefix, prefixFor(entry.normalized)].filter(Boolean))];
+    state.results = [];
+    let lastError = null;
+    for (const prefix of prefixes) {
+      try {
+        const prefixPayload = await loadPrefix(state.selectedMetric, prefix);
+        state.results = findNeighborsForEntry(prefixPayload, entry);
+      } catch (error) {
+        lastError = error;
+        continue;
+      }
+      if (state.results.length) {
+        break;
+      }
+    }
+    if (!state.results.length && lastError) {
+      throw lastError;
+    }
     setStatus(`${state.results.length} Treffer für ${entry.name}.`);
     renderResults();
   } catch (error) {
@@ -467,11 +514,12 @@ function renderResults() {
       (row) => `
         <li class="result-card">
           <span class="rank">${row.rank}</span>
-          <button class="result-name" type="button" data-name="${escapeHtml(row.name)}" data-rank="${row.rank}">${escapeHtml(row.name)}</button>
+          <button class="result-name" type="button" data-name="${escapeHtml(row.name)}" data-normalized="${escapeHtml(row.normalized)}" data-rank="${row.rank}">${escapeHtml(row.name)}</button>
           <button
             class="favorite-add ${isFavorite(row.normalized) ? "is-active" : ""}"
             type="button"
             data-name="${escapeHtml(row.name)}"
+            data-normalized="${escapeHtml(row.normalized)}"
             aria-label="${isFavorite(row.normalized) ? "Favorit entfernen" : "Als Favorit speichern"}"
           >${isFavorite(row.normalized) ? "♥" : "♡"}</button>
           <span class="score">${formatScore(row.score)}</span>
@@ -494,7 +542,7 @@ function renderFavorites() {
       (entry) => `
         <li class="favorite-item" draggable="true" data-normalized="${escapeHtml(entry.normalized)}">
           <span class="drag-handle" aria-hidden="true">↕</span>
-          <button class="favorite-name" type="button" data-name="${escapeHtml(entry.name)}">${escapeHtml(entry.name)}</button>
+          <button class="favorite-name" type="button" data-name="${escapeHtml(entry.name)}" data-normalized="${escapeHtml(entry.normalized)}">${escapeHtml(entry.name)}</button>
           <button class="favorite-remove" type="button" data-normalized="${escapeHtml(entry.normalized)}" aria-label="Favorit entfernen">×</button>
         </li>
       `,
@@ -575,7 +623,7 @@ elements.metric.addEventListener("change", () => {
 elements.list.addEventListener("click", (event) => {
   const favoriteButton = event.target.closest(".favorite-add");
   if (favoriteButton) {
-    const entry = resolveName(favoriteButton.dataset.name);
+    const entry = resolveNameByNormalized(favoriteButton.dataset.normalized) || resolveName(favoriteButton.dataset.name);
     toggleFavorite(entry, "result");
     return;
   }
@@ -585,9 +633,11 @@ elements.list.addEventListener("click", (event) => {
   trackEvent("result_click", {
     from_name: state.selectedName?.name || null,
     clicked_name: button.dataset.name,
+    clicked_normalized: button.dataset.normalized,
     rank: Number(button.dataset.rank || 0),
   });
-  searchName(button.dataset.name);
+  const entry = resolveNameByNormalized(button.dataset.normalized) || resolveName(button.dataset.name);
+  searchName(entry?.name || button.dataset.name);
 });
 
 elements.favorites.addEventListener("click", (event) => {
@@ -601,9 +651,11 @@ elements.favorites.addEventListener("click", (event) => {
   if (!nameButton) return;
   trackEvent("favorite_click", {
     clicked_name: nameButton.dataset.name,
+    clicked_normalized: nameButton.dataset.normalized,
     favorites_order: favoriteSnapshot(),
   });
-  searchName(nameButton.dataset.name);
+  const entry = resolveNameByNormalized(nameButton.dataset.normalized) || resolveName(nameButton.dataset.name);
+  searchName(entry?.name || nameButton.dataset.name);
 });
 
 elements.favorites.addEventListener("dragstart", (event) => {
