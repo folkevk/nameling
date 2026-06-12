@@ -39,6 +39,9 @@ const SESSION_KEY = "nameling.session_id";
 const CONSENT_KEY = "nameling.consent";
 const SUPABASE_SCRIPT_URL = "https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2";
 const NAME_LINK_BASE = "https://nameling.net/";
+const DEFAULT_PAGE_TITLE = "Nameling – Ähnliche Vornamen finden";
+const DEFAULT_PAGE_DESCRIPTION =
+  "Entdecke ähnliche Vornamen mit Nameling und finde Namen, die gemeinsam schwingen.";
 let supabaseScriptPromise = null;
 
 function normalizeName(value) {
@@ -209,6 +212,59 @@ function nameUrl(name) {
   const url = new URL(NAME_LINK_BASE);
   url.searchParams.set("q", name);
   return url.toString();
+}
+
+function setMeta(name, content, attribute = "name") {
+  let meta = document.head.querySelector(`meta[${attribute}="${name}"]`);
+  if (!meta) {
+    meta = document.createElement("meta");
+    meta.setAttribute(attribute, name);
+    document.head.appendChild(meta);
+  }
+  meta.setAttribute("content", content);
+}
+
+function setCanonical(url) {
+  let canonical = document.head.querySelector('link[rel="canonical"]');
+  if (!canonical) {
+    canonical = document.createElement("link");
+    canonical.setAttribute("rel", "canonical");
+    document.head.appendChild(canonical);
+  }
+  canonical.setAttribute("href", url);
+}
+
+function setRobots(content) {
+  const existing = document.head.querySelector('meta[name="robots"]');
+  if (!content) {
+    existing?.remove();
+    return;
+  }
+  setMeta("robots", content);
+}
+
+function updatePageMetadata(entry) {
+  const title = entry ? `${entry.name} – Ähnliche Namen | Nameling` : DEFAULT_PAGE_TITLE;
+  const description = entry
+    ? `Entdecke den Namen ${entry.name} und finde ähnliche Vornamen mit Nameling.`
+    : DEFAULT_PAGE_DESCRIPTION;
+  const url = entry ? nameUrl(entry.name) : NAME_LINK_BASE;
+
+  document.title = title;
+  setMeta("description", description);
+  setMeta("og:title", title, "property");
+  setMeta("og:description", description, "property");
+  setMeta("og:url", url, "property");
+  setCanonical(url);
+  setRobots("");
+}
+
+function markCurrentQueryNoindex(rawName) {
+  const titleName = rawName ? `${rawName} – Name nicht gefunden | Nameling` : DEFAULT_PAGE_TITLE;
+  document.title = titleName;
+  setMeta("description", "Dieser Name ist derzeit nicht im Nameling-Index enthalten.");
+  setCanonical(NAME_LINK_BASE);
+  setRobots("noindex");
 }
 
 function updateNameUrl(entry, replace = false) {
@@ -465,12 +521,14 @@ async function searchName(rawName, options = {}) {
     state.selectedName = null;
     state.results = [];
     state.page = 0;
+    markCurrentQueryNoindex(rawName);
     setStatus("Name nicht im Index gefunden.");
     setEmpty("Kein Treffer.");
     return;
   }
 
   state.selectedName = entry;
+  updatePageMetadata(entry);
   if (options.updateUrl !== false) {
     updateNameUrl(entry, Boolean(options.replaceUrl));
   }
@@ -591,6 +649,7 @@ async function bootstrap() {
     populateMetrics(manifest);
     populateNames(indexPayload);
     loadFavorites();
+    updatePageMetadata(null);
     const params = new URLSearchParams(window.location.search);
     const requestedMetric = params.get("metric");
     if (state.debug && requestedMetric && manifest.metrics?.some((metric) => metric.id === requestedMetric)) {
