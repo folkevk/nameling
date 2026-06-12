@@ -272,6 +272,7 @@ button:disabled {
   color: var(--ink);
   padding: 0 13px;
   text-align: left;
+  text-decoration: none;
 }
 
 .suggestion-button:hover,
@@ -378,6 +379,7 @@ button:disabled {
 
 .favorite-name {
   text-align: left;
+  text-decoration: none;
 }
 
 .favorite-remove,
@@ -468,12 +470,15 @@ h2 {
 
 .result-name {
   min-height: 36px;
+  display: flex;
+  align-items: center;
   border: 0;
   border-radius: 10px;
   background: transparent;
   color: #5f6465;
   padding: 0 8px;
   text-align: left;
+  text-decoration: none;
   font-size: 19px;
   font-weight: 400;
 }

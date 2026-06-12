@@ -38,6 +38,7 @@ const FAVORITES_KEY = "nameling.favorites";
 const SESSION_KEY = "nameling.session_id";
 const CONSENT_KEY = "nameling.consent";
 const SUPABASE_SCRIPT_URL = "https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2";
+const NAME_LINK_BASE = "https://nameling.net/";
 let supabaseScriptPromise = null;
 
 function normalizeName(value) {
@@ -202,6 +203,24 @@ function escapeHtml(value) {
     .replaceAll("<", "&lt;")
     .replaceAll(">", "&gt;")
     .replaceAll('"', "&quot;");
+}
+
+function nameUrl(name) {
+  const url = new URL(NAME_LINK_BASE);
+  url.searchParams.set("q", name);
+  return url.toString();
+}
+
+function updateNameUrl(entry, replace = false) {
+  if (!entry || window.location.protocol === "file:") return;
+  const params = new URLSearchParams(window.location.search);
+  params.set("q", entry.name);
+  const nextUrl = `${window.location.pathname}?${params.toString()}${window.location.hash}`;
+  if (replace) {
+    window.history.replaceState({ name: entry.name }, "", nextUrl);
+  } else {
+    window.history.pushState({ name: entry.name }, "", nextUrl);
+  }
 }
 
 function populateNames(indexPayload) {
@@ -388,9 +407,9 @@ function showSuggestions(rawQuery) {
   elements.suggestions.innerHTML = matches
     .map(
       (entry) => `
-        <button class="suggestion-button" type="button" data-name="${escapeHtml(entry.name)}" role="option">
+        <a class="suggestion-button" href="${escapeHtml(nameUrl(entry.name))}" data-name="${escapeHtml(entry.name)}" role="option">
           <span>${escapeHtml(entry.name)}</span>
-        </button>
+        </a>
       `,
     )
     .join("");
@@ -440,7 +459,7 @@ function findNeighborsForEntry(prefixPayload, entry) {
   return [];
 }
 
-async function searchName(rawName) {
+async function searchName(rawName, options = {}) {
   const entry = resolveName(rawName);
   if (!entry) {
     state.selectedName = null;
@@ -452,6 +471,9 @@ async function searchName(rawName) {
   }
 
   state.selectedName = entry;
+  if (options.updateUrl !== false) {
+    updateNameUrl(entry, Boolean(options.replaceUrl));
+  }
   state.selectedMetric = elements.metric.value;
   state.page = 0;
   elements.input.value = entry.name;
@@ -514,7 +536,7 @@ function renderResults() {
       (row) => `
         <li class="result-card">
           <span class="rank">${row.rank}</span>
-          <button class="result-name" type="button" data-name="${escapeHtml(row.name)}" data-normalized="${escapeHtml(row.normalized)}" data-rank="${row.rank}">${escapeHtml(row.name)}</button>
+          <a class="result-name" href="${escapeHtml(nameUrl(row.name))}" data-name="${escapeHtml(row.name)}" data-normalized="${escapeHtml(row.normalized)}" data-rank="${row.rank}">${escapeHtml(row.name)}</a>
           <button
             class="favorite-add ${isFavorite(row.normalized) ? "is-active" : ""}"
             type="button"
@@ -542,7 +564,7 @@ function renderFavorites() {
       (entry) => `
         <li class="favorite-item" draggable="true" data-normalized="${escapeHtml(entry.normalized)}">
           <span class="drag-handle" aria-hidden="true">↕</span>
-          <button class="favorite-name" type="button" data-name="${escapeHtml(entry.name)}" data-normalized="${escapeHtml(entry.normalized)}">${escapeHtml(entry.name)}</button>
+          <a class="favorite-name" href="${escapeHtml(nameUrl(entry.name))}" data-name="${escapeHtml(entry.name)}" data-normalized="${escapeHtml(entry.normalized)}">${escapeHtml(entry.name)}</a>
           <button class="favorite-remove" type="button" data-normalized="${escapeHtml(entry.normalized)}" aria-label="Favorit entfernen">×</button>
         </li>
       `,
@@ -577,6 +599,10 @@ async function bootstrap() {
     }
     setStatus(`${state.names.length} Namen geladen.`);
     setEmpty("Name eingeben.");
+    const requestedName = params.get("q");
+    if (requestedName) {
+      await searchName(requestedName, { replaceUrl: true });
+    }
   } catch (error) {
     setMetricUnavailable("Index fehlt");
     setStatus(
@@ -616,7 +642,7 @@ document.addEventListener("click", (event) => {
 
 elements.metric.addEventListener("change", () => {
   if (state.selectedName) {
-    searchName(state.selectedName.name);
+    searchName(state.selectedName.name, { updateUrl: false });
   }
 });
 
@@ -630,6 +656,7 @@ elements.list.addEventListener("click", (event) => {
 
   const button = event.target.closest(".result-name");
   if (!button) return;
+  event.preventDefault();
   trackEvent("result_click", {
     from_name: state.selectedName?.name || null,
     clicked_name: button.dataset.name,
@@ -649,6 +676,7 @@ elements.favorites.addEventListener("click", (event) => {
 
   const nameButton = event.target.closest(".favorite-name");
   if (!nameButton) return;
+  event.preventDefault();
   trackEvent("favorite_click", {
     clicked_name: nameButton.dataset.name,
     clicked_normalized: nameButton.dataset.normalized,
@@ -714,6 +742,14 @@ elements.prev.addEventListener("click", () => {
 elements.next.addEventListener("click", () => {
   state.page += 1;
   renderResults();
+});
+
+window.addEventListener("popstate", () => {
+  const params = new URLSearchParams(window.location.search);
+  const requestedName = params.get("q");
+  if (requestedName) {
+    searchName(requestedName, { updateUrl: false });
+  }
 });
 
 setupDebugMode();
