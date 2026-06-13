@@ -22,11 +22,15 @@
     <img class="scene scene-left" src="assets/nameling_landscape_left.png" alt="" />
     <img class="scene scene-right" src="assets/nameling_landscape_right.png" alt="" />
     <img class="leaf-corner" src="assets/nameling_leaf_corner.png" alt="" />
-    <nav class="site-nav" aria-label="Hauptnavigation">
-      <a class="nav-search-link" href="index.html" aria-current="page">Namen suchen</a>
-      <a href="about.html">About</a>
-      <a href="impressum.html">Impressum</a>
-      <a href="datenschutz.html">Datenschutz</a>
+    <nav class="site-nav" aria-label="Hauptnavigation" data-i18n-attr="aria-label:navLabel">
+      <a class="nav-search-link" href="index.html" aria-current="page" data-i18n="navSearch">Namen suchen</a>
+      <a href="about.html" data-i18n="navAbout">About</a>
+      <a href="impressum.html" data-i18n="navImprint">Impressum</a>
+      <a href="datenschutz.html" data-i18n="navPrivacy">Datenschutz</a>
+      <div class="language-switch" role="group" aria-label="Sprache" data-i18n-attr="aria-label:languageSwitch">
+        <button class="language-button" type="button" data-lang="de">DE</button>
+        <button class="language-button" type="button" data-lang="en">EN</button>
+      </div>
     </nav>
     <main class="app-shell">
       <section class="search-panel" aria-labelledby="app-title">
@@ -34,13 +38,13 @@
           <img class="brand-tree" src="assets/nameling_deciduous_tree.png" alt="" />
           <div>
             <h1 id="app-title">Nameling</h1>
-            <p class="tagline">Vornamen, die gemeinsam schwingen.</p>
+            <p class="tagline" data-i18n="tagline">Vornamen, die gemeinsam schwingen.</p>
           </div>
           <img src="assets/butterfly.svg" alt="" class="brand-butterfly" />
         </div>
 
         <form id="search-form" class="search-form" autocomplete="off">
-          <label for="name-input">Name</label>
+          <label for="name-input" data-i18n="nameLabel">Name</label>
           <div class="input-row">
             <input
               id="name-input"
@@ -49,15 +53,16 @@
               aria-controls="name-suggestions"
               aria-expanded="false"
               placeholder="z. B. Folke"
+              data-i18n-attr="placeholder:namePlaceholder"
               spellcheck="false"
             />
-            <button type="submit">Suchen</button>
+            <button type="submit" data-i18n="searchButton">Suchen</button>
           </div>
           <div id="name-suggestions" class="suggestions" role="listbox"></div>
         </form>
 
         <div class="metric-row">
-          <label for="metric-select">Metrik</label>
+          <label for="metric-select" data-i18n="metricLabel">Metrik</label>
           <select id="metric-select"></select>
         </div>
 
@@ -65,8 +70,8 @@
 
         <section class="favorites-panel" aria-labelledby="favorites-title">
           <div class="favorites-header">
-            <h2 id="favorites-title">Favoriten</h2>
-            <button id="clear-favorites" type="button">Leeren</button>
+            <h2 id="favorites-title" data-i18n="favoritesTitle">Favoriten</h2>
+            <button id="clear-favorites" type="button" data-i18n="clearFavorites">Leeren</button>
           </div>
           <ol id="favorites-list" class="favorites-list"></ol>
         </section>
@@ -75,13 +80,13 @@
       <section class="results-panel" aria-labelledby="results-title">
         <div class="results-header">
           <div>
-            <p class="eyebrow">Ähnliche Namen</p>
+            <p class="eyebrow" data-i18n="similarNames">Ähnliche Namen</p>
             <h2 id="results-title">Top 10</h2>
           </div>
           <div class="pager">
-            <button id="prev-page" type="button" aria-label="Vorherige Treffer">‹</button>
+            <button id="prev-page" type="button" aria-label="Vorherige Treffer" data-i18n-attr="aria-label:prevResults">‹</button>
             <span id="page-label">1 / 10</span>
-            <button id="next-page" type="button" aria-label="Weitere Treffer">›</button>
+            <button id="next-page" type="button" aria-label="Weitere Treffer" data-i18n-attr="aria-label:nextResults">›</button>
           </div>
         </div>
 
@@ -91,20 +96,20 @@
 
     <section id="consent-banner" class="consent-banner" aria-labelledby="consent-title" hidden>
       <div>
-        <h2 id="consent-title">Datenspeicherung erlauben?</h2>
-        <p>
+        <h2 id="consent-title" data-i18n="consentTitle">Datenspeicherung erlauben?</h2>
+        <p data-i18n="consentText">
           Nameling kann Favoriten auf diesem Gerät merken und anonyme Nutzungsereignisse zur
           Verbesserung speichern. Ohne Zustimmung bleibt die Suche nutzbar, aber ohne dauerhafte
           Favoriten und ohne Supabase-Auswertung.
         </p>
       </div>
       <div class="consent-actions">
-        <button id="consent-deny" class="consent-secondary" type="button">Ablehnen</button>
-        <button id="consent-allow" class="consent-primary" type="button">Erlauben</button>
+        <button id="consent-deny" class="consent-secondary" type="button" data-i18n="consentDeny">Ablehnen</button>
+        <button id="consent-allow" class="consent-primary" type="button" data-i18n="consentAllow">Erlauben</button>
       </div>
     </section>
 
     <script src="supabase-config.js" defer></script>
-    <script src="app.js?v=20260612-seo-meta" defer></script>
+    <script src="app.js?v=20260613-i18n" defer></script>
   </body>
 </html>

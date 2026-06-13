@@ -14,6 +14,10 @@ const state = {
   sessionId: "",
   supabaseClient: null,
   storageConsent: "unknown",
+  language: "de",
+  statusState: null,
+  emptyState: null,
+  invalidQueryName: "",
 };
 
 const elements = {
@@ -32,16 +36,117 @@ const elements = {
   consentBanner: document.querySelector("#consent-banner"),
   consentAllow: document.querySelector("#consent-allow"),
   consentDeny: document.querySelector("#consent-deny"),
+  languageButtons: document.querySelectorAll(".language-button"),
 };
 
 const FAVORITES_KEY = "nameling.favorites";
 const SESSION_KEY = "nameling.session_id";
 const CONSENT_KEY = "nameling.consent";
+const LANGUAGE_KEY = "nameling.language";
 const SUPABASE_SCRIPT_URL = "https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2";
 const NAME_LINK_BASE = "https://nameling.net/";
-const DEFAULT_PAGE_TITLE = "Nameling – Ähnliche Vornamen finden";
-const DEFAULT_PAGE_DESCRIPTION =
-  "Entdecke ähnliche Vornamen mit Nameling und finde Namen, die gemeinsam schwingen.";
+const SUPPORTED_LANGUAGES = new Set(["de", "en"]);
+const TRANSLATIONS = {
+  de: {
+    navLabel: "Hauptnavigation",
+    navSearch: "Namen suchen",
+    navAbout: "About",
+    navImprint: "Impressum",
+    navPrivacy: "Datenschutz",
+    languageSwitch: "Sprache",
+    tagline: "Vornamen, die gemeinsam schwingen.",
+    nameLabel: "Name",
+    namePlaceholder: "z. B. Folke",
+    searchButton: "Suchen",
+    metricLabel: "Metrik",
+    favoritesTitle: "Favoriten",
+    clearFavorites: "Leeren",
+    similarNames: "Ähnliche Namen",
+    topResults: "Top 10",
+    prevResults: "Vorherige Treffer",
+    nextResults: "Weitere Treffer",
+    consentTitle: "Datenspeicherung erlauben?",
+    consentText:
+      "Nameling kann Favoriten auf diesem Gerät merken und anonyme Nutzungsereignisse zur Verbesserung speichern. Ohne Zustimmung bleibt die Suche nutzbar, aber ohne dauerhafte Favoriten und ohne Supabase-Auswertung.",
+    consentDeny: "Ablehnen",
+    consentAllow: "Erlauben",
+    defaultTitle: "Nameling – Ähnliche Vornamen finden",
+    defaultDescription:
+      "Entdecke ähnliche Vornamen mit Nameling und finde Namen, die gemeinsam schwingen.",
+    nameTitle: "{name} – Ähnliche Namen | Nameling",
+    nameDescription: "Entdecke den Namen {name} und finde ähnliche Vornamen mit Nameling.",
+    notFoundTitle: "{name} – Name nicht gefunden | Nameling",
+    notFoundDescription: "Dieser Name ist derzeit nicht im Nameling-Index enthalten.",
+    metricNotLoaded: "Nicht geladen",
+    openHttp: "Per HTTP öffnen",
+    fileStatus:
+      "Die JSON-Daten können nicht per Doppelklick geladen werden. Bitte im Projektordner starten: python -m http.server 8000 --directory docs",
+    fileEmpty: "Dann http://localhost:8000 öffnen.",
+    nameNotFoundStatus: "Name nicht im Index gefunden.",
+    noHit: "Kein Treffer.",
+    loadingMetric: "Lade {metric} für {name}...",
+    hitsForName: "{count} Treffer für {name}.",
+    missingMetricData: "Daten fehlen für diese Metrik.",
+    enterName: "Name eingeben.",
+    noSimilarNames: "Keine ähnlichen Namen gefunden.",
+    favoriteRemove: "Favorit entfernen",
+    favoriteAdd: "Als Favorit speichern",
+    noFavorites: "Noch keine Favoriten.",
+    namesLoaded: "{count} Namen geladen.",
+    missingIndex: "Index fehlt",
+    jsonLoadFailed: "JSON-Daten konnten nicht geladen werden. Bitte per lokalem Webserver oder GitHub Pages öffnen.",
+    loadPathFailed: "{path} konnte nicht geladen werden",
+  },
+  en: {
+    navLabel: "Main navigation",
+    navSearch: "Search names",
+    navAbout: "About",
+    navImprint: "Legal notice",
+    navPrivacy: "Privacy",
+    languageSwitch: "Language",
+    tagline: "Given names that resonate together.",
+    nameLabel: "Name",
+    namePlaceholder: "e.g. Folke",
+    searchButton: "Search",
+    metricLabel: "Metric",
+    favoritesTitle: "Favorites",
+    clearFavorites: "Clear",
+    similarNames: "Similar names",
+    topResults: "Top 10",
+    prevResults: "Previous results",
+    nextResults: "More results",
+    consentTitle: "Allow data storage?",
+    consentText:
+      "Nameling can remember favorites on this device and store anonymous usage events to improve the service. Without consent, search still works, but without persistent favorites or Supabase analytics.",
+    consentDeny: "Decline",
+    consentAllow: "Allow",
+    defaultTitle: "Nameling – Find Similar Given Names",
+    defaultDescription: "Discover similar given names with Nameling and find names that resonate together.",
+    nameTitle: "{name} – Similar Names | Nameling",
+    nameDescription: "Discover the name {name} and find similar given names with Nameling.",
+    notFoundTitle: "{name} – Name Not Found | Nameling",
+    notFoundDescription: "This name is currently not included in the Nameling index.",
+    metricNotLoaded: "Not loaded",
+    openHttp: "Open via HTTP",
+    fileStatus:
+      "The JSON data cannot be loaded by double-clicking. Please start this in the project folder: python -m http.server 8000 --directory docs",
+    fileEmpty: "Then open http://localhost:8000.",
+    nameNotFoundStatus: "Name not found in the index.",
+    noHit: "No match.",
+    loadingMetric: "Loading {metric} for {name}...",
+    hitsForName: "{count} results for {name}.",
+    missingMetricData: "Data is missing for this metric.",
+    enterName: "Enter a name.",
+    noSimilarNames: "No similar names found.",
+    favoriteRemove: "Remove favorite",
+    favoriteAdd: "Save as favorite",
+    noFavorites: "No favorites yet.",
+    namesLoaded: "{count} names loaded.",
+    missingIndex: "Index missing",
+    jsonLoadFailed: "JSON data could not be loaded. Please open via a local web server or GitHub Pages.",
+    loadPathFailed: "{path} could not be loaded",
+  },
+};
 let supabaseScriptPromise = null;
 
 function normalizeName(value) {
@@ -75,6 +180,109 @@ function createId() {
     return window.crypto.randomUUID();
   }
   return `${Date.now()}-${Math.random().toString(16).slice(2)}`;
+}
+
+function t(key, values = {}) {
+  const dictionary = TRANSLATIONS[state.language] || TRANSLATIONS.de;
+  const template = dictionary[key] || TRANSLATIONS.de[key] || key;
+  return template.replace(/\{(\w+)\}/g, (_, name) => values[name] ?? "");
+}
+
+function hasTranslation(key) {
+  return Boolean(TRANSLATIONS[state.language]?.[key] || TRANSLATIONS.de[key]);
+}
+
+function detectBrowserLanguage() {
+  const languages = navigator.languages?.length ? navigator.languages : [navigator.language];
+  return languages.some((language) => String(language).toLowerCase().startsWith("de")) ? "de" : "en";
+}
+
+function readStoredLanguage() {
+  try {
+    const storedLanguage = localStorage.getItem(LANGUAGE_KEY);
+    return SUPPORTED_LANGUAGES.has(storedLanguage) ? storedLanguage : "";
+  } catch {
+    return "";
+  }
+}
+
+function initialLanguage() {
+  const params = new URLSearchParams(window.location.search);
+  const requestedLanguage = params.get("lang");
+  if (SUPPORTED_LANGUAGES.has(requestedLanguage)) return requestedLanguage;
+  return readStoredLanguage() || detectBrowserLanguage();
+}
+
+function translatedUrlLanguage(url, language) {
+  if (url.protocol === "file:") return "";
+  const params = new URLSearchParams(url.search);
+  params.set("lang", language);
+  return `${url.pathname}?${params.toString()}${url.hash}`;
+}
+
+function persistLanguage(language) {
+  try {
+    localStorage.setItem(LANGUAGE_KEY, language);
+  } catch {
+    // Ignore blocked storage; the URL still reflects the explicit choice.
+  }
+}
+
+function updateLanguageUrl(language) {
+  if (window.location.protocol === "file:") return;
+  const nextUrl = translatedUrlLanguage(new URL(window.location.href), language);
+  if (nextUrl) {
+    window.history.replaceState({ name: state.selectedName?.name || "", language }, "", nextUrl);
+  }
+}
+
+function applyStaticTranslations() {
+  document.documentElement.lang = state.language;
+  document.querySelectorAll("[data-i18n]").forEach((element) => {
+    element.textContent = t(element.dataset.i18n);
+  });
+  document.querySelectorAll("[data-i18n-attr]").forEach((element) => {
+    for (const rule of element.dataset.i18nAttr.split(",")) {
+      const [attribute, key] = rule.split(":").map((part) => part.trim());
+      if (attribute && key) {
+        element.setAttribute(attribute, t(key));
+      }
+    }
+  });
+  elements.languageButtons.forEach((button) => {
+    const active = button.dataset.lang === state.language;
+    button.classList.toggle("is-active", active);
+    button.setAttribute("aria-pressed", String(active));
+  });
+}
+
+function refreshTranslatedState() {
+  applyStaticTranslations();
+  if (state.statusState) {
+    renderStatusState();
+  }
+  if (state.emptyState) {
+    renderEmptyState();
+  }
+  if (state.selectedName) {
+    updatePageMetadata(state.selectedName);
+    renderResults();
+  } else if (state.invalidQueryName) {
+    markCurrentQueryNoindex(state.invalidQueryName);
+  } else {
+    updatePageMetadata(null);
+  }
+  renderFavorites();
+}
+
+function setLanguage(language, options = {}) {
+  if (!SUPPORTED_LANGUAGES.has(language) || language === state.language) return;
+  state.language = language;
+  if (options.persist !== false) {
+    persistLanguage(language);
+    updateLanguageUrl(language);
+  }
+  refreshTranslatedState();
 }
 
 function optionalStorageAllowed() {
@@ -178,25 +386,41 @@ function persistFavorites(eventType, payload = {}) {
 async function loadJson(path) {
   const response = await fetch(path, { cache: "no-cache" });
   if (!response.ok) {
-    throw new Error(`${path} konnte nicht geladen werden`);
+    throw new Error(t("loadPathFailed", { path }));
   }
   return response.json();
 }
 
-function setStatus(message) {
-  elements.status.textContent = message;
+function renderStatusState() {
+  if (!state.statusState) return;
+  const { key, values } = state.statusState;
+  elements.status.textContent = hasTranslation(key) ? t(key, values) : key;
 }
 
-function setEmpty(message) {
-  elements.list.innerHTML = `<li class="empty-state">${message}</li>`;
-  elements.title.textContent = "Top 10";
+function setStatus(key, values = {}) {
+  state.statusState = { key, values };
+  renderStatusState();
+}
+
+function renderEmptyState() {
+  if (!state.emptyState) return;
+  const { key, values } = state.emptyState;
+  const message = hasTranslation(key) ? t(key, values) : key;
+  elements.list.innerHTML = `<li class="empty-state">${escapeHtml(message)}</li>`;
+  elements.title.textContent = t("topResults");
   elements.pageLabel.textContent = "0 / 0";
   elements.prev.disabled = true;
   elements.next.disabled = true;
 }
 
-function setMetricUnavailable(label = "Nicht geladen") {
-  elements.metric.innerHTML = `<option value="">${label}</option>`;
+function setEmpty(key, values = {}) {
+  state.emptyState = { key, values };
+  renderEmptyState();
+}
+
+function setMetricUnavailable(labelKey = "metricNotLoaded") {
+  const label = hasTranslation(labelKey) ? t(labelKey) : labelKey;
+  elements.metric.innerHTML = `<option value="">${escapeHtml(label)}</option>`;
   elements.metric.disabled = true;
 }
 
@@ -244,10 +468,8 @@ function setRobots(content) {
 }
 
 function updatePageMetadata(entry) {
-  const title = entry ? `${entry.name} – Ähnliche Namen | Nameling` : DEFAULT_PAGE_TITLE;
-  const description = entry
-    ? `Entdecke den Namen ${entry.name} und finde ähnliche Vornamen mit Nameling.`
-    : DEFAULT_PAGE_DESCRIPTION;
+  const title = entry ? t("nameTitle", { name: entry.name }) : t("defaultTitle");
+  const description = entry ? t("nameDescription", { name: entry.name }) : t("defaultDescription");
   const url = entry ? nameUrl(entry.name) : NAME_LINK_BASE;
 
   document.title = title;
@@ -260,9 +482,9 @@ function updatePageMetadata(entry) {
 }
 
 function markCurrentQueryNoindex(rawName) {
-  const titleName = rawName ? `${rawName} – Name nicht gefunden | Nameling` : DEFAULT_PAGE_TITLE;
+  const titleName = rawName ? t("notFoundTitle", { name: rawName }) : t("defaultTitle");
   document.title = titleName;
-  setMeta("description", "Dieser Name ist derzeit nicht im Nameling-Index enthalten.");
+  setMeta("description", t("notFoundDescription"));
   setCanonical(NAME_LINK_BASE);
   setRobots("noindex");
 }
@@ -519,15 +741,17 @@ async function searchName(rawName, options = {}) {
   const entry = resolveName(rawName);
   if (!entry) {
     state.selectedName = null;
+    state.invalidQueryName = rawName || "";
     state.results = [];
     state.page = 0;
     markCurrentQueryNoindex(rawName);
-    setStatus("Name nicht im Index gefunden.");
-    setEmpty("Kein Treffer.");
+    setStatus("nameNotFoundStatus");
+    setEmpty("noHit");
     return;
   }
 
   state.selectedName = entry;
+  state.invalidQueryName = "";
   updatePageMetadata(entry);
   if (options.updateUrl !== false) {
     updateNameUrl(entry, Boolean(options.replaceUrl));
@@ -536,7 +760,7 @@ async function searchName(rawName, options = {}) {
   state.page = 0;
   elements.input.value = entry.name;
   hideSuggestions();
-  setStatus(`Lade ${formatMetricLabel(state.selectedMetric)} für ${entry.name}...`);
+  setStatus("loadingMetric", { metric: formatMetricLabel(state.selectedMetric), name: entry.name });
   trackEvent("search", {
     searched_name: entry.name,
     searched_normalized: entry.normalized,
@@ -561,25 +785,26 @@ async function searchName(rawName, options = {}) {
     if (!state.results.length && lastError) {
       throw lastError;
     }
-    setStatus(`${state.results.length} Treffer für ${entry.name}.`);
+    setStatus("hitsForName", { count: state.results.length, name: entry.name });
     renderResults();
   } catch (error) {
     state.results = [];
     setStatus(error.message);
-    setEmpty("Daten fehlen für diese Metrik.");
+    setEmpty("missingMetricData");
   }
 }
 
 function renderResults() {
   if (!state.selectedName) {
-    setEmpty("Name eingeben.");
+    setEmpty("enterName");
     return;
   }
   if (!state.results.length) {
-    setEmpty("Keine ähnlichen Namen gefunden.");
+    setEmpty("noSimilarNames");
     return;
   }
 
+  state.emptyState = null;
   const maxPage = Math.max(Math.ceil(state.results.length / state.pageSize) - 1, 0);
   state.page = Math.min(Math.max(state.page, 0), maxPage);
   const start = state.page * state.pageSize;
@@ -600,7 +825,7 @@ function renderResults() {
             type="button"
             data-name="${escapeHtml(row.name)}"
             data-normalized="${escapeHtml(row.normalized)}"
-            aria-label="${isFavorite(row.normalized) ? "Favorit entfernen" : "Als Favorit speichern"}"
+            aria-label="${isFavorite(row.normalized) ? t("favoriteRemove") : t("favoriteAdd")}"
           >${isFavorite(row.normalized) ? "♥" : "♡"}</button>
           <span class="score">${formatScore(row.score)}</span>
         </li>
@@ -611,7 +836,7 @@ function renderResults() {
 
 function renderFavorites() {
   if (!state.favorites.length) {
-    elements.favorites.innerHTML = `<li class="favorite-empty">Noch keine Favoriten.</li>`;
+    elements.favorites.innerHTML = `<li class="favorite-empty">${escapeHtml(t("noFavorites"))}</li>`;
     elements.clearFavorites.disabled = true;
     return;
   }
@@ -623,7 +848,7 @@ function renderFavorites() {
         <li class="favorite-item" draggable="true" data-normalized="${escapeHtml(entry.normalized)}">
           <span class="drag-handle" aria-hidden="true">↕</span>
           <a class="favorite-name" href="${escapeHtml(nameUrl(entry.name))}" data-name="${escapeHtml(entry.name)}" data-normalized="${escapeHtml(entry.normalized)}">${escapeHtml(entry.name)}</a>
-          <button class="favorite-remove" type="button" data-normalized="${escapeHtml(entry.normalized)}" aria-label="Favorit entfernen">×</button>
+          <button class="favorite-remove" type="button" data-normalized="${escapeHtml(entry.normalized)}" aria-label="${escapeHtml(t("favoriteRemove"))}">×</button>
         </li>
       `,
     )
@@ -632,11 +857,9 @@ function renderFavorites() {
 
 async function bootstrap() {
   if (window.location.protocol === "file:") {
-    setMetricUnavailable("Per HTTP öffnen");
-    setStatus(
-      "Die JSON-Daten können nicht per Doppelklick geladen werden. Bitte im Projektordner starten: python -m http.server 8000 --directory docs",
-    );
-    setEmpty("Dann http://localhost:8000 öffnen.");
+    setMetricUnavailable("openHttp");
+    setStatus("fileStatus");
+    setEmpty("fileEmpty");
     return;
   }
 
@@ -656,20 +879,20 @@ async function bootstrap() {
       elements.metric.value = requestedMetric;
       state.selectedMetric = requestedMetric;
     }
-    setStatus(`${state.names.length} Namen geladen.`);
-    setEmpty("Name eingeben.");
+    setStatus("namesLoaded", { count: state.names.length });
+    setEmpty("enterName");
     const requestedName = params.get("q");
     if (requestedName) {
       await searchName(requestedName, { replaceUrl: true });
     }
   } catch (error) {
-    setMetricUnavailable("Index fehlt");
+    setMetricUnavailable("missingIndex");
     setStatus(
       error instanceof TypeError
-        ? "JSON-Daten konnten nicht geladen werden. Bitte per lokalem Webserver oder GitHub Pages öffnen."
+        ? "jsonLoadFailed"
         : error.message,
     );
-    setEmpty("Index fehlt.");
+    setEmpty("missingIndex");
   }
 }
 
@@ -793,6 +1016,12 @@ elements.consentDeny?.addEventListener("click", () => {
   applyConsent("denied");
 });
 
+elements.languageButtons.forEach((button) => {
+  button.addEventListener("click", () => {
+    setLanguage(button.dataset.lang || "de");
+  });
+});
+
 elements.prev.addEventListener("click", () => {
   state.page -= 1;
   renderResults();
@@ -805,12 +1034,23 @@ elements.next.addEventListener("click", () => {
 
 window.addEventListener("popstate", () => {
   const params = new URLSearchParams(window.location.search);
+  const requestedLanguage = params.get("lang");
+  if (SUPPORTED_LANGUAGES.has(requestedLanguage) && requestedLanguage !== state.language) {
+    state.language = requestedLanguage;
+    refreshTranslatedState();
+  }
   const requestedName = params.get("q");
   if (requestedName) {
     searchName(requestedName, { updateUrl: false });
+  } else {
+    state.selectedName = null;
+    state.invalidQueryName = "";
+    updatePageMetadata(null);
   }
 });
 
+state.language = initialLanguage();
+applyStaticTranslations();
 setupDebugMode();
 setupConsent();
 setupSession();

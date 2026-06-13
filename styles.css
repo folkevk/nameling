@@ -618,6 +618,38 @@ body.debug-on .score {
   color: #24492a;
 }
 
+.language-switch {
+  min-height: 34px;
+  display: inline-grid;
+  grid-template-columns: 1fr 1fr;
+  overflow: hidden;
+  border: 1px solid var(--line);
+  border-radius: 999px;
+  background: rgba(255, 255, 255, 0.8);
+}
+
+.language-button {
+  min-width: 42px;
+  min-height: 32px;
+  border-radius: 0;
+  background: transparent;
+  color: var(--soft-ink);
+  padding: 0 10px;
+  font-size: 13px;
+  font-weight: 800;
+}
+
+.language-button:hover:not(:disabled) {
+  transform: none;
+  background: var(--green-soft);
+  color: #24492a;
+}
+
+.language-button.is-active {
+  background: var(--green-soft);
+  color: #24492a;
+}
+
 .site-nav .nav-search-link {
   border-color: rgba(79, 143, 58, 0.32);
   background: var(--green);
