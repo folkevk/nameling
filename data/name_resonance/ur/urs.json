@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "lateinischer Ursprung",
+    "Bedeutung: Bär",
+    "schweizerische Form von Ursus",
+    "Heiliger Ursus",
+    "Namenstag",
+    "selten in Deutschland",
+    "knackiger Kurzname"
+  ],
+  "confidence": 0.8,
+  "display_text": "Urs ist in Deutschland eher selten und wirkt kurz, klar und traditionell. In der vorliegenden Evidenz wird der Name überwiegend neutral bis freundlich gesehen, mit leichter positiver Klangwirkung. Die Aussagen beruhen aber vor allem auf Namenslexika und wenigen Kommentaren, also nur begrenzt auf repräsentativer öffentlicher Resonanz.",
+  "evidence_quality": "mittel bis gut: zwei klar namenskundliche Quellen, aber nur begrenzte echte öffentliche Resonanz und wenig breit repräsentative Meinungslage.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Urs",
+  "normalized_name": "urs",
+  "overall_resonance": "Der Vorname Urs wirkt in der öffentlichen Namenswahrnehmung eher selten, kurz und klar; er wird meist neutral bis freundlich beschrieben, mit einer leichten positiven Klangresonanz.",
+  "practical_notes": [
+    "Für Namenssuchende ist Urs ein sehr kurzer, traditioneller und gut merkbarer Name.",
+    "Die Seltenheit in Deutschland kann als individuell wahrgenommen werden, aber auch als ungewohnt.",
+    "Die Herkunfts- und Bedeutungsbezüge sind klar und gut dokumentiert."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist überwiegend lexikalisch und nur begrenzt repräsentativ für öffentliche Meinung.",
+    "Positive Einschätzungen stammen teils aus subjektiven Kommentaren und sollten nicht verallgemeinert werden.",
+    "Keine belastbaren Hinweise auf soziale Stigmatisierung in der vorliegenden Evidenz."
+  ],
+  "short_summary": "Urs wird in Deutschland als seltener, kurzer und eher positiv oder neutral wahrgenommener Vorname beschrieben, mit klarer Herkunfts- und Bedeutungsdeutung; die öffentliche Resonanz ist jedoch nur eingeschränkt belegt.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Urs � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/U/Ur/Urs/"
+    },
+    {
+      "confidence": 0.89,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Urs: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Urs.html"
+    }
+  ],
+  "style_effect": [
+    "kurz und prägnant",
+    "eher markant durch Seltenheit",
+    "schlicht, sachlich und traditionell wirkend",
+    "lexikalisch geprägt",
+    "leicht schweizerisch assoziiert"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland scheint Urs eher wenig verbreitet und dadurch auffällig, aber nicht stark stigmatisiert. Die sichtbare Resonanz stammt vor allem aus Namenslexika und eher begrenzten Kommentaren, also mit eingeschränkter Aussagekraft für die Gesamtöffentlichkeit."
+}

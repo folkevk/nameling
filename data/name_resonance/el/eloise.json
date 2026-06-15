@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "französische Form von Heloise",
+    "althochdeutsche Herkunft",
+    "Bedeutung: die Gesunde / die Unversehrte",
+    "mögliche Verbindung zu Holz/Wald",
+    "Namenstag am 15. März",
+    "seltenere, aber bekannte Namensform"
+  ],
+  "confidence": 0.76,
+  "display_text": "Eloise wirkt in Deutschland überwiegend positiv besetzt: melodisch, elegant und eher selten, mit klarer französisch/europäischer Anmutung. Die Datenlage ist jedoch begrenzt und vor allem namenkundlich statt breit öffentlich.",
+  "evidence_quality": "mittel bis schwach: zwei überwiegend namenkundliche Webquellen mit begrenzter öffentlicher Resonanz, wenig unabhängige Breite",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Eloise",
+  "normalized_name": "eloise",
+  "overall_resonance": "Eloise wird in den vorliegenden deutschsprachigen Namensquellen überwiegend freundlich und elegant wahrgenommen. Die Resonanz wirkt eher positiv, zugleich sachlich-namenskundlich geprägt; die öffentliche Rezeption ist aber nur begrenzt belastbar.",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt Eloise in Deutschland klangvoll und markant, ohne stark polarisierend zu sein.",
+    "Die Schreibweise ist international anschlussfähig, kann im deutschen Alltag aber gelegentlich nachgefragt werden.",
+    "Die Wahrnehmung ist eher stil- als trendgetrieben als durch klare Massenpopularität."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz basiert vor allem auf wenigen Namenslexikon- und Portalquellen.",
+    "Öffentliche Resonanz ist nur indirekt über Namensbeschreibungen und Beliebtheitsangaben erkennbar.",
+    "Es gibt keine robuste breite Umfrage- oder Sozialdatenlage in den vorliegenden Quellen."
+  ],
+  "short_summary": "Eloise wird in den vorliegenden Quellen meist als schöner, melodischer und eher eleganter Vorname beschrieben. Die öffentliche Rezeption wirkt insgesamt positiv, aber die Evidenz ist begrenzt.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.92,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Eloise � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/E/El/Eloise/"
+    },
+    {
+      "confidence": 0.92,
+      "is_name_discussion": true,
+      "sentiment": "mostly positive",
+      "source_type": "web",
+      "title": "&#9655; Vorname Eloise: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Eloise.html"
+    }
+  ],
+  "style_effect": [
+    "melodisch",
+    "französisch/europäisch anmutend",
+    "elegant",
+    "klassisch-gehoben",
+    "sanft und feminin",
+    "namenskundlich interessant"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Im deutschsprachigen Raum eher bekannt als stilvoller, eher seltener Vorname; die Sichtbarkeit wirkt vorhanden, aber nicht dominant."
+}

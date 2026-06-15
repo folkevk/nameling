@@ -1,0 +1,68 @@
+{
+  "associations": [
+    "Bedeutung wird häufig als „der Liebenswerte“, „der Anmutige“ oder ähnlich beschrieben",
+    "alternative Deutung im Japanischen: „schöner Kirschbaum“",
+    "Bezug zu Astrid Lindgrens „Mio, mein Mio“",
+    "teilweise als Kurzform slawischer Namen erklärt",
+    "in Deutschland als Vorname bekannt und teils beliebt"
+  ],
+  "confidence": 0.89,
+  "display_text": "Mio wirkt in Deutschland meist freundlich, modern und kurz. Der Name wird teils als unisex und eher selten wahrgenommen, mit unterschiedlichen Herleitungen und der bekannten Assoziation zu „Mio, mein Mio“. Die öffentliche Evidenz ist dabei vor allem lexikalisch und nicht auf eine breite Debatte gestützt.",
+  "evidence_quality": "Gut für namenskundliche Grunddaten, aber begrenzt für echte öffentliche Debatten oder breitere gesellschaftliche Wahrnehmung. Die Quellen sind sachlich, teilweise positiv, jedoch fast ausschließlich namenslexikalisch.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Mio",
+  "normalized_name": "mio",
+  "overall_resonance": "In der öffentlichen Namenswahrnehmung wirkt Mio überwiegend positiv, modern und freundlich. Der Name wird meist als kurz, weich klingend und eher selten wahrgenommen, teils auch als geschlechtsneutral bzw. unisex. Die Herkunft wird unterschiedlich beschrieben, was auf eine gewisse Mehrdeutigkeit in der Deutung hinweist.",
+  "practical_notes": [
+    "Für Suchmaschinen-Nutzer ist Mio vor allem als kurzer, markanter und freundlich wirkender Name auffindbar.",
+    "Die Name-zu-Name-Verknüpfung mit „Mio, mein Mio“ kann die Wiedererkennbarkeit erhöhen.",
+    "Wegen der unterschiedlichen Herleitungen sollte man den Namen eher vorsichtig als eindeutig einer einzigen Herkunft zuordnen."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist überwiegend datenbank- und lexikonbasiert, nicht diskussionsstark oder breit gesellschaftlich belegt.",
+    "Herkunfts- und Bedeutungsangaben sind teils unterschiedlich; das spricht für Mehrdeutigkeit statt für eine eindeutige Einordnung.",
+    "Wahrnehmungen zu Beliebtheit oder Geschlechtszuordnung können je nach Quelle und Kontext variieren."
+  ],
+  "short_summary": "Mio wird in Deutschland überwiegend freundlich, modern und kurz wahrgenommen; der Name gilt teils als unisex und ist namenskundlich durch mehrere mögliche Herleitungen geprägt.",
+  "source_count": 3,
+  "sources": [
+    {
+      "confidence": 0.95,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Mio � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/M/Mi/Mio/"
+    },
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "positive",
+      "source_type": "web",
+      "title": "Vorname Mio � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/M/Mi/Mio/"
+    },
+    {
+      "confidence": 0.94,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Mio: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Mio.html"
+    }
+  ],
+  "style_effect": [
+    "kurz und prägnant",
+    "weich und freundlich im Klang",
+    "modern bis zeitlos",
+    "eher selten",
+    "teils unisex / geschlechtsneutral wahrgenommen",
+    "namenskundlich auffällig durch Mehrdeutigkeit der Herkunft"
+  ],
+  "usable_evidence_count": 3,
+  "visibility": "Mäßig sichtbar: Mio erscheint in deutschen Namensdatenbanken und wird dort vergleichsweise oft erklärt und eingeordnet. Eine breite öffentliche Debatte ist jedoch nicht erkennbar; die Evidenz stammt vor allem aus Namenslexika und ähnlichen Quellen."
+}

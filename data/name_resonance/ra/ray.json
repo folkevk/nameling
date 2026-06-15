@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "Kurzform von Raymond/Raimund",
+    "Bedeutungen wie Rat, Schutz oder Beschützer",
+    "englisch und althochdeutsch geprägte Namensdeutung",
+    "männlicher Vorname",
+    "Namenstag in einzelnen Quellen genannt",
+    "in Deutschland eher selten, aber bekannt"
+  ],
+  "confidence": 0.82,
+  "display_text": "Ray wirkt in Deutschland eher selten, aber klar und international. Die vorliegenden Quellen beschreiben den Namen überwiegend positiv-sachlich: kurz, modern und mit Bedeutungen wie „Ratgeber“ oder „Beschützer“. Eine öffentliche Kontroverse ist nicht erkennbar; die Evidenz basiert jedoch vor allem auf Namenslexika und ist daher nur mittel belastbar.",
+  "evidence_quality": "mittel bis schwach",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Ray",
+  "normalized_name": "ray",
+  "overall_resonance": "Überwiegend positiv bis neutral-sachlich. Ray wird in den vorliegenden Namensquellen als kurzer, international wirkender Vorname mit klarer Bedeutungs- und Herkunftsdeutung beschrieben; eine breite öffentliche Kontroverse ist nicht erkennbar.",
+  "practical_notes": [
+    "Für Suchende wirkt Ray kurz, klar und international.",
+    "In Deutschland kann der Name durch seine Seltenheit etwas auffallen, bleibt aber gut verständlich.",
+    "Die Quellenlage spricht eher für eine nüchterne, positive Grundwirkung als für starke Mode- oder Trendspitzen."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist eher mittel bis schwach, da sie vor allem aus Namenslexika und datenorientierten Seiten stammt.",
+    "Es zeigt sich keine starke öffentliche Debatte oder Stigmatisierung; die Wahrnehmung ist daher nur vorsichtig ableitbar.",
+    "Einige Angaben variieren je nach Quelle, etwa bei Herkunfts- und Namenstagsdetails."
+  ],
+  "short_summary": "Ray wird in den vorliegenden Quellen meist sachlich und positiv beschrieben: kurz, international, selten in Deutschland und mit Deutungen wie Schutz oder Ratgeber verbunden.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.9,
+      "is_name_discussion": true,
+      "sentiment": "positive",
+      "source_type": "web",
+      "title": "Vorname Ray � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/R/Ra/Ray/"
+    },
+    {
+      "confidence": 0.95,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Ray: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Ray.html"
+    }
+  ],
+  "style_effect": [
+    "kurz und prägnant",
+    "international klingend",
+    "modern-lexikalisch",
+    "sachlich-informativ",
+    "eher selten als massenhaft verbreitet"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Eher gering bis mittel in Deutschland: Der Name wird als selten, aber vergeben beschrieben. In der öffentlichen Wahrnehmung wirkt er eher als spezieller, moderner Kurzname als als sehr verbreiteter Standardname."
+}

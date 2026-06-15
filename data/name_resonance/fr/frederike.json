@@ -1,0 +1,63 @@
+{
+  "associations": [
+    "althochdeutsche Herkunft",
+    "weibliche Form von Frederik/Friederike",
+    "Bedeutung in Richtung Frieden/Herrschaft",
+    "deutscher Mädchenname",
+    "seltenere Namenswahl",
+    "Namenstag",
+    "Kurzform Rike",
+    "mögliche Spitznamen und Kosenamen"
+  ],
+  "confidence": 0.89,
+  "display_text": "Frederike: klassisch-deutsch, eher selten und meist positiv oder neutral wahrgenommen; verbunden mit Herkunftsdeutung, Frieden-Motiven und der Kurzform Rike.",
+  "evidence_quality": "Gut bis sehr gut: zwei starke namenkundliche Quellen, überwiegend neutral bis positiv, mit klaren Angaben zu Herkunft, Bedeutung und Seltenheit.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Frederike",
+  "normalized_name": "frederike",
+  "overall_resonance": "Frederike wirkt öffentlich überwiegend klassisch, deutsch und freundlich-konservativ, mit einer eher ruhigen als modischen Ausstrahlung. Der Name wird meist positiv oder neutral beschrieben; zugleich gilt er als сравнительно selten und damit etwas markanter.",
+  "practical_notes": [
+    "Gut lesbar und eindeutig als traditioneller Vorname erkennbar.",
+    "Durch die Länge etwas formeller; Kurzformen wie Rike kommen als alltagstaugliche Variante vor.",
+    "Für Suchmaschinen wirkt der Name stark namenkundlich und klar deutsch verortet."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die öffentliche Wahrnehmung scheint eher von Namenslexika und Namensseiten geprägt zu sein als von breiter Alltagsverwendung.",
+    "Seltenheit kann je nach Umfeld als besonders, aber auch als etwas altmodisch wahrgenommen werden; das ist eine kulturelle Einschätzung, keine feste Eigenschaft."
+  ],
+  "short_summary": "Frederike wird öffentlich meist als klassischer, seltener und eher positiv besetzter deutscher Vorname wahrgenommen.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.99,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Frederike � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/F/Fr/Frederike/"
+    },
+    {
+      "confidence": 0.94,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Frederike: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Frederike.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "traditionell",
+    "deutschsprachig",
+    "elegant",
+    "zeitlos",
+    "leicht altmodisch",
+    "seltenheitsbetont"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Eher selten bis mittel-selten in DE; dadurch gut erkennbar, aber nicht alltäglich."
+}

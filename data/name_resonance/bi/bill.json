@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "Kurzform von William/Wilhelm",
+    "Bedeutung im Sinne von Beschützer/Verteidiger",
+    "englische Namensform",
+    "selten in Deutschland",
+    "Namenstag",
+    "lexikalisch-informative Wahrnehmung"
+  ],
+  "confidence": 0.88,
+  "display_text": "Bill wirkt in Deutschland eher selten und international. Die öffentliche Resonanz ist überwiegend neutral bis leicht positiv, mit einer sachlich-informativen Wahrnehmung als kurze, englisch geprägte Namensform.",
+  "evidence_quality": "mäßig bis gut: zwei passende Namensquellen, aber überwiegend lexikalisch und nicht als breite öffentliche Debatte.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Bill",
+  "normalized_name": "bill",
+  "overall_resonance": "Bill wirkt in den vorliegenden Quellen überwiegend sachlich, kurz und international. In Deutschland wird der Name eher als selten und als englische Kurzform wahrgenommen als als klassischer deutscher Vorname. Die öffentliche Resonanz erscheint neutral bis leicht positiv, vor allem durch die klare, unkomplizierte Klangwirkung und die bekannte Namensherkunft.",
+  "practical_notes": [
+    "Für deutsche Ohren wirkt Bill eher international als traditionell deutsch.",
+    "Durch die Kürze ist der Name sehr einprägsam, kann aber auch als Spitzname verstanden werden.",
+    "Wer einen seltenen, klaren und unkomplizierten Namen sucht, findet hier eine eher nüchterne, aber markante Option."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz zur öffentlichen Resonanz ist begrenzt und stark informationsorientiert.",
+    "Keine belastbare Aussage zu breiter gesellschaftlicher Bewertung ableitbar.",
+    "Die Quellen nennen Beliebtheit und Herkunft, aber keine unabhängige öffentliche Meinungsbildung."
+  ],
+  "short_summary": "Bill wird in Deutschland eher als seltener, englisch geprägter und unkomplizierter Vorname wahrgenommen. Die Resonanz ist überwiegend neutral bis leicht positiv, bei begrenzter öffentlicher Evidenz.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Bill � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/B/Bi/Bill/"
+    },
+    {
+      "confidence": 0.94,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Bill: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Bill.html"
+    }
+  ],
+  "style_effect": [
+    "kurz und prägnant",
+    "international klingend",
+    "englisch geprägt",
+    "eher Spitzname/Koseform als Vollname",
+    "modern-unaufgeregt",
+    "in Deutschland ungewöhnlich"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Eher geringe Sichtbarkeit in Deutschland; der Name wird in den Quellen als selten beschrieben. Die öffentliche Wahrnehmung stammt vor allem aus Namenslexika und weniger aus breiter Alltagsnutzung oder öffentlicher Debatte."
+}

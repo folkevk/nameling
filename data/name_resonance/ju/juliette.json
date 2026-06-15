@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "französische Verkleinerungsform von Julia",
+    "lateinischer Ursprung",
+    "Bedeutung: dem Jupiter geweiht / aus dem Geschlecht der Julier",
+    "weiblicher Vorname",
+    "Namenstag",
+    "seltene, aber bekannte Variante"
+  ],
+  "confidence": 0.8,
+  "display_text": "Juliette wirkt in Deutschland eher elegant, französisch und selten. Die vorliegende Evidenz zeigt eine überwiegend positive bis neutrale Resonanz, ist aber nur begrenzt belastbar und vor allem namenskundlich geprägt.",
+  "evidence_quality": "mittel bis schwach: überwiegend namenskundliche Quellen, wenig echte öffentliche Resonanz",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Juliette",
+  "normalized_name": "juliette",
+  "overall_resonance": "Juliette wird in der vorliegenden Evidenz eher freundlich und elegant wahrgenommen, mit einem klaren französisch-romantischen Klang. Die Resonanz ist insgesamt positiv bis neutral, aber die öffentliche Evidenz ist begrenzt und überwiegend deskriptiv statt breit diskutiert.",
+  "practical_notes": [
+    "Für Deutschland wirkt Juliette stilvoll und leicht international.",
+    "Die Schreibweise ist klar, kann aber gelegentlich zu Nachfragen bei Aussprache oder Herkunft führen.",
+    "Durch die Seltenheit hat der Name einen individuellen Charakter, bleibt aber gut einordbar."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt vor allem aus Namenslexika und einzelnen Kommentaren, nicht aus einer breiten öffentlichen Debatte.",
+    "Aussagen zur Wahrnehmung sollten vorsichtig gelesen werden, da sie nicht auf repräsentativen Daten beruhen.",
+    "Hinweise zu Aussprache oder Komplimenten sind anekdotisch und nicht verallgemeinerbar."
+  ],
+  "short_summary": "Juliette wird in der verfügbaren Evidenz meist als eleganter, französisch geprägter und eher seltener Vorname mit positiver bis neutraler Wirkung beschrieben.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.89,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Juliette � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/J/Ju/Juliette/"
+    },
+    {
+      "confidence": 0.95,
+      "is_name_discussion": true,
+      "sentiment": "überwiegend positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Juliette: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Juliette.html"
+    }
+  ],
+  "style_effect": [
+    "französisch",
+    "elegant",
+    "romantisch",
+    "weich klingend",
+    "klassisch mit moderner Note",
+    "eher selten"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland eher bekannt, aber nicht sehr häufig. Dadurch wirkt der Name auffällig, ohne stark alltäglich zu sein."
+}

@@ -1,0 +1,59 @@
+{
+  "associations": [
+    "Kurzform bzw. Bezug zu Lorenz",
+    "lateinischer Ursprung über Laurentius",
+    "Lorbeer und Namenstag",
+    "Frühling als zusätzliche Wortassoziation",
+    "selten bis moderat verwendet in Deutschland"
+  ],
+  "confidence": 0.83,
+  "display_text": "Lenz wirkt im Deutschen eher sachlich-neutral und leicht positiv konnotiert. Der Name ist bekannt, aber eher selten bis moderat verwendet. Die vorliegende Evidenz stammt vor allem aus Namenslexika, daher ist die öffentliche Resonanz nur vorsichtig zu bewerten.",
+  "evidence_quality": "mittel bis schwach für öffentliche Resonanz; gut für Bedeutung, Herkunft und lexikalische Einordnung",
+  "generated_at": "2026-06-14T10:47:41Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Lenz",
+  "normalized_name": "lenz",
+  "overall_resonance": "Eher sachlich-neutral mit leichter positiver Nebenwirkung durch die Bedeutungsebene; keine starke emotionale öffentliche Prägung erkennbar.",
+  "practical_notes": [
+    "Für Suchmaschinen-Texte eignet sich eine vorsichtige Formulierung wie: sachlich, traditionell, selten bis moderat gebräuchlich.",
+    "Die Namenswirkung lässt sich am ehesten über Herkunft und positive Natur-/Frühlingsassoziationen beschreiben.",
+    "Nicht als stark trendiger Name darstellen; die Datenlage spricht eher für ruhige, begrenzte Präsenz."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt vor allem aus Namenslexika; das ist nützlich, aber nur begrenzt aussagekräftig für echte öffentliche Resonanz.",
+    "Beliebtheitsangaben können die Wahrnehmung stärker wirken lassen, als es die gesellschaftliche Präsenz tatsächlich hergibt.",
+    "Es gibt keine belastbare Hinweise auf eine ausgeprägte soziale Stigmatisierung oder klare Modesignale."
+  ],
+  "short_summary": "Lenz wird überwiegend sachlich-neutral wahrgenommen, mit leicht positiver Assoziation über Herkunft und Bedeutung. Der Name ist in Deutschland eher selten bis moderat präsent; die öffentliche Resonanz ist auf Basis der vorliegenden Quellen nur begrenzt belegt.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.94,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Lenz � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/L/Le/Lenz/"
+    },
+    {
+      "confidence": 0.94,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Lenz: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Lenz.html"
+    }
+  ],
+  "style_effect": [
+    "kurz und prägnant",
+    "traditionell-kantig",
+    "natur- und jahreszeitlich assoziierbar",
+    "eher nüchtern als modern",
+    "namenskundlich aufgeladen"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Im deutschsprachigen Raum bekannt, aber eher selten bis moderat verwendet. Die öffentliche Sichtbarkeit wirkt vor allem lexikalisch und namenskundlich, weniger breit gesellschaftlich diskutiert."
+}

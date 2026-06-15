@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "Kurzform von Alessandra",
+    "altgriechischer Ursprung",
+    "Bedeutung: Beschützerin / Verteidigerin",
+    "früher sehr beliebt in Deutschland",
+    "heute deutlich seltener",
+    "Namenstag am 2. April",
+    "Spitznamen wie Sandy oder Sunny"
+  ],
+  "confidence": 0.88,
+  "display_text": "Sandra wirkt in Deutschland als klassischer, vertrauter Vorname mit eher positiver bis neutraler Resonanz. Die Quellen betonen vor allem Herkunft, Bedeutung und frühere Beliebtheit; heute erscheint der Name etwas seltener, bleibt aber klar bekannt und leicht zugänglich.",
+  "evidence_quality": "gut für Herkunft, Bedeutung und allgemeine Namenswirkung; mittel für tatsächliche öffentliche Meinungsbilder, da überwiegend Lexikon- und Beschreibungsquellen vorliegen.",
+  "generated_at": "2026-06-12T06:08:03Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Sandra",
+  "normalized_name": "sandra",
+  "overall_resonance": "Sandra wird in den vorliegenden Quellen überwiegend als klassischer, weiblicher Vorname mit positiver bis neutraler Grundwirkung beschrieben. Die öffentliche Wahrnehmung scheint stark von Herkunft, Bedeutung und der früheren Beliebtheit geprägt zu sein, weniger von aktuellen Trend- oder Image-Debatten.",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt Sandra unkompliziert, etabliert und gut verständlich.",
+    "Der Name vermittelt eher klassische als trendige Anmutung.",
+    "Die öffentliche Resonanz ist insgesamt eher freundlich-neutral mit leicht positivem Einschlag."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist vor allem lexikalisch und beschreibend; direkte öffentliche Meinungsäußerungen sind nur begrenzt enthalten.",
+    "Aussagen zur Beliebtheit beruhen auf den jeweiligen Quellen und sollten vorsichtig gelesen werden.",
+    "Die angegebene mögliche Deutung als „Verführerin“ erscheint als Nebenlesart und nicht als dominante öffentliche Assoziation."
+  ],
+  "short_summary": "Sandra wird in den Quellen als klassischer, gut bekannter Vorname mit positiver bis neutraler Wirkung beschrieben. Der Name ist historisch beliebt, heute aber seltener, und wird vor allem mit der Bedeutung „Beschützerin/Verteidigerin“ verbunden.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "mixed",
+      "source_type": "web",
+      "title": "Vorname Sandra � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/S/Sa/Sandra/"
+    },
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Sandra: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Sandra.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "zeitlos",
+    "weiblich",
+    "namenskundlich aufgeladen",
+    "eher vertraut als modern-experimentell"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland gut bekannt, aber heute offenbar seltener als in früheren Jahrzehnten. Der Name wirkt weiterhin vertraut und leicht einordenbar."
+}

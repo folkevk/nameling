@@ -1,0 +1,59 @@
+{
+  "associations": [
+    "Bedeutung wird mit \"die Freie\" bzw. \"die Tüchtige\" verbunden",
+    "althochdeutsche Herkunft, Ableitung zu Karl/Charles",
+    "Verwandtschaft zu Charlotte bzw. Carlotta",
+    "Namenstag und Namensbedeutung werden häufig erwähnt",
+    "teilweise als schön, kraftvoll oder frech beschrieben"
+  ],
+  "confidence": 0.82,
+  "display_text": "Karlotta wirkt in der vorliegenden Evidenz überwiegend neutral bis leicht positiv: ein seltener, altdeutsch geprägter und zugleich modern klingender Vorname. Die Quellen sind vor allem namenkundliche Seiten, daher ist die öffentliche Resonanz nur eingeschränkt belegt.",
+  "evidence_quality": "Mittel bis eher schwach: klare Namensbeschreibungen vorhanden, aber kaum unabhängige öffentliche Resonanz oder breite Diskussionslage.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Karlotta",
+  "normalized_name": "karlotta",
+  "overall_resonance": "Die öffentliche Wahrnehmung von \"Karlotta\" wirkt überwiegend neutral bis leicht positiv. Der Name wird vor allem sachlich-namenkundlich beschrieben, mit etwas modernem und klangvollem Eindruck. Eine echte breite öffentliche Debatte ist in der vorliegenden Evidenz jedoch nur eingeschränkt erkennbar.",
+  "practical_notes": [
+    "Für Suchende kann der Name als selten, klassisch verwurzelt und zugleich modern lesbar erscheinen.",
+    "Die Schreibweise mit -otta wirkt markant und unterscheidet sich von der häufigeren Form Charlotte.",
+    "Aufgrund der begrenzten Evidenz sollte die Einschätzung eher vorsichtig als endgültig verstanden werden."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt vor allem aus Namensdatenbanken mit Eigenbeschreibung, nicht aus einer unabhängigen Resonanzmessung.",
+    "Ein Teil der positiven Wirkung basiert auf einzelnen Kommentaren; daraus lässt sich keine allgemeine Mehrheitsmeinung ableiten.",
+    "Keine belastbaren Hinweise auf soziale Stigmatisierung in den Quellen."
+  ],
+  "short_summary": "Karlotta wird überwiegend sachlich und leicht positiv wahrgenommen: ein seltener, altdeutsch geprägter Name mit modernem Klang. Die öffentliche Resonanz ist jedoch nur begrenzt belegt.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.88,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Karlotta � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/K/Ka/Karlotta/"
+    },
+    {
+      "confidence": 0.86,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Karlotta: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Karlotta.html"
+    }
+  ],
+  "style_effect": [
+    "altdeutsch und traditionell wirkend",
+    "modern-klangvoll",
+    "selten, dadurch auffällig",
+    "weich, aber zugleich eigenständig",
+    "nahe an Charlotte/Carotta wahrgenommen"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Eher mittlere bis geringe öffentliche Sichtbarkeit: Der Name taucht in Namensdatenbanken und vereinzelten Kommentaren auf, aber die Evidenz zeigt keine breite, unabhängige Resonanzmessung."
+}

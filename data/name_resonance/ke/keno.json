@@ -1,0 +1,62 @@
+{
+  "associations": [
+    "friesische Form von Kuno",
+    "Kurzform von Konrad",
+    "althochdeutsche Herkunft",
+    "Bedeutung in Richtung „kühner/guter Ratgeber“",
+    "Norddeutsch/Ostfriesisch",
+    "modern und beliebt beschrieben",
+    "eher selten"
+  ],
+  "confidence": 0.77,
+  "display_text": "Keno wirkt in den verfügbaren Quellen überwiegend positiv: modern, wohlklingend und eher selten, mit friesisch-norddeutscher Herkunft. Die Evidenz ist allerdings begrenzt, daher sollte die öffentliche Resonanz vorsichtig interpretiert werden.",
+  "evidence_quality": "Begrenzt: wenige, klar namenbezogene, überwiegend positive Lexikon-/Namensseiten; gute Relevanz, aber geringe Breite.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Keno",
+  "normalized_name": "keno",
+  "overall_resonance": "Überwiegend positiv und freundlich-klar; Keno wirkt in den Quellen modern, wohlklingend und eher selten, mit einer leichten norddeutsch/friesischen Prägung.",
+  "practical_notes": [
+    "Für eine Namenssuche ist Keno ein kurzer, markanter Vorname mit positiver Grundwirkung.",
+    "Die Quellen betonen Herkunft und Klang stärker als eine breite öffentliche Debatte.",
+    "Wer Wert auf regionale Färbung legt, findet bei Keno eine deutliche friesisch-norddeutsche Assoziation."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist dünn und stützt sich im Wesentlichen auf zwei namenskundliche Webquellen.",
+    "Aussagen zur allgemeinen öffentlichen Wahrnehmung sind deshalb nur vorsichtig zu interpretieren.",
+    "Keine belastbaren Hinweise auf soziale Stigmatisierung oder negative Stereotype in den Quellen."
+  ],
+  "short_summary": "Keno wird meist als moderner, wohlklingender und eher seltener Vorname mit friesisch-norddeutscher Prägung wahrgenommen.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "Vorname Keno � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/K/Ke/Keno/"
+    },
+    {
+      "confidence": 0.92,
+      "is_name_discussion": true,
+      "sentiment": "positive",
+      "source_type": "web",
+      "title": "&#9655; Vorname Keno: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Keno.html"
+    }
+  ],
+  "style_effect": [
+    "kurz",
+    "prägnant",
+    "modern wirkend",
+    "wohlklingend",
+    "norddeutsch/friesisch assoziiert",
+    "selten, aber vertraut klingend"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Eher gering bis mittel: Der Name wird in Namenslexika und auf Namensseiten erwähnt, aber die öffentlich belegte Resonanz ist nur aus wenigen Quellen ableitbar."
+}

@@ -1,0 +1,63 @@
+{
+  "associations": [
+    "lateinischer Ursprung",
+    "Bedeutung: „der Goldene“",
+    "Kurzform/Verwandtschaft zu Aurelius",
+    "römischer Familienname",
+    "Namenstag",
+    "selten bis moderat verbreitet",
+    "individuell wirkend"
+  ],
+  "confidence": 0.89,
+  "display_text": "Aurel wird öffentlich meist positiv und sachlich wahrgenommen: ein klassisch-lateinischer, eher seltener Vorname mit der Bedeutung „der Goldene“. Die Evidenz ist solide, aber vor allem auf Namensportale begrenzt.",
+  "evidence_quality": "Gut, aber quellenarm: zwei einschlägige Namensportale mit überwiegend neutraler bis positiver Darstellung; keine breite öffentliche Kontroverse sichtbar.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Aurel",
+  "normalized_name": "aurel",
+  "overall_resonance": "Eher positiv und sachlich-informativ. Aurel wird in der öffentlichen Namensbeschreibung meist als eleganter, klassisch-lateinischer Vorname mit der Bedeutung „der Goldene“ wahrgenommen; die Tonlage ist überwiegend wohlwollend, ohne starke Kontroversen.",
+  "practical_notes": [
+    "Für Suchmaschinen-Nutzer ist Aurel ein Name mit klarer, positiver Grundbedeutung und klassischem Klang.",
+    "Die Wahrnehmung ist eher stilistisch als sozial aufgeladen; es gibt keine Hinweise auf eine starke Stigmatisierung.",
+    "Wenn du eine moderne, aber nicht alltägliche Namenswirkung suchst, passt Aurel gut in diese Richtung."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stützt sich vor allem auf Namenslexika und Portaltexte; breite öffentliche Debatten sind nicht erkennbar.",
+    "Positive Einschätzungen stammen teils aus kurzkommentierenden oder portaltypischen Bewertungen und sind daher nur begrenzt repräsentativ.",
+    "Beliebtheitsangaben sollten vorsichtig gelesen werden, da sie je nach Quelle und Zeitraum variieren können."
+  ],
+  "short_summary": "Aurel wirkt in Deutschland eher selten, klassisch und positiv besetzt – vor allem als eleganter Name mit lateinischem Ursprung und der Bedeutung „der Goldene“.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.94,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Aurel � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/A/Au/Aurel/"
+    },
+    {
+      "confidence": 0.91,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Aurel: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Aurel.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "edel",
+    "elegant",
+    "lateinisch geprägt",
+    "seltenheitsbetont",
+    "informativ",
+    "zeitlos"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland eher bekannt, aber insgesamt eher selten bis moderat verbreitet. Die öffentliche Sichtbarkeit wirkt vor allem lexikalisch und namenskundlich, weniger durch breite Diskussionen oder starke Alltagspräsenz."
+}

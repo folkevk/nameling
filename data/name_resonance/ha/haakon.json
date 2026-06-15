@@ -1,0 +1,64 @@
+{
+  "associations": [
+    "norwegische Herkunft",
+    "altnordische Wortbestandteile",
+    "Bedeutung im Sinne von 'hoher' oder 'hochgeborener Sohn'",
+    "selten in Deutschland",
+    "vor allem in Norwegen verbreitet",
+    "männlicher Vorname",
+    "ungewöhnlicher Klang",
+    "skandinavischer Charakter"
+  ],
+  "confidence": 0.74,
+  "display_text": "Haakon wird überwiegend sachlich bis leicht positiv wahrgenommen: als seltener, norwegisch-skandinavischer Vorname mit markantem Klang. In Deutschland ist er eher ungewöhnlich und wenig verbreitet. Die Evidenz ist jedoch begrenzt und stammt hauptsächlich aus Namenslexika, nicht aus breiter öffentlicher Diskussion.",
+  "evidence_quality": "mittel bis schwach; vor allem Namenslexika, kaum unabhängige öffentliche Diskussion",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Haakon",
+  "normalized_name": "haakon",
+  "overall_resonance": "Überwiegend sachlich bis leicht positiv. Der Name Haakon wird in den vorliegenden Quellen vor allem als skandinavisch-norwegischer, seltener und klanglich markanter Vorname beschrieben. Eine breite öffentliche Debatte ist nicht erkennbar; die Resonanz basiert hauptsächlich auf Namenslexika und wenigen Kommentaren, daher nur vorsichtig interpretierbar.",
+  "practical_notes": [
+    "Für deutsche Ohren ist der Name eher selten und damit auffällig.",
+    "Die Aussprache wird in den Quellen eher als gut handhabbar beschrieben.",
+    "Die Wahrnehmung ist eher kulturell-skandinavisch als modern-trendig oder problematisch."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist schwach bis mittel, da sie überwiegend aus Vornamensportalen stammt.",
+    "Es gibt keine klare gesellschaftliche Diskussion oder belastbare öffentliche Massenwahrnehmung.",
+    "Positive Klangzuschreibungen stammen teils aus einzelnen Kommentaren und sollten nicht verallgemeinert werden."
+  ],
+  "short_summary": "Haakon wird in den Quellen überwiegend sachlich und leicht positiv als seltener, norwegisch-skandinavischer Vorname mit markantem Klang beschrieben. Für Deutschland wirkt er ungewöhnlich, ohne erkennbare Stigmatisierung.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Haakon � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/H/Ha/Haakon/"
+    },
+    {
+      "confidence": 0.86,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Haakon: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Haakon.html"
+    }
+  ],
+  "style_effect": [
+    "skandinavisch",
+    "traditionsnah",
+    "eigenständig",
+    "selten",
+    "markant",
+    "eher vornehm klingend",
+    "lexikalisch geprägt"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland eher niedrig bis seltene Sichtbarkeit. Der Name wirkt im deutschen Kontext ungewöhnlich und dadurch auffälliger, ohne dass sich daraus eine klare gesellschaftliche Bewertung ableiten lässt."
+}

@@ -1,0 +1,59 @@
+{
+  "associations": [
+    "englische Form von Erik",
+    "skandinavisch/altnordisch geprägt",
+    "Bedeutung im Sinne von „der Alleinherrscher“ bzw. „der Mächtige“",
+    "in Deutschland etabliert",
+    "eher klassisch als modisch",
+    "Beliebtheit eher rückläufig"
+  ],
+  "confidence": 0.94,
+  "display_text": "Eric ist in Deutschland ein etablierter, klassisch wirkender Vorname mit eher positiver bis neutraler Resonanz. Er gilt als internationale Form von Erik, wird mit skandinavisch-altnordischer Herkunft verbunden und eher als zeitlos denn als modern-trendig wahrgenommen. Die vorliegenden Quellen deuten darauf hin, dass die Beliebtheit eher nicht stark wächst, ohne dass der Name negativ besetzt wäre.",
+  "evidence_quality": "hoch: zwei klar namenbezogene, überwiegend informative Quellen mit konsistenter Tendenz; die Resonanzableitung ist solide, aber vor allem lexikalisch gestützt.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Eric",
+  "normalized_name": "eric",
+  "overall_resonance": "Eric wirkt im deutschsprachigen Raum als klassischer, gut etablierter Vorname mit eher positiver bis neutraler öffentlicher Resonanz. Er wird meist als internationale, englische Form von Erik wahrgenommen und mit einer klaren, traditionsnahen Namenswirkung verbunden.",
+  "practical_notes": [
+    "Gut verständlich und international anschlussfähig.",
+    "Die Schreibweise Eric ist im Deutschen gebräuchlich, wird aber oft als Variante zu Erik wahrgenommen.",
+    "Für eine Namenssuche wirkt der Name eher vertraut als auffällig."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Es gibt keine Hinweise auf eine negative gesellschaftliche Stigmatisierung des Namens in den vorliegenden Quellen.",
+    "Beliebtheitsaussagen beruhen hier vor allem auf Namenslexika und sollten nicht als exakte Marktanalyse verstanden werden."
+  ],
+  "short_summary": "Eric wird öffentlich überwiegend als klassischer, international wirkender Jungenname mit positiver bis neutraler Resonanz wahrgenommen.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Eric � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/E/Er/Eric/"
+    },
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "positive",
+      "source_type": "web",
+      "title": "&#9655; Vorname Eric: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Eric.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "international",
+    "zeitlos",
+    "nüchtern",
+    "namenskundlich vertraut"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland bekannt und verwendbar, aber laut den vorliegenden Quellen eher nicht mehr im starken Aufwärtstrend; die Beliebtheit wird eher als rückläufig oder zumindest nicht dominant beschrieben."
+}

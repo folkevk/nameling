@@ -1,0 +1,65 @@
+{
+  "associations": [
+    "altgriechische Herkunft",
+    "griechische Mythologie",
+    "trojanischer Held",
+    "Troja",
+    "Ilias",
+    "Bedeutung im Sinn von halten/festhalten",
+    "Namenstag",
+    "selten im Deutschen",
+    "internationale Variante/Ettore"
+  ],
+  "confidence": 0.81,
+  "display_text": "Hektor wirkt in der öffentlichen Wahrnehmung überwiegend sachlich-neutral bis leicht positiv: klassisch, griechisch-mythologisch und eher selten im Deutschen. Die Evidenz ist allerdings begrenzt und basiert vor allem auf Namenslexika statt auf breiter öffentlicher Diskussion.",
+  "evidence_quality": "mittel bis eher schwach; überwiegend lexikalische Quellen mit begrenzter öffentlicher Resonanz",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Hektor",
+  "normalized_name": "hektor",
+  "overall_resonance": "Überwiegend sachlich-neutral bis leicht positiv. Hektor wird öffentlich vor allem als klassisch-mythologischer, altgriechischer Vorname wahrgenommen, der eher selten, aber international anschlussfähig wirkt.",
+  "practical_notes": [
+    "Für Suchmaschinen- oder Namenskontexte wirkt Hektor klar, markant und traditionsreich.",
+    "Der Name kann als bildungsnah und mythologisch aufgeladen verstanden werden.",
+    "Wegen der Seltenheit in Deutschland dürfte er eher auffallen als verbreitet klingen.",
+    "Die Resonanz ist insgesamt freundlich, aber nicht massenhaft belegt."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenzlage ist schwach bis mittel und stark von einzelnen Namensdatenbanken geprägt.",
+    "Es gibt kaum echte öffentliche Diskussionen oder breit gestreute Alltagsresonanz.",
+    "Die Wahrnehmung als 'klassisch' oder 'stark' ist eine naheliegende Namensassoziation, keine überprüfbare Eigenschaft von Namensträgern."
+  ],
+  "short_summary": "Hektor wird in Deutschland vor allem als klassisch-mythologischer, seltener und leicht positiv besetzter Vorname wahrgenommen. Die öffentliche Resonanz ist aber nur begrenzt belegt und stammt vor allem aus Namenslexika.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.94,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Hektor � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/H/He/Hektor/"
+    },
+    {
+      "confidence": 0.79,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Hektor: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Hektor.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "mythologisch",
+    "bildend/gelehrt",
+    "international",
+    "eher selten",
+    "markant"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Die Sichtbarkeit in deutschen Namensquellen ist vorhanden, aber eher gering bis mittel. Die Evidenz stammt überwiegend aus Namenslexika und Katalogeinträgen, nicht aus einer breiten öffentlichen Debatte."
+}

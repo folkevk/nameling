@@ -1,0 +1,71 @@
+{
+  "associations": [
+    "Form von Maria",
+    "slawisch",
+    "russisch",
+    "baltisch",
+    "südslawisch",
+    "weiblicher Vorname",
+    "Namenstag",
+    "biblische Herkunft",
+    "selten bis moderat verbreitet"
+  ],
+  "confidence": 0.86,
+  "display_text": "Marija wirkt in den vorliegenden Quellen überwiegend neutral bis leicht positiv: klassisch, international und als slawische Variante von Maria klar einordenbar. Die Evidenz ist jedoch vor allem lexikalisch, nicht aus einer breiten öffentlichen Debatte.",
+  "evidence_quality": "mittel bis schwach für öffentliche Resonanz, stark für Namensbedeutung und Herkunft; die Quellen sind informativ, aber auf Namensportale beschränkt.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Marija",
+  "normalized_name": "marija",
+  "overall_resonance": "Überwiegend neutral bis leicht positiv. In den vorliegenden Namensquellen wird Marija sachlich als slawische bzw. baltische Form von Maria beschrieben, mit klarer Herkunfts- und Bedeutungszuordnung sowie Namenstag-Hinweisen. Eine breitere öffentliche Debatte ist in der Evidenz jedoch kaum sichtbar.",
+  "practical_notes": [
+    "Für die Namenssuche wirkt Marija vertraut, aber etwas weniger alltäglich als Maria.",
+    "Die Schreibweise kann regional unterschiedlich wahrgenommen werden; sie signalisiert oft eine slawische oder internationale Herkunft.",
+    "In Deutschland dürfte der Name eher als klassisch-fremdsprachige Variante gelesen werden als als sehr geläufiger Standardname."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz basiert fast ausschließlich auf einzelnen Namenslexikon-Seiten; eine echte öffentliche Debatte ist daraus nur eingeschränkt ableitbar.",
+    "Keine belastbaren Hinweise auf soziale Stigmatisierung oder negative Konnotationen in der vorliegenden Evidenz.",
+    "Beliebtheitsangaben und Stilwirkungen sollten vorsichtig gelesen werden, da sie quellenabhängig und nicht als allgemeine Meinung zu verstehen sind."
+  ],
+  "short_summary": "Marija wird in den verfügbaren Quellen überwiegend neutral bis leicht positiv dargestellt: als klassische, slawische Variante von Maria mit klarer Herkunft und eher seltener bis moderater Verbreitung. Für eine breite öffentliche Resonanz ist die Evidenz allerdings begrenzt.",
+  "source_count": 3,
+  "sources": [
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Marija � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/M/Ma/Marija/"
+    },
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Marija � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/M/Ma/Marija/"
+    },
+    {
+      "confidence": 0.84,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Marija: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Marija.html"
+    }
+  ],
+  "style_effect": [
+    "klingt international und zugleich traditionell",
+    "wirkt namenskundlich klar verortet",
+    "erscheint eher klassisch als modisch",
+    "hat eine leicht fremdsprachige, aber vertraute Anmutung",
+    "wird in den Quellen als selten bis moderat verbreitet eingeordnet"
+  ],
+  "usable_evidence_count": 3,
+  "visibility": "Eher gering bis moderat sichtbar in deutschsprachigen Namensdatenbanken; die Belege sprechen mehr für lexikalische Präsenz als für breite öffentliche Resonanz."
+}

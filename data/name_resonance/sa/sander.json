@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "Kurzform von Alexander",
+    "Bedeutung: „der Beschützer“",
+    "altgriechischer Ursprung",
+    "deutsch, niederländisch und skandinavisch anschlussfähig",
+    "in Deutschland eher selten",
+    "namensbezogene, informativ-lexikalische Wahrnehmung"
+  ],
+  "confidence": 0.89,
+  "display_text": "Sander wirkt in den vorliegenden Quellen überwiegend sachlich-neutral mit leichter positiver Tönung. Der Name wird meist als Kurzform von Alexander mit der Bedeutung „der Beschützer“ erklärt und als eher selten, aber gut verständlich in Deutschland eingeordnet.",
+  "evidence_quality": "mittel bis schwach: zwei überwiegend informative Namensseiten, klare Namensbezüge, aber begrenzte Breite öffentlicher Resonanz",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Sander",
+  "normalized_name": "sander",
+  "overall_resonance": "Überwiegend sachlich-neutral mit leicht positiver Namenswirkung. In den vorliegenden Namensquellen wird Sander vor allem als Kurzform von Alexander beschrieben, mit der Bedeutung „der Beschützer“.",
+  "practical_notes": [
+    "Für Suchmaschinen- und Infokontexte wirkt der Name vor allem verständlich, ruhig und klassisch.",
+    "Die Seltenheit in Deutschland kann ihn markanter machen, ohne ungewöhnlich zu wirken.",
+    "Die Quellen deuten eher auf eine sachliche Namenswahrnehmung als auf starke Trend- oder Imageeffekte hin."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist auf wenige Namensdatenbanken beschränkt; öffentliche Resonanz ist daher nur vorsichtig ableitbar.",
+    "Es liegen keine belastbaren Hinweise auf starke soziale Stigmatisierung oder auffällige Negativassoziationen vor.",
+    "Einzelne Kommentare sind für die Gesamteinschätzung nur schwach gewichtet."
+  ],
+  "short_summary": "Sander wird in den Quellen überwiegend neutral und leicht positiv wahrgenommen: kurz, klar, mit der Bedeutung „der Beschützer“ und eher seltener Verbreitung in Deutschland.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Sander � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/S/Sa/Sander/"
+    },
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Sander: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Sander.html"
+    }
+  ],
+  "style_effect": [
+    "kurz und klar",
+    "nordisch/international anschlussfähig",
+    "lexikalisch-klassisch",
+    "eher zurückhaltend als modisch",
+    "seriös und unkompliziert"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "eher selten in Deutschland, daher nicht sehr präsent, aber klar als eigenständiger Vorname erkennbar"
+}

@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "ostfriesische bzw. friesische Kurz- und Koseform",
+    "Bezug zu Ing-/Ingwio",
+    "althochdeutsche Namensbestandteile",
+    "Bedeutungen wie Schutz/Hüterin in den Quellen",
+    "selten in Deutschland",
+    "weiblicher Vorname",
+    "Namenstagangaben in den Quellen"
+  ],
+  "confidence": 0.83,
+  "display_text": "Inken wirkt in der öffentlichen Wahrnehmung vor allem sachlich, selten und regional-friesisch geprägt. Die verfügbaren Quellen beschreiben den Namen überwiegend neutral bis leicht positiv, mit Bezug zu altertümlichen/namenskundlichen Ursprüngen. Eine breite gesellschaftliche Bewertung ist wegen der dünnen Evidenz nicht erkennbar.",
+  "evidence_quality": "mittel bis schwach: zwei einschlägige Namensquellen, davon eine mit Kommentaren; keine breite öffentliche Debatte erkennbar.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Inken",
+  "normalized_name": "inken",
+  "overall_resonance": "Die öffentliche Resonanz zu Inken wirkt überwiegend sachlich-informativ mit leicht freundlicher Tendenz. Der Name wird vor allem als seltener, regional geprägter und namenskundlich interessanter Vorname beschrieben.",
+  "practical_notes": [
+    "Für Suchende wirkt der Name traditionell und markant, zugleich eher selten.",
+    "Durch die Kürze und die regionale Färbung kann er als eigenständig und einprägsam wahrgenommen werden.",
+    "Eine eindeutige gesellschaftliche Wertung lässt sich aus der verfügbaren Evidenz nicht ableiten."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist begrenzt und stammt überwiegend aus Namensdatenbanken statt aus breiter öffentlicher Diskussion.",
+    "Einzelne Kommentare können subjektiv sein und sollten nicht verallgemeinert werden.",
+    "Hinweise auf Reime oder spöttische Assoziationen sind nur vereinzelt erwähnt und keine belastbare Gesamtbewertung."
+  ],
+  "short_summary": "Inken wird meist neutral bis leicht positiv wahrgenommen: selten, regional geprägt und namenskundlich interessant, mit nur begrenzter öffentlicher Evidenz.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.95,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Inken � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/I/In/Inken/"
+    },
+    {
+      "confidence": 0.78,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Inken: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Inken.html"
+    }
+  ],
+  "style_effect": [
+    "selten",
+    "regional/friesisch geprägt",
+    "traditionell-namenskundlich",
+    "kurz und prägnant",
+    "eher individuell als mainstream"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Eher gering bis mittel: Inken ist in Deutschland selten und daher weniger breit bekannt; die vorhandenen Hinweise stammen vor allem aus Namenslexika und einzelnen Kommentaren."
+}

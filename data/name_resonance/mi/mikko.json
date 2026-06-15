@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "finnische Kose- bzw. Form von Michael/Mikael",
+    "hebräische/biblische Herkunft",
+    "Bedeutung: „Wer ist wie Gott?“",
+    "männlicher Vorname",
+    "Namenstag am 29. September",
+    "in Finnland verbreitet"
+  ],
+  "confidence": 0.82,
+  "display_text": "Mikko wirkt in Deutschland überwiegend sachlich und leicht positiv: ein kurzer, finnisch geprägter Jungenname mit klarer Herkunft und markantem, modernem Klang. Die Belege sind gut für Bedeutung und Einordnung, aber nur begrenzt für die soziale Bewertung.",
+  "evidence_quality": "mittel bis gut; zwei klar namenkundliche Quellen, aber die Bewertungsanteile sind teilweise subjektiv und nicht repräsentativ.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Mikko",
+  "normalized_name": "mikko",
+  "overall_resonance": "Überwiegend sachlich-informativ mit leicht positivem Klang. Der Name wird vor allem als finnische Form von Michael/Mikael wahrgenommen und mit einer klaren Herkunft und Bedeutung verbunden. In einzelnen Kommentaren wirkt er modern und schön, teils aber auch ungewohnt.",
+  "practical_notes": [
+    "Für deutschsprachige Ohren kurz, markant und international anschlussfähig.",
+    "Die Schreibweise ist einfach, kann aber wegen der Seltenheit gelegentlich nachgefragt werden.",
+    "Die Evidenzlage ist solide für Herkunft und Bedeutung, aber schwächer für echte Alltagsrezeption."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die soziale Bewertung ist nur schwach belegt und teilweise subjektiv.",
+    "Einzelne Kommentare nennen den Namen ungewohnt oder verwechselbar mit einem Schreibfehler; das ist kein allgemeines Urteil.",
+    "Keine Hinweise auf eine starke gesellschaftliche Stigmatisierung in der vorliegenden Evidenz."
+  ],
+  "short_summary": "Mikko wird in Deutschland vor allem sachlich als finnischer, international wirkender Jungenname mit klarer Herkunft und Bedeutung wahrgenommen; die Resonanz ist eher freundlich-neutral, mit einzelnen subjektiven Kommentaren zur Ungewohntheit.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Mikko � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/M/Mi/Mikko/"
+    },
+    {
+      "confidence": 0.83,
+      "is_name_discussion": true,
+      "sentiment": "mixed",
+      "source_type": "web",
+      "title": "&#9655; Vorname Mikko: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Mikko.html"
+    }
+  ],
+  "style_effect": [
+    "finnisch",
+    "modern",
+    "kurz und klar",
+    "international",
+    "ungewöhnlich, aber gut merkbar"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland eher bekannt, aber nicht allzu häufig. Die öffentliche Wahrnehmung wirkt dadurch eher eigenständig und nicht stark massenhaft."
+}

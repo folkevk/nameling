@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "friesische und niederländische Kurzform von Hendrik",
+    "Bezug zu Heinrich/Hendrik",
+    "Bedeutungen wie „der Hausherr“ oder „der Herr im Haus“",
+    "althochdeutsche Wurzeln",
+    "traditionell, mittelalterlich, nordisch assoziiert",
+    "in Deutschland selten, aber bekannt"
+  ],
+  "confidence": 0.83,
+  "display_text": "Henk wirkt in der öffentlichen Rezeption vor allem kurz, traditionell und niederländisch/nordisch geprägt. In Deutschland ist der Name eher selten, aber bekannt und als Vorname etabliert. Die verfügbaren Quellen beschreiben ihn überwiegend sachlich mit leicht positiver Tendenz, vor allem wegen Herkunft und Bedeutung.",
+  "evidence_quality": "Mittel: zwei einschlägige Namenslexika, insgesamt konsistente etymologische Angaben, aber wenig unabhängige öffentliche Breitenresonanz.",
+  "generated_at": "2026-06-14T10:47:41Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Henk",
+  "normalized_name": "henk",
+  "overall_resonance": "Überwiegend sachlich-positiv, mit starker Betonung auf Herkunft und Bedeutung; im deutschen Kontext eher selten, aber etabliert.",
+  "practical_notes": [
+    "Für Suchmaschinen wirkt der Name klar, prägnant und leicht wiedererkennbar.",
+    "Die historische und niederländische Herkunft prägt die Wahrnehmung stärker als aktuelle Trends.",
+    "In Deutschland dürfte Henk eher als ungewöhnlich, aber vertraut lesbar wahrgenommen werden."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist schmal und stark auf Namenslexika fokussiert; keine breite öffentliche Debatte erkennbar.",
+    "Regionale Einordnung für Deutschland nur begrenzt abgesichert.",
+    "Aussagen zur Wirkung sollten als Tendenzen und nicht als feste Eigenschaften verstanden werden."
+  ],
+  "short_summary": "Henk wird öffentlich vor allem als kurze, traditionelle und nordisch-niederländisch geprägte Namensform wahrgenommen. Die Rezeption ist eher sachlich bis leicht positiv, bei nur geringer, aber klarer Sichtbarkeit im deutschen Raum.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "Vorname Henk � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/H/He/Henk/"
+    },
+    {
+      "confidence": 0.92,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Henk: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Henk.html"
+    }
+  ],
+  "style_effect": [
+    "kurz und markant",
+    "traditionell und nordisch",
+    "international bzw. niederländisch gefärbt",
+    "eher informell-kernig als weich",
+    "namenskundlich aufgeladen durch Herkunftsdeutungen"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Niedrig bis mittel: Der Name wird in Namenslexika präsent beschrieben, wirkt öffentlich aber nicht breit diskutiert."
+}

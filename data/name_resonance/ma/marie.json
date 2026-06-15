@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "französische Form von Maria",
+    "biblischer bzw. hebräischer Ursprung",
+    "Bedeutungen wie \"die Geliebte\" oder \"die (von Gott) Geschenkte\"",
+    "beliebter Vorname in Deutschland",
+    "Namenstag",
+    "häufig als Zweitname oder in Doppelnamen",
+    "kurze, klare Klangform"
+  ],
+  "confidence": 0.91,
+  "display_text": "Marie gilt in Deutschland als klassischer, sehr beliebter und zeitloser Vorname mit überwiegend positiver Resonanz. Die vorliegenden Quellen betonen vor allem Herkunft, Bedeutung und Namenstag; eine breite kontroverse Debatte ist nicht erkennbar.",
+  "evidence_quality": "Gut für eine vorsichtige Einordnung, aber thematisch eng: überwiegend einzelne Namenslexikon-Quellen, kaum unabhängige öffentliche Diskussion.",
+  "generated_at": "2026-06-12T06:08:03Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Marie",
+  "normalized_name": "marie",
+  "overall_resonance": "Überwiegend positiv und klassisch-traditionell. Marie wird in den vorliegenden Quellen vor allem als sehr verbreiteter, zeitloser Mädchenname mit guter öffentlicher Akzeptanz beschrieben.",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt Marie sehr etabliert und leicht anschlussfähig.",
+    "Die Quellen betonen eher Herkunft, Bedeutung und Beliebtheit als kontroverse Debatten.",
+    "Spitznamen und Doppelnamen sind in der Darstellung ebenfalls präsent."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt vor allem aus Namenslexikon-Seiten; breite öffentliche Diskussion ist kaum sichtbar.",
+    "Es liegen keine belastbaren Hinweise auf negative Stigmatisierung vor.",
+    "Wirkungen wie \"elegant\" oder \"klassisch\" sind typische Namenseindrücke und keine objektiven Eigenschaften."
+  ],
+  "short_summary": "Marie wird öffentlich vor allem als klassischer, sehr beliebter und traditionsreicher Name mit positiver Grundresonanz wahrgenommen.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "Vorname Marie � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/M/Ma/Marie/"
+    },
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Marie: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Marie.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "elegant",
+    "zeitlos",
+    "sachlich-traditionell",
+    "namenskundlich vertraut"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Sehr hohe Sichtbarkeit in Deutschland; der Name wird als beliebt und weit verbreitet eingeordnet."
+}

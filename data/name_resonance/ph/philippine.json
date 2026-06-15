@@ -1,0 +1,59 @@
+{
+  "associations": [
+    "weiblicher Vorname",
+    "deutsche und französische Form von Philipp/Philippe",
+    "Bedeutung: Pferdefreundin",
+    "historisch seit dem 17. Jahrhundert belegt",
+    "Namenstag",
+    "Spitznamen wie Pinchen, Bine, Flippi werden genannt"
+  ],
+  "confidence": 0.9,
+  "display_text": "Philippine: selten, historisch und klassisch-elegant. Die öffentliche Wahrnehmung ist überwiegend neutral-sachlich, mit Bezug auf Herkunft, Bedeutung und Namenstradition.",
+  "evidence_quality": "hoch bis mittel; zwei klare, vorwiegend lexikalische Quellen mit überwiegend neutraler Beschreibung, eine Quelle ist als etwas schwächer markiert.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Philippine",
+  "normalized_name": "philippine",
+  "overall_resonance": "Der Vorname Philippine wird öffentlich vor allem sachlich und lexikalisch wahrgenommen: selten, traditionell und historisch belegt. Die Resonanz ist insgesamt neutral bis leicht elegant/klassisch, ohne starke negative Konnotationen.",
+  "practical_notes": [
+    "Für Namenssuchende wirkt Philippine eher klassisch als modern.",
+    "Durch die Seltenheit kann der Name als besonders und individuell wahrgenommen werden.",
+    "Die Schreib- und Herkunftsform ist gut erklärbar und historisch nachvollziehbar."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist überwiegend namenkundlich und nicht gesellschaftskritisch; belastbare Hinweise auf negative öffentliche Stereotype liegen nicht vor.",
+    "Einzelne Quellen sind rein beschreibend und in Teilen schwächer belegt, daher vorsichtig interpretieren."
+  ],
+  "short_summary": "Philippine wird öffentlich meist als seltener, historisch gewachsener und eher klassisch-eleganter Mädchenname beschrieben.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.99,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Philippine � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/P/Ph/Philippine/"
+    },
+    {
+      "confidence": 0.94,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Philippine: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Philippine.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "historisch",
+    "selten",
+    "eher elegant",
+    "sprachlich markant"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland eher selten und dadurch auffälliger als geläufige Namen; die öffentliche Sichtbarkeit ist entsprechend begrenzt."
+}

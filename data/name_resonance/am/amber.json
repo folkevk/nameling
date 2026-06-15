@@ -1,0 +1,62 @@
+{
+  "associations": [
+    "Bernstein",
+    "bernsteinfarben",
+    "englische Schreibweise von Ambra",
+    "arabische Herkunft",
+    "weiblicher Vorname",
+    "moderne internationale Wirkung",
+    "eher seltene Nutzung in Deutschland"
+  ],
+  "confidence": 0.78,
+  "display_text": "Amber wirkt in den vorliegenden deutschsprachigen Quellen modern, international und eher positiv. Typische Assoziationen sind Bernstein, Bernsteinfarbe und die englische Form von Ambra. Die Evidenz ist allerdings schmal und stammt vor allem aus Namenslexika, daher ist das Bild vorsichtig zu lesen.",
+  "evidence_quality": "mäßig bis gut: zwei klar namenkundliche Quellen mit ähnlicher Tendenz, aber nur begrenzte Breite der Evidenz.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Amber",
+  "normalized_name": "amber",
+  "overall_resonance": "Amber wird in den vorliegenden deutschsprachigen Namensquellen insgesamt eher positiv und modern wahrgenommen. Der Name wirkt international, weich und zugleich klar; die Deutung über Bernstein bzw. bernsteinfarbig prägt die öffentliche Beschreibung deutlich.",
+  "practical_notes": [
+    "Für eine Namenssuche eignet sich Amber als kurze, gut merkbare und international verständliche Form.",
+    "Die Wahrnehmung ist eher positiv-informativ als emotional aufgeladen.",
+    "Im deutschen Kontext kann der Name durch die englische Schreibweise etwas moderner bzw. internationaler wirken als Ambra."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist begrenzt und basiert auf wenigen Namensseiten, nicht auf breiter öffentlicher Debatte.",
+    "Die Herkunftsangaben werden in den Quellen teils unterschiedlich gerahmt; deshalb nur vorsichtig zusammenfassen.",
+    "Keine belastbaren Hinweise auf soziale Stigmatisierung in den vorliegenden Quellen."
+  ],
+  "short_summary": "Amber wird in deutschen Namensquellen meist als moderner, internationaler und positiv konnotierter Vorname beschrieben, vor allem mit Bezug auf Bernstein/Bernsteinfarbe. Die öffentliche Resonanz wirkt freundlich, aber die Evidenz ist begrenzt.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.95,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "Vorname Amber � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/A/Am/Amber/"
+    },
+    {
+      "confidence": 0.87,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Amber: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Amber.html"
+    }
+  ],
+  "style_effect": [
+    "modern",
+    "international",
+    "weich klingend",
+    "klar und einprägsam",
+    "eher selten als Alltagsname",
+    "edelstein-/farbenassoziiert"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Im deutschsprachigen Raum scheint Amber bekannt, aber nicht breit diskutiert zu sein. Die verfügbare Evidenz stammt vor allem aus einzelnen Namenslexika und einer Namensdatenbank, daher ist die öffentliche Resonanz nur vorsichtig einzuordnen."
+}

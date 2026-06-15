@@ -1,0 +1,65 @@
+{
+  "associations": [
+    "Kurzform von Christine/Kristine",
+    "Bedeutung: die Christin / die Reine",
+    "Namenstag",
+    "deutschsprachiger Gebrauch",
+    "süß bzw. schön in Nutzerkommentaren",
+    "selten als eigenständiger Vorname",
+    "Koseform oder Rufname"
+  ],
+  "confidence": 0.79,
+  "display_text": "Die öffentliche Resonanz zu „Tine“ ist überwiegend freundlich und neutral. Der Name wird vor allem als kurze, vertraute Form von Christine/Kristine wahrgenommen und gilt in den Quellen als eher selten, aber bekannt. Positive Eindrücke sind vorhanden, beruhen jedoch nur auf begrenzter Evidenz aus Namenslexika und einzelnen Kommentaren.",
+  "evidence_quality": "mittelstark, aber begrenzt: zwei überwiegend lexikalische Quellen, wenig breite öffentliche Diskussionslage",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Tine",
+  "normalized_name": "tine",
+  "overall_resonance": "Die öffentliche Resonanz zu „Tine“ wirkt insgesamt eher freundlich bis neutral. Der Name wird vor allem als kurze, vertraute Form wahrgenommen, häufig als Kose- oder Kurzform von Christine/Kristine. In den vorliegenden Quellen erscheint er bekannt, eher selten eigenständig vergeben und insgesamt unaufgeregt.",
+  "practical_notes": [
+    "Für Suchende ist der Name leicht verständlich und gut aussprechbar.",
+    "Wer einen kurzen, weichen und vertrauten Namen sucht, könnte „Tine“ als passend empfinden.",
+    "Wenn Eigenständigkeit wichtig ist, sollte bedacht werden, dass der Name häufig als Kurzform gelesen wird.",
+    "In den Quellen wird keine soziale Stigmatisierung erkennbar; der Name wirkt eher neutral bis sympathisch."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist begrenzt und stammt vor allem aus zwei Namenslexika; es gibt keine breite öffentliche Debatte.",
+    "Positive Eindrücke beruhen teils auf subjektiven Kommentaren und sind nicht repräsentativ für alle Wahrnehmungen.",
+    "Die Deutung als Kurzform kann stärker wirken als die Wahrnehmung als eigenständiger Vollname."
+  ],
+  "short_summary": "„Tine“ wird meist als kurze, vertraute Kurzform wahrgenommen, mit eher freundlicher und neutraler Resonanz; als eigenständiger Vorname ist er in Deutschland eher selten.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.92,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Tine � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/T/Ti/Tine/"
+    },
+    {
+      "confidence": 0.77,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Tine: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Tine.html"
+    }
+  ],
+  "style_effect": [
+    "kurz",
+    "vertraut",
+    "alltagsnah",
+    "kosehaft",
+    "weiblich konnotiert",
+    "eher freundlich",
+    "unkompliziert",
+    "leicht altmodisch bzw. traditionell lesbar"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Eher bekannt als eigenständiger Rufname, aber nicht sehr verbreitet. In Deutschland wird „Tine“ in den Quellen als eher selten, zugleich aber verständlich und leicht einzuordnen beschrieben."
+}

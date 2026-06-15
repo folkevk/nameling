@@ -1,0 +1,51 @@
+{
+  "associations": [
+    "Bär",
+    "der Braune",
+    "schwedische/isländische Nebenform von Björn",
+    "männlicher Vorname",
+    "eher selten bis moderat in Deutschland erwähnt"
+  ],
+  "confidence": 0.87,
+  "display_text": "Bjorn wirkt in Deutschland überwiegend neutral und sachlich-namenkundlich. Die vorliegende Evidenz beschreibt den Namen vor allem als männlichen Vornamen mit der Bedeutung „Bär“ bzw. „der Braune“ und als Nebenform von Björn. Eine breite öffentliche Debatte gibt es dazu nicht; die Sichtbarkeit scheint eher gering bis moderat.",
+  "evidence_quality": "mittel bis begrenzt; informative Namensseite, aber keine breite öffentliche Diskussionslage",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Bjorn",
+  "normalized_name": "bjorn",
+  "overall_resonance": "überwiegend neutral bis leicht positiv, vor allem sachlich-namenkundlich geprägt",
+  "practical_notes": [
+    "Für Suchmaschinen- und Nachschlagekontexte ist der Name klar einordbar und verständlich.",
+    "Die Schreibweise ohne Umlaut kann in Deutschland als Variante wahrgenommen werden.",
+    "Die Wirkung hängt stark vom kulturellen Umfeld ab; die öffentliche Rezeption ist insgesamt unaufgeregt."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist stark begrenzt und basiert hier im Wesentlichen auf einem einzelnen Namenslexikon-Eintrag.",
+    "Es gibt keine belastbare öffentliche Debatte zum Namen selbst; die Rezeption wirkt eher beschreibend als gesellschaftlich bewertet.",
+    "Aus der Datenlage lassen sich keine breiten sozialen Zuschreibungen ableiten."
+  ],
+  "short_summary": "Bjorn wird in der vorliegenden Evidenz vor allem sachlich beschrieben: als männlicher Vorname mit der Bedeutung rund um „Bär“ und einer Nähe zu Björn. In Deutschland wirkt die öffentliche Wahrnehmung eher neutral und eher selten bis moderat.",
+  "source_count": 1,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Bjorn � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/B/Bj/Bjorn/"
+    }
+  ],
+  "style_effect": [
+    "informativ",
+    "lexikalisch",
+    "namenkundlich",
+    "nüchtern",
+    "selten bis moderat wahrgenommen"
+  ],
+  "usable_evidence_count": 1,
+  "visibility": "eher geringe bis mittlere öffentliche Sichtbarkeit in Deutschland; in der vorliegenden Evidenz vor allem als Lexikonname präsent"
+}

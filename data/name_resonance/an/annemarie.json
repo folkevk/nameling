@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "Doppelform aus Anne und Marie",
+    "deutscher Mädchenname",
+    "hebräische Wurzeln über Anna und Maria",
+    "Bedeutungsnähe zu Gnade und Gottesgeschenk",
+    "klassischer Vorname",
+    "Namenstag-Bezug",
+    "Koseformen wie Anni oder Annie"
+  ],
+  "confidence": 0.84,
+  "display_text": "Annemarie wird überwiegend freundlich, klassisch und traditionsnah wahrgenommen. Der Name ist bekannt und eher zeitlos als trendig. Die Evidenz ist allerdings begrenzt und stammt vor allem aus Namenseinträgen, nicht aus breiter öffentlicher Debatte.",
+  "evidence_quality": "mittel bis schwach: zwei überwiegend namenskundliche Webquellen mit sachlich-positiver Tonalität, aber wenig direkter öffentlicher Diskurs",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Annemarie",
+  "normalized_name": "annemarie",
+  "overall_resonance": "Annemarie wird in den vorliegenden Quellen überwiegend freundlich und klassisch wahrgenommen. Der Name wirkt in Deutschland vertraut, traditionsnah und eher positiv besetzt, ohne stark polarisierend zu sein.",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt Annemarie solide, vertraut und unaufgeregt.",
+    "Der Name dürfte vor allem als klassischer, eher zeitloser Vorname gelesen werden.",
+    "Die Wahrnehmung kann je nach Generation leicht traditionell oder nostalgisch klingen."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz zur öffentlichen Resonanz ist indirekt und eher schwach; sie basiert vor allem auf Namenseinträgen statt auf breiten Meinungsäußerungen.",
+    "Beliebtheits- und Herkunftsangaben sollten nicht mit allgemeiner gesellschaftlicher Zustimmung verwechselt werden."
+  ],
+  "short_summary": "Annemarie wirkt in den Quellen klassisch, freundlich und traditionell positiv besetzt. Die öffentliche Resonanz ist eher ruhig als trendig, allerdings ist die Evidenz dafür nur indirekt.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.84,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Annemarie � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/A/An/Annemarie/"
+    },
+    {
+      "confidence": 0.92,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Annemarie: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Annemarie.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "traditionsnah",
+    "freundlich",
+    "weiblich-klar",
+    "etwas nostalgisch",
+    "sachlich-positiv"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Mittlere Sichtbarkeit: Der Name ist bekannt und verständlich, wirkt aber eher nicht trendig oder besonders laut im öffentlichen Diskurs. Die Evidenz stammt vor allem aus Namensdatenbanken und etymologischen Einträgen, nicht aus breiter öffentlicher Debatte."
+}

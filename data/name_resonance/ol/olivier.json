@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "Olivenbaum / Olive",
+    "französische Schreibvariante von Oliver",
+    "mögliche germanische bzw. althochdeutsche Wurzeln",
+    "Namenstag",
+    "selten bis eher ungewöhnlich in Deutschland",
+    "positiv als schön klingend beschrieben"
+  ],
+  "confidence": 0.86,
+  "display_text": "Olivier wird in Deutschland meist als französisch geprägte, klangvolle Variante von Oliver wahrgenommen. Der Name wirkt eher elegant und etwas ungewöhnlich, aber nicht negativ besetzt. Die öffentliche Resonanz stammt vor allem aus Namenslexika; eine breite Alltagsdiskussion ist kaum sichtbar.",
+  "evidence_quality": "mittel bis gut; stark quellengebunden, aber inhaltlich konsistent über zwei Namensseiten",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Olivier",
+  "normalized_name": "olivier",
+  "overall_resonance": "Olivier wird öffentlich meist als französisch geprägte, eher elegante und klangvolle Namensvariante von Oliver wahrgenommen. In deutschen Namensquellen wirkt der Name eher bekannt als alltäglich: nicht völlig selten, aber deutlich weniger verbreitet als die Standardform Oliver.",
+  "practical_notes": [
+    "Für die öffentliche Wahrnehmung überwiegen eher positive, stilbezogene Eindrücke.",
+    "Wer einen vertrauten, aber etwas besonderen Namen sucht, könnte Olivier als passende Variante von Oliver wahrnehmen.",
+    "Im deutschen Kontext kann die Schreibweise als international und leicht französisch wirken."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt fast ausschließlich aus Vornamen-Portalen; eine breite öffentliche Debatte ist nicht erkennbar.",
+    "Ein Teil der Bewertungen beruht auf Nutzerkommentaren und ist daher nur begrenzt verallgemeinerbar.",
+    "Die Angaben zu Herkunft und Herleitung sind in den Quellen teils mehrschichtig; das sollte vorsichtig gelesen werden."
+  ],
+  "short_summary": "Olivier wirkt in Deutschland eher elegant, französisch und etwas ungewöhnlich, mit überwiegend positiver, aber vor allem lexikalischer/namenskundlicher Resonanz.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Olivier � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/O/Ol/Olivier/"
+    },
+    {
+      "confidence": 0.95,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Olivier: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Olivier.html"
+    }
+  ],
+  "style_effect": [
+    "französisch/romanisch",
+    "elegant",
+    "klangvoll",
+    "klassisch",
+    "etwas ungewöhnlich in Deutschland",
+    "namenskundlich aufgeladen"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland ist der Name eher niche- bis mittelbekannt. Die öffentliche Sichtbarkeit entsteht vor allem über Namenslexika und Bewertungsseiten, nicht über breite Alltagsdiskussionen."
+}

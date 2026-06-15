@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "englischsprachig",
+    "keltische bzw. walisische Herkunft",
+    "altgriechische Herkunft wird teils genannt",
+    "Bedeutung im Sinne von 'edel' oder 'wohlgeboren'",
+    "Jungenname",
+    "Namenstag wird teils mit 24. August angegeben",
+    "Artus-Sage und Popkultur-Bezüge im Namenskontext"
+  ],
+  "confidence": 0.89,
+  "display_text": "Owen wirkt in Deutschland eher selten, aber bekannt und insgesamt leicht positiv bis neutral-gemischt. Der Name wird meist als international und klanglich klar wahrgenommen, mit namenskundlichen Bezügen zu Herkunft und der Bedeutung 'edel/wohlgeboren'.",
+  "evidence_quality": "gut, aber überwiegend namenskundlich-lexikalisch und nur teilweise durch Nutzerkommentare ergänzt",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Owen",
+  "normalized_name": "owen",
+  "overall_resonance": "Owen wird in der verfügbaren deutschsprachigen Namens-Evidenz überwiegend leicht positiv bis neutral-gemischt wahrgenommen. Der Name wirkt bekannt, international und namenskundlich klar eingeordnet, ohne stark polarisierend zu sein.",
+  "practical_notes": [
+    "Für deutschsprachige Kontexte gut verständlich, aber weiterhin eher international geprägt.",
+    "Die Schreibweise ist kurz und eindeutig; mögliche Spitznamen sind in der Quellenlage vereinzelt erwähnt.",
+    "Wer einen seltenen, aber bekannten Namen sucht, findet hier eine passende Einordnung.",
+    "Die Herkunftsangaben variieren leicht zwischen Quellen; das ist bei Vornamen-Etymologien nicht ungewöhnlich."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist überwiegend lexikonartig; die öffentliche Alltagswahrnehmung ist nur begrenzt direkt abbildbar.",
+    "Einzelne Nutzerkommentare deuten auf gemischte Eindrücke hin, diese sind aber nicht repräsentativ.",
+    "Keine belastbaren Hinweise auf soziale Stigmatisierung in der vorliegenden Evidenz."
+  ],
+  "short_summary": "Owen wirkt in Deutschland bekannt, eher selten und insgesamt leicht positiv bis neutral-gemischt. Der Name wird vor allem als international, kurz und mit der Bedeutung 'edel/wohlgeboren' verbunden beschrieben.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.95,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "Vorname Owen � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/O/Ow/Owen/"
+    },
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "mixed",
+      "source_type": "web",
+      "title": "&#9655; Vorname Owen: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Owen.html"
+    }
+  ],
+  "style_effect": [
+    "klingt modern und international",
+    "wirkt kurz, klar und unkompliziert",
+    "hat einen leicht edel/wohlgeboren konnotierten Namenseindruck",
+    "erscheint eher informativ als modisch-auffällig"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland eher moderat selten, aber bekannt; als englischsprachig und international lesbar wird er relativ gut erkannt."
+}

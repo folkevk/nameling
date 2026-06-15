@@ -1,0 +1,66 @@
+{
+  "associations": [
+    "Wassergeist",
+    "Nixe",
+    "Wasser",
+    "Welle",
+    "Mythologie",
+    "deutsche Literatur",
+    "Märchen-/Opernbezug",
+    "selten",
+    "früher populärer",
+    "heute eher aus der Mode"
+  ],
+  "confidence": 0.83,
+  "display_text": "Undine wird öffentlich meist als seltener, eleganter und märchenhaft-literarischer Vorname wahrgenommen. Die wichtigsten Assoziationen sind Wasser, Nixe und Mythologie. Für Deutschland ist die Sichtbarkeit eher gering; die Evidenz ist dabei nur mittel bis schwach, da sie vor allem aus Namensportalen stammt.",
+  "evidence_quality": "mittel bis schwach; vor allem einzelne Namenslexika und portalbasierte Beschreibungen, wenig breite öffentliche Diskussion",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Undine",
+  "normalized_name": "undine",
+  "overall_resonance": "Eher sanft, literarisch und markant, aber insgesamt selten und öffentlich nur mäßig präsent. Der Name wird vor allem sachlich oder kulturhistorisch eingeordnet, nicht breit emotional diskutiert.",
+  "practical_notes": [
+    "Der Name ist klanglich klar und gut merkbar.",
+    "Die starke Wasser- und Literaturassoziation prägt das Bild deutlich.",
+    "Wer einen seltenen, traditionsreichen und poetisch wirkenden Namen sucht, findet hier eine passende Option."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt überwiegend aus wenigen Namensportalen, daher ist die öffentliche Resonanz nur begrenzt belastbar.",
+    "Ein Teil der Wahrnehmung basiert auf kultur- und bedeutungsbezogenen Beschreibungen, nicht auf breiter Meinungsäußerung.",
+    "Seltenheit kann als besonders wirken, sollte aber nicht mit allgemeiner Ablehnung verwechselt werden."
+  ],
+  "short_summary": "Undine wirkt in Deutschland selten, literarisch und wasserbezogen. Die öffentliche Rezeption ist eher sachlich-positiv, aber nur begrenzt belegt.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.91,
+      "is_name_discussion": true,
+      "sentiment": "mixed",
+      "source_type": "web",
+      "title": "Vorname Undine � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/U/Un/Undine/"
+    },
+    {
+      "confidence": 0.87,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Undine: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Undine.html"
+    }
+  ],
+  "style_effect": [
+    "weiblich",
+    "elegant",
+    "märchenhaft",
+    "wasserbezogen",
+    "literarisch",
+    "nostalgisch",
+    "ungewöhnlich"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland eher geringe Sichtbarkeit; der Name gilt als selten und wirkt heute eher ungewöhnlich als geläufig."
+}

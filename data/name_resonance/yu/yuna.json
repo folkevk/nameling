@@ -1,0 +1,58 @@
+{
+  "associations": [
+    "Bedeutungen wie „die Erwünschte“, „die Freundliche“ oder „die Blühende“ werden genannt",
+    "teilweise keltische, lateinische oder mythologische Herleitungen",
+    "Namenstag wird teils mit dem 21. August angegeben",
+    "der Name wirkt in der öffentlichen Wahrnehmung oft modern und positiv besetzt"
+  ],
+  "confidence": 0.84,
+  "display_text": "Yuna wirkt in Deutschland überwiegend positiv, modern und freundlich. Der Name wird als weich und international klingend beschrieben; genannt werden Bedeutungen wie „die Erwünschte“ oder „die Freundliche“. Die Evidenz ist jedoch vor allem auf Namenslexika gestützt und daher nur begrenzt belastbar.",
+  "evidence_quality": "mittel: klare Namensdiskussion und überwiegend positive Tonalität, aber stark quellenbegrenzt und vor allem aus Namenslexika abgeleitet.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Yuna",
+  "normalized_name": "yuna",
+  "overall_resonance": "Überwiegend positiv und modern, mit freundlicher, weicher Anmutung.",
+  "practical_notes": [
+    "Für Suchmaschinen-Texte eignet sich eine knappe Beschreibung wie: freundlich, modern, international und weich klingend.",
+    "Die Aussprache und Schreibweise sind kurz und leicht merkbar.",
+    "Bei Bedarf kann der Name als zeitgemäß und positiv konnotiert eingeordnet werden, ohne über Personen zu verallgemeinern."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt fast ausschließlich aus zwei Namensdatenbanken; die öffentliche Rezeption ist daher nur begrenzt abgesichert.",
+    "Mehrere Herleitungen werden ausdrücklich als möglich oder spekulativ beschrieben.",
+    "Beliebtheitsaussagen sollten als Quellenangaben verstanden werden, nicht als allgemeingültige Tatsache."
+  ],
+  "short_summary": "Yuna wird in der deutschsprachigen Namensöffentlichkeit überwiegend positiv wahrgenommen: modern, freundlich und weich klingend, mit Bedeutungen wie „die Erwünschte“ oder „die Freundliche“.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "Vorname Yuna � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/Y/Yu/Yuna/"
+    },
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Yuna: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Yuna.html"
+    }
+  ],
+  "style_effect": [
+    "kurz und eingängig",
+    "sanft und melodisch",
+    "modern, international wirkend",
+    "freundlich und leicht",
+    "eher jung und zeitgemäß"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland wird Yuna als eher bekannter und als beliebt beschriebener Vorname wahrgenommen; die öffentliche Sichtbarkeit wirkt vor allem namenslexikalisch und durch Beliebtheitslisten geprägt."
+}

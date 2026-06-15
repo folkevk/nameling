@@ -1,0 +1,62 @@
+{
+  "associations": [
+    "männlicher Vorname",
+    "niederdeutsche Form von Christian",
+    "Bedeutung: Christ / Anhänger Christi",
+    "historisch in Deutschland bekannter Name",
+    "heute eher selten",
+    "Schreibvariante Carsten",
+    "Namenstag"
+  ],
+  "confidence": 0.89,
+  "display_text": "Karsten wird in den vorliegenden Quellen vor allem als klassischer, traditionsreicher Jungenname beschrieben. Die öffentliche Resonanz wirkt insgesamt neutral bis leicht positiv, aber die Evidenz ist eher lexikalisch als meinungsstark.",
+  "evidence_quality": "mittel bis schwach: überwiegend lexikalische Namensquellen, kaum echte öffentliche Debatte oder breites Stimmungsbild",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Karsten",
+  "normalized_name": "karsten",
+  "overall_resonance": "Karsten wird öffentlich überwiegend sachlich und namenkundlich wahrgenommen: ein traditioneller, eher seltener Jungenname mit klarer Herkunft und vertrauter deutscher Klangform. Die Resonanz wirkt insgesamt neutral bis leicht positiv, ohne starke emotionale Polarisierung.",
+  "practical_notes": [
+    "Für Suchmaschinen- oder Namensprofile eignet sich die Einordnung als klassischer, traditionsreicher Name mit sachlicher Wirkung.",
+    "Die Schreibweise kann mit Carsten verwechselt werden; das ist ein praktischer Hinweis, kein Werturteil.",
+    "Aufgrund der geringen Streuung in der Evidenz sollte die Bewertung vorsichtig interpretiert werden."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt vor allem aus Namenslexika und ist daher nur eingeschränkt als öffentliche Meinungsresonanz zu werten.",
+    "Es zeigen sich kaum starke emotionale Bewertungen; die Wahrnehmung ist eher beschreibend als diskussionsstark.",
+    "Seltene Namen werden manchmal als altmodisch eingeordnet, dafür gibt es hier aber keine klare stigmatisierende Evidenz."
+  ],
+  "short_summary": "Karsten wirkt als klassischer, eher seltener Vorname mit traditioneller und sachlicher Ausstrahlung; die öffentliche Resonanz ist überwiegend neutral bis leicht positiv.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Karsten � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/K/Ka/Karsten/"
+    },
+    {
+      "confidence": 0.91,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Karsten: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Karsten.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "traditionsnah",
+    "norddeutsch geprägt",
+    "sachlich",
+    "vertraut, aber nicht modisch",
+    "eher selten vergeben"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "mittel"
+}

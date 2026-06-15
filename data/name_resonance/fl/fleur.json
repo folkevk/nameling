@@ -1,0 +1,62 @@
+{
+  "associations": [
+    "französische Herkunft",
+    "Blume/Blüte",
+    "weiblicher Vorname",
+    "Flora-Bezug",
+    "selten im deutschsprachigen Raum",
+    "eher schön und leicht",
+    "Namenstag wird vereinzelt genannt"
+  ],
+  "confidence": 0.84,
+  "display_text": "Fleur wirkt in den verfügbaren deutschen Quellen überwiegend positiv: französisch, elegant und naturbezogen („Blume/Blüte“). Der Name ist eher selten und dadurch auffällig; die öffentliche Rezeption ist gut erkennbar, basiert aber vor allem auf Namenslexika statt auf breiter Diskussion.",
+  "evidence_quality": "mittel bis gut; die Quellen sind thematisch passend, aber vor allem redaktionell und nur begrenzt diskursiv",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Fleur",
+  "normalized_name": "fleur",
+  "overall_resonance": "Überwiegend positiv bis leicht positiv; der Name wird vor allem mit französischer Herkunft und der Bedeutung „Blume/Blüte“ verbunden. In den verfügbaren deutschen Quellen wirkt die Wahrnehmung eher elegant und namenskundlich interessant als kontrovers.",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt Fleur eher elegant und international.",
+    "Die Seltenheit kann als Pluspunkt für Individualität wahrgenommen werden.",
+    "In Deutschland dürfte die Schreibweise leicht verständlich sein, der Name bleibt aber markant.",
+    "Kurzformen wie Flo oder Blümchen werden in Quellen gelegentlich erwähnt, sind aber nicht zwingend üblich."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt überwiegend aus Namenslexika und redaktionellen Beschreibungen, nicht aus breiter öffentlicher Diskussion.",
+    "Die positive Wirkung hängt stark an der Bedeutungsassoziation „Blume/Blüte“ und ist daher eher kulturell als gesellschaftlich gemessen.",
+    "Die Datenlage ist begrenzt; daraus lassen sich keine belastbaren Aussagen über allgemeine Alltagsurteile ableiten."
+  ],
+  "short_summary": "Fleur wird in deutschen Namensquellen überwiegend positiv wahrgenommen: französisch, elegant und mit der Bedeutung „Blume/Blüte“ verbunden. Die Evidenz ist jedoch eher lexikalisch als öffentlich-diskursiv.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.88,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "Vorname Fleur � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/F/Fl/Fleur/"
+    },
+    {
+      "confidence": 0.94,
+      "is_name_discussion": true,
+      "sentiment": "positive",
+      "source_type": "web",
+      "title": "&#9655; Vorname Fleur: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Fleur.html"
+    }
+  ],
+  "style_effect": [
+    "französisch und klangvoll",
+    "elegant und zart",
+    "naturbezogen durch Blume/Blüte",
+    "selten, daher individuell",
+    "namenskundlich eher positiv besetzt"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Eher selten und dadurch auffällig, aber im deutschsprachigen Namenskontext gut erkennbar. Die öffentliche Sichtbarkeit scheint eher durch Namenslexika und Einordnungen als durch breite Alltagsdebatten geprägt zu sein."
+}

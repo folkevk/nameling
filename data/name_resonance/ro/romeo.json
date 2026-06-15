@@ -1,0 +1,62 @@
+{
+  "associations": [
+    "lateinischer Ursprung",
+    "Bezug zu Rom / Römern",
+    "Romeo und Julia",
+    "romantische Kulturassoziation",
+    "italienisch-lateinischer Klang",
+    "Namenslexikon und Bedeutung",
+    "Namenstag 28. Februar"
+  ],
+  "confidence": 0.87,
+  "display_text": "Romeo wirkt in Deutschland überwiegend positiv: klangvoll, international und deutlich romantisch-literarisch geprägt. Der Name ist bekannt, aber nicht beliebig, und wird vor allem mit Herkunft, Bedeutung und kulturellen Bezügen verbunden.",
+  "evidence_quality": "Gut: zwei direkt namensbezogene, überwiegend lexikalische Quellen mit klaren Herkunfts- und Bedeutungsangaben; die Resonanz ist insgesamt plausibel, aber teils durch redaktionelle Namensportale geprägt.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Romeo",
+  "normalized_name": "romeo",
+  "overall_resonance": "Die öffentliche Wahrnehmung von Romeo in Deutschland ist überwiegend positiv bis neutral mit einer klaren romantisch-kulturellen Färbung. Der Name wird vor allem als klangvoll, international vertraut und literarisch aufgeladen beschrieben.",
+  "practical_notes": [
+    "Für Suchmaschinenanfragen wird der Name meist über Bedeutung, Herkunft und kulturelle Bezüge eingeordnet.",
+    "Die Wahrnehmung ist eher stilistisch als sozial codiert.",
+    "Als Vorname ist Romeo deutlich markant und emotional aufgeladen, ohne in den Quellen negativ bewertet zu werden."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die romantische Assoziation ist stark und kulturell geprägt; sie sagt nichts über Träger des Namens aus.",
+    "Ein Teil der positiven Wirkung kann aus redaktionellen Beschreibungen und Namensportalen stammen, nicht aus breiter Alltagsresonanz.",
+    "Keine Hinweise auf eine gesellschaftliche Stigmatisierung in den vorliegenden Quellen."
+  ],
+  "short_summary": "Romeo wird in Deutschland meist als klangvoller, romantisch besetzter Vorname mit lateinisch-italienischen Assoziationen wahrgenommen. Die Quellenlage ist solide, aber vor allem lexikalisch und nicht als breite Alltagsstimmung zu verstehen.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Romeo � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/R/Ro/Romeo/"
+    },
+    {
+      "confidence": 0.92,
+      "is_name_discussion": true,
+      "sentiment": "überwiegend positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Romeo: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Romeo.html"
+    }
+  ],
+  "style_effect": [
+    "klangvoll",
+    "international",
+    "romantisch",
+    "literarisch",
+    "klassisch",
+    "leicht stilisiert"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Mittlere bis gute Sichtbarkeit: Der Name ist bekannt und in Namensportalen präsent, wirkt aber nicht wie ein extrem häufiger Alltagsname."
+}

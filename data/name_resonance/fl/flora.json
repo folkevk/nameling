@@ -1,0 +1,65 @@
+{
+  "associations": [
+    "Blume",
+    "Blüte",
+    "Aufblühen",
+    "Frühling",
+    "lateinischer Ursprung",
+    "römische Mythologie",
+    "Frühlingsgöttin",
+    "weiblicher Vorname",
+    "klassisch/etabliert",
+    "Beliebtheit in Deutschland"
+  ],
+  "confidence": 0.9,
+  "display_text": "Flora wirkt im deutschsprachigen Raum überwiegend positiv: ein klassischer, freundlicher und naturnaher Vorname mit starken Assoziationen zu Blüte, Frühling und Eleganz. Die verfügbare Evidenz ist gut, stammt aber vor allem aus Namenslexika und ist daher eher beschreibend als breit gesellschaftlich gemessen.",
+  "evidence_quality": "Gut, aber vor allem indirekt: zwei übereinstimmende, positive Namenslexikon-/Datenbankquellen mit hoher inhaltlicher Klarheit, jedoch ohne breite soziale Medien- oder Umfragedaten.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Flora",
+  "normalized_name": "flora",
+  "overall_resonance": "Überwiegend positiv und klassisch-wohlwollend. Der Name Flora wird in der verfügbaren Evidenz vor allem mit Natur, Blüte, Frühling und einer etablierten, eher eleganten Anmutung verbunden.",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt Flora zeitlos, freundlich und leicht verständlich.",
+    "Die Bedeutung und die Naturassoziationen sind sehr dominant; das prägt die Außenwirkung deutlich.",
+    "Die Quellen deuten auf eine solide Bekanntheit im deutschsprachigen Raum hin, ohne dass der Name übermäßig trendig wirkt."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt vor allem aus Namenslexika und Ratgeberseiten; das ist gute Namenskunde, aber nur indirekte öffentliche Resonanz.",
+    "Es gibt keine Hinweise auf starke negative Stigmatisierung oder kontroverse Deutungen in den vorliegenden Quellen."
+  ],
+  "short_summary": "Flora wird im Deutschen überwiegend positiv, naturbezogen und klassisch wahrgenommen. Der Name ist bekannt, freundlich und mit starken Blumen- und Frühlingsassoziationen verbunden.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.95,
+      "is_name_discussion": true,
+      "sentiment": "positive",
+      "source_type": "web",
+      "title": "Vorname Flora � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/F/Fl/Flora/"
+    },
+    {
+      "confidence": 0.95,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Flora: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Flora.html"
+    }
+  ],
+  "style_effect": [
+    "naturnah",
+    "blumig",
+    "frühlingshaft",
+    "klassisch",
+    "elegant",
+    "hell und freundlich",
+    "namenskundlich etabliert"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Im deutschsprachigen Raum gut bekannt und als Vorname präsent; die Wahrnehmung wirkt eher vertraut als exotisch."
+}

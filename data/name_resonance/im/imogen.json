@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "altirische/keltische Herkunft",
+    "Shakespeare",
+    "englischsprachiger Raum",
+    "selten in Deutschland",
+    "Bedeutung: Tochter / junges Mädchen",
+    "Spitzname Imo"
+  ],
+  "confidence": 0.78,
+  "display_text": "Imogen wirkt in Deutschland eher selten, international und elegant. Die öffentliche Rezeption ist überwiegend neutral bis leicht positiv, mit Bezügen zu altirischer Herkunft, Shakespeare und einer literarischen Ausstrahlung. Wegen der dünnen Evidenz sollte die Einordnung vorsichtig gelesen werden.",
+  "evidence_quality": "schwach bis mittel; überwiegend lexikalische Quellen, wenig öffentliche Breitenresonanz",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Imogen",
+  "normalized_name": "imogen",
+  "overall_resonance": "In der Region DE wirkt Imogen öffentlich eher selten und namenskundlich positiv bis neutral wahrgenommen. Der Name wird vor allem mit englischsprachiger, altirischer/keltischer Herkunft, Shakespeare und einer eher eleganten, ungewöhnlichen Anmutung verbunden. Die Evidenz ist allerdings begrenzt und stützt sich vor allem auf Namenslexika statt auf eine breite öffentliche Debatte.",
+  "practical_notes": [
+    "Für Suchende in DE dürfte der Name vor allem als selten und international wahrgenommen werden.",
+    "Die Aussprache und Schreibweise können als leicht erklärungsbedürftig empfunden werden.",
+    "Durch die literarische Herkunft kann der Name gebildet und charaktervoll wirken."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenzbasis ist schwach bis mittel und beruht überwiegend auf wenigen Namenslexikon-Einträgen.",
+    "Es gibt keine belastbare breite öffentliche Resonanz für Region DE.",
+    "Positive Eindrücke stammen teils aus subjektiven Einzelmeinungen und sind nicht repräsentativ."
+  ],
+  "short_summary": "Imogen wird in DE eher selten, aber meist freundlich und stilvoll wahrgenommen; die Quellenlage ist begrenzt und vor allem beschreibend.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Imogen � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/I/Im/Imogen/"
+    },
+    {
+      "confidence": 0.83,
+      "is_name_discussion": true,
+      "sentiment": "eher positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Imogen: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Imogen.html"
+    }
+  ],
+  "style_effect": [
+    "elegant",
+    "ungewöhnlich",
+    "klassisch-literarisch",
+    "international klingend",
+    "weiblich",
+    "namenskundlich markant"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "gering bis mittel; in Deutschland eher selten und dadurch öffentlich weniger präsent"
+}

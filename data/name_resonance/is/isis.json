@@ -1,0 +1,65 @@
+{
+  "associations": [
+    "altägyptische Herkunft",
+    "ägyptische Mythologie",
+    "Göttin",
+    "Gebieterin des Throns",
+    "Liebe",
+    "Geburt",
+    "Wiedergeburt",
+    "Magie",
+    "selten/ungewöhnlich",
+    "historisch interessant"
+  ],
+  "confidence": 0.78,
+  "display_text": "Isis ist in Deutschland ein seltener, auffälliger Vorname mit altägyptisch-mythologischer Prägung. Die öffentliche Resonanz wirkt insgesamt eher sachlich bis leicht positiv, allerdings kann der Name außerhalb des Vornamenkontexts durch eine gleichlautende belastete Bezeichnung missverstanden werden. Die Evidenz dazu ist vor allem namenskundlich und nur begrenzt als breite öffentliche Meinungsbasis belastbar.",
+  "evidence_quality": "mittel bis gut für die Namensbedeutung und lexikalische Einordnung, aber schwach für echte öffentliche Resonanz außerhalb von Namensseiten.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Isis",
+  "normalized_name": "isis",
+  "overall_resonance": "Der Vorname wirkt im deutschsprachigen Raum eher selten und wird überwiegend sachlich bis leicht positiv wahrgenommen. Öffentliche Namenslexika beschreiben ihn vor allem als mythologisch und historisch interessant; zugleich gibt es eine klar mitgedachte mögliche Belastung durch die gleichlautende Abkürzung/Bezeichnung außerhalb des Vornamenkontexts.",
+  "practical_notes": [
+    "Für Such- und Namenskontexte ist eine kurze Einordnung hilfreich, da der Name erklärungsbedürftig sein kann.",
+    "Die Wahrnehmung ist eher von Herkunft und Klang geprägt als von einer etablierten Alltagsverwendung.",
+    "Bei öffentlicher Nutzung kann eine Kontextergänzung Missverständnisse reduzieren."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Mögliche Verwechslungs- und Belastungsassoziation durch die gleichlautende politische/organisatorische Bedeutung außerhalb des Namenskontexts.",
+    "Die verfügbare Evidenz stammt fast nur aus Namenslexika; eine breite öffentliche Meinungsanalyse liegt nicht vor.",
+    "Die positive oder negative Wirkung kann je nach Kontext stark davon abhängen, ob die mythologische oder die andere, belastete Assoziation zuerst wahrgenommen wird."
+  ],
+  "short_summary": "Selten, mythologisch aufgeladen und meist sachlich bis leicht positiv wahrgenommen; zugleich potenziell missverständlich wegen einer belasteten Gleichlautung außerhalb des Vornamenkontexts.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.95,
+      "is_name_discussion": true,
+      "sentiment": "mixed",
+      "source_type": "web",
+      "title": "Vorname Isis � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/I/Is/Isis/"
+    },
+    {
+      "confidence": 0.94,
+      "is_name_discussion": true,
+      "sentiment": "mixed",
+      "source_type": "web",
+      "title": "&#9655; Vorname Isis: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Isis.html"
+    }
+  ],
+  "style_effect": [
+    "exotisch",
+    "mythologisch",
+    "historisch",
+    "elegant",
+    "ungewöhnlich",
+    "lexikalisch-namenskundlich"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Gering bis mittel: als Vorname in Deutschland belegt, aber nicht häufig und daher eher auffällig als alltäglich."
+}

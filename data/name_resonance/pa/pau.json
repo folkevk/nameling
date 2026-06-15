@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "katalanische Form von Paul",
+    "lateinische Herkunft",
+    "Bedeutung: Frieden / der Friedliche",
+    "auch als Variante von Pablo genannt",
+    "kurzer Vorname",
+    "Namenstag erwähnt",
+    "selten bis mäßig verbreitet"
+  ],
+  "confidence": 0.84,
+  "display_text": "Pau wirkt in Deutschland eher selten und auffällig, aber insgesamt sachlich-neutral bis leicht positiv. Der Name wird vor allem als kurze, katalanisch geprägte Form von Paul/Pablo mit der Bedeutung „Frieden“ bzw. „der Friedliche“ beschrieben. Die öffentliche Resonanz ist in der Evidenz vor allem lexikalisch, nicht diskursiv; belastbare Hinweise auf breite Meinungen oder Stigmatisierung fehlen.",
+  "evidence_quality": "mittel bis schwach: zwei überwiegend lexikalische Quellen, kaum direkte öffentliche Diskussion",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Pau",
+  "normalized_name": "pau",
+  "overall_resonance": "Eher sachlich-neutral bis leicht positiv. Pau wirkt in der vorliegenden Evidenz als kurzer, klanglich klarer Name mit namenkundlicher Einordnung; eine starke öffentliche Debatte ist nicht erkennbar.",
+  "practical_notes": [
+    "Für Suchende wirkt Pau eher wie ein kompakter, markanter Name mit freundlicher Bedeutung.",
+    "Die Resonanz ist eher beschreibend als emotional gefärbt.",
+    "Wegen der Seltenheit kann der Name als ungewöhnlich wahrgenommen werden, ohne negativ besetzt zu sein."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt überwiegend aus Namenslexika; echte öffentliche Meinungsäußerungen sind nur indirekt belegt.",
+    "Die Einordnung als eigenständiger Name versus Form von Paul kann je nach Quelle unterschiedlich ausfallen.",
+    "Zur sozialen Wahrnehmung in Deutschland liegen hier nur begrenzte Hinweise vor."
+  ],
+  "short_summary": "Pau wird in der vorliegenden Evidenz vor allem sachlich-namenskundlich beschrieben: kurz, selten bis mäßig verbreitet, katalanisch bzw. lateinisch geprägt und mit der Bedeutung Frieden/Friedlicher verbunden.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.91,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Pau � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/P/Pa/Pau/"
+    },
+    {
+      "confidence": 0.89,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Pau: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Pau.html"
+    }
+  ],
+  "style_effect": [
+    "kurz und prägnant",
+    "modern-klarer Klang",
+    "namenskundlich interessant",
+    "international bzw. katalanisch geprägt",
+    "seltenheitsbedingt eher individuell"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland wirkt der Name eher selten bis mäßig verbreitet und daher eher auffällig als massenhaft bekannt. Die öffentliche Sichtbarkeit in der Evidenz ist vor allem lexikalisch, nicht diskursiv."
+}

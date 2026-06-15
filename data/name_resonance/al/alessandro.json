@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "italienische Form von Alexander",
+    "altgriechischer Ursprung",
+    "Bedeutung im Sinne von Beschützer/Männerschützer",
+    "Kurzformen wie Alessio und Sandro",
+    "Namenstag wird genannt",
+    "in Deutschland eher klassisch eingeordnet"
+  ],
+  "confidence": 0.81,
+  "display_text": "Alessandro wirkt in Deutschland überwiegend positiv: klangvoll, klassisch und italienisch geprägt. Die Quellen verbinden den Namen mit der Bedeutung „Beschützer“ und einer eher stilvollen, aber nicht sehr häufigen Wahrnehmung. Die Evidenz ist begrenzt und stammt vor allem aus Namensseiten.",
+  "evidence_quality": "mittel: zwei einschlägige Namensquellen, aber keine breite empirische Befragung oder offizielle Repräsentativdaten",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Alessandro",
+  "normalized_name": "alessandro",
+  "overall_resonance": "Überwiegend positiv bis neutral. Alessandro wird in den vorliegenden Quellen als klangvoller, klassisch-mediterraner Vorname mit klarer Namensbedeutung wahrgenommen; die öffentliche Rezeption wirkt eher wohlwollend als kritisch.",
+  "practical_notes": [
+    "Für Suchmaschinen-Nutzer wirkt Alessandro meist vertraut, international und unkompliziert einordenbar.",
+    "Die Schreibweise ist eindeutig, die Aussprache im Deutschen kann dennoch als leicht italienisch wahrgenommen werden.",
+    "Wer einen klassischen, aber nicht massenhaft verbreiteten Namen sucht, findet hier eine passende Option."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt nur aus zwei vorwiegend namenskundlichen Webseiten; die Aussagekraft ist daher begrenzt.",
+    "Beliebtheits- und Sympathieeindrücke sind kontextabhängig und keine allgemeingültige Bewertung.",
+    "Einzelkommentare bzw. gemischte Plattformen können die Wahrnehmung positiver wirken lassen, als es die breite Öffentlichkeit tatsächlich tut."
+  ],
+  "short_summary": "Alessandro wird im Deutschen überwiegend positiv als klangvoller, klassisch-italienischer Vorname mit starker Bedeutung wahrgenommen; die Evidenz ist jedoch begrenzt und vor allem namenskundlich geprägt.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Alessandro � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/A/Al/Alessandro/"
+    },
+    {
+      "confidence": 0.9,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Alessandro: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Alessandro.html"
+    }
+  ],
+  "style_effect": [
+    "italienisch-mediterran",
+    "klangvoll und melodisch",
+    "klassisch-traditionell",
+    "eher elegant als modern-experimentell",
+    "durch die Kurzform Sandro flexibel"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Im deutschsprachigen Raum bekannt, aber eher nicht alltäglich. Die Quellen deuten auf eine klassische, teils als stilvoll empfundene Wahrnehmung hin; gleichzeitig wird die Beliebtheit eher als rückläufig bzw. nicht besonders dominant beschrieben."
+}

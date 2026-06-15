@@ -1,0 +1,65 @@
+{
+  "associations": [
+    "lateinische Herkunft",
+    "deutsche und italienische Form von Patricia",
+    "Bedeutung: die Adlige / die Patrizierin",
+    "selten",
+    "Namenstag",
+    "Heilige Patrizia von Neapel",
+    "Aussprache- und Schreibhinweise",
+    "gelegentlich kindliche Spitznamen"
+  ],
+  "confidence": 0.88,
+  "display_text": "Patrizia wirkt in Deutschland überwiegend edel, klassisch und anmutig. Der Name ist eher selten, hat einen leicht italienischen Klang und wird meist positiv als traditionsnah wahrgenommen. Vereinzelt wird auf mögliche Schreib- oder Ausspracheunsicherheiten hingewiesen.",
+  "evidence_quality": "Gut bis sehr gut: Die Quellen beziehen sich direkt auf den Namen, seine Herkunft, Bedeutung und typische Wahrnehmungen; ein Teil der Resonanz stammt jedoch aus kommentarbasierten, daher nur begrenzt verallgemeinerbaren Aussagen.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Patrizia",
+  "normalized_name": "patrizia",
+  "overall_resonance": "Überwiegend positiv und eher elegant-klassisch, mit leicht fremdsprachigem bzw. italienischem Klang. In der öffentlichen Wahrnehmung wird der Name oft als edel, anmutig und traditionsnah beschrieben; zugleich gilt er als eher selten und nicht ganz unkompliziert in Schreibweise oder Aussprache.",
+  "practical_notes": [
+    "Für eine öffentliche Wirkung wirkt Patrizia meist klar weiblich und kulturell markant.",
+    "Die Schreibweise kann gelegentlich mit Patricia verwechselt werden.",
+    "Der Name vermittelt eher Stil und Eleganz als moderne Trendigkeit.",
+    "Im deutschen Kontext dürfte die Seltenheit den Namen auffälliger, aber auch erklärungsbedürftiger machen."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Einzelne Online-Kommentare sind anekdotisch und nicht als allgemeingültig zu lesen.",
+    "Hinweise auf Hohn oder Spott erscheinen als mögliche soziale Reaktion, nicht als Eigenschaft des Namens selbst.",
+    "Die Evidenz ist insgesamt solide, aber für Alltagswahrnehmung nur begrenzt repräsentativ, da sie vor allem aus Namensdatenbanken und Kommentaren stammt."
+  ],
+  "short_summary": "Patrizia wird im Deutschen meist als edler, klassisch-eleganter und eher seltener Vorname wahrgenommen; vereinzelt werden Schreib- und Aussprachehürden genannt.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Patrizia � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/P/Pa/Patrizia/"
+    },
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "eher positiv mit einzelnen kritischen Stimmen",
+      "source_type": "web",
+      "title": "&#9655; Vorname Patrizia: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Patrizia.html"
+    }
+  ],
+  "style_effect": [
+    "edel",
+    "klassisch",
+    "anmutig",
+    "weich klingend",
+    "leicht italienisch",
+    "selten",
+    "namenskundlich etabliert"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Eher selten bis mäßig sichtbar im deutschen Namensgebrauch; in Namenslexika und Vornamensdatenbanken präsent, aber kein besonders alltagsdominanter Name."
+}

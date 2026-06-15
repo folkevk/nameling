@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "skandinavische Kurzform",
+    "altnordische Herkunft",
+    "Bezug zu Thor/Donnergott",
+    "männlicher Vorname",
+    "selten in Deutschland",
+    "in Skandinavien verbreiteter"
+  ],
+  "confidence": 0.82,
+  "display_text": "Tore wirkt in der öffentlichen Wahrnehmung eher positiv und neutral-sachlich: ein kurzer, skandinavisch geprägter Name mit markanter, klarer Klangwirkung. In Deutschland ist er eher selten, weshalb er auffällt, ohne stark polarisiert zu sein. Die vorliegende Evidenz stammt allerdings überwiegend aus Namenslexika statt aus breiter öffentlicher Diskussion.",
+  "evidence_quality": "mittel: mehrere passende Namensquellen, aber wenig echte öffentliche Diskussionsdaten",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Tore",
+  "normalized_name": "tore",
+  "overall_resonance": "Die öffentliche Resonanz auf den Vornamen Tore wirkt insgesamt eher positiv bis neutral: Der Name wird vor allem sachlich als skandinavisch, kurz und markant beschrieben, teils mit Bezug zu Thor/Donner. Die verfügbare Evidenz stammt jedoch überwiegend aus Namenslexika und Beliebtheitsseiten, nicht aus echter öffentlicher Meinungsdiskussion.",
+  "practical_notes": [
+    "Für Suchmaschinen- oder Namensprofile eignet sich Tore als klarer, kurzer und eigenständiger Name.",
+    "Die Wirkung wird in den Quellen eher als positiv und ungewöhnlich, aber nicht ausgefallen beschrieben.",
+    "Für Deutschland kann der Name durch seine Seltenheit stärker im Gedächtnis bleiben."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist für öffentliche Resonanz nur mittelstark, weil sie vor allem aus Namenslexika und nicht aus breiten Meinungsäußerungen besteht.",
+    "Beliebtheitsaussagen sollten vorsichtig gelesen werden, da sie je nach Quelle und Zeitpunkt variieren können."
+  ],
+  "short_summary": "Tore wird überwiegend positiv bis neutral wahrgenommen: kurz, skandinavisch und markant, in Deutschland eher selten.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Tore � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/T/To/Tore/"
+    },
+    {
+      "confidence": 0.95,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Tore: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Tore.html"
+    }
+  ],
+  "style_effect": [
+    "kurz und prägnant",
+    "skandinavisch-nordisch",
+    "sachlich",
+    "modern wirkend",
+    "markant",
+    "eher selten"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland eher selten und dadurch eher auffällig als sehr geläufig; die Sichtbarkeit ist vorhanden, aber begrenzt."
+}

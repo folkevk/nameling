@@ -1,0 +1,59 @@
+{
+  "associations": [
+    "Bedeutungseindruck: „die Reine“ / „die Heilige“ / „die Geweihte“",
+    "altgriechische Herkunft",
+    "Bezug zu Agnes bzw. Inés",
+    "Namenstag",
+    "in Deutschland bekannt",
+    "eher traditionsnah und nicht modisch-auffällig"
+  ],
+  "confidence": 0.86,
+  "display_text": "Ines wirkt im deutschsprachigen Raum bekannt, klassisch und eher positiv konnotiert. Die vorliegenden Quellen sind vor allem namenkundlich und zeigen eine sachliche, leicht wertschätzende Resonanz; eine breite öffentliche Kontroverse ist nicht erkennbar.",
+  "evidence_quality": "mittel bis gut; die Quellen sind relevant und namebezogen, aber die öffentliche Resonanz ist nur indirekt über Namensseiten und Kommentare erfasst.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Ines",
+  "normalized_name": "ines",
+  "overall_resonance": "Überwiegend sachlich bis leicht positiv; der Name wirkt im deutschsprachigen Raum vertraut und eher traditionell.",
+  "practical_notes": [
+    "Für eine Namenssuche eignet sich Ines als kurzer, klarer und gut einprägsamer Vorname.",
+    "Die Wirkung ist eher klassisch als modern-experimentell.",
+    "Die Quellen deuten auf positive bis neutrale Konnotationen hin, ohne starke Kontroversen."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist vor allem lexikalisch und namenkundlich; für eine breite öffentliche Meinungslage ist sie nur begrenzt aussagekräftig.",
+    "Hinweise auf „ältere Generationen“ stammen aus Kommentaren und sollten nicht verallgemeinert werden."
+  ],
+  "short_summary": "Ines wird meist sachlich und eher positiv wahrgenommen: ein vertrauter, klassischer Vorname mit griechischer Herkunft und klarer Namensbedeutung.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "Vorname Ines � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/I/In/Ines/"
+    },
+    {
+      "confidence": 0.87,
+      "is_name_discussion": true,
+      "sentiment": "neutral bis leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Ines: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Ines.html"
+    }
+  ],
+  "style_effect": [
+    "informativ",
+    "klassisch",
+    "traditionell",
+    "ruhig",
+    "namenskundlich"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Im deutschsprachigen Raum bekannt und auffindbar, mit klarer namenkundlicher Präsenz; die öffentliche Alltagsresonanz wirkt eher moderat als auffällig."
+}

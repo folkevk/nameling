@@ -1,0 +1,70 @@
+{
+  "associations": [
+    "Bedeutung wird häufig als „die Nährende“ angegeben",
+    "mögliche Herleitungen: lateinisch, hebräisch oder gotisch",
+    "traditionsreich und historisch belegt",
+    "seit dem 19. Jahrhundert bekannt bzw. verbreitet",
+    "aktuell wieder populär in Deutschland",
+    "Namenstag wird in den Quellen genannt"
+  ],
+  "confidence": 0.92,
+  "display_text": "Alma wird in den verfügbaren Quellen überwiegend positiv wahrgenommen: als klassischer, kurzer und klanglich weicher Vorname, der traditionell wirkt und in Deutschland wieder an Beliebtheit gewonnen hat. Die vorhandene Evidenz stammt vor allem aus Namenslexika; eine breite öffentliche Debatte ist kaum erkennbar.",
+  "evidence_quality": "mittel bis gut; mehrere einschlägige Namensportale, aber wenig unabhängige öffentliche Debatte oder Nutzerreaktionen.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Alma",
+  "normalized_name": "alma",
+  "overall_resonance": "Überwiegend positiv und wertschätzend, mit klarer Tendenz zu traditionell, kurz und wieder modern beliebt. Die verfügbare Evidenz stammt jedoch fast vollständig aus Namenslexika und nicht aus freier öffentlicher Debatte.",
+  "practical_notes": [
+    "Für Suchmaschinen wirkt Alma freundlich, zeitlos und zugleich modern.",
+    "Der Name ist kurz, gut merkbar und leicht aussprechbar.",
+    "Die öffentliche Wahrnehmung erscheint eher positiv als negativ.",
+    "Für eine knappe Namensbeschreibung eignet sich: traditionell, schlicht, wieder beliebt."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist stark quellengebunden und zeigt vor allem lexikalische Beschreibungen, keine breite öffentliche Diskussion.",
+    "Es liegen keine belastbaren Hinweise auf Stigmatisierung oder kontroverse gesellschaftliche Konnotationen vor.",
+    "Einzelne Zusatzangaben in den Quellen sind mehrdeutig; daher vorsichtig interpretieren."
+  ],
+  "short_summary": "Alma wird in den verfügbaren Quellen überwiegend positiv dargestellt: traditionell, kurz, klangvoll und in Deutschland wieder beliebt. Die Evidenz ist vor allem namenskundlich und nicht gesellschaftlich breit diskutiert.",
+  "source_count": 3,
+  "sources": [
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "Vorname Alma � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/A/Al/Alma/"
+    },
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "positive",
+      "source_type": "web",
+      "title": "Vorname Alma � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/A/Al/Alma/"
+    },
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Alma: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Alma.html"
+    }
+  ],
+  "style_effect": [
+    "informativ",
+    "namenskundlich",
+    "klassisch",
+    "modern wiederentdeckt",
+    "kurz und klanglich schlicht",
+    "weich und weiblich wirkend"
+  ],
+  "usable_evidence_count": 3,
+  "visibility": "Im deutschsprachigen Raum sichtbar und etabliert; in den Quellen wird Alma als in Deutschland bekannt und wieder häufiger vergeben beschrieben."
+}

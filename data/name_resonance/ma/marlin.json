@@ -1,0 +1,67 @@
+{
+  "associations": [
+    "Bedeutung: Falke bzw. kleiner Falke",
+    "mögliche Herkunftsbezüge: keltisch, englisch oder als Variante anderer Namen gedeutet",
+    "Unisex-Name",
+    "Namenstag: 25. April",
+    "eher selten, aber vergeben",
+    "namenskundlich und lexikalisch präsent"
+  ],
+  "confidence": 0.71,
+  "display_text": "Marlin wirkt in Deutschland eher selten, modern und leicht positiv besetzt. Die Namensquellen verbinden ihn vor allem mit „Falke“, nennen ihn teils als Unisex-Namen und zeigen unterschiedliche Herkunftsdeutungen. Insgesamt: sachlich-informativ, markant, aber nicht stark verbreitet.",
+  "evidence_quality": "begrenzt: wenige, ähnlich gelagerte Namenslexikon-Quellen; überwiegend beschreibend statt diskussionsbasiert",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Marlin",
+  "normalized_name": "marlin",
+  "overall_resonance": "Der Vorname Marlin wird in den vorliegenden Namensquellen überwiegend sachlich, leicht positiv und eher modern wahrgenommen. Er erscheint als seltener, aber gebräuchlicher Unisex-Name mit namenkundlichen Bezügen wie „Falke“ sowie teils unterschiedlichen Herkunftsdeutungen.",
+  "practical_notes": [
+    "Für die Namenssuche wirkt Marlin unkompliziert, modern und gut einprägsam.",
+    "Die Schreib- und Klangwirkung ist eher weich bis klar, mit einem leicht ungewöhnlichen Charakter.",
+    "Wegen der geringen Datenlage ist die Einschätzung eher vorsichtig als repräsentativ für die breite Öffentlichkeit."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz basiert fast ausschließlich auf einzelnen Namenslexikon-Seiten; die öffentliche Rezeption ist daher nur begrenzt abgesichert.",
+    "Herkunft und Bedeutungsdeutungen werden in den Quellen teils unterschiedlich beschrieben und sollten als mögliche Deutungen verstanden werden, nicht als gesicherte Tatsache."
+  ],
+  "short_summary": "Marlin wird in den Quellen eher positiv und sachlich als seltener Unisex-Name mit der Assoziation „Falke“ beschrieben. Die öffentliche Resonanz wirkt modern und freundlich, die Evidenz ist aber begrenzt.",
+  "source_count": 3,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Marlin � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/M/Ma/Marlin/"
+    },
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Marlin � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/M/Ma/Marlin/"
+    },
+    {
+      "confidence": 0.88,
+      "is_name_discussion": true,
+      "sentiment": "eher positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Marlin: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Marlin.html"
+    }
+  ],
+  "style_effect": [
+    "informativ",
+    "modern",
+    "leicht markant",
+    "selten, aber vertraut",
+    "geschlechtsneutral lesbar"
+  ],
+  "usable_evidence_count": 3,
+  "visibility": "In Deutschland wirkt Marlin eher bekannt als Nischenname: präsent in Namenslexika und Beliebtheitslisten, aber nicht als sehr häufiger Standardname."
+}

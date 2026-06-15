@@ -1,0 +1,68 @@
+{
+  "associations": [
+    "Kurzform von Irina/Irene",
+    "altgriechische Herkunft wird häufig genannt",
+    "Bedeutungsfeld: Frieden, Friedfertigkeit, Harmonie",
+    "teils als Unisex-Name beschrieben",
+    "selten bis moderat verbreitet in Deutschland",
+    "Namenstag wird in Quellen erwähnt"
+  ],
+  "confidence": 0.86,
+  "display_text": "Ira wirkt in Deutschland überwiegend neutral bis freundlich-informativ. Der Name wird meist mit Frieden, Friedfertigkeit und Harmonie verbunden, gilt als kurz und markant und ist eher selten bis moderat verbreitet. Die Datenlage ist vor allem namenkundlich; echte öffentliche Debatten sind kaum sichtbar. Einzelne Nebenassoziationen wie „Zorn“ oder die Abkürzung IRA erscheinen in den Quellen, spielen aber eher eine Nebenrolle.",
+  "evidence_quality": "Mittel bis gut: mehrere explizite Namensquellen, aber wenig echte öffentliche Debatte und insgesamt starke Abhängigkeit von Lexikon-Einträgen.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Ira",
+  "normalized_name": "ira",
+  "overall_resonance": "Überwiegend neutral bis freundlich-informativ, mit einer leicht positiven Grundtönung durch Bedeutungen wie „friedlich“ oder „harmonisch“.",
+  "practical_notes": [
+    "Für Suchmaschinen wirkt der Name eher sachlich und freundlich als polarisierend.",
+    "Die Kürze macht ihn einprägsam und international gut lesbar.",
+    "Wer eine klar eindeutige Herkunft erwartet, sollte die Mehrdeutigkeit des Namens mitdenken."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt vor allem aus Namenslexika, daher ist die öffentliche Resonanz nur eingeschränkt belastbar.",
+    "Die Herkunfts- und Bedeutungsangaben sind teils mehrdeutig.",
+    "Einzelne Quellen erwähnen mögliche negative Nebenassoziationen wie „Zorn“ oder die Abkürzung IRA; diese wirken jedoch eher randständig und nicht dominant."
+  ],
+  "short_summary": "Ira wird in deutschen Namensquellen überwiegend neutral bis positiv beschrieben: kurz, markant und oft mit Frieden/Harmonie verbunden. Die Resonanz ist insgesamt eher sachlich als emotional, mit wenigen randständigen Negativassoziationen.",
+  "source_count": 3,
+  "sources": [
+    {
+      "confidence": 0.94,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Ira � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/I/Ir/Ira/"
+    },
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Ira � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/I/Ir/Ira/"
+    },
+    {
+      "confidence": 0.91,
+      "is_name_discussion": true,
+      "sentiment": "gemischt",
+      "source_type": "web",
+      "title": "&#9655; Vorname Ira: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Ira.html"
+    }
+  ],
+  "style_effect": [
+    "kurz und klar",
+    "lexikalisch-namenkundlich",
+    "modern-knapp, aber klassisch lesbar",
+    "durch die Kürze markant und prägnant",
+    "wirkungsvoll als Vorname, ohne stark festgelegtes Image"
+  ],
+  "usable_evidence_count": 3,
+  "visibility": "Der Name ist in Deutschland eher selten bis moderat sichtbar und wirkt vor allem aus namenkundlichen Quellen bekannt, nicht als stark öffentlich diskutierter Trendname."
+}

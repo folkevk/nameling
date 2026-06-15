@@ -1,0 +1,64 @@
+{
+  "associations": [
+    "altisländische bzw. nordische Herkunft",
+    "Bedeutungen rund um Schutz, Zufluchtsort, Garten/Hege",
+    "weiblicher Vorname",
+    "historisch in Deutschland bekannt",
+    "heute eher selten",
+    "Namenstag",
+    "Beschützerin",
+    "mythologische Bezüge in der Namenskunde"
+  ],
+  "confidence": 0.88,
+  "display_text": "Gerda wird öffentlich vor allem als traditioneller, nordisch geprägter und heute eher seltener Vorname wahrgenommen. Der Name ist bekannt und wirkt eher klassisch als modern; die vorhandene Evidenz ist solide für Herkunft und Bedeutung, aber nur indirekt für echte Alltagsresonanz.",
+  "evidence_quality": "gut für namenskundliche Einordnung, aber schwach für direkte öffentliche Resonanz; vor allem lexikalische/lexikonartige Quellen",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Gerda",
+  "normalized_name": "gerda",
+  "overall_resonance": "Gerda wirkt in der öffentlichen Wahrnehmung eher traditionell, klar und namenskundlich gut verankert. Der Name wird vor allem mit nordisch/altdeutschen Wurzeln, Schutz- und Garten-/Hege-Bedeutungen sowie einer historischen Bekanntheit in Deutschland verbunden. Insgesamt eher neutral bis leicht positiv, aber heute nicht mehr sehr trendig.",
+  "practical_notes": [
+    "Für Suchmaschinen-Nutzer ist Gerda ein klar einordenbarer, klassischer Vorname.",
+    "Der Name kann seriös, traditionsbewusst und schlicht wirken.",
+    "Wer einen seltenen, aber bekannten Vornamen sucht, findet hier eine passende Option.",
+    "Spitznamenformen wie Gerdi oder Gerti werden in der Namenskunde teils genannt."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt überwiegend aus Namensdatenbanken und ist damit nur indirekt ein Hinweis auf öffentliche Resonanz.",
+    "Es gibt keine belastbare breite Diskussionslage; Aussagen zur Wirkung bleiben deshalb vorsichtig.",
+    "Traditionelle oder seltene Wahrnehmung beschreibt einen Namenseindruck, keine Eigenschaft von Personen."
+  ],
+  "short_summary": "Gerda ist ein traditioneller, eher seltener, aber gut bekannter Vorname mit nordisch-altdeutschen Wurzeln. Die öffentliche Wahrnehmung wirkt überwiegend neutral bis leicht positiv.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Gerda � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/G/Ge/Gerda/"
+    },
+    {
+      "confidence": 0.86,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Gerda: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Gerda.html"
+    }
+  ],
+  "style_effect": [
+    "traditionell",
+    "klassisch",
+    "bodenständig",
+    "nordisch geprägt",
+    "eher schlicht als modisch",
+    "historisch vertraut"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Der Name ist bekannt, wirkt aber im heutigen Sprachgebrauch eher selten als häufig. Die Evidenz spricht für eine stabile historische Präsenz und aktuelle Vertrautheit, jedoch ohne starke moderne Popularität."
+}

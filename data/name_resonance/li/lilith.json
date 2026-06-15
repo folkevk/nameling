@@ -1,0 +1,65 @@
+{
+  "associations": [
+    "Nacht",
+    "Nachtwind",
+    "mythologisch",
+    "biblisch",
+    "althebräisch",
+    "babylonisch",
+    "Feminismus",
+    "Weiblichkeit",
+    "Geheimnis",
+    "seltene bis moderate Verwendung in Deutschland"
+  ],
+  "confidence": 0.91,
+  "display_text": "Lilith wird in Deutschland meist als klangvoller, seltener und markanter Vorname wahrgenommen. Die Resonanz ist überwiegend neutral bis leicht positiv, mit einer deutlichen mythologischen und teils ambivalenten Konnotation.",
+  "evidence_quality": "gut: zwei einschlägige Namensquellen mit klarer Namensdiskussion, aber begrenzte Breite der öffentlichen Evidenz",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Lilith",
+  "normalized_name": "lilith",
+  "overall_resonance": "Der Vorname Lilith wird in Deutschland überwiegend als markant, klangvoll und kulturgeschichtlich aufgeladen wahrgenommen. Die öffentliche Rezeption ist eher neutral bis leicht positiv, zugleich aber deutlich ambivalent wegen mythologischer und teils dämonischer Deutungen.",
+  "practical_notes": [
+    "Für eine Namenssuche ist Lilith ein prägnanter, ungewöhnlicher Name mit starker Wirkung.",
+    "Wer einen eher unauffälligen oder traditionsneutralen Namen sucht, könnte die symbolische Aufladung als zu stark empfinden.",
+    "Wer einen seltenen, klangvollen und kulturell markanten Namen bevorzugt, findet hier oft eine attraktive Wahl."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Herkunft und Bedeutung werden in Quellen teils unterschiedlich erklärt; die Deutungen sind nicht völlig einheitlich.",
+    "Mythologische und dämonische Assoziationen können für manche Menschen ambivalent oder negativ wirken.",
+    "Die Evidenz basiert hier vor allem auf Namenslexika; das ist für eine öffentliche Resonanzkarte hilfreich, aber nicht vollständig repräsentativ."
+  ],
+  "short_summary": "Lilith gilt in Deutschland als klangvoll, selten bis moderat gebräuchlich und kulturell stark aufgeladen. Die Resonanz ist eher neutral bis leicht positiv, bleibt aber wegen mythologischer und teils dämonischer Bezüge ambivalent.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "gemischt",
+      "source_type": "web",
+      "title": "Vorname Lilith � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/L/Li/Lilith/"
+    },
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Lilith: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Lilith.html"
+    }
+  ],
+  "style_effect": [
+    "klangvoll",
+    "modern wirkend",
+    "dunkel oder geheimnisvoll konnotiert",
+    "mythologisch aufgeladen",
+    "eigenständig und auffällig",
+    "teils elegant, teils provokant wahrgenommen"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Mittlere bis gute Sichtbarkeit: Der Name ist bekannt und in Namenslexika präsent, wirkt aber weiterhin eher besonders als alltäglich. In Deutschland wird er eher als seltener bis moderat gebräuchlicher Vorname beschrieben."
+}

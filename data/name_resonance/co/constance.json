@@ -1,0 +1,62 @@
+{
+  "associations": [
+    "lateinischer Ursprung",
+    "Bedeutung: die Beständige / die Standhafte",
+    "englische bzw. französische Form von Constanze/Konstanze",
+    "weiblicher Vorname",
+    "Namenstag am 18. Februar",
+    "selten bis moderat verbreitet in Deutschland",
+    "oft als ungewöhnlich oder edel wahrgenommen"
+  ],
+  "confidence": 0.87,
+  "display_text": "Constance wirkt in der öffentlichen Namenswahrnehmung überwiegend sachlich-neutral bis leicht positiv: klassisch, international und eher selten. Häufig genannt werden die Bedeutungen „die Beständige“ oder „die Standhafte“ sowie die Einordnung als englische bzw. französische Form von Constanze/Konstanze. In Deutschland ist der Name eher ungewöhnlich, was ihn markanter macht; zugleich kann die Schreibweise im Alltag gelegentlich erklärungsbedürftig sein. Die Evidenz ist jedoch begrenzt und stammt vor allem aus Namenslexika.",
+  "evidence_quality": "mittel: klare Namenslexikon-Evidenz, aber begrenzte Quellenzahl und teilweise kommentarbasiert",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Constance",
+  "normalized_name": "constance",
+  "overall_resonance": "Überwiegend sachlich-neutral bis leicht positiv. Der Name wird meist mit Beständigkeit, Standhaftigkeit und einer klassischen, internationalen Wirkung verbunden.",
+  "practical_notes": [
+    "Für Suchende wirkt der Name klar, international und traditionsnah.",
+    "Die Schreibweise kann im Alltag gelegentlich erklärt oder korrigiert werden.",
+    "Als Vorname erscheint Constance in Deutschland eher markant als massentauglich."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt vor allem aus zwei Namenslexikon-/Babynamen-Seiten; das ist nur eine begrenzte öffentliche Datenbasis.",
+    "Einige Einschätzungen zu Beliebtheit und Wahrnehmung beruhen auf kommentarbasierten oder redaktionellen Quellen und sind nicht als allgemeine Mehrheitsmeinung zu verstehen.",
+    "Die Hinweise auf häufige Falschschreibungen und Seltenheit sind kontextabhängig und sollten nicht übergeneralisiert werden."
+  ],
+  "short_summary": "Constance wird in den vorliegenden Quellen vor allem als klassischer, internationaler und eher seltener Vorname mit der Bedeutung „die Beständige“ / „die Standhafte“ beschrieben.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Constance � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/C/Co/Constance/"
+    },
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Constance: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Constance.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "international",
+    "elegant",
+    "zeitlos",
+    "eher selten",
+    "namenskundlich geprägt"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland eher selten und daher auffälliger als sehr gängige Namen; in Namenslexika und Babynamen-Portalen klar präsent, in der breiten Alltagsverwendung aber nicht besonders verbreitet."
+}

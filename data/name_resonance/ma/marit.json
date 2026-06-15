@@ -1,0 +1,59 @@
+{
+  "associations": [
+    "skandinavische Herkunft",
+    "Kurzform von Margarete",
+    "Bedeutung: Perle",
+    "weiblicher Vorname",
+    "eher selten bis moderat bekannt",
+    "Namenstag am 20. Juli"
+  ],
+  "confidence": 0.88,
+  "display_text": "Marit wirkt in der öffentlichen Namensrezeption überwiegend positiv: kurz, skandinavisch geprägt und angenehm klar. Der Name ist in Deutschland eher bekannt als sehr häufig und wird meist sachlich bis freundlich beschrieben. Die Evidenz stammt vor allem aus Namenslexika, daher ist die Einordnung vorsichtig zu lesen.",
+  "evidence_quality": "gut, aber vor allem sekundäre Namensquellen statt breit gestreuter öffentlicher Meinungsdaten",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Marit",
+  "normalized_name": "marit",
+  "overall_resonance": "Überwiegend positiv und sachlich-neutral: Marit wird in der öffentlichen Namensrezeption meist als kurzer, skandinavisch geprägter Vorname mit angenehmer, eher eleganter Wirkung beschrieben.",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt Marit klar, international anschlussfähig und unaufgeregt.",
+    "Der Name hat eine positive Bedeutungsassoziation, ohne stark trendabhängig zu wirken.",
+    "Im deutschen Kontext eher angenehm vertraut als ausgefallen."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz basiert vor allem auf Namenslexika und Informationsseiten; echte öffentliche Wahrnehmung ist nur indirekt ablesbar.",
+    "Einzelne Kommentare in den Quellen sind eher anekdotisch und sollten nicht verallgemeinert werden."
+  ],
+  "short_summary": "Marit wird meist positiv, kurz und skandinavisch wahrgenommen; der Name gilt als klar, angenehm und eher selten, ohne starke Kontroversen.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "Vorname Marit � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/M/Ma/Marit/"
+    },
+    {
+      "confidence": 0.94,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Marit: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Marit.html"
+    }
+  ],
+  "style_effect": [
+    "kurz und klar",
+    "skandinavisch geprägt",
+    "zeitlos-modern",
+    "leicht elegant",
+    "namenskundlich gut anschlussfähig"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland eher bekannt als sehr geläufig; wirkt präsent, aber nicht massenhaft verbreitet."
+}

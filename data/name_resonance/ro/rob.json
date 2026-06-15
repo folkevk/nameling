@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "Kurzform von Robert",
+    "teils Kurzform von Robin",
+    "englische und niederländische Namensverwendung",
+    "Bedeutung im Umfeld von Robert: Ruhm/Ehre/strahlend",
+    "männlicher Vorname",
+    "selten in Deutschland"
+  ],
+  "confidence": 0.84,
+  "display_text": "Rob wirkt in Deutschland eher selten und vor allem sachlich-neutral: ein kurzer, international klingender Name, meist als Kurzform von Robert oder Robin verstanden. Die öffentliche Resonanz ist aufgrund der vorliegenden, überwiegend lexikalischen Evidenz nur begrenzt belegt.",
+  "evidence_quality": "mittel bis schwach: zwei überwiegend lexikalische, sachliche Quellen; kaum direkte öffentliche Diskussion.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Rob",
+  "normalized_name": "rob",
+  "overall_resonance": "Die öffentliche Resonanz zu „Rob“ wirkt insgesamt sachlich-neutral und eher namenskundlich als emotional aufgeladen. Der Name wird meist als Kurzform von Robert, teils auch von Robin, wahrgenommen und in Deutschland als eher selten beschrieben.",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt Rob kurz, klar und international verständlich.",
+    "In Deutschland kann der Name durch seine Seltenheit bewusst und markant wirken.",
+    "Die Datenlage zur öffentlichen Resonanz ist begrenzt; eine breite Alltagswahrnehmung lässt sich daraus nur vorsichtig ableiten."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz basiert fast vollständig auf redaktionellen Namensseiten, nicht auf freier öffentlicher Debatte.",
+    "Die Wahrnehmung als „selten“ ist datenbankgestützt und sollte nicht als allgemeingültige soziale Bewertung gelesen werden.",
+    "Keine belastbaren Hinweise auf eine gesellschaftliche Stigmatisierung oder starke negative Konnotation in der vorliegenden Evidenz."
+  ],
+  "short_summary": "Rob wird in der vorliegenden Evidenz als seltener, kurzer und international wirkender Jungenname mit neutraler, sachlicher Rezeption beschrieben.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Rob � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/R/Ro/Rob/"
+    },
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Rob: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Rob.html"
+    }
+  ],
+  "style_effect": [
+    "kurz und prägnant",
+    "international/englisch-niederländisch wirkend",
+    "modern-kurzformartig",
+    "sachlich statt verspielt",
+    "eher selten und dadurch auffällig"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Gering bis mittel: In der vorliegenden Evidenz taucht „Rob“ vor allem in Namenslexika und Datenbankeinträgen auf, nicht als breit diskutierter Alltagsname. Dadurch ist die öffentliche Wahrnehmung nur eingeschränkt belegt."
+}

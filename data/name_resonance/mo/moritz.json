@@ -1,0 +1,62 @@
+{
+  "associations": [
+    "deutscher Jungenvorname",
+    "lateinische Herkunft",
+    "Bedeutung: der Dunkle / der Dunkelhäutige",
+    "Namenstag am 22. September",
+    "historisch verbreitet",
+    "seit den 1990er Jahren in Deutschland beliebt",
+    "aktuell gut etabliert in Deutschland"
+  ],
+  "confidence": 0.92,
+  "display_text": "Moritz wird in Deutschland meist als klassischer, vertrauter und gut etablierter Jungenname wahrgenommen. Die verfügbare Evidenz ist vor allem namenskundlich und spricht für eine eher neutrale bis positive Resonanz ohne starke soziale Stigmatisierung.",
+  "evidence_quality": "Gut für die namensbezogene Einordnung, aber nur mittelstark für echte öffentliche Resonanz, da die Quellen vor allem informativ und nicht repräsentativ sind.",
+  "generated_at": "2026-06-12T06:08:03Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Moritz",
+  "normalized_name": "moritz",
+  "overall_resonance": "Moritz wirkt in Deutschland als klassischer, gut etablierter Jungenvorname mit überwiegend neutral bis positiv wirkender öffentlicher Wahrnehmung. Die verfügbaren Quellen sind vor allem namenskundlich und beschreiben den Namen sachlich; sie deuten auf Vertrautheit, lange Verwendung und anhaltende Beliebtheit hin.",
+  "practical_notes": [
+    "Für eine Namenssuche lässt sich Moritz gut als klassisch, bekannt und unaufgeregt beschreiben.",
+    "Der Name trägt eine klare, traditionelle Einordnung ohne starke soziale Stigmatisierung.",
+    "Die Wahrnehmung ist eher namenkundlich als trendgetrieben."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist begrenzt und stammt überwiegend aus Namensportalen, nicht aus einer breiten repräsentativen Meinungsbasis.",
+    "Einzelne Kommentar- oder Beispielsammlungen können subjektive Eindrücke enthalten und sollten nicht verallgemeinert werden."
+  ],
+  "short_summary": "Moritz ist in Deutschland ein klassischer, gut etablierter Jungenname mit neutral bis positiv wirkender Resonanz. Die Quellen betonen Herkunft, Bedeutung und langfristige Beliebtheit.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Moritz � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/M/Mo/Moritz/"
+    },
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Moritz: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Moritz.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "deutsch wirkend",
+    "traditionell",
+    "zeitlos",
+    "sachlich",
+    "vertraut",
+    "etabliert"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Hoch: Der Name ist in Deutschland bekannt, historisch verbreitet und aktuell gut etabliert. Die Resonanz zeigt sich eher in Namenslexika und Beliebtheitsseiten als in breiter Alltagsdebatte."
+}

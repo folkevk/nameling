@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "Bedeutung im Sinn von „unter dem Schutz der Götter“ bzw. „von Gott beschützt“",
+    "altgermanische und althochdeutsche Herkunft",
+    "historische Nutzung seit dem Mittelalter",
+    "Namenstag am 21. April",
+    "Bezug zu Anselm von Canterbury",
+    "Varianten wie Anselmo, Anselmus, Anzo, Anselme, Anselmi"
+  ],
+  "confidence": 0.89,
+  "display_text": "Anselm wirkt in Deutschland klassisch, historisch und eher selten. Die öffentliche Resonanz ist überwiegend neutral bis leicht positiv; vereinzelt gibt es kritische Kommentare zu Klang oder internationaler Verwendbarkeit, aber keine breite Debatte.",
+  "evidence_quality": "gut für Herkunft, Bedeutung und lexikalische Einordnung; begrenzt für breite Alltagsresonanz, da nur wenige, namensbezogene Quellen vorliegen.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Anselm",
+  "normalized_name": "anselm",
+  "overall_resonance": "Anselm wirkt in der öffentlichen Wahrnehmung überwiegend klassisch, historisch und eher selten. Der Name wird vor allem etymologisch und kulturell eingeordnet; die Resonanz ist insgesamt eher ruhig bis leicht positiv, ohne breite emotionale Debatte.",
+  "practical_notes": [
+    "Für eine Namenssuche ist Anselm ein markanter, traditioneller Name mit klarer historischer Tiefe.",
+    "Wer einen seltenen, klassischen und sprachlich eher markanten Namen sucht, findet hier eine passende Option.",
+    "Die Aussagekraft zur Alltagswahrnehmung ist begrenzt, da die öffentliche Resonanz schmal ist."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz basiert fast vollständig auf Namenslexika und wenigen Kommentaren; eine breite öffentliche Debatte ist nicht erkennbar.",
+    "Einzelne kritische Kommentare betreffen vor allem Klang, Wirkung oder internationale Nutzbarkeit, sollten aber nicht verallgemeinert werden.",
+    "Es gibt keine belastbaren Hinweise auf eine stärkere soziale Stigmatisierung des Namens."
+  ],
+  "short_summary": "Anselm wird in Deutschland vor allem als seltener, klassischer und historisch geprägter Vorname wahrgenommen. Die Resonanz ist eher neutral bis leicht positiv, mit wenigen kritischen Stimmen zur Klang- oder Auslandstauglichkeit.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Anselm � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/A/An/Anselm/"
+    },
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "mixed",
+      "source_type": "web",
+      "title": "&#9655; Vorname Anselm: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Anselm.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "historisch",
+    "altgermanisch/althochdeutsch",
+    "eher selten",
+    "gebildet/namenkundlich",
+    "leicht eigenständig"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland scheint Anselm selten bis mäßig verbreitet zu sein und dadurch eher auffällig als alltäglich. Öffentliche Diskussionen zum Namen selbst sind vorhanden, aber begrenzt und meist namenkundlich statt gesellschaftlich breit geführt."
+}

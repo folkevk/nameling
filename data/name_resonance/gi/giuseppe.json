@@ -1,0 +1,114 @@
+{
+  "associations": [
+    "italienische Form von Josef",
+    "hebräisch-biblischer Ursprung",
+    "Bedeutung: „Gott möge hinzufügen“",
+    "männlicher Vorname",
+    "selten in Deutschland",
+    "regional teils stärker vertreten",
+    "klassisch und traditionsnah",
+    "hoher Wiedererkennungswert"
+  ],
+  "confidence": 0.89,
+  "display_text": "Giuseppe wirkt in Deutschland überwiegend sachlich-neutral bis leicht positiv: ein klassisch-italienischer, biblisch geprägter und eher seltener Vorname mit klarem Wiedererkennungswert.",
+  "evidence_quality": "mittel bis gut; mehrere unabhängige Namensseiten und Statistikquellen, aber wenig echte gesellschaftliche Breitenresonanz",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Giuseppe",
+  "normalized_name": "giuseppe",
+  "overall_resonance": "Überwiegend sachlich-neutral mit leicht positiver Tendenz. Giuseppe wird öffentlich vor allem als italienische Form von Josef wahrgenommen, mit klarer Namensbedeutung und klassisch-biblischem Hintergrund. In Deutschland wirkt der Name eher selten und dadurch auffälliger, aber nicht problematisch oder stigmatisiert.",
+  "practical_notes": [
+    "Für eine Namenssuche ist Giuseppe gut verständlich, kulturell klar einordenbar und meist eindeutig als italienisch wahrnehmbar.",
+    "Der Name wirkt in Deutschland eher ungewöhnlich, was ihn markant macht.",
+    "Wegen der klaren Herkunft und Schreibweise entsteht ein eher klassischer als moderner Eindruck.",
+    "Die Datenlage spricht eher für neutrale bis leicht positive Resonanz als für kontroverse Bewertungen."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist überwiegend aus Namenslexika und Statistikseiten zusammengesetzt; echte öffentliche Diskussion ist nur begrenzt sichtbar.",
+    "Positive oder negative Alltagsassoziationen lassen sich daraus nur vorsichtig ableiten.",
+    "Keine Hinweise auf soziale Stigmatisierung; falls einzelne Kommentare kritisch sind, wirken sie eher geschmacklich als allgemein gültig."
+  ],
+  "short_summary": "Giuseppe wird in Deutschland überwiegend neutral bis leicht positiv wahrgenommen: klassisch, italienisch, biblisch geprägt und eher selten.",
+  "source_count": 8,
+  "sources": [
+    {
+      "confidence": 0.99,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Giuseppe � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/G/Gi/Giuseppe/"
+    },
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Giuseppe � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/G/Gi/Giuseppe/"
+    },
+    {
+      "confidence": 0.95,
+      "is_name_discussion": true,
+      "sentiment": "gemischt",
+      "source_type": "web",
+      "title": "&#9655; Vorname Giuseppe: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Giuseppe.html"
+    },
+    {
+      "confidence": 0.95,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Der Vorname Giuseppe als Babyname – Aktuelle Statistiken",
+      "url": "https://blog.beliebte-vornamen.de/name/giuseppe/"
+    },
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Giuseppe - Vorname für Jungen | Bedeutung, Verbreitung, Sozialprestige | vornamen.blog",
+      "url": "https://vornamen.blog/Giuseppe"
+    },
+    {
+      "confidence": 0.82,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "ᐅ Vorname Giuseppe: Bedeutung, Herkunft, Namenstag & mehr Details",
+      "url": "https://www.kinderinfo.de/vornamen/jungen/giuseppe/"
+    },
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "Vorname Giuseppe * Statistik, Herkunft und Bedeutung",
+      "url": "https://www.beliebte-vornamen.de/15047-giuseppe.htm"
+    },
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Giuseppe als Vorname: Bedeutung, Herkunft, Bewertung",
+      "url": "https://www.kidsgo.de/vorname/Giuseppe-Bedeutung-Herkunft/"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "italienisch",
+    "biblisch geprägt",
+    "selten",
+    "markant",
+    "traditionsnah",
+    "eher formell",
+    "regional etwas stärker wahrgenommen"
+  ],
+  "usable_evidence_count": 8,
+  "visibility": "In Deutschland eher geringe Verbreitung, aber gut als Vorname gelistet und in Namenslexika präsent. Die öffentliche Sichtbarkeit ist daher vorhanden, jedoch begrenzt; die Evidenz basiert vor allem auf Namensseiten und Statistik-/Lexikontexten."
+}

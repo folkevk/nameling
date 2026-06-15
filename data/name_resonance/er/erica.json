@@ -1,0 +1,62 @@
+{
+  "associations": [
+    "altnordische Herkunft",
+    "Bedeutung: die Alleinherrschende",
+    "alternative Deutungen wie die ewige Herrscherin oder die Ehrenhafte",
+    "Variante von Erika",
+    "Namenstag",
+    "Spitznamen wie Eri oder Ricki",
+    "selten bis eher außergewöhnlich"
+  ],
+  "confidence": 0.91,
+  "display_text": "Erica: in Deutschland eher selten, klassisch und leicht positiv konnotiert. Die verfügbaren Quellen betonen Herkunft, Bedeutung und Namenstag; starke negative Resonanz ist nicht erkennbar.",
+  "evidence_quality": "gut für Herkunft, Bedeutung und Verbreitung; begrenzt für echte öffentliche Resonanz, da vor allem lexikalische Quellen vorliegen.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Erica",
+  "normalized_name": "erica",
+  "overall_resonance": "Erica wird in den verfügbaren deutschsprachigen Quellen überwiegend sachlich bis leicht positiv beschrieben. Der Name wirkt insgesamt klassisch, eher selten und namenkundlich gut eingeordnet, ohne Hinweise auf starke Ablehnung oder Kontroversen.",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt Erica verständlich, etabliert und trotzdem nicht alltäglich.",
+    "Die Schreibweise mit c kann als etwas besondere Variante von Erika wahrgenommen werden.",
+    "Wenn eine klare, klassische und zugleich seltene Namenswirkung gewünscht ist, passt Erica gut."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist stark von Namensdatenbanken und Lexikoneinträgen geprägt; echte öffentliche Diskussionen sind kaum sichtbar.",
+    "Keine belastbaren Hinweise auf negative oder kontroverse gesellschaftliche Zuschreibungen.",
+    "Aussagen zur Wirkung bleiben daher vorsichtig und beschreibend, nicht allgemein gültig."
+  ],
+  "short_summary": "Erica wird in Deutschland überwiegend sachlich bis leicht positiv wahrgenommen: klassisch, selten und mit klarer namenkundlicher Einordnung.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Erica � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/E/Er/Erica/"
+    },
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Erica: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Erica.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "eher selten",
+    "weiblich",
+    "lexikalisch klar",
+    "leicht elegant",
+    "traditionell wirkend"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland eher selten bis mäßig vergeben und dadurch eher auffällig als massenhaft verbreitet. Die öffentliche Sichtbarkeit entsteht vor allem über Namenslexika und Datenbanken, nicht über breite Alltagsdiskussionen."
+}

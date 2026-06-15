@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "keltisch/angelsächsische Herkunft",
+    "englischsprachiger Raum",
+    "Bedeutung und Namenstag",
+    "seit den 1980er Jahren in Deutschland häufiger",
+    "etabliert und zeitweise beliebt",
+    "schlicht-klassischer Eindruck"
+  ],
+  "confidence": 0.82,
+  "display_text": "Cedric wirkt öffentlich überwiegend sachlich bis leicht positiv: ein etablierter, klassisch geprägter Vorname mit keltisch/angelsächsischer Herkunft. Die Quellen sind jedoch begrenzt und stammen vor allem aus Namenslexika.",
+  "evidence_quality": "Begrenzt, aber brauchbar: direkte Namensdiskussion in zwei Quellen, jedoch ohne größere Breite an öffentlichen Stimmen.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Cedric",
+  "normalized_name": "cedric",
+  "overall_resonance": "Überwiegend sachlich bis leicht positiv; Cedric wird in den Quellen als etablierter, eher klassisch wirkender Vorname mit klarer Herkunft beschrieben.",
+  "practical_notes": [
+    "Für die öffentliche Wahrnehmung wirkt Cedric eher vertraut als ungewöhnlich.",
+    "Der Name wird in den Quellen meist neutral bis freundlich eingeordnet.",
+    "Eine belastbare Aussage über aktuelle Trendstärke in Deutschland ist mit dieser Evidenz nur eingeschränkt möglich."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz basiert fast ausschließlich auf zwei Namenslexikon-Quellen.",
+    "Es ist keine breite öffentliche Diskussion sichtbar.",
+    "Aussagen zur Wirkung des Namens bleiben daher vorsichtig und beschreibend."
+  ],
+  "short_summary": "Cedric wird in den vorliegenden Quellen sachlich und leicht positiv beschrieben: ein etablierter Vorname mit keltisch/angelsächsischer Prägung und eher klassischer Wirkung. Die Evidenz ist aber auf Namenslexika begrenzt.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "Vorname Cedric � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/C/Ce/Cedric/"
+    },
+    {
+      "confidence": 0.86,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Cedric: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Cedric.html"
+    }
+  ],
+  "style_effect": [
+    "informativ",
+    "namenskundlich",
+    "klassisch",
+    "leicht international",
+    "beschreibend"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Mittel: Der Name ist in Namenslexika präsent und wird dort regelmäßig erklärt, aber es gibt keine breite öffentliche Debatte oder starke mediale Aufladung."
+}

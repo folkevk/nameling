@@ -1,0 +1,72 @@
+{
+  "associations": [
+    "Vorname",
+    "Unisex-Name",
+    "Kurzform",
+    "mehrere mögliche Herkunftsdeutungen",
+    "arabische, hebräische und friesische Bezüge",
+    "Namenstag",
+    "Beliebtheit",
+    "Bedeutung",
+    "knapp und unkompliziert"
+  ],
+  "confidence": 0.9,
+  "display_text": "Isa wirkt öffentlich überwiegend neutral bis positiv: ein kurzer, klarer und vielseitig wahrgenommener Vorname mit mehreren möglichen Herkunftsdeutungen. Die Evidenz stammt vor allem aus Namenslexika, daher ist die Einordnung vorsichtig zu lesen.",
+  "evidence_quality": "mittel bis gut: klare Namenslexikon-Evidenz, aber begrenzt auf wenige Quellen und ohne breite öffentliche Umfragedaten.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Isa",
+  "normalized_name": "isa",
+  "overall_resonance": "Isa wird öffentlich eher als kurzer, klarer und vielseitig einordenbarer Vorname wahrgenommen. Die Resonanz ist überwiegend neutral bis positiv, mit etwas gemischter Rückmeldung dort, wo die genaue Herkunft oder die Einordnung als Vorname diskutiert wird.",
+  "practical_notes": [
+    "Für Suchmaschinen am besten als kurzer, offener Name mit mehreren Herkunftsbezügen darstellbar.",
+    "Wegen der Mehrdeutigkeit ist eine vorsichtige Formulierung sinnvoll, statt eine einzige Herkunft als sicher zu behaupten.",
+    "Die Wahrnehmung wirkt insgesamt unaufgeregt und eher sachlich als emotional aufgeladen."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt fast ausschließlich aus Namenslexikon-Seiten und bildet daher eher die beschriebene Namensdeutung als breite Alltagsresonanz ab.",
+    "Isa ist mehrdeutig und kann je nach Kontext unterschiedlich verstanden werden, etwa als eigenständiger Vorname oder als Kurzform.",
+    "Einzelne Hinweise zur Verständlichkeit oder Echtheit des Namens sind eher kommentarartig und nicht als allgemeines Urteil zu werten."
+  ],
+  "short_summary": "Isa wird in der verfügbaren öffentlichen Namensliteratur überwiegend neutral bis positiv beschrieben: kurz, klar, vielseitig und mit mehreren möglichen Herkunftsdeutungen. Die Datenlage ist solide, aber vor allem lexikalisch und nicht breit gesellschaftlich erhoben.",
+  "source_count": 3,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Isa � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/I/Is/Isa/"
+    },
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "positive",
+      "source_type": "web",
+      "title": "Vorname Isa � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/I/Is/Isa/"
+    },
+    {
+      "confidence": 0.92,
+      "is_name_discussion": true,
+      "sentiment": "mixed",
+      "source_type": "web",
+      "title": "&#9655; Vorname Isa: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Isa.html"
+    }
+  ],
+  "style_effect": [
+    "kurz und prägnant",
+    "modern-wirkend durch Kürze",
+    "lexikalisch klar",
+    "international anschlussfähig",
+    "teils als Unisex-Name wahrgenommen",
+    "je nach Kontext auch als Kurzform verstanden"
+  ],
+  "usable_evidence_count": 3,
+  "visibility": "Der Name ist in Namenslexika sichtbar und wird in Deutschland als bekannt, aber nicht dominant beschrieben. Die öffentliche Präsenz wirkt eher informativ als meinungsstark."
+}

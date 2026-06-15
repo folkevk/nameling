@@ -1,0 +1,62 @@
+{
+  "associations": [
+    "französische Form von Susanna",
+    "englische Variante von Susanna",
+    "biblischer Ursprung",
+    "Bedeutung: Lilie / Wasserlilie",
+    "weiblicher Vorname",
+    "Kurzform: Suzy",
+    "in Deutschland eher selten"
+  ],
+  "confidence": 0.82,
+  "display_text": "Suzanne wirkt in Deutschland eher selten, klassisch und international. Die öffentliche Resonanz ist überwiegend neutral bis leicht positiv, basiert aber vor allem auf Namensportalen und nicht auf breiter Diskussion.",
+  "evidence_quality": "mittel: solide Namensbeschreibung, aber nur schwache direkte Evidenz für öffentliche Resonanz",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Suzanne",
+  "normalized_name": "suzanne",
+  "overall_resonance": "Suzanne wird in der vorliegenden Evidenz überwiegend sachlich und eher positiv-neutral wahrgenommen. Der Name wirkt in Deutschland eher selten, wird aber als klassisch-französische bzw. internationale Variante von Susanna eingeordnet.",
+  "practical_notes": [
+    "Für die Namenssuche wirkt Suzanne vertraut, aber nicht alltäglich.",
+    "Der Name vermittelt eher einen internationalen, weichen und klassischen Eindruck.",
+    "Die Schreibweise kann gelegentlich als französisch oder englisch gelesen werden, je nach Kontext."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt vor allem aus Namensportalen und ist damit eher beschreibend als Ausdruck breiter öffentlicher Meinung.",
+    "Einzelne positive oder kritische Wertungen basieren teils auf Kommentaren und haben nur begrenzte Aussagekraft.",
+    "Aus der geringen Sichtbarkeit in Deutschland sollte nicht auf eine starke gesellschaftliche Bewertung geschlossen werden."
+  ],
+  "short_summary": "Suzanne wird als seltener, klassisch-internationaler Name mit französisch/englischer Prägung und eher neutral bis leicht positiver Wirkung beschrieben.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Suzanne � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/S/Su/Suzanne/"
+    },
+    {
+      "confidence": 0.9,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Suzanne: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Suzanne.html"
+    }
+  ],
+  "style_effect": [
+    "französisch",
+    "klassisch",
+    "weich im Klang",
+    "international",
+    "eher elegant",
+    "selten"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland scheint Suzanne wenig verbreitet zu sein und taucht eher in Namenslexika als in breiter öffentlicher Diskussion auf. Die sichtbare Resonanz ist daher begrenzt."
+}

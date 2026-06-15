@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "italienische Kurzform von Alessandro",
+    "Form von Alexander",
+    "Bedeutung: der Beschützer",
+    "altgriechischer Ursprung",
+    "im deutschen Sprachraum bekannt",
+    "in Deutschland verbreitet",
+    "teils als eher selten beschrieben",
+    "einzelne positive Community-Urteile"
+  ],
+  "confidence": 0.87,
+  "display_text": "Sandro wirkt in Deutschland freundlich, international und eher positiv besetzt. Der Name ist bekannt, aber nicht übermäßig häufig, mit einer klaren Bedeutung und insgesamt unkomplizierter, sympathischer Ausstrahlung.",
+  "evidence_quality": "gut für Herkunft, Bedeutung und grobe Bekanntheit; nur begrenzt belastbar für breite öffentliche Resonanz",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Sandro",
+  "normalized_name": "sandro",
+  "overall_resonance": "In Deutschland wirkt Sandro insgesamt vertraut, freundlich und eher positiv besetzt. Der Name wird als italienisch geprägte Form bzw. Kurzform von Alessandro mit der Bedeutung „der Beschützer“ eingeordnet; zugleich gilt er im deutschen Sprachraum als bekannt, aber nicht extrem häufig. Einzelne Quellen beschreiben ihn als cool oder grandios, was auf eine sympathische, moderne Namenswirkung hindeutet.",
+  "practical_notes": [
+    "Der Name ist leicht auszusprechen und gut merkbar.",
+    "Die Schreibweise ist klar und im deutschsprachigen Raum etabliert.",
+    "Die Wahrnehmung dürfte je nach Umfeld eher freundlich und unkompliziert ausfallen."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz zur öffentlichen Resonanz in ganz Deutschland ist begrenzt und stützt sich vor allem auf Namenslexika und einzelne Nutzerreaktionen.",
+    "Aussagen über Beliebtheit sollten nicht mit allgemeiner gesellschaftlicher Wertung verwechselt werden."
+  ],
+  "short_summary": "Sandro wird in Deutschland meist als italienisch geprägter, freundlicher und moderat bekannter Vorname wahrgenommen.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Sandro � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/S/Sa/Sandro/"
+    },
+    {
+      "confidence": 0.95,
+      "is_name_discussion": true,
+      "sentiment": "positive",
+      "source_type": "web",
+      "title": "&#9655; Vorname Sandro: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Sandro.html"
+    }
+  ],
+  "style_effect": [
+    "international/italienisch angehaucht",
+    "freundlich und zugänglich",
+    "sportlich-modern wirkend",
+    "klassisch genug, aber nicht altmodisch",
+    "kurz und markant"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "mittlere Sichtbarkeit: bekannt und verbreitet, aber nicht dominant"
+}

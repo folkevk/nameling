@@ -1,0 +1,55 @@
+{
+  "associations": [
+    "selten in Deutschland",
+    "männlich konnotiert",
+    "altnordisch/germanisch",
+    "friesische Kurzform",
+    "etymologische Bedeutung wird mit Schrecken/Furcht verbunden",
+    "Namenslexikon/Onomastik",
+    "eher informell-kurz"
+  ],
+  "confidence": 0.68,
+  "display_text": "Ake ist in Deutschland ein sehr seltener Vorname, der öffentlich eher sachlich-neutral und leicht historisch-germanisch wirkt. Die verfügbare Evidenz ist schwach und stützt sich im Wesentlichen auf eine einzelne Namenslexikon-Quelle. Daher ist die Resonanz nur vorsichtig einzuordnen: ungewöhnlich, kurz, namenskundlich geprägt und eher erklärungsbedürftig.",
+  "evidence_quality": "schwach bis mittel: eine einzelne Namenslexikon-Quelle, kaum öffentliche Breitenresonanz",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Ake",
+  "normalized_name": "ake",
+  "overall_resonance": "Eher selten und sachlich-neutral wahrgenommen, mit leicht historisch-lexikalischer Färbung.",
+  "practical_notes": [
+    "Für viele dürfte der Name eher ungewöhnlich und erklärungsbedürftig wirken.",
+    "Die öffentliche Wirkung ist eher neutral bis leicht positiv durch die klare, kurze Form und die historische Anmutung.",
+    "Die seltene Verbreitung kann ihn markant machen, aber auch zu Nachfragen zur Aussprache oder Herkunft führen."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenzlage ist schwach: Es liegt im Wesentlichen nur eine lexikalische Quelle vor.",
+    "Es gibt keine breite öffentliche Diskussionslage, daher sind allgemeine Aussagen über die Rezeption nur eingeschränkt belastbar.",
+    "Mögliche Schreibvarianten oder regionale Zuordnungen können die Wahrnehmung beeinflussen."
+  ],
+  "short_summary": "Ake wird in Deutschland eher selten und sachlich-neutral wahrgenommen, mit leicht historisch-germanischer Färbung. Die öffentliche Evidenz ist begrenzt, daher nur vorsichtige Einordnung möglich.",
+  "source_count": 1,
+  "sources": [
+    {
+      "confidence": 0.83,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv-neutral",
+      "source_type": "web",
+      "title": "Vorname Ake � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/A/Ak/Ake/"
+    }
+  ],
+  "style_effect": [
+    "kurz",
+    "selten",
+    "namenskundlich",
+    "historisch/germanisch",
+    "friesisch anmutend",
+    "nüchtern",
+    "leicht archaisch"
+  ],
+  "usable_evidence_count": 1,
+  "visibility": "In Deutschland wirkt Ake öffentlich wenig präsent und eher als ungewöhnlicher, kaum verbreiteter Vorname. Die verfügbare Evidenz ist dünn und stützt sich auf eine einzelne Namenslexikon-Seite, daher ist die Einordnung nur vorsichtig möglich."
+}

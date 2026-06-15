@@ -1,0 +1,62 @@
+{
+  "associations": [
+    "französische Form von Margarete",
+    "Bedeutung: Perle",
+    "altgriechisch/lateinischer Ursprung",
+    "Heilige Margareta von Antiochia",
+    "selten in Deutschland",
+    "Gänseblümchen bzw. Margerite"
+  ],
+  "confidence": 0.9,
+  "display_text": "Marguerite wirkt in Deutschland eher selten, klassisch und französisch-elegant. Die vorliegenden Quellen beschreiben den Namen vor allem sachlich als Form von Margarete mit der Bedeutung „Perle“; eine breite öffentliche Debatte ist nicht erkennbar.",
+  "evidence_quality": "gut für Bedeutung, Herkunft und Seltenheit; begrenzt für breite öffentliche Wahrnehmung",
+  "generated_at": "2026-06-14T10:47:41Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Marguerite",
+  "normalized_name": "marguerite",
+  "overall_resonance": "Überwiegend sachlich-neutral mit leicht eleganter, französisch geprägter Wirkung. In den vorliegenden Quellen wird der Name vor allem namenkundlich beschrieben, nicht breit öffentlich diskutiert.",
+  "practical_notes": [
+    "Für Namenssuchende wirkt Marguerite besonders klassisch und französisch.",
+    "Durch die Seltenheit in Deutschland dürfte der Name auffallen, ohne stark vertraut zu sein.",
+    "Als Kurzform-/Koseform-Umfeld werden teils Varianten wie Marga, Margi oder Maggi genannt."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt fast ausschließlich aus Namenslexika; breite öffentliche Resonanz ist daraus nur begrenzt ableitbar.",
+    "Positive Stilassoziationen sind möglich, aber kulturell geprägt und keine allgemeingültige Bewertung.",
+    "Keine Hinweise auf soziale Stigmatisierung in den vorliegenden Quellen."
+  ],
+  "short_summary": "Marguerite wird in den Quellen überwiegend neutral und namenskundlich beschrieben: eine seltene, französisch wirkende Form von Margarete mit der Bedeutung ‚Perle‘.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Marguerite � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/M/Ma/Marguerite/"
+    },
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Marguerite: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Marguerite.html"
+    }
+  ],
+  "style_effect": [
+    "französisch",
+    "elegant",
+    "klassisch",
+    "fein",
+    "selten",
+    "bildungsnah",
+    "lexikalisch"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland eher selten und dadurch sichtbar, aber nicht verbreitet. Die öffentliche Präsenz wirkt vor allem lexikalisch und suchbezogen, weniger alltagspräsent."
+}

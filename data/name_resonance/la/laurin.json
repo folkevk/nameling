@@ -1,0 +1,66 @@
+{
+  "associations": [
+    "lateinische Herkunft",
+    "Laurentius",
+    "Lorbeer",
+    "Lorbeerkranz",
+    "Sieger/Gewinner",
+    "Namenstag",
+    "Beliebtheit in Deutschland",
+    "germanische Mythologie",
+    "Zwergenkönig",
+    "Rosengarten",
+    "Alpenglühen",
+    "schweizerischer Sprachraum"
+  ],
+  "confidence": 0.86,
+  "display_text": "Laurin wird meist freundlich und sachlich wahrgenommen: ein klassisch wirkender Vorname mit positiven Bedeutungen wie Lorbeer, Sieg und Herkunft aus dem Laurentius-Kontext. Die vorliegende Evidenz ist jedoch auf wenige Namensseiten begrenzt und zeigt keine breite öffentliche Debatte.",
+  "evidence_quality": "Gut für eine vorsichtige Namensbeschreibung, aber thematisch eng und quellenarm; die Aussagen beruhen vor allem auf einzelnen Namenslexikon-Seiten.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Laurin",
+  "normalized_name": "laurin",
+  "overall_resonance": "Überwiegend positiv und sachlich-namenskundlich. Laurin wird in den vorliegenden Quellen vor allem als klassisch wirkender, sprachlich gut anschlussfähiger Vorname mit positiven Bedeutungsbezügen dargestellt.",
+  "practical_notes": [
+    "Für Suchmaschinen geeignet als freundliche, unaufgeregte Namensbeschreibung.",
+    "Der Name wirkt in den Quellen eher zeitlos als auffällig.",
+    "Die positiven Assoziationen hängen vor allem an Herkunft und Bedeutung, nicht an öffentlicher Diskussion."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt im Wesentlichen aus zwei Namensseiten und nicht aus breiter öffentlicher Resonanz.",
+    "Einige Deutungen und Assoziationen wirken traditionell oder volksetymologisch und sollten nicht als gesicherte Tatsachen verstanden werden.",
+    "Keine Hinweise auf soziale Stigmatisierung oder negative Namensklischees in der vorliegenden Evidenz."
+  ],
+  "short_summary": "Laurin wird in den Quellen überwiegend positiv, klassisch und etymologisch aufgeladen beschrieben, mit Bezügen zu Lorbeer, Herkunft und Beliebtheit in Deutschland.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "Vorname Laurin � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/L/La/Laurin/"
+    },
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Laurin: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Laurin.html"
+    }
+  ],
+  "style_effect": [
+    "informativ",
+    "etymologisch",
+    "leicht positiv",
+    "klassisch-modern",
+    "namenskundlich"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Mittlere Sichtbarkeit im deutschsprachigen Namenskontext; die Quellen beschreiben den Namen als bekannt und in Deutschland genutzt, ohne dass daraus eine breite öffentliche Debatte ersichtlich wäre."
+}

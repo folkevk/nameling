@@ -1,0 +1,59 @@
+{
+  "associations": [
+    "weiblicher Vorname",
+    "hebräische bzw. an Anna/Anne angelehnte Herkunft",
+    "Bedeutungen wie „die Begnadete“, „die Liebreizende“, „die Anmutige“",
+    "Namenstag wird genannt",
+    "selten bis mäßig verbreitet"
+  ],
+  "confidence": 0.88,
+  "display_text": "Aenne wird in den verfügbaren Quellen vor allem als seltener, klassisch wirkender Mädchenname mit positiver Bedeutung beschrieben. Die öffentliche Resonanz ist eher freundlich und unaufgeregt; belastbare Hinweise auf eine breitere Debatte gibt es kaum.",
+  "evidence_quality": "mittel bis gut, aber inhaltlich einseitig; überwiegend lexikalische Namensquellen",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Aenne",
+  "normalized_name": "aenne",
+  "overall_resonance": "Aenne wird öffentlich überwiegend als seltener, traditionell wirkender Mädchenname mit positiver bis neutraler Anmutung beschrieben. Die verfügbaren Quellen betonen vor allem Bedeutung, Herkunft und Namenstag; eine breitere öffentliche Debatte ist in der Evidenz kaum erkennbar.",
+  "practical_notes": [
+    "Für Suchmaschinen eignet sich Aenne als klarer, gut erklärbarer Vorname mit klassischer Note.",
+    "Die Schreibweise mit Ae kann als ungewöhnlich wahrgenommen werden, ist aber im Namenskontext nachvollziehbar.",
+    "Wer einen seltenen, traditionellen Namen sucht, findet hier eine eher freundliche, unaufgeregte Wahrnehmung."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist stark einseitig und besteht fast nur aus Namenslexika statt aus echter öffentlicher Diskussion.",
+    "Einige Details, etwa Spitznamen oder einzelne Namenstage, sind nicht breit unabhängig belegt.",
+    "Die positive Wirkung stammt vor allem aus der Bedeutungsbeschreibung, nicht aus einer messbaren gesellschaftlichen Resonanz."
+  ],
+  "short_summary": "Aenne wirkt in der öffentlichen Namenswahrnehmung eher positiv, selten und klassisch, mit Fokus auf Bedeutung und Herkunft statt auf kontroverse Diskussionen.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "positive",
+      "source_type": "web",
+      "title": "Vorname Aenne � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/A/Ae/Aenne/"
+    },
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Aenne: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Aenne.html"
+    }
+  ],
+  "style_effect": [
+    "weich",
+    "klassisch",
+    "namenskundlich",
+    "leicht altmodisch",
+    "liebevoll-kurz"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Eher geringe bis mäßige Sichtbarkeit in Deutschland; der Name erscheint in Namenslexika und Infotexten als bekannt, aber selten verwendet."
+}

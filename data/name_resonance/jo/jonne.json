@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "Kurz- und Koseform von Johannes",
+    "Bedeutung: „JHWH ist gnädig“ bzw. „JHWH ist gütig“",
+    "finnische und schwedische Namensverbindung",
+    "Verwandtschaft zu Jonas/Jona/Jonah",
+    "Namenstag",
+    "in Deutschland eher selten",
+    "teils als genderneutral/unisex beschrieben"
+  ],
+  "confidence": 0.79,
+  "display_text": "Jonne wirkt in der öffentlichen Wahrnehmung eher positiv, weich und eigenständig. Der Name ist vor allem als nordische Kurzform von Johannes bekannt und wird in Deutschland eher selten verwendet. Die Evidenz ist jedoch begrenzt: Die Einschätzung stützt sich hauptsächlich auf Namenslexika und nicht auf breite öffentliche Diskussionen.",
+  "evidence_quality": "Begrenzt: überwiegend lexikalische Namensquellen, wenig öffentliche Debatte, keine breite Meinungsstreuung.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Jonne",
+  "normalized_name": "jonne",
+  "overall_resonance": "Eher positiv und sachlich-neutral wahrgenommen; der Name wirkt vor allem vertraut durch seine Nähe zu Johannes/Jonas, zugleich eher selten und daher eigenständig.",
+  "practical_notes": [
+    "Für eine Namenssuche eignet sich eine kurze, klare Einordnung statt einer starken Wertung.",
+    "Der Name kann als modern-nordisch und zugleich traditionell anschlussfähig erscheinen.",
+    "Die seltene Verbreitung kann als Plus für Eigenständigkeit wirken, muss aber nicht jedem gefallen."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz zur öffentlichen Resonanz ist schwach und stammt im Wesentlichen aus zwei Namensseiten.",
+    "Es gibt kaum echte Diskussionsvielfalt oder belastbare Alltagsstimmen.",
+    "Beliebtheitsangaben sollten vorsichtig gelesen werden, da sie eher lexikalische Einordnungen als breite öffentliche Bewertung sind."
+  ],
+  "short_summary": "Jonne wird überwiegend freundlich und neutral beschrieben: ein seltener, nordisch wirkender Name mit Bezug zu Johannes/Jonas. Die öffentliche Resonanzbasis ist jedoch schmal und vor allem lexikalisch.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.86,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Jonne � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/J/Jo/Jonne/"
+    },
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Jonne: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Jonne.html"
+    }
+  ],
+  "style_effect": [
+    "weich und freundlich",
+    "kurz und modern wirkend",
+    "nordisch/finnisch-schwedisch geprägt",
+    "eigenständig, aber gut einordenbar",
+    "eher selten als massenhaft verbreitet"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Mittlere Sichtbarkeit: in Namenslexika und Vornamensseiten gut auffindbar, aber die öffentliche Diskussionsbasis ist dünn."
+}

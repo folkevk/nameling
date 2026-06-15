@@ -1,0 +1,58 @@
+{
+  "associations": [
+    "biblischer/hebräischer Ursprung",
+    "Bedeutungszuschreibungen wie „Gott sieht“ oder „Gott wacht über dich“",
+    "Shakespeare-Bezug",
+    "in Deutschland besonders in den 1970er und 1980er Jahren beliebt",
+    "international verbreitet"
+  ],
+  "confidence": 0.84,
+  "display_text": "Jessica: bekannter, international verbreiteter Vorname mit biblisch-hebräischen Deutungen. In Deutschland besonders in den 1970er/1980er Jahren beliebt, heute eher etabliert als trendig.",
+  "evidence_quality": "mittel: zwei solide, aber vor allem lexikalische Quellen; geringe Tiefe öffentlicher Meinungsdaten",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Jessica",
+  "normalized_name": "jessica",
+  "overall_resonance": "Jessica wird in den vorliegenden Quellen überwiegend sachlich bis leicht positiv dargestellt: ein international bekannter Vorname mit biblisch/hebräischen Deutungen und klarer Verankerung in Namenslexika. Die öffentliche Resonanz wirkt eher etabliert als kontrovers, zugleich aber nicht besonders aktuell trendstark.",
+  "practical_notes": [
+    "Für die Namenssuche wirkt Jessica vertraut, unkompliziert und international verständlich.",
+    "Wer einen modern klingenden Namen sucht, sollte beachten, dass Jessica eher als bekannt und etabliert wahrgenommen wird.",
+    "Die Bedeutung wird in den Quellen positiv und religiös konnotiert beschrieben, sollte aber als Namensdeutung und nicht als Faktenaussage über Trägerinnen verstanden werden."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt fast ausschließlich aus Namenslexika und ist daher eher beschreibend als Ausdruck echter öffentlicher Debatten.",
+    "Keine belastbare Vielfalt an Meinungen erkennbar; die Resonanz ist nur indirekt aus Herkunfts- und Beliebtheitsangaben ableitbar.",
+    "Eine mögliche Wahrnehmung als eher „Generation 70er/80er“ ist kontextabhängig und kein allgemeingültiges Urteil."
+  ],
+  "short_summary": "Jessica ist ein bekannter, international verbreiteter Vorname mit biblisch-hebräischen Deutungen. In Deutschland war er besonders in den 1970er/1980er Jahren beliebt und wirkt heute eher etabliert als trendig.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Jessica � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/J/Je/Jessica/"
+    },
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "positive",
+      "source_type": "web",
+      "title": "&#9655; Vorname Jessica: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Jessica.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch-weltläufig",
+    "informativ und leicht zeitlos",
+    "durch die 1970er/1980er-Popularität generationsbezogen",
+    "eher etabliert als trendig"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland gut bekannt und öffentlich präsent, vor allem als Name mit hoher Wiedererkennbarkeit. Die Quellen deuten auf frühere große Popularität, heute eher auf rückläufige bzw. nicht mehr ganz so modische Wahrnehmung."
+}

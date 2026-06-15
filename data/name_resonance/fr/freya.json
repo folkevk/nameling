@@ -1,0 +1,66 @@
+{
+  "associations": [
+    "nordische Mythologie",
+    "Freyja / Freya als Göttin",
+    "Liebe",
+    "Schönheit",
+    "Fruchtbarkeit",
+    "Herrin / Herrscherin",
+    "Edle",
+    "moderne Namensform",
+    "Beliebtheit in Deutschland"
+  ],
+  "confidence": 0.92,
+  "display_text": "Freya wirkt in der öffentlichen Namenswahrnehmung überwiegend positiv: klangvoll, modern und mit starker nordisch-mythologischer Anmutung. Die verfügbaren Quellen heben vor allem Assoziationen wie Göttin, Liebe, Schönheit und Herrscherin hervor. Hinweise auf Beliebtheit in Deutschland sind vorhanden, sollten aber wegen der quellenabhängigen Daten vorsichtig gelesen werden.",
+  "evidence_quality": "Mittel bis gut: zwei einschlägige Namenslexikonquellen mit klarer Namensdiskussion, aber begrenzte Unabhängigkeit und teils redaktionell gefärbte Angaben.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Freya",
+  "normalized_name": "freya",
+  "overall_resonance": "Überwiegend positiv und modern-mythologisch aufgeladen. In den vorliegenden Namensquellen wird Freya meist als attraktiver, klangvoller und zeitgemäßer Mädchenname beschrieben, mit klaren Bezügen zur nordischen Mythologie.",
+  "practical_notes": [
+    "Für die Namenssuche wirkt Freya eher positiv, weich und zugleich markant.",
+    "Der Name wird öffentlich vor allem über seine nordisch-mythologische Herkunft wahrgenommen.",
+    "Die Schreibweise ist etabliert, kann aber je nach Kontext mit Freyja oder anderen Varianten verwechselt werden."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Bedeutungs- und Herkunftsangaben stammen aus Namenslexika und sind teils redaktionell geprägte Deutungen.",
+    "Aussagen zur Beliebtheit sind nur eingeschränkt belastbar und stark von der jeweiligen Quelle abhängig.",
+    "Die mythologischen Assoziationen beschreiben die öffentliche Namenswahrnehmung, nicht Eigenschaften von Namensträgerinnen."
+  ],
+  "short_summary": "Freya wird in deutschen Namensquellen überwiegend positiv, modern und mythologisch besetzt dargestellt. Die Evidenz ist solide für die Namenswahrnehmung, aber bei Herkunfts- und Beliebtheitsaussagen nur mäßig belastbar.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "positive",
+      "source_type": "web",
+      "title": "Vorname Freya � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/F/Fr/Freya/"
+    },
+    {
+      "confidence": 0.9,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Freya: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Freya.html"
+    }
+  ],
+  "style_effect": [
+    "klangvoll",
+    "modern",
+    "mythologisch",
+    "nordisch",
+    "elegant",
+    "kraftvoll",
+    "weiblich",
+    "zeitgemäß"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Im deutschsprachigen Namenskontext gut sichtbar und bekannt; die verfügbaren Quellen verweisen teils auf wachsende Beliebtheit, wobei solche Aussagen quellenabhängig sind."
+}

@@ -1,0 +1,59 @@
+{
+  "associations": [
+    "keltische bzw. altwalisische Herkunft",
+    "Bezug zur Fluss-Nymphe bzw. zum Fluss Severn",
+    "walisische Legende",
+    "Namenstag",
+    "Beliebtheit in Deutschland, besonders in den 1980er/1990er Jahren",
+    "lexikalischer, informativ erklärter Vorname"
+  ],
+  "confidence": 0.79,
+  "display_text": "Sabrina wirkt in Deutschland vertraut, klassisch-populär und überwiegend positiv bis neutral. Die Evidenz deutet vor allem auf einen bekannten Vorname mit keltisch-walisischen Bezügen und starker Beliebtheit in den 1980er/1990er Jahren hin. Hinweise auf problematische öffentliche Resonanz sind in der vorliegenden Evidenz nicht erkennbar.",
+  "evidence_quality": "mittel",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Sabrina",
+  "normalized_name": "sabrina",
+  "overall_resonance": "Sabrina wird in Deutschland überwiegend sachlich-neutral bis leicht positiv wahrgenommen. Der Name wirkt vertraut und gut bekannt, mit einer klaren weiblichen, eher klassischen bis populären Anmutung.",
+  "practical_notes": [
+    "Für viele wirkt Sabrina klar verständlich und unkompliziert.",
+    "Der Name hat einen bekannten, etablierten Klang ohne starke negative Konnotationen in der vorliegenden Evidenz.",
+    "Die Wahrnehmung kann etwas generationstypisch sein, da der Name besonders in früheren Jahrzehnten verbreitet war."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt vor allem aus Namenslexika und Einträgen zur Bedeutung/Herkunft; direkte Belege für breite öffentliche Resonanz sind daher nur mittelstark.",
+    "Beliebtheit und kulturelle Konnotationen können je nach Generation und Umfeld unterschiedlich ausfallen."
+  ],
+  "short_summary": "Sabrina ist in Deutschland ein bekannter, eher klassisch-populärer Vorname mit sachlich-neutraler bis leicht positiver Resonanz. Die verfügbare Evidenz stützt vor allem Herkunft, Bedeutung und frühere Beliebtheit, weniger eine aktuelle öffentliche Debatte.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.92,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Sabrina � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/S/Sa/Sabrina/"
+    },
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Sabrina: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Sabrina.html"
+    }
+  ],
+  "style_effect": [
+    "vertraut",
+    "klassisch-populär",
+    "weiblich",
+    "weich klingend",
+    "namenskundlich aufgeladen"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Der Name ist im deutschen Sprachraum gut bekannt und in Namenslexika sowie Popularitätsübersichten präsent. Die öffentliche Resonanz scheint eher über Namenswissen und Beliebtheit als über aktuelle Medienhäufigkeit getragen zu sein."
+}

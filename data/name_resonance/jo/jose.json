@@ -1,0 +1,68 @@
+{
+  "associations": [
+    "spanische/portugiesische Form von Josef",
+    "althebräischer Ursprung",
+    "Bedeutung: „Gott möge hinzufügen“",
+    "biblische bzw. christliche Assoziationen",
+    "Namenstag",
+    "seltene Verwendung in Deutschland"
+  ],
+  "confidence": 0.76,
+  "display_text": "Jose: überwiegend neutral bis leicht positiv wahrgenommen, eher selten in Deutschland, international und traditionell geprägt, mit klarer Verbindung zu Josef und der Bedeutung „Gott möge hinzufügen“.",
+  "evidence_quality": "mittel: mehrere sachliche Namensquellen, aber kaum direkte öffentliche Diskussion oder echte Resonanzdaten",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Jose",
+  "normalized_name": "jose",
+  "overall_resonance": "Überwiegend neutral bis leicht positiv; der Name wird vor allem sachlich als spanisch/portugiesische Form von Josef wahrgenommen.",
+  "practical_notes": [
+    "Für deutschsprachige Nutzung ist die Schreibweise Jose ohne Akzent leicht zu handhaben; gelegentlich kann die Aussprache dennoch geklärt werden müssen.",
+    "Wer einen seltenen, traditionell wirkenden und international lesbaren Namen sucht, findet hier einen passenden Eindruck.",
+    "Die Such- und Auffindbarkeit ist durch die Nähe zu José/Josef sehr gut, die konkrete öffentliche Präsenz in DE bleibt aber begrenzt."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt fast nur aus Namenslexika und ist daher nur indirekt ein Hinweis auf öffentliche Resonanz.",
+    "Es liegen keine belastbaren Daten zu breiter gesellschaftlicher Wahrnehmung oder zu Diskussionen im Alltag vor.",
+    "Eine mögliche Wahrnehmung als fremdsprachig oder ungewohnt ist eher eine Ableitung als direkt belegte Reaktion."
+  ],
+  "short_summary": "Jose wird in Deutschland vor allem als seltener, international und traditionell wirkender Vorname wahrgenommen – sachlich, mit überwiegend neutraler bis leicht positiver Tönung.",
+  "source_count": 3,
+  "sources": [
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Jose � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/J/Jo/Jose/"
+    },
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Jose � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/J/Jo/Jose/"
+    },
+    {
+      "confidence": 0.92,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Jose: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Jose.html"
+    }
+  ],
+  "style_effect": [
+    "klingt international",
+    "wirkt bibel- bzw. traditionell geprägt",
+    "namenskundlich klar einordenbar",
+    "eher sachlich als trendig",
+    "in der Schreibweise ohne Akzent im Deutschen unkompliziert"
+  ],
+  "usable_evidence_count": 3,
+  "visibility": "In Deutschland eher selten und dadurch weniger alltagspräsent, aber durch Namensportale gut auffindbar."
+}

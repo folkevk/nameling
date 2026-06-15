@@ -1,0 +1,59 @@
+{
+  "associations": [
+    "deutsche Kurzform von Katharina",
+    "altgriechischer Ursprung",
+    "Bedeutung: die Reine / die Unschuldige",
+    "Namenstag: 25. November",
+    "Schreibvarianten: Kathrin, Katrin, Catrin"
+  ],
+  "confidence": 0.86,
+  "display_text": "Cathrin wird meist als klassische, eher seltene deutsche Namensvariante wahrgenommen. Die öffentliche Rezeption ist überwiegend sachlich bis leicht positiv und konzentriert sich auf Herkunft, Bedeutung und Schreibvarianten. Aufgrund der schmalen Evidenz sollte die Einschätzung vorsichtig gelesen werden.",
+  "evidence_quality": "mittel bis schwach: überwiegend beschreibende Lexikon-Evidenz, wenig unabhängige öffentliche Resonanz",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Cathrin",
+  "normalized_name": "cathrin",
+  "overall_resonance": "Cathrin wird öffentlich überwiegend als klassische, eher seltene deutsche Namensvariante wahrgenommen. Die Resonanz ist sachlich bis leicht positiv, mit Fokus auf Bedeutung, Herkunft und Namenskunde statt auf starke emotionale Bewertungen.",
+  "practical_notes": [
+    "Für Suchende ist wichtig: Cathrin ist eine etablierte, aber seltenere Schreibvariante.",
+    "Im Alltag kann die Schreibweise häufiger buchstabiert werden müssen.",
+    "Die Bedeutung und Herkunft werden in der Regel neutral bis positiv dargestellt."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist begrenzt und stammt überwiegend aus wenigen Namenslexikon-Seiten.",
+    "Es gibt kaum Hinweise auf eine breite öffentliche Diskussionsresonanz.",
+    "Die Einschätzung der Schreibweise als erklärungsbedürftig ist eine alltagsnahe Beobachtung, keine feste Regel."
+  ],
+  "short_summary": "Cathrin wirkt wie eine klassische, seltenere deutsche Namensform mit eher neutraler bis leicht positiver Wahrnehmung. Die öffentliche Rezeption ist vor allem informativ und namenskundlich geprägt.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.94,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Cathrin � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/C/Ca/Cathrin/"
+    },
+    {
+      "confidence": 0.88,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Cathrin: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Cathrin.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "namenskundlich",
+    "zeitlos",
+    "eher selten",
+    "leicht erklärungsbedürftige Schreibweise"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Eher gering bis mittel: Der Name ist bekannt, wirkt aber im Vergleich zu häufigen Varianten wie Kathrin oder Katrin weniger verbreitet. Die Wahrnehmung entsteht vor allem in Namenslexika und ähnlichen Informationsseiten, nicht durch breite öffentliche Debatten."
+}

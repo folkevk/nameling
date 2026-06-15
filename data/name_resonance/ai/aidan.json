@@ -1,0 +1,69 @@
+{
+  "associations": [
+    "altirisch / keltisch",
+    "\"kleines Feuer\" / \"kleine Flamme\"",
+    "Feuer, Wärme, Energie",
+    "Unisex, tendenziell eher männlich verwendet",
+    "selten, aber nicht seltsam",
+    "Namenstag",
+    "Aussprache als kleiner Diskussionspunkt"
+  ],
+  "confidence": 0.83,
+  "display_text": "Aidan wirkt in Deutschland überwiegend neutral bis leicht positiv: modern, international, eher selten und mit der Bedeutung \"kleines Feuer\" verbunden. Die Evidenz ist begrenzt, zeigt aber keine starke negative Resonanz.",
+  "evidence_quality": "mittel bis gut; mehrere einschlägige Namensquellen, aber begrenzte Breite und teils gemischte redaktionelle/kommentierende Evidenz",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Aidan",
+  "normalized_name": "aidan",
+  "overall_resonance": "Aidan wird in den vorliegenden deutschsprachigen Namensquellen überwiegend sachlich bis leicht positiv wahrgenommen. Der Name wirkt modern, international und zugleich namenskundlich gut verankert. Er wird selten als problematisch dargestellt; auffällig sind eher Hinweise auf Seltenheit, Klang und Herkunft als auf starke öffentliche Wertung.",
+  "practical_notes": [
+    "Für die Namenssuche wirkt Aidan freundlich, international verständlich und stilistisch eher modern.",
+    "Die Seltenheit kann als Pluspunkt für Individualität wahrgenommen werden, ohne ausgeprägt exotisch zu wirken.",
+    "Wenn eine eindeutige deutschsprachige Alltagsnähe wichtig ist, könnte die Aussprache gelegentlich erklärt werden müssen."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz basiert vor allem auf wenigen Namensseiten; eine breite öffentliche Resonanz lässt sich daher nur vorsichtig ableiten.",
+    "Einige Aussagen zu Klang, Seltenheit oder Aussprache können je nach Region und Quelle variieren."
+  ],
+  "short_summary": "Aidan wird in deutschen Namensquellen meist neutral bis leicht positiv beschrieben: modern, international, selten, mit der Bedeutung \"kleines Feuer\" und ohne starke negative Konnotation.",
+  "source_count": 3,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Aidan � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/A/Ai/Aidan/"
+    },
+    {
+      "confidence": 0.88,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "Vorname Aidan � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/A/Ai/Aidan/"
+    },
+    {
+      "confidence": 0.92,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Aidan: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Aidan.html"
+    }
+  ],
+  "style_effect": [
+    "modern",
+    "international",
+    "weich-klangvoll",
+    "kurz und markant",
+    "namenskundlich aufgeladen",
+    "leicht ungewöhnlich, aber nicht befremdlich"
+  ],
+  "usable_evidence_count": 3,
+  "visibility": "In Deutschland scheint Aidan bekannt, aber nicht sehr häufig zu sein. Die öffentliche Sichtbarkeit wirkt eher nischig und vor allem durch Namensportale und Namensdiskussionen geprägt, nicht durch breite, kontroverse Debatten."
+}

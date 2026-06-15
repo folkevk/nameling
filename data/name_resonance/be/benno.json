@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "Kurzform zu Bernhard oder Benedikt",
+    "Bedeutungen wie „der Bärenstarke“ und „der Gesegnete“",
+    "Namenstag am 16. Juni",
+    "wiederentdeckt",
+    "selten bis moderat bekannt",
+    "positiv-konnotiert in Namenslexika"
+  ],
+  "confidence": 0.9,
+  "display_text": "Benno hat in den vorliegenden Quellen eine überwiegend positive öffentliche Resonanz: traditionell, kurz, kraftvoll und sympathisch. Der Name wirkt eher wiederentdeckt als modisch und wird häufig mit altdeutscher Herkunft, Stärke und einem wertigen Klang verbunden.",
+  "evidence_quality": "mittel bis gut: zwei einschlägige Namensquellen mit klarer Namensdiskussion, überwiegend positive Tendenz, aber keine repräsentativen Bevölkerungsdaten.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Benno",
+  "normalized_name": "benno",
+  "overall_resonance": "Benno wirkt im deutschsprachigen Raum überwiegend freundlich, traditionell und eher positiv besetzt. Der Name wird oft als altdeutsch, kraftvoll und zugleich angenehm kurz wahrgenommen; die öffentliche Resonanz in den vorliegenden Quellen ist klar wertschätzend.",
+  "practical_notes": [
+    "Für die öffentliche Wahrnehmung ist Benno eher ein markanter, traditionsnaher Name als ein Trendname.",
+    "Der Name ist kurz, klar und gut merkbar.",
+    "Die Resonanz ist insgesamt positiv, ohne überstark modisch zu wirken."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt vor allem aus Namenslexika und redaktionellen Namensseiten; das ist hilfreich, aber keine breite repräsentative Umfrage.",
+    "Positive Aussagen können teilweise durch die Art der Quellen begünstigt sein.",
+    "Keine Hinweise auf soziale Stigmatisierung in den vorliegenden Quellen."
+  ],
+  "short_summary": "Benno wird in den Quellen überwiegend positiv, traditionell und kraftvoll wahrgenommen – ein eher seltener, aber sympathischer Vorname mit altdeutscher Prägung.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "positive",
+      "source_type": "web",
+      "title": "Vorname Benno � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/B/Be/Benno/"
+    },
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Benno: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Benno.html"
+    }
+  ],
+  "style_effect": [
+    "kurz und markant",
+    "traditionell-altdeutsch",
+    "kräftig und bodenständig",
+    "wertig und eher sympathisch",
+    "leicht nostalgisch, aber nicht altmodisch im abwertenden Sinn"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland bekannt, aber eher kein Massenname; er erscheint eher als wiederentdeckter, traditioneller Vorname mit überschaubarer, aber vorhandener Wahrnehmung."
+}

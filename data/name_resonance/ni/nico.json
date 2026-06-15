@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "Kurzform von Nikolaus bzw. Nicolaus",
+    "altgriechischer Ursprung",
+    "Bedeutung: „Sieg des Volkes“",
+    "Namenstag am 6. Dezember",
+    "in Deutschland bekannt und beliebt",
+    "seit dem 20. Jahrhundert verbreitet"
+  ],
+  "confidence": 0.94,
+  "display_text": "Nico wird in Deutschland überwiegend neutral bis positiv wahrgenommen: ein kurzer, vertrauter und klassisch-moderner Vorname mit klarer Herkunftsdeutung. Die Quellen betonen vor allem Bedeutung, Namenstag und bekannte Verbreitung; negative oder stigmatisierende Assoziationen zeigen sich in der vorliegenden Evidenz nicht.",
+  "evidence_quality": "hoch bis mittel: zwei direkte Namenslexikon-Quellen mit klaren Angaben zu Herkunft, Bedeutung und Einordnung; insgesamt konsistent, aber ohne breit angelegte Umfragebasis.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Nico",
+  "normalized_name": "nico",
+  "overall_resonance": "Der Vorname Nico wird in der öffentlichen Wahrnehmung überwiegend neutral bis positiv beschrieben: kurz, bekannt und klassisch-modern. Die verfügbaren Quellen verknüpfen ihn vor allem mit Herkunft, Bedeutung und Beliebtheit in Deutschland.",
+  "practical_notes": [
+    "Für Suchmaschinen und Namensportale wird Nico meist als unkomplizierter, gut verständlicher Vorname eingeordnet.",
+    "Die kurze Form macht den Namen leicht merkbar und alltagstauglich.",
+    "Die öffentliche Rezeption wirkt eher sachlich-informativ als emotional aufgeladen."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist vor allem lexikalisch und namenskundlich; sie zeigt die öffentliche Namensbeschreibung, nicht eine breite Sozialstudie.",
+    "Es gibt keine Hinweise auf eine negative Stigmatisierung des Namens in den vorliegenden Quellen.",
+    "Beliebtheitsaussagen sollten vorsichtig gelesen werden, da sie je nach Zeitraum und Quelle variieren können."
+  ],
+  "short_summary": "Nico wird öffentlich meist als kurzer, vertrauter und positiv konnotierter Vorname wahrgenommen, mit klassischer Herkunft und moderner Verbreitung in Deutschland.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Nico � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/N/Ni/Nico/"
+    },
+    {
+      "confidence": 0.94,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Nico: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Nico.html"
+    }
+  ],
+  "style_effect": [
+    "kurz und prägnant",
+    "modern-klassisch",
+    "leicht und alltagstauglich",
+    "informativ durch klare Herkunftsdeutung",
+    "vertraut und gut wiedererkennbar"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland gut sichtbar und seit Jahrzehnten vertraut; die Namensverwendung wirkt etabliert, ohne stark modisch oder auffällig zu sein."
+}

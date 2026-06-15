@@ -1,0 +1,70 @@
+{
+  "associations": [
+    "Kurz- und Koseform von Michail/Michael",
+    "russische bzw. osteuropäische Form",
+    "biblischer Ursprung",
+    "Bedeutung: „Wer ist wie Gott?“",
+    "eingedeutschte Schreibweise von Misha",
+    "Unisex-Eindruck in manchen Quellen",
+    "Namenstag wird genannt",
+    "Namenslexikon- und Beliebkeitskontext"
+  ],
+  "confidence": 0.84,
+  "display_text": "Mischa wirkt in den verfügbaren Quellen vor allem neutral bis leicht positiv: ein internationaler, klar etymologisch aufgeladener Name mit informativem Namenslexikon-Charakter. Für eine breite öffentliche Resonanz außerhalb dieser Seiten ist die Evidenz jedoch eher schwach.",
+  "evidence_quality": "mittel bis schwach: mehrere konsistente Namenslexikon-Quellen, aber kaum direkte öffentliche Reaktionen außerhalb dieser Seiten",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Mischa",
+  "normalized_name": "mischa",
+  "overall_resonance": "Mischa wird in den vorliegenden Quellen überwiegend sachlich und neutral wahrgenommen, mit leicht positivem Unterton durch die klaren Bedeutungen, Herkunftsangaben und die internationale bzw. unisex-nahe Einordnung. Eine breite öffentliche Bewertung über diese Namenslexikon-Seiten hinaus ist jedoch nur schwach belegt.",
+  "practical_notes": [
+    "Für eine öffentliche Namenssuche wirkt Mischa eher vertraut, international und unkompliziert.",
+    "Der Name hat einen klaren Herkunfts- und Bedeutungsbezug, was häufig als Pluspunkt wahrgenommen wird.",
+    "Wenn eine eindeutige Geschlechtszuordnung wichtig ist, sollte beachtet werden, dass der Name in Quellen teils als Unisex bzw. unterschiedlich eingeordnet wird."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt fast ausschließlich aus Namenslexika; daraus lässt sich nur eingeschränkt echte öffentliche Resonanz ableiten.",
+    "Mögliche Unisex-Zuordnung und verschiedene Schreibweisen können die Wahrnehmung je nach Kontext leicht verändern.",
+    "Keine belastbaren Hinweise auf Stigmatisierung oder starke Kontroversen in den vorliegenden Quellen."
+  ],
+  "short_summary": "Mischa wird in den Quellen neutral bis leicht positiv und vor allem informativ dargestellt. Die öffentliche Resonanz außerhalb von Namenslexika ist nur begrenzt belegbar.",
+  "source_count": 3,
+  "sources": [
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Mischa � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/M/Mi/Mischa/"
+    },
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Mischa � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/M/Mi/Mischa/"
+    },
+    {
+      "confidence": 0.92,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Mischa: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Mischa.html"
+    }
+  ],
+  "style_effect": [
+    "informativ",
+    "lexikalisch",
+    "international wirkend",
+    "kurz und prägnant",
+    "eher freundlich als markant"
+  ],
+  "usable_evidence_count": 3,
+  "visibility": "Eher bekannt als Vorname in Namensverzeichnissen und Suchanfragen; konkrete öffentliche Debatten oder starke Meinungsbilder sind in der Evidenz kaum sichtbar."
+}

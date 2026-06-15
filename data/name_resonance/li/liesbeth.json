@@ -1,0 +1,62 @@
+{
+  "associations": [
+    "Kurzform von Elisabeth",
+    "hebräische Wurzeln",
+    "biblischer Ursprung",
+    "Bedeutung meist als Bezug zu Gott/Fülle/Vollkommenheit erklärt",
+    "deutsch und niederländisch geprägt",
+    "eher selten als heutiger Babyname",
+    "Namenstag wird teils genannt",
+    "Spitznamen wie Liese, Lissy, Betty, Liss"
+  ],
+  "confidence": 0.81,
+  "display_text": "Liesbeth wirkt öffentlich vor allem klassisch und zurückhaltend: eine seltenere, deutsch-niederländische Kurzform von Elisabeth mit biblisch-hebräischer Herkunft. Die verfügbare Evidenz ist eher schmal, zeigt aber überwiegend eine neutrale bis leicht positive, sachliche Wahrnehmung ohne stärkere Kontroversen.",
+  "evidence_quality": "Begrenzt: zwei überwiegend lexikalische Webquellen, sachlich und namebezogen, aber kaum unabhängige Breite.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Liesbeth",
+  "normalized_name": "liesbeth",
+  "overall_resonance": "Überwiegend neutral bis leicht positiv; der Name wirkt öffentlich vor allem sachlich-namenskundlich wahrgenommen, ohne starke Kontroversen.",
+  "practical_notes": [
+    "Für Suchmaschinen eignet sich vor allem die Einordnung als klassische Kurzform von Elisabeth.",
+    "Der Name vermittelt eher Tradition als Modetrend.",
+    "Im deutschen Kontext dürfte er verständlich, aber nicht alltagsverbreitet sein."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist schmal und stützt sich fast nur auf Namenslexika.",
+    "Einzelne Bedeutungsangaben variieren leicht; sie sollten als Deutungen gelesen werden.",
+    "Es gibt keine klare öffentliche Debatte, daher ist die Einordnung vorsichtig zu verstehen."
+  ],
+  "short_summary": "Liesbeth wird öffentlich meist sachlich und neutral eingeordnet: als klassische, deutsch-niederländische Kurzform von Elisabeth mit biblisch-hebräischen Wurzeln. Der Name gilt eher als selten und traditionell, ohne auffällige negative oder kontroverse Konnotationen.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.92,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Liesbeth � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/L/Li/Liesbeth/"
+    },
+    {
+      "confidence": 0.92,
+      "is_name_discussion": true,
+      "sentiment": "mostly neutral to mildly positive",
+      "source_type": "web",
+      "title": "&#9655; Vorname Liesbeth: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Liesbeth.html"
+    }
+  ],
+  "style_effect": [
+    "traditionell",
+    "klassisch-ետymologisch",
+    "nüchtern",
+    "leicht altmodisch",
+    "international anschlussfähig (deutsch/niederländisch)"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Eher gering bis mittel: Liesbeth ist im deutschsprachigen Raum bekannt, aber laut den Quellen heute eher selten und nicht sehr präsent in der breiten Namensöffentlichkeit."
+}

@@ -1,0 +1,71 @@
+{
+  "associations": [
+    "altenglische Herkunft",
+    "Unisex-Name",
+    "eher Jungenname in Deutschland",
+    "auch für Mädchen verwendet",
+    "Wald-/Lichtung-/Grenzwald-Bezüge",
+    "als eigenständiger Vorname beschrieben",
+    "teils mit Koseform-/Kurzform-Charakter assoziiert"
+  ],
+  "confidence": 0.9,
+  "display_text": "Marley wirkt in der öffentlichen Namenswahrnehmung überwiegend neutral bis leicht positiv: modern, international und als Unisex-Name gebräuchlich. In Deutschland wird er vor allem als Jungenname, aber auch für Mädchen genannt. Die vorliegende Evidenz ist brauchbar, stammt jedoch hauptsächlich aus Namenslexika und einzelnen Kommentaren, nicht aus einer breiten öffentlichen Debatte.",
+  "evidence_quality": "mittel bis gut: mehrere direkt namenskundliche Quellen, aber keine breite öffentliche Diskurslage und teils kommentarbasiertes Material.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Marley",
+  "normalized_name": "marley",
+  "overall_resonance": "Marley wird in der verfügbaren deutschsprachigen Namens-Evidenz überwiegend neutral bis leicht positiv wahrgenommen. Der Name wirkt modern, international und flexibel verwendbar; zugleich ist die öffentliche Einordnung eher beschreibend als stark emotional. Es handelt sich um einen Unisex-Namen, der in Deutschland vor allem als Jungenname, aber auch für Mädchen genannt wird.",
+  "practical_notes": [
+    "Für die Namenssuche wirkt Marley unkompliziert, modern und gut international anschlussfähig.",
+    "Die Schreibweise ist einfach, die Aussprache kann je nach Kontext gelegentlich erklärt werden.",
+    "Wer einen klar geschlechtszugeordneten Namen sucht, sollte berücksichtigen, dass Marley als Unisex-Name wahrgenommen wird."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt überwiegend aus Namenslexika und einzelnen kommentierten Seiten; sie ist daher begrenzt und nicht repräsentativ für die Gesamtbevölkerung.",
+    "Beliebtheitsaussagen sollten vorsichtig gelesen werden, da sie je nach Quelle variieren können.",
+    "Es gibt keine klare öffentliche Stigmatisierung in der vorliegenden Evidenz."
+  ],
+  "short_summary": "Marley wird in Deutschland überwiegend neutral bis leicht positiv, modern und international wahrgenommen; die Evidenz ist jedoch eher namenskundlich als gesellschaftsweit.",
+  "source_count": 3,
+  "sources": [
+    {
+      "confidence": 0.99,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Marley � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/M/Ma/Marley/"
+    },
+    {
+      "confidence": 0.94,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Marley � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/M/Ma/Marley/"
+    },
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Marley: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Marley.html"
+    }
+  ],
+  "style_effect": [
+    "modern",
+    "international",
+    "weich-klangvoll",
+    "jugendlich",
+    "unisex",
+    "informativ",
+    "zeitgemäß"
+  ],
+  "usable_evidence_count": 3,
+  "visibility": "Der Name ist in Namenslexika und Vornamensseiten präsent und damit öffentlich bekannt, aber die Evidenz wirkt nicht wie eine breit geführte Debatte. Die Wahrnehmung scheint eher aus Namenskunde, Beliebtheitsangaben und einzelnen Kommentaren zu stammen."
+}

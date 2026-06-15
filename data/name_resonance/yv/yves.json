@@ -1,0 +1,70 @@
+{
+  "associations": [
+    "französische Form von Ivo",
+    "Bedeutung: Eibe",
+    "mögliche Deutung als Bogenschütze",
+    "althochdeutsche und keltische Bezüge",
+    "Namenstag",
+    "im französischen Sprachraum beliebt",
+    "in Deutschland eher selten"
+  ],
+  "confidence": 0.84,
+  "display_text": "Yves wird in der öffentlichen Wahrnehmung meist neutral bis leicht positiv gesehen: ein französisch geprägter, eleganter und eher seltener Vorname. In Deutschland ist er weniger verbreitet, wirkt aber klar und international. Die Evidenz ist jedoch begrenzt und basiert vor allem auf Namenslexika.",
+  "evidence_quality": "mittel bis schwach: überwiegend beschreibende Namenslexikon-Einträge, wenig direkte öffentliche Meinungsäußerung",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Yves",
+  "normalized_name": "yves",
+  "overall_resonance": "Die öffentliche Resonanz auf „Yves“ ist insgesamt eher neutral bis leicht positiv. Der Name wird vor allem als französisch geprägter, stilvoller und eher seltener Vorname beschrieben.",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt Yves kurz, international und gut merkbar.",
+    "Die französische Prägung kann als elegant oder besonders wahrgenommen werden.",
+    "Im deutschen Kontext kann der Name als eher ungewöhnlich, aber nicht fremdlich erscheinen."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist begrenzt und stützt sich überwiegend auf Namenslexika statt auf breite öffentliche Meinungsdaten.",
+    "Positive Eindrücke stammen teils aus subjektiven Leserkommentaren und sind nicht repräsentativ.",
+    "Es gibt keinen Hinweis auf eine soziale Stigmatisierung; die Wirkung ist eher kultur- und stilbezogen."
+  ],
+  "short_summary": "Yves wird überwiegend neutral bis leicht positiv wahrgenommen: französisch geprägt, elegant und in Deutschland eher selten.",
+  "source_count": 3,
+  "sources": [
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Yves � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/Y/Yv/Yves/"
+    },
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Yves � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/Y/Yv/Yves/"
+    },
+    {
+      "confidence": 0.91,
+      "is_name_discussion": true,
+      "sentiment": "positive",
+      "source_type": "web",
+      "title": "&#9655; Vorname Yves: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Yves.html"
+    }
+  ],
+  "style_effect": [
+    "französisch",
+    "klassisch-elegant",
+    "international",
+    "leicht maskulin-markant",
+    "namenskundlich vertraut",
+    "eher selten im deutschen Alltag"
+  ],
+  "usable_evidence_count": 3,
+  "visibility": "In Deutschland wirkt Yves eher selten bis moderat bekannt; im französischen Sprachraum ist der Name deutlich geläufiger."
+}

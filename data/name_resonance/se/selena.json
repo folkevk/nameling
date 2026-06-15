@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "Mondgöttin Selene",
+    "Mond, Glanz, Licht",
+    "altgriechischer Ursprung",
+    "latinisiert",
+    "weiblicher Vorname mit internationaler Lesbarkeit",
+    "Namensvarianten wie Selina oder Celine"
+  ],
+  "confidence": 0.82,
+  "display_text": "Selena wirkt in Deutschland überwiegend positiv: weich, elegant und international anschlussfähig. Die Quellen verknüpfen den Namen vor allem mit Mond, Licht und der Mondgöttin Selene. Für die tatsächliche öffentliche Resonanz ist die Datenlage jedoch eher begrenzt, weil vor allem Namenslexika vorliegen.",
+  "evidence_quality": "mittel bis schwach für echte öffentliche Meinungsresonanz; gut für Namensbedeutung, Herkunft und lexikalische Einordnung",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Selena",
+  "normalized_name": "selena",
+  "overall_resonance": "Überwiegend positiv und modern-klingend, mit vor allem informativ-lexikalischer Resonanz in den Quellen. Der Name wird mit Mond, Licht und klassisch-mythologischer Bedeutung verbunden.",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt Selena klangvoll, verständlich und kulturell positiv besetzt.",
+    "Die Schreibweise ist klar, die Aussprache meist intuitiv, auch im deutschsprachigen Umfeld.",
+    "Wer einen weichen, internationalen und zugleich traditionsnahen Namen sucht, dürfte ihn oft als passend empfinden."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt fast ausschließlich aus Namenslexika und redaktionellen Namensseiten, nicht aus breiter freier öffentlicher Diskussion.",
+    "Aussagen zur öffentlichen Resonanz sind daher nur vorsichtig belastbar.",
+    "Vereinzelte negative oder gemischte Kommentare in den Quellen sind anekdotisch und nicht als allgemeines Urteil zu verstehen."
+  ],
+  "short_summary": "Selena wird in den verfügbaren Quellen überwiegend positiv, klangvoll und mythologisch-mondbezogen dargestellt. Die echte öffentliche Resonanz ist wegen der vor allem lexikalischen Evidenz nur vorsichtig zu bewerten.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Selena � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/S/Se/Selena/"
+    },
+    {
+      "confidence": 0.94,
+      "is_name_discussion": true,
+      "sentiment": "positive",
+      "source_type": "web",
+      "title": "&#9655; Vorname Selena: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Selena.html"
+    }
+  ],
+  "style_effect": [
+    "weich und melodisch",
+    "elegant und feminin",
+    "modern, aber nicht modisch überladen",
+    "mythologisch aufgeladen",
+    "international anschlussfähig"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland scheint Selena bekannt und präsent, aber eher nicht allgegenwärtig zu sein. Die vorhandene Evidenz spricht für eine sichtbare, eher beliebte als seltene Wahrnehmung."
+}

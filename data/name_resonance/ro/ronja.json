@@ -1,0 +1,59 @@
+{
+  "associations": [
+    "die Siegreiche / die Sieg Bringende",
+    "die Glänzende / die Morgenröte",
+    "althochdeutsche und altnordische Bezüge",
+    "Astrid Lindgrens „Ronja Räubertochter“",
+    "beliebt bzw. bekannt im deutschen Namensgebrauch"
+  ],
+  "confidence": 0.78,
+  "display_text": "Ronja wirkt in den vorliegenden Quellen überwiegend positiv und vertraut. Der Name wird mit Bedeutungen wie „die Siegreiche“ oder „die Glänzende“ verbunden und stark mit Astrid Lindgrens „Ronja Räubertochter“ assoziiert. Für eine breite öffentliche Resonanz ist die Evidenz allerdings eher schmal und stammt vor allem aus Namenslexika.",
+  "evidence_quality": "mittel bis schwach: zwei namenskundliche Webquellen mit überwiegend positiver, aber eher beschreibender als breit öffentlicher Resonanz",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Ronja",
+  "normalized_name": "ronja",
+  "overall_resonance": "Ronja wirkt in den vorliegenden Quellen überwiegend positiv, freundlich und vertraut. Der Name wird vor allem über seine Bedeutung, seine nordische bzw. althochdeutsche Einordnung und die Verbindung zu „Ronja Räubertochter“ wahrgenommen.",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt Ronja insgesamt positiv besetzt und gut verständlich.",
+    "Der Name hat eine starke kulturelle Wiedererkennbarkeit durch die Literaturreferenz.",
+    "Wenn eine sehr breite öffentliche Resonanz gesucht wird, ist die Evidenz hier nur begrenzt aussagekräftig."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Datenlage zur öffentlichen Resonanz ist eher schmal und stark von Namenslexika geprägt.",
+    "Beliebtheitsaussagen sollten vorsichtig gelesen werden, da sie keine breite gesellschaftliche Erhebung ersetzen.",
+    "Keine Hinweise auf eine negative soziale Stigmatisierung in den vorliegenden Quellen."
+  ],
+  "short_summary": "Ronja wird überwiegend positiv, lebendig und vertraut wahrgenommen, vor allem durch Bedeutungen wie „die Siegreiche“ und die Verbindung zu „Ronja Räubertochter“. Die Evidenz ist jedoch eher namenskundlich als breit öffentlich.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "positive",
+      "source_type": "web",
+      "title": "Vorname Ronja � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/R/Ro/Ronja/"
+    },
+    {
+      "confidence": 0.91,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Ronja: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Ronja.html"
+    }
+  ],
+  "style_effect": [
+    "lebendig",
+    "jugendlich",
+    "klar und einprägsam",
+    "leicht poetisch durch Bedeutungsbezüge",
+    "popkulturell geprägt durch Astrid Lindgren"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Im deutschen Sprachraum scheint Ronja bekannt und gut anschlussfähig zu sein; die Quellen beschreiben den Namen als beliebt bzw. in Hitlisten präsent. Die Evidenz dafür stammt jedoch vor allem aus Namenslexika und nicht aus breiter öffentlicher Debatte."
+}

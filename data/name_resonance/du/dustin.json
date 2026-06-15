@@ -1,0 +1,59 @@
+{
+  "associations": [
+    "altnordische/englische Wurzeln",
+    "Bedeutung in Richtung „Thors Stein“ / „Thors Hammer“",
+    "männlicher Vorname",
+    "bekannt, aber nicht sehr häufig",
+    "Namensvarianten wie Dustyn oder Dusty"
+  ],
+  "confidence": 0.84,
+  "display_text": "Dustin wirkt in Deutschland überwiegend neutral bis leicht positiv: ein bekannter, eher seltener Vorname mit internationalem Klang und klaren altnordisch/englischen Bezügen. Die verfügbare Evidenz ist solide für Bedeutung und Beliebtheit, aber nur indirekt für echte öffentliche Resonanz.",
+  "evidence_quality": "gut für Bedeutung, Herkunft und grobe Beliebtheit; schwach für echte öffentliche Resonanz außerhalb von Namenslexika",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Dustin",
+  "normalized_name": "dustin",
+  "overall_resonance": "Der Vorname Dustin wird in den vorliegenden deutschsprachigen Namensquellen überwiegend neutral bis leicht positiv wahrgenommen. Er gilt als bekannt, aber derzeit eher nicht häufig. Die öffentliche Rezeption wirkt vor allem beschreibend: Herkunft, Bedeutung und Beliebtheit stehen im Vordergrund, nicht eine stark emotionale Debatte.",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt Dustin vertraut, international verständlich und wenig erklärungsbedürftig.",
+    "Die Wahrnehmung ist eher neutral als stark trendig oder kontrovers.",
+    "Wer einen geläufigen, aber nicht allzu häufigen Namen sucht, findet hier eine solide Option."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt vor allem aus Namenslexika und ist daher nur indirekt für echte öffentliche Meinungsbilder.",
+    "Es liegen keine belastbaren Daten aus Social Media, Umfragen oder Foren in der Evidenz vor.",
+    "Eventuelle positive oder negative Einzelstimmen lassen sich daraus nicht ableiten."
+  ],
+  "short_summary": "Dustin wird in den Quellen als bekannter, eher seltener Vorname mit neutral bis leicht positiver Wirkung beschrieben.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.92,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Dustin � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/D/Du/Dustin/"
+    },
+    {
+      "confidence": 0.91,
+      "is_name_discussion": true,
+      "sentiment": "eher positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Dustin: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Dustin.html"
+    }
+  ],
+  "style_effect": [
+    "international klingend",
+    "modern-englisch geprägt",
+    "jung und unkompliziert",
+    "sachlich bekannt",
+    "eher selten als häufig"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland ist Dustin sichtbar und als Vorname gut einordenbar, aber nicht aktuell massenhaft verbreitet. Die Wahrnehmung wirkt eher etablierter Randbereich als Trendname."
+}

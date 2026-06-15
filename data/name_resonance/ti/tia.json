@@ -1,0 +1,59 @@
+{
+  "associations": [
+    "häufig als Kurzform von Laetitia gedeutet",
+    "Bedeutungsnähe zu Fröhlichkeit/Freude",
+    "teils auch als Kurzform anderer Namen genannt",
+    "selten und besonders",
+    "in einer Quelle auch mit spanischer Nebenbedeutung verknüpft"
+  ],
+  "confidence": 0.84,
+  "display_text": "Tia wirkt in Deutschland überwiegend freundlich, modern und kurz. Der Name wird eher als selten und besonders wahrgenommen und oft mit Fröhlichkeit oder Freude verbunden. Die Quellen sind solide, aber vor allem namenskundliche Webseiten – also eher beschreibend als repräsentativ.",
+  "evidence_quality": "gut für eine vorsichtige Namenszusammenfassung, aber nicht repräsentativ; hauptsächlich zwei namenskundliche Webquellen mit Kommentarbezug.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Tia",
+  "normalized_name": "tia",
+  "overall_resonance": "Überwiegend freundlich und leicht positiv wahrgenommen; Tia wird in den Quellen als kurzer, moderner und eher besonderer Vorname beschrieben. Die öffentliche Rezeption ist insgesamt eher informativ als kontrovers.",
+  "practical_notes": [
+    "Für die Namenssuche wirkt Tia unkompliziert, modern und leicht merkbar.",
+    "Die öffentliche Wahrnehmung ist eher positiv-neutral als stark emotional aufgeladen.",
+    "Wer Eindeutigkeit sucht, sollte die unterschiedlichen Herkunftsdeutungen mitdenken."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt vor allem aus Namenslexika und Kommentarseiten, also eher aus beschreibenden als repräsentativen Quellen.",
+    "Die Bedeutung ist teils mehrdeutig, weil Tia als Kurzform verschiedener Namen verstanden werden kann.",
+    "Eine einzelne kritische Reaktion taucht auf, prägt aber das Gesamtbild nicht klar."
+  ],
+  "short_summary": "Tia wird in Deutschland überwiegend freundlich, modern und kurz wahrgenommen. Der Name wirkt eher selten und besonders, mit positiven Assoziationen wie Fröhlichkeit; die Evidenz ist gut, aber nicht breit repräsentativ.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Tia � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/T/Ti/Tia/"
+    },
+    {
+      "confidence": 0.88,
+      "is_name_discussion": true,
+      "sentiment": "gemischt",
+      "source_type": "web",
+      "title": "&#9655; Vorname Tia: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Tia.html"
+    }
+  ],
+  "style_effect": [
+    "kurz und prägnant",
+    "modern und leicht",
+    "freundlich-fröhliche Assoziation",
+    "eher selten/besonders als alltagsüblich",
+    "namenskundlich klar einordenbar"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland wirkt der Name sichtbar, aber nicht extrem häufig; er wird als bekannt, kurz und gut einprägsam dargestellt."
+}

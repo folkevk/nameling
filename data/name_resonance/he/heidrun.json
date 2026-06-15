@@ -1,0 +1,62 @@
+{
+  "associations": [
+    "altnordische bzw. altdeutsche Herkunft",
+    "nordische Mythologie",
+    "unklare bzw. nicht eindeutig gesicherte Bedeutung",
+    "Deutungen wie \"das klare Geheimnis\" oder \"die helle Rune\"",
+    "heute selten in Deutschland",
+    "Kurzformen/Koseformen wie Heidi oder Heide",
+    "Namenstag am 16. Dezember"
+  ],
+  "confidence": 0.81,
+  "display_text": "Heidrun wirkt in der öffentlichen Wahrnehmung überwiegend sachlich-neutral, traditionell und nordisch geprägt. Der Name ist in Deutschland heute eher selten; sichtbar ist er vor allem in Namenslexika. Häufig genannt werden die altnordische bzw. altdeutsche Herkunft, eine unklare Bedeutung und Koseformen wie Heidi. Eine breite gesellschaftliche Debatte oder klare Stigmatisierung ist in der Evidenz nicht erkennbar.",
+  "evidence_quality": "mittel bis schwach: zwei einschlägige Namensquellen, aber keine breite öffentliche Meinungsbasis",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Heidrun",
+  "normalized_name": "heidrun",
+  "overall_resonance": "Überwiegend sachlich-neutral mit leicht traditionell-nordischer, teils positiv konnotierter Färbung. Die öffentliche Wahrnehmung wirkt eher namenkundlich als emotional aufgeladen.",
+  "practical_notes": [
+    "Für Suchmaschinen eignet sich eine knappe Beschreibung als traditioneller, nordisch geprägter und heute seltener Vorname.",
+    "Die Wahrnehmung ist eher informativ als wertend.",
+    "Koseformen und Herkunftshinweise prägen die Darstellung stärker als gesellschaftliche Diskussionen."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz zur öffentlichen Resonanz ist schwach und stammt fast ausschließlich aus Namenslexika.",
+    "Es gibt keine breite Debattenlage oder belastbare Alltagsresonanz in den Quellen.",
+    "Die Bedeutungsdeutungen sind nicht eindeutig gesichert und sollten vorsichtig formuliert werden."
+  ],
+  "short_summary": "Heidrun wird öffentlich vor allem sachlich als seltener, traditionell-nordischer Vorname wahrgenommen, mit leicht geheimnisvoller Note und unklarer Bedeutungsdeutung.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.95,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Heidrun � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/H/He/Heidrun/"
+    },
+    {
+      "confidence": 0.95,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Heidrun: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Heidrun.html"
+    }
+  ],
+  "style_effect": [
+    "traditionell",
+    "nordisch",
+    "altsprachlich",
+    "leicht geheimnisvoll",
+    "klassisch",
+    "selten"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland heute eher selten und damit im Alltag nicht besonders präsent; die vorhandene Wahrnehmung stammt vor allem aus Namenslexika und Herkunftsseiten."
+}

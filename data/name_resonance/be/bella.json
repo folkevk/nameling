@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "„die Schöne“ / „hübsch“",
+    "lateinischer Ursprung",
+    "Kurzform von Isabella sowie auch Annabella, Arabella, Mirabella, Rosabella",
+    "deutsch bekannt und als beliebt beschrieben",
+    "französische Form: Belle",
+    "Namenstag"
+  ],
+  "confidence": 0.88,
+  "display_text": "Bella wirkt im deutschen Kontext überwiegend positiv: kurz, international und mit der starken Assoziation zu „schön“ bzw. „hübsch“. Die verfügbare Evidenz stammt jedoch vor allem aus Namenslexika, daher ist die öffentliche Resonanz eher indirekt belegt.",
+  "evidence_quality": "mittel bis eher schwach: zwei klar namenskundliche Webquellen, überwiegend redaktionell, wenig offene Publikumsresonanz.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Bella",
+  "normalized_name": "bella",
+  "overall_resonance": "Überwiegend positiv und freundlich, mit klarer Assoziation zu „schön“ und „hübsch“; die öffentliche Resonanz wirkt eher beschreibend als kontrovers.",
+  "practical_notes": [
+    "Für Suchmaschinen gut anschlussfähig durch klare Bedeutung und einfache Schreibweise.",
+    "Wirkt international verständlich und unkompliziert.",
+    "Als Kurzname kann Bella je nach Kontext auch als Spitzname wahrgenommen werden."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenzbasis ist eher schwach für echte öffentliche Meinungsresonanz, da vor allem Namensdatenbanken ausgewertet wurden.",
+    "Positive Zuschreibungen wie „schön“ oder „hübsch“ spiegeln Bedeutungs- und Stilassoziationen wider, nicht zwingend breite gesellschaftliche Bewertung."
+  ],
+  "short_summary": "Bella wird in den Quellen vor allem positiv als kurzer, internationaler Name mit der Bedeutung „die Schöne“ beschrieben. Die Resonanz ist freundlich und unauffällig, basiert aber überwiegend auf Namenslexika statt auf breiter öffentlicher Debatte.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "positive",
+      "source_type": "web",
+      "title": "Vorname Bella � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/B/Be/Bella/"
+    },
+    {
+      "confidence": 0.92,
+      "is_name_discussion": true,
+      "sentiment": "positive",
+      "source_type": "web",
+      "title": "&#9655; Vorname Bella: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Bella.html"
+    }
+  ],
+  "style_effect": [
+    "kurz",
+    "international klingend",
+    "weiblich konnotiert",
+    "leicht und freundlich",
+    "modern, aber nicht neu",
+    "stark bedeutungsbezogen"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Gut sichtbar in Namenslexika und Vornamensseiten, aber die Evidenz zeigt vor allem redaktionelle Infotexte und nur begrenzte offene öffentliche Debatte."
+}

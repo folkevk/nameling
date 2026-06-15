@@ -1,0 +1,62 @@
+{
+  "associations": [
+    "Kurzform von Elisabeth",
+    "deutsch/niederländischer Sprachraum",
+    "biblischer Ursprung",
+    "Bedeutung in Richtung Gottesbezug",
+    "früher beliebt, heute wieder vereinzelt vergeben",
+    "selten bis mäßig verbreitet",
+    "Namenstage werden in den Quellen genannt",
+    "teils als einzigartig bzw. gut klingend beschrieben"
+  ],
+  "confidence": 0.9,
+  "display_text": "Liese wirkt in der vorliegenden Evidenz überwiegend leicht positiv und eher traditionell. Der Name wird als Kurzform von Elisabeth beschrieben, mit weichem Klang und seltener Verbreitung. Die öffentliche Resonanz ist aber nur schwach belegt und stützt sich vor allem auf Namenslexika und wenige Kommentare.",
+  "evidence_quality": "mittel bis محدودiert: zwei überwiegend informativ ausgerichtete Namenslexikon-Quellen mit etwas Community-Feedback, aber keine breite öffentliche Debatte.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Liese",
+  "normalized_name": "liese",
+  "overall_resonance": "Überwiegend leicht positiv bis neutral. Der Name wird vor allem sachlich-namenskundlich eingeordnet und wirkt eher freundlich, selten und traditionell als stark trendig.",
+  "practical_notes": [
+    "Für eine Suchmaschine passt die Einordnung als traditioneller, seltener Mädchenname mit freundlichem Klang.",
+    "Die öffentliche Rezeption wirkt eher positiv-nüchtern als emotional stark aufgeladen.",
+    "Als Kurzform kann der Name für manche sehr vertraut, für andere ungewohnt wirken."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz basiert fast nur auf zwei Namenslexikon-Seiten; echte breite öffentliche Diskussion ist kaum belegt.",
+    "Positive Einschätzungen sind überwiegend subjektiv und anekdotisch.",
+    "Die Wahrnehmung als selten oder einzigartig kann stark vom jeweiligen Umfeld abhängen."
+  ],
+  "short_summary": "Liese wird öffentlich eher freundlich, klassisch und selten wahrgenommen. Die vorhandene Evidenz ist jedoch begrenzt und stammt vor allem aus Namenslexika mit wenigen subjektiven Rückmeldungen.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.92,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "Vorname Liese � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/L/Li/Liese/"
+    },
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Liese: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Liese.html"
+    }
+  ],
+  "style_effect": [
+    "kurz und weich im Klang",
+    "traditionell/klassisch durch die Verbindung zu Elisabeth",
+    "deutschsprachig und bodenständig",
+    "selten, dadurch etwas eigenständig",
+    "eher nostalgisch als modern"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Eher geringe öffentliche Sichtbarkeit; in der vorliegenden Evidenz erscheint Liese als seltener Vorname, der vor allem in Namenslexika und einzelnen Nutzerreaktionen auftaucht."
+}

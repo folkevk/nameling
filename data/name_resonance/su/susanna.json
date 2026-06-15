@@ -1,0 +1,64 @@
+{
+  "associations": [
+    "biblischer Bezug",
+    "hebräischer Ursprung",
+    "Lilie als Bedeutungsassoziation",
+    "latinisierte Form",
+    "weiblicher Vorname",
+    "Namenstag",
+    "historisch in Deutschland verbreitet",
+    "Variante Susanne häufiger",
+    "Spitznamen wie Susi oder Sanna"
+  ],
+  "confidence": 0.89,
+  "display_text": "Susanna wirkt in der öffentlichen Wahrnehmung vor allem klassisch, biblisch und traditionell. Die vorliegenden Quellen verknüpfen den Namen mit Lilie, hebräischem Ursprung und einer eher eleganten, zeitlosen Ausstrahlung. Gleichzeitig ist die Evidenz für echte Alltagsresonanz begrenzt, da die Quellen überwiegend namenkundlich sind.",
+  "evidence_quality": "Gut für Herkunft, Bedeutung und lexikalische Einordnung; schwächer für echte öffentliche Alltagsrezeption.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Susanna",
+  "normalized_name": "susanna",
+  "overall_resonance": "Überwiegend sachlich-positiv und traditionell. Susanna wird in den vorliegenden Quellen vor allem als klassischer, biblisch geprägter Mädchenname mit klarer Herkunft und schöner Bedeutungsassoziation beschrieben. Die öffentliche Rezeption wirkt eher informativ als meinungsstark.",
+  "practical_notes": [
+    "Für Suchmaschinen-Nutzer wirkt Susanna klar, klassisch und gut einordenbar.",
+    "Die Schreibweise ist weniger alltäglich als Susanne, aber ohne besondere Verständnishürde.",
+    "Der Name kann als traditionell und freundlich wahrgenommen werden, ohne stark modisch zu wirken."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt überwiegend aus Namenlexika; echte Alltagsresonanz ist nur schwach belegt.",
+    "Keine belastbaren Hinweise auf negative gesellschaftliche Stigmatisierung in den Quellen.",
+    "Beliebtheits- oder Trendaussagen sollten vorsichtig gelesen werden, da sie hier nur indirekt belegt sind."
+  ],
+  "short_summary": "Susanna wird in den Quellen als klassischer, biblisch geprägter Vorname mit positiver Bedeutungsassoziation beschrieben; die Rezeption wirkt sachlich und traditionell, aber eher lexikalisch als alltagsnah belegt.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Susanna � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/S/Su/Susanna/"
+    },
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Susanna: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Susanna.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "traditionell",
+    "eher zeitlos",
+    "kulturell/biblisch geprägt",
+    "lexikalisch vertraut",
+    "leicht elegant"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Mittel: Der Name ist bekannt und verständlich, wirkt aber im Alltag weniger häufig als die Variante Susanne."
+}

@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "skandinavische bzw. schwedische Form von Nikolaus",
+    "Bedeutung: Sieg des Volkes",
+    "Alternative Schreibweise zu Niklas",
+    "mehrsprachig und international verständlich",
+    "Namenstag-Bezug zu Nikolaus",
+    "Kurzformen wie Nico, Nick oder Nic"
+  ],
+  "confidence": 0.82,
+  "display_text": "Niclas wirkt in den vorliegenden Quellen überwiegend neutral bis leicht positiv: ein vertrauter, international verständlicher Name mit skandinavischer Herkunft und der Bedeutung „Sieg des Volkes“. Die aktuelle Beliebtheit wird eher als mittel bis geringer beschrieben. Die Evidenz ist allerdings begrenzt und stammt vor allem aus Namenslexika, nicht aus breiter öffentlicher Diskussion.",
+  "evidence_quality": "mittel: zwei überwiegend sachliche Namensquellen, begrenzte öffentliche Diskussionsdaten, wenig echte Breitenresonanz",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Niclas",
+  "normalized_name": "niclas",
+  "overall_resonance": "Niclas wird in der verfügbaren Evidenz überwiegend sachlich bis leicht positiv wahrgenommen: als vertraute, deutsch gebräuchliche Variante mit klarer Herkunft und positiver Bedeutung. Die öffentliche Resonanz wirkt eher informativ als emotional bewertet.",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt Niclas klar, traditionell und gut einordbar.",
+    "Die Schreibweise ist nah an Niklas, kann aber als eigenständige Variante wahrgenommen werden.",
+    "Durch die internationale Herkunft ist der Name in vielen Kontexten leicht verständlich.",
+    "Die Datenlage spricht eher für eine neutrale bis freundliche Alltagswahrnehmung als für starke Polarisierung."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt vor allem aus Namenslexika und nicht aus breiter freier Öffentlichkeit; die Gesamtresonanz ist daher nur vorsichtig ableitbar.",
+    "Es gibt keine Hinweise auf eine ausgeprägte negative Stigmatisierung oder starke Kontroversen in den vorliegenden Quellen.",
+    "Beliebtheitsangaben sind zeit- und quellenabhängig und sollten nicht als allgemeingültig gelesen werden."
+  ],
+  "short_summary": "Niclas wird meist neutral bis leicht positiv wahrgenommen: vertraut, international anschlussfähig und mit klarer Herkunfts- und Bedeutungsangabe. Die Evidenz ist jedoch eher lexikalisch als öffentlich diskutierend.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Niclas � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/N/Ni/Niclas/"
+    },
+    {
+      "confidence": 0.94,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Niclas: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Niclas.html"
+    }
+  ],
+  "style_effect": [
+    "informativ",
+    "klassisch-modern",
+    "international anschlussfähig",
+    "namenskundlich klar",
+    "leicht freundlich"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Im deutschsprachigen Raum gut bekannt, aber laut den Quellen aktuell eher mittel bis geringer in der Beliebtheit. Die Wahrnehmung ist dadurch präsent, ohne sehr dominant zu sein."
+}

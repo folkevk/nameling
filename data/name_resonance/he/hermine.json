@@ -1,0 +1,62 @@
+{
+  "associations": [
+    "weibliche Form von Hermann",
+    "altdeutsche bzw. althochdeutsche Herkunft",
+    "Bedeutung im Sinn von „Kriegerin“ / „Heeresfrau“",
+    "älterer, traditioneller Vorname",
+    "Namenstag und Namenslexikon-Kontext",
+    "Harry-Potter-Bezug bzw. Hermine Granger",
+    "Wiederbekanntheit durch Popkultur"
+  ],
+  "confidence": 0.84,
+  "display_text": "Hermine wird überwiegend als klassischer, traditionsreicher und freundlich wirkender Vorname wahrgenommen. Die Quellen verweisen auf die althochdeutsche Herkunft, die Bedeutung im Sinn von „Kriegerin“ bzw. „Heeresfrau“ und auf eine zusätzliche Bekanntheit durch Harry Potter. Für eine allgemeine öffentliche Resonanz außerhalb von Namensportalen ist die Evidenz eher begrenzt, daher vorsichtig zu lesen.",
+  "evidence_quality": "gut für Herkunft, Bedeutung und Namenswahrnehmung innerhalb der Quellen; nur mittel für allgemeine öffentliche Resonanz außerhalb von Namensportalen",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Hermine",
+  "normalized_name": "hermine",
+  "overall_resonance": "Hermine wird in den vorliegenden Quellen überwiegend als klassischer, traditionsreicher und eher positiv besetzter Vorname beschrieben. Die Resonanz wirkt freundlich, historisch und leicht nostalgisch; der Bekanntheitsgrad wird durch eine popkulturelle Referenz zusätzlich gestützt.",
+  "practical_notes": [
+    "Für Suchmaschinen- oder Ratgebertexte eignet sich die Beschreibung als klassischer, traditionsreicher Vorname mit positiver, gut verständlicher Herkunft.",
+    "Die Popkultur-Assoziation kann je nach Zielgruppe ein Vorteil sein, sollte aber nicht als alleinige Charakterisierung dienen.",
+    "Am besten als eher seltener, aber vertraut klingender Name einordnen."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt fast ausschließlich aus Namensseiten; Aussagen zur öffentlichen Gesamtwahrnehmung bleiben daher vorsichtig.",
+    "Die Harry-Potter-Assoziation kann die Wahrnehmung stark prägen und ist nicht automatisch repräsentativ für den Namen insgesamt.",
+    "Keine belastbaren Hinweise auf soziale Stigmatisierung in den Quellen; ein solcher Effekt wäre hier nicht ableitbar."
+  ],
+  "short_summary": "Hermine wirkt als klassischer, traditionsreicher Vorname mit überwiegend positiver Resonanz. Die Quellen betonen Herkunft, Bedeutung und eine zusätzliche Bekanntheit durch Popkultur; für eine breite öffentliche Wirkung außerhalb der Namensseiten ist die Evidenz jedoch begrenzt.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.94,
+      "is_name_discussion": true,
+      "sentiment": "mostly positive",
+      "source_type": "web",
+      "title": "Vorname Hermine � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/H/He/Hermine/"
+    },
+    {
+      "confidence": 0.87,
+      "is_name_discussion": true,
+      "sentiment": "überwiegend positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Hermine: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Hermine.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "altdeutsch/traditionell",
+    "lexikalisch und erklärend",
+    "eher elegant als modern",
+    "nostalgisch",
+    "durch Popkultur etwas aufgeladen"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland wirkt der Name bekannt, aber nicht übermäßig häufig. Die öffentliche Wahrnehmung scheint vor allem über Namenslexika, Herkunftsangaben und die Harry-Potter-Assoziation geprägt zu sein; belastbare Evidenz für eine breitere Alltagsresonanz ist nur begrenzt vorhanden."
+}

@@ -1,0 +1,59 @@
+{
+  "associations": [
+    "türkischer Vorname",
+    "alttürkische Herkunft",
+    "Bedeutung: mutig, tapfer, heldenhaft",
+    "selten bis mäßig verbreitet in Deutschland",
+    "Namenslexikon- und Bedeutungsdiskussion",
+    "teilweise Kommentarbezüge mit spielerischen Alpen-Assoziationen"
+  ],
+  "confidence": 0.84,
+  "display_text": "Alper wirkt in Deutschland eher positiv und sachlich wahrgenommen: ein türkischer Vorname mit starker Bedeutungsaufladung wie „mutig“ oder „tapfer“. Die verfügbare Evidenz ist vor allem namenskundlich und nur eingeschränkt ein Bild der breiten öffentlichen Resonanz.",
+  "evidence_quality": "mittel bis eher schwach für öffentliche Resonanz, gut für Namensbedeutung und Herkunft",
+  "generated_at": "2026-06-14T10:47:41Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Alper",
+  "normalized_name": "alper",
+  "overall_resonance": "Eher positiv und sachlich-informativ; im öffentlichen Namenskontext wird Alper vor allem über Bedeutung und Herkunft wahrgenommen, nicht über starke kontroverse Debatten.",
+  "practical_notes": [
+    "Für Suchmaschinen-Nutzung eignet sich eine kurze, neutrale Beschreibung mit Herkunft und Bedeutung.",
+    "Der Name wirkt sprachlich klar und gut merkbar, mit überwiegend positiver Bedeutungsaufladung.",
+    "Keine Hinweise auf eine starke gesellschaftliche Stigmatisierung in der vorliegenden Evidenz."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt überwiegend aus Namenslexika und nicht aus breiter öffentlicher Wahrnehmung; die öffentliche Resonanz ist daher nur begrenzt belastbar.",
+    "Einzelne Kommentare können anekdotisch oder ironisch sein und sollten nicht als allgemeine Meinung gelesen werden."
+  ],
+  "short_summary": "Alper wird in den Quellen vor allem als türkischer Vorname mit der Bedeutung „mutig“ oder „tapfer“ beschrieben. Die öffentliche Wahrnehmung wirkt überwiegend positiv und sachlich, ist aber nur begrenzt durch echte Breitenresonanz belegt.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Alper � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/A/Al/Alper/"
+    },
+    {
+      "confidence": 0.91,
+      "is_name_discussion": true,
+      "sentiment": "positive",
+      "source_type": "web",
+      "title": "&#9655; Vorname Alper: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Alper.html"
+    }
+  ],
+  "style_effect": [
+    "informativ",
+    "namenskundlich",
+    "klassisch-türkisch konnotiert",
+    "positiv durch Bedeutungsaspekte wie Mut und Tapferkeit",
+    "eher klar und unkompliziert"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland scheint der Name eher bekannt, aber nicht sehr häufig zu sein; die Evidenz deutet auf eine seltene bis mäßige Verbreitung hin."
+}

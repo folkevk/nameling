@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "lateinisch bzw. althochdeutsch hergeleitete Namensform",
+    "Verbindung zu Charlotte/Charles",
+    "Bedeutungen wie \"die Freie\" bzw. \"die Tüchtige\"",
+    "Namenstagangaben",
+    "Spitznamen wie Lotta oder Lotti",
+    "Skandinavien und Deutschland"
+  ],
+  "confidence": 0.74,
+  "display_text": "Charlotta: überwiegend leicht positive, klassische und traditionsnahe Wirkung. Die Quellen beschreiben den Namen sachlich als weibliche Form mit deutsch-skandinavischem Bezug. Die Evidenz ist begrenzt und stammt vor allem aus Namenslexika; breite öffentliche Diskussion ist kaum erkennbar.",
+  "evidence_quality": "mittel bis schwach: inhaltlich klare Namensbeschreibungen, aber nur wenige Quellen und kaum breite öffentliche Diskussion.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Charlotta",
+  "normalized_name": "charlotta",
+  "overall_resonance": "Charlotta wirkt in der vorliegenden Evidenz überwiegend leicht positiv und eher klassisch-elegant. Der Name wird vor allem als weibliche, traditionsnahe Variante von Charlotte beschrieben, mit skandinavisch-deutschem Bezug und klarer namenskundlicher Einordnung.",
+  "practical_notes": [
+    "Für die Namenssuche spricht die klare, traditionelle Einordnung und die eher positive, sachliche Wahrnehmung.",
+    "Wer Wert auf einfache Aussprache legt, sollte die regionale Hörgewohnheit mitdenken.",
+    "Die Wahrnehmung scheint stärker informativ als emotional geprägt zu sein."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist schmal und stammt fast ausschließlich aus einzelnen Namenslexikon-Seiten.",
+    "Es gibt Hinweise auf mögliche Aussprache- oder Verwechslungsfragen; das ist jedoch kein breites öffentliches Urteil.",
+    "Aus der Quellenlage lässt sich keine starke gesellschaftliche Debatte oder klare Stigmatisierung ableiten."
+  ],
+  "short_summary": "Charlotta wird überwiegend als klassisch-eleganter, traditionsnaher Mädchenname mit leicht positiver Resonanz wahrgenommen. Die Evidenz ist jedoch begrenzt und basiert vor allem auf Namenslexika.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "Vorname Charlotta � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/C/Ch/Charlotta/"
+    },
+    {
+      "confidence": 0.86,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Charlotta: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Charlotta.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "elegant",
+    "weiblich",
+    "traditionsnah",
+    "namenskundlich gepflegt",
+    "leicht skandinavisch anmutend"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Die öffentliche Sichtbarkeit wirkt eher begrenzt bis moderat: In den Quellen erscheint Charlotta vor allem in Namenslexika und Bedeutungsseiten, nicht als breit diskutierter oder kontroverser Name."
+}

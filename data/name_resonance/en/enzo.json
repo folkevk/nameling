@@ -1,0 +1,69 @@
+{
+  "associations": [
+    "italienische Herkunft",
+    "Kurzform von Enrico/Heinrich",
+    "Bedeutung in Richtung „Herr des Hauses“ / „Herrscher der Heimat“",
+    "männlicher Vorname",
+    "Namenstag",
+    "Beliebtheit in Deutschland"
+  ],
+  "confidence": 0.89,
+  "display_text": "Enzo wirkt in der vorliegenden Evidenz überwiegend neutral bis leicht positiv: kurz, modern, international und mit italienisch geprägter Herkunft. Die Quellen beschreiben den Namen vor allem sachlich; eine breitere öffentliche Debatte ist nicht erkennbar.",
+  "evidence_quality": "mittel bis gut; inhaltlich klare Namensevidenz, aber überwiegend aus wenigen lexikalischen Webquellen ohne breite Diskurslage",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Enzo",
+  "normalized_name": "enzo",
+  "overall_resonance": "Enzo wird in der vorliegenden Evidenz überwiegend neutral bis leicht positiv wahrgenommen. Der Name wirkt modern, international und zugleich klar männlich; häufig werden italienische Herkunft sowie die Bedeutung als Kurzform bzw. als Name mit traditionsnaher Herkunft genannt.",
+  "practical_notes": [
+    "Für Suchende wirkt Enzo unkompliziert, modern und gut merkbar.",
+    "Der Name ist kurz, international verständlich und in Deutschland etabliert genug, um bekannt zu sein.",
+    "Die Quellen deuten eher auf sachliche Beschreibung als auf kontroverse Zuschreibungen hin."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt fast ausschließlich aus Vornamensseiten und Namenslexika.",
+    "Es gibt keine belastbare breite öffentliche Meinungsdebatte in den Quellen.",
+    "Aussagen zur Wirkung sollten daher als vorsichtige Tendenzen und nicht als allgemeine Wahrheit gelesen werden."
+  ],
+  "short_summary": "Enzo wird in Deutschland eher neutral bis leicht positiv gesehen: kurz, modern, international und mit italienisch geprägter Namenswirkung.",
+  "source_count": 3,
+  "sources": [
+    {
+      "confidence": 0.94,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Enzo � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/E/En/Enzo/"
+    },
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Enzo � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/E/En/Enzo/"
+    },
+    {
+      "confidence": 0.88,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Enzo: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Enzo.html"
+    }
+  ],
+  "style_effect": [
+    "kurz und prägnant",
+    "international klingend",
+    "modern mit klassischem Unterton",
+    "selbstbewusst und markant",
+    "eher weich als hart",
+    "in Deutschland gut einordbar"
+  ],
+  "usable_evidence_count": 3,
+  "visibility": "Im deutschen Namenskontext scheint Enzo gut sichtbar und bekannt zu sein, unter anderem durch Einträge zu Beliebtheit und Namenslexika. Eine breitere öffentliche Debatte ist in den Quellen aber nicht erkennbar."
+}

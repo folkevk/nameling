@@ -1,0 +1,58 @@
+{
+  "associations": [
+    "italienische bzw. spanische Form von Marius",
+    "lateinisch-römische Wurzeln",
+    "Bedeutung in den Quellen teils als unklar, teils als „der Mann vom Meer“ oder „der einsame Kämpfer“ beschrieben",
+    "männlicher Vorname",
+    "früher in Deutschland beliebter, heute seltener"
+  ],
+  "confidence": 0.9,
+  "display_text": "Mario: überwiegend neutral bis leicht positiv wahrgenommen. Der Name gilt als klassisch, vertraut und international, mit lateinisch-italienischem Hintergrund. In Deutschland ist er bekannt, aber laut den Quellen heute eher seltener vergeben.",
+  "evidence_quality": "Gut für eine vorsichtige Namensbeschreibung, aber thematisch eng: fast nur lexikalische Quellen, keine breite öffentliche Resonanzanalyse.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Mario",
+  "normalized_name": "mario",
+  "overall_resonance": "Überwiegend neutral bis leicht positiv. In der verfügbaren Evidenz wird Mario vor allem sachlich-namenskundlich behandelt; der Name wirkt vertraut, klassisch und eher unaufgeregt.",
+  "practical_notes": [
+    "Für die Außendarstellung wirkt Mario unkompliziert, bekannt und sprachlich leicht verständlich.",
+    "Der Name hat eine klare internationale Anschlussfähigkeit, ohne sehr modern oder modisch zu wirken.",
+    "Für eine Suchmaschine eignet sich die Einordnung als traditionsreicher Vorname mit leichter positiver Konnotation."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist stark auf Vornamens- und Namenslexikon-Seiten begrenzt; eine breitere öffentliche Debatte ist nicht sichtbar.",
+    "Bedeutungsangaben variieren je nach Quelle und sollten nicht als gesichert einheitlich verstanden werden."
+  ],
+  "short_summary": "Mario wird in den vorliegenden Quellen überwiegend neutral bis leicht positiv wahrgenommen: ein klassischer, international klingender Vorname mit lateinisch-italienischem Hintergrund, heute eher seltener vergeben.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Mario � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/M/Ma/Mario/"
+    },
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Mario: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Mario.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "vertraut",
+    "international wirkend",
+    "zeitlos",
+    "leicht nostalgisch"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland gut bekannt, aber laut den vorliegenden Quellen heute eher seltener vergeben als früher. Die öffentliche Sichtbarkeit wirkt daher vorhanden, aber nicht aktuell dominant."
+}

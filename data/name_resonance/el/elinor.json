@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "englische bzw. altfranzösisch/provenzalische Form von Eleonore",
+    "Bedeutung und Herkunft",
+    "Namenstag",
+    "selten bis moderat vergeben in Deutschland",
+    "Variante mit mehreren Schreib- und Deutungsbezügen"
+  ],
+  "confidence": 0.82,
+  "display_text": "Elinor wirkt in Deutschland eher selten und klassisch-elegant. In der öffentlichen Rezeption steht vor allem die Namenskunde im Vordergrund: Herkunft, Bedeutung, Namenstag und die Einordnung als Variante von Eleonore. Die Quellenlage ist dabei eher schmal; eine breite Debatte oder auffällige negative Zuschreibung ist nicht erkennbar.",
+  "evidence_quality": "mittel bis gut, aber schmal: klare Namenslexikon-Evidenz, jedoch nur wenige Quellen und keine breite öffentliche Resonanzlage.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Elinor",
+  "normalized_name": "elinor",
+  "overall_resonance": "Überwiegend sachlich-informativ mit leicht positivem Unterton; der Name wird eher als seltene, klassisch wirkende Form wahrgenommen als als stark emotional besetzter Name.",
+  "practical_notes": [
+    "Für Suchmaschinen-Nutzer wirkt der Name eher erklärungsbedürftig, da Herkunft und Schreibweise häufig mit Eleonore verglichen werden.",
+    "Die Wahrnehmung ist eher nüchtern als trendig oder modisch.",
+    "Als seltenere Form kann Elinor als distinguierte, aber zurückhaltende Namenswahl erscheinen."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenzbasis ist klein und besteht im Wesentlichen aus zwei Namenslexikon-/Diskussionsseiten.",
+    "Einzelne Kommentare enthalten widersprüchliche etymologische Deutungen; diese sollten nicht als gesicherte Tatsache gelesen werden.",
+    "Keine Hinweise auf soziale Stigmatisierung oder negative öffentliche Stereotype in der vorliegenden Evidenz."
+  ],
+  "short_summary": "Elinor wird in der vorliegenden Evidenz vor allem als seltene, klassisch wirkende Variante von Eleonore beschrieben: sachlich, leicht elegant und ohne erkennbare negative Stigmatisierung.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Elinor � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/E/El/Elinor/"
+    },
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "mixed",
+      "source_type": "web",
+      "title": "&#9655; Vorname Elinor: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Elinor.html"
+    }
+  ],
+  "style_effect": [
+    "informativ",
+    "namenskundlich",
+    "klassisch",
+    "eher selten",
+    "leicht elegant",
+    "zurückhaltend"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland wirkt Elinor eher wenig verbreitet und vor allem in Namenslexika präsent; eine breite öffentliche Debatte ist in der Evidenz nicht erkennbar."
+}

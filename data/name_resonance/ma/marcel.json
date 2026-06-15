@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "französische Form von Marcellus",
+    "lateinische Herkunft",
+    "Bedeutung: dem Mars geweiht",
+    "klassischer Jungenname",
+    "Beliebtheit in Deutschland",
+    "stärker in den 1990er-Jahren",
+    "heute eher rückläufig",
+    "Namenstag",
+    "Kurzformen/Kosenamen"
+  ],
+  "confidence": 0.91,
+  "display_text": "Marcel ist ein klassischer, gut bekannter Vorname mit lateinisch-französischer Herkunft. Öffentlich wirkt er überwiegend neutral bis leicht positiv, eher vertraut und zeitlos als auffällig. Die Quellen beschreiben den Namen sachlich; eine starke Stigmatisierung ist nicht erkennbar.",
+  "evidence_quality": "hoch: zwei direkte, namenkundliche Quellen mit übereinstimmender Herkunfts- und Beliebkeitsbeschreibung; öffentliche Wertungen nur randständig und nicht repräsentativ.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Marcel",
+  "normalized_name": "marcel",
+  "overall_resonance": "Überwiegend neutral bis leicht positiv: Marcel wirkt als klassischer, gut etablierter Vorname mit klarer historischer Einordnung. In der öffentlichen Wahrnehmung wird er eher sachlich beschrieben als emotional bewertet.",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt Marcel vertraut, etabliert und leicht einzuordnen.",
+    "Der Name hat eine klare, klassische Anmutung und wird meist sachlich statt polarisierend wahrgenommen."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Bewertung basiert vor allem auf namenkundlichen Quellen; öffentliche Meinungen aus Kommentaren sind nur begrenzt repräsentativ.",
+    "Es gibt keine belastbaren Hinweise auf eine breite soziale Stigmatisierung des Namens in der vorliegenden Evidenz."
+  ],
+  "short_summary": "Marcel wird öffentlich überwiegend neutral bis leicht positiv als klassischer, gut bekannter Vorname wahrgenommen, mit lateinisch-französischer Herkunft und einer eher heute rückläufigen Beliebtheit in Deutschland.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Marcel � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/M/Ma/Marcel/"
+    },
+    {
+      "confidence": 0.94,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Marcel: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Marcel.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "zeitlos",
+    "namenkundlich klar",
+    "vertraut",
+    "eher solide als auffällig"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland gut bekannt und öffentlich präsent; die stärkste Sichtbarkeit liegt laut Evidenz in den 1990er-Jahren, heute eher rückläufig."
+}

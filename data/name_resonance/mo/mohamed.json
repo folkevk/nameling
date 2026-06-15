@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "arabische Herkunft",
+    "Bedeutung: der Lobenswerte / der Gepriesene",
+    "Schreibvariante von Mohammed/Muhammad",
+    "Verbreitung in der islamischen Welt",
+    "in Deutschland bekannt und teils beliebt",
+    "mehrere gängige Spitznamen bzw. Kurzformen"
+  ],
+  "confidence": 0.89,
+  "display_text": "Mohamed wirkt öffentlich überwiegend neutral bis leicht positiv: ein bekannter, international gebräuchlicher Vorname mit arabischer Herkunft und der Bedeutung „der Lobenswerte / der Gepriesene“. In deutschen Namensquellen wird er als geläufig und sichtbar beschrieben; die Resonanz ist vor allem sachlich-informativ, nicht stigmatisierend.",
+  "evidence_quality": "mittel bis gut: zwei einschlägige Namensquellen mit direkter Namensdiskussion, überwiegend konsistente Angaben; eine Quelle enthält nutzergenerierte Kommentare und ist daher etwas vorsichtig zu gewichten.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Mohamed",
+  "normalized_name": "mohamed",
+  "overall_resonance": "Überwiegend neutral bis leicht positiv: Der Name Mohamed wird öffentlich meist als international gebräuchlicher, arabisch geprägter Vorname mit klarer religiös-kultureller Verankerung wahrgenommen.",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt Mohamed klar, vertraut und kulturell eindeutig verortet.",
+    "Die Schreibweise ist eine von mehreren gebräuchlichen Formen; das kann in Deutschland zu Varianten bei Aussprache und Schreibweise führen.",
+    "Der Name wird in den Quellen eher sachlich erklärt als emotional bewertet."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt überwiegend von Namenslexika und teils nutzergenerierten Kommentaren; das ist hilfreich, aber nicht vollständig repräsentativ.",
+    "Einzelne positive Kommentare können die Gesamtwirkung etwas freundlicher erscheinen lassen als reine Fachquellen.",
+    "Es gibt keine belastbaren Hinweise auf eine spezifische negative gesellschaftliche Stigmatisierung des Namens in der vorliegenden Evidenz."
+  ],
+  "short_summary": "Mohamed wird in Deutschland vor allem als bekannter, arabisch geprägter Vorname mit der Bedeutung „der Lobenswerte / der Gepriesene“ wahrgenommen. Die öffentliche Resonanz ist überwiegend sachlich und leicht positiv, die Evidenz ist solide, aber teilweise von Namenslexika und Nutzerkommentaren geprägt.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.99,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Mohamed � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/M/Mo/Mohamed/"
+    },
+    {
+      "confidence": 0.91,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Mohamed: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Mohamed.html"
+    }
+  ],
+  "style_effect": [
+    "informativ",
+    "namenskundlich",
+    "lexikalisch",
+    "international",
+    "traditionell",
+    "modern geläufig"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland sichtbar und bekannt; die verfügbaren Namensseiten ordnen ihn als geläufigen Vornamen ein, teils mit Hinweis auf gute Popularität."
+}

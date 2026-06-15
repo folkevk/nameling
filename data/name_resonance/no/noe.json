@@ -1,0 +1,69 @@
+{
+  "associations": [
+    "hebräische/biblische Herkunft",
+    "Bedeutung im Umfeld von Ruhe, Ausruhen oder Beruhigen",
+    "Bezug zu Noah/Sintflut",
+    "georgische Form von Noah",
+    "selten bis moderat verbreitet in Deutschland",
+    "Namenstag bzw. namenskundliche Einordnung"
+  ],
+  "confidence": 0.91,
+  "display_text": "Noe hat in den verfügbaren Quellen eine überwiegend neutrale bis leicht positive Resonanz. Der Name wird vor allem als biblisch, kurz und klanglich schlicht beschrieben, mit Bedeutungen rund um Ruhe und Beruhigung. Die Evidenz ist allerdings eher schwach bis mittel, da sie hauptsächlich aus Namensdatenbanken stammt und keine breite öffentliche Debatte zeigt.",
+  "evidence_quality": "mittel: mehrere Namensquellen mit konsistenten, aber überwiegend beschreibenden Angaben; keine breite öffentliche Debatte",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Noe",
+  "normalized_name": "noe",
+  "overall_resonance": "Überwiegend neutral bis leicht positiv: Noe wird in den Quellen vor allem als biblisch und namenkundlich interessant beschrieben, mit Bezügen zu Ruhe, Beruhigung und einer eher seltenen bis moderaten Verbreitung in Deutschland.",
+  "practical_notes": [
+    "Der Name wirkt kurz, klar und international verständlich.",
+    "Durch die biblische Herkunft erhält er eine klassische, ruhige Anmutung.",
+    "Je nach Kontext kann Noe als eher selten wahrgenommen werden, ohne ungewöhnlich zu wirken.",
+    "Schreib- und Zuordnungsvarianten können regional unterschiedlich sein."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist vor allem redaktionell und datenbankbasiert; daraus lässt sich keine breite öffentliche Meinung ableiten.",
+    "Es gibt keine belastbaren Hinweise auf soziale Stigmatisierung oder negative Debatten rund um den Namen.",
+    "Aussagen zur Beliebtheit sollten vorsichtig gelesen werden, da sie aus einzelnen Verzeichnissen stammen."
+  ],
+  "short_summary": "Noe wird in den vorliegenden Quellen sachlich und eher positiv-konnotiert beschrieben: biblisch, ruhig in der Bedeutung und in Deutschland eher selten bis moderat verbreitet.",
+  "source_count": 3,
+  "sources": [
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Noe � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/N/No/Noe/"
+    },
+    {
+      "confidence": 0.94,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Noe � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/N/No/Noe/"
+    },
+    {
+      "confidence": 0.88,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Noe: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Noe.html"
+    }
+  ],
+  "style_effect": [
+    "biblisch-traditionell",
+    "kurz und klanglich schlicht",
+    "international bzw. mehrsprachig anschlussfähig",
+    "namenskundlich eindeutig einordbar",
+    "eher sachlich als trendig"
+  ],
+  "usable_evidence_count": 3,
+  "visibility": "Eher gering bis mittel sichtbar. Die Evidenz stammt hauptsächlich aus Namensdatenbanken und lexikalischen Einträgen; eine breite öffentliche Diskussion ist nicht erkennbar."
+}

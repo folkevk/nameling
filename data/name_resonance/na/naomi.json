@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "hebräische Herkunft",
+    "Bedeutungen wie „die Liebliche“, „die Angenehme“, „die Reizvolle“ bzw. „die Schöne“",
+    "internationaler bzw. gut anschlussfähiger Vorname",
+    "biblischer Bezug",
+    "Namenstag am 1. September",
+    "in Deutschland als beliebt beschrieben"
+  ],
+  "confidence": 0.91,
+  "display_text": "Naomi wirkt in der vorliegenden Evidenz überwiegend positiv: freundlich, elegant und international. Die Quellen sind vor allem namenskundlich, daher ist die öffentliche Resonanz eher aus Namenslexika als aus breiter Debatte ablesbar.",
+  "evidence_quality": "Gut für die Beschreibung des Namens selbst, aber nur begrenzt aussagekräftig für echte öffentliche Resonanz, da vor allem lexikalische Quellen vorliegen.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Naomi",
+  "normalized_name": "naomi",
+  "overall_resonance": "Überwiegend positiv und freundlich, mit eher informativ-lexikalischer als kontroverser öffentlicher Wahrnehmung.",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt Naomi meist freundlich, vertraut und unkompliziert.",
+    "Der Name wird oft als international verständlich wahrgenommen.",
+    "Die Quellen deuten eher auf hohe Akzeptanz als auf Polarisierung hin."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist relativ einseitig und stammt vor allem aus Namenslexika/Profilseiten.",
+    "Die positive Wirkung leitet sich eher aus beschreibenden Quellen als aus einer breiten öffentlichen Debatte ab.",
+    "Keine belastbaren Hinweise auf Stigmatisierung oder negative gesellschaftliche Zuschreibungen in der vorliegenden Evidenz."
+  ],
+  "short_summary": "Naomi wird in den Quellen überwiegend positiv, elegant und international wahrgenommen; die Evidenz ist jedoch eher beschreibend als gesellschaftlich breit.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "Vorname Naomi � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/N/Na/Naomi/"
+    },
+    {
+      "confidence": 0.94,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Naomi: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Naomi.html"
+    }
+  ],
+  "style_effect": [
+    "weich und angenehm",
+    "international und zeitlos",
+    "modern, aber nicht modisch zugespitzt",
+    "leicht elegant",
+    "klar positiv konnotiert"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Mittlere Sichtbarkeit: Der Name erscheint in Namensdatenbanken und Lexika klar präsent, aber es gibt laut Evidenz keine breite öffentliche Debatte."
+}

@@ -1,0 +1,62 @@
+{
+  "associations": [
+    "weiblicher Vorname",
+    "Bedeutung: die Ersehnte",
+    "Bedeutung: die Starke",
+    "Bedeutung: das Licht / die Leuchtende",
+    "altgermanische bzw. altsächsische Deutung",
+    "gälisch-irische bzw. anglisierte Namensform",
+    "englischsprachiger Gebrauch",
+    "Namenslexikon- und Bedeutungscharakter"
+  ],
+  "confidence": 0.79,
+  "display_text": "Aileen wirkt in der öffentlichen Namenswahrnehmung überwiegend neutral bis leicht positiv. Der Name wird als weiblich, klangvoll und international anschlussfähig beschrieben; genannt werden Deutungen wie „die Ersehnte“, „die Starke“ oder „die Leuchtende“. Die Evidenz ist jedoch begrenzt und basiert vor allem auf zwei Namenslexika, daher ist die Aussagekraft zur breiten öffentlichen Resonanz nur mittel bis eher schwach.",
+  "evidence_quality": "mittel bis eher schwach: zwei redaktionelle Namenslexika, sachlich, aber keine breite Resonanzanalyse",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Aileen",
+  "normalized_name": "aileen",
+  "overall_resonance": "Aileen wird in den vorliegenden Quellen überwiegend sachlich-neutral bis leicht positiv beschrieben. Der Name wirkt etabliert, weiblich und vor allem namenkundlich interessant, ohne auffällige starke Kontroversen oder negative Öffentlichkeit in der Evidenz.",
+  "practical_notes": [
+    "Für Namenssuchmaschinen eignet sich Aileen als klar weiblich, klangvoll und international verständlich.",
+    "Der Name vermittelt eher einen freundlichen, modernen und zugleich klassischen Eindruck.",
+    "Die Herkunftsdeutungen variieren je nach Quelle; das ist bei Namensartikeln üblich."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist begrenzt und stützt sich im Wesentlichen auf zwei Namenslexika; eine breite öffentliche Resonanz ist damit nicht gesichert.",
+    "Beliebtheitsangaben sollten vorsichtig gelesen werden, da sie nicht aus einer umfangreichen Medien- oder Social-Media-Auswertung stammen.",
+    "Es gibt keinen belastbaren Hinweis auf eine negative gesellschaftliche Stigmatisierung des Namens in der vorliegenden Evidenz."
+  ],
+  "short_summary": "Aileen wird überwiegend neutral bis leicht positiv wahrgenommen: ein klangvoller, weiblicher Name mit mehreren positiven Bedeutungsdeutungen und eher lexikalischer als kontroverser Öffentlichkeit.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.91,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Aileen � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/A/Ai/Aileen/"
+    },
+    {
+      "confidence": 0.88,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Aileen: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Aileen.html"
+    }
+  ],
+  "style_effect": [
+    "informativ",
+    "lexikalisch",
+    "sanft modern",
+    "international anschlussfähig",
+    "leicht melodisch"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland scheint der Name bekannt, aber eher nicht dominant zu sein. Die Quellen verweisen auf Beliebtheit bzw. Namenslisten, jedoch nur auf Basis weniger lexikalischer Einträge."
+}

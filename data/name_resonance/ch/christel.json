@@ -1,0 +1,62 @@
+{
+  "associations": [
+    "weiblicher Vorname",
+    "oberdeutsche Koseform von Christa/Christina/Christine",
+    "christlich geprägte Namensherkunft",
+    "Bedeutung: die Christin",
+    "altgriechische und lateinische Wurzeln",
+    "eher selten in Deutschland",
+    "bekannt aus dem Lied 'Ich bin die Christel von der Post'"
+  ],
+  "confidence": 0.93,
+  "display_text": "Christel wird öffentlich meist als klassischer, historisch geprägter und heute eher seltener Mädchenname wahrgenommen. Die Rezeption ist insgesamt neutral; der Name wirkt traditionell und eindeutig weiblich, ohne starke moderne Verbreitung. Bekannt ist auch die kulturelle Referenz „Ich bin die Christel von der Post“.",
+  "evidence_quality": "gut: zwei klare, namenbezogene Lexikonquellen mit übereinstimmenden Angaben; überwiegend neutral, teils anekdotisch im Randbereich.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Christel",
+  "normalized_name": "christel",
+  "overall_resonance": "Christel wird öffentlich vor allem als klassisch-historischer, heute eher seltener Vorname wahrgenommen. Die Rezeption ist insgesamt neutral bis leicht traditionell geprägt.",
+  "practical_notes": [
+    "Für Suchende wirkt der Name vermutlich eindeutig, freundlich und traditionell.",
+    "Wer einen geläufigen, zeitgenössischen Namen sucht, könnte ihn eher als ungewöhnlich empfinden.",
+    "Der Name kann durch kulturelle Referenzen wiedererkannt werden, bleibt aber selten."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die öffentliche Wahrnehmung ist stark von Namenslexika und Herkunftsbeschreibungen geprägt, nicht von breiter Alltagsdiskussion.",
+    "Die Aussagen zur Beliebtheit sollten vorsichtig gelesen werden, da sie auf beschreibenden Quellen und nicht auf aktuellen Umfragen beruhen."
+  ],
+  "short_summary": "Christel gilt in Deutschland als klassischer, christlich geprägter und heute eher seltener Vorname mit neutraler öffentlicher Resonanz.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Christel � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/C/Ch/Christel/"
+    },
+    {
+      "confidence": 0.92,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Christel: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Christel.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "traditionell",
+    "etwas altmodisch",
+    "historisch",
+    "klar weiblich",
+    "koseformnah",
+    "selten"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Der Name ist in Deutschland bekannt, aber im Alltag eher ungewöhnlich und nicht stark verbreitet."
+}

@@ -1,0 +1,71 @@
+{
+  "associations": [
+    "mehrere Sprachursprünge",
+    "Unisex-Name",
+    "Bedeutung und Herkunft",
+    "Beliebtheit im deutschsprachigen Raum",
+    "Namenstag",
+    "international verständlich",
+    "verschiedene Deutungen je nach Sprache"
+  ],
+  "confidence": 0.82,
+  "display_text": "Kaya wird überwiegend neutral bis leicht positiv wahrgenommen und als moderner, internationaler Unisex-Name beschrieben. Die verfügbare Evidenz ist vor allem namenkundlich und daher eher schwach für eine echte öffentliche Resonanzkarte. Es gibt Hinweise auf mehrere Sprachursprünge und unterschiedliche Bedeutungen je nach Kontext.",
+  "evidence_quality": "mittel bis schwach für öffentliche Resonanz, gut für namenkundliche Beschreibung",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Kaya",
+  "normalized_name": "kaya",
+  "overall_resonance": "Kaya wird in den vorliegenden Quellen überwiegend neutral bis leicht positiv und als moderner, international anschlussfähiger Unisex-Name beschrieben. Die öffentliche Resonanz wirkt eher sachlich-namenkundlich als debattenhaft.",
+  "practical_notes": [
+    "Für Suchmaschinen und Kurzprofile eignet sich Kaya gut als kompakter, moderner Vorname mit internationalem Klang.",
+    "Die Einordnung als Unisex-Name sollte genannt werden, wenn Geschlechterzuordnung relevant ist.",
+    "Bei Bedeutungsangaben ist eine vorsichtige Formulierung sinnvoll, da je nach Herkunft unterschiedliche Deutungen genannt werden."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt fast ausschließlich aus Namenslexika und nicht aus breiten öffentlichen Diskussionen.",
+    "Die Herleitungen und Bedeutungen sind sprachabhängig und sollten nicht als einheitlich oder endgültig verstanden werden.",
+    "Es gibt keine belastbaren Hinweise auf soziale Stigmatisierung; falls Einzelmeinungen vorkommen, wären sie nicht repräsentativ."
+  ],
+  "short_summary": "Kaya wirkt in den Quellen neutral bis leicht positiv, modern und international. Die Evidenz ist jedoch vor allem lexikalisch; breite öffentliche Resonanz ist nur begrenzt sichtbar.",
+  "source_count": 3,
+  "sources": [
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Kaya � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/K/Ka/Kaya/"
+    },
+    {
+      "confidence": 0.9,
+      "is_name_discussion": true,
+      "sentiment": "mostly positive",
+      "source_type": "web",
+      "title": "Vorname Kaya � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/K/Ka/Kaya/"
+    },
+    {
+      "confidence": 0.95,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Kaya: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Kaya.html"
+    }
+  ],
+  "style_effect": [
+    "informativ",
+    "modern",
+    "international",
+    "kurz und prägnant",
+    "namenkundlich",
+    "unisex-orientiert",
+    "sachlich"
+  ],
+  "usable_evidence_count": 3,
+  "visibility": "Die Sichtbarkeit in der Evidenz ist vorhanden, aber begrenzt: Es dominieren Namenslexika und beschreibende Einträge, keine breite öffentliche Diskussion. Für eine starke Resonanzbewertung ist die Datenlage daher eher schwach."
+}

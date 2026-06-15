@@ -1,0 +1,58 @@
+{
+  "associations": [
+    "Bedeutung im Umfeld von Frieden und Herrschaft",
+    "englische bzw. französische Form von Friedrich",
+    "nahe an Frederik/Friedrich",
+    "Namenstag und Herkunft werden häufig genannt",
+    "Spitznamen wie Freddy, Fred oder Freddie"
+  ],
+  "confidence": 0.84,
+  "display_text": "Frederick wirkt im deutschsprachigen Raum überwiegend positiv und klassisch-international. Die Quellen verbinden den Namen vor allem mit Frieden, Herrschaft und der Form Friedrich; öffentliche Debatten dazu sind eher gering, die Evidenz ist hauptsächlich lexikalisch.",
+  "evidence_quality": "mittel bis gut: zwei direkte Name-Discussions mit klarer Bedeutungs- und Herkunftsangabe, aber überwiegend lexikalischer Charakter und kaum echte öffentliche Kontroverse.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Frederick",
+  "normalized_name": "frederick",
+  "overall_resonance": "Überwiegend positiv und eher klassisch-international wirkend. In den vorliegenden deutschsprachigen Quellen wird Frederick vor allem sachlich-namenskundlich beschrieben, mit freundlichen Konnotationen wie „friedvoller Herrscher“ bzw. „Friedensfürst“ und teils als schön bzw. beliebt eingeordnet.",
+  "practical_notes": [
+    "Für Deutschland wirkt Frederick eher vertraut, aber weniger häufig als die deutsche Form Friedrich.",
+    "Die Schreibweise kann international wirken und wird oft als englische Variante wahrgenommen.",
+    "Wer einen klassischen Namen mit moderner, internationaler Note sucht, findet hier eine passende Mischung."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt überwiegend aus Lexikon- und Verzeichnisquellen, nicht aus breiter öffentlicher Debatte.",
+    "Positive Beschreibungen sind teilweise redaktionell geprägt; sie sollten nicht als allgemeine Mehrheitsmeinung über Personen mit diesem Namen verstanden werden."
+  ],
+  "short_summary": "Frederick wird in den Quellen überwiegend positiv, klassisch und international beschrieben – mit Frieden/Herrschaft als zentralen Assoziationen. Die öffentliche Sichtbarkeit ist eher lexikalisch als diskursiv.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "positive",
+      "source_type": "web",
+      "title": "Vorname Frederick � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/F/Fr/Frederick/"
+    },
+    {
+      "confidence": 0.92,
+      "is_name_discussion": true,
+      "sentiment": "positive",
+      "source_type": "web",
+      "title": "&#9655; Vorname Frederick: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Frederick.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "international/englisch geprägt",
+    "bildungsnah-namenskundlich",
+    "eher elegant als verspielt",
+    "bekannt, aber nicht laut"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Mittel: Der Name ist in Namenslexika und Verzeichnisseiten präsent, wirkt dort aber eher wie ein bekannter, erklärungsbedürftiger Vorname als wie ein stark öffentlich diskutierter Trendname."
+}

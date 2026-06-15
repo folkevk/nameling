@@ -1,0 +1,62 @@
+{
+  "associations": [
+    "althochdeutsche Herkunft",
+    "Kurzform von Adelheid",
+    "Bedeutung in Richtung 'edles Wesen' / 'vornehme Gestalt'",
+    "weiblicher Vorname",
+    "selten in Deutschland",
+    "historisch stärker in den 1940er Jahren",
+    "Namenstag am 5. Februar und 16. Dezember"
+  ],
+  "confidence": 0.84,
+  "display_text": "Heide wird in Deutschland meist als seltener, traditioneller und eher altmodisch wirkender Vorname wahrgenommen. Die verfügbaren Quellen sind vor allem Namenslexika; echte öffentliche Resonanz ist nur begrenzt sichtbar. Insgesamt wirkt der Name neutral bis leicht positiv, mit klarer historischer Prägung.",
+  "evidence_quality": "mittel bis schwach: gute Namenslexikon-Daten, aber nur begrenzte echte öffentliche Resonanz",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Heide",
+  "normalized_name": "heide",
+  "overall_resonance": "Eher neutral bis leicht gemischt: Heide wird vor allem als seltener, traditioneller und namenskundlich klar einordenbarer Vorname wahrgenommen. Öffentliche Bewertungen wirken insgesamt zurückhaltend positiv, aber nicht besonders breit oder eindeutig.",
+  "practical_notes": [
+    "Für Namenssuchende wirkt Heide klar, traditionsnah und unkompliziert.",
+    "Die Seltenheit kann als Pluspunkt für Individualität empfunden werden.",
+    "Durch den eher klassischen Charakter kann der Name unterschiedlich modern oder altmodisch wirken, je nach persönlichem Geschmack."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist begrenzt und stammt überwiegend aus Namenslexika statt aus breiter öffentlicher Meinungsdiskussion.",
+    "Einige subjektive Aussagen zu Klang oder Wirkung können von wenigen Kommentaren geprägt sein und sollten nicht verallgemeinert werden.",
+    "Die Wahrnehmung als 'altmodisch' ist eine häufig genannte Einschätzung, kein objektiver Befund."
+  ],
+  "short_summary": "Heide ist ein seltener, traditionell wirkender Mädchenname mit klarer historischer Einordnung. Die öffentliche Resonanz ist eher neutral bis leicht gemischt und basiert nur eingeschränkt auf breiter Meinungsäußerung.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.92,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Heide � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/H/He/Heide/"
+    },
+    {
+      "confidence": 0.88,
+      "is_name_discussion": true,
+      "sentiment": "mixed",
+      "source_type": "web",
+      "title": "&#9655; Vorname Heide: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Heide.html"
+    }
+  ],
+  "style_effect": [
+    "traditionell",
+    "eher altmodisch",
+    "sachlich-namenskundlich",
+    "kurz und klar",
+    "leicht historisch geprägt",
+    "selten"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland eher geringe Sichtbarkeit; der Name erscheint selten und wirkt dadurch eher auffällig als geläufig."
+}

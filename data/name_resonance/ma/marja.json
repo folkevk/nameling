@@ -1,0 +1,63 @@
+{
+  "associations": [
+    "finnische Form von Maria",
+    "sorbische Form von Maria",
+    "niederländische Variante von Maria",
+    "Bezug zu Mirjam/Maria",
+    "mögliche Bedeutungen wie „die Geliebte“",
+    "mögliche Bedeutungen wie „die (von Gott) Geschenkte“",
+    "christlicher Bezug",
+    "Namenstag am 12. September",
+    "selten in Deutschland"
+  ],
+  "confidence": 0.84,
+  "display_text": "Marja wird in Deutschland eher selten, international und traditionsnah wahrgenommen. Die öffentliche Resonanz wirkt überwiegend neutral bis leicht positiv, basiert jedoch fast nur auf Namenslexika und wenigen Rückmeldungen.",
+  "evidence_quality": "mittel bis schwach: überwiegend lexikalische Quellen, wenig echte öffentliche Diskussion",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Marja",
+  "normalized_name": "marja",
+  "overall_resonance": "Marja wirkt in der öffentlichen Namenswahrnehmung eher ruhig, sachlich und leicht positiv konnotiert. Der Name wird vor allem als seltene, internationale Form von Maria wahrgenommen und weniger als stark trendiger Vorname.",
+  "practical_notes": [
+    "Für die Namenssuche wirkt Marja eher vertraut als exotisch, aber deutlich seltener als Maria.",
+    "Der Name kann je nach Umfeld als international und traditionsnah zugleich gelesen werden.",
+    "Die öffentliche Wahrnehmung ist eher neutral bis freundlich, ohne starke Polarisierung."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt fast ausschließlich aus Namenslexika und Katalogeinträgen.",
+    "Es gibt nur wenige, nicht repräsentative Rückmeldungen; eine breite öffentliche Debatte ist nicht erkennbar.",
+    "Bedeutung und Herkunft werden teils unterschiedlich oder nur vorsichtig gesichert angegeben."
+  ],
+  "short_summary": "Marja wird in Deutschland eher selten, international und traditionsnah wahrgenommen. Die Resonanz ist überwiegend neutral bis leicht positiv, basiert aber hauptsächlich auf Namenslexika.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Marja � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/M/Ma/Marja/"
+    },
+    {
+      "confidence": 0.88,
+      "is_name_discussion": true,
+      "sentiment": "eher positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Marja: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Marja.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch durch die Nähe zu Maria",
+    "international durch finnische, sorbische und niederländische Bezüge",
+    "eher weich und freundlich im Klang",
+    "selten und dadurch eigenständig",
+    "sachlich-lexikalische Wahrnehmung statt starke Popkultur-Prägung"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland eher selten und deshalb mit geringer Alltagspräsenz. In Namenslexika und Einträgen wird er jedoch klar beschrieben und wiedererkannt."
+}

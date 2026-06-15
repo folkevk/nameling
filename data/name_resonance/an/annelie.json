@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "Koseform von Anna",
+    "Kurzform von Anneliese",
+    "Bedeutung: die Begnadete / die Liebreizende / die Anmutige",
+    "Namenstag (je nach Quelle 21. April oder 26. Juli)",
+    "vertraut im deutschen Sprachraum",
+    "positiv-emotional gefärbt"
+  ],
+  "confidence": 0.91,
+  "display_text": "Annelie wirkt in der öffentlichen Wahrnehmung freundlich, melodisch und klassisch-feminin. Der Name ist in Deutschland bekannt und eher moderat bis beliebt, ohne stark trendy zu wirken. Die vorliegenden Quellen deuten auf positive Assoziationen wie 'begnadet', 'liebreizend' und 'anmutig' hin; das sind jedoch Namensdeutungen, keine objektiven Eigenschaften.",
+  "evidence_quality": "gut bis mittelgut; zwei einschlägige Namensquellen, aber keine breite öffentliche Debatte oder unabhängige Reputationslage",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Annelie",
+  "normalized_name": "annelie",
+  "overall_resonance": "Annelie wirkt in der vorliegenden Evidenz insgesamt freundlich, weich und klassisch-feminin. Der Name wird eher positiv und als melodisch beschrieben, mit einem eher vertrauten als exotischen Eindruck.",
+  "practical_notes": [
+    "Für die Namenssuche ist Annelie ein gut lesbarer, traditionsnaher Name mit freundlicher Ausstrahlung.",
+    "Die Schreibweise ist klar und im Deutschen leicht verständlich.",
+    "Wer einen bekannten, aber nicht übermäßig häufigen Vornamen sucht, findet hier eine unaufdringliche Option."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Herkunfts- und Bedeutungsangaben stammen aus Namensseiten mit redaktionellem Charakter; die Evidenz ist brauchbar, aber nicht breit gesellschaftlich belegt.",
+    "Die positiven Stilassoziationen wie 'schön' oder 'melodisch' sind wertend und sollten als Eindruck, nicht als objektive Eigenschaft verstanden werden."
+  ],
+  "short_summary": "Annelie wird öffentlich überwiegend positiv, weich und klassisch-feminin wahrgenommen; der Name ist bekannt, aber nicht stark überpräsent.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Annelie � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/A/An/Annelie/"
+    },
+    {
+      "confidence": 0.89,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Annelie: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Annelie.html"
+    }
+  ],
+  "style_effect": [
+    "melodisch",
+    "sanft",
+    "klassisch-feminin",
+    "freundlich",
+    "warm",
+    "namensnah an Anna/Anneliese",
+    "eher zeitlos als modern-extrem"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland ist Annelie offenbar bekannt und eher moderat bis beliebt, ohne den Eindruck von starker Häufigkeit oder großer Trendspitze. Die Sichtbarkeit wirkt solide, aber nicht auffällig dominant."
+}

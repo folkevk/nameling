@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "althochdeutsche Herkunft",
+    "Kurzform von Thankmar/Dankmar",
+    "Bedeutungsfeld rund um „berühmt“, „angesehen“ oder „Denker“",
+    "friesisch bzw. ostfriesisch geprägt",
+    "selten bzw. regional gebräuchlich",
+    "Namenstag wird in Quellen genannt"
+  ],
+  "confidence": 0.79,
+  "display_text": "Tammo wirkt in der öffentlichen Wahrnehmung eher positiv, traditionsnah und selten. Die verfügbaren Quellen beschreiben den Namen vor allem namenkundlich: mit altdeutscher/friesischer Einordnung, Bedeutungsbezügen wie „berühmt“ oder „Denker“ und einem eher regionalen Charakter. Eine breite öffentliche Debatte ist in der Evidenz kaum sichtbar, daher ist die Aussagekraft insgesamt begrenzt.",
+  "evidence_quality": "mittel bis schwach; überwiegend namenkundliche Portalquellen, kaum breite öffentliche Diskussion",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Tammo",
+  "normalized_name": "tammo",
+  "overall_resonance": "Eher positiv und eher selten wahrgenommen; die öffentliche Rezeption wirkt vor allem beschreibend-namenkundlich statt kontrovers.",
+  "practical_notes": [
+    "Für Suchende wirkt der Name meist freundlich, klar und traditionsnah.",
+    "Die Seltenheit kann als markant und eigenständig wahrgenommen werden.",
+    "Die öffentliche Wahrnehmung scheint überwiegend neutral bis positiv, ohne starke Polarisierung."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenzlage ist schwach und basiert im Wesentlichen auf zwei Namensportalen.",
+    "Es handelt sich eher um Lexikon- und Datenbanktexte als um echte öffentliche Debatten.",
+    "Einzelne Einschätzungen sind subjektiv und sollten nicht verallgemeinert werden."
+  ],
+  "short_summary": "Tammo wird überwiegend positiv, traditionsnah und eher selten wahrgenommen. Die Quellen betonen Herkunft, Bedeutung und regionale Einordnung; belastbare öffentliche Breitenresonanz ist jedoch nur begrenzt belegt.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.92,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "Vorname Tammo � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/T/Ta/Tammo/"
+    },
+    {
+      "confidence": 0.87,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Tammo: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Tammo.html"
+    }
+  ],
+  "style_effect": [
+    "altdeutsch/namenkundlich",
+    "friesisch-regional",
+    "kurz und prägnant",
+    "eher traditionell",
+    "leicht eigenständig"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Im deutschsprachigen Raum bekannt, aber nicht breit verbreitet; die Evidenz deutet auf eine eher regionale bzw. seltene Nutzung hin."
+}

@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "altgriechische Herkunft",
+    "Bedeutung wie „die Strahlende“ / „die Leuchtende“",
+    "griechische Mythologie",
+    "biblischer Bezug",
+    "im Deutschen eher selten",
+    "englische Aussprache wird oft mitgedacht",
+    "im englischsprachigen Raum bekannter"
+  ],
+  "confidence": 0.78,
+  "display_text": "Phoebe wirkt in Deutschland eher selten, aber positiv: ein klangvoller, internationaler Vorname mit griechischer Herkunft und der Bedeutung „die Strahlende / die Leuchtende“. Die öffentliche Wahrnehmung ist vor allem sachlich-namenskundlich; wegen der begrenzten Evidenz sollte man die Einschätzung vorsichtig lesen.",
+  "evidence_quality": "mittelstark, aber quellenarm; überwiegend einzelne Namensdatenbanken statt breiter öffentlicher Resonanz",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Phoebe",
+  "normalized_name": "phoebe",
+  "overall_resonance": "Überwiegend positiv und sachlich, mit einem eher seltenen, leicht eleganten Eindruck im deutschsprachigen Raum.",
+  "practical_notes": [
+    "Für eine öffentliche Namenssuche wirkt Phoebe eher positiv, ungewöhnlich und international.",
+    "Die Schreibweise ist klar, die Aussprache kann im Deutschen jedoch gelegentlich erklärt werden müssen.",
+    "Wer einen seltenen, bedeutungsstarken und kulturell aufgeladenen Namen sucht, findet hier ein stimmiges Profil."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist insgesamt nur mittelstark, da sie überwiegend auf wenigen Namensportalen beruht.",
+    "Popkulturelle Bezüge sollten nur als mögliche Assoziationen, nicht als allgemeine öffentliche Bewertung verstanden werden.",
+    "Zur sozialen Wahrnehmung in Deutschland gibt es keine belastbaren Hinweise auf eine Stigmatisierung."
+  ],
+  "short_summary": "Phoebe wird im deutschsprachigen Raum meist als seltener, klangvoller und positiv besetzter Vorname mit griechisch-biblischen Assoziationen wahrgenommen.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.95,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Phoebe � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/P/Ph/Phoebe/"
+    },
+    {
+      "confidence": 0.86,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Phoebe: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Phoebe.html"
+    }
+  ],
+  "style_effect": [
+    "klingt weich und zugleich klar",
+    "wirkt international anschlussfähig",
+    "trägt einen leicht klassischen, gebildeten Ton",
+    "wird häufig mit Licht/Strahlen und griechischer Herkunft verbunden"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland eher gering verbreitet und deshalb auffälliger als geläufig; die öffentliche Wahrnehmung ist vor allem namenskundlich geprägt."
+}

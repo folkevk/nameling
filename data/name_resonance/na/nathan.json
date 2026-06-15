@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "hebräische Herkunft",
+    "Bedeutung: „Gott hat gegeben“ / „Gottesgeschenk“",
+    "biblischer Name",
+    "Kurzform von Nathanael oder Jonathan",
+    "Namenstag am 24. Oktober",
+    "Spitznamen wie Nate/Nath/Nat"
+  ],
+  "confidence": 0.91,
+  "display_text": "Nathan: In deutschen Namensquellen überwiegend positiv bewertet. Der Name wirkt klassisch, biblisch und international anschlussfähig; er ist eher selten, aber bekannt und wird teils als zunehmend beliebt beschrieben.",
+  "evidence_quality": "gut, aber auf Namenslexikon-Quellen beschränkt",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Nathan",
+  "normalized_name": "nathan",
+  "overall_resonance": "Nathan wird in deutschen Namensquellen überwiegend positiv und eher klassisch wahrgenommen: hebräische Herkunft, biblischer Bezug und die Bedeutung „Gott hat gegeben“ prägen das Bild. Die öffentliche Sicht wirkt sachlich-wohlwollend, ohne starke Polarisierung.",
+  "practical_notes": [
+    "Gut lesbar und international verständlich.",
+    "Wirkt im Deutschen vertraut, aber nicht austauschbar oder übermäßig häufig.",
+    "Für eine Namenssuche eignet sich Nathan besonders, wenn ein klassisch-biblischer Klang gewünscht ist."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt fast ausschließlich aus Namenslexika und beschreibt eher den Namen als öffentliche Debattenresonanz.",
+    "Die Einschätzung zur Beliebtheit ist quellenabhängig und sollte nicht als exakte Marktanalyse gelesen werden."
+  ],
+  "short_summary": "Nathan wird in deutschen Quellen meist positiv, klassisch und biblisch eingeordnet; der Name gilt als eher selten, aber bekannt und teils zunehmend beliebt.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Nathan � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/N/Na/Nathan/"
+    },
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Nathan: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Nathan.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "biblisch",
+    "international anschlussfähig",
+    "informativ",
+    "zeitlos",
+    "freundlich klingend"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland eher bekannt als verbreitet; die Quellen beschreiben den Namen als eher selten, zugleich zunehmend beliebt bzw. auf einer mittleren Platzierung in Hitlisten."
+}

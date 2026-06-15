@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "hebräischer Ursprung",
+    "Bedeutungen wie lieblich, freundlich, angenehm",
+    "biblischer Vorname",
+    "weiblicher Vorname",
+    "in Deutschland als beliebt bzw. eher beliebt beschrieben",
+    "verschiedene internationale Schreibweisen"
+  ],
+  "confidence": 0.88,
+  "display_text": "Noemi wirkt in den vorliegenden Quellen überwiegend positiv: freundlich, lieblich und mit klassisch-biblischer Ausstrahlung. Die Evidenz ist gut für Bedeutung und Herkunft, zeigt aber nur begrenzt die freie öffentliche Alltagsresonanz in Deutschland.",
+  "evidence_quality": "Gut für Bedeutung, Herkunft und lexikalische Einordnung; nur begrenzt aussagekräftig für öffentliche Alltagsresonanz.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Noemi",
+  "normalized_name": "noemi",
+  "overall_resonance": "Überwiegend positiv und freundlich, mit eher klassisch-biblischer Ausstrahlung. In den vorliegenden Namensquellen wird Noemi meist wohlwollend beschrieben.",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt Noemi klar, freundlich und gut merkbar.",
+    "Die Schreibweise ist international verständlich, kann aber je nach Kontext auch als Variante von Naomi wahrgenommen werden.",
+    "Die Quellen nennen Varianten und Namenstage; das spricht für eine etablierte, kulturübergreifende Einordnung."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt vor allem aus Namenslexika und ist daher eher beschreibend als ein Abbild spontaner öffentlicher Resonanz.",
+    "Die positive Wirkung kann teilweise durch den lexikalischen Kontext verstärkt sein.",
+    "Keine belastbaren Hinweise auf negative gesellschaftliche Stigmatisierung in den vorliegenden Quellen."
+  ],
+  "short_summary": "Noemi wird in den verfügbaren Quellen meist positiv, freundlich und klassisch-biblisch eingeordnet. Die Evidenz ist solide für Herkunft und Bedeutung, aber nur eingeschränkt für echte öffentliche Resonanz.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "Vorname Noemi � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/N/No/Noemi/"
+    },
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Noemi: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Noemi.html"
+    }
+  ],
+  "style_effect": [
+    "weich",
+    "lieblich",
+    "international anschlussfähig",
+    "biblisch-traditionell",
+    "modern und zugleich vertraut"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Mittel: Der Name ist in Namenslexika und Beliebtheitskontexten präsent, aber die Evidenz sagt wenig über freie Alltagsdiskussionen in Deutschland aus."
+}

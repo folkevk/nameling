@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "französische Koseform von Anna",
+    "hebräische Herkunft",
+    "Bedeutungen wie „die Begnadete“, „die Gnädige“ oder „die Anmutige“",
+    "historisch besonders im 20. Jahrhundert verbreitet",
+    "Namenstag/namenskundliche Einordnung in Lexika",
+    "Kurzformen wie Netti oder Annie"
+  ],
+  "confidence": 0.85,
+  "display_text": "Annette wirkt in Deutschland überwiegend klassisch, freundlich und sprachlich positiv besetzt. Der Name ist heute eher selten, hat aber eine klare, vertraute und traditionsreiche Ausstrahlung. Die Evidenz ist nur mittelstark, da sie vor allem aus Namenslexika stammt.",
+  "evidence_quality": "mittel",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Annette",
+  "normalized_name": "annette",
+  "overall_resonance": "Die öffentliche Resonanz auf „Annette“ wirkt überwiegend freundlich bis neutral: Der Name wird meist als klassisch, vertraut und sprachlich positiv aufgeladen beschrieben, zugleich aber als heute eher selten wahrgenommen.",
+  "practical_notes": [
+    "Für eine Namenssuche ist „Annette“ gut verständlich und kulturell klar einordenbar.",
+    "Wer einen Namen mit klassischer, ruhiger und eher seltener Wirkung sucht, könnte „Annette“ passend finden.",
+    "Wenn moderne oder trendige Wahrnehmung wichtig ist, wirkt der Name eher weniger zeitgemäß."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist begrenzt und stammt vor allem aus Namenslexika; eine breite öffentliche Meinungslage ist daraus nur eingeschränkt ableitbar.",
+    "Die positiven Bedeutungszuordnungen spiegeln vor allem die Namensdeutung wider, nicht zwingend eine aktuelle gesellschaftliche Bewertung."
+  ],
+  "short_summary": "„Annette“ wird in den vorliegenden Quellen freundlich, klassisch und bedeutungsvoll beschrieben, aber als heute eher selten und weniger präsent.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "Vorname Annette � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/A/An/Annette/"
+    },
+    {
+      "confidence": 0.91,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Annette: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Annette.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "traditionell",
+    "eher zeitlos als modern",
+    "lexikalisch vertraut",
+    "sanft und freundlich wirkend",
+    "heute eher selten"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland erscheint „Annette“ eher wenig aktuell und eher aus früheren Jahrzehnten bekannt. Dadurch hat der Name eine gewisse historische Vertrautheit, aber keine starke heutige Alltagspräsenz."
+}

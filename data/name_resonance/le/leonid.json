@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "altgriechische Herkunft",
+    "russische bzw. ukrainische Namensform",
+    "Bedeutung mit Löwe / löwengleich",
+    "selten in Deutschland",
+    "Namenslexikon- und Bedeutungsname",
+    "Namenstag"
+  ],
+  "confidence": 0.87,
+  "display_text": "Leonid wird in Deutschland eher selten vergeben und vor allem sachlich-klassisch wahrgenommen. Die Quellen betonen die altgriechisch-russische Herkunft, die Bedeutung mit Löwenbezug und einen eher markanten, internationalen Klang. Breite öffentliche Debatten oder starke negative Assoziationen sind in der Evidenz nicht erkennbar.",
+  "evidence_quality": "mittel bis gut: zwei klare Namenslexika mit hoher Übereinstimmung; allerdings kaum freie öffentliche Rezeption und keine breite Alltagsstimme.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Leonid",
+  "normalized_name": "leonid",
+  "overall_resonance": "Leonid wirkt in der öffentlichen Namensrezeption eher sachlich, klassisch und leicht markant. Der Name wird vor allem über seine altgriechisch-russische Herkunft, die Bedeutung mit Löwenbezug und seine Seltenheit in Deutschland wahrgenommen.",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt Leonid klar, ernst und traditionsnah.",
+    "Die Seltenheit in Deutschland kann den Namen besonders machen, zugleich aber ungewohnt wirken.",
+    "Kurzformen wie Leo oder Lenni werden in Quellen genannt, sind aber nicht Teil des eigentlichen Hauptnamens."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt fast ausschließlich aus Namensseiten und nicht aus freier öffentlicher Diskussion.",
+    "Es gibt keine belastbaren Hinweise auf starke positive oder negative gesellschaftliche Stereotype zu diesem Vornamen.",
+    "Die Wahrnehmung als 'markant' oder 'international' ist eine vorsichtige Einordnung, keine harte Allgemeingültigkeit."
+  ],
+  "short_summary": "Leonid wird meist als seltener, klassisch-internationaler Jungenname mit Löwenbezug und sachlicher, eher positiver Namenswirkung beschrieben.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Leonid � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/L/Le/Leonid/"
+    },
+    {
+      "confidence": 0.9,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Leonid: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Leonid.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "international",
+    "markant",
+    "bildungsnah",
+    "eher selten",
+    "leicht traditionell"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland eher selten und dadurch auffällig, aber nicht stark emotional aufgeladen. Die verfügbaren Quellen sind überwiegend Namenslexika; echte öffentliche Debatten oder breite Alltagsresonanz sind kaum erkennbar."
+}

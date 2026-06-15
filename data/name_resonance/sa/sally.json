@@ -1,0 +1,69 @@
+{
+  "associations": [
+    "Koseform von Sarah/Sara",
+    "hebräische Wurzeln",
+    "Bedeutung im Umfeld von ‚Fürstin‘/‚Herrin‘/‚Prinzessin‘",
+    "weiblicher Vorname",
+    "im deutschen Raum eher selten",
+    "Namenstag-Angaben in einzelnen Quellen",
+    "teils mit Popkultur- und Liedassoziationen"
+  ],
+  "confidence": 0.87,
+  "display_text": "Sally wirkt in Deutschland eher selten, freundlich und leicht international. Die öffentliche Resonanz ist überwiegend neutral bis positiv; belastbare Hinweise auf stärkere Kritik oder Stigmatisierung gibt es in der vorliegenden Evidenz nicht.",
+  "evidence_quality": "mittel: mehrere inhaltlich passende Namensquellen, aber kaum unabhängige öffentliche Debatten oder breit angelegte Rezeption erkennbar",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Sally",
+  "normalized_name": "sally",
+  "overall_resonance": "Überwiegend freundlich und leicht positiv, mit neutral-informatischem Grundton. In der deutschen Namensumgebung wirkt Sally eher selten, klanglich aber gut anschlussfähig und ohne starke öffentliche Kontroversen.",
+  "practical_notes": [
+    "Für Deutschland wirkt Sally eher ungewöhnlich, aber gut verständlich und leicht aussprechbar.",
+    "Die öffentliche Wahrnehmung ist eher beschreibend als wertend.",
+    "Wer einen seltenen, international klingenden Vornamen sucht, findet hier meist eine eher positive Grundresonanz."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt überwiegend aus Namenslexika und einer Quelle mit Nutzerkommentaren; das ist keine breite öffentliche Meinungsstudie.",
+    "Vereinzelt tauchen individuelle negative Kommentare auf, diese wirken aber nicht als dominanter öffentlicher Trend.",
+    "Keine Hinweise auf eine relevante gesellschaftliche Stigmatisierung des Namens in der vorliegenden Evidenz."
+  ],
+  "short_summary": "Sally wird in Deutschland vor allem als seltener, klanglich freundlicher Vorname mit englischsprachiger Wirkung wahrgenommen. Die vorhandene Evidenz ist überwiegend sachlich bis positiv, aber nicht besonders breit.",
+  "source_count": 3,
+  "sources": [
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Sally � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/S/Sa/Sally/"
+    },
+    {
+      "confidence": 0.92,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Sally � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/S/Sa/Sally/"
+    },
+    {
+      "confidence": 0.94,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Sally: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Sally.html"
+    }
+  ],
+  "style_effect": [
+    "englisch/modern",
+    "weich und klangvoll",
+    "kurz und merkfähig",
+    "eher selten im deutschen Raum",
+    "namenskundlich oft als Koseform von Sarah eingeordnet"
+  ],
+  "usable_evidence_count": 3,
+  "visibility": "Eher geringe bis mittlere Sichtbarkeit in Deutschland; der Name erscheint vor allem in Namenslexika und Beliebtheitslisten, nicht in breiter öffentlicher Debatte."
+}

@@ -1,0 +1,58 @@
+{
+  "associations": [
+    "Bedeutung: „der berühmte Kämpfer“",
+    "althochdeutsche bzw. niederdeutsche und teils skandinavische Wurzeln",
+    "Namenstag am 13. Januar",
+    "selten in Deutschland",
+    "mögliche Kurzform bzw. historische Namensform"
+  ],
+  "confidence": 0.88,
+  "display_text": "Hilmar wirkt in der öffentlichen Namenswahrnehmung überwiegend neutral bis leicht positiv: ein traditioneller, historisch geprägter und eher seltener Vorname mit klassischer Anmutung.",
+  "evidence_quality": "Begrenzt, aber brauchbar: zwei einschlägige Namenslexikon-Quellen, keine breite Diskussionslage.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Hilmar",
+  "normalized_name": "hilmar",
+  "overall_resonance": "Überwiegend neutral bis leicht positiv, vor allem sachlich-namenskundlich wahrgenommen.",
+  "practical_notes": [
+    "Der Name wirkt traditionsnah und eher ungewöhnlich.",
+    "Für Suchende, die einen klaren, klassischen und seltenen Vornamen suchen, kann Hilmar passend wirken.",
+    "Die öffentliche Wahrnehmung ist eher informativ als emotional aufgeladen."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz basiert nur auf zwei Namenslexikon-Quellen; echte öffentliche Debatten oder breite Alltagsresonanz sind kaum sichtbar.",
+    "Positive oder negative Zuschreibungen sollten nicht als allgemeine Wahrheit verstanden werden, da es sich vor allem um lexikalische Beschreibung handelt."
+  ],
+  "short_summary": "Hilmar wird meist sachlich, traditionsnah und leicht positiv beschrieben; in Deutschland gilt der Name als eher selten.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.94,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "Vorname Hilmar � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/H/Hi/Hilmar/"
+    },
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Hilmar: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Hilmar.html"
+    }
+  ],
+  "style_effect": [
+    "traditionell",
+    "historisch",
+    "altdeutsch/namenskundlich",
+    "kurz und markant",
+    "eher klassisch als modern"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Eher gering bis mittel: Der Name ist bekannt, wird in Deutschland aber als selten eingeordnet."
+}

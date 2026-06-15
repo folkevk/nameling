@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "griechische Herkunft",
+    "Bedeutung: Geschenk Gottes / Gottesgeschenk",
+    "Namenstag",
+    "alte bzw. klassische Namensform",
+    "Kurzformen: Dora, Doro, Thea",
+    "selten, aber anerkannt"
+  ],
+  "confidence": 0.9,
+  "display_text": "Dorothea wird in Deutschland überwiegend als klassischer, traditionsreicher und eher seltener Vorname wahrgenommen. Die verfügbaren Quellen betonen vor allem die griechische Herkunft, die Bedeutung als „Gottesgeschenk“ sowie die Kurzformen Dora, Doro und Thea. Insgesamt wirkt die Resonanz eher positiv und zeitlos als modern-trendbezogen.",
+  "evidence_quality": "mittel bis gut: zwei klar namenkundliche Webquellen, überwiegend konsistent; die Reichweite ist jedoch begrenzt und nicht als repräsentative Umfrage zu verstehen.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Dorothea",
+  "normalized_name": "dorothea",
+  "overall_resonance": "Dorothea wird öffentlich überwiegend als klassischer, traditionsreicher und eher seltener Vorname wahrgenommen. Die verfügbaren Quellen beschreiben den Namen vor allem sachlich und wertschätzend, mit starker Betonung auf Herkunft und Bedeutung.",
+  "practical_notes": [
+    "Für Suchmaschinen- oder Namenskontexte eignet sich Dorothea gut als klar klassisch konnotierter Vorname.",
+    "Die Kurzformen können den Namen im Alltag weicher oder moderner wirken lassen.",
+    "Die öffentliche Wahrnehmung ist eher neutral bis positiv, ohne starke Kontroverse."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt vor allem aus Namenslexikon-Seiten; das ist brauchbar für die öffentliche Namenswahrnehmung, aber nur begrenzt repräsentativ.",
+    "Einzelne Kommentare oder Seitenbewertungen können subjektiv sein und sollten nicht als allgemeine Meinung aller Sprecherinnen und Sprecher gelten."
+  ],
+  "short_summary": "Dorothea gilt öffentlich als klassischer, traditionsreicher und eher seltener Vorname mit positiver, sachlicher Namenswahrnehmung.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Dorothea � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/D/Do/Dorothea/"
+    },
+    {
+      "confidence": 0.91,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Dorothea: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Dorothea.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "traditionell",
+    "eher selten",
+    "namenkundlich geprägt",
+    "formal und zeitlos",
+    "mit warmen Kurzformen wie Dora, Doro oder Thea"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland ist Dorothea eher bekannt als häufig; die Wahrnehmung wirkt daher eher vertraut-klassisch als modern-trendig."
+}

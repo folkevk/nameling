@@ -1,0 +1,63 @@
+{
+  "associations": [
+    "weiblicher Vorname",
+    "englische Schreibvariante von Kathleen",
+    "irische Form über Caitlín",
+    "Bedeutung: die Reine / die Unschuldige",
+    "Herleitung aus dem Altgriechischen katharós",
+    "Namenstag: 25. November",
+    "in Deutschland eher selten bis verbreitet beschrieben",
+    "teilweise als schwierig zu buchstabieren wahrgenommen",
+    "einzelne Kommentare nennen ihn wohlklingend"
+  ],
+  "confidence": 0.88,
+  "display_text": "Cathleen: überwiegend neutral bis leicht positiv. Der Name ist im deutschen Raum bekannt, aber eher selten, und wird vor allem über seine englisch-irische Herkunft, die Bedeutung \"die Reine\" und den Namenstag beschrieben. Einzelne Quellen nennen ihn wohlklingend, zugleich aber auch etwas erklärungsbedürftig in der Schreibweise. Die Evidenz ist eher schmal und stammt größtenteils aus Namenslexika.",
+  "evidence_quality": "mittel bis schwach; überwiegend lexikalische Webquellen, wenig echte öffentliche Debatte",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Cathleen",
+  "normalized_name": "cathleen",
+  "overall_resonance": "Überwiegend neutral bis leicht positiv, mit vor allem namenskundlicher und beschreibender Rezeption.",
+  "practical_notes": [
+    "Für Suchende ist der Name gut auffindbar und eindeutig als Vorname erklärbar.",
+    "Die Schreibweise kann gelegentlich nachgefragt werden, da sie weniger geläufig ist als andere Varianten.",
+    "Die vorhandenen Quellen liefern eher Herkunfts- und Bedeutungswissen als eine starke öffentliche Meinungsbildung."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist relativ schmal und stützt sich überwiegend auf Namensdatenbanken statt auf breite öffentliche Diskussion.",
+    "Einige Bewertungen stammen aus subjektiven Kommentaren und sollten nicht verallgemeinert werden.",
+    "Angaben zur Beliebtheit sind nützlich, aber keine belastbare Aussage über gesellschaftliche Wahrnehmung im Alltag."
+  ],
+  "short_summary": "Cathleen wird im Deutschen meist neutral bis leicht positiv wahrgenommen: ein weiblicher, eher seltener Name mit englisch-irischer Herkunft und der Bedeutung \"die Reine\". Die Evidenz ist jedoch begrenzt und beruht vor allem auf Namenslexika sowie einzelnen subjektiven Kommentaren.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.95,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Cathleen � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/C/Ca/Cathleen/"
+    },
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "mixed",
+      "source_type": "web",
+      "title": "&#9655; Vorname Cathleen: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Cathleen.html"
+    }
+  ],
+  "style_effect": [
+    "klingt weich und eher klassisch-international",
+    "wird als weiblicher Vorname wahrgenommen",
+    "wirkt durch die Schreibweise teilweise auffällig oder erklärungsbedürftig",
+    "assoziiert mit Bedeutungen wie \"die Reine\" bzw. \"die Unschuldige\"",
+    "namenskundlich gut einordenbar durch englisch/irische Herkunftsangaben"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Im deutschsprachigen Raum ist der Name bekannt, aber eher selten; in den vorhandenen Quellen erscheint er vor allem in Namenslexika und weniger in öffentlicher Debatte."
+}

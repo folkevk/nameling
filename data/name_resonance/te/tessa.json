@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "weiblicher Vorname",
+    "Kurz- und Koseform von Theresa/Theresia",
+    "altgriechische Herkunft in den Quellen",
+    "Bedeutungsbezüge wie Jägerin",
+    "Namenstag und Namenskunde",
+    "teils als englisch anmutende Kurzform beschrieben"
+  ],
+  "confidence": 0.88,
+  "display_text": "Tessa wird in Deutschland meist als moderner, freundlicher und harmonisch klingender Vorname wahrgenommen. Die Quellen ordnen den Namen überwiegend sachlich bis leicht positiv ein; einzelne kritische Stimmen sind eher subjektiv und nicht prägend. Als Kurzform von Theresa/Theresia und mit verschiedenen Bedeutungsbezügen ist der Name gut bekannt, ohne stark polarisierend zu wirken.",
+  "evidence_quality": "stark bis gemischt: zwei klare Name-Diskussionen mit hoher Relevanz, überwiegend sachlich, teils mit Nutzerkommentaren und leichter Polarisation",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Tessa",
+  "normalized_name": "tessa",
+  "overall_resonance": "Tessa wird in der öffentlichen Namenswahrnehmung in Deutschland überwiegend freundlich, modern und unkompliziert aufgenommen. Die vorhandenen Quellen beschreiben den Namen sachlich mit eher positiver bis neutraler Tendenz; gelegentliche kritische Kommentare wirken vereinzelt und eher subjektiv als dominant.",
+  "practical_notes": [
+    "Für Suchmaschinen-Nutzung eignet sich Tessa als kurzer, gut merkbarer und leicht aussprechbarer Name.",
+    "Die Wahrnehmung ist eher modern und freundlich, ohne stark auffällige Assoziationen.",
+    "Die Deutungen zur Herkunft und Bedeutung variieren je nach Quelle leicht."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt vor allem aus Namenslexika und Kommentarseiten, also aus öffentlich sichtbaren, aber nicht repräsentativen Quellen.",
+    "Einzelne negative Kommentare betreffen eher persönliche Klangvorlieben als eine allgemeine Bewertung.",
+    "Keine Hinweise auf eine breite soziale Stigmatisierung des Namens erkennbar."
+  ],
+  "short_summary": "Tessa wirkt in Deutschland überwiegend modern, freundlich und klanglich harmonisch; die Quellenlage ist stark, aber teils kommentar- und subjektiv geprägt.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.99,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Tessa � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/T/Te/Tessa/"
+    },
+    {
+      "confidence": 0.94,
+      "is_name_discussion": true,
+      "sentiment": "gemischt",
+      "source_type": "web",
+      "title": "&#9655; Vorname Tessa: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Tessa.html"
+    }
+  ],
+  "style_effect": [
+    "kurz und klar",
+    "modern wirkend",
+    "weich und harmonisch im Klang",
+    "informativ-lexikalisch",
+    "als Kurzform wahrgenommen"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "mittel"
+}

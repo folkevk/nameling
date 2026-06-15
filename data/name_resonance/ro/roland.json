@@ -1,0 +1,62 @@
+{
+  "associations": [
+    "altdeutsche bzw. althochdeutsche Herkunft",
+    "Bedeutungen wie ruhmreich, wagemutig oder mächtig",
+    "mittelalterliche und historische Bezüge",
+    "Rolandsage / Rolandslied",
+    "Roland-Statue in Bremen",
+    "früher häufiger, heute eher selten"
+  ],
+  "confidence": 0.9,
+  "display_text": "Roland wirkt in der verfügbaren Evidenz wie ein klassischer, historisch verankerter Vorname: bekannt, eher selten, sachlich-positiv konnotiert und stark mit Tradition sowie der Rolandsage verbunden.",
+  "evidence_quality": "mittel bis gut; zwei einschlägige Namensquellen, jedoch keine breite öffentliche Diskussionslage",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Roland",
+  "normalized_name": "roland",
+  "overall_resonance": "Roland wird in der verfügbaren Evidenz überwiegend als klassischer, historisch verankerter Vorname mit eher sachlich-positiver bis neutraler Resonanz beschrieben. Der Name wirkt traditionell, bekannt und sprachlich klar zuordenbar, zugleich heute eher selten.",
+  "practical_notes": [
+    "Für Suchmaschinen eignet sich Roland als klar klassischer deutscher Vorname mit starker historischer Anbindung.",
+    "Die Seltenheit heute kann ihn markant wirken lassen, ohne ungewöhnlich zu sein.",
+    "Der Name vermittelt in den Quellen eher Tradition als Modetrend."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt fast ausschließlich aus Namensportalen und beschreibt den Namen selbst; eine breite öffentliche Diskussion ist nicht erkennbar.",
+    "Es gibt keine belastbaren Hinweise auf eine soziale Stigmatisierung des Namens in den vorliegenden Quellen.",
+    "Aussagen zur Wirkung bleiben daher vorsichtig und beschreibend, nicht allgemeinverbindlich."
+  ],
+  "short_summary": "Roland ist ein klassischer, historisch geprägter Vorname mit überwiegend positiver bis neutraler Beschreibung; heute eher selten, aber gut bekannt.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Roland � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/R/Ro/Roland/"
+    },
+    {
+      "confidence": 0.91,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Roland: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Roland.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "traditionell",
+    "historisch",
+    "gehoben-ruhig",
+    "namenskundlich",
+    "eher zeitlos",
+    "seltenheitsbedingt leicht markant"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Der Name ist in Deutschland bekannt, aber nicht mehr besonders häufig. In den Quellen erscheint Roland vor allem als Namenslexikon-Eintrag mit historischer und kultureller Einordnung, nicht als Gegenstand breiter öffentlicher Debatten."
+}

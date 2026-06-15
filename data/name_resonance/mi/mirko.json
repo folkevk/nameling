@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "slawische Herkunft",
+    "Kurzform von Miroslav",
+    "Bedeutungsfelder wie Frieden, Ruhm, Ehre",
+    "männlicher Vorname",
+    "Namenstag",
+    "bekannt, aber nicht dominant trendig"
+  ],
+  "confidence": 0.89,
+  "display_text": "Mirko wirkt in der öffentlichen Namenswahrnehmung überwiegend neutral bis leicht positiv: ein klassischer, slawisch geprägter Vorname mit der Assoziation von Frieden/Ruhm/Ehre. Die Evidenz ist allerdings eher lexikalisch als diskursiv, daher nur vorsichtig zu bewerten.",
+  "evidence_quality": "Mittel: zwei einschlägige, aber vorwiegend lexikalische Quellen; wenig freie öffentliche Debatte.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Mirko",
+  "normalized_name": "mirko",
+  "overall_resonance": "Überwiegend neutral bis leicht positiv. In den vorliegenden Namenslexika wird Mirko sachlich als slawischer männlicher Vorname mit friedvoller bzw. ruhmbezogener Bedeutung beschrieben; eine stärkere öffentliche Kontroverse ist in der Evidenz nicht erkennbar.",
+  "practical_notes": [
+    "Für die öffentliche Wahrnehmung ist vor allem die klare slawische Herkunft prägend.",
+    "Der Name wirkt sachlich, etabliert und unkompliziert verständlich.",
+    "Die Datenlage spricht eher für neutrale Akzeptanz als für starke Polarisierung."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist auf zwei Namenslexikon-Seiten beschränkt und damit eher beschreibend als öffentlich debattierend.",
+    "Einzelne Nutzerkommentare sind nicht aussagekräftig genug und sollten nicht überinterpretiert werden.",
+    "Keine belastbaren Hinweise auf eine ausgeprägte soziale Stigmatisierung in der vorliegenden Evidenz."
+  ],
+  "short_summary": "Mirko wird öffentlich überwiegend neutral bis leicht positiv wahrgenommen: ein klar slawisch geprägter, klassischer Vorname mit friedvoller Bedeutung, ohne erkennbare starke Kontroverse.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Mirko � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/M/Mi/Mirko/"
+    },
+    {
+      "confidence": 0.9,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Mirko: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Mirko.html"
+    }
+  ],
+  "style_effect": [
+    "kurz und prägnant",
+    "namenskundlich",
+    "klassisch-sachlich",
+    "leicht international/slawisch wirkend",
+    "ungeschmückt und direkt"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Mittlere Bekanntheit im deutschsprachigen Raum; eher als vertrauter, klassisch wirkender Name sichtbar als als Trendname."
+}

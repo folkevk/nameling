@@ -1,0 +1,63 @@
+{
+  "associations": [
+    "Bedeutung: die Friedliche",
+    "Frieden und Harmonie",
+    "altgriechischer Ursprung",
+    "griechische Mythologie / Eirene",
+    "Namenstag",
+    "klassischer weiblicher Vorname",
+    "früher beliebter, heute seltener"
+  ],
+  "confidence": 0.94,
+  "display_text": "Irene wirkt öffentlich überwiegend positiv: klassisch, ruhig und mit starken Bezügen zu Frieden und Harmonie. Der Name ist bekannt, aber in Deutschland heute eher seltener.",
+  "evidence_quality": "Gut: zwei klare, namebezogene Quellen mit hoher Übereinstimmung in Bedeutung, Herkunft und Tonalität; allerdings vorwiegend webbasierte Namenslexika statt breiter Umfragedaten.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Irene",
+  "normalized_name": "irene",
+  "overall_resonance": "Überwiegend positiv und klassisch-freundlich. Irene wird öffentlich meist mit Frieden, Harmonie und einer ruhigen, traditionellen Wirkung verbunden; zugleich gilt der Name in Deutschland heute eher als seltener.",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt Irene seriös, freundlich und traditionsnah.",
+    "Der Name hat eine klare, positive Bedeutung und ist leicht verständlich.",
+    "Wegen der geringeren heutigen Häufigkeit kann er als eher individuell wahrgenommen werden."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Quellen sind vor allem namenkundliche Infoseiten und damit eher beschreibend als breit repräsentativ für die Gesamtöffentlichkeit.",
+    "Die Aussage 'heute seltener' beschreibt Verbreitung, nicht Wertung.",
+    "Keine Hinweise auf soziale Stigmatisierung in der vorliegenden Evidenz."
+  ],
+  "short_summary": "Irene wird in der öffentlichen Namensbeschreibung überwiegend positiv, klassisch und friedlich wahrgenommen; der Name ist bekannt, aber heute eher selten.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "eher positiv",
+      "source_type": "web",
+      "title": "Vorname Irene � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/I/Ir/Irene/"
+    },
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Irene: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Irene.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "elegant",
+    "ruhig",
+    "traditionell",
+    "namenskundlich klar",
+    "zeitlos",
+    "eher zurückhaltend"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Mittlere Sichtbarkeit: bekannt und gut einordenbar, aber nicht sehr häufig vergeben."
+}

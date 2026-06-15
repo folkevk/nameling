@@ -1,0 +1,58 @@
+{
+  "associations": [
+    "Bedeutung: „die Begnadete“ / „Gott ist gnädig“",
+    "althebräische Herkunft, oft als Form von Anna/Ana beschrieben",
+    "Namenstag",
+    "Kurzformen und Varianten",
+    "gelegentliche popkulturelle Erwähnungen"
+  ],
+  "confidence": 0.95,
+  "display_text": "Anita wirkt in der öffentlichen Rezeption überwiegend neutral bis positiv: ein klassischer, vertrauter Vorname mit der Bedeutung „die Begnadete“ und klarer namenskundlicher Einordnung. In Deutschland ist der Name bekannt, aber eher nicht stark trendgetrieben.",
+  "evidence_quality": "hoch",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Anita",
+  "normalized_name": "anita",
+  "overall_resonance": "Anita wird in deutschen Namensquellen überwiegend sachlich und positiv-konnotiert dargestellt. Die öffentliche Wahrnehmung wirkt eher klassisch, vertraut und zeitlos als auffällig oder modern.",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt Anita unkompliziert, klar aussprechbar und international anschlussfähig.",
+    "Die Quellen beschreiben den Namen vor allem lexikalisch und kulturhistorisch; persönliche Zuschreibungen sollten daraus nicht abgeleitet werden."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Es gibt keine belastbaren Hinweise auf eine starke gesellschaftliche Stigmatisierung des Namens in der vorliegenden Evidenz.",
+    "Einzelne Popkultur- oder Kommentarbezüge sind nicht als allgemeingültige Namensbewertung zu verstehen."
+  ],
+  "short_summary": "Anita wird öffentlich meist neutral bis positiv als klassischer, traditionsnaher Vorname mit schöner Bedeutung und klarer Herkunft wahrgenommen.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Anita � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/A/An/Anita/"
+    },
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Anita: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Anita.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "weiblich",
+    "warm",
+    "vertraut",
+    "zeitlos",
+    "eher traditionsnah"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Der Name ist bekannt und gut auffindbar, in Deutschland jedoch eher nicht mehr stark im Trend. Die Präsenz in Namensdatenbanken und Lexika ist klar, die aktuelle Alltagsverbreitung wirkt eher moderat."
+}

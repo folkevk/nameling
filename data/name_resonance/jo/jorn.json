@@ -1,0 +1,52 @@
+{
+  "associations": [
+    "jütländische Kurzform",
+    "Variante von Jörgen/Jürgen",
+    "Variante von Georg",
+    "altgriechische Herkunft",
+    "Bedeutung: der Bauer / der Landwirt / der Farmer",
+    "seltene Verwendung in Deutschland",
+    "niederländisch/dänisch/norwegisch geprägt"
+  ],
+  "confidence": 0.79,
+  "display_text": "Jorn wird in Deutschland eher selten verwendet und wirkt sachlich, kurz und nordisch geprägt. Die verfügbare Evidenz spricht vor allem für Herkunft, Bedeutung und Verbreitung, nicht für eine starke öffentliche Meinungsresonanz.",
+  "evidence_quality": "mittel bis schwach für öffentliche Resonanz; gut für Herkunft, Bedeutung und Verbreitung, aber kaum für echte Meinungswahrnehmung",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Jorn",
+  "normalized_name": "jorn",
+  "overall_resonance": "Eher sachlich-neutral mit leicht traditionell/nordisch geprägter Anmutung. Die öffentliche Rezeption wirkt weniger meinungsstark als lexikalisch-informativ.",
+  "practical_notes": [
+    "Für Suchmaschinen-Nutzer:innen eignet sich die Einordnung als seltener, nordisch wirkender Vorname.",
+    "Die Wahrnehmung dürfte stärker über Klang und Herkunft als über aktuelle Popularität geprägt sein.",
+    "Aufgrund der geringen Verbreitung ist die öffentliche Resonanz vermutlich begrenzt und eher neutral."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt vor allem aus einer Namenslexikon-Seite und bildet eher Herkunft und Verbreitung ab als echte öffentliche Meinung.",
+    "Es gibt keine belastbaren Hinweise auf klare positive oder negative Resonanz in der breiten Öffentlichkeit.",
+    "Eine soziale Stigmatisierung ist aus der vorliegenden Evidenz nicht ableitbar."
+  ],
+  "short_summary": "Jorn wirkt in Deutschland selten, sachlich und nordisch geprägt. Die verfügbare Evidenz liefert vor allem Herkunft und Bedeutung, aber kaum öffentliche Meinungen.",
+  "source_count": 1,
+  "sources": [
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Jorn � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/J/Jo/Jorn/"
+    }
+  ],
+  "style_effect": [
+    "kurz und markant",
+    "nordisch/dänisch-niederländisch geprägt",
+    "traditionell und eher ungewöhnlich",
+    "sprachlich schlicht, ohne starke Modewirkung"
+  ],
+  "usable_evidence_count": 1,
+  "visibility": "In Deutschland eher selten und daher wenig alltagspräsent; die vorhandene Evidenz spricht vor allem für eine geringe, aber klare namenskundliche Sichtbarkeit."
+}

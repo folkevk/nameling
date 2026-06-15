@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "finnische Kurzform von Mikko/Mikael",
+    "althebräische Deutung: „Wer ist wie Gott?“",
+    "mögliche japanische oder indianische Deutung in einzelnen Quellen",
+    "in Deutschland als Vorname geführt",
+    "selten bzw. nicht sehr häufig",
+    "teils mit Nico/Niko verwechselt"
+  ],
+  "confidence": 0.88,
+  "display_text": "Miko wirkt in den vorliegenden Quellen überwiegend neutral bis positiv: ein kurzer, moderner und eher seltener Vorname. Er wird in Deutschland als Vorname geführt, die Herkunft wird jedoch unterschiedlich gedeutet (u. a. als Kurzform von Mikael/Mikko oder mit hebräischer Bedeutung). Die Datenlage ist gut für Namenslexika, aber nur begrenzt aussagekräftig für die breite öffentliche Wahrnehmung.",
+  "evidence_quality": "mittel bis gut für Namensbeschreibung, aber begrenzt für echte öffentliche Resonanz; die Quellen sind informativ, jedoch nicht repräsentativ für die Gesamtbevölkerung.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Miko",
+  "normalized_name": "miko",
+  "overall_resonance": "Miko wird in den vorliegenden Namensquellen überwiegend neutral bis positiv wahrgenommen: als kurzer, moderner Vorname mit klarer Namensbedeutung und mehreren Herkunftsdeutungen. Die öffentliche Rezeption wirkt eher informativ als kontrovers.",
+  "practical_notes": [
+    "Für Such- und Namenskontexte wirkt Miko kurz, klar und gut merkbar.",
+    "Die Seltenheit kann als eigenständig empfunden werden, je nach Umfeld aber auch erklärungsbedürftig sein.",
+    "Bei der Verwendung als Name sollte die gewünschte Herkunftsdeutung nicht als eindeutig dargestellt werden, da die Quellen mehrere Varianten nennen."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Herkunftsangaben sind uneinheitlich und kontextabhängig; mehrere Deutungen werden nebeneinander genannt.",
+    "Die Evidenz stammt vor allem aus Namenslexika und ist daher nur ein indirekter Hinweis auf öffentliche Wahrnehmung.",
+    "Verwechslungen mit ähnlich klingenden Namen sind möglich, sollten aber nicht überbewertet werden."
+  ],
+  "short_summary": "Miko wird in den verfügbaren Quellen meist neutral bis positiv beschrieben: kurz, modern und eher selten, mit mehreren möglichen Herkunftsdeutungen.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.91,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Miko � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/M/Mi/Miko/"
+    },
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Miko: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Miko.html"
+    }
+  ],
+  "style_effect": [
+    "kurz und prägnant",
+    "modern wirkend",
+    "international anschlussfähig",
+    "freundlich und unkompliziert",
+    "eher selten statt alltäglich"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland scheint Miko als Vorname bekannt, aber eher selten zu sein. Die Sichtbarkeit ist damit vorhanden, jedoch nicht breit massenmedial geprägt."
+}

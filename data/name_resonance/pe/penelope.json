@@ -1,0 +1,63 @@
+{
+  "associations": [
+    "altgriechischer Ursprung",
+    "griechische Mythologie",
+    "Odysseus",
+    "Bedeutung: Treue / die Treue",
+    "schön klingend",
+    "weiblicher Vorname",
+    "selten bis moderat beliebt in Deutschland",
+    "Spitznamen wie Penny, Nele oder Nelly"
+  ],
+  "confidence": 0.91,
+  "display_text": "Penelope wirkt in Deutschland überwiegend positiv: klassisch, klangvoll und eher selten. Die verfügbaren Quellen betonen den griechisch-mythologischen Ursprung sowie Bedeutungen wie „die Treue“. Eine breite öffentliche Debatte ist nicht erkennbar; die Evidenz ist vor allem namenskundlich und damit begrenzt.",
+  "evidence_quality": "Gut für eine namenskundliche Einordnung, aber begrenzt in der öffentlichen Breite, da die Evidenz vor allem aus einzelnen Namensportalen stammt.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Penelope",
+  "normalized_name": "penelope",
+  "overall_resonance": "In der vorliegenden Evidenz wird Penelope in Deutschland überwiegend positiv bis leicht positiv wahrgenommen: als klassischer, klangvoller und eher seltener Mädchenname mit griechisch-mythologischem Hintergrund.",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt Penelope im Deutschen eher edel, literarisch und international.",
+    "Die Schreibweise und Aussprache sind im deutschsprachigen Raum gut erkennbar, der Name bleibt aber relativ selten.",
+    "Durch die klassischen und mythologischen Bezüge kann der Name als bewusst gewählte, markante Option erscheinen."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt fast ausschließlich aus Namensportalen und ist daher eher beschreibend als breit gesellschaftlich repräsentativ.",
+    "Es sind keine belastbaren Hinweise auf Stigmatisierung oder negative öffentliche Zuschreibungen erkennbar.",
+    "Einzelne positive Bewertungen können subjektiv sein und sollten nicht als allgemeiner Konsens gelesen werden."
+  ],
+  "short_summary": "Penelope wird in der verfügbaren deutschen Evidenz überwiegend positiv als klassischer, klangvoller und eher seltener Mädchenname mit griechischem Ursprung beschrieben.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "Vorname Penelope � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/P/Pe/Penelope/"
+    },
+    {
+      "confidence": 0.94,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Penelope: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Penelope.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "elegant",
+    "klangvoll",
+    "namenskundlich",
+    "eher selten",
+    "international anschlussfähig"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Eher geringe bis moderate Sichtbarkeit: Der Name erscheint in Namensportalen, aber es gibt keine Hinweise auf breite öffentliche Debatten oder starke Alltagsresonanz."
+}

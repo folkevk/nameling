@@ -1,0 +1,59 @@
+{
+  "associations": [
+    "italienische Form von Adrian",
+    "lateinischer Ursprung",
+    "Bedeutung: aus der Region Adria stammend",
+    "Namenstag",
+    "selten bis mäßig verbreitet in Deutschland",
+    "Spitznamen und verwandte Formen werden gelegentlich genannt"
+  ],
+  "confidence": 0.92,
+  "display_text": "Adriano wird meist als klangvoller, italienisch geprägter Name mit lateinischem Ursprung wahrgenommen. In Deutschland ist er eher selten bis mäßig verbreitet und wirkt dadurch etwas markanter, ohne negativ konnotiert zu sein.",
+  "evidence_quality": "hoch für Herkunft, Bedeutung und grobe Beliebtheitseinordnung; mittel für öffentliche Resonanz im engeren Sinn, da vor allem lexikalische Quellen vorliegen.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Adriano",
+  "normalized_name": "adriano",
+  "overall_resonance": "Adriano wird in der öffentlichen Namenswahrnehmung meist neutral bis positiv und vor allem sachlich-informativ beschrieben. Der Name wirkt italienisch geprägt, klangvoll und eher elegant als alltäglich.",
+  "practical_notes": [
+    "Für Suchende, die einen Namen mit italienischem Klang suchen, dürfte Adriano gut passen.",
+    "In Deutschland ist der Name nachvollziehbar, aber nicht sehr häufig, was ihn etwas besonderer wirken lassen kann.",
+    "Die öffentliche Rezeption in den Quellen ist neutral und unaufgeregt."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Quellen sind überwiegend Namenslexika mit eher beschreibendem Charakter; die Evidenz ist daher stark für Herkunft und Einordnung, aber nur begrenzt für echte Alltagsresonanz.",
+    "Keine Hinweise auf eine gesellschaftliche Stigmatisierung in den vorliegenden Quellen."
+  ],
+  "short_summary": "Adriano wirkt in Deutschland eher selten, aber gut verständlich und klangvoll. Die öffentliche Wahrnehmung ist überwiegend neutral bis positiv, mit italienisch-lateinischer Prägung.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Adriano � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/A/Ad/Adriano/"
+    },
+    {
+      "confidence": 0.95,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Adriano: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Adriano.html"
+    }
+  ],
+  "style_effect": [
+    "italienisch und mediterran",
+    "klangvoll und weich",
+    "eher elegant als nüchtern",
+    "klassisch-lateinisch geprägt",
+    "selten bis mäßig verbreitet, dadurch etwas markanter"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland ist Adriano eher bekannt, aber nicht sehr häufig. Die Wahrnehmung scheint daher eher auffällig als massenhaft verbreitet, ohne klar belastete soziale Zuordnung."
+}

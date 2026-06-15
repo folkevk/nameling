@@ -1,0 +1,62 @@
+{
+  "associations": [
+    "französische Form von Yvon bzw. weibliche Form von Ivo",
+    "germanisch/keltischer Ursprung",
+    "Bedeutung: Eibe",
+    "sinngemäß: Bogenschützin",
+    "ehemals beliebter, heute seltener Vorname in Deutschland",
+    "Spitznamen wie Yvi oder Vonny"
+  ],
+  "confidence": 0.84,
+  "display_text": "Yvonne: öffentlich eher neutral bis leicht positiv besetzt. Der Name wirkt klassisch und zeitlos, mit klarer Herkunft und Bedeutung, wird in Deutschland heute aber seltener vergeben.",
+  "evidence_quality": "mittel bis gut: klare Namensdiskussion, aber begrenzte direkte öffentliche Debatte; überwiegend lexikalische Quellen.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Yvonne",
+  "normalized_name": "yvonne",
+  "overall_resonance": "Yvonne wird in den vorliegenden Quellen überwiegend neutral bis leicht positiv beschrieben: als klassischer, eher älter wirkender Vorname mit klarer Namensbedeutung und etablierter Herkunft. Die öffentliche Wahrnehmung wirkt weniger trendig als eher vertraut und zeitlos.",
+  "practical_notes": [
+    "Für Suchmaschinen wirkt Yvonne gut erkennbar und eindeutig.",
+    "Der Name vermittelt eher Tradition als Modernität.",
+    "Wegen der Seltenheit kann er heute etwas seltener im Alltag begegnen als jüngere Trendnamen."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt vor allem aus Namensdatenbanken und ist eher beschreibend als diskursiv.",
+    "Es gibt nur begrenzt direkte Hinweise auf echte öffentliche Resonanz oder Alltagswahrnehmung.",
+    "Die Einordnung als klassisch oder älter ist eine Stilbeschreibung, keine objektive Bewertung."
+  ],
+  "short_summary": "Yvonne wird meist sachlich und leicht positiv wahrgenommen: klassisch, traditionsnah und heute eher selten, aber weiterhin gut bekannt.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Yvonne � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/Y/Yv/Yvonne/"
+    },
+    {
+      "confidence": 0.88,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Yvonne: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Yvonne.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "eher zeitlos",
+    "sachlich",
+    "weiblich",
+    "traditionell",
+    "leicht elegant",
+    "nicht modisch-auffällig"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Der Name ist bekannt, aber heute in Deutschland eher selten vergeben und damit öffentlich sichtbar, ohne aktuell stark im Trend zu stehen."
+}

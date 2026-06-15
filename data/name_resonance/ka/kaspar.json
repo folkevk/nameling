@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "persische Herkunft",
+    "Bedeutung im Sinn von Schatzverwalter/Schatzmeister",
+    "Heilige Drei Könige",
+    "Namenstag",
+    "Kaspar Hauser",
+    "literarische Bezüge wie „Suppenkaspar\""
+  ],
+  "confidence": 0.78,
+  "display_text": "Kaspar wird überwiegend als klassischer, historisch verankerter Vorname mit leicht positiver, traditionsnaher Wirkung wahrgenommen. Die Quellen nennen vor allem Herkunft, Bedeutung und kulturelle Bezüge; eine breite öffentliche Debatte ist nicht erkennbar. Die Evidenz ist eher schwach und stammt hauptsächlich aus Namenslexika.",
+  "evidence_quality": "Begrenzt: vor allem zwei Namenslexika, kaum unabhängige öffentliche Diskussion.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Kaspar",
+  "normalized_name": "kaspar",
+  "overall_resonance": "Kaspar wird in den vorliegenden Quellen überwiegend als klassischer, historisch verankerter Vorname mit eher ruhiger bis leicht positiver Wirkung beschrieben. Die öffentliche Wahrnehmung wirkt sachlich und traditionsnah, nicht trendgetrieben. Die Evidenz ist jedoch begrenzt und stützt sich vor allem auf Namenslexika.",
+  "practical_notes": [
+    "Für viele wirkt der Name traditionsreich und markant.",
+    "Die Schreibweise Kaspar ist klar und gut erkennbar.",
+    "Wer einen seltenen, klassischen Namen sucht, findet hier eine eher zeitlose Option."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Datenlage zur öffentlichen Resonanz ist schwach und stammt fast nur aus Namenslexika.",
+    "Beliebtheits- und Verbreitungsangaben sollten vorsichtig gelesen werden.",
+    "Es gibt keine belastbare breite Debatte, sondern vor allem beschreibende Namensdarstellungen."
+  ],
+  "short_summary": "Kaspar hat in den Quellen eine ruhige, klassische und historisch geprägte Resonanz. Der Name wirkt eher selten und traditionsnah als modern-trendig, bei insgesamt nur schwacher Evidenzlage.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.91,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Kaspar � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/K/Ka/Kaspar/"
+    },
+    {
+      "confidence": 0.88,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Kaspar: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Kaspar.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "traditionell",
+    "historisch",
+    "würdig",
+    "leicht altmodisch",
+    "kulturell aufgeladen"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Eher selten bis rückläufig in Deutschland; dadurch wirkt der Name eher vertraut aus Tradition als breit sichtbar im aktuellen Alltag."
+}

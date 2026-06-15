@@ -1,0 +1,69 @@
+{
+  "associations": [
+    "altenglische Herkunft",
+    "Bedeutung: „die breite Insel“",
+    "Unisex-Name",
+    "eher selten in Deutschland",
+    "englisch/internationaler Klang",
+    "teils Verwechslung in der Geschlechtszuordnung in Schriftverkehr"
+  ],
+  "confidence": 0.78,
+  "display_text": "Sidney wird in Deutschland eher selten und überwiegend neutral bis leicht positiv wahrgenommen. Der Name wirkt international, modern und etwas besonders; in den Quellen wird er vor allem mit altenglischer Herkunft, der Bedeutung „die breite Insel“ und einer geschlechtsneutralen Lesart verbunden. Die Evidenz ist jedoch eher lexikalisch als diskussionsbasiert.",
+  "evidence_quality": "mittel bis schwach: überwiegend Namenslexikon-Quellen, nur wenig direkte öffentliche Resonanz.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Sidney",
+  "normalized_name": "sidney",
+  "overall_resonance": "Eher neutral bis leicht positiv. Sidney wird in den Quellen vor allem sachlich beschrieben; vereinzelt wirkt der Name modern, international und etwas besonders, ohne starke Polarisierung.",
+  "practical_notes": [
+    "Für Namenssuchende vermittelt Sidney einen klaren, internationalen Eindruck.",
+    "Wer einen seltenen und geschlechtsneutral lesbaren Namen sucht, könnte ihn passend finden.",
+    "Die Schreibweise und Aussprache sollten bei Bedarf kurz erklärt werden, da der Name nicht überall geläufig ist."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist begrenzt und stark lexikalisch geprägt; es gibt wenig freie öffentliche Debatte.",
+    "Ein Teil der positiven Wirkung stammt aus einzelnen Kommentaren und ist nicht als allgemeine Mehrheitsmeinung zu verstehen.",
+    "Hinweise auf Verwechslungen betreffen eher den Namen im Alltag als eine negative Bewertung."
+  ],
+  "short_summary": "Sidney wird in Deutschland eher selten und meist neutral bis leicht positiv wahrgenommen: ein international klingender, moderner und etwas besonderer Unisex-Name.",
+  "source_count": 3,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Sidney � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/S/Si/Sidney/"
+    },
+    {
+      "confidence": 0.92,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Sidney � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/S/Si/Sidney/"
+    },
+    {
+      "confidence": 0.86,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Sidney: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Sidney.html"
+    }
+  ],
+  "style_effect": [
+    "modern",
+    "international",
+    "selten",
+    "geschlechtsneutral wahrgenommen",
+    "leicht eigenständig",
+    "zeitweise als cool oder besonders beschrieben"
+  ],
+  "usable_evidence_count": 3,
+  "visibility": "Im deutschsprachigen Raum wirkt Sidney eher selten und daher nicht sehr alltäglich. Die öffentliche Wahrnehmung scheint eher durch Namenslexika und einzelne Kommentare geprägt als durch breite Diskussionen."
+}

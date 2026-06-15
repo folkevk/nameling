@@ -1,0 +1,63 @@
+{
+  "associations": [
+    "Rose",
+    "Rosenhaftigkeit",
+    "Rosenkranz",
+    "lateinische Herkunft",
+    "weiblicher Vorname",
+    "Namenstag",
+    "Beliebtheit in Deutschland",
+    "Spitznamen wie Rosi oder Rosa"
+  ],
+  "confidence": 0.89,
+  "display_text": "Rosalie wirkt öffentlich überwiegend positiv: ein klassisch-eleganter, sanft-romantischer Name mit deutlicher Rosen-Assoziation. Die Quellen deuten auf Bekanntheit und eine gewisse Beliebtheit in Deutschland hin, ohne dass sich daraus eine starke Mainstream-Präsenz sicher ableiten lässt.",
+  "evidence_quality": "mittel bis gut: mehrere klare Namensquellen mit positiver, beschreibender Resonanz; jedoch vor allem lexikalische statt breit repräsentativer öffentliche Daten.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Rosalie",
+  "normalized_name": "rosalie",
+  "overall_resonance": "Überwiegend positiv und klassisch-wohlklingend wahrgenommen; in den vorliegenden Namensquellen wird Rosalie meist mit Rose, Rosenhaftigkeit und einem eleganten, eher romantischen Namensbild verbunden.",
+  "practical_notes": [
+    "Für Suchende wirkt Rosalie eher stilvoll und freundlich als modern-ironisch.",
+    "Der Name lässt sich gut mit Natur- und Blütenassoziationen lesen.",
+    "Kurzformen wie Rosi oder Rosa werden in den Quellen genannt und können die Wirkung informeller machen."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt vor allem aus Namenslexika und einer kommerziellen Namensseite; das ist gut für Bedeutung und Einordnung, aber nur eingeschränkt für echte öffentliche Resonanz.",
+    "Einzelne Community-Kommentare können die Wahrnehmung verzerren.",
+    "Keine Hinweise auf eine soziale Stigmatisierung des Namens in den Quellen."
+  ],
+  "short_summary": "Rosalie wird in den Quellen überwiegend positiv, elegant und blumig beschrieben, mit klaren Bezügen zu Rose, Herkunft und Namenstag; die öffentliche Breitenwirkung ist vorhanden, aber aus den verfügbaren Quellen nur begrenzt messbar.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.95,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "Vorname Rosalie � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/R/Ro/Rosalie/"
+    },
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Rosalie: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Rosalie.html"
+    }
+  ],
+  "style_effect": [
+    "elegant",
+    "romantisch",
+    "klassisch",
+    "sanft",
+    "namenskundlich",
+    "leicht nostalgisch"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland offenbar bekannt und präsent, zugleich eher nicht alltagsdominant; die Quellen deuten auf eine gewisse Beliebtheit, ohne dass daraus eine breite Mainstream-Verwendung sicher ablesbar wäre."
+}

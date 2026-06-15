@@ -1,0 +1,58 @@
+{
+  "associations": [
+    "polnische Variante von Agnes",
+    "altgriechischer Ursprung",
+    "Bedeutungen wie „die Reine“, „die Keusche“, „die Geheiligte“",
+    "Namenstag am 21. Januar und 2. März",
+    "seltenere Vergabe in Deutschland"
+  ],
+  "confidence": 0.9,
+  "display_text": "Agnieszka ist in Deutschland eher selten und wird meist sachlich-neutral, teils leicht positiv wahrgenommen. Der Name wirkt traditionell, markant und kulturell klar verortet; gelegentliche Hinweise auf Aussprache oder Schreibweise sind eher Nebenaspekte als ein dominierendes Urteil.",
+  "evidence_quality": "mittel bis gut: zwei namenskundliche Webquellen mit klarer Diskussion des Vornamens; begrenzte Meinungsvielfalt und nur wenig echte öffentliche Debatte.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Agnieszka",
+  "normalized_name": "agnieszka",
+  "overall_resonance": "Überwiegend sachlich-neutral mit leicht positiver Färbung durch die Bedeutung und den traditionellen Namensbezug.",
+  "practical_notes": [
+    "Für die öffentliche Wahrnehmung ist der Name eher erklärungsbedürftig als alltäglich.",
+    "Die starke kulturelle Verortung kann als eigenständig und charaktervoll wirken.",
+    "Die Resonanz ist insgesamt respektvoll und eher informativ als emotional.",
+    "Keine belastbaren Hinweise auf eine gesellschaftliche Stigmatisierung in der vorliegenden Evidenz."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt vor allem aus Vornamens- und Namenslexikon-Seiten; das ist nützlich, aber keine breite öffentliche Meinungsumfrage.",
+    "Hinweise zu schwieriger Aussprache oder Schreibweise beruhen eher auf einzelnen Kommentaren und sollten nicht verallgemeinert werden."
+  ],
+  "short_summary": "Agnieszka wird in Deutschland eher selten wahrgenommen und überwiegend sachlich bis leicht positiv beschrieben. Der Name wirkt markant, traditionell und kulturell klar verortet; einzelne Hinweise auf Aussprache oder Schreibweise sind eher Nebenaspekte.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Agnieszka � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/A/Ag/Agnieszka/"
+    },
+    {
+      "confidence": 0.92,
+      "is_name_discussion": true,
+      "sentiment": "mixed",
+      "source_type": "web",
+      "title": "&#9655; Vorname Agnieszka: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Agnieszka.html"
+    }
+  ],
+  "style_effect": [
+    "klingt international bzw. ost-/mitteleuropäisch",
+    "wirkt traditionsnah und namenskundlich geprägt",
+    "hat eine klare, markante Schreibweise",
+    "wird teils als ungewohnt in Aussprache/Schreibung wahrgenommen"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland eher selten und daher relativ auffällig, aber nicht stark verbreitet oder breit diskutiert."
+}

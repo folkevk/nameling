@@ -1,0 +1,59 @@
+{
+  "associations": [
+    "lateinischer Ursprung",
+    "Koseform von Roma/Romana",
+    "Bedeutung: Bürgerin von Rom / kleine Römerin",
+    "weiblicher Vorname",
+    "Beliebtheit in Deutschland",
+    "Namenstag",
+    "italienisch geprägte Anmutung"
+  ],
+  "confidence": 0.87,
+  "display_text": "Romina wirkt in den vorliegenden Quellen überwiegend neutral bis leicht positiv. Der Name wird als weiblicher Vorname mit lateinischem Ursprung, Bedeutung und guter Bekanntheit in Deutschland beschrieben. Die Evidenz ist vor allem lexikalisch und daher vorsichtig zu interpretieren.",
+  "evidence_quality": "Mittel bis gut: zwei relevante Namensquellen, aber keine breite Meinungsstreuung und nur lexikalische Evidenz.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Romina",
+  "normalized_name": "romina",
+  "overall_resonance": "Die öffentliche Wahrnehmung von Romina wirkt in den vorliegenden Quellen überwiegend neutral bis leicht positiv. Der Name wird vor allem sachlich als weiblicher Vorname mit lateinischem Ursprung, klarer Bedeutung und solider Beliebtheit in Deutschland beschrieben.",
+  "practical_notes": [
+    "Für eine Namenssuche eignet sich Romina als gut verständlicher, international anschlussfähiger Mädchenname.",
+    "Die Wahrnehmung ist eher positiv durch Bedeutung und Klang, ohne starke Kontroversen oder auffällige negative Konnotationen in den Quellen."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist begrenzt und stammt vor allem aus Namenslexika; daraus lässt sich nur eine vorsichtige öffentliche Resonanz ableiten.",
+    "Beliebtheitsaussagen sollten nicht als allgemeingültiges Urteil verstanden werden, sondern als Hinweis auf die Darstellung in den Quellen."
+  ],
+  "short_summary": "Romina wird öffentlich meist sachlich und freundlich wahrgenommen: ein weiblicher Name mit lateinischem Hintergrund, klarer Bedeutung und eher angenehmer, moderner Ausstrahlung.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Romina � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/R/Ro/Romina/"
+    },
+    {
+      "confidence": 0.91,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Romina: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Romina.html"
+    }
+  ],
+  "style_effect": [
+    "sachlich",
+    "namenskundlich",
+    "leicht elegant",
+    "klassisch-romantisch",
+    "modern vertraut"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Relativ gut sichtbar in deutschsprachigen Namenslexika und Vornamensportalen; die Präsenz wirkt eher informativ als emotional aufgeladen."
+}

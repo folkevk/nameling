@@ -1,0 +1,58 @@
+{
+  "associations": [
+    "oft als Kurzform von Johannes eingeordnet",
+    "Bedeutungsbezüge wie \"Gott ist gnädig\" bzw. \"Gott ist gütig\"",
+    "teils auch mit anderen herkunftsbezogenen Deutungen verbunden",
+    "traditioneller Jungenname",
+    "eher selten, aber bekannt"
+  ],
+  "confidence": 0.78,
+  "display_text": "Hanno wird überwiegend als klassischer, kurzer und eher positiv wahrgenommener Vorname beschrieben. Die vorhandenen Quellen sind jedoch vor allem Namenslexika; eine breite öffentliche Diskussion ist nicht erkennbar.",
+  "evidence_quality": "Begrenzt: zwei überwiegend informative Namensseiten, keine belastbare öffentliche Diskussionslage.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Hanno",
+  "normalized_name": "hanno",
+  "overall_resonance": "Hanno wird in den verfügbaren deutschsprachigen Namensquellen überwiegend sachlich, traditionell und eher positiv wahrgenommen. Die öffentliche Rezeption wirkt nicht kontrovers, sondern vor allem namenskundlich geprägt.",
+  "practical_notes": [
+    "Für Suchmaschinen und Namensportale wirkt Hanno klar, freundlich und unkompliziert.",
+    "Der Name ist kurz, einprägsam und im deutschsprachigen Raum gut einordenbar.",
+    "Die verfügbare Evidenz spricht eher für neutrale bis leicht positive Resonanz als für starke Popularität oder Polarisierung."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt fast ausschließlich aus Namenslexika; eine echte öffentliche Debatte ist nicht belegt.",
+    "Wahrnehmungen wie \"klassisch\" oder \"traditionell\" sind aus der Quellenlage abgeleitet, aber nicht breit empirisch abgesichert."
+  ],
+  "short_summary": "Hanno wirkt in den Quellen klassisch, sachlich und eher positiv besetzt, bei insgesamt schwacher öffentlicher Resonanz.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.94,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Hanno � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/H/Ha/Hanno/"
+    },
+    {
+      "confidence": 0.88,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Hanno: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Hanno.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "kurz und markant",
+    "traditionsnah",
+    "namenskundlich aufgeladen",
+    "leicht altdeutsch/zeitlos wirkend"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Eher gering bis mittel: Der Name erscheint in Namenslexika und Ranglisten, aber es liegt keine breite öffentliche Diskussion oder starke Alltagsresonanz vor."
+}

@@ -1,0 +1,62 @@
+{
+  "associations": [
+    "lateinische Herkunft",
+    "Bedeutung: zum Herrn gehörig",
+    "Namenstag",
+    "Schreibvariante zu Dominik",
+    "klassischer Jungenname",
+    "Beliebtheit in Deutschland",
+    "selten bis nicht sehr häufig",
+    "teilweise als schwer auszusprechen beschrieben"
+  ],
+  "confidence": 0.9,
+  "display_text": "Dominic: überwiegend neutral bis leicht positiv wahrgenommener, klassischer und zeitloser Jungenname mit lateinischer Herkunft. In der öffentlichen Namenswahrnehmung wirkt er bekannt, eher selten bis nicht sehr häufig und teilweise als internationale Schreibvariante zu Dominik. Einzelne Hinweise auf Schreib- und Ausspracheschwierigkeiten stammen vor allem aus Nutzerkommentaren und sollten vorsichtig gelesen werden.",
+  "evidence_quality": "gut bis sehr gut; mehrere namenskundliche Quellen, überwiegend direkt zum Vornamen Dominic, teils ergänzt durch Community-Kommentare",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Dominic",
+  "normalized_name": "dominic",
+  "overall_resonance": "Der Vorname Dominic wird in der vorliegenden deutschsprachigen Namens-Evidenz überwiegend neutral bis leicht positiv wahrgenommen. Er wirkt klassisch, international anschlussfähig und zeitlos, ohne stark modisch oder auffällig zu sein.",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt Dominic vertraut und gut einordenbar.",
+    "Die Schreibweise mit -c kann gegenüber Dominik als etwas internationaler oder markanter wahrgenommen werden.",
+    "Die öffentliche Resonanz ist eher sachlich als emotional stark aufgeladen."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Ein Teil der Evidenz stammt aus allgemeinen Namensseiten und Nutzerkommentaren; die Aussagekraft ist daher nicht in allen Punkten gleich stark.",
+    "Hinweise auf Schreib- oder Ausspracheschwierigkeiten sind eher Wahrnehmungen als objektive Eigenschaften des Namens."
+  ],
+  "short_summary": "Dominic wird in Deutschland meist sachlich, klassisch und eher positiv-neutral wahrgenommen. Der Name gilt als lateinisch geprägt, zeitlos und als Schreibvariante zu Dominik; vereinzelt werden Schreib- oder Aussprachefragen genannt.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Dominic � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/D/Do/Dominic/"
+    },
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Dominic: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Dominic.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "zeitlos",
+    "international",
+    "namenskundlich geprägt",
+    "eher unaufdringlich",
+    "leicht modern durch Schreibweise"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland ist Dominic bekannt und als Vorname gelistet, wirkt aber eher nicht übermäßig häufig. Die öffentliche Sichtbarkeit entsteht vor allem durch Namenslexika und Beliebtheits-/Herkunftseinträge."
+}

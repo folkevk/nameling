@@ -1,0 +1,63 @@
+{
+  "associations": [
+    "griechische Herkunft",
+    "Mythologie",
+    "Bedeutung und Deutung",
+    "Beliebtheit in Deutschland",
+    "weiblicher Vorname",
+    "Namenstag",
+    "Kurzform Lara",
+    "Lieblicher Klang",
+    "Namenslexikon-Kontext"
+  ],
+  "confidence": 0.92,
+  "display_text": "Larissa wird im Deutschen überwiegend positiv wahrgenommen: ein vertrauter, weiblicher Vorname mit griechischer Herkunft und klarer lexikalischer Einordnung. Die Resonanz wirkt freundlich und klassisch, jedoch gibt es kaum breite öffentliche Debatten dazu; die Evidenz stammt vor allem aus Namenslexika.",
+  "evidence_quality": "gut, aber in der Breite eingeschränkt; überwiegend nur zwei einschlägige Namenslexikon-Quellen",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Larissa",
+  "normalized_name": "larissa",
+  "overall_resonance": "Larissa wird in den vorliegenden Namensquellen überwiegend positiv und freundlich wahrgenommen. Der Name wirkt bekannt, weiblich und mit klarer namenkundlicher Einordnung, vor allem durch die griechische Herkunft und die häufig genannte Bedeutung. Die öffentliche Resonanz ist dabei eher beschreibend als kontrovers.",
+  "practical_notes": [
+    "Für Suchmaschinen und Namenslisten ist Larissa gut anschlussfähig, da Herkunft, Bedeutung und Namenstag häufig genannt werden.",
+    "Der Name wirkt vertraut und im deutschen Sprachraum problemlos lesbar und aussprechbar.",
+    "Falls eine markante moderne Wirkung gesucht wird, erscheint Larissa eher klassisch als trendig."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt fast nur aus zwei Namenslexika und ist daher in ihrer Reichweite begrenzt.",
+    "Es gibt keine belastbare breite öffentliche Debatte, sondern vor allem beschreibende Namensinformationen.",
+    "Einzelne Bewertungen aus Quellenkommentaren sind nicht repräsentativ für die Gesamtwahrnehmung."
+  ],
+  "short_summary": "Larissa wird öffentlich meist freundlich, klassisch und namenkundlich positiv eingeordnet; die verfügbare Evidenz ist solide, aber stark auf Namenslexika begrenzt.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "Vorname Larissa � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/L/La/Larissa/"
+    },
+    {
+      "confidence": 0.94,
+      "is_name_discussion": true,
+      "sentiment": "positive",
+      "source_type": "web",
+      "title": "&#9655; Vorname Larissa: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Larissa.html"
+    }
+  ],
+  "style_effect": [
+    "informativ",
+    "klassisch-weiblich",
+    "klingend und weich",
+    "namentlich etabliert",
+    "leicht mythologisch geprägt"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Im deutschsprachigen Raum sichtbar und gut auffindbar, aber die Evidenz deutet eher auf eine lexikalische Namenspräsenz als auf breite öffentliche Diskussionen hin."
+}

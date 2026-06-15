@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "hebräische Herkunft",
+    "Bedeutung: die Biene",
+    "biblischer Name",
+    "weiblicher Vorname",
+    "Namenstag",
+    "Variante von Deborah",
+    "Spitznamen wie Debby/Debbie/Debi"
+  ],
+  "confidence": 0.81,
+  "display_text": "Debora hat in Deutschland eine überwiegend sachlich-positiv wirkende Resonanz: klassisch-biblisch, klar in der Bedeutung und eher selten, aber gut bekannt.",
+  "evidence_quality": "mittel bis gut: zwei einschlägige Namensquellen, aber kaum unabhängige öffentliche Diskussion oder breit gestützte Alltagswahrnehmung sichtbar.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Debora",
+  "normalized_name": "debora",
+  "overall_resonance": "Debora wirkt in der öffentlichen Namenswahrnehmung überwiegend sachlich bis leicht positiv: als biblisch-hebräischer Vorname mit klarer Bedeutung und klassisch-moderner Anmutung. Die Resonanz ist eher informativ als meinungsstark.",
+  "practical_notes": [
+    "Der Name ist leicht einzuordnen und durch die biblische Herkunft gut anschlussfähig.",
+    "Die Schreibweise wirkt im deutschen Kontext vertraut, aber nicht alltäglich.",
+    "Für eine Namenssuche spricht die klare, freundliche und traditionsnahe Wirkung."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt überwiegend aus Namensdatenbanken und Portaltexten; das ist eher beschreibend als repräsentativ für die allgemeine Öffentlichkeit.",
+    "Einzelne Kommentare oder Portalmeinungen sollten nicht als allgemeiner gesellschaftlicher Konsens gelesen werden."
+  ],
+  "short_summary": "Debora wird in Deutschland meist als klassisch-biblischer, eher seltener Vorname mit freundlicher und sachlicher Wirkung wahrgenommen.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Debora � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/D/De/Debora/"
+    },
+    {
+      "confidence": 0.9,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Debora: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Debora.html"
+    }
+  ],
+  "style_effect": [
+    "biblisch-traditionell",
+    "klassisch",
+    "ruhig",
+    "freundlich",
+    "leicht selten/ungewöhnlich",
+    "lexikalisch klar"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland offenbar bekannt, aber nicht extrem häufig; die verfügbare Evidenz beschreibt den Namen vor allem in Namensportalen und zeigt keine breite öffentliche Debatte."
+}

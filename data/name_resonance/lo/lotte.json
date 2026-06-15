@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "Kurzform von Charlotte",
+    "auch als Koseform von Lieselotte genannt",
+    "Bedeutung wird oft mit „die Freie“ bzw. „freie Frau“ verbunden",
+    "deutschsprachiger, weiblicher Vorname",
+    "traditionell, aber aktuell wieder beliebt",
+    "klanglich knapp und unkompliziert"
+  ],
+  "confidence": 0.86,
+  "display_text": "Lotte wirkt in Deutschland überwiegend positiv: kurz, vertraut, klassisch und zugleich wieder modern. Die vorliegenden Quellen sind jedoch vor allem Namenslexika, daher ist die öffentliche Resonanz gut beschreibbar, aber nur begrenzt breit belegt.",
+  "evidence_quality": "mittel bis gut, aber stark quellenbegrenzt; überwiegend redaktionelle Namensseiten ohne breite Diskussionsvielfalt",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Lotte",
+  "normalized_name": "lotte",
+  "overall_resonance": "Für Lotte ergibt sich in Deutschland eine klar positive, vertraute und eher zeitlos-traditionelle öffentliche Wahrnehmung. Der Name wird vor allem als kurze, freundliche und wieder moderne Form mit klassischem Hintergrund beschrieben.",
+  "practical_notes": [
+    "Für Suchmaschinen- und Namenskontexte wirkt Lotte in Deutschland unkompliziert und positiv anschlussfähig.",
+    "Der Name kann sowohl klassisch als auch modern gelesen werden, was seine gute Alltagstauglichkeit stärkt.",
+    "Die kurze Form macht den Namen leicht merkbar und sprachlich klar."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenzbasis ist schmal und stammt fast nur aus Namenslexika; das ist eher eine beschreibende als eine breit öffentliche Resonanzlage.",
+    "Aussagen zur Beliebtheit sollten vorsichtig gelesen werden, da keine vielfältige Diskussionsbasis vorliegt.",
+    "Keine Hinweise auf soziale Stigmatisierung in der vorliegenden Evidenz."
+  ],
+  "short_summary": "Lotte wird in Deutschland überwiegend positiv, freundlich und klassisch-moderne wahrgenommen; die Evidenz ist jedoch vor allem lexikalisch und nicht breit öffentlich.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "positive",
+      "source_type": "web",
+      "title": "Vorname Lotte � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/L/Lo/Lotte/"
+    },
+    {
+      "confidence": 0.94,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Lotte: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Lotte.html"
+    }
+  ],
+  "style_effect": [
+    "kurz und einprägsam",
+    "vertraut und alltagsnah",
+    "klassisch mit moderner Wirkung",
+    "freundlich und weich im Klang",
+    "traditionell, aber wieder im Trend"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Der Name ist gut bekannt und derzeit sichtbar, vor allem in namenkundlichen und belibtheitsbezogenen Kontexten. Die verfügbare Evidenz deutet auf anhaltendes Interesse und eine gute Präsenz in Deutschland hin."
+}

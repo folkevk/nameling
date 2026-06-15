@@ -1,0 +1,59 @@
+{
+  "associations": [
+    "Form von Martin",
+    "Bedeutung: dem Mars geweiht / kriegerisch",
+    "Namenstag",
+    "niederdeutsche, niederländische und skandinavische Varianten",
+    "selten, aber etabliert"
+  ],
+  "confidence": 0.9,
+  "display_text": "Marten: in Deutschland eher leicht positiv, traditionell und sachlich wahrgenommen. Der Name ist bekannt, aber сравнsweise selten, mit klarer Herkunft als Form von Martin und einer ruhigen, unkomplizierten Wirkung.",
+  "evidence_quality": "Gut für Herkunft, Bedeutung und ungefähre Einordnung; begrenzt für echte öffentliche Resonanz, da die Quellen überwiegend lexikalisch sind.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Marten",
+  "normalized_name": "marten",
+  "overall_resonance": "Leicht positiv und sachlich-namenskundlich. Marten wirkt im deutschsprachigen Raum als etablierte, eher seltene Vorname-Variante mit ruhiger, traditioneller Ausstrahlung.",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt Marten verständlich, unkompliziert und traditionsnah.",
+    "Die Schreibweise ist markant, aber nicht ungewöhnlich genug, um stark zu irritieren.",
+    "Die Datenlage deutet eher auf sachliche Namenswahrnehmung als auf intensive Populärresonanz hin."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz basiert vor allem auf Vornamensdatenbanken, nicht auf einer breiten öffentlichen Meinungsdiskussion.",
+    "Es gibt keine starke erkennbare Kontroverse oder Stigmatisierung in der vorliegenden Evidenz.",
+    "Aussagen über Wirkung bleiben vorsichtig und beschreibend, nicht verallgemeinernd."
+  ],
+  "short_summary": "Marten wird in Deutschland eher leicht positiv, traditionell und sachlich wahrgenommen: bekannt, aber nicht sehr häufig, mit klarer Herkunft als Form von Martin.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "Vorname Marten � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/M/Ma/Marten/"
+    },
+    {
+      "confidence": 0.88,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Marten: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Marten.html"
+    }
+  ],
+  "style_effect": [
+    "niederdeutsch geprägt",
+    "niederländisch/skandinavisch anschlussfähig",
+    "klassisch-traditionell",
+    "klar und unkompliziert",
+    "eher selten, aber vertraut"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland bekannt, aber nicht massenhaft verbreitet. Die öffentliche Sichtbarkeit entsteht vor allem über Namenslexika und Herkunftsseiten, weniger über breite Diskussionen."
+}

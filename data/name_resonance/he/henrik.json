@@ -1,0 +1,59 @@
+{
+  "associations": [
+    "Bedeutung: „der Hausherr“ bzw. „der Herr im Haus“",
+    "Variante von Heinrich",
+    "niederdeutsche, skandinavische und althochdeutsche Bezüge",
+    "Namenstag wird genannt",
+    "wird in Quellen als beliebt bzw. ordentlich verbreitet beschrieben"
+  ],
+  "confidence": 0.86,
+  "display_text": "Henrik wirkt in Deutschland überwiegend neutral bis positiv: klassisch, nordisch geprägt und leicht vertraut. Die verfügbare Evidenz stammt vor allem aus Namenslexika und ist daher solide, aber nicht sehr breit.",
+  "evidence_quality": "mittel bis gut, aber inhaltlich eng: überwiegend redaktionelle Namensseiten mit einzelnen Nutzerkommentaren",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Henrik",
+  "normalized_name": "henrik",
+  "overall_resonance": "Im deutschsprachigen Raum wirkt Henrik insgesamt sachlich bis positiv und eher klassisch-traditionell. Der Name wird meist neutral beschrieben, häufig mit einer leicht wertschätzenden Note wegen der klaren, vertrauten Form und der guten Einordnung als skandinavisch-niederdeutsche Variante von Heinrich.",
+  "practical_notes": [
+    "Für Suchende wirkt Henrik unkompliziert, klassisch und gut aussprechbar.",
+    "Der Name vermittelt je nach Kontext eher Tradition als Originalität.",
+    "Die Quellenlage erlaubt nur eine vorsichtige Aussage zur öffentlichen Resonanz."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist stark auf Namenslexika und einzelne Kommentarbereiche begrenzt.",
+    "Die positiven Eindrücke sind nicht als repräsentative Gesamtmeinung zu verstehen.",
+    "Keine Hinweise auf soziale Stigmatisierung in der vorliegenden Evidenz."
+  ],
+  "short_summary": "Henrik wird in deutschen Namensquellen überwiegend neutral bis positiv wahrgenommen: klassisch, nordisch geprägt und klar im Klang. Die Evidenz ist brauchbar, aber eher auf Namensportale beschränkt.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Henrik � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/H/He/Henrik/"
+    },
+    {
+      "confidence": 0.91,
+      "is_name_discussion": true,
+      "sentiment": "positive",
+      "source_type": "web",
+      "title": "&#9655; Vorname Henrik: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Henrik.html"
+    }
+  ],
+  "style_effect": [
+    "kurz und einprägsam",
+    "klassisch-traditionell",
+    "nordisch bzw. skandinavisch geprägt",
+    "sachlich und vertraut",
+    "eher zeitlos als modisch"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Die Sichtbarkeit ist im deutschen Namenskontext ordentlich bis gut, vor allem in Namenslexika und bei Namensportalen. Die öffentliche Debatte scheint jedoch begrenzt; die verfügbare Evidenz stammt vor allem aus redaktionellen Namensseiten, nicht aus breiter gesellschaftlicher Diskussion."
+}

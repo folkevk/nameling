@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "Kurzform von Valentino oder anderen -tino-Namen",
+    "lateinisch bzw. italienisch geprägte Herkunft",
+    "Bedeutungen wie stark, kräftig, mächtig, gesund",
+    "männlicher Vorname",
+    "eher selten in Deutschland",
+    "Namenstag"
+  ],
+  "confidence": 0.72,
+  "display_text": "Tino: eher selten, kurz und markant; in den Quellen sachlich bis leicht positiv wahrgenommen, mit Assoziationen zu Stärke, Herkunft und klarer Namensform. Die Evidenz ist jedoch begrenzt und stammt vor allem aus Namensdatenbanken.",
+  "evidence_quality": "mittel bis schwach: zwei überwiegend lexikalische Quellen, wenig direkte öffentliche Resonanz, keine breite empirische Basis",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Tino",
+  "normalized_name": "tino",
+  "overall_resonance": "Tino wirkt in den vorliegenden Quellen überwiegend sachlich bis leicht positiv. Der Name wird vor allem als kurzer, eingängiger Jungenname mit lateinisch/italienisch geprägter Herkunft beschrieben; die zugeschriebenen Bedeutungen wie „stark“, „kräftig“ oder „gesund“ prägen die öffentliche Darstellung. Eine belastbare breite Alltagsresonanz ist aus der Evidenz jedoch nur eingeschränkt ableitbar.",
+  "practical_notes": [
+    "Gut geeignet für eine kurze, prägnante Namenswirkung.",
+    "Die leichte Seltenheit kann als individuell wahrgenommen werden.",
+    "Die Bedeutungsebene wirkt positiv und stabil, ohne überladen zu sein."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt fast nur aus Namenslexika und Datenbanken; echte öffentliche Wahrnehmung ist nur indirekt sichtbar.",
+    "Einzelne Quellen erwähnen Kommentare oder Nutzermeinungen, diese sind für eine allgemeine Bewertung nur begrenzt belastbar.",
+    "Keine Hinweise auf eine starke soziale Stigmatisierung in den vorliegenden Quellen."
+  ],
+  "short_summary": "Tino wird meist als kurzer, sympathischer und eher seltener Jungenname mit positiver Bedeutungszuschreibung beschrieben; die öffentliche Resonanz wirkt sachlich bis leicht positiv, ist aber nur schwach belegt.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.88,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Tino � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/T/Ti/Tino/"
+    },
+    {
+      "confidence": 0.9,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Tino: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Tino.html"
+    }
+  ],
+  "style_effect": [
+    "kurz und klar",
+    "markant, aber unaufgeregt",
+    "namenskundlich vertraut",
+    "modern-klassisch gemischt",
+    "freundlich-sachlich"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland scheint Tino eher bekannt, aber nicht massenhaft verbreitet zu sein. Die Quellen beschreiben ihn als eher selten bzw. als Namen mit solider Wiedererkennbarkeit, ohne starke Polarisierung."
+}

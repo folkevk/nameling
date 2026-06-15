@@ -1,0 +1,68 @@
+{
+  "associations": [
+    "lateinische Herkunft",
+    "Bezug zu Lorbeer/Laurentius",
+    "teilweise als Kurzform oder Nebenform von Lorenz/Loren genannt",
+    "in manchen Quellen auch kurdisch bzw. mit anderer Bedeutung beschrieben",
+    "Namenstag wird vereinzelt erwähnt",
+    "selten bis moderat verbreitet"
+  ],
+  "confidence": 0.84,
+  "display_text": "Lorin wird im deutschen Raum überwiegend sachlich-neutral und leicht positiv wahrgenommen. Der Name gilt als eher selten bis moderat verbreitet, klingt modern und eigenständig und wird je nach Quelle als Unisex-Name oder unterschiedlich nach Herkunft und Geschlecht eingeordnet. Die Evidenz stammt vor allem aus Namenslexika; eine breite öffentliche Debatte ist nicht erkennbar.",
+  "evidence_quality": "mittel bis gut; inhaltlich klar, aber stark lexikalisch geprägt und wenig durch öffentliche Debatte gestützt",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Lorin",
+  "normalized_name": "lorin",
+  "overall_resonance": "Überwiegend sachlich-neutral mit leicht positiver Tönung durch die Erwähnung von Beliebtheit und stilistischer Eigenständigkeit; keine starke öffentliche Kontroverse erkennbar.",
+  "practical_notes": [
+    "Für Suchende wirkt der Name eher modern und eigenständig.",
+    "Wer Wert auf klare Herkunft legt, sollte die unterschiedlichen etymologischen Angaben beachten.",
+    "Die Aussprache und Schreibweise erscheinen unkompliziert, die Einordnung als Unisex kann aber erklärungsbedürftig sein."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt fast vollständig aus Namenslexika und Datenbankseiten.",
+    "Es gibt widersprüchliche Angaben zu Herkunft und Geschlechtszuordnung.",
+    "Keine breite öffentliche Meinungsbildung erkennbar, daher nur vorsichtige Einordnung möglich."
+  ],
+  "short_summary": "Lorin wird im deutschen Raum überwiegend neutral bis leicht positiv wahrgenommen: ein seltener, moderner und teils unisex eingeordneter Name mit unterschiedlichen Herkunftsangaben.",
+  "source_count": 3,
+  "sources": [
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Lorin � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/L/Lo/Lorin/"
+    },
+    {
+      "confidence": 0.87,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Lorin � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/L/Lo/Lorin/"
+    },
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Lorin: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Lorin.html"
+    }
+  ],
+  "style_effect": [
+    "wirkt modern und leicht ungewöhnlich",
+    "wird oft als Unisex-Name eingeordnet",
+    "klingt weich und kurz",
+    "hat einen namenkundlich interessanten, eher eleganten Eindruck",
+    "kann je nach Quelle unterschiedlich als männlich, weiblich oder unisex beschrieben werden"
+  ],
+  "usable_evidence_count": 3,
+  "visibility": "Im deutschsprachigen Raum eher bekannt, aber insgesamt eher selten bis moderat verbreitet; die Sichtbarkeit entsteht vor allem durch Namenslexika und Datenbanken, nicht durch breite öffentliche Debatten."
+}

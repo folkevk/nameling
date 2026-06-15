@@ -1,0 +1,64 @@
+{
+  "associations": [
+    "althochdeutsche bzw. altdeutsche Herkunft",
+    "Bedeutung im Sinn von Herrscher/Heerführer",
+    "ältere Schreibweise von Walter",
+    "mittelalterliche Tradition",
+    "Namenstag",
+    "selten in Deutschland",
+    "Spitzname Waldi"
+  ],
+  "confidence": 0.78,
+  "display_text": "Walther wird meist als traditioneller, historisch geprägter und eher seltener Vorname wahrgenommen. Die vorhandenen Quellen zeigen eine sachlich-neutrale bis leicht positive Resonanz, vor allem wegen Herkunft und Bedeutung. Eine breite öffentliche Debatte ist nicht erkennbar; die Evidenz bleibt begrenzt.",
+  "evidence_quality": "Begrenzt: zwei überwiegend lexikalische, namenskundliche Quellen mit sachlich-neutraler bis leicht positiver Tonalität; keine breite Debatte oder Alltagsresonanz nachweisbar.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Walther",
+  "normalized_name": "walther",
+  "overall_resonance": "Walther wird öffentlich eher als traditionsreicher, altdeutscher und historisch geprägter Vorname wahrgenommen. Die vorhandenen Quellen deuten auf eine sachlich-neutrale bis leicht positive Resonanz hin, vor allem wegen Herkunft, Bedeutung und Namensgeschichte. Eine breitere öffentliche Debatte ist jedoch nicht erkennbar.",
+  "practical_notes": [
+    "Für moderne, häufige Namenswahl wirkt Walther eher ungewöhnlich und klassisch.",
+    "Die Schreibweise mit h ist markant und historisch wirkend.",
+    "Der Name kann je nach Kontext als traditionsbewusst oder altmodisch gelesen werden.",
+    "Für eine sichere Einordnung der öffentlichen Wahrnehmung wären mehr und vielfältigere Quellen nötig."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist schwach bis mittelstark, da sie nur auf zwei Namensseiten basiert.",
+    "Es gibt keine belastbare breite öffentliche Resonanz, sondern vor allem beschreibende Namensinformationen.",
+    "Die positiven Konnotationen stammen aus Herkunft und Tradition; das sagt nichts über individuelle Wahrnehmungen aus."
+  ],
+  "short_summary": "Walther wirkt öffentlich eher traditionsreich, historisch und selten. Die Resonanz ist sachlich-neutral bis leicht positiv, aber die Evidenz ist begrenzt und stammt vor allem aus Namenslexika.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Walther � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/W/Wa/Walther/"
+    },
+    {
+      "confidence": 0.86,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Walther: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Walther.html"
+    }
+  ],
+  "style_effect": [
+    "traditionell",
+    "historisch",
+    "altdeutsch",
+    "lexikalisch",
+    "sachlich",
+    "selten",
+    "leicht klassisch"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Eher gering bis mittel: Der Name taucht vor allem in Namenslexika und Informationsseiten auf, nicht in einer klaren öffentlichen Diskussion. In Deutschland wirkt er eher selten und eher als historische bzw. traditionelle Schreibweise."
+}

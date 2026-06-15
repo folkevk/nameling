@@ -1,0 +1,62 @@
+{
+  "associations": [
+    "althochdeutsche Herkunft",
+    "Bedeutung im Feld von Kampf/Heer",
+    "männlicher Vorname",
+    "Namenstag",
+    "selten bis moderat verbreitet",
+    "zweigliedriger Name",
+    "sprachlich eher traditionell"
+  ],
+  "confidence": 0.86,
+  "display_text": "Gunter wirkt in der öffentlichen Wahrnehmung eher klassisch und traditionell. Die verfügbaren Quellen beschreiben den Namen sachlich mit Herkunft, Bedeutung und Namenstag; eine breite öffentliche Debatte ist kaum sichtbar. Insgesamt erscheint die Resonanz leicht positiv, aber eher zurückhaltend und namenskundlich geprägt.",
+  "evidence_quality": "mittel bis gut, aber thematisch eng; überwiegend lexikalische Quellen statt breiter öffentlicher Diskussion",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Gunter",
+  "normalized_name": "gunter",
+  "overall_resonance": "Eher sachlich-traditionell mit leicht positiver, namenskundlicher Einordnung. Der Name wirkt in der öffentlichen Darstellung bekannt, aber nicht stark modern trendbetont.",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt Gunter klar und traditionell.",
+    "Der Name ist gut einordbar, aber nicht besonders trendig.",
+    "Die Wahrnehmung dürfte eher über Bedeutung und Herkunft als über aktuelle Mode laufen."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist auf wenige Namenslexikon-Seiten beschränkt.",
+    "Es gibt kaum frei erkennbare öffentliche Debatte oder breite Alltagsresonanz.",
+    "Positive Einzelbewertungen sind nicht als allgemeine Meinung zu verstehen."
+  ],
+  "short_summary": "Gunter wird öffentlich vor allem als klassisch-althochdeutscher Männername mit traditioneller, sachlicher Wirkung wahrgenommen. Die Resonanz ist eher ruhig und informativ als trendig oder stark emotional.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Gunter � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/G/Gu/Gunter/"
+    },
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Gunter: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Gunter.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "bodenständig",
+    "traditionell",
+    "altdeutsch",
+    "sachlich",
+    "namenskundlich"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland scheint Gunter eher selten bis mäßig verbreitet zu sein und wird vor allem in Namenslexika und Infotexten behandelt. Die öffentliche Resonanz ist daher eher leise als breit diskutiert."
+}

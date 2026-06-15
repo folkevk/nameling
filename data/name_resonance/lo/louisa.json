@@ -1,0 +1,62 @@
+{
+  "associations": [
+    "latinisierte Form von Louise/Louis",
+    "Bedeutung im Umfeld von „berühmte/ruhmreiche Kriegerin“ bzw. „berühmte Kämpferin“",
+    "deutschsprachig verbreitet",
+    "auch im englischen Sprachraum bekannt",
+    "positive Bewertungen zu Klang und Schreibbild",
+    "Kurzformen wie Lou, Loulou oder Lulu"
+  ],
+  "confidence": 0.86,
+  "display_text": "Louisa wirkt in der öffentlichen Wahrnehmung eher positiv, klassisch und zeitlos-modern. Der Name ist im deutschsprachigen Raum gut bekannt, wird als weich und elegant beschrieben und ist mit einer ruhigen, freundlichen Namenswirkung verbunden. Die vorliegende Evidenz ist jedoch begrenzt und stammt vor allem aus Namenslexika, nicht aus einer breiten Umfrage.",
+  "evidence_quality": "mittel bis gut: zwei einschlägige Namensquellen mit überwiegend positiver, aber begrenzter und nicht repräsentativer Evidenz.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Louisa",
+  "normalized_name": "louisa",
+  "overall_resonance": "Eher positiv und stabil wahrgenommen, mit klassisch-modernem Klang. Die öffentliche Rezeption wirkt überwiegend freundlich und namenskundlich interessiert, ohne starke Polarisierung.",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt Louisa vertraut, freundlich und unkompliziert.",
+    "Der Name verbindet Tradition mit einem modernen, weichen Klang.",
+    "Die Schreibweise ist klar und im deutschsprachigen Raum gut lesbar.",
+    "Die Kurzformen machen den Namen im Alltag flexibel."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt vor allem aus Namenslexika und einer einzelnen Namensdatenbank; das ist eher eine indirekte als eine breite öffentliche Resonanzbasis.",
+    "Beliebtheitsaussagen können durch die jeweilige Quelle mitgeprägt sein und sollten nicht als exakte Gesamtmeinung verstanden werden.",
+    "Es gibt keinen Hinweis auf soziale Stigmatisierung oder stark negative Zuschreibungen in der vorliegenden Evidenz."
+  ],
+  "short_summary": "Louisa wird öffentlich meist positiv, klassisch und klanglich angenehm wahrgenommen. Die Quellen betonen Herkunft, Bedeutung und Beliebtheit; die Evidenz ist aber eher namenskundlich als breit gesellschaftlich.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.89,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "Vorname Louisa � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/L/Lo/Louisa/"
+    },
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Louisa: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Louisa.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "weich und melodisch",
+    "zeitlos-modern",
+    "elegant",
+    "familiennah",
+    "gut verständlich im deutschen Sprachraum"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Der Name ist im deutschsprachigen Raum gut bekannt und präsent. Die Evidenz deutet auf eine solide, eher positive Sichtbarkeit hin, allerdings basiert sie hier nur auf wenigen webgestützten Namensquellen."
+}

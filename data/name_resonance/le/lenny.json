@@ -1,0 +1,70 @@
+{
+  "associations": [
+    "Kose- bzw. Kurzform von Leonard, Lennard oder Lennart",
+    "althochdeutsche Herkunft",
+    "Bedeutung in Richtung Löwenstärke, Mut und Stärke",
+    "beliebt in Deutschland",
+    "Namenstag am 6. November",
+    "moderne, kurze Namensform"
+  ],
+  "confidence": 0.84,
+  "display_text": "Lenny wirkt in Deutschland überwiegend modern, freundlich und positiv besetzt. In den verfügbaren Namenslexika wird der Name vor allem als kurze Kurzform von Leonard/Lennard/Lennart mit Bedeutungen rund um Löwe, Mut und Stärke beschrieben. Eine breite öffentliche Debatte ist im Material nicht erkennbar; die Evidenz ist daher eher lexikalisch als gesellschaftlich breit abgesichert.",
+  "evidence_quality": "mittel bis schwach: mehrere Quellen, aber überwiegend Namenslexika mit beschreibender statt breit öffentlicher Resonanz",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Lenny",
+  "normalized_name": "lenny",
+  "overall_resonance": "Lenny wird in der vorliegenden Evidenz überwiegend positiv und modern wahrgenommen. Der Name erscheint vor allem als kurze, freundliche und zeitgemäße Kurzform mit klarer namenskundlicher Einordnung. Die Resonanz wirkt eher wertschätzend als kontrovers.",
+  "practical_notes": [
+    "Für die Namenssuche wirkt Lenny unkompliziert, modern und gut merkbar.",
+    "Die Datenlage spricht eher für positive, beschreibende Wahrnehmung als für Stigma oder Problemassoziationen.",
+    "Wenn eine besonders robuste öffentliche Meinung gesucht wird, wäre zusätzliche Evidenz aus Foren, Kommentaren oder Umfragedaten hilfreich."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt fast ausschließlich aus einzelnen Namenslexikon-Seiten; das ist eher redaktionelle als breit öffentliche Resonanz.",
+    "Es sind keine erkennbaren starken Gegenstimmen oder kontroversen öffentlichen Debatten im Material enthalten.",
+    "Aussagen zur Beliebtheit sollten vorsichtig gelesen werden, da sie nicht auf einer breiten Diskursanalyse beruhen."
+  ],
+  "short_summary": "Lenny wird in den vorliegenden Quellen überwiegend positiv, modern und als kurze Kurzform mit Bedeutung in Richtung Stärke und Löwe beschrieben. Die Evidenz ist brauchbar, aber vor allem lexikalisch und nicht breit öffentlich.",
+  "source_count": 3,
+  "sources": [
+    {
+      "confidence": 0.95,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "Vorname Lenny � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/L/Le/Lenny/"
+    },
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "Vorname Lenny � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/L/Le/Lenny/"
+    },
+    {
+      "confidence": 0.89,
+      "is_name_discussion": true,
+      "sentiment": "überwiegend positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Lenny: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Lenny.html"
+    }
+  ],
+  "style_effect": [
+    "modern",
+    "kurz",
+    "freundlich",
+    "jugendlich wirkend",
+    "namenskundlich klar einordenbar",
+    "zeitgemäß",
+    "populär"
+  ],
+  "usable_evidence_count": 3,
+  "visibility": "In Deutschland ist Lenny laut den vorliegenden Namenslexika bekannt und beliebt, wobei die öffentliche Sichtbarkeit eher über Namensportale als über breite Debatten abgebildet wird."
+}

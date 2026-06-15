@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "französische Form von Philipp",
+    "altgriechische Herkunft",
+    "Bedeutung: der Pferdefreund",
+    "Namenstag (3. Mai, 26. Mai)",
+    "in Deutschland relativ selten",
+    "Spitzname Phil"
+  ],
+  "confidence": 0.76,
+  "display_text": "Philippe wirkt in Deutschland überwiegend neutral bis leicht positiv: ein französisch geprägter, klassischer und eher seltener Vorname. Die Quellen sind jedoch vor allem Namenslexika, daher ist die Evidenz für eine echte öffentliche Resonanz begrenzt.",
+  "evidence_quality": "mittel bis schwach: zwei überwiegend lexikalische Quellen, kaum echte öffentliche Diskussionsdaten",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Philippe",
+  "normalized_name": "philippe",
+  "overall_resonance": "In der vorliegenden Evidenz wirkt Philippe in Deutschland überwiegend sachlich, klassisch und leicht elegant. Der Name wird meist als französische Form von Philipp mit der Bedeutung „Pferdefreund“ beschrieben. Öffentliche Reaktionen erscheinen eher neutral bis leicht positiv, ohne starke Gegensignale.",
+  "practical_notes": [
+    "Für eine Namenssuche in DE eignet sich Philippe, wenn ein französisch anmutender, klassischer und eher seltener Name gesucht wird.",
+    "Die Schreibweise wirkt international, kann aber im deutschen Alltag gelegentlich erklärungsbedürftig sein.",
+    "Als Kurzform wird teils Phil genannt."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenzbasis ist schwach bis mittel, da sie überwiegend aus Namenslexika und Verzeichnissen besteht.",
+    "Aussagen zur Wahrnehmung beruhen nicht auf breiter öffentlicher Debatte, sondern vor allem auf beschreibenden Quellen.",
+    "Seltenheit kann als Stilmerkmal wahrgenommen werden, ist aber keine negative Aussage über den Namen."
+  ],
+  "short_summary": "Philippe wird in Deutschland meist neutral bis leicht positiv wahrgenommen: französisch, klassisch und eher selten.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Philippe � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/P/Ph/Philippe/"
+    },
+    {
+      "confidence": 0.89,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Philippe: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Philippe.html"
+    }
+  ],
+  "style_effect": [
+    "französisch geprägt",
+    "klassisch",
+    "elegant",
+    "international wirkend",
+    "selten",
+    "informativ"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland eher selten und dadurch auffälliger als sehr geläufige Namen. Die Wahrnehmung ist vor allem lexikalisch und namenskundlich geprägt; belastbare freie Diskussions-Evidenz ist begrenzt."
+}

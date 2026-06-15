@@ -1,0 +1,64 @@
+{
+  "associations": [
+    "altnordische Herkunft",
+    "Wikingername",
+    "Bedeutung: Nachkomme des Urahns / Erbe",
+    "skandinavischer Königsname",
+    "Namenstag am 10. Juli",
+    "kurze Spitznamen wie Olli, Oli, Alf oder Olle",
+    "Popkultur-Bezug durch den Schneemann Olaf aus Die Eiskönigin",
+    "früher häufiger, heute seltener"
+  ],
+  "confidence": 0.87,
+  "display_text": "Olaf: überwiegend neutral bis leicht positiv wahrgenommen – ein klassischer, nordisch-altnordischer Name mit traditioneller Wirkung, heute eher selten und nicht besonders trendig.",
+  "evidence_quality": "mittel bis schwach: gute lexikalische Namensquellen, aber nur begrenzte und teilweise einquellige Hinweise zur öffentlichen Resonanz und Beliebtheit.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Olaf",
+  "normalized_name": "olaf",
+  "overall_resonance": "Olaf wird in den Quellen überwiegend als nordisch-altnordischer, klassischer Vorname wahrgenommen, mit eher sachlich-informativer als emotionaler Wirkung. Die öffentliche Resonanz ist insgesamt neutral bis leicht positiv, zugleich aber eher zurückhaltend und heute weniger präsent.",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt Olaf klar, vertraut und leicht einzuordnen.",
+    "Wer einen modernen Trendnamen sucht, könnte ihn eher als traditionell denn aktuell empfinden.",
+    "Die Aussprache und Schreibweise sind im deutschsprachigen Raum unkompliziert."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist insgesamt eher schmal und stützt sich auf wenige Webquellen zur Namensbedeutung und Beliebtheit.",
+    "Beliebtheitsaussagen wirken nur eingeschränkt belastbar, da sie vor allem aus Einzelquellen stammen.",
+    "Einzelne positive oder ironische Kommentare sollten nicht als allgemeine Mehrheitsmeinung verstanden werden."
+  ],
+  "short_summary": "Olaf wird meist als klassischer, nordisch geprägter Vorname mit neutral bis leicht positiver Wirkung beschrieben; zugleich gilt er eher als selten und weniger modern.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Olaf � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/O/Ol/Olaf/"
+    },
+    {
+      "confidence": 0.92,
+      "is_name_discussion": true,
+      "sentiment": "mixed",
+      "source_type": "web",
+      "title": "&#9655; Vorname Olaf: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Olaf.html"
+    }
+  ],
+  "style_effect": [
+    "nordisch",
+    "klassisch",
+    "traditionsbewusst",
+    "bodenständig",
+    "etwas altmodisch",
+    "sachlich",
+    "skandinavisch"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Der Name ist bekannt, wirkt aber nicht trendig; in den Quellen wird er als früher beliebter, heute eher rückläufig und relativ selten beschrieben."
+}

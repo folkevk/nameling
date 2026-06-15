@@ -1,0 +1,69 @@
+{
+  "associations": [
+    "Kurzform von Dorothea/Theodora",
+    "griechischer Ursprung",
+    "Bedeutung oft als „Geschenk Gottes“ angegeben",
+    "weiblicher Vorname",
+    "Namenstag wird genannt",
+    "früher populärer, heute eher selten"
+  ],
+  "confidence": 0.84,
+  "display_text": "Dora wirkt in Deutschland eher selten, klassisch und freundlich. Die öffentliche Resonanz ist überwiegend neutral bis leicht positiv, vor allem wegen des kurzen Klangs und der positiven Bedeutungsassoziation. Die Evidenz stammt jedoch größtenteils aus Namensportalen, daher ist die breitere öffentliche Sicht nur begrenzt abgesichert.",
+  "evidence_quality": "mittel bis gut: mehrere einschlägige Namensseiten mit konsistenten Angaben, aber nur begrenzte unabhängige öffentliche Diskussionslage.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Dora",
+  "normalized_name": "dora",
+  "overall_resonance": "Eher positiv bis neutral: Dora wird öffentlich meist sachlich und freundlich wahrgenommen, mit leicht positiver Aufladung durch Bedeutung und Klang, aber ohne starke Breitenresonanz in der deutschen Namensdiskussion.",
+  "practical_notes": [
+    "Für die Namenssuche wirkt Dora kurz, gut merkbar und unkompliziert.",
+    "Der Name vermittelt eher Tradition als Modetrend.",
+    "Durch die Seltenheit kann er individuell wirken, ohne sperrig zu sein."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt überwiegend aus Namensdatenbanken und einzelnen Seiten; daraus lässt sich nur begrenzt auf breite öffentliche Resonanz schließen.",
+    "Aussagen zur Beliebtheit beschreiben Namensverwendung, nicht zwingend gesellschaftliche Wertung.",
+    "Einige Einschätzungen wie „positive Klangwahrnehmung“ kommen aus nutzerbasierten Quellen und sollten vorsichtig gelesen werden."
+  ],
+  "short_summary": "Dora wird in Deutschland eher selten, aber freundlich und klassisch wahrgenommen. Die Quellen heben vor allem Herkunft, Bedeutung und den klaren, kurzen Klang hervor; eine starke öffentliche Kontroverse gibt es nicht.",
+  "source_count": 3,
+  "sources": [
+    {
+      "confidence": 0.94,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Dora � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/D/Do/Dora/"
+    },
+    {
+      "confidence": 0.94,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Dora � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/D/Do/Dora/"
+    },
+    {
+      "confidence": 0.95,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Dora: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Dora.html"
+    }
+  ],
+  "style_effect": [
+    "kurz und klar",
+    "klassisch-traditionell",
+    "leicht international anschlussfähig",
+    "freundlich im Klang",
+    "unaufgeregt und sachlich",
+    "eher selten als modern-trendiges Signal"
+  ],
+  "usable_evidence_count": 3,
+  "visibility": "In Deutschland eher selten und nicht stark präsent; die öffentliche Sichtbarkeit wirkt vor allem über Namensportale und einzelne beschreibende Quellen, nicht über breite Debatten."
+}

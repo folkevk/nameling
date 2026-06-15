@@ -1,0 +1,52 @@
+{
+  "associations": [
+    "ungarische Form von Alexander",
+    "altgriechische Herkunft",
+    "Bedeutung: Beschützer der Männer",
+    "Namenstag am 18. März",
+    "in Deutschland ungewöhnlich",
+    "Akzent/Schreibweise beeinflusst die Aussprache"
+  ],
+  "confidence": 0.78,
+  "display_text": "Sándor wirkt im deutschen Kontext überwiegend sachlich-neutral bis leicht positiv: ein seltener, international klingender Name mit ungarischer Herkunft und traditionsreicher Bedeutung. Die Schreibweise mit Akzent macht ihn markant, kann aber in Deutschland auch zu Aussprachefragen führen. Die Evidenz ist dabei eher begrenzt und vor allem lexikalisch geprägt.",
+  "evidence_quality": "mittel bis schwach: eine überwiegend sachliche Namenslexikon-Quelle, aber begrenzte Breite und teils UI-/Kommentar-Anteile",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Sándor",
+  "normalized_name": "sandor",
+  "overall_resonance": "überwiegend sachlich-neutral mit leicht positiver Namenswirkung",
+  "practical_notes": [
+    "Für eine Namenssuche ist Sándor gut verständlich und klar zuzuordnen.",
+    "Die Schreibweise mit Akzent kann in Deutschland Rückfragen zur Aussprache auslösen.",
+    "Die seltene Verwendung kann als individuell und markant wahrgenommen werden.",
+    "Die Bedeutung und Herkunft geben dem Namen eine traditionsreiche, kulturbezogene Note."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist insgesamt eher schmal und basiert vor allem auf einer Namenslexikon-Seite.",
+    "Aussagen zur Wahrnehmung in Deutschland sind vorsichtig zu lesen, da sie nicht breit belegt sind.",
+    "Es gibt keine belastbaren Hinweise auf eine soziale Stigmatisierung des Namens in den vorliegenden Daten."
+  ],
+  "short_summary": "Sándor wird öffentlich meist sachlich und mit leicht positiver, traditionsreicher Note wahrgenommen. Der Name gilt als ungarische Form von Alexander, ist in Deutschland eher ungewöhnlich und kann wegen der Schreibweise zu Aussprachefragen führen.",
+  "source_count": 1,
+  "sources": [
+    {
+      "confidence": 0.95,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Sándor: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,S%C3%A1ndor.html"
+    }
+  ],
+  "style_effect": [
+    "klingt international und zugleich klar verortet",
+    "wirkt durch den Akzent auf der ersten Silbe sprachlich markant",
+    "hat einen lexikalischen, erklärenden Charakter",
+    "wird oft als ungarische Form von Alexander eingeordnet"
+  ],
+  "usable_evidence_count": 1,
+  "visibility": "im deutschsprachigen Raum eher selten und dadurch auffällig, aber nicht stark emotional aufgeladen"
+}

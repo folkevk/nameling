@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "Kurzform von Konrad",
+    "Bedeutung: „der kühne/mutige Ratgeber“",
+    "althochdeutsche bzw. altdeutsche Herkunft",
+    "traditioneller deutscher Jungenname",
+    "früher sehr beliebt, heute eher wieder etwas häufiger",
+    "Namensvarianten wie Curt, Curd, Kurth, Curth",
+    "Namenstage am 4. April und 26. November"
+  ],
+  "confidence": 0.89,
+  "display_text": "Kurt gilt im deutschen Sprachraum als klassischer, traditioneller Jungenname mit eher neutral bis leicht positiver Wahrnehmung. Die Quellen betonen vor allem Herkunft und Bedeutung („der kühne/mutige Ratgeber“) sowie die Einordnung als Kurzform von Konrad. Eine breitere öffentliche Debatte ist in der Evidenz nicht erkennbar; die Lage wirkt insgesamt unauffällig und gut etabliert.",
+  "evidence_quality": "gut für Herkunft, Bedeutung und Namenseinordnung; begrenzt für echte öffentliche Resonanz, da vor allem lexikalische Quellen vorliegen.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Kurt",
+  "normalized_name": "kurt",
+  "overall_resonance": "Kurt wirkt im deutschen Sprachraum als klassischer, traditioneller und klar einordnungsfähiger Jungenname mit überwiegend neutral bis leicht positiver öffentlicher Resonanz. In den vorliegenden Quellen steht vor allem die historisch-lexikalische Einordnung im Vordergrund, nicht eine breite Debatte oder starke Polarisierung.",
+  "practical_notes": [
+    "Für die Namenssuche eignet sich Kurt besonders, wenn ein kurzer, klassischer und traditionell wirkender Name gesucht wird.",
+    "Die Wirkung ist eher nüchtern bis würdevoll als modisch oder verspielt.",
+    "Die Quellenlage ist solide für Bedeutung und Herkunft, aber nur begrenzt aussagekräftig zur allgemeinen öffentlichen Stimmung."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt fast ausschließlich aus Namenslexika und ähnlichen Nachschlagequellen; das sagt mehr über Herkunft und Gebrauch als über eine breite öffentliche Debatte.",
+    "Es gibt keine belastbaren Hinweise auf starke gesellschaftliche Stigmatisierung oder besondere Kontroversen rund um den Namen in den vorliegenden Quellen."
+  ],
+  "short_summary": "Kurt wird in den Quellen als klassischer, traditioneller deutscher Jungenname mit neutral bis leicht positiver Resonanz beschrieben.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.99,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Kurt � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/K/Ku/Kurt/"
+    },
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Kurt: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Kurt.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "altdeutsch",
+    "kurz und markant",
+    "traditionell",
+    "sachlich",
+    "zeitlos"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Der Name ist bekannt und gut dokumentiert, wirkt aber eher traditionsgebunden als trendig. Die öffentliche Sichtbarkeit scheint vor allem über Namenslexika, Herkunftsangaben und Beliebtheitslisten zu laufen."
+}

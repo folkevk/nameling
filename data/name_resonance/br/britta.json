@@ -1,0 +1,59 @@
+{
+  "associations": [
+    "weiblicher Vorname",
+    "Kurzform von Birgitta/Brigitte/Brigid",
+    "Bedeutungsfelder wie „die Erhabene“ oder „die Helfende“",
+    "Namenstag",
+    "frühere Popularität in Deutschland",
+    "heute eher selten"
+  ],
+  "confidence": 0.86,
+  "display_text": "Britta gilt als klassischer, eher seltener Vorname mit nordisch/altirischer Herkunft. Die öffentliche Wahrnehmung wirkt überwiegend neutral bis leicht positiv; einzelne Stimmen empfinden den Klang unterschiedlich. Die Evidenz ist dabei eher begrenzt und stammt vor allem aus Namenslexika.",
+  "evidence_quality": "mittel: klare Namensbeschreibungen, aber nur schwache und teils seiteninterne Hinweise auf öffentliche Resonanz",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Britta",
+  "normalized_name": "britta",
+  "overall_resonance": "Britta wird in den vorliegenden Quellen vor allem als klassischer, klar weiblicher Vorname mit skandinavisch bzw. altirisch/keltisch geprägter Herleitung beschrieben. Die öffentliche Wahrnehmung wirkt insgesamt neutral bis eher positiv, aber nicht besonders breit oder aktuell präsent.",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt Britta vertraut, klassisch und gut einordbar.",
+    "Der Name ist im deutschen Sprachraum bekannt, aber nicht mehr sehr häufig.",
+    "Die Quellen beschreiben ihn eher sachlich als trendig oder modern."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz zur öffentlichen Resonanz ist begrenzt und stammt vor allem aus Namenslexika und seiteninternen Kommentaren.",
+    "Einzelstimmen zum Klang fallen unterschiedlich aus; daraus lässt sich keine allgemeine Mehrheitsmeinung ableiten."
+  ],
+  "short_summary": "Britta wird als klassischer, heute eher seltener Vorname mit nordisch/altirischer Herkunft wahrgenommen; die Resonanz ist überwiegend neutral bis leicht positiv, bei insgesamt begrenzter Evidenz.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.99,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Britta � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/B/Br/Britta/"
+    },
+    {
+      "confidence": 0.91,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Britta: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Britta.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "nordisch anmutend",
+    "kurz und prägnant",
+    "eher traditionsnah",
+    "im Klang teils als hart, teils als schön beschrieben"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "eher gering bis mittel; der Name gilt heute als eher selten und hatte seine stärkere Verbreitung vor allem in den 1960er- und 1970er-Jahren."
+}

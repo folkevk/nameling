@@ -1,0 +1,68 @@
+{
+  "associations": [
+    "friesischer Vorname",
+    "Koseform/Variante",
+    "Bedeutung: das kleine Mädchen",
+    "Bedeutung: die Friedliche",
+    "weiblicher Vorname",
+    "Namenstag",
+    "selten bis mittelbeliebt in Deutschland"
+  ],
+  "confidence": 0.79,
+  "display_text": "Femke wirkt in Deutschland überwiegend neutral bis leicht positiv: ein friesischer, eher seltener Vorname mit klarer Herkunft und Bedeutung. Die verfügbare Evidenz ist vor allem namenskundlich, daher sind Aussagen zur öffentlichen Resonanz nur vorsichtig zu bewerten.",
+  "evidence_quality": "mittel bis schwach: mehrere direkte Namensquellen, aber kaum echte öffentliche Diskussions- oder Reaktionsdaten",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Femke",
+  "normalized_name": "femke",
+  "overall_resonance": "Die öffentliche Rezeption wirkt überwiegend sachlich-neutral bis leicht positiv. Femke wird vor allem als friesischer, eher seltener Vorname mit klarer Herkunft und Bedeutung wahrgenommen; belastbare Hinweise auf starke emotionale oder gesellschaftliche Wertung sind in der Evidenz kaum vorhanden.",
+  "practical_notes": [
+    "Für eine Namenssuche ist Femke ein klarer, gut merkbarer Name mit nordisch-friesischem Profil.",
+    "Wer einen seltenen, aber nicht sperrigen Namen sucht, findet hier eine eher unaufgeregte Option.",
+    "Die öffentliche Wirkung dürfte je nach Region eher als ungewöhnlich, aber vertraut genug wahrgenommen werden."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt überwiegend aus Namenslexika und nicht aus freier öffentlicher Diskussion; die Aussagekraft für echte Alltagsresonanz ist daher begrenzt.",
+    "Mögliche Wahrnehmungen sind stark beschreibend und kulturell-historisch geprägt, nicht als breite gesellschaftliche Bewertung zu verstehen."
+  ],
+  "short_summary": "Femke wird meist neutral bis leicht positiv wahrgenommen: friesisch, weiblich, kurz und eigenständig, mit klarer Bedeutungs- und Herkunftsassoziation. Die Evidenz ist jedoch eher lexikalisch als echte öffentliche Resonanz.",
+  "source_count": 3,
+  "sources": [
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Femke � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/F/Fe/Femke/"
+    },
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Femke � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/F/Fe/Femke/"
+    },
+    {
+      "confidence": 0.91,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Femke: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Femke.html"
+    }
+  ],
+  "style_effect": [
+    "klingt nordisch/friesisch",
+    "kurz, eigenständig und eingängig",
+    "wirkt traditionell, aber nicht altmodisch",
+    "eher frisch als modisch-mainstream",
+    "stärker über Herkunft als über Popkultur aufgeladen"
+  ],
+  "usable_evidence_count": 3,
+  "visibility": "In Deutschland eher bekannt, aber nicht massenhaft verbreitet. Die verfügbare Evidenz spricht eher für eine Namenskund- und Beliebtheitswahrnehmung als für breite öffentliche Debatte."
+}

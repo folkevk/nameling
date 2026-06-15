@@ -1,0 +1,62 @@
+{
+  "associations": [
+    "Kurzform von Peter",
+    "Bedeutung im Umfeld von Fels/Stein",
+    "biblische bzw. lateinische Herkunftsbezüge",
+    "männlicher Vorname",
+    "selten bis mäßig verbreitet in Deutschland",
+    "Namenstag",
+    "luxemburgische Variante von Pir"
+  ],
+  "confidence": 0.82,
+  "display_text": "Pit: kurzer, seltener Jungenname mit klarer Herkunft; die verfügbare öffentliche Resonanz wirkt insgesamt sachlich und leicht positiv, basiert aber nur auf begrenzter Evidenz.",
+  "evidence_quality": "Begrenzt, aber für eine vorsichtige Einordnung ausreichend: zwei einschlägige Namenslexika mit ähnlicher Tendenz, jedoch ohne breite externe Resonanz.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Pit",
+  "normalized_name": "pit",
+  "overall_resonance": "Der Vorname Pit wird in den vorliegenden Quellen überwiegend sachlich und leicht positiv beschrieben. Er wirkt kurz, klar und namenskundlich gut einordenbar; die öffentliche Resonanz erscheint eher freundlich-neugierig als kritisch.",
+  "practical_notes": [
+    "Für Suchende wirkt Pit als kurzer, einprägsamer Name mit klarer Herkunft.",
+    "Die Seltenheit kann als Vorteil für Einzigartigkeit gelesen werden.",
+    "Als Kurzform kann der Name unkompliziert wirken, bleibt aber eigenständig.",
+    "Je nach Kontext kann die Kürze als markant oder auch etwas knapp empfunden werden."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist schmal und stammt nur aus zwei Namenswebseiten.",
+    "Es gibt keine breite öffentliche Debatte oder belastbare Gegenstimmen.",
+    "Aussagen zur Wahrnehmung sollten daher vorsichtig als Tendenz, nicht als gesicherte Mehrheitsmeinung verstanden werden."
+  ],
+  "short_summary": "Pit wird in den verfügbaren Quellen als kurzer, seltener und leicht positiv wahrgenommener Jungenname mit Herkunftsbezug zu Peter beschrieben.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "Vorname Pit � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/P/Pi/Pit/"
+    },
+    {
+      "confidence": 0.95,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Pit: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Pit.html"
+    }
+  ],
+  "style_effect": [
+    "kurz und prägnant",
+    "modern wirkend durch die Kürze",
+    "namenskundlich gut anschlussfähig",
+    "eher selten und dadurch markant",
+    "neutral bis leicht freundlich im Klang"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Die Sichtbarkeit in Deutschland wird als eher gering bis mäßig beschrieben. Pit ist kein sehr häufiger Vorname und taucht vor allem in Namenslexika und Datenbanken auf, weniger in breiteren öffentlichen Debatten."
+}

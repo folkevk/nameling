@@ -1,0 +1,63 @@
+{
+  "associations": [
+    "niederdeutsche Form von Christian",
+    "Bedeutung: der Christ / Anhänger Christi",
+    "deutsch",
+    "männlicher Vorname",
+    "selten in Deutschland",
+    "in den 1960er/1970er Jahren häufiger",
+    "Schreibvariante: Karsten",
+    "Namenstag",
+    "Spitznamen/Kosenamen"
+  ],
+  "confidence": 0.93,
+  "display_text": "Carsten wirkt in Deutschland als klassischer, eher traditioneller Männername mit sachlich-neutraler bis leicht positiver Resonanz. Der Name ist bekannt, aber heute eher seltener und wird vor allem mit einer norddeutschen bzw. plattdeutschen Herkunft von Christian verbunden. Insgesamt ist die öffentliche Wahrnehmung unaufgeregt und klar namenskundlich geprägt.",
+  "evidence_quality": "gut: zwei einschlägige Namensquellen, überwiegend sachlich, mit begrenzter kommentarbasierten Einfärbung",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Carsten",
+  "normalized_name": "carsten",
+  "overall_resonance": "In Deutschland wirkt Carsten als klassischer, eher traditioneller Männername mit sachlich-neutraler bis leicht positiver Resonanz. Er wird meist als niederdeutsche bzw. plattdeutsche Form von Christian eingeordnet und mit einer eher älteren Namensgeneration verbunden.",
+  "practical_notes": [
+    "Für eine Namenssuche ist Carsten klar verständlich, etabliert und gut einordenbar.",
+    "Die Schreibweise wird gelegentlich mit Karsten verwechselt, daher kann ein Hinweis auf die bevorzugte Form hilfreich sein.",
+    "Die Resonanz wirkt insgesamt solide und unaufgeregt, mit leicht positiver Tendenz in einigen Namenslexika."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist überwiegend namenskundlich und nicht konflikthaft; keine belastbaren Hinweise auf starke gesellschaftliche Stigmatisierung.",
+    "Vereinzelt kann die ältere Verbreitung den Namen als etwas „aus der Zeit gefallen“ erscheinen lassen, das ist aber eher eine Wahrnehmung als eine feste Bewertung."
+  ],
+  "short_summary": "Carsten wird in Deutschland überwiegend als klassischer, norddeutsch geprägter und heute eher seltener Vorname wahrgenommen – sachlich, bekannt und leicht positiv konnotiert.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Carsten � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/C/Ca/Carsten/"
+    },
+    {
+      "confidence": 0.92,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Carsten: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Carsten.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "traditionell",
+    "norddeutsch/plattdeutsch geprägt",
+    "sachlich",
+    "eher generationstypisch",
+    "selten in der jüngeren Vergabe"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Der Name ist bekannt, aber heute eher seltener und nicht stark trendprägend. Die öffentliche Wahrnehmung ist vor allem informativ-namenskundlich, weniger emotional aufgeladen."
+}

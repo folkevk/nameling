@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "Bedeutungshinweise wie „die Süße“ bzw. „Honigsüße“",
+    "mögliche griechische oder andere sprachliche Herkunftsbezüge",
+    "Namenslexikon- und Bedeutungskontext",
+    "Beliebtheit in Deutschland",
+    "Namenstag-Angaben",
+    "Kurzform-/Variantenhinweise"
+  ],
+  "confidence": 0.84,
+  "display_text": "Melina wirkt in den vorliegenden deutschen Quellen überwiegend positiv: ein freundlicher, weich klingender und bekannter Vorname mit eher lieblich-modernem Eindruck. Die Bewertung basiert vor allem auf Namenslexika und ist deshalb vorsichtig zu lesen.",
+  "evidence_quality": "mittel bis gut: zwei klare Namenslexikon-Quellen mit übereinstimmend positiver bzw. neutral-positiver Darstellung; zugleich begrenzte Tiefe und eher redaktionelle als repräsentative Evidenz.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Melina",
+  "normalized_name": "melina",
+  "overall_resonance": "Melina wird in den vorliegenden deutschsprachigen Namensquellen überwiegend positiv bis neutral-informativ dargestellt. Der Name wird vor allem mit einer freundlichen, sanften und eher beliebten Wirkung verbunden. Die Evidenz stammt jedoch hauptsächlich aus Namenslexika und redaktionell aufbereiteten Datenbanken, daher ist die öffentliche Resonanz nur vorsichtig zu bewerten.",
+  "practical_notes": [
+    "Für Suchmaschinen-Nutzer ist Melina ein klar positiv konnotierter, bekannter Vorname mit weicher Klangwirkung.",
+    "Die Bewertung sollte als vorsichtige Tendenz verstanden werden, nicht als harte Allgemeinaussage über die Gesellschaft.",
+    "Die Quellenlage ist ordentlich, aber eher informativ-lexikalisch als empirisch breit."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz basiert vor allem auf Namensdatenbanken mit redaktionellem Ton; das ist für die Resonanz nützlich, aber nicht mit einer breiten gesellschaftlichen Umfrage gleichzusetzen.",
+    "Einzelne Nutzerkommentare oder persönliche Zuschreibungen sollten für die Bewertung nicht übergewichtet werden.",
+    "Es gibt keine belastbaren Hinweise auf eine sozial stigmatisierende öffentliche Wahrnehmung des Namens in den vorliegenden Quellen."
+  ],
+  "short_summary": "Melina wird in den verfügbaren deutschen Namensquellen überwiegend positiv und als freundlich, weich und bekannt wahrgenommen. Die Evidenz ist solide, aber vor allem lexikalisch und daher vorsichtig zu interpretieren.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "Vorname Melina � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/M/Me/Melina/"
+    },
+    {
+      "confidence": 0.92,
+      "is_name_discussion": true,
+      "sentiment": "überwiegend positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Melina: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Melina.html"
+    }
+  ],
+  "style_effect": [
+    "freundlich",
+    "weich klingend",
+    "modern wirkend",
+    "eher lieblich als streng",
+    "lexikalisch gut anschlussfähig",
+    "beliebt im Namenskontext"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland wirkt Melina bekannt und sichtbar; die Quellen ordnen den Namen teils im Bereich beliebter Vornamen ein. Eine starke mediale Kontroverse oder negative öffentliche Zuschreibung ist in den Evidenzen nicht erkennbar."
+}

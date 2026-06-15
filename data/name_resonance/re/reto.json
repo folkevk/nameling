@@ -1,0 +1,64 @@
+{
+  "associations": [
+    "schweizerischer Gebrauch",
+    "rätoromanische Assoziation",
+    "keltische bzw. lateinische Herkunftsdeutung",
+    "Raetia/Rätia",
+    "selten in Deutschland",
+    "Namenstag",
+    "sprachlich markant",
+    "für verschiedene Altersgruppen passend"
+  ],
+  "confidence": 0.82,
+  "display_text": "Reto wirkt in der öffentlichen Wahrnehmung überwiegend sachlich bis leicht positiv: ein seltener, prägnanter Name, in Deutschland eher ungebräuchlich, mit stärkerem Schweiz- und Herkunftsbezug.",
+  "evidence_quality": "mittel bis gut: klare Namensdiskussion, aber überwiegend lexikalische Quellen und nur begrenzt diskursive öffentliche Resonanz.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Reto",
+  "normalized_name": "reto",
+  "overall_resonance": "Überwiegend sachlich bis leicht positiv. Der Name wirkt in der öffentlichen Darstellung eher speziell, klar und ungebräuchlich, besonders in Deutschland, mit einer stärkeren Verbindung zur Schweiz und zum rätoromanisch-keltischen Namensumfeld.",
+  "practical_notes": [
+    "Für Suchmaschinen wirkt der Name vor allem informativ und herkunftsbezogen.",
+    "Wer einen seltenen, kurzen und markanten Namen sucht, findet hier eine eher eigenständige Option.",
+    "Die Wahrnehmung kann je nach Region unterschiedlich ausfallen, besonders zwischen Deutschland und der Schweiz."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist begrenzt und stammt fast nur aus Namenslexika und wenigen Kommentaren.",
+    "Die positive Einordnung ist daher eher indikativ als repräsentativ für eine breite öffentliche Meinung.",
+    "Keine belastbaren Hinweise auf soziale Stigmatisierung in den vorliegenden Quellen."
+  ],
+  "short_summary": "Reto wird öffentlich meist sachlich, teils positiv wahrgenommen: ein seltener, prägnanter Name mit starker Schweiz-Bezugnahme und herkunftsbezogenen Assoziationen.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Reto � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/R/Re/Reto/"
+    },
+    {
+      "confidence": 0.84,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Reto: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Reto.html"
+    }
+  ],
+  "style_effect": [
+    "prägnant",
+    "knapp",
+    "klar aussprechbar",
+    "eigenständig",
+    "leicht regional gefärbt",
+    "traditionsnah",
+    "ungewöhnlich in DE"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland eher selten und dadurch wenig alltagspräsent; in schweizerischem Kontext deutlich geläufiger. Die öffentliche Wahrnehmung ist vor allem lexikalisch und namenskundlich geprägt, nicht stark diskursiv."
+}

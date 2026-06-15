@@ -1,0 +1,59 @@
+{
+  "associations": [
+    "lateinische bzw. italienische Herkunft",
+    "Bedeutungen wie „die Hübsche“, „die Nette“, „die Liebe“ oder „die Reine“",
+    "weiblicher Vorname",
+    "Namenstag-Angaben",
+    "Beliebtheit in Deutschland",
+    "gelegentliche Verbindung zum Sternbild Carina/Kiel des Schiffes"
+  ],
+  "confidence": 0.93,
+  "display_text": "Carina gilt in Deutschland als bekannter, klassisch-populärer Mädchenvorname mit weichem, freundlich wirkendem Klang. Öffentliche Namensseiten verbinden ihn meist mit lateinisch/italienischer Herkunft und positiven Bedeutungen wie „die Hübsche“ oder „die Liebe“. Insgesamt ist die Resonanz überwiegend positiv, zugleich eher sachlich-informativ als stark emotional.",
+  "evidence_quality": "hoch: zwei klare, namensbezogene Quellen mit konsistenter, überwiegend neutral bis leicht positiver Darstellung",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Carina",
+  "normalized_name": "carina",
+  "overall_resonance": "überwiegend positiv und informativ, mit eher klassisch-populärer Wirkung",
+  "practical_notes": [
+    "Für Namenssuchende wirkt Carina vertraut, gut aussprechbar und leicht verständlich.",
+    "Der Name ist in Deutschland bekannt, aber nicht extrem trendig; das kann als zeitlos wahrgenommen werden.",
+    "Die öffentliche Rezeption ist eher sachlich-informativ als emotional polarisiert."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die positiven Bedeutungszuweisungen sind etymologisch-traditionell und nicht als objektive Eigenschaften zu verstehen.",
+    "Ein Teil der verfügbaren Texte ist stark lexikalisch/SEO-geprägt; die Bewertung bleibt daher vorsichtig.",
+    "Keine belastbaren Hinweise auf soziale Stigmatisierung in der vorliegenden Evidenz."
+  ],
+  "short_summary": "Carina wird öffentlich meist als klassischer, freundlich wirkender Mädchenvorname mit lateinisch/italienischem Klang wahrgenommen; die Rezeption ist überwiegend positiv, aber vor allem informativ geprägt.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "Vorname Carina � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/C/Ca/Carina/"
+    },
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Carina: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Carina.html"
+    }
+  ],
+  "style_effect": [
+    "klingt weich, freundlich und zeitlos",
+    "wirkt international bzw. italienisch geprägt",
+    "hat eine leicht romantische, angenehme Namensassoziation",
+    "erscheint eher klassisch-populär als modern-experimentell"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "hoch in Namenslexika und deutschsprachigen Vornamensseiten; im öffentlichen Diskurs klar als bekannter Mädchenvorname präsent"
+}

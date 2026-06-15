@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "altdeutsche Herkunft",
+    "Bedeutung: „der Kühne aus dem Volk“",
+    "Namensstamm Liutbald",
+    "heiliger Leopold",
+    "historische Herrscher",
+    "Namenstag",
+    "Kurzformen wie Leo oder Poldi"
+  ],
+  "confidence": 0.88,
+  "display_text": "Leopold wirkt öffentlich überwiegend klassisch, stilvoll und traditionsreich. Der Name ist bekannt, aber eher selten, mit positiven Assoziationen wie zeitlos, historisch und wertschätzend. Die Evidenz ist brauchbar, stammt aber vor allem aus Namenslexika und zeigt nur begrenzt echte Diskussionsdynamik.",
+  "evidence_quality": "mittel bis gut: direkte Namensquellen mit klaren Angaben zu Herkunft, Bedeutung, Stil und Beliebtheit, aber nur begrenzte Hinweise auf echte öffentliche Resonanz außerhalb von Namensdatenbanken.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Leopold",
+  "normalized_name": "leopold",
+  "overall_resonance": "Der Vorname Leopold wird öffentlich überwiegend positiv und klassisch wahrgenommen. Die verfügbaren Quellen beschreiben ihn als traditionsreich, stilvoll und zeitlos, mit klarer historischer und namenskundlicher Verankerung.",
+  "practical_notes": [
+    "Geeignet, wenn ein klassischer und traditionell wirkender Name gesucht wird.",
+    "Durch Kurzformen wie Leo wirkt der Name im Alltag flexibler.",
+    "Die Wahrnehmung dürfte eher seriös und vertraut als modern-experimentell ausfallen."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt fast ausschließlich aus Namenslexika und Infoseiten; echte öffentliche Diskussionsdynamik ist nur schwach erkennbar.",
+    "Die positiven Stilzuschreibungen sind plausible Namensbeschreibungen, aber keine allgemeingültige gesellschaftliche Wirkung."
+  ],
+  "short_summary": "Leopold wird in den Quellen überwiegend als klassischer, traditionsreicher und positiv besetzter Vorname beschrieben. Er ist bekannt, aber eher nicht sehr häufig, und wirkt stilvoll sowie zeitlos.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Leopold � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/L/Le/Leopold/"
+    },
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Leopold: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Leopold.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "zeitlos",
+    "wertschätzend",
+    "traditionsbewusst",
+    "etwas vornehm",
+    "historisch verankert"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Im deutschsprachigen Raum ist Leopold bekannt, aber eher nicht extrem häufig. Die Sichtbarkeit wirkt stabil und eher traditionell als trendgetrieben."
+}

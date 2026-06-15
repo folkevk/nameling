@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "Kurzform von Magdalena",
+    "hebräischer/biblischer Ursprung",
+    "Bezug zu Magdala",
+    "mögliche Deutung als 'die Erhabene'",
+    "Namenstag",
+    "seltenere Vergabe in Deutschland",
+    "lexikalische und statistische Einordnung"
+  ],
+  "confidence": 0.87,
+  "display_text": "Magda wirkt im deutschsprachigen Raum überwiegend neutral bis leicht positiv: ein klassischer, kurzer und eher seltener Vorname mit biblisch-hebräischem Hintergrund. Öffentliche Debatten oder auffällige Stigmatisierung sind in der vorliegenden Evidenz nicht erkennbar; die Wahrnehmung ist vor allem namenskundlich und sachlich geprägt.",
+  "evidence_quality": "Mittel bis hoch für Namensbedeutung und Einordnung, aber schwach für echte öffentliche Meinungsbreite; überwiegend lexikalische Evidenz.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Magda",
+  "normalized_name": "magda",
+  "overall_resonance": "Überwiegend neutral bis leicht positiv. Magda wird im deutschsprachigen Raum vor allem als klassischer, kurzer Vorname mit traditioneller und namenskundlicher Einordnung wahrgenommen; eine starke öffentliche Debatte oder Polarisierung ist in der vorliegenden Evidenz nicht erkennbar.",
+  "practical_notes": [
+    "Für Suchmaschinen-Nutzer wirkt Magda klar, vertraut und traditionsnah.",
+    "Der Name wird eher sachlich erklärt als emotional diskutiert.",
+    "Wenn eine moderne Trendwirkung gesucht wird, ist Magda eher zurückhaltend als auffällig."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt vor allem aus Namensdatenbanken und Lexikonseiten; das misst eher Beschreibung als echte öffentliche Resonanz.",
+    "Einzelne positive Töne kommen teils aus Nutzerkommentaren und sind nur begrenzt belastbar.",
+    "Es gibt keinen Hinweis auf eine gesellschaftliche Stigmatisierung des Namens in den vorliegenden Quellen."
+  ],
+  "short_summary": "Magda wird im Deutschen meist neutral bis leicht positiv und als klassischer, seltenerer Vorname mit biblisch-hebräischem Hintergrund wahrgenommen.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Magda � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/M/Ma/Magda/"
+    },
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Magda: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Magda.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "kurz",
+    "traditionell",
+    "namenskundlich",
+    "eher zeitlos als modisch"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Eher gering bis mittel: Der Name ist bekannt, wird aber laut den Quellen in Deutschland eher seltener vergeben und taucht vor allem in Namenslexika, nicht in breiter öffentlicher Diskussion auf."
+}

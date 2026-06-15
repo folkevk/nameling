@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "Kurzform von Namen wie Martina, Christina oder Bettina",
+    "eigenständiger weiblicher Vorname",
+    "deutschsprachiger Gebrauch",
+    "Beliebtheit in Deutschland",
+    "lateinische Herkunftsdeutungen",
+    "Namenstag",
+    "Spitznamen wie Tini oder Tinchen"
+  ],
+  "confidence": 0.95,
+  "display_text": "Tina wirkt in Deutschland insgesamt vertraut, kurz und alltagstauglich. Öffentlich wird der Name vor allem neutral-informativ beschrieben, mit leicht positiver, zeitloser Wirkung. Die Herkunft wird teils als Kurzform mehrerer längerer Namen erklärt; diese Deutungen sind nicht ganz einheitlich, aber die allgemeine Resonanz ist klar unproblematisch.",
+  "evidence_quality": "hoch: zwei klare namenkundliche Quellen, beide direkt zum Vornamen Tina und mit konsistenter Grundtendenz.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Tina",
+  "normalized_name": "tina",
+  "overall_resonance": "Überwiegend neutral bis positiv, mit klarer Alltagsnähe und vertrauter Wirkung im deutschen Sprachraum.",
+  "practical_notes": [
+    "Für Suchende wirkt Tina eher vertraut als erklärungsbedürftig.",
+    "Die öffentliche Wahrnehmung ist vor allem sachlich-informativ, nicht stark emotional aufgeladen.",
+    "Als kurzer Name ist Tina leicht merkbar und im deutschen Sprachraum sehr gut einordbar."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Herkunftsdeutungen sind in den Quellen nicht vollständig einheitlich; mehrere Erklärungen stehen nebeneinander.",
+    "Es gibt keinen Hinweis auf eine gesellschaftliche Stigmatisierung des Namens in der vorliegenden Evidenz."
+  ],
+  "short_summary": "Tina wird im deutschen Sprachraum meist als vertrauter, unkomplizierter und sachlich positiv wahrgenommener Vorname beschrieben.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Tina � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/T/Ti/Tina/"
+    },
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Tina: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Tina.html"
+    }
+  ],
+  "style_effect": [
+    "kurz und direkt",
+    "vertraut und unkompliziert",
+    "klassisch-gemütlich",
+    "zeitweise modern, heute eher zeitlos",
+    "namenskundlich gut anschlussfähig"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Der Name ist in Deutschland gut bekannt und öffentlich präsent; die Evidenz beschreibt ihn als geläufigen weiblichen Vornamen bzw. als Kurzform mit eigenständiger Nutzung."
+}

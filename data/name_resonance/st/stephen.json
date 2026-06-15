@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "altgriechischer Ursprung",
+    "Bedeutung im Sinn von Kranz/Siegeskranz bzw. der Gekrönte",
+    "Bezug zu Stephanus / Neues Testament",
+    "englische Schreibweise von Stephan",
+    "seltenere Variante im deutschen Sprachraum",
+    "Namenstag"
+  ],
+  "confidence": 0.84,
+  "display_text": "Stephen wirkt in Deutschland eher selten und international, zugleich sachlich und leicht positiv. Der Name wird vor allem mit seiner altgriechischen Herkunft, der Bedeutung rund um „der Gekrönte“/„Siegeskranz“ und dem biblischen Bezug zu Stephanus verbunden. Als englische Schreibweise von Stephan kann er erklärungsbedürftig sein, besonders bei Aussprache und Schreibweise.",
+  "evidence_quality": "mittel bis gut; zwei einschlägige Namensquellen mit überwiegend sachlicher, teils kommentarbasiert ergänzter Evidenz",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Stephen",
+  "normalized_name": "stephen",
+  "overall_resonance": "Stephen wirkt in der öffentlichen Namenswahrnehmung in Deutschland eher sachlich, international und leicht positiv konnotiert. Der Name wird vor allem über Herkunft, Bedeutung und biblische Bezüge eingeordnet, nicht über starke emotionale oder modische Zuspitzungen.",
+  "practical_notes": [
+    "Für Deutschland kann Stephen häufiger nach der Aussprache oder Schreibweise gefragt werden.",
+    "Wer einen international verständlichen Namen sucht, dürfte ihn als gut anschlussfähig wahrnehmen.",
+    "Die Schreibweise kann mit Stephan verwechselt werden; das ist vor allem ein praktischer, kein wertender Punkt."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist insgesamt ordentlich, aber nicht sehr breit: Vieles stammt aus Namenslexika und kommentarbasierten Quellen.",
+    "Hinweise zu Aussprache und Schreibweise beruhen eher auf individuellen Erfahrungen als auf repräsentativer öffentlicher Meinung.",
+    "Keine belastbaren Hinweise auf starke soziale Stigmatisierung; falls der Name ungewohnt wirkt, liegt das eher an der Schreibvariante als an negativen Zuschreibungen."
+  ],
+  "short_summary": "Stephen wird in Deutschland eher als seltene, international geprägte und sachlich positiv besetzte Namensvariante wahrgenommen, mit klassisch-biblischen und etymologischen Assoziationen.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Stephen � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/S/St/Stephen/"
+    },
+    {
+      "confidence": 0.83,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Stephen: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Stephen.html"
+    }
+  ],
+  "style_effect": [
+    "international und englisch geprägt",
+    "klassisch-biblischer Eindruck",
+    "eher formell als verspielt",
+    "seltenere Schreibweise in DE",
+    "wirkt sachlich und erklärungsbedürftig"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland ist Stephen eher eine seltenere bzw. ungewöhnlichere Schreibweise und dadurch deutlich weniger geläufig als Stephan. Die öffentliche Sichtbarkeit ist vorhanden, aber eher namenskundlich als alltagssprachlich."
+}

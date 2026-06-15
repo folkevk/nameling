@@ -1,0 +1,64 @@
+{
+  "associations": [
+    "altgriechische Herkunft",
+    "hebräische Herkunft",
+    "Bedeutung: die Blühende",
+    "Bedeutung: der Tau Gottes",
+    "griechische Mythologie",
+    "schön",
+    "modern",
+    "selten",
+    "weiblicher Vorname"
+  ],
+  "confidence": 0.81,
+  "display_text": "Talia wird derzeit überwiegend freundlich und modern wahrgenommen. Die verfügbaren Quellen beschreiben den Namen als kurz, weich klingend und eher selten, mit Bedeutungen wie „die Blühende“ oder „der Tau Gottes“. Die Evidenz ist jedoch begrenzt und stammt vor allem aus Namenslexika, daher ist die öffentliche Resonanz nur vorsichtig zu interpretieren.",
+  "evidence_quality": "mittel bis schwach: nur wenige, namenskundliche Webquellen mit begrenzter öffentlicher Breite; insgesamt aber konsistente Tendenz zu neutral bis positiv.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Talia",
+  "normalized_name": "talia",
+  "overall_resonance": "Talia wird in den vorliegenden Quellen überwiegend freundlich und modern wahrgenommen. Die Rezeption wirkt eher sachlich-informativ bis leicht positiv, mit Betonung auf Klang, Kürze und den verschiedenen Herkunftsdeutungen.",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt Talia freundlich, zeitgemäß und leicht international.",
+    "Die Schreibweise ist klar und eingängig; der Name wird in den Quellen meist positiv, aber nicht übermäßig prominent dargestellt.",
+    "Wenn du eine sehr häufige Alltagswahrnehmung suchst, spricht die Evidenz eher für einen eher seltenen bis moderat bekannten Namen."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist begrenzt und stark quellengebunden; daraus lässt sich keine belastbare allgemeine Mehrheitsmeinung ableiten.",
+    "Ein Teil der positiven Wirkung stammt aus Namenslexika und redaktionellen Beschreibungen, nicht aus breiter öffentlicher Resonanz.",
+    "Beliebtheits- oder Stilurteile sollten daher vorsichtig als Tendenz, nicht als gesicherte allgemeine Wahrnehmung gelesen werden."
+  ],
+  "short_summary": "Talia wird im deutschen Kontext meist als moderner, angenehm klingender und eher seltener Vorname beschrieben; die Evidenz ist dabei begrenzt und vor allem lexikalisch geprägt.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.94,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Talia � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/T/Ta/Talia/"
+    },
+    {
+      "confidence": 0.87,
+      "is_name_discussion": true,
+      "sentiment": "überwiegend positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Talia: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Talia.html"
+    }
+  ],
+  "style_effect": [
+    "kurz",
+    "modern",
+    "weich klingend",
+    "elegant",
+    "international anschlussfähig",
+    "eher selten wahrgenommen"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Im deutschen Namenskontext ist Talia sichtbar, aber eher kein Massenname; die Quellen deuten auf eine eher moderate, namelexikalisch geprägte Präsenz hin."
+}

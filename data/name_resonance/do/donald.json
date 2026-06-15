@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "gälisch/altirische Herkunft",
+    "anglisierte Form von Domhnall",
+    "Bedeutung im Sinn von „Herrscher/Weltherrscher“",
+    "schottischer Bezug",
+    "selten in Deutschland",
+    "Namenstag",
+    "Spitznamen wie Donnie oder Donny"
+  ],
+  "confidence": 0.78,
+  "display_text": "Donald wirkt in Deutschland eher selten, traditionell und international geprägt. Die öffentliche Rezeption ist überwiegend neutral bis leicht positiv, stützt sich hier aber vor allem auf Namenslexika statt auf breite Diskussionen.",
+  "evidence_quality": "mittel bis schwach: zwei namenskundliche Webquellen, wenig echte öffentliche Diskussionsresonanz",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Donald",
+  "normalized_name": "donald",
+  "overall_resonance": "Im deutschsprachigen Raum wirkt Donald als klar männlicher, eher seltener Vorname mit vor allem namenskundlich-historischer Wahrnehmung. Die öffentliche Rezeption ist überwiegend neutral bis leicht positiv, jedoch basiert sie hier vor allem auf Namenslexika und nicht auf breiter Diskussions- oder Bewertungsresonanz.",
+  "practical_notes": [
+    "Für eine Namenssuche eignet sich Donald vor allem, wenn ein klassisch-internationaler und seltenerer Vorname gesucht wird.",
+    "Die Wahrnehmung hängt stark vom kulturellen Kontext ab; in Deutschland kann der Name ungewöhnlich wirken.",
+    "Die Quellenlage spricht eher für Herkunfts- und Bedeutungsinteresse als für eine ausgeprägte Alltagsresonanz."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz zur öffentlichen Resonanz ist schwach, da fast nur beschreibende Namensseiten vorliegen.",
+    "Einzelne negative oder gemischte Assoziationen sind nicht als allgemeine Meinung zu verstehen.",
+    "Keine belastbare Aussage über gesellschaftliche Bewertung außerhalb der Namensbeschreibung möglich."
+  ],
+  "short_summary": "Donald wird in Deutschland vor allem als seltener, männlicher und historisch-keltisch geprägter Vorname wahrgenommen; die Resonanz ist überwiegend neutral bis leicht positiv, bei insgesamt schwacher Evidenz.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Donald � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/D/Do/Donald/"
+    },
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Donald: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Donald.html"
+    }
+  ],
+  "style_effect": [
+    "klingt traditionell und eher formell",
+    "wirkt international bzw. anglisiert",
+    "hat einen klaren, markanten Klang",
+    "wird vor allem über Herkunft und Bedeutung wahrgenommen"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Eher gering bis mittel: Der Name ist in Deutschland bekannt, aber selten und in den vorliegenden Quellen eher als Lexikoneintrag denn als stark diskutierter Alltagsname präsent."
+}

@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "Kurzform von Timotheus",
+    "auch als Nebenform von Thiemo bzw. in Namensdeutungen mit Timon verknüpft",
+    "griechische bzw. altgriechische Herkunft",
+    "Bedeutungsfelder wie 'der Gottesfürchtige' oder 'der Ehrende'",
+    "männlicher Vorname",
+    "in Deutschland bekannt und wiederholt beliebt",
+    "Namenstag wird in einzelnen Quellen genannt"
+  ],
+  "confidence": 0.93,
+  "display_text": "Timo wirkt in der öffentlichen Rezeption überwiegend positiv: ein kurzer, klassischer und in Deutschland gut bekannter Jungenvorname. Die verfügbaren Quellen betonen vor allem Herkunft, Bedeutung und Beliebtheit; auffällige negative Deutungen sind in der Evidenz nicht erkennbar.",
+  "evidence_quality": "hoch: zwei direkte, namebezogene Quellen mit klarer Herkunfts-, Bedeutungs- und Beliebtheitsbeschreibung; geringe Gegenhinweise, jedoch teils kommentarnahe oder populäre Darstellungsform.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Timo",
+  "normalized_name": "timo",
+  "overall_resonance": "Überwiegend positiv und vertraut; Timo wird in der öffentlichen Namensbeschreibung meist als zeitloser, kurzer und in Deutschland gut etablierter Jungenvorname dargestellt.",
+  "practical_notes": [
+    "Für öffentliche Namenssuche wirkt Timo niedrigschwellig und gut anschlussfähig.",
+    "Der Name ist kurz, leicht zu schreiben und zu merken.",
+    "Die Rezeption ist eher sachlich-wertschätzend als auffällig oder polarisierend."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die vorliegende Evidenz ist vor allem lexikalisch und populärnamenkundlich, nicht gesellschaftskritisch; Aussagen zur Außenwirkung sollten daher vorsichtig als Tendenzen verstanden werden.",
+    "Einzelne Nutzerkommentare können subjektiv sein und sollten nicht als allgemeine Meinung gewertet werden."
+  ],
+  "short_summary": "Timo wird in der öffentlichen Namenswahrnehmung meist positiv, klassisch und zeitlos beschrieben. Der Name wirkt in Deutschland vertraut und etabliert, ohne starke negative Konnotationen.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Timo � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/T/Ti/Timo/"
+    },
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Timo: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Timo.html"
+    }
+  ],
+  "style_effect": [
+    "kurz und klar",
+    "klassisch wirkend",
+    "zeitlos",
+    "vertraut und unkompliziert",
+    "informativ statt auffällig"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Hohe Sichtbarkeit in deutschsprachigen Namensverzeichnissen und Suchtreffern; der Name wird häufig lexikalisch, herkunftsbezogen und popularitätsorientiert beschrieben."
+}

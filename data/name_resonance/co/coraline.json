@@ -1,0 +1,63 @@
+{
+  "associations": [
+    "Koralle",
+    "Perle",
+    "englische bzw. französische Form",
+    "lateinischer Ursprung",
+    "selten in Deutschland",
+    "Namenstag 18. Mai",
+    "Filmfigur Coraline"
+  ],
+  "confidence": 0.84,
+  "display_text": "Coraline wirkt in Deutschland eher selten, modern und wohlklingend. Die vorliegende Evidenz beschreibt den Namen überwiegend positiv, mit Assoziationen wie Koralle, Perle und internationaler Herkunft. Wegen der schmalen Datenbasis ist das aber eher eine vorsichtige Namenseinschätzung als ein breites Stimmungsbild.",
+  "evidence_quality": "mittel bis gut: klare Namens-Evidenz, aber fast ausschließlich aus wenigen Namenslexikon-Quellen und ohne breite öffentliche Diskussionslage.",
+  "generated_at": "2026-06-14T10:47:41Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Coraline",
+  "normalized_name": "coraline",
+  "overall_resonance": "Coraline wird in der vorliegenden deutschsprachigen Namens-Evidenz überwiegend positiv und als eher selten wahrgenommen. Der Name wirkt für viele Quellen klangvoll, modern und international, mit freundlichen Bedeutungsassoziationen.",
+  "practical_notes": [
+    "Für die Namenssuche eignet sich Coraline vor allem, wenn ein seltener, klangvoller und international anschlussfähiger Name gewünscht ist.",
+    "Die Seltenheit kann als Plus für Individualität wahrgenommen werden, kann aber auch zu Rückfragen bei Aussprache oder Schreibweise führen.",
+    "Die Bedeutungsnähe zu 'Koralle' und 'Perle' verleiht dem Namen eine freundliche, bildhafte Note."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist auf wenige Namensseiten begrenzt und damit nicht repräsentativ für eine breite öffentliche Debatte.",
+    "Ein Teil der Wahrnehmung kann durch eine bekannte Filmfigur mitgeprägt sein; das ist für die Namenswirkung relevant, aber nicht gleichzusetzen mit gesellschaftlicher Bewertung.",
+    "Beliebtheits- und Häufigkeitsaussagen sind hier eher beschreibend als als belastbare öffentliche Resonanz zu verstehen."
+  ],
+  "short_summary": "Coraline wird in den vorliegenden Quellen meist positiv, klangvoll und eher selten beschrieben; die Datenlage ist jedoch begrenzt.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.91,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "Vorname Coraline � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/C/Co/Coraline/"
+    },
+    {
+      "confidence": 0.91,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Coraline: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Coraline.html"
+    }
+  ],
+  "style_effect": [
+    "wohlklingend",
+    "modern",
+    "international",
+    "eher selten",
+    "ausgefallen",
+    "namenskundlich",
+    "leicht poetisch"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland wirkt Coraline eher selten und dadurch auffälliger als gebräuchliche Namen. Die öffentliche Sichtbarkeit scheint vor allem über Namenslexika und einzelne Kommentarseiten zu entstehen, nicht über breite gesellschaftliche Diskussionen."
+}

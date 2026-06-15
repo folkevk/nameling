@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "mögliche Deutungen wie Hoffnung",
+    "mehrdeutige Herkunftsangaben",
+    "finnische Verkleinerungsform",
+    "arabische Lesart in manchen Quellen",
+    "weiblicher Vorname",
+    "Beliebtheit in Deutschland"
+  ],
+  "confidence": 0.79,
+  "display_text": "Maila wirkt in den verfügbaren Quellen überwiegend freundlich, modern und leicht positiv. Die Wahrnehmung ist vor allem namenskundlich geprägt; belastbare Hinweise auf breite öffentliche Diskussionen oder negative Konnotationen sind kaum vorhanden. Die Evidenz ist jedoch begrenzt und stammt fast ausschließlich aus Namenslexika.",
+  "evidence_quality": "mittel bis schwach; überwiegend Namenslexika und eine begrenzte Zahl an Quellen, kaum echte öffentliche Diskussionssignale",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Maila",
+  "normalized_name": "maila",
+  "overall_resonance": "Überwiegend freundlich, modern und leicht positiv; der Name wirkt in den verfügbaren Namensquellen eher angenehm und weich, ohne stark polarisierend zu sein.",
+  "practical_notes": [
+    "Für Suchende wirkt Maila insgesamt freundlich und unkompliziert.",
+    "Die Wahrnehmung scheint eher durch Bedeutung und Klang als durch breite Alltagsdiskussion geprägt zu sein.",
+    "Als Vorname kann Maila als modern und angenehm empfunden werden, ohne stark festgelegtes Image."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist schwach für eine echte öffentliche Resonanz, da sie fast nur aus Namenslexika besteht.",
+    "Mehrere Bedeutungs- und Herkunftsdeutungen kursieren; das ist nicht als gesicherte Eindeutigkeit zu verstehen.",
+    "Keine belastbaren Hinweise auf starke negative oder stigmatisierende Konnotationen in der vorliegenden Evidenz."
+  ],
+  "short_summary": "Maila wird in den vorliegenden Quellen überwiegend positiv, modern und freundlich beschrieben. Die öffentliche Resonanz ist aber nur begrenzt belegt, da die Evidenz fast nur aus Namensdatenbanken stammt.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.94,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "Vorname Maila � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/M/Ma/Maila/"
+    },
+    {
+      "confidence": 0.91,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Maila: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Maila.html"
+    }
+  ],
+  "style_effect": [
+    "weich",
+    "modern",
+    "freundlich",
+    "namenskundlich",
+    "leicht melodisch",
+    "selten bis moderat bekannt"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Eher gut sichtbar in deutschsprachigen Namenslexika, aber mit begrenzter öffentlicher Diskussionsbasis; die Evidenz stammt vor allem aus Namensdatenbanken statt aus echten breiten Debatten."
+}

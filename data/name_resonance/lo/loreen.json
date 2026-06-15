@@ -1,0 +1,62 @@
+{
+  "associations": [
+    "lateinische Herkunft",
+    "Lorbeer",
+    "Sieg",
+    "Ruhm",
+    "Ehre",
+    "Namenstag",
+    "weiblicher Vorname",
+    "selten bis mäßig verbreitet"
+  ],
+  "confidence": 0.84,
+  "display_text": "Loreen wirkt öffentlich eher freundlich, elegant und sachlich positiv konnotiert. Der Name wird vor allem über seine Bedeutung (Lorbeer, Sieg, Ehre) und seine Einordnung als weiblicher Vorname beschrieben. Eine klare gesellschaftliche Kontroverse ist nicht erkennbar; die Evidenz ist jedoch eher namenskundlich als breit öffentlich.",
+  "evidence_quality": "mittel bis schwach: zwei einschlägige Namensportale mit überwiegend neutraler, beschreibender Darstellung; wenig echte freie Debattenresonanz.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Loreen",
+  "normalized_name": "loreen",
+  "overall_resonance": "Der Vorname Loreen wird öffentlich überwiegend sachlich und positiv-konnotiert wahrgenommen, vor allem über seine Namensbedeutung statt über starke Debatten. Die verfügbare Evidenz ist jedoch eher namenskundlich als echte öffentliche Diskussion, daher ist die Resonanz nur vorsichtig zu bewerten.",
+  "practical_notes": [
+    "Für Suchmaschinen eignet sich eine neutrale, wertschätzende Beschreibung.",
+    "Der Name wirkt in der öffentlichen Darstellung klar, freundlich und eher klassisch-moderne als exzentrisch.",
+    "Eine starke Polarisierung ist in der vorliegenden Evidenz nicht erkennbar."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt vor allem aus Namensdatenbanken und Portalen; das ist keine starke Messung öffentlicher Meinungen.",
+    "Es gibt keine belastbaren Hinweise auf eine negative soziale Stigmatisierung des Namens.",
+    "Beliebtheits- oder Verbreitungsangaben sollten nicht als allgemeine gesellschaftliche Bewertung missverstanden werden."
+  ],
+  "short_summary": "Loreen wird überwiegend neutral bis positiv, mit Anklängen an Eleganz, Lorbeer und Sieg, beschrieben; die öffentliche Resonanz ist aber nur schwach belegt.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.94,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Loreen � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/L/Lo/Loreen/"
+    },
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Loreen: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Loreen.html"
+    }
+  ],
+  "style_effect": [
+    "elegant",
+    "weich klingend",
+    "modern, aber nicht modisch überzeichnet",
+    "lexikalisch aufgeladen",
+    "eher freundlich als kontrovers"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "mittel: Der Name ist in Namensportalen präsent und nachvollziehbar beschrieben, aber in der freien öffentlichen Debatte nur schwach sichtbar."
+}

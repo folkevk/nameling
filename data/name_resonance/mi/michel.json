@@ -1,0 +1,64 @@
+{
+  "associations": [
+    "deutsche Kose- bzw. Kurzform von Michael",
+    "französische Namensform",
+    "biblischer Ursprung und Bezug zu Erzengel Michael",
+    "Bedeutung: 'Wer ist wie Gott?'",
+    "historische Verwendung im deutschsprachigen Raum",
+    "Michel aus Lönneberga als bekannte Kulturreferenz",
+    "früher auch im Ausdruck 'der deutsche Michel' verwendet",
+    "öffentlich eher als Name mit Tradition und Wiedererkennung wahrgenommen"
+  ],
+  "confidence": 0.92,
+  "display_text": "Michel wird öffentlich meist als klassischer, vertrauter Vorname mit traditioneller und teils französischer Note wahrgenommen. Die Resonanz ist überwiegend positiv bis gemischt; bekannt sind vor allem die Herkunft als Form von Michael, die Bedeutung 'Wer ist wie Gott?' und Kulturbezüge wie Michel aus Lönneberga. Eine historische Nebenassoziation über 'der deutsche Michel' existiert, ist aber als gesellschaftlich-historische Konnotation einzuordnen, nicht als Aussage über Namensträger.",
+  "evidence_quality": "hoch für Herkunft, Bedeutung und bekannte Assoziationen; mittel für die Breite der öffentlichen Alltagsresonanz, da die Evidenz überwiegend aus Namenslexikon-Seiten stammt.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Michel",
+  "normalized_name": "michel",
+  "overall_resonance": "Michel wirkt in der öffentlichen Wahrnehmung überwiegend klassisch und vertraut, mit einer leicht traditionsnahen, teilweise auch französisch anmutenden Note. Die Resonanz ist insgesamt eher positiv bis gemischt: sachlich akzeptiert, aber nicht völlig frei von historischen oder umgangssprachlichen Nebenassoziationen.",
+  "practical_notes": [
+    "Für eine Namenssuche erscheint Michel gut verständlich und klar einzuordnen.",
+    "Der Name ist kurz, markant und in Deutschland bekannt.",
+    "Die Gesamtwirkung ist eher zeitlos als modisch.",
+    "Falls eine völlig neutrale Außenwirkung gewünscht ist, sollte man die historische Michel-Figur im Hinterkopf behalten, auch wenn sie im Alltag meist keine dominante Rolle spielt."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Es gibt eine historische abwertende Nebenassoziation über 'der deutsche Michel'; das ist eine gesellschaftlich-historische Konnotation und keine Aussage über Träger des Namens.",
+    "Ein Teil der verfügbaren Evidenz stammt aus Namenslexika und Kommentaren, daher ist die Breite der öffentlichen Resonanz nur begrenzt abgebildet.",
+    "Einige Rückmeldungen sind subjektiv und sollten nicht als allgemeingültig verstanden werden."
+  ],
+  "short_summary": "Michel ist in Deutschland ein bekannter, klassischer Vorname mit biblisch-traditioneller Herkunft. Die Resonanz ist eher positiv bis gemischt, mit einzelnen historischen Nebenassoziationen.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "mixed",
+      "source_type": "web",
+      "title": "Vorname Michel � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/M/Mi/Michel/"
+    },
+    {
+      "confidence": 0.94,
+      "is_name_discussion": true,
+      "sentiment": "mixed",
+      "source_type": "web",
+      "title": "&#9655; Vorname Michel: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Michel.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "traditionsnah",
+    "freundlich-kurz",
+    "leicht international",
+    "namenskundlich vertraut",
+    "teilweise altmodisch wirkend"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland ist der Name bekannt und gut einordenbar, aber nicht in jedem Umfeld gleich häufig. Die öffentliche Sicht ist vor allem durch Namenskunde, historische Einordnung und einzelne Kulturbezüge geprägt."
+}

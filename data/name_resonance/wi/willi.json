@@ -1,0 +1,64 @@
+{
+  "associations": [
+    "Kurzform von Wilhelm",
+    "Kurzform von Willibald",
+    "altdeutsche Herkunft",
+    "Bedeutung im Sinn von willensstark und beschützend",
+    "entschlossen und mutig",
+    "klassischer deutscher Vorname",
+    "historisch verbreitet",
+    "wieder im Aufwind"
+  ],
+  "confidence": 0.78,
+  "display_text": "Willi wirkt in den vorliegenden Quellen überwiegend positiv, klassisch und bodenständig. Der Name wird als traditionell-deutsch, sympathisch und wieder etwas im Aufwind beschrieben. Die Evidenz ist jedoch eher begrenzt, da sie vor allem aus Namenslexika und redaktionellen Beschreibungen stammt.",
+  "evidence_quality": "mittel bis begrenzt: zwei klar namensbezogene Quellen, aber wenig echte öffentliche Debatte oder unabhängige Resonanzdaten.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Willi",
+  "normalized_name": "willi",
+  "overall_resonance": "Überwiegend positiv und vertraut, mit klar traditioneller Wirkung. Der Name wird in den vorliegenden Quellen vor allem als klassisch-deutsch, sympathisch und wieder etwas im Kommen beschrieben.",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt Willi unkompliziert, bekannt und gut einordenbar.",
+    "Der Name trägt eher traditionelle als moderne Signalwirkung.",
+    "Die Quellenlage spricht eher für Bekanntheit als für starke Kontroversen oder sehr breite Diskurse."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist begrenzt und stammt fast nur aus Namensdatenbanken und redaktionellen Seiten.",
+    "Die positiven Zuschreibungen sind teilweise redaktionell oder subjektiv und daher nicht als allgemeine öffentliche Meinung zu verstehen.",
+    "Es gibt keinen klaren Hinweis auf gesellschaftliche Stigmatisierung in den vorliegenden Quellen."
+  ],
+  "short_summary": "Willi wird überwiegend positiv, traditionell und bodenständig wahrgenommen; die Evidenz ist aber vor allem lexikalisch und nur eingeschränkt repräsentativ.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Willi � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/W/Wi/Willi/"
+    },
+    {
+      "confidence": 0.91,
+      "is_name_discussion": true,
+      "sentiment": "überwiegend positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Willi: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Willi.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "bodenständig",
+    "traditionell",
+    "kurz und direkt",
+    "sympathisch wirkend",
+    "leicht altmodisch, aber nicht abwertend",
+    "wiederentdeckt"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Die öffentliche Sichtbarkeit wirkt eher moderat bis gut: Der Name ist bekannt, aber nicht als auffälliger Modename präsent. Die Evidenz stammt jedoch überwiegend aus Namenslexika und redaktionellen Beschreibungen, nicht aus breiter öffentlicher Debatte."
+}

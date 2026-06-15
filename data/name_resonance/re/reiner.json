@@ -1,0 +1,62 @@
+{
+  "associations": [
+    "althochdeutsche Herkunft",
+    "Bedeutung im Umfeld von Berater/Heeresberater",
+    "Nebenform von Rainer",
+    "männlicher Vorname",
+    "selten in Deutschland",
+    "Namenstag",
+    "deutschsprachige Namensgeschichte"
+  ],
+  "confidence": 0.83,
+  "display_text": "Reiner wirkt in Deutschland eher selten, klassisch und traditionsnah. Die vorliegenden Quellen deuten auf eine neutral bis leicht positive Resonanz hin, vor allem wegen der klaren historischen Namensbedeutung. Die Evidenz ist jedoch begrenzt und stammt überwiegend aus Namenslexika.",
+  "evidence_quality": "mittel bis schwach: klare namensbezogene Quellen, aber nur wenige und vor allem lexikonartige Einträge mit begrenzter öffentlicher Resonanz.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Reiner",
+  "normalized_name": "reiner",
+  "overall_resonance": "Eher neutral bis leicht positiv, vor allem durch die klare, traditionsbezogene Namensdeutung. Die öffentliche Wahrnehmung wirkt nicht stark polarisiert, aber die Evidenzlage ist eher schwach und stammt überwiegend aus Namenslexika.",
+  "practical_notes": [
+    "Wirkt für viele als klassisch und traditionsnah.",
+    "Kann durch die Seltenheit etwas markant oder ungewohnt erscheinen.",
+    "Die Namensbedeutung ist in den Quellen klar und positiv-neutral eingebettet."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die öffentliche Resonanz ist nur eingeschränkt belastbar, da die Quellen überwiegend Namenslexika sind.",
+    "Es liegen kaum Hinweise auf breite Alltagswahrnehmung oder gesellschaftliche Debatten vor.",
+    "Keine Aussage über Träger des Namens ableitbar."
+  ],
+  "short_summary": "Reiner wird in den Quellen vor allem als seltener, klassischer und traditionsbezogener Vorname mit althochdeutscher Bedeutung beschrieben. Die öffentliche Resonanz wirkt überwiegend neutral bis leicht positiv, ist aber nur schwach belegt.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Reiner � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/R/Re/Reiner/"
+    },
+    {
+      "confidence": 0.91,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Reiner: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Reiner.html"
+    }
+  ],
+  "style_effect": [
+    "traditionell",
+    "klassisch",
+    "namenskundlich",
+    "ruhig",
+    "seriös",
+    "etwas altmodisch"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Der Name ist in Deutschland eher selten und dadurch im Alltag nicht sehr präsent. In den vorliegenden Quellen erscheint er vor allem als klassischer, historisch eingeordneter Vorname."
+}

@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "französische Herkunft",
+    "lateinische Wurzeln",
+    "Bedeutung: die Geliebte / die Liebenswerte",
+    "weiblicher Vorname",
+    "selten bis eher niedrig in Beliebtheitslisten",
+    "Namenstag",
+    "Variante zu Aimée bzw. Nähe zu Amy"
+  ],
+  "confidence": 0.74,
+  "display_text": "Aimee wird in Deutschland meist als eleganter, französisch klingender Mädchenname mit der positiven Bedeutung „die Geliebte / die Liebenswerte“ wahrgenommen. Die öffentliche Resonanz ist eher schwach belegt und stammt vor allem aus Namenslexika; echte Debatten oder starke Stigmatisierung sind nicht erkennbar. Insgesamt wirkt der Name selten, aber stilvoll und international anschlussfähig.",
+  "evidence_quality": "mittel bis schwach; überwiegend lexikonartige Einträge, kaum echte öffentliche Debatte",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Aimee",
+  "normalized_name": "aimee",
+  "overall_resonance": "Überwiegend positiv-beschreibend, aber mit schwacher öffentlicher Debattenlage. Aimee wird vor allem als französisch/altfranzösisch geprägter, weiblicher Vorname mit der Bedeutung „die Geliebte / die Liebenswerte“ wahrgenommen. In den vorliegenden Quellen steht weniger eine breite öffentliche Diskussion im Vordergrund als vielmehr namenkundliche Information; vereinzelt wirken Kommentare eher neutral bis gemischt.",
+  "practical_notes": [
+    "Für eine Namenssuche lässt sich Aimee gut als stilvoller, französisch inspirierter Name beschreiben.",
+    "Die Schreibweise kann wegen des Akzents in Quellen und Alltagsgebrauch variieren (Aimee / Aimée).",
+    "In Deutschland dürfte der Name eher als selten, aber vertraut wahrgenommen werden."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist insgesamt schwach und stark von Namenslexika geprägt.",
+    "Es gibt keine belastbare breite öffentliche Resonanz, eher Informationsseiten als echte Diskussion.",
+    "Gemischte Einzelkommentare sollten nicht als allgemeine Meinung über den Namen verstanden werden."
+  ],
+  "short_summary": "Aimee wirkt in Deutschland eher elegant und französisch geprägt, mit positiver Namensbedeutung, aber nur schwacher öffentlicher Resonanz außerhalb von Namenslexika.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.95,
+      "is_name_discussion": true,
+      "sentiment": "positive",
+      "source_type": "web",
+      "title": "Vorname Aimee � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/A/Ai/Aimee/"
+    },
+    {
+      "confidence": 0.94,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Aimee: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Aimee.html"
+    }
+  ],
+  "style_effect": [
+    "elegant",
+    "französisch klingend",
+    "weich und feminin",
+    "modern-klassisch",
+    "international anschlussfähig"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland eher selten bis moderat sichtbar, aber nicht unbekannt. Die öffentliche Wahrnehmung scheint vor allem über Namenslexika, Bedeutungsseiten und Beliebtheitslisten zu laufen, nicht über starke Alltagsdebatten."
+}

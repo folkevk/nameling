@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "Koseform von Dolores",
+    "altspanische und lateinische Herkunft",
+    "Bedeutungsbezug zu Schmerz, Trauer oder Kummer",
+    "in manchen Sprachen auch andere Bedeutungen wie Paradies oder Tulpe",
+    "aktuell in Deutschland relativ beliebt",
+    "Spitznamen wie Loli, Lolita oder Lolly",
+    "teilweise Popkultur- und Songbezüge"
+  ],
+  "confidence": 0.9,
+  "display_text": "Lola wirkt in Deutschland überwiegend freundlich, modern und klangvoll. Die verfügbare Evidenz ist vor allem lexikalisch und beschreibt den Namen als relativ beliebt, mit spanisch-lateinischen Wurzeln und teils popkulturellen Bezügen. Eine breite öffentliche Meinungsvielfalt ist in den Quellen jedoch nur begrenzt sichtbar.",
+  "evidence_quality": "mittel bis gut: klare Namens-Evidenz vorhanden, aber überwiegend aus Namenslexika und beschreibenden Seiten statt aus breiter öffentlicher Diskussion.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Lola",
+  "normalized_name": "lola",
+  "overall_resonance": "Der Vorname Lola wird in der vorliegenden Evidenz überwiegend neutral bis positiv wahrgenommen. Er wirkt kurz, klangvoll und modern, mit deutlichen Bezügen zu spanisch/lateinischer Namenskunde und teils auch zu Popkultur.",
+  "practical_notes": [
+    "Für eine Namenssuche ist Lola ein gut merkbarer, international verständlicher Name.",
+    "Die Wahrnehmung wirkt eher freundlich und modern als auffällig problematisch.",
+    "Wenn ein klassisch-traditioneller Name gesucht wird, könnte Lola etwas verspielter oder zeitgenössischer wirken."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist stark quellengebunden und zeigt wenig echte öffentliche Meinungsvielfalt.",
+    "Einige Bedeutungsableitungen sind etymologisch tradiert, sollten aber nicht als einzige Deutung verstanden werden.",
+    "Mögliche Spitznamen oder Popkultur-Assoziationen sind kontextabhängig und nicht für alle relevant."
+  ],
+  "short_summary": "Lola wird im deutschen Kontext meist als kurzer, klangvoller und moderner Mädchenname mit positiver bis neutraler Resonanz beschrieben.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Lola � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/L/Lo/Lola/"
+    },
+    {
+      "confidence": 0.95,
+      "is_name_discussion": true,
+      "sentiment": "eher positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Lola: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Lola.html"
+    }
+  ],
+  "style_effect": [
+    "kurz und einprägsam",
+    "weiblich und weich im Klang",
+    "modern mit internationaler Anmutung",
+    "leicht verspielt und popkulturell anschlussfähig",
+    "namenskundlich klar verortet"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Im deutschsprachigen Raum ist Lola als Vorname sichtbar und relativ bekannt; die verfügbare Evidenz spricht zudem von einer aktuellen Beliebtheit, bleibt aber insgesamt eher lexikalisch als breit meinungsbasiert."
+}

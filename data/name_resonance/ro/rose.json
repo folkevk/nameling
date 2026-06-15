@@ -1,0 +1,62 @@
+{
+  "associations": [
+    "Blume/Rose",
+    "lateinischer Ursprung",
+    "weiblicher Vorname",
+    "Bedeutung: die Rose",
+    "Namenstag",
+    "klassisch und vertraut",
+    "Beliebtheit in Deutschland"
+  ],
+  "confidence": 0.86,
+  "display_text": "Rose: überwiegend positiv, klassisch und blumig wahrgenommen. Die Rezeption ist vor allem namenkundlich geprägt; vereinzelt gibt es klangliche Kritik an der Aussprache, aber keine breite Kontroverse.",
+  "evidence_quality": "Begrenzt bis mittel: zwei klar namebezogene Quellen, überwiegend positiv, aber kaum unabhängige Breite.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Rose",
+  "normalized_name": "rose",
+  "overall_resonance": "Überwiegend positiv und klassisch-traditionell wahrgenommen, mit klarer Blumen- und Bedeutungsassoziation. Die öffentliche Rezeption wirkt eher sachlich-namenkundlich als kontrovers.",
+  "practical_notes": [
+    "Für die öffentliche Wahrnehmung ist vor allem die Blumen- und Symbolik relevant.",
+    "Der Name wirkt in Deutschland eher bekannt als exotisch.",
+    "Je nach Aussprache kann der Klang unterschiedlich empfunden werden."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist begrenzt und stützt sich vor allem auf wenige webbasierte Namensseiten.",
+    "Einzelne klangliche Kritiken betreffen eher die Aussprache als den Namen an sich.",
+    "Keine belastbaren Hinweise auf gesellschaftliche Stigmatisierung in der vorliegenden Evidenz."
+  ],
+  "short_summary": "Rose wird in der vorliegenden Evidenz überwiegend positiv, klassisch und blumig wahrgenommen. Die Quellen betonen Bedeutung, Herkunft und Namenstag; einzelne Kommentare sehen die Aussprache unterschiedlich.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "Vorname Rose � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/R/Ro/Rose/"
+    },
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Rose: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Rose.html"
+    }
+  ],
+  "style_effect": [
+    "blumig",
+    "klassisch",
+    "traditionell",
+    "weich im Klang",
+    "eher elegant",
+    "namenkundlich geprägt"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Mittel: Der Name wird in Namenslexika und einzelnen Community-Kommentaren diskutiert, aber eine breite öffentliche Debatte ist nicht erkennbar."
+}

@@ -1,0 +1,63 @@
+{
+  "associations": [
+    "altgriechische Herkunft",
+    "Bedeutung: „Geschenk Gottes“",
+    "klassischer bzw. altdeutscher Eindruck",
+    "früher verbreitet, heute wieder beliebt",
+    "Namenstag",
+    "Kurzform Theo",
+    "gelegentlich auch Teddy als Spitzname"
+  ],
+  "confidence": 0.89,
+  "display_text": "Theodor wirkt in Deutschland überwiegend positiv, klassisch und traditionsnah. Die verfügbaren Quellen sind vor allem Namenslexika, deshalb ist die Evidenz eher schwach bis moderat. Genannt werden meist die altgriechische Herkunft, die Bedeutung „Geschenk Gottes“, die Kurzform Theo und ein insgesamt zeitloser, würdevoller Eindruck.",
+  "evidence_quality": "schwach bis moderat; zwei thematisch passende Namensseiten, aber keine breite öffentliche Diskussionslage",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Theodor",
+  "normalized_name": "theodor",
+  "overall_resonance": "Überwiegend positiv und klassisch-traditionell wahrgenommen; die öffentliche Rezeption wirkt eher wohlwollend als kontrovers.",
+  "practical_notes": [
+    "Für Suchmaschinen wirkt der Name meist vertraut und seriös.",
+    "Die Kurzform Theo kann den Namen zugänglicher und moderner wirken lassen.",
+    "In Deutschland dürfte Theodor eher als klassischer Vorname mit traditioneller Note gelesen werden."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist nur schwach bis moderat belastbar, weil sie fast ausschließlich aus Namenslexika stammt.",
+    "Es ist keine klare öffentliche Kontroverse erkennbar; die positive Wirkung kann durch die Art der Quellen etwas verstärkt sein.",
+    "Aussagen über Beliebtheit sollten als allgemeiner Trend verstanden werden, nicht als exakte Messung."
+  ],
+  "short_summary": "Theodor wird in der verfügbaren Evidenz überwiegend positiv, klassisch und traditionell beschrieben. Die Quellen sind jedoch vor allem Namenslexika, daher ist die öffentliche Resonanz nur vorsichtig zu interpretieren.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "positive",
+      "source_type": "web",
+      "title": "Vorname Theodor � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/T/Th/Theodor/"
+    },
+    {
+      "confidence": 0.94,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Theodor: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Theodor.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "traditionell",
+    "würdig",
+    "bodenständig",
+    "namenskundlich",
+    "zeitlos",
+    "leicht modernisiert durch Kurzform Theo"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Mittel: Der Name erscheint in Namenslexika und Beliebtheitskontexten recht präsent, aber die Evidenz zeigt vor allem beschreibende Einträge statt breiter öffentlicher Debatten."
+}

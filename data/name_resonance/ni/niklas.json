@@ -1,0 +1,59 @@
+{
+  "associations": [
+    "Bedeutung: „Sieg des Volkes“ bzw. „der Sieger des Volkes“",
+    "Herkunft: altgriechisch, Form/Variante von Nikolaus",
+    "in Deutschland bekannt und beliebt",
+    "Namenstag am 6. Dezember sowie weitere genannte Daten",
+    "Spitznamen wie Niki, Nick, Nik"
+  ],
+  "confidence": 0.92,
+  "display_text": "Niklas wirkt in der öffentlichen Namenseinordnung überwiegend positiv und vertraut: ein klassisch-moderner, in Deutschland geläufiger Jungenname mit klarer Herkunft und starker namenskundlicher Tradition. Die vorliegende Evidenz ist jedoch vor allem redaktionell-sachlich, nicht breit diskursiv.",
+  "evidence_quality": "gut für Namensbedeutung, Herkunft und allgemeine Einordnung; begrenzt für echte öffentliche Diskursresonanz.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Niklas",
+  "normalized_name": "niklas",
+  "overall_resonance": "Niklas wird in den vorliegenden Quellen überwiegend sachlich-positiv und sehr etabliert dargestellt: als klassisch-moderner, in Deutschland geläufiger Jungenname mit klarer Namensbedeutung und traditioneller Herkunft.",
+  "practical_notes": [
+    "Für Suchmaschinen wirkt Niklas sehr gut anschlussfähig und leicht einordenbar.",
+    "Die Wahrnehmung ist eher traditionsnah als experimentell.",
+    "Wenn nach öffentlicher Resonanz gefragt wird, sollte man die Daten als überwiegend redaktionell und nicht als Meinungsumfrage verstehen."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt vor allem aus Namensdatenbanken und lexikalischen Einträgen, nicht aus einer breiten freien Debatte.",
+    "Daher spiegelt die Karte eher beschreibende öffentliche Einordnung als spontane Alltagsresonanz wider.",
+    "Keine Hinweise auf eine soziale Stigmatisierung in den vorliegenden Quellen."
+  ],
+  "short_summary": "Niklas wird überwiegend positiv, klassisch und in Deutschland vertraut wahrgenommen; die Quellen betonen vor allem Bedeutung, Herkunft und Beliebtheit.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Niklas � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/N/Ni/Niklas/"
+    },
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Niklas: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Niklas.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch-moderner Klang",
+    "vertraut und zeitgemäß",
+    "kurz, klar und leicht aussprechbar",
+    "namenskundlich stark eingebettet",
+    "eher neutral bis positiv konnotiert"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "hoch in Namenslexika und redaktionellen Verzeichnissen; die öffentliche Resonanz wirkt eher informativ als kontrovers."
+}

@@ -1,0 +1,62 @@
+{
+  "associations": [
+    "hebräische Herkunft",
+    "weiblicher Vorname",
+    "Bedeutung: Gott hat geheilt",
+    "biblischer Bezug",
+    "Namenstag",
+    "Varianten wie Raphaele oder Rafaele",
+    "Kurzformen wie Ela oder Raphi"
+  ],
+  "confidence": 0.86,
+  "display_text": "Raphaela: klassischer, biblisch-hebräischer Mädchenname mit der Bedeutung „Gott hat geheilt“; öffentlich eher neutral bis leicht positiv wahrgenommen.",
+  "evidence_quality": "mittel bis gut; die Quellen sind direkt namensbezogen, aber überwiegend lexikalisch und nicht auf breit angelegte Meinungsdaten gestützt.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Raphaela",
+  "normalized_name": "raphaela",
+  "overall_resonance": "Raphaela wird im deutschsprachigen Raum vor allem sachlich und positiv-assoziativ wahrgenommen: als klassischer weiblicher Vorname mit biblisch-hebräischem Hintergrund und der Bedeutung „Gott hat geheilt“ bzw. „die von Gott Geheilte“. Die öffentliche Rezeption wirkt eher informativ als emotional und ist insgesamt neutral bis leicht positiv.",
+  "practical_notes": [
+    "Für Suchmaschinen-Nutzer wirkt der Name klar, traditionell und gut einordbar.",
+    "Die Schreibweise ist vertraut, kann aber gelegentlich mit Raphael verwechselt werden.",
+    "Der Name eignet sich besonders für Kontexten, in denen ein klassisch-weiblicher und biblisch geprägter Vorname gesucht wird."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist insgesamt solide, aber stark von Namenslexika und katalogartigen Seiten geprägt.",
+    "Es gibt kaum belastbare Hinweise auf eine breite öffentliche Debatte; die Wahrnehmung ist daher eher indirekt aus lexikalischen Quellen abgeleitet.",
+    "Keine Hinweise auf soziale Stigmatisierung erkennbar."
+  ],
+  "short_summary": "Raphaela gilt im deutschen Sprachraum als klassischer, biblisch geprägter Mädchenname mit überwiegend neutral bis leicht positiver Resonanz.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.99,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Raphaela � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/R/Ra/Raphaela/"
+    },
+    {
+      "confidence": 0.78,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Raphaela: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Raphaela.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "biblisch",
+    "elegant",
+    "namenskundlich",
+    "zeitlos",
+    "leicht traditionell"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Im deutschen Sprachraum gut bekannt, aber nicht extrem dominant; die Sichtbarkeit entsteht vor allem über Namenslexika, Bedeutungsseiten und Listen zu Beliebtheit und Namenstag."
+}

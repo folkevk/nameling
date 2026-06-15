@@ -1,0 +1,68 @@
+{
+  "associations": [
+    "lateinischer Ursprung",
+    "Lorbeer",
+    "Laurentum",
+    "Namenstag",
+    "Beliebtheit in Deutschland",
+    "klassischer Mädchenname",
+    "Kurzform/Verwandtschaft zu Laurentia"
+  ],
+  "confidence": 0.89,
+  "display_text": "Laura wirkt in Deutschland überwiegend klassisch, sympathisch und vertraut. Der Name wird vor allem mit lateinischer Herkunft, Lorbeer und anhaltender Beliebtheit verbunden. Die vorhandenen Quellen sind zwar nur wenige, stimmen aber in einer positiven, eher neutral-beschreibenden Wahrnehmung überein.",
+  "evidence_quality": "gut bis sehr gut, aber quellenarm; mehrere direkte Namensquellen mit konsistenter positiver/neutraler Beschreibung",
+  "generated_at": "2026-06-12T06:08:03Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Laura",
+  "normalized_name": "laura",
+  "overall_resonance": "Im deutschen Sprachraum wirkt Laura öffentlich überwiegend positiv, klassisch und vertraut. Der Name wird vor allem über seine lateinische Herkunft, die Bedeutung rund um den Lorbeer sowie über seine anhaltende Beliebtheit wahrgenommen.",
+  "practical_notes": [
+    "Für Suchmaschinen-Nutzende erscheint Laura als etablierter, leicht verständlicher Vorname mit positiver Grundwirkung.",
+    "Die Wahrnehmung ist eher beschreibend als kontrovers oder polarisierend."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt aus wenigen, vorwiegend lexikalischen Informationsquellen; die Resonanz ist daher eher eine gut belegte Web-Rezeption als eine breite Meinungslandschaft.",
+    "Keine Hinweise auf soziale Stigmatisierung in den vorliegenden Quellen."
+  ],
+  "short_summary": "Laura wird in deutschen Namensquellen meist als klassischer, beliebter und positiv konnotierter Mädchenname beschrieben.",
+  "source_count": 3,
+  "sources": [
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "Vorname Laura � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/L/La/Laura/"
+    },
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "Vorname Laura � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/L/La/Laura/"
+    },
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Laura: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Laura.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "freundlich",
+    "zeitlos",
+    "weiblich-klar",
+    "namenskundlich vertraut",
+    "populär ohne stark modischen Eindruck"
+  ],
+  "usable_evidence_count": 3,
+  "visibility": "hoch"
+}

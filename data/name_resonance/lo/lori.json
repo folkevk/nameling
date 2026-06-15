@@ -1,0 +1,69 @@
+{
+  "associations": [
+    "lateinische Herkunft",
+    "Lorbeer / Lorbeerkranz",
+    "Kurzform oder Koseform von Loretta bzw. Lora",
+    "auch mit Eleonore verknüpft",
+    "Unisex-Nutzung in den Quellen",
+    "Namenstag",
+    "Beliebtheit in Deutschland"
+  ],
+  "confidence": 0.9,
+  "display_text": "Lori wirkt in Deutschland überwiegend neutral bis leicht positiv. Der Name wird vor allem sachlich über Herkunft, Bedeutung und Varianten eingeordnet, nicht als stark diskutierter oder stigmatisierter Name. Die vorliegende Evidenz stammt jedoch hauptsächlich aus Namenslexika und Datenbankseiten.",
+  "evidence_quality": "Solide, aber begrenzt: mehrere einschlägige Namensquellen, jedoch überwiegend lexikalisch statt breit gesellschaftlich.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Lori",
+  "normalized_name": "lori",
+  "overall_resonance": "Überwiegend neutral bis leicht positiv. Lori wird in den Quellen vor allem sachlich als Vorname mit klarer Herkunfts- und Bedeutungszuordnung beschrieben; eine starke öffentliche Wertung ist nicht erkennbar.",
+  "practical_notes": [
+    "Für die öffentliche Wahrnehmung wirkt Lori eher unkompliziert und neutral als auffällig.",
+    "Die Schreibweise ist kurz und gut merkbar, kann aber je nach Kontext als weiblich, männlich oder unisex gelesen werden.",
+    "Als internationale Kurzform kann der Name modern und zugänglich erscheinen."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt überwiegend aus Namensdatenbanken und nicht aus breiter öffentlicher Debatte.",
+    "Einzelne Kommentare auf einer Quelle können geschmacksgeprägt sein und sollten nicht verallgemeinert werden.",
+    "Keine Hinweise auf eine starke soziale Stigmatisierung in den vorliegenden Quellen."
+  ],
+  "short_summary": "Lori wird in den vorliegenden Quellen vor allem neutral und informativ beschrieben, mit leicht positiver, moderner Wirkung und klaren Bezügen zu Herkunft und Bedeutung.",
+  "source_count": 3,
+  "sources": [
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Lori � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/L/Lo/Lori/"
+    },
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Lori � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/L/Lo/Lori/"
+    },
+    {
+      "confidence": 0.91,
+      "is_name_discussion": true,
+      "sentiment": "gemischt",
+      "source_type": "web",
+      "title": "&#9655; Vorname Lori: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Lori.html"
+    }
+  ],
+  "style_effect": [
+    "kurz und prägnant",
+    "modern wirkend",
+    "informativ-lexikalisch",
+    "leicht international/englisch anschlussfähig",
+    "als Kurz- oder Koseform wahrgenommen"
+  ],
+  "usable_evidence_count": 3,
+  "visibility": "Eher mittel: Der Name taucht in Namenslexika und Datenbankeinträgen auf, die öffentliche Alltagsdiskussion ist in der Evidenz nur begrenzt sichtbar."
+}

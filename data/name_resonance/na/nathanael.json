@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "hebräischer Ursprung",
+    "Bedeutung im Sinn von Gottesgeschenk/Gottesgabe",
+    "biblischer Bezug",
+    "Namenstag",
+    "selten bis moderat gebräuchlich in Deutschland",
+    "mögliche Kurzformen wie Nate, Nathan oder Nael"
+  ],
+  "confidence": 0.78,
+  "display_text": "Nathanael wirkt in den vorliegenden Quellen klassisch, biblisch und freundlich positiv besetzt. Der Name gilt in Deutschland eher als selten bis mäßig verbreitet und wird vor allem über seine hebräische Bedeutung und den religiösen Bezug wahrgenommen. Die Evidenz stammt überwiegend aus Namenslexika, daher ist die Einschätzung vorsichtig zu lesen.",
+  "evidence_quality": "mittel bis schwach: zwei überwiegend lexikalische Webquellen, wenig echte öffentliche Debatte, dafür klare Namensbeschreibung.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Nathanael",
+  "normalized_name": "nathanael",
+  "overall_resonance": "Eher positiv bis neutral-wohlwollend. In den vorliegenden Namenslexika wird Nathanael vor allem als klassischer, biblisch geprägter Vorname mit freundlicher Bedeutung wahrgenommen; die öffentliche Resonanz wirkt dabei eher beschreibend als kontrovers.",
+  "practical_notes": [
+    "Für Suchende wirkt der Name meist vertraut, aber nicht alltäglich.",
+    "Die Schreib- und Koseformen können je nach Umfeld unterschiedlich verwendet werden.",
+    "Die Datenlage erlaubt eher eine namenkundliche als eine echte Meinungsanalyse."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist begrenzt und stammt überwiegend aus Namenslexika, nicht aus breiter öffentlicher Diskussion.",
+    "Positive Tendenzen beruhen teilweise auf beschreibenden Quellen und einzelnen Kommentaren, daher nur vorsichtig interpretieren.",
+    "Keine belastbaren Hinweise auf soziale Stigmatisierung in den vorliegenden Quellen."
+  ],
+  "short_summary": "Nathanael wird in den Quellen überwiegend positiv und klassisch wahrgenommen: biblisch, bedeutungsvoll und eher selten in Deutschland. Die Evidenz ist jedoch vor allem lexikalisch und damit nur begrenzt repräsentativ.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Nathanael � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/N/Na/Nathanael/"
+    },
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "positive",
+      "source_type": "web",
+      "title": "&#9655; Vorname Nathanael: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Nathanael.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "biblisch",
+    "namenskundlich",
+    "eher elegant",
+    "zurückhaltend selten",
+    "traditionsnah"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Im deutschsprachigen Raum eher bekannt, aber nicht sehr häufig. Die Wahrnehmung erscheint dadurch eher ruhig und unaufgeregt als auffällig."
+}

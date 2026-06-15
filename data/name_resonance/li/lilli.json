@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "Lilie",
+    "Kurzform von Elisabeth",
+    "Koseform von Lilia/Liliane",
+    "weiblicher Vorname",
+    "Namenstag am 19. November",
+    "in Deutschland bekannt und beliebt"
+  ],
+  "confidence": 0.93,
+  "display_text": "Lilli wirkt in der öffentlichen Namenswahrnehmung überwiegend positiv: freundlich, weich und lieblich. Der Name wird meist mit Lilie, Kurzformen wie Elisabeth sowie einer vertrauten, kindlich-kurzen Klangwirkung verbunden. Hinweise auf negative oder stigmatisierende Deutungen finden sich in der vorliegenden Evidenz nicht.",
+  "evidence_quality": "gut bis sehr gut; direkte Namensevidenz, aber überwiegend lexikalisch-informativ statt breit gesellschaftlich repräsentativ",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Lilli",
+  "normalized_name": "lilli",
+  "overall_resonance": "überwiegend positiv und freundlich",
+  "practical_notes": [
+    "Für Suchende wirkt der Name meist vertraut, weich und unkompliziert.",
+    "Die öffentliche Wahrnehmung scheint vor allem über Bedeutung, Herkunft und den lieblichen Klang geprägt zu sein.",
+    "Als Kurz- und Koseform kann Lilli je nach Kontext sowohl verspielt als auch klassisch wirken."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt vor allem aus Namenslexika und ähnlichen Informationsseiten; das zeigt eher die Namensdeutung als eine breite öffentliche Debatte.",
+    "Es gibt keine klaren Hinweise auf negative oder stigmatisierende öffentliche Zuschreibungen zum Namen.",
+    "Beliebtheitsangaben sind kontextabhängig und sollten nicht als exakte Gesamtwahrheit verstanden werden."
+  ],
+  "short_summary": "Lilli wird im deutschsprachigen Raum überwiegend positiv wahrgenommen: als freundlicher, weicher und vertrauter Mädchenname mit Bezügen zu Lilie, Elisabeth und anderen Kurzformen.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "Vorname Lilli � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/L/Li/Lilli/"
+    },
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Lilli: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Lilli.html"
+    }
+  ],
+  "style_effect": [
+    "lieblich",
+    "weich",
+    "kosehaft",
+    "klassisch-kurz",
+    "kindlich vertraut",
+    "zeitlos-populär"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "hoch im deutschsprachigen Namenskontext"
+}

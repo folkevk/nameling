@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "schwedischer Ursprung",
+    "altnordische bzw. skandinavische Namenswirkung",
+    "mögliche Deutung als „kleine Schwedin“ oder Bezug zu Schweden",
+    "Bezug zu Svealand/Schweden in der Namensherkunft",
+    "patriotische Namensbildung im historischen Kontext",
+    "Namenstag wird genannt"
+  ],
+  "confidence": 0.84,
+  "display_text": "Svea wirkt in Deutschland überwiegend sachlich bis leicht positiv: nordisch, kurz, klar und freundlich. Die öffentliche Evidenz stammt vor allem aus Namensportalen; sie beschreibt Herkunft, mögliche Bedeutungen und Namenstag, aber keine größere Debatte.",
+  "evidence_quality": "mittel bis gut: zwei klar namenkundliche Webquellen, aber keine breite öffentliche Debatte und teils unsichere Bedeutungsableitungen.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Svea",
+  "normalized_name": "svea",
+  "overall_resonance": "In Deutschland wird „Svea“ überwiegend sachlich bis leicht positiv wahrgenommen. Der Name wirkt für viele als klar nordisch und modern, mit einer eher freundlichen, unaufgeregten Ausstrahlung. Öffentliche Quellen beschreiben ihn vor allem namenkundlich, nicht kontrovers.",
+  "practical_notes": [
+    "Für Namenssuchmaschinen eignet sich „Svea“ als kurzer, gut merkbarer Name mit nordischem Klang.",
+    "Die Wahrnehmung ist eher positiv-neutral als emotional aufgeladen.",
+    "Wer eine klar regionale oder kulturelle Anmutung sucht, findet hier einen gut passenden skandinavischen Bezug."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Quellen sind vor allem Namensseiten und damit nur begrenzt belastbar für eine öffentliche Gesamtstimmung.",
+    "Einige Bedeutungsangaben sind uneinheitlich oder nur vorsichtig gesichert.",
+    "Es gibt keine starke öffentliche Kontroverse; die Einordnung bleibt daher eher deskriptiv als meinungsstark."
+  ],
+  "short_summary": "„Svea“ wird in Deutschland meist als nordisch, modern und eher positiv-neutral wahrgenommen; die Quellen sind überwiegend namenkundlich und nicht kontrovers.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.89,
+      "is_name_discussion": true,
+      "sentiment": "überwiegend neutral bis leicht positiv",
+      "source_type": "web",
+      "title": "Vorname Svea � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/S/Sv/Svea/"
+    },
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Svea: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Svea.html"
+    }
+  ],
+  "style_effect": [
+    "nordisch-skandinavisch",
+    "klar und kurz",
+    "modern, aber nicht modisch-aufdringlich",
+    "eher freundlich und leicht",
+    "namenskundlich aufgeladen"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Mittlere Sichtbarkeit: Der Name ist in Namensportalen präsent und wird dort als bekannt bzw. in Deutschland beliebt beschrieben, aber es gibt keine breite öffentliche Debatte oder starke Medienresonanz."
+}

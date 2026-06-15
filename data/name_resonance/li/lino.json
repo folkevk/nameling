@@ -1,0 +1,59 @@
+{
+  "associations": [
+    "italienische/spanische/portugiesische Form bzw. Kurzform von Linus",
+    "altgriechische Herkunft",
+    "Bedeutungsfelder wie „der Klagende“, „der Trauernde“ oder je nach Quelle auch andere Deutungen",
+    "teils als modern und beliebt in Deutschland beschrieben",
+    "Namenstag wird auf manchen Seiten genannt"
+  ],
+  "confidence": 0.79,
+  "display_text": "Lino wirkt in den vorliegenden Quellen modern, freundlich und eher positiv besetzt. Die Einschätzung basiert jedoch fast nur auf Namenslexika und ist deshalb nur begrenzt repräsentativ für die breite öffentliche Resonanz.",
+  "evidence_quality": "mittel bis schwach: überwiegend redaktionelle Namenslexika, kaum unabhängige öffentliche Resonanzdaten",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Lino",
+  "normalized_name": "lino",
+  "overall_resonance": "In der vorliegenden Evidenz wirkt Lino in Deutschland überwiegend modern, freundlich und eher positiv wahrgenommen. Die öffentliche Rezeption erscheint vor allem von Namenslexika und Bedeutungsseiten geprägt; eine breite, unabhängige Diskussionslage ist nur schwach belegt.",
+  "practical_notes": [
+    "Für Suchende dürfte Lino als kurzer, zeitgemäßer Vorname gut anschlussfähig wirken.",
+    "Die Schreibweise ist einfach, die Aussprache im Deutschen meist intuitiv.",
+    "Die Wahrnehmung scheint eher über Stil und Klang als über starke kulturelle Stereotype zu laufen."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenzlage ist schwach für eine echte öffentliche Meinungsbildung, da vor allem Namenslexika vorliegen.",
+    "Bedeutungsangaben variieren je nach Quelle; das sollte nicht als eindeutige, gesicherte Einordnung gelesen werden.",
+    "Keine Hinweise auf eine soziale Stigmatisierung des Namens in den Daten."
+  ],
+  "short_summary": "Lino wird in Deutschland eher modern und positiv wahrgenommen, jedoch basiert diese Einschätzung fast nur auf Namenslexikon-Seiten. Die Evidenz ist daher vorsichtig zu lesen.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.91,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Lino � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/L/Li/Lino/"
+    },
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Lino: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Lino.html"
+    }
+  ],
+  "style_effect": [
+    "kurz und modern",
+    "international wirkend",
+    "weich und zugänglich",
+    "sachlich-positiv konnotiert",
+    "selten als traditionell oder altmodisch beschrieben"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Eher mittel bis gut sichtbar, aber die verfügbare Evidenz stammt fast ausschließlich aus redaktionellen Namensportalen. Damit ist die öffentliche Resonanz nur eingeschränkt belastbar."
+}

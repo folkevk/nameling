@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "niederländische Form von Martin",
+    "Bedeutung: dem Mars geweiht / der Krieger",
+    "selten in Deutschland",
+    "verbreiteter in den Niederlanden",
+    "Namenstag vorhanden",
+    "klingt markant und klar"
+  ],
+  "confidence": 0.78,
+  "display_text": "Maarten wirkt in Deutschland eher selten, aber solide und leicht positiv besetzt. Die öffentliche Resonanz ist vor allem sachlich-namenskundlich: niederländische Form von Martin, klassischer Hintergrund, markanter Klang. Eine breite gesellschaftliche Bewertung ist aus der vorliegenden Evidenz nicht sicher ableitbar.",
+  "evidence_quality": "begrenzt, aber direkt namensbezogen; vor allem lexikalische Quellen, wenig echte öffentliche Breitenresonanz",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Maarten",
+  "normalized_name": "maarten",
+  "overall_resonance": "Eher neutral bis leicht positiv, vor allem sachlich-namenskundlich geprägt. Öffentliche Wahrnehmung wirkt vor allem über Herkunft, Bedeutung und Klang beschrieben, nicht über starke soziale Trends.",
+  "practical_notes": [
+    "Für Suchende wirkt der Name verständlich, traditionell und international anschlussfähig.",
+    "Die Schreibweise kann in Deutschland als ungewöhnlicher wahrgenommen werden.",
+    "Die Aussprache sollte je nach Umfeld ggf. kurz erklärt werden."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz zur öffentlichen Resonanz ist schwach und basiert im Wesentlichen auf Namenslexika mit wenigen Kommentaren.",
+    "Beliebtheits- und Häufigkeitsangaben können je nach Quelle und Zeitraum schwanken.",
+    "Aus den Quellen lässt sich keine breite gesellschaftliche Bewertung ableiten."
+  ],
+  "short_summary": "Maarten wird öffentlich eher sachlich und leicht positiv wahrgenommen: ein seltener, niederländisch geprägter Vorname mit klassischer Bedeutung und klarem Klang.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Maarten � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/M/Ma/Maarten/"
+    },
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "mixed",
+      "source_type": "web",
+      "title": "&#9655; Vorname Maarten: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Maarten.html"
+    }
+  ],
+  "style_effect": [
+    "klingt nordisch/niederländisch",
+    "wirkt klassisch und traditionsnah",
+    "eher eigenständig als modisch",
+    "formal bis freundlich",
+    "namenskundlich interessant"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland eher selten und dadurch auffälliger als sehr geläufige Namen; die Evidenz deutet auf eine begrenzte, aber klare Bekanntheit in Namenslexika hin."
+}

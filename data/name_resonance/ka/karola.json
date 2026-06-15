@@ -1,0 +1,62 @@
+{
+  "associations": [
+    "deutsche Form bzw. Schreibweise zu Carola",
+    "weiblicher Vorname",
+    "Ableitung von Karl/Carl",
+    "althochdeutsche Herkunft",
+    "Bedeutung: die Freie / die freie Frau",
+    "Namenstag",
+    "selten in Deutschland"
+  ],
+  "confidence": 0.89,
+  "display_text": "Karola wird öffentlich vor allem als klassischer, seltener und sachlich beschriebener Vorname wahrgenommen. Die Quellen betonen Herkunft, Bedeutung und Varianten; eine auffällige soziale Stigmatisierung oder breite Kontroverse ist nicht erkennbar.",
+  "evidence_quality": "mittel bis gut: zwei klare, namenskundliche Webquellen mit hoher inhaltlicher Übereinstimmung, aber geringe Breite und kaum echte öffentliche Diskussion.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Karola",
+  "normalized_name": "karola",
+  "overall_resonance": "Karola wirkt im öffentlichen Namensbild überwiegend sachlich-traditionell und eher zurückhaltend als modisch. Die vorhandenen Quellen beschreiben den Namen vor allem namenskundlich; eine starke emotionale oder kontroverse öffentliche Debatte ist nicht erkennbar.",
+  "practical_notes": [
+    "Für Suchmaschinen eignet sich eine kurze Einordnung als klassischer, seltener und traditionsnaher Vorname.",
+    "Die Wahrnehmung dürfte eher neutral bis freundlich-sachlich ausfallen.",
+    "Wenn eine modern wirkende Namenswahl gesucht wird, erscheint Karola weniger trendig als viele aktuelle Namen."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt fast ausschließlich aus Namensdatenbanken; sie ist informativ, aber nur begrenzt repräsentativ für breitere öffentliche Wahrnehmung.",
+    "Es gibt kaum diskursive oder emotionale Resonanz; deshalb sollte keine starke gesellschaftliche Bewertung abgeleitet werden.",
+    "Kommentare oder individuelle Personenbezüge wurden nicht als öffentliche Namenswirkung gewertet."
+  ],
+  "short_summary": "Karola ist in Deutschland ein seltener, klassisch-traditioneller Vorname mit neutral-sachlicher Resonanz und klarer namenskundlicher Einordnung.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Karola � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/K/Ka/Karola/"
+    },
+    {
+      "confidence": 0.94,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Karola: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Karola.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "traditionell",
+    "nüchtern",
+    "selten",
+    "namenskundlich",
+    "eher zeitlos als trendig"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland eher selten und dadurch weniger alltagspräsent, aber als etablierter Vorname klar erkennbar. Die öffentliche Sichtbarkeit zeigt sich vor allem in Namenslexika und Datenbanken, nicht in breiter Diskussion."
+}

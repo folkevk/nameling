@@ -1,0 +1,62 @@
+{
+  "associations": [
+    "friesische/niederländische Namensform",
+    "Verbindung zu Georg bzw. Gregor in den Quellen",
+    "altgriechische Wurzeln",
+    "Bedeutungsdeutungen wie Bauer/Landarbeiter bzw. wachsam",
+    "selten, aber in Deutschland vorhanden",
+    "männlicher Vorname",
+    "Namenstag 23. April"
+  ],
+  "confidence": 0.77,
+  "display_text": "Jorik wirkt in Deutschland eher selten, kurz und markant. Die vorliegenden Quellen beschreiben den Namen überwiegend neutral bis leicht positiv, vor allem als friesisch/niederländisch wirkende, eigenständige Namensform. Eine breite öffentliche Debatte ist nicht erkennbar.",
+  "evidence_quality": "Begrenzt bis mittel: zwei überwiegend lexikalische Webquellen mit ähnlicher Richtung, aber ohne breite öffentliche Diskussionslage.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Jorik",
+  "normalized_name": "jorik",
+  "overall_resonance": "Eher positiv bis neutral, mit leicht markanter, selten wirkender Namenswirkung. In den vorliegenden Quellen wird Jorik vor allem sachlich-namenskundlich beschrieben; eine breite öffentliche Debatte ist nicht erkennbar.",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt Jorik klar, knapp und unverwechselbar.",
+    "Die Seltenheit kann als Vorteil für Wiedererkennbarkeit empfunden werden.",
+    "Die öffentliche Resonanz ist eher quellengebunden als meinungsstark; daher nur vorsichtig als 'leicht positiv' beschreibbar.",
+    "Kürzere Rufnamen und Spitznamen werden vereinzelt erwähnt, was den Namen alltagstauglicher erscheinen lässt."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt überwiegend aus Namenslexika und redaktionellen Einordnungen, nicht aus einer breiten öffentlichen Diskussion.",
+    "Die Deutungen zur Herkunft und Bedeutung variieren zwischen den Quellen; sie sollten vorsichtig gelesen werden.",
+    "Aus den vorhandenen Quellen lässt sich keine belastbare gesellschaftliche Wertung des Namens ableiten."
+  ],
+  "short_summary": "Jorik wird in den Quellen als seltener, kurzer und eher positiv bzw. neutral wahrgenommener Jungenname beschrieben. Die öffentliche Resonanz wirkt vor allem sachlich und namenskundlich, nicht kontrovers.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Jorik � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/J/Jo/Jorik/"
+    },
+    {
+      "confidence": 0.9,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Jorik: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Jorik.html"
+    }
+  ],
+  "style_effect": [
+    "kurz und prägnant",
+    "nordisch bzw. friesisch/niederländisch wirkend",
+    "modern, aber nicht modisch überladen",
+    "eher eigenständig als alltäglich",
+    "etwas international anschlussfähig"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Eher geringe bis mittlere Sichtbarkeit in Deutschland; der Name gilt als eher selten und dadurch auffällig, aber nicht stark verbreitet."
+}

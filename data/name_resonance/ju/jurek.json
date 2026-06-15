@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "polnische Koseform von Jerzy",
+    "Variante/Bezug zu Georg",
+    "Bedeutung im Umfeld von 'Bauer' / 'Landarbeiter'",
+    "männlicher Vorname",
+    "Namenstag am 23. April",
+    "Aussprache kann vereinzelt unsicher sein"
+  ],
+  "confidence": 0.84,
+  "display_text": "Jurek ist in Deutschland eher selten und wird überwiegend neutral bis positiv-nüchtern wahrgenommen. Der Name wirkt kurz, markant und leicht osteuropäisch geprägt; die öffentliche Evidenz ist dabei nur begrenzt, weil vor allem Namenslexika vorliegen.",
+  "evidence_quality": "mittel: zwei einschlägige Namenslexika mit weitgehend übereinstimmenden Angaben, aber insgesamt begrenzte Quellenbasis",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Jurek",
+  "normalized_name": "jurek",
+  "overall_resonance": "Jurek wirkt in der öffentlichen Namenswahrnehmung eher sachlich, klar und leicht osteuropäisch geprägt. In den vorliegenden Quellen wird der Name überwiegend neutral bis positiv-nüchtern beschrieben, ohne starke emotionale Aufladung.",
+  "practical_notes": [
+    "Für eine Namenssuche eignet sich Jurek besonders, wenn ein kurzer, eigenständiger und eher seltener Name gesucht wird.",
+    "Die Schreibweise ist einfach, die Herkunft wirkt kulturell markant.",
+    "Wer auf maximale Bekanntheit in Deutschland setzt, sollte beachten, dass der Name eher selten ist."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt im Wesentlichen aus wenigen Namenslexika; die öffentliche Resonanz ist daher nur eingeschränkt belastbar.",
+    "Einzelne Wahrnehmungen in Kommentaren können nicht als allgemeine Meinung gelten.",
+    "Keine Hinweise auf eine breite soziale Stigmatisierung; falls vereinzelt ungewohnt wahrgenommen, liegt das eher an der Seltenheit als an negativen Konnotationen."
+  ],
+  "short_summary": "Jurek wird in Deutschland eher selten wahrgenommen und meist neutral bis positiv-nüchtern eingeordnet. Der Name wirkt kurz, markant und leicht osteuropäisch geprägt.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Jurek � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/J/Ju/Jurek/"
+    },
+    {
+      "confidence": 0.95,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Jurek: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Jurek.html"
+    }
+  ],
+  "style_effect": [
+    "kurz und markant",
+    "international/osteuropäisch anmutend",
+    "traditionell durch die Georg-Jerzy-Herkunft",
+    "eher nüchtern als verspielt",
+    "selten, dadurch individuell wirkend"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland eher selten bis mäßig bekannt; dadurch auffälliger als sehr häufige Namen, aber nicht massenhaft verbreitet."
+}

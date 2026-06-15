@@ -1,0 +1,63 @@
+{
+  "associations": [
+    "englisch-schottische Schreibform",
+    "keltisch/altirische Herkunft",
+    "Bedeutung: der Rothaarige / der Rote",
+    "mögliche französische Deutung: der König / der Königliche",
+    "mögliche hebräische Deutung: der Hirte",
+    "Namenstag in einigen Quellen",
+    "in Deutschland eher selten"
+  ],
+  "confidence": 0.84,
+  "display_text": "Roy wirkt im deutschen Raum kurz, international und eher selten. Die öffentliche Rezeption ist überwiegend sachlich-neutral; Namensquellen verbinden ihn vor allem mit Bedeutungen wie „der Rothaarige“ oder teils „der König“. Die Herkunft bleibt dabei mehrdeutig, und die Evidenz stammt fast ausschließlich aus Namenslexika.",
+  "evidence_quality": "Mittel: zwei passende Namenslexikon-Quellen, aber wenig unabhängige oder breit öffentliche Resonanzdaten.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Roy",
+  "normalized_name": "roy",
+  "overall_resonance": "Roy wird im deutschsprachigen Raum überwiegend sachlich und positiv-neutral wahrgenommen. Der Name wirkt kurz, international und eher selten; öffentliche Quellen beschreiben ihn vor allem als traditions- bzw. bedeutungsbezogen, nicht als klar modern oder trendig.",
+  "practical_notes": [
+    "Für eine Namenssuche ist Roy leicht einprägsam und international verständlich.",
+    "Die Kürze des Namens sorgt für klare Wiedererkennbarkeit.",
+    "Wer eine eindeutige Herkunftsdeutung sucht, sollte die Mehrdeutigkeit mitdenken.",
+    "Im deutschen Kontext wirkt der Name eher individuell als massenhaft vergeben."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Herkunftsangaben sind mehrdeutig und teils widersprüchlich; es gibt mehrere Deutungsrichtungen.",
+    "Die Evidenz stammt fast ausschließlich aus Namenslexika, also aus beschreibenden Quellen statt aus breiter öffentlicher Alltagsresonanz.",
+    "Eine belastbare Aussage zu gesellschaftlichen Vorurteilen oder aktueller Popularität ist auf dieser Basis nur eingeschränkt möglich."
+  ],
+  "short_summary": "Roy wird in den vorliegenden deutschen Namensquellen sachlich, eher positiv-neutral und als seltener, international klingender Jungenname beschrieben. Die Herkunft ist jedoch nicht eindeutig.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Roy � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/R/Ro/Roy/"
+    },
+    {
+      "confidence": 0.92,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Roy: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Roy.html"
+    }
+  ],
+  "style_effect": [
+    "kurz und prägnant",
+    "international klingend",
+    "eher selten",
+    "männlich und klar lesbar",
+    "sachlich bis leicht markant",
+    "traditionell mit moderner Kante"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Mittlere Sichtbarkeit: Der Name ist bekannt, aber nicht stark verbreitet. In den vorliegenden Quellen dominiert eine lexikalische, namenskundliche Darstellung statt breiter öffentlicher Debatte."
+}

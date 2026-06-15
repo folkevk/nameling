@@ -1,0 +1,62 @@
+{
+  "associations": [
+    "Bedeutung im Umfeld von „Herrscherin der Heimat“ / „die Hausherrin“",
+    "althochdeutsche bzw. latinisierte Herkunft",
+    "weibliche Form zu Heinrich/Henriette",
+    "Kurzformen wie Henni, Henny, Jetta, Jette",
+    "Namensvariante auch im englischen Sprachraum",
+    "Namenstag und lexikalische Namensbeschreibung"
+  ],
+  "confidence": 0.81,
+  "display_text": "Henrietta wirkt in Deutschland überwiegend klassisch, selten und leicht altmodisch. Die vorhandenen Quellen sind vor allem Namenslexika und daher eher beschreibend als breit community-basiert. Insgesamt entsteht ein freundlicher, traditionsreicher Eindruck ohne klare negative öffentliche Resonanz.",
+  "evidence_quality": "mittel: zwei überwiegend lexikalische Quellen, wenig echte Community-Breite, teils kommentarbasiert",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Henrietta",
+  "normalized_name": "henrietta",
+  "overall_resonance": "Überwiegend sachlich-klassisch mit leicht altmodischem, seltenem Eindruck. In den vorliegenden Quellen wird Henrietta meist als traditionelle, etwas ungewöhnliche Namensform wahrgenommen, ohne starke negative oder stark polarisierende Töne.",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt Henrietta traditionsbewusst und charakterstark.",
+    "Die Länge und Seltenheit machen den Namen auffälliger als gängige Klassiker.",
+    "Kurzformen könnten im Alltag als weicher oder moderner wahrgenommen werden.",
+    "Die Datenlage ist begrenzt, daher sollte die Resonanz als vorsichtige Tendenz gelesen werden."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz basiert fast ausschließlich auf Namenslexika; es gibt wenig breit angelegte öffentliche Diskussion.",
+    "Einzelne persönliche Kommentare wirken gemischt, liefern aber keinen klaren Trend.",
+    "Keine Hinweise auf gesellschaftliche Stigmatisierung im Material; ein möglicher Eindruck von „altmodisch“ ist eher stilistisch als abwertend."
+  ],
+  "short_summary": "Henrietta wird in den vorliegenden Quellen meist als klassischer, seltener und leicht altmodischer Vorname mit traditioneller Ausstrahlung beschrieben.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Henrietta � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/H/He/Henrietta/"
+    },
+    {
+      "confidence": 0.95,
+      "is_name_discussion": true,
+      "sentiment": "mixed",
+      "source_type": "web",
+      "title": "&#9655; Vorname Henrietta: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Henrietta.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "traditionell",
+    "historisch angehaucht",
+    "selten",
+    "eher elegant",
+    "leicht altmodisch"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland eher selten bis moderat sichtbar; der Name ist bekannt, aber nicht sehr häufig im öffentlichen Namensgebrauch."
+}

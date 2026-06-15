@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "Kurzform von Eduard/Edward",
+    "altenglische bzw. angelsächsische Herkunft",
+    "Bedeutung oft als \"Hüter des Besitzes\" angegeben",
+    "Schreibvarianten wie Eddi, Eddy oder Edy",
+    "eher Spitznamen-Charakter",
+    "Namenstag in einzelnen Quellen am 13. Oktober"
+  ],
+  "confidence": 0.78,
+  "display_text": "Eddie wirkt in Deutschland eher freundlich, locker und international. Der Name wird meist als Kurz- oder Koseform von Eduard/Edward verstanden und hat in den Quellen eine eher positive, unaufgeregte Resonanz. Gleichzeitig ist die Evidenz begrenzt, da sie vor allem aus Namenslexika stammt.",
+  "evidence_quality": "mittel bis schwach; überwiegend lexikonartige Einträge mit wenigen, subjektiven Rückmeldungen",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Eddie",
+  "normalized_name": "eddie",
+  "overall_resonance": "Überwiegend freundlich und vertraut, mit eher informellem, kürzeren Klangbild. Die öffentliche Wahrnehmung wirkt vor allem lexikalisch geprägt: Eddie wird meist als Kose- oder Kurzform von Eduard/Edward verstanden.",
+  "practical_notes": [
+    "Für eine Namenssuche eignet sich Eddie besonders, wenn ein kurzer, international verständlicher Name gewünscht ist.",
+    "Der Name kann als freundlich und unkompliziert wirken, aber auch eher als Spitzname denn als formeller Langname gelesen werden.",
+    "Die öffentliche Resonanz erscheint insgesamt eher positiv-neutral als polarisierend."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenzlage ist schwach und stammt fast nur aus Namenslexika, nicht aus einer breiten öffentlichen Meinungsbasis.",
+    "Beliebtheits- und Seltenheitsangaben sind quellengebunden und nur vorsichtig zu interpretieren.",
+    "Es gibt keine belastbaren Hinweise auf eine starke soziale Stigmatisierung; falls einzelne Vorurteile auftreten, sind sie nicht als allgemeine Wahrheit zu verstehen."
+  ],
+  "short_summary": "Eddie wird in den vorliegenden Quellen vor allem als freundliche, internationale Kurzform mit Koseform-Charakter beschrieben. Die öffentliche Resonanz wirkt eher positiv-neutral, ist aber nur begrenzt belegt.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.95,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Eddie � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/E/Ed/Eddie/"
+    },
+    {
+      "confidence": 0.79,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Eddie: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Eddie.html"
+    }
+  ],
+  "style_effect": [
+    "locker",
+    "jugendlich",
+    "international",
+    "umgangssprachlich-kurz",
+    "koseformhaft"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland eher bekannt als seltener Vorname bzw. als international wirkende Kurzform; die Sichtbarkeit in den verfügbaren Quellen ist vorhanden, aber begrenzt."
+}

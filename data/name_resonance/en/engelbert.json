@@ -1,0 +1,73 @@
+{
+  "associations": [
+    "altdeutsche/germanische Herkunft",
+    "Bedeutung in Richtung 'strahlend' bzw. 'glänzend'",
+    "männlicher Vorname",
+    "Namenstag",
+    "historische Namensform",
+    "im deutschsprachigen Raum selten",
+    "Spitznamen wie Bert oder Bertl"
+  ],
+  "confidence": 0.89,
+  "display_text": "Engelbert wirkt in Deutschland eher selten und historisch-traditionell. Die vorliegenden Quellen beschreiben den Namen überwiegend sachlich, mit altdeutscher Herkunft, Bedeutungsbezug zu 'strahlend/glänzend' und einer leicht traditionellen, eher altmodischen Anmutung. Eine starke öffentliche Debatte ist nicht erkennbar; die Evidenz stammt vor allem aus Namenslexika.",
+  "evidence_quality": "mittel bis gut, aber stark quellenkonzentriert und überwiegend lexikalisch statt diskursorientiert",
+  "generated_at": "2026-06-14T10:47:41Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Engelbert",
+  "normalized_name": "engelbert",
+  "overall_resonance": "Überwiegend sachlich-informativ mit leicht historisch-traditioneller Färbung; insgesamt eher nüchtern als emotional.",
+  "practical_notes": [
+    "Für Suchende wirkt der Name klar traditionell und markant.",
+    "Die Wahrnehmung ist eher kulturell-historisch als modern-trendig.",
+    "Durch die Seltenheit kann der Name auffallen, bleibt aber im Alltag eher ungewohnt.",
+    "Kurzformen und Spitznamen sind in den Quellen vermerkt und können die Wirkung etwas weicher machen."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt fast ausschließlich aus Namenslexika und einer Vornamenseite; echte öffentliche Diskussionsresonanz ist nur schwach belegt.",
+    "Die Einordnung als 'selten' kann als nüchterne Häufigkeitsbeschreibung verstanden werden, nicht als Wertung.",
+    "Keine belastbaren Hinweise auf soziale Stigmatisierung in den Daten."
+  ],
+  "short_summary": "Engelbert wird in den vorliegenden Quellen vor allem sachlich als seltener, altdeutscher und historisch geprägter männlicher Vorname beschrieben. Die Resonanz wirkt eher nüchtern und traditionell als modern oder emotional.",
+  "source_count": 3,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Engelbert � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/E/En/Engelbert/"
+    },
+    {
+      "confidence": 0.95,
+      "is_name_discussion": true,
+      "sentiment": "mixed",
+      "source_type": "web",
+      "title": "Vorname Engelbert � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/E/En/Engelbert/"
+    },
+    {
+      "confidence": 0.9,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Engelbert: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Engelbert.html"
+    }
+  ],
+  "style_effect": [
+    "altdeutsch",
+    "historisch",
+    "etymologisch",
+    "traditionell",
+    "lexikalisch",
+    "selten",
+    "formal",
+    "eher altmodisch"
+  ],
+  "usable_evidence_count": 3,
+  "visibility": "In Deutschland wirkt Engelbert eher selten und heute wenig gebräuchlich, daher ist die öffentliche Sichtbarkeit begrenzt."
+}

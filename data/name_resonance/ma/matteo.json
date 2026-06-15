@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "italienische Form von Matthäus bzw. Matthias",
+    "Bedeutung: Geschenk Gottes / von Gott gegeben",
+    "biblischer Vorname",
+    "Namenstag am 21. September, teils auch weitere Namenstage genannt",
+    "in Deutschland häufig vergeben",
+    "wird in den Quellen als beliebt bzw. teils cool beschrieben"
+  ],
+  "confidence": 0.96,
+  "display_text": "Matteo wird in Deutschland überwiegend positiv und modern wahrgenommen. Der Name gilt als beliebt, international klingend und freundlich, mit biblischem Hintergrund und der Bedeutung „Geschenk Gottes“. Die vorliegende Evidenz ist stark, stammt aber vor allem aus Namenslexika und begleitenden Kommentaren, nicht aus einer repräsentativen Umfrage.",
+  "evidence_quality": "hoch; zwei klar auf den Vornamen bezogene, überwiegend positive Namensquellen mit hoher Übereinstimmung",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Matteo",
+  "normalized_name": "matteo",
+  "overall_resonance": "Überwiegend positiv und modern wahrgenommen; Matteo wirkt in Deutschland derzeit beliebt, vertraut und zugleich international.",
+  "practical_notes": [
+    "Für Suchmaschinen- und Namenskontexte ist Matteo ein gut anschlussfähiger, leicht verständlicher Name.",
+    "Die Wirkung ist eher modern und freundlich als ungewöhnlich oder stark exotisch.",
+    "Die Quellenlage ist solide und klar auf den Namen selbst bezogen."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die positive Bewertung stammt vor allem aus Namenslexika und begleitenden Nutzerkommentaren; das ist keine repräsentative öffentliche Meinungsumfrage.",
+    "Beliebtheit kann regional und zeitlich schwanken.",
+    "Es gibt keine Hinweise auf eine soziale Stigmatisierung in den vorliegenden Quellen."
+  ],
+  "short_summary": "Matteo wird in Deutschland meist positiv, modern und beliebt wahrgenommen – ein international klingender Vorname mit biblischem Hintergrund und klarer Bedeutung.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "Vorname Matteo � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/M/Ma/Matteo/"
+    },
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "positive",
+      "source_type": "web",
+      "title": "&#9655; Vorname Matteo: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Matteo.html"
+    }
+  ],
+  "style_effect": [
+    "modern",
+    "international",
+    "sympathisch",
+    "zeitgemäß",
+    "klassisch-biblisch im Hintergrund",
+    "leicht weich klingend"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Der Name ist in Deutschland gut sichtbar und bekannt, vor allem als moderner Jungenname mit steigender bzw. anhaltend hoher Beliebtheit."
+}

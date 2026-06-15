@@ -1,0 +1,58 @@
+{
+  "associations": [
+    "slawische Form bzw. Variante von Ingvar",
+    "altnordische Herkunft",
+    "Bedeutung in Richtung Krieger/Verteidiger",
+    "etablierter Vorname mit historischer Tiefe",
+    "in Deutschland aktuell eher selten"
+  ],
+  "confidence": 0.82,
+  "display_text": "Igor wirkt in Deutschland überwiegend neutral bis leicht positiv: ein klassischer, eher seltener Vorname mit slawisch/altnordischer Herkunft und markantem, traditionellem Klang. Die Quellen sind vor allem namenskundlich; eine starke öffentliche Alltagsresonanz ist nur begrenzt belegt.",
+  "evidence_quality": "mittel: zwei passende Namensquellen, aber überwiegend redaktionell-informativ statt breite Alltagsresonanz",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Igor",
+  "normalized_name": "igor",
+  "overall_resonance": "Igor wird in Deutschland vor allem sachlich und namenskundlich wahrgenommen: als klassischer, slawisch bzw. altnordisch hergeleiteter Vorname mit klarer Herkunft und eher traditionellem Klang. Die öffentliche Rezeption wirkt überwiegend neutral bis leicht positiv, vor allem durch die Einordnung als etablierter Name mit Geschichte. Die verfügbare Evidenz ist jedoch hauptsächlich lexikalisch-redaktionell und zeigt nur begrenzt echte Alltagsresonanz.",
+  "practical_notes": [
+    "Für Suchende wirkt der Name klar, eigenständig und gut aussprechbar.",
+    "Die Seltenheit in Deutschland kann ihn auffälliger machen, ohne automatisch negativ zu wirken.",
+    "Die Wahrnehmung ist eher informativ-traditionell als trendig."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt überwiegend aus Namensdatenbanken und beschreibt den Namen sachlich; echte öffentliche Meinungsbilder sind nur schwach belegt.",
+    "Keine belastbare Aussage zu gesellschaftlichen Vorurteilen oder Stereotypen aus den vorliegenden Quellen ableitbar."
+  ],
+  "short_summary": "Igor wird in Deutschland meist neutral bis leicht positiv als klassischer, seltenerer Vorname mit slawisch/altnordischer Herkunft wahrgenommen.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Igor � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/I/Ig/Igor/"
+    },
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Igor: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Igor.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "kurz und markant",
+    "international/slawisch wirkend",
+    "traditionell",
+    "namenskundlich klar einordenbar"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "eher gering bis mittel; bekannt, aber aktuell selten"
+}

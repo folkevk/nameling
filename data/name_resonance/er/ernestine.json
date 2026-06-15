@@ -1,0 +1,63 @@
+{
+  "associations": [
+    "weiblicher Vorname",
+    "althochdeutsche bzw. altdeutsche Herkunft",
+    "Bedeutung: die Ernste / die Ernsthafte / die Entschlossene",
+    "historisch bekannt",
+    "heute in Deutschland selten",
+    "Namenstag",
+    "Spitznamen wie Erni, Tine, Stine, Tini"
+  ],
+  "confidence": 0.89,
+  "display_text": "Ernestine gilt in den verfügbaren Quellen als seltener, traditioneller und leicht positiv konnotierter Vorname. Die Bedeutung wird meist mit „die Ernsthafte“ oder „die Entschlossene“ angegeben. Eine breite öffentliche Debatte ist nicht erkennbar; die Evidenz ist begrenzt und vor allem namenkundlich.",
+  "evidence_quality": "mittel bis begrenzt: wenige, aber klare namenkundliche Quellen; keine breite öffentliche Resonanz sichtbar",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Ernestine",
+  "normalized_name": "ernestine",
+  "overall_resonance": "Der Vorname Ernestine wird in den vorliegenden Quellen überwiegend sachlich, leicht positiv und traditionsbetont beschrieben. Er wirkt historisch und sprachlich klar einordenbar, wird in Deutschland aber als selten wahrgenommen.",
+  "practical_notes": [
+    "Für Suchmaschinen wirkt der Name klassisch, distinguiert und eher außergewöhnlich.",
+    "Die Wahrnehmung ist vermutlich stärker von Bedeutung und Tradition geprägt als von aktueller Popularität.",
+    "Kurzformen und Kosenamen können den eher formellen Eindruck deutlich lockern."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist begrenzt und stützt sich nur auf wenige Namenslexikon-Seiten.",
+    "Es gibt keine breite öffentliche Diskussion, daher ist die Einordnung nur vorsichtig möglich.",
+    "Die Seltenheit beschreibt die Namensverwendung, nicht eine Wertung des Namens."
+  ],
+  "short_summary": "Ernestine wird als seltener, historisch geprägter und sachlich positiv konnotierter Vorname wahrgenommen.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Ernestine � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/E/Er/Ernestine/"
+    },
+    {
+      "confidence": 0.88,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Ernestine: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Ernestine.html"
+    }
+  ],
+  "style_effect": [
+    "traditionell",
+    "altsprachlich",
+    "sachlich",
+    "historisch",
+    "leicht feierlich",
+    "selten",
+    "namenkundlich-informativ"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Die öffentliche Sichtbarkeit ist eher gering: Es finden sich vor allem namenkundliche Lexikon- und Infoseiten, jedoch keine breite aktuelle Debatte oder starke Alltagspräsenz in Deutschland."
+}

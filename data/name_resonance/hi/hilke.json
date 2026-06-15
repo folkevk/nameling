@@ -1,0 +1,62 @@
+{
+  "associations": [
+    "Kurzform von Hild- bzw. althochdeutschen Namen",
+    "niederdeutsch",
+    "friesisch",
+    "Bedeutung in Richtung „die Kämpferin“",
+    "selten in Deutschland",
+    "weiblicher Vorname",
+    "Namenstag wird teils genannt",
+    "kann mit ähnlichen Namen verwechselt werden"
+  ],
+  "confidence": 0.9,
+  "display_text": "Hilke wird überwiegend sachlich-neutral und leicht positiv wahrgenommen: selten, kurz, traditionsnah und mit norddeutsch/friesischer Prägung. Die Evidenz ist jedoch begrenzt und stammt vor allem aus Namenslexika.",
+  "evidence_quality": "mittel bis schwach: zwei vorwiegend lexikalische Quellen, wenig unabhängige Publikumsresonanz, daher nur vorsichtige Einordnung möglich.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Hilke",
+  "normalized_name": "hilke",
+  "overall_resonance": "Überwiegend sachlich-neutral mit leicht positivem Klang. Hilke wird in den Quellen als seltener, traditionell wirkender Vorname mit norddeutscher bzw. friesischer Prägung beschrieben. Die öffentliche Wahrnehmung scheint eher nüchtern-namenskundlich als stark emotional zu sein.",
+  "practical_notes": [
+    "Für Suchende, die einen kurzen und eigenständigen Namen möchten, kann Hilke attraktiv wirken.",
+    "Die Seltenheit kann als Vorteil empfunden werden, führt aber auch zu gelegentlichen Erklärungs- oder Verwechslungsfragen.",
+    "Insgesamt kein stark polarisierender Name, eher ruhig und traditionsnah wahrgenommen."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt fast ausschließlich aus Namenslexika und nicht aus breiter öffentlicher Resonanz.",
+    "Beliebtheits- und Seltenheitsangaben können durch die jeweilige Datenquelle verzerrt sein.",
+    "Vereinzelte Kommentare in den Quellen sind nicht belastbar genug, um eine allgemeine gesellschaftliche Bewertung abzuleiten."
+  ],
+  "short_summary": "Hilke wirkt in der öffentlichen Wahrnehmung eher selten, traditionell und sachlich, mit leicht positivem Klang durch die markante, norddeutsche Anmutung.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Hilke � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/H/Hi/Hilke/"
+    },
+    {
+      "confidence": 0.88,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Hilke: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Hilke.html"
+    }
+  ],
+  "style_effect": [
+    "kurz und markant",
+    "traditionell-norddeutsch",
+    "selten und daher eigenständig",
+    "sachlich-namenskundlich",
+    "leicht altsprachlich bzw. historisch anmutend"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Eher niedrig bis mittel: Der Name wirkt in Deutschland selten und dadurch auffällig, aber nicht breit populär. Die öffentliche Präsenz entsteht vor allem über Namenslexika und wenige Diskussionen, nicht über viele unabhängige Publikumsstimmen."
+}

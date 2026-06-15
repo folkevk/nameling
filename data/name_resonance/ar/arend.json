@@ -1,0 +1,63 @@
+{
+  "associations": [
+    "niederdeutsche Kurzform von Arnold",
+    "althochdeutsche Herkunft",
+    "Bedeutung in Richtung 'herrschender Adler'",
+    "Adler-Symbolik",
+    "Herrscher-Bezug",
+    "Namenstag",
+    "selten gebrauchter Jungenname",
+    "mittelalterlich klingend"
+  ],
+  "confidence": 0.83,
+  "display_text": "Arend klingt in der vorhandenen Evidenz traditionell, sachlich und eher positiv. Der Name wird vor allem namenskundlich erklärt und gilt als selten bis mäßig verbreitet; eine breite öffentliche Debatte ist kaum erkennbar.",
+  "evidence_quality": "mittel bis schwach: klare namenskundliche Quellen, aber kaum breiter öffentlicher Diskurs oder unabhängige Rezeption belegt.",
+  "generated_at": "2026-06-14T10:47:41Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Arend",
+  "normalized_name": "arend",
+  "overall_resonance": "Arend wirkt in der verfügbaren Evidenz überwiegend sachlich-traditionell und eher positiv konnotiert, mit leichter historischer bzw. namenskundlicher Aura. Die öffentliche Rezeption ist jedoch nur schwach belegt und stützt sich vor allem auf Namenslexika statt auf breiten Diskurs.",
+  "practical_notes": [
+    "Gut geeignet, wenn ein kurzer, klassisch wirkender und historisch gefärbter Name gesucht wird.",
+    "Die Aussprache und Schreibweise wirken im deutschen Kontext unkompliziert.",
+    "Durch die geringe Verbreitung kann der Name auffallen, ohne stark modern oder trendig zu wirken."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist auf wenige Namenslexikon-Seiten beschränkt und damit nicht repräsentativ für eine breite öffentliche Meinung.",
+    "Beliebtheits- und Seltenheitsangaben sind datenbasiert, aber kein Beleg für gesellschaftliche Wertung.",
+    "Es gibt keinen klaren Hinweis auf eine negative Stigmatisierung; falls überhaupt, dann eher auf einen altmodisch-traditionellen Eindruck."
+  ],
+  "short_summary": "Arend wird überwiegend als seltener, traditionell-historischer Jungenname mit positiver bis neutraler Wirkung beschrieben. Die öffentliche Resonanz ist jedoch nur begrenzt belegt.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Arend � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/A/Ar/Arend/"
+    },
+    {
+      "confidence": 0.91,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Arend: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Arend.html"
+    }
+  ],
+  "style_effect": [
+    "traditionell",
+    "historisch",
+    "niederdeutsch/altdeutsch",
+    "sachlich",
+    "selten",
+    "namenskundlich"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Eher selten bis mäßig verbreitet und öffentlich nur begrenzt präsent; die Wahrnehmung ist vor allem durch Namensdatenbanken und etymologische Beschreibungen geprägt."
+}

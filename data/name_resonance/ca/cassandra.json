@@ -1,0 +1,62 @@
+{
+  "associations": [
+    "griechischer Ursprung",
+    "Kassandra aus der Mythologie",
+    "Wahrsagerin/Prophetin",
+    "latinisierte Form",
+    "weiblicher Vorname",
+    "Namenstag",
+    "Spitznamen/Kosenamen",
+    "Beliebtheit in Deutschland"
+  ],
+  "confidence": 0.9,
+  "display_text": "Cassandra wirkt in Deutschland überwiegend sachlich, klassisch und leicht positiv. Der Name wird vor allem mit griechischer Herkunft, der Mythologie um Kassandra sowie mit Beliebtheit und Namensbedeutung verbunden. Die öffentliche Resonanz ist eher informativ als emotional, und die Evidenz stammt hauptsächlich aus Namenslexika.",
+  "evidence_quality": "Gut für Herkunft, Bedeutung und Namenseinordnung; begrenzt für echte öffentliche Meinungsbildung, da die Evidenz vor allem aus Namensportalen besteht.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Cassandra",
+  "normalized_name": "cassandra",
+  "overall_resonance": "Der Vorname Cassandra wirkt in der öffentlichen Namenswahrnehmung überwiegend sachlich, klassisch und leicht positiv aufgeladen. Er wird vor allem über seine griechisch-mythologische Herkunft, die Verbindung zu Kassandra sowie über Beliebtheit und Namensbedeutung eingeordnet.",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt Cassandra eher stilvoll und vertraut als exotisch.",
+    "Der Name ist gut verständlich, international anschlussfähig und hat einen klaren kulturellen Hintergrund.",
+    "Die öffentliche Einordnung ist überwiegend neutral bis leicht positiv, ohne Hinweise auf starke Stigmatisierung."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz basiert fast ausschließlich auf Namenslexika und Informationsseiten; daraus lässt sich öffentliche Resonanz nur indirekt ableiten.",
+    "Die mythologische Assoziation ist präsent, sollte aber nicht als feste Eigenschaft von Namensträgerinnen missverstanden werden."
+  ],
+  "short_summary": "Cassandra wird in Deutschland meist als klassischer, griechisch geprägter Mädchenname mit leicht positiver, gebildet-mythologischer Wirkung wahrgenommen.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Cassandra � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/C/Ca/Cassandra/"
+    },
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Cassandra: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Cassandra.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "gebildet",
+    "mythologisch",
+    "elegant",
+    "international klingend",
+    "sachlich-informativ"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland ist Cassandra als bekannter, aber nicht extrem häufiger Mädchenname sichtbar. Die Wahrnehmung stammt hier vor allem aus Namenslexika und Infoseiten, also eher aus namenskundlicher als aus breit beobachtbarer Alltagsresonanz."
+}

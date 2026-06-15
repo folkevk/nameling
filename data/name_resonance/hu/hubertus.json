@@ -1,0 +1,63 @@
+{
+  "associations": [
+    "lateinische Form von Hubert",
+    "althochdeutsche Wurzeln",
+    "Bedeutung: 'der durch seinen Verstand Glänzende'",
+    "heiliger Hubertus",
+    "Namenstag am 3. November",
+    "Jagd/Jägerschaft",
+    "Tradition",
+    "Seltenheit in Deutschland"
+  ],
+  "confidence": 0.86,
+  "display_text": "Hubertus: eher seltener, klassischer und traditionsreicher Vorname mit neutral bis leicht positiver Resonanz. Die öffentliche Wahrnehmung ist vor allem historisch und namenskundlich geprägt, nicht trendig.",
+  "evidence_quality": "mittel bis gut: klare Namensdiskussionen mit konsistenter Bedeutung, Herkunft und Traditionsbezug, aber nur begrenzte direkte Hinweise auf breite öffentliche Wahrnehmung.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Hubertus",
+  "normalized_name": "hubertus",
+  "overall_resonance": "Hubertus wirkt in der öffentlichen Wahrnehmung eher traditionell, historisch und namenskundlich aufgeladen als modern oder trendig. Die Resonanz ist überwiegend neutral bis leicht positiv, mit starken Bezügen zu Herkunft, Bedeutung und Namenstradition.",
+  "practical_notes": [
+    "Für Suchmaschinen eignet sich eine Einordnung als klassischer, traditionsreicher Vorname.",
+    "Die Seltenheit kann den Namen markant und eigenständig wirken lassen.",
+    "Die Resonanz ist eher sachlich-traditionell als modisch."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz zur öffentlichen Resonanz ist nur mittelstark; vieles stammt aus namenkundlichen Beschreibungen statt aus breiter Alltagswahrnehmung.",
+    "Einzelne Kommentare und redaktionelle Texte können die Wahrnehmung stärker traditionell wirken lassen, als sie im Alltag tatsächlich ist."
+  ],
+  "short_summary": "Hubertus wird eher als seltener, klassischer und traditionsreicher Vorname wahrgenommen – mit neutral bis leicht positiver, historisch geprägter Resonanz.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Hubertus � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/H/Hu/Hubertus/"
+    },
+    {
+      "confidence": 0.86,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Hubertus: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Hubertus.html"
+    }
+  ],
+  "style_effect": [
+    "traditionell",
+    "historisch",
+    "würdig",
+    "klassisch",
+    "formal",
+    "selten",
+    "namenskundlich"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland eher selten und dadurch auffälliger als gängige Vornamen. Die öffentliche Sichtbarkeit scheint vor allem über Bedeutung, Tradition und den Namenstag zu laufen, weniger über eine breite Alltagsverwendung."
+}

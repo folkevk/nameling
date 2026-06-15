@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "lateinisch-römische Herkunft",
+    "weibliche Form zu Cornelius",
+    "Bezug zum Geschlecht der Cornelier",
+    "mögliche Verbindung zu cornu = Horn",
+    "früher beliebter, heute seltener",
+    "Kurzformen wie Nela, Nelly oder Conny"
+  ],
+  "confidence": 0.87,
+  "display_text": "Kornelia wirkt öffentlich überwiegend klassisch, traditionsreich und eher selten vergeben. Die vorliegende Evidenz ist vor allem namenskundlich; eine breite öffentliche Debatte lässt sich daraus nur vorsichtig ableiten.",
+  "evidence_quality": "mittel bis schwach für öffentliche Resonanz, gut für namenskundliche Grunddaten",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Kornelia",
+  "normalized_name": "kornelia",
+  "overall_resonance": "Die öffentliche Resonanz zu „Kornelia“ wirkt überwiegend sachlich-neutral bis leicht positiv. Der Name wird vor allem als klassisch, traditionsreich und klar historisch eingeordnet.",
+  "practical_notes": [
+    "Für Suchmaschinen-Nutzung eignet sich die Einordnung als klassischer, seltener Vorname mit historischem Hintergrund.",
+    "Kurzformen können die Wirkung deutlich weicher oder moderner machen.",
+    "Die Schreibweise ist eindeutig und im deutschsprachigen Raum gut einordenbar."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt überwiegend aus Namenslexika und nicht aus breiter öffentlicher Debatte.",
+    "Aussagen zur Wahrnehmung sollten daher als vorsichtige Tendenz verstanden werden, nicht als allgemeine Mehrheitssicht.",
+    "Keine belastbaren Hinweise auf soziale Stigmatisierung in der vorliegenden Evidenz."
+  ],
+  "short_summary": "Kornelia wird überwiegend klassisch und traditionsreich wahrgenommen, eher sachlich als trendig. Die Evidenz ist vor allem lexikalisch und daher nur eingeschränkt als öffentliche Debatte belastbar.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.94,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Kornelia � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/K/Ko/Kornelia/"
+    },
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "neutral-positive",
+      "source_type": "web",
+      "title": "&#9655; Vorname Kornelia: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Kornelia.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "traditionsreich",
+    "namenskundlich",
+    "nüchtern",
+    "leicht altmodisch",
+    "eher vertraut als modern"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Eher selten vergeben und dadurch nicht sehr präsent im heutigen Namensalltag; als bekannte, aber nicht stark trendige Variante wahrnehmbar."
+}

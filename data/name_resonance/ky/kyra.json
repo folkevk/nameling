@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "weiblicher Vorname",
+    "altgriechische/altpersische Bezüge",
+    "Bedeutungen wie „Herrscherin“ oder „gnädige Herrscherin“",
+    "Namenstag",
+    "Varianten wie Kira/Kyros",
+    "Beliebtheit in Deutschland"
+  ],
+  "confidence": 0.84,
+  "display_text": "Kyra wird in deutschen Namensquellen meist als moderner, weiblicher Vorname mit antik-griechischen bzw. altpersischen Bezügen beschrieben. Die Resonanz ist überwiegend positiv und sachlich; eine breite öffentliche Debatte oder negative Konnotation ist in der Evidenz nicht erkennbar. Die genaue Bedeutungszuordnung wird jedoch nicht überall als sicher angegeben.",
+  "evidence_quality": "mittel bis schwach: klare namenskundliche Aussagen, aber nur wenige, ähnlich gelagerte Webquellen und keine breite öffentliche Diskussion.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Kyra",
+  "normalized_name": "kyra",
+  "overall_resonance": "Kyra wird in der vorliegenden deutschen Namens-Evidenz überwiegend positiv und sachlich wahrgenommen: als moderner, weiblicher Vorname mit international bzw. griechisch-antik wirkender Anmutung. Die Quellen sind namenskundlich und nicht kontrovers, die Deutung der Herkunft/Bedeutung ist jedoch nicht in allen Details sicher belegt.",
+  "practical_notes": [
+    "Für Suchmaschinen eignet sich eine neutrale Beschreibung wie: „Kyra ist ein moderner weiblicher Vorname mit griechisch/altpersischen Namensbezügen und überwiegend positiver, sachlicher Resonanz.“",
+    "Wenn Kontext gewünscht ist, kann auf den Namenstag und die Variantenbezüge hingewiesen werden, ohne die Bedeutung als gesichert darzustellen."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz basiert fast ausschließlich auf wenigen Namenslexikon-Seiten, daher ist die öffentliche Wahrnehmung nur eingeschränkt abbildbar.",
+    "Die Bedeutungsangaben werden in einer Quelle ausdrücklich als nicht sicher bekannt markiert; sie sollten vorsichtig formuliert werden.",
+    "Keine Hinweise auf soziale Stigmatisierung oder negative Namensklischees in der vorliegenden Evidenz."
+  ],
+  "short_summary": "Kyra wirkt in Deutschland überwiegend modern, freundlich und namenskundlich positiv; die Herkunft wird meist antik-griechisch bzw. altpersisch eingeordnet, aber nicht in allen Details eindeutig belegt.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "positive",
+      "source_type": "web",
+      "title": "Vorname Kyra � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/K/Ky/Kyra/"
+    },
+    {
+      "confidence": 0.9,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Kyra: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Kyra.html"
+    }
+  ],
+  "style_effect": [
+    "modern",
+    "elegant",
+    "namenskundlich",
+    "international wirkend",
+    "sachlich-informativ",
+    "leicht traditionell durch antike Bezüge"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Der Name ist in deutschen Namenslexika sichtbar und wird dort regelmäßig mit Herkunft, Bedeutung, Namenstag und Beliebtheit beschrieben. Eine breite öffentliche Debatte oder starke gesellschaftliche Aufladung ist in der Evidenz nicht erkennbar."
+}

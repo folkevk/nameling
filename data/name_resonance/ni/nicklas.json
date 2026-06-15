@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "alternative Schreibform von Niklas",
+    "Kurzform von Nikolaus",
+    "altgriechische Herkunft",
+    "Bedeutung: Sieg des Volkes / Sieger des Volkes",
+    "Namenstag am 6. Dezember",
+    "in Deutschland bekannt"
+  ],
+  "confidence": 0.74,
+  "display_text": "Nicklas wird überwiegend als bekannte, traditionelle Schreibvariante von Niklas/Nikolaus wahrgenommen. Die vorliegenden Quellen klingen sachlich und eher neutral bis leicht positiv. Eine breitere öffentliche Resonanz ist jedoch nur schwach belegt, da vor allem Namenslexika als Evidenz vorliegen.",
+  "evidence_quality": "eher schwach bis mittel: zwei vorwiegend lexikalische Quellen, sachlich bis gemischt, aber nur begrenzte Hinweise auf öffentliche Rezeption",
+  "generated_at": "2026-06-14T10:47:41Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Nicklas",
+  "normalized_name": "nicklas",
+  "overall_resonance": "Nicklas wird in den vorliegenden Quellen überwiegend sachlich und eher positiv-neutral dargestellt: als bekannte, traditionelle Schreibvariante von Niklas/Nikolaus mit klarer Herkunft und nachvollziehbarer Bedeutung. Eine eigenständige starke öffentliche Bildprägung ist in der Evidenz jedoch nur schwach erkennbar.",
+  "practical_notes": [
+    "Der Name wirkt vertraut und gut einordnbar, ohne stark auffällige Nebenbedeutungen.",
+    "Die Schreibweise Nicklas kann als Variante von Niklas wahrgenommen werden.",
+    "Für die Außenwirkung ist eher die bekannte Namensfamilie relevant als eine eigenständige Image-Ladung."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt vor allem aus Namensdatenbanken mit redaktionellem bzw. SEO-Charakter.",
+    "Es gibt nur begrenzte Hinweise auf echte öffentliche Resonanz außerhalb von Lexikontexten.",
+    "Einzelne Bewertungen oder Kommentare sind nicht repräsentativ genug für eine verlässliche Gesamtdeutung."
+  ],
+  "short_summary": "Nicklas wirkt in der verfügbaren Evidenz sachlich, traditionell und eher neutral-positiv. Die öffentliche Resonanz ist nur begrenzt belegbar, da vor allem Namenslexika vorliegen.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Nicklas � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/N/Ni/Nicklas/"
+    },
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "mixed",
+      "source_type": "web",
+      "title": "&#9655; Vorname Nicklas: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Nicklas.html"
+    }
+  ],
+  "style_effect": [
+    "sachlich",
+    "namenskundlich",
+    "traditionell",
+    "modern-lesbar",
+    "leicht skandinavisch anmutend"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Mittlere Sichtbarkeit im deutschsprachigen Namenskontext, vor allem über Namenslexika und Bedeutungsseiten. Für eine belastbare Aussage zur breiteren öffentlichen Wahrnehmung reicht die Evidenz nur eingeschränkt aus."
+}

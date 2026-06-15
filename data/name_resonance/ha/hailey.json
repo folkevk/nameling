@@ -1,0 +1,62 @@
+{
+  "associations": [
+    "altenglischer Ursprung",
+    "Bedeutung rund um Heuwiese/Heufeld",
+    "englischsprachiger Mädchenname",
+    "beliebt in Deutschland",
+    "moderne Schreibvarianten",
+    "Namenslexikon-Kontext",
+    "gelegentlich mit schottisch/anglischem Kulturraum verbunden"
+  ],
+  "confidence": 0.85,
+  "display_text": "Hailey wirkt in Deutschland überwiegend modern, freundlich und eher positiv. Der Name wird als internationaler, beliebter Mädchenname mit altenglischem Ursprung wahrgenommen. Die Evidenz ist allerdings vor allem namenskundlich und damit nur indirekt ein Bild der öffentlichen Resonanz.",
+  "evidence_quality": "mittel bis gut; zwei thematisch passende Namensquellen, aber keine breite gesellschaftliche Resonanzanalyse.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Hailey",
+  "normalized_name": "hailey",
+  "overall_resonance": "Die öffentliche Resonanz auf „Hailey“ wirkt in Deutschland überwiegend modern, freundlich und eher positiv. Der Name wird vor allem als englischsprachig, stilvoll und beliebt wahrgenommen, ohne starke negative Konnotationen in der vorliegenden Evidenz.",
+  "practical_notes": [
+    "Für Suchmaschinen wirkt der Name in Deutschland eher vertraut und trendig.",
+    "Die Schreibweise kann als modern oder international gelesen werden.",
+    "Varianten wie Haley, Hayley oder Hallie können in der Wahrnehmung mitschwingen."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist thematisch eng und stammt vor allem aus Namensseiten; das ist keine breite öffentliche Debatte.",
+    "Positive Tendenzen basieren eher auf Namensbeschreibungen und Beliebtheit als auf direkter öffentlicher Resonanz.",
+    "Keine belastbaren Hinweise auf soziale Stigmatisierung in der vorliegenden Evidenz."
+  ],
+  "short_summary": "Hailey wird in Deutschland überwiegend modern, freundlich und eher positiv wahrgenommen; die Evidenz ist jedoch vor allem namenskundlich und nicht breit öffentlich.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.9,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "Vorname Hailey � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/H/Ha/Hailey/"
+    },
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "positive",
+      "source_type": "web",
+      "title": "&#9655; Vorname Hailey: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Hailey.html"
+    }
+  ],
+  "style_effect": [
+    "modern",
+    "international",
+    "weich klingend",
+    "jugendlich",
+    "modisch",
+    "namenskundlich auffällig"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Im deutschen Namenskontext ist „Hailey“ sichtbar und bekannt, vor allem über Namenslexika und Popularitätsangaben. Die Evidenz deutet auf eine eher gut auffindbare, aber thematisch schmale öffentliche Wahrnehmung hin."
+}

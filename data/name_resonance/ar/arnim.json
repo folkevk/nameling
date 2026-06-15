@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "männlicher Vorname",
+    "althochdeutsche bzw. germanische Herkunft",
+    "Bedeutungsbezüge zu Adler/Weite bzw. Allumfassendem",
+    "selten",
+    "traditionsbezogen",
+    "Orts- und Adelsbezüge in der Namensdeutung"
+  ],
+  "confidence": 0.82,
+  "display_text": "Arnim wirkt in der öffentlichen Wahrnehmung eher selten, traditionsnah und klangvoll. Die Quellen deuten auf altdeutsche/germanische Herkunft hin; die Resonanz ist insgesamt neutral bis positiv, allerdings basiert sie vor allem auf Namenslexika und nicht auf breiter öffentlicher Debatte.",
+  "evidence_quality": "mittel bis schwach; überwiegend Namensdatenbanken und Lexikonquellen, wenig unabhängige öffentliche Resonanz",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Arnim",
+  "normalized_name": "arnim",
+  "overall_resonance": "Arnim wird in den vorliegenden Quellen überwiegend als seltener, traditionsnaher und eher klangvoller männlicher Vorname mit altdeutsch/germanischen Bezügen beschrieben. Die öffentliche Wahrnehmung wirkt insgesamt neutral bis positiv, aber die Evidenz ist begrenzt und stammt vor allem aus Namenslexika statt aus breiter öffentlicher Debatte.",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt Arnim eher individuell und traditionell als modisch.",
+    "Die Seltenheit kann als Pluspunkt für Eigenständigkeit wahrgenommen werden.",
+    "Im deutschen Sprachraum dürfte der Name bekannt, aber nicht sehr verbreitet sein."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Datenlage ist schwach bis mittel: Es gibt keine breite öffentliche Diskussion oder belastbare Alltagsresonanz.",
+    "Einzelne positive Wertungen wie 'klangvoll' oder 'vornehm' stammen teils aus redaktionellen Namenslexika und Nutzerkommentaren, nicht aus repräsentativen Daten.",
+    "Keine Hinweise auf eine gesellschaftliche Stigmatisierung erkennbar."
+  ],
+  "short_summary": "Arnim wird meist als seltener, traditioneller und eher klangvoller Vorname mit altdeutscher Herkunft beschrieben. Die öffentliche Resonanz ist überwiegend neutral bis positiv, aber die Evidenz ist begrenzt.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Arnim � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/A/Ar/Arnim/"
+    },
+    {
+      "confidence": 0.84,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Arnim: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Arnim.html"
+    }
+  ],
+  "style_effect": [
+    "traditionell",
+    "klassisch-altdeutsch",
+    "klangvoll",
+    "vornehm wirkend",
+    "namenskundlich interessant"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Eher selten bis mäßig bekannt in Deutschland; keine starke Alltagspräsenz erkennbar."
+}

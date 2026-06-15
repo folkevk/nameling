@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "spanische Schreibweise von Xavier",
+    "baskische Herkunft",
+    "mögliche Bedeutung: neues Haus / Neuhaus",
+    "Namenstag am 3. Dezember",
+    "eher selten bis moderat in Deutschland",
+    "Kurzformen wie Javi"
+  ],
+  "confidence": 0.82,
+  "display_text": "Javier wird in Deutschland meist neutral bis leicht positiv wahrgenommen. Der Name gilt als international, spanisch/baskisch geprägt und eher selten bis moderat verbreitet. Die vorhandenen Quellen sind vor allem namenskundliche Einträge; eine breite öffentliche Debatte ist nicht erkennbar.",
+  "evidence_quality": "mittel: zwei klar namenskundliche Webquellen, aber überwiegend lexikalisch und nicht aus breiter öffentlicher Diskussion",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Javier",
+  "normalized_name": "javier",
+  "overall_resonance": "Javier wird im deutschen Namenskontext überwiegend neutral bis leicht positiv wahrgenommen. Die öffentliche Darstellung ist vor allem sachlich-informativ: Der Name gilt als spanisch bzw. baskisch geprägt, international verständlich und eher selten bis moderat verbreitet.",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt Javier klar, international und gut einordenbar.",
+    "Der Name ist im Deutschen eher ungewöhnlich, aber gut aussprechbar.",
+    "Die Quellenlage spricht eher für nüchterne Namensbeschreibung als für starke soziale Zuschreibungen."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist eher datenbankartig als aus freier öffentlicher Debatte.",
+    "Es gibt keine starke, belastbare Trendaussage zur gesellschaftlichen Resonanz.",
+    "Die Wahrnehmung kann je nach Sprachumfeld und Vertrautheit mit spanischen Namen variieren."
+  ],
+  "short_summary": "Javier wirkt in Deutschland überwiegend neutral bis leicht positiv: ein internationaler, spanisch/baskisch geprägter Vorname mit markantem Klang und eher seltener Verbreitung. Die Evidenz ist jedoch vor allem namenskundlich und nicht als starke öffentliche Debatte zu verstehen.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.91,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Javier � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/J/Ja/Javier/"
+    },
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Javier: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Javier.html"
+    }
+  ],
+  "style_effect": [
+    "international",
+    "klingt markant und klar",
+    "eher modern als altmodisch",
+    "sachlich-merkfähig",
+    "sprachlich leicht exotisch im deutschen Umfeld"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Die Sichtbarkeit ist eher moderat, aber nicht breit gesellschaftlich diskutiert. In den vorhandenen Quellen erscheint Javier vor allem in Namenslexika und Datenbankeinträgen, nicht als Gegenstand intensiver öffentlicher Debatten."
+}

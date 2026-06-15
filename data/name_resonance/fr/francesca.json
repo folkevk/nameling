@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "italienische Form von Franziska",
+    "Bedeutung: die kleine Französin / die Freie",
+    "Namenstag",
+    "seltene bis mäßige Verbreitung in Deutschland",
+    "Spitznamen wie Franci, Fran, Cesca",
+    "katalanischer bzw. romanischer Klang"
+  ],
+  "confidence": 0.82,
+  "display_text": "Francesca hat in Deutschland eine eher elegante, internationale und italienisch geprägte Wirkung. Der Name wird als weibliche Form mit klassischem Klang wahrgenommen und gilt laut den vorliegenden Namensquellen als selten bis mäßig verbreitet. Die Evidenz ist jedoch vor allem lexikalisch, daher ist die öffentliche Resonanz nur vorsichtig zu bewerten.",
+  "evidence_quality": "mittel bis schwach für öffentliche Resonanz, da vor allem lexikalische Namensseiten vorliegen",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Francesca",
+  "normalized_name": "francesca",
+  "overall_resonance": "Francesca wirkt im deutschsprachigen Raum vor allem als elegant-klingender, klar italienisch wahrgenommener Mädchenname mit eher klassisch-internationalem Charme. Die öffentliche Rezeption in den vorliegenden Quellen ist insgesamt neutral bis positiv, aber stark lexikalisch geprägt.",
+  "practical_notes": [
+    "Für deutsche Ohren wahrscheinlich gut verständlich und leicht als international einzuordnen.",
+    "Die Schreibweise ist etabliert, kann aber gelegentlich mit Franziska verwechselt oder als italienische Variante erklärt werden.",
+    "Kurzformen und Koseformen sind vorhanden, was den Namen alltagstauglich macht."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt fast ausschließlich aus Namenslexika und nicht aus freier öffentlicher Diskussion.",
+    "Daher ist die Resonanz nur vorsichtig als öffentliche Wahrnehmung zu verstehen.",
+    "Keine Hinweise auf soziale Stigmatisierung in den Quellen."
+  ],
+  "short_summary": "Francesca wird in Deutschland meist als eleganter, italienisch geprägter und eher seltener Vorname wahrgenommen. Die vorhandene Evidenz ist überwiegend neutral-informativ und zeigt keine negativen Konnotationen.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.94,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Francesca � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/F/Fr/Francesca/"
+    },
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Francesca: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Francesca.html"
+    }
+  ],
+  "style_effect": [
+    "elegant",
+    "international",
+    "klassisch",
+    "weich klingend",
+    "eher feminin",
+    "kultiviert"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Eher selten bis mäßig verbreitet; im Alltag in Deutschland nicht sehr häufig, aber gut bekannt als internationale Namensform."
+}

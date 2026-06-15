@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "lateinische Herkunft über „clarus“",
+    "Bedeutungen wie hell, strahlend, berühmt oder schön",
+    "deutsche Schreibvariante von Clara",
+    "lange Namensgeschichte",
+    "wieder steigende bzw. anhaltende Beliebtheit",
+    "auch international bzw. skandinavisch geläufig"
+  ],
+  "confidence": 0.94,
+  "display_text": "Klara wird in der öffentlichen Wahrnehmung meist positiv gesehen: ein klassischer, klarer und traditionsreicher Vorname mit Bedeutungen wie „die Helle“ oder „die Strahlende“. In Deutschland ist er gut bekannt und wirkt auf vielen Namensseiten zeitlos und freundlich.",
+  "evidence_quality": "mittel bis gut: zwei klare Namenslexikon-/Namensdatenbankquellen mit überwiegend positiver Tendenz; insgesamt plausible, aber nicht empirisch repräsentative Online-Rezeption.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Klara",
+  "normalized_name": "klara",
+  "overall_resonance": "Überwiegend positiv und wertschätzend. Klara wird öffentlich meist als klassischer, klar klingender und traditionsreicher Mädchenname beschrieben, oft mit Bedeutungen wie „die Helle“, „die Strahlende“ oder „die Berühmte“ verbunden.",
+  "practical_notes": [
+    "Für Suchende wirkt der Name freundlich, vertraut und unkompliziert.",
+    "Die Schreibweise ist kurz und leicht verständlich; die Nähe zu Clara wird häufig erwähnt.",
+    "Namenstage und Spitznamen werden in den Quellen teils mit aufgeführt, was die traditionelle Einordnung unterstreicht."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die positive Wirkung beruht vor allem auf Namenslexika und beschreibenden Webtexten; die Evidenz ist insgesamt solide, aber nicht repräsentativ für eine breite Bevölkerungsumfrage.",
+    "Einzelne Seiten enthalten Nutzerkommentare; diese sollten eher als ergänzend denn als belastbare Gesamtstimmung gelesen werden."
+  ],
+  "short_summary": "Klara wird online meist positiv als klassischer, heller und traditionsreicher Vorname wahrgenommen, mit klarer Bedeutung und guter Bekanntheit in Deutschland.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "positive",
+      "source_type": "web",
+      "title": "Vorname Klara � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/K/Kl/Klara/"
+    },
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Klara: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Klara.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "elegant",
+    "hell/strahlend konnotiert",
+    "traditionsreich",
+    "zeitlos",
+    "sprachlich klar"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland gut bekannt und regelmäßig präsent; in den Quellen auch als wieder beliebter bzw. etabliert beschrieben."
+}

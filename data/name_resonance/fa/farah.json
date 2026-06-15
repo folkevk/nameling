@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "arabische bzw. persische Herkunft",
+    "Bedeutung: Freude, Glück, Fröhlichkeit",
+    "Heiterkeit und Licht",
+    "weiblich, teils auch als Unisex eingeordnet",
+    "eher selten in Deutschland",
+    "Namenstag am 7. Dezember"
+  ],
+  "confidence": 0.87,
+  "display_text": "Farah wirkt überwiegend positiv: freundlich, elegant und international. In den Quellen wird der Name vor allem mit Freude, Glück und Fröhlichkeit verbunden. In Deutschland gilt er eher als selten, aber bekannt.",
+  "evidence_quality": "mittel: zwei einschlägige Namenslexika, überwiegend konsistente positive Beschreibungen, aber keine breite Meinungsstreuung oder soziale Debattenlage.",
+  "generated_at": "2026-06-14T10:47:41Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Farah",
+  "normalized_name": "farah",
+  "overall_resonance": "Überwiegend positiv und warm assoziiert. Farah wird in den Quellen vor allem mit Bedeutungen wie Glück, Freude, Fröhlichkeit und Licht verbunden; zugleich wird der Name als eher selten, aber in Deutschland bekannt beschrieben.",
+  "practical_notes": [
+    "Für Suchmaschinen und Namenslexika wirkt Farah klar positiv und leicht verständlich.",
+    "Die Aussprache und Schreibweise dürften für deutschsprachige Nutzerinnen und Nutzer meist unkompliziert sein, der Name bleibt aber markant durch seine internationale Prägung.",
+    "Als seltener Name kann Farah als individuell und zugleich vertraut wahrgenommen werden."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz basiert auf nur zwei Webquellen und ist damit begrenzt.",
+    "Beliebtheitsangaben sind eher beschreibend als Ausdruck breiter gesellschaftlicher Meinung.",
+    "Einzelne Kommentare in den Quellen sind nur eingeschränkt als öffentliche Resonanz nutzbar."
+  ],
+  "short_summary": "Farah wird in Deutschland überwiegend positiv, freundlich und international wahrgenommen; der Name ist eher selten, aber gut etabliert und mit Bedeutungen wie Freude und Glück verbunden.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.94,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "Vorname Farah � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/F/Fa/Farah/"
+    },
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Farah: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Farah.html"
+    }
+  ],
+  "style_effect": [
+    "weich",
+    "freundlich",
+    "elegant",
+    "international",
+    "modern-klingend",
+    "positiv konnotiert"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland eher selten, aber sichtbar und gut einordenbar. Die öffentliche Wahrnehmung wirkt vor allem namenskundlich geprägt, nicht kontrovers."
+}

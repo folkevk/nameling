@@ -1,0 +1,62 @@
+{
+  "associations": [
+    "arabischer Vorname",
+    "teils hebräisch/nahe an Naomi verortet",
+    "Bedeutungen wie weich, zart, sanft, liebenswürdig",
+    "teilweise mit Glück und Freude verbunden",
+    "international und im arabisch-muslimischen Raum verbreitet"
+  ],
+  "confidence": 0.76,
+  "display_text": "Naima wirkt in den verfügbaren Quellen überwiegend freundlich, weich und modern. Der Name wird mit Bedeutungen wie zart, liebenswürdig oder freudvoll verbunden und als international geläufig beschrieben. Für Deutschland ist die öffentliche Resonanz aber nur indirekt belegt, da die Hinweise vor allem aus Namenslexika stammen.",
+  "evidence_quality": "mittel bis schwach: zwei namenskundliche Webquellen, überwiegend sachlich-positiv, aber kaum direkte öffentliche Resonanzdaten",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Naima",
+  "normalized_name": "naima",
+  "overall_resonance": "Naima wird in den vorliegenden Quellen überwiegend positiv und eher sanft wahrgenommen, vor allem wegen der assoziierten Bedeutungen wie „zart“, „liebenswürdig“ oder „freudvoll“. Die öffentliche Resonanz wirkt freundlich und modern, ist aber nur indirekt belegt und daher vorsichtig zu interpretieren.",
+  "practical_notes": [
+    "Für eine Suchmaschine ist eine zurückhaltend positive Beschreibung angemessen.",
+    "Wenn gewünscht, sollte die Darstellung als Namensbedeutung und nicht als gesicherte Sozialwahrnehmung formuliert werden.",
+    "Keine Aussagen über typische Trägerinnen des Namens ableiten."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz zur öffentlichen Resonanz ist schwach, da sie hauptsächlich aus Namensdatenbanken und Lexikonseiten stammt.",
+    "Einige Bedeutungszuordnungen und Herkunftsangaben variieren je nach Quelle.",
+    "Es gibt keine belastbaren Hinweise auf eine starke gesellschaftliche Bewertung oder klare Trenddiskussion in Deutschland."
+  ],
+  "short_summary": "Naima wird in den Quellen freundlich, weich und international konnotiert beschrieben; die Evidenz für echte öffentliche Resonanz in Deutschland ist jedoch begrenzt.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Naima � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/N/Na/Naima/"
+    },
+    {
+      "confidence": 0.91,
+      "is_name_discussion": true,
+      "sentiment": "mostly positive",
+      "source_type": "web",
+      "title": "&#9655; Vorname Naima: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Naima.html"
+    }
+  ],
+  "style_effect": [
+    "weich",
+    "zart",
+    "liebenswürdig",
+    "sanft",
+    "warm",
+    "modern",
+    "international",
+    "exotisch klingend"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland scheint Naima als bekannt und durchaus geläufig beschrieben zu werden, jedoch ohne klare Hinweise auf breite Alltagspräsenz oder starke mediale Auffälligkeit. Die Sichtbarkeit in den Quellen basiert vor allem auf Namenslexika und weniger auf echter öffentlicher Diskussion."
+}

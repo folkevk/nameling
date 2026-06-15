@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "altgriechischer Ursprung",
+    "Bedeutung: die Gastfreundliche",
+    "weiblicher Vorname",
+    "selten bis mäßig beliebt in Deutschland",
+    "Namenstag",
+    "griechisch bzw. teilweise auch russisch wahrgenommen"
+  ],
+  "confidence": 0.84,
+  "display_text": "Xenia wirkt in Deutschland überwiegend positiv und sachlich: ein seltener, klangvoller Vorname mit altgriechischem Ursprung und der Bedeutung „die Gastfreundliche“. Die öffentliche Resonanz in den vorliegenden Quellen ist eher informativ als meinungsstark, ohne Hinweise auf soziale Stigmatisierung.",
+  "evidence_quality": "mittel bis gut, aber überwiegend lexikalisch/informativ statt meinungsbasiert",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Xenia",
+  "normalized_name": "xenia",
+  "overall_resonance": "Überwiegend positiv bis neutral-sachlich. Xenia wird in der deutschsprachigen Namenskommunikation vor allem als klangvoller, eher seltener Vorname mit positiv konnotierter Bedeutung wahrgenommen.",
+  "practical_notes": [
+    "Für Namenssuchende wirkt Xenia meist leicht außergewöhnlich, aber gut aussprechbar.",
+    "Die Schreibweise ist klar, die Herkunft wirkt markant und positiv aufgeladen.",
+    "In Deutschland ist der Name nicht extrem häufig, daher kann er als individuell wahrgenommen werden."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die verfügbare Evidenz ist vor allem namenskundlich und nicht als echte öffentliche Meinungsumfrage zu verstehen.",
+    "Positive Wirkung ergibt sich vor allem aus Herkunft, Bedeutung und dem sachlich-wertenden Darstellungskontext; direkte Breitenresonanz ist nur indirekt erkennbar.",
+    "Keine belastbaren Hinweise auf soziale Stigmatisierung in den vorliegenden Quellen."
+  ],
+  "short_summary": "Xenia wird in Deutschland überwiegend freundlich und sachlich wahrgenommen: ein seltener, klangvoller Vorname mit positivem Bedeutungsgehalt.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Xenia � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/X/Xe/Xenia/"
+    },
+    {
+      "confidence": 0.95,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Xenia: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Xenia.html"
+    }
+  ],
+  "style_effect": [
+    "klingt international und elegant",
+    "wirkt freundlich durch die Bedeutung",
+    "eher modern-zeitlos als streng klassisch",
+    "durch die Seltenheit leicht besonders",
+    "passt in informative Namenskontexte gut"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Eher bekannt, aber nicht sehr häufig; in Deutschland wirkt der Name sichtbar genug, um erkannt zu werden, ohne alltäglich zu sein."
+}

@@ -1,0 +1,71 @@
+{
+  "associations": [
+    "skandinavische Kurzform",
+    "altnordische Herkunft",
+    "Geheimnis",
+    "geheime Weisheit",
+    "verborgenes Wissen",
+    "ungewöhnlicher Vorname",
+    "Namenstag 1. Juni",
+    "selten bis mäßig beliebt in Deutschland"
+  ],
+  "confidence": 0.78,
+  "display_text": "Rune wirkt in Deutschland eher selten, skandinavisch und charakterstark. Die verfügbaren Quellen deuten auf eine überwiegend positive bis neutrale Resonanz hin, vor allem wegen der Bedeutung und des ungewöhnlichen Klangs. Die Evidenz ist jedoch begrenzt und stammt vor allem aus Namenslexika.",
+  "evidence_quality": "mittel bis schwach: mehrere namenskundliche Quellen, aber keine breite öffentliche Resonanzbasis",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Rune",
+  "normalized_name": "rune",
+  "overall_resonance": "Die öffentliche Resonanz auf den Vornamen Rune wirkt insgesamt eher positiv bis neutral. In den verfügbaren Namensquellen wird der Name vor allem als skandinavisch-altnordisch, ungewöhnlich und bedeutungsvoll beschrieben. Die Wahrnehmung ist eher sachlich als emotional, mit vereinzelten positiv konnotierten Deutungen wie „geheime Weisheit“ oder „verborgenes Wissen“.",
+  "practical_notes": [
+    "Für Suchmaschinen und Namensportale wirkt Rune klar profilbildend und gut merkbar.",
+    "Der Name kann in Deutschland als markant und eher selten wahrgenommen werden.",
+    "Die Deutung sollte vorsichtig formuliert werden, da die Datenlage nicht breit ist."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenzlage ist begrenzt und stützt sich stark auf Namenslexika und einzelne Kommentare.",
+    "Es gibt keine belastbare breite öffentliche Debatte; die Resonanz ist daher nur eingeschränkt verallgemeinerbar.",
+    "Positive Bedeutungszuschreibungen sind nicht als allgemeine gesellschaftliche Bewertung zu verstehen."
+  ],
+  "short_summary": "Rune wird in den Quellen meist als skandinavisch-altnordischer, ungewöhnlicher Vorname mit eher positiver oder neutraler Wahrnehmung beschrieben.",
+  "source_count": 3,
+  "sources": [
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Rune � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/R/Ru/Rune/"
+    },
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Rune � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/R/Ru/Rune/"
+    },
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "überwiegend positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Rune: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Rune.html"
+    }
+  ],
+  "style_effect": [
+    "skandinavisch",
+    "altnordisch",
+    "ungewöhnlich",
+    "kurz und prägnant",
+    "namenskundlich",
+    "eher modern wirkend trotz alter Herkunft"
+  ],
+  "usable_evidence_count": 3,
+  "visibility": "Rune ist in Deutschland eher selten bis mäßig verbreitet und wirkt dadurch auffällig, aber nicht stark etabliert. Die öffentliche Sichtbarkeit scheint vor allem in Namenslexika und Vornamensdatenbanken stattzufinden, weniger in breiter Alltagsnutzung."
+}

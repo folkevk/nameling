@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "Bedeutung: „Gott mit uns“ bzw. „Gott ist mit uns“",
+    "hebräisch/biblischer Bezug über Immanuel",
+    "spanische, portugiesische und griechische Verbreitung",
+    "Namenstag",
+    "Kurzform: Manu",
+    "in Deutschland als etablierter, aktuell eher rückläufiger Vorname beschrieben"
+  ],
+  "confidence": 0.91,
+  "display_text": "Manuel wirkt in der öffentlichen Namenseinordnung meist klassisch, etabliert und neutral bis leicht positiv. Der Name hat einen biblisch-hebräischen Ursprung („Gott mit uns“), ist international verbreitet und wird in Deutschland als vertraut, aber eher rückläufig beschrieben. Die vorliegende Evidenz ist solide für Bedeutung und Herkunft, aber eher beschreibend als eine echte Debatte.",
+  "evidence_quality": "gut für Namensbedeutung, Herkunft und allgemeine Einordnung; begrenzt für öffentliche Resonanz im engeren Sinn",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Manuel",
+  "normalized_name": "manuel",
+  "overall_resonance": "Der Vorname Manuel wird in der öffentlichen Namensdarstellung überwiegend sachlich bis leicht positiv wahrgenommen: klassisch, etabliert und international gut anschlussfähig. In den vorliegenden Quellen steht vor allem die Namenskunde im Vordergrund, nicht eine kontroverse Debatte.",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt Manuel vertraut, unkompliziert und gut aussprechbar.",
+    "Die religiös-biblische Bedeutung kann je nach Kontext als Pluspunkt wahrgenommen werden.",
+    "Die Kurzform Manu ist geläufig und kann den Namen alltagstauglich wirken lassen."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt überwiegend aus Namensdatenbanken und ist eher beschreibend als eine echte öffentliche Debatte.",
+    "Keine belastbaren Hinweise auf soziale Stigmatisierung in den vorliegenden Quellen.",
+    "Aussagen zur Beliebtheit sind vorsichtig zu lesen, da sie nicht aus einer aktuellen repräsentativen Umfrage stammen."
+  ],
+  "short_summary": "Manuel gilt öffentlich meist als klassischer, international bekannter und eher neutral bis positiv besetzter Vorname mit biblischem Hintergrund.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Manuel � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/M/Ma/Manuel/"
+    },
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Manuel: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Manuel.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "international",
+    "zeitlos",
+    "seriös",
+    "biblisch-religiös anschlussfähig",
+    "informativ"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "hoch in Namensdatenbanken und Vornamenseinträgen, weniger in öffentlicher Meinungsdebatte"
+}

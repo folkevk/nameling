@@ -1,0 +1,70 @@
+{
+  "associations": [
+    "spanische und portugiesische Form von Jakob",
+    "schottische Form/Koseform von James",
+    "althebräische Wurzeln",
+    "Bedeutung im Sinn von 'Gott möge schützen'",
+    "Unisex-Name",
+    "in Deutschland selten",
+    "Namenstag am 25. Juli"
+  ],
+  "confidence": 0.81,
+  "display_text": "Jaime wird in Deutschland eher selten und vor allem sachlich-neutral wahrgenommen. Die Quellen betonen die internationale Herkunft, die Bedeutung 'Gott möge schützen' und die Einordnung als Unisex-Name. Eine starke öffentliche Meinung ist in der Evidenz kaum erkennbar; die Resonanz basiert hauptsächlich auf namenkundlichen Informationen.",
+  "evidence_quality": "mittel bis gut für Herkunft, Bedeutung und Seltenheit; schwach für echte öffentliche Meinungsresonanz",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Jaime",
+  "normalized_name": "jaime",
+  "overall_resonance": "Eher sachlich-neutral bis leicht positiv im namenkundlichen Kontext. Die öffentliche Rezeption wirkt vor allem informativ: Jaime wird als international geprägter, seltener und geschlechtsübergreifend verwendbarer Vorname beschrieben.",
+  "practical_notes": [
+    "Für eine öffentliche Namenswirkung eher klar, international und leicht ungewöhnlich.",
+    "Die Schreibweise kann je nach Region als ungewohnt wahrgenommen werden.",
+    "Durch die seltene Nutzung in Deutschland kann der Name auffallen, ohne stark konnotiert zu sein."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt fast ausschließlich aus Namenslexika und Vornamensseiten, nicht aus echten öffentlichen Diskussionen.",
+    "Daher ist die Resonanz eher eine vorsichtige Einordnung als ein belastbares Stimmungsbild.",
+    "Zur sozialen Wahrnehmung in Deutschland liegen nur begrenzte Hinweise vor."
+  ],
+  "short_summary": "Jaime wirkt in Deutschland eher selten, international und neutral bis leicht positiv konnotiert. Die vorhandene Evidenz beschreibt vor allem Herkunft, Bedeutung und Einordnung als Unisex-Name, nicht eine breite öffentliche Debatte.",
+  "source_count": 3,
+  "sources": [
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Jaime � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/J/Ja/Jaime/"
+    },
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Jaime � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/J/Ja/Jaime/"
+    },
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Jaime: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Jaime.html"
+    }
+  ],
+  "style_effect": [
+    "international",
+    "mehrsprachig",
+    "modern-wirkend",
+    "namenkundlich",
+    "unisex",
+    "eher selten"
+  ],
+  "usable_evidence_count": 3,
+  "visibility": "In Deutschland eher geringe Sichtbarkeit und seltene Nutzung. In den vorliegenden Quellen steht weniger öffentliche Meinung als vielmehr lexikalische Namensinformation im Vordergrund."
+}

@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "finnische und estnische Form von Laurentius",
+    "lateinische Herkunft",
+    "Bedeutung: der aus Laurentum Stammende bzw. der Lorbeerbekrönte",
+    "Lorbeerkranz als Sieges- und Ehrenmotiv",
+    "Namenstag am 27. November",
+    "in Deutschland eher niedrig bis mittel in der Bekanntheit"
+  ],
+  "confidence": 0.81,
+  "display_text": "Lauri hat in Deutschland eine überwiegend sachlich-neutrale, leicht positive Resonanz. Der Name wirkt kurz, international und namenkundlich klar einordenbar. Er ist eher selten bis mäßig bekannt und wird vor allem mit finnisch-estnischer Form, lateinischer Herkunft und der Lorbeer-Bedeutung verbunden. Die Evidenz ist jedoch begrenzt, daher sollte die öffentliche Wahrnehmung vorsichtig interpretiert werden.",
+  "evidence_quality": "mittel: zwei passende Namenslexikon-/Diskussionsquellen, aber geringe Breite und wenig repräsentatives Meinungsbild",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Lauri",
+  "normalized_name": "lauri",
+  "overall_resonance": "überwiegend sachlich-neutral mit leicht positiver, namenkundlicher Resonanz",
+  "practical_notes": [
+    "Lauri wirkt klar, kurz und international verständlich.",
+    "Der Name hat eine ruhige, sachliche Ausstrahlung und ist nicht stark modisch aufgeladen.",
+    "Für eine öffentliche Namenssuche lässt sich Lauri gut als seltener, aber etablierter Vorname einordnen."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz basiert auf wenigen, vor allem lexikalischen Webquellen; breite öffentliche Wahrnehmung in Deutschland ist nur begrenzt belegbar.",
+    "Einzelne Kommentare wirken anekdotisch und sind nicht repräsentativ.",
+    "Die positive Färbung ergibt sich eher aus Bedeutung und Namensprofil als aus starkem öffentlichem Meinungsbild."
+  ],
+  "short_summary": "Lauri wird öffentlich eher sachlich und leicht positiv wahrgenommen: als seltener, international klingender Vorname mit finnisch-estnischer Prägung und klassischer Bedeutung.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.95,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Lauri � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/L/La/Lauri/"
+    },
+    {
+      "confidence": 0.92,
+      "is_name_discussion": true,
+      "sentiment": "mixed",
+      "source_type": "web",
+      "title": "&#9655; Vorname Lauri: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Lauri.html"
+    }
+  ],
+  "style_effect": [
+    "informativ",
+    "namenskundlich",
+    "lexikalisch",
+    "leicht international",
+    "unaufdringlich",
+    "eher modern-zeitlos als trendig"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "in Deutschland eher selten bis mäßig bekannt; im öffentlichen Echo vor allem als bekannter, aber nicht sehr verbreiteter Vorname sichtbar"
+}

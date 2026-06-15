@@ -1,0 +1,62 @@
+{
+  "associations": [
+    "germanischer Vorname",
+    "althochdeutsche Herkunft",
+    "Bedeutung: Freund des Heeres / Freund des Ebers",
+    "klassisch-traditionell",
+    "früher populärer",
+    "heute seltener",
+    "Namenstag"
+  ],
+  "confidence": 0.84,
+  "display_text": "Erwin: klassisch-traditionell, altdeutsch und heute eher selten. Die vorliegenden Quellen zeigen eine sachliche bis leicht positive Resonanz, vor allem über Herkunft, Bedeutung und frühere Beliebtheit – direkte öffentliche Meinungen sind jedoch nur schwach belegt.",
+  "evidence_quality": "Mittel: zwei solide namenskundliche Webquellen, aber nur indirekte und begrenzte Hinweise auf öffentliche Rezeption.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Erwin",
+  "normalized_name": "erwin",
+  "overall_resonance": "Erwin wird in den vorliegenden Quellen überwiegend sachlich bis leicht positiv als klassischer, altdeutscher Vorname beschrieben. Die öffentliche Resonanz wirkt eher traditionsbezogen als trendig; Hinweise auf breite, aktuelle Begeisterung sind gering.",
+  "practical_notes": [
+    "Für Suchende wirkt Erwin vertraut, traditionell und klar einordenbar.",
+    "Der Name dürfte eher als klassisch denn als modern wahrgenommen werden.",
+    "In Deutschland ist die heutige Wahrnehmung laut Quellen eher zurückhaltend, nicht auffällig modisch."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt vor allem aus Namensdatenbanken und ist daher eher beschreibend als meinungsbildend.",
+    "Beliebtheit und historische Einordnung sollten nicht als direkte gesellschaftliche Bewertung missverstanden werden.",
+    "Keine belastbaren Hinweise auf Stigmatisierung oder starke Negativassoziationen in den vorliegenden Quellen."
+  ],
+  "short_summary": "Erwin wird überwiegend als klassischer, traditionsreicher und eher seltenerer Vorname wahrgenommen; die öffentliche Resonanz wirkt sachlich und leicht positiv, aber die direkte Evidenz ist begrenzt.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.91,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Erwin � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/E/Er/Erwin/"
+    },
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Erwin: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Erwin.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "traditionell",
+    "namenskundlich",
+    "altdeutsch",
+    "sachlich",
+    "eher selten/heute weniger präsent"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Mittlere Sichtbarkeit in Namensdatenbanken und Lexikografie, aber nur schwache direkte Evidenz für echte öffentliche Meinungsresonanz in Deutschland."
+}

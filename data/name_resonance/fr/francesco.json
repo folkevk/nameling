@@ -1,0 +1,59 @@
+{
+  "associations": [
+    "italienische Form von Franziskus",
+    "Bedeutung oft als „der kleine Franzose“ erklärt",
+    "teils auch gedeutet als „der Freie“ / „der freie Mann“",
+    "Namenstag am 4. Oktober",
+    "Kurzformen wie Cesco, Ciccio oder Franco"
+  ],
+  "confidence": 0.82,
+  "display_text": "Francesco: überwiegend neutral bis leicht positiv wahrgenommen. Der Name wirkt italienisch, klassisch und freundlich, mit klarer namenskundlicher Einordnung. In Deutschland scheint er bekannt, aber eher moderat verbreitet zu sein. Die Evidenz ist allerdings begrenzt und stammt vor allem aus Namenslexika.",
+  "evidence_quality": "mittel bis schwach: zwei namenskundliche Webquellen mit ähnlicher Einordnung, aber nur indirekte öffentliche Resonanz.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Francesco",
+  "normalized_name": "francesco",
+  "overall_resonance": "Überwiegend neutral bis leicht positiv. Francesco wirkt in den vorliegenden Quellen als international geprägter, eher klassisch-italienischer Vorname mit sachlich positiver Namensbeschreibung.",
+  "practical_notes": [
+    "Für Suchmaschinen-Nutzer wirkt Francesco als klar erkennbarer, kulturhistorisch verankerter Vorname.",
+    "Die Resonanz ist eher informativ als emotional aufgeladen.",
+    "Wer einen international klingenden, italienisch geprägten Namen sucht, findet hier eine vertraute und unkomplizierte Wirkung."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist schwach und stützt sich vor allem auf Namenslexika statt auf breite öffentliche Debatten oder soziale Medien.",
+    "Aussagen zur Beliebtheit in Deutschland sind nur indirekt und vorsichtig zu interpretieren.",
+    "Keine belastbaren Hinweise auf Stigmatisierung oder negative gesellschaftliche Konnotationen in den vorliegenden Quellen."
+  ],
+  "short_summary": "Francesco wird in den vorliegenden Quellen meist neutral bis leicht positiv beschrieben: italienisch, klassisch und freundlich klingend, mit eher moderater Sichtbarkeit in Deutschland.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.88,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Francesco � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/F/Fr/Francesco/"
+    },
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Francesco: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Francesco.html"
+    }
+  ],
+  "style_effect": [
+    "italienisch",
+    "klassisch",
+    "klingt freundlich und weich",
+    "namenskundlich etabliert",
+    "eher elegant als modern-zeitgeistig"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland bekannt, aber laut den vorliegenden Namensseiten eher kein massiver Mainstream-Name; die öffentliche Präsenz wirkt eher moderat als dominant."
+}

@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "weiblicher Vorname",
+    "niederdeutsche und skandinavische Namensform",
+    "Ableitung von Mechthild oder Margarethe",
+    "Bedeutungsfelder wie 'starke Kämpferin' oder 'die Perle'",
+    "Namenslexikon-Charakter",
+    "seltene bis mäßige Verbreitung"
+  ],
+  "confidence": 0.76,
+  "display_text": "Mette: In Deutschland wirkt der Name überwiegend sachlich-neutral bis leicht positiv. Er klingt kurz, traditionell und nordisch geprägt, ist eher selten verbreitet und wird vor allem mit einer klaren, klassischen Namenswirkung verbunden.",
+  "evidence_quality": "moderat: zwei einschlägige Namensquellen, aber keine breite, repräsentative Wahrnehmungsstudie",
+  "generated_at": "2026-06-13T22:17:22Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Mette",
+  "normalized_name": "mette",
+  "overall_resonance": "In deutschen Namensquellen wirkt Mette überwiegend sachlich-neutral bis leicht positiv: ein kurzer, traditionell klingender Mädchenname mit skandinavisch/niederdeutschen Wurzeln und klarer Namensbedeutung. Die öffentliche Rezeption scheint eher informativ als emotional aufgeladen, bei insgesamt eher seltener Verbreitung.",
+  "practical_notes": [
+    "Für Suchmaschinen eignet sich Mette als kompakter, klassisch wirkender Name mit nordischem Klang.",
+    "Die Schreibweise ist kurz und markant, was ihn im Alltag gut merkbar macht.",
+    "Wegen der eher seltenen Nutzung kann der Name individuell und unverwechselbar wirken."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Datenlage ist schmal und basiert vor allem auf Namensseiten, nicht auf breiter öffentlicher Meinungsforschung.",
+    "Es gibt keine belastbaren Hinweise auf eine gesellschaftliche Stigmatisierung oder klare Negativassoziationen.",
+    "Einzelne Wertungen in Quellen sind eher vorsichtig und sollten nicht überinterpretiert werden."
+  ],
+  "short_summary": "Mette wird in deutschen Quellen überwiegend neutral bis leicht positiv beschrieben: kurz, traditionell, nordisch geprägt und eher selten.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Mette � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/M/Me/Mette/"
+    },
+    {
+      "confidence": 0.89,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Mette: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Mette.html"
+    }
+  ],
+  "style_effect": [
+    "kurz und prägnant",
+    "traditionell",
+    "skandinavisch anmutend",
+    "klar und unkompliziert",
+    "eher freundlich als extravagant"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Eher selten bis mäßig verbreitet in Deutschland; dadurch präsent, aber nicht massenhaft geläufig. Die Evidenz zur öffentlichen Wahrnehmung ist begrenzt und stammt vor allem aus Namenslexika."
+}

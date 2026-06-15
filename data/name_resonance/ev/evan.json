@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "althebräische bzw. walisische Herkunft",
+    "Bedeutung im Umfeld von 'Jahwe ist gnädig'",
+    "Variante von Johannes/John",
+    "Namenstag",
+    "international verwendbar",
+    "moderner Klang"
+  ],
+  "confidence": 0.82,
+  "display_text": "Evan wird meist neutral bis positiv wahrgenommen: modern, international und klanglich angenehm. Die vorliegenden Quellen betonen vor allem Herkunft, Bedeutung und Namenstag; eine breite öffentliche Debatte oder klare Stigmatisierung zeigt sich nicht. Die Evidenz ist jedoch eher begrenzt und stammt überwiegend aus Namenslexika.",
+  "evidence_quality": "mittel",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Evan",
+  "normalized_name": "evan",
+  "overall_resonance": "Überwiegend positiv bis neutral. Evan wird in den vorliegenden Quellen vor allem als moderner, internationaler und klanglich angenehmer Vorname beschrieben; zugleich bleibt die Evidenz begrenzt und stammt hauptsächlich aus Namenslexika.",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt Evan eher vertraut, modern und international.",
+    "Die Schreibweise ist kurz und gut merkbar.",
+    "In Deutschland scheint der Name eher als moderner, anglisierter Vorname wahrgenommen zu werden."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist mittelstark und basiert auf wenigen, vor allem lexikalischen Quellen.",
+    "Die positive Klangbewertung kann durch Einzelmeinungen beeinflusst sein.",
+    "Es gibt keine belastbaren Hinweise auf soziale Stigmatisierung oder starke Kontroversen in den Daten."
+  ],
+  "short_summary": "Evan wird in den verfügbaren Quellen meist neutral bis positiv beschrieben: moderner, melodischer und international wirkender Vorname mit biblisch-etymologischen Bezügen. Die Datenlage ist jedoch begrenzt und vor allem lexikalisch.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Evan � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/E/Ev/Evan/"
+    },
+    {
+      "confidence": 0.86,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Evan: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Evan.html"
+    }
+  ],
+  "style_effect": [
+    "modern",
+    "international",
+    "melodisch",
+    "kurz und klar",
+    "eher anglisierend",
+    "informativ-lexikalisch"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Eher sichtbar in Namensportalen und Lexikontexten, aber keine breite öffentliche Debatte. Die Wahrnehmung wirkt vor allem beschreibend statt kontrovers."
+}

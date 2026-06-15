@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "lateinischer Ursprung",
+    "schweizerische Kurzform von Beatus",
+    "Bedeutung: der Glückliche / der Glückselige",
+    "Namenstag am 9. Mai",
+    "selten in Deutschland",
+    "vor allem in der Schweiz bekannt"
+  ],
+  "confidence": 0.82,
+  "display_text": "Beat wirkt in Deutschland eher selten und unauffällig, mit leicht positivem Klang durch die Bedeutung „der Glückliche / der Glückselige“. Die öffentliche Resonanz ist vor allem sachlich und namenskundlich belegt; starke gesellschaftliche Wertungen sind in den vorliegenden Quellen nicht erkennbar.",
+  "evidence_quality": "mittel bis schwach für öffentliche Resonanz; gut für Herkunft, Bedeutung und Verbreitung, aber begrenzt für allgemeine gesellschaftliche Wahrnehmung.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Beat",
+  "normalized_name": "beat",
+  "overall_resonance": "Eher positiv bis neutral; der Name wirkt in der öffentlichen Namenswahrnehmung vor allem sachlich, traditionell und regional geprägt.",
+  "practical_notes": [
+    "Für deutsche Ohren wirkt der Name eher ungewöhnlich als modisch.",
+    "Die kurze Form kann als markant und unkompliziert wahrgenommen werden.",
+    "In der Namenssuche fällt Beat eher durch Herkunft und Seltenheit als durch Trendcharakter auf."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt vor allem aus Namenslexika und nicht aus einer breiten öffentlichen Debatte.",
+    "Die Wahrnehmung ist daher nur vorsichtig als öffentliche Resonanz zu lesen.",
+    "Keine belastbaren Hinweise auf starke soziale Stigmatisierung in den vorliegenden Quellen."
+  ],
+  "short_summary": "Beat wird in den Quellen überwiegend positiv-sachlich beschrieben: ein seltener, vor allem in der Schweiz bekannter Name mit der Bedeutung „der Glückliche / der Glückselige“.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Beat � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/B/Be/Beat/"
+    },
+    {
+      "confidence": 0.89,
+      "is_name_discussion": true,
+      "sentiment": "mostly positive",
+      "source_type": "web",
+      "title": "&#9655; Vorname Beat: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Beat.html"
+    }
+  ],
+  "style_effect": [
+    "kurz und prägnant",
+    "traditionell",
+    "namenskundlich",
+    "eher unauffällig",
+    "regional schweizerisch geprägt"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland eher selten und wenig verbreitet; deutlich bekannter im schweizerischen Raum als in einer breiten deutschen Alltagswahrnehmung."
+}

@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "Kurzform von Johannes",
+    "Bedeutung in Richtung „Gott ist gnädig“",
+    "althebräische bzw. biblische Herkunft",
+    "Namenstag am 24. Juni und 27. Dezember",
+    "selten bzw. niedrig platziert in Namenslisten",
+    "regionale/rheinische Anmutung",
+    "bei einer Quelle auch Bezug zum 1. FC Köln über Hennes Weisweiler"
+  ],
+  "confidence": 0.89,
+  "display_text": "Hennes wirkt öffentlich überwiegend sachlich bis freundlich: ein traditioneller, seltener Vorname mit klarer Herkunft. Die Rezeption ist vor allem namenkundlich geprägt; breite öffentliche Debatten sind in der Evidenz kaum sichtbar.",
+  "evidence_quality": "Mittel bis gut: Die Quellen beschreiben den Namen selbst konsistent, aber überwiegend aus lexikalischen Namensdatenbanken; breite öffentliche Debatten oder unabhängige Alltagsrezeption sind kaum belegt.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Hennes",
+  "normalized_name": "hennes",
+  "overall_resonance": "Überwiegend sachlich-informativ bis freundlich-positiv. Hennes wird öffentlich vor allem als traditionelle, eher seltene Kurzform mit klarer Namensherkunft wahrgenommen.",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt Hennes klar, vertraut und traditionsnah.",
+    "Die Seltenheit kann als markant, aber nicht als exzentrisch erscheinen.",
+    "Der Name ist gut einordenbar und leicht mit klassischer Namensherkunft verknüpft."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt vor allem aus Namensdatenbanken mit begrenzter öffentlicher Diskussionslage.",
+    "Die Resonanz ist daher nur vorsichtig auf die allgemeine Wahrnehmung übertragbar.",
+    "Einzelne Zusatzassoziationen, etwa Fußballbezüge, sind kontextabhängig und nicht allgemein für alle Rezeptionen typisch."
+  ],
+  "short_summary": "Hennes wird meist sachlich und eher positiv wahrgenommen: ein traditioneller, seltener Vorname mit klarer Herkunft und wenig Konfliktpotenzial.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.94,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Hennes � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/H/He/Hennes/"
+    },
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Hennes: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Hennes.html"
+    }
+  ],
+  "style_effect": [
+    "traditionell",
+    "regional gefärbt",
+    "kurz und prägnant",
+    "lexikalisch-namenskundlich",
+    "eher selten statt modisch"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Im deutschsprachigen Namensumfeld sichtbar, aber nicht breit medial auffällig. Die öffentliche Wahrnehmung wirkt eher namenkundlich als trendgetrieben."
+}

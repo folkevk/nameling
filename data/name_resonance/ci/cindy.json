@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "Kurz- bzw. Koseform von Cynthia",
+    "mögliche Bezüge zu Lucinda oder Cinderella",
+    "griechische Herkunft und Mythologie",
+    "Bedeutungsbezug zu Kynthos",
+    "in Deutschland als Vorname etabliert",
+    "Namenslexikon- und Beliebtheitskontext"
+  ],
+  "confidence": 0.84,
+  "display_text": "Cindy wirkt in den verfügbaren Quellen überwiegend sachlich-informativ und leicht positiv. Der Name ist als bekannte Kurzform mit griechischer Herkunft gut etabliert, ohne klare Hinweise auf starke Stigmatisierung oder Kontroversen. Die öffentliche Resonanz erscheint eher klassisch, eingängig und leicht retro als stark trendgetrieben.",
+  "evidence_quality": "Gut für Namensherkunft und allgemeine Namensbeschreibung, aber nur indirekt für öffentliche Resonanz; die Aussagen zur Rezeption sind daher vorsichtig zu lesen.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Cindy",
+  "normalized_name": "cindy",
+  "overall_resonance": "Überwiegend sachlich-informativ mit leicht freundlicher Anmutung; die öffentliche Wahrnehmung wirkt eher neutral bis leicht positiv, ohne starke Kontroversen.",
+  "practical_notes": [
+    "Für eine Namenssuchmaschine eignet sich eine neutrale Einordnung mit leicht positiver Tönung.",
+    "Die Wahrnehmung sollte eher als klassisch und eingängig beschrieben werden als als stark modern oder elitär.",
+    "Bei Bedarf kann auf die Kurzform-Herkunft als wichtiges Merkmal hingewiesen werden."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz beschreibt vor allem Herkunft und Nutzung, nicht direkt die breite öffentliche Meinung.",
+    "Es liegen keine belastbaren Hinweise auf eine klare soziale Stigmatisierung vor.",
+    "Positive oder negative Alltagsassoziationen lassen sich aus den Quellen nur begrenzt ableiten."
+  ],
+  "short_summary": "Cindy wird öffentlich vor allem sachlich und leicht freundlich wahrgenommen: ein bekannter, eingängiger Name mit klassischer Kurzform- und Herkunftsassoziation.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Cindy � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/C/Ci/Cindy/"
+    },
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Cindy: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Cindy.html"
+    }
+  ],
+  "style_effect": [
+    "kurz und prägnant",
+    "leicht modern durch die Kurzform",
+    "namenskundlich vertraut",
+    "umgangssprachlich und eingängig",
+    "etwas retro-/zeittypisch durch frühere Popularität"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Der Name ist bekannt und in Namensverzeichnissen gut präsent, wirkt aber eher als klassischer Kurzname als als besonders trendstarker Trendname."
+}

@@ -1,0 +1,58 @@
+{
+  "associations": [
+    "baskische Herkunft",
+    "Bedeutung oft als „das neue Haus“ angegeben",
+    "Form bzw. Variante von Xaver",
+    "Namenstag am 3. Dezember",
+    "Bezug zu Franz Xaver und dem Jesuitenorden",
+    "selten/ungewöhnlich im deutschen Namensgebrauch"
+  ],
+  "confidence": 0.87,
+  "display_text": "Xavier wirkt in der öffentlichen Namenswahrnehmung überwiegend positiv bis neutral: selten, klangvoll und eigenständig. Die Quellen beschreiben vor allem die baskische Herkunft, die Bedeutung „das neue Haus“ und den Bezug zu Xaver bzw. Franz Xaver. Hinweise auf breite Alltagsverwendung sind begrenzt; die Evidenz stammt hauptsächlich aus Namenslexika.",
+  "evidence_quality": "mittel bis gut; die Quellen sind namebezogene Lexika mit einigen Community-Hinweisen, aber die Datengrundlage bleibt schmal.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Xavier",
+  "normalized_name": "xavier",
+  "overall_resonance": "Überwiegend positiv bis neutral. Der Name Xavier wird in den vorliegenden Namenslexika meist sachlich beschrieben und zugleich als klanglich ansprechend, eher selten und markant wahrgenommen.",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt Xavier meist verständlich, hochwertig und international.",
+    "Die Schreibweise mit X kann auffallen und den Namen merkfähig machen.",
+    "Im deutschen Kontext kann die Aussprache je nach Umfeld unterschiedlich gehandhabt werden."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist begrenzt und stützt sich vor allem auf zwei Namenslexika; breitere öffentliche Diskussionen sind nicht sichtbar.",
+    "Positive Eindrücke wie „klingt schön“ stammen eher aus kurzen Nutzerkommentaren und sollten nicht übergeneralisiert werden."
+  ],
+  "short_summary": "Xavier wird in Deutschland überwiegend positiv bis neutral wahrgenommen: selten, klangvoll und mit baskischer Herkunft sowie religiös-historischen Bezügen verbunden.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Xavier � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/X/Xa/Xavier/"
+    },
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Xavier: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Xavier.html"
+    }
+  ],
+  "style_effect": [
+    "klingt international und eigenständig",
+    "wirkt modern, aber nicht modisch-auffällig",
+    "hat eine eher elegante, markante Anmutung",
+    "wird oft mit einer klaren, starken Schreibweise verbunden"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland eher bekannt, aber nicht alltäglich. Die öffentliche Sichtbarkeit wirkt vor allem namenskundlich und weniger durch breite Alltagsnutzung geprägt."
+}

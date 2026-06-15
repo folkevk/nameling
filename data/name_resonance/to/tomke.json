@@ -1,0 +1,69 @@
+{
+  "associations": [
+    "Friesisch",
+    "Niederdeutsch",
+    "Unisex-Name",
+    "selten bis regional verbreitet",
+    "Kurzform-/Koseform-Bezüge",
+    "Namenstag",
+    "Bedeutung und Herkunft"
+  ],
+  "confidence": 0.86,
+  "display_text": "Tomke wird meist als friesisch-niederdeutscher, seltener Unisex-Name wahrgenommen. Die Rezeption ist überwiegend sachlich bis leicht positiv, mit Fokus auf Herkunft, Bedeutung und regionalen Bezug. Einzelne Quellen beschreiben den Namen als ungewöhnlich, doch die Evidenz ist insgesamt eher begrenzt und stammt vor allem aus Namenslexika.",
+  "evidence_quality": "mittel bis schwach: mehrere namenkundliche Quellen, aber wenig echte öffentliche Meinungsvielfalt",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Tomke",
+  "normalized_name": "tomke",
+  "overall_resonance": "Tomke wird in den vorliegenden Quellen überwiegend als friesisch-niederdeutscher, eher seltener Unisex-Name beschrieben. Die öffentliche Rezeption wirkt sachlich bis leicht positiv, mit Interesse an Herkunft, Bedeutung und regionaler Einordnung. Einzelne Einträge klingen etwas ungewohnt oder selten, aber es zeigt sich keine starke negative Mehrheitsstimmung.",
+  "practical_notes": [
+    "Für Suchende wirkt Tomke eher individuell und regional geprägt als sehr häufig.",
+    "Die Schreibweise ist klar, die Einordnung als männlich oder weiblich kann je nach Kontext als Unisex wahrgenommen werden.",
+    "Wenn ein Name mit starker Alltagsbekanntheit gesucht wird, ist Tomke eher eine seltenere Wahl."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist begrenzt und stammt überwiegend aus Namenslexika statt aus breiter öffentlicher Debatte.",
+    "Wertende Eindrücke beruhen teils auf wenigen Kommentaren und können die Wahrnehmung verzerren.",
+    "Keine belastbaren Hinweise auf eine ausgeprägte Stigmatisierung oder klar negative Massenresonanz."
+  ],
+  "short_summary": "Tomke gilt öffentlich vor allem als friesisch-niederdeutscher, seltener Unisex-Name mit sachlich bis leicht positiver Wahrnehmung. Die Datenlage ist allerdings begrenzt und eher lexikalisch als diskussionsbasiert.",
+  "source_count": 3,
+  "sources": [
+    {
+      "confidence": 0.94,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Tomke � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/T/To/Tomke/"
+    },
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "mostly neutral to mildly positive",
+      "source_type": "web",
+      "title": "Vorname Tomke � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/T/To/Tomke/"
+    },
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "mixed",
+      "source_type": "web",
+      "title": "&#9655; Vorname Tomke: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Tomke.html"
+    }
+  ],
+  "style_effect": [
+    "friesisch-norddeutsch",
+    "ungewöhnlich/selten",
+    "informativ-namenskundlich",
+    "regional verankert",
+    "Unisex-Charakter"
+  ],
+  "usable_evidence_count": 3,
+  "visibility": "Eher gering bis mittel: Der Name erscheint vor allem in Namenslexika und Verzeichnissen, weniger in breit sichtbaren öffentlichen Diskussionen."
+}

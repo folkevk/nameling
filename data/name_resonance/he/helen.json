@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "griechische Herkunft",
+    "Kurzform bzw. Variante von Helena/Helene",
+    "Bedeutung: die Strahlende / die Glänzende",
+    "mythologischer und historischer Bezug",
+    "Namenstag",
+    "eher selten, aber als schön wahrgenommen"
+  ],
+  "confidence": 0.83,
+  "display_text": "Helen wirkt in Deutschland überwiegend klassisch und freundlich, mit leichten positiven Assoziationen wie „strahlend“ und „elegant“. Der Name ist bekannt, eher selten und in den Quellen vor allem sachlich bis leicht positiv eingeordnet.",
+  "evidence_quality": "mittel: zwei klar namensbezogene, überwiegend informative Quellen mit leicht positiver Tönung; emotionale Breite aber begrenzt.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Helen",
+  "normalized_name": "helen",
+  "overall_resonance": "Helen wird in den vorliegenden Quellen überwiegend sachlich bis leicht positiv wahrgenommen. Der Name wird vor allem mit griechischer Herkunft, einer hellen/strahlenden Bedeutung und klassischer Namensgeschichte verbunden. Die öffentliche Rezeption wirkt eher zurückhaltend-elegant als auffällig modisch.",
+  "practical_notes": [
+    "Für Suchende wirkt der Name vermutlich klassisch und unkompliziert.",
+    "Die Schreibweise ist kurz und international gut verständlich.",
+    "Die Quellen legen nahe, dass Helen in Deutschland eher als eleganter Klassiker als als Trendname erscheint."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist überwiegend namenkundlich und damit eher indirekt für die öffentliche Stimmung.",
+    "Einzelne positive Einschätzungen stammen aus Kommentaren und sind nicht repräsentativ.",
+    "Keine Hinweise auf stärkere Stigmatisierung in den Daten."
+  ],
+  "short_summary": "Helen wird in Deutschland meist als klassischer, eleganter und leicht positiv konnotierter Vorname wahrgenommen; die Bedeutung und Herkunft stehen stärker im Vordergrund als modische Effekte.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Helen � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/H/He/Helen/"
+    },
+    {
+      "confidence": 0.94,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Helen: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Helen.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "zeitlos",
+    "elegant",
+    "klar",
+    "zurückhaltend",
+    "international anschlussfähig"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland bekannt, aber nicht extrem häufig; wirkt eher vertraut als trendig."
+}

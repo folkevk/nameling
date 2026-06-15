@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "Bär / „der Bärenstarke“",
+    "keltische bzw. altirische Herkunft",
+    "König Artus / Artussage",
+    "lange historische Verwendung",
+    "Namenstag",
+    "in Deutschland wieder beliebter"
+  ],
+  "confidence": 0.9,
+  "display_text": "Arthur: überwiegend positiv, klassisch und zeitlos wahrgenommen; verbunden mit „Bär“, Artussage und einer aktuell eher freundlichen Popularität in Deutschland.",
+  "evidence_quality": "mittel bis gut; zwei klar namenbezogene, inhaltlich passende Quellen mit überwiegend positiver Tendenz, aber keine repräsentative Breitenmessung.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Arthur",
+  "normalized_name": "arthur",
+  "overall_resonance": "Arthur wird in der vorliegenden Evidenz überwiegend positiv und wertschätzend wahrgenommen. Der Name wirkt klassisch, zeitlos und kulturell aufgeladen; die Quellen verbinden ihn vor allem mit Bedeutung, Herkunft und der Artussage.",
+  "practical_notes": [
+    "Für Suchende, die einen klassischen und zugleich bekannten Namen mit historischer Tiefe suchen, wird Arthur oft passend erscheinen.",
+    "Der Name wirkt in der Wahrnehmung eher traditionell als modisch.",
+    "Die Beliebtheit scheint zuletzt eher freundlich aufzuschwimmen als problematisch zu sein."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt überwiegend aus Namenslexika und Informationsseiten; die Aussagekraft für breitere öffentliche Meinung ist daher begrenzt.",
+    "Es gibt Hinweise auf positive Kommentare, aber keine breite, repräsentative Meinungsbasis.",
+    "Keine belastbaren Hinweise auf soziale Stigmatisierung in den vorliegenden Quellen."
+  ],
+  "short_summary": "Arthur wird öffentlich meist positiv als klassischer, traditionsreicher und kulturell stark besetzter Vorname wahrgenommen.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.99,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "Vorname Arthur � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/A/Ar/Arthur/"
+    },
+    {
+      "confidence": 0.87,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Arthur: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Arthur.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "zeitlos",
+    "kulturell-historisch",
+    "wertig",
+    "eher traditionsnah",
+    "leicht markant"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland wirkt Arthur gut sichtbar und derzeit wieder etwas aufsteigend. Die öffentliche Präsenz scheint eher stabil bis freundlich, ohne starke Polarisierung."
+}

@@ -1,0 +1,68 @@
+{
+  "associations": [
+    "mögliche Kurzform von Ariel oder Arian",
+    "hebräische bzw. altnordische Herkunft wird genannt",
+    "Bedeutungen wie „mein Löwe“ oder „Adler“",
+    "selten bis moderat verbreitet in Deutschland",
+    "Namenstagangaben in einzelnen Quellen"
+  ],
+  "confidence": 0.86,
+  "display_text": "Ari wirkt in Deutschland überwiegend sachlich-neutral bis leicht positiv: kurz, modern und international anschlussfähig. Die Herkunft und Bedeutung werden in den Quellen unterschiedlich gedeutet, daher ist die Einordnung nur vorsichtig möglich.",
+  "evidence_quality": "Gut für eine vorsichtige Namensbeschreibung, aber inhaltlich begrenzt: mehrere Quellen, jedoch überwiegend lexikalisch und mit teils unsicherer Etymologie.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Ari",
+  "normalized_name": "ari",
+  "overall_resonance": "Überwiegend sachlich-neutral mit leicht positiver Note. Ari wird in der öffentlichen Namensrezeption vor allem als kurzer, moderner und international anschlussfähiger Vorname wahrgenommen. Die Bedeutungen und Herkünfte werden teils unterschiedlich angegeben, was die Einordnung etwas unsicher macht.",
+  "practical_notes": [
+    "Für Suchmaschinen-Nutzer wirkt Ari eher schlicht, freundlich und leicht merkbar.",
+    "Wegen der Mehrdeutigkeit der Herkunft sollte man bei der Beschreibung vorsichtig formulieren.",
+    "Als Kurzname kann Ari je nach Kontext männlich oder weiblich erscheinen; die Quellen nennen teils unterschiedliche Zuordnungen."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Herkunft und Bedeutung sind nicht einheitlich belegt; mehrere Deutungen kursieren.",
+    "Die Evidenz basiert vor allem auf Namenslexika und ähnlichen Informationsseiten, nicht auf breiter öffentlicher Debatte.",
+    "Es gibt keine klare soziale Stigmatisierung in der vorliegenden Evidenz."
+  ],
+  "short_summary": "Ari wird in Deutschland überwiegend sachlich und eher positiv wahrgenommen: kurz, modern und international. Die Herkunft und Bedeutung sind jedoch nicht eindeutig und werden in den Quellen unterschiedlich erklärt.",
+  "source_count": 3,
+  "sources": [
+    {
+      "confidence": 0.95,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Ari � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/A/Ar/Ari/"
+    },
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Ari � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/A/Ar/Ari/"
+    },
+    {
+      "confidence": 0.94,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Ari: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Ari.html"
+    }
+  ],
+  "style_effect": [
+    "kurz",
+    "prägnant",
+    "modern",
+    "international",
+    "namenskundlich",
+    "mild klassisch durch historische Herleitungen"
+  ],
+  "usable_evidence_count": 3,
+  "visibility": "In Deutschland eher bekannt, aber nicht extrem häufig. Die Wahrnehmung wirkt insgesamt unaufgeregt und eher namenskundlich als gesellschaftlich aufgeladen."
+}

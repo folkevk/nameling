@@ -1,0 +1,70 @@
+{
+  "associations": [
+    "Himmel",
+    "Wolken",
+    "englische Herkunft",
+    "altnordische Herkunft",
+    "Unisex-Name",
+    "modernes Klangbild",
+    "selten bis eher ungewöhnlich"
+  ],
+  "confidence": 0.8,
+  "display_text": "Sky wirkt in Deutschland modern, international und freundlich-sachlich. Der Name ist kurz, markant und wird vor allem mit Himmel, Wolken und einem Unisex-Charakter verbunden. Eine breite öffentliche Debatte ist nicht erkennbar; die Einschätzung stützt sich vor allem auf Namensportale und Beliebtheitsangaben.",
+  "evidence_quality": "mittel bis schwach: mehrere konsistente Namensquellen, aber keine breite öffentliche Diskussionslage",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Sky",
+  "normalized_name": "sky",
+  "overall_resonance": "Überwiegend modern, freundlich und sachlich-neutral wahrgenommen; die öffentliche Rezeption wirkt eher positiv, aber die Evidenz ist nur indirekt und begrenzt.",
+  "practical_notes": [
+    "Für Suchmaschinen und Namenslisten wirkt Sky kurz, einprägsam und modern.",
+    "In Deutschland kann der Name als bewusst außergewöhnlich wahrgenommen werden.",
+    "Die Unisex-Verwendung ist ein zentrales Merkmal und prägt die Außenwirkung stark."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz für echte öffentliche Resonanz ist schwach, weil sie fast nur aus Vornamenslexika stammt.",
+    "Keine belastbaren Hinweise auf starke Kontroversen oder klare Ablehnung erkennbar.",
+    "Die Wahrnehmung kann je nach Umfeld unterschiedlich ausfallen, besonders wegen des ungewöhnlichen, englisch klingenden Charakters."
+  ],
+  "short_summary": "Sky wird in Deutschland meist als moderner, kurzer und ungewöhnlicher Unisex-Name mit Himmel-Assoziation wahrgenommen. Die Rezeption wirkt eher positiv-sachlich, jedoch ist die Evidenz für echte öffentliche Resonanz begrenzt.",
+  "source_count": 3,
+  "sources": [
+    {
+      "confidence": 0.92,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Sky � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/S/Sk/Sky/"
+    },
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Sky � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/S/Sk/Sky/"
+    },
+    {
+      "confidence": 0.72,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Sky: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Sky.html"
+    }
+  ],
+  "style_effect": [
+    "modern",
+    "international/englisch klingend",
+    "kurz und markant",
+    "naturbezogene Assoziation",
+    "unisex",
+    "ungewöhnlich, aber zugänglich"
+  ],
+  "usable_evidence_count": 3,
+  "visibility": "Der Name ist in Deutschland sichtbar, aber eher ungewöhnlich bis selten; öffentliche Resonanz lässt sich vor allem aus Namensportalen und Beliebtheitsangaben ableiten, nicht aus breiter Debatte."
+}

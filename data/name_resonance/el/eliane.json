@@ -1,0 +1,58 @@
+{
+  "associations": [
+    "weiblicher Vorname",
+    "französisch anmutende Schreibweise",
+    "hebräische bzw. biblische Herleitungen werden genannt",
+    "Bedeutungen rund um religiöse Namenstradition",
+    "seltenere Namenswahl in Deutschland",
+    "Namenslexikon- und Herkunftskontext"
+  ],
+  "confidence": 0.8,
+  "display_text": "Eliane wirkt im deutschen Kontext meist freundlich, elegant und eher selten. Die verfügbare Evidenz ist vor allem aus Namenslexika und deutet auf eine sachlich-neutrale bis positive Wahrnehmung hin, ohne starke Kontroversen oder ausgeprägte gesellschaftliche Stereotype.",
+  "evidence_quality": "mittel: klare Namensquellen, aber nur begrenzte direkte öffentliche Diskussionsresonanz",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Eliane",
+  "normalized_name": "eliane",
+  "overall_resonance": "Eliane wirkt im deutschsprachigen Raum insgesamt freundlich, sachlich und eher elegant als trendig. Die öffentliche Wahrnehmung ist vor allem lexikalisch und namenkundlich geprägt; eine starke emotionale oder kontroverse Aufladung zeigt sich in der vorliegenden Evidenz nicht.",
+  "practical_notes": [
+    "Für die Namenssuche ist Eliane gut einordenbar: vertraut, aber nicht alltäglich.",
+    "Der Name kann je nach Umfeld als eher elegant, international und ruhig wahrgenommen werden.",
+    "Wegen der geringen Breitenpräsenz ist die Resonanz weniger von Klischees geprägt als bei sehr häufigen Namen."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz zur öffentlichen Resonanz ist begrenzt, da sie überwiegend aus Namensdatenbanken stammt und nicht aus breiten Social-Media- oder Diskussionsquellen.",
+    "Es gibt unterschiedliche Herleitungen und Bedeutungsangaben; diese sollten als mögliche Deutungen, nicht als eindeutige Wahrheit verstanden werden."
+  ],
+  "short_summary": "Eliane wird in Deutschland überwiegend neutral bis positiv, freundlich und elegant wahrgenommen; die Evidenz ist jedoch vor allem namenkundlich und nicht stark durch öffentliche Diskussionen gestützt.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Eliane � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/E/El/Eliane/"
+    },
+    {
+      "confidence": 0.91,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Eliane: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Eliane.html"
+    }
+  ],
+  "style_effect": [
+    "klingt weich und feminin",
+    "wirkt klassisch-französisch bzw. international",
+    "eher stilvoll und zurückhaltend",
+    "hat einen gepflegten, leicht poetischen Eindruck"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Eher selten bis mäßig bekannt in Deutschland; sichtbar vor allem in Namenslexika und Datenbanken, weniger in breiten öffentlichen Diskussionen."
+}

@@ -1,0 +1,62 @@
+{
+  "associations": [
+    "altgriechische Herkunft",
+    "junges Grün / die Grünende",
+    "griechische Mythologie",
+    "Demeter",
+    "biblische Schreibweise bzw. Schreibvarianten",
+    "Beliebtheit in Deutschland",
+    "Chloé / Khloe / Cloe"
+  ],
+  "confidence": 0.73,
+  "display_text": "Chloe wirkt in der vorliegenden Evidenz modern, international und freundlich. Die Bedeutung und Herkunft werden positiv beschrieben, aber die öffentliche Resonanz in Deutschland ist nur schwach und vor allem aus Namenslexika belegt.",
+  "evidence_quality": "mittel bis schwach: zwei einschlägige Namensquellen, aber wenig externe oder breit gestützte öffentliche Resonanz in DE sichtbar.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Chloe",
+  "normalized_name": "chloe",
+  "overall_resonance": "Der Vorname Chloe wird in der vorliegenden Evidenz überwiegend freundlich und modern wahrgenommen. Er wirkt international, kurz und klangvoll; die Quellen heben vor allem Bedeutung, Herkunft und Beliebtheit hervor. Eine breitere öffentliche Diskussion in Deutschland ist damit aber nur eingeschränkt belegt.",
+  "practical_notes": [
+    "Für die Namenssuche kann Chloe als international verständlicher, moderner Mädchenvorname erscheinen.",
+    "Die Schreibweise kann variieren; gebräuchliche Varianten können die Wahrnehmung leicht beeinflussen.",
+    "Da die Evidenz schmal ist, sollte die Einschätzung eher als Tendenz denn als Gesamtbild gelesen werden."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Datenlage ist begrenzt und stammt vor allem aus Namenslexika; öffentliche Alltagsresonanz in Deutschland ist nicht breit belegt.",
+    "Positive Wirkungen wie 'elegant' oder 'modern' sind Quellenbeschreibungen und keine allgemeingültigen Fakten.",
+    "Keine belastbaren Hinweise auf starke Stigmatisierung oder kontroverse öffentliche Debatten in der Evidenz."
+  ],
+  "short_summary": "Chloe wird meist freundlich, modern und international beschrieben; die öffentliche Resonanz in Deutschland ist in der vorliegenden Evidenz jedoch nur begrenzt abgesichert.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.95,
+      "is_name_discussion": true,
+      "sentiment": "positive",
+      "source_type": "web",
+      "title": "Vorname Chloe � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/C/Ch/Chloe/"
+    },
+    {
+      "confidence": 0.72,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Chloe: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Chloe.html"
+    }
+  ],
+  "style_effect": [
+    "modern",
+    "international",
+    "elegant",
+    "kurz und prägnant",
+    "lexikalisch klar",
+    "zeitgemäß"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Eher gute Sichtbarkeit in Namenslexika und Vornamendatenbanken; für eine breite gesellschaftliche Resonanz in DE ist die Evidenz jedoch dünn und einseitig."
+}

@@ -1,0 +1,62 @@
+{
+  "associations": [
+    "französische Herkunft bzw. französisch wirkender Klang",
+    "Lilie als Symbol und Namensbezug",
+    "weiblicher Vorname",
+    "Namenstag",
+    "selten bis moderat verbreitet in Deutschland",
+    "teilweise als variantenreich und sprachlich weich beschrieben"
+  ],
+  "confidence": 0.79,
+  "display_text": "Liliane wirkt in der öffentlichen Wahrnehmung eher positiv, elegant und klangvoll. Der Name wird mit französischem Flair und der Lilie assoziiert, erscheint in Deutschland aber eher selten bis moderat verbreitet. Die Evidenz ist solide, beruht jedoch vor allem auf Namenslexika und indirekten Beliebtheitsangaben.",
+  "evidence_quality": "mittel: zwei einschlägige Namensquellen, aber begrenzte Breite und nur indirekte Hinweise auf öffentliche Resonanz",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Liliane",
+  "normalized_name": "liliane",
+  "overall_resonance": "Die öffentliche Wahrnehmung von Liliane wirkt insgesamt eher positiv und klangvoll, zugleich aber eher selten und lexikalisch geprägt als breit populär. In den verfügbaren Quellen wird der Name vor allem mit französischem Eindruck, der Lilie-Symbolik und einer eher eleganten, klassischen Wirkung verbunden.",
+  "practical_notes": [
+    "Für Suchmaschinen ist Liliane ein Name mit überwiegend freundlicher, ruhiger und eleganter Anmutung.",
+    "Der Name kann als eher selten wahrgenommen werden, ohne auffällig negativ konnotiert zu sein.",
+    "Bei der Einordnung sollte man zwischen Namensbedeutung, Klangwirkung und echter öffentlicher Bekanntheit unterscheiden."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz basiert überwiegend auf zwei Namenslexikon-Seiten und damit eher auf namenskundlicher als auf breit gemessener öffentlicher Resonanz.",
+    "Einzelne positive Einschätzungen können durch Nutzerkommentare geprägt sein und sind nicht automatisch repräsentativ.",
+    "Die Beliebtheitsangaben sollten vorsichtig gelesen werden, da sie keine umfassende gesellschaftliche Wahrnehmungsstudie ersetzen."
+  ],
+  "short_summary": "Liliane wird öffentlich eher positiv, klangvoll und elegant wahrgenommen, gilt in Deutschland aber eher als selten bis moderat verbreitet. Die Evidenz ist brauchbar, stützt sich jedoch vor allem auf Namenslexika.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Liliane � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/L/Li/Liliane/"
+    },
+    {
+      "confidence": 0.9,
+      "is_name_discussion": true,
+      "sentiment": "eher positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Liliane: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Liliane.html"
+    }
+  ],
+  "style_effect": [
+    "elegant",
+    "klangvoll",
+    "klassisch",
+    "französisch anmutend",
+    "sanft",
+    "namenskundlich geprägt",
+    "eher selten"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland erscheint Liliane eher selten bis moderat verbreitet. Die öffentliche Sichtbarkeit ist daher vorhanden, aber nicht massenhaft; die Evidenz stützt sich vor allem auf Namenslexika und einzelne kommentierende Angaben."
+}

@@ -1,0 +1,62 @@
+{
+  "associations": [
+    "altpersische Herkunft",
+    "Morgenröte",
+    "die Strahlende",
+    "latinisierte Form von Rhoxane",
+    "Namenstag am 18. Juni",
+    "Spitznamen wie Roxy oder Roxi",
+    "Varianten wie Roxanne oder Roxane"
+  ],
+  "confidence": 0.83,
+  "display_text": "Roxana wirkt in Deutschland eher selten, aber klangvoll und leicht positiv. Die Quellen betonen vor allem die altpersische Herkunft, die Bedeutung „die Strahlende“ bzw. „Morgenröte“ und einen eleganten, international wirkenden Namenston. Eine breite öffentliche Resonanz ist in der vorliegenden Evidenz nur schwach belegt.",
+  "evidence_quality": "mittel bis schwach für öffentliche Rezeption, gut für Bedeutungs- und Herkunftsangaben",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Roxana",
+  "normalized_name": "roxana",
+  "overall_resonance": "Roxana wird im deutschen Sprachraum überwiegend sachlich bis leicht positiv wahrgenommen. Die verfügbaren Quellen betonen vor allem die klangvolle, exotisch anmutende Form, die Bedeutung in Richtung „die Strahlende“ bzw. „Morgenröte“ sowie die altpersische Herkunft. Eine breite öffentliche Debatte oder starke emotionale Aufladung ist in der vorliegenden Evidenz nicht erkennbar.",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt Roxana eher markant als neutral.",
+    "Die Schreibweise ist verständlich, aber weniger häufig als verwandte Formen wie Roxanne oder Roxane.",
+    "Der Name eignet sich gut, wenn ein klangvoller und international anschlussfähiger Eindruck gewünscht ist."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt überwiegend aus Namenslexika und einer einzelnen Namensdatenbank; echte öffentliche Resonanz ist nur eingeschränkt belegt.",
+    "Beliebtheits- und Häufigkeitsaussagen können je nach Quelle variieren.",
+    "Aus den Quellen lässt sich keine belastbare gesellschaftliche Wertung ableiten; die Wahrnehmung wird hier vorsichtig zusammengefasst."
+  ],
+  "short_summary": "Roxana wird in Deutschland eher selten, aber positiv-sachlich wahrgenommen: klangvoll, elegant und mit Bedeutung rund um „die Strahlende“ bzw. „Morgenröte“.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.94,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Roxana � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/R/Ro/Roxana/"
+    },
+    {
+      "confidence": 0.92,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Roxana: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Roxana.html"
+    }
+  ],
+  "style_effect": [
+    "klangvoll",
+    "elegant",
+    "exotisch anmutend",
+    "namenskundlich geprägt",
+    "modern-sachlich",
+    "leicht international"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Der Name ist in Deutschland bekannt, wirkt aber eher selten bis moderat gebräuchlich. Er fällt mehr durch seine markante, elegante Klangform auf als durch hohe Alltagspräsenz."
+}

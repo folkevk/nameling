@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "„Gott ist gnädig“ / „die Begnadete“",
+    "hebräischer Ursprung über Johannes/Jochanan",
+    "weibliche Form von Johannes",
+    "Namenstag und Varianten/Kurzformen",
+    "in Deutschland beliebt und etabliert"
+  ],
+  "confidence": 0.95,
+  "display_text": "Johanna wird in der vorliegenden Evidenz überwiegend positiv und zeitlos wahrgenommen: ein klassischer, in Deutschland gut bekannter Vorname mit der Bedeutung „Gott ist gnädig“ bzw. „die Begnadete“. Die Quellen sind vor allem namenkundlich und informativ, daher ist die Aussage zur öffentlichen Rezeption vorsichtig zu lesen. Hinweise auf Stigmatisierung oder negative soziale Zuschreibungen ergeben sich nicht.",
+  "evidence_quality": "mittel bis gut – zwei einschlägige Namensquellen, beide klar zum Vornamen selbst; allerdings überwiegend beschreibend statt breiter öffentlicher Diskurs.",
+  "generated_at": "2026-06-12T06:08:03Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Johanna",
+  "normalized_name": "johanna",
+  "overall_resonance": "Johanna wird in der vorliegenden Evidenz überwiegend positiv und zeitlos wahrgenommen: als klassischer, in Deutschland bekannter Vorname mit klarer etymologischer Bedeutung und biblisch-hebräischer Herkunft. Die Darstellung ist vor allem informativ und namenkundlich, nicht kontrovers.",
+  "practical_notes": [
+    "Für die öffentliche Wirkung eignet sich Johanna gut, wenn ein klassischer, vertrauter und eindeutig weiblicher Eindruck gewünscht ist.",
+    "Der Name wirkt eher traditionsnah als modisch-experimentell.",
+    "Kurzformen und Varianten können je nach Umfeld unterschiedlich genutzt werden."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist vor allem lexikalisch und beschreibend; sie sagt wenig über Alltagswahrnehmung außerhalb von Namensseiten aus.",
+    "Einzelne Formulierungen sind leicht werbend, daher nur vorsichtige Schlussfolgerungen.",
+    "Keine belastbaren Hinweise auf Stigmatisierung oder negative soziale Zuschreibungen in der vorliegenden Evidenz."
+  ],
+  "short_summary": "Johanna wirkt in Deutschland als bekannter, klassischer und positiv konnotierter Vorname mit biblisch-hebräischer Herkunft.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.99,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "Vorname Johanna � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/J/Jo/Johanna/"
+    },
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Johanna: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Johanna.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "zeitlos",
+    "traditionell",
+    "informativ",
+    "elegant",
+    "biblisch geprägt"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Hoch – der Name ist in Deutschland gut bekannt und in Namenslexika sowie Übersichtsseiten regelmäßig präsent."
+}

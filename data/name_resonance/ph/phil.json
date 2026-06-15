@@ -1,0 +1,58 @@
+{
+  "associations": [
+    "Kurzform von Philipp/Philip",
+    "griechischer Ursprung",
+    "Bedeutung: Freund des Pferdes / Pferdefreund",
+    "moderner Jungenname",
+    "in Deutschland bekannt und beliebt"
+  ],
+  "confidence": 0.9,
+  "display_text": "Phil wird überwiegend positiv bis neutral wahrgenommen: kurz, modern und unkompliziert. In den Quellen wird der Name meist als Kurzform von Philipp/Philip mit griechischem Ursprung beschrieben; die Bedeutung „Pferdefreund“ wird häufig genannt. Eine breite öffentliche Debatte oder Stigmatisierung ist nicht erkennbar.",
+  "evidence_quality": "gut, aber begrenzt auf wenige namenskundliche Webquellen; keine breite öffentliche Kontroverse erkennbar",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Phil",
+  "normalized_name": "phil",
+  "overall_resonance": "Phil wird in den vorliegenden Quellen überwiegend positiv bis neutral wahrgenommen: kurz, modern und unkompliziert, mit klarer namenskundlicher Einordnung als Kurzform von Philipp/Philip.",
+  "practical_notes": [
+    "Phil wirkt kurz, leicht merkbar und international verständlich.",
+    "Als eigenständige Kurzform funktioniert der Name auch ohne langen Kontext.",
+    "Die Wahrnehmung ist eher sachlich-positiv als stark emotional aufgeladen."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenzbasis ist begrenzt und stützt sich im Wesentlichen auf Namensseiten statt auf breite öffentliche Debatten.",
+    "Die positiven Einordnungen stammen teilweise aus Community-Kommentaren; das ist als Stimmungsbild, nicht als allgemeingültige Wahrheit zu lesen."
+  ],
+  "short_summary": "Phil gilt öffentlich meist als moderner, kurzer und sympathisch-neutraler Jungenname mit positiver Grundstimmung.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Phil � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/P/Ph/Phil/"
+    },
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Phil: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Phil.html"
+    }
+  ],
+  "style_effect": [
+    "kurz und modern",
+    "international/englisch anmutend",
+    "freundlich und sachlich",
+    "zeitgemäß",
+    "eher unkompliziert als formell"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "hoch"
+}

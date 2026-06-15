@@ -1,0 +1,63 @@
+{
+  "associations": [
+    "deutscher weiblicher Vorname",
+    "Doppelform aus Anne und Liese",
+    "Bezüge zu Anna/Elisabeth",
+    "hebräische Herkunftsbezüge über die Grundnamen",
+    "Bedeutungsfelder wie Gnade/Anmut",
+    "Spitznamen wie Annelie, Liese oder Lissi",
+    "früher besonders beliebt",
+    "heute eher selten"
+  ],
+  "confidence": 0.84,
+  "display_text": "Anneliese gilt in Deutschland als klassischer, traditioneller und heute eher seltener Mädchenname. Die öffentliche Wahrnehmung ist vor allem namenskundlich geprägt: historisch bekannt, klanglich weich, mit einer leicht altmodischen, aber vertrauten Wirkung. Die Evidenz ist brauchbar, aber nicht besonders breit; sie stützt sich vor allem auf Lexikonseiten und einzelne Kommentare.",
+  "evidence_quality": "mittlere bis gute Evidenz; klar namensbezogene Quellen, aber insgesamt vor allem lexikalische und einzelne kommentierende Hinweise",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Anneliese",
+  "normalized_name": "anneliese",
+  "overall_resonance": "Anneliese wirkt im öffentlichen Namensbild traditionell, klassisch und deutlich historisch verankert. Der Name wird meist als deutscher, weiblicher Doppelname mit Bezügen zu Anna/Anne und Liese bzw. Elisabeth wahrgenommen; die Klangwirkung wird oft als altmodisch, aber auch vertraut und klar beschrieben.",
+  "practical_notes": [
+    "Für eine Namenssuche ist Anneliese gut verständlich und unmissverständlich weiblich.",
+    "Der Name kann je nach Kontext als charmant-traditionell oder als eher generationentypisch gelesen werden.",
+    "Aufgrund der Seltenheit wirkt er heute markanter als geläufige Standardnamen.",
+    "Kurzformen und Varianten können die Wirkung moderner oder alltagstauglicher machen."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt vor allem aus Namenslexika und wenigen Nutzerkommentaren; das ist nützlich, aber nicht repräsentativ für die gesamte öffentliche Wahrnehmung.",
+    "Einzelne Bewertungen sind subjektiv und teils gemischt; daraus lässt sich keine eindeutige gesellschaftliche Gesamtwertung ableiten."
+  ],
+  "short_summary": "Anneliese wird öffentlich vor allem als klassischer, traditioneller und heute eher seltener deutscher Mädchenname wahrgenommen – historisch bekannt, klanglich weich, mit altmodischer Note.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.95,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Anneliese � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/A/An/Anneliese/"
+    },
+    {
+      "confidence": 0.9,
+      "is_name_discussion": true,
+      "sentiment": "mixed",
+      "source_type": "web",
+      "title": "&#9655; Vorname Anneliese: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Anneliese.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "traditionell",
+    "eher altmodisch",
+    "weich und feminin",
+    "historisch geprägt",
+    "namenskundlich etabliert"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland heute eher selten, dafür mit stärkerer historischer Sichtbarkeit, besonders in den 1920er/1930er Jahren. In Namenslexika und Diskussionsseiten taucht er vor allem informativ und etymologisch auf, nicht als aktueller Modename."
+}

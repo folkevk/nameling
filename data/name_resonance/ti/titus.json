@@ -1,0 +1,59 @@
+{
+  "associations": [
+    "römisch/lateinisch",
+    "antike",
+    "Namenstag",
+    "Bedeutung wird teils als 'der Ehrwürdige' oder 'der Feurige' erklärt",
+    "selten, aber bekannt"
+  ],
+  "confidence": 0.87,
+  "display_text": "Titus wirkt in Deutschland überwiegend klassisch, antik und sachlich positiv besetzt. Der Name ist eher selten, aber bekannt und etabliert; die vorliegende Evidenz stammt vor allem aus Namenslexika.",
+  "evidence_quality": "mittel bis gut: zwei passende Namensquellen mit klarer Namensdiskussion, aber überwiegend lexikalisch-kommerzieller Charakter und nur begrenzte direkte Evidenz zur öffentlichen Resonanz.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Titus",
+  "normalized_name": "titus",
+  "overall_resonance": "In der öffentlichen Namensdarstellung wirkt Titus überwiegend sachlich, klassisch und eher positiv besetzt. Der Name wird meist als etabliert, aber selten beschrieben und hat einen klaren antiken bzw. lateinischen Bezug.",
+  "practical_notes": [
+    "Für die Namenssuche ist Titus ein klarer, kurzer und traditionsreicher Name mit klassischer Anmutung.",
+    "Die öffentliche Wahrnehmung wirkt eher neutral bis leicht positiv; negative gesellschaftliche Vorurteile sind in der vorliegenden Evidenz nicht erkennbar.",
+    "Wegen der geringen Häufigkeit kann der Name je nach Umfeld als ungewöhnlich wahrgenommen werden."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt vor allem aus Namensdatenbanken und lexikalischen Seiten, nicht aus breit angelegter öffentlicher Meinungsforschung.",
+    "Die Bedeutungsdeutungen sind teilweise traditionell oder volksetymologisch und daher nicht als gesicherte historische Aussage zu verstehen."
+  ],
+  "short_summary": "Titus wird in der öffentlichen Namensdarstellung überwiegend neutral bis leicht positiv wahrgenommen: klassisch, antik geprägt und eher selten, aber etabliert.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.83,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Titus � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/T/Ti/Titus/"
+    },
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Titus: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Titus.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "antiker Bezug",
+    "kurz und markant",
+    "gebildet/namenskundlich",
+    "sachlich statt modisch",
+    "eher selten, aber etabliert"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Eher gering bis mittel: Titus ist in Deutschland bekannt, aber kein sehr häufig genutzter Vorname. In Namensdatenbanken und Vornamenslexika erscheint er regelmäßig, im Alltag aber eher selten."
+}

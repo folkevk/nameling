@@ -1,0 +1,62 @@
+{
+  "associations": [
+    "altgriechischer Ursprung",
+    "biblischer Vorname",
+    "Bedeutung: Frau aus Lydien",
+    "heilige Lydia von Philippi",
+    "historisch",
+    "Namenstag",
+    "in Deutschland gebräuchlich",
+    "eher selten als Modevorname"
+  ],
+  "confidence": 0.91,
+  "display_text": "Lydia wirkt in Deutschland überwiegend positiv und traditionsnah. Der Name wird vor allem mit altgriechischem Ursprung, biblischem Hintergrund und einem zeitlosen, klassischen Klang verbunden. Die Evidenz ist allerdings vor allem lexikalisch; breite öffentliche Diskussionen sind kaum sichtbar.",
+  "evidence_quality": "Mittel bis gut, aber vor allem lexikalisch-redaktionell; wenige unabhängige öffentliche Stimmen.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Lydia",
+  "normalized_name": "lydia",
+  "overall_resonance": "Überwiegend positiv bis neutral, mit einem eher traditions- und bildungsnahen Klang.",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt Lydia in Deutschland vertraut, klar aussprechbar und kulturell gut einordenbar.",
+    "Der Name wird eher mit Tradition und historischer Tiefe als mit Trendigkeit verbunden.",
+    "Die öffentliche Resonanz wirkt insgesamt unproblematisch und wertschätzend, aber nicht stark trendgetrieben."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt vor allem aus Namensportalen und Lexikonseiten; das ist nützlich, aber nur begrenzt breit öffentlich.",
+    "Kaum freie Diskussionen oder Alltagsstimmen in der Evidenz, daher nur vorsichtige Aussagen zur Wahrnehmung.",
+    "Positive Zuschreibungen wie 'zeitlos' oder 'besonders' sind eher redaktionelle Einordnungen als harte öffentliche Mehrheitsmeinung."
+  ],
+  "short_summary": "Lydia wird in Deutschland meist als klassischer, historisch und biblisch geprägter Vorname wahrgenommen: eher zeitlos als modisch, insgesamt positiv oder neutral.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Lydia � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/L/Ly/Lydia/"
+    },
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "positive",
+      "source_type": "web",
+      "title": "&#9655; Vorname Lydia: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Lydia.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "zeitlos",
+    "traditionsbewusst",
+    "leicht elegant",
+    "sachlich bis fein klingend"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland als gebräuchlicher, aber nicht massenhaft moderner Vorname sichtbar; eher bekannt als klassisch-historischer Name."
+}

@@ -1,0 +1,63 @@
+{
+  "associations": [
+    "italienischer Ursprung",
+    "lateinische Herkunft",
+    "Bedeutung: Etruskerin/Toskanerin",
+    "selten in Deutschland",
+    "weiblicher Vorname",
+    "Namenstag",
+    "besonders",
+    "wunderschön"
+  ],
+  "confidence": 0.78,
+  "display_text": "Tosca wirkt in den verfügbaren Quellen eher positiv und neutral: ein seltener, italienisch/lateinisch geprägter Vorname mit klangvoller, besonderer Ausstrahlung. Die öffentliche Resonanz ist allerdings nur schwach belegt, da die Hinweise vor allem aus Namenslexika und Informationsseiten stammen.",
+  "evidence_quality": "mittel bis schwach; zwei vorwiegend namenkundliche Webquellen, davon eine mit kommentarbasierten Anteilen",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Tosca",
+  "normalized_name": "tosca",
+  "overall_resonance": "Eher positiv bis neutral. Der Name wird vor allem als selten, klanglich auffällig und italienisch/lateinisch geprägt beschrieben. Die öffentliche Rezeption wirkt sachlich bis wohlwollend, aber nicht breit belegt.",
+  "practical_notes": [
+    "Für Suchmaschinen-Nutzung eignet sich eine vorsichtige Einordnung als seltener, italienisch anmutender Vorname.",
+    "Die Wahrnehmung dürfte eher über Klang und Herkunft als über Bekanntheit entstehen.",
+    "Bei der Darstellung sollte die geringe Datenbasis transparent bleiben."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz zur öffentlichen Resonanz ist schwach und stark von Namensdatenbanken geprägt.",
+    "Ein Teil der positiven Wirkung stammt aus redaktionellen oder kommentarbasierten Quellen, nicht aus breiter Meinungsstreuung.",
+    "Keine belastbare Aussage über gesellschaftliche Bewertung im Alltag ableitbar."
+  ],
+  "short_summary": "Tosca wird in den verfügbaren Quellen eher positiv und neutral beschrieben: ein seltener, italienisch/lateinisch geprägter Mädchenname mit klangvoller, besonderer Wirkung. Die öffentliche Resonanz ist jedoch nur schwach belegt.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Tosca � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/T/To/Tosca/"
+    },
+    {
+      "confidence": 0.91,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Tosca: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Tosca.html"
+    }
+  ],
+  "style_effect": [
+    "italienisch wirkend",
+    "elegant",
+    "ungewöhnlich",
+    "klangvoll",
+    "sachlich-namenskundlich",
+    "selten wahrgenommen"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Niedrig bis mittel: In Deutschland scheint Tosca eher selten und dadurch vergleichsweise wenig präsent zu sein. Die verfügbare Evidenz stammt überwiegend aus Namenslexika und Informationsseiten, nicht aus einer breiten öffentlichen Diskussion."
+}

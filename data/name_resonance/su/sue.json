@@ -1,0 +1,62 @@
+{
+  "associations": [
+    "Kurzform von Susan oder Suzanne",
+    "englische bzw. internationale Herkunft",
+    "Bedeutungsfeld Lilie",
+    "weiblicher Vorname",
+    "selten bis moderat verbreitet in Deutschland",
+    "kurz, schön, cool, frisch, frech, lustig als Kommentartöne"
+  ],
+  "confidence": 0.88,
+  "display_text": "Sue wirkt in Deutschland eher selten, kurz und international. Die verfügbare Evidenz ist begrenzt, aber insgesamt freundlich bis neutral: Der Name wird meist als schöne, frische Kurzform mit Lilien-Bezug wahrgenommen.",
+  "evidence_quality": "mittel: zwei einschlägige Namensquellen, aber nur begrenzte Breite und teils gemischte Inhalte mit lexikalischen sowie kommentarbasierten Elementen.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Sue",
+  "normalized_name": "sue",
+  "overall_resonance": "Die öffentliche Resonanz auf den Vornamen Sue wirkt insgesamt eher freundlich und sachlich. In den vorliegenden Namensquellen wird Sue vor allem als kurze, internationale und eher seltene Form wahrgenommen; die Bewertung ist überwiegend positiv bis neutral.",
+  "practical_notes": [
+    "Für die Namenssuche wirkt Sue unkompliziert, international und leicht merkbar.",
+    "Durch die Kürze kann der Name modern und freundlich erscheinen, zugleich aber auch etwas knapp oder informell wirken.",
+    "Als seltenere Form hebt sich Sue im deutschen Kontext eher ab.",
+    "Die öffentliche Wahrnehmung scheint insgesamt unaufgeregt und eher wohlwollend."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist begrenzt und basiert vor allem auf Namenslexika sowie einzelnen Community-Kommentaren.",
+    "Es gibt keine breite öffentliche Debatte oder belastbare Alltagswahrnehmung aus vielen unterschiedlichen Quellen.",
+    "Die positiven Stilassoziationen stammen teils aus Nutzerkommentaren und sind daher eher als subjektive Eindrücke zu lesen."
+  ],
+  "short_summary": "Sue wird in den Quellen überwiegend als kurze, internationale und eher seltene Namensform mit freundlicher, moderat positiver Resonanz beschrieben.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Sue � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/S/Su/Sue/"
+    },
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Sue: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Sue.html"
+    }
+  ],
+  "style_effect": [
+    "kurz und prägnant",
+    "international klingend",
+    "modern-fresh assoziiert",
+    "eher leicht und unkompliziert",
+    "selten, dadurch markant",
+    "namenskundlich klar einordenbar"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland erscheint Sue eher selten bis moderat sichtbar und eher als Kurz- bzw. Koseform bekannt als als häufiger Alltagsname."
+}

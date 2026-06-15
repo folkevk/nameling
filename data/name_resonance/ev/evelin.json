@@ -1,0 +1,62 @@
+{
+  "associations": [
+    "Variante von Evelyn",
+    "eingedeutschte Form",
+    "möglicher altgermanischer/althsächsischer Bezug",
+    "altfranzösisch-normannische Deutungen",
+    "Namenstag",
+    "Spitznamen wie Evi oder Eve",
+    "namenslexikalische Diskussion"
+  ],
+  "confidence": 0.83,
+  "display_text": "Evelin wirkt in den Quellen überwiegend freundlich, sachlich und leicht klassisch-modern. Der Name wird vor allem als Variante von Evelyn mit mehreren möglichen Herkunftsdeutungen beschrieben. Eine starke öffentliche Stigmatisierung ist nicht erkennbar; die Evidenz ist jedoch eher lexikalisch als alltagsnah.",
+  "evidence_quality": "mittel bis gut: klare Namensdiskussion in zwei Quellen, aber wenig unabhängige Alltagsresonanz und teils unsichere Etymologien",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Evelin",
+  "normalized_name": "evelin",
+  "overall_resonance": "Der Vorname Evelin wird in den vorliegenden Namensquellen überwiegend sachlich bis positiv wahrgenommen. Er erscheint als bekannte, eher weiche und freundliche Namensform mit Bezug zu Evelyn und mehreren diskutierten Herkunftsdeutungen. Insgesamt wirkt die öffentliche Rezeption eher unauffällig und positiv, nicht polemisch oder stark polarisiert.",
+  "practical_notes": [
+    "Für eine neutrale Namenssuche eignet sich Evelin gut, wenn ein bekannter, aber nicht zu häufiger Mädchenname gesucht wird.",
+    "Die Schreibweise kann als eigenständig wahrgenommen werden, wird aber oft in Beziehung zu Evelyn gesetzt.",
+    "Die Quellenlage spricht eher für eine positive, ruhige Namenswirkung als für starke Trend- oder Modeassoziationen."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist insgesamt eher quellengebunden und stammt vor allem aus Namenslexika.",
+    "Einige Herkunfts- und Bedeutungsangaben sind nicht eindeutig belegt und werden in den Quellen selbst als unsicher beschrieben.",
+    "Es liegen keine Hinweise auf soziale Stigmatisierung oder stark negative öffentliche Klischees vor; dennoch ist die Datenbasis begrenzt."
+  ],
+  "short_summary": "Evelin wird überwiegend freundlich und sachlich wahrgenommen, mit klassisch-modernem Klang und Namenslexikon-Charakter. Die Evidenz ist brauchbar, aber vor allem quellenbasiert.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Evelin � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/E/Ev/Evelin/"
+    },
+    {
+      "confidence": 0.95,
+      "is_name_discussion": true,
+      "sentiment": "überwiegend positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Evelin: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Evelin.html"
+    }
+  ],
+  "style_effect": [
+    "weich",
+    "freundlich",
+    "klassisch-modern",
+    "namenskundlich geprägt",
+    "leicht international anmutend",
+    "eher selten bis moderat gebräuchlich"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Im deutschsprachigen Raum ist der Name offenbar bekannt, aber nicht extrem dominant. Die Wahrnehmung entsteht vor allem über Namenslexika, Bedeutungserklärungen und Beliebtheitsangaben, weniger über breit geteilte Alltagsresonanz."
+}

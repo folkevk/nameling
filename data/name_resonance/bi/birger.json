@@ -1,0 +1,68 @@
+{
+  "associations": [
+    "altnordische Herkunft",
+    "skandinavischer Jungenname",
+    "Bedeutung in Richtung Helfer/Beschützer/Wächter/Retter",
+    "Namenstag",
+    "selten bzw. wenig verbreitet in Deutschland"
+  ],
+  "confidence": 0.88,
+  "display_text": "Birger wird in den verfügbaren Quellen vor allem als seltener, skandinavisch-altnordischer Vorname mit neutraler bis leicht markanter Wirkung beschrieben. Die öffentliche Resonanz erscheint insgesamt sachlich; belastbare breite Diskussionssignale sind kaum vorhanden.",
+  "evidence_quality": "mittel bis begrenzt: mehrere übereinstimmende, aber überwiegend lexikalische Quellen; kaum echte öffentliche Resonanzdaten",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Birger",
+  "normalized_name": "birger",
+  "overall_resonance": "Der Name Birger wird in den vorliegenden Quellen überwiegend sachlich und neutral wahrgenommen. Er wirkt skandinavisch-altnordisch, selten und eher markant als alltagssprachlich vertraut.",
+  "practical_notes": [
+    "Für Suchmaschinen- oder Lexikoneinträge eignet sich eine neutrale Beschreibung mit Herkunft und Bedeutungsfeld.",
+    "Die Schreib- und Klangwirkung wird eher als klar, nordisch und ungewöhnlich wahrgenommen.",
+    "Wenn Kontext wichtig ist, kann die Seltenheit erwähnt werden, ohne daraus eine Wertung abzuleiten."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist begrenzt und stammt fast nur aus Namenslexika, nicht aus breiter öffentlicher Diskussion.",
+    "Wahrnehmungen wie 'außergewöhnlich' oder 'selten' sind beschreibend und keine allgemeingültigen Urteile.",
+    "Keine Hinweise auf soziale Stigmatisierung in den Quellen."
+  ],
+  "short_summary": "Birger wirkt in Deutschland eher selten, nordisch und neutral bis leicht markant. Die Quellen liefern vor allem Namensbedeutung und Herkunft, aber wenig echte öffentliche Debatte.",
+  "source_count": 3,
+  "sources": [
+    {
+      "confidence": 0.95,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Birger � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/B/Bi/Birger/"
+    },
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Birger � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/B/Bi/Birger/"
+    },
+    {
+      "confidence": 0.88,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Birger: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Birger.html"
+    }
+  ],
+  "style_effect": [
+    "altnordisch/skandinavisch",
+    "sachlich",
+    "selten",
+    "markant",
+    "traditionsnah",
+    "leicht außergewöhnlich"
+  ],
+  "usable_evidence_count": 3,
+  "visibility": "In Deutschland scheint Birger eher wenig verbreitet zu sein und wird vor allem in Namenslexika und Vornamenseiten erläutert. Eine breite öffentliche Debatte ist in der Evidenz nicht erkennbar."
+}

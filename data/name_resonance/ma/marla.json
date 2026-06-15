@@ -1,0 +1,62 @@
+{
+  "associations": [
+    "Kurzform von Marlene",
+    "Bezüge zu Maria und Magdalena",
+    "hebräische bzw. lateinische Namensdeutungen",
+    "Bedeutungen wie „die Geliebte“ oder „die Erhabene“",
+    "teils auch „die Strahlende“ oder „die Sanfte“",
+    "Namenstage werden in Quellen genannt",
+    "in Deutschland als vergleichsweise beliebt beschrieben"
+  ],
+  "confidence": 0.84,
+  "display_text": "Marla wird in den verfügbaren deutschen Namensquellen meist freundlich und positiv beschrieben: modern, weiblich, kurz und gut merkbar. Häufig genannt werden Bedeutungen und Herkünfte rund um Marlene, Maria oder Magdalena sowie eine gewisse Beliebtheit in Deutschland. Die Evidenz ist allerdings begrenzt und stützt sich vor allem auf wenige Namenslexika.",
+  "evidence_quality": "mittel: wenige, aber thematisch passende Namenslexika mit klarer Namensdiskussion; keine breite öffentliche Debatte sichtbar.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Marla",
+  "normalized_name": "marla",
+  "overall_resonance": "Marla wird in den vorliegenden deutschsprachigen Namensquellen überwiegend freundlich und sachlich-positiv dargestellt. Der Name wirkt modern, weiblich und zugleich vertraut; häufig werden Herkunft, Bedeutung und Beliebtheit hervorgehoben.",
+  "practical_notes": [
+    "Für die Namenssuche wirkt Marla gut verständlich, modern und unkompliziert.",
+    "Die Schreibweise ist kurz und leicht merkbar.",
+    "Die vorhandenen Quellen legen eher eine positive als eine problematische öffentliche Wahrnehmung nahe."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Aussagekraft ist begrenzt, weil die Evidenz im Wesentlichen aus wenigen Namensseiten besteht.",
+    "Bewertungen zur Wirkung des Namens sind indirekt und stammen nicht aus einer breiten öffentlichen Diskussionslage.",
+    "Beliebtheit kann je nach Jahrgang und Region schwanken."
+  ],
+  "short_summary": "Marla wird im Deutschen überwiegend positiv, modern und gut verständlich wahrgenommen. Die Quellen betonen Herkunft, Bedeutung und Beliebtheit; die Evidenz ist jedoch eher schmal.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.94,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "Vorname Marla � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/M/Ma/Marla/"
+    },
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "positive",
+      "source_type": "web",
+      "title": "&#9655; Vorname Marla: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Marla.html"
+    }
+  ],
+  "style_effect": [
+    "modern",
+    "weiblich",
+    "klar und kurz",
+    "namenskundlich aufgeladen",
+    "leicht elegant",
+    "zeitgemäß"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Im deutschen Namenskontext ist Marla sichtbar und aktuell durchaus präsent, wobei die Einschätzung vor allem auf einzelnen Namenslexika beruht. Die Evidenz ist damit brauchbar, aber nicht breit aufgestellt."
+}

@@ -1,0 +1,68 @@
+{
+  "associations": [
+    "französische Form von Patrick",
+    "Nebenform von Patricia",
+    "lateinischer Ursprung Patricius",
+    "Bedeutung im Sinne von edel/adlig/vornehm",
+    "Unisex-Name",
+    "in Deutschland eher selten",
+    "Namenstag am 17. März"
+  ],
+  "confidence": 0.88,
+  "display_text": "Patrice wirkt in Deutschland eher neutral bis leicht positiv: ein seltener, französisch anmutender Vorname mit eleganter, vornehmer Assoziation. Die verfügbare Evidenz ist jedoch vor allem lexikalisch und daher nur begrenzt repräsentativ.",
+  "evidence_quality": "mittel: mehrere Namenslexikon-Quellen, aber kaum echte öffentliche Debatte; insgesamt eher beschreibende als gesellschaftliche Resonanz.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Patrice",
+  "normalized_name": "patrice",
+  "overall_resonance": "Überwiegend neutral bis leicht positiv: Patrice wird in den Quellen vor allem als seltener, sachlich beschriebener Vorname mit eleganter, französischer Anmutung dargestellt.",
+  "practical_notes": [
+    "Gut geeignet, wenn ein seltener und international klingender Name gewünscht ist.",
+    "Die Aussprache und geschlechtliche Zuordnung können im Alltag gelegentlich nachgefragt werden.",
+    "Für eine belastbare Einschätzung der tatsächlichen Popularität in Deutschland wäre zusätzliche statistische Evidenz sinnvoll."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist begrenzt und stützt sich fast nur auf Namenslexika statt auf breite öffentliche Diskussion.",
+    "Die Wahrnehmung als Unisex-Name und die stilistische Einordnung können je nach Region und Umfeld unterschiedlich ausfallen."
+  ],
+  "short_summary": "Patrice wird in Deutschland meist neutral bis leicht positiv wahrgenommen: selten, französisch klingend und mit vornehmer Bedeutung verbunden.",
+  "source_count": 3,
+  "sources": [
+    {
+      "confidence": 0.91,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Patrice � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/P/Pa/Patrice/"
+    },
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Patrice � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/P/Pa/Patrice/"
+    },
+    {
+      "confidence": 0.84,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Patrice: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Patrice.html"
+    }
+  ],
+  "style_effect": [
+    "französisch anmutend",
+    "elegant und klassisch",
+    "selten und etwas markant",
+    "lexikalisch-sachlich",
+    "unisex wahrnehmbar"
+  ],
+  "usable_evidence_count": 3,
+  "visibility": "In Deutschland eher selten und deshalb nicht breit etabliert; öffentlich vor allem in Namenslexika und eher in informativen Kontexten sichtbar."
+}

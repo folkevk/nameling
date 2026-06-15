@@ -1,0 +1,67 @@
+{
+  "associations": [
+    "Unisex-Name",
+    "türkische und indische Herkunftsbezüge",
+    "Bedeutungsdeutungen wie „Mond über dem Nil“ oder „die Heimat“",
+    "selten bis moderat verbreitet",
+    "deutsche Namenslisten und Rangbezüge"
+  ],
+  "confidence": 0.82,
+  "display_text": "Nilay: in deutschen Namensquellen meist neutral bis leicht positiv wahrgenommen. Der Name wirkt modern, international und melodisch; er wird als seltener Unisex-Name mit unterschiedlichen Herkunfts- und Bedeutungsdeutungen beschrieben. Die Evidenz ist jedoch vor allem datenbankbasiert, nicht breit öffentlich diskutiert.",
+  "evidence_quality": "mittel: überwiegend beschreibende Namensquellen, wenig unabhängige öffentliche Diskussion",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Nilay",
+  "normalized_name": "nilay",
+  "overall_resonance": "Nilay wirkt öffentlich eher neutral bis leicht positiv: Der Name wird vor allem sachlich über Herkunft, Bedeutung und die Einordnung als Unisex-Name beschrieben. Eine breite öffentliche Debatte ist in der vorliegenden Evidenz kaum erkennbar.",
+  "practical_notes": [
+    "Für Suchmaschinen- oder Kurzprofile eignet sich eine neutrale Beschreibung mit Hinweis auf Unisex-Charakter und internationale Herkunft.",
+    "Wenn eine präzisere Einordnung gewünscht ist, sollte man die jeweilige Herkunftsdeutung nicht als eindeutig darstellen.",
+    "Der Name dürfte eher wegen Klang und Bedeutung auffallen als durch starke gesellschaftliche Zuschreibungen."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt überwiegend aus Namensdatenbanken und ähnlichen Quellen; öffentliche Alltagsresonanz ist nur begrenzt belegt.",
+    "Es gibt kaum freie, breitere Meinungsäußerungen; daher ist die Einschätzung vorsichtig zu lesen.",
+    "Regionale Herkunfts- und Bedeutungsangaben können je nach Quelle variieren."
+  ],
+  "short_summary": "Nilay wird in deutschen Quellen meist sachlich, neutral bis leicht positiv beschrieben: ein seltener, international wirkender Unisex-Name mit unterschiedlichen Herkunfts- und Bedeutungsdeutungen.",
+  "source_count": 3,
+  "sources": [
+    {
+      "confidence": 0.92,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Nilay � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/N/Ni/Nilay/"
+    },
+    {
+      "confidence": 0.94,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Nilay � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/N/Ni/Nilay/"
+    },
+    {
+      "confidence": 0.74,
+      "is_name_discussion": true,
+      "sentiment": "mostly positive",
+      "source_type": "web",
+      "title": "&#9655; Vorname Nilay: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Nilay.html"
+    }
+  ],
+  "style_effect": [
+    "klingt modern und international",
+    "wirkt weich und melodisch",
+    "hat einen informativen, namenskundlichen Charakter",
+    "wird als Unisex-Name wahrgenommen",
+    "kann durch die unterschiedliche Herkunftszuordnung offen und mehrdeutig wirken"
+  ],
+  "usable_evidence_count": 3,
+  "visibility": "Die Sichtbarkeit in deutschen Namensquellen ist vorhanden, aber eher Nischen- als Mainstream-Präsenz; der Name wird als gelistet, teils selten und regional unterschiedlich eingeordnet."
+}

@@ -1,0 +1,53 @@
+{
+  "associations": [
+    "lateinischer Ursprung",
+    "weiblicher Vorname",
+    "Namenstag am 22. November",
+    "heilige Cäcilie / katholische Märtyrerin",
+    "Bedeutung und Herkunft werden häufig thematisiert",
+    "eher selten, dadurch als besonders wahrgenommen"
+  ],
+  "confidence": 0.76,
+  "display_text": "Cäcilia wirkt eher klassisch, traditionsreich und etwas feierlich. Die vorhandene Evidenz ist überwiegend positiv, belegt aber vor allem die lexikalische Einordnung des Namens und nur eingeschränkt die breite öffentliche Wahrnehmung. Als eher seltener Name wird Cäcilia oft als besonders wahrgenommen.",
+  "evidence_quality": "Begrenzt: überwiegend lexikalische Quelle, überwiegend positive Tendenz, aber nur eingeschränkte Aussagekraft für öffentliche Rezeption.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Cäcilia",
+  "normalized_name": "cacilia",
+  "overall_resonance": "Eher positiv und wertschätzend, aber mit vorsichtiger Einordnung: Die verfügbare Evidenz spricht vor allem für eine lexikalische, nicht für eine breit belegte öffentliche Resonanz.",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt Cäcilia traditionsreich und klar erkennbar.",
+    "Die Schreibweise mit Umlaut kann im Alltag gelegentlich zu Nachfragen oder Varianten führen.",
+    "Wegen der Seltenheit kann der Name als individuell und markant wahrgenommen werden."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenzlage ist schwach für eine echte öffentliche Gesamtresonanz; es handelt sich vor allem um ein Namenslexikon mit einzelnen subjektiven Einschätzungen.",
+    "Kommerzielle Namenslexikon-Quelle; daher nur eingeschränkte Aussagekraft für gesellschaftliche Wahrnehmung.",
+    "Keine belastbaren Hinweise auf soziale Stigmatisierung in der vorliegenden Evidenz."
+  ],
+  "short_summary": "Cäcilia wird in der vorliegenden Evidenz überwiegend positiv, klassisch und traditionsbezogen beschrieben; der Name gilt eher als selten und besonders, allerdings ist die öffentliche Resonanz nur schwach belegt.",
+  "source_count": 1,
+  "sources": [
+    {
+      "confidence": 0.92,
+      "is_name_discussion": true,
+      "sentiment": "mostly positive",
+      "source_type": "web",
+      "title": "&#9655; Vorname Cäcilia: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,C%C3%A4cilia.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "feierlich",
+    "traditionsbezogen",
+    "leicht historisch",
+    "selten/ungewöhnlich",
+    "kulturell-kirchlich geprägt"
+  ],
+  "usable_evidence_count": 1,
+  "visibility": "Eher geringe bis mittlere Sichtbarkeit im öffentlichen Alltag; der Name wirkt bekannt, aber deutlich seltener und dadurch eher besonders als alltäglich."
+}

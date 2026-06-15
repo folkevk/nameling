@@ -1,0 +1,63 @@
+{
+  "associations": [
+    "lateinischer Ursprung",
+    "italienische, spanische und portugiesische Form",
+    "Bedeutung in Richtung 'die Eifrige' / 'die Tüchtige'",
+    "Namenstag",
+    "Verwandtschaft zu Emilia / Eliana",
+    "seltene Verwendung in Deutschland"
+  ],
+  "confidence": 0.87,
+  "display_text": "Emiliana: selten, klangvoll und international anschlussfähig. Die öffentliche Darstellung ist überwiegend sachlich bis positiv; direkte Alltagsbewertungen sind jedoch kaum vorhanden.",
+  "evidence_quality": "mittel bis gut; zwei namenkundliche Webquellen mit überwiegend sachlicher, teils positiver Darstellung, aber nur begrenzte direkte öffentliche Meinungen",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Emiliana",
+  "normalized_name": "emiliana",
+  "overall_resonance": "Emiliana wirkt in der öffentlichen Namensdarstellung eher klangvoll, klassisch und international anschlussfähig. Die verfügbare Evidenz beschreibt den Namen vor allem sachlich-namenkundlich; direkte öffentliche Bewertungen sind selten, insgesamt aber überwiegend positiv bis neutral.",
+  "practical_notes": [
+    "Der Name ist gut verständlich und international anschlussfähig.",
+    "Durch die Seltenheit kann er besonders wirken, ohne ungewöhnlich schwer aussprechbar zu sein.",
+    "Als lange, melodische Form passt Emiliana eher zu einem eleganten als zu einem nüchternen Stil."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt überwiegend aus Namenslexika und Infoseiten, nicht aus einer breiten öffentlichen Debatte.",
+    "Es gibt kaum direkte Alltagsbewertungen; die Resonanz ist daher nur vorsichtig ableitbar.",
+    "Einzelne Community-Elemente auf einer Quelle können die positive Tönung leicht verstärken, sollten aber nicht überbewertet werden."
+  ],
+  "short_summary": "Emiliana wird überwiegend als seltener, klangvoller und international geprägter Vorname wahrgenommen. Die öffentliche Rezeption wirkt eher freundlich-sachlich als kontrovers.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.95,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Emiliana � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/E/Em/Emiliana/"
+    },
+    {
+      "confidence": 0.94,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Emiliana: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Emiliana.html"
+    }
+  ],
+  "style_effect": [
+    "klangvoll",
+    "elegant",
+    "klassisch",
+    "international",
+    "lateinisch geprägt",
+    "weiblich-markant",
+    "selten",
+    "namenskundlich auffällig"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Eher selten bzw. wenig verbreitet in Deutschland, dadurch auffällig ohne massenhaft präsent zu sein. Die öffentliche Sichtbarkeit entsteht vor allem über Namenslexika und Infoseiten, nicht über breite Alltagsdiskussionen."
+}

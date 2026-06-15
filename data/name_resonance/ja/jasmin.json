@@ -1,0 +1,74 @@
+{
+  "associations": [
+    "Jasminblüte",
+    "duftende weiße Blüten",
+    "Blume",
+    "persischer Ursprung",
+    "Schönheit",
+    "Reinheit",
+    "Unschuld",
+    "Liebe",
+    "Beliebtheit",
+    "Namenstag",
+    "weiblicher Vorname",
+    "Unisex-Name"
+  ],
+  "confidence": 0.88,
+  "display_text": "Jasmin wirkt in der öffentlichen Wahrnehmung überwiegend positiv: ein weicher, blumiger und eleganter Name mit Assoziationen an Jasminblüten, Duft und Schönheit. Die verfügbaren Quellen sind allerdings begrenzt und vor allem namenskundliche Portale.",
+  "evidence_quality": "Begrenzt bis mittel: mehrere übereinstimmende, aber überwiegend portalbasierte Quellen mit klarer Namensdiskussion; keine breite öffentliche Diskurslage.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Jasmin",
+  "normalized_name": "jasmin",
+  "overall_resonance": "Überwiegend positiv und freundlich-informativ. Der Name wird in den vorliegenden Quellen vor allem mit der Jasminblüte, einem angenehmen Duft und Assoziationen wie Schönheit, Reinheit und Eleganz verbunden. Gleichzeitig ist die öffentliche Resonanz eher breit informativ als stark emotional, da die Evidenz vor allem aus Namensportalen besteht.",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt Jasmin meist vertraut, freundlich und leicht zugänglich.",
+    "Die blumige Bedeutung macht den Namen besonders für Menschen attraktiv, die einen sanften, natürlichen Klang mögen.",
+    "Im deutschen Kontext wird Jasmin laut Quellen häufiger weiblich verwendet, obwohl auch Unisex-Nutzung erwähnt wird."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenzlage ist begrenzt: Es liegen im Wesentlichen nur einzelne Namenslexikon-/Portalquellen vor.",
+    "Die genannten Bedeutungen und Assoziationen sind typische Namensdeutungen und sollten nicht als allgemeingültige Eigenschaften des Namens verstanden werden.",
+    "Keine Hinweise auf soziale Stigmatisierung in der Evidenz."
+  ],
+  "short_summary": "Jasmin wird im deutschsprachigen Raum überwiegend positiv und freundlich wahrgenommen, vor allem mit der Jasminblüte, Duft, Schönheit und Reinheit verbunden. Die Evidenz ist jedoch eher schmal und stammt hauptsächlich aus Namensportalen.",
+  "source_count": 3,
+  "sources": [
+    {
+      "confidence": 0.92,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "Vorname Jasmin � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/J/Ja/Jasmin/"
+    },
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Jasmin � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/J/Ja/Jasmin/"
+    },
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Jasmin: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Jasmin.html"
+    }
+  ],
+  "style_effect": [
+    "weich und feminin wirkend",
+    "botanische/blumige Assoziationen",
+    "elegant und freundlich",
+    "modern, aber nicht stark ausgefallen",
+    "in den Quellen auch als Unisex-Name beschrieben, im Deutschen jedoch häufiger weiblich wahrgenommen"
+  ],
+  "usable_evidence_count": 3,
+  "visibility": "Mittel bis gut sichtbar im deutschsprachigen Namenskontext; der Name ist bekannt, wirkt aber laut Quellen eher als klassischer Vorname mit botanischer Anmutung als als stark trendgetriebener Modename."
+}

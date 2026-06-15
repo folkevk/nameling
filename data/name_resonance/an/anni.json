@@ -1,0 +1,59 @@
+{
+  "associations": [
+    "weiblicher Vorname",
+    "Kurz- und Koseform von Anna",
+    "hebräische Herkunft",
+    "Bedeutung im Umfeld von Gnade/Anmut",
+    "historisch vertraut, heute wieder präsenter",
+    "Namenstag-Tradition"
+  ],
+  "confidence": 0.82,
+  "display_text": "Anni wirkt in der öffentlichen Wahrnehmung überwiegend freundlich, kurz und vertraut. Die vorliegenden Quellen beschreiben den Namen als klassische Kurz- bzw. Koseform von Anna mit hebräischer Herkunft und Bedeutung im Umfeld von Gnade/Anmut. Insgesamt ist die Resonanz eher positiv, aber die Evidenz ist begrenzt und stammt vor allem aus Namenslexika.",
+  "evidence_quality": "mittel: zwei namenskundliche Webquellen, überwiegend sachlich, mit leicht positiver Tendenz; keine breite soziale Stichprobe",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Anni",
+  "normalized_name": "anni",
+  "overall_resonance": "Anni wird in den vorliegenden Quellen überwiegend sachlich bis freundlich wahrgenommen. Der Name wirkt kurz, vertraut und eher leicht verspielt; zugleich wird er als klassische Kurz- bzw. Koseform von Anna mit traditioneller Herkunft beschrieben.",
+  "practical_notes": [
+    "Für eine Namenssuche eignet sich Anni als kurze, klare und leicht merkbare Form.",
+    "Die Wirkung ist eher freundlich und unkompliziert als förmlich.",
+    "Als Kurzform von Anna kann der Name traditionell wirken, ohne altmodisch zu erscheinen."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist begrenzt und stammt im Wesentlichen aus Namenslexika; das ist für eine öffentliche Resonanzkarte nur eingeschränkt repräsentativ.",
+    "Die positive Einordnung basiert eher auf sprachlicher und etymologischer Darstellung als auf breiter öffentlicher Meinungsbildung."
+  ],
+  "short_summary": "Anni wird meist freundlich und sachlich bewertet: ein kurzer, vertrauter Name mit klassischer Herkunft als Kurzform von Anna und leicht verspielter Wirkung.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "positive",
+      "source_type": "web",
+      "title": "Vorname Anni � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/A/An/Anni/"
+    },
+    {
+      "confidence": 0.87,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Anni: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Anni.html"
+    }
+  ],
+  "style_effect": [
+    "kurz und eingängig",
+    "freundlich und weich im Klang",
+    "klassisch durch die Verbindung zu Anna",
+    "jugendlich bzw. verspielt wirkend",
+    "leicht nostalgisch mit modernem Comeback"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland ist Anni als Vorname bekannt und in Namenslexika präsent; die Quellen deuten auf eine gewisse aktuelle Sichtbarkeit und ein moderates positives Interesse hin, ohne dass daraus eine breite öffentliche Dominanz ableitbar wäre."
+}

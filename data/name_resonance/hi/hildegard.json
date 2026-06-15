@@ -1,0 +1,65 @@
+{
+  "associations": [
+    "Bedeutung im Sinne von Schutz und Kampf",
+    "mittelalterliche Tradition",
+    "Hildegard von Bingen",
+    "zweigliedriger altdeutscher Name",
+    "Namenstag",
+    "Spitznamen wie Hilde oder Hilda",
+    "eher seltene heutige Verwendung"
+  ],
+  "confidence": 0.81,
+  "display_text": "Hildegard: traditionell, historisch und altdeutsch; heute selten und teils als altmodisch empfunden, zugleich mit starken Assoziationen an Schutz, Stärke und Namensgeschichte.",
+  "evidence_quality": "mittel: klare Namens-Evidenz, aber begrenzte Repräsentativität und teils kommentarbasiert",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Hildegard",
+  "normalized_name": "hildegard",
+  "overall_resonance": "Hildegard wird öffentlich vor allem als sehr traditionell, historisch und altdeutsch wahrgenommen. Die Resonanz ist eher kulturell-historisch als modisch: Viele verbinden den Namen mit Schutz, Stärke und einer langen Namensgeschichte, zugleich wirkt er auf manche heute altmodisch oder ungewöhnlich selten.",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt Hildegard traditionsbewusst und eigenständig.",
+    "Der Name ist klar erkennbar, aber nicht zeittypisch-modern.",
+    "Kurzformen können den Namen im Alltag weicher und zugänglicher machen.",
+    "Für moderne, trendige Assoziationen ist der Name weniger passend als für klassische oder historische Kontexte."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt überwiegend aus Namenslexika und einzelnen Nutzerkommentaren; das ist nur eingeschränkt repräsentativ für die allgemeine öffentliche Meinung.",
+    "Positive und negative Bewertungen sind teilweise von subjektiven Kommentaren geprägt.",
+    "Eine mögliche Wahrnehmung als altmodisch ist eine zeitbezogene Einschätzung, keine feste Eigenschaft des Namens."
+  ],
+  "short_summary": "Hildegard wird meist als historisch, altdeutsch und traditionsreich wahrgenommen; zugleich gilt der Name heute als selten und wirkt auf manche eher altmodisch.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Hildegard � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/H/Hi/Hildegard/"
+    },
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "mixed",
+      "source_type": "web",
+      "title": "&#9655; Vorname Hildegard: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Hildegard.html"
+    }
+  ],
+  "style_effect": [
+    "historisch",
+    "altdeutsch",
+    "klassisch",
+    "eher selten",
+    "eher formell",
+    "traditionsreich",
+    "leicht altertümlich",
+    "stark namensgeschichtlich aufgeladen"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Im deutschsprachigen Raum bekannt, aber als Vorname heute deutlich selten und eher nicht im aktuellen Mainstream. Die öffentliche Wahrnehmung scheint daher eher auf Wiedererkennung als auf breite Nutzung zu beruhen."
+}

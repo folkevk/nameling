@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "arabische Herkunftsdeutung",
+    "türkischer Jungenname",
+    "Kurz- und Koseform von Samuel",
+    "Bedeutungen wie „der Erhabene“ oder „von Gott erhört“",
+    "mehrsprachig und international verwendbar",
+    "in Deutschland offenbar bekannt und häufig vergeben"
+  ],
+  "confidence": 0.84,
+  "display_text": "Sami wird in Deutschland überwiegend sachlich bis leicht positiv wahrgenommen: ein kurzer, international lesbarer Jungenname mit arabischen, türkischen und Samuel-bezogenen Deutungen. Die Evidenz ist vor allem lexikalisch, daher ist die öffentliche Resonanz nur indirekt ablesbar.",
+  "evidence_quality": "mittel: klar namebezogene Quellen, aber vor allem lexikalische und belobende/erklärende Darstellungen; direkte öffentliche Meinungsbilder sind kaum enthalten.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Sami",
+  "normalized_name": "sami",
+  "overall_resonance": "Der Vorname Sami wird in der vorliegenden Evidenz überwiegend sachlich bis leicht positiv beschrieben. Er erscheint in Deutschland als bekannter, gebräuchlicher Jungenname mit mehreren kulturellen und sprachlichen Zuordnungen. Die öffentliche Wahrnehmung wirkt eher neutral-informativ als emotional aufgeladen.",
+  "practical_notes": [
+    "Für eine Namenssuche eignet sich Sami als kurzer, leicht merkbarer und international anschlussfähiger Name.",
+    "Die Aussprache und Einordnung kann je nach Sprachraum variieren.",
+    "Wenn eine eindeutige kulturelle Herkunft wichtig ist, sollte der Kontext mitgedacht werden."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Datenlage ist begrenzt und stammt fast ausschließlich aus Namenslexika; daraus lässt sich nur eingeschränkt echte öffentliche Resonanz ableiten.",
+    "Mehrere Herkunfts- und Bedeutungszuordnungen können je nach Sprache und Kontext unterschiedlich verstanden werden.",
+    "Keine Hinweise auf eine negative gesellschaftliche Stigmatisierung in der vorliegenden Evidenz."
+  ],
+  "short_summary": "Sami wirkt in Deutschland als bekannter, eher positiv oder neutral wahrgenommener Jungenname mit internationaler und mehrsprachiger Einbettung.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Sami � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/S/Sa/Sami/"
+    },
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Sami: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Sami.html"
+    }
+  ],
+  "style_effect": [
+    "kurz und eingängig",
+    "international/multikulturell lesbar",
+    "modern und unkompliziert wirkend",
+    "lexikalisch klar",
+    "als männlicher Vorname wahrgenommen"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland gut sichtbar und nachvollziehbar präsent, vor allem in Namenslexika und Beliebtheitsübersichten. Die Evidenz zur öffentlichen Resonanz ist jedoch indirekt und stark auf Namensseiten beschränkt."
+}

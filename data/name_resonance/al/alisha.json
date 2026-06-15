@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "edle / vornehme Bedeutung",
+    "althochdeutsche und englische Bezüge",
+    "arabische Deutung: „Prinzessin“",
+    "Mädchenname",
+    "Namenstag",
+    "internationale Varianten",
+    "moderate Bekanntheit in Deutschland"
+  ],
+  "confidence": 0.84,
+  "display_text": "Alisha wird überwiegend positiv wahrgenommen: klangvoll, modern und mit Bedeutungen wie „edel“ oder „Prinzessin“ verbunden. Die Evidenz ist vor allem lexikalisch und daher nur begrenzt ein Bild breiter öffentlicher Diskussion.",
+  "evidence_quality": "mittel: mehrere einschlägige Namensquellen, aber vor allem lexikalische und kommentarnahe Evidenz statt breiter öffentlicher Debatte.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Alisha",
+  "normalized_name": "alisha",
+  "overall_resonance": "Überwiegend positiv und eher freundlich-informativ: Alisha wird in der vorliegenden Evidenz mit Bedeutungen wie „edel“, „vornehm“ oder „Prinzessin“ verknüpft und meist als klangvoller Mädchenname beschrieben. Die öffentliche Rezeption wirkt damit eher wertschätzend als kontrovers, allerdings stützt sich die Evidenz vor allem auf Namenslexika und nicht auf breite Diskussionen.",
+  "practical_notes": [
+    "Für eine Namenssuche eignet sich Alisha als modern wirkender, international verständlicher Vorname.",
+    "Die Resonanz ist eher positiv, aber nicht besonders breit diskutiert.",
+    "Wenn ein Name mit klassisch-deutscher Tradition gesucht wird, wirkt Alisha eher international als traditionell-deutsch."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt überwiegend aus Namensdatenbanken und Lexikonseiten; das ist für öffentliche Resonanz nützlich, aber nur begrenzt repräsentativ.",
+    "Es liegen keine Hinweise auf eine starke gesellschaftliche Stigmatisierung vor; falls einzelne Meinungen abweichen, sind diese eher als subjektive Geschmacksaussagen zu verstehen."
+  ],
+  "short_summary": "Alisha wird in der verfügbaren Evidenz meist positiv, klangvoll und international wahrgenommen; die Quellen sind jedoch vor allem Namenslexika.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.91,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "Vorname Alisha � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/A/Al/Alisha/"
+    },
+    {
+      "confidence": 0.9,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Alisha: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Alisha.html"
+    }
+  ],
+  "style_effect": [
+    "klangvoll",
+    "modern",
+    "international anschlussfähig",
+    "weiblich markiert",
+    "eher weich im Klang",
+    "namenskundlich aufgeladen"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Mittlere Sichtbarkeit im deutschsprachigen Namenskontext; der Name ist bekannt, wirkt aber nicht massenhaft dominant. Die öffentliche Wahrnehmung erscheint eher in Nachschlagewerken und Namensportalen als in breiter Debatte."
+}

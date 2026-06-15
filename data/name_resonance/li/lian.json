@@ -1,0 +1,68 @@
+{
+  "associations": [
+    "chinesische Herkunft wird genannt",
+    "lateinische oder keltische Kurzform wird erwähnt",
+    "Bedeutungen wie Lotosblume, Wasserfall oder Krieger/Kriegerin tauchen auf",
+    "Unisex-Name",
+    "Beliebtheit in Deutschland",
+    "kurze Spitznamen- und Kurzformwirkung"
+  ],
+  "confidence": 0.8,
+  "display_text": "Lian wirkt in den verfügbaren Quellen überwiegend neutral bis leicht positiv: modern, kurz und oft als Unisex-Name beschrieben. In Deutschland ist der Name sichtbar und bekannt, aber die Evidenz stammt vor allem aus einzelnen Namensseiten, nicht aus einer breiten öffentlichen Debatte.",
+  "evidence_quality": "mittel bis schwach: mehrere direkte Namensseiten, aber keine breite öffentliche Resonanz und kaum unabhängige Nutzerstimmen",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Lian",
+  "normalized_name": "lian",
+  "overall_resonance": "Überwiegend neutral bis leicht positiv. Lian wird in den vorliegenden Namensquellen vor allem als moderner, kurzer und vielseitig einsetzbarer Vorname beschrieben, oft mit Unisex-Charakter.",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt Lian unkompliziert, modern und gut merkbar.",
+    "Die Wirkung kann je nach Kontext eher international oder genderneutral gelesen werden.",
+    "Wegen der wechselnden Herleitungen ist eine vorsichtige Formulierung zur Bedeutung sinnvoll."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz besteht fast ausschließlich aus einzelnen Namenslexikon-Seiten, nicht aus einer breiten öffentlichen Diskussion.",
+    "Die genannten Bedeutungen und Herleitungen sind teils unterschiedlich und sollten nicht als eindeutig gelten.",
+    "Eine echte gesellschaftliche Bewertung oder Stigmatisierung ist aus der Evidenz nicht ableitbar."
+  ],
+  "short_summary": "Lian wird in den verfügbaren Quellen eher freundlich-neutral wahrgenommen: modern, kurz, oft als Unisex-Name beschrieben und in Deutschland bekannt. Die Evidenz ist aber vor allem namenskundlich und nicht breit öffentlich.",
+  "source_count": 3,
+  "sources": [
+    {
+      "confidence": 0.88,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Lian � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/L/Li/Lian/"
+    },
+    {
+      "confidence": 0.94,
+      "is_name_discussion": true,
+      "sentiment": "mostly positive",
+      "source_type": "web",
+      "title": "Vorname Lian � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/L/Li/Lian/"
+    },
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "mixed",
+      "source_type": "web",
+      "title": "&#9655; Vorname Lian: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Lian.html"
+    }
+  ],
+  "style_effect": [
+    "kurz und modern",
+    "namenskundlich aufgeladen",
+    "international bzw. mehrdeutig anschlussfähig",
+    "häufig als unisex wahrgenommen",
+    "eher weich als traditionell"
+  ],
+  "usable_evidence_count": 3,
+  "visibility": "In Deutschland scheint der Name bekannt und sichtbar zu sein, besonders in Namensportalen und Beliebtheitskontexten. Eine breite öffentliche Debatte oder starke Alltagskontroverse ist in der Evidenz jedoch nicht erkennbar."
+}

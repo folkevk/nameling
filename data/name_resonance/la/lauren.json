@@ -1,0 +1,66 @@
+{
+  "associations": [
+    "lateinische Herkunft",
+    "Lorbeer, Lorbeerkranz, Sieg, Ruhm, Ehre",
+    "Unisex-Name, heute eher weiblich verwendet",
+    "englische bzw. internationale Anmutung",
+    "in Deutschland eher selten"
+  ],
+  "confidence": 0.82,
+  "display_text": "Lauren wirkt in Deutschland eher selten, aber unkompliziert und international. Die öffentliche Rezeption ist überwiegend neutral bis leicht positiv; die Quellen betonen vor allem die Bedeutung rund um Lorbeer, Sieg und Ehre. Da die Evidenz hauptsächlich aus Namenslexika stammt, ist die Einschätzung vorsichtig zu lesen.",
+  "evidence_quality": "mittel bis schwach: gute lexikalische Abdeckung, aber nur begrenzte öffentliche Resonanzdaten",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Lauren",
+  "normalized_name": "lauren",
+  "overall_resonance": "Überwiegend neutral bis leicht positiv. Lauren wird in den Quellen vor allem sachlich als Vorname beschrieben, mit einigen freundlichen Assoziationen rund um Klang und Herkunft.",
+  "practical_notes": [
+    "Für Namenssuche in DE wirkt Lauren international und vertraut, aber nicht alltäglich.",
+    "Der Name ist gut verständlich, leicht auszusprechen und kulturell eher neutral.",
+    "Wer einen seltenen, aber nicht ungewöhnlich-exotischen Namen sucht, findet hier eine stimmige Option."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz für öffentliche Resonanz ist begrenzt, weil überwiegend Namensseiten und keine breite Diskussion vorliegen.",
+    "Positive Eindrücke stammen teilweise aus einzelnen Kommentaren und sollten nicht verallgemeinert werden.",
+    "Die geschlechtliche Einordnung kann je nach Kontext variieren; in den Quellen wird Lauren meist als eher weiblich, teils unisex beschrieben."
+  ],
+  "short_summary": "Lauren wird in Deutschland eher selten, überwiegend neutral und teils leicht positiv wahrgenommen. Der Name wirkt international, modern und ist mit Lorbeer, Sieg und Ehre verbunden.",
+  "source_count": 3,
+  "sources": [
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Lauren � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/L/La/Lauren/"
+    },
+    {
+      "confidence": 0.95,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Lauren � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/L/La/Lauren/"
+    },
+    {
+      "confidence": 0.79,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Lauren: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Lauren.html"
+    }
+  ],
+  "style_effect": [
+    "englisch und international wirkend",
+    "eher weich und modern",
+    "lexikalisch stark mit Herkunftsbezug",
+    "seltener Name mit klarer Wiedererkennbarkeit"
+  ],
+  "usable_evidence_count": 3,
+  "visibility": "In Deutschland eher selten und dadurch öffentlich nicht stark präsent. Die verfügbare Evidenz besteht vor allem aus Namenslexika und wenigen kommentarbasierten Hinweisen, nicht aus breiter öffentlicher Diskussion."
+}

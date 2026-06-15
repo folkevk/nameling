@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "schwedische Form von Emilie",
+    "lateinischer Ursprung über aemulus",
+    "Bedeutungen wie tapfer, tüchtig, tatkräftig",
+    "auch als die Sanfte oder Nacheifernde beschrieben",
+    "Namenstag am 5. Januar",
+    "in Deutschland als sehr beliebt bezeichnet"
+  ],
+  "confidence": 0.87,
+  "display_text": "Emelie wird überwiegend positiv und als beliebter, modern klingender Vorname wahrgenommen. Die Quellen verweisen auf die schwedische Form von Emilie, den Bedeutungsrahmen rund um „tapfer“/„tüchtig“ sowie eine gute Verankerung in Deutschland. Hinweise auf Kritik sind gering und beziehen sich eher vereinzelt auf die Schreibweise.",
+  "evidence_quality": "mittel bis gut: zwei klar namenskundliche Webquellen, aber wenig unabhängige Breite und kaum echte öffentliche Debatte.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Emelie",
+  "normalized_name": "emelie",
+  "overall_resonance": "Emelie wird in den vorliegenden Quellen überwiegend positiv und namenskundlich beschrieben. Der Name wirkt modern, freundlich und in Deutschland gut anschlussfähig, mit einer klaren Wahrnehmung als beliebter Mädchenname.",
+  "practical_notes": [
+    "Für Suchmaschinen- und Katalogtexte eignet sich eine knappe, positive Beschreibung mit Herkunft und Beliebtheit.",
+    "Die Schreibweise ist eindeutig, kann aber mit ähnlichen Formen wie Emilie verwechselt werden.",
+    "Am besten als moderner, bekannter und angenehm klingender Vorname einordnen."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt fast nur aus Namenslexika und einer Community-Seite; das ist informativ, aber nicht gleichbedeutend mit breiter öffentlicher Meinung.",
+    "Vereinzelte Hinweise auf Schreibschwierigkeiten sollten nur als Randnotiz verstanden werden, nicht als allgemeine Bewertung.",
+    "Keine Hinweise auf soziale Stigmatisierung in den Daten."
+  ],
+  "short_summary": "Emelie wird meist positiv, modern und beliebt wahrgenommen; die Quellen betonen Herkunft, Bedeutung und gute Anschlussfähigkeit in Deutschland.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "Vorname Emelie � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/E/Em/Emelie/"
+    },
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Emelie: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Emelie.html"
+    }
+  ],
+  "style_effect": [
+    "modern",
+    "freundlich",
+    "sanft im Klang",
+    "zugleich klassisch anschlussfähig",
+    "informativ wahrgenommen",
+    "weiblich codiert"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland laut den Quellen gut sichtbar und beliebt, vor allem in Namenslexika und Vorname-Portalen. Eine breite öffentliche Debatte ist daraus nicht erkennbar; die Evidenz ist eher quellen- als meinungsgetrieben."
+}

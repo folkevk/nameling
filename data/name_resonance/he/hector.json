@@ -1,0 +1,64 @@
+{
+  "associations": [
+    "altgriechische Herkunft",
+    "griechische Mythologie",
+    "trojanischer Held",
+    "Bedeutung: der Festhalter / der Anker",
+    "lateinische Form von Hektor",
+    "international verbreitet",
+    "Namenstag",
+    "selten in Deutschland"
+  ],
+  "confidence": 0.84,
+  "display_text": "Hector wirkt in Deutschland eher selten, aber klassisch und international verständlich. Der Name ist stark durch griechische Mythologie und eine sachlich-positiv gefärbte Namensdeutung geprägt. Die Evidenz ist jedoch vor allem lexikalisch, daher nur vorsichtig als öffentliche Resonanz zu verstehen.",
+  "evidence_quality": "mittel bis schwach; klar namenskundliche Evidenz, aber wenig freie öffentliche Resonanz",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Hector",
+  "normalized_name": "hector",
+  "overall_resonance": "Hector wird in der verfügbaren Evidenz überwiegend sachlich bis positiv wahrgenommen. Der Name wirkt klassisch, international und kulturell aufgeladen, vor allem durch die Verbindung zur griechischen Mythologie. Die öffentliche Rezeption ist jedoch nur begrenzt belastbar, weil sie stark von Namenslexikon-Seiten geprägt ist.",
+  "practical_notes": [
+    "Gut geeignet, wenn ein seltenerer, aber vertrauter Name mit klassischem Klang gesucht wird.",
+    "Die Schreibweise ist klar, die internationale Verständlichkeit hoch.",
+    "Im deutschen Umfeld kann der Name wegen seiner Seltenheit etwas auffallen, wirkt aber nicht künstlich oder schwer zugänglich."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz basiert fast nur auf Namenslexika und nicht auf breiter öffentlicher Diskussion.",
+    "Positive Eindrücke können durch die kulturhistorische Deutung des Namens mitgeprägt sein.",
+    "Aussagen zur tatsächlichen Alltagswahrnehmung in Deutschland sind daher nur vorsichtig ableitbar."
+  ],
+  "short_summary": "Hector wird meist als klassischer, internationaler und mythologisch geprägter Jungenname wahrgenommen; in Deutschland eher selten, insgesamt sachlich bis positiv besetzt.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Hector � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/H/He/Hector/"
+    },
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Hector: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Hector.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "kulturell",
+    "mythologisch",
+    "international",
+    "markant",
+    "eher selten",
+    "sachlich-elegant"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland eher selten bis bekannt, aber nicht alltäglich. Dadurch kann der Name auffallen, bleibt aber grundsätzlich gut einordbar und international verständlich."
+}

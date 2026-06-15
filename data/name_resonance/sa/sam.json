@@ -1,0 +1,70 @@
+{
+  "associations": [
+    "Kurzform von Samuel",
+    "Kurzform von Samantha",
+    "biblische bzw. hebräische Herkunft",
+    "je nach Herleitung unterschiedliche Bedeutungen",
+    "Unisex-Name",
+    "international verbreitet",
+    "in Deutschland beliebt bzw. populär",
+    "Namenstag wird teils genannt"
+  ],
+  "confidence": 0.92,
+  "display_text": "Sam wirkt in den Quellen kurz, modern und international. Der Name wird meist neutral bis positiv beschrieben, als Unisex-Name eingeordnet und in Deutschland als bekannt bzw. beliebt dargestellt. Die Bedeutungen sind je nach Herleitung unterschiedlich, daher ist die Aussage dazu vorsichtig zu lesen.",
+  "evidence_quality": "Gut, aber vor allem lexikalische Quellen; die Evidenz ist klar, jedoch nicht breit gestreut. Aussagen zur öffentlichen Wirkung sind daher vorsichtig zu lesen.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Sam",
+  "normalized_name": "sam",
+  "overall_resonance": "Der Vorname Sam wird in den vorliegenden Quellen überwiegend sachlich bis positiv wahrgenommen: kurz, international, modern und als Unisex-Name einordbar. Die öffentliche Rezeption wirkt eher unkompliziert und wertschätzend als kontrovers.",
+  "practical_notes": [
+    "Für eine neutrale Namenswahl wirkt Sam modern und unkompliziert.",
+    "Die kurze Form kann als Vorteil bei Aussprache und Schreibweise gelten.",
+    "Wer eine eindeutige Herkunft oder Bedeutung sucht, sollte die mehrdeutigen Herleitungen mitdenken."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Bedeutungsangaben sind herkunftsabhängig und nicht einheitlich.",
+    "Die Evidenz stammt überwiegend aus Namenslexika; direkte Alltagsresonanz ist nur schwach belegt.",
+    "Einzelne Angaben zur Beliebtheit sind beschreibend und nicht als harte Trendmessung zu verstehen."
+  ],
+  "short_summary": "Sam wird in Deutschland meist als kurzer, internationaler und eher positiver Unisex-Vorname beschrieben. Die Quellen sind überwiegend sachlich; die Bedeutungen variieren je nach Herkunft.",
+  "source_count": 3,
+  "sources": [
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Sam � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/S/Sa/Sam/"
+    },
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "Vorname Sam � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/S/Sa/Sam/"
+    },
+    {
+      "confidence": 0.89,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Sam: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Sam.html"
+    }
+  ],
+  "style_effect": [
+    "kurz und prägnant",
+    "international klingend",
+    "modern und unkompliziert",
+    "genderneutral einsetzbar",
+    "lexikalisch klar und leicht verständlich"
+  ],
+  "usable_evidence_count": 3,
+  "visibility": "In Deutschland scheint Sam als bekannt und gut anschlussfähig wahrgenommen zu werden, vor allem durch seine Kürze und internationale Verwendbarkeit. Die Sichtbarkeit ist solide, aber nicht von starker Polarisierung geprägt."
+}

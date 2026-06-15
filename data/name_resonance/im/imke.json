@@ -1,0 +1,63 @@
+{
+  "associations": [
+    "friesische bzw. niederdeutsche Herkunft",
+    "Koseform von Irma/Imma",
+    "Bedeutung im Umfeld von 'groß' oder 'allumfassend'",
+    "teils irrtümliche Verbindung mit Honigbiene/Fleiß",
+    "regional in Norddeutschland",
+    "eher selten in Deutschland"
+  ],
+  "confidence": 0.76,
+  "display_text": "Imke wirkt in der öffentlichen Wahrnehmung überwiegend sachlich-neutral bis leicht positiv: ein seltener, friesisch/niederdeutsch geprägter Vorname mit traditioneller, regionaler Ausstrahlung. Die Evidenz ist eher namenkundlich als meinungsbasiert; die oft genannte Bienen-Assoziation ist nicht gesichert.",
+  "evidence_quality": "mittel bis schwach: zwei namenkundliche Webquellen, überwiegend beschreibend, wenig direkte öffentliche Meinungsdaten",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Imke",
+  "normalized_name": "imke",
+  "overall_resonance": "Überwiegend sachlich-neutral mit leicht positiver, regional verankerter Namenswirkung. Imke wird vor allem als friesisch/niederdeutsch geprägter, eher seltener Vorname wahrgenommen.",
+  "practical_notes": [
+    "Für eine Namenssuche ist Imke gut als traditionell-regionaler, kurzer Mädchenname einzuordnen.",
+    "Die Wahrnehmung dürfte je nach Region unterschiedlich sein; in Norddeutschland vermutlich vertrauter als anderswo.",
+    "Der Name wirkt eher klar, nüchtern und nicht modisch-überladen.",
+    "Wegen der Seltenheit kann er als individuell empfunden werden."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz zur öffentlichen Resonanz ist begrenzt und stammt vor allem aus Namensportalen, nicht aus breiter Meinungsforschung.",
+    "Die Bienen-/Fleiß-Assoziation wirkt uneinheitlich und sollte nicht als gesicherte Namensbedeutung dargestellt werden.",
+    "Es gibt keine belastbaren Hinweise auf starke positive oder negative gesellschaftliche Wertungen des Namens."
+  ],
+  "short_summary": "Imke wird öffentlich meist sachlich und eher positiv-kontextual wahrgenommen: ein seltener, friesisch/niederdeutsch geprägter Name mit traditioneller, regionaler Note.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.92,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Imke � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/I/Im/Imke/"
+    },
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "mixed",
+      "source_type": "web",
+      "title": "&#9655; Vorname Imke: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Imke.html"
+    }
+  ],
+  "style_effect": [
+    "norddeutsch",
+    "friesisch",
+    "traditionell",
+    "kurz und klar",
+    "namentlich bodenständig",
+    "leicht eigenständig",
+    "selten, aber etabliert"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland eher selten und regionaler bekannt, besonders im norddeutschen Raum. Die öffentliche Sichtbarkeit wirkt daher eher zurückhaltend als breit massenhaft."
+}

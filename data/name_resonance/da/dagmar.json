@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "altnordische und teils altslawische Herkunft",
+    "Bedeutungen wie „die Wertvolle“, „die Friedliebende“ oder „die Berühmte“",
+    "Namenslexikon- und Herkunftskontext",
+    "klassischer Mädchenvorname",
+    "historisch stärker genutzt",
+    "heute in Deutschland eher selten"
+  ],
+  "confidence": 0.9,
+  "display_text": "Dagmar: klassisch, traditionsverbunden und heute eher selten. Die öffentliche Wahrnehmung ist überwiegend neutral bis leicht positiv, mit Fokus auf Herkunft und Bedeutung.",
+  "evidence_quality": "mittel bis gut: zwei klare, namebezogene Quellen mit überwiegend sachlicher bis leicht positiver Einordnung; insgesamt jedoch begrenzte Quellenbreite.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Dagmar",
+  "normalized_name": "dagmar",
+  "overall_resonance": "Überwiegend neutral bis leicht positiv: Dagmar wird in den vorliegenden Quellen als klassischer, historisch geprägter Vorname mit klarer Namensbedeutung wahrgenommen. Die öffentliche Rezeption wirkt eher sachlich-namenskundlich als trendig oder emotional aufgeladen.",
+  "practical_notes": [
+    "Für Suchende wirkt der Name eher traditionell als modern.",
+    "Die Seltenheit kann ihn auffälliger machen, ohne ungewöhnlich schwer verständlich zu sein.",
+    "Als Resonanzprofil eignet sich „klassisch, selten, bedeutungsvoll“ am besten."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz basiert auf wenigen Namenslexikon-Seiten und ist daher nur begrenzt repräsentativ.",
+    "Einzelne Bedeutungsangaben unterscheiden sich leicht zwischen den Quellen; das ist bei Namensdeutungen nicht ungewöhnlich.",
+    "Keine Hinweise auf soziale Stigmatisierung in der vorliegenden Evidenz."
+  ],
+  "short_summary": "Dagmar wird öffentlich meist als klassischer, traditioneller und heute eher seltener Vorname wahrgenommen – mit überwiegend neutral bis leicht positiver Resonanz.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Dagmar � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/D/Da/Dagmar/"
+    },
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Dagmar: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Dagmar.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "traditionsverbunden",
+    "eher zeitlos",
+    "historisch",
+    "sachlich",
+    "selten im heutigen Gebrauch"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland heute eher selten und dadurch weniger präsent im Alltag; zugleich als bekannter Traditionsname noch gut einordbar."
+}

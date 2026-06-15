@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "Kurzform von Sebastian",
+    "altgriechischer Ursprung",
+    "Bedeutung im Sinne von \"der Erhabene\" bzw. \"ehrwürdig\"",
+    "Namenstag am 20. Januar, teils auch 25. Februar",
+    "seit den 1970er Jahren eigenständig gebräuchlich",
+    "in Deutschland beliebt bzw. bekannt",
+    "Spitzname oft \"Basti\""
+  ],
+  "confidence": 0.84,
+  "display_text": "Bastian wirkt in der öffentlichen Wahrnehmung überwiegend klassisch, vertraut und positiv konnotiert. Die Quellen beschreiben den Namen sachlich als bekannten deutschen Vornamen mit altgriechischer Herkunft, oft verstanden als Kurzform von Sebastian. Hinweise auf Stigmatisierung gibt es in der Evidenz nicht; die Resonanz ist eher nüchtern-bewertend als kontrovers.",
+  "evidence_quality": "mittel bis gut: zwei klar namenskundliche, überwiegend sachliche Webquellen mit hoher Relevanz, aber ohne breite öffentliche Diskussionslage.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Bastian",
+  "normalized_name": "bastian",
+  "overall_resonance": "Bastian wird in der öffentlichen Wahrnehmung überwiegend sachlich und positiv-konnotiert beschrieben: als vertrauter, in Deutschland gut bekannter Vorname mit traditioneller Herkunft und klarer Namensdeutung. Die verfügbaren Quellen sprechen eher über Bedeutung, Herkunft und Beliebtheit als über kontroverse Bewertungen.",
+  "practical_notes": [
+    "Wirkt im deutschsprachigen Raum unkompliziert und leicht einordbar.",
+    "Der Name verbindet traditionelle Herkunft mit einer kurzen, alltagstauglichen Form.",
+    "Für Suchmaschinen lässt sich Bastian als etablierter Jungenname mit positiver, nüchterner Namensresonanz zusammenfassen."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt fast ausschließlich aus Vornamensseiten und ist daher eher beschreibend als eine echte öffentliche Debatte.",
+    "Es gibt keine belastbaren Hinweise auf eine spezifische gesellschaftliche Stigmatisierung des Namens.",
+    "Einzelne Zusatznennungen zu Popkultur oder Personen sind für die Namenswirkung nur bedingt aussagekräftig."
+  ],
+  "short_summary": "Bastian ist in Deutschland ein bekannter, eher klassisch und positiv wahrgenommener Vorname mit altgriechischer Herkunft und der verbreiteten Deutung als Kurzform von Sebastian.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Bastian � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/B/Ba/Bastian/"
+    },
+    {
+      "confidence": 0.89,
+      "is_name_discussion": true,
+      "sentiment": "mixed",
+      "source_type": "web",
+      "title": "&#9655; Vorname Bastian: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Bastian.html"
+    }
+  ],
+  "style_effect": [
+    "informativ",
+    "klassisch",
+    "vertraut",
+    "jugendlich-kurz",
+    "namenskundlich"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland gut sichtbar und etabliert; die Evidenz deutet auf einen bekannten, verbreiteten Vornamen hin, ohne starke Polarisierung."
+}

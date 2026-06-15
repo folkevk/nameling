@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "niederdeutsche Koseform von Anna",
+    "friesische Nebenform von Anne",
+    "Bedeutungen wie „die Begnadete“ oder „die Anmutige“",
+    "historische Beliebtheit in Deutschland, besonders in den 1940er Jahren",
+    "heute eher selten vergeben",
+    "gleichlautendes Wort im Schweizerdeutschen für Butter"
+  ],
+  "confidence": 0.84,
+  "display_text": "Anke wirkt in der vorliegenden Evidenz überwiegend sachlich-neutral und traditionell: ein klassischer, norddeutsch/friesischer Vorname mit Herkunftsbezug zu Anna und Bedeutungen wie „die Begnadete“. Heute wird der Name eher als bekannt, aber selten vergeben wahrgenommen.",
+  "evidence_quality": "mittel bis gut für Herkunft, Bedeutung und historische Einordnung; schwächer für echte öffentliche Resonanz, da überwiegend lexikalische Quellen vorliegen.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Anke",
+  "normalized_name": "anke",
+  "overall_resonance": "Überwiegend sachlich-neutral mit leicht traditionell-vertrauter, historisch geprägter Anmutung. In der vorliegenden Evidenz wird Anke vor allem als klassischer, norddeutsch/friesisch geprägter Vorname mit biblisch-etymologischer Einordnung beschrieben.",
+  "practical_notes": [
+    "Für Suchmaschinen und Namensprofile eignet sich eine kurze Einordnung als klassischer, seltener gewordener Vorname.",
+    "Im deutschen Kontext wirkt der Name eher vertraut und traditionell als modern-trendig.",
+    "Die vorhandene Evidenz ist solide zur Herkunft und Bedeutung, aber nur begrenzt aussagekräftig zur öffentlichen Wirkung im Alltag."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt vor allem aus Namenslexika und Informationsseiten, nicht aus breiter öffentlicher Meinungsresonanz.",
+    "Die lexikalische Nebenbedeutung kann je nach Region mit dem Vornamen verwechselt werden; das ist keine Bewertung des Namens selbst.",
+    "Keine belastbaren Hinweise auf soziale Stigmatisierung erkennbar."
+  ],
+  "short_summary": "Anke wird in den Quellen überwiegend neutral und traditionell-konventionell dargestellt: ein klassischer, norddeutsch/friesisch geprägter Vorname mit der Bedeutung und Herkunft rund um Anna, heute eher selten vergeben.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.91,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Anke � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/A/An/Anke/"
+    },
+    {
+      "confidence": 0.94,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Anke: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Anke.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "norddeutsch/friesisch",
+    "traditionell",
+    "etymologisch aufgeladen",
+    "eher bodenständig als modisch",
+    "historisch verankert"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Eher bekannt, aber heute deutlich seltener vergeben; dadurch wirkt der Name in öffentlichen Beschreibungen eher vertraut als trendig."
+}

@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "Koseform von Eva",
+    "Kurzform von Eva- bzw. Evi-Namen",
+    "hebräischer Ursprung",
+    "Bedeutung: Leben / Lebensspenderin",
+    "weiblicher Vorname",
+    "Namenstag erwähnenswert",
+    "eher positive Namenswirkung"
+  ],
+  "confidence": 0.79,
+  "display_text": "Evi wird in der öffentlichen Wahrnehmung meist freundlich und positiv eingeordnet: ein kurzer, klassischer Vorname mit Koseform-Charakter und der Namensbedeutung „Leben“. Die Quellenlage ist aber eher begrenzt und teils kommentarbasiert.",
+  "evidence_quality": "mittel bis schwach: zwei einschlägige Namensquellen, davon eine stärker kommentarbasiert; insgesamt klar namebezogen, aber begrenzt repräsentativ",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Evi",
+  "normalized_name": "evi",
+  "overall_resonance": "Evi wirkt in der öffentlichen Namenswahrnehmung überwiegend freundlich, klassisch und eher positiv besetzt. Der Name wird meist als Kurz- bzw. Koseform von Eva verstanden und mit Bedeutungen wie „Leben“ oder „lebendig“ verknüpft.",
+  "practical_notes": [
+    "Für eine Suchmaschine eignet sich Evi als kurzer, eingängiger Vorname mit klarer Herkunftszuordnung.",
+    "Die öffentliche Wahrnehmung wirkt eher warm und unkompliziert.",
+    "Bei der Interpretation sollte man beachten, dass die Quellen eher namenskundlich als empirisch repräsentativ sind."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist relativ schmal und stützt sich vor allem auf wenige Namensseiten.",
+    "Einzelne positive Bewertungen stammen teils aus Nutzerkommentaren und sind daher eher subjektiv als repräsentativ.",
+    "Keine belastbaren Hinweise auf eine gesellschaftliche Stigmatisierung in der vorliegenden Evidenz."
+  ],
+  "short_summary": "Evi wird öffentlich meist freundlich und positiv wahrgenommen: kurz, klassisch und als Koseform von Eva mit der Bedeutung „Leben“ verknüpft.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Evi � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/E/Ev/Evi/"
+    },
+    {
+      "confidence": 0.86,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Evi: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Evi.html"
+    }
+  ],
+  "style_effect": [
+    "kurz und prägnant",
+    "weich und freundlich",
+    "klassisch-kosehaft",
+    "zeitlos statt modisch",
+    "nah an Eva/Eve"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland scheint Evi bekannt, aber eher als kurzer, kompakter Vorname mit eher moderater Sichtbarkeit. Die vorhandenen Quellen beschreiben ihn als eher beliebt bzw. positiv wahrgenommen; die Datenlage ist dabei begrenzt."
+}

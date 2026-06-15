@@ -1,0 +1,67 @@
+{
+  "associations": [
+    "Irland",
+    "altirische bzw. keltische Herkunft",
+    "Bedeutung im Sinne von \"die Irin\" bzw. Bezug zu Irland",
+    "Unisex-Name",
+    "selten bis moderat in Deutschland"
+  ],
+  "confidence": 0.83,
+  "display_text": "Erin: überwiegend sachlich bis leicht positiv wahrgenommen. Der Name wird vor allem mit irischer/keltischer Herkunft, der Bedeutung rund um Irland und einem Unisex-Charakter verbunden. In Deutschland wirkt er eher selten bis moderat gebräuchlich; starke öffentliche Wertungen sind in der Evidenz kaum zu sehen.",
+  "evidence_quality": "mittel bis schwach: mehrere konsistente Namensseiten, aber kaum unabhängige öffentliche Meinungsäußerungen",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Erin",
+  "normalized_name": "erin",
+  "overall_resonance": "Der Vorname Erin wird in den vorliegenden deutschsprachigen Namensquellen überwiegend sachlich, leicht positiv und eher unaufgeregt dargestellt. Im Mittelpunkt stehen Herkunft, Bedeutung und die Einordnung als Unisex-Name; eine starke emotionale öffentliche Bewertung ist kaum erkennbar.",
+  "practical_notes": [
+    "Für Suchmaschinen und Namenslisten ist Erin gut verständlich und klar einordenbar.",
+    "Die Wirkung ist eher modern, international und sachlich als traditionell-deutsch.",
+    "Wenn eine eindeutige Geschlechtszuordnung wichtig ist, kann der Unisex-Eindruck mitgedacht werden."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt überwiegend aus Namensdatenbanken und Lexikonseiten; das ist eher beschreibend als meinungsstark.",
+    "Eine direkte öffentliche Wertung ist nur schwach belegt, daher sollte die positive Tönung vorsichtig gelesen werden.",
+    "Der Unisex-Charakter kann je nach Kontext unterschiedlich wahrgenommen werden."
+  ],
+  "short_summary": "Erin wird in Deutschland vor allem als irisch/keltisch geprägter, seltener Unisex-Vorname mit sachlich bis leicht positiver Resonanz wahrgenommen.",
+  "source_count": 3,
+  "sources": [
+    {
+      "confidence": 0.94,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "Vorname Erin � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/E/Er/Erin/"
+    },
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Erin � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/E/Er/Erin/"
+    },
+    {
+      "confidence": 0.72,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Erin: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Erin.html"
+    }
+  ],
+  "style_effect": [
+    "keltisch/irisch geprägt",
+    "modern und kurz",
+    "geschlechtsübergreifend als Unisex-Name wahrgenommen",
+    "eher informativ als emotional aufgeladen",
+    "selten bis moderat vertraut"
+  ],
+  "usable_evidence_count": 3,
+  "visibility": "In Deutschland wirkt der Name eher selten bis moderat gebräuchlich und vor allem als Namenslexikon-Eintrag sichtbar, nicht als häufig diskutierter Trendname."
+}

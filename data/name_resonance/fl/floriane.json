@@ -1,0 +1,62 @@
+{
+  "associations": [
+    "Bedeutung im Umfeld von Blume/Blüte bzw. „die Blühende“",
+    "lateinischer Ursprung",
+    "deutsche und französische Erweiterung von Flora/Floria",
+    "weiblich und eher traditionell-europäisch wirkend",
+    "selten in Deutschland",
+    "Namenstag in einigen Quellen erwähnt"
+  ],
+  "confidence": 0.84,
+  "display_text": "Floriane wirkt in den Quellen selten, klangvoll und blumig-elegant. Die Resonanz ist überwiegend freundlich bis leicht positiv, stammt aber vor allem aus Namenslexika und wenigen Kommentaren – also mit begrenzter öffentlicher Breite.",
+  "evidence_quality": "Begrenzt bis mittel: zwei einschlägige Namenslexikon-Quellen, überwiegend neutral bis leicht positiv, aber keine breite Datenbasis.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Floriane",
+  "normalized_name": "floriane",
+  "overall_resonance": "Floriane wird in den vorliegenden Quellen überwiegend als seltener, klangvoller und eher positiv besetzter Mädchenvorname beschrieben. Die öffentliche Wahrnehmung wirkt vor allem namenkundlich-informativ statt stark alltagsöffentlich; die Resonanz ist daher eher freundlich, aber nicht breit belegt.",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt Floriane eher ungewöhnlich, aber nicht exzentrisch.",
+    "Der Name vermittelt in den Quellen einen sanften, eleganten und blumigen Eindruck.",
+    "Wegen der Seltenheit kann die Wahrnehmung je nach Umfeld unterschiedlich ausfallen."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz basiert fast nur auf Namenslexikon-Seiten und wenigen Kommentaren.",
+    "Es handelt sich nicht um breite öffentliche Resonanz, sondern vor allem um beschreibende Namensdeutungen.",
+    "Einzelne stilistische Einschätzungen sind subjektiv und sollten nicht als allgemeingültig verstanden werden."
+  ],
+  "short_summary": "Floriane wird meist als seltener, blumig-eleganter Vorname mit eher positiver, freundlicher Wirkung beschrieben; die öffentliche Evidenz ist jedoch schmal.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.95,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Floriane � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/F/Fl/Floriane/"
+    },
+    {
+      "confidence": 0.89,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Floriane: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Floriane.html"
+    }
+  ],
+  "style_effect": [
+    "blumig",
+    "elegant",
+    "weich",
+    "klangvoll",
+    "klassisch-europäisch",
+    "selten",
+    "namenkundlich-informativ"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Eher gering bis mittel: Der Name erscheint in Namenslexika und vereinzelten Nutzerkommentaren, aber es gibt keine breite, belastbare öffentliche Debatte. Die Evidenz ist insgesamt eher schmal."
+}

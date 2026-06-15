@@ -1,0 +1,63 @@
+{
+  "associations": [
+    "englische Variante von Johanna",
+    "hebräische Herkunft",
+    "Bedeutung: Gott ist gnädig / Jahwe ist gnädig",
+    "weiblicher Vorname",
+    "Namenstag",
+    "in Deutschland bekannt",
+    "beliebter Vorname",
+    "Spitznamen wie Janechen oder Jamie"
+  ],
+  "confidence": 0.84,
+  "display_text": "Jane wirkt in der öffentlichen Namensbeschreibung eher positiv, klassisch und international. Die vorhandene Evidenz stammt vor allem aus Namenslexika, daher ist die tatsächliche öffentliche Resonanz nur indirekt erkennbar; Kontroversen oder Stigmatisierungen zeigen sich nicht.",
+  "evidence_quality": "mittel bis gut; zwei relevante Namensseiten, aber überwiegend lexikalische statt direkt öffentliche Resonanz.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Jane",
+  "normalized_name": "jane",
+  "overall_resonance": "Eher positiv und klassisch-international geprägt, mit vor allem beschreibender Namensresonanz statt klarer öffentlicher Meinungsdebatte.",
+  "practical_notes": [
+    "Für Suchende wirkt Jane unkompliziert, international verständlich und traditionell verankert.",
+    "Die öffentliche Resonanz scheint eher neutral bis positiv, ohne starke Kontroversen.",
+    "Als Name wird Jane häufig knapp, klassisch und leicht aussprechbar wahrgenommen."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt überwiegend aus Namenslexika und nicht aus unabhängigen öffentlichen Meinungsquellen.",
+    "Daher lässt sich eher die Namensbeschreibung als die echte öffentliche Wahrnehmung sicher ableiten.",
+    "Einzelne Nutzerkommentare können die Wahrnehmung verzerren und sollten nicht verallgemeinert werden."
+  ],
+  "short_summary": "Jane wird in den Quellen überwiegend positiv, klassisch und international beschrieben. Die öffentliche Resonanz ist eher indirekt belegt und wirkt freundlich-neutral bis positiv.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "Vorname Jane � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/J/Ja/Jane/"
+    },
+    {
+      "confidence": 0.92,
+      "is_name_discussion": true,
+      "sentiment": "positive",
+      "source_type": "web",
+      "title": "&#9655; Vorname Jane: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Jane.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "international",
+    "zeitlos",
+    "informativ",
+    "eher elegant",
+    "kurz und klar"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Mittlere Sichtbarkeit: Der Name wird in Namenslexika und Vornamenseiten erklärt und eingeordnet, aber die Evidenz zur öffentlichen Rezeption ist eher indirekt als breit gesellschaftlich belegt."
+}

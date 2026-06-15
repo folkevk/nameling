@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "niederdeutsche Form von Valentin/Valentinus",
+    "lateinischer Ursprung",
+    "Bedeutung: der Kräftige / der Starke / der Gesunde",
+    "Verbindung zu Valentin bzw. Namenstagstradition",
+    "selten in Deutschland",
+    "eher traditioneller Klang"
+  ],
+  "confidence": 0.84,
+  "display_text": "Velten wirkt in der öffentlichen Wahrnehmung meist sachlich-neutral bis eher positiv: selten, traditionell und einprägsam. Die Namensbedeutung wird häufig mit „stark“, „kräftig“ oder „gesund“ verbunden. Die Evidenz dafür ist jedoch eher schmal und überwiegend lexikalisch.",
+  "evidence_quality": "mittel bis schwach: zwei einschlägige Namenslexikon-Quellen, überwiegend neutral-informativ, nur begrenzte echte Resonanzdaten",
+  "generated_at": "2026-06-14T10:47:41Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Velten",
+  "normalized_name": "velten",
+  "overall_resonance": "Velten wird öffentlich meist sachlich-neutral bis eher positiv wahrgenommen. In Namenslexika wird der Name als selten, traditionell und klanglich einprägsam beschrieben; die Bedeutungsassoziationen „stark“, „kräftig“ und „gesund“ tragen zur positiven Einordnung bei. Die Evidenz ist jedoch insgesamt begrenzt und stammt überwiegend aus Namensseiten, nicht aus breiter öffentlicher Diskussion.",
+  "practical_notes": [
+    "Für Suchmaschinen- oder Beratungstexte eignet sich eine vorsichtige Formulierung wie „selten, traditionell und eher positiv konnotiert“.",
+    "Wenn Herkunft oder Bedeutung wichtig sind, bietet Velten klare Anknüpfungspunkte über Valentin/Valentinus.",
+    "Wegen der Seltenheit kann der Name als markant empfunden werden."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Datenlage ist schwach und stark von Namenslexika geprägt.",
+    "Es gibt kaum belastbare Hinweise auf breite öffentliche Meinungen außerhalb von Bedeutungs- und Herkunftsangaben.",
+    "Die positive Wirkung ergibt sich vor allem aus der Namensbedeutung, nicht aus einer großen Menge an Nutzerfeedback."
+  ],
+  "short_summary": "Velten wird meist als seltener, traditioneller und eher positiv besetzter Jungenname beschrieben, mit Bedeutungen wie „stark“ oder „gesund“. Die öffentliche Resonanz ist aber nur begrenzt belegt und stammt vor allem aus Namenslexika.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Velten � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/V/Ve/Velten/"
+    },
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "eher positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Velten: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Velten.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch-traditionell",
+    "selten",
+    "einprägsam",
+    "sachlich",
+    "männlich",
+    "namenslexikalisch"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland eher selten und dadurch auffälliger als geläufige Vornamen. Die Sichtbarkeit entsteht vor allem über Namenslexika und Bedeutungsseiten, weniger über allgemeine Alltagsverwendung."
+}

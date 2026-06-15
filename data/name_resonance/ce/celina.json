@@ -1,0 +1,62 @@
+{
+  "associations": [
+    "weiblicher Vorname",
+    "lateinische Herkunft",
+    "Bedeutung: \"die Himmlische\"",
+    "Namenstag",
+    "Beliebtheit in Deutschland",
+    "Varianten und Spitznamen",
+    "sachlich-informative Namensdarstellungen"
+  ],
+  "confidence": 0.92,
+  "display_text": "Celina wird in Deutschland meist sachlich-neutral bis freundlich wahrgenommen. Der Name wirkt weich, modern und leicht elegant; durch die Bedeutung \"die Himmlische\" erhält er eine positive Note. Die Evidenz ist solide, stammt aber vor allem aus Namenslexika und weniger aus breiter öffentlicher Diskussion.",
+  "evidence_quality": "hoch für die lexikalische Namensbeschreibung, aber begrenzt für echte öffentliche Resonanz",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Celina",
+  "normalized_name": "celina",
+  "overall_resonance": "Celina wird im deutschsprachigen Raum überwiegend sachlich-neutral und eher freundlich wahrgenommen. In Namenslexika erscheint der Name als weiblich, modern und leicht positiv konnotiert, unter anderem durch die Bedeutung \"die Himmlische\".",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt Celina in Deutschland vertraut und gut einordenbar.",
+    "Die Aussprache und Schreibweise sind meist unkompliziert.",
+    "Die öffentliche Rezeption ist eher beschreibend als kontrovers.",
+    "Die positive Bedeutung kann den Gesamteindruck leicht aufwerten."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt fast nur aus Namenslexika und nicht aus einer breiten öffentlichen Debatte.",
+    "Es gibt keine belastbaren Hinweise auf starke negative oder stigmatisierende Konnotationen.",
+    "Allgemeine Beliebtheitsangaben sollten nicht als exakte soziale Bewertung verstanden werden."
+  ],
+  "short_summary": "Celina wirkt im deutschen Namenskontext überwiegend freundlich, modern und leicht positiv. Die vorhandenen Quellen sind vor allem beschreibende Namenslexika.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Celina � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/C/Ce/Celina/"
+    },
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Celina: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Celina.html"
+    }
+  ],
+  "style_effect": [
+    "weich und melodisch",
+    "modern bis zeitlos",
+    "leicht elegant",
+    "freundlich und zugänglich",
+    "namenskundlich gut anschlussfähig"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "mittlere Sichtbarkeit im deutschsprachigen Namenskontext; bekannt, aber nicht dominant"
+}

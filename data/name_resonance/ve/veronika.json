@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "altgriechische Herkunft",
+    "Bedeutung: „die Siegbringende“ / „Siegbringerin“",
+    "kirchliche Bezüge, u. a. Veronika von Jerusalem",
+    "Namenstag am 4. Februar und 9. Juli",
+    "historisch besonders im mittleren 20. Jahrhundert präsent",
+    "Kurzformen wie Vroni, Vero, Nika"
+  ],
+  "confidence": 0.82,
+  "display_text": "Veronika wirkt in Deutschland eher klassisch und traditionsnah. Die Quellen beschreiben den Namen überwiegend positiv, vor allem wegen seiner Bedeutung („die Siegbringende“) und seiner klaren, vertrauten Namensform. Gleichzeitig ist die Evidenz vor allem lexikalisch; Aussagen zur öffentlichen Resonanz sollten daher vorsichtig gelesen werden. Insgesamt: bekannt, wertig, eher zeitlos als trendig.",
+  "evidence_quality": "mittel bis schwach für öffentliche Gesamtresonanz, aber gut für Namensbedeutung und grundlegende Einordnung",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Veronika",
+  "normalized_name": "veronika",
+  "overall_resonance": "Überwiegend klassisch, sachlich-positiv und eher traditionell geprägt; in den Quellen wird der Name vor allem wertschätzend als etablierter Vorname mit klarer Herkunft beschrieben.",
+  "practical_notes": [
+    "Für die Namenssuche wirkt Veronika seriös, bekannt und leicht traditionell.",
+    "Der Name ist gut aussprechbar und im deutschen Sprachraum eindeutig einordenbar.",
+    "Wer einen modernen Trendnamen sucht, könnte ihn als eher klassisch empfinden."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt vor allem aus Namenslexika und nicht aus einer breiten öffentlichen Diskussionsanalyse.",
+    "Daher ist die Aussage zur allgemeinen Resonanz nur vorsichtig belastbar.",
+    "Die wahrgenommene Klassik oder Beliebtheit kann je nach Region und Generation unterschiedlich ausfallen."
+  ],
+  "short_summary": "Veronika wird in den vorliegenden Quellen als klassischer, traditionell wirkender Vorname mit positiver Bedeutungsassoziation beschrieben; für eine breite öffentliche Resonanz ist die Evidenz jedoch begrenzt.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.94,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Veronika � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/V/Ve/Veronika/"
+    },
+    {
+      "confidence": 0.86,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Veronika: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Veronika.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "traditionell",
+    "etwas altmodisch",
+    "namenskundlich klar",
+    "freundlich-ehrwürdig"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland eher bekannt als vertraut-traditioneller Mädchenname, aber laut Evidenz langfristig rückläufig und heute nicht mehr stark im Trend."
+}

@@ -1,0 +1,59 @@
+{
+  "associations": [
+    "lateinischer Ursprung",
+    "Bedeutung im Sinne von „der Siegende“ / „der Siegreiche“",
+    "Variante von Vinzenz",
+    "Namenstag am 27. September",
+    "Kurzformen wie Vinz, Vini, Vinzi, Vinni",
+    "selten bis moderat verbreitet in Deutschland"
+  ],
+  "confidence": 0.84,
+  "display_text": "Vinzent wird überwiegend positiv und sachlich wahrgenommen: ein klassischer, markanter Jungenname mit lateinischem Ursprung, der in Deutschland eher selten bis moderat verbreitet ist. Die Quellen beschreiben ihn als „der Siegende“ und verweisen auf die Schreibweise mit z sowie auf kurze Koseformen. Die öffentliche Resonanz wirkt freundlich, ist aber nur begrenzt belegt und vor allem aus Namenslexika ersichtlich.",
+  "evidence_quality": "mittel: zwei einschlägige Namensquellen mit überwiegend neutral bis leicht positiver Darstellung; öffentliche Resonanz nur eingeschränkt messbar.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Vinzent",
+  "normalized_name": "vinzent",
+  "overall_resonance": "Vinzent wird in den vorliegenden Quellen überwiegend freundlich und sachlich wahrgenommen: als moderner, eher seltener Jungenname mit klarer Bedeutung und traditionellem Klang.",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt Vinzent seriös, traditionell und zugleich etwas eigenständiger als die häufigere Schreibvariante Vinzenz.",
+    "Die Schreibweise mit z kann als markant und modern empfunden werden.",
+    "Der Name ist gut verständlich und eindeutig als männlicher Vorname erkennbar."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenzlage ist begrenzt und stammt vor allem aus Namenslexika, nicht aus breiter öffentlicher Debatte.",
+    "Positive Eindrücke sind eher lexikalisch und kommentarbasiert als repräsentativ erhoben.",
+    "Keine Hinweise auf eine spezifische soziale Stigmatisierung in den Quellen."
+  ],
+  "short_summary": "Vinzent gilt öffentlich meist als klassischer, markanter Jungenname mit positiver, eher ruhiger Resonanz und klarer Bedeutung.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Vinzent � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/V/Vi/Vinzent/"
+    },
+    {
+      "confidence": 0.9,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Vinzent: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Vinzent.html"
+    }
+  ],
+  "style_effect": [
+    "eher klassisch und zugleich markant",
+    "modern wirkend durch die Schreibweise mit z",
+    "namenskundlich klar verortet",
+    "kurzformenfreundlich und alltagsnah"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland eher selten bis moderat verbreitet und dadurch auffälliger als häufige Standardnamen; die öffentliche Sichtbarkeit wirkt vor allem durch Namenslexika und Namensportale geprägt."
+}

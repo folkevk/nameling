@@ -1,0 +1,62 @@
+{
+  "associations": [
+    "lateinischer Ursprung",
+    "Hadria / Hadrianus",
+    "römische Antike",
+    "männlicher Vorname",
+    "beliebt in Deutschland",
+    "regelmäßig vergeben",
+    "Namenstag",
+    "Spitznamen wie Adi oder Ari"
+  ],
+  "confidence": 0.97,
+  "display_text": "Adrian wird öffentlich meist als klassischer, etablierter und angenehm vertrauter Vorname wahrgenommen. Die Quellen verorten ihn klar im lateinischen bzw. römisch-antiken Kontext und beschreiben ihn im deutschsprachigen Raum als regelmäßig vergeben und eher zeitlos als trendabhängig.",
+  "evidence_quality": "hoch; zwei direkt namenskundliche, deutschsprachige Webquellen mit sehr hoher Relevanz und konsistenter Einordnung.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Adrian",
+  "normalized_name": "adrian",
+  "overall_resonance": "Der Name Adrian wird in der öffentlichen Namenswahrnehmung meist neutral bis positiv und als klassisch-etabliert beschrieben.",
+  "practical_notes": [
+    "Der Name wirkt vertraut und wenig erklärungsbedürftig.",
+    "Durch die klare Herkunft und die verbreitete Nutzung erscheint Adrian eher zeitlos als modisch.",
+    "Die Evidenzlage ist stark, da mehrere namenskundliche Quellen direkt den Namen behandeln."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Es gibt keine deutliche soziale Stigmatisierung in der vorliegenden Evidenz.",
+    "Einzelne beschreibende Zuschreibungen wie „selbstbewusst“ sind als Webseiten-Tonalität zu verstehen, nicht als Eigenschaft von Namensträgern."
+  ],
+  "short_summary": "Adrian gilt im Deutschen als etablierter, klassisch wirkender Vorname mit lateinischer Herkunft und überwiegend positiver öffentlicher Resonanz.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.99,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Adrian � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/A/Ad/Adrian/"
+    },
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "überwiegend positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Adrian: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Adrian.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "lexikalisch",
+    "zeitlos",
+    "verständlich",
+    "etabliert",
+    "leicht international anschlussfähig"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Im deutschsprachigen Raum ist Adrian gut sichtbar und regelmäßig vergeben; die Quellen ordnen ihn als bekannten, etablierten Jungennamen ein."
+}

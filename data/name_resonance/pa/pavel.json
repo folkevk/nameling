@@ -1,0 +1,59 @@
+{
+  "associations": [
+    "tschechische Form von Paul",
+    "slawische Namensform",
+    "lateinischer Ursprung: Paulus",
+    "Bedeutung: der Kleine / der Jüngere",
+    "Namenstag am 29. Juni",
+    "selten bis moderat verbreitet in Deutschland"
+  ],
+  "confidence": 0.84,
+  "display_text": "Pavel wird in Deutschland meist sachlich-neutral und leicht positiv wahrgenommen. Der Name gilt als slawische bzw. tschechische Form von Paul, klingt international und ist eher selten bis moderat verbreitet. Die verfügbare Evidenz ist vor allem namenskundlich, daher ist die Aussage zur öffentlichen Resonanz vorsichtig zu lesen.",
+  "evidence_quality": "mittel bis eher schwach für öffentliche Resonanz, gut für Herkunft und Namensbeschreibung",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Pavel",
+  "normalized_name": "pavel",
+  "overall_resonance": "Überwiegend sachlich-neutral mit leicht positiver Färbung. Pavel wird in den Quellen vor allem als slawische bzw. tschechische Form von Paul beschrieben; die öffentliche Resonanz wirkt eher informativ als emotional aufgeladen.",
+  "practical_notes": [
+    "Für viele wirkt Pavel vertraut, aber nicht alltäglich.",
+    "Der Name kann in Deutschland als international und bodenständig zugleich wahrgenommen werden.",
+    "Die Lesart ist meist neutral bis positiv, vor allem wegen der klaren Herkunft und der einfachen Form."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz zur öffentlichen Resonanz ist begrenzt; die Quellen sind überwiegend Namenslexika und keine breite Meinungsumfrage.",
+    "Einzelne Nutzerkommentare sind gemischt, aber nicht stark genug für eine klare Trendaussage."
+  ],
+  "short_summary": "Pavel wirkt in Deutschland überwiegend sachlich-neutral mit leicht positiver, international-slawischer Note. Die Quellen zeigen vor allem Namenskunde; echte öffentliche Wertung ist nur begrenzt belegt.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Pavel � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/P/Pa/Pavel/"
+    },
+    {
+      "confidence": 0.82,
+      "is_name_discussion": true,
+      "sentiment": "eher neutral mit leicht positiver Tendenz",
+      "source_type": "web",
+      "title": "&#9655; Vorname Pavel: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Pavel.html"
+    }
+  ],
+  "style_effect": [
+    "international/slawisch",
+    "klassisch-biblisch über Paul",
+    "kurz und klar",
+    "namenskundlich geprägt",
+    "leicht europäisch-exotische Wirkung im deutschen Umfeld"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland eher selten bis moderat verbreitet und daher sichtbar, aber nicht alltäglich. Die Quellen deuten auf eine gewisse Bekanntheit hin, ohne starke Massenpräsenz."
+}

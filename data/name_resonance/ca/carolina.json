@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "Bedeutung wie „die Freie“, „die Geliebte“ oder „die Wertvolle“",
+    "weiblicher Vorname",
+    "althochdeutsche bzw. aus Caroline abgeleitete Herleitung",
+    "Namenstag",
+    "mehrsprachig/international gebräuchlich",
+    "Spitznamen wie Caro oder Lina"
+  ],
+  "confidence": 0.84,
+  "display_text": "Carolina wirkt in den vorhandenen Quellen überwiegend positiv: ein klassischer, eleganter und international verständlicher Mädchenname. Die Datenlage ist eher schmal und stützt sich vor allem auf Namenslexika; einzelne Kommentare sind subjektiv, zeigen aber keine starke negative Tendenz.",
+  "evidence_quality": "mittel bis gering: wenige Quellen, überwiegend redaktionelle Namensbeschreibungen, nur teilweise mit nutzerbasierten Kommentaren.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Carolina",
+  "normalized_name": "carolina",
+  "overall_resonance": "Überwiegend positiv bis neutral: Carolina wird in den vorliegenden Namensquellen als international gebräuchlicher, klangvoller und traditionsnaher weiblicher Vorname beschrieben. Die öffentliche Rezeption wirkt eher freundlich und informativ als kontrovers.",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt Carolina vertraut, gut anschlussfähig und leicht erklärbar.",
+    "Der Name funktioniert im deutschsprachigen Raum ebenso wie international.",
+    "Die Resonanz ist eher beschreibend als meinungsstark, daher ist die Aussagekraft nur mäßig hoch."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist begrenzt und basiert auf wenigen redaktionellen Namensseiten.",
+    "Einige Aussagen stammen aus subjektiven Kommentaren und sollten nicht als allgemeine Tatsachen gelesen werden.",
+    "Es gibt Hinweise auf Schreib- oder Ausspracheunsicherheiten, aber keine starke negative Stigmatisierung."
+  ],
+  "short_summary": "Carolina wird im Deutschen meist freundlich, klangvoll und klassisch wahrgenommen. Die verfügbare Evidenz ist aber begrenzt und stammt vor allem aus Namenslexika mit teils subjektiven Einschätzungen.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "Vorname Carolina � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/C/Ca/Carolina/"
+    },
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "mixed",
+      "source_type": "web",
+      "title": "&#9655; Vorname Carolina: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Carolina.html"
+    }
+  ],
+  "style_effect": [
+    "klangvoll",
+    "elegant",
+    "klassisch",
+    "international verständlich",
+    "weich und feminin",
+    "namenskundlich etabliert"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Der Name ist im deutschsprachigen Raum bekannt und gut auffindbar, wirkt aber eher klassisch-ästhetisch als auffällig modisch. Die Evidenz stammt vor allem aus Namenslexika und einer Seite mit gemischten Kommentaren."
+}

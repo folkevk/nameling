@@ -1,0 +1,59 @@
+{
+  "associations": [
+    "französische Form von Peter",
+    "Bedeutung: Fels/Stein",
+    "klassischer Vorname mit klarer Herkunft",
+    "eher seltene Vergabe in Deutschland",
+    "Namenstage werden genannt"
+  ],
+  "confidence": 0.91,
+  "display_text": "Pierre wirkt in der öffentlichen Namenswahrnehmung überwiegend sachlich-neutral bis leicht positiv. Der Name wird als französische Form von Peter verstanden, mit der Bedeutung „Fels/Stein“, und gilt in Deutschland eher als selten. Dadurch bekommt er eine elegante, klassische und etwas markante Anmutung, ohne dass die Evidenz auf stärkere gesellschaftliche Bewertungen hindeutet.",
+  "evidence_quality": "Gut für Herkunft, Bedeutung und Verbreitung; nur begrenzt für echte öffentliche Wertung. Die Resonanz lässt sich daher nur vorsichtig ableiten.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Pierre",
+  "normalized_name": "pierre",
+  "overall_resonance": "Überwiegend sachlich-neutral mit leicht positiver, gepflegt wirkender Anmutung.",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt Pierre in Deutschland eher speziell als alltäglich.",
+    "Der Name ist kurz, international verständlich und klar französisch konnotiert.",
+    "Wenn gewünscht, kann die seltenere Verbreitung als Plus für Eigenständigkeit empfunden werden."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist überwiegend lexikalisch und nicht stark meinungsbasiert; die Resonanz lässt sich daher nur vorsichtig beschreiben.",
+    "Es gibt keinen belastbaren Hinweis auf eine soziale Stigmatisierung des Namens in der vorliegenden Evidenz.",
+    "Die Wahrnehmung als elegant oder besonders kann kulturell variieren und ist keine allgemeingültige Eigenschaft."
+  ],
+  "short_summary": "Pierre wird in Deutschland meist sachlich und leicht positiv wahrgenommen: ein klassischer, französisch geprägter Vorname mit klarer Bedeutung und eher seltener Vergabe.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Pierre � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/P/Pi/Pierre/"
+    },
+    {
+      "confidence": 0.94,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Pierre: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Pierre.html"
+    }
+  ],
+  "style_effect": [
+    "französisch-elegant",
+    "klassisch",
+    "kurz und markant",
+    "gebildet/gehoben wirkend",
+    "namenskundlich gut einordenbar"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland eher selten und daher auffälliger als ein sehr häufiger Vorname; im öffentlichen Namenskontext klar erkennbar als französisch geprägt."
+}

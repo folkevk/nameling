@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "französische bzw. lateinische Herkunft",
+    "Bedeutung: die an Weihnachten Geborene",
+    "Namenstag um den 24./25. Dezember",
+    "warm, festlich, lichtbezogen",
+    "mögliche Kurzformen wie Nelly oder Elle"
+  ],
+  "confidence": 0.87,
+  "display_text": "Noelle wird in Deutschland überwiegend als moderner, freundlicher und leicht festlich-weihnachtlich wirkender Vorname wahrgenommen. Die verfügbare Evidenz ist vor allem namenskundlich und eher beschreibend als kontrovers.",
+  "evidence_quality": "mittel bis gut; die Quellen sind einschlägige Namensseiten, aber die öffentliche Resonanz wird eher indirekt als über breite Diskussionsdaten abgebildet.",
+  "generated_at": "2026-06-14T10:47:41Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Noelle",
+  "normalized_name": "noelle",
+  "overall_resonance": "In Deutschland wirkt Noelle überwiegend modern, freundlich und leicht festlich. Der Name wird vor allem sachlich-namenskundlich beschrieben und ist mit einer weihnachtlichen Bedeutung verbunden, was ihm eine warme, positive Note gibt. Eine starke öffentliche Kontroverse ist in der vorliegenden Evidenz nicht erkennbar.",
+  "practical_notes": [
+    "Für Suchmaschinen wirkt Noelle klar, positiv und gut anschlussfähig an den Dezember-/Weihnachtskontext.",
+    "Der Name ist kurz, international verständlich und im Deutschen problemlos aussprechbar.",
+    "Die Wahrnehmung dürfte eher freundlich als auffällig kontrovers sein."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz basiert fast vollständig auf Namenslexika; das ist für Bedeutung und Herkunft brauchbar, aber nur begrenzt repräsentativ für echte öffentliche Wahrnehmung.",
+    "Einzelne Nutzerkommentare oder Zusatzmetadaten können subjektiv sein; daraus sollte keine allgemeine Aussage über den Namen abgeleitet werden."
+  ],
+  "short_summary": "Noelle wird in Deutschland überwiegend positiv, modern und weihnachtlich konnotiert wahrgenommen; die verfügbare Evidenz ist vor allem lexikalisch und nur begrenzt öffentlich-diskursiv.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Noelle � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/N/No/Noelle/"
+    },
+    {
+      "confidence": 0.94,
+      "is_name_discussion": true,
+      "sentiment": "eher positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Noelle: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Noelle.html"
+    }
+  ],
+  "style_effect": [
+    "modern",
+    "international klingend",
+    "weiblich",
+    "freundlich",
+    "festlich/weihnachtlich",
+    "sachlich-lexikalisch",
+    "leicht elegant"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Der Name ist im deutschen Sprachraum bekannt und wirkt eher geläufig als exotisch. Die Sichtbarkeit scheint vor allem über Namenslexika und Beliebtheitsseiten zu kommen, nicht über intensive öffentliche Debatten."
+}

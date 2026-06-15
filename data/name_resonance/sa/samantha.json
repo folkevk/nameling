@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "englischer bzw. internationaler Vorname",
+    "mögliche Bedeutungen wie „die Zuhörerin“ oder „die Gehorchende“",
+    "teils aramäische/hebräische Herleitung in den Quellen",
+    "Kurzformen wie Sam, Sammy oder Sami",
+    "in Deutschland eher selten",
+    "sachlich-informative Namenswahrnehmung"
+  ],
+  "confidence": 0.9,
+  "display_text": "Samantha wird in Deutschland meist neutral bis leicht positiv wahrgenommen: bekannt, aber eher selten, mit internationalem und modernem Klang. Die Quellen sind vor allem namenskundliche Lexikonseiten, daher ist die Aussage solide, aber begrenzt.",
+  "evidence_quality": "mittel bis gut; inhaltlich klar, aber auf wenige, primär lexikalische Quellen beschränkt",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Samantha",
+  "normalized_name": "samantha",
+  "overall_resonance": "Überwiegend neutral bis leicht positiv: Der Name Samantha wirkt in der öffentlichen Namenswahrnehmung bekannt, international und eher sachlich-wohlwollend. In der deutschen Wahrnehmung gilt er eher als selten, aber etabliert.",
+  "practical_notes": [
+    "Für eine Namenssuche ist Samantha gut einordenbar und leicht wiedererkennbar.",
+    "Die Schreibweise ist verbreitet und unkompliziert, mit klarer Kurzform Sam.",
+    "Wer einen eher seltenen, aber dennoch bekannten Vornamen sucht, findet hier eine passende Option."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz basiert nur auf zwei Namenslexikon-/Namensseiten und ist damit begrenzt.",
+    "Einzelne Nutzerkommentare auf einer Quelle können die Wirkung leicht verzerren.",
+    "Bedeutung und Herkunft werden in den Quellen teils als wahrscheinlich, nicht als endgültig gesichert dargestellt."
+  ],
+  "short_summary": "Samantha wird in Deutschland eher selten, aber bekannt und überwiegend neutral bis leicht positiv wahrgenommen. Der Name wirkt international, modern und gut verständlich.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.95,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Samantha � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/S/Sa/Samantha/"
+    },
+    {
+      "confidence": 0.92,
+      "is_name_discussion": true,
+      "sentiment": "mixed",
+      "source_type": "web",
+      "title": "&#9655; Vorname Samantha: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Samantha.html"
+    }
+  ],
+  "style_effect": [
+    "klingt international",
+    "weiblich und klar erkennbar",
+    "modern bis zeitlos",
+    "kurzformfreundlich (z. B. Sam)",
+    "eher weich als hart",
+    "namenskundlich gut anschlussfähig"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland ist Samantha eher selten, aber durch Medien- und Internetnutzung gut bekannt. Die öffentliche Sichtbarkeit ist dadurch vorhanden, jedoch nicht dominant."
+}

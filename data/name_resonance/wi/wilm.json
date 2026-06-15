@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "Kurzform von Wilhelm",
+    "plattdeutsch/niederdeutsch",
+    "althochdeutsche Herkunft",
+    "Bedeutung im Sinn von entschlossenem Beschützer",
+    "männlicher Vorname",
+    "selten bis mäßig verbreitet"
+  ],
+  "confidence": 0.9,
+  "display_text": "Wilm wirkt in Deutschland eher selten, sachlich und leicht positiv. Der Name wird vor allem als niederdeutsche Kurzform von Wilhelm mit der Bedeutung eines entschlossenen Beschützers beschrieben. Eine breite öffentliche Debatte gibt es dazu kaum.",
+  "evidence_quality": "Gut für Herkunft, Bedeutung und grobe Beliebtheit; schwach für echte öffentliche Resonanz, da kaum Diskussions- oder Meinungsquellen vorliegen.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Wilm",
+  "normalized_name": "wilm",
+  "overall_resonance": "Wilm wird in den vorliegenden Quellen vor allem sachlich und namenskundlich eingeordnet. Die öffentliche Wahrnehmung wirkt eher ruhig, neutral bis leicht positiv, mit Fokus auf Herkunft und Bedeutung statt auf eine breite gesellschaftliche Diskussion.",
+  "practical_notes": [
+    "Für Suchende wirkt Wilm klar, traditionell und unkompliziert.",
+    "Der Name dürfte vor allem bei Menschen ankommen, die kurze, regionale oder historisch geprägte Vornamen mögen.",
+    "Die Seltenheit kann als Vorteil für Eigenständigkeit empfunden werden, ist aber auch ein Grund für geringe Bekanntheit."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt fast ausschließlich aus Namenslexika; direkte öffentliche Meinungen sind kaum sichtbar.",
+    "Die leicht positive Wirkung leitet sich vor allem aus der Namensbedeutung ab, nicht aus einer breiten Diskussionslage.",
+    "Keine Hinweise auf Stigmatisierung oder problematische gesellschaftliche Konnotationen in den Quellen."
+  ],
+  "short_summary": "Wilm wird überwiegend sachlich, selten und leicht positiv wahrgenommen; die Resonanz beruht vor allem auf Herkunft und Bedeutung.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Wilm � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/W/Wi/Wilm/"
+    },
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Wilm: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Wilm.html"
+    }
+  ],
+  "style_effect": [
+    "kurz und markant",
+    "traditionell-niederdeutsch wirkend",
+    "sachlich-klassisch",
+    "eher selten und dadurch eigenständig",
+    "durch die Bedeutung leicht positiv aufgeladen"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland wirkt der Name eher selten und entsprechend wenig präsent. Die sichtbare Resonanz entsteht vor allem über Namensdatenbanken und nicht über intensive öffentliche Debatten."
+}

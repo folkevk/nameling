@@ -1,0 +1,68 @@
+{
+  "associations": [
+    "friesisch",
+    "niederländisch",
+    "Unisex-Name",
+    "selten bis moderat verbreitet in Deutschland",
+    "namenkundlich und etymologisch erklärt",
+    "kurz und prägnant"
+  ],
+  "confidence": 0.83,
+  "display_text": "Jelle wirkt in Deutschland überwiegend neutral bis leicht positiv: ein seltener, kurzer und international klingender Vorname mit friesisch-niederländischer Prägung. Die öffentliche Wahrnehmung ist vor allem sachlich-namenkundlich; klare Vorlieben oder Ablehnung sind in der Evidenz nicht erkennbar.",
+  "evidence_quality": "mittel bis gut: mehrere klare Namenslexikon-Quellen, aber kaum breite öffentliche Diskussion oder alltagsnahe Resonanzdaten.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Jelle",
+  "normalized_name": "jelle",
+  "overall_resonance": "Überwiegend neutral bis leicht positiv: Jelle wird öffentlich vor allem sachlich als seltener, international wirkender Vorname wahrgenommen, mit friesisch-niederländischer Prägung und gelegentlicher Einordnung als Unisex-Name.",
+  "practical_notes": [
+    "Für die Namenssuche eignet sich Jelle besonders, wenn ein kurzer, ungewöhnlicher und international klingender Name gesucht wird.",
+    "Die öffentliche Wahrnehmung wirkt insgesamt unproblematisch und neutral.",
+    "Wegen der Seltenheit kann es gelegentlich zu Rückfragen zur Schreibweise oder Aussprache kommen."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist vor allem aus Namenslexika und damit eher beschreibend als aus echter öffentlicher Debatte.",
+    "Eine eindeutige gesellschaftliche Bewertung ist nicht erkennbar; starke Vorlieben oder Ablehnung lassen sich daraus nicht ableiten.",
+    "Regionale Einordnung in Deutschland ist nur begrenzt abgesichert."
+  ],
+  "short_summary": "Jelle wird in Deutschland überwiegend neutral bis leicht positiv wahrgenommen: selten, kurz, nordisch und international wirkend, ohne auffällige negative Konnotationen.",
+  "source_count": 3,
+  "sources": [
+    {
+      "confidence": 0.94,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Jelle � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/J/Je/Jelle/"
+    },
+    {
+      "confidence": 0.95,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Jelle � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/J/Je/Jelle/"
+    },
+    {
+      "confidence": 0.86,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Jelle: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Jelle.html"
+    }
+  ],
+  "style_effect": [
+    "klingt kurz, modern und klar",
+    "wirkt nordisch bzw. friesisch-niederländisch",
+    "hat eine internationale, unaufgeregte Anmutung",
+    "als Unisex-Name teils flexibel eingeordnet",
+    "eher sachlich als emotional besetzt"
+  ],
+  "usable_evidence_count": 3,
+  "visibility": "In Deutschland wirkt der Name eher selten bis moderat verbreitet und damit sichtbar, aber nicht massenhaft präsent. Die Evidenz spricht eher für eine namenlexikalische Wahrnehmung als für starke Alltags-Resonanz."
+}

@@ -1,0 +1,59 @@
+{
+  "associations": [
+    "mögliche Kurzform von Namen mit Rein-/Ren- Bezug",
+    "Deutungen wie „wiedergeboren“ oder „erneuert“",
+    "mögliche Nähe zu Renate, Irene oder Verena",
+    "teils althochdeutsche oder lateinische Herleitung",
+    "in einer Quelle auch mit „Schönheit“ assoziiert"
+  ],
+  "confidence": 0.81,
+  "display_text": "Rena wirkt in Deutschland eher bekannt, aber nicht sehr häufig. Die vorhandene Evidenz zeichnet den Namen als kurzen, freundlichen und sachlich positiv besetzten Vornamen mit mehreren möglichen Bedeutungen und Herleitungen. Die Datenlage ist allerdings eher lexikalisch als gesellschaftlich breit, daher sollte die Wirkung vorsichtig gelesen werden.",
+  "evidence_quality": "mittel: zwei klar namenskundliche Quellen, aber überwiegend lexikalische Einträge statt breiter öffentlicher Diskussionslage.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Rena",
+  "normalized_name": "rena",
+  "overall_resonance": "Rena wird in der verfügbaren Evidenz insgesamt als kurzer, klarer und eher freundlich wirkender Vorname mit sachlich-positiver Namenswirkung beschrieben. Die öffentliche Wahrnehmung ist vor allem informativ und namenskundlich geprägt; es gibt keine Hinweise auf starke negative Konnotationen.",
+  "practical_notes": [
+    "Für Suchmaschinen und Kurzprofile eignet sich eine neutrale Beschreibung als kurzer, freundlich klingender Vorname.",
+    "Wenn Herkunft oder Bedeutung genannt werden, ist eine vorsichtige Formulierung sinnvoll, da mehrere Deutungen kursieren.",
+    "Die öffentliche Resonanz wirkt eher ruhig und unaufgeregt als trendstark oder polarisierend."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz besteht überwiegend aus Namenslexika und ist daher nur begrenzt repräsentativ für echte öffentliche Alltagswahrnehmung.",
+    "Die genannten Bedeutungen und Herleitungen sind teils mehrdeutig und sollten eher als mögliche Deutungen denn als gesicherte Einzelwahrheit gelesen werden.",
+    "Es gibt keine belastbaren Hinweise auf eine gesellschaftliche Stigmatisierung des Namens."
+  ],
+  "short_summary": "Rena wird in den vorliegenden Quellen überwiegend sachlich und eher positiv wahrgenommen: kurz, freundlich klingend und mit mehreren möglichen Herkunfts- und Bedeutungsdeutungen.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Rena � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/R/Re/Rena/"
+    },
+    {
+      "confidence": 0.86,
+      "is_name_discussion": true,
+      "sentiment": "eher positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Rena: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Rena.html"
+    }
+  ],
+  "style_effect": [
+    "kurz und unkompliziert",
+    "leicht modern und zugleich klassisch anschlussfähig",
+    "namenskundlich neutral bis leicht positiv",
+    "weicher, freundlicher Klang",
+    "als Kurzform bzw. Variante anschlussfähig"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Der Name wirkt in Deutschland bekannt, aber eher nicht massenhaft verbreitet. In den Quellen wird er als eher seltener bzw. nicht dominierender Vorname eingeordnet."
+}

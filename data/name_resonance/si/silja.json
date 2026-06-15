@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "weiblicher Vorname",
+    "Kurz- bzw. Koseform von Cecilia/Cäcilia",
+    "lateinische sowie teils skandinavisch/friesisch/finnische Zuordnung in den Quellen",
+    "Bedeutungshinweise rund um das Geschlecht der Caecilier",
+    "Namenstag am 22. November",
+    "selten, aber bekannt"
+  ],
+  "confidence": 0.76,
+  "display_text": "Silja wirkt öffentlich eher freundlich, sachlich und leicht positiv. Der Name gilt in Deutschland als eher selten, aber bekannt. Die vorliegende Evidenz ist allerdings begrenzt und stammt vor allem aus Namenslexika; eine breite öffentliche Debatte ist nicht erkennbar.",
+  "evidence_quality": "begrenzt; vor allem lexikalische Sekundärquellen, keine breite Diskurslage",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Silja",
+  "normalized_name": "silja",
+  "overall_resonance": "Silja wirkt in den vorliegenden Quellen überwiegend sachlich, freundlich und leicht positiv, zugleich eher selten und speziell. Eine breite öffentliche Debatte ist nicht erkennbar; die Wahrnehmung entsteht vor allem aus Namenslexika und Beschreibungen zur Herkunft und Bedeutung.",
+  "practical_notes": [
+    "Für Suchmaschinen-Nutzer:innen wirkt der Name klar, weich und traditionsnah.",
+    "Wer einen seltenen, aber nicht exotisch wirkenden Vornamen sucht, könnte Silja attraktiv finden.",
+    "Die öffentliche Resonanz erscheint eher neutral bis freundlich als trendig oder stark polarisiert."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist schwach bis begrenzt, da sie im Wesentlichen aus zwei Namenslexikon-Seiten besteht.",
+    "Die Aussagen spiegeln redaktionelle Namensbeschreibungen wider, nicht eine breite öffentliche Diskussion.",
+    "Einzelne Deutungen zur Bedeutung sind etymologisch bzw. volkstümlich und sollten vorsichtig gelesen werden."
+  ],
+  "short_summary": "Silja wird in den Quellen als seltener, aber bekannter Mädchenname mit sachlich-freundlicher, leicht positiver Wirkung beschrieben.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.92,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Silja � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/S/Si/Silja/"
+    },
+    {
+      "confidence": 0.92,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Silja: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Silja.html"
+    }
+  ],
+  "style_effect": [
+    "informativ",
+    "lexikalisch",
+    "namenskundlich",
+    "leicht positiv",
+    "eher selten/spezifisch"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland eher selten, aber bekannt; keine starke Mainstream-Präsenz, eher ein vertrauter Spezialname."
+}

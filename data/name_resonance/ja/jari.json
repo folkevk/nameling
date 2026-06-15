@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "finnische Herkunft",
+    "altnordische Bedeutung",
+    "Kurzform-Bezug zu anderen Namen",
+    "Bedeutung im Sinne von \"behelmter Krieger\"",
+    "Namenstag/onomastische Einordnung",
+    "Beliebtheit in Hitlisten"
+  ],
+  "confidence": 0.82,
+  "display_text": "Jari wirkt in Deutschland eher positiv und neutral: kurz, klar, nordisch geprägt und eher selten. Die verfügbare Evidenz ist vor allem lexikographisch, daher ist die Aussage zur öffentlichen Resonanz vorsichtig zu lesen.",
+  "evidence_quality": "mittel bis gering für öffentliche Resonanz, gut für lexikographische Namensdaten",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Jari",
+  "normalized_name": "jari",
+  "overall_resonance": "Eher positiv bis neutral; Jari wird öffentlich vor allem als kurzer, klarer und ungewöhnlicher Vorname wahrgenommen. Die verfügbare Evidenz stammt allerdings überwiegend aus Namenslexika und Infoseiten, nicht aus breiter Alltagsresonanz.",
+  "practical_notes": [
+    "Für Suchende wirkt der Name meist eingängig und leicht merkbar.",
+    "Die kurze Form kann als modern und international anschlussfähig empfunden werden.",
+    "Aufgrund der Seltenheit kann es zu Rückfragen zur Herkunft oder Aussprache kommen.",
+    "Der Name ist eher sachlich als polarisierend besetzt."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz zur öffentlichen Resonanz ist schwach bis mittel, weil sie vor allem aus Lexikon- und Infoseiten besteht.",
+    "Es gibt keine belastbare breite Diskussionslage; daher nur vorsichtige Aussagen zur Wahrnehmung.",
+    "Bedeutungsassoziationen sollten nicht als allgemeine Zuschreibung an Träger des Namens verstanden werden."
+  ],
+  "short_summary": "Jari wird in Deutschland meist freundlich und sachlich wahrgenommen: kurz, nordisch geprägt und eher selten. Die öffentliche Resonanz ist überwiegend positiv, beruht aber vor allem auf Namenslexika statt auf breiter Diskussion.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.94,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Jari � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/J/Ja/Jari/"
+    },
+    {
+      "confidence": 0.9,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Jari: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Jari.html"
+    }
+  ],
+  "style_effect": [
+    "kurz und prägnant",
+    "modern wirkend",
+    "nordisch/finnisch konnotiert",
+    "namenskundlich interessant",
+    "eher unaufgeregt als modisch-extrem"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland als Vorname bekannt, aber eher selten und damit nicht stark alltagspräsent. Die Sichtbarkeit ergibt sich vor allem aus Namensdatenbanken und Beliebtheitslisten."
+}

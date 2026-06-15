@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "lateinischer Ursprung",
+    "Bedeutung in Richtung alt/urspünglich/ehrwürdig",
+    "heilige Prisca / Namenstag",
+    "römisch-christlicher Bezug",
+    "selten in Deutschland",
+    "alternative Schreibform zu Priska"
+  ],
+  "confidence": 0.82,
+  "display_text": "Prisca gilt in deutschen Namensquellen als seltener, klassisch-lateinischer Vorname mit leicht positiver, traditionsnaher Wirkung. Die Evidenz ist allerdings begrenzt und stammt vor allem aus Namenslexika.",
+  "evidence_quality": "mittel bis schwach; mehrere Quellen, aber ähnlich gelagert und stark lexikalisch geprägt",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Prisca",
+  "normalized_name": "prisca",
+  "overall_resonance": "Prisca wird in den vorliegenden deutschen Namensquellen überwiegend sachlich und leicht positiv wahrgenommen. Der Name wirkt klassisch, selten und traditionsnah, ohne dass eine breite öffentliche Debatte erkennbar wäre.",
+  "practical_notes": [
+    "Für eine Namenssuche in Deutschland wirkt Prisca ungewöhnlich, aber gut einordnungsfähig durch die bekannte Herkunft.",
+    "Der Name vermittelt eher einen klassischen als einen modernen Eindruck.",
+    "Die Schreibweise ist klar, die Verwechslungsnähe zu Priska sollte bei Bedarf mitgedacht werden."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist schmal und stammt fast ausschließlich aus Namenslexika bzw. einer einzelnen Vornamensseite.",
+    "Es gibt keine belastbare breite öffentliche Diskussion, daher sind Verallgemeinerungen nur eingeschränkt möglich.",
+    "Wahrnehmungen wie 'elegant' oder 'besonders' sind eher Tendenzen der Quellen als gesicherte öffentliche Mehrheitsmeinung."
+  ],
+  "short_summary": "Prisca wird in Deutschland vor allem als seltener, klassisch-lateinischer Vorname mit leicht positiver, traditionsnaher Wirkung beschrieben. Die öffentliche Resonanz ist eher sachlich als breit diskutiert.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Prisca � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/P/Pr/Prisca/"
+    },
+    {
+      "confidence": 0.89,
+      "is_name_discussion": true,
+      "sentiment": "eher positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Prisca: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Prisca.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "traditionsnah",
+    "selten",
+    "gehoben wirkend",
+    "lexikalisch und herkunftsbezogen",
+    "leicht positiv konnotiert"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Eher geringe Sichtbarkeit in Deutschland; der Name wird vor allem in Namenslexika und einzelnen Vornamensseiten behandelt."
+}

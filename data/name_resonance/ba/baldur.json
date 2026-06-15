@@ -1,0 +1,63 @@
+{
+  "associations": [
+    "germanischer bzw. altnordischer Ursprung",
+    "Mythologie",
+    "Bedeutungen wie stark, kühn oder mutig",
+    "Licht-/Heldenton",
+    "männlicher Vorname",
+    "selten in Deutschland",
+    "eher traditionell als modern"
+  ],
+  "confidence": 0.84,
+  "display_text": "Baldur wirkt in Deutschland eher selten, markant und traditionsreich. Die verfügbaren Quellen verbinden den Namen vor allem mit germanisch-nordischer Mythologie, Kraft und Kühnheit. Die öffentliche Resonanz erscheint überwiegend positiv, beruht aber größtenteils auf Namenslexika und ist daher nur eingeschränkt als breite Alltagswahrnehmung belegbar.",
+  "evidence_quality": "Begrenzt: überwiegend lexikalische Namensseiten, wenig direkte öffentliche Diskussionsdaten.",
+  "generated_at": "2026-06-14T10:47:41Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Baldur",
+  "normalized_name": "baldur",
+  "overall_resonance": "Eher positiv und traditions-/mythologiebezogen, zugleich im Alltag selten und eher auffällig.",
+  "practical_notes": [
+    "Für Suchmaschinen-Nutzer wirkt der Name meist positiv konnotiert und markant.",
+    "Im deutschen Sprachraum dürfte Baldur eher als seltener, historisch-mythologischer Vorname wahrgenommen werden.",
+    "Kurzformen und Spitznamen können die Wirkung etwas weicher machen."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt vor allem aus Namenslexika und ist daher nur eingeschränkt als echte öffentliche Resonanz zu werten.",
+    "Die Wahrnehmung ist beschreibend und kulturell geprägt; sie sollte nicht als feste Eigenschaft des Namens verstanden werden.",
+    "Wegen der Seltenheit kann die Wirkung je nach Umfeld als besonders, ungewohnt oder sehr traditionsbetont ausfallen."
+  ],
+  "short_summary": "Baldur wird in Deutschland meist als seltener, nordisch-germanisch geprägter und eher positiv konnotierter Vorname wahrgenommen.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.92,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Baldur � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/B/Ba/Baldur/"
+    },
+    {
+      "confidence": 0.91,
+      "is_name_discussion": true,
+      "sentiment": "mostly positive",
+      "source_type": "web",
+      "title": "&#9655; Vorname Baldur: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Baldur.html"
+    }
+  ],
+  "style_effect": [
+    "nordisch",
+    "germanisch",
+    "mythologisch",
+    "klassisch-archaisch",
+    "kraftvoll",
+    "markant",
+    "lexikalisch aufgeladen"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Niedrig bis mittel; in Deutschland wirkt der Name eher ungewöhnlich und nicht sehr verbreitet."
+}

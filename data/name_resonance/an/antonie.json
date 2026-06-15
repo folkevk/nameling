@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "lateinische bzw. römische Herkunft",
+    "Ableitung von Antonius / Anton",
+    "Bedeutungshinweise wie „die Voranschreitende“ oder „aus dem Geschlecht der Antonier“",
+    "Namenstage werden genannt",
+    "mögliche Kurzformen wie Toni oder Anni",
+    "Seltenheit bzw. geringe Verbreitung in Deutschland"
+  ],
+  "confidence": 0.83,
+  "display_text": "Antonie wird meist als klassischer, traditionsreicher und eher seltener Vorname wahrgenommen. Die vorhandene Evidenz ist vor allem lexikalisch; eine breite öffentliche Debatte ist kaum erkennbar.",
+  "evidence_quality": "Begrenzt: zwei überwiegend informative Namensseiten, wenig echte Diskussions- oder Alltagsresonanz.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Antonie",
+  "normalized_name": "antonie",
+  "overall_resonance": "Antonie wird öffentlich überwiegend sachlich und eher positiv wahrgenommen: als klassischer, historisch verankerter Vorname mit klarer Herkunft und Bedeutung. Die Resonanz ist aber insgesamt eher lexikalisch als diskussionsstark, also ohne breite öffentliche Debatte.",
+  "practical_notes": [
+    "Für die öffentliche Wahrnehmung zählt vor allem der klassische und traditionsreiche Eindruck.",
+    "Die Aussprache und Schreibweise können je nach Kontext kurz erklärt werden, da der Name seltener vorkommt.",
+    "Kurzformen können regional oder familiär unterschiedlich genutzt werden."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist begrenzt und stammt fast nur aus Namenslexika; eine breite öffentliche Debatte ist nicht erkennbar.",
+    "Hinweise auf Seltenheit und Verwechslungsgefahr beziehen sich auf Namensgebrauch, nicht auf soziale Bewertung.",
+    "Keine belastbaren Anzeichen für Stigmatisierung in der vorliegenden Evidenz."
+  ],
+  "short_summary": "Antonie wirkt in der öffentlichen Wahrnehmung klassisch, traditionsreich und eher selten. Die vorhandene Evidenz ist jedoch vor allem lexikalisch und nur eingeschränkt aussagekräftig.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Antonie � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/A/An/Antonie/"
+    },
+    {
+      "confidence": 0.84,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Antonie: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Antonie.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "traditionell",
+    "lexikalisch",
+    "eher selten",
+    "eher elegant",
+    "neutral bis leicht positiv"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Eher gering bis mittel: Der Name erscheint vor allem in Namenslexika und Statistik-/Herkunftsseiten, nicht als breit diskutiertes Alltagsthema."
+}

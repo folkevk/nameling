@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "Bedeutung in Richtung „die anmutige Schöne“",
+    "altfranzösische und altschottische Bezüge",
+    "Variante von Annabelle/Annabella",
+    "Verbindung zu Anna und Bella/Isabell",
+    "Namenstag",
+    "häufig in Namenslexika und Beliebtheitslisten geführt"
+  ],
+  "confidence": 0.9,
+  "display_text": "Annabell wirkt in den vorliegenden Quellen wie ein klassischer, weich klingender und eher positiv besetzter Vorname. Genannt werden vor allem Bedeutung, Herkunft, Varianten und Beliebtheit; kontroverse oder stigmatisierende Deutungen zeigen die Quellen nicht. Die Aussage stützt sich jedoch vor allem auf wenige namenskundliche Seiten.",
+  "evidence_quality": "mittel bis gut: zwei direkte, thematisch passende Namensquellen mit klarer Nennung von Bedeutung, Herkunft, Varianten und Beliebtheit; jedoch wenig Quellenbreite.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Annabell",
+  "normalized_name": "annabell",
+  "overall_resonance": "Annabell wird in den vorliegenden Quellen überwiegend sachlich und positiv als klassischer, feminin klingender Vorname dargestellt. Die öffentliche Rezeption wirkt eher namenskundlich-informativ als kontrovers.",
+  "practical_notes": [
+    "Für eine Namenssuche eignet sich Annabell als gut verständlicher, traditionell wirkender Name mit sanfter Klangwirkung.",
+    "Die Schreibweise ist nahe an Annabelle/Annabella und kann je nach Umfeld unterschiedlich wahrgenommen werden.",
+    "Die verfügbaren Quellen behandeln den Namen eher neutral bis positiv und liefern vor allem Herkunfts- und Bedeutungsangaben."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt fast nur aus Namensdatenbanken und Lexikonseiten; das ist direkt, aber inhaltlich begrenzt.",
+    "Es gibt keine belastbaren Hinweise auf soziale Stigmatisierung oder stark polarisierende öffentliche Debatten.",
+    "Beliebtheitsaussagen sollten vorsichtig gelesen werden, da sie auf den jeweiligen Datenquellen und Zeitständen beruhen."
+  ],
+  "short_summary": "Annabell wird öffentlich meist als klassischer, sanft klingender und eher positiv konnotierter Vorname wahrgenommen. Die vorhandenen Quellen sind sachlich und namenskundlich, aber nur begrenzt breit.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Annabell � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/A/An/Annabell/"
+    },
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Annabell: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Annabell.html"
+    }
+  ],
+  "style_effect": [
+    "weich und melodisch",
+    "klassisch-feminin",
+    "eher elegant als modern-experimentell",
+    "durch die Schreibweise mit -ell leicht individuell wirkend",
+    "namenskundlich gut anschlussfähig"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Im deutschsprachigen Raum ist der Name offenbar bekannt und präsent; die Quellen verweisen auf Beliebtheit, Bedeutung, Herkunft und Namenstag. Die Evidenzlage ist dafür gut, aber auf wenige namenskundliche Seiten begrenzt."
+}

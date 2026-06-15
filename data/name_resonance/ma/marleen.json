@@ -1,0 +1,59 @@
+{
+  "associations": [
+    "Ableitung/Bezug zu Maria, Magdalena, Marlene, Maria und Lena bzw. Maria und Helene",
+    "englische und niederländische Namensform bzw. Variante",
+    "Bezug zu Maria Magdalena",
+    "Beliebtheit bzw. Bekanntheit in Deutschland",
+    "musikalische Assoziation durch 'Lili Marleen'"
+  ],
+  "confidence": 0.79,
+  "display_text": "Marleen wirkt in der öffentlichen Wahrnehmung überwiegend neutral bis leicht positiv: freundlich, klar weiblich und gut lesbar. Der Name wird vor allem über seine Bezüge zu Maria/Magdalena bzw. Marlene erklärt; zusätzliche Bekanntheit bringt die Assoziation zu 'Lili Marleen'. Die Evidenz ist jedoch begrenzt und stammt vor allem aus Namenslexika.",
+  "evidence_quality": "mittel bis begrenzt: zwei einschlägige Namensquellen, aber keine breite öffentliche Diskussionslage oder repräsentative Daten.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Marleen",
+  "normalized_name": "marleen",
+  "overall_resonance": "Überwiegend neutral bis leicht positiv: Marleen wird vor allem als vertrauter, klar weiblicher Vorname mit guter Lesbarkeit und bekannten Herkunftsbezügen wahrgenommen. Die öffentliche Resonanz ist eher beschreibend als emotional und stützt sich stark auf namenskundliche Quellen.",
+  "practical_notes": [
+    "Für Suchmaschinen eignet sich Marleen als gut verständlicher, unkomplizierter Vorname.",
+    "Die Schreibweise wirkt eigenständig, wird aber meist ohne große Erklärungsbedürftigkeit erkannt.",
+    "Wenn Herkunft wichtig ist, lässt sich der Name gut über Maria/Magdalena bzw. Marlene einordnen."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist begrenzt und basiert im Wesentlichen auf zwei Namenslexikon-Seiten.",
+    "Es gibt kaum echte öffentliche Debatte; die Wahrnehmung ergibt sich vor allem aus beschreibenden Namensartikeln.",
+    "Aussagen zur Häufigkeit sollten vorsichtig gelesen werden, da sie nicht durch breit angelegte Umfragedaten belegt sind."
+  ],
+  "short_summary": "Marleen wird meist neutral bis leicht positiv wahrgenommen: ein freundlicher, klar weiblicher Vorname mit bekannten Herkunftsbezügen und etwas musikalischer Assoziation.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Marleen � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/M/Ma/Marleen/"
+    },
+    {
+      "confidence": 0.92,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Marleen: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Marleen.html"
+    }
+  ],
+  "style_effect": [
+    "weich und freundlich",
+    "modern, aber nicht modisch-extrem",
+    "klar weiblich lesbar",
+    "namenskundlich gut erklärbar",
+    "angenehm vertraut durch bekannte Namensbestandteile"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Mittlere Sichtbarkeit im deutschsprachigen Raum; in den vorliegenden Quellen wird der Name als bekannt, aber eher nicht sehr häufig bzw. in dieser Schreibweise teils als seltener beschrieben."
+}

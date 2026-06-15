@@ -1,0 +1,66 @@
+{
+  "associations": [
+    "Wolf als Tierbild",
+    "Stärke",
+    "Mut",
+    "Klugheit",
+    "althochdeutsche Herkunft",
+    "Kurzform von Wolfgang",
+    "selten",
+    "historisch",
+    "Namenstag",
+    "einfacher Klang"
+  ],
+  "confidence": 0.9,
+  "display_text": "Wolf wird öffentlich meist als seltener, kurzer und markanter Vorname wahrgenommen. Häufig genannt werden Bedeutungen wie Stärke, Mut und Klugheit sowie die althochdeutsche Herkunft und die Nähe zu Wolfgang. Die Resonanz ist überwiegend neutral bis leicht positiv. Einzelne Quellen verweisen jedoch auf eine historisch belastete Assoziation, die als gesellschaftlicher Bezug und nicht als Eigenschaft des Namens zu verstehen ist.",
+  "evidence_quality": "mittel bis stark: mehrere namenskundliche Quellen, teils mit Nutzerfeedback; die Hauptaussagen sind gut gestützt, einzelne Nebenassoziationen sind jedoch weniger belastbar",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Wolf",
+  "normalized_name": "wolf",
+  "overall_resonance": "Der Vorname Wolf wird in der öffentlichen Wahrnehmung überwiegend sachlich bis leicht positiv aufgenommen: Er gilt als markant, traditionsnah und klar in seiner Bedeutung. Gleichzeitig ist die Resonanz nicht ganz konfliktfrei, weil einzelne Quellen eine belastete historische Assoziation nennen. Insgesamt wirkt der Name selten, kurz und prägnant.",
+  "practical_notes": [
+    "Für viele wirkt der Name klar, robust und traditionsbewusst.",
+    "Durch seine Kürze ist er leicht merkbar und im Alltag unkompliziert.",
+    "Die Seltenheit kann ihn besonders prägnant machen.",
+    "Je nach Kontext kann die starke Tierassoziation als souverän oder sehr direkt wahrgenommen werden."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Einzelne Quellen nennen eine potenziell belastete historische Assoziation; das sollte als gesellschaftliche Erinnerung und nicht als Eigenschaft des Namens verstanden werden.",
+    "Die Einschätzung stützt sich vor allem auf Namensportale und Nutzerkommentare; die Evidenz für die öffentliche Resonanz ist daher solide, aber nicht repräsentativ im statistischen Sinn."
+  ],
+  "short_summary": "Wolf ist ein seltener, kraftvoll wirkender Vorname mit traditioneller und historischer Wirkung; die Resonanz ist meist neutral bis leicht positiv, mit vereinzelten belasteten historischen Bezügen.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Wolf � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/W/Wo/Wolf/"
+    },
+    {
+      "confidence": 0.94,
+      "is_name_discussion": true,
+      "sentiment": "gemischt",
+      "source_type": "web",
+      "title": "&#9655; Vorname Wolf: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Wolf.html"
+    }
+  ],
+  "style_effect": [
+    "kurz und direkt",
+    "kräftig und markant",
+    "traditionell/althochdeutsch",
+    "historisch aufgeladen",
+    "einfach auszusprechen und zu schreiben",
+    "männlich und knapp",
+    "assoziiert mit Tierbild und Symbolik von Stärke"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "eher bekannt, aber als Vorname vergleichsweise selten; in Namensportalen klar präsent"
+}

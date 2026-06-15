@@ -1,0 +1,64 @@
+{
+  "associations": [
+    "Geschenk der Sonne",
+    "Sonnenschein/Sonnengeberin",
+    "altenglische bzw. nordische Wurzeln",
+    "Skandinavien",
+    "Norwegen",
+    "heilige Sunniva von Selje",
+    "Namenstag am 8. Juli",
+    "selten in Deutschland"
+  ],
+  "confidence": 0.84,
+  "display_text": "Sunniva hat in Deutschland eine überwiegend positive, ruhige Resonanz. Der Name wirkt skandinavisch, weich und traditionell; häufig genannt werden Bedeutungen wie „Geschenk der Sonne“ sowie Bezüge zu Norwegen, der heiligen Sunniva und dem Namenstag am 8. Juli. Gleichzeitig ist er hierzulande eher selten. Die Evidenz ist allerdings begrenzt und stammt vor allem aus Namenslexika, nicht aus einer breiten öffentlichen Debatte.",
+  "evidence_quality": "mittel bis schwach: wenige, aber konsistente Namenslexikon-Quellen; keine breite öffentliche Debatte sichtbar.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Sunniva",
+  "normalized_name": "sunniva",
+  "overall_resonance": "Überwiegend positiv und wertschätzend, mit klarer skandinavisch-nordischer Prägung. Der Name wird vor allem über Bedeutung, Herkunft und Klang beschrieben, nicht über kontroverse Debatten.",
+  "practical_notes": [
+    "Für Suchmaschinen wirkt der Name klar erklärbar und herkunftsnah.",
+    "Die Seltenheit in Deutschland kann ihn besonders machen, ohne automatisch auf breite Bekanntheit zu schließen.",
+    "Gut geeignet für Menschen, die einen nordisch geprägten, sanft klingenden Namen suchen."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt nur aus zwei Namenslexikon-Seiten; breite öffentliche Diskussionen sind nicht erkennbar.",
+    "Positive Einordnung ergibt sich vor allem aus Bedeutungs- und Herkunftserklärungen, nicht aus einer großen Resonanz in der Allgemeinheit.",
+    "Einzelne Detailangaben können aus redaktionellen oder nutzergenerierten Inhalten stammen und sind daher nur eingeschränkt belastbar."
+  ],
+  "short_summary": "Sunniva wird öffentlich überwiegend positiv wahrgenommen: als seltener, skandinavisch-nordischer Mädchenname mit sonniger Bedeutung und traditionellem Hintergrund.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.95,
+      "is_name_discussion": true,
+      "sentiment": "positive",
+      "source_type": "web",
+      "title": "Vorname Sunniva � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/S/Su/Sunniva/"
+    },
+    {
+      "confidence": 0.92,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Sunniva: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Sunniva.html"
+    }
+  ],
+  "style_effect": [
+    "skandinavisch",
+    "nordisch",
+    "elegant",
+    "weich klingend",
+    "selten",
+    "kulturhistorisch",
+    "mystisch-traditionell"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland eher selten und dadurch auffällig, aber nicht negativ konnotiert. Die öffentliche Sichtbarkeit wirkt vor allem namenskundlich und informationsbasiert."
+}

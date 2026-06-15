@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "Bedeutung rund um Licht und Erleuchtung",
+    "katalanische und arabische Herkunftsbezüge",
+    "Marienbezug über Nuestra Señora de Nuria",
+    "weiblicher Vorname",
+    "selten bis moderat gebräuchlich",
+    "Kurzformen wie Nuri oder Nuni"
+  ],
+  "confidence": 0.88,
+  "display_text": "Nuria wirkt in Deutschland überwiegend positiv und informativ besetzt: Der Name wird vor allem mit Licht, Erleuchtung und katalanisch-arabischen Herkunftsbezügen verbunden. Er ist eher selten bis mäßig bekannt, klingt weich und international, und die verfügbare Evidenz stammt hauptsächlich aus Namenslexika statt aus breiter öffentlicher Diskussion.",
+  "evidence_quality": "gut, aber quellenmäßig begrenzt auf wenige namenskundliche Webquellen",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Nuria",
+  "normalized_name": "nuria",
+  "overall_resonance": "Überwiegend positiv und informativ; der Name wird vor allem mit Licht, Herkunft und einem eher eleganten, weichen Klang verbunden.",
+  "practical_notes": [
+    "Für Suchende wirkt der Name meist klar, freundlich und international anschlussfähig.",
+    "Die Schreib- und Ausspracheform ist in Deutschland gut handhabbar.",
+    "Der Name hat eine positive Bedeutungsaufladung, ohne stark modisch oder überladen zu wirken."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt vor allem aus Namenslexika und Verzeichnissen, nicht aus breiter öffentlicher Diskussion.",
+    "Beliebtheitsaussagen beruhen eher auf Daten-/Listenquellen als auf freier Alltagsresonanz.",
+    "Subjektive Wirkungseindrücke sollten als Tendenzen verstanden werden, nicht als allgemeingültige Wahrheiten."
+  ],
+  "short_summary": "Nuria wird öffentlich meist positiv, hell und international wahrgenommen, mit starken Bezügen zu Licht und katalanisch-arabischer Namenskunde.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "positive",
+      "source_type": "web",
+      "title": "Vorname Nuria � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/N/Nu/Nuria/"
+    },
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Nuria: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Nuria.html"
+    }
+  ],
+  "style_effect": [
+    "weich",
+    "modern-klingend",
+    "international anmutend",
+    "freundlich",
+    "namenskundlich aufgeladen"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland eher selten bis mäßig bekannt, aber klar präsent und als Vorname gut einordenbar."
+}

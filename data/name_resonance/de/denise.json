@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "französische Form von Denis",
+    "griechische Herkunft",
+    "Bezug zu Dionysos",
+    "weiblicher Vorname",
+    "Bedeutungsdeutungen wie Fröhlichkeit oder Stärke",
+    "früher in Deutschland populärer",
+    "heute eher seltener"
+  ],
+  "confidence": 0.84,
+  "display_text": "Denise wirkt in Deutschland eher klassisch und freundlich als modisch. Der Name ist klar französisch geprägt, inhaltlich gut belegbar und heute eher seltener, aber weiterhin bekannt.",
+  "evidence_quality": "gut für Herkunft, Bedeutung und grobe Popularität; begrenzt für echte öffentliche Resonanz im Alltag",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Denise",
+  "normalized_name": "denise",
+  "overall_resonance": "Der Vorname Denise wird in der vorliegenden Evidenz überwiegend neutral bis freundlich wahrgenommen. Er erscheint als klassisch-französisch geprägter Mädchenname mit klarer Namensgeschichte und eher informativem als trendigem Profil. Für Deutschland wird er als früher beliebter, heute seltener beschrieben.",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt Denise vertraut, klassisch und gut einordenbar.",
+    "Im deutschen Kontext dürfte der Name eher als bekannt, aber nicht sehr aktuell wahrgenommen werden.",
+    "Die Wirkung ist insgesamt eher sachlich-elegant als ausgefallen."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt fast ausschließlich aus Namenslexika; echte öffentliche Resonanz außerhalb dieser Seiten ist nur eingeschränkt belegt.",
+    "Beliebtheitsaussagen beziehen sich auf Namensstatistik bzw. Namensbeschreibungen und nicht auf breite Alltagswahrnehmung."
+  ],
+  "short_summary": "Denise wird in den Quellen als klassisch-französischer Mädchenname mit neutral bis freundlicher Resonanz beschrieben; in Deutschland ist er bekannt, heute aber eher seltener.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.99,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Denise � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/D/De/Denise/"
+    },
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "mostly positive",
+      "source_type": "web",
+      "title": "&#9655; Vorname Denise: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Denise.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch-französisch",
+    "weiblich",
+    "zeitlos-klar",
+    "informativ",
+    "eher zurückhaltend als modisch",
+    "namenskundlich etabliert"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Mittlere bis eher geringe öffentliche Sichtbarkeit in Deutschland; der Name ist bekannt, wirkt aber nicht stark präsent im aktuellen Mainstream."
+}

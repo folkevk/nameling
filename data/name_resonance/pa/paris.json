@@ -1,0 +1,70 @@
+{
+  "associations": [
+    "griechische Mythologie",
+    "Troja",
+    "altgriechische Herkunft",
+    "Unisex-Name",
+    "französische Hauptstadt als Nebenassoziation",
+    "selten in Deutschland",
+    "Aussprache und Herkunft werden mitgedacht"
+  ],
+  "confidence": 0.78,
+  "display_text": "Paris wirkt in Deutschland eher selten, international und markant. Die vorliegende Evidenz zeigt überwiegend eine neutrale bis leicht positive Wahrnehmung, vor allem in Namenslexika; eine breite öffentliche Debatte ist kaum sichtbar.",
+  "evidence_quality": "Mittel bis schwach für öffentliche Alltagsresonanz, aber ausreichend für eine vorsichtige Namenseinschätzung. Die Quellen sind zuverlässig für Herkunft und Einordnung, jedoch nur begrenzt für gesellschaftliche Stimmung.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Paris",
+  "normalized_name": "paris",
+  "overall_resonance": "Überwiegend neutral bis leicht positiv. Der Name wird vor allem als international klingend und markant wahrgenommen; die öffentliche Rezeption wirkt jedoch insgesamt eher sachlich als emotional. Für Deutschland gilt Paris als selten, aber vergeben.",
+  "practical_notes": [
+    "Für die Namenssuche wirkt Paris eher ungewöhnlich und international.",
+    "Die Wahrnehmung dürfte stark von Kontext, Aussprache und persönlichem Namensgeschmack abhängen.",
+    "Als Name wird Paris in Deutschland eher als Sonderwahl denn als Standardname gelesen."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz für echte öffentliche Resonanz ist begrenzt; vieles stammt aus Namensdatenbanken.",
+    "Ein Teil der Assoziationen kann durch den Ortsnamen Paris beeinflusst sein.",
+    "Keine belastbaren Hinweise auf breite Stigmatisierung oder starke Negativwertung in der vorliegenden Evidenz."
+  ],
+  "short_summary": "Paris wird in Deutschland eher selten, international und klangvoll wahrgenommen. Die Rezeption ist überwiegend neutral bis leicht positiv, basiert aber vor allem auf Namenslexikon-Quellen.",
+  "source_count": 3,
+  "sources": [
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Paris � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/P/Pa/Paris/"
+    },
+    {
+      "confidence": 0.95,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Paris � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/P/Pa/Paris/"
+    },
+    {
+      "confidence": 0.92,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Paris: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Paris.html"
+    }
+  ],
+  "style_effect": [
+    "international und klangvoll",
+    "modern wirkend",
+    "markant und einprägsam",
+    "eher selten als alltäglich",
+    "Unisex-Assoziation möglich",
+    "sachlich-etymologische Wahrnehmung"
+  ],
+  "usable_evidence_count": 3,
+  "visibility": "Mittel. Der Name ist bekannt, aber nicht alltäglich; die verfügbaren Hinweise stammen überwiegend aus Namenslexika und vereinzelten Kommentaren statt aus breiter öffentlicher Diskussion."
+}

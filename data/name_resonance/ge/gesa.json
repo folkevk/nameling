@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "friesische bzw. niederdeutsche Kurzform von Gertrud",
+    "altdeutsche Herkunft",
+    "Bedeutungsfelder wie Stärke und Speer",
+    "Namenstag",
+    "selten, etwas besonderes",
+    "teils als vertraut und bodenständig beschrieben"
+  ],
+  "confidence": 0.87,
+  "display_text": "Gesa wirkt in Deutschland eher positiv und neutral-traditionell: ein kurzer, friesisch/niederdeutsch geprägter Vorname, der selten bis moderat verbreitet ist und als charaktervoll sowie eher besonders wahrgenommen wird. Die Evidenz ist dabei vor allem namenskundlich und nicht breit öffentlich.",
+  "evidence_quality": "mittel bis gut; direkte Namensdiskussionen vorhanden, aber nur auf wenigen Quellen und ohne breite Social-Media- oder Umfragedaten.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Gesa",
+  "normalized_name": "gesa",
+  "overall_resonance": "Eher positiv bis neutral. Gesa wird öffentlich meist als kurzer, traditionsreicher und eher seltener Vorname wahrgenommen, mit klarer norddeutscher/friesischer Verankerung.",
+  "practical_notes": [
+    "Für eine Namenssuche eignet sich Gesa gut, wenn ein kurzer, traditioneller und ungewöhnlicher Name gesucht wird.",
+    "Die Wirkung ist eher sachlich-traditionell als trendig.",
+    "Durch die Seltenheit kann der Name auffallen, ohne extrem exotisch zu wirken."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz basiert vor allem auf Namenslexikon-Seiten, nicht auf breiter öffentlicher Diskussion.",
+    "Einzelne Kommentare oder Assoziationen können stark subjektiv sein.",
+    "Beliebtheitsaussagen sind kontextabhängig und nicht als harte Marktwerte zu lesen."
+  ],
+  "short_summary": "Gesa wird öffentlich meist freundlich, traditionell und eher selten wahrgenommen; die Resonanz ist überwiegend positiv, aber auf schmaler Datenbasis.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Gesa � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/G/Ge/Gesa/"
+    },
+    {
+      "confidence": 0.87,
+      "is_name_discussion": true,
+      "sentiment": "eher positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Gesa: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Gesa.html"
+    }
+  ],
+  "style_effect": [
+    "kurz und prägnant",
+    "traditionell-altdeutsch",
+    "friesisch/niederdeutsch geprägt",
+    "selten bis moderat verbreitet",
+    "namenskundlich klar einordenbar",
+    "wirkt auf viele eher charaktervoll als modisch"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland wirkt der Name eher bekannt, aber nicht sehr häufig. Die öffentliche Sichtbarkeit ist damit vorhanden, jedoch begrenzt durch die eher seltene Verbreitung."
+}

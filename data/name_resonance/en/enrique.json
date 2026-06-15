@@ -1,0 +1,58 @@
+{
+  "associations": [
+    "spanische Form von Heinrich",
+    "Bedeutung im Sinn von Herrscher/Herr im Haus",
+    "männlicher Vorname",
+    "Namenstag",
+    "selten bis mäßig verbreitet in Deutschland"
+  ],
+  "confidence": 0.78,
+  "display_text": "Enrique wird im deutschen Kontext überwiegend neutral bis positiv wahrgenommen: international klingend, klar als spanische Form von Heinrich erkennbar und eher selten bis mäßig verbreitet. Die Evidenz ist allerdings vor allem lexikalisch-statistisch, daher ist die öffentliche Resonanz nur indirekt belegt.",
+  "evidence_quality": "schwach bis moderat; überwiegend lexikalische und statistische Quellen, kaum diskursive öffentliche Reaktionen",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Enrique",
+  "normalized_name": "enrique",
+  "overall_resonance": "Enrique wirkt im deutschen Namenskontext überwiegend sachlich, freundlich und international; die öffentliche Wahrnehmung ist eher neutral bis positiv, ohne starke Polarisierung.",
+  "practical_notes": [
+    "Im deutschen Umfeld meist gut verständlich und aussprechbar.",
+    "Durch die internationale Form hebt sich der Name leicht von sehr häufigen Vornamen ab.",
+    "Je nach Umfeld kann er als eher mediterran oder kosmopolitisch wahrgenommen werden."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt vor allem aus Namensdatenbanken; das sagt mehr über Herkunft und Verbreitung als über echte öffentliche Debatten.",
+    "Eine belastbare Aussage zur gesellschaftlichen Resonanz ist daher nur eingeschränkt möglich."
+  ],
+  "short_summary": "Enrique wird in Deutschland meist neutral bis positiv und als international klingende, seltene Variante von Heinrich wahrgenommen.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.95,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Enrique � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/E/En/Enrique/"
+    },
+    {
+      "confidence": 0.95,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Enrique: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Enrique.html"
+    }
+  ],
+  "style_effect": [
+    "international",
+    "klangvoll",
+    "eher elegant",
+    "modern-südlich",
+    "sachlich statt modisch überladen"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Im deutschsprachigen Raum eher selten bis mäßig verbreitet und daher nicht sehr alltäglich, aber als klar erkennbar spanische Form von Heinrich gut einordbar."
+}

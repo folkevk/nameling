@@ -1,0 +1,69 @@
+{
+  "associations": [
+    "Koseform von Maria",
+    "mögliche Bezüge zu Mirjam",
+    "weiblich und auch männlich verwendbar",
+    "klassischer Vorname",
+    "heute eher selten",
+    "früher deutlich häufiger",
+    "Namenstag",
+    "etymologisch mehrdeutig"
+  ],
+  "confidence": 0.91,
+  "display_text": "Marion wirkt in Deutschland überwiegend neutral bis leicht positiv: ein klassischer, vertrauter Vorname, der heute eher selten vergeben wird. Die öffentliche Wahrnehmung ist vor allem lexikonartig und informativ; Herkunft und Bedeutung werden teils unterschiedlich erklärt.",
+  "evidence_quality": "mittel bis gut; mehrere Namenslexika mit hoher Übereinstimmung, aber überwiegend beschreibende statt meinungsbasierte Evidenz",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Marion",
+  "normalized_name": "marion",
+  "overall_resonance": "Überwiegend neutral bis leicht positiv, vor allem lexikonartig und informativ. Marion wird öffentlich eher als klassischer, heute seltener vergebener Vorname wahrgenommen.",
+  "practical_notes": [
+    "Für Suchmaschinen eignet sich Marion als vertrauter, traditioneller Vorname mit neutraler Außenwirkung.",
+    "Die Wahrnehmung kann je nach Generation unterschiedlich ausfallen, weil der Name früher häufiger war.",
+    "Im öffentlichen Sprachgebrauch wird Marion meist sachlich beschrieben, nicht stark emotional bewertet."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Bedeutungs- und Herkunftsangaben sind nicht einheitlich und teils etymologisch mehrdeutig.",
+    "Die Evidenz ist vor allem lexikonartig; es gibt wenig Hinweise auf eine breite öffentliche Meinungsbildung jenseits von Namensseiten."
+  ],
+  "short_summary": "Marion wird in Deutschland meist neutral bis leicht positiv als klassischer, heute seltener Vorname beschrieben. Die öffentliche Rezeption ist vor allem informativ und namenskundlich geprägt.",
+  "source_count": 3,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Marion � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/M/Ma/Marion/"
+    },
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Marion � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/M/Ma/Marion/"
+    },
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Marion: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Marion.html"
+    }
+  ],
+  "style_effect": [
+    "informativ",
+    "namenskundlich",
+    "klassisch",
+    "leicht nostalgisch",
+    "eher zeitlos als modern"
+  ],
+  "usable_evidence_count": 3,
+  "visibility": "In Deutschland bekannt, aber aktuell eher selten vergeben. Die öffentliche Sichtbarkeit entsteht vor allem über Namenslexika und Herkunftsseiten, nicht über breite Alltagstrends."
+}

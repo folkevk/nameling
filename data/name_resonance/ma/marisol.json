@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "Sonne / kleine Sonne",
+    "Meer und Sonne",
+    "spanischsprachiger Klang",
+    "Maria-Bezüge",
+    "christliche bzw. hebräische Deutungen",
+    "seltenere Namensverwendung in Deutschland",
+    "Namenstag"
+  ],
+  "confidence": 0.79,
+  "display_text": "Marisol wirkt in Deutschland überwiegend freundlich und sonnig. Die vorliegenden Quellen beschreiben den Namen vor allem sachlich, mit Bezügen zu Sonne, Meer und spanisch/christlicher Namensdeutung. Eine breite öffentliche Debatte ist daraus aber nicht erkennbar; die Evidenz ist eher namenskundlich als gesellschaftlich.",
+  "evidence_quality": "mittel bis schwach: inhaltlich klare Namensbeschreibungen, aber wenig echte öffentliche Diskussion und nur begrenzte externe Resonanz.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Marisol",
+  "normalized_name": "marisol",
+  "overall_resonance": "Überwiegend freundlich und sachlich: Marisol wird in den vorliegenden deutschen Namensquellen eher positiv bis neutral beschrieben, mit starken Assoziationen zu Sonne, Meer und einer spanisch bzw. christlich geprägten Namensdeutung.",
+  "practical_notes": [
+    "Für die Namenssuche wirkt Marisol freundlich, warm und international.",
+    "Der Name kann in Deutschland als eher selten und dadurch markant wahrgenommen werden.",
+    "Die öffentliche Rezeption ist nach den Quellen eher positiv-sachlich, nicht kontrovers."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt vor allem aus Namenslexika und ist daher eher beschreibend als öffentlich debattiert.",
+    "Mehrere Herleitungen und Bedeutungen werden nebeneinander genannt; sie sollten als Deutungen, nicht als gesicherte Wahrheit verstanden werden.",
+    "Aus den Quellen lassen sich keine Aussagen über Personen mit diesem Namen ableiten."
+  ],
+  "short_summary": "Marisol wird in deutschen Namensquellen meist freundlich, sonnig und sachlich eingeordnet, mit spanisch-maritimen und teils christlichen Bezügen. Die öffentliche Resonanz ist eher lexikalisch als breit diskutiert.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "Vorname Marisol � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/M/Ma/Marisol/"
+    },
+    {
+      "confidence": 0.84,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Marisol: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Marisol.html"
+    }
+  ],
+  "style_effect": [
+    "sachlich-informativ",
+    "namenskundlich",
+    "weich-klangvoll",
+    "sonnig-positiv konnotiert",
+    "international/spanisch wirkend"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Die Sichtbarkeit in Deutschland wirkt eher namenskundlich als breit öffentlich: Der Name erscheint in Lexika und Namensportalen, aber die Evidenz für echte öffentliche Debatten oder alltagssprachliche Resonanz ist begrenzt."
+}

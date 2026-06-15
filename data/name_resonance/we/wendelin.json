@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "althochdeutsche bzw. altdeutsche Herkunft",
+    "Kurzform bzw. Ableitung mit Wendel-",
+    "männlicher Vorname",
+    "Namenstag um den 20./21. Oktober",
+    "katholischer Heiliger und Schutzpatron in der Überlieferung",
+    "selten bzw. wenig verbreitet in Deutschland"
+  ],
+  "confidence": 0.68,
+  "display_text": "Wendelin wirkt in Deutschland eher selten, traditionell und leicht positiv konnotiert. Die öffentliche Resonanz ist jedoch nur schwach belegt und stammt vor allem aus Namenslexika.",
+  "evidence_quality": "Begrenzt: zwei überwiegend lexikalische Webquellen mit Namensfokus; nur schwache direkte Evidenz zur öffentlichen Resonanz.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Wendelin",
+  "normalized_name": "wendelin",
+  "overall_resonance": "In Deutschland wirkt Wendelin öffentlich eher selten und eher sachlich-traditionell als modisch. Die verfügbaren Namensquellen deuten insgesamt auf eine neutrale bis leicht positive Wahrnehmung hin, mit kulturell-historischen und religiösen Bezügen.",
+  "practical_notes": [
+    "Für eine Namenssuche eignet sich Wendelin besonders, wenn ein traditioneller, ungewöhnlicher Name gesucht wird.",
+    "Die Seltenheit kann als markant, aber auch als wenig alltagstypisch wahrgenommen werden.",
+    "Kurzformen wie Wendi oder Wendl werden in einigen Quellen genannt."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist schwach und stützt sich im Wesentlichen auf Namensportale statt auf breite öffentliche Meinungsdaten.",
+    "Die religiös-historischen Bezüge können die Wahrnehmung stärker prägen als tatsächliche Alltagsresonanz.",
+    "Keine belastbaren Hinweise auf gesellschaftliche Stigmatisierung oder klare Modezuordnung."
+  ],
+  "short_summary": "Wendelin wird in den Quellen als seltener, traditioneller Vorname mit eher neutral bis leicht positiver Resonanz beschrieben.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.9,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Wendelin � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/W/We/Wendelin/"
+    },
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Wendelin: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Wendelin.html"
+    }
+  ],
+  "style_effect": [
+    "traditionell",
+    "historisch",
+    "namenkundlich",
+    "leicht altmodisch",
+    "kulturell-religiös",
+    "seltenheitsgeprägt"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Gering bis moderat sichtbar; der Name gilt als wenig verbreitet und taucht vor allem in Namenslexika sowie bei Herkunfts- und Bedeutungskontexten auf."
+}

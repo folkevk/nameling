@@ -1,0 +1,58 @@
+{
+  "associations": [
+    "altnordische Herkunft",
+    "Bedeutung: „die Schöne“ bzw. „schöne Göttin“",
+    "Namenslexikon- und Namenskund-Kontext",
+    "ehemals deutlich beliebter, heute seltener",
+    "Namenstage am 2. September und 9. Oktober"
+  ],
+  "confidence": 0.93,
+  "display_text": "Ingrid wirkt öffentlich vor allem klassisch, nordisch und traditionsnah. Der Name ist in Deutschland bekannt, heute aber eher selten. Häufig genannt werden die altnordische Herkunft, die Bedeutung „die Schöne“ bzw. „schöne Göttin“ und die Namenstage am 2. September und 9. Oktober.",
+  "evidence_quality": "hoch, aber vor allem aus lexikalischen Online-Quellen und ohne breite repräsentative Umfragebasis",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Ingrid",
+  "normalized_name": "ingrid",
+  "overall_resonance": "Ingrid wird öffentlich vor allem als klassischer, nordisch-altnordisch geprägter Vorname wahrgenommen, mit eher sachlich-informativer als trendiger Anmutung.",
+  "practical_notes": [
+    "Für Suchende wirkt der Name klar etabliert und gut einordbar.",
+    "Die Wahrnehmung ist eher traditionell als modern-trendig.",
+    "Kurzformen wie Inge, Inga oder Grit werden im Umfeld des Namens mitgenannt."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenzlage ist stark, aber überwiegend auf wenige Namenslexikon-Seiten gestützt.",
+    "Einzelne Online-Kommentare sollten nur als spontane Namensresonanz, nicht als objektive Bewertung verstanden werden."
+  ],
+  "short_summary": "Ingrid gilt in der öffentlichen Wahrnehmung als klassischer, nordischer Vorname mit positiver Bedeutungsassoziation, aber heute geringerer Alltagspräsenz.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Ingrid � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/I/In/Ingrid/"
+    },
+    {
+      "confidence": 0.95,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Ingrid: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Ingrid.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "nordisch",
+    "traditionell",
+    "zeitlos",
+    "eher nüchtern als verspielt"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland bekannt, aber heute deutlich seltener und nicht mehr stark modisch; dadurch eher vertraut als auffällig."
+}

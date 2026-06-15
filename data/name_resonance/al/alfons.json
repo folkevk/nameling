@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "altgermanisch/westgotische Herkunft",
+    "Bedeutung im Sinn von kampfbereit, willensstark, edel",
+    "historisch in Deutschland häufiger, heute seltener",
+    "klassischer Jungenname",
+    "Namenstag am 1. August"
+  ],
+  "confidence": 0.84,
+  "display_text": "Alfons wird in Deutschland vor allem als klassischer, traditionsreicher und heute eher seltener Vorname wahrgenommen. Die öffentliche Resonanz ist sachlich-neutral bis leicht positiv, mit Schwerpunkt auf Herkunft, Bedeutung und historischem Klang.",
+  "evidence_quality": "mittel: zwei einschlägige Namensportale, inhaltlich passend, aber überwiegend lexikalisch statt breit öffentlichkeitsbezogen",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Alfons",
+  "normalized_name": "alfons",
+  "overall_resonance": "Alfons wird in Deutschland überwiegend als klassischer, traditioneller Vorname wahrgenommen. Die öffentliche Resonanz wirkt eher sachlich-neutral bis leicht positiv, mit Fokus auf Herkunft, Bedeutung und historischer Einordnung.",
+  "practical_notes": [
+    "Für eine Namenssuche eignet sich Alfons besonders, wenn ein traditioneller und klar historischer Klang gewünscht ist.",
+    "Der Name kann für manche etwas altmodisch wirken, was aber auch als klassisch oder charaktervoll gelesen werden kann.",
+    "Die Quellenlage ist ausreichend für eine vorsichtige Einordnung, aber nicht für eine harte Trendbewertung."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz basiert vor allem auf Namenslexika und Vornamensseiten; die öffentliche Wahrnehmung ist daher nur indirekt ablesbar.",
+    "Beliebtheitsangaben wirken teils redaktionell und nicht einheitlich.",
+    "Keine belastbaren Hinweise auf starke soziale Stigmatisierung in der vorliegenden Evidenz."
+  ],
+  "short_summary": "Alfons wirkt in Deutschland klassisch, traditionsreich und eher selten; die Resonanz ist sachlich-neutral mit leicht positiver, historischer Note.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Alfons � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/A/Al/Alfons/"
+    },
+    {
+      "confidence": 0.92,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Alfons: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Alfons.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "traditionell",
+    "altsprachlich wirkend",
+    "eher selten",
+    "lexikalisch-sachlich",
+    "leicht altmodisch",
+    "namenskundlich klar"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Der Name ist bekannt, aber heute eher selten und nicht besonders trendig. In Namensportalen wird er vor allem als traditionsreicher, historisch belegter Vorname beschrieben."
+}

@@ -1,0 +1,62 @@
+{
+  "associations": [
+    "althochdeutsche bzw. germanische Wurzeln",
+    "Deutung als „die Arbeitende“ oder „die Jungfrau“",
+    "mögliche weitere Deutung als „göttliche Seherin“",
+    "mittelalterlicher Vorname",
+    "Namenstag",
+    "Beliebtheit in Deutschland",
+    "nordisch/skandinavisch verbreitet",
+    "kurzer, traditionsreicher Vorname"
+  ],
+  "confidence": 0.86,
+  "display_text": "Ida wird in den vorliegenden Namensquellen überwiegend positiv beschrieben: kurz, klar, traditionsreich und in Deutschland beliebt. Die Evidenz ist allerdings vor allem lexikalisch und redaktionell, nicht breit öffentlich-diskursiv.",
+  "evidence_quality": "mittel bis gut: zwei einschlägige Namensquellen mit konsistenter, überwiegend positiver Darstellung, aber wenig echte Meinungsvielfalt",
+  "generated_at": "2026-06-12T06:08:03Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Ida",
+  "normalized_name": "ida",
+  "overall_resonance": "Der Vorname Ida wird in den vorliegenden Quellen überwiegend positiv und wertschätzend beschrieben. Im Fokus stehen die kurze, klare Form, die historische Tiefe und die derzeitige Beliebtheit in Deutschland. Die Resonanz wirkt eher redaktionell-namenskundlich als wie eine breite öffentliche Debatte, daher ist sie vorsichtig zu interpretieren.",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt Ida in den Quellen unkompliziert, klassisch und gut einprägsam.",
+    "Die knappe Form und die historische Herkunft werden besonders häufig hervorgehoben.",
+    "Wer die aktuelle öffentliche Wahrnehmung sucht, sollte beachten, dass hier vor allem redaktionelle Namensbeschreibungen vorliegen."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt vor allem aus Namenslexika und einer Community-/Informationsseite; das ist keine breite öffentliche Meinungsumfrage.",
+    "Die positiven Einschätzungen sind vor allem beschreibend und namenskundlich, nicht als gesicherte öffentliche Mehrheitsmeinung zu verstehen."
+  ],
+  "short_summary": "Ida wird überwiegend positiv als kurzer, klassischer und historisch verankerter Vorname mit guter Beliebtheit in Deutschland wahrgenommen.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "positive",
+      "source_type": "web",
+      "title": "Vorname Ida � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/I/Id/Ida/"
+    },
+    {
+      "confidence": 0.95,
+      "is_name_discussion": true,
+      "sentiment": "überwiegend positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Ida: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Ida.html"
+    }
+  ],
+  "style_effect": [
+    "kurz und klar",
+    "traditionell",
+    "historisch verankert",
+    "namenskundlich aufgeladen",
+    "eher klassisch als modisch",
+    "freundlich und zugänglich wirkend"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Der Name ist sichtbar und etabliert; in den Quellen wird er als in Deutschland wieder häufig vergeben und auch skandinavisch/nordisch verbreitet dargestellt. Eine ausgeprägte Kontroverse ist nicht erkennbar."
+}

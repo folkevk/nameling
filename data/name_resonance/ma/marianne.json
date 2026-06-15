@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "französische Koseform bzw. Doppelform aus Maria und Anne",
+    "christlich-biblischer Namenshintergrund",
+    "Bedeutung wird teils mit Anmut/Gnade verbunden",
+    "in Deutschland seit dem 18. Jahrhundert belegt",
+    "besonders in den 1950er-Jahren verbreitet",
+    "heute eher selten"
+  ],
+  "confidence": 0.88,
+  "display_text": "Marianne wirkt in Deutschland klassisch, historisch und eher selten vergeben. Die öffentliche Resonanz ist überwiegend neutral bis leicht positiv, ohne starke Polarisierung.",
+  "evidence_quality": "mittel bis gut; die inhaltliche Abdeckung ist solide, aber die Resonanz basiert überwiegend auf beschreibender Namensliteratur statt auf breiter öffentlicher Meinungsäußerung.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Marianne",
+  "normalized_name": "marianne",
+  "overall_resonance": "Marianne wirkt in der öffentlichen Namenswahrnehmung eher traditionell, klassisch und historisch geprägt. Die verfügbare Evidenz zeigt vor allem namenskundliche, beschreibende Einordnungen; direkte öffentliche Bewertungen sind nur begrenzt vorhanden. Insgesamt eher neutral bis leicht positiv, mit wenig aktueller Alltagspräsenz.",
+  "practical_notes": [
+    "Für eine Namenssuche ist Marianne gut als klassischer, historisch etablierter Vorname einzuordnen.",
+    "Wer einen modernen oder sehr aktuellen Klang sucht, könnte den Namen eher als traditionell empfinden.",
+    "Die öffentliche Resonanz wirkt insgesamt unproblematisch und wenig polarisiert."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt überwiegend aus Namenslexika und redaktionellen Beschreibungen, nicht aus breiten öffentlichen Diskussionen.",
+    "Die Rezeption ist daher nur eingeschränkt direkt messbar.",
+    "Einzelne subjektive Kommentare liegen vor, sind aber für die Gesamtwirkung nur begrenzt aussagekräftig."
+  ],
+  "short_summary": "Marianne wird in Deutschland vor allem als klassischer, historisch geprägter Vorname wahrgenommen: bekannt, aber heute eher selten, insgesamt neutral bis leicht positiv.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Marianne � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/M/Ma/Marianne/"
+    },
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "gemischt",
+      "source_type": "web",
+      "title": "&#9655; Vorname Marianne: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Marianne.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "traditionell",
+    "eher zeitlos",
+    "namenskundlich geprägt",
+    "historisch verankert",
+    "wenig modern-trendig"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland bekannt, aber heute eher selten vergeben. Der Name ist dadurch eher vertraut als modisch und erscheint eher in einem klassischen als in einem trendigen Kontext."
+}

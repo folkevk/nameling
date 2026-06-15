@@ -1,0 +1,59 @@
+{
+  "associations": [
+    "dänische und norwegische Form von Martin",
+    "lateinischer Ursprung",
+    "Bedeutung: dem Kriegsgott Mars geweiht",
+    "Namenstag am 11. November",
+    "Kurzformen wie Morti, Morty oder Momo",
+    "selten bis moderat vergeben"
+  ],
+  "confidence": 0.89,
+  "display_text": "Morten wirkt in Deutschland eher sachlich-informativ und leicht positiv. Der Name wird vor allem als nordische Form von Martin mit klarer Herkunft und Bedeutung beschrieben. In der Evidenz erscheint er eher selten bis moderat vergeben, mit ruhiger, moderner und nordisch-klarer Ausstrahlung. Die öffentliche Resonanz ist dabei nur begrenzt belegt und stützt sich vor allem auf Namenslexika statt auf breite öffentliche Debatten.",
+  "evidence_quality": "mittel bis schwach für öffentliche Resonanz; gut für Herkunft und Namensbedeutung, aber begrenzt für breite Alltagswahrnehmung",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Morten",
+  "normalized_name": "morten",
+  "overall_resonance": "Eher sachlich-informativ mit leicht positivem Unterton. In der vorliegenden Evidenz wird Morten vor allem als skandinavische Form von Martin mit klarer Herkunft und Bedeutung beschrieben; die öffentliche Resonanz wirkt dabei eher ruhig als polarisierend.",
+  "practical_notes": [
+    "Für die Namenssuche wirkt Morten klar, international anschlussfähig und eher selten.",
+    "Die Aussprache und Schreibweise dürften für viele in Deutschland vertraut, aber nicht alltäglich sein.",
+    "Der Name hat eine nüchterne, nordische Anmutung ohne starke modische Zuspitzung."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist stark auf Namenslexikon-Seiten begrenzt; das ist keine breite öffentliche Debatte.",
+    "Positive Einschätzungen stammen teils aus einzelnen Kommentaren und sind daher nur eingeschränkt verallgemeinerbar.",
+    "Es gibt keinen Hinweis auf eine besondere soziale Stigmatisierung in der vorliegenden Evidenz."
+  ],
+  "short_summary": "Morten wird in der verfügbaren Evidenz vor allem sachlich und leicht positiv wahrgenommen: ein nordischer, eher seltener Name mit klarer Herkunft.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Morten � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/M/Mo/Morten/"
+    },
+    {
+      "confidence": 0.95,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Morten: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Morten.html"
+    }
+  ],
+  "style_effect": [
+    "klingt nordisch und klar",
+    "wirkt eher modern-nüchtern als verspielt",
+    "hat einen markanten, aber nicht lauten Auftritt",
+    "durch die Herkunft als skandinavische Form von Martin auch vertraut einzuordnen"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland bekannt, aber eher selten bis moderat vergeben. Die Sichtbarkeit scheint daher vorhanden, aber nicht massenhaft zu sein."
+}

@@ -1,0 +1,62 @@
+{
+  "associations": [
+    "skandinavische Kurzform",
+    "lateinische Herkunft über Laurentius/Lorenz",
+    "Lorbeerkranz bzw. Lorbeerbekränzter",
+    "bekannt und in Deutschland häufig vergeben",
+    "Namenstag am 21. Juli und 10. August",
+    "Spitznamen wie Larsi oder Lasse"
+  ],
+  "confidence": 0.79,
+  "display_text": "Lars wird in den vorliegenden Quellen überwiegend positiv und vertraut wahrgenommen. Der Name wirkt kurz, skandinavisch und zeitlos; die Herkunft wird meist als Form von Laurentius/Lorenz mit Bezug zu Lorbeer gedeutet. Die Evidenz ist gut für Bedeutung und Namenskunde, aber nur begrenzt für eine breitere öffentliche Meinungslage.",
+  "evidence_quality": "mittel bis gut für Herkunft, Bedeutung und namenkundliche Einordnung; begrenzt für echte öffentliche Meinungsbreite",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Lars",
+  "normalized_name": "lars",
+  "overall_resonance": "Der Vorname Lars wirkt in Deutschland überwiegend positiv und vertraut, mit einer klaren skandinavisch-kurzen und zeitlosen Anmutung. Die öffentliche Wahrnehmung in den vorliegenden Quellen ist eher namenskundlich und belobigend als kontrovers.",
+  "practical_notes": [
+    "Als Name wird Lars meist klar und problemlos verstanden.",
+    "Die kurze Form sorgt für gute Merkfähigkeit.",
+    "Die Wahrnehmung ist eher nüchtern-positiv als extravagant.",
+    "Für eine öffentliche Resonanzkarte eignet sich die Einordnung als bewährter, bekannter Jungenname mit skandinavischem Klang."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt fast vollständig aus Namenslexika; das ist gut für Herkunft und Bedeutungen, aber nur begrenzt für echte öffentliche Resonanz belastbar.",
+    "Einzelne positive Bewertungen sind nicht repräsentativ für die Gesamtwahrnehmung.",
+    "Keine Hinweise auf starke Stigmatisierung oder negative soziale Zuschreibungen in der vorliegenden Evidenz."
+  ],
+  "short_summary": "Lars wird in den Quellen überwiegend positiv, bekannt und zeitlos wahrgenommen, mit skandinavischem Klang und klassischer Herkunft. Die Evidenz ist stark für die Namensbedeutung, aber nur begrenzt für die breite öffentliche Meinung.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "positive",
+      "source_type": "web",
+      "title": "Vorname Lars � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/L/La/Lars/"
+    },
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Lars: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Lars.html"
+    }
+  ],
+  "style_effect": [
+    "kurz und prägnant",
+    "skandinavisch geprägt",
+    "zeitlos",
+    "klassisch-männlich",
+    "freundlich und unkompliziert",
+    "modern genug, aber nicht modisch überzeichnet"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland gut bekannt und verbreitet; die Sichtbarkeit erscheint solide, ohne dass die Evidenz auf breite Meinungsdaten außerhalb von Namenslexika hindeutet."
+}

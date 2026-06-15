@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "Bedeutung: „der Tapfere“ / „der Männliche“",
+    "Herkunft: altgriechisch, über das Französische eingedeutscht",
+    "Namenstag wird in den Quellen genannt",
+    "Spitznamen wie Andi oder Andy werden erwähnt",
+    "historisch in Deutschland deutlich präsenter, heute eher seltener"
+  ],
+  "confidence": 0.86,
+  "display_text": "Andre wird in Deutschland meist als klassischer, traditioneller Vorname mit der Bedeutung „der Tapfere“ bzw. „der Männliche“ wahrgenommen. Die Quellen wirken überwiegend sachlich bis leicht positiv; Hinweise auf starke Stigmatisierung gibt es nicht. Öffentliche Rezeption: eher bekannt, heute aber nicht besonders trendig.",
+  "evidence_quality": "mittel bis gut; zwei thematisch passende Namensquellen, aber keine breite öffentliche Meinungsbasis",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Andre",
+  "normalized_name": "andre",
+  "overall_resonance": "Überwiegend sachlich-neutral mit leicht positiver Namenswirkung: Andre wird vor allem als klassischer, traditioneller Vorname wahrgenommen, mit klarer Bedeutungs- und Herkunftszuordnung.",
+  "practical_notes": [
+    "Für eine Suchmaschine lässt sich Andre am besten als klassischer, männlicher Vorname mit traditioneller Ausstrahlung zusammenfassen.",
+    "Die Wahrnehmung dürfte je nach Generation eher vertraut als modern wirken.",
+    "Falls Kontext wichtig ist, kann auf die französische Form von Andreas und die Bedeutungsdeutung verwiesen werden."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt fast ausschließlich aus Namenslexika; das zeigt eher beschreibende Namensinformation als echte öffentliche Debatte.",
+    "Es liegen keine belastbaren Hinweise auf starke Stigmatisierung oder kontroverse soziale Zuschreibungen vor.",
+    "Die positive Tendenz ist vorsichtig zu lesen, da sie aus redaktionellen Quellen und nicht aus breiter Meinungsanalyse stammt."
+  ],
+  "short_summary": "Andre wirkt in Deutschland als klassischer, sachlich positiv konnotierter Vorname mit traditioneller Herkunft und eher zurückhaltender aktueller Präsenz.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Andre � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/A/An/Andre/"
+    },
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "positive",
+      "source_type": "web",
+      "title": "&#9655; Vorname Andre: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Andre.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "traditionell",
+    "männlich-konnotiert",
+    "informativ",
+    "namenskundlich",
+    "zeitlos, aber nicht trenddominant"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland ist der Name bekannt, wirkt heute aber eher weniger aktuell als in früheren Jahrzehnten; die öffentliche Sichtbarkeit scheint eher lexikalisch als diskursiv geprägt."
+}

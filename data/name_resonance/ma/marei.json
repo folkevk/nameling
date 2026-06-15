@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "weiblicher Vorname",
+    "Form oder Nebenform von Maria/Marie",
+    "oberdeutsch bzw. bayerisch geprägt",
+    "selten bis eher selten",
+    "in Süddeutschland, Österreich und der Schweiz verortet",
+    "Namenstag in christlichem Kontext",
+    "mögliches literarisches oder musikalisches Auftreten"
+  ],
+  "confidence": 0.88,
+  "display_text": "Marei: Die öffentliche Rezeption ist überwiegend neutral bis leicht positiv. Der Name gilt als selten, eher süddeutsch/oberdeutsch geprägt und wird meist als Form von Maria bzw. Marie eingeordnet. Die verfügbaren Quellen sind vor allem Namenslexika; eine breite öffentliche Debatte ist kaum erkennbar.",
+  "evidence_quality": "Gut für Herkunft, Einordnung und Verbreitung; schwächer für echte öffentliche Wertung, da vor allem lexikalische Quellen vorliegen.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Marei",
+  "normalized_name": "marei",
+  "overall_resonance": "Überwiegend neutral bis leicht positiv, aber die öffentliche Wahrnehmung ist eher lexikalisch als diskussionsgetrieben. Marei wird vor allem als seltener, regional geprägter Frauenname mit Nähe zu Maria beschrieben.",
+  "practical_notes": [
+    "Für Suchmaschinen wirkt Marei eher vertraut als auffällig.",
+    "Der Name ist kurz, klar und gut aussprechbar, zugleich aber relativ selten.",
+    "Die Resonanz ist eher beschreibend als wertend; starke Trend- oder Modeeffekte sind nicht erkennbar."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz basiert vor allem auf Namenslexika, nicht auf breiter öffentlicher Debatte.",
+    "Zur Bedeutung und Herkunft gibt es teils unsichere oder unterschiedlich formulierte Angaben.",
+    "Keine belastbaren Hinweise auf soziale Stigmatisierung oder negative массовe Konnotationen."
+  ],
+  "short_summary": "Marei wird öffentlich meist neutral bis leicht positiv wahrgenommen: ein seltener, regional geprägter Vorname mit Nähe zu Maria.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Marei � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/M/Ma/Marei/"
+    },
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "neutral bis leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Marei: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Marei.html"
+    }
+  ],
+  "style_effect": [
+    "weich und traditionell",
+    "regional-bayerisch bzw. oberdeutsch wirkend",
+    "kurz, freundlich und vertraut",
+    "selten und dadurch eher eigenständig",
+    "christlich-traditionelle Assoziation über Maria"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Eher geringe Sichtbarkeit: Der Name erscheint in Namenslexika und Verzeichnissen, aber nicht als stark öffentlich diskutierter Trendname."
+}

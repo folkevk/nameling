@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "männlicher Vorname",
+    "selten in Deutschland",
+    "Koseform bzw. Variante von Rocco/Rochus",
+    "mögliche Bedeutungen wie „der Felsige“ oder „der Brüllende“",
+    "Bezüge zu Sport und Popkultur, etwa durch Rocky Marciano",
+    "kurzer, markanter Klang"
+  ],
+  "confidence": 0.78,
+  "display_text": "Rocky wird in Deutschland eher als seltener, markanter und etwas unkonventioneller Vorname wahrgenommen. Die verfügbare Evidenz ist begrenzt und stammt vor allem aus Namenslexika; dort überwiegen sachliche Beschreibungen mit leicht positiven, sportlich-popkulturellen Assoziationen.",
+  "evidence_quality": "mittel bis gering: zwei überwiegend namenskundliche Webquellen, wenig breit angelegte öffentliche Resonanzdaten",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Rocky",
+  "normalized_name": "rocky",
+  "overall_resonance": "Der Vorname Rocky wirkt in der öffentlichen Wahrnehmung eher selten, markant und etwas auffällig. Die verfügbaren Quellen beschreiben ihn vor allem sachlich als männlichen Vornamen mit unterschiedlichen Herkunftsdeutungen und teils popkulturellen oder sportlichen Bezügen. Eine breite gesellschaftliche Bewertung ist daraus nur begrenzt ableitbar.",
+  "practical_notes": [
+    "Der Name ist gut merkbar und kurz, kann aber in Deutschland als ungewöhnlich auffallen.",
+    "Je nach Umfeld kann der Eindruck eher cool, kantig oder etwas umgangssprachlich wirken.",
+    "Wer einen klassischen oder häufigen Namen sucht, wird Rocky vermutlich weniger passend finden."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist relativ schmal und stammt überwiegend aus Namenslexika, daher nur vorsichtige Aussagen möglich.",
+    "Positive oder negative Eindrücke sind eher stilistische Assoziationen als belastbare öffentliche Mehrheitsmeinungen.",
+    "Keine Hinweise auf eine spezifische gesellschaftliche Stigmatisierung des Namens in den vorliegenden Quellen."
+  ],
+  "short_summary": "Rocky ist in Deutschland eher selten und wirkt markant, kurz und etwas unkonventionell. Die Quellen deuten auf sachlich-neutrale bis leicht positive Assoziationen hin, allerdings auf begrenzter Datenbasis.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Rocky � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/R/Ro/Rocky/"
+    },
+    {
+      "confidence": 0.84,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Rocky: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Rocky.html"
+    }
+  ],
+  "style_effect": [
+    "kräftig und kantig",
+    "kurz und einprägsam",
+    "englisch bzw. international wirkend",
+    "leicht sportlich oder popkulturell aufgeladen",
+    "eher unkonventionell als klassisch"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland scheint Rocky eher wenig verbreitet und dadurch ungewöhnlich zu sein. Die Sichtbarkeit entsteht vor allem über Namenslexika und einzelne bekannte Assoziationen, nicht über eine breite Alltagsnutzung."
+}

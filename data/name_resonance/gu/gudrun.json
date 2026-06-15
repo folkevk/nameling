@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "althochdeutsche und altnordische Herkunft",
+    "Bedeutungsfelder wie Kampf, Geheimnis und Kraft",
+    "nordische Mythologie und alte Sage",
+    "klassischer Vorname mit historischer Prägung",
+    "teilweise als selten wahrgenommen",
+    "Namenstag und Namenslexikon-Kontext"
+  ],
+  "confidence": 0.91,
+  "display_text": "Gudrun wirkt in der öffentlichen Wahrnehmung überwiegend sachlich-neutral bis leicht positiv. Der Name wird vor allem als traditionell, nordisch und historisch eingeordnet, mit Assoziationen zu Kraft, Geheimnis und alter Namenskultur. Insgesamt eher klassisch als modern, aber klar und eigenständig.",
+  "evidence_quality": "gut bis mittelgut; zwei direkte Namensquellen, aber eher lexikalisch als breit öffentlich-rezeptiv",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Gudrun",
+  "normalized_name": "gudrun",
+  "overall_resonance": "Überwiegend sachlich-neutral bis leicht positiv; der Name wird vor allem als traditionell, nordisch und bedeutungsvoll beschrieben.",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt Gudrun klar, traditionell und gut einordenbar.",
+    "Der Name vermittelt eher historische Tiefe als zeitgenössische Mode.",
+    "Wegen der längeren kulturellen Geschichte kann er je nach Umfeld als klassisch oder etwas altmodisch gelesen werden."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Rückmeldungen stammen überwiegend aus Namenslexika; das ist hilfreich, aber nur begrenzt repräsentativ für die breite öffentliche Meinung.",
+    "Positive Wirkungen wie 'Kraft' oder 'geheimnisvoll' sind Deutungen des Namens, keine Aussagen über Trägerinnen des Namens."
+  ],
+  "short_summary": "Gudrun wird öffentlich meist sachlich und traditionsbezogen wahrgenommen, mit leicht positiver Note durch Bedeutungen wie Kraft, Geheimnis und nordische Herkunft.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Gudrun � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/G/Gu/Gudrun/"
+    },
+    {
+      "confidence": 0.91,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Gudrun: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Gudrun.html"
+    }
+  ],
+  "style_effect": [
+    "traditionell",
+    "nordisch",
+    "historisch",
+    "namenskundlich",
+    "eher selten",
+    "würdevoll",
+    "leicht mythisch"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Im deutschsprachigen Raum bekannt, aber eher kein sehr moderner Trendname; die Wahrnehmung wirkt eher klassisch als modisch."
+}

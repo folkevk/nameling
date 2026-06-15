@@ -1,0 +1,62 @@
+{
+  "associations": [
+    "arabische Herkunft",
+    "Bedeutung: Königin",
+    "Bedeutung: Besitzerin",
+    "Prinzessin",
+    "Kleine Königin",
+    "weiblicher Vorname",
+    "Beliebtheit in Deutschland",
+    "muslimisch geprägte Regionen"
+  ],
+  "confidence": 0.92,
+  "display_text": "Malika: klangvoller, eher seltener Mädchenname mit arabischer Herkunft; in Deutschland vor allem namenskundlich präsent, meist mit positiven Bedeutungsbezügen wie „Königin“ oder „Prinzessin“.",
+  "evidence_quality": "gut: zwei klare namenskundliche Quellen, überwiegend faktisch und nur mit wenigen subjektiven Kommentaren",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Malika",
+  "normalized_name": "malika",
+  "overall_resonance": "Malika wird in der deutschsprachigen Namensnutzung überwiegend als klangvoll, international und klar weiblich wahrgenommen. Die öffentliche Rezeption ist eher freundlich und sachlich-namenskundlich, mit Hinweisen auf arabische Herkunft und Bedeutungen wie „Königin“ oder „Prinzessin“.",
+  "practical_notes": [
+    "Für Such- und Auswahlkontexte wirkt der Name klar, modern und kulturell anschlussfähig.",
+    "Die Bedeutungsebenen können positiv wirken, ohne dass daraus eine feste Charakterzuschreibung abgeleitet werden sollte.",
+    "Wenn eine möglichst häufige deutsche Standardwahl gesucht wird, ist Malika eher eine besondere als eine alltägliche Variante."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Einzelne Aussagen zur Klangwirkung sind subjektiv und nicht als allgemeingültig zu verstehen.",
+    "Die Evidenz stammt vor allem aus Namenslexika; Alltagswahrnehmung in Deutschland ist nur begrenzt direkt belegt."
+  ],
+  "short_summary": "Malika wird in Deutschland meist als klangvoller, eher seltener Mädchenname mit arabischer Herkunft und positiven Bedeutungsbezügen wahrgenommen.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Malika � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/M/Ma/Malika/"
+    },
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "eher positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Malika: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Malika.html"
+    }
+  ],
+  "style_effect": [
+    "klangvoll",
+    "international",
+    "weiblich",
+    "eher selten",
+    "namenskundlich",
+    "eher edel/majestätisch konnotiert"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland wirkt der Name bekannt, aber eher selten. Er taucht vor allem in Namenslexika und Bedeutungsseiten auf; die Wahrnehmung scheint daher mehr von Herkunft und Klang als von massiver Alltagspräsenz geprägt zu sein."
+}

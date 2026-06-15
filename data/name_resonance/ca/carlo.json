@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "italienische Form von Karl",
+    "althochdeutscher Ursprung",
+    "Bedeutung: Mann, Ehemann, der Freie",
+    "kurzer, international verständlicher Vorname",
+    "in Deutschland eher selten bis moderat verbreitet",
+    "Namenstag am 4. November"
+  ],
+  "confidence": 0.88,
+  "display_text": "Carlo hat in Deutschland eine überwiegend positive, sachlich-freundliche Resonanz. Der Name wirkt kurz, international und klassisch, ohne altmodisch zu erscheinen. Die verfügbaren Quellen beschreiben ihn vor allem lexikalisch; eine breite öffentliche Debatte gibt es kaum. Insgesamt ist Carlo gut bekannt, aber eher nicht übermäßig verbreitet.",
+  "evidence_quality": "mittel bis gut; die Quellen sind konsistent, aber überwiegend lexikalisch statt breiter öffentlicher Meinungsäußerung.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Carlo",
+  "normalized_name": "carlo",
+  "overall_resonance": "Der Name Carlo wirkt im deutschsprachigen Raum überwiegend sachlich, freundlich und international vertraut, mit eher positiver als kritischer öffentlicher Wahrnehmung.",
+  "practical_notes": [
+    "Für eine Namenssuche eignet sich Carlo als kurzer, unkomplizierter und grenzüberschreitend verständlicher Vorname.",
+    "Die Schreibweise wirkt in Deutschland vertraut, die Variante Karlo ist seltener.",
+    "Der Name verbindet klassische Herkunft mit moderner, internationaler Anmutung."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt vor allem aus Namenslexika und Katalogseiten, also aus beschreibenden Quellen mit begrenzter öffentlicher Debattenresonanz.",
+    "Positive Eindrücke sind eher indirekt aus der Darstellung abgeleitet; es gibt kaum belastbare echte Nutzerresonanz.",
+    "Keine Hinweise auf besondere soziale Stigmatisierung in den vorliegenden Quellen."
+  ],
+  "short_summary": "Carlo wird in Deutschland überwiegend freundlich, klassisch und international wahrgenommen, bei eher informativer als kontroverser Resonanz.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.95,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Carlo � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/C/Ca/Carlo/"
+    },
+    {
+      "confidence": 0.94,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Carlo: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Carlo.html"
+    }
+  ],
+  "style_effect": [
+    "kurz und eingängig",
+    "international klingend",
+    "klassisch, aber nicht altmodisch",
+    "eher weich und freundlich im Klang",
+    "eindeutig männlich wahrgenommen"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland ist Carlo gut erkennbar und bekannt, aber nicht übermäßig häufig; die öffentlichen Quellen beschreiben ihn vor allem informativ und namenkundlich."
+}

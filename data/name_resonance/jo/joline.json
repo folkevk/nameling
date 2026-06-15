@@ -1,0 +1,63 @@
+{
+  "associations": [
+    "deutsche Variante von Jolene bzw. Jolie",
+    "hebräische Wurzeln",
+    "Bedeutung: „Jahwe ist gnädig“",
+    "teilweise auch mit „die Schöne“ / „die Hübsche“ verbunden",
+    "moderner Mädchenname",
+    "beliebtheitsbezogen",
+    "sprachlich schlicht und eingängig"
+  ],
+  "confidence": 0.79,
+  "display_text": "Joline wird in Deutschland meist als moderner, weicher und freundlich klingender Mädchenname wahrgenommen. Die verfügbare Evidenz ist eher namenkundlich als öffentlich repräsentativ, daher ist die Resonanz vorsichtig als neutral bis leicht positiv zu beschreiben.",
+  "evidence_quality": "mittel bis schwach: zwei namenkundliche Webquellen mit klarer Namensbezugnahme, aber nur begrenzte Hinweise auf echte öffentliche Resonanz oder breitere Meinungsvielfalt.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Joline",
+  "normalized_name": "joline",
+  "overall_resonance": "Joline wird in deutschsprachigen Namensquellen überwiegend als moderner, freundlicher und weiblich klingender Vorname mit positiver, eher sanfter Ausstrahlung beschrieben. Die öffentliche Rezeption wirkt insgesamt neutral bis leicht positiv, mit Fokus auf Bedeutung, Herkunft und Klang statt auf starke gesellschaftliche Wertungen.",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt Joline gut verständlich und unkompliziert.",
+    "Die Schreibweise ist etabliert, kann aber je nach Kontext auch mit ähnlichen Namen wie Jolie oder Jolene verwechselt werden.",
+    "Die Wirkung ist eher modern als traditionell.",
+    "Die verfügbaren Quellen betonen Bedeutung und Herkunft stärker als regionale Besonderheiten in Deutschland."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die öffentliche Datenlage ist dünn; klare Mehrheitsurteile lassen sich daraus nicht ableiten.",
+    "Einzelne Quellen wirken eher lexikalisch als repräsentativ für tatsächliche Alltagswahrnehmung.",
+    "Keine belastbaren Hinweise auf eine negative soziale Stigmatisierung in der vorliegenden Evidenz."
+  ],
+  "short_summary": "Joline erscheint in deutschen Namensquellen als moderner, freundlich wirkender Mädchenname mit überwiegend neutral bis leicht positiver Resonanz. Die Evidenz zur öffentlichen Wahrnehmung ist jedoch eher begrenzt.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Joline � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/J/Jo/Joline/"
+    },
+    {
+      "confidence": 0.92,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Joline: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Joline.html"
+    }
+  ],
+  "style_effect": [
+    "modern",
+    "weich klingend",
+    "freundlich",
+    "weiblich",
+    "zeitgemäß",
+    "namenskundlich gut anschlussfähig"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Der Name ist in Deutschland bekannt und wird in Namensportalen regelmäßig behandelt. Die Evidenz zur öffentlichen Wahrnehmung ist jedoch begrenzt und basiert vor allem auf namenkundlichen Beschreibungen, nicht auf breiter Alltagsresonanz."
+}

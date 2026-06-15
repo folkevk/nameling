@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "lateinische Herkunft",
+    "Bedeutung als Reisende/Wanderin/Pilgerin",
+    "spätere Deutung als Glück bringend/Seligmachend",
+    "klassische Namenswirkung",
+    "selten bis mittelmäßig verbreitet",
+    "Spitznamen wie Bea oder Trixi"
+  ],
+  "confidence": 0.82,
+  "display_text": "Beatrix wirkt in Deutschland überwiegend klassisch und freundlich-positiv. Der Name wird mit lateinischer Herkunft, den Deutungen „Reisende/Wanderin“ und „Glücksbringerin“ sowie einer eher historischen, eleganten Ausstrahlung verbunden. Die Evidenz zur öffentlichen Resonanz ist allerdings begrenzt und stammt vor allem aus Namenslexika.",
+  "evidence_quality": "mittel: zwei namenskundliche Webquellen, überwiegend sachlich-informativ; öffentliche Resonanz nur indirekt ableitbar.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Beatrix",
+  "normalized_name": "beatrix",
+  "overall_resonance": "Überwiegend positiv bis neutral-klassisch: Beatrix wird in den vorliegenden Quellen als traditioneller, lateinisch geprägter Vorname mit freundlicher, historischer Wirkung beschrieben. Die öffentliche Resonanz wirkt eher sachlich-wohlwollend als kontrovers.",
+  "practical_notes": [
+    "Für Namenssuchmaschinen eignet sich eine kurze Einordnung als klassisch, freundlich und traditionsnah.",
+    "Die Wahrnehmung kann je nach Umfeld leicht altmodisch oder besonders elegant wirken.",
+    "Die Kurzformen Bea und Trixi erhöhen die alltagssprachliche Zugänglichkeit."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz zur öffentlichen Resonanz ist begrenzt und stammt vor allem aus Namenslexika mit wenigen begleitenden Kommentaren.",
+    "Es gibt keinen klaren Hinweis auf eine breite öffentliche Debatte oder kontroverse Zuschreibungen.",
+    "Positive Deutungen spiegeln eher Namensbedeutung und Stilwirkung als eine gemessene gesellschaftliche Meinung wider."
+  ],
+  "short_summary": "Beatrix wird meist als klassischer, lateinisch geprägter Vorname mit positiver, historischer Wirkung wahrgenommen. Die Quellenlage ist solide für Bedeutung und Stil, aber nur begrenzt aussagekräftig zur breiten öffentlichen Resonanz.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Beatrix � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/B/Be/Beatrix/"
+    },
+    {
+      "confidence": 0.9,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Beatrix: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Beatrix.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "traditionell",
+    "historisch",
+    "elegant",
+    "namenskundlich",
+    "freundlich-positiv"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland eher selten bis mäßig bekannt; daher keine sehr breite Alltagspräsenz, aber als klassischer Name gut einordenbar."
+}

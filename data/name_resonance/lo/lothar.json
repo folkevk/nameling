@@ -1,0 +1,58 @@
+{
+  "associations": [
+    "altdeutscher Vorname",
+    "Bedeutung: „berühmter/lauter Krieger“ bzw. „Heerführer“",
+    "fränkischer bzw. althistorischer Bezug",
+    "mittelalterlich bekannt",
+    "früher häufiger, heute selten"
+  ],
+  "confidence": 0.92,
+  "display_text": "Lothar: ein klassischer, altdeutscher Vorname mit historischer Prägung, meist sachlich beschrieben und heute eher selten vergeben.",
+  "evidence_quality": "gut, aber einseitig: zwei klare Namensquellen mit überwiegend sachlicher Darstellung; keine breitere Meinungsvielfalt erkennbar",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Lothar",
+  "normalized_name": "lothar",
+  "overall_resonance": "Lothar wirkt in der öffentlichen Namenswahrnehmung eher klassisch, historisch und traditionsnah. Der Name wird vor allem sachlich-namenskundlich beschrieben und heute als selten vergeben eingeordnet.",
+  "practical_notes": [
+    "Für Suchmaschinen-Nutzer wird der Name meist über Herkunft, Bedeutung und Seltenheit kontextualisiert.",
+    "Der Eindruck ist eher traditionell als trendig; das kann je nach Geschmack als bewusst klassisch oder etwas altmodisch wahrgenommen werden."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die verfügbare Evidenz stammt überwiegend von Namensportalen; das ist nützlich, aber nur eingeschränkt repräsentativ für breite öffentliche Meinung.",
+    "Es gibt keine belastbaren Hinweise auf eine starke positive oder negative Stigmatisierung des Namens in den Quellen."
+  ],
+  "short_summary": "Lothar wird öffentlich vor allem als historischer, klassischer und heute seltener Vorname wahrgenommen.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Lothar � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/L/Lo/Lothar/"
+    },
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Lothar: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Lothar.html"
+    }
+  ],
+  "style_effect": [
+    "altdeutsch",
+    "historisch",
+    "würdevoll",
+    "traditionsbewusst",
+    "sachlich",
+    "eher klassisch als modern"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland ist Lothar bekannt, aber aktuell eher selten im Gebrauch. Die öffentliche Sichtbarkeit entsteht vor allem über Namenslexika und Herkunftsangaben, weniger über moderne Trendlisten."
+}

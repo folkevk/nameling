@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "Bedeutungshinweise wie „die Unschuldige“",
+    "mögliche Kurzform bzw. namenskundliche Ableitungen",
+    "altgriechische oder lateinische Bezüge in der Literatur",
+    "weiblicher Vorname",
+    "Namenstag",
+    "osteuropäischer Sprachraum"
+  ],
+  "confidence": 0.78,
+  "display_text": "Inna wird in Deutschland meist als kurzer, klarer und eher freundlich wirkender Vorname wahrgenommen. Die öffentliche Resonanz ist überwiegend neutral bis leicht positiv. Die Quellenlage ist allerdings begrenzt und bei der Herkunft teilweise uneinheitlich, daher ist die Einordnung vorsichtig zu lesen.",
+  "evidence_quality": "mittel bis eher schwach: mehrere einschlägige Namensseiten, aber keine breite, unabhängige Beleglage und teils gemischte Herkunftsangaben.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Inna",
+  "normalized_name": "inna",
+  "overall_resonance": "In der öffentlichen Namenswahrnehmung wirkt Inna insgesamt sachlich, eher freundlich und wenig polarisiert. Der Name wird vor allem als kurzer, klarer weiblicher Vorname mit namenskundlicher bzw. historischer Einordnung beschrieben. Die Resonanz ist überwiegend neutral bis leicht positiv; belastbare Hinweise auf stärkere Stigmatisierung sind in der vorliegenden Evidenz nicht erkennbar.",
+  "practical_notes": [
+    "Für die Außendarstellung eignet sich eine neutrale bis elegante Beschreibung.",
+    "Der Name ist gut aussprechbar und leicht zu schreiben.",
+    "Die Wahrnehmung dürfte eher durch Klang und Namenskunde geprägt sein als durch starke Mode- oder Trendbilder."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenzlage ist begrenzt und stützt sich im Wesentlichen auf wenige Namenslexikon- und Vorname-Seiten.",
+    "Einige Herkunftsangaben variieren leicht; daher sollte keine einzige Ableitung als gesichert dargestellt werden.",
+    "Keine klare soziale Stigmatisierung erkennbar; falls einzelne Assoziationen aus Kommentaren stammen, sind sie nicht als allgemeingültig zu werten."
+  ],
+  "short_summary": "Inna wird in Deutschland vor allem als kurzer, klarer und eher freundlich wirkender Vorname wahrgenommen. Die öffentliche Resonanz ist überwiegend neutral bis leicht positiv, bei begrenzter und teils gemischter Evidenz.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Inna � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/I/In/Inna/"
+    },
+    {
+      "confidence": 0.84,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Inna: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Inna.html"
+    }
+  ],
+  "style_effect": [
+    "kurz und prägnant",
+    "klanglich schlicht",
+    "international bzw. osteuropäisch lesbar",
+    "lexikalisch gut erklärbar",
+    "eher klassisch als modisch",
+    "unkompliziert in der Schreibweise"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Der Name ist in Deutschland als Vorname bekannt, aber nicht besonders breit präsent. Er erscheint vor allem in Namenslexika und bei Namensseiten, also eher im informativen als im stark alltagsprägenden öffentlichen Raum."
+}

@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "niederdeutsch/friesische Herkunft",
+    "weiblicher Vorname",
+    "Koseform bzw. Kurzform",
+    "Bedeutung in Richtung 'kleine Kämpferin'",
+    "Namenstag",
+    "selten, teils wiederentdeckt",
+    "norddeutscher Klang"
+  ],
+  "confidence": 0.92,
+  "display_text": "Wiebke wird meist sachlich und eher positiv wahrgenommen: ein seltener, norddeutsch/friesisch geprägter Vorname mit traditioneller, eigenständiger und leicht kraftvoller Ausstrahlung.",
+  "evidence_quality": "Gut bis mittelgut: zwei einschlägige Namensportale mit weitgehend übereinstimmenden, sachlichen Angaben; keine breite Medienlage, aber ausreichend für eine vorsichtige Resonanzkarte.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Wiebke",
+  "normalized_name": "wiebke",
+  "overall_resonance": "Wiebke wird in den vorliegenden Namensquellen überwiegend sachlich und eher positiv wahrgenommen: als traditioneller, regional geprägter Vorname mit friesisch/niederdeutscher Herkunft und einer oft als stark interpretierten Bedeutung. Die öffentliche Rezeption wirkt eher informativ als emotional aufgeladen.",
+  "practical_notes": [
+    "Für die öffentliche Wahrnehmung ist vor allem die regionale und traditionelle Einordnung prägend.",
+    "Der Name wirkt im heutigen Gebrauch eher markant als modisch.",
+    "Wegen der Seltenheit kann er als eigenständig und einprägsam empfunden werden."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist insgesamt recht direkt, aber begrenzt auf Namenslexika und ähnliche Portale.",
+    "Einzelne Angaben zur Deutung und Herkunft sind üblich, sollten aber nicht als absolut gesetzt werden.",
+    "Keine Hinweise auf eine soziale Stigmatisierung des Namens in der vorliegenden Evidenz."
+  ],
+  "short_summary": "Wiebke gilt öffentlich als seltener, norddeutsch geprägter Vorname mit traditioneller und leicht kraftvoller Wirkung.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.99,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Wiebke � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/W/Wi/Wiebke/"
+    },
+    {
+      "confidence": 0.89,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Wiebke: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Wiebke.html"
+    }
+  ],
+  "style_effect": [
+    "traditionell",
+    "regional verwurzelt",
+    "klar und bodenständig",
+    "leicht eigenständig",
+    "klassisch-norddeutsch"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland bekannt, aber insgesamt eher selten; dadurch wirkt der Name vertraut, ohne sehr häufig zu sein."
+}

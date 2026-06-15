@@ -1,0 +1,59 @@
+{
+  "associations": [
+    "Kurzform von Lukas bzw. Luuk",
+    "Bedeutung im Umfeld von „Licht“ und „der Leuchtende“",
+    "niederländische, friesische und althochdeutsche Bezüge",
+    "sachliche Namenslexikographie",
+    "Namenstag wird in Quellen erwähnt"
+  ],
+  "confidence": 0.91,
+  "display_text": "Luk wirkt in Deutschland überwiegend sachlich-neutral und leicht positiv, vor allem durch die Bedeutung im Umfeld von Licht und Leuchten. Die Quellen sehen den Namen als eher selten bis mäßig verbreitet; eine breite öffentliche Debatte ist nicht erkennbar.",
+  "evidence_quality": "Gut für eine vorsichtige Namensbeschreibung, aber mit begrenzter öffentlicher Breite, da die Quellen überwiegend lexikalisch und nicht diskussionsbasiert sind.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Luk",
+  "normalized_name": "luk",
+  "overall_resonance": "Überwiegend neutral-sachlich mit leicht positivem Namensklang durch die Licht-/Leucht-Assoziation.",
+  "practical_notes": [
+    "Für Suchmaschinen gut einordenbar und sprachlich unkompliziert.",
+    "Wirkt kompakt und international anschlussfähig, bleibt im deutschen Kontext aber eher ungewöhnlich.",
+    "Die Wahrnehmung ist eher beschreibend als emotional aufgeladen."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz basiert fast vollständig auf einzelnen Namensdatenbanken; eine breite öffentliche Resonanz ist daher nur begrenzt belegbar.",
+    "Ein möglicher Bedeutungsbezug zu anderen Sprachräumen ist kontextabhängig und sollte nicht überinterpretiert werden.",
+    "Keine Hinweise auf soziale Stigmatisierung oder stark negative Konnotationen in der vorliegenden Evidenz."
+  ],
+  "short_summary": "Luk wird in den Quellen überwiegend sachlich und neutral beschrieben, mit positiver Licht-Assoziation und eher seltener bis mittlerer Verbreitung in Deutschland.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.94,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Luk � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/L/Lu/Luk/"
+    },
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Luk � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/L/Lu/Luk/"
+    }
+  ],
+  "style_effect": [
+    "kurz und prägnant",
+    "modern wirkend",
+    "lexikalisch/namenkundlich",
+    "klar männlich zugeordnet",
+    "einfach auszusprechen und zu schreiben"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland eher selten bis mäßig verbreitet und vor allem in namenskundlichen Quellen sichtbar; eine breite öffentliche Debatte ist nicht erkennbar."
+}

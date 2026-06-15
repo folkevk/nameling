@@ -1,0 +1,68 @@
+{
+  "associations": [
+    "Bedeutungen wie Anmut, Liebreiz, Gnade, Schönheit und Blüte/Blume",
+    "althebräische und arabische Herkunftszuordnungen",
+    "teils auch japanische und koreanische Bezüge",
+    "Namenstagangaben",
+    "Beliebtheit in Deutschland wird erwähnt; laut Quelle aktuell relativ bekannt"
+  ],
+  "confidence": 0.9,
+  "display_text": "Hana wird in den vorliegenden Quellen überwiegend positiv und wertschätzend dargestellt, vor allem mit Assoziationen wie Blume, Schönheit, Gnade und Liebreiz. Die Wahrnehmung wirkt eher sachlich-namenskundlich als kontrovers. Allerdings basiert die Evidenz hauptsächlich auf einzelnen Namensdatenbanken, daher ist die öffentliche Resonanz nur vorsichtig interpretierbar.",
+  "evidence_quality": "mittel bis gut; inhaltlich klar, aber stark quellenbegrenzt und überwiegend datenbankbasiert statt debattenbasiert.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Hana",
+  "normalized_name": "hana",
+  "overall_resonance": "Überwiegend positiv und wertschätzend, zugleich vor allem sachlich-lexikalisch geprägt.",
+  "practical_notes": [
+    "Für Suchmaschinen-Nutzende wirkt Hana kurz, freundlich und international anschlussfähig.",
+    "Die öffentliche Wahrnehmung ist eher nüchtern-positiv als meinungsstark.",
+    "Aufgrund der begrenzten Evidenz sollte die Resonanz vorsichtig interpretiert werden."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt fast ausschließlich aus einzelnen Namensdatenbank-Seiten und nicht aus einer breiten öffentlichen Diskussion.",
+    "Die Herkunfts- und Bedeutungsangaben sind teils gemischt und je nach Quelle unterschiedlich.",
+    "Vereinzelte Kommentare oder Einordnungen sollten nicht als allgemeine öffentliche Meinung überinterpretiert werden."
+  ],
+  "short_summary": "Hana wird in den vorliegenden Quellen überwiegend freundlich und positiv beschrieben, vor allem mit Bedeutungen wie Blume, Gnade und Schönheit. Die öffentliche Resonanz ist jedoch eher sachlich als breit diskutiert, und die Evidenz ist auf wenige Namensquellen begrenzt.",
+  "source_count": 3,
+  "sources": [
+    {
+      "confidence": 0.94,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "Vorname Hana � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/H/Ha/Hana/"
+    },
+    {
+      "confidence": 0.95,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "Vorname Hana � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/H/Ha/Hana/"
+    },
+    {
+      "confidence": 0.92,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Hana: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Hana.html"
+    }
+  ],
+  "style_effect": [
+    "informativ",
+    "namenskundlich",
+    "neutral-bewertend",
+    "leicht positiv",
+    "lexikalisch",
+    "beliebtheitsbezogen"
+  ],
+  "usable_evidence_count": 3,
+  "visibility": "Der Name Hana wirkt in den vorliegenden Quellen in Deutschland bekannt und eher gut auffindbar; die öffentliche Resonanz erscheint aber eher in Namenslexika und Datenbanken als in breiten Debatten."
+}

@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "Kurz- und Koseform von Katharina",
+    "Bedeutung: „die Reine“ / „die Unschuldige“",
+    "altgriechischer Ursprung",
+    "eher selten in Deutschland",
+    "Namenstag am 25. November",
+    "Schreibvarianten wie Kathi, Kathy oder Katy"
+  ],
+  "confidence": 0.78,
+  "display_text": "Kati wird in der öffentlichen Wahrnehmung vor allem als kurze, freundliche Koseform von Katharina gesehen. Der Name wirkt eher leicht, vertraut und alltagsnah. In Deutschland ist er vorhanden, aber nicht sehr häufig. Die Evidenz zur Resonanz ist begrenzt und beruht überwiegend auf Namenslexika; deshalb ist die Einordnung vorsichtig zu lesen.",
+  "evidence_quality": "begrenzt: überwiegend lexikalische Namensseiten, wenig echte öffentliche Breitenresonanz",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Kati",
+  "normalized_name": "kati",
+  "overall_resonance": "Die öffentliche Wahrnehmung von „Kati“ wirkt insgesamt eher freundlich und unaufgeregt. Der Name wird vor allem als kurze, vertraute Kose- bzw. Kurzform von Katharina eingeordnet und kaum als stark eigenständiger Modename diskutiert.",
+  "practical_notes": [
+    "Als Name wirkt Kati kurz, eingängig und unkompliziert.",
+    "Wer den Namen als eigenständigen Rufnamen nutzt, bekommt eine eher leichte und informelle Anmutung.",
+    "Die Wahrnehmung ist stark von der Verbindung zu Katharina geprägt."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenzlage zur öffentlichen Resonanz ist schwach und stammt im Wesentlichen aus zwei Namensseiten.",
+    "Kommentare mit Personenbezug wurden nicht berücksichtigt; daraus lassen sich keine belastbaren Allgemeinaussagen ableiten.",
+    "Die freundliche Tendenz ist eher ein vorsichtiger Eindruck als ein robustes Stimmungsbild."
+  ],
+  "short_summary": "Kati wird meist als kurze, freundliche Form von Katharina wahrgenommen. Die öffentliche Resonanz wirkt eher positiv oder neutral, ist aber nur schwach belegt.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Kati � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/K/Ka/Kati/"
+    },
+    {
+      "confidence": 0.87,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Kati: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Kati.html"
+    }
+  ],
+  "style_effect": [
+    "kurz",
+    "vertraut",
+    "alltagsnah",
+    "informell",
+    "kosehaft",
+    "klassisch angebunden"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland ist Kati als Vorname vorhanden, aber eher weniger häufig. Die öffentliche Sichtbarkeit ist damit eher begrenzt und basiert in der vorliegenden Evidenz vor allem auf Namenslexika und einzelnen kurzen Kommentaren."
+}

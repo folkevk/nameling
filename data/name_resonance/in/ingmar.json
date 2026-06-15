@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "dänische/schwedische/norwegische Form von Ingomar",
+    "althochdeutsche bzw. germanische Herkunft",
+    "Bedeutung im Umfeld von ‚der berühmte Ingwio‘",
+    "Namenstag",
+    "selten in Deutschland",
+    "namenskundlich und historisch eingeordnet"
+  ],
+  "confidence": 0.76,
+  "display_text": "Ingmar: überwiegend neutrale bis leicht positive Wahrnehmung; seltener, traditionsnaher und nordisch-germanisch geprägter Vorname.",
+  "evidence_quality": "mittel bis schwach: zwei vorwiegend lexikalische Namensquellen, wenig direkte gesellschaftliche Resonanz, keine breitere empirische Evidenz.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Ingmar",
+  "normalized_name": "ingmar",
+  "overall_resonance": "Ingmar wirkt in der vorliegenden Evidenz eher sachlich, traditionsnah und nordisch geprägt. Die öffentliche Wahrnehmung erscheint insgesamt neutral bis leicht positiv, bei zugleich klarer Seltenheitsnote in Deutschland.",
+  "practical_notes": [
+    "Für Suchmaschinen-Nutzung passt eine kurze Einordnung als seltener, skandinavisch-germanisch geprägter Vorname.",
+    "Der Name wirkt eher formal und traditionsbewusst als modern oder verspielt.",
+    "Wegen der Seltenheit ist die Wiedererkennbarkeit hoch, die Alltagsverbreitung aber gering."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz zur öffentlichen Resonanz ist schwach und stammt überwiegend aus Namensportalen statt aus breiter gesellschaftlicher Wahrnehmung.",
+    "Die Seltenheit kann den Namen als markant erscheinen lassen, ist aber keine Aussage über soziale Bewertung.",
+    "Einzelne Kommentare und Lexikontexte sollten nicht als allgemeine Mehrheitsmeinung überinterpretiert werden."
+  ],
+  "short_summary": "Ingmar wird überwiegend neutral bis leicht positiv und als seltener, nordisch-germanisch geprägter Vorname wahrgenommen.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Ingmar � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/I/In/Ingmar/"
+    },
+    {
+      "confidence": 0.87,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Ingmar: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Ingmar.html"
+    }
+  ],
+  "style_effect": [
+    "informativ",
+    "traditionsbetont",
+    "nordisch-skandinavisch",
+    "klassisch-altehrwürdig",
+    "selten/markant",
+    "eher nüchtern als modisch"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Eher selten in Deutschland; dadurch auffällig, aber nicht breit verbreitet. Die vorhandenen Quellen sind vor allem Namenslexika/פורטale und liefern nur begrenzte Hinweise auf echte öffentliche Resonanz."
+}

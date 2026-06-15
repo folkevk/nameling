@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "hebräische Herkunft",
+    "biblischer Bezug",
+    "Treue",
+    "Hingabe",
+    "Mut",
+    "englische Schreibform",
+    "in Deutschland eher selten, aber bekannt"
+  ],
+  "confidence": 0.86,
+  "display_text": "Caleb wird in Deutschland meist positiv, modern-international und biblisch-hebräisch eingeordnet. Der Name gilt als bekannt, aber eher selten. Die Evidenz ist begrenzt und stammt vor allem aus Namenslexika.",
+  "evidence_quality": "eher gut für Namensbedeutung und Einordnung, aber begrenzt durch wenige, vor allem lexikalische Quellen",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Caleb",
+  "normalized_name": "caleb",
+  "overall_resonance": "Caleb wirkt in der öffentlichen Namenswahrnehmung überwiegend positiv und eher modern-international, mit klarer biblisch-hebräischer Prägung. Der Name wird in Deutschland eher als bekannt, aber nicht sehr häufig beschrieben.",
+  "practical_notes": [
+    "Für Suchmaschinen und Namensverzeichnisse ist Caleb klar ein internationaler Jungenname mit positiver Grundkonnotation.",
+    "In Deutschland dürfte der Name auffallen, ohne exotisch zu wirken.",
+    "Die Wahrnehmung ist eher informativ und namenskundlich als emotional polarisiert."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenzbasis ist schmal und stützt sich vor allem auf Namenslexika statt auf eine breite öffentliche Diskussion.",
+    "Positive Bedeutungszuschreibungen wie Treue oder Hingabe sind typische Namensassoziationen und keine Aussage über reale Eigenschaften von Trägern.",
+    "Keine belastbaren Hinweise auf eine gesellschaftliche Stigmatisierung erkennbar."
+  ],
+  "short_summary": "Caleb wird in Deutschland überwiegend freundlich und international wahrgenommen, mit biblisch-hebräischem Hintergrund und eher seltener Verbreitung. Die Evidenz ist jedoch schmal und vor allem lexikalisch.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.92,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "Vorname Caleb � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/C/Ca/Caleb/"
+    },
+    {
+      "confidence": 0.9,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Caleb: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Caleb.html"
+    }
+  ],
+  "style_effect": [
+    "modern-international",
+    "biblisch",
+    "sachlich",
+    "eher selten",
+    "angenehm-klangvoll"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "mittlere Sichtbarkeit: präsent in Namenslexika und Suchergebnissen, aber ohne breite öffentliche Debatte"
+}

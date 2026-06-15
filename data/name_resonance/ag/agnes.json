@@ -1,0 +1,62 @@
+{
+  "associations": [
+    "altgriechischer und lateinischer Ursprung",
+    "Bedeutungen wie „die Reine“ und „das Lamm“",
+    "christliche Heilige Agnes von Rom",
+    "lange historische Nutzung in Deutschland",
+    "eher seltene moderne Vergabe",
+    "weiblicher Vorname"
+  ],
+  "confidence": 0.9,
+  "display_text": "Agnes wirkt in den verfügbaren deutschen Namensquellen klassisch, traditionell und historisch verankert. Der Name wird meist positiv und seriös eingeordnet, zugleich aber als heute eher selten wahrgenommen. Die Evidenz ist vor allem namenskundlich und nicht als breite öffentliche Meinungsumfrage zu verstehen.",
+  "evidence_quality": "mittel bis gut: zwei direkte Namenseinträge mit klarer Relevanz, aber begrenzte öffentliche Meinungsbreite und teils redaktionell geprägte Quellen.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Agnes",
+  "normalized_name": "agnes",
+  "overall_resonance": "Agnes wird in den vorliegenden deutschsprachigen Namensquellen überwiegend als klassischer, traditioneller und eher positiv konnotierter Vorname beschrieben. Die öffentliche Rezeption wirkt sachlich-respektvoll, mit einem deutlichen Bezug zu Herkunft, Bedeutung und historischer Verankerung. Gleichzeitig wird der Name heute eher als seltener und traditioneller wahrgenommen.",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt Agnes klar, vertraut und historisch verankert.",
+    "Wer einen modernen oder trendigen Eindruck sucht, könnte den Namen als eher klassisch und wenig modisch empfinden.",
+    "Die Wirkung ist eher ruhig und seriös als verspielt oder extravagant."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz besteht vor allem aus Namenslexika und Informationsseiten, nicht aus breiter Meinungsvielfalt.",
+    "Positive und traditionelle Wirkungen werden teilweise aus Herkunft und Bedeutung abgeleitet; das ist keine direkte Alltagsumfrage.",
+    "Keine Hinweise auf eine soziale Stigmatisierung in der vorliegenden Evidenz."
+  ],
+  "short_summary": "Agnes wird in den Quellen als klassischer, historisch geprägter und eher positiv wahrgenommener Vorname beschrieben, heute allerdings eher selten.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Agnes � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/A/Ag/Agnes/"
+    },
+    {
+      "confidence": 0.95,
+      "is_name_discussion": true,
+      "sentiment": "positive",
+      "source_type": "web",
+      "title": "&#9655; Vorname Agnes: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Agnes.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "traditionell",
+    "zeitlos",
+    "historisch",
+    "eher feierlich",
+    "seriös",
+    "namenskundlich geprägt"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Im deutschsprachigen Raum bekannt, aber heute eher weniger häufig vergeben; dadurch eher vertraut als modisch. Die Sichtbarkeit entsteht vor allem über Namenslexika und historische Einordnungen, weniger über aktuelle Alltagsdiskussionen."
+}

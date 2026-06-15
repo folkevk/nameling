@@ -1,0 +1,59 @@
+{
+  "associations": [
+    "Bedeutungen wie „denkender Geist“, „der Kluge“, „der Geistvolle“",
+    "altdeutsche bzw. altirische Wurzeln",
+    "englische Form bzw. Nähe zu Hugo",
+    "selten in Deutschland",
+    "sachlich-namenskundlicher Eindruck"
+  ],
+  "confidence": 0.89,
+  "display_text": "Hugh wirkt in Deutschland eher selten, klassisch und international. Die Quellen beschreiben den Namen sachlich bis leicht positiv, oft mit Bezügen zu Klugheit, Geist und einer englischen Form von Hugo. Die öffentliche Resonanz ist jedoch begrenzt und basiert vor allem auf Namenslexika.",
+  "evidence_quality": "mittel bis gut: zwei klare Namensquellen mit konsistenten Angaben, aber geringe Diskussionsbreite und kaum freie öffentliche Resonanz",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Hugh",
+  "normalized_name": "hugh",
+  "overall_resonance": "Der Vorname Hugh wird in den vorliegenden deutschsprachigen Namensquellen überwiegend sachlich, eher klassisch-traditionell und leicht positiv beschrieben. Die öffentliche Resonanz wirkt dabei ruhig und informativ, nicht kontrovers.",
+  "practical_notes": [
+    "Für deutschsprachige Kontexte wirkt Hugh ungewöhnlich und eher international.",
+    "Die Aussprache und Schreibweise können im Alltag erklärungsbedürftig sein.",
+    "Wer einen seltenen, kurzen und klassisch wirkenden Namen sucht, findet hier ein eher zurückhaltendes Profil."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenzbasis ist begrenzt und stützt sich vor allem auf einzelne Namensprofil-Seiten.",
+    "Es gibt keine klare breite öffentliche Meinungslandschaft zum Namen.",
+    "Positive oder traditionelle Zuschreibungen sind als Beschreibungen der Quellen zu verstehen, nicht als allgemeingültige Wahrheit."
+  ],
+  "short_summary": "Hugh wird in den Quellen als seltener, klassisch-traditioneller und leicht positiv konnotierter Vorname mit Bedeutungshintergrund zu Geist/Klugheit beschrieben.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Hugh � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/H/Hu/Hugh/"
+    },
+    {
+      "confidence": 0.92,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Hugh: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Hugh.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch-traditionell",
+    "kurz und markant",
+    "namenskundlich aufgeladen",
+    "international/englisch geprägt",
+    "eher selten im deutschen Gebrauch"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland wirkt der Name eher selten und entsprechend wenig breit öffentlich diskutiert. Die verfügbare Evidenz stammt vor allem aus Namenslexika und Profilseiten, nicht aus einer großen freien Debatte."
+}

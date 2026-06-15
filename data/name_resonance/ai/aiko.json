@@ -1,0 +1,69 @@
+{
+  "associations": [
+    "niederdeutsch/friesische Kurzform",
+    "japanischer Vorname",
+    "Bedeutung: Kind der Liebe",
+    "Bedeutung: Schwertträger",
+    "Unisex-Name",
+    "selten in Deutschland"
+  ],
+  "confidence": 0.9,
+  "display_text": "Aiko wirkt in Deutschland freundlich, modern und ungewöhnlich. Die öffentliche Resonanz ist überwiegend sachlich-neutral bis leicht positiv; der Name fällt vor allem durch seine Seltenheit und seine mehrdeutige Herkunft auf.",
+  "evidence_quality": "mittel bis gut: mehrere namenskundliche Quellen, aber überwiegend Lexikoncharakter und teils begrenzte Tiefe",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Aiko",
+  "normalized_name": "aiko",
+  "overall_resonance": "Aiko wird in deutschsprachigen Namensquellen überwiegend sachlich-neutral und eher positiv wahrgenommen, vor allem wegen der interessanten Bedeutungen und der klaren, kurzen Form. Gleichzeitig fällt der Name als selten und ungewöhnlich auf.",
+  "practical_notes": [
+    "Für die öffentliche Wahrnehmung ist vor allem die Seltenheit prägend.",
+    "Der Name wirkt freundlich und modern, kann aber durch seine Mehrdeutigkeit Erklärbedarf auslösen.",
+    "Im deutschen Kontext ist Aiko eher ein besonderer als ein massenhaft geläufiger Vorname."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Herkunft ist mehrdeutig und wird je nach Quelle unterschiedlich erklärt.",
+    "Die geschlechtliche Zuordnung variiert in den Quellen; das sollte nicht als eindeutig dargestellt werden.",
+    "Die Evidenz stammt vor allem aus Namenslexika/Einzelseiten und ist daher nur begrenzt belastbar."
+  ],
+  "short_summary": "Aiko wird in Deutschland überwiegend neutral bis leicht positiv, aber eher selten und erklärungsbedürftig wahrgenommen.",
+  "source_count": 3,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Aiko � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/A/Ai/Aiko/"
+    },
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Aiko � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/A/Ai/Aiko/"
+    },
+    {
+      "confidence": 0.74,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Aiko: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Aiko.html"
+    }
+  ],
+  "style_effect": [
+    "kurz und prägnant",
+    "modern wirkend",
+    "ungewöhnlich/selten",
+    "international anschlussfähig",
+    "namenskundlich interessant",
+    "geschlechtsneutral bzw. Unisex-Kontext"
+  ],
+  "usable_evidence_count": 3,
+  "visibility": "In Deutschland wirkt Aiko eher wenig verbreitet und dadurch auffällig, aber nicht stark etabliert. Die öffentliche Sicht ist vor allem namenskundlich-informativ, nicht emotional aufgeladen."
+}

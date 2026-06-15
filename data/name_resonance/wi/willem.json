@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "Bedeutung im Sinne von willensstarkem Beschützer",
+    "niederländisch/niederdeutsche Form von Wilhelm",
+    "althochdeutsche Wurzeln",
+    "traditioneller Klang",
+    "Namenstag/namenskundliche Einordnung",
+    "Spitznamen wie Wim oder Willi"
+  ],
+  "confidence": 0.82,
+  "display_text": "Willem wirkt in Deutschland traditionell, leicht international und eher selten als häufig. Die öffentliche Resonanz ist überwiegend sachlich bis leicht positiv; vor allem werden Herkunft, Bedeutung und der nah verwandte Bezug zu Wilhelm hervorgehoben.",
+  "evidence_quality": "mittel bis gut; zwei direkte Namensquellen mit klarer Beschreibung, aber geringe Quellenbreite",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Willem",
+  "normalized_name": "willem",
+  "overall_resonance": "Willem wird in den vorliegenden deutschen Namensquellen überwiegend sachlich bis leicht positiv wahrgenommen: als traditioneller, eher seltener, aber bekannter Vorname mit niederländisch/niederdeutscher Prägung und Nähe zu Wilhelm.",
+  "practical_notes": [
+    "Wirkt vertraut und gut aussprechbar, zugleich etwas markanter als die sehr häufigen deutschen Klassikern.",
+    "Für ein deutschsprachiges Umfeld problemlos nutzbar, mit leicht internationaler Note.",
+    "Die Seltenheit kann als individuell wahrgenommen werden, ohne fremd zu wirken."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stützt sich nur auf zwei Namensportale; die Aussagekraft für öffentliche Gesamtresonanz ist daher begrenzt.",
+    "Es gibt keine Hinweise auf eine kontroverse oder stigmatisierende öffentliche Debatte zum Namen.",
+    "Einzelne Nutzerkommentare können die Wahrnehmung punktuell beeinflussen, sind aber nicht als allgemeine Meinung zu lesen."
+  ],
+  "short_summary": "Willem hat in Deutschland eine eher sachlich-positive Resonanz: traditionell, international anschlussfähig und nicht häufig, aber klar als Name bekannt.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "Vorname Willem � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/W/Wi/Willem/"
+    },
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Willem: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Willem.html"
+    }
+  ],
+  "style_effect": [
+    "traditionell",
+    "niederländisch-international",
+    "namenskundlich",
+    "klar und zeitlos",
+    "eher selten, aber nicht exotisch"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland eher bekannt als verbreitet; der Name wirkt präsent, aber nicht häufig."
+}

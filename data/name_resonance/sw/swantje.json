@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "friesische Herkunft",
+    "althochdeutsche Wurzeln",
+    "Bedeutung rund um Schwan/kleiner Schwan",
+    "mythologische und sagenhafte Anklänge",
+    "Namenstag am 28. August",
+    "selten, aber eigenständig"
+  ],
+  "confidence": 0.9,
+  "display_text": "Swantje wirkt in Deutschland überwiegend freundlich, traditionell und nordisch-friesisch. Der Name ist eher selten und wird vor allem über seine Herkunft und die Schwan-Bedeutung beschrieben. Die Quellenlage ist dafür gut, die echte öffentliche Debattenresonanz aber nur begrenzt.",
+  "evidence_quality": "Gut für Herkunft, Bedeutung und grobe Einordnung; begrenzt für echte öffentliche Resonanz, da die Quellen vor allem Namenslexika sind.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Swantje",
+  "normalized_name": "swantje",
+  "overall_resonance": "Überwiegend freundlich, traditionell und nordisch-friesisch geprägt. Der Name wirkt in der öffentlichen Wahrnehmung eher selten als alltäglich und wird meist sachlich bis wohlwollend beschrieben.",
+  "practical_notes": [
+    "Für Suchende wirkt der Name prägnant und ungewöhnlich, ohne sperrig zu sein.",
+    "Die Schwan-Assoziation verleiht ihm eine weiche, bildhafte Note.",
+    "In Deutschland dürfte er sofort als eigenständiger, eher traditioneller Frauenname erkannt werden."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist überwiegend lexikalisch und nicht aus einer breiten öffentlichen Diskussion abgeleitet.",
+    "Beliebtheits- und Verbreitungsangaben sind nur vorsichtig zu interpretieren.",
+    "Subjektive Kommentare in einzelnen Quellen sollten nicht als allgemeine Meinung gewertet werden."
+  ],
+  "short_summary": "Swantje wird meist als seltener, friesisch-norddeutscher Frauenname mit Schwan-Bedeutung wahrgenommen. Die öffentliche Rezeption wirkt eher freundlich und sachlich als kontrovers.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.94,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Swantje � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/S/Sw/Swantje/"
+    },
+    {
+      "confidence": 0.91,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Swantje: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Swantje.html"
+    }
+  ],
+  "style_effect": [
+    "friesisch-norddeutsch",
+    "traditionell",
+    "weiblich-klar erkennbar",
+    "eher selten",
+    "leicht poetisch durch Schwan-Assoziation",
+    "namenskundlich vertraut"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland eher wenig verbreitet und daher auffälliger als geläufig. Die Sichtbarkeit scheint vor allem aus Namenslexika und Herkunftsseiten zu stammen, nicht aus breiter öffentlicher Debatte."
+}

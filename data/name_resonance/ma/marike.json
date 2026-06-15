@@ -1,0 +1,66 @@
+{
+  "associations": [
+    "weiblicher Vorname",
+    "Schreibvariante von Marieke",
+    "niederdeutsch",
+    "friesisch",
+    "niederländisch",
+    "Koseform von Maria",
+    "selten bis moderat verbreitet in Deutschland",
+    "Namenstag 12. September",
+    "schön",
+    "besonderer Name"
+  ],
+  "confidence": 0.82,
+  "display_text": "Marike gilt als eher seltener, freundlich klingender Mädchenname mit nordisch-niederdeutschen bzw. niederländischen Bezügen. Die öffentliche Resonanz ist überwiegend sachlich bis leicht positiv; starke Kontroversen oder Stigmatisierungen sind in den vorliegenden Quellen nicht erkennbar.",
+  "evidence_quality": "mittel bis gering; zwei überwiegend lexikalische Webquellen, teils mit Nutzer-/Kommentaranteilen",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Marike",
+  "normalized_name": "marike",
+  "overall_resonance": "Marike wird in den vorliegenden Quellen überwiegend als freundlicher, eher seltener und namenskundlich gut einordenbarer Vorname beschrieben. Die öffentliche Wahrnehmung wirkt sachlich bis leicht positiv, ohne ausgeprägte Kontroversen. Insgesamt erscheint der Name in Deutschland eher bekannt, aber nicht sehr häufig.",
+  "practical_notes": [
+    "Für Suchende wirkt Marike wie ein klar weiblich lesbarer Name mit nordisch-niederdeutschem Klang.",
+    "Wer einen seltenen, aber vertrauten Namen sucht, findet hier eine eher unaufdringliche Option.",
+    "Die Schreibweise kann als Variante von Marieke wahrgenommen werden.",
+    "Die öffentliche Resonanz ist eher beschreibend als diskussionshaft."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenzlage ist begrenzt und stützt sich im Wesentlichen auf wenige Namenslexika/Verzeichnisse.",
+    "Positiv klingende Zuschreibungen stammen teils aus Einzelmeinungen; sie sind nicht als allgemeine Mehrheitsmeinung zu verstehen.",
+    "Keine belastbaren Hinweise auf soziale Stigmatisierung erkennbar."
+  ],
+  "short_summary": "Marike wird öffentlich meist sachlich und leicht positiv wahrgenommen: ein seltener, freundlich klingender weiblicher Vorname mit niederdeutsch/friesisch-niederländischen Bezügen.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.91,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Marike � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/M/Ma/Marike/"
+    },
+    {
+      "confidence": 0.78,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Marike: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Marike.html"
+    }
+  ],
+  "style_effect": [
+    "freundlich",
+    "weich klingend",
+    "traditionell-nordisch anmutend",
+    "eher selten",
+    "namenskundlich klar verortet",
+    "leicht individuell"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "eher gering bis mittel"
+}

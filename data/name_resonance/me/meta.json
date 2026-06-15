@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "Kurzform von Margarete/Margaretha",
+    "Bedeutung: Perle",
+    "im baltischen Sprachraum auch: Minze",
+    "deutsch und skandinavisch",
+    "historisch in Deutschland verbreitet",
+    "heute selten vergeben",
+    "Namenstag am 20. Juli"
+  ],
+  "confidence": 0.89,
+  "display_text": "Meta wird in Deutschland vor allem als seltener, kurzer und namenskundlich interessanter Vorname wahrgenommen. Die Resonanz ist überwiegend neutral bis leicht positiv: Er wirkt prägnant, leicht aussprechbar und für viele eher ungewöhnlich. Häufig genannte Bezüge sind die Kurzform von Margarete/Margaretha, die Bedeutung „Perle“ sowie regionale Varianten wie „Minze“ im litauischen Sprachraum. Vereinzelt gibt es Hinweise auf Namenswitze; das ist eher eine einzelne Reaktion als eine allgemeine Bewertung.",
+  "evidence_quality": "gut: direkte Namensseiten mit klaren Angaben zu Herkunft, Bedeutung, Namenstag und Beliebtheit; zusätzlich einige kommentierende Bewertungen mit nur begrenzter Breite.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Meta",
+  "normalized_name": "meta",
+  "overall_resonance": "Überwiegend sachlich-neutral mit leicht positiver Namenswirkung. Meta wird öffentlich vor allem als kurzer, seltener und historisch bzw. namenskundlich interessanter Vorname wahrgenommen.",
+  "practical_notes": [
+    "Für Suchende wirkt Meta klar, kurz und einprägsam.",
+    "Die Seltenheit kann als Plus für Originalität wahrgenommen werden.",
+    "Wer auf zeitlose, traditionelle Namen achtet, findet hier einen historisch verankerten Namen mit kleiner, ungewöhnlicher Form."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Einzelne Kommentare erwähnen mögliche Namenswitze; das ist eher als vereinzelte Reaktion zu verstehen und kein allgemeines Urteil.",
+    "Die Evidenz stammt überwiegend aus Namenslexika und Community-Kommentaren; die öffentliche Wahrnehmung ist dadurch nur begrenzt breit abbildbar."
+  ],
+  "short_summary": "Meta gilt in der öffentlichen Wahrnehmung als seltener, kurzer und historisch geprägter Vorname mit überwiegend neutraler bis leicht positiver Resonanz.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Meta � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/M/Me/Meta/"
+    },
+    {
+      "confidence": 0.94,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Meta: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Meta.html"
+    }
+  ],
+  "style_effect": [
+    "kurz und prägnant",
+    "historisch/namenskundlich",
+    "selten und eigenständig",
+    "leicht aussprechbar",
+    "teils als modern oder einzigartig beschrieben"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland eher selten und dadurch auffälliger als gebräuchlich; die öffentliche Präsenz ist vor allem in Namenslexika und Diskussionen zu Herkunft und Bedeutung sichtbar."
+}

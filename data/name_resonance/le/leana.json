@@ -1,0 +1,70 @@
+{
+  "associations": [
+    "Lea",
+    "Helena",
+    "Ileana",
+    "altgriechische Herkunft",
+    "althebräische Bezüge",
+    "Bedeutung wie „die Leuchtende“/„die Strahlende“",
+    "Namenstag",
+    "weiblicher Vorname"
+  ],
+  "confidence": 0.86,
+  "display_text": "Leana wirkt in deutschen Namensquellen überwiegend freundlich, modern und klanglich weich. Meist steht der Name für Bedeutung, Herkunft und eine positive, sachliche Namensbeschreibung; eine breitere öffentliche Debatte ist nicht zu sehen.",
+  "evidence_quality": "mittel bis gut; klar namenskundliche Quellen, aber kaum unabhängige öffentliche Diskussion",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Leana",
+  "normalized_name": "leana",
+  "overall_resonance": "Leana wird in den vorliegenden deutschsprachigen Quellen überwiegend freundlich und sachlich-namenskundlich wahrgenommen. Die öffentliche Rezeption wirkt eher positiv als kritisch, mit Fokus auf Bedeutung, Herkunft und Klang statt auf Debatten oder klare Gegenpole.",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt Leana in Deutschland gut anschlussfähig und leicht verständlich.",
+    "Der Name hat einen klaren, freundlichen Klang und wird meist über Herkunft und Bedeutung erklärt.",
+    "Die Datenlage ist ausreichend für eine vorsichtige Einordnung, aber nicht für starke allgemeine Aussagen über gesellschaftliche Trends."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt fast ausschließlich aus Vornamensportalen und ist damit eher beschreibend als unabhängig öffentlich diskutiert.",
+    "Einzelne positive Formulierungen können die Gesamtwirkung etwas aufwerten; eine breite gesellschaftliche Debatte ist nicht erkennbar.",
+    "Es gibt keinen Hinweis auf soziale Stigmatisierung oder negative Namensklischees in der vorliegenden Evidenz."
+  ],
+  "short_summary": "Leana wird in den vorliegenden Quellen überwiegend positiv, weich und modern wahrgenommen, mit Schwerpunkt auf Bedeutung und Herkunft. Die Evidenz ist vor allem lexikalisch und portalbasiert, daher vorsichtig zu lesen.",
+  "source_count": 3,
+  "sources": [
+    {
+      "confidence": 0.92,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Leana � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/L/Le/Leana/"
+    },
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Leana � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/L/Le/Leana/"
+    },
+    {
+      "confidence": 0.95,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Leana: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Leana.html"
+    }
+  ],
+  "style_effect": [
+    "weich und melodisch",
+    "modern, aber nicht experimentell",
+    "klingt nah an bekannten Namen wie Lea oder Helena",
+    "namenskundlich aufgeladen durch Bedeutungs- und Herkunftsangaben",
+    "wirkt freundlich und zugänglich"
+  ],
+  "usable_evidence_count": 3,
+  "visibility": "Im deutschen Namenskontext sichtbar, aber vor allem als Namenslisten- und Lexikonname. Die Evidenz zeigt eher Such- und Informationsinteresse als eine breite öffentliche Diskussion."
+}

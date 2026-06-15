@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "englischer Vorname",
+    "Kurzform von J-Namen wie Jack, Jacob oder James",
+    "mögliche Herkunft über Sanskrit 'jaya' mit der Bedeutung 'Sieg'",
+    "auch mit 'Eichelhäher' verbunden",
+    "teils als 'Sieger' gedeutet",
+    "im deutschen Kontext eher selten bis mäßig verbreitet"
+  ],
+  "confidence": 0.84,
+  "display_text": "Jay wirkt in Deutschland eher selten, aber vertraut und modern. In den verfügbaren Namensquellen wird der Vorname sachlich bis leicht positiv beschrieben, vor allem als kurzer, internationaler Name mit mehreren möglichen Herleitungen. Die Evidenz ist allerdings begrenzt und teils widersprüchlich.",
+  "evidence_quality": "mittel bis eher gering: zwei vorwiegend lexikalische Webquellen, sachlich und überwiegend neutral bis leicht positiv, aber ohne breite öffentliche Resonanzdaten.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Jay",
+  "normalized_name": "jay",
+  "overall_resonance": "Jay wird in den vorliegenden deutschsprachigen Namensquellen überwiegend sachlich bis leicht positiv dargestellt: kurz, international und modern, zugleich aber ohne starke öffentliche Breitenwirkung.",
+  "practical_notes": [
+    "Für die Namenssuche wirkt Jay kompakt, international und leicht verständlich.",
+    "Die Kurzform kann als modern und unkompliziert wahrgenommen werden.",
+    "Wer Eindeutigkeit bei Herkunft und Bedeutung wichtig findet, sollte die unterschiedlichen Herleitungen berücksichtigen."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist stark auf Namenslexika begrenzt; eine breitere öffentliche Diskussion ist nicht sichtbar.",
+    "Mehrere Herkunfts- und Bedeutungsangaben stehen nebeneinander und sind nicht immer eindeutig konsistent.",
+    "Es liegen keine Hinweise auf soziale Stigmatisierung vor; eine solche wäre hier auch nicht abzuleiten."
+  ],
+  "short_summary": "Jay wird in den Quellen als kurzer, internationaler und moderner Vorname mit meist neutral bis leicht positiver Wirkung beschrieben. Die Evidenz ist jedoch begrenzt und die Herkunftsangaben sind teils uneinheitlich.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Jay � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/J/Ja/Jay/"
+    },
+    {
+      "confidence": 0.88,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Jay: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Jay.html"
+    }
+  ],
+  "style_effect": [
+    "kurz und prägnant",
+    "international wirkend",
+    "modern",
+    "lexikalisch klar",
+    "eher jugendlich-konnotiert",
+    "als Kurzform wahrgenommen"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland eher selten bis mäßig verbreitet und daher eher als auffälliger, aber vertrauter Vorname wahrnehmbar. Die öffentliche Sichtbarkeit scheint begrenzt; belastbare Debatten oder starke Meinungen sind in der Evidenz kaum erkennbar."
+}

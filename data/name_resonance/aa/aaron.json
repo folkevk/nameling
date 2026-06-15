@@ -1,0 +1,58 @@
+{
+  "associations": [
+    "hebräische Herkunft",
+    "biblischer Bezug",
+    "Bedeutungstraditionen",
+    "Beliebtheit in Deutschland",
+    "Namenstag am 1. Juli"
+  ],
+  "confidence": 0.93,
+  "display_text": "Aaron gilt in Deutschland als bekannter, klassisch-biblischer Jungenname mit positiver, informativ geprägter Resonanz. Die öffentliche Darstellung ist vor allem namenskundlich: Herkunft, Bedeutung, Beliebtheit und Namenstag werden betont. Es liegen keine Hinweise auf eine soziale Stigmatisierung vor.",
+  "evidence_quality": "Gut: zwei einschlägige, namenskundliche Webquellen mit klarer Namensdiskussion und positiver, informativer Darstellung.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Aaron",
+  "normalized_name": "aaron",
+  "overall_resonance": "Überwiegend positiv, klassisch und gut anschlussfähig in der öffentlichen Namenswahrnehmung.",
+  "practical_notes": [
+    "Für Suchmaschinen und Namensratgeber wirkt Aaron klar verständlich und positiv konnotiert.",
+    "Der Name verbindet Tradition mit moderner Vertrautheit und ist im deutschen Kontext gut einordenbar."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Quellen sind vor allem beschreibende Namensseiten, keine breite öffentliche Debatte.",
+    "Beliebtheits- und Bedeutungsangaben sollten nicht als allgemeingültige soziale Bewertung missverstanden werden."
+  ],
+  "short_summary": "Aaron wird im deutschen Namenskontext überwiegend positiv, traditionell und biblisch geprägt wahrgenommen.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "Vorname Aaron � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/A/Aa/Aaron/"
+    },
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "positive",
+      "source_type": "web",
+      "title": "&#9655; Vorname Aaron: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Aaron.html"
+    }
+  ],
+  "style_effect": [
+    "biblisch",
+    "traditionell",
+    "informativ",
+    "zeitlos",
+    "seriös",
+    "international anschlussfähig"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Hoch: Der Name ist im deutschen Namenskontext gut bekannt und erscheint in Namenslexika sowie Beliebtheitsübersichten."
+}

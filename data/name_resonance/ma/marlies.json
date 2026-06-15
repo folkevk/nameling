@@ -1,0 +1,63 @@
+{
+  "associations": [
+    "Mischform bzw. Kurzform aus Maria und Elisabeth oder Marie-Luise",
+    "biblisch/hebäische Namensbestandteile",
+    "Bedeutungsbezüge wie ‚von Gott geliebt‘",
+    "deutscher Sprachraum",
+    "besonders im mittleren 20. Jahrhundert verbreitet",
+    "heute eher selten",
+    "Namenstag",
+    "teils als altmodisch beschrieben"
+  ],
+  "confidence": 0.92,
+  "display_text": "Marlies wirkt in der öffentlichen Rezeption überwiegend klassisch, traditionell und sachlich. Die Quellen nennen eine leicht positive Grundtendenz, verweisen aber auch darauf, dass der Name heute eher selten ist und teils als altmodisch wahrgenommen wird. Insgesamt ist die Evidenz eher beschreibend als kontrovers.",
+  "evidence_quality": "mittel bis gut; überwiegend beschreibende Lexikonquellen, ergänzt durch kommentarbasiertes Meinungsbild",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Marlies",
+  "normalized_name": "marlies",
+  "overall_resonance": "Überwiegend sachlich-informativ mit leicht positiver Grundtendenz; zugleich wird Marlies in Teilen als eher altmodisch oder heute seltener wahrgenommen.",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt Marlies vertraut, traditionell und klar deutsch geprägt.",
+    "Der Name hat eine eher ruhige, klassische Wirkung statt modischer Spitzenpräsenz.",
+    "Wegen der heute geringeren Häufigkeit kann er als etwas ungewöhnlicher empfunden werden."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt überwiegend aus Namenslexika und Einträgen mit begrenzter öffentlicher Debatte.",
+    "Ein Teil der Bewertungen ist kommentarbasiert und daher subjektiv.",
+    "‚Altmodisch‘ ist hier als Wahrnehmung zu verstehen, nicht als objektive Eigenschaft."
+  ],
+  "short_summary": "Marlies wird im Deutschen meist klassisch und traditionell wahrgenommen, mit leicht positiver, sachlicher Resonanz. Der Name ist bekannt, heute aber eher selten und teils als altmodisch eingeordnet.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "Vorname Marlies � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/M/Ma/Marlies/"
+    },
+    {
+      "confidence": 0.94,
+      "is_name_discussion": true,
+      "sentiment": "mixed",
+      "source_type": "web",
+      "title": "&#9655; Vorname Marlies: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Marlies.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "traditionell",
+    "nüchtern",
+    "namenskundlich",
+    "leicht nostalgisch",
+    "eher selten heute"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Im deutschen Sprachraum bekannt, aber heute nicht mehr sehr häufig; die öffentliche Präsenz wirkt eher lexikalisch als diskussionsstark."
+}

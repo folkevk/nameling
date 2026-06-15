@@ -1,0 +1,59 @@
+{
+  "associations": [
+    "Doppelname aus Anna und Lena",
+    "Bedeutungsfelder wie Anmut, Liebreiz, Glanz bzw. Leuchtkraft",
+    "deutscher Mädchenname",
+    "Namenstag-Angaben in mehreren Quellen",
+    "Spitznamen wie Anna, Leni, Lena oder Anni"
+  ],
+  "confidence": 0.86,
+  "display_text": "Annalena wirkt in den verfügbaren Quellen überwiegend positiv: ein klangvoller, freundlich besetzter und in Deutschland gut bekannter Mädchenname. Er wird meist als Doppelform aus Anna und Lena beschrieben und mit Bedeutungen wie Anmut, Liebreiz oder Leuchtkraft verbunden. Die Aussagekraft ist jedoch begrenzt, da die Evidenz vor allem aus wenigen Namenslexika stammt.",
+  "evidence_quality": "mittel bis eher schwach, da hauptsächlich einzelne Namenslexika und kommentierte Einträge vorliegen",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Annalena",
+  "normalized_name": "annalena",
+  "overall_resonance": "Eher positiv und vertraut wirkend. Annalena wird in den vorliegenden Quellen vor allem als deutscher, klangvoller und eher freundlich besetzter Mädchenname beschrieben.",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt Annalena unkompliziert und gut verständlich.",
+    "Die Schreibweise ist geläufig, die Aussprache im Deutschen naheliegend.",
+    "Die Quellenlage spricht eher für einen positiven, unauffälligen Gesamteindruck als für Kontroverse."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist stark auf wenige Namenslexikon-Seiten begrenzt.",
+    "Es gibt keine breite öffentliche Debatte oder belastbare Langzeitbeobachtung.",
+    "Einige positive Eindrücke können durch die Auswahl der Quellen begünstigt sein."
+  ],
+  "short_summary": "Annalena wird in den vorliegenden Quellen überwiegend positiv, freundlich und klangvoll wahrgenommen. Die Rezeption wirkt in Deutschland bekannt und eher beliebt, aber die Evidenz ist begrenzt.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Annalena � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/A/An/Annalena/"
+    },
+    {
+      "confidence": 0.95,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Annalena: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Annalena.html"
+    }
+  ],
+  "style_effect": [
+    "weich und melodisch",
+    "klassisch-moderne Doppelname-Anmutung",
+    "freundlich und alltagstauglich",
+    "eher feminin und elegant",
+    "regional gut anschlussfähig in Deutschland"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Im deutschsprachigen Raum sichtbar und bekannt, dabei eher im mittleren bis beliebten Bereich eingeordnet. Die Wahrnehmung wirkt vor allem namenskundlich geprägt, nicht kontrovers."
+}

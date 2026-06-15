@@ -1,0 +1,59 @@
+{
+  "associations": [
+    "altgriechischer Ursprung",
+    "italienische Form bzw. italienisch geprägt",
+    "Bedeutungsfelder rund um Ordnung, Schönheit, Geschmücktes",
+    "Namenstag am 26. September",
+    "Spitznamen wie Cosi, Coco oder Mina"
+  ],
+  "confidence": 0.86,
+  "display_text": "Cosima hat in der verfügbaren Evidenz eine überwiegend positive, elegante Resonanz. Der Name wirkt klangvoll, klassisch und besonders, wird in Deutschland aber eher selten genannt. Die Quellen sind vor allem Namenslexika; eine breite öffentliche Debatte ist nicht erkennbar.",
+  "evidence_quality": "mittel bis begrenzt: zwei namenkundliche Webquellen, überwiegend lexikalisch und nicht als breite öffentliche Diskussion zu werten",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Cosima",
+  "normalized_name": "cosima",
+  "overall_resonance": "Cosima wirkt in der vorliegenden Evidenz als klangvoller, eher eleganter und namenkundlich interessanter Vorname mit positiver Grundtendenz. Die öffentliche Rezeption erscheint jedoch eher informativ als breit diskutiert.",
+  "practical_notes": [
+    "Für Suchmaschinen-Nutzer lässt sich Cosima am ehesten als eleganter, seltener und kulturell aufgeladener Mädchenname zusammenfassen.",
+    "Die Wahrnehmung ist eher positiv oder neutral, nicht konfliktgeladen.",
+    "Die Namenswirkung ist stark von Herkunft und Bedeutung geprägt, weniger von öffentlicher Alltagsresonanz."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz basiert überwiegend auf einzelnen Namensdatenbanken, daher ist die Aussagekraft zur öffentlichen Resonanz begrenzt.",
+    "Es gibt keine belastbare breite Diskussionslage, nur lexikalische und etymologische Einordnungen.",
+    "Beliebtheits- oder Stilwirkungen können von Datenbank-Bias geprägt sein und sollten vorsichtig gelesen werden."
+  ],
+  "short_summary": "Cosima wird in den verfügbaren Quellen überwiegend positiv und stilvoll beschrieben, bleibt in Deutschland aber eher selten und vor allem namenkundlich präsent.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.94,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Cosima � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/C/Co/Cosima/"
+    },
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Cosima: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Cosima.html"
+    }
+  ],
+  "style_effect": [
+    "klingt klassisch und zugleich besonders",
+    "wirkt gebildet und stilbewusst",
+    "assoziiert mit Ordnung, Schmuck und Eleganz",
+    "eher weich und feminin im Klang",
+    "durch Seltenheit auffällig, aber nicht exotisch"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland scheint Cosima eher selten bis moderat bekannt zu sein. Die verfügbare Evidenz stammt vor allem aus Namenslexika und deutet nicht auf eine breite öffentliche Debatte hin."
+}

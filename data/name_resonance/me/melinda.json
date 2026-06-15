@@ -1,0 +1,62 @@
+{
+  "associations": [
+    "Bedeutung und Herkunft",
+    "Honig / honigsüß",
+    "weiblicher Vorname",
+    "Namenstag",
+    "Kurzform bzw. Doppelform",
+    "Beliebtheit/Hitlisten-Kontext",
+    "leicht positive, beschreibende Namenswirkung"
+  ],
+  "confidence": 0.74,
+  "display_text": "Melinda wirkt in den vorliegenden Quellen eher positiv und freundlich, mit weicher, melodischer Anmutung. Die Hinweise stammen jedoch vor allem aus Namenslexika; für eine breite öffentliche Resonanz ist die Evidenz begrenzt.",
+  "evidence_quality": "Mittel bis eher schwach für öffentliche Resonanz; gut für Bedeutung, Herkunft und lexikalische Beschreibung, aber nur begrenzt für echte gesellschaftliche Rezeption.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Melinda",
+  "normalized_name": "melinda",
+  "overall_resonance": "Melinda wirkt in der vorliegenden Evidenz insgesamt eher positiv bis neutral: Der Name wird vor allem sachlich-namenskundlich beschrieben, mit freundlichen Bedeutungsaspekten wie „honigsüß“ und einer weichen, melodischen Anmutung. Eine starke öffentliche Debatte oder klare soziale Bewertung ist nicht erkennbar.",
+  "practical_notes": [
+    "Für eine Suchmaschine eignet sich eine vorsichtige Beschreibung als freundlich, bekannt und klangvoll.",
+    "Keine belastbaren Hinweise auf eine negative Stigmatisierung in der vorliegenden Evidenz.",
+    "Die Wahrnehmung kann je nach Generation und persönlichem Namensgeschmack variieren."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz für öffentliche Resonanz im engeren Sinn ist begrenzt.",
+    "Die verfügbaren Quellen sind vor allem redaktionelle Namenslexika, keine freie Meinungsdiskussion.",
+    "Einige positive Eindrücke können aus der etymologischen Bedeutung stammen und nicht aus tatsächlicher öffentlicher Wahrnehmung."
+  ],
+  "short_summary": "Melinda wird in den Quellen überwiegend sachlich und eher positiv beschrieben, vor allem über Bedeutung, Herkunft und Klang. Für eine breite öffentliche Resonanz gibt es nur begrenzte Evidenz.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Melinda � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/M/Me/Melinda/"
+    },
+    {
+      "confidence": 0.87,
+      "is_name_discussion": true,
+      "sentiment": "eher positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Melinda: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Melinda.html"
+    }
+  ],
+  "style_effect": [
+    "weich",
+    "melodisch",
+    "freundlich",
+    "elegant",
+    "klassisch-modern",
+    "namenskundlich aufgeladen"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Eher gering bis moderat sichtbar; die Hinweise stammen überwiegend aus Namenslexika und Datenbanken, nicht aus breiter öffentlicher Diskussion."
+}

@@ -1,0 +1,66 @@
+{
+  "associations": [
+    "Licht",
+    "Strahlend",
+    "Leuchtend",
+    "Tagesanbruch",
+    "lateinischer Ursprung",
+    "römisch/klassisch",
+    "heilige Lucia",
+    "Namenstag",
+    "Lucy/Luci/Luzi/Lia",
+    "beliebt in Deutschland"
+  ],
+  "confidence": 0.89,
+  "display_text": "Lucia wirkt öffentlich überwiegend positiv: ein klassischer, eleganter und gut vertrauter Vorname mit starker Licht-Assoziation. Die vorliegende Evidenz stammt vor allem aus Namenslexika, daher ist die Bewertung vorsichtig zu verstehen.",
+  "evidence_quality": "mittel bis gut: zwei einschlägige Namensquellen, beide klar name-bezogen und überwiegend positiv; die Aussage zur öffentlichen Resonanz bleibt dennoch vorsichtig, da keine breit angelegte Diskurs-Evidenz vorliegt.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Lucia",
+  "normalized_name": "lucia",
+  "overall_resonance": "Überwiegend positiv, klassisch und vertraut. Lucia wird in der verfügbaren Evidenz vor allem als eleganter, traditionsreicher Mädchenname mit heller, freundlicher Bedeutung wahrgenommen.",
+  "practical_notes": [
+    "Für Suchmaschinen-Nutzung eignet sich Lucia als klarer, leicht verständlicher und traditionsreicher Vorname.",
+    "Die Bedeutung rund um Licht und Strahlkraft prägt die Wahrnehmung deutlich.",
+    "Im Alltag wirken die kurzen Spitznamenformen eher freundlich und international anschlussfähig."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist auf wenige Namensseiten begrenzt; daraus lässt sich nur vorsichtig auf öffentliche Resonanz schließen.",
+    "Es liegen keine Hinweise auf eine besondere Stigmatisierung oder problematische soziale Zuschreibungen vor.",
+    "Die positiven Assoziationen stammen überwiegend aus der Namensbedeutung und lexikalischen Beschreibung, nicht aus breiter öffentlicher Debatte."
+  ],
+  "short_summary": "Lucia wird in der verfügbaren Evidenz überwiegend positiv, klassisch und lichtassoziiert wahrgenommen; die Hinweise sind stimmig, aber vor allem lexikalisch und daher nur vorsichtig als öffentliche Resonanz zu lesen.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "Vorname Lucia � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/L/Lu/Lucia/"
+    },
+    {
+      "confidence": 0.95,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Lucia: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Lucia.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "elegant",
+    "weiblich",
+    "international verständlich",
+    "hell/strahlend",
+    "traditionsbezogen",
+    "namenskundlich aufgeladen"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Im deutschsprachigen Raum gut bekannt und sichtbar, auch wenn die vorliegende Evidenz vor allem aus Namenslexika und Verzeichnissen stammt und keine breite öffentliche Diskussionslage abbildet."
+}

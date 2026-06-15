@@ -1,0 +1,59 @@
+{
+  "associations": [
+    "Kurzform von Peter/Pieter",
+    "Bedeutung: „der Fels“",
+    "niederdeutsch und niederländisch geprägt",
+    "in den Niederlanden verbreitet",
+    "in Deutschland eher regional, aber zunehmend populär",
+    "Namenstag am 29. Juni und 9. Dezember"
+  ],
+  "confidence": 0.92,
+  "display_text": "Piet wird in den Quellen meist neutral bis leicht positiv beschrieben: ein kurzer, klarer Vorname mit traditioneller Herkunft, der in Deutschland eher regional, aber zunehmend beliebt wirkt. Die Einschätzung basiert vor allem auf Namenslexika, daher ist die breite öffentliche Rezeption nur begrenzt sichtbar.",
+  "evidence_quality": "hoch für Herkunft, Bedeutung und formale Namensmerkmale; mittel für öffentliche Rezeption, da vor allem lexikalische Quellen vorliegen.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Piet",
+  "normalized_name": "piet",
+  "overall_resonance": "Piet wird in den vorliegenden Quellen überwiegend neutral bis leicht positiv wahrgenommen. Der Name erscheint als kurzer, klarer und traditionell wirkender Vorname mit eher freundlicher, sachlicher Außenwirkung.",
+  "practical_notes": [
+    "Für eine Namenssuche spricht die kurze, eingängige Form des Namens.",
+    "Der Name kann in Deutschland als eher modern-traditioneller Kurzname wahrgenommen werden.",
+    "Die Quellen deuten auf eine klare, unkomplizierte Schreib- und Sprechweise hin."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz basiert fast ausschließlich auf Namensdatenbanken und Lexikonseiten, nicht auf breiter freier Diskussion.",
+    "Mögliche Wahrnehmungen zu Stil oder Seltenheit sind kontextabhängig und nicht als allgemeingültig zu verstehen."
+  ],
+  "short_summary": "Piet wirkt öffentlich überwiegend neutral bis leicht positiv: kurz, klar, traditionell und mit niederländisch/niederdeutscher Prägung.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Piet � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/P/Pi/Piet/"
+    },
+    {
+      "confidence": 0.95,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Piet: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Piet.html"
+    }
+  ],
+  "style_effect": [
+    "kurz und prägnant",
+    "klar und modern wirkend",
+    "zugleich traditionell durch die Herkunft",
+    "leicht niederländisch/niederdeutsch gefärbt",
+    "einfach auszusprechen und zu merken"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland wirkt Piet bekannt, aber nicht extrem massenhaft; die Rezeption deutet auf regionale Verbreitung und zugleich wachsende Popularität hin. Die Evidenz stammt vor allem aus Namenslexika, daher ist die öffentliche Breite nur begrenzt abbildbar."
+}

@@ -1,0 +1,59 @@
+{
+  "associations": [
+    "althochdeutsche bzw. germanische Herkunft",
+    "Bedeutung im Umfeld von Sieg und Milde/Sanftheit",
+    "Nibelungensage",
+    "Richard Wagners Walküre",
+    "klassischer, traditionsreicher Mädchenname",
+    "selten in Deutschland"
+  ],
+  "confidence": 0.93,
+  "display_text": "Sieglinde gilt in der öffentlichen Wahrnehmung als seltener, traditioneller und historisch aufgeladener Mädchenname. Die Namensquellen deuten ihn überwiegend positiv, mit Bezügen zu „Sieg“ und „Milde“ sowie zur Nibelungensage und Wagners Walküre. Gleichzeitig ist der Name in Deutschland wenig verbreitet und wirkt eher klassisch als modern.",
+  "evidence_quality": "Gut bis sehr gut: zwei klare, namebezogene Quellen mit konsistenter Einordnung; allerdings insgesamt wenig breite Evidenz und keine belastbaren Trenddaten.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Sieglinde",
+  "normalized_name": "sieglinde",
+  "overall_resonance": "Überwiegend traditionell, historisch und eher positiv-konnotiert. Sieglinde wirkt im öffentlichen Namensdiskurs wie ein seltener, altdeutscher Name mit literarisch-mythologischen Bezügen.",
+  "practical_notes": [
+    "Gut geeignet, wenn ein historischer, eigenständiger und markanter Klang gewünscht ist.",
+    "Für moderne Namenslisten wirkt Sieglinde eher speziell als zeitgemäß-trendig.",
+    "Die öffentliche Rezeption ist insgesamt eher sachlich bis wohlwollend, aber nicht breit populär."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die positiven Deutungen stammen vor allem aus Namenslexika und sind eher kulturelle Einordnungen als objektive Eigenschaften des Namens.",
+    "Wegen der Seltenheit kann der Name für manche als altmodisch oder ungewohnt wirken; das ist eine Wahrnehmung, kein Makel."
+  ],
+  "short_summary": "Sieglinde wird öffentlich meist als seltener, klassischer und historisch geprägter Name mit positiven Bedeutungs- und Literaturbezügen wahrgenommen.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.99,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Sieglinde � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/S/Si/Sieglinde/"
+    },
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Sieglinde: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Sieglinde.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch und traditionsreich",
+    "historisch/altdeutsch",
+    "namenskundlich aufgeladen",
+    "eher formal als verspielt",
+    "durch die Seltenheit auffällig, aber nicht massenhaft präsent"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Eher niedrig bis mittel: Der Name ist in Deutschland bekannt, aber deutlich selten und nicht modern-trendig."
+}

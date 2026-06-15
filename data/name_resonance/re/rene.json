@@ -1,0 +1,71 @@
+{
+  "associations": [
+    "französische Form bzw. Variante von René",
+    "lateinische Herkunft über 'Renatus'",
+    "Bedeutung: 'der Wiedergeborene'",
+    "klassisch etablierter Vorname",
+    "früher zeitweise beliebter",
+    "heute eher seltener bzw. rückläufig",
+    "Name mit klarer, traditioneller Namensdeutung"
+  ],
+  "confidence": 0.91,
+  "display_text": "Rene wirkt in der öffentlichen Wahrnehmung überwiegend neutral bis leicht positiv: ein klassischer, etablierter Vorname mit der Bedeutung 'der Wiedergeborene'. Er ist bekannt, aber derzeit eher nicht trendstark und wird als eher traditionell als modern empfunden.",
+  "evidence_quality": "gut: mehrere einschlägige Namenslexikon-Quellen mit konsistenten Angaben zu Herkunft, Bedeutung und Beliebtheit; überwiegend neutrale bis leicht positive Beschreibung.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Rene",
+  "normalized_name": "rene",
+  "overall_resonance": "Überwiegend neutral bis leicht positiv: Rene wird als klassisch etablierter Vorname mit klarer Herkunft und Bedeutung wahrgenommen, ohne starke emotionale Aufladung.",
+  "practical_notes": [
+    "Für eine Namenssuche in DE wirkt Rene vertraut und unkompliziert.",
+    "Die Schreibweise ohne Akzent ist im Deutschen gebräuchlich; die Variante René ist ebenfalls relevant.",
+    "Der Name vermittelt eher klassische als moderne Assoziationen.",
+    "Falls ein sehr zeitgemäßer Trendname gesucht wird, wirkt Rene eher zurückhaltend als auffällig."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Datenlage ist insgesamt gut, aber die öffentliche Rezeption wird vor allem über Namenslexika und Beliebtheitsangaben sichtbar.",
+    "Keine belastbaren Hinweise auf eine starke soziale Stigmatisierung in der vorliegenden Evidenz.",
+    "Beliebtheitsaussagen sollten als Trendbeschreibung und nicht als Wertung verstanden werden."
+  ],
+  "short_summary": "Rene wird in Deutschland vor allem als klassischer, klar verständlicher Vorname mit französisch-lateinischer Herkunft wahrgenommen. Die Resonanz ist überwiegend neutral bis leicht positiv, bei eher sinkender aktueller Beliebtheit.",
+  "source_count": 3,
+  "sources": [
+    {
+      "confidence": 0.99,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Rene � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/R/Re/Rene/"
+    },
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Rene � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/R/Re/Rene/"
+    },
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Rene: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Rene.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "sachlich",
+    "lexikalisch",
+    "eher zeitlos als modisch",
+    "kurz und gut anschlussfähig",
+    "leicht traditionell"
+  ],
+  "usable_evidence_count": 3,
+  "visibility": "In Deutschland bekannt, aber eher nicht mehr besonders trendstark; die öffentliche Sichtbarkeit wirkt solide, jedoch mit rückläufiger Beliebtheit im Zeitverlauf."
+}

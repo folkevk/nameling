@@ -1,0 +1,53 @@
+{
+  "associations": [
+    "altnordische Herkunft",
+    "Schwert",
+    "Göttin",
+    "Schwertgöttin",
+    "eingedeutschte Form von Hjørdis",
+    "selten/außergewöhnlich",
+    "Namenstag am 3. Februar"
+  ],
+  "confidence": 0.73,
+  "display_text": "Jördis wirkt in Deutschland eher selten, nordisch und bedeutungsbezogen. Die öffentliche Resonanz ist insgesamt neutral bis leicht positiv. Vereinzelt gibt es kritische Stimmen zum Klang oder zu möglichen Verwechslungen, doch die Evidenz ist begrenzt und vor allem lexikalisch geprägt.",
+  "evidence_quality": "mittel bis schwach; wenige, überwiegend lexikalische Hinweise mit begrenzter öffentlicher Diskussion",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Jördis",
+  "normalized_name": "jordis",
+  "overall_resonance": "Überwiegend neutral bis leicht positiv, mit einer klaren Wahrnehmung als seltener und nordisch geprägter Vorname.",
+  "practical_notes": [
+    "Der Name wirkt markant und eigenständig.",
+    "Die Bedeutung und Herkunft sind für viele ein prägender Teil der Wahrnehmung.",
+    "Wegen der Seltenheit kann es gelegentlich zu Nachfragen bei Schreibweise und Aussprache kommen."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist begrenzt und stammt vor allem aus einem Namenslexikon mit gemischten Nutzerkommentaren.",
+    "Einzelne Rückmeldungen erwähnen ambivalenten Klang und mögliche Verwechslungen; das sind subjektive Eindrücke, keine allgemeingültigen Aussagen.",
+    "Aus der Quellenlage lässt sich keine breite gesellschaftliche Bewertung ableiten."
+  ],
+  "short_summary": "Jördis wird in Deutschland meist als seltener, nordisch geprägter Vorname wahrgenommen. Die Resonanz ist eher neutral bis leicht positiv; Kritikpunkte betreffen vor allem Klang und mögliche Verwechslungen, jedoch auf Basis begrenzter Evidenz.",
+  "source_count": 1,
+  "sources": [
+    {
+      "confidence": 0.79,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Jördis: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,J%C3%B6rdis.html"
+    }
+  ],
+  "style_effect": [
+    "nordisch",
+    "selten",
+    "bedeutungsbezogen",
+    "ungewöhnlich",
+    "traditionell-mit-exotischer-note"
+  ],
+  "usable_evidence_count": 1,
+  "visibility": "In Deutschland eher ungewöhnlich und dadurch auffällig; die Sichtbarkeit entsteht vor allem über Namenslexika und vereinzelte Diskussionen, nicht über breite Alltagsverbreitung."
+}

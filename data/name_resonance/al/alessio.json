@@ -1,0 +1,62 @@
+{
+  "associations": [
+    "italienischer Jungenname",
+    "Kurzform bzw. Variante von Alessandro/Alexander",
+    "griechische Namenswurzeln",
+    "Bedeutung im Sinn von 'der Beschützer'",
+    "moderne Namenswirkung",
+    "beliebt in Namensdatenbanken"
+  ],
+  "confidence": 0.77,
+  "display_text": "Alessio wirkt im deutschen Raum überwiegend modern, italienisch und freundlich-klar. Die verfügbaren Quellen sind vor allem Namenslexika und damit eher beschreibend als meinungsstark; eine deutliche Stigmatisierung ist nicht erkennbar.",
+  "evidence_quality": "mittel: zwei einschlägige Namenslexika, überwiegend sachlich-informativ, mit begrenzter Aussagekraft für echte öffentliche Resonanz.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Alessio",
+  "normalized_name": "alessio",
+  "overall_resonance": "Überwiegend positiv bis neutral; Alessio wirkt im deutschen Raum modern, klangvoll und international, mit klarer italienischer Prägung.",
+  "practical_notes": [
+    "Für die öffentliche Wahrnehmung zählt vor allem der italienische, moderne Klang.",
+    "Der Name ist gut verständlich und leicht aussprechbar, kann aber je nach Umfeld als bewusst stilvoll oder international wahrgenommen werden.",
+    "Als Namenswahl wirkt Alessio eher zeitgemäß als traditionell-deutsch."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt vor allem aus Namenslexika; das ist eher beschreibend als ein direkter Beleg für öffentliche Meinungen.",
+    "Eine starke soziale Stigmatisierung ist in der vorliegenden Evidenz nicht erkennbar.",
+    "Beliebtheitsaussagen sollten vorsichtig gelesen werden, da keine breitere Meinungs- oder Umfragedatenbasis vorliegt."
+  ],
+  "short_summary": "Alessio wird in Deutschland meist modern, italienisch und positiv-konnotiert wahrgenommen; die verfügbare Evidenz ist jedoch vor allem lexikalisch und daher nur bedingt repräsentativ.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.88,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Alessio � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/A/Al/Alessio/"
+    },
+    {
+      "confidence": 0.9,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Alessio: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Alessio.html"
+    }
+  ],
+  "style_effect": [
+    "modern",
+    "italienisch",
+    "elegant",
+    "jugendlich",
+    "international",
+    "weiche Klangwirkung",
+    "klar und eingängig"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Der Name ist in Deutschland sichtbar und bekannt, aber eher als moderner, markanter Jungenname als als klassischer Dauerbrenner."
+}

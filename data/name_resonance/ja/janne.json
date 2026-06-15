@@ -1,0 +1,68 @@
+{
+  "associations": [
+    "Bedeutung: „JHWH ist gnädig“ / „Jahwe ist gütig“",
+    "Herkunft: hebräisch, mit Bezügen zu Johann/Johanna",
+    "niederdeutsche, friesische, finnische und schwedische Namensformen",
+    "Unisex- bzw. regional unterschiedlich zugeordneter Name",
+    "Namenstag",
+    "Beliebtheit in Deutschland"
+  ],
+  "confidence": 0.71,
+  "display_text": "Janne wirkt in Deutschland überwiegend sachlich-neutral und leicht positiv. Der Name wird vor allem mit hebräischer Bedeutung, regionalen Kurzformen und einer teils unisexen Wahrnehmung verbunden. Für eine breite öffentliche Resonanz gibt es nur begrenzte Belege, da die Quellen hauptsächlich Namensportale sind.",
+  "evidence_quality": "eher schwach bis mittel: gute namenskundliche Informationen, aber nur begrenzte echte öffentliche Resonanz.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Janne",
+  "normalized_name": "janne",
+  "overall_resonance": "Überwiegend sachlich-neutral mit leicht positiver Nebenwirkung in einzelnen Quellen. Janne wird vor allem als informierter, sprachlich interessanter Vorname wahrgenommen; die öffentliche Resonanz wirkt eher beschreibend als emotional aufgeladen.",
+  "practical_notes": [
+    "Für Suchmaschinen-Nutzer wirkt Janne klar, freundlich und international anschlussfähig.",
+    "Im deutschen Kontext kann der Name je nach Region unterschiedlich als weiblich, männlich oder unisex gelesen werden.",
+    "Wer eine eindeutig geschlechtlich zugeordnete Wirkung sucht, sollte die regionale Wahrnehmung mitdenken."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt fast ausschließlich aus Namensportalen, nicht aus breiter öffentlicher Debatte.",
+    "Positive Formulierungen in Kommentaren sind anekdotisch und nicht als allgemeine Mehrheitsmeinung zu verstehen.",
+    "Die öffentliche Resonanz ist daher nur eingeschränkt belastbar."
+  ],
+  "short_summary": "Janne wird in den Quellen vor allem sachlich und namenkundlich beschrieben; die Wirkung ist eher freundlich-modern als stark polarisiert, bei insgesamt begrenzter Evidenz.",
+  "source_count": 3,
+  "sources": [
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Janne � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/J/Ja/Janne/"
+    },
+    {
+      "confidence": 0.92,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Janne � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/J/Ja/Janne/"
+    },
+    {
+      "confidence": 0.89,
+      "is_name_discussion": true,
+      "sentiment": "mixed",
+      "source_type": "web",
+      "title": "&#9655; Vorname Janne: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Janne.html"
+    }
+  ],
+  "style_effect": [
+    "kurz und unkompliziert",
+    "namenskundlich/informativ",
+    "modern-unaufgeregt",
+    "regional und sprachlich anschlussfähig",
+    "teils als unisex wahrgenommen"
+  ],
+  "usable_evidence_count": 3,
+  "visibility": "Mittlere Sichtbarkeit: Der Name erscheint in Namensdatenbanken und vereinzelten Kommentaren, aber die Evidenz für eine breite öffentliche Diskussion in Deutschland ist eher schwach."
+}

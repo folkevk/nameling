@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "weiblicher Vorname",
+    "altnordische/nordische Herkunft",
+    "Bedeutung im Sinne von 'alleinherrschend' oder 'ewige Herrscherin'",
+    "Ehre als Bedeutungsnähe",
+    "bekanntes Namenslexikon-Niveau",
+    "historisch häufiger, heute seltener"
+  ],
+  "confidence": 0.86,
+  "display_text": "Erika: überwiegend neutrale bis leicht positive Resonanz. Der Name gilt als klassisch, gut bekannt und sprachlich klar, mit altnordischer Herkunft und der Bedeutungsnähe zu 'alleinherrschend'. In Deutschland wirkt Erika heute eher traditionell und seltener, ohne Hinweise auf eine starke negative öffentliche Stigmatisierung.",
+  "evidence_quality": "mittel bis gut; zwei direkte, namenbezogene Lexikonquellen mit weitgehend konsistenter Aussage zu Herkunft, Bedeutung und heutiger Seltenheit in Deutschland.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Erika",
+  "normalized_name": "erika",
+  "overall_resonance": "Überwiegend neutral bis leicht positiv; Erika wirkt im öffentlichen Namenskontext klassisch, bekannt und eher informativ als kontrovers. In der verfügbaren Evidenz erscheint der Name heute weniger modern, aber weiterhin klar verständlich und anerkannt.",
+  "practical_notes": [
+    "Für Suchmaschinen-Nutzer ist Erika vor allem ein klar einordenbarer, klassischer Vorname.",
+    "Die öffentliche Resonanz wirkt sachlich und eher positiv-ruhig, ohne starke Kontroversen.",
+    "Wenn Modernität im Vordergrund steht, könnte der Name als eher traditionell wahrgenommen werden."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Keine belastbaren Hinweise auf Stigmatisierung in der vorliegenden Evidenz.",
+    "Die Wahrnehmung als 'altmodisch' ist eine mögliche Stilwirkung, keine objektive Eigenschaft.",
+    "Die Datenbasis ist klein und stammt im Wesentlichen aus Namenslexika; sie zeigt daher eher die sprachliche Einordnung als breite öffentliche Debatten."
+  ],
+  "short_summary": "Erika wird öffentlich überwiegend neutral bis leicht positiv wahrgenommen: ein klassischer, gut bekannter Vorname mit altnordischer Herkunft, heute eher selten und stilistisch eher traditionell.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.99,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Erika � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/E/Er/Erika/"
+    },
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Erika: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Erika.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "traditionell",
+    "lexikalisch klar",
+    "eher zeitlos als modisch",
+    "leicht altmodisch im heutigen Gebrauch"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland gut bekannt, jedoch nach den vorliegenden Hinweisen heute eher selten vergeben. Dadurch wirkt der Name vertraut, aber nicht stark trendgetrieben."
+}

@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "lateinischer Ursprung",
+    "römische Siegesgöttin Victoria",
+    "Bedeutung: „die Siegerin“ / „die Siegreiche“",
+    "Namenstag",
+    "im Deutschen gebräuchliche Schreibweise",
+    "beliebter Vorname",
+    "klassischer Klang"
+  ],
+  "confidence": 0.88,
+  "display_text": "Viktoria wirkt in den vorliegenden Quellen überwiegend positiv, klassisch und traditionell. Der Name wird vor allem mit „die Siegerin“, lateinischem Ursprung und der römischen Siegesgöttin Victoria verbunden. Die Evidenz ist jedoch begrenzt und stammt fast nur aus Namenslexika.",
+  "evidence_quality": "mittel: inhaltlich klar, aber stark quellengebunden und ohne breite öffentliche Diskussionslage",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Viktoria",
+  "normalized_name": "viktoria",
+  "overall_resonance": "Überwiegend positiv und klassisch-traditionell wahrgenommen. In den vorliegenden Quellen wird Viktoria vor allem mit der Bedeutung „die Siegerin“ bzw. „die Siegreiche“, lateinischem Ursprung und einem Bezug zur römischen Siegesgöttin verbunden.",
+  "practical_notes": [
+    "Für eine Namenssuche ist Viktoria ein klar verständlicher, etablierter und traditionell wirkender Name.",
+    "Die Schreibweise mit ‚k‘ ist im deutschen Sprachraum geläufig; die Assoziationen sind überwiegend positiv und historisch-kulturell geprägt."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist begrenzt und stammt fast ausschließlich aus Namenslexika bzw. einer einzelnen thematisch passenden Webquelle.",
+    "Es zeigt sich eher eine beschreibende Namensdarstellung als breite öffentliche Debatte.",
+    "Keine belastbaren Hinweise auf negative Stigmatisierung in den vorliegenden Quellen."
+  ],
+  "short_summary": "Viktoria wird in den vorliegenden Quellen überwiegend positiv, klassisch und traditionell beschrieben, mit starker Sieg-Assoziation und gut etablierter Nutzung im Deutschen.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "Vorname Viktoria � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/V/Vi/Viktoria/"
+    },
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Viktoria: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Viktoria.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "traditionell",
+    "namenskundlich",
+    "würdig",
+    "sieghaft",
+    "historisch geprägt"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Im deutschen Sprachraum gut bekannt und gebräuchlich; die Quellen beschreiben den Namen als beliebt bzw. klassisch, ohne starke Kontroversen oder negative öffentliche Debatten."
+}

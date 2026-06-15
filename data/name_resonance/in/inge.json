@@ -1,0 +1,68 @@
+{
+  "associations": [
+    "weiblicher Vorname",
+    "althochdeutsche und altnordische Herkunft",
+    "Bedeutung mit Bezug auf Ingwio bzw. eine Gottheit",
+    "Kurzform bzw. eingedeutschte Ing-Form",
+    "früher häufiger, heute selten",
+    "Namenstag am 30. Juli"
+  ],
+  "confidence": 0.87,
+  "display_text": "Inge: traditionell, deutsch und historisch geprägt; heute eher selten, in der Regel neutral und sachlich wahrgenommen.",
+  "evidence_quality": "gut für Herkunft, Bedeutung und allgemeine Namensbeschreibung; eingeschränkt für aktuelle öffentliche Resonanz, da die Quellen vor allem lexikalisch und nur teilweise community-nah sind.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Inge",
+  "normalized_name": "inge",
+  "overall_resonance": "Inge wirkt in der öffentlichen Namenswahrnehmung vor allem traditionell, klar deutsch und historisch geprägt. Die verfügbare Evidenz beschreibt den Namen überwiegend neutral-informativ; eine starke aktuelle Debatte oder breite gesellschaftliche Bewertung ist daraus nicht erkennbar.",
+  "practical_notes": [
+    "Für eine öffentliche Kurzbeschreibung eignet sich: traditionell, deutsch, selten.",
+    "Die Wahrnehmung ist eher sachlich als emotional aufgeladen.",
+    "Wenn Kontext wichtig ist, kann die historische Herkunft hervorgehoben werden."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt fast ausschließlich aus Namenslexika; das sagt mehr über Herkunft und Bedeutung als über echte öffentliche Resonanz.",
+    "Aussagen zur Beliebtheit beziehen sich teils auf historische statt aktuelle Verbreitung.",
+    "Keine belastbaren Hinweise auf soziale Stigmatisierung oder negative öffentliche Stereotype in der vorliegenden Evidenz."
+  ],
+  "short_summary": "Inge wird überwiegend neutral und traditionell wahrgenommen: ein klassischer, heute seltener deutscher Vorname mit historischer Herkunft.",
+  "source_count": 3,
+  "sources": [
+    {
+      "confidence": 0.99,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Inge � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/I/In/Inge/"
+    },
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Inge � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/I/In/Inge/"
+    },
+    {
+      "confidence": 0.83,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Inge: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Inge.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "altvertraut",
+    "nüchtern",
+    "historisch",
+    "kurz und direkt"
+  ],
+  "usable_evidence_count": 3,
+  "visibility": "Eher bekannte, heute aber seltene Namensform in Deutschland. Die Sichtbarkeit scheint vor allem über Namenslexika und historische Einordnungen zu laufen, nicht über aktuelle Trends."
+}

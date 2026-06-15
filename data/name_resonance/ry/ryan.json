@@ -1,0 +1,68 @@
+{
+  "associations": [
+    "irische bzw. altirische Herkunft",
+    "Bedeutung: „kleiner König“",
+    "international gebräuchlich",
+    "im deutschsprachigen Raum vergeben",
+    "teils als Unisex-Name beschrieben",
+    "beliebter Jungenname in Namenslexika"
+  ],
+  "confidence": 0.79,
+  "display_text": "Ryan wirkt in Deutschland überwiegend neutral bis leicht positiv: international, modern und mit irisch-altirischer Herkunft verbunden. Die vorliegende Evidenz stammt fast nur aus Namenslexika, daher ist die öffentliche Resonanz nur eingeschränkt belastbar.",
+  "evidence_quality": "Eher schwach bis mittel: mehrere konsistente Namenslexikon-Quellen, aber kaum echte öffentliche Diskussion oder Meinungsvielfalt.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Ryan",
+  "normalized_name": "ryan",
+  "overall_resonance": "Überwiegend neutral bis leicht positiv, vor allem in lexikalischen Namensquellen.",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt Ryan vertraut, modern und international verständlich.",
+    "Im deutschen Kontext wird der Name meist als eher männlich wahrgenommen, auch wenn einzelne Quellen ihn als unisex beschreiben.",
+    "Die Wahrnehmung ist insgesamt eher unauffällig und wenig konfliktgeladen."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist schwach für echte öffentliche Resonanz, weil sie fast nur aus Namenslexika besteht.",
+    "Die Aussagen spiegeln primär Herkunft, Bedeutung und Beliebtheit in Datenbanken wider, nicht direkte Meinungsäußerungen aus der Öffentlichkeit.",
+    "Keine belastbaren Hinweise auf Stigmatisierung in der vorliegenden Evidenz."
+  ],
+  "short_summary": "Ryan wird in deutschen Namensquellen meist neutral bis leicht positiv beschrieben: international, irisch geprägt und modern wirkend. Die Evidenz ist jedoch vor allem lexikalisch, nicht dialogisch.",
+  "source_count": 3,
+  "sources": [
+    {
+      "confidence": 0.92,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Ryan � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/R/Ry/Ryan/"
+    },
+    {
+      "confidence": 0.94,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Ryan � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/R/Ry/Ryan/"
+    },
+    {
+      "confidence": 0.94,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Ryan: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Ryan.html"
+    }
+  ],
+  "style_effect": [
+    "international und modern wirkend",
+    "kurz und leicht merkbar",
+    "in den Quellen häufig als irisch/altirisch beschrieben",
+    "teils als Unisex-Name eingeordnet, im Deutschen aber oft überwiegend männlich verwendet",
+    "sachlich-informative statt emotional gefärbte Wahrnehmung"
+  ],
+  "usable_evidence_count": 3,
+  "visibility": "Mittel: Der Name ist im deutschsprachigen Raum bekannt und in Namensdatenbanken präsent, aber die vorliegende Evidenz zeigt eher Informations- als echte öffentliche Meinungsresonanz."
+}

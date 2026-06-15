@@ -1,0 +1,59 @@
+{
+  "associations": [
+    "englische Schreibform",
+    "germanisch/englische Herkunftsbezüge",
+    "Bedeutungsangaben aus Namenslexika",
+    "Namenstag",
+    "selten bis mäßig bekannt",
+    "in Kommentaren teils als schön bzw. angenehm bewertet"
+  ],
+  "confidence": 0.78,
+  "display_text": "Jeffrey wirkt in Deutschland eher selten und international. Die öffentliche Wahrnehmung ist überwiegend neutral bis leicht positiv, mit einzelnen Kommentaren, die den Namen als schön oder angenehm beschreiben. Die Evidenz ist allerdings begrenzt und stammt vor allem aus Namenslexika.",
+  "evidence_quality": "mittel bis schwach: zwei überwiegend informative Quellen, wenige direkte Wertungen, keine breite öffentliche Resonanzmessung",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Jeffrey",
+  "normalized_name": "jeffrey",
+  "overall_resonance": "Jeffrey wirkt in Deutschland eher selten, sachlich bekannt und insgesamt neutral bis leicht positiv wahrgenommen. Die öffentliche Rezeption, soweit aus Namenslexika und wenigen Kommentaren erkennbar, betont vor allem die englische Schreibform, die Herkunft und eine eher klassische, nicht alltägliche Wirkung.",
+  "practical_notes": [
+    "Für eine deutsche Umgebung wirkt Jeffrey eher international und etwas markanter als klassische deutsche Standardnamen.",
+    "Die Aussprache und Schreibweise sind im Deutschen meist gut machbar, können aber als englisch wahrgenommen werden.",
+    "Wer einen seltenen, vertraut klingenden Namen sucht, findet hier eher eine unaufdringliche Option."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist begrenzt und stammt überwiegend aus Namenslexika, nicht aus breiten Meinungsumfragen.",
+    "Positive Eindrücke beruhen teilweise auf einzelnen Nutzerkommentaren und sind daher nicht als allgemeine Mehrheitsmeinung zu verstehen."
+  ],
+  "short_summary": "Jeffrey ist in Deutschland eher selten und wird überwiegend neutral bis leicht positiv wahrgenommen; die Quellen beschreiben ihn vor allem als internationale, englisch geprägte Namensform mit sachlicher, unaufdringlicher Wirkung.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Jeffrey � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/J/Je/Jeffrey/"
+    },
+    {
+      "confidence": 0.91,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Jeffrey: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Jeffrey.html"
+    }
+  ],
+  "style_effect": [
+    "international",
+    "klassisch-englisch",
+    "eher selten",
+    "klanglich vertraut, aber nicht alltäglich",
+    "sachlich und unaufgeregt"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Die Sichtbarkeit ist eher gering bis mittel: Der Name ist bekannt, aber nicht sehr verbreitet. In den Quellen wird er als eher selten bis mäßig bekannt beschrieben."
+}

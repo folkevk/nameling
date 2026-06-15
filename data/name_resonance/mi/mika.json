@@ -1,0 +1,72 @@
+{
+  "associations": [
+    "finnische Kurzform von Mikael/Michael",
+    "biblischer Bezug zu Michael",
+    "Bedeutung: „Wer ist wie Gott?“",
+    "japanische Deutung als „schöner Duft“ bzw. „wunderschöner Duft“",
+    "Unisex-Name",
+    "beliebt bzw. aufstrebend in Deutschland",
+    "etabliert",
+    "modern"
+  ],
+  "confidence": 0.89,
+  "display_text": "„Mika“ wird in Deutschland meist als moderner, kurzer und eher positiv besetzter Vorname wahrgenommen. Die Quellen nennen ihn häufig als Unisex-Namen mit finnisch-hebräischem Bezug; die Herkunft und Bedeutung werden jedoch teils unterschiedlich erklärt. Insgesamt wirkt die Resonanz sachlich bis freundlich, bei begrenzter Evidenz für eine breite öffentliche Debatte.",
+  "evidence_quality": "mittel bis gut: mehrere klar namenskundliche Quellen mit überwiegend konsistenter, aber überwiegend lexikalischer Evidenz; direkte breite Alltagsresonanz ist nur eingeschränkt sichtbar.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Mika",
+  "normalized_name": "mika",
+  "overall_resonance": "Die öffentliche Resonanz auf „Mika“ wirkt in den vorliegenden Quellen insgesamt eher positiv bis neutral: Der Name wird als modern, beliebt und inzwischen gut etabliert beschrieben. Gleichzeitig wird er häufig sachlich-etymologisch eingeordnet, etwa als finnische Kurzform von Mikael/Michael und als Unisex-Name.",
+  "practical_notes": [
+    "Für eine Namenssuche lässt sich „Mika“ als kurzer, moderner und international verständlicher Name darstellen.",
+    "Die Quellenlage spricht eher für positive oder neutrale Wahrnehmung als für Kritik.",
+    "Wegen der Mehrdeutigkeit der Herkunft empfiehlt sich eine vorsichtige Formulierung bei der Bedeutung."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Herkunfts- und Bedeutungszuordnung ist mehrdeutig und kann je nach Quelle variieren.",
+    "Die Einordnung als Unisex-Name wird genannt, kann aber regional unterschiedlich wahrgenommen werden.",
+    "Die Evidenz stammt vor allem aus Namenslexika; eine breite öffentliche Meinungslage außerhalb dieser Quellen ist nur begrenzt belegt."
+  ],
+  "short_summary": "Mika wird in den vorliegenden Quellen überwiegend positiv bis neutral wahrgenommen: modern, beliebt, kurz und international anschlussfähig, mit mehrdeutiger Herkunft und Unisex-Einordnung.",
+  "source_count": 3,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "Vorname Mika � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/M/Mi/Mika/"
+    },
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Mika � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/M/Mi/Mika/"
+    },
+    {
+      "confidence": 0.95,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Mika: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Mika.html"
+    }
+  ],
+  "style_effect": [
+    "modern",
+    "zeitgemäß",
+    "kurz und prägnant",
+    "etymologisch aufgeladen",
+    "international anschlussfähig",
+    "unisex wahrgenommen",
+    "freundlich bis sachlich"
+  ],
+  "usable_evidence_count": 3,
+  "visibility": "In Deutschland scheint „Mika“ gut sichtbar und aufsteigend, aber nicht übermäßig dominant zu sein. Die Trefferlage deutet auf eine breite Bekanntheit in Namenslexika und auf Namensseiten hin, weniger auf stark polarisierte Debatten."
+}

@@ -1,0 +1,59 @@
+{
+  "associations": [
+    "Bedeutung: „die Freie“ / freie Frau",
+    "englische bzw. französische Namensvariante",
+    "Verbindung zu Charline/Charles",
+    "internationaler, eleganter Klang",
+    "Varianten und Kurzformen wie Charleen, Charly, Lene"
+  ],
+  "confidence": 0.74,
+  "display_text": "Charlene wirkt in DE eher selten, aber bekannt – ein international klingender Mädchenname mit leicht positiver Resonanz. Die Bedeutung wird häufig als „die Freie“ bzw. frei/unabhängig beschrieben. Die Evidenz ist jedoch begrenzt und stützt sich vor allem auf Namenslexika.",
+  "evidence_quality": "mittel bis schwach für öffentliche Resonanz; gut für Bedeutung, Herkunft und stilistische Einordnung, aber begrenzt für echte Meinungsbreite in DE.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Charlene",
+  "normalized_name": "charlene",
+  "overall_resonance": "Charlene wirkt in der deutschsprachigen Wahrnehmung eher leicht positiv und insgesamt neutral-informativ: international klingend, weiblich und mit einer Bedeutung, die häufig als „die Freie“ bzw. frei/unabhängig beschrieben wird. Gleichzeitig ist die öffentliche Resonanz in DE nur begrenzt belegt und stützt sich hier vor allem auf Namenslexika, nicht auf breite Alltagsmeinungen.",
+  "practical_notes": [
+    "Für eine Namenssuche dürfte Charlene als vertraut, aber nicht allgegenwärtig wahrgenommen werden.",
+    "Der Name kann je nach Umfeld als modern-international gelesen werden.",
+    "Die Schreibweise und mögliche Kurzformen sollten bei Bedarf mitgedacht werden."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt überwiegend aus Namensdatenbanken und ist daher eher beschreibend als ein direkter Beleg öffentlicher Meinung.",
+    "Zur tatsächlichen Alltagsresonanz in Deutschland gibt es nur begrenzte Hinweise.",
+    "Keine belastbaren Hinweise auf soziale Stigmatisierung in der vorliegenden Evidenz."
+  ],
+  "short_summary": "Charlene wird in Deutschland eher selten, aber bekannt und leicht positiv als international klingender Mädchenname wahrgenommen. Die vorliegende Evidenz ist vor allem lexikalisch und liefert mehr Informationen zu Bedeutung und Herkunft als zu breiter öffentlicher Meinung.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.9,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Charlene � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/C/Ch/Charlene/"
+    },
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Charlene: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Charlene.html"
+    }
+  ],
+  "style_effect": [
+    "international und modern klingend",
+    "weiblich und weich im Klang",
+    "eher stilvoll als ausgefallen",
+    "durch die Namensbedeutung leicht positiv aufgeladen",
+    "mit mehreren gut anschließenden Kurzformen/Varianten"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Eher selten, aber bekannt; im deutschen Kontext vorhanden, jedoch keine starke Massennutzung. Die öffentliche Sichtbarkeit scheint eher moderat als dominant."
+}

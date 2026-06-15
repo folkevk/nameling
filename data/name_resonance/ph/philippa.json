@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "weibliche Form von Philipp/Philippus",
+    "griechischer Ursprung",
+    "Bedeutung: „die Pferdefreundin“",
+    "Namenstag am 16. Februar",
+    "Spitzname Pippa",
+    "selten, aber im deutschen Namensgebrauch vorhanden"
+  ],
+  "confidence": 0.74,
+  "display_text": "Philippa wirkt in Deutschland eher selten, klassisch und freundlich-elegant. Die vorhandenen Quellen sind überwiegend positiv bis neutral und nennen als typische Assoziationen den griechischen Ursprung, die Bedeutung „Pferdefreundin“ sowie den Spitznamen Pippa. Die Evidenz ist jedoch begrenzt und beruht vor allem auf Namenslexikon-Seiten.",
+  "evidence_quality": "mittel bis schwach: klare Namensbeschreibungen, aber nur wenige Quellen und keine breite öffentliche Resonanz.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Philippa",
+  "normalized_name": "philippa",
+  "overall_resonance": "Der Vorname Philippa wird in den vorliegenden deutschsprachigen Namensquellen überwiegend neutral bis positiv beschrieben. Er wirkt klassisch, international anschlussfähig und eher selten, ohne dass sich eine breite öffentliche Debatte oder starke Kontroversen zeigen.",
+  "practical_notes": [
+    "Für Suchmaschinen-Nutzer wirkt der Name eher positiv und unkompliziert einordbar.",
+    "Die Schreibweise ist klar, der Klang vertraut, aber nicht alltäglich.",
+    "Wer einen seltenen, klassischen und international verständlichen Namen sucht, findet hier ein passendes Profil."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenzbasis ist schmal und stützt sich nur auf wenige Namenslexikon-Seiten.",
+    "Es gibt kaum Hinweise auf echte öffentliche Debatten oder ein einheitliches Meinungsbild.",
+    "Beliebtheitsangaben sollten vorsichtig gelesen werden, da sie nicht auf breiter Umfragedatenlage beruhen."
+  ],
+  "short_summary": "Philippa wird in den verfügbaren Quellen als klassischer, seltener und eher positiv konnotierter Vorname mit griechischem Ursprung beschrieben.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Philippa � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/P/Ph/Philippa/"
+    },
+    {
+      "confidence": 0.84,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Philippa: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Philippa.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "elegant",
+    "international",
+    "namenskundlich",
+    "eher selten",
+    "traditionell mit modernem Klang"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Im deutschsprachigen Raum scheint Philippa bekannt, aber nicht sehr häufig zu sein. Die Sichtbarkeit in den Quellen ist eher lexikalisch als gesellschaftlich: Der Name wird vor allem in Namensverzeichnissen, nicht in größeren Diskussionen, behandelt."
+}

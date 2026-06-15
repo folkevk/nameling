@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "Kurzform von Matthias",
+    "niederländische Herkunft",
+    "Bedeutung in Richtung „Geschenk Gottes“ bzw. „Gabe Jahwes“",
+    "selten in Deutschland",
+    "in den Niederlanden gebräuchlicher",
+    "Namenstag am 24. Februar"
+  ],
+  "confidence": 0.72,
+  "display_text": "Thijs ist in Deutschland eher selten und wird vor allem als niederländisch geprägter, kurzer und klangvoller Vorname wahrgenommen. Die verfügbare Evidenz ist überwiegend sachlich aus Namenslexika; die Rezeption wirkt insgesamt neutral bis leicht positiv.",
+  "evidence_quality": "mittel bis schwach; überwiegend Namenslexikon-Quellen, kaum echte öffentliche Diskussionsdaten",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Thijs",
+  "normalized_name": "thijs",
+  "overall_resonance": "Thijs wird im deutschsprachigen Kontext eher als niederländisch geprägter, seltener Vorname wahrgenommen. Die öffentliche Rezeption wirkt überwiegend neutral bis freundlich, mit leicht positiver Namenswirkung durch Klang und Herkunft.",
+  "practical_notes": [
+    "Für eine Namenssuchmaschine eignet sich Thijs als kurzer, international wirkender Name mit klarer niederländischer Prägung.",
+    "In Deutschland kann die Schreibweise ungewohnt sein, was den Namen auffälliger macht.",
+    "Die Aussprache sollte je nach Kontext mitgedacht werden, da der Name nicht überall vertraut ist."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenzlage ist schwach für eine echte öffentliche Resonanzkarte, da vor allem Namensdatenbanken vorliegen.",
+    "Einzelne positive Wertungen wie „schön“ oder „frech“ sind eher lexikalische Einschätzungen als belastbare Mehrheitsmeinung.",
+    "Keine Hinweise auf negative gesellschaftliche Stigmatisierung in der vorliegenden Evidenz."
+  ],
+  "short_summary": "Thijs wirkt in Deutschland selten, niederländisch geprägt und insgesamt freundlich-neutral mit leicht positiver Namenswirkung.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Thijs � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/T/Th/Thijs/"
+    },
+    {
+      "confidence": 0.9,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Thijs: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Thijs.html"
+    }
+  ],
+  "style_effect": [
+    "kurz und markant",
+    "niederländisch geprägt",
+    "modern wirkend",
+    "eher selten",
+    "freundlich-klangvoll",
+    "informativ statt aufdringlich"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland eher wenig verbreitet und dadurch auffällig, aber nicht stark etabliert. Die verfügbare Evidenz stammt vor allem aus Namenslexika, nicht aus breiter öffentlicher Diskussion."
+}

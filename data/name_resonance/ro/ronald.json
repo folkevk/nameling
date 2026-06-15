@@ -1,0 +1,62 @@
+{
+  "associations": [
+    "altnordische Herkunft",
+    "schottische Form",
+    "Bedeutung: der mit göttlichem Rat Herrschende",
+    "Namenstag am 20. August",
+    "selten bis weniger häufig",
+    "Spitznamen wie Ron oder Ronny",
+    "traditionell und eher etabliert"
+  ],
+  "confidence": 0.78,
+  "display_text": "Ronald wirkt in Deutschland traditionell, bekannt und eher selten. Die öffentliche Resonanz ist überwiegend neutral bis leicht positiv: ein klassischer Vorname mit nordisch-schottischer Herkunft, klarer Bedeutung und ohne erkennbare starke negative Konnotationen in den vorliegenden Quellen.",
+  "evidence_quality": "mittel: zwei einschlägige Namensseiten mit weitgehend konsistenten Angaben, aber nur indirekte Hinweise auf öffentliche Resonanz",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Ronald",
+  "normalized_name": "ronald",
+  "overall_resonance": "Ronald wirkt in Deutschland eher traditionell, bekannt und insgesamt neutral bis leicht positiv. Der Name wird vor allem mit einer nordischen bzw. schottischen Herkunft, einer klaren Bedeutung und einem eher klassischen Klang verbunden. Er ist nicht sehr häufig, aber gut einordbar und ohne starke negative öffentliche Konnotationen in den vorliegenden Quellen.",
+  "practical_notes": [
+    "Für Suchende, die einen klassischen und klar bekannten Namen suchen, ist Ronald gut anschlussfähig.",
+    "Der Name wirkt eher erwachsen und traditionell als verspielt oder modern.",
+    "Kurzformen wie Ron oder Ronny werden in den Quellen als gebräuchliche Varianten genannt."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt überwiegend aus Namenslexika und ist für öffentliche Resonanz nur indirekt belastbar.",
+    "Keine Hinweise auf starke soziale Stigmatisierung oder negative Mehrheitskonnotationen in den Quellen.",
+    "Einzelne Einschätzungen sind quellenspezifisch und sollten nicht als allgemeine Wahrnehmung überinterpretiert werden."
+  ],
+  "short_summary": "Ronald ist in Deutschland ein bekannter, eher seltener und traditionell wirkender Vorname mit neutral bis leicht positiver Resonanz.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Ronald � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/R/Ro/Ronald/"
+    },
+    {
+      "confidence": 0.94,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Ronald: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Ronald.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "traditionell",
+    "informativ",
+    "etwas formell",
+    "international anschlussfähig",
+    "eher zeitlos als modisch"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Bekannt, aber aktuell eher selten bis weniger häufig. In der öffentlichen Wahrnehmung erscheint der Name eher als klassischer Vorname mit historischer Anmutung als als moderner Trendname."
+}

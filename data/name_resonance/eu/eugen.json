@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "altgriechische Herkunft",
+    "Bedeutung: der Edle / wohlgeboren / von guter Abstammung",
+    "Namenstag",
+    "historische Verankerung im deutschsprachigen Raum",
+    "seltene heutige Vergabe",
+    "traditioneller Klang"
+  ],
+  "confidence": 0.91,
+  "display_text": "Eugen: klassisch, traditionell und selten; meist positiv bis neutral wahrgenommen, mit der Assoziation „der Edle / wohlgeboren“.",
+  "evidence_quality": "hoch für Bedeutung, Herkunft und Namenscharakter; begrenzt für breite öffentliche Alltagsresonanz",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Eugen",
+  "normalized_name": "eugen",
+  "overall_resonance": "Eugen wirkt im deutschsprachigen Raum klassisch, traditionell und eher selten. Die öffentliche Namenswahrnehmung ist überwiegend positiv bis neutral, mit starken Bezügen zu Herkunft, Bedeutung und historischer Einordnung.",
+  "practical_notes": [
+    "Für eine Namenssuche vermittelt Eugen einen klaren, klassischen Eindruck.",
+    "Der Name ist leicht einzuordnen und wirkt nicht modisch.",
+    "Durch die Seltenheit kann er markant, aber auch etwas altsprachlich oder traditionell wirken."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt vor allem aus Namenslexika und einzelnen Namensseiten; sie bildet eher die beschriebene Bedeutung als die breite Alltagswahrnehmung ab.",
+    "Positive Bedeutungsassoziationen können die Resonanz stärker wirken lassen, als es die tatsächliche Nutzung im Alltag zeigt.",
+    "Keine belastbaren Hinweise auf soziale Stigmatisierung in der vorliegenden Evidenz."
+  ],
+  "short_summary": "Eugen wird meist als klassischer, seltener und traditionsreicher Vorname mit edler Bedeutung wahrgenommen.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Eugen � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/E/Eu/Eugen/"
+    },
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Eugen: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Eugen.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "traditionell",
+    "gebildet/lexikalisch",
+    "historisch",
+    "selten",
+    "würdevoll"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland bekannt, aber heute nicht häufig vergeben; dadurch eher auffällig als modisch."
+}

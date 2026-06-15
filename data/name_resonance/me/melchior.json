@@ -1,0 +1,62 @@
+{
+  "associations": [
+    "Heilige Drei Könige",
+    "biblisch",
+    "althebräisch",
+    "König des Lichts",
+    "Namenstag am 6. Januar und 7. September",
+    "selten in Deutschland",
+    "historisch-traditionell"
+  ],
+  "confidence": 0.82,
+  "display_text": "Melchior wirkt in Deutschland traditionell, biblisch und selten. Die öffentliche Resonanz ist eher neutral bis leicht positiv; der Name fällt vor allem durch den Dreikönigs-Bezug und seinen feierlich-historischen Charakter auf.",
+  "evidence_quality": "mittel bis gut: zwei direkte Namensquellen mit klaren Angaben zu Bedeutung, Herkunft und Einordnung; eine Quelle ist stärker lexikalisch als diskursiv, daher nur vorsichtige Schlussfolgerungen.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Melchior",
+  "normalized_name": "melchior",
+  "overall_resonance": "Melchior wird in der öffentlichen Namenswahrnehmung in Deutschland eher traditionell, biblisch und selten eingeordnet. Die Resonanz ist insgesamt neutral bis leicht positiv: Der Name wirkt für viele vertraut durch den religiös-historischen Bezug, zugleich aber ungewöhnlich und markant.",
+  "practical_notes": [
+    "Für eine Namenssuche ist Melchior eine klare Wahl, wenn ein seltener, traditioneller und religiös geprägter Name gesucht wird.",
+    "Die Seltenheit kann als charakterstark wahrgenommen werden, aber auch als ungewohnt.",
+    "Der Name hat eine starke kulturelle Wiedererkennbarkeit durch den Dreikönigs-Bezug."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist insgesamt brauchbar, aber teils stark lexikalisch und metadata-lastig; direkte öffentliche Diskussionen sind nur begrenzt sichtbar.",
+    "Vereinzelte gemischte oder negative Assoziationen in Kommentaren sind anekdotisch und sollten nicht verallgemeinert werden.",
+    "Es gibt keinen Hinweis auf eine soziale Stigmatisierung des Namens; der Eindruck ist eher von Seltenheit als von Abwertung geprägt."
+  ],
+  "short_summary": "Melchior wird in Deutschland vor allem als seltener, traditionell-biblischer Jungenname wahrgenommen. Die öffentliche Resonanz ist eher neutral bis leicht positiv, mit starkem Bezug zu den Heiligen Drei Königen und dem Namenstag.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.99,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Melchior � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/M/Me/Melchior/"
+    },
+    {
+      "confidence": 0.78,
+      "is_name_discussion": true,
+      "sentiment": "überwiegend positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Melchior: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Melchior.html"
+    }
+  ],
+  "style_effect": [
+    "traditionell",
+    "biblisch",
+    "historisch",
+    "selten",
+    "markant",
+    "eher festlich/feierlich wirkend"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland ist Melchior laut den vorliegenden Quellen selten und dadurch eher auffällig als verbreitet. Die Sichtbarkeit entsteht vor allem über den Bezug zu den Heiligen Drei Königen und den Namenstag."
+}

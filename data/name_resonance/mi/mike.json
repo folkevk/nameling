@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "Kurzform von Michael",
+    "englische Form bzw. englisch wirkende Kurzform",
+    "biblisch/hebräischer Ursprung über Michael",
+    "Bedeutung: „Wer ist wie Gott?“",
+    "in Deutschland bekannt und vergeben",
+    "früher häufiger bzw. populärer Jungenname",
+    "Namenstag am 29. September"
+  ],
+  "confidence": 0.8,
+  "display_text": "Mike wirkt in Deutschland überwiegend neutral bis leicht positiv: bekannt, kurz und international klingend. Die Quellen betonen vor allem die Herkunft als Kurzform von Michael, den biblisch/hebräischen Ursprung und die allgemeine Verbreitung; die Evidenz ist dabei eher lexikalisch als breit gesellschaftlich diskutiert.",
+  "evidence_quality": "gut für Herkunft, Bedeutung und allgemeine Bekanntheit; begrenzt für echte öffentliche Debattenresonanz, da die Quellen vor allem lexikalisch-informativ sind.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Mike",
+  "normalized_name": "mike",
+  "overall_resonance": "Überwiegend neutral bis leicht positiv: Mike wird in der öffentlichen Namensbeschreibung vor allem als kurzer, eingängiger und international wirkender Jungenname wahrgenommen.",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt Mike unkompliziert, vertraut und gut aussprechbar.",
+    "Die Wahrnehmung ist eher sachlich als stark emotional aufgeladen.",
+    "Als kurze Form kann der Name je nach Kontext modern, international oder klassisch gelesen werden."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz besteht überwiegend aus Namenslexika und nicht aus breiter öffentlicher Debatte; die Aussagekraft zur tatsächlichen Alltagsresonanz ist daher begrenzt.",
+    "Es gibt keinen belastbaren Hinweis auf starke soziale Stigmatisierung; entsprechende Deutungen sollten nicht hineingelesen werden."
+  ],
+  "short_summary": "Mike wird in den Quellen überwiegend neutral bis leicht positiv beschrieben: ein kurzer, bekannter und international wirkender Jungenname mit der Kurzform Michael als zentraler Assoziation.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Mike � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/M/Mi/Mike/"
+    },
+    {
+      "confidence": 0.88,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Mike: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Mike.html"
+    }
+  ],
+  "style_effect": [
+    "kurz und prägnant",
+    "international klingend",
+    "modern bzw. zeitlos wahrnehmbar",
+    "informativ-lexikalische Wirkung",
+    "eher unkomplizierte, klare Namensform"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland bekannt und vergeben; die verfügbare Evidenz beschreibt den Namen eher lexikalisch als diskursiv, daher ist die öffentliche Resonanz nur eingeschränkt breit belegbar."
+}

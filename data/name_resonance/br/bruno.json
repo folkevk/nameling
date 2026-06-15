@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "althochdeutsche Herkunft",
+    "mögliche Bedeutung: „der Bär“",
+    "mögliche Bedeutung: „der Braune“",
+    "alternative Deutung: „der Gepanzerte“",
+    "klassischer Jungenname",
+    "Namenstag",
+    "Beliebtheit in Deutschland"
+  ],
+  "confidence": 0.89,
+  "display_text": "Bruno wirkt im deutschsprachigen Raum überwiegend klassisch, traditionsnah und positiv besetzt. Die vorliegende Evidenz betont Herkunft, Bedeutung und etablierte Nutzung; Hinweise auf stärkere Kritik oder Stigmatisierung sind nicht erkennbar. Da die Quellen vor allem aus Namenslexika stammen, ist die Einordnung vorsichtig zu lesen.",
+  "evidence_quality": "gut, aber kuratiert; starke Namenslexikon-Evidenz, wenig freie öffentliche Debatte",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Bruno",
+  "normalized_name": "bruno",
+  "overall_resonance": "Bruno wird in der vorliegenden Evidenz überwiegend positiv bis neutral wahrgenommen: klassisch, etabliert und traditionsnah, mit klarer Namensbedeutung und historischer Verankerung.",
+  "practical_notes": [
+    "Für Namenssuchmaschinen wirkt Bruno vertraut, seriös und unkompliziert einordbar.",
+    "Die Wahrnehmung scheint stärker von Tradition und Bedeutung als von modischer Wirkung geprägt zu sein."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt fast ausschließlich aus redaktionellen Namenslexika und nicht aus breiter öffentlicher Diskussion.",
+    "Daher ist die öffentliche Rezeption nur vorsichtig ableitbar und eher als konservativ/positiv zu verstehen als als gemessenes Meinungsbild."
+  ],
+  "short_summary": "Bruno wird meist als klassischer, traditionsreicher und gut etablierter Vorname wahrgenommen.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "positive",
+      "source_type": "web",
+      "title": "Vorname Bruno � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/B/Br/Bruno/"
+    },
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Bruno: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Bruno.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "traditionell",
+    "bodenständig",
+    "historisch",
+    "eher maskulin-konventionell",
+    "lexikalisch gut einordenbar"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Im deutschsprachigen Raum gut bekannt und sichtbar; die Quellen deuten auf eine stabile, eher zeitlose Präsenz statt auf einen kurzlebigen Trend."
+}

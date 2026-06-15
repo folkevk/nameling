@@ -1,0 +1,70 @@
+{
+  "associations": [
+    "Kurzform von Hedwig",
+    "althochdeutsche Herkunft",
+    "mögliche arabische Herkunft bzw. Verwandtschaft",
+    "Bedeutung im Sinne von Kämpferin/Kriegerin",
+    "Namenstag",
+    "Beliebtheit in Deutschland",
+    "Unisex-Charakter"
+  ],
+  "confidence": 0.84,
+  "display_text": "Hedi wird überwiegend sachlich-neutral bis leicht positiv wahrgenommen: kurz, modern und teils unisex. Die Quellen sind aber vor allem Namenslexika, daher ist die öffentliche Resonanz nur eingeschränkt belegt.",
+  "evidence_quality": "mittel bis schwach; inhaltlich brauchbare Namensdaten, aber kaum echte öffentliche Resonanzquellen.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Hedi",
+  "normalized_name": "hedi",
+  "overall_resonance": "Überwiegend sachlich-neutrale bis leicht positive Namenswahrnehmung. Hedi wird in den vorliegenden Quellen vor allem als kurzer, moderner Vorname mit klarer Namenkunde, möglicher Kurzform-/Variantenbeziehung und teils als unisex beschrieben. Eine echte öffentliche Debatte ist aber nur schwach belegt, da die Evidenz hauptsächlich aus Namenslexika stammt.",
+  "practical_notes": [
+    "Für eine Suchmaschine lässt sich Hedi am besten als kurzer, freundlicher und eher unkompliziert wahrgenommener Vorname zusammenfassen.",
+    "Die Namenswirkung hängt stark vom Kontext ab: als Koseform wirkt er vertraut, als offizieller Vorname eher schlicht und modern.",
+    "Bei Herkunft und Geschlechtszuordnung sollten Formulierungen vorsichtig bleiben, da die Quellen nicht ganz einheitlich sind."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt überwiegend aus Namenslexika und nicht aus breiter öffentlicher Diskussion.",
+    "Einzelne Quellen mischen unterschiedliche Herkunftsangaben; das ist nicht eindeutig abgesichert.",
+    "Bewertende Aussagen wie 'warmherzig' oder 'unattraktiv' wirken eher wie Einzelmeinungen und sollten nicht verallgemeinert werden."
+  ],
+  "short_summary": "Hedi wirkt insgesamt sachlich-neutral bis leicht positiv, mit kurzer, moderner und teils unisex wahrgenommener Ausstrahlung. Die Belege stammen jedoch vor allem aus Namenslexika, nicht aus breiter öffentlicher Diskussion.",
+  "source_count": 3,
+  "sources": [
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Hedi � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/H/He/Hedi/"
+    },
+    {
+      "confidence": 0.94,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Hedi � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/H/He/Hedi/"
+    },
+    {
+      "confidence": 0.87,
+      "is_name_discussion": true,
+      "sentiment": "mixed",
+      "source_type": "web",
+      "title": "&#9655; Vorname Hedi: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Hedi.html"
+    }
+  ],
+  "style_effect": [
+    "kurz und prägnant",
+    "informativ-namenskundlich",
+    "modern wirkend",
+    "teils vertraut/kosehaft",
+    "teilweise unisex wahrgenommen",
+    "eher freundlich-neutral als kontrovers"
+  ],
+  "usable_evidence_count": 3,
+  "visibility": "Mittlere Sichtbarkeit in Namenslexika und Vornamensdatenbanken; öffentliche Resonanz im engeren Sinn nur eingeschränkt nachweisbar."
+}

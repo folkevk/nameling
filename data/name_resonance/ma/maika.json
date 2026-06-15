@@ -1,0 +1,62 @@
+{
+  "associations": [
+    "weiblicher Vorname",
+    "selten",
+    "Maria/Mirjam",
+    "niederdeutsch/friesische Koseform",
+    "hebräischer Ursprung",
+    "Namenstag",
+    "Beliebtheits-/Hitlistenbezug"
+  ],
+  "confidence": 0.88,
+  "display_text": "Maika wird in den verfügbaren Quellen überwiegend neutral und informativ beschrieben. Der Name gilt als eher selten und wird meist als weiblicher Vorname mit Bezug zu Maria/Mirjam eingeordnet. Belastbare Hinweise auf starke positive oder negative öffentliche Reaktionen finden sich in der Evidenz kaum.",
+  "evidence_quality": "gut für Herkunft, Bedeutung und grobe Beliebtheit; begrenzt für öffentliche Meinungsbilder, da kaum echte Kommentardiskussion vorliegt.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Maika",
+  "normalized_name": "maika",
+  "overall_resonance": "Die öffentliche Resonanz zu Maika wirkt insgesamt freundlich-neutral und eher informativ als emotional aufgeladen. Der Name wird vor allem als seltener, weiblicher Vorname mit etymologischem Bezug zu Maria/Mirjam beschrieben.",
+  "practical_notes": [
+    "Für Suchmaschinen wirkt Maika eher sachlich, traditionell und leicht erklärbar.",
+    "Die Schreibweise ist einfach, der Name ist aber nicht sehr verbreitet.",
+    "Die Datenlage ist solide für Herkunft und Einordnung, schwächer für echte öffentliche Meinungen oder soziale Resonanz."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt überwiegend aus Namensdatenbanken und Lexika; echte öffentliche Diskussion ist nur indirekt erkennbar.",
+    "Wahrnehmung als selten ist keine Bewertung, sondern eine Beschreibung der Verbreitung.",
+    "Aus den Quellen lassen sich keine belastbaren negativen gesellschaftlichen Zuschreibungen ableiten."
+  ],
+  "short_summary": "Maika wird öffentlich meist neutral und informativ wahrgenommen: ein seltener, weiblicher Name mit Bezug zu Maria/Mirjam und eher traditionell-etymologischer Einordnung.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Maika � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/M/Ma/Maika/"
+    },
+    {
+      "confidence": 0.86,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Maika: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Maika.html"
+    }
+  ],
+  "style_effect": [
+    "informativ",
+    "namenskundlich",
+    "neutral",
+    "selten/wenig verbreitet",
+    "kurz und klar",
+    "traditionell mit moderner Anmutung"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Eher geringe bis mittlere Sichtbarkeit in Deutschland; in den Quellen erscheint Maika als eher seltener Name und vor allem in Namenslexika bzw. Datenbankeinträgen."
+}

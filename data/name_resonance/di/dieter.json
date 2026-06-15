@@ -1,0 +1,62 @@
+{
+  "associations": [
+    "althochdeutsche Herkunft",
+    "Bedeutung im Umfeld von „Volk“",
+    "Nebenform von Diether",
+    "Kurzform von Dietrich",
+    "ehemals sehr beliebt in Deutschland",
+    "heute deutlich seltener",
+    "Namen mit historischer Verankerung"
+  ],
+  "confidence": 0.84,
+  "display_text": "Dieter wird in Deutschland vor allem als klassischer, historisch geprägter Vorname wahrgenommen. Die Quellen beschreiben ihn überwiegend sachlich: althochdeutsche Herkunft, Verbindung zu Dietrich und früher hohe Beliebtheit, heute jedoch deutlich seltener. Insgesamt wirkt die öffentliche Resonanz eher neutral bis leicht gemischt, ohne starke aktuelle Trendwirkung.",
+  "evidence_quality": "mittel bis gut: zwei klare Namensquellen, überwiegend redaktionell-sachlich, mit nur begrenzter Aussagekraft zur breiten öffentlichen Meinung",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Dieter",
+  "normalized_name": "dieter",
+  "overall_resonance": "Dieter wird öffentlich vor allem als traditioneller, klar deutschsprachiger Vorname wahrgenommen, der historisch stark präsent war und heute eher selten vergeben wird. Die verfügbaren Quellen sind überwiegend sachlich-informativ; die Resonanz wirkt daher eher neutral bis leicht gemischt, nicht stark emotional.",
+  "practical_notes": [
+    "Für eine Namenssuche ist Dieter leicht verständlich und kulturell klar verortet.",
+    "Wer einen zeitlosen, historischen Klang sucht, findet hier einen etablierten Namen.",
+    "Die heutige Wahrnehmung wirkt eher generationsbezogen als trendig."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz zur öffentlichen Resonanz ist begrenzt und stammt vor allem aus redaktionellen Namensseiten.",
+    "Einzelne UGC-Kommentare können persönliche Meinungen enthalten, sind aber nicht repräsentativ für die allgemeine Wahrnehmung.",
+    "Keine belastbaren Hinweise auf starke soziale Stigmatisierung in der vorliegenden Evidenz."
+  ],
+  "short_summary": "Dieter wirkt in Deutschland als traditioneller, historisch bekannter Vorname mit neutraler bis leicht gemischter öffentlicher Resonanz; heute eher selten, aber klar einordbar.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.95,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Dieter � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/D/Di/Dieter/"
+    },
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "mixed",
+      "source_type": "web",
+      "title": "&#9655; Vorname Dieter: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Dieter.html"
+    }
+  ],
+  "style_effect": [
+    "traditionell",
+    "klassisch-deutsch",
+    "eher altbekannt als modern",
+    "sachlich",
+    "historisch geprägt",
+    "namenskundlich etabliert"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Der Name ist in Deutschland bekannt und gut einordenbar, aber im heutigen Sprachgebrauch nicht mehr besonders auffällig oder modern. Die öffentliche Sichtbarkeit scheint vor allem aus Namenskunde, Statistik und älteren Popularitätsbezügen zu kommen."
+}

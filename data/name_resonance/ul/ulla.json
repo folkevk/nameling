@@ -1,0 +1,59 @@
+{
+  "associations": [
+    "Kurzform von Ursula oder Ulrike",
+    "teilweise als Form von Hulda eingeordnet",
+    "Bedeutungsbezüge wie „kleine Bärin“ oder „reiche/mächtige Erbin“",
+    "Namenstag wird in Namenslexika erwähnt",
+    "selten in Deutschland"
+  ],
+  "confidence": 0.9,
+  "display_text": "Ulla: überwiegend neutral bis leicht positiv, kurz und vertraut, in Deutschland eher selten, mit klassisch-namenkundlicher Wirkung.",
+  "evidence_quality": "gut bis sehr gut; zwei klare namenkundliche Quellen, überwiegend neutral, teilweise leicht positiv, mit nur eingeschränkt belastbaren Kommentaranteilen.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Ulla",
+  "normalized_name": "ulla",
+  "overall_resonance": "Der Name Ulla wird öffentlich meist nüchtern bis freundlich wahrgenommen: vor allem als kurzer, vertrauter Vorname mit klarer namenkundlicher Einordnung. Insgesamt wirkt die Resonanz eher neutral bis leicht positiv.",
+  "practical_notes": [
+    "Für Suchmaschinen eignet sich die Einordnung als kurzer, traditioneller Frauenname mit skandinavisch-deutschem Bezug.",
+    "Die Wirkung kann je nach Kontext eher sachlich, altvertraut oder leicht retro erscheinen.",
+    "Wegen der Seltenheit kann der Name auffallen, ohne ungewöhnlich zu wirken."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die verfügbare Evidenz ist vor allem namenkundlich und nicht alltags- oder personenbezogen.",
+    "Einzelne Community-Kommentare deuten auf positive Tendenzen, sind aber nur begrenzt belastbar.",
+    "Keine belastbaren Hinweise auf gesellschaftliche Stigmatisierung in der vorliegenden Evidenz."
+  ],
+  "short_summary": "Ulla wird überwiegend neutral bis leicht positiv wahrgenommen: kurz, vertraut, selten und klar als traditioneller Vorname eingeordnet.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.99,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Ulla � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/U/Ul/Ulla/"
+    },
+    {
+      "confidence": 0.91,
+      "is_name_discussion": true,
+      "sentiment": "überwiegend positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Ulla: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Ulla.html"
+    }
+  ],
+  "style_effect": [
+    "kurz und prägnant",
+    "klassisch-vertraut",
+    "nordisch bzw. traditionell anmutend",
+    "informell durch Kurzform-Charakter",
+    "eher sachlich als verspielt"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland eher selten und daher nicht sehr präsent, aber als etablierter Vorname gut bekannt."
+}

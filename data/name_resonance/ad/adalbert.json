@@ -1,0 +1,62 @@
+{
+  "associations": [
+    "althochdeutsche Herkunft",
+    "Bedeutung im Sinne von edler Abstammung",
+    "Kurzform Albert",
+    "Namenstag",
+    "selten in Deutschland",
+    "männlicher Vorname",
+    "historisch-traditionell"
+  ],
+  "confidence": 0.77,
+  "display_text": "Adalbert wird meist als seltener, traditioneller und altdeutsch geprägter Vorname wahrgenommen. Die öffentliche Resonanz ist überwiegend neutral, mit leicht positivem Unterton in namenskundlichen Beschreibungen. Wegen der begrenzten Evidenz ist das eher eine vorsichtige Einordnung als ein breiter Meinungsbefund.",
+  "evidence_quality": "mittel bis schwach: zwei namenskundliche Webquellen, überwiegend beschreibend, nur begrenzt repräsentativ für öffentliche Meinung",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Adalbert",
+  "normalized_name": "adalbert",
+  "overall_resonance": "Adalbert wird öffentlich meist als alter, traditioneller und klar deutschsprachig geprägter Vorname wahrgenommen. Die Resonanz wirkt überwiegend sachlich-neutral, mit leicht positivem Unterton durch Begriffe wie „edel“ oder „strahlend“.",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt Adalbert klassisch und traditionsbewusst.",
+    "Der Name ist gut verständlich, aber im heutigen Alltag ungewohnt.",
+    "Als Kurzform kann Albert als vertrauter empfunden werden."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz zur öffentlichen Resonanz ist begrenzt und stammt vor allem aus Namensportalen.",
+    "Leicht positive Formulierungen spiegeln eher die lexikalische Beschreibung als breite gesellschaftliche Bewertung.",
+    "Aus der Seltenheit des Namens sollte keine Aussage über soziale Wirkung einzelner Personen abgeleitet werden."
+  ],
+  "short_summary": "Adalbert gilt öffentlich als seltener, traditioneller und altdeutsch geprägter Vorname mit eher sachlich-neutraler bis leicht positiver Resonanz.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Adalbert � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/A/Ad/Adalbert/"
+    },
+    {
+      "confidence": 0.89,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Adalbert: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Adalbert.html"
+    }
+  ],
+  "style_effect": [
+    "traditionell",
+    "altdeutsch",
+    "eher feierlich",
+    "namenskundlich",
+    "selten",
+    "klassisch"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Der Name ist in Deutschland eher selten und dadurch wenig alltagspräsent. Die öffentliche Sichtbarkeit entsteht vor allem über Namenslexika und namenskundliche Einträge, nicht über breite aktuelle Nutzung."
+}

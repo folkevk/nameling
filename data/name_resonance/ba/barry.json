@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "männlicher Vorname",
+    "irische/altirische bzw. keltische Herkunft",
+    "anglisierte Form",
+    "Bedeutungen wie „der Blondhaarige“ oder „der Speerwerfer“",
+    "selten in Deutschland",
+    "Namenstag erwähnt"
+  ],
+  "confidence": 0.92,
+  "display_text": "Barry wirkt in Deutschland vor allem selten, international und namenskundlich klar verortet. Die öffentliche Rezeption ist überwiegend neutral-sachlich; starke positive oder negative Aufladungen sind in der vorliegenden Evidenz nicht erkennbar.",
+  "evidence_quality": "Gut für Herkunft, Bedeutung und Seltenheit; schwächer für tatsächliche öffentliche Resonanz im Alltag, da die Quellen vor allem Namenslexika sind.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Barry",
+  "normalized_name": "barry",
+  "overall_resonance": "Barry wird in der deutschsprachigen Namenswahrnehmung überwiegend sachlich-informativ und eher selten eingeordnet. Der Name wirkt klar männlich, anglisch/irisch geprägt und ist in Deutschland nicht besonders verbreitet.",
+  "practical_notes": [
+    "Für deutschsprachige Nutzer wirkt Barry eher international als typisch deutsch.",
+    "Die Seltenheit kann den Namen markant machen.",
+    "Die Schreibweise ist unkompliziert, die Aussprache kann je nach Kontext leicht anglisch wahrgenommen werden."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Keine belastbare soziale Stigmatisierung erkennbar.",
+    "Die Evidenz ist vor allem lexikalisch und nicht auf breite Alltagswahrnehmung gestützt.",
+    "Positive oder negative öffentliche Bewertungen sind kaum belegt; die Wirkung bleibt daher vorsichtig zu beschreiben."
+  ],
+  "short_summary": "Barry wird in Deutschland eher selten und vor allem sachlich-lexikalisch wahrgenommen: ein männlicher, anglisch/irisch geprägter Vorname ohne starke öffentliche Wertung.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Barry � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/B/Ba/Barry/"
+    },
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Barry: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Barry.html"
+    }
+  ],
+  "style_effect": [
+    "informativ",
+    "namenskundlich",
+    "international/anglisch",
+    "leicht klassisch-traditionell",
+    "seltenheitsbetont"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Eher niedrig bis mittel: Der Name ist bekannt genug, um in Namensverzeichnissen geführt zu werden, aber in Deutschland offenbar selten."
+}

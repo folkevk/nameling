@@ -1,0 +1,68 @@
+{
+  "associations": [
+    "Kurzform von Johanna",
+    "hebräische Herkunft",
+    "Bedeutung im Sinn von „JHWH/Jahwe ist gnädig“ oder „gütig“",
+    "weiblicher Vorname",
+    "Namenstag",
+    "in Deutschland als eher seltener bzw. besonderer Name beschrieben"
+  ],
+  "confidence": 0.79,
+  "display_text": "Jonna wirkt in den verfügbaren Quellen überwiegend freundlich, klar und eher besonders als häufig. Die öffentliche Resonanz ist jedoch nur schwach belegt, da vor allem Namenslexika und wenige Kommentare vorliegen.",
+  "evidence_quality": "Begrenzt: hauptsächlich lexikalische Namensseiten mit wenigen kommentierenden Elementen, kaum freie öffentliche Meinungsäußerung.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Jonna",
+  "normalized_name": "jonna",
+  "overall_resonance": "Die öffentliche Wahrnehmung von Jonna wirkt überwiegend sachlich und eher freundlich-konnotiert. In den verfügbaren Quellen steht vor allem die namenkundliche Einordnung im Vordergrund; eine breit belegte, freie öffentliche Debatte ist kaum erkennbar.",
+  "practical_notes": [
+    "Für eine Namenssuche ist Jonna gut verständlich und leicht einzuordnen.",
+    "Der Name wird in den Quellen eher freundlich und neutral beschrieben.",
+    "Wer öffentliche Wahrnehmung sucht, sollte die begrenzte Datenlage mitdenken."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt überwiegend aus Namensdatenbanken und nicht aus breiter öffentlicher Diskussion.",
+    "Positiv wirkende Formulierungen wie „schöner Name“ sind subjektiv und nicht repräsentativ.",
+    "Die Aussagekraft für tatsächliche gesellschaftliche Resonanz ist daher begrenzt."
+  ],
+  "short_summary": "Jonna wird überwiegend neutral bis freundlich wahrgenommen, vor allem mit kurzer, moderner und namenkundlich klarer Wirkung; belastbare öffentliche Resonanz ist jedoch nur schwach belegt.",
+  "source_count": 3,
+  "sources": [
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Jonna � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/J/Jo/Jonna/"
+    },
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Jonna � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/J/Jo/Jonna/"
+    },
+    {
+      "confidence": 0.9,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Jonna: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Jonna.html"
+    }
+  ],
+  "style_effect": [
+    "klingt modern und zugleich vertraut",
+    "wird meist als weiblicher Vorname eingeordnet",
+    "wirkt kurz, klar und international anschlussfähig",
+    "kann als besondere, eher seltenere Variante wahrgenommen werden",
+    "hat einen informativ-lexikalischen statt stark emotionalen Auftritt"
+  ],
+  "usable_evidence_count": 3,
+  "visibility": "Eher gering bis mittel: Der Name erscheint in Namenslexika und einzelnen kommentierten Einträgen, aber die Evidenz für eine echte öffentliche Resonanz ist schwach."
+}

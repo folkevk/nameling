@@ -1,0 +1,59 @@
+{
+  "associations": [
+    "hebräische bzw. biblische Herkunft",
+    "Bedeutung im Sinn von „Gott füge hinzu“",
+    "weibliche Form/Weiterbildung von Joseph/Josef",
+    "Namenstag",
+    "Kurzformen wie Josi, Josie, Josy, Phina, Fini"
+  ],
+  "confidence": 0.72,
+  "display_text": "Josephina wird überwiegend als klassischer, traditioneller und eher seltener Mädchenname beschrieben. Die Wirkung ist neutral bis leicht positiv; genannt werden vor allem biblische Herkunft, die Bedeutung „Gott füge hinzu“ sowie mehrere Kurzformen. Die Aussagekraft ist begrenzt, da die Evidenz hauptsächlich aus einzelnen Namenslexikon-Seiten stammt.",
+  "evidence_quality": "mittel bis schwach: zwei überwiegend informative Namensseiten, keine breite Diskurslage oder belastbare Alltagswahrnehmung",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Josephina",
+  "normalized_name": "josephina",
+  "overall_resonance": "Josephina wird in den vorliegenden Namensquellen überwiegend als klassisch, traditionell und eher selten wahrgenommen; die öffentliche Wirkung ist insgesamt neutral bis leicht positiv.",
+  "practical_notes": [
+    "Für die Namenssuche wirkt Josephina eher traditionell als modern.",
+    "Durch die vielen Kurzformen ist der Name im Alltag flexibel.",
+    "Die Schreibweise ist klar, kann aber wegen der Länge gelegentlich als formell wahrgenommen werden."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz basiert vor allem auf einzelnen Namenslexikon-Seiten, daher ist die öffentliche Rezeption nur vorsichtig ableitbar.",
+    "Es gibt keine belastbaren Hinweise auf starke negative oder stigmatisierende Konnotationen; solche wären bei diesem Namen in den Quellen nicht erkennbar."
+  ],
+  "short_summary": "Josephina wirkt in den Quellen klassisch, selten und leicht positiv konnotiert. Die Evidenz ist allerdings begrenzt und stammt vor allem aus Namenslexika.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Josephina � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/J/Jo/Josephina/"
+    },
+    {
+      "confidence": 0.86,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Josephina: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Josephina.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "traditionell",
+    "biblisch geprägt",
+    "eher selten",
+    "elegant klingend",
+    "informativ anschlussfähig"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Der Name ist im deutschsprachigen Raum bekannt, aber nicht sehr verbreitet. Die Quellen ordnen ihn als Mädchennamen mit klassischer Ausstrahlung ein."
+}

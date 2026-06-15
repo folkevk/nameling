@@ -1,0 +1,58 @@
+{
+  "associations": [
+    "niederdeutsche Kurz- und Koseform von Hendrik/Heinrich",
+    "althochdeutsche Herkunft",
+    "Bedeutungen rund um \"Herr im Haus\" / Haus und Herrschaft",
+    "selten bis eher ungewöhnlich in Deutschland",
+    "auf Namensseiten meist mit freundlicher oder interessierter Kommentierung"
+  ],
+  "confidence": 0.84,
+  "display_text": "Henner wirkt öffentlich überwiegend neutral bis leicht positiv: ein seltener, traditionell-norddeutscher Vorname mit klarer Herkunft und markantem Klang. Die Datenlage ist jedoch vor allem auf Namenslexika und wenige Kommentare gestützt, daher ist die Breitenwirkung nur vorsichtig zu bewerten.",
+  "evidence_quality": "mittel bis eher schwach für öffentliche Breitenwirkung; gut für Herkunft und Namensdeutung, begrenzt für allgemeine Resonanz",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Henner",
+  "normalized_name": "henner",
+  "overall_resonance": "öffentlich überwiegend neutral bis leicht positiv wahrgenommen",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt Henner klar, traditionell und eigenständig.",
+    "Durch die Seltenheit hat der Name mehr Wiedererkennungswert als sehr häufige Vornamen.",
+    "Die öffentliche Resonanz ist eher sachlich-posiv als trendig oder modisch."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt fast ausschließlich aus Namenslexika und einzelnen Community-Kommentaren; das ist nur begrenzt repräsentativ für öffentliche Meinungen.",
+    "Die Wahrnehmung als 'selten' kann je nach Region und Generation unterschiedlich ausfallen."
+  ],
+  "short_summary": "Henner wird online meist sachlich und leicht positiv beschrieben: ein seltener, traditionell-norddeutscher Männername mit klarer Herkunft und bodenständiger Wirkung.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.92,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "Vorname Henner � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/H/He/Henner/"
+    },
+    {
+      "confidence": 0.9,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Henner: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Henner.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch-norddeutsch",
+    "kurz und markant",
+    "traditionell-männlich",
+    "leicht bodenständig",
+    "selten und dadurch auffällig"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "eher gering bis mittel; der Name wirkt bekannt, aber nicht stark verbreitet"
+}

@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "männlicher Vorname",
+    "altenglische bzw. englische Herkunft",
+    "Bedeutung oft als „Sohn von Neil“ erklärt",
+    "internationaler Klang",
+    "selten bis moderat gebräuchlich",
+    "im portugiesischen Sprachraum ebenfalls bekannt"
+  ],
+  "confidence": 0.74,
+  "display_text": "Nelson: in Deutschland eher selten, international und sachlich-positiv wahrgenommen. Die öffentliche Resonanz ist überwiegend neutral und vor allem aus Namenslexika bekannt; eine breite Debatte ist kaum sichtbar.",
+  "evidence_quality": "mittel bis schwach; überwiegend lexikalische Quellen, kaum freie öffentliche Debatte",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Nelson",
+  "normalized_name": "nelson",
+  "overall_resonance": "Nelson wirkt in Deutschland eher sachlich-positiv bis neutral: Der Name wird vor allem als international klingender, englisch/altenglisch geprägter Jungenname wahrgenommen, mit wenig emotionaler, eher beschreibender Öffentlichkeit. Die verfügbare Evidenz ist jedoch begrenzt und stammt überwiegend aus Namenslexika statt aus breiter öffentlicher Debatte.",
+  "practical_notes": [
+    "Für Suchmaschinen- und Namenskontexte wirkt Nelson klar verständlich und gut einordenbar.",
+    "Der Name ist unkompliziert aussprechbar und international anschlussfähig.",
+    "Die Wahrnehmung ist eher unaufgeregt als modisch oder stark trendgebunden."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenzlage für eine allgemeine öffentliche Resonanz in Deutschland ist schwach bis moderat.",
+    "Die Quellen sind überwiegend Namensdatenbanken; daraus lässt sich keine breite gesellschaftliche Stimmung sicher ableiten.",
+    "Einzelne positive Töne sollten nicht als allgemeines Meinungsbild überinterpretiert werden."
+  ],
+  "short_summary": "Nelson wird in Deutschland meist neutral bis leicht positiv und als international-englischer Jungenname wahrgenommen. Die öffentliche Resonanz ist eher beschreibend als meinungsstark, und die Evidenz dafür ist begrenzt.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Nelson � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/N/Ne/Nelson/"
+    },
+    {
+      "confidence": 0.91,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Nelson: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Nelson.html"
+    }
+  ],
+  "style_effect": [
+    "international",
+    "klassisch-englisch",
+    "modern-sachlich",
+    "eher selten",
+    "neutral bis leicht positiv wahrgenommen"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In DE eher selten bis moderat geläufig und dadurch auffällig, aber nicht massenhaft verbreitet. Die öffentliche Sichtbarkeit ist vor allem namenskundlich geprägt."
+}

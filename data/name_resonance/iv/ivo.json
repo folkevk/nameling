@@ -1,0 +1,65 @@
+{
+  "associations": [
+    "altgermanisch",
+    "keltisch",
+    "slawische Koseform",
+    "Eibe",
+    "Bogenschütze",
+    "Namenstag",
+    "historisch",
+    "international verbreitet",
+    "selten, aber bekannt"
+  ],
+  "confidence": 0.78,
+  "display_text": "Ivo wird in Deutschland eher freundlich, sachlich und unaufgeregt wahrgenommen. Der Name gilt als kurz, international verständlich und namenkundlich interessant; zugleich ist er eher selten als sehr verbreitet. Die vorliegenden Quellen sind überwiegend informative Namensportale, daher ist die öffentliche Resonanz nur vorsichtig zu bewerten.",
+  "evidence_quality": "mittel bis schwach: zwei überwiegend informative Namensportale, leicht positive Tendenz, aber kaum breite öffentliche Diskussion erkennbar.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Ivo",
+  "normalized_name": "ivo",
+  "overall_resonance": "Der Vorname Ivo wird im deutschsprachigen Raum insgesamt eher freundlich, sachlich und unaufgeregt wahrgenommen. In den vorliegenden Quellen wirkt er leicht positiv bis positiv: kurz, international verständlich und namenkundlich interessant. Die Evidenz ist jedoch eher schmal und stammt vor allem aus informativen Namensportalen, nicht aus breiter öffentlicher Diskussion.",
+  "practical_notes": [
+    "Für eine Namenssuche ist Ivo ein kurzer, klarer und gut merkbarer Vorname.",
+    "Die Wahrnehmung wirkt eher traditionell als modisch.",
+    "Im deutschen Raum ist der Name verständlich, aber nicht übermäßig häufig.",
+    "Die Quellenlage spricht eher für sachliche Bekanntheit als für starke öffentliche Emotionen."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz für öffentliche Resonanz ist begrenzt und überwiegend informativ statt diskursiv.",
+    "Die positive Tönung stammt vor allem aus Portaltexten und einzelnen Kommentaren, nicht aus breiter gesellschaftlicher Rückmeldung.",
+    "Keine Hinweise auf nennenswerte Stigmatisierung in den vorliegenden Quellen."
+  ],
+  "short_summary": "Ivo wirkt im deutschen Raum kurz, klassisch und eher positiv wahrgenommen, bei insgesamt schmaler Evidenzbasis.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.88,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "Vorname Ivo � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/I/Iv/Ivo/"
+    },
+    {
+      "confidence": 0.88,
+      "is_name_discussion": true,
+      "sentiment": "eher positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Ivo: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Ivo.html"
+    }
+  ],
+  "style_effect": [
+    "kurz und prägnant",
+    "international anschlussfähig",
+    "klassisch bis zeitlos",
+    "leicht markant durch die Kürze",
+    "namenskundlich interessant",
+    "eher zurückhaltend als trendig"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Eher bekannt als selten; im deutschen Kontext präsent, aber nicht massenhaft verbreitet. Die Sichtbarkeit entsteht vor allem über Namenslexika und einzelne Portalstimmen, nicht über starke öffentliche Debatten."
+}

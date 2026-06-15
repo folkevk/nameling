@@ -1,0 +1,62 @@
+{
+  "associations": [
+    "arabische Herkunft",
+    "Bedeutung: der Lobenswerte / der Gepriesene",
+    "islamischer Kontext",
+    "Prophet Mohammed",
+    "internationale Verbreitung",
+    "Namensvarianten wie Mohamed, Mohammad, Muhammed, Mehmet",
+    "Spitznamen wie Mo oder Momo"
+  ],
+  "confidence": 0.84,
+  "display_text": "Mohammed wirkt in Deutschland vor allem als traditioneller, international bekannter Jungenname mit arabischer Herkunft und starker religiöser Konnotation. Die vorliegende Evidenz ist überwiegend sachlich-informativ; eine breite öffentliche Bewertung lässt sich daraus nur eingeschränkt ableiten.",
+  "evidence_quality": "mittel bis hoch für Bedeutung, Herkunft und Einordnung; eher schwach für echte öffentliche Resonanz im Sinne breiter Meinungsbilder.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Mohammed",
+  "normalized_name": "mohammed",
+  "overall_resonance": "Mohammed wird im deutschsprachigen Raum vor allem als traditioneller, international verbreiteter Jungenname wahrgenommen. Die öffentliche Rezeption wirkt überwiegend sachlich-informativ und neutral bis respektvoll, mit starkem Bezug zu Herkunft, Bedeutung und religiösem Kontext. Eine breite, einheitliche Meinungsbildung ist aus der vorliegenden Evidenz nur eingeschränkt ableitbar.",
+  "practical_notes": [
+    "Für eine Namenssuche ist Mohammed ein sehr etablierter, klar einordenbarer Name.",
+    "Je nach Schreibweise können Varianten in Deutschland unterschiedlich häufig vorkommen.",
+    "Die Wahrnehmung hängt stärker vom kulturellen Kontext als von einer allgemeinen Trendmode ab."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz zur öffentlichen Resonanz ist begrenzt und stammt vor allem aus Namenslexika.",
+    "Religiöse Bezüge sind stark präsent; diese sollten als kulturelle und historische Kontexte verstanden werden, nicht als Bewertung von Namensträgern.",
+    "Keine belastbare Aussage über Vor- oder Nachteile im Alltag aus den Quellen ableitbar."
+  ],
+  "short_summary": "Mohammed ist in Deutschland als internationaler, arabisch geprägter Jungenname bekannt und wird meist neutral bis respektvoll eingeordnet. Die Quellen zeigen vor allem Namenskunde und Bedeutung, aber nur begrenzt breite öffentliche Resonanz.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Mohammed � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/M/Mo/Mohammed/"
+    },
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Mohammed: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Mohammed.html"
+    }
+  ],
+  "style_effect": [
+    "traditionell",
+    "international",
+    "namenskundlich",
+    "sachlich",
+    "respektvoll",
+    "klar religiös konnotiert"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland ist der Name gut bekannt und sichtbar, unter anderem durch seine internationale Verbreitung und die namenskundliche Einordnung. Die verfügbare Evidenz deutet eher auf lexikalische Präsenz als auf eine klar messbare öffentliche Debatte hin."
+}

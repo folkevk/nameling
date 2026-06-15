@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "slawischer Ursprung",
+    "Bedeutungen wie lieblich/lieb/teuer bzw. der Angenehme",
+    "modern wirkender Jungenname",
+    "in Deutschland beliebt",
+    "einfach auszusprechen",
+    "ohne Buchstabieren",
+    "Namenstag",
+    "tschechische bzw. altslawische Bezüge"
+  ],
+  "confidence": 0.89,
+  "display_text": "Milan gilt in Deutschland als moderner, beliebter und positiv wahrgenommener Jungenname. Die Quellen betonen vor allem den slawischen Ursprung, die Bedeutungsebenen rund um „lieb/angenehm“ sowie den einfachen, klaren Klang. Die Evidenz stammt jedoch hauptsächlich aus Namenslexika, nicht aus breiter öffentlicher Diskussion.",
+  "evidence_quality": "mittel bis gut: zwei klare Namensquellen mit überwiegend positiver Tonalität, aber begrenzter Beleg für echte öffentliche Resonanz außerhalb lexikalischer Darstellungen.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Milan",
+  "normalized_name": "milan",
+  "overall_resonance": "Überwiegend positiv und modern wahrgenommen; in den Quellen wird Milan als beliebter, angenehm klingender Jungenname mit slawischem Ursprung beschrieben.",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt Milan aktuell, unkompliziert und positiv besetzt.",
+    "Die Wahrnehmung hängt stark vom Kontext ab, aber es gibt keine Hinweise auf eine nennenswerte negative Stigmatisierung.",
+    "Für Suchmaschinen- und Ratgebertexte eignet sich eine kurze Beschreibung mit Herkunft, Klang und Beliebtheit."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die vorliegende Evidenz stammt vor allem aus Namenslexika und nicht aus unabhängigen öffentlichen Diskussionen.",
+    "Einzelne Beschreibungen und Beliebtheitsaussagen sind redaktionell oder kommentierend geprägt; sie sollten nicht als allgemeine Tatsachen über alle Wahrnehmungen verstanden werden."
+  ],
+  "short_summary": "Milan wird in den Quellen als moderner, beliebter und angenehm klingender Vorname mit slawischem Ursprung beschrieben.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "positive",
+      "source_type": "web",
+      "title": "Vorname Milan � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/M/Mi/Milan/"
+    },
+    {
+      "confidence": 0.95,
+      "is_name_discussion": true,
+      "sentiment": "positive",
+      "source_type": "web",
+      "title": "&#9655; Vorname Milan: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Milan.html"
+    }
+  ],
+  "style_effect": [
+    "modern",
+    "kurz und klar",
+    "international anschlussfähig",
+    "angenehm klingend",
+    "namenskundlich etabliert"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland offenbar gut sichtbar und bekannt, vor allem in Namenslexika und Beliebtheitskontexten; die Evidenz spricht eher für breite Bekanntheit als für echte spontane Alltagsdiskussion."
+}

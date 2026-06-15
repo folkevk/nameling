@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "weiblicher Vorname",
+    "englisch/anglo-amerikanische Form bzw. Koseform",
+    "hebräische Namensbedeutung im Sinne von „Gott ist gnädig/gütig“",
+    "selten bis mäßig verbreitet in Deutschland",
+    "Namenstag",
+    "popkulturelle Nebenassoziation"
+  ],
+  "confidence": 0.77,
+  "display_text": "Janet: in Deutschland eher selten, international klingend und überwiegend neutral bis leicht positiv wahrgenommen. Die Quellen betonen vor allem Herkunft, Bedeutung und Namenstag; belastbare Hinweise auf breite öffentliche Resonanz sind nur schwach vorhanden.",
+  "evidence_quality": "mittel bis schwach; hauptsächlich lexikalische Quellen, kaum breite öffentliche Diskussionslage",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Janet",
+  "normalized_name": "janet",
+  "overall_resonance": "Janet wirkt in Deutschland eher als seltener, international klingender Vorname mit überwiegend neutral bis leicht positiver Wahrnehmung. Die öffentliche Rezeption, soweit in den vorliegenden Quellen sichtbar, ist vor allem informativ: Herkunft, Bedeutung und Namenstag stehen im Vordergrund.",
+  "practical_notes": [
+    "Für Suchende wirkt Janet klar verständlich und international einordbar.",
+    "Der Name erscheint eher unaufdringlich und nicht stark trendgebunden.",
+    "Wegen der Seltenheit kann die Wahrnehmung regional unterschiedlich ausfallen."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenzlage ist begrenzt und stark von einzelnen Namensdatenbanken geprägt.",
+    "Öffentliche Alltagsresonanz in Deutschland ist nur indirekt belegt.",
+    "Einzelne popkulturelle Bezüge sind eher Nebenassoziationen als gesicherte Grundwahrnehmung."
+  ],
+  "short_summary": "Janet wird in Deutschland vor allem als seltener, internationaler Mädchenname mit neutral bis leicht positiver Resonanz beschrieben. Die verfügbare Evidenz ist jedoch begrenzt und eher lexikalisch als gesellschaftlich breit belegt.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.91,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Janet � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/J/Ja/Janet/"
+    },
+    {
+      "confidence": 0.86,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Janet: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Janet.html"
+    }
+  ],
+  "style_effect": [
+    "international",
+    "klassisch-lexikalisch",
+    "eher selten",
+    "weiblich-markiert",
+    "leicht zeitlos",
+    "informativ statt trendgetrieben"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Eher gering bis mäßig sichtbar; die Evidenz stammt vor allem aus Namenslexika und nicht aus breiter öffentlicher Debatte. Für die Alltagsresonanz in Deutschland ist die Datengrundlage schwach."
+}

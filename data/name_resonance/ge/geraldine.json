@@ -1,0 +1,59 @@
+{
+  "associations": [
+    "althochdeutsche Herkunft über den englischen Sprachraum",
+    "Bedeutung: „Herrscherin mit dem Speer“ / „Speerbeherrscherin“",
+    "Namenstag: 26. April",
+    "selten in Deutschland",
+    "Spitznamen wie Geri, Gerry oder Dina"
+  ],
+  "confidence": 0.86,
+  "display_text": "Geraldine ist in Deutschland eher selten und wird meist neutral bis leicht positiv wahrgenommen. Der Name wirkt klangvoll, klassisch-elegant und etwas international; gelegentlich kann die Aussprache erklärt werden.",
+  "evidence_quality": "mittel bis gut: zwei klare Namensquellen mit übereinstimmenden Angaben zu Herkunft, Bedeutung und Seltenheit; die Resonanzaussagen sind jedoch überwiegend lexikalisch und nur begrenzt gesellschaftsbreit.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Geraldine",
+  "normalized_name": "geraldine",
+  "overall_resonance": "Überwiegend neutral bis leicht positiv: Geraldine wirkt im deutschen Sprachraum eher selten, klanglich aber für viele als elegant und eigenständig. Die öffentliche Rezeption ist vor allem namenkundlich geprägt, nicht stark emotional.",
+  "practical_notes": [
+    "Für Suchende, die einen seltenen, klangvollen Namen möchten, kann Geraldine passend sein.",
+    "Wer Wert auf einfache Aussprache legt, sollte beachten, dass der Name gelegentlich erklärt werden muss.",
+    "Die Kurzformen können die Alltagstauglichkeit erhöhen."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz besteht im Wesentlichen aus zwei Namenslexikon-Quellen, also eher beschreibender als breiter gesellschaftlicher Resonanz.",
+    "Hinweise auf Ausspracheprobleme sind vorhanden, aber nicht dominant.",
+    "Keine belastbaren Hinweise auf soziale Stigmatisierung erkennbar."
+  ],
+  "short_summary": "Geraldine wird in Deutschland eher selten verwendet und meist neutral bis leicht positiv wahrgenommen. Der Name gilt als klangvoll, klassisch-elegant und etwas erklärungsbedürftig in der Aussprache.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Geraldine � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/G/Ge/Geraldine/"
+    },
+    {
+      "confidence": 0.94,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Geraldine: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Geraldine.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch-elegant",
+    "international wirkend",
+    "selten und auffällig",
+    "weiblich und weich im Klang",
+    "leicht erklärungsbedürftige Aussprache"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Eher geringe Sichtbarkeit in Deutschland; der Name ist bekannt, aber nicht häufig. Dadurch fällt er eher auf, ohne breit verbreitet zu sein."
+}

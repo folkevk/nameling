@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "althochdeutsche Herkunft",
+    "Bedeutung: „die Edle, die Vornehme, die Starke“",
+    "selten bzw. als veraltet wahrgenommen",
+    "klassischer deutscher Mädchenname",
+    "Namenstage werden genannt",
+    "Kosenamen wie Traudl, Traudi, Traudel"
+  ],
+  "confidence": 0.9,
+  "display_text": "Edeltraud: überwiegend neutral-informative Resonanz, mit traditionell-altmodischer Wirkung. Der Name wird als seltener, althochdeutscher Vorname mit der Bedeutung „die Edle, die Starke“ beschrieben; eine starke soziale Stigmatisierung ist in der vorliegenden Evidenz nicht erkennbar.",
+  "evidence_quality": "mittel: inhaltlich klar, aber auf wenige namenskundliche Quellen beschränkt",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Edeltraud",
+  "normalized_name": "edeltraud",
+  "overall_resonance": "überwiegend neutral-informativ mit leicht traditionell-altmodischer Färbung",
+  "practical_notes": [
+    "Für Suchmaschinen-Nutzer wirkt der Name vor allem erklärungsbedürftig und traditionsbezogen.",
+    "Die Resonanz ist eher sachlich als emotional aufgeladen.",
+    "Wer einen klassischen, sehr ungewöhnlichen deutschen Vornamen sucht, könnte ihn als passend empfinden."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt fast nur aus Namenslexika; die öffentliche Wahrnehmung ist daher nur begrenzt abgesichert.",
+    "Die Einordnung als selten oder veraltet ist eine verbreitete Namenswahrnehmung, keine Aussage über konkrete Personen.",
+    "Keine Hinweise auf starke negative Stigmatisierung in der vorliegenden Evidenz."
+  ],
+  "short_summary": "Edeltraud wird öffentlich vor allem als seltener, altdeutsch geprägter und traditioneller Vorname wahrgenommen. Die Resonanz ist überwiegend neutral und informativ.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Edeltraud � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/E/Ed/Edeltraud/"
+    },
+    {
+      "confidence": 0.94,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Edeltraud: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Edeltraud.html"
+    }
+  ],
+  "style_effect": [
+    "altdeutsch",
+    "traditionell",
+    "zweigliedrig",
+    "lexikalisch klar",
+    "eher formell als modern"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "eher gering bis mittel; der Name wirkt in Deutschland sichtbar, aber selten und nicht im modernen Mainstream"
+}

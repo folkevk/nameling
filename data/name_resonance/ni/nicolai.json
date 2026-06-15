@@ -1,0 +1,59 @@
+{
+  "associations": [
+    "altgriechische Herkunft",
+    "russische Form von Nikolaus",
+    "Bedeutung: Sieg des Volkes",
+    "Namenstag am 6. Dezember",
+    "teils auch 25. September genannt",
+    "selten bis moderat verbreitet",
+    "Spitznamen wie Nico oder Nick"
+  ],
+  "confidence": 0.9,
+  "display_text": "Nicolai wirkt in Deutschland eher selten bis moderat verbreitet und wird überwiegend sachlich bis positiv wahrgenommen. Der Name gilt als klassisch, wohlklingend und klar namenskundlich einordenbar; die positive Resonanz stützt sich teils auf kommentarbasiertes Feedback und ist daher nur begrenzt repräsentativ.",
+  "evidence_quality": "gut: zwei namebezogene, überwiegend informative Quellen; die positive Resonanz ist vorhanden, aber die Community-Anteile sind nur eingeschränkt repräsentativ.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Nicolai",
+  "normalized_name": "nicolai",
+  "overall_resonance": "Nicolai wird in den vorliegenden Quellen überwiegend sachlich bis positiv beschrieben. Der Name wirkt klassisch, international anschlussfähig und wird als eher seltene, aber vertraute Schreibweise von Nikolaus/Niko-lai wahrgenommen.",
+  "practical_notes": [
+    "Für die öffentliche Wahrnehmung ist vor allem die klassische Herkunft und die bekannte Bedeutungsdeutung prägend.",
+    "Die Schreibweise Nicolai kann als etwas ungewöhnlicher wahrgenommen werden als Nikolaus oder Nikolai, bleibt aber gut verständlich."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die positive Wirkung stammt teilweise aus kommentarbasierten Einschätzungen und ist daher nur begrenzt belastbar.",
+    "Es gibt keine Hinweise auf eine relevante gesellschaftliche Stigmatisierung des Namens in den vorliegenden Quellen."
+  ],
+  "short_summary": "Nicolai wird meist sachlich bis positiv wahrgenommen: klassisch, wohlklingend und mit klarer Herkunfts- und Bedeutungszuordnung. Die öffentliche Sichtbarkeit ist eher moderat, die positive Bewertung beruht teils auf Einzelmeinungen.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Nicolai � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/N/Ni/Nicolai/"
+    },
+    {
+      "confidence": 0.92,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Nicolai: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Nicolai.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "wohlklingend",
+    "namenskundlich vertraut",
+    "eher seltene Schreibweise",
+    "international anschlussfähig"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland erscheint Nicolai eher selten bis moderat verbreitet. Die öffentliche Sichtbarkeit ist vorhanden, aber nicht stark dominant."
+}

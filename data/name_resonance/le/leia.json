@@ -1,0 +1,63 @@
+{
+  "associations": [
+    "weiblicher Vorname",
+    "althebräische/spanische bzw. portugiesische Herkunftsbezüge",
+    "Bedeutungsbezüge wie 'die sich stets Mühende' oder 'die Gerechte'",
+    "Namenstag-Angaben in Namenslexika",
+    "Seltenheit und Besonderheit",
+    "Star-Wars-Assoziation",
+    "teilweise Hinweise auf mögliche Fehl-Aussprache oder falsche Schreibweise"
+  ],
+  "confidence": 0.9,
+  "display_text": "Leia wirkt in Deutschland überwiegend modern, freundlich und besonders. Der Name ist eher selten, klar weiblich konnotiert und wird in Namensquellen meist positiv beschrieben. Auffällig ist die starke Star-Wars-Assoziation; vereinzelt gibt es Hinweise auf mögliche Aussprache- oder Schreibunsicherheiten. Insgesamt eine eher positive, gut merkbare Namenswahl.",
+  "evidence_quality": "gut; zwei einschlägige Namensquellen, überwiegend klare Namensdiskussion, teils aber Elemente aus Community-Kommentaren und damit nicht überall gleich belastbar",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Leia",
+  "normalized_name": "leia",
+  "overall_resonance": "Leia wirkt im deutschen Sprachraum überwiegend modern, freundlich und leicht märchenhaft-popkulturell. Der Name wird vor allem als weiblicher Vorname mit klarer, positiver Namenswirkung wahrgenommen; zugleich ist er eher selten und dadurch auffällig.",
+  "practical_notes": [
+    "Für die öffentliche Wahrnehmung ist Leia gut anschlussfähig, weil der Name kurz, einprägsam und bekannt ist.",
+    "Wer einen seltenen, modernen und dennoch vertraut klingenden Namen sucht, findet hier eine passende Option.",
+    "Durch die Popkultur-Verbindung kann der Name sofort wiedererkannt werden.",
+    "Im deutschsprachigen Alltag sollte man mit gelegentlichen Nachfragen zur Schreibweise rechnen."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Ein Teil der positiven Resonanz stammt aus Namenslexika und Nutzerkommentaren; die Evidenz ist daher nicht durchgehend gleich stark.",
+    "Die Star-Wars-Assoziation prägt die Wahrnehmung spürbar, ist aber nicht die einzige Basis der Bewertung.",
+    "Vereinzelt wird auf mögliche Aussprache- oder Schreibunsicherheiten hingewiesen."
+  ],
+  "short_summary": "Leia wird in Deutschland überwiegend positiv, modern und selten wahrgenommen, mit starker Popkultur-Assoziation und nur vereinzelten Hinweisen auf Aussprache- oder Schreibunsicherheit.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "Vorname Leia � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/L/Le/Leia/"
+    },
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Leia: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Leia.html"
+    }
+  ],
+  "style_effect": [
+    "kurz und prägnant",
+    "modern und leicht exotisch",
+    "sanft, feminin wirkend",
+    "selten und dadurch markant",
+    "popkulturell aufgeladen durch Star Wars",
+    "in Namenskontexten eher positiv bewertet"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Die Sichtbarkeit ist eher moderat: Leia ist bekannt, aber kein alltäglicher Standardname. In Namensportalen wird er regelmäßig diskutiert, vor allem wegen Herkunft, Bedeutung, Namenstag und der bekannten Popkultur-Assoziation."
+}

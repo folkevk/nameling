@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "Kurzform von Guido",
+    "althochdeutsche bzw. aldeutsche Herleitung",
+    "Bedeutungsfelder wie „aus dem Wald stammend“",
+    "teilweise auch „heiter“, „sorglos“ oder „Kamerad“ in Namensquellen",
+    "englisch-französische bzw. normannische Verwendung",
+    "selten in Deutschland"
+  ],
+  "confidence": 0.72,
+  "display_text": "Guy: in Deutschland eher selten, sachlich bis leicht positiv wahrgenommen. Der Name wirkt kurz, international und ungewöhnlich, die öffentliche Evidenz dazu ist jedoch begrenzt und vor allem namenskundlich geprägt.",
+  "evidence_quality": "mittel bis schwach: zwei einschlägige Namensseiten, überwiegend beschreibend; wenig direkte öffentliche Diskussionsdaten",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Guy",
+  "normalized_name": "guy",
+  "overall_resonance": "Eher seltene, nüchterne bis leicht positive Resonanz. Der Name wird in den Quellen vor allem als kurz, international und namenskundlich interessant beschrieben; zugleich ist er in Deutschland eher ungewöhnlich und die öffentliche Evidenz zur tatsächlichen Wahrnehmung ist begrenzt.",
+  "practical_notes": [
+    "Für Suchmaschinen wirkt der Name kompakt und markant.",
+    "Im deutschen Kontext kann er fremdsprachig oder ungewohnt erscheinen.",
+    "Die Aussprache und Schreibweise sind einfach, die Bekanntheit aber eher niedrig.",
+    "Wer einen seltenen, international lesbaren Namen sucht, findet hier ein eher unaufdringliches Profil."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist eher schwach für eine echte öffentliche Resonanz, da vor allem Lexikon- und Beschreibungsquellen vorliegen.",
+    "Einzelne positive Zuschreibungen können aus Nutzerkommentaren stammen und sollten nicht als allgemeine Meinung verstanden werden.",
+    "Keine Hinweise auf soziale Stigmatisierung in den Quellen; der Name wirkt eher ungewöhnlich als belastet."
+  ],
+  "short_summary": "Guy wird in Deutschland eher selten und sachlich wahrgenommen, mit leicht positiven Assoziationen wie kurz, international und prägnant. Die Evidenz ist allerdings begrenzt und stammt vor allem aus Namenslexika.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Guy � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/G/Gu/Guy/"
+    },
+    {
+      "confidence": 0.92,
+      "is_name_discussion": true,
+      "sentiment": "mostly positive",
+      "source_type": "web",
+      "title": "&#9655; Vorname Guy: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Guy.html"
+    }
+  ],
+  "style_effect": [
+    "kurz und prägnant",
+    "international klingend",
+    "ungewöhnlich/selten",
+    "sachlich-namenskundlich",
+    "historisch bzw. herkunftsbezogen"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland geringe Sichtbarkeit, da der Vorname als selten beschrieben wird. Die verfügbare Evidenz stammt überwiegend aus Namenslexika und eher quellennahe Beschreibungen, nicht aus breiter öffentlicher Diskussion."
+}

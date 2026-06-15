@@ -1,0 +1,63 @@
+{
+  "associations": [
+    "nordische Mythologie",
+    "Donner",
+    "Donnergott",
+    "Stärke",
+    "altnordische Herkunft",
+    "männlicher Vorname",
+    "selten",
+    "ungewöhnlich",
+    "gut klingend"
+  ],
+  "confidence": 0.9,
+  "display_text": "Thor wirkt in Deutschland eher selten, aber klar bekannt und auffällig. Die öffentliche Rezeption ist überwiegend sachlich bis positiv: Der Name wird mit nordischer Mythologie, Donner und Stärke verbunden und als kurz, markant und gut klingend beschrieben. Die Datenlage ist jedoch begrenzt und stützt sich vor allem auf einzelne Namenslexika.",
+  "evidence_quality": "Gut für Namensbedeutung und Grundassoziationen, aber nur mäßig belastbar für eine breite gesellschaftliche Resonanz, da die Evidenz auf wenige Webquellen beschränkt ist.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Thor",
+  "normalized_name": "thor",
+  "overall_resonance": "Der Vorname Thor wird in den vorliegenden Quellen überwiegend sachlich bis positiv wahrgenommen. Er wirkt kurz, markant und stark mythologisch geprägt; die Resonanz beruht vor allem auf der Verbindung zu nordischer Mythologie, Donner und Stärke.",
+  "practical_notes": [
+    "Für eine öffentliche Wahrnehmung wirkt Thor eher auffällig und charakterstark als neutral.",
+    "Durch die Kürze ist der Name leicht merkbar, kann aber wegen seiner Seltenheit hervortreten.",
+    "Die Bekanntheit scheint höher als die tatsächliche Verbreitung zu sein."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist begrenzt und stützt sich auf wenige Namenslexika, keine breite öffentliche Debatte.",
+    "Der Mythologiebezug kann stärker auf die Figur als auf den Vornamen selbst einzahlen.",
+    "Positive Einschätzungen wie „schön“ oder „gut klingend“ stammen nur aus einzelnen Quellen und sollten nicht verallgemeinert werden."
+  ],
+  "short_summary": "Thor wird in den Quellen als seltener, markanter und mythologisch geprägter Jungenname mit überwiegend positiver bis neutraler Resonanz beschrieben.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Thor � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/T/Th/Thor/"
+    },
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Thor: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Thor.html"
+    }
+  ],
+  "style_effect": [
+    "kurz und prägnant",
+    "markant und kraftvoll",
+    "mythologisch aufgeladen",
+    "klassisch-nordisch",
+    "ungewöhnlich und einprägsam"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Eher selten bis mäßig vergeben, dadurch auffällig und nicht alltäglich. In Deutschland scheint der Name bekannt, aber nicht breit verbreitet zu sein."
+}

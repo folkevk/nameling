@@ -1,0 +1,72 @@
+{
+  "associations": [
+    "althebräische Herkunft",
+    "biblischer Bezug",
+    "deutsche weibliche Form von Gabriel",
+    "italienische männliche Form von Gabriel",
+    "Unisex-Verwendung",
+    "Bedeutung: Gott ist meine Stärke",
+    "Namenstag",
+    "historisch beliebt",
+    "heute eher selten"
+  ],
+  "confidence": 0.87,
+  "display_text": "Gabriele wirkt klassisch und biblisch geprägt, mit sachlich positiver Resonanz. Der Name wird als traditionsnah und heute eher selten beschrieben; die Evidenz zur öffentlichen Alltagswahrnehmung ist jedoch begrenzt.",
+  "evidence_quality": "mittel bis gut für Bedeutung, Herkunft und Namenseinordnung; schwächer für echte öffentliche Alltagsresonanz",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Gabriele",
+  "normalized_name": "gabriele",
+  "overall_resonance": "Gabriele wirkt in der vorliegenden Evidenz vor allem klassisch, traditionsnah und sachlich positiv konnotiert. Der Name wird als biblisch bzw. althebräisch eingeordnet und mit Bedeutungen wie „Gott ist meine Stärke“ oder „Mann/Frau Gottes“ verbunden. In Deutschland erscheint er heute eher selten, zugleich aber als bekannt und historisch etabliert.",
+  "practical_notes": [
+    "Für eine Namenssuchmaschine eignet sich die Kurzbeschreibung „klassisch, biblisch, heute eher selten“.",
+    "Die Schreib- und Zuordnungsform kann je nach Region und Kontext unterschiedlich wahrgenommen werden.",
+    "Wenn die öffentliche Resonanz genauer erfasst werden soll, wären zusätzliche Quellen aus Foren, Social Media oder Umfragen sinnvoll."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt überwiegend aus Namensdatenbanken und nicht aus breiter öffentlicher Alltagsdiskussion.",
+    "Es gibt Hinweise auf gemischte Geschlechtszuordnung im Gebrauch; das sollte als Namensgebrauch, nicht als Bewertung verstanden werden.",
+    "Die Einschätzung ist daher eher namenkundlich als sozial-resonanzbezogen."
+  ],
+  "short_summary": "Gabriele wird überwiegend als klassischer, biblisch geprägter Name mit positiver, sachlicher Wirkung beschrieben. Die verfügbaren Quellen betonen Herkunft, Bedeutung und die heute eher seltene Verwendung in Deutschland.",
+  "source_count": 3,
+  "sources": [
+    {
+      "confidence": 0.95,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Gabriele � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/G/Ga/Gabriele/"
+    },
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "Vorname Gabriele � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/G/Ga/Gabriele/"
+    },
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Gabriele: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Gabriele.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "traditionsnah",
+    "biblisch geprägt",
+    "informativ",
+    "eher selten im heutigen Gebrauch",
+    "neutral bis leicht positiv"
+  ],
+  "usable_evidence_count": 3,
+  "visibility": "Mittlere Sichtbarkeit: Der Name ist in Namenslexika und Vornamensseiten klar präsent, die Evidenz zur öffentlichen Alltagsresonanz ist jedoch begrenzt."
+}

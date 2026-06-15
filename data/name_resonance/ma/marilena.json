@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "Kombination aus Maria und Lena",
+    "griechisch bzw. mehrsprachig anschlussfähig",
+    "Bedeutungsbezüge wie „geliebt“ oder „die Liebende“",
+    "Namenstag",
+    "Koseformen wie Mari, Leni oder Mina"
+  ],
+  "confidence": 0.78,
+  "display_text": "Marilena wirkt in der verfügbaren deutschen Evidenz überwiegend neutral bis leicht positiv: klangvoll, feminin und freundlich, mit klaren Bezügen zu Maria/Lena und eher sachlich-informativem Namensinteresse. Die Datenlage ist begrenzt, daher sind Aussagen zur öffentlichen Resonanz vorsichtig zu lesen.",
+  "evidence_quality": "mittel: klare Namensdiskussion, aber nur wenige Quellen und teils lexikalische bzw. kommentarnahe Evidenz",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Marilena",
+  "normalized_name": "marilena",
+  "overall_resonance": "Marilena wird in der verfügbaren deutschen Namens-Evidenz überwiegend neutral bis leicht positiv wahrgenommen. Der Name wirkt eher klangvoll, feminin und freundlich, mit klarer namenskundlicher Einordnung. Die öffentliche Resonanz scheint vor allem sachlich-informativ geprägt zu sein; belastbare Hinweise auf starke Polarisierung gibt es nicht.",
+  "practical_notes": [
+    "Für die Namenssuche wirkt Marilena unkompliziert und gut aussprechbar.",
+    "Der Name hat eine klare feminine Wirkung und lässt sich gut mit vertrauten Kurzformen verbinden.",
+    "Die Wahrnehmung ist eher freundlich-sachlich als auffällig oder kontrovers."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist begrenzt und stammt im Wesentlichen aus Namenslexika und einer einzelnen Website mit Nutzerbezug.",
+    "Aussagen zur Beliebtheit sollten vorsichtig gelesen werden, da keine breite Umfragebasis vorliegt.",
+    "Positive Tendenzen in Kommentaren sind eher als Meinungsbild denn als repräsentative öffentliche Meinung zu verstehen."
+  ],
+  "short_summary": "Marilena wird in Deutschland überwiegend neutral bis leicht positiv wahrgenommen: klangvoll, feminin und namenskundlich gut anschlussfähig, bei begrenzter Evidenzbasis.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Marilena � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/M/Ma/Marilena/"
+    },
+    {
+      "confidence": 0.91,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Marilena: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Marilena.html"
+    }
+  ],
+  "style_effect": [
+    "klangvoll",
+    "weiblich",
+    "sanft",
+    "elegant",
+    "modern-traditionell",
+    "namenskundlich interessant"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Im deutschen Namenskontext eher bekannt als geläufig; die Sichtbarkeit wirkt vorhanden, aber nicht dominant. Die Evidenz deutet auf Interesse an Bedeutung, Herkunft und Namensform hin, ohne auf breite Alltagspräsenz schließen zu lassen."
+}

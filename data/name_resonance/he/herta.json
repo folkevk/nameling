@@ -1,0 +1,62 @@
+{
+  "associations": [
+    "altgermanische bzw. germanische Herkunft",
+    "Bedeutung im Umfeld von kraftvoll/energiereich",
+    "historisch eher verbreitet",
+    "heute vergleichsweise selten",
+    "Namenstag",
+    "mythologische bzw. etymologische Bezüge"
+  ],
+  "confidence": 0.87,
+  "display_text": "Herta wirkt in den verfügbaren Quellen vor allem traditionell, altgermanisch und eher selten. Die öffentliche Resonanz ist schwach dokumentiert und überwiegend sachlich; positiv hervorgehoben werden vor allem Herkunft, Bedeutung und Namenstag.",
+  "evidence_quality": "mittel bis gut für Herkunft und Namensbeschreibung, schwach für breite öffentliche Resonanz",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Herta",
+  "normalized_name": "herta",
+  "overall_resonance": "Herta wird in der verfügbaren Evidenz eher sachlich und leicht positiv beschrieben. Der Name wirkt altgermanisch-traditionell, mit klarer etymologischer und historischer Einordnung, aber ohne starke aktuelle öffentliche Präsenz.",
+  "practical_notes": [
+    "Für Namenssuchmaschinen ist Herta gut als klassisch-historischer Mädchenname einzuordnen.",
+    "Die Wirkung ist eher traditionell als modern.",
+    "Wegen der Seltenheit kann der Name individuell und auffällig wirken, ohne stark polarisiert zu sein."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz basiert nur auf wenigen namenskundlichen Webquellen; breite öffentliche Resonanz ist daraus nur eingeschränkt ableitbar.",
+    "Es liegen kaum Hinweise auf eine emotionale oder gesellschaftliche Debatte zum Namen vor.",
+    "Die Einschätzung ist daher eher beschreibend als repräsentativ für allgemeine Alltagswahrnehmung."
+  ],
+  "short_summary": "Herta wird vor allem als traditioneller, altgermanischer und heute eher seltener Vorname mit leicht positiver, sachlicher Anmutung wahrgenommen.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "Vorname Herta � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/H/He/Herta/"
+    },
+    {
+      "confidence": 0.94,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Herta: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Herta.html"
+    }
+  ],
+  "style_effect": [
+    "traditionell",
+    "historisch",
+    "altgermanisch",
+    "sachlich",
+    "klassisch",
+    "eher selten",
+    "lexikalisch"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland heute eher selten und nicht stark im öffentlichen Namensdiskurs sichtbar. Die Wahrnehmung stammt vor allem aus Namenslexika und Info-Seiten, nicht aus breiter Debatte."
+}

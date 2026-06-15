@@ -1,0 +1,59 @@
+{
+  "associations": [
+    "hebräischer Ursprung",
+    "Bedeutung im Sinn von Hilfe/Rettung bzw. „Gott hilft“",
+    "biblischer Bezug",
+    "englische bzw. internationale Form von Josua",
+    "in Deutschland beliebt bzw. geläufig",
+    "moderne Schreibweise"
+  ],
+  "confidence": 0.89,
+  "display_text": "Joshua wirkt öffentlich meist modern, freundlich und international vertraut. Der Name ist klar biblisch/hebräisch geprägt, in Deutschland bekannt und wird eher positiv als kontrovers wahrgenommen. Die Evidenz dafür ist gut, stammt aber überwiegend aus redaktionellen Namensquellen.",
+  "evidence_quality": "gut, aber überwiegend redaktionell statt diskursiv",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Joshua",
+  "normalized_name": "joshua",
+  "overall_resonance": "Joshua wird in der öffentlichen Namenswahrnehmung überwiegend positiv und modern verortet. Der Name gilt als international vertraut, biblisch geprägt und in Deutschland gut bekannt. Die Resonanz ist eher freundlich als kontrovers.",
+  "practical_notes": [
+    "Für Such- und Namenskontexte ist Joshua gut auffindbar und leicht einzuordnen.",
+    "Der Name wirkt in Deutschland vertraut, ohne stark altmodisch zu erscheinen.",
+    "Kurzformen wie Josh oder Joshi werden teils mitgedacht."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die vorliegende Evidenz ist vor allem redaktionell und namenskundlich, nicht breit aus unabhängigen Alltagsstimmen abgeleitet.",
+    "Beliebtheits- und Wirkungseindrücke können je nach Region, Generation und persönlichem Umfeld variieren."
+  ],
+  "short_summary": "Joshua wird in Deutschland meist positiv, modern und biblisch-international wahrgenommen. Die Evidenz ist solide, aber vor allem aus Namenslexika und redaktionellen Beschreibungen gespeist.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Joshua � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/J/Jo/Joshua/"
+    },
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Joshua: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Joshua.html"
+    }
+  ],
+  "style_effect": [
+    "modern und zeitgemäß",
+    "international anschlussfähig",
+    "biblisch-traditionell",
+    "weicher, freundlicher Klang",
+    "namenskundlich klar einordenbar"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "hoch"
+}

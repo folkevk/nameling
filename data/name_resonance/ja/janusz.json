@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "polnische Form von Jan",
+    "Bedeutungsbezug zu \"Gott ist gnädig\" bzw. \"Jahwe ist gnädig\"",
+    "biblische Linie über Johannes/Johann",
+    "männlicher Vorname",
+    "eher selten in Deutschland",
+    "Namenstage werden genannt"
+  ],
+  "confidence": 0.89,
+  "display_text": "Janusz wirkt in Deutschland überwiegend neutral bis leicht positiv: ein seltener, traditionsreicher Vorname mit polnischer Form, klarer Bedeutung und biblischem Bezug. Die Evidenz ist solide für Herkunft und Namenskunde, aber insgesamt eher schmal und vor allem auf Namensdatenbanken gestützt.",
+  "evidence_quality": "Gut für Herkunft, Bedeutung und Namensmerkmale, aber in der Breite eingeschränkt; überwiegend einzelne Namensdatenbanken statt öffentlicher Diskussionsquellen.",
+  "generated_at": "2026-06-14T10:47:41Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Janusz",
+  "normalized_name": "janusz",
+  "overall_resonance": "Überwiegend neutral bis leicht positiv-informativ. Der Name wirkt vor allem als klarer, traditionsnaher Vorname mit eindeutiger Herkunft und Bedeutung, ohne erkennbare starke öffentliche Kontroverse.",
+  "practical_notes": [
+    "Für Suchmaschinen-Nutzer wirkt der Name klar, klassisch und kulturell eindeutig verortet.",
+    "Die Aussprache und Schreibweise können außerhalb polnischer Kontexte gelegentlich erklärungsbedürftig sein.",
+    "Wenn Verwechslungen mit ähnlichen Namen relevant sind, hilft ein Hinweis auf die polnische Herkunft."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die öffentliche Resonanz ist nur begrenzt breit belegt, da die Evidenz fast ausschließlich aus Namensportalen stammt.",
+    "Keine belastbaren Hinweise auf gesellschaftliche Stigmatisierung oder negative Grundassoziationen in der vorliegenden Evidenz.",
+    "Einzelne Sekundärquellen können den Eindruck stärkerer Bekanntheit vermitteln, als die tatsächliche Alltagsverwendung nahelegt."
+  ],
+  "short_summary": "Janusz wird im deutschen Kontext meist neutral bis leicht positiv wahrgenommen: ein seltener, traditionsreicher männlicher Vorname mit polnischer Form und klarer Bedeutungszuordnung.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.95,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Janusz � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/J/Ja/Janusz/"
+    },
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "mixed",
+      "source_type": "web",
+      "title": "&#9655; Vorname Janusz: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Janusz.html"
+    }
+  ],
+  "style_effect": [
+    "informativ",
+    "lexikalisch",
+    "namenskundlich",
+    "traditionsnah",
+    "leicht international/osteuropäisch wahrgenommen"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Im deutschen Namenskontext eher selten und dadurch auffälliger, aber in Namensdatenbanken gut dokumentiert. Es gibt keine breite öffentliche Debatte, die Evidenz ist vor allem lexikalisch und auf wenige Quellen gestützt."
+}

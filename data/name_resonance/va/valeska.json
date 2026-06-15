@@ -1,0 +1,64 @@
+{
+  "associations": [
+    "lateinische Herkunft",
+    "Bedeutung: die Gesunde",
+    "Bedeutung: die Kräftige",
+    "weiblicher Vorname",
+    "Namenstag",
+    "selten bis moderat verbreitet",
+    "mögliche Verbindung zu Valerius",
+    "teils als schön beschrieben"
+  ],
+  "confidence": 0.9,
+  "display_text": "Valeska: überwiegend freundlich und klassisch wahrgenommen, eher selten als häufig. Die verfügbare Evidenz ist vor allem lexikalisch und spricht für eine sachlich-positive Resonanz.",
+  "evidence_quality": "mittel: klare Namensdiskussion, aber primär lexikalische und quellengebundene Evidenz, kaum freie öffentliche Resonanz",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Valeska",
+  "normalized_name": "valeska",
+  "overall_resonance": "Valeska wirkt in der vorliegenden Evidenz überwiegend freundlich, klassisch und eher selten als alltäglich. Die öffentliche Rezeption erscheint sachlich positiv, vor allem durch Bedeutungsangaben wie „die Gesunde“ oder „die Kräftige“ sowie durch die Einordnung als schöner, seltener Vorname.",
+  "practical_notes": [
+    "Für Suchmaschinen ist Valeska vor allem als seltener, traditionsnaher Mädchenname mit positiver Bedeutungszuordnung sichtbar.",
+    "Die Wahrnehmung wirkt eher neutral bis positiv, ohne starke Trend- oder Popkulturprägung.",
+    "Falls Relevanz wichtig ist: Der Name ist eher unverwechselbar als häufig."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt überwiegend aus Namenslexika und nicht aus breiter öffentlicher Debatte.",
+    "Positive Eindrücke können quellenbedingt sein und sollten nicht als allgemeine Mehrheitsmeinung verstanden werden.",
+    "Es liegen keine Hinweise auf soziale Stigmatisierung in den Daten vor."
+  ],
+  "short_summary": "Valeska wird in der verfügbaren Evidenz überwiegend positiv, klassisch und eher selten wahrgenommen. Die Datenlage ist dabei eher lexikalisch als gesellschaftsöffentlich.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Valeska � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/V/Va/Valeska/"
+    },
+    {
+      "confidence": 0.87,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Valeska: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Valeska.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "weich-klingend",
+    "eher selten",
+    "elegant",
+    "sachlich positiv",
+    "traditionell",
+    "namenslexikon-geprägt"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland scheint der Name eher bekannt, aber nicht breit verbreitet zu sein. Die Sichtbarkeit wirkt damit moderat bis gering, mit eher lexikalischer als massenöffentlicher Präsenz."
+}

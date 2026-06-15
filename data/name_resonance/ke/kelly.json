@@ -1,0 +1,68 @@
+{
+  "associations": [
+    "irisch-gälischer Ursprung",
+    "Bedeutung im Sinn von „Krieger/in“ bzw. „kriegerisch“",
+    "Unisex-Charakter",
+    "in Deutschland eher für Mädchen vergeben",
+    "selten bis mäßig verbreitet",
+    "lexikalisch-informative statt emotionale Rezeption"
+  ],
+  "confidence": 0.9,
+  "display_text": "Kelly: In Deutschland wirkt der Name laut den vorliegenden Namensquellen überwiegend neutral bis leicht positiv. Er wird als irisch-gälisch, international und Unisex-nah beschrieben, in der Praxis aber eher weiblich vergeben. Die Evidenz ist vor allem lexikalisch; starke öffentliche Debatten oder negative Konnotationen sind nicht erkennbar.",
+  "evidence_quality": "mittel: mehrere übereinstimmende, aber vorwiegend lexikalische Quellen; geringe Tiefe zu tatsächlicher öffentlicher Wahrnehmung.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Kelly",
+  "normalized_name": "kelly",
+  "overall_resonance": "Kelly wirkt in der vorliegenden Evidenz in Deutschland überwiegend sachlich-neutral mit leicht positiver Klang- und Bedeutungsassoziation. Der Name wird als irisch-gälisch, als Unisex-Name und teils als eher weiblich vergeben beschrieben; öffentliche Debatten oder starke Wertungen sind kaum erkennbar.",
+  "practical_notes": [
+    "Für Suchmaschinen eignet sich eine knappe Einordnung als internationaler, irisch-gälischer Unisex-Name mit eher weiblicher Nutzung in Deutschland.",
+    "Wenn gewünscht, sollte man die Angaben zu Beliebtheit und Geschlechtszuordnung als zeit- und quellenabhängig formulieren.",
+    "Die Tonlage lässt sich am besten als neutral bis leicht positiv zusammenfassen."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz basiert fast ausschließlich auf Namenslexika und Belieblichkeitsangaben; das ist keine direkte öffentliche Meinungsresonanz.",
+    "Aussagen zur Verbreitung sind beschreibend und sollten nicht mit sozialer Bewertung verwechselt werden.",
+    "Keine belastbaren Hinweise auf Stigmatisierung in der vorliegenden Evidenz."
+  ],
+  "short_summary": "Kelly wird in Deutschland überwiegend neutral und leicht positiv wahrgenommen: international, irisch-gälisch, Unisex-nah und eher weiblich genutzt.",
+  "source_count": 3,
+  "sources": [
+    {
+      "confidence": 0.94,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Kelly � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/K/Ke/Kelly/"
+    },
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Kelly � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/K/Ke/Kelly/"
+    },
+    {
+      "confidence": 0.92,
+      "is_name_discussion": true,
+      "sentiment": "mostly neutral to mildly positive",
+      "source_type": "web",
+      "title": "&#9655; Vorname Kelly: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Kelly.html"
+    }
+  ],
+  "style_effect": [
+    "kurz und international wirkend",
+    "modern bis zeitlos",
+    "klanglich weich, trotz klarer Schreibweise",
+    "unisex-nah, in Deutschland aber eher weiblich konnotiert",
+    "durch die Herkunftsangabe leicht namenskundlich aufgeladen"
+  ],
+  "usable_evidence_count": 3,
+  "visibility": "Der Name ist in Namenslexika gut auffindbar und in Deutschland bekannt, aber laut Evidenz eher nicht stark alltagsdominant. Die Wahrnehmung scheint eher informativ als öffentlich-emotional geprägt zu sein."
+}

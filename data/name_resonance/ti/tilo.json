@@ -1,0 +1,59 @@
+{
+  "associations": [
+    "althochdeutsche bzw. nordische Einordnung",
+    "Kurzform/Koseform",
+    "Bedeutungshinweise wie \"der Tüchtige\" oder \"der Mann des Volkes\"",
+    "Namenstag-Angaben in den Quellen",
+    "selten, aber bekannt"
+  ],
+  "confidence": 0.81,
+  "display_text": "Tilo wirkt in der öffentlichen Wahrnehmung eher sachlich bis leicht positiv: ein bekannter, aber nicht sehr häufiger Vorname mit klassischer und unkomplizierter Ausstrahlung. Die Evidenz ist vor allem aus Namenslexika und nur begrenzt aus breiter öffentlicher Resonanz abgeleitet.",
+  "evidence_quality": "mittel bis gut: klare Namensdiskussion mit Bedeutung, Herkunft und etwas Nutzerresonanz, aber insgesamt stark von einzelnen Namensportalen geprägt.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Tilo",
+  "normalized_name": "tilo",
+  "overall_resonance": "Der Vorname Tilo wirkt in der vorliegenden Evidenz eher sachlich bis leicht positiv: bekannt, aber nicht massenhaft verbreitet, mit überwiegend lexikalisch-namenskundlicher Einordnung.",
+  "practical_notes": [
+    "Für Suchende wirkt Tilo eher klassisch und unkompliziert als auffällig.",
+    "Die Schreibweise ist klar und im Deutschen gut lesbar.",
+    "Varianten wie Thilo können zu Verwechslungen führen, je nach Kontext und Quelle."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt überwiegend aus Namenslexika bzw. einer SEO-/Datenbanklogik; das ist für Bedeutung und Herkunft nützlich, aber nur begrenzt für echte öffentliche Wahrnehmung.",
+    "Positive Resonanz aus Kommentaren ist vorhanden, aber nur in kleiner Menge und daher nicht stark repräsentativ.",
+    "Angaben zu Beliebtheit und Häufigkeit sollten vorsichtig gelesen werden, da sie nur quellenbasiert und nicht breit abgesichert sind."
+  ],
+  "short_summary": "Tilo wird überwiegend sachlich bis leicht positiv wahrgenommen: ein bekannter, eher seltener Vorname mit klassischer, namenskundlicher Wirkung.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Tilo � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/T/Ti/Tilo/"
+    },
+    {
+      "confidence": 0.87,
+      "is_name_discussion": true,
+      "sentiment": "überwiegend positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Tilo: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Tilo.html"
+    }
+  ],
+  "style_effect": [
+    "kurz und klar",
+    "eher traditionell als modern",
+    "namenskundlich aufgeladen",
+    "freundlich-unaufgeregt",
+    "selten, aber nicht fremd"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland scheint Tilo eher moderat sichtbar zu sein: kein Trendname, aber ein etablierter und verständlicher Vorname mit gelegentlich als selten beschriebenem Charakter."
+}

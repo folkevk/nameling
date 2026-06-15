@@ -1,0 +1,54 @@
+{
+  "associations": [
+    "französische Namensform",
+    "bretonische bzw. altirische Herkunft",
+    "weibliche Form von Maël",
+    "Bedeutung: „die Prinzessin“",
+    "selten",
+    "exotisch im deutschen Kontext"
+  ],
+  "confidence": 0.72,
+  "display_text": "Maëlle wirkt in Deutschland eher selten, feminin und international. Die vorliegende Quelle beschreibt den Namen überwiegend positiv, mit französisch-bretonischem Klang und der Assoziation „die Prinzessin“. Da die Evidenz nur auf einer einzelnen Namenslexikon-Seite beruht, ist die öffentliche Resonanz nur vorsichtig beurteilbar.",
+  "evidence_quality": "Begrenzt: einzelne Namenslexikon-Seite mit eher positiver Tendenz und wenigen direkten Resonanzhinweisen. Für eine allgemeine öffentliche Bewertung in DE nur eingeschränkt belastbar.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Maëlle",
+  "normalized_name": "maelle",
+  "overall_resonance": "Eher positiv und elegant wirkend, mit einem klar internationalen/französischen Klang. In der vorliegenden Evidenz wird Maëlle vor allem als selten und klangvoll wahrgenommen.",
+  "practical_notes": [
+    "Die Schreibweise mit Umlaut kann in digitalen Systemen zu Missverständnissen oder Eingabefehlern führen.",
+    "Die Aussprache kann im deutschen Alltag gelegentlich erklärt werden müssen.",
+    "Durch die Seltenheit kann der Name als besonders wahrgenommen werden, ohne automatisch bekannt zu sein."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist schwach, weil sie im Wesentlichen auf einer einzelnen Namenslexikon-Quelle basiert.",
+    "Es gibt keine belastbare Breite an öffentlicher Resonanz aus Deutschland; daher nur vorsichtige Einordnung möglich.",
+    "Die Wahrnehmung als „edel“ oder „exotisch“ ist eine Stilassoziation, keine objektive Eigenschaft."
+  ],
+  "short_summary": "Maëlle wird in der vorliegenden Quelle als seltener, französisch klingender und eher positiv besetzter Vorname beschrieben. Für Deutschland ist die Evidenz allerdings schmal, daher nur eine vorsichtige Einordnung möglich.",
+  "source_count": 1,
+  "sources": [
+    {
+      "confidence": 0.89,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Maëlle: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Ma%C3%ABlle.html"
+    }
+  ],
+  "style_effect": [
+    "französisch",
+    "bretonisch",
+    "international",
+    "selten",
+    "edel",
+    "weich im Klang",
+    "modern, aber nicht massentauglich"
+  ],
+  "usable_evidence_count": 1,
+  "visibility": "In Deutschland wirkt der Name eher ungewöhnlich und dadurch auffällig, aber nicht stark verbreitet. Die öffentliche Sichtbarkeit ist nach der vorliegenden Quelle eher gering."
+}

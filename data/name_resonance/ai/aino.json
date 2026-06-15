@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "finnische Herkunft",
+    "Bedeutung: die Einzige / die Einzigartige",
+    "Kalevala/Mythologie",
+    "selten bis mäßig verbreitet in Deutschland",
+    "weiblicher Vorname",
+    "in Finnland deutlich vertrauter"
+  ],
+  "confidence": 0.84,
+  "display_text": "Aino wirkt in Deutschland eher selten und zugleich freundlich-positiv. Der Name wird vor allem mit finnischer Herkunft, der Bedeutung „die Einzige / die Einzigartige“ und einem leicht geheimnisvollen, klaren Klang verbunden. Vereinzelt gibt es Hinweise auf mögliche Aussprache- oder Schreibfragen; diese stammen jedoch eher aus Einzelkommentaren als aus breiter öffentlicher Diskussion.",
+  "evidence_quality": "mittel bis gut; überwiegend lexikalische Quellen, wenig direkte Community-Diskussion",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Aino",
+  "normalized_name": "aino",
+  "overall_resonance": "Eher positiv und zugleich eher selten-wirkend. Der Name Aino wird in den vorliegenden Quellen vor allem sachlich und namenkundlich beschrieben, mit einer insgesamt freundlichen Resonanz durch die Bedeutung und Herkunft.",
+  "practical_notes": [
+    "Für deutsche Ohren ist der Name meist gut merkbar, aber nicht alltäglich.",
+    "Die kurze Form kann als modern und international wahrgenommen werden.",
+    "Wer einen seltenen, nordisch anmutenden Namen sucht, findet hier eine passende Option."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist begrenzt und stammt überwiegend aus Namenslexika statt aus breiter öffentlicher Diskussion.",
+    "Einzelne Hinweise zu Aussprache oder Schreibweise sind anekdotisch und sollten nicht verallgemeinert werden.",
+    "Die Wahrnehmung als ungewöhnlich kann regional und sozial stark variieren."
+  ],
+  "short_summary": "Aino wird in den vorliegenden Quellen überwiegend positiv, elegant und finnisch geprägt wahrgenommen. In Deutschland ist der Name eher selten und wirkt dadurch besonders, die Evidenz ist aber vor allem lexikalisch und nicht breit gesellschaftlich belegt.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Aino � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/A/Ai/Aino/"
+    },
+    {
+      "confidence": 0.86,
+      "is_name_discussion": true,
+      "sentiment": "überwiegend positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Aino: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Aino.html"
+    }
+  ],
+  "style_effect": [
+    "finnisch geprägt",
+    "klar und kurz",
+    "leicht exotisch",
+    "namenskundlich aufgeladen",
+    "eher modern-sachlich als verspielt"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland wirkt Aino eher ungewöhnlich bis selten, in den Quellen wird er als bekannt, aber nicht breit verbreitet beschrieben."
+}

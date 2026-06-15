@@ -1,0 +1,66 @@
+{
+  "associations": [
+    "altirische bzw. schottische Herkunft",
+    "Bedeutung im Umfeld von Stechpalme/Garten",
+    "Unisex-Name",
+    "in Deutschland eher selten",
+    "bekannter Vorname mit lexikalischer Präsenz"
+  ],
+  "confidence": 0.9,
+  "display_text": "Leslie wirkt in Deutschland eher selten, aber gut bekannt. Die öffentliche Resonanz ist überwiegend neutral bis leicht positiv, mit Fokus auf der altirischen/schottischen Herkunft, der Bedeutung rund um „Stechpalmengarten“ und dem Unisex-Charakter des Namens.",
+  "evidence_quality": "mittel bis gut; mehrere konsistente Namenslexikon-Quellen, aber nur begrenzte echte Diskurs-Evidenz",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Leslie",
+  "normalized_name": "leslie",
+  "overall_resonance": "Leslie wird in der vorliegenden Evidenz überwiegend sachlich-neutral wahrgenommen, mit leicht positiver Färbung durch die klang- und bedeutungsbezogenen Beschreibungen. Der Name wirkt öffentlich eher bekannt als alltagsverbreitet und wird als Unisex-Name eingeordnet.",
+  "practical_notes": [
+    "Für die Namenssuche ist Leslie ein gut etablierter, international verständlicher Name.",
+    "Wer einen seltenen, aber dennoch bekannten Vornamen sucht, findet hier eine passende Option.",
+    "Die Einordnung als Unisex-Name kann je nach Region unterschiedlich stark wahrgenommen werden."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt fast ausschließlich aus Namensdatenbanken und nicht aus breiter öffentlicher Debatte.",
+    "Daher beschreibt die Karte vor allem dokumentierte Namensmerkmale, nicht ein starkes Meinungsbild der Allgemeinheit."
+  ],
+  "short_summary": "Leslie wird in Deutschland eher selten, aber bekannt und überwiegend neutral bis leicht positiv wahrgenommen; die Quellen betonen Herkunft, Unisex-Charakter und eine klare Namensbedeutung.",
+  "source_count": 3,
+  "sources": [
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Leslie � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/L/Le/Leslie/"
+    },
+    {
+      "confidence": 0.99,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Leslie � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/L/Le/Leslie/"
+    },
+    {
+      "confidence": 0.88,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Leslie: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Leslie.html"
+    }
+  ],
+  "style_effect": [
+    "neutral-beschreibend",
+    "namenskundlich",
+    "international/englischsprachig wirkend",
+    "unisex",
+    "eher modern und unkompliziert wahrgenommen"
+  ],
+  "usable_evidence_count": 3,
+  "visibility": "In Deutschland eher selten, aber klar bekannt und gut auffindbar in Namenslexika. Die öffentliche Sichtbarkeit wirkt damit vorhanden, jedoch nicht besonders dominant im Alltagsgebrauch."
+}

@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "niederdeutsche Form von Jodokus",
+    "keltische Herkunft",
+    "Bedeutungen wie Herr, Kämpfer oder Krieger",
+    "selten in Deutschland",
+    "Namenstag am 13. Dezember",
+    "kurze Spitznamen wie Jo oder Jobi"
+  ],
+  "confidence": 0.78,
+  "display_text": "Jobst wirkt in den verfügbaren Quellen vor allem selten, traditionell und historisch-namenskundlich. Die öffentliche Resonanz ist überwiegend neutral; belastbare Hinweise auf eine breite Alltagsrezeption sind allerdings nur begrenzt vorhanden.",
+  "evidence_quality": "mittel bis schwach; überwiegend redaktionelle Namensprofile, wenig direkte öffentliche Diskussion",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Jobst",
+  "normalized_name": "jobst",
+  "overall_resonance": "Die öffentliche Resonanz auf den Vornamen Jobst wirkt insgesamt sachlich-neutral und eher namenkundlich als emotional geprägt. Der Name wird vor allem als seltener, traditioneller männlicher Vorname mit historisch-keltischer bzw. niederdeutscher Einordnung beschrieben.",
+  "practical_notes": [
+    "Für Suchende vermittelt Jobst einen historischen, eigenständigen Eindruck.",
+    "Der Name dürfte eher vertraut im namenskundlichen Kontext als im alltäglichen Gebrauch wirken.",
+    "Wegen der Seltenheit kann er als markant oder ungewohnt wahrgenommen werden, ohne dass daraus eine allgemeine Bewertung folgt."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz für tatsächliche öffentliche Wahrnehmung ist schwach und stammt überwiegend aus redaktionellen Namensseiten.",
+    "Ableitungen zur Wirkung des Namens sollten vorsichtig gelesen werden, da kaum echte Diskussionsbeiträge vorliegen.",
+    "Keine Aussage über Träger des Namens ableitbar."
+  ],
+  "short_summary": "Jobst wird öffentlich vor allem als seltener, traditioneller und historisch eingeordneter Jungenname wahrgenommen. Die Evidenz ist eher schwach und sachlich-neutral.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Jobst � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/J/Jo/Jobst/"
+    },
+    {
+      "confidence": 0.88,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Jobst: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Jobst.html"
+    }
+  ],
+  "style_effect": [
+    "traditionell",
+    "selten",
+    "historisch-namenskundlich",
+    "sachlich",
+    "eher ungewöhnlich klingend",
+    "klassisch-männlich"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Gering bis mittel: In den vorliegenden Quellen erscheint Jobst vor allem in redaktionellen Namensprofilen; belastbare Hinweise auf breitere öffentliche Alltagsrezeption sind nur schwach vorhanden."
+}

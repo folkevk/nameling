@@ -1,0 +1,62 @@
+{
+  "associations": [
+    "althochdeutsche Herkunft",
+    "Bedeutung in Richtung Besitz/Erbe/Reichtum",
+    "historisch gewachsener Frauenname",
+    "Namenstag",
+    "heute selten",
+    "eher sachliche Klangwirkung"
+  ],
+  "confidence": 0.82,
+  "display_text": "Ute wird in der öffentlichen Wahrnehmung meist als klassischer, altdeutscher und heute eher seltener Vorname gesehen. Die Resonanz wirkt überwiegend sachlich und traditionell; einzelne Rückmeldungen beschreiben den Klang als eher nüchtern. Die Aussagekraft der Quellen ist begrenzt, da vor allem Namenslexika vorliegen.",
+  "evidence_quality": "mittel bis schwach; überwiegend lexikalische Namensseiten mit wenigen Community-Hinweisen",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Ute",
+  "normalized_name": "ute",
+  "overall_resonance": "Ute wird öffentlich vor allem sachlich und namenkundlich wahrgenommen: als kurzer, traditioneller, altdeutscher Vorname mit klarer Herkunft und historischer Verankerung. Die Resonanz wirkt eher nüchtern als trendig; einzelne Rückmeldungen deuten auf eine eher schlichte oder kantige Klangwirkung hin. Insgesamt ist die Evidenz für eine breite öffentliche Meinung jedoch begrenzt.",
+  "practical_notes": [
+    "Für Suchmaschinen-Nutzer lässt sich Ute als klassischer, kurzer und traditionsreicher Vorname zusammenfassen.",
+    "Die Wahrnehmung ist eher historisch als modisch.",
+    "Wegen der dünnen Evidenz sollte die Bewertung vorsichtig formuliert werden."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Quellen sind vor allem Namenslexika und zeigen nur begrenzt öffentliche Alltagsresonanz.",
+    "Einzelne negative Kommentare sind nicht repräsentativ und sollten nicht verallgemeinert werden.",
+    "Keine belastbaren Hinweise auf starke soziale Stigmatisierung; falls einzelne Abwertungen vorkommen, sind sie eher persönliche Eindrücke als allgemeiner Konsens."
+  ],
+  "short_summary": "Ute gilt öffentlich vor allem als klassischer, altdeutscher und heute eher seltener Vorname. Die Wahrnehmung ist sachlich und traditionell, mit vereinzelten Hinweisen auf einen nüchternen Klang; die Evidenz zur öffentlichen Resonanz ist jedoch begrenzt.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Ute � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/U/Ut/Ute/"
+    },
+    {
+      "confidence": 0.95,
+      "is_name_discussion": true,
+      "sentiment": "mixed",
+      "source_type": "web",
+      "title": "&#9655; Vorname Ute: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Ute.html"
+    }
+  ],
+  "style_effect": [
+    "kurz",
+    "nüchtern",
+    "traditionell",
+    "altdeutsch",
+    "historisch etabliert",
+    "lexikalisch klar",
+    "eher unmodern wahrgenommen"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland bekannt, aber heute eher selten; dadurch wirkt der Name eher vertraut als aktuell verbreitet."
+}

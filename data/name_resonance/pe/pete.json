@@ -1,0 +1,62 @@
+{
+  "associations": [
+    "Kurzform von Peter",
+    "Bedeutung: der Fels / der Stein",
+    "Bezug zu Petrus / petros",
+    "englischsprachige Anmutung",
+    "selten bis mäßig verbreitet in Deutschland",
+    "Namenstag 29. Juni",
+    "Klang wird teils als angenehm und positiv beschrieben"
+  ],
+  "confidence": 0.84,
+  "display_text": "Pete wirkt im deutschen Raum eher selten, kurz und international. Öffentlich wird der Name meist neutral bis leicht positiv als Form von Peter mit der Bedeutung „der Fels / der Stein“ eingeordnet. Die Evidenzlage ist jedoch begrenzt.",
+  "evidence_quality": "Mittel bis schwach: klar namenskundliche Treffer, aber wenig breit gestützte öffentliche Diskussion.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Pete",
+  "normalized_name": "pete",
+  "overall_resonance": "Eher neutral bis leicht positiv; der Name wird vor allem sachlich als kurze, internationale Form von Peter wahrgenommen.",
+  "practical_notes": [
+    "Für deutschsprachige Kontexte kann Pete als auffällige, kurze und internationale Namensform wirken.",
+    "Als Kurzform von Peter ist der Name gut anschlussfähig und leicht verständlich.",
+    "Die Seltenheit kann als individuell wahrgenommen werden, ohne dass daraus eine eindeutige gesellschaftliche Bewertung folgt."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist insgesamt schmal und stark von Namenslexika geprägt.",
+    "Es gibt keine breite öffentliche Debattenresonanz, daher ist die Rezeption nur vorsichtig ableitbar.",
+    "Einzelne positive Kommentare sind nicht repräsentativ für die Gesamtwahrnehmung."
+  ],
+  "short_summary": "Pete wird in Deutschland eher selten wahrgenommen und meist als kurze, internationale Form von Peter verstanden. Die vorhandene Evidenz deutet auf eine sachlich-neutrale bis leicht positive Resonanz hin.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Pete � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/P/Pe/Pete/"
+    },
+    {
+      "confidence": 0.83,
+      "is_name_discussion": true,
+      "sentiment": "eher positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Pete: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Pete.html"
+    }
+  ],
+  "style_effect": [
+    "kurz",
+    "international",
+    "englisch wirkend",
+    "klar und direkt",
+    "modern bis klassisch lesbar",
+    "eher informell als amtlich"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Im deutschen Raum wirkt Pete eher selten und eher als bewusst gewählte Kurz- oder Englischform, nicht als sehr verbreiteter Alltagsvorname. Die öffentliche Sichtbarkeit in der Evidenz ist begrenzt."
+}

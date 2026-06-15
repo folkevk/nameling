@@ -1,0 +1,63 @@
+{
+  "associations": [
+    "Adelheid",
+    "englische und französische Kurzform",
+    "edel",
+    "vornehm",
+    "klassisch",
+    "beliebt in Deutschland",
+    "Alice im Wunderland",
+    "Namenstag",
+    "Hitliste"
+  ],
+  "confidence": 0.94,
+  "display_text": "Alice wirkt öffentlich überwiegend klassisch, elegant und sympathisch vertraut. In den Quellen wird der Name meist mit „edel“, „vornehm“, seiner Herkunft als Kurzform von Adelheid sowie mit Beliebtheit und dem Bezug zu „Alice im Wunderland“ verbunden. Insgesamt ist die Resonanz klar positiv, ohne starke Kontroversen.",
+  "evidence_quality": "stark; zwei klare, namenkundliche Webquellen mit überwiegend positiver und konsistenter Beschreibung",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Alice",
+  "normalized_name": "alice",
+  "overall_resonance": "Überwiegend positiv und klassisch-elegant; der Name wird öffentlich meist als vertraut, vornehm und zeitlos wahrgenommen.",
+  "practical_notes": [
+    "Für Suchmaschinen und Namenslexika ist Alice gut anschlussfähig und klar einzuordnen.",
+    "Die Aussprache ist in Deutschland meist unkompliziert und international gut wiedererkennbar.",
+    "Der Name trägt eine positive, aber eher ruhige als auffällige Wirkung."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Einzelne Quellen wirken leicht werblich oder populärwissenschaftlich.",
+    "Die genannten Stilmerkmale sind öffentliche Namensassoziationen, keine Aussagen über Personen.",
+    "Vereinzelt mischen sich allgemeine Kontext- oder Kommentarinhalte in die Namensdarstellung."
+  ],
+  "short_summary": "Alice wird in Deutschland meist als klassischer, edler und international vertrauter Mädchenname mit positiver Resonanz beschrieben.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "positive",
+      "source_type": "web",
+      "title": "Vorname Alice � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/A/Al/Alice/"
+    },
+    {
+      "confidence": 0.95,
+      "is_name_discussion": true,
+      "sentiment": "positive",
+      "source_type": "web",
+      "title": "&#9655; Vorname Alice: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Alice.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "elegant",
+    "international verständlich",
+    "namenskundlich gut verankert",
+    "eher zeitlos als modisch"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "hoch"
+}

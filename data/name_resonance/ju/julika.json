@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "Koseform von Julia",
+    "lateinischer Ursprung",
+    "selten in Deutschland",
+    "Namenstag",
+    "Spitznamen wie Juli oder Jule",
+    "literarische Referenz"
+  ],
+  "confidence": 0.78,
+  "display_text": "Julika wird meist als klangvoller, seltener und klassisch wirkender Mädchenname wahrgenommen. Die vorhandenen Quellen deuten eher auf eine freundliche, leicht positive Resonanz hin; die Evidenz ist dabei eher lexikalisch als breit öffentlich diskutiert.",
+  "evidence_quality": "mittel: zwei thematisch passende Webquellen, überwiegend lexikalisch, mit etwas gemischten Community-Kommentaren; daher nur vorsichtige Schlussfolgerungen.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Julika",
+  "normalized_name": "julika",
+  "overall_resonance": "Julika wird in den vorliegenden Quellen überwiegend freundlich und leicht positiv wahrgenommen, vor allem als klangvoller, seltener Mädchenname mit klassisch-lateinischem Bezug. Die öffentliche Rezeption wirkt insgesamt eher unaufgeregt als stark polarisiert.",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt Julika eher sympathisch, weich und unkompliziert.",
+    "Wer einen ungewöhnlicheren, aber dennoch vertraut wirkenden Namen sucht, findet hier eine passende Option.",
+    "Die Schreibweise ist klar und leicht verständlich.",
+    "Die Seltenheit kann als Vorteil empfunden werden, macht den Namen aber weniger alltagspräsent."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist teilweise schwach und stammt teils aus beschreibenden Namenslexika statt aus echter öffentlicher Diskussion.",
+    "Einzelne Nutzerkommentare können die Wirkung stärker färben als die allgemeine Wahrnehmung.",
+    "Keine belastbaren Hinweise auf soziale Stigmatisierung oder negative Stereotype in den Quellen."
+  ],
+  "short_summary": "Julika wirkt öffentlich eher freundlich, weich und klassisch-elliptisch, bei insgesamt geringer bis mittlerer Sichtbarkeit und nur begrenzt belastbarer Resonanz.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Julika � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/J/Ju/Julika/"
+    },
+    {
+      "confidence": 0.83,
+      "is_name_discussion": true,
+      "sentiment": "mostly positive",
+      "source_type": "web",
+      "title": "&#9655; Vorname Julika: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Julika.html"
+    }
+  ],
+  "style_effect": [
+    "weich und melodisch",
+    "elegant und klassisch",
+    "modern, aber nicht modisch",
+    "selten und dadurch eigenständig",
+    "namenskundlich klar einordbar"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Eher gering bis mittel: Der Name ist bekannt, aber nicht sehr häufig; dadurch wirkt die Resonanz eher aus Namenslexika und einzelnen Kommentaren als aus breiter öffentlicher Debatte."
+}

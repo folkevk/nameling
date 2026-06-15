@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "weiblicher Vorname",
+    "altenglische Herkunft",
+    "Bedeutung: \"die Elfenstarke\" bzw. Bezug zu Elfe/Stärke",
+    "früher in Deutschland populär",
+    "heute sehr selten",
+    "Namenstag",
+    "Spitznamen wie Elfi oder Friedl"
+  ],
+  "confidence": 0.83,
+  "display_text": "Elfriede: klassischer, traditionsreicher Vorname mit historischer Bekanntheit; heute eher selten. Die Quellen sind vor allem namenskundlich, daher ist die aktuelle öffentliche Resonanz nur begrenzt belegbar.",
+  "evidence_quality": "mittel bis schwach für öffentliche Resonanz; gut für etymologische und historische Namensdaten, aber begrenzt für aktuelle gesellschaftliche Wahrnehmung",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Elfriede",
+  "normalized_name": "elfriede",
+  "overall_resonance": "Elfriede wirkt im öffentlichen Namensbild eher klassisch, traditionsnah und deutlich historisch verankert. Die verfügbare Evidenz beschreibt den Namen vor allem sachlich als älteren, früher verbreiteten Vornamen mit heute seltener Nutzung. Eine breite aktuelle öffentliche Resonanz ist daraus nur eingeschränkt ableitbar.",
+  "practical_notes": [
+    "Für eine öffentliche Suchmaschine sollte der Name als traditionell und selten beschrieben werden.",
+    "Bei der Einordnung empfiehlt sich ein Hinweis, dass die heutige Resonanz datenarm und quellengebunden ist.",
+    "Die Angaben zu Herkunft und Bedeutung sind relativ konsistent, die Aussage zur aktuellen Wahrnehmung bleibt jedoch vorsichtig."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt überwiegend aus Namenslexika; das erlaubt vor allem eine sprachlich-historische Einordnung, aber keine belastbare Aussage über breite öffentliche Wahrnehmung.",
+    "Mögliche Eindrücke wie \"altmodisch\" sind eine stilistische Einordnung, keine objektive Eigenschaft des Namens.",
+    "Keine Hinweise auf soziale Stigmatisierung in der vorliegenden Evidenz."
+  ],
+  "short_summary": "Elfriede wird überwiegend als klassischer, historisch bekannter und heute seltener Vorname wahrgenommen. Die Quellenlage ist vor allem lexikalisch, daher ist die Aussage zur aktuellen öffentlichen Resonanz vorsichtig zu lesen.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Elfriede � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/E/El/Elfriede/"
+    },
+    {
+      "confidence": 0.95,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Elfriede: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Elfriede.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "altmodisch",
+    "traditionsreich",
+    "namenskundlich",
+    "selten"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "eher gering bis mittel, mit Schwerpunkt auf historischer Bekanntheit statt aktueller Präsenz"
+}

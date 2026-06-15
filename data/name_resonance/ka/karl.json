@@ -1,0 +1,66 @@
+{
+  "associations": [
+    "althochdeutsche Herkunft",
+    "„der freie Mann“",
+    "„der Mann“",
+    "Karl der Große",
+    "Karolinger",
+    "klassischer deutscher Jungenname",
+    "international anschlussfähig",
+    "Carl/Charles als Varianten",
+    "Kalle als Koseform"
+  ],
+  "confidence": 0.92,
+  "display_text": "Karl wirkt in Deutschland überwiegend positiv: klassisch, traditionsreich und historisch verankert. Die vorliegende Evidenz stammt vor allem aus Namenslexika und beschreibt den Namen als vertraut, zeitlos und eher traditionell als modisch.",
+  "evidence_quality": "Gut für eine vorsichtige Namensresonanz: zwei klare, namebezogene Quellen mit überwiegend positiver, beschreibender Einordnung. Einschränkung: kein breites Meinungsbild aus freier öffentlicher Diskussion.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Karl",
+  "normalized_name": "karl",
+  "overall_resonance": "Überwiegend positiv und respektvoll, mit stark traditionell-klassischer Wahrnehmung. Der Name wirkt im deutschsprachigen Raum vertraut, historisch verankert und eher zeitlos als modisch.",
+  "practical_notes": [
+    "Für Suchmaschinen- und Namenskontexte ist Karl gut einordenbar und leicht verständlich.",
+    "Der Name vermittelt eher Tradition und Beständigkeit als Trendigkeit.",
+    "Durch die kurze, klare Form ist er im Alltag meist unkompliziert.",
+    "Regionale Wahrnehmung in DE: vertraut und historisch gut etabliert."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt vor allem aus Namenslexika und nicht aus breiter freier Diskussion.",
+    "Die positive Einordnung beschreibt vor allem Herkunft, Tradition und Beliebtheit; sie ist keine Messung allgemeiner Alltagsmeinungen.",
+    "Keine Hinweise auf soziale Stigmatisierung in der vorliegenden Evidenz."
+  ],
+  "short_summary": "Karl wird in Deutschland überwiegend positiv als klassischer, traditionsreicher und historisch verankerter Vorname wahrgenommen.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "positive",
+      "source_type": "web",
+      "title": "Vorname Karl � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/K/Ka/Karl/"
+    },
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Karl: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Karl.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "traditionell",
+    "kurz und klar",
+    "historisch geprägt",
+    "eher bodenständig",
+    "zeitlos",
+    "eher männlich-kernig"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Hoch: Karl ist ein sehr bekannter Vorname in Deutschland und in Namenslexika klar präsent. Die öffentliche Resonanz wirkt dabei eher beschreibend als kontrovers."
+}

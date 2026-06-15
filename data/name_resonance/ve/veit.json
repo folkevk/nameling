@@ -1,0 +1,62 @@
+{
+  "associations": [
+    "Bedeutung: „das Leben“ / „der Lebendige“",
+    "lateinische Herkunft über Vitus",
+    "Namenstag am 15. Juni",
+    "Bezug zum heiligen Vitus",
+    "in Deutschland eher selten",
+    "regional eher in Österreich und östlichen Ländern verbreitet"
+  ],
+  "confidence": 0.86,
+  "display_text": "Veit wirkt in der öffentlichen Wahrnehmung eher traditionell, kurz und positiv-konnotiert. Der Name steht meist für eine historische, bodenständige Anmutung mit klarer Bedeutung und ist in Deutschland eher selten, aber bekannt. Die zugrunde liegende Evidenz ist allerdings vor allem namenskundlich und daher nur begrenzt repräsentativ.",
+  "evidence_quality": "Begrenzt: überwiegend beschreibende Namenslexika mit wenig externer, öffentlicher Resonanz.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Veit",
+  "normalized_name": "veit",
+  "overall_resonance": "Eher positiv, traditionell und sachlich-konnotiert. Der Name wird vor allem als historischer, kurzer deutscher Jungenname mit klarer Namensbedeutung wahrgenommen.",
+  "practical_notes": [
+    "Der Name wirkt kurz, prägnant und traditionsnah.",
+    "Durch die seltenere Verwendung kann er auffallen, ohne ungewöhnlich zu wirken.",
+    "Für eine Suchmaschine eignet sich eine neutrale Beschreibung mit dem Hinweis auf die begrenzte Evidenz."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenzlage ist schwach bis mittel, da vor allem Namensdatenbanken ausgewertet wurden.",
+    "Es liegen kaum Hinweise auf echte öffentliche Debatten oder breite Alltagsresonanz vor.",
+    "Einzelne Kommentar-Eindrücke sind nicht repräsentativ für die Gesamtwahrnehmung."
+  ],
+  "short_summary": "Veit wird meist als kurzer, traditioneller und eher positiv besetzter Vorname mit historischer Herkunft wahrgenommen. In Deutschland ist er eher selten, aber etabliert; die Evidenz dazu ist jedoch begrenzt.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "Vorname Veit � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/V/Ve/Veit/"
+    },
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Veit: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Veit.html"
+    }
+  ],
+  "style_effect": [
+    "traditionell",
+    "kurz",
+    "klassisch",
+    "historisch",
+    "namenskundlich",
+    "eher selten, aber nicht exotisch",
+    "klar und bodenständig"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland eher selten, aber bekannt und etabliert; die öffentliche Sichtbarkeit wirkt daher niedrig bis mittel. Die verfügbare Evidenz ist jedoch begrenzt und stammt überwiegend aus Namenslexika statt aus breiter öffentlicher Diskussion."
+}

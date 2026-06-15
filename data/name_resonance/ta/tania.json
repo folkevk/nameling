@@ -1,0 +1,67 @@
+{
+  "associations": [
+    "Bedeutung/Herkunft",
+    "romanische Schreibvariante",
+    "Kurzform bzw. Variante von Tanja/Tatjana",
+    "Namenstag",
+    "selten bis mäßig verbreitet",
+    "die Kämpferische / die Beherzte (als Deutung in den Quellen)"
+  ],
+  "confidence": 0.82,
+  "display_text": "Tania wirkt in den verfügbaren Quellen überwiegend sachlich-neutral und leicht positiv. Der Name wird als selten bis mäßig verbreitet beschrieben, mit romanischer bzw. tatjana-naher Herkunft. Eine breite öffentliche Debatte ist nicht erkennbar; die Evidenz stammt vor allem aus Namenslexika.",
+  "evidence_quality": "mittel bis schwach: mehrere Quellen, aber fast nur lexikalische Namensseiten statt breiter öffentlicher Resonanz",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Tania",
+  "normalized_name": "tania",
+  "overall_resonance": "Überwiegend sachlich-neutral mit leicht positiver Färbung. In den verfügbaren Quellen wird Tania vor allem als romanische Schreibvariante bzw. Variante von Tanja/Tatjana beschrieben; die öffentliche Rezeption wirkt eher informativ als emotional. Eine starke gesellschaftliche Wertung ist nicht erkennbar.",
+  "practical_notes": [
+    "Für die Namenssuche wirkt Tania vertraut, aber nicht alltäglich.",
+    "Die Schreibweise kann als internationaler oder leicht besonderer Eindruck wahrgenommen werden.",
+    "Bei der Einordnung sollte man vorsichtig bleiben, weil die Datenlage zur echten öffentlichen Resonanz schmal ist."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist stark auf wenige Namenslexikon-Quellen begrenzt.",
+    "Es gibt kaum frei erkennbare öffentliche Debatte, eher Nachschlagecharakter.",
+    "Beliebtheitsangaben sind kontextabhängig und nicht als harte Marktmeinung zu lesen."
+  ],
+  "short_summary": "Tania wird in den Quellen überwiegend neutral und leicht positiv beschrieben: ein weiblicher, eher seltener Name mit romanischer bzw. tatjana-naher Herkunft. Die öffentliche Resonanz wirkt sachlich und unauffällig, ist aber nur schwach belegt.",
+  "source_count": 3,
+  "sources": [
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Tania � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/T/Ta/Tania/"
+    },
+    {
+      "confidence": 0.95,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Tania � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/T/Ta/Tania/"
+    },
+    {
+      "confidence": 0.91,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Tania: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Tania.html"
+    }
+  ],
+  "style_effect": [
+    "klingt weich und feminin",
+    "wirkt international bzw. romanisch",
+    "hat einen lexikalisch-vertrauten, aber nicht alltäglichen Eindruck",
+    "wird häufig mit Tatjana/Tanja und traditioneller Namensherkunft verbunden"
+  ],
+  "usable_evidence_count": 3,
+  "visibility": "Eher selten bis mäßig verbreitet in Deutschland und vor allem in Namenslexika bzw. Infoseiten präsent. Belastbare Hinweise auf breite öffentliche Debatten sind in der Evidenz nicht sichtbar."
+}

@@ -1,0 +1,63 @@
+{
+  "associations": [
+    "arabischer Ursprung",
+    "Bedeutung: der Großzügige",
+    "männlicher Vorname",
+    "Gastfreundschaft",
+    "Würde/Edles",
+    "Barmherzigkeit",
+    "Beliebtheit in Deutschland",
+    "Verbreitung im arabischen und muslimischen Raum"
+  ],
+  "confidence": 0.83,
+  "display_text": "Karim wirkt in der verfügbaren deutschen Evidenz überwiegend positiv: ein sachlich wirkender, international anschlussfähiger Name mit arabischem Ursprung und der Bedeutung „der Großzügige“. Die öffentliche Resonanz ist freundlich, aber die Datenbasis ist klein und vor allem auf Namenslexika beschränkt.",
+  "evidence_quality": "mittel bis schwach: zwei einschlägige Namenslexikon-Seiten mit überwiegend positiver, aber begrenzter und nicht repräsentativer Online-Evidenz",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Karim",
+  "normalized_name": "karim",
+  "overall_resonance": "In der verfügbaren deutschsprachigen Evidenz wirkt Karim insgesamt eher positiv und sachlich wahrgenommen. Der Name wird vor allem mit arabischem Ursprung, der Bedeutung „der Großzügige“ sowie mit Begriffen wie gastfreundlich, edel oder barmherzig verbunden. Die öffentliche Resonanz scheint damit freundlich und respektvoll, allerdings stützt sie sich fast ausschließlich auf einzelne Namenslexikon-Seiten und ist daher nur eingeschränkt belastbar.",
+  "practical_notes": [
+    "Für eine Namenssuche wird Karim meist klar verständlich und positiv konnotiert dargestellt.",
+    "Die Schreibweise ist einfach und international gut anschlussfähig.",
+    "Je nach Umfeld kann der arabisch-muslimische Bezug stärker wahrgenommen werden.",
+    "Es gibt Hinweise auf Varianten und Spitznamen, was den Namen flexibel wirken lässt."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist stark auf Namenslexikon-Seiten begrenzt und daher nicht repräsentativ für die Gesamtöffentlichkeit.",
+    "Kulturelle und religiöse Bezüge können mitgedacht werden, ohne dass daraus pauschale Aussagen über Träger des Namens abgeleitet werden sollten.",
+    "Einzelne Nutzerkommentare sind subjektiv und sollten nicht als allgemeiner Konsens gelesen werden."
+  ],
+  "short_summary": "Karim wird im deutschen Online-Namenskontext überwiegend positiv und sachlich wahrgenommen, mit Fokus auf arabischem Ursprung und der Bedeutung „der Großzügige“. Die Evidenzlage ist jedoch begrenzt.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "Vorname Karim � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/K/Ka/Karim/"
+    },
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "mostly positive",
+      "source_type": "web",
+      "title": "&#9655; Vorname Karim: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Karim.html"
+    }
+  ],
+  "style_effect": [
+    "sachlich-informativ",
+    "leicht positiv",
+    "namenkundlich",
+    "kulturell eingeordnet",
+    "eher modern und international wirkend"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Im deutschen Namenskontext ist Karim bekannt und sichtbar, aber die vorliegende Evidenz zeigt eher eine kleine, namensbezogene Online-Rezeption als eine breit ausgewertete öffentliche Debatte."
+}

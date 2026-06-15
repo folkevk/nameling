@@ -1,0 +1,70 @@
+{
+  "associations": [
+    "Irland",
+    "altirische Herkunft",
+    "Flussname",
+    "Bedeutung wird häufig mit Weisheit verknüpft",
+    "Unisex-Name",
+    "selten in Deutschland",
+    "auch als Nachname bekannt",
+    "Namenslexikon- und Beliebtheitskontext"
+  ],
+  "confidence": 0.84,
+  "display_text": "Shannon wirkt in Deutschland eher neutral bis leicht positiv: ein internationaler, altirisch geprägter und eher seltener Vorname. Die vorhandenen Quellen liefern vor allem namenskundliche Informationen; echte öffentliche Diskussionen sind nur schwach belegt.",
+  "evidence_quality": "mittel bis schwach für öffentliche Resonanz; gut für etymologische und beliebtheitsbezogene Einordnung",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Shannon",
+  "normalized_name": "shannon",
+  "overall_resonance": "In Deutschland wirkt Shannon öffentlich eher neutral bis leicht positiv, vor allem als international klingender, altirisch geprägter Vorname mit klarer Herkunftserzählung. Die Wahrnehmung ist eher namenskundlich als emotional aufgeladen.",
+  "practical_notes": [
+    "Für Suchmaschinen-Nutzer ist Shannon vor allem als internationaler, irisch anmutender Vorname gut einordbar.",
+    "Die Quellenlage spricht eher für sachliche Namensinformationen als für starke öffentliche Meinungen.",
+    "Wenn Resonanz gesucht wird, ist bei Shannon eher ein ruhiger, unaufgeregter Eindruck zu erwarten als eine polarisierte Reaktion."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz zur öffentlichen Resonanz ist begrenzt, da vor allem Namensdatenbanken und keine freien Diskussionsräume vorliegen.",
+    "Beliebtheitsangaben beschreiben eher Verbreitung als echte gesellschaftliche Bewertung.",
+    "Unisex-Wahrnehmung kann je nach Kontext unterschiedlich ausfallen, ohne dass daraus eine feste Tendenz abgeleitet werden sollte."
+  ],
+  "short_summary": "Shannon wird in Deutschland überwiegend neutral bis leicht positiv wahrgenommen: international, altirisch und eher selten. Die öffentliche Resonanz ist aufgrund der Quellenlage nur vorsichtig zu bewerten.",
+  "source_count": 3,
+  "sources": [
+    {
+      "confidence": 0.95,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Shannon � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/S/Sh/Shannon/"
+    },
+    {
+      "confidence": 0.99,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Shannon � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/S/Sh/Shannon/"
+    },
+    {
+      "confidence": 0.86,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Shannon: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Shannon.html"
+    }
+  ],
+  "style_effect": [
+    "international",
+    "irisch/altirisch",
+    "neutral-informativ",
+    "modern-ungewöhnlich",
+    "unisex bzw. geschlechtsübergreifend wahrgenommen"
+  ],
+  "usable_evidence_count": 3,
+  "visibility": "Eher niedrig bis mittel: Shannon ist in Deutschland bekannt, aber laut den verfügbaren Quellen eher selten bzw. nicht breit verbreitet."
+}

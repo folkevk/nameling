@@ -1,0 +1,68 @@
+{
+  "associations": [
+    "französische Koseform von Anna",
+    "Bedeutungen wie „die Begnadete“ oder „die Anmutige“",
+    "teils auch Herkunftsbezüge zu Hannah/Anouschka",
+    "internationaler, kurzer Vorname",
+    "in Deutschland als beliebt beschrieben",
+    "teils als Unisex-Name erwähnt"
+  ],
+  "confidence": 0.84,
+  "display_text": "Anouk wird in Deutschland meist positiv bis neutral wahrgenommen: kurz, international, modern und mit freundlich besetzten Bedeutungen. Die Quellenlage ist solide für Namenslexika, aber die öffentliche Diskussionsbasis ist eher schmal.",
+  "evidence_quality": "Mittel bis gut, aber stark quellengebunden: mehrere einschlägige Namensseiten, jedoch kaum freie öffentliche Diskussion oder unabhängige breite Rezeption.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Anouk",
+  "normalized_name": "anouk",
+  "overall_resonance": "Für Anouk zeigt die verfügbare Evidenz in Deutschland eine überwiegend positive bis neutrale öffentliche Namenswahrnehmung. Der Name wird vor allem als international, kurz und klangvoll beschrieben; dazu kommen meist positiv besetzte Bedeutungen und eine Einordnung als verbreitet bzw. beliebt. Die Datenlage ist jedoch eher lexikalisch als diskussionsbasiert, also vorsichtig zu lesen.",
+  "practical_notes": [
+    "Für die öffentliche Wirkung eher freundlich und modern einordbar.",
+    "Als Namenswahl wirkt Anouk in Deutschland eher unauffällig positiv als belastet.",
+    "Wenn eine eindeutige kulturelle Herkunft wichtig ist, lohnt ein Blick auf die unterschiedliche etymologische Einordnung in den Quellen."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt fast ausschließlich aus Namenslexika und einzelnen Namensseiten.",
+    "Es gibt wenig direkte öffentliche Diskussion, daher ist das Stimmungsbild nur begrenzt repräsentativ.",
+    "Einige Herkunftsangaben variieren je nach Quelle und sollten nicht als eindeutig gelten."
+  ],
+  "short_summary": "Anouk wird in Deutschland überwiegend positiv und modern wahrgenommen, vor allem als kurzer, international klingender Name mit freundlichen Bedeutungsassoziationen. Die Evidenz ist eher lexikalisch als diskursiv.",
+  "source_count": 3,
+  "sources": [
+    {
+      "confidence": 0.95,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Anouk � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/A/An/Anouk/"
+    },
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "positive",
+      "source_type": "web",
+      "title": "Vorname Anouk � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/A/An/Anouk/"
+    },
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Anouk: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Anouk.html"
+    }
+  ],
+  "style_effect": [
+    "international und modern wirkend",
+    "kurz, weich und melodisch",
+    "namenskundlich positiv gerahmt",
+    "eher zeitgemäß als traditionell",
+    "teils als Unisex-Name eingeordnet"
+  ],
+  "usable_evidence_count": 3,
+  "visibility": "Mittlere Sichtbarkeit: Der Name taucht in Namenslexika und Bedeutungsseiten gut auf, aber es gibt nur begrenzt frei zugängliche öffentliche Diskussionen oder breitere Meinungsbilder."
+}

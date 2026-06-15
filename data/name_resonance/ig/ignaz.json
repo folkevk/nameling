@@ -1,0 +1,63 @@
+{
+  "associations": [
+    "Kurzform von Ignatius",
+    "lateinische bzw. etruskische Herkunft",
+    "Bedeutung oft als „der Feurige“ bzw. „Feuer“ beschrieben",
+    "selten in Deutschland",
+    "Namenstag am 31. Juli und 17. Oktober",
+    "historisch belegter Vorname",
+    "teils mit jesuitisch-katholischer Tradition verbunden"
+  ],
+  "confidence": 0.88,
+  "display_text": "Ignaz: öffentlich eher neutral bis leicht positiv wahrgenommen, vor allem als seltener, historischer und traditionsreicher Vorname mit markantem Klang.",
+  "evidence_quality": "mittel: zwei direkte Namensquellen, überwiegend sachlich-lexikalisch, mit nur begrenzter Breite.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Ignaz",
+  "normalized_name": "ignaz",
+  "overall_resonance": "Eher neutral bis leicht positiv: Ignaz wird öffentlich vor allem als seltener, traditioneller und sprachgeschichtlich interessanter Vorname wahrgenommen.",
+  "practical_notes": [
+    "Für Namenssuchende wirkt Ignaz besonders eigenständig und traditionsnah.",
+    "Wer einen seltenen, historisch klingenden Namen sucht, findet hier eine klare, unverwechselbare Option.",
+    "Im deutschen Alltag kann die Seltenheit zu Rückfragen führen, was je nach Kontext als Vorteil oder Nachteil erlebt wird."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist begrenzt und stützt sich auf wenige, vorwiegend lexikalische Namensquellen.",
+    "Die Wahrnehmung als „altmodisch“ ist eine stilistische Einordnung, keine objektive Eigenschaft.",
+    "Es gibt keine starke öffentliche Debatte oder klare Mehrheitsmeinung; die Resonanz bleibt insgesamt sachlich."
+  ],
+  "short_summary": "Ignaz wird öffentlich meist sachlich bis leicht positiv als seltener, historischer und traditionsreicher Vorname eingeordnet.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Ignaz � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/I/Ig/Ignaz/"
+    },
+    {
+      "confidence": 0.9,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Ignaz: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Ignaz.html"
+    }
+  ],
+  "style_effect": [
+    "traditionell",
+    "historisch",
+    "selten",
+    "markant",
+    "namenskundlich",
+    "leicht altmodisch",
+    "katholisch geprägt"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland geringe Sichtbarkeit, da der Name selten und wenig gebräuchlich ist. Dadurch wirkt er eher markant als alltäglich."
+}

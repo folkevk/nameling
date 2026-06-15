@@ -1,0 +1,59 @@
+{
+  "associations": [
+    "Kurzform von Beate, Beatrix oder Beatrice",
+    "lateinische Herkunft",
+    "Deutung im Umfeld von ‚glücklich‘ / ‚die Glückliche‘",
+    "weiblicher Vorname",
+    "namenskundlich und lexikalisch gut belegbar"
+  ],
+  "confidence": 0.9,
+  "display_text": "Bea wird überwiegend freundlich und klar wahrgenommen: ein kurzer, unkomplizierter Name mit klassischer Herkunft und meist positiver Bedeutungsdeutung. Die Evidenz ist jedoch vor allem aus Namenslexika abgeleitet, nicht aus breiter öffentlicher Diskussion.",
+  "evidence_quality": "mittel bis gut, aber einseitig: mehrere namenskundliche Quellen, jedoch kaum freie öffentliche Meinungsvielfalt",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Bea",
+  "normalized_name": "bea",
+  "overall_resonance": "Bea wirkt in der vorliegenden Evidenz überwiegend freundlich, kurz und leicht positiv konnotiert. Der Name erscheint vor allem als klare Kurzform mit traditioneller, namenskundlicher Einordnung.",
+  "practical_notes": [
+    "Für Suchmaschinen wirkt Bea unkompliziert, kurz und gut merkbar.",
+    "Die Schreibweise ist sehr einfach, was die alltägliche Nutzbarkeit erhöht.",
+    "Als Kurzname kann Bea je nach Kontext eher knapp oder vertraut wirken."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt fast ausschließlich aus Namenslexika und Datenbanken, nicht aus breiter öffentlicher Diskussion.",
+    "Daher ist die Resonanz nur vorsichtig zu bewerten und eher beschreibend als meinungsstark.",
+    "Positive Deutungen beziehen sich auf Namensbedeutungen, nicht auf gesellschaftliche Urteile."
+  ],
+  "short_summary": "Bea wird in den Quellen vor allem als kurze, freundliche und traditionell hergeleitete Namensform beschrieben. Die öffentliche Resonanz wirkt eher positiv, aber die Evidenz ist vor allem lexikalisch und daher begrenzt.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.95,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Bea � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/B/Be/Bea/"
+    },
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "positive",
+      "source_type": "web",
+      "title": "&#9655; Vorname Bea: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Bea.html"
+    }
+  ],
+  "style_effect": [
+    "kurz und prägnant",
+    "modern-klar",
+    "eher freundlich als streng",
+    "leicht klassisch durch die Herleitung",
+    "niedrigschwellig und unkompliziert"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Im deutschen Raum scheint Bea bekannt, aber eher als kompakter, seltener Kurzname mit sachlicher statt stark polarisierter öffentlicher Wahrnehmung. Die Evidenz deutet auf gute Wiedererkennbarkeit hin, ohne breite Debatte."
+}

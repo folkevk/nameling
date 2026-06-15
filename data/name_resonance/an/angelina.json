@@ -1,0 +1,59 @@
+{
+  "associations": [
+    "„Engel“ / „kleiner Engel“",
+    "altgriechische und lateinische Wurzeln",
+    "Gesandte/Botin-Gesangs-Assoziation",
+    "weiblicher Vorname mit internationaler Verbreitung",
+    "Namenstag",
+    "Kurzformen wie „Angie“"
+  ],
+  "confidence": 0.9,
+  "display_text": "Angelina wirkt in Deutschland überwiegend freundlich und positiv: ein klassisch-internationaler Mädchenname mit Engel-Assoziation, bekannt aus Namensseiten und eher sachlich-wohlwollend besprochen.",
+  "evidence_quality": "mittel bis gut; zwei einschlägige Namensseiten mit klarer Namensdiskussion, aber nur begrenzt öffentliche Alltagsresonanz.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Angelina",
+  "normalized_name": "angelina",
+  "overall_resonance": "Überwiegend positiv und freundlich, mit klarer Engel-/Botschafts-Assoziation und insgesamt sachlich-wohlwollender öffentlicher Wahrnehmung. Die Resonanz wirkt eher beschreibend als stark emotional oder kontrovers.",
+  "practical_notes": [
+    "Für Namenssuchmaschinen eignet sich eine kurze, freundliche Einordnung: bekannt, klassisch-international und leicht positiv besetzt.",
+    "Die Wahrnehmung ist eher zeitlos als provokant; keine Hinweise auf starke Stigmatisierung oder problematische Nebenbedeutungen in der vorliegenden Evidenz."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die vorliegende Evidenz stammt vor allem aus redaktionellen Namensseiten, also eher aus Beschreibungen als aus echter öffentlicher Debatte.",
+    "Positive Engel-Assoziationen sind kulturell naheliegend, sollten aber nicht als allgemeingültige Bewertung aller Trägerinnen des Namens verstanden werden."
+  ],
+  "short_summary": "Angelina wird im deutschsprachigen Raum überwiegend freundlich und positiv wahrgenommen: klassisch-international, mit Engel-Assoziation und sachlich-populärer Namenswirkung.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.92,
+      "is_name_discussion": true,
+      "sentiment": "positive",
+      "source_type": "web",
+      "title": "Vorname Angelina � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/A/An/Angelina/"
+    },
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Angelina: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Angelina.html"
+    }
+  ],
+  "style_effect": [
+    "sanft",
+    "elegant",
+    "international",
+    "modern-populär",
+    "freundlich",
+    "namenskundlich"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Der Name ist in deutschsprachigen Namensportalen gut sichtbar und bekannt; die öffentliche Präsenz wirkt eher populär-namenskundlich als diskussionsgeladen."
+}

@@ -1,0 +1,62 @@
+{
+  "associations": [
+    "deutsche Form von Dominic",
+    "lateinischer Ursprung",
+    "Bedeutung: „der zum Herrn Gehörige“",
+    "Namenstag am 8. August",
+    "lange im deutschen Namensgebrauch",
+    "Beliebtheit in Deutschland eher rückläufig",
+    "Spitznamen wie Domi, Dome, Dom, Nik"
+  ],
+  "confidence": 0.9,
+  "display_text": "Dominik wirkt öffentlich vor allem klassisch, etabliert und neutral bis leicht positiv. In den Quellen erscheint der Name als langjährig gebräuchliche deutsche Form von Dominic mit lateinischem Ursprung und traditioneller Bedeutung. Es gibt keine starken negativen Konnotationen; die Hinweise zur Beliebtheit deuten eher auf einen rückläufigen Trend als auf eine Stigmatisierung hin.",
+  "evidence_quality": "gut, aber überwiegend lexikalisch und informationsbasiert; nur begrenzt direkte Alltagsresonanz",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Dominik",
+  "normalized_name": "dominik",
+  "overall_resonance": "Überwiegend neutral bis klassisch-positiv: Dominik wird in der verfügbaren Evidenz vor allem als etablierter, traditionsreicher Vorname beschrieben, ohne starke polarisierende öffentliche Konnotationen.",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt Dominik vertraut, klar lesbar und traditionell.",
+    "Der Name hat eine solide, unaufgeregte Außenwirkung.",
+    "Die Kürze der gängigen Koseformen kann den Namen informell wirken lassen, ohne seinen klassischen Charakter zu verlieren."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz bezieht sich überwiegend auf Namenslexikon- und Informationsseiten; das sagt mehr über die Namensbeschreibung als über breite Alltagswahrnehmung aus.",
+    "Hinweise zur Beliebtheit sind zeitlich begrenzt und sollten nicht als allgemeingültige Bewertung verstanden werden.",
+    "Einzelne Community-Kommentare wurden nur vorsichtig berücksichtigt, da sie keine belastbare öffentliche Gesamtresonanz ersetzen."
+  ],
+  "short_summary": "Dominik wird in der vorliegenden Evidenz als klassischer, etablierter und eher neutral wahrgenommener Vorname beschrieben. Die öffentliche Resonanz ist sachlich und unaufgeregt, mit leicht traditioneller Wirkung.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Dominik � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/D/Do/Dominik/"
+    },
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Dominik: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Dominik.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "zeitlos",
+    "sachlich",
+    "traditionsnah",
+    "etabliert",
+    "vergleichsweise vertraut"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Im deutschsprachigen Raum gut bekannt und langjährig etabliert; die öffentliche Sichtbarkeit wirkt eher namenskundlich als trend- oder kontrovers geprägt."
+}

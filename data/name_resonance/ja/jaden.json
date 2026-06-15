@@ -1,0 +1,58 @@
+{
+  "associations": [
+    "Bedeutung und Herkunft",
+    "Jade bzw. Varianten wie Jadon/Jayden",
+    "englisch/hebräisch/spanische Einflüsse",
+    "moderne Namenswahl",
+    "Namenstag in Lexika erwähnt"
+  ],
+  "confidence": 0.76,
+  "display_text": "Jaden wird überwiegend sachlich bis leicht positiv wahrgenommen: modern, international klingend und in Namenslexika vor allem über Herkunft, Bedeutung und Varianten erklärt. Eine starke Kontroverse ist nicht erkennbar; die Evidenz ist jedoch eher schwach und vor allem lexikalisch.",
+  "evidence_quality": "mittel bis eher schwach; überwiegend lexikalische Webquellen statt diskursiver öffentlicher Resonanz",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Jaden",
+  "normalized_name": "jaden",
+  "overall_resonance": "Überwiegend sachlich bis leicht positiv wahrgenommen. In den verfügbaren Quellen wird Jaden vor allem als moderner, international klingender Vorname mit verschiedenen Herkunfts- und Bedeutungsdeutungen beschrieben. Eine starke öffentliche Kontroverse ist nicht erkennbar.",
+  "practical_notes": [
+    "Für Suchmaschinen und Namensübersichten ist Jaden ein gut einordenbarer, moderner Name.",
+    "Die Wahrnehmung wirkt eher neutral als polarisierend.",
+    "Bei der Deutung sollten Herkunftsangaben als mögliche Varianten verstanden werden, nicht als eindeutige Festlegung."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist eher schwach und basiert vor allem auf einzelnen Namens-Informationsseiten, nicht auf einer breiten öffentlichen Diskussion.",
+    "Ein Teil der Einordnung stammt aus lexikalischen Beschreibungen und nicht aus unabhängiger Resonanz in der Öffentlichkeit."
+  ],
+  "short_summary": "Jaden wird im deutschsprachigen Raum vor allem als moderner, international wirkender Vorname mit neutral bis leicht positiver Resonanz beschrieben. Die Evidenz ist jedoch eher informationsbasiert als gesellschaftlich debattenbasiert.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Jaden � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/J/Ja/Jaden/"
+    },
+    {
+      "confidence": 0.84,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Jaden: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Jaden.html"
+    }
+  ],
+  "style_effect": [
+    "modern",
+    "international klingend",
+    "informativ-lexikalisch",
+    "zeitgemäß",
+    "leicht unisex assoziiert"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Der Name wirkt im deutschsprachigen Raum bekannt, aber eher nicht breit emotional aufgeladen. Die öffentliche Sichtbarkeit entsteht vor allem über Namenslexika und Info-Seiten, weniger über eine ausgeprägte Debatte."
+}

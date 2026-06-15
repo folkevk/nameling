@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "niederdeutsche Koseform von Burkhard",
+    "althochdeutsche bzw. altnordische Namenswurzeln",
+    "Bedeutungen wie Schutz, Stärke oder Festigkeit",
+    "nordisch/schwedisch klingende Kurzform",
+    "selten, aber in Deutschland geläufig",
+    "literarische Assoziation mit Astrid Lindgren"
+  ],
+  "confidence": 0.91,
+  "display_text": "Bosse gilt in den vorliegenden Quellen als überwiegend positiv besetzter Vorname: nordisch, kräftig und traditionsnah. Er ist in Deutschland eher selten, aber bekannt, und wirkt dadurch markant, ohne ungewöhnlich zu sein.",
+  "evidence_quality": "gut bis stark: zwei klare Namenslexikon-Quellen mit direkter Diskussion des Vornamens, Herkunft und Bedeutungen; die Wahrnehmung ist jedoch überwiegend beschreibend und nicht als repräsentative Umfrage zu verstehen.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Bosse",
+  "normalized_name": "bosse",
+  "overall_resonance": "Überwiegend positiv bis freundlich-sachlich. Der Name Bosse wird in den Quellen meist als kräftig, nordisch und traditionsnah beschrieben; die Wirkung ist eher markant als neutral.",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt Bosse klar, prägnant und gut merkbar.",
+    "Die kurze Form unterstützt eine direkte, unkomplizierte Wahrnehmung.",
+    "Wer einen seltenen, aber dennoch vertraut klingenden Jungenvornamen sucht, könnte ihn passend finden."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die positiven Deutungen stammen vor allem aus Namenslexika und beschreibenden Einträgen; das ist keine objektive Messung der öffentlichen Meinung.",
+    "Einzelne Kommentare können anekdotisch sein, daher nur vorsichtig gewichten.",
+    "Keine Hinweise auf eine soziale Stigmatisierung in den vorliegenden Quellen."
+  ],
+  "short_summary": "Bosse wird öffentlich meist als nordisch, kräftig und traditionsnah wahrgenommen. Der Name ist eher selten, aber bekannt und wirkt markant-freundlich.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "positive",
+      "source_type": "web",
+      "title": "Vorname Bosse � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/B/Bo/Bosse/"
+    },
+    {
+      "confidence": 0.95,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Bosse: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Bosse.html"
+    }
+  ],
+  "style_effect": [
+    "kräftig",
+    "nordisch",
+    "traditionsnah",
+    "markant",
+    "freundlich-kurz",
+    "selten, aber nicht exotisch"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland eher bekannt, aber nicht sehr häufig. Dadurch wirkt der Name auffällig genug, um im Gedächtnis zu bleiben, ohne stark verbreitet zu sein."
+}

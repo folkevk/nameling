@@ -1,0 +1,64 @@
+{
+  "associations": [
+    "griechische Mythologie",
+    "Lorbeer / Lorbeerbaum",
+    "altgriechische Herkunft",
+    "weiblicher Vorname",
+    "international verbreitet",
+    "eher selten in Deutschland",
+    "Namenstag am 15. August"
+  ],
+  "confidence": 0.86,
+  "display_text": "Daphne wird in Deutschland meist als klassischer, internationaler und mythologisch geprägter Mädchenname wahrgenommen. Die Resonanz ist eher neutral bis positiv, mit einem eleganten und seltenen Eindruck. Die Evidenz ist jedoch vor allem lexikalisch und daher nur eingeschränkt repräsentativ.",
+  "evidence_quality": "mittel bis schwach: überwiegend lexikalische Namensseiten, kaum echte öffentliche Debatte oder breite Alltagsresonanz",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Daphne",
+  "normalized_name": "daphne",
+  "overall_resonance": "Daphne wird in der öffentlichen Namensbeschreibung überwiegend als klassisch, international und mythologisch geprägt wahrgenommen. Die Resonanz ist eher positiv bis neutral-informativ, mit einem eleganten und eher seltenen Klang in Deutschland.",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt Daphne stilvoll, bildungsnah und zeitlos.",
+    "Die Seltenheit in Deutschland kann als Vorteil für Individualität wahrgenommen werden.",
+    "Die mythologische Herkunft liefert eine klare, leicht verständliche Bedeutungsfolie.",
+    "Die Schreibweise ist einfach, die Aussprache kann je nach Region kurz erläutert werden."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz basiert vor allem auf redaktionellen Namensprofilen, nicht auf breiter öffentlicher Diskussion.",
+    "Einzelne Angaben zu Schreibweisen, Spitznamen oder Aussprache sind anekdotisch und nicht allgemein belastbar.",
+    "Die Wahrnehmung als 'klassisch' oder 'elegant' ist eine typische Namensassoziation, keine objektive Eigenschaft."
+  ],
+  "short_summary": "Daphne wirkt in Deutschland eher selten, klassisch und mythologisch geprägt. Die öffentliche Resonanz ist meist neutral bis positiv, aber die Evidenz stammt vor allem aus Namenslexika.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.92,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Daphne � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/D/Da/Daphne/"
+    },
+    {
+      "confidence": 0.92,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Daphne: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Daphne.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "elegant",
+    "mythologisch",
+    "international",
+    "selten",
+    "sprachlich weich",
+    "lexikalisch gepflegt"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland ist der Name bekannt, aber eher selten. Die Sichtbarkeit entsteht vor allem über Namenslexika und Bedeutungsseiten; belastbare freie Diskussionsresonanz ist nur schwach vorhanden."
+}

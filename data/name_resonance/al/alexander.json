@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "griechischer Ursprung",
+    "Bedeutung: Beschützer bzw. Abwehrender",
+    "historisch und kulturell etabliert",
+    "Namenstag",
+    "Kurzformen wie Alex, Xander oder Sascha",
+    "in Deutschland als verbreiteter Vorname bekannt"
+  ],
+  "confidence": 0.93,
+  "display_text": "Alexander wird in Deutschland überwiegend als klassischer, vertrauter und positiv-neutraler Vorname wahrgenommen. Er ist kulturell etabliert, sehr bekannt und mit Bedeutungen wie „Beschützer“ verbunden. Die öffentliche Resonanz wirkt eher anerkennend als kontrovers, wobei die Evidenz vor allem aus Namensseiten und nicht aus echter Diskussion stammt.",
+  "evidence_quality": "hoch für Namensbedeutung, Herkunft und verbreitete Assoziationen; mittel für öffentliche Resonanz, da kaum echte Debatten- oder Nutzungsdaten vorliegen.",
+  "generated_at": "2026-06-12T06:08:03Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Alexander",
+  "normalized_name": "alexander",
+  "overall_resonance": "Alexander wird öffentlich überwiegend sachlich-positiv und sehr etabliert wahrgenommen. Der Name gilt als klassisch, vertraut und traditionsreich, ohne auffällige Kontroversen.",
+  "practical_notes": [
+    "Der Name ist gut verständlich, international bekannt und in vielen Kontexten problemlos einsetzbar.",
+    "Durch die gebräuchliche Kurzform Alex wirkt der Name flexibel und alltagstauglich.",
+    "Für die öffentliche Wahrnehmung spricht eher Vertrautheit als Originalität."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt vor allem aus redaktionellen Namensseiten und bildet öffentliche Resonanz eher indirekt als über echte Diskussionsdynamik ab.",
+    "Wirkungen wie 'klassisch' oder 'würdig' sind typische Namensassoziationen und keine objektiven Eigenschaften."
+  ],
+  "short_summary": "Alexander wirkt in Deutschland als klassischer, sehr bekannter und positiv-neutral besetzter Vorname mit starker Tradition und hoher Alltagstauglichkeit.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.94,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Alexander � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/A/Al/Alexander/"
+    },
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Alexander: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Alexander.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "zeitlos",
+    "würdig",
+    "kräftig",
+    "international anschlussfähig",
+    "traditionsbewusst",
+    "umgangssprachlich verkürzbar"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Sehr hoch: In Deutschland ist Alexander ein sehr bekannter und gut anschlussfähiger Vorname mit klarer Präsenz in Namensverzeichnissen und als beliebte Standardform."
+}

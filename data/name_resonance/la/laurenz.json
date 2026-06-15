@@ -1,0 +1,63 @@
+{
+  "associations": [
+    "lateinische Herkunft",
+    "Kurzform von Laurentius",
+    "Lorbeer / Lorbeerkranz",
+    "Namenstag",
+    "deutschsprachiger Vorname",
+    "männlicher Vorname",
+    "eher selten",
+    "besonders in Bayern erwähnt"
+  ],
+  "confidence": 0.77,
+  "display_text": "Laurenz wirkt öffentlich eher positiv: ein klassischer, klangvoller und traditionsreicher Jungenname mit lateinischer Herkunft und Lorbeer-Bezug. Er gilt als eher selten, aber vertraut. Die Einschätzung beruht allerdings vor allem auf einzelnen Namensseiten und ist daher nur begrenzt repräsentativ.",
+  "evidence_quality": "mittel bis eher schwach; klare Namensbezüge vorhanden, aber nur begrenzt öffentliche Breite und nur wenige unabhängige Quellen",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Laurenz",
+  "normalized_name": "laurenz",
+  "overall_resonance": "Die öffentliche Resonanz auf Laurenz wirkt insgesamt eher positiv bis wertschätzend. Der Name wird vor allem als klassisch-deutschsprachig, traditionell und zugleich angenehm klangvoll beschrieben. Gleichzeitig ist die Evidenz begrenzt, da sie sich im Wesentlichen auf einzelne Namensseiten stützt.",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt Laurenz traditionsreich und klar einordenbar.",
+    "Der Name klingt vertraut, aber nicht beliebig häufig.",
+    "Wer einen klassischen, deutschsprachigen Jungenvornamen mit historischer Tiefe sucht, könnte ihn passend finden."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Datengrundlage ist schmal und basiert vor allem auf einzelnen Vornamensseiten.",
+    "Beliebtheits- und Bewertungsangaben sind nicht unabhängig breit belegt.",
+    "Positive Kommentare auf Namensseiten sind keine repräsentative öffentliche Meinungsumfrage."
+  ],
+  "short_summary": "Laurenz wird überwiegend positiv als klassischer, klangvoller und deutschsprachiger Jungenname wahrgenommen, mit lateinischer Herkunft und Lorbeer-Bezug. Die Evidenz ist jedoch begrenzt und stammt vor allem aus Namensseiten.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.94,
+      "is_name_discussion": true,
+      "sentiment": "mostly positive",
+      "source_type": "web",
+      "title": "Vorname Laurenz � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/L/La/Laurenz/"
+    },
+    {
+      "confidence": 0.9,
+      "is_name_discussion": true,
+      "sentiment": "gemischt",
+      "source_type": "web",
+      "title": "&#9655; Vorname Laurenz: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Laurenz.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "zeitlos",
+    "gehoben-klingend",
+    "traditionsnah",
+    "namenskundlich geprägt",
+    "seltenheitsbedingt etwas markant"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Im deutschsprachigen Raum bekannt, aber eher nicht massenhaft verbreitet. Die Wahrnehmung erscheint eher in Namenslexika und Bewertungsseiten als in breiteren öffentlichen Debatten."
+}

@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "spanische Herkunft",
+    "lateinisch/hebräische Deutungen",
+    "„das Lied“ bzw. „Loblied“",
+    "historisch bekannt",
+    "kulturelle Referenzen wie Oper/Liedtitel",
+    "weiblicher Vorname mit klassischem Klang"
+  ],
+  "confidence": 0.78,
+  "display_text": "Carmen wirkt in Deutschland eher klassisch und international, mit überwiegend neutral bis leicht positiver Konnotation. Die verfügbaren Quellen sind vor allem Namenslexika, daher ist die Evidenz für eine echte öffentliche Resonanz begrenzt.",
+  "evidence_quality": "Begrenzt: zwei namenskundliche Webseiten, überwiegend informativ und nicht als direkte öffentliche Diskussionsresonanz zu werten.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Carmen",
+  "normalized_name": "carmen",
+  "overall_resonance": "Der Vorname Carmen wirkt in der vorliegenden Evidenz überwiegend klassisch, international und eher neutral bis leicht positiv konnotiert. In Deutschland erscheint er vor allem als etablierter, bekannter Mädchenname mit kulturellen und sprachlichen Bezügen, nicht als Name mit stark polarisierten öffentlichen Reaktionen.",
+  "practical_notes": [
+    "Für eine Namenssuche ist Carmen gut verständlich und leicht einzuordnen.",
+    "Der Name wirkt eher vertraut als trendig.",
+    "Die Wahrnehmung dürfte stärker von kulturellen und sprachlichen Assoziationen als von aktuellen Debatten geprägt sein."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist für eine echte öffentliche Meinungsresonanz in Deutschland schwach, da sie vor allem aus Namensportalen stammt.",
+    "Es gibt keinen belastbaren Hinweis auf starke positive oder negative Stigmatisierung in den vorliegenden Quellen.",
+    "Beliebtheit und kulturelle Assoziationen sollten nicht mit heutiger gesellschaftlicher Wahrnehmung verwechselt werden."
+  ],
+  "short_summary": "Carmen wird in den Quellen als klassischer, internationaler und eher neutral bis leicht positiv wirkender Vorname beschrieben; belastbare Hinweise auf eine starke aktuelle öffentliche Resonanz in Deutschland sind jedoch gering.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.94,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Carmen � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/C/Ca/Carmen/"
+    },
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "mixed",
+      "source_type": "web",
+      "title": "&#9655; Vorname Carmen: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Carmen.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "international",
+    "eher zeitlos",
+    "lexikalisch geprägt",
+    "kulturell aufgeladen",
+    "sachlich wirkend"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Mittlere Sichtbarkeit: Der Name ist bekannt, aber die vorliegende Evidenz zur öffentlichen Resonanz in Deutschland ist begrenzt und stammt überwiegend aus Namenslexika statt aus breiteren Diskussionsquellen."
+}

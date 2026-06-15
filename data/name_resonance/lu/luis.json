@@ -1,0 +1,59 @@
+{
+  "associations": [
+    "spanische Form von Ludwig",
+    "Bedeutung: berühmter Krieger / ruhmreicher Kämpfer",
+    "auch als deutsche Kurzform von Alois beschrieben",
+    "in Deutschland beliebt",
+    "etablierter Jungenname",
+    "Namenstag",
+    "Spitznamen wie Lui, Lu oder Lulu"
+  ],
+  "confidence": 0.89,
+  "display_text": "Luis wird öffentlich meist positiv wahrgenommen: als beliebter, etablierter Jungenname mit spanischer Form von Ludwig, klarer Bedeutung und moderner, zugleich vertrauter Ausstrahlung. Die Evidenz ist vor allem aus Namenslexika abgeleitet, daher eher informativ als breit gesellschaftlich gemessen.",
+  "evidence_quality": "mittel bis hoch; die Quellen sind klar namenbezogen und konsistent positiv, stammen aber überwiegend aus Namenslexika statt aus breiter öffentlicher Debatte.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Luis",
+  "normalized_name": "luis",
+  "overall_resonance": "Luis wird in den vorliegenden Quellen überwiegend positiv und als etablierter, in Deutschland sehr geläufiger Jungenname dargestellt.",
+  "practical_notes": [
+    "Für Suchmaschinen- und Namensumfelder wirkt Luis meist vertraut und zugänglich.",
+    "Die Kombination aus Kürze, internationaler Lesbarkeit und etablierter Nutzung dürfte die positive Wahrnehmung unterstützen.",
+    "Wenn du eine sehr eindeutige, zeitlose Namenswirkung suchst, ist Luis ein eher unproblematischer, breiter akzeptierter Name."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die öffentliche Resonanz wirkt hier vor allem lexikalisch-informativ; belastbare Hinweise auf breitere Alltagswahrnehmung außerhalb von Namensportalen sind begrenzt.",
+    "Beliebtheit kann je nach Region und Zeitraum schwanken; die Quellen zeigen vor allem eine positive Einordnung, keine vollständige Meinungslandschaft."
+  ],
+  "short_summary": "Luis erscheint in den Quellen als beliebter, etablierter und positiv besetzter Jungenname mit spanisch-deutscher Herkunft und moderner, gut verständlicher Wirkung.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "Vorname Luis � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/L/Lu/Luis/"
+    },
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Luis: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Luis.html"
+    }
+  ],
+  "style_effect": [
+    "modern und zugleich klassisch",
+    "international anschlussfähig durch die spanische Form",
+    "kurz, klar und gut merkbar",
+    "namenslexikalisch positiv aufgeladen"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "hoch"
+}

@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "ungarische Form von Franz",
+    "Bedeutung: „der kleine Franzose“",
+    "männlicher Vorname",
+    "italienisch/ungarischer Bezug",
+    "selten bis moderat in Deutschland",
+    "Namenstag",
+    "ungewöhnlich, aber etabliert"
+  ],
+  "confidence": 0.78,
+  "display_text": "Ferenc wirkt in Deutschland eher neutral bis leicht positiv. Der Vorname ist selten, klingt international und wird vor allem über seine ungarische Herkunft und Bedeutung beschrieben. Die öffentliche Resonanz ist jedoch nur schwach belegt, da es kaum freie Diskussionen gibt.",
+  "evidence_quality": "Begrenzt: zwei namenskundliche Webquellen, sachlich-neutral bis leicht positiv, aber kaum echte öffentliche Diskussionsbasis.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Ferenc",
+  "normalized_name": "ferenc",
+  "overall_resonance": "Die öffentliche Resonanz auf den Vornamen Ferenc wirkt in Deutschland eher neutral bis leicht positiv. Der Name wird vor allem sachlich über Herkunft, Bedeutung und Seltenheit beschrieben; die Tonlage ist insgesamt ruhig und eher namenskundlich als meinungsstark.",
+  "practical_notes": [
+    "Für Suchende dürfte Ferenc vor allem durch seine Seltenheit und klare internationale Herkunft auffallen.",
+    "Der Name ist gut einordbar, aber im deutschen Alltag eher selten.",
+    "Die Wahrnehmung hängt stark davon ab, ob ein ungewöhnlicher, ungarisch geprägter Klang gewünscht ist."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist schwach und besteht fast nur aus redaktionellen Namensseiten.",
+    "Es gibt kaum frei erkennbare öffentliche Diskussion; positive Töne stammen teils aus wenigen Kommentaren.",
+    "Aussagen zur Wirkung sollten daher als Tendenz, nicht als gesicherte Mehrheitsmeinung gelesen werden."
+  ],
+  "short_summary": "Ferenc wird in Deutschland meist neutral bis leicht positiv wahrgenommen: ein seltener, markanter Vorname mit ungarischer Herkunft und klarer Namensbedeutung.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.94,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Ferenc � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/F/Fe/Ferenc/"
+    },
+    {
+      "confidence": 0.89,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Ferenc: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Ferenc.html"
+    }
+  ],
+  "style_effect": [
+    "klingt ungewöhnlich",
+    "wirkt international/ungarisch",
+    "eher markant als alltäglich",
+    "wird als traditionsnah und zugleich speziell wahrgenommen",
+    "aufgrund der Seltenheit eher auffällig"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Eher gering bis moderat sichtbar: Ferenc ist kein sehr verbreiteter Alltagsname in Deutschland und taucht vor allem in Namenslexika und einzelnen Kommentaren auf. Die öffentliche Debatte ist dünn."
+}

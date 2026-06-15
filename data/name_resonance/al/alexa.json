@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "Kurzform von Alexandra",
+    "altgriechischer Ursprung",
+    "Bedeutung: Beschützerin / Verteidigerin",
+    "Namenstag",
+    "Beliebtheit in Deutschland",
+    "Assoziation mit dem Amazon-Sprachassistenten",
+    "Rückgang der Vergabe seit dieser Assoziation"
+  ],
+  "confidence": 0.78,
+  "display_text": "Alexa wird in den vorliegenden Quellen vor allem sachlich-namenskundlich wahrgenommen: als Kurzform von Alexandra mit der Bedeutung „Beschützerin/Verteidigerin“. Die öffentliche Resonanz wirkt insgesamt eher neutral bis leicht gemischt, wobei die starke Assoziation mit dem Sprachassistenten die Wahrnehmung deutlich mitprägt. Die Evidenz dafür ist jedoch begrenzt und eher indirekt.",
+  "evidence_quality": "mittel bis schwach: zwei passende, aber überwiegend lexikalische Quellen; öffentliche Resonanz nur indirekt erschließbar.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Alexa",
+  "normalized_name": "alexa",
+  "overall_resonance": "Eher sachlich-informativ mit leicht gemischter Wahrnehmung. In den vorliegenden Quellen wird Alexa vor allem als Kurzform von Alexandra mit altgriechischer Herkunft und der Bedeutung „Beschützerin/Verteidigerin“ dargestellt. Als öffentliche Resonanz fällt vor allem eine gewisse Bekanntheit als Vorname auf, zugleich aber auch der Hinweis, dass der Name seit der großen Sichtbarkeit des Sprachassistenten stärker mit diesem assoziiert werden kann.",
+  "practical_notes": [
+    "Für Suchmaschinen-Nutzende ist Alexa ein klar erkennbarer, international klingender Mädchenname.",
+    "Wer den Namen vergibt oder nutzt, sollte die mögliche Verwechslung mit dem Sprachassistenten mitdenken.",
+    "Die Quellen beschreiben den Namen überwiegend positiv oder neutral, nicht stark polarisiert."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz zur öffentlichen Resonanz ist begrenzt und basiert auf wenigen namenskundlichen Quellen.",
+    "Ein Teil der Wahrnehmung kann durch den Sprachassistenten überlagert sein; das ist keine Aussage über den Namen selbst, sondern über die öffentliche Assoziation.",
+    "Keine belastbaren Aussagen über soziale Bewertung oder Stigmatisierung in der Breite ableitbar."
+  ],
+  "short_summary": "Alexa ist in den Quellen vor allem als altgriechisch geprägter Vorname mit der Bedeutung „Beschützerin/Verteidigerin“ sichtbar. Die öffentliche Wahrnehmung wirkt eher sachlich, jedoch durch die starke Assoziation mit dem Sprachassistenten etwas überlagert.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.92,
+      "is_name_discussion": true,
+      "sentiment": "mixed",
+      "source_type": "web",
+      "title": "Vorname Alexa � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/A/Al/Alexa/"
+    },
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "mixed",
+      "source_type": "web",
+      "title": "&#9655; Vorname Alexa: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Alexa.html"
+    }
+  ],
+  "style_effect": [
+    "informativ",
+    "namenskundlich",
+    "lexikalisch",
+    "leicht popkulturell überlagert",
+    "neutral bis leicht gemischt"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Mittlere bis hohe Namensbekanntheit in Deutschland, aber die öffentliche Wahrnehmung ist durch die Doppelbedeutung als Vorname und Sprachassistent geprägt."
+}

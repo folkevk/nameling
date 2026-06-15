@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "katalanische Form von Georg/Jorge",
+    "Bedeutung: Bauer/Landarbeiter",
+    "katalanisch",
+    "spanisch",
+    "Namenstag am 23. April",
+    "selten bis mäßig verbreitet in Deutschland"
+  ],
+  "confidence": 0.78,
+  "display_text": "Jordi wirkt in Deutschland sachlich-neutral bis leicht positiv: kurz, international klingend und eher selten. Die Quellen betonen vor allem die katalanische Herkunft und den klaren, markanten Klang; eine breite öffentliche Meinungsbasis ist dafür aber nur begrenzt belegt.",
+  "evidence_quality": "mittel bis schwach; zwei einschlägige Namensportale mit überwiegend beschreibender, wenig meinungsstarker Evidenz",
+  "generated_at": "2026-06-14T10:47:41Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Jordi",
+  "normalized_name": "jordi",
+  "overall_resonance": "Im deutschsprachigen Raum wirkt Jordi insgesamt sachlich-neutrale bis leicht positive Resonanz zu haben. Der Name wird vor allem als kurz, international klingend und sprachlich klar einordenbar wahrgenommen, zugleich aber eher als selten beschrieben. Die öffentliche Wahrnehmung basiert hier vor allem auf Namenslexika und Beschreibungsseiten; belastbare breite Meinungsdaten sind begrenzt.",
+  "practical_notes": [
+    "Für die Namenssuche wirkt Jordi modern, kurz und international verständlich.",
+    "In Deutschland ist der Name eher ungewöhnlich, was ihn markant macht.",
+    "Die Herkunft ist klar benennbar, was bei der Einordnung hilft.",
+    "Keine Hinweise auf starke negative soziale Stigmatisierung in den vorliegenden Quellen."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz zur öffentlichen Rezeption ist eher schwach bis mittel, da sie vor allem aus beschreibenden Namensseiten besteht.",
+    "Leicht positive Töne können durch redaktionelle Aufbereitung oder Einzelkommentare beeinflusst sein.",
+    "Keine belastbare Aussage über gesellschaftliche Wertung oder breite Alltagserfahrung ableitbar."
+  ],
+  "short_summary": "Jordi wird in Deutschland meist neutral bis leicht positiv wahrgenommen: kurz, international und eher selten, mit klar katalanischer Herkunft. Die Evidenz ist jedoch begrenzt und vor allem beschreibend.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.9,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Jordi � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/J/Jo/Jordi/"
+    },
+    {
+      "confidence": 0.88,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Jordi: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Jordi.html"
+    }
+  ],
+  "style_effect": [
+    "kurz und prägnant",
+    "internationaler Klang",
+    "katalanisch/spanische Anmutung",
+    "namenskundlich klar einzuordnen",
+    "eher selten als vertraut"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Eher gering bis mittel in Deutschland; der Name erscheint in Quellen als selten bis mäßig verbreitet und ist nicht breit alltagspräsent."
+}

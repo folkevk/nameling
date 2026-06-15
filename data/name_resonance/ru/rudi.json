@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "Kurz- bzw. Koseform von Rudolf/Rudolph",
+    "althochdeutsche Herkunft",
+    "Bedeutung im Umfeld von Ruhm/Ehre",
+    "klassischer deutscher Jungenvorname",
+    "Namenstag wird in Namenslexika genannt",
+    "eher traditioneller Charakter"
+  ],
+  "confidence": 0.88,
+  "display_text": "Rudi gilt im deutschsprachigen Raum als klassischer, kurz und vertraut wirkender Vorname. Die verfügbaren Namensquellen beschreiben ihn vor allem als Kurz- bzw. Koseform von Rudolf, mit traditioneller Herkunft und positiver Bedeutungsassoziation. Eine breite gesellschaftliche Debatte ist in der Evidenz kaum sichtbar.",
+  "evidence_quality": "mittel bis gut: zwei einschlägige Namensquellen mit klarer Vorname-დისkussion, aber wenig unabhängige oder breitere öffentliche Evidenz.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Rudi",
+  "normalized_name": "rudi",
+  "overall_resonance": "Überwiegend positiv und traditionell, mit klarer Namenskund-Resonanz. Die öffentliche Wahrnehmung wirkt eher freundlich als kontrovers.",
+  "practical_notes": [
+    "Für Suchmaschinen gut als klassischer, verständlicher Vorname einordenbar.",
+    "Wirkt kurz, vertraut und deutlich deutschsprachig.",
+    "Die Wahrnehmung scheint stärker über Herkunft und Bedeutung als über Modeeffekte geprägt."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt vor allem aus Namenslexika und Vorname-Seiten; direkte öffentliche Debatten oder breitere gesellschaftliche Bewertungen sind kaum belegt.",
+    "Keine belastbaren Hinweise auf Stigmatisierung in der vorliegenden Evidenz.",
+    "Einzelne redaktionelle oder kommentarbasiertes Aussagen sollten nicht überinterpretiert werden."
+  ],
+  "short_summary": "Rudi wird öffentlich meist als klassischer, traditioneller und freundlich klingender Kurzname wahrgenommen; die Evidenz ist vor allem namenskundlich und eher positiv.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "Vorname Rudi � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/R/Ru/Rudi/"
+    },
+    {
+      "confidence": 0.9,
+      "is_name_discussion": true,
+      "sentiment": "eher positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Rudi: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Rudi.html"
+    }
+  ],
+  "style_effect": [
+    "kurz und eingängig",
+    "vertraut-klassisch",
+    "umgangssprachlich-kosehaft",
+    "traditionell",
+    "namenskundlich gut erklärbar"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Im deutschsprachigen Namenskontext gut auffindbar, aber eher als klassischer Kurzname bekannt als als moderner Trendname."
+}

@@ -1,0 +1,58 @@
+{
+  "associations": [
+    "Kurzform von Stanley",
+    "altenglische Herkunft",
+    "Bedeutung in Richtung \"steinige Lichtung\" / \"Stein-Wiese\"",
+    "möglicher Bezug zu slawischen Namen wie Stanislav",
+    "selten bis moderat verbreitet in Deutschland"
+  ],
+  "confidence": 0.91,
+  "display_text": "Stan: überwiegend sachlich-neutral bis leicht positiv. Der Name wirkt kurz, international und klar einordenbar; in Deutschland eher selten bis moderat verbreitet. Die öffentliche Wahrnehmung konzentriert sich vor allem auf Herkunft und Bedeutung, nicht auf starke soziale Konnotationen.",
+  "evidence_quality": "hoch für Herkunft, Bedeutung und grobe Verbreitung; mittel für die öffentliche Resonanz, da die Evidenz vor allem aus Namensportalen stammt.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Stan",
+  "normalized_name": "stan",
+  "overall_resonance": "Stan wird in der deutschen Namenswahrnehmung überwiegend sachlich-neutral bis leicht positiv beschrieben. Der Name wirkt kurz, international und unkompliziert, mit klarer namenskundlicher Einordnung über englische bzw. teils slawische Bezüge. In der öffentlichen Darstellung steht eher die Herkunft und Bedeutung im Vordergrund als eine starke emotionale Aufladung.",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt Stan kompakt und international verständlich.",
+    "Die öffentliche Resonanz ist eher neutral mit leichter Sympathie durch die knappe, klare Form.",
+    "Wer den Namen wählt, bekommt einen seltenen, aber gut einprägsamen Vornamen."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Keine belastbaren Hinweise auf soziale Stigmatisierung oder problematische öffentliche Konnotationen in der vorliegenden Evidenz.",
+    "Die Quellen sind überwiegend Namensportale; die Einschätzung ist daher eher beschreibend als gesellschaftlich breit abgesichert."
+  ],
+  "short_summary": "Stan wird in Deutschland meist sachlich-neutral bis leicht positiv wahrgenommen: kurz, international und mit klarer namenskundlicher Herkunft, aber eher seltener Verbreitung.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.99,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Stan � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/S/St/Stan/"
+    },
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Stan: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Stan.html"
+    }
+  ],
+  "style_effect": [
+    "kurz und prägnant",
+    "international klingend",
+    "namenskundlich klar",
+    "modern-unaufgeregt",
+    "eher sachlich als verspielt"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland eher selten bis moderat verbreitet und daher nicht besonders massenhaft präsent. Die Wahrnehmung ist vor allem durch Namenslexika und Vornamenseiten geprägt, nicht durch breite populäre Debatten."
+}

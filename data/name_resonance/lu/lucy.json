@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "„die Leuchtende“ / „die Strahlende“",
+    "lateinisch-römische Herkunft bzw. englische Kurzform von Lucia",
+    "Namenstag",
+    "Beliebtheit in Deutschland",
+    "weiblicher Vorname",
+    "historische Verbindung zu Lucia von Syrakus"
+  ],
+  "confidence": 0.82,
+  "display_text": "Lucy wirkt in den vorliegenden deutschsprachigen Quellen überwiegend positiv: ein kurzer, heller und international geprägter Vorname mit der Assoziation „die Leuchtende“. Die Sichtbarkeit scheint gut, doch die Evidenz ist begrenzt, da nur Namenslexika vorliegen.",
+  "evidence_quality": "Begrenzt: zwei überwiegend positive Namenslexika, keine breite Diskussions- oder Umfragebasis.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Lucy",
+  "normalized_name": "lucy",
+  "overall_resonance": "Überwiegend positiv und eher klassisch-modern wahrgenommen; die verfügbaren Quellen beschreiben Lucy vor allem als klanglich freundlich, leicht und ansprechend.",
+  "practical_notes": [
+    "Für Suchende wirkt Lucy meist unkompliziert, freundlich und international verständlich.",
+    "Die Kurzform und der helle Bedeutungsrahmen können den Namen besonders attraktiv machen.",
+    "Die Bewertung sollte als Quellenbild aus Namenslexika gelesen werden, nicht als breiter Meinungsquerschnitt."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist schwach bis moderat, da nur zwei lexikalische Quellen vorliegen.",
+    "Es gibt keinen echten öffentlichen Debattenkontext, daher ist die Resonanz nur vorsichtig ableitbar.",
+    "Keine belastbaren Hinweise auf negative soziale Stigmatisierung in den vorliegenden Quellen."
+  ],
+  "short_summary": "Lucy wird in den vorliegenden Quellen überwiegend positiv, hell und modern beschrieben; die Aussagekraft ist wegen der begrenzten Evidenz vorsichtig zu interpretieren.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "Vorname Lucy � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/L/Lu/Lucy/"
+    },
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "positive",
+      "source_type": "web",
+      "title": "&#9655; Vorname Lucy: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Lucy.html"
+    }
+  ],
+  "style_effect": [
+    "leicht und hell",
+    "modern-kurz",
+    "freundlich und weich",
+    "international/englisch geprägt",
+    "zugleich etymologisch klassisch"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Im deutschsprachigen Raum sichtbar und bekannt, laut den Quellen auch als beliebter Vorname geführt; die Evidenz dafür ist jedoch begrenzt, weil nur Namenslexika vorliegen."
+}

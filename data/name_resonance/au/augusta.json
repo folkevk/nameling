@@ -1,0 +1,62 @@
+{
+  "associations": [
+    "lateinische Herkunft",
+    "römischer Ehrentitel",
+    "Bedeutung wie „die Erhabene“ bzw. „die Ehrwürdige“",
+    "Namenstag am 27. März",
+    "historisch-konservativer Klang",
+    "Spitznamen wie Gusti, Guste oder Gusta"
+  ],
+  "confidence": 0.82,
+  "display_text": "Augusta wirkt in Deutschland eher klassisch, würdevoll und traditionell. Der Name wird meist mit lateinischer Herkunft, dem Sinn von „erhaben“ oder „ehrwürdig“ sowie einem eher seltenen, markanten Klang verbunden. Die verfügbare Evidenz ist allerdings vor allem namenskundlich und nur begrenzt ein Abbild der breiten öffentlichen Resonanz.",
+  "evidence_quality": "mittel: gute inhaltliche Namensbezüge, aber begrenzte Evidenz für echte öffentliche Breitenresonanz",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Augusta",
+  "normalized_name": "augusta",
+  "overall_resonance": "Überwiegend positiv bis würdevoll, mit eher klassisch-traditioneller Anmutung. Die öffentliche Wahrnehmung wirkt insgesamt sachlich-respektvoll, nicht modern-quirlig.",
+  "practical_notes": [
+    "Wirkt formal und stilvoll, mit traditioneller Note.",
+    "Gut geeignet, wenn ein seltener, klar klassischer Name gesucht wird.",
+    "Die Länge und der historische Klang machen den Namen auffällig, aber nicht schrill."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt vor allem aus Namenslexika und redaktionellen Namensseiten, daher ist die Aussage zur allgemeinen öffentlichen Resonanz nur begrenzt belastbar.",
+    "Die Einschätzung ist eher eine Zusammenfassung der dokumentierten Namensbedeutung und einzelner Bewertungen als ein breites Meinungsbild.",
+    "Seltene Namen können unterschiedlich wahrgenommen werden; daraus lässt sich keine einheitliche gesellschaftliche Bewertung ableiten."
+  ],
+  "short_summary": "Augusta wird in der öffentlichen Darstellung meist als klassischer, würdevoller und eher seltener Vorname mit positiver, traditioneller Ausstrahlung beschrieben.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Augusta � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/A/Au/Augusta/"
+    },
+    {
+      "confidence": 0.9,
+      "is_name_discussion": true,
+      "sentiment": "positive",
+      "source_type": "web",
+      "title": "&#9655; Vorname Augusta: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Augusta.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "elegant",
+    "traditionell",
+    "würdig",
+    "historisch",
+    "selten",
+    "namenskundlich"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland eher selten bis moderat bekannt; dadurch keine starke Alltagspräsenz, aber als eigenständiger, markanter Vorname wahrnehmbar."
+}

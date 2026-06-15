@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "Bedeutung und Herkunft",
+    "lateinisch/altfranzösisch geprägt",
+    "Varianten zu Alois/Ludwig",
+    "Namenstag",
+    "geringe Popularität",
+    "seltene Verwendung"
+  ],
+  "confidence": 0.88,
+  "display_text": "Aloys wirkt in Deutschland überwiegend neutral bis leicht positiv: ein seltener, traditioneller und altsprachlich geprägter Vorname mit klarer namenskundlicher Einordnung. Die öffentliche Resonanz ist anhand der verfügbaren Quellen vor allem sachlich-informativ; direkte Alltagsresonanz ist nur begrenzt belegbar.",
+  "evidence_quality": "Mittlere Qualität: gute lexikalische Beschreibung des Namens, aber nur schwache direkte Evidenz zur öffentlichen Wahrnehmung.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Aloys",
+  "normalized_name": "aloys",
+  "overall_resonance": "Überwiegend neutral bis leicht positiv; der Name wirkt öffentlich vor allem sachlich, traditionell und selten.",
+  "practical_notes": [
+    "Für Suchmaschinen wirkt Aloys wie ein klassischer, eher ungewöhnlicher Vorname mit traditioneller Anmutung.",
+    "Die Schreibweise kann als markant wahrgenommen werden, bleibt aber verständlich im deutschsprachigen Kontext.",
+    "Wer nach moderner Breitenwirkung sucht, findet hier eher einen Nischen- als einen Trendnamen."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz basiert fast ausschließlich auf Namenslexika, daher ist die öffentliche Alltagsresonanz nur indirekt erfassbar.",
+    "Es gibt keine belastbaren Hinweise auf starke positive oder negative gesellschaftliche Wertungen.",
+    "Aus der Seltenheit sollte nicht automatisch eine soziale Bewertung abgeleitet werden."
+  ],
+  "short_summary": "Aloys wird öffentlich vor allem als seltener, traditioneller und sprachgeschichtlich interessanter Vorname wahrgenommen; die verfügbare Evidenz ist sachlich und eher neutral bis leicht positiv.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.92,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Aloys � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/A/Al/Aloys/"
+    },
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Aloys: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Aloys.html"
+    }
+  ],
+  "style_effect": [
+    "altsprachlich",
+    "traditionell",
+    "selten",
+    "namenskundlich",
+    "klassisch-heritage",
+    "informativ statt modisch"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Eher geringe Alltagspräsenz in Deutschland, dafür klare Auffindbarkeit in Namenslexika und Informationsseiten."
+}

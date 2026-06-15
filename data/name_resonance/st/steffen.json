@@ -1,0 +1,59 @@
+{
+  "associations": [
+    "Bedeutungsbezug zu „der Gekrönte“ / „der Bekrönzte“",
+    "Variante von Stefan",
+    "altgriechische Wurzeln über dänische/niederdeutsche/norwegische Vermittlung",
+    "Namenstag-Tradition",
+    "bekannt aus der Namenskunde und populären Vornamenslexika"
+  ],
+  "confidence": 0.95,
+  "display_text": "Steffen: klassisch, bodenständig und vertraut – ein im deutschsprachigen Raum gut bekannter Vorname mit traditioneller, eher sachlicher Ausstrahlung.",
+  "evidence_quality": "hoch; die Evidenz ist direkt namenkundlich, konsistent und belegt Herkunft, Bedeutung, Verbreitung und Namenstag.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Steffen",
+  "normalized_name": "steffen",
+  "overall_resonance": "Steffen wirkt im deutschsprachigen Raum als vertrauter, klassisch-deutscher Vorname mit eher sachlich-traditioneller als modischer Ausstrahlung.",
+  "practical_notes": [
+    "Für Suchmaschinen-Nutzung eignet sich eine kurze, neutrale Beschreibung ohne Wertung.",
+    "Der Name vermittelt eher Verlässlichkeit als Trendigkeit.",
+    "Je nach Generation kann Steffen als etwas typischer für frühere Jahrgänge wahrgenommen werden."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Keine belastbare negative Stigmatisierung in der vorliegenden Evidenz.",
+    "Die öffentliche Wahrnehmung wirkt eher nüchtern-informativ als emotional aufgeladen.",
+    "Beliebtheitsaussagen sind zeit- und regionsabhängig und sollten nicht als allgemeingültig verstanden werden."
+  ],
+  "short_summary": "Steffen ist ein etablierter, klassisch wirkender Vorname mit ruhiger, traditioneller Resonanz und klarer Verankerung im deutschsprachigen Raum.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Steffen � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/S/St/Steffen/"
+    },
+    {
+      "confidence": 0.99,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Steffen: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Steffen.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "bodenständig",
+    "zeitlos",
+    "norddeutsch geprägt",
+    "sachlich-traditionell"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland gut bekannt, aber nicht extrem häufig; die Wahrnehmung ist eher generationell geprägt und vor allem in Norddeutschland sowie im deutschsprachigen Raum insgesamt verankert."
+}

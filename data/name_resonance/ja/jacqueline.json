@@ -1,0 +1,71 @@
+{
+  "associations": [
+    "französische Form von Jakob/Jacques",
+    "hebräische Namenswurzel",
+    "Bedeutung im Sinne von „von Gott geschützt“ bzw. ähnliche Deutungen",
+    "Beliebtheitsschub in Deutschland in den 1990er Jahren",
+    "heute deutlich seltener",
+    "Namenstag",
+    "Kurzformen wie Jacky/Jackie"
+  ],
+  "confidence": 0.84,
+  "display_text": "Jacqueline wirkt in Deutschland vertraut, klassisch-französisch und eher zeitlos, ist heute aber deutlich seltener als in den 1990er Jahren. Die verfügbare Evidenz ist vor allem namenskundlich und nur begrenzt als direkte öffentliche Resonanz zu werten.",
+  "evidence_quality": "mittel bis gut, aber stark auf Namenslexikon-Quellen konzentriert; wenig unabhängige öffentliche Resonanzdaten",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Jacqueline",
+  "normalized_name": "jacqueline",
+  "overall_resonance": "Für Jacqueline ergibt sich in der öffentlichen Namenswahrnehmung in Deutschland eher ein sachlich-neutraler bis leicht gemischter Eindruck: klassisch-französisch klingend, mit klarer Namensgeschichte, aber heute deutlich weniger präsent als früher.",
+  "practical_notes": [
+    "Für Suchmaschinen wirkt Jacqueline eher vertraut als ungewöhnlich.",
+    "Die öffentliche Resonanz ist vermutlich stärker über den Klang und die Namensmode der 1990er Jahre geprägt als über aktuelle Popularität.",
+    "Als Namensprofil ist Jacqueline eher klassisch-international als modern-trendig."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Ein Teil der Bedeutungsableitungen ist etymologisch vereinfacht oder volksetymologisch gefärbt.",
+    "Die Beliebtheitsaussagen sind zeitgebunden und sagen nur begrenzt etwas über die heutige Wahrnehmung aus.",
+    "Die Evidenz ist schmal und basiert überwiegend auf einzelnen Namenslexikon-Seiten.",
+    "Vereinzelt genannte falsche Schreib- oder Aussprachemuster sollten nicht als allgemeine Regel verstanden werden."
+  ],
+  "short_summary": "Jacqueline wird in Deutschland meist als klassisch-französisch und bekannt wahrgenommen, heute aber eher seltener und mit einem leicht zeitgebundenen 90er-Jahre-Flair. Die Evidenz ist überwiegend lexikalisch und daher vorsichtig zu interpretieren.",
+  "source_count": 3,
+  "sources": [
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "leicht negativ",
+      "source_type": "web",
+      "title": "Vorname Jacqueline � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/J/Ja/Jacqueline/"
+    },
+    {
+      "confidence": 0.84,
+      "is_name_discussion": true,
+      "sentiment": "eher neutral bis leicht positiv",
+      "source_type": "web",
+      "title": "Vorname Jacqueline � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/J/Ja/Jacqueline/"
+    },
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "mixed",
+      "source_type": "web",
+      "title": "&#9655; Vorname Jacqueline: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Jacqueline.html"
+    }
+  ],
+  "style_effect": [
+    "französisch-elegant",
+    "klassisch-weiblich",
+    "lexikalisch vertraut",
+    "historisch etwas 90er-nah",
+    "teils als modern-auffällig erinnert",
+    "heute eher selten"
+  ],
+  "usable_evidence_count": 3,
+  "visibility": "Der Name ist bekannt, wirkt aber in Deutschland derzeit eher seltener und nicht mehr so zeittypisch wie in den 1990er Jahren. Die verfügbare Evidenz stammt fast ausschließlich aus Namenslexika, daher ist die Aussagekraft für echte öffentliche Resonanz begrenzt."
+}

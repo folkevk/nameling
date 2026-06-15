@@ -1,0 +1,62 @@
+{
+  "associations": [
+    "niederdeutsche und niederländische Form von Heinrich",
+    "Bedeutung im Sinne von Herr im Haus / Hausherr",
+    "althochdeutscher Ursprung",
+    "Namenstag-Tradition",
+    "Varianten wie Henry, Henri, Enrico, Enrique",
+    "Spitznamen wie Henk oder Henny"
+  ],
+  "confidence": 0.84,
+  "display_text": "Hendrik wirkt in den verfügbaren Quellen überwiegend klassisch, seriös und traditionsnah. Der Name ist vor allem als norddeutsch/niederländische Form von Heinrich bekannt und wird sachlich positiv beschrieben. Für eine echte öffentliche Resonanz ist die Evidenz allerdings eher schwach, da vor allem Namenslexika vorliegen.",
+  "evidence_quality": "mittel bis schwach für öffentliche Resonanz; gut für Herkunft, Bedeutung und Nutzungskontext, aber nur begrenzt für echte Publikumswahrnehmung.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Hendrik",
+  "normalized_name": "hendrik",
+  "overall_resonance": "Überwiegend sachlich-neutral bis positiv konnotiert. In den vorliegenden Quellen wird Hendrik vor allem als traditionsreicher, norddeutsch/niederländisch geprägter Vorname mit klarer Bedeutung und guter internationaler Anschlussfähigkeit beschrieben. Eine breitere öffentliche Diskussion ist in der Evidenz nur schwach sichtbar.",
+  "practical_notes": [
+    "Für die Namenssuche wirkt Hendrik vertraut, klassisch und regional gut verankert.",
+    "Der Name ist international gut anschlussfähig und in mehreren Sprachräumen anschlussfähig.",
+    "Die Wirkung ist eher solide und traditionell als modern-experimentell."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist vor allem lexikalisch; daraus lässt sich nur eingeschränkt öffentliche Resonanz ableiten.",
+    "Keine Hinweise auf nennenswerte Stigmatisierung oder problematische gesellschaftliche Vorurteile in den Quellen.",
+    "Beliebtheitsangaben sollten nicht als allgemeine Wertung des Namens verstanden werden."
+  ],
+  "short_summary": "Hendrik wird in den Quellen vor allem als klassischer, traditionsreicher und sachlich positiv konnotierter Vorname beschrieben; die öffentliche Resonanz ist eher zurückhaltend und vor allem lexikalisch belegt.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Hendrik � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/H/He/Hendrik/"
+    },
+    {
+      "confidence": 0.94,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Hendrik: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Hendrik.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "traditionell",
+    "norddeutsch/niederländisch",
+    "lexikalisch klar",
+    "seriös",
+    "zeitlos",
+    "international anschlussfähig"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Mittlere Sichtbarkeit: Der Name erscheint in Namenslexika und Bedeutungsseiten, aber kaum als eigenständiges Thema öffentlicher Debatten oder kontroverser Resonanz."
+}

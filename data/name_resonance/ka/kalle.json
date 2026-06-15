@@ -1,0 +1,64 @@
+{
+  "associations": [
+    "Koseform von Karl",
+    "Bedeutung: freier Mann",
+    "deutsch/nordisch",
+    "skandinavische Anmutung",
+    "Jungenname",
+    "Namenstag",
+    "regionale Verbreitung in Norddeutschland",
+    "Beliebtheit bzw. wiedererkennbare Alltagsnähe"
+  ],
+  "confidence": 0.82,
+  "display_text": "Kalle wirkt in der öffentlichen Wahrnehmung überwiegend freundlich, kurz und vertraut. Der Name wird meist als deutsch/nordische Koseform von Karl mit der Bedeutung „freier Mann“ eingeordnet. Die Evidenz ist dabei eher mittelstark und vor allem lexikalisch geprägt.",
+  "evidence_quality": "mittel: klare Namenslexikon-Hinweise, aber keine breit gestützte Mehrquellenlage",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Kalle",
+  "normalized_name": "kalle",
+  "overall_resonance": "Überwiegend positiv und vertraut, mit eher freundlicher als formeller Wirkung. In der öffentlichen Wahrnehmung erscheint Kalle vor allem als kurzer, nordisch/deutsch geprägter Jungenname mit Koseform-Charakter.",
+  "practical_notes": [
+    "Wirkt kurz, unkompliziert und leicht merkbar.",
+    "Geeignet, wenn ein Name mit freundlichem, nicht steifem Klang gesucht wird.",
+    "Durch die Koseform-Nähe kann der Name nahbar wirken.",
+    "Im offiziellen Kontext kann er etwas weniger formell erscheinen als längere Namensformen."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist insgesamt eher schmal und stützt sich vor allem auf Namenslexika und redaktionelle Seiten.",
+    "Beliebtheits- und Regionalangaben können je nach Quelle unterschiedlich ausfallen.",
+    "Die Wahrnehmung als 'locker' oder 'vertraut' ist eine typische Stilassoziation, keine feste Eigenschaft des Namens."
+  ],
+  "short_summary": "Kalle wird öffentlich meist als kurzer, freundlicher und nordisch/deutsch geprägter Jungenname wahrgenommen, mit Koseform-Charakter und eher vertrauter Ausstrahlung.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Kalle � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/K/Ka/Kalle/"
+    },
+    {
+      "confidence": 0.92,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Kalle: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Kalle.html"
+    }
+  ],
+  "style_effect": [
+    "kurz und eingängig",
+    "locker und vertraut",
+    "nordisch/deutsch geprägt",
+    "umgangsnah bis freundlich",
+    "koseformartig",
+    "modern wirkend, aber mit traditionellem Kern"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Im deutschen Sprachraum gut bekannt, aber eher nicht hochformal; die Sichtbarkeit wirkt solide, jedoch nicht dominant in allen Regionen."
+}

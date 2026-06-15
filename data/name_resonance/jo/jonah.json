@@ -1,0 +1,70 @@
+{
+  "associations": [
+    "althebräische Herkunft",
+    "Bedeutung: die Taube",
+    "Friedenssymbolik",
+    "biblische Variante von Jona/Jonas",
+    "männlicher Vorname",
+    "englische Namensform",
+    "in Deutschland eher bekannt und teils zunehmend beliebt"
+  ],
+  "confidence": 0.79,
+  "display_text": "Jonah gilt in den vorliegenden Quellen als moderner, internationaler und biblisch geprägter Vorname mit friedlicher Konnotation. Die Wahrnehmung ist überwiegend positiv bis neutral, die Evidenz stammt aber hauptsächlich aus Namenslexika und ist daher vorsichtig zu interpretieren.",
+  "evidence_quality": "mittel bis schwach: mehrere Quellen, aber überwiegend beschreibende Namenslexika statt breit gestreuter öffentlicher Resonanz",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Jonah",
+  "normalized_name": "jonah",
+  "overall_resonance": "Der Vorname Jonah wird in den vorliegenden deutschsprachigen Quellen überwiegend positiv bis neutral beschrieben. Er wirkt modern, international und zugleich biblisch-traditionell. Insgesamt ist die öffentliche Rezeption eher wohlwollend, die Evidenz dafür stammt aber vor allem aus Namenslexika und ist daher nur begrenzt aussagekräftig für echte Alltagsmeinungen.",
+  "practical_notes": [
+    "Für die Namenssuche ist Jonah gut verständlich, international anschlussfähig und in Deutschland gebräuchlich.",
+    "Die Schreibweise ist unkompliziert, die Herkunft wird meist biblisch/hebräisch erklärt.",
+    "Wer einen zeitgemäßen, aber nicht zu ausgefallenen Namen sucht, findet hier eine eher sichere und positive Wahrnehmung."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist vor allem lexikalisch und stammt von Namensseiten, nicht aus einer breiten öffentlichen Debatte.",
+    "Positive Zuschreibungen wie „schön“ oder „perfekt“ spiegeln eher Seiten- bzw. Nutzerstimmen wider und sollten nicht verallgemeinert werden.",
+    "Es gibt keine belastbaren Hinweise auf eine negative soziale Stigmatisierung des Namens in den vorliegenden Quellen."
+  ],
+  "short_summary": "Jonah wird in den Quellen meist positiv, modern und biblisch geprägt dargestellt; die Belege sind jedoch vor allem lexikalisch und nur begrenzt als echte öffentliche Meinungsbildung belastbar.",
+  "source_count": 3,
+  "sources": [
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Jonah � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/J/Jo/Jonah/"
+    },
+    {
+      "confidence": 0.92,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Jonah � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/J/Jo/Jonah/"
+    },
+    {
+      "confidence": 0.95,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Jonah: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Jonah.html"
+    }
+  ],
+  "style_effect": [
+    "modern",
+    "international",
+    "biblisch",
+    "sanft",
+    "friedlich konnotiert",
+    "namenskundlich vertraut"
+  ],
+  "usable_evidence_count": 3,
+  "visibility": "In Deutschland ist Jonah als Vorname sichtbar und bekannt, wird in den Quellen aber eher als moderner, zunehmend beliebter Name beschrieben als als breit diskutierter Alltagsname."
+}

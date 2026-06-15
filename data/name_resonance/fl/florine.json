@@ -1,0 +1,63 @@
+{
+  "associations": [
+    "lateinischer Ursprung",
+    "französische Weiterentwicklung von Flora",
+    "Bedeutung: die Blühende",
+    "Frühling",
+    "Blume/Blüte",
+    "selten bis mäßig gebräuchlich in Deutschland",
+    "römische Mythologie",
+    "Namenstag"
+  ],
+  "confidence": 0.78,
+  "display_text": "Florine wirkt in Deutschland eher selten, elegant und leicht positiv besetzt. Der Name wird vor allem mit Blüte, Frühling und einem französisch-lateinischen Ursprung verbunden. Die öffentliche Resonanz ist jedoch nur schwach belegt und stützt sich hauptsächlich auf wenige Namensportale.",
+  "evidence_quality": "mittel bis schwach; überwiegend einzelne Namenslexikon- und Verzeichniseinträge, kaum unabhängige öffentliche Resonanz nachweisbar",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Florine",
+  "normalized_name": "florine",
+  "overall_resonance": "Die öffentliche Wahrnehmung von Florine wirkt überwiegend sachlich-informativ bis leicht positiv. Der Name wird vor allem mit Blüte, Frühling, Blumen und einem französisch-lateinischen Ursprung verbunden. Gleichzeitig ist die Evidenz eher schmal, da sie im Wesentlichen auf wenigen Namenslexikon-Seiten beruht.",
+  "practical_notes": [
+    "Für die öffentliche Wahrnehmung ist vor allem die ästhetische, blumige Bedeutung relevant.",
+    "Wer einen seltenen, sanften und eher eleganten Namen sucht, findet hier eine passende Resonanz.",
+    "Als Suchname ist Florine gut verständlich, aber nicht sehr verbreitet."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Datenlage ist schwach und basiert hauptsächlich auf einzelnen Namensportalen.",
+    "Eine breitere öffentliche Debatte oder klar erkennbare Alltagsrezeption in Deutschland ist daraus nicht sicher ableitbar.",
+    "Positive Nuancen können durch die Art der Quellen leicht überbetont sein."
+  ],
+  "short_summary": "Florine wird meist als seltener, klangvoller und positiv konnotierter Vorname mit Blumen- und Frühlingsbezug wahrgenommen. Die Evidenz ist jedoch begrenzt.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.94,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Florine � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/F/Fl/Florine/"
+    },
+    {
+      "confidence": 0.89,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Florine: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Florine.html"
+    }
+  ],
+  "style_effect": [
+    "elegant",
+    "weich klingend",
+    "französisch geprägt",
+    "naturnah",
+    "klassisch-literarisch",
+    "leicht seltenheitsbetont"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Im deutschen Sprachraum eher selten bis mäßig gebräuchlich und daher öffentlich nicht besonders breit sichtbar. Der Name fällt eher durch seine klangvolle, elegante Wirkung auf als durch starke Alltagspräsenz."
+}

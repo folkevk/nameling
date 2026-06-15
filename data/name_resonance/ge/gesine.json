@@ -1,0 +1,63 @@
+{
+  "associations": [
+    "weiblicher Vorname",
+    "norddeutsche/friesische Herkunft",
+    "friesische Koseform bzw. Kurzform mit althochdeutschem Bezug",
+    "Bedeutungsfeld mit Speer/Stärke",
+    "selten in Deutschland",
+    "Namenstag",
+    "Kurzformen wie Gesi oder Sini"
+  ],
+  "confidence": 0.83,
+  "display_text": "Gesine wirkt in der öffentlichen Wahrnehmung überwiegend sachlich-neutral, klassisch und norddeutsch geprägt. Der Name gilt als selten und wird vor allem etymologisch bzw. namenskundlich beschrieben; eine breite Alltagsresonanz ist nur schwach belegt.",
+  "evidence_quality": "eher schwach bis moderat; zwei überwiegend lexikalische Quellen, keine breite öffentliche Debatte",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Gesine",
+  "normalized_name": "gesine",
+  "overall_resonance": "Überwiegend sachlich-neutral mit leicht traditionell-regionaler Färbung. Gesine wird vor allem als seltener, norddeutsch/friesisch geprägter Vorname mit klassischer, etymologisch erklärter Herkunft beschrieben.",
+  "practical_notes": [
+    "Für Suchende wirkt Gesine eher vertraut, aber ungewöhnlich.",
+    "Der Name kann als klassisch und regional verortet wahrgenommen werden.",
+    "Die Aussprache und Schreibweise dürften im deutschsprachigen Raum meist unproblematisch sein.",
+    "Wegen der Seltenheit kann der Name als markant, aber nicht modisch empfunden werden."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist schwach bis moderat und stützt sich im Wesentlichen auf zwei lexikalische Namensseiten.",
+    "Es gibt keine breite öffentliche Diskussionslage; die Wahrnehmung ergibt sich vor allem aus Namensbeschreibungen, nicht aus vielen unabhängigen Alltagsquellen.",
+    "Falls einzelne Seiten Kommentare zeigen, sind diese nicht repräsentativ für die Gesamtwahrnehmung."
+  ],
+  "short_summary": "Gesine wird meist sachlich und positiv-neutral als seltener, klassisch-norddeutscher Vorname mit traditioneller Herkunft wahrgenommen. Die öffentliche Resonanz ist jedoch nur begrenzt belegt.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Gesine � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/G/Ge/Gesine/"
+    },
+    {
+      "confidence": 0.84,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Gesine: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Gesine.html"
+    }
+  ],
+  "style_effect": [
+    "traditionell",
+    "regional-norddeutsch",
+    "klassisch",
+    "selten",
+    "namenskundlich",
+    "sachlich"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Eher gering bis mittel: Der Name erscheint in Namenslexika und Informationsseiten, aber die öffentlich breit sichtbare Alltagsresonanz ist nur schwach belegt."
+}

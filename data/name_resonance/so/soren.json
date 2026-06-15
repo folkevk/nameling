@@ -1,0 +1,51 @@
+{
+  "associations": [
+    "lateinischer Ursprung, Form von Severin",
+    "Bedeutungen wie „der Ernsthafte“ oder „der Strenge“",
+    "niederländische und dänische Namensform",
+    "Namenstag",
+    "Aussprachefragen im deutschsprachigen Raum",
+    "leicht markante, skandinavisch wirkende Namenswirkung"
+  ],
+  "confidence": 0.82,
+  "display_text": "Sören: überwiegend sachlich bis positiv wahrgenommen, mit nordisch-traditioneller Wirkung. Die öffentliche Rezeption ist eher ruhig und klar, gelegentlich begleitet von Aussprachefragen.",
+  "evidence_quality": "mittel: eine klare, aber begrenzte Webquelle mit namensbezogener Diskussion; Resonanzableitung daher vorsichtig.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Sören",
+  "normalized_name": "soren",
+  "overall_resonance": "Überwiegend sachlich und positiv-konnotiert, mit leicht gemischter öffentlicher Wahrnehmung durch Debatten zu Aussprache und Stil.",
+  "practical_notes": [
+    "Für eine öffentliche Namenssuche ist Sören gut einordbar und bekannt genug, um verstanden zu werden.",
+    "Die Schreibweise mit Umlaut macht den Namen charakteristisch, kann aber außerhalb des deutschsprachigen Raums Rückfragen auslösen.",
+    "Die Resonanz wirkt eher neutral bis positiv als kontrovers."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die vorliegende Evidenz ist nur eingeschränkt belastbar und basiert vor allem auf einer einzelnen Namensseite.",
+    "Aussprachedebatten können die Wahrnehmung leicht polarisieren, ohne dass das eine allgemeine Bewertung des Namens ist.",
+    "Keine belastbaren Hinweise auf soziale Stigmatisierung in der Evidenz."
+  ],
+  "short_summary": "Sören wird öffentlich meist sachlich und eher positiv wahrgenommen: ein nordisch wirkender, traditioneller Name mit klarer Bedeutung. Leichte Zurückhaltung entsteht vor allem durch Aussprache- und Schreibfragen.",
+  "source_count": 1,
+  "sources": [
+    {
+      "confidence": 0.94,
+      "is_name_discussion": true,
+      "sentiment": "mixed",
+      "source_type": "web",
+      "title": "&#9655; Vorname Sören: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,S%C3%B6ren.html"
+    }
+  ],
+  "style_effect": [
+    "klingt nordisch bzw. skandinavisch geprägt",
+    "wirkt traditionell und zugleich eigenständig",
+    "wird oft als klar und unkompliziert wahrgenommen",
+    "die Umlaute können die Schreib- und Aussprachewahrnehmung beeinflussen"
+  ],
+  "usable_evidence_count": 1,
+  "visibility": "mittel bis hoch"
+}

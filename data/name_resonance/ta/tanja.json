@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "Kurz- und Koseform von Tatjana",
+    "russische Herkunft",
+    "Bedeutung wie „die Kämpferische“ oder „die Beherzte“",
+    "Namenstag am 12. und 25. Januar",
+    "in Deutschland besonders in den 1960er/1970er Jahren beliebt",
+    "heute eher selten"
+  ],
+  "confidence": 0.91,
+  "display_text": "Tanja wirkt in der öffentlichen Rezeption überwiegend neutral bis leicht positiv: ein vertrauter, klassischer Vorname mit klarer Herkunft und Bedeutung, der in Deutschland besonders in den 1960er/1970er Jahren beliebt war und heute eher etwas seltener klingt.",
+  "evidence_quality": "mittel bis gut; zwei klare Namensquellen, aber überwiegend lexikalisch und wenig breit öffentlich diskutiert",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Tanja",
+  "normalized_name": "tanja",
+  "overall_resonance": "Überwiegend neutral bis leicht positiv. Tanja wird in den vorliegenden Namensquellen vor allem sachlich als weiblicher Vorname mit klarer Herkunft und Bedeutung beschrieben; die öffentliche Rezeption wirkt eher informativ als kontrovers.",
+  "practical_notes": [
+    "Für die Namenssuche wirkt Tanja unkompliziert, bekannt und leicht einordenbar.",
+    "Der Name kann als etwas retro oder generationstypisch wahrgenommen werden.",
+    "Die Quellenlage ist ausreichend für eine vorsichtige Einordnung, aber nicht für eine breite gesellschaftliche Bewertung."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt fast ausschließlich aus Namenslexika und ist damit nur begrenzt repräsentativ für eine echte öffentliche Debatte.",
+    "Es ist keine relevante Kontroverse oder soziale Stigmatisierung erkennbar.",
+    "Die Einschätzung beschreibt den Vornamen selbst, nicht Trägerinnen des Namens."
+  ],
+  "short_summary": "Tanja wird öffentlich vor allem sachlich und leicht positiv wahrgenommen: ein vertrauter, klassischer Vorname mit russisch geprägter Herkunft und starker Bedeutung, heute eher seltener.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "Vorname Tanja � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/T/Ta/Tanja/"
+    },
+    {
+      "confidence": 0.92,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Tanja: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Tanja.html"
+    }
+  ],
+  "style_effect": [
+    "weiblich",
+    "klar",
+    "klassisch-vertraut",
+    "zeittypisch",
+    "informativ",
+    "leicht warm"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland gut bekannt, aber heute eher weniger gebräuchlich als in den 1960er bis 1970er Jahren. Dadurch wirkt der Name vielen eher vertraut und zeittypisch, zugleich etwas generationenmarkiert."
+}

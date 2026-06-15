@@ -1,0 +1,51 @@
+{
+  "associations": [
+    "friesischer Vorname",
+    "Bedeutung: Sohn von / Sohn des",
+    "Aussprache mit langem oder kurzem ö",
+    "Herkunftsangabe aus Namenslexika",
+    "selten bzw. niedrig in Hitlisten"
+  ],
+  "confidence": 0.74,
+  "display_text": "Sönke wirkt in der öffentlichen Wahrnehmung vor allem als friesisch/norddeutsch geprägter, eher seltener Vorname. Die verfügbare Evidenz ist begrenzt und stützt sich hauptsächlich auf einen Namenslexikon-Eintrag; deshalb sollte die Resonanz vorsichtig als sachlich, traditionell und regional markiert beschrieben werden.",
+  "evidence_quality": "begrenzt; ein einzelner, lexikalischer Webeintrag mit Kommentaren und nur mittlerer Aussagekraft",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Sönke",
+  "normalized_name": "sonke",
+  "overall_resonance": "Überwiegend neutral bis leicht traditionell-regional geprägt. In der öffentlichen Namensbeschreibung wirkt Sönke vor allem als friesisch/norddeutsch verankerter Vorname mit klarer Herkunfts- und Bedeutungszuordnung.",
+  "practical_notes": [
+    "Für Suchmaschinen-Nutzer ist vor allem Herkunft und Aussprache relevant.",
+    "Die öffentliche Wahrnehmung wirkt eher sachlich-informativer Natur als emotional aufgeladen.",
+    "Wegen der Seltenheit kann der Name als markant, aber nicht massenhaft bekannt erscheinen."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist schwach und basiert auf einem einzelnen Namenslexikon-Eintrag; das ist für eine öffentliche Resonanzkarte nur begrenzt belastbar.",
+    "Hinweise zur Aussprache sind nicht ganz einheitlich, daher sollte keine einzige Norm als sicher dargestellt werden.",
+    "Aus den vorliegenden Daten ergibt sich kein Hinweis auf negative gesellschaftliche Stigmatisierung; dennoch ist die geringe Verbreitung zu beachten."
+  ],
+  "short_summary": "Sönke wird öffentlich vor allem als friesisch/norddeutscher Vorname mit klarer Herkunfts- und Bedeutungsangabe wahrgenommen. Die Evidenz ist allerdings begrenzt und eher lexikalisch als breit gesellschaftlich.",
+  "source_count": 1,
+  "sources": [
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Sönke: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,S%C3%B6nke.html"
+    }
+  ],
+  "style_effect": [
+    "friesisch/norddeutsch",
+    "traditionell",
+    "regional markiert",
+    "sprachlich eigenständig",
+    "namenslexikalisch dokumentiert"
+  ],
+  "usable_evidence_count": 1,
+  "visibility": "Eher seltene, aber klar erkennbare Name-Wahrnehmung im deutschen Sprachraum; die Sichtbarkeit scheint vor allem über Namenslexika und Herkunftsangaben zu entstehen, nicht über breite Mainstream-Präsenz."
+}

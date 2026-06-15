@@ -1,0 +1,66 @@
+{
+  "associations": [
+    "lateinische Herkunft",
+    "fromm",
+    "gottgefällig",
+    "tugendhaft",
+    "mild",
+    "Namenstag",
+    "Papst-/Kirchenbezug",
+    "edel",
+    "unverkennbar",
+    "selten bis mäßig vergeben"
+  ],
+  "confidence": 0.86,
+  "display_text": "Pius wirkt in der öffentlichen Wahrnehmung überwiegend positiv, klassisch und traditionell. Der Name wird meist mit lateinischer Herkunft, Religiosität und einem würdevollen Klang verbunden. Er ist im Deutschen eher selten, aber gut bekannt. Die Evidenz ist namebezogen, jedoch auf wenige Quellen begrenzt.",
+  "evidence_quality": "Gut namebezogen, aber auf wenige Webquellen mit lexikalischem Schwerpunkt und etwas Community-Feedback begrenzt.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Pius",
+  "normalized_name": "pius",
+  "overall_resonance": "Überwiegend positiv und traditionell geprägt, zugleich eher selten und klar kirchlich-lateinisch konnotiert.",
+  "practical_notes": [
+    "Für viele wirkt der Name klar, kurz und historisch aufgeladen.",
+    "Die Aussprache ist im Deutschen unkompliziert, die Schreibweise eindeutig.",
+    "Wer einen seltenen, klassischen und bedeutungsstarken Namen sucht, findet hier eine passende Option."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Der starke Religions- und Papstbezug kann je nach Umfeld als sehr traditionell oder konfessionell gelesen werden.",
+    "Die Einschätzung basiert auf wenigen namenskundlichen Quellen und einzelnen Kommentaren; sie ist daher nicht sehr breit abgesichert.",
+    "Beliebtheitsaussagen sind nur als grobe Einordnung zu verstehen, nicht als exakte Marktbeobachtung."
+  ],
+  "short_summary": "Pius wird öffentlich meist als klassisch, lateinisch und religiös geprägt wahrgenommen; der Name gilt als eher selten, aber positiv und würdevoll besetzt.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Pius � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/P/Pi/Pius/"
+    },
+    {
+      "confidence": 0.91,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Pius: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Pius.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "traditionell",
+    "würdevoll",
+    "lateinisch",
+    "religiös geprägt",
+    "selten",
+    "namenskundlich gut erklärbar"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Im deutschsprachigen Raum bekannt, aber nicht sehr häufig; die Wahrnehmung wirkt eher markant als alltäglich."
+}

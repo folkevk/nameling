@@ -1,0 +1,62 @@
+{
+  "associations": [
+    "altnordische bzw. altisländische Herkunft",
+    "dänisch/skandinavischer Klang",
+    "Bedeutung wird als 'friedlicher Dieb' bzw. sinngemäß hergeleitet",
+    "selten in Deutschland",
+    "klassisch-nordische Namenswirkung",
+    "mögliche Spitznamen wie Fridi oder Freddy"
+  ],
+  "confidence": 0.84,
+  "display_text": "Frithjof wirkt öffentlich eher selten, nordisch und traditionsnah. Die Resonanz ist überwiegend neutral bis leicht positiv, aber die Evidenz ist begrenzt und stammt vor allem aus Namenslexika statt aus breiter öffentlicher Diskussion.",
+  "evidence_quality": "mittel bis schwach: überwiegend beschreibende Namensquellen, nur wenig breit gestützte öffentliche Diskussion",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Frithjof",
+  "normalized_name": "frithjof",
+  "overall_resonance": "Frithjof wird in der öffentlichen Namenswahrnehmung eher als seltener, nordisch geprägter und sachlich-namenskundlich erklärbarer Vorname sichtbar. Die Resonanz wirkt insgesamt neutral bis leicht positiv, mit etwas Gemischtheit in einzelnen Kommentaren.",
+  "practical_notes": [
+    "Für eine Namenssuche eignet sich Frithjof vor allem, wenn ein seltener und deutlich nordisch wirkender Name gesucht wird.",
+    "Durch die Seltenheit kann der Name als markant wahrgenommen werden.",
+    "Die Quellenlage beschreibt vor allem Herkunft und Bedeutung; belastbare Alltagsresonanz in der breiten Öffentlichkeit ist nur indirekt erkennbar."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz für echte öffentliche Resonanz ist begrenzt; vieles stammt aus Namensdatenbanken und Lexika.",
+    "Einzelne Kommentare können den Namen loben oder kritisch finden, sind aber nicht repräsentativ.",
+    "Vereinzelt kann der Klang an 'Friedhof' erinnern; das ist eine Lautassoziation, kein objektives Merkmal."
+  ],
+  "short_summary": "Frithjof ist in Deutschland ein seltener, nordisch geprägter Vorname mit überwiegend neutral bis leicht positiver Resonanz; die Evidenz ist vor allem lexikalisch und nur begrenzt öffentlich-diskursiv.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Frithjof � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/F/Fr/Frithjof/"
+    },
+    {
+      "confidence": 0.94,
+      "is_name_discussion": true,
+      "sentiment": "gemischt",
+      "source_type": "web",
+      "title": "&#9655; Vorname Frithjof: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Frithjof.html"
+    }
+  ],
+  "style_effect": [
+    "altnordisch",
+    "skandinavisch",
+    "ungewöhnlich",
+    "traditionsbewusst",
+    "namenskundlich",
+    "selten",
+    "männlich-klar"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland wirkt der Name wenig verbreitet und eher auffällig als alltagsüblich. Die öffentliche Sichtbarkeit entsteht vor allem über Namenslexika und Datenbanken, nicht über breite Diskussionen oder starke mediale Präsenz."
+}

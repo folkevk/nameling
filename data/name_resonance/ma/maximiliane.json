@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "lateinisch/römische Herkunft",
+    "weibliche Form von Maximilian",
+    "Bedeutung im Sinn von \"die Größte\"",
+    "Kurzformen wie Maxi",
+    "selten in Deutschland",
+    "Namenstag am 8. November"
+  ],
+  "confidence": 0.89,
+  "display_text": "Maximiliane wirkt in der öffentlichen Rezeption eher positiv, klassisch und selten. Der Name wird vor allem sachlich über Herkunft, Bedeutung und Kurzformen beschrieben; eine breite Debatte gibt es kaum. Die Evidenz ist begrenzt, daher nur vorsichtig interpretierbar.",
+  "evidence_quality": "Mittel bis eher schwach: inhaltlich klare Namenseinträge, aber nur wenige Quellen und keine breite öffentliche Diskussionslage.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Maximiliane",
+  "normalized_name": "maximiliane",
+  "overall_resonance": "Eher positiv und sachlich-informativ, mit Tendenz zu einem eleganten, klassischen Eindruck. Die öffentliche Wahrnehmung wirkt jedoch insgesamt eher ruhig, weil der Name selten ist und die Evidenz nur aus wenigen Namenslexika stammt.",
+  "practical_notes": [
+    "Der Name kann als lang, klangvoll und eher formell wahrgenommen werden.",
+    "Kurzformen wie Maxi, Lia, Mila oder Liane werden teils mitgedacht.",
+    "Für Suchmaschinen wirkt der Name eher ungewöhnlich als massentauglich."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist schmal und besteht vor allem aus einzelnen Namenslexikon-Seiten.",
+    "Positive Bewertungen wie \"schön\" sind subjektive Einzelmeinungen und keine breite öffentliche Mehrheitsmeinung.",
+    "Es gibt keine klar erkennbare gesellschaftliche Debatte oder Stigmatisierung zu diesem Namen."
+  ],
+  "short_summary": "Maximiliane wird öffentlich meist sachlich und eher positiv beschrieben: ein seltener, klassisch wirkender Vorname mit lateinischer Herkunft und der Bedeutung \"die Größte\". Die Wahrnehmung basiert aber vor allem auf einzelnen Namenslexika.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Maximiliane � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/M/Ma/Maximiliane/"
+    },
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Maximiliane: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Maximiliane.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "elegant",
+    "formal",
+    "traditionell",
+    "namenskundlich",
+    "selten"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Niedrig bis mittel: Maximiliane ist in Deutschland deutlich seltener und wirkt eher bekannt in Namensportalen als im breiten Alltagsgebrauch."
+}

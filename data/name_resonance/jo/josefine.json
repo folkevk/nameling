@@ -1,0 +1,62 @@
+{
+  "associations": [
+    "hebräischer bzw. biblischer Ursprung",
+    "Bedeutung im Sinn von 'er füge hinzu' / 'Gott möge hinzufügen'",
+    "weiblicher Vorname",
+    "Namenskürzel bzw. Kosename 'Fine'",
+    "Namenstag",
+    "Beliebtheit in Deutschland",
+    "früher teils als altbacken beschrieben, später wieder beliebter"
+  ],
+  "confidence": 0.76,
+  "display_text": "Josefine wirkt in den vorliegenden Quellen klassisch, traditionell und eher positiv besetzt. Der Name wird vor allem mit hebräisch-biblischer Herkunft, der Bedeutung und einer wieder wachsenden Beliebtheit in Deutschland verbunden. Eine breite öffentliche Debatte ist in der Evidenz jedoch kaum sichtbar.",
+  "evidence_quality": "mittel: zwei namenskundliche Webquellen mit eher positiver Tendenz, aber keine breit angelegte soziale Resonanz oder echte Debatte.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Josefine",
+  "normalized_name": "josefine",
+  "overall_resonance": "Josefine wird in den vorliegenden Quellen überwiegend positiv bis wertend-neutral dargestellt. Der Name wirkt klassisch, traditionell und zugleich wieder zeitgemäß; besonders häufig werden Herkunft, Bedeutung und Beliebtheit betont. Die öffentliche Resonanz scheint eher freundlich als kontrovers, auch wenn die Evidenz vor allem aus Namenslexika und redaktionellen Beschreibungen besteht.",
+  "practical_notes": [
+    "Für Suchmaschinen nutzbar als klassisch-traditioneller Mädchenname mit positiver Grundwahrnehmung.",
+    "Die Herkunfts- und Bedeutungsaspekte dominieren die Darstellung stärker als emotionale Debatten.",
+    "Wenn öffentliche Resonanz gemeint ist, sollte die Quellenlage als eher indirekt und mäßig stark bezeichnet werden."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist nur begrenzt öffentlich-diskursiv: Es handelt sich vor allem um Namensseiten statt breite Community-Reaktionen.",
+    "Vereinzelt können subjektive Bewertungen vorkommen, sie sollten nicht als allgemeine Meinung verstanden werden."
+  ],
+  "short_summary": "Josefine wird überwiegend freundlich und klassisch wahrgenommen; die Quellen betonen vor allem Herkunft, Bedeutung und wieder steigende Beliebtheit. Die öffentliche Resonanz ist eher positiv, aber die Evidenz stammt hauptsächlich aus Namenslexika.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.95,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "Vorname Josefine � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/J/Jo/Josefine/"
+    },
+    {
+      "confidence": 0.95,
+      "is_name_discussion": true,
+      "sentiment": "überwiegend positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Josefine: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Josefine.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "traditionell",
+    "namenskundlich",
+    "elegant",
+    "zeitlos",
+    "leicht vertraut",
+    "wieder populärer wahrgenommen"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Im deutschsprachigen Raum ist der Name bekannt und gut einordenbar, ohne extrem häufig zu wirken. Die Sichtbarkeit entsteht vor allem durch seine traditionelle Form, die Bedeutung und die erwähnte wieder steigende Beliebtheit."
+}

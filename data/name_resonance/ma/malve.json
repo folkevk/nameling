@@ -1,0 +1,64 @@
+{
+  "associations": [
+    "Malvenblume",
+    "lateinische Herkunft (malva)",
+    "Pflanzenname",
+    "selten",
+    "ungewöhnlich",
+    "schön",
+    "Mädchenvorname",
+    "Namenstag",
+    "Beliebtheit in Deutschland"
+  ],
+  "confidence": 0.83,
+  "display_text": "Malve wird als seltener, pflanzenbezogener und leicht poetischer Mädchenvorname wahrgenommen. Die Resonanz ist überwiegend freundlich bis neutral, mit einem leichten positiven Eindruck. Wegen der schmalen Evidenz ist die Einschätzung vorsichtig zu lesen.",
+  "evidence_quality": "mittel bis schwach: namenskundliche Quellen vorhanden, aber kaum breite öffentliche Debatte oder unabhängige Alltagsbelege",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Malve",
+  "normalized_name": "malve",
+  "overall_resonance": "Malve wird in den vorliegenden Namensquellen überwiegend als seltener, pflanzenbezogener und eher poetisch wirkender Mädchenvorname wahrgenommen. Die Resonanz ist insgesamt freundlich bis neutral, mit einem leicht positiven Unterton.",
+  "practical_notes": [
+    "Als Name fällt Malve durch seinen klaren Naturbezug und seine Seltenheit auf.",
+    "Die Wirkung ist eher weich und literarisch als klassisch-traditionell.",
+    "Für eine öffentliche Resonanzkarte sollte der Name als stilistisch markant, aber nur schwach breit belegt beschrieben werden."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist begrenzt und stützt sich im Wesentlichen auf zwei Namensseiten.",
+    "Breite öffentliche Diskussion oder belastbare alltagsbezogene Wahrnehmung ist nicht erkennbar.",
+    "Einzelne positive Kommentare können die Wirkung zugunsten des Namens verzerren."
+  ],
+  "short_summary": "Malve wirkt in den Quellen selten, pflanzlich und freundlich-poetisch. Die öffentliche Resonanz erscheint eher positiv, ist aber nur begrenzt belegt.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.95,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Malve � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/M/Ma/Malve/"
+    },
+    {
+      "confidence": 0.9,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Malve: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Malve.html"
+    }
+  ],
+  "style_effect": [
+    "pflanzlich-naturnah",
+    "sanft",
+    "ungewöhnlich",
+    "eher weiblich konnotiert",
+    "leicht poetisch",
+    "namenskundlich interessant"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Eher geringe bis moderate Sichtbarkeit; der Name wirkt ungewöhnlich und ist offenbar nicht breit im Alltag präsent."
+}

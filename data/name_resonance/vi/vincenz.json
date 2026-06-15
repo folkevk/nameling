@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "lateinische Herkunft",
+    "Bedeutung: der Siegende / der Siegreiche",
+    "Nebenform von Vinzenz",
+    "christlich-historische Bezüge",
+    "Namenstag",
+    "selten im deutschen Namensgebrauch"
+  ],
+  "confidence": 0.87,
+  "display_text": "Vincenz wird meist sachlich bis leicht positiv wahrgenommen: ein seltener, klassisch wirkender Vorname mit lateinischer Herkunft und der Bedeutung „der Siegende“. Die Resonanz ist eher traditions- und bedeutungsbezogen als trendig; die Evidenz dazu ist jedoch begrenzt und stammt vor allem aus Namenslexika.",
+  "evidence_quality": "mittel: zwei einschlägige Namensquellen, überwiegend lexikalisch und sachlich; nur begrenzte Breite der öffentlichen Evidenz",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Vincenz",
+  "normalized_name": "vincenz",
+  "overall_resonance": "Vincenz wird in der öffentlichen Namensrezeption überwiegend sachlich und leicht positiv wahrgenommen. Der Name wirkt traditionsnah, selten und kulturell aufgeladen, vor allem durch seine lateinische Herkunft und die Bedeutung „der Siegende / der Siegreiche“.",
+  "practical_notes": [
+    "Der Name ist gut verständlich, aber im Alltag eher ungewöhnlich.",
+    "Die Schreibweise mit ‚c‘ kann als markante Variante von Vinzenz wahrgenommen werden.",
+    "Für Suchmaschinen und Namensportale ist die Resonanz eher informativ als emotional stark.",
+    "Durch die seltene Verwendung kann der Name als eigenständig und charaktervoll erscheinen."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist insgesamt begrenzt und stützt sich vor allem auf zwei Namenslexika.",
+    "Beliebtheits- und Rankingangaben sind abhängig vom jeweiligen Datenstand und sollten nicht überinterpretiert werden.",
+    "Die positive Wirkung ergibt sich eher aus der Namensbedeutung als aus breiter öffentlicher Alltagsnutzung."
+  ],
+  "short_summary": "Vincenz gilt als seltener, traditionsreicher Vorname mit leicht positiver, würdevoller Wirkung. Die öffentliche Wahrnehmung ist vor allem sachlich und namenskundlich geprägt.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Vincenz � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/V/Vi/Vincenz/"
+    },
+    {
+      "confidence": 0.92,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Vincenz: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Vincenz.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "traditionsbetont",
+    "leicht würdevoll",
+    "selten",
+    "namenskundlich auffällig"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "eher gering bis mittel"
+}

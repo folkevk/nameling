@@ -1,0 +1,59 @@
+{
+  "associations": [
+    "lateinische bzw. römische Herkunft",
+    "mögliche Deutung als „der Hinkende“ oder Bezug zu den Claudiern",
+    "männlicher Vorname",
+    "Namenstag",
+    "bekannte Nutzung im italienischen, spanischen und portugiesischen Sprachraum"
+  ],
+  "confidence": 0.84,
+  "display_text": "Claudio wirkt in Deutschland als klassischer, lateinisch geprägter Vorname mit überwiegend sachlich-neutraler Resonanz. Er ist bekannt und gut einordenbar, aber eher zeitlos als trendig. Einzelne kritische Stimmen betreffen vor allem Klang oder Spitznamen; eine starke öffentliche Abwertung ist in der Evidenz nicht erkennbar.",
+  "evidence_quality": "Begrenzt bis mittel: mehrere Namenslexikon-Quellen, aber keine breite, unabhängige Diskussionslage.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Claudio",
+  "normalized_name": "claudio",
+  "overall_resonance": "Überwiegend sachlich-neutral mit leicht klassisch/etabliertem Eindruck; vereinzelt auch kritische oder distanzierte Nebentöne, aber keine starke öffentliche Polarisierung erkennbar.",
+  "practical_notes": [
+    "Für eine Suchmaschine bietet sich eine neutrale, knappe Einordnung an.",
+    "Der Name wirkt traditionell und verständlich, ohne stark modisch zu sein.",
+    "Bei der Bewertung sollte zwischen lexikalischen Informationen und tatsächlicher öffentlicher Meinung unterschieden werden."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz basiert nur auf wenigen Namenslexikon-Quellen und nicht auf breiter öffentlicher Diskussion.",
+    "Einige Bedeutungsdeutungen sind historisch nicht ganz eindeutig.",
+    "Vereinzelte Kritik an Klang oder Spitznamen ist quellengebunden und sollte nicht verallgemeinert werden."
+  ],
+  "short_summary": "Claudio wird in Deutschland überwiegend sachlich und als klassischer, lateinisch geprägter Vorname wahrgenommen. Die öffentliche Resonanz wirkt eher neutral bis leicht positiv, mit einzelnen kritischen Untertönen, aber ohne klare Stigmatisierung.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Claudio � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/C/Cl/Claudio/"
+    },
+    {
+      "confidence": 0.88,
+      "is_name_discussion": true,
+      "sentiment": "gemischt",
+      "source_type": "web",
+      "title": "&#9655; Vorname Claudio: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Claudio.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "international anschlussfähig",
+    "lateinisch-römisch geprägt",
+    "informativ und nüchtern",
+    "eher zeitlos als modern"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Der Name ist in Deutschland bekannt und als Vorname gut auffindbar, wirkt aber eher etabliert als trendig."
+}

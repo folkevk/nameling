@@ -1,0 +1,63 @@
+{
+  "associations": [
+    "griechischer Ursprung",
+    "Nebenform von Sibylla",
+    "Bedeutung im Umfeld von „Prophetin“ / „Seherin“",
+    "selten in Deutschland",
+    "Namenslexikon- und Bedeutungsstil",
+    "Namenstag (9. Oktober)"
+  ],
+  "confidence": 0.74,
+  "display_text": "Sybille wirkt in Deutschland eher klassisch, seriös und traditionsnah. Die öffentliche Resonanz ist überwiegend neutral bis leicht positiv; starke Vorlieben oder Ablehnung sind in der vorliegenden, allerdings begrenzten Evidenz nicht erkennbar.",
+  "evidence_quality": "Begrenzt: zwei überwiegend sachliche Namenslexikon-Quellen, wenig echte öffentliche Meinungsvielfalt.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Sybille",
+  "normalized_name": "sybille",
+  "overall_resonance": "Überwiegend neutral bis leicht positiv; der Name wird eher sachlich, klassisch und traditionsnah wahrgenommen, ohne starke öffentliche Polarisierung.",
+  "practical_notes": [
+    "Für Suchmaschinen-Nutzer wirkt der Name eher vertraut als modern.",
+    "Die Schreibweise ist klar, die Aussprache im Deutschen meist unproblematisch.",
+    "Durch die Seltenheit kann der Name individuell und markant wirken.",
+    "Die öffentliche Rezeption ist eher beschreibend als emotional aufgeladen."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist schwach und stammt vor allem aus Namenslexika statt aus breiter öffentlicher Debatte.",
+    "Positive oder negative Wirkung kann stark vom persönlichen Geschmack abhängen.",
+    "Keine belastbaren Hinweise auf gesellschaftliche Stigmatisierung oder klar negative Konnotationen in den Quellen."
+  ],
+  "short_summary": "Sybille wird in den Quellen vor allem als klassischer, seltener und sachlich wirkender Vorname beschrieben. Die Resonanz ist überwiegend neutral bis leicht positiv, aber die Evidenz ist eher schmal.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Sybille � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/S/Sy/Sybille/"
+    },
+    {
+      "confidence": 0.9,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Sybille: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Sybille.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "traditionell",
+    "seriös",
+    "eher historisch",
+    "sachlich",
+    "wenig modisch",
+    "deutlich weiblich"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Eher niedrig bis mittel in Deutschland: Sybille wirkt bekannt, aber nicht sehr häufig und dadurch weniger alltagspräsent."
+}

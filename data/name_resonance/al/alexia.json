@@ -1,0 +1,62 @@
+{
+  "associations": [
+    "altgriechische Herkunft",
+    "Bedeutung im Sinn von „die Männer Abwehrende“ bzw. „die Beschützerin“",
+    "Kurz- oder Formbezug zu Alexandra/Alexis",
+    "Namenstag",
+    "selten bis moderat verbreitet in Deutschland",
+    "gelegentlich als elegant beschrieben"
+  ],
+  "confidence": 0.76,
+  "display_text": "Alexia wirkt in Deutschland überwiegend neutral bis positiv: klassisch, elegant und altgriechisch geprägt. Der Name ist eher selten bis moderat bekannt, ohne starke öffentliche Kontroversen. Einzelne Alexa-/Amazon-Anspielungen kommen vor, prägen die Gesamtwirkung aber kaum.",
+  "evidence_quality": "mittel bis schwach: zwei überwiegend redaktionelle Namensquellen, wenig echte öffentliche Debatte, aber konsistente Sachinformationen und leichte Resonanzhinweise.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Alexia",
+  "normalized_name": "alexia",
+  "overall_resonance": "Alexia wird in den vorliegenden deutschsprachigen Namensquellen überwiegend sachlich und eher positiv wahrgenommen. Der Name wirkt altgriechisch geprägt, elegant und klassisch-weiblich, mit einer klaren namenskundlichen Einordnung. Auffällige negative Resonanz ist nur schwach vorhanden und betrifft eher vereinzelte Alltagsassoziationen als den Namen selbst.",
+  "practical_notes": [
+    "Für eine Namenssuche ist Alexia gut lesbar, feminin und international verständlich.",
+    "Die Resonanz ist insgesamt neutral bis freundlich; der Name fällt eher durch Klang und Herkunft als durch Kontroversen auf.",
+    "Wer einen seltenen, aber vertrauten Vornamen sucht, findet hier eine eher unauffällige Option mit klassischem Eindruck."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist eher schwach und stammt vor allem aus redaktionellen Namensseiten, nicht aus breiter öffentlicher Diskussion.",
+    "Einzelne Kommentare enthalten Anspielungen auf Alexa/Amazon; das ist eher eine Alltagsassoziation als eine stabile Namensbewertung.",
+    "Keine belastbaren Hinweise auf starke Stigmatisierung oder ausgeprägte Negativresonanz in der vorliegenden Evidenz."
+  ],
+  "short_summary": "Alexia wird in den vorliegenden Quellen überwiegend neutral bis positiv beschrieben: klassisch, elegant und altgriechisch geprägt, in Deutschland eher selten bis moderat bekannt. Negative Anklänge sind nur vereinzelt und schwach.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.92,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Alexia � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/A/Al/Alexia/"
+    },
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "mixed",
+      "source_type": "web",
+      "title": "&#9655; Vorname Alexia: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Alexia.html"
+    }
+  ],
+  "style_effect": [
+    "elegant",
+    "klassisch",
+    "leicht exotisch",
+    "weiblich-klar",
+    "namenskundlich",
+    "zeitlos",
+    "sachlich"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland wirkt Alexia eher selten bis moderat verbreitet und damit durchaus bekannt, aber nicht massenhaft. Die öffentliche Sichtbarkeit entsteht vor allem über Namensportale und weniger über breite Alltagsdebatten."
+}

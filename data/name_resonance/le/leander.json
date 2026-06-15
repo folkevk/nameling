@@ -1,0 +1,62 @@
+{
+  "associations": [
+    "altgriechische Herkunft",
+    "Bedeutung: „Mann des Volkes“ / „Mann aus dem Volk“",
+    "Hero und Leander",
+    "griechische Mythologie",
+    "Namenstag",
+    "in Deutschland bekannt und gebräuchlich",
+    "für einige als klangvoll und besonders beschrieben"
+  ],
+  "confidence": 0.88,
+  "display_text": "Leander wirkt in den vorliegenden Quellen überwiegend positiv: klassisch, klangvoll und mit griechisch-mythologischer Prägung. Die Evidenz ist jedoch eher namenkundlich als breit öffentlich, daher ist die Resonanz vorsichtig zu interpretieren.",
+  "evidence_quality": "mittel: zwei einschlägige Namensquellen, aber wenig direkte Breitenresonanz und teils kuratierte bzw. anekdotische Bewertungen",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Leander",
+  "normalized_name": "leander",
+  "overall_resonance": "Leander wird in den vorliegenden Quellen überwiegend positiv bis freundlich-sachlich wahrgenommen. Der Name wirkt in der öffentlichen Namensbeschreibung klassisch, bildungsnah und zugleich modern, mit klaren Bezügen zu griechischer Herkunft und Mythologie. Die Evidenz ist jedoch eher namenkundlich als eine direkte Abbildung breiter öffentlicher Debatten.",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt Leander insgesamt positiv, stilvoll und gut anschlussfähig.",
+    "Der Name verbindet historische Tiefe mit einem modernen Klang.",
+    "Wer eine klare, traditionelle deutsche Kurzform sucht, findet sie hier eher weniger; der Eindruck ist etwas besonderer und literarischer."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt überwiegend aus Namensseiten mit kuratierten Inhalten; das ist nur eine indirekte Form öffentlicher Resonanz.",
+    "Einige positive Einschätzungen beruhen auf einzelnen Nutzerkommentaren und sind daher nur anekdotisch.",
+    "Die Quellen zeigen eher Beschreibung und Einordnung als eine breite gesellschaftliche Debatte."
+  ],
+  "short_summary": "Leander wird öffentlich meist freundlich und wertschätzend beschrieben: klassisch, griechisch geprägt und klangvoll. Die Datenlage ist eher namenkundlich als gesellschaftlich breit, daher nur vorsichtig als positive Resonanz zu lesen.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Leander � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/L/Le/Leander/"
+    },
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Leander: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Leander.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "gebildet",
+    "mythologisch",
+    "sachlich-informativ",
+    "modern und zugleich traditionsnah",
+    "eher elegant als populär-trendy"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Mittlere Sichtbarkeit: Der Name ist in Deutschland bekannt und verbreitet, die verfügbaren Quellen zeigen aber vor allem Lexikon- und Namensseiten statt breiter öffentlicher Diskussion."
+}

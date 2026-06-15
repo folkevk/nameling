@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "lateinischer Ursprung",
+    "Bedeutung: der Siegende / der Siegreiche",
+    "deutsche, englische, französische und niederländische Namensform",
+    "Namenstag",
+    "Beliebtheit in Deutschland",
+    "Spitznamen wie Vince, Vinz oder Vinni"
+  ],
+  "confidence": 0.82,
+  "display_text": "Vincent wird öffentlich meist positiv und sachlich wahrgenommen: ein bekannter, klassisch-moderner Name mit der Bedeutung „der Siegreiche“. Die Evidenz basiert vor allem auf Namenslexika, daher ist das Meinungsbild nur begrenzt repräsentativ.",
+  "evidence_quality": "mittel bis schwach: überwiegend lexikalische Namensseiten, wenig echte öffentliche Diskussion",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Vincent",
+  "normalized_name": "vincent",
+  "overall_resonance": "Vincent wird in den vorliegenden Namensquellen überwiegend positiv bis sachlich-neutral beschrieben. Der Name wirkt im deutschen Kontext vertraut, modern und zugleich klassisch, mit klarer Verbindung zu der Bedeutung „der Siegende“ bzw. „der Siegreiche“.",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt Vincent meist unkompliziert, modern und zugleich traditionsnah.",
+    "Die internationale Schreib- und Aussprachefähigkeit ist ein Pluspunkt.",
+    "Wenn eine besonders einzigartige oder seltene Wirkung gewünscht ist, kann Vincent als eher verbreitet wahrgenommen werden."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Datenlage ist schwach, weil sie vor allem aus Namensdatenbanken und Lexikontexten besteht.",
+    "Es gibt kaum unabhängige, community-basierte Rückmeldungen zur öffentlichen Wahrnehmung.",
+    "Eine beliebte Namensverwendung sollte nicht automatisch mit einer einheitlichen sozialen Bewertung verwechselt werden."
+  ],
+  "short_summary": "Vincent wird in den Quellen vor allem positiv und sachlich beschrieben: bekannt, beliebt, klassisch-modern und mit der Bedeutung „der Siegreiche“.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Vincent � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/V/Vi/Vincent/"
+    },
+    {
+      "confidence": 0.95,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Vincent: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Vincent.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch und zeitlos",
+    "modern und gut anschlussfähig",
+    "eher freundlich als markant",
+    "einfache internationale Einsetzbarkeit",
+    "kurze, klare Klangform"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Der Name ist in Deutschland gut bekannt und öffentlich präsent; die Quellen deuten auf eine hohe Wiedererkennbarkeit und solide Beliebtheit hin. Die Evidenz stammt jedoch fast ausschließlich aus Namenslexika und ist daher nur eingeschränkt als echtes Meinungsbild zu lesen."
+}

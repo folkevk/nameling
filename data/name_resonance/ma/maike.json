@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "friesische und niederdeutsche Koseform von Maria",
+    "hebräischer Bezug über Maria",
+    "Bedeutungen wie \"die von Gott Geliebte\" bzw. weitere hergeleitete Deutungen",
+    "Namenstag",
+    "früher in Deutschland beliebter Name",
+    "Varianten wie Meike, Maika, Maaike, Mayke"
+  ],
+  "confidence": 0.84,
+  "display_text": "Maike wirkt in der öffentlichen Online-Darstellung überwiegend positiv, vertraut und klassisch. Die verfügbare Evidenz stammt vor allem aus Namenslexika, daher ist die Resonanz eher informativ als meinungsstark. Der Name wird mit friesisch-niederdeutscher Herkunft, Maria-Bezug und einem kurzen, alltagstauglichen Klang verbunden.",
+  "evidence_quality": "mittel bis gut; inhaltlich klar, aber überwiegend aus Namenslexikon-Quellen statt aus echter öffentlicher Diskussionsresonanz.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Maike",
+  "normalized_name": "maike",
+  "overall_resonance": "Eher positiv und sachlich-wohlwollend, mit starker namenskundlicher statt diskussionsgetriebener Prägung.",
+  "practical_notes": [
+    "Wirkt vertraut, traditionell und regional verankert.",
+    "Der Name hat einen kurzen, klaren Klang und erscheint eher unaufgeregt als modisch.",
+    "Für eine Suchmaschine eignet sich eine neutrale Beschreibung mit Hinweis auf Herkunft und Beliebtheit, ohne starke Wertung."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz für öffentliche Resonanz ist begrenzt; sichtbar sind vor allem Lexikon- und Informationsseiten, keine breite Diskussionslage.",
+    "Positive Einordnungen können teilweise aus der redaktionellen Darstellung der Quellen stammen.",
+    "Es gibt keinen belastbaren Hinweis auf soziale Stigmatisierung in der vorliegenden Evidenz."
+  ],
+  "short_summary": "Maike wird online überwiegend freundlich und sachlich wahrgenommen: ein vertrauter, regional geprägter Vorname mit klassischer Herkunft und eher positiver Grundstimmung.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.89,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "Vorname Maike � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/M/Ma/Maike/"
+    },
+    {
+      "confidence": 0.91,
+      "is_name_discussion": true,
+      "sentiment": "positive",
+      "source_type": "web",
+      "title": "&#9655; Vorname Maike: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Maike.html"
+    }
+  ],
+  "style_effect": [
+    "informativ",
+    "namenskundlich",
+    "klassisch",
+    "regional",
+    "alltagstauglich",
+    "kurz und vertraut klingend"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Mittlere Sichtbarkeit: Der Name wird online klar beschrieben und eingeordnet, aber die öffentliche Resonanz wirkt vor allem aus Namenslexika und weniger aus breiten Meinungsquellen ableitbar."
+}

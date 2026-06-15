@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "englische Form von Emilie",
+    "lateinischer Ursprung",
+    "Bedeutung in Richtung 'die Eifrige', 'die Fleißige' oder 'die Ehrgeizige'",
+    "sehr beliebt in Deutschland",
+    "klassisch-moderne Namenswirkung",
+    "Namenstag am 5. Januar"
+  ],
+  "confidence": 0.92,
+  "display_text": "Emily wirkt in Deutschland modern, freundlich und sehr bekannt. Die vorliegenden Quellen beschreiben den Namen überwiegend positiv, mit Assoziationen zu englischer Form, lateinischem Ursprung und hoher Beliebtheit. Die Evidenz ist vor allem lexikalisch, daher ist die Einordnung vorsichtig zu lesen.",
+  "evidence_quality": "mittel bis gut, aber vorwiegend lexikalisch statt diskursiv",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Emily",
+  "normalized_name": "emily",
+  "overall_resonance": "Emily wird in den vorliegenden Quellen überwiegend positiv und sehr vertraut wahrgenommen. Der Name gilt im deutschsprachigen Raum als modern, international anschlussfähig und seit Jahren sehr beliebt. Die öffentliche Rezeption ist dabei eher beschreibend als kontrovers.",
+  "practical_notes": [
+    "Für Suchmaschinen eignet sich Emily als klar bekannt, freundlich und unkompliziert wirkender Vorname.",
+    "Im deutschen Kontext wirkt der Name eher geläufig als selten.",
+    "Die Datenlage ist ausreichend für eine vorsichtige, aber nicht tiefdiskursive Einordnung."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt vor allem aus Namenslexikon-Seiten und nicht aus einer breiten öffentlichen Debatte.",
+    "Es gibt keine belastbaren Hinweise auf soziale Stigmatisierung oder negative gesellschaftliche Konnotationen.",
+    "Beliebtheitsaussagen sollten als allgemeine Einordnung verstanden werden, nicht als exakte Messung öffentlicher Meinung."
+  ],
+  "short_summary": "Emily wird in Deutschland überwiegend positiv, modern und sehr bekannt wahrgenommen; die Evidenz ist jedoch hauptsächlich beschreibend aus Namenslexika.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "Vorname Emily � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/E/Em/Emily/"
+    },
+    {
+      "confidence": 0.92,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Emily: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Emily.html"
+    }
+  ],
+  "style_effect": [
+    "modern",
+    "international",
+    "freundlich",
+    "weiblich",
+    "zeitgemäß",
+    "weithin bekannt"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "hoch"
+}

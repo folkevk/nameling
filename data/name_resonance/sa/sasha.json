@@ -1,0 +1,68 @@
+{
+  "associations": [
+    "slawische Koseform",
+    "Verbindung zu Alexander/Alexandra",
+    "Bedeutung: Beschützer/in",
+    "Unisex-Name",
+    "Beliebtheit in Deutschland",
+    "Namenstag"
+  ],
+  "confidence": 0.88,
+  "display_text": "Sasha wirkt in Deutschland überwiegend neutral bis leicht positiv: ein internationaler, moderner Unisex-Name mit sachlich beschriebener Herkunft und Bedeutung. Die Evidenz ist vor allem lexikalisch und daher nur begrenzt repräsentativ für eine breite öffentliche Debatte.",
+  "evidence_quality": "Begrenzt bis mittel: mehrere konsistente, aber überwiegend redaktionelle Namensquellen; wenig direkte öffentliche Meinungsäußerung.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Sasha",
+  "normalized_name": "sasha",
+  "overall_resonance": "Überwiegend neutral bis leicht positiv, vor allem als sachlich beschriebener Unisex-Name mit internationalem Klang. Die öffentliche Rezeption wirkt eher informativ als emotional, mit Interesse an Bedeutung, Herkunft und Beliebtheit.",
+  "practical_notes": [
+    "Der Name ist im deutschsprachigen Raum bekannt und verständlich.",
+    "Je nach Kontext kann Sasha eher als modern und international wahrgenommen werden.",
+    "Durch die Unisex-Nutzung kann der Name bewusst geschlechtsneutral wirken."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt fast ausschließlich aus Namenslexika und nicht aus breiten öffentlichen Diskussionen.",
+    "Aussagen zur Wirkung des Namens sind daher vorsichtig zu lesen und eher als beschreibende Tendenzen zu verstehen."
+  ],
+  "short_summary": "Sasha wird in Deutschland vor allem neutral bis leicht positiv als internationaler, moderner Unisex-Name wahrgenommen. Die Quellen betonen Bedeutung, Herkunft und Beliebtheit, liefern aber nur begrenzt echte öffentliche Resonanz.",
+  "source_count": 3,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Sasha � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/S/Sa/Sasha/"
+    },
+    {
+      "confidence": 0.94,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Sasha � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/S/Sa/Sasha/"
+    },
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Sasha: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Sasha.html"
+    }
+  ],
+  "style_effect": [
+    "modern",
+    "international",
+    "unisex",
+    "sachlich",
+    "zeitlos",
+    "lexikalisch"
+  ],
+  "usable_evidence_count": 3,
+  "visibility": "Mittel: Der Name erscheint in deutschsprachigen Namenslexika und wird dort klar beschrieben, aber die Evidenz für eine breitere öffentliche Debatte ist begrenzt."
+}

@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "weiblicher Vorname",
+    "althebräische und althochdeutsche Herleitung in den Quellen",
+    "Bedeutungen wie 'die Geschmückte', 'die Adelige' oder 'die Edle'",
+    "Kurzform/Variante von Adelheid oder Adele",
+    "Namenstag",
+    "selten, aber bekannt",
+    "international verständlich"
+  ],
+  "confidence": 0.86,
+  "display_text": "Ada wird überwiegend positiv und sachlich wahrgenommen: kurz, elegant, international gut verständlich. Die vorliegenden Quellen sind jedoch vor allem Namenslexika, daher ist die Aussage zur breiten öffentlichen Resonanz vorsichtig zu interpretieren.",
+  "evidence_quality": "mittel: zwei relevante Namenslexikon-Quellen, inhaltlich klar, aber nur begrenzt repräsentativ für breite öffentliche Resonanz",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Ada",
+  "normalized_name": "ada",
+  "overall_resonance": "Überwiegend positiv und sachlich-namenskundlich. Ada wird in den vorliegenden Quellen meist als kurzer, eleganter und international verständlicher Vorname beschrieben; die öffentliche Resonanz wirkt eher wohlwollend als kontrovers.",
+  "practical_notes": [
+    "Für eine Suchmaschine eignet sich Ada als kompakter, positiv konnotierter Name mit klassischer Anmutung.",
+    "Die Quellen deuten auf eine einfache Aussprache und gute internationale Nutzbarkeit hin.",
+    "Wenn Kontext wichtig ist, kann auf die unterschiedlichen Herkunftsdeutungen hingewiesen werden."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Etymologie ist in den Quellen teils mehrdeutig und nicht eindeutig einheitlich.",
+    "Die vorhandene Evidenz stammt vor allem aus Namenslexika; das ist keine starke Messung allgemeiner öffentlicher Stimmung.",
+    "Aussagen zur Beliebtheit oder Wirkung sollten daher vorsichtig gelesen werden."
+  ],
+  "short_summary": "Ada wirkt in den vorliegenden Quellen überwiegend positiv, kurz, elegant und international; die Datenlage ist aber vor allem namenskundlich und nicht breit gesellschaftlich.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Ada � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/A/Ad/Ada/"
+    },
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Ada: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Ada.html"
+    }
+  ],
+  "style_effect": [
+    "kurz und prägnant",
+    "elegant und klassisch",
+    "international gut anschlussfähig",
+    "eher selten, daher auffällig ohne laut zu wirken",
+    "namenskundlich aufgeladen durch Bedeutungs- und Herkunftsangaben"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Eher niedrig bis mittel: Der Name erscheint in Namenslexika und Vornamensseiten, aber die Evidenz für breite öffentliche Meinungen außerhalb solcher Seiten ist begrenzt."
+}

@@ -1,0 +1,70 @@
+{
+  "associations": [
+    "Kurzform von Eduard/Edward",
+    "Bedeutung in Richtung „der Edle“",
+    "„Beschützer des Erbgutes“ / „Hüter seines Besitzes“",
+    "männlicher Vorname",
+    "selten bis mäßig verbreitet",
+    "Namenslexikon- und Bedeutungsdiskussionen",
+    "Namenstag"
+  ],
+  "confidence": 0.84,
+  "display_text": "Ede wird meist neutral und sachlich wahrgenommen: kurz, selten und etymologisch klassisch. Der Name wird vor allem als Kurzform mit Bedeutungen rund um „der Edle“ bzw. Eduard/Edward beschrieben. Die öffentliche Resonanz wirkt insgesamt eher unaufgeregt; einzelne leicht kritische Stimmen ändern am überwiegend informativen Eindruck wenig. Die Datenlage ist dabei eher begrenzt.",
+  "evidence_quality": "mittel bis begrenzt: mehrere einschlägige Namenslexikon-Quellen, aber wenig unabhängige oder breit gestreute öffentliche Resonanzdaten",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Ede",
+  "normalized_name": "ede",
+  "overall_resonance": "Ede wird in der vorliegenden Evidenz überwiegend sachlich und nüchtern wahrgenommen. Der Name erscheint vor allem als kurze, seltene Kurzform mit etymologischem Bezug zu Eduard/Edward bzw. „der Edle“. Eine klare breite öffentliche Euphorie oder deutliche Ablehnung ist nicht erkennbar; die Datenlage ist dafür allerdings eher begrenzt.",
+  "practical_notes": [
+    "Für Suchende wirkt Ede eher traditionell und markant durch seine Kürze.",
+    "Der Name kann als Kurzform oder eigenständiger Vorname verstanden werden.",
+    "Die öffentliche Rezeption ist eher neutral-informativ als emotional aufgeladen."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt fast nur aus Namensdatenbanken; eine breite öffentliche Wahrnehmung lässt sich daraus nur eingeschränkt ableiten.",
+    "Einzelne leicht negative Rückmeldungen kommen vor, wirken aber nicht als dominante Gesamtstimmung.",
+    "Beliebtheitsangaben können je nach Quelle schwanken."
+  ],
+  "short_summary": "Ede wird überwiegend neutral und etymologisch positiv eingeordnet, als kurze, seltene Kurzform mit klassischer Bedeutung. Eine starke öffentliche Meinung ist nicht erkennbar; die Evidenz ist jedoch begrenzt.",
+  "source_count": 3,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Ede � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/E/Ed/Ede/"
+    },
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Ede � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/E/Ed/Ede/"
+    },
+    {
+      "confidence": 0.89,
+      "is_name_discussion": true,
+      "sentiment": "leicht negativ",
+      "source_type": "web",
+      "title": "&#9655; Vorname Ede: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Ede.html"
+    }
+  ],
+  "style_effect": [
+    "kurz",
+    "knapp",
+    "klassisch-etymologisch",
+    "selten",
+    "nüchtern",
+    "lexikalisch"
+  ],
+  "usable_evidence_count": 3,
+  "visibility": "Eher selten und dadurch auffällig-kurz, in Deutschland offenbar bekannt, aber nicht sehr verbreitet. Die öffentliche Sichtbarkeit wirkt vor allem durch Namenslexika und einzelne Diskussionseinträge geprägt."
+}

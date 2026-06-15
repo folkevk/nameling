@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "althochdeutsche Herkunft",
+    "Bedeutung im Sinn von „Mann des Volkes“ / „Volksmann“",
+    "Varianten wie Tillmann, Tilmann, Tillman",
+    "Namenstag am 16. Januar",
+    "eher seltene Verbreitung in Deutschland"
+  ],
+  "confidence": 0.79,
+  "display_text": "Tilman wird öffentlich eher sachlich bis leicht positiv wahrgenommen: ein traditionsnaher, seltener Vorname mit althochdeutscher Herkunft und der Bedeutung „Mann des Volkes“. Die Evidenz ist jedoch begrenzt und basiert vor allem auf Namenslexika.",
+  "evidence_quality": "mittel: zwei überwiegend lexikalische Webquellen, klare Angaben zu Bedeutung, Herkunft und Verbreitung, aber nur begrenzte direkte öffentliche Resonanz.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Tilman",
+  "normalized_name": "tilman",
+  "overall_resonance": "Der Vorname Tilman wird in den vorliegenden Quellen überwiegend sachlich bis leicht positiv beschrieben. Die öffentliche Wahrnehmung wirkt eher ruhig, traditionsnah und namenskundlich geprägt, ohne starke Kontroversen oder auffällige Polarisierung.",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt Tilman etabliert, freundlich und traditionsverbunden.",
+    "Der Name dürfte eher positiv oder neutral wahrgenommen werden, aber ohne starke Modetrends.",
+    "Die Schreibweise ist klar, Varianten kommen vor, sind aber nicht dominant."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz basiert im Wesentlichen auf Namenslexika und ist daher nur begrenzt aussagekräftig für eine breitere öffentliche Stimmung.",
+    "Es liegen keine Hinweise auf eine starke gesellschaftliche Stigmatisierung oder breite Debatte zum Namen vor.",
+    "Einzelne Kommentierungen sind nicht stark genug, um daraus allgemeine Trends abzuleiten."
+  ],
+  "short_summary": "Tilman erscheint in den Quellen als seltener, traditionsnaher und überwiegend neutral bis leicht positiv wahrgenommener Vorname.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.95,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Tilman � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/T/Ti/Tilman/"
+    },
+    {
+      "confidence": 0.88,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Tilman: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Tilman.html"
+    }
+  ],
+  "style_effect": [
+    "traditionell",
+    "klassisch-oberdeutsch",
+    "sachlich",
+    "namenskundlich",
+    "eher selten",
+    "ruhig und unaufgeregt"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland eher selten bis moderat verbreitet; die Sichtbarkeit ist vorhanden, aber nicht massenhaft. Die Evidenz deutet vor allem auf eine lexikalische, nicht auf eine breit diskutierte öffentliche Resonanz hin."
+}

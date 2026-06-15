@@ -1,0 +1,63 @@
+{
+  "associations": [
+    "althochdeutsch/altdeutsch",
+    "edel",
+    "Mut",
+    "Geist",
+    "zweigliedriger Vorname",
+    "selten bis mäßig verbreitet",
+    "Namenstag 12. März",
+    "klangvoll",
+    "sehr deutsch klingend"
+  ],
+  "confidence": 0.86,
+  "display_text": "Almut wirkt in der öffentlichen Wahrnehmung eher positiv bis neutral: ein seltener, traditionell-deutscher Vorname mit klangvoller, eher schlichter Ausstrahlung. Häufig genannt werden Bedeutungen wie 'edel' und 'Mut'. Die Evidenz ist jedoch begrenzt und stammt vor allem aus Namensdatenbanken sowie einzelnen Kommentaren.",
+  "evidence_quality": "Mittel: direkte Namensquellen mit klarer Beschreibung, aber begrenzter öffentlicher Breite und teils subjektiven Kommentaren.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Almut",
+  "normalized_name": "almut",
+  "overall_resonance": "Eher positiv bis neutral, mit einer klar sachlichen und leicht traditionell-deutschen Wahrnehmung.",
+  "practical_notes": [
+    "Für eine Suchmaschine lässt sich der Name am ehesten als traditionell, selten und bedeutungsstark zusammenfassen.",
+    "Die öffentliche Resonanz wirkt insgesamt ruhig und eher positiv, ohne starke Polarisierung.",
+    "Die Aussagekraft ist begrenzt, da die Quellen vor allem beschreibend und nicht breit öffentlich diskutierend sind."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt vor allem aus Namensdatenbanken und wenigen kommentarbasierten Quellen; das ist keine breite öffentliche Debatte.",
+    "Einschätzungen wie 'altmodisch' oder 'sehr deutsch klingend' sind Wahrnehmungen, keine objektiven Eigenschaften.",
+    "Keine Hinweise auf soziale Stigmatisierung in der vorliegenden Evidenz."
+  ],
+  "short_summary": "Almut wird meist sachlich und eher positiv wahrgenommen: ein seltener, traditionell-deutscher Name mit klangvoller Wirkung und den Assoziationen 'edel' und 'Mut'.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Almut � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/A/Al/Almut/"
+    },
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "mixed",
+      "source_type": "web",
+      "title": "&#9655; Vorname Almut: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Almut.html"
+    }
+  ],
+  "style_effect": [
+    "wirkt altdeutsch und traditionsnah",
+    "klingt klangvoll und schlicht",
+    "wird mit Bedeutung von 'edel' und 'Mut' verbunden",
+    "erscheint eher formal und weniger modisch",
+    "kann als sehr deutsch wahrgenommen werden"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Almut ist in Deutschland eher selten und dadurch nicht sehr breit im Alltag präsent, aber als Vorname in Namenslexika und Beschreibungen gut auffindbar."
+}

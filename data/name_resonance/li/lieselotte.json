@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "Kombination aus Liese und Lotte",
+    "althebräische und althochdeutsche Namensbestandteile",
+    "Namenstag am 17. Juli und 23. September",
+    "historisch beliebt",
+    "heute eher selten",
+    "seit den 2000er Jahren wieder häufiger vergeben"
+  ],
+  "confidence": 0.88,
+  "display_text": "Lieselotte wirkt öffentlich vor allem traditionell, klassisch und leicht nostalgisch. Der Name ist heute eher selten, aber gut bekannt und wird häufig mit seiner historischen Herkunft und seiner Doppelform aus Liese und Lotte verbunden.",
+  "evidence_quality": "mittel bis gut; zwei klar namebezogene Quellen, aber stark portalbasiert und wenig extern diversifiziert.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Lieselotte",
+  "normalized_name": "lieselotte",
+  "overall_resonance": "Lieselotte wird öffentlich vor allem als traditioneller, klar deutsch geprägter Mädchenname wahrgenommen. Die Rezeption ist überwiegend sachlich bis leicht nostalgisch, mit Hinweisen auf historische Verwurzelung, Seltenheit und eine gewisse Wiederentdeckung seit den 2000er Jahren.",
+  "practical_notes": [
+    "Für Suchmaschinen-Nutzer wirkt der Name traditionell, freundlich und eher unverbraucht.",
+    "Der Name hat eine deutliche historische Note und ist im heutigen Alltag vergleichsweise selten.",
+    "Je nach Kontext kann Lieselotte als altmodisch, aber auch charmant und charaktervoll wahrgenommen werden."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt fast ausschließlich von Vornamensseiten und ist daher eher beschreibend als unabhängig breit belegt.",
+    "Aussagen zur Beliebtheit sollten vorsichtig gelesen werden, da sie von solchen Portalen teilweise unterschiedlich gewichtet werden.",
+    "Keine belastbaren Hinweise auf soziale Stigmatisierung in der vorliegenden Evidenz."
+  ],
+  "short_summary": "Lieselotte wird meist als klassischer, traditioneller und eher seltener Vorname mit historischer Note beschrieben; die öffentliche Rezeption ist überwiegend neutral bis leicht nostalgisch.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.95,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Lieselotte � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/L/Li/Lieselotte/"
+    },
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Lieselotte: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Lieselotte.html"
+    }
+  ],
+  "style_effect": [
+    "traditionell",
+    "klassisch",
+    "nostalgisch",
+    "altmodisch im positiven oder neutralen Sinn",
+    "namenskundlich geprägt"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Eher bekannt, aber heute selten; im öffentlichen Namensgebrauch nicht sehr präsent, jedoch gut wiedererkennbar."
+}

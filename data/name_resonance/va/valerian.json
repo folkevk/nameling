@@ -1,0 +1,65 @@
+{
+  "associations": [
+    "lateinischer Ursprung",
+    "Bedeutungen wie stark, kräftig, mächtig, gesund",
+    "römische Antike",
+    "historische bzw. klassische Anmutung",
+    "Namenstag",
+    "selten, aber vorhanden",
+    "oft etwas erklärungsbedürftig",
+    "mögliche Koseformen wie Vale oder Vali"
+  ],
+  "confidence": 0.78,
+  "display_text": "Valerian wirkt in Deutschland überwiegend positiv und klassisch: lateinischer Ursprung, starke Bedeutungen und eine historische Anmutung prägen den Eindruck. Gleichzeitig ist der Name eher selten und kann im Alltag etwas erklärungsbedürftig sein. Die Evidenz basiert vor allem auf Namenslexika, daher ist die öffentliche Resonanz nur vorsichtig einschätzbar.",
+  "evidence_quality": "mittel: klare Namensbeschreibungen, aber nur begrenzte echte öffentliche Resonanz und wenig freie Diskussionsvielfalt",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Valerian",
+  "normalized_name": "valerian",
+  "overall_resonance": "Valerian wirkt in der öffentlichen Namenswahrnehmung eher positiv und klassisch, zugleich aber ungewöhnlich und selten. Der Name wird vor allem mit lateinischem Ursprung, Stärke und einer historischen Anmutung verbunden.",
+  "practical_notes": [
+    "Für viele wirkt Valerian elegant und gebildet klingend.",
+    "Der Name kann kurz erklärt werden müssen, weil er im Alltag eher selten ist.",
+    "Positiv ist die klare, internationale und klassisch wirkende Form.",
+    "Wer einen vertrauten, sehr häufigen Namen sucht, findet hier eher das Gegenteil."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt überwiegend aus Namenslexika und Beschreibungsseiten, nicht aus breiter freier Alltagsdebatte.",
+    "Aussagen zur öffentlichen Resonanz sind daher nur vorsichtig ableitbar.",
+    "Die Wahrnehmung als ‚ungewöhnlich‘ ist eine Tendenz, keine harte Regel."
+  ],
+  "short_summary": "Valerian wird in Deutschland eher positiv, klassisch und lateinisch wahrgenommen, aber als seltener und etwas erklärungsbedürftiger Vorname.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Valerian � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/V/Va/Valerian/"
+    },
+    {
+      "confidence": 0.91,
+      "is_name_discussion": true,
+      "sentiment": "gemischt",
+      "source_type": "web",
+      "title": "&#9655; Vorname Valerian: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Valerian.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "lateinisch",
+    "würdig",
+    "historisch",
+    "eher selten",
+    "leicht markant",
+    "positiv-konnotiert"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland scheint Valerian bekannt, aber nicht breit verbreitet zu sein. Die Evidenz deutet auf einen eher seltenen, erklärungsbedürftigen Vornamen hin, der trotzdem klar als Vorname wahrgenommen wird."
+}

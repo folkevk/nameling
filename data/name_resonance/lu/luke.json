@@ -1,0 +1,62 @@
+{
+  "associations": [
+    "englische Form von Lukas",
+    "altgriechische Herkunft",
+    "Bedeutungen wie „der Lichtbringer“, „der Helle“ oder „der Leuchtende“",
+    "biblischer Bezug",
+    "moderne, coole Wirkung",
+    "Popkultur: Luke Skywalker",
+    "teils auch Lucky Luke"
+  ],
+  "confidence": 0.95,
+  "display_text": "Luke wirkt in Deutschland überwiegend positiv: modern, international und klar erkennbar. Der Name wird oft mit Lukas, Licht/Helligkeit und bekannten Popkultur-Bezügen verbunden, ohne stark auffällig oder ungewöhnlich zu erscheinen.",
+  "evidence_quality": "mittel bis gut; mehrere namenskundliche Quellen mit überwiegend positiver Tendenz, aber teilweise kommentarbasiert.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Luke",
+  "normalized_name": "luke",
+  "overall_resonance": "Überwiegend positiv und modern wahrgenommen, mit klarer Bekanntheit durch Herkunfts- und Popkulturbezüge.",
+  "practical_notes": [
+    "Für Suchmaschinen wirkt der Name meist klar, freundlich und gut einprägsam.",
+    "Die Schreibweise ist kurz und unkompliziert.",
+    "Je nach Kontext kann die internationale/englische Anmutung stärker hervortreten.",
+    "Als Name erscheint Luke eher modern als traditionell."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Einige Bewertungen stammen aus Namenslexikon- und Kommentarseiten und sind daher nur begrenzt verallgemeinerbar.",
+    "Die positive Wirkung ist eher eine öffentliche Tendenz als ein belastbarer Durchschnitt aller Meinungen.",
+    "Keine Hinweise auf eine soziale Stigmatisierung in der vorliegenden Evidenz."
+  ],
+  "short_summary": "Luke wird in Deutschland meist als moderner, international klingender und positiv besetzter Vorname wahrgenommen. Die häufigsten Bezüge sind die Herkunft als englische Form von Lukas, die Bedeutungen rund um Licht/Helligkeit und bekannte Popkultur-Assoziationen.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "eher positiv",
+      "source_type": "web",
+      "title": "Vorname Luke � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/L/Lu/Luke/"
+    },
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Luke: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Luke.html"
+    }
+  ],
+  "style_effect": [
+    "modern",
+    "international klingend",
+    "kurz und markant",
+    "jugendlich konnotiert",
+    "sachlich auch als Namenslexikon-Eintrag präsent"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland gut bekannt, eher moderat verbreitet und nicht stark alltäglich."
+}

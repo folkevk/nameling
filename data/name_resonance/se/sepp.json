@@ -1,0 +1,64 @@
+{
+  "associations": [
+    "Kurzform von Josef",
+    "hebräische Herkunft",
+    "traditionell",
+    "Bayern",
+    "Österreich",
+    "Schweiz",
+    "Namenstag",
+    "Koseform/Spitzname",
+    "regional gebräuchlich"
+  ],
+  "confidence": 0.74,
+  "display_text": "Sepp wirkt in der öffentlichen Wahrnehmung vor allem traditionell, kurz und regional gefärbt. Meist wird der Name neutral bis leicht positiv eingeordnet, oft als Kurzform von Josef. Die verfügbare Evidenz ist allerdings eher schwach und basiert vor allem auf namenskundlichen Quellen.",
+  "evidence_quality": "mittel bis schwach; zwei namenskundliche Webquellen, aber keine breite oder repräsentative Resonanzbasis",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Sepp",
+  "normalized_name": "sepp",
+  "overall_resonance": "Sepp wird überwiegend als traditioneller, eher regional geprägter Vorname bzw. als Kurzform von Josef wahrgenommen. Die öffentliche Rezeption wirkt insgesamt neutral bis leicht positiv, vor allem sachlich-informativ und wenig kontrovers.",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt Sepp unkompliziert, bodenständig und vertraut.",
+    "Wer einen klar traditionellen und kurzen Namen sucht, findet hier eine passende, eher regionale Variante.",
+    "Die Wirkung kann je nach Region und sozialem Umfeld unterschiedlich ausfallen."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die vorliegende Evidenz ist eher lexikalisch als repräsentativ für allgemeine öffentliche Wahrnehmung.",
+    "Regionale und kontextabhängige Assoziationen sollten nicht verallgemeinert werden.",
+    "Einzelne Nutzermeinungen oder Nebenkommentare sind anekdotisch und nicht belastbar als Gesamtbild."
+  ],
+  "short_summary": "Sepp wird meist als traditioneller, regional geprägter und eher leicht positiver Name bzw. Kurzform von Josef wahrgenommen; die Evidenz zur öffentlichen Resonanz ist jedoch begrenzt.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "Vorname Sepp � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/S/Se/Sepp/"
+    },
+    {
+      "confidence": 0.87,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Sepp: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Sepp.html"
+    }
+  ],
+  "style_effect": [
+    "kurz",
+    "vertraut",
+    "traditionell",
+    "umgangssprachlich",
+    "regional gefärbt",
+    "namenskundlich"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Eher bekannt, aber als eigenständiger Vorname nicht sehr breit im gesamten deutschsprachigen Raum präsent; stärker mit Süddeutschland, Österreich und der Schweiz assoziiert. Die Evidenz zur öffentlichen Resonanz ist dabei eher schwach und quellengebunden."
+}

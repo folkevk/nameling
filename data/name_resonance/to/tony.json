@@ -1,0 +1,69 @@
+{
+  "associations": [
+    "Kurzform von Anton oder Antonia",
+    "Variante von Anthony",
+    "lateinische Herkunft",
+    "Bedeutung: aus dem Geschlecht der Antonier stammend",
+    "teils mit 'der Wertvolle / Unschätzbare' verbunden",
+    "Namenstag am 17. Januar",
+    "in Deutschland als Vorname präsent und teilweise beliebt"
+  ],
+  "confidence": 0.86,
+  "display_text": "Tony wirkt in Deutschland überwiegend neutral bis leicht positiv: ein kurzer, international verständlicher Vorname mit klassischer Herkunft und moderner, vertrauter Ausstrahlung.",
+  "evidence_quality": "Mittel: mehrere konsistente Namenslexika, aber kaum echte Diskussions- oder Alltagsresonanzdaten.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Tony",
+  "normalized_name": "tony",
+  "overall_resonance": "Überwiegend neutral bis leicht positiv: Tony wird in der verfügbaren Evidenz vor allem sachlich als international verständlicher Vorname beschrieben, mit eher vertrauter, moderner Wirkung.",
+  "practical_notes": [
+    "Wirkt kurz, international und leicht aussprechbar.",
+    "Eignet sich als moderne, unkomplizierte Namenswahl.",
+    "Kann sowohl als eigenständiger Vorname als auch als Kurzform verstanden werden."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist vor allem lexikalisch und beschreibend; breite öffentliche Rezeption ist nur eingeschränkt belegt.",
+    "Keine Hinweise auf starke negative Konnotationen oder gesellschaftliche Stigmatisierung in den vorliegenden Quellen.",
+    "Beliebtheitsaussagen stammen aus Namensdatenbanken und sollten vorsichtig gelesen werden."
+  ],
+  "short_summary": "Tony wird im deutschen Namenskontext überwiegend neutral bis leicht positiv wahrgenommen: kurz, international und vertraut, mit klassischer Herkunft und moderner Wirkung.",
+  "source_count": 3,
+  "sources": [
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Tony � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/T/To/Tony/"
+    },
+    {
+      "confidence": 0.95,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Tony � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/T/To/Tony/"
+    },
+    {
+      "confidence": 0.91,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Tony: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Tony.html"
+    }
+  ],
+  "style_effect": [
+    "kurz und eingängig",
+    "international/modern wirkend",
+    "vertraut und alltagstauglich",
+    "eher sachlich als ausgefallen",
+    "als Kurzform wahrgenommen"
+  ],
+  "usable_evidence_count": 3,
+  "visibility": "Im deutschsprachigen Namenskontext gut bekannt und sichtbar, jedoch stützt sich die Evidenz hier vor allem auf Namenslexika und weniger auf breite öffentliche Diskussionen."
+}

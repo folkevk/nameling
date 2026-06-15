@@ -1,0 +1,62 @@
+{
+  "associations": [
+    "altnordisch",
+    "skandinavisch",
+    "norwegisch",
+    "Bedeutung in Richtung \"der Wilde\" / \"der Unruhige\"",
+    "Namenstag in einzelnen Quellen genannt",
+    "selten bis mäßig verbreitet in Deutschland",
+    "positive Einzelstimmen wie \"wunderschön\""
+  ],
+  "confidence": 0.78,
+  "display_text": "Sverre wirkt in den vorliegenden Quellen überwiegend positiv bis neutral: ein seltener, markanter Vorname mit altnordisch-skandinavischer Prägung. In Deutschland scheint er wenig verbreitet zu sein. Die Evidenz ist jedoch schmal, daher nur als vorsichtige Tendenz zu verstehen.",
+  "evidence_quality": "eher schwach bis mittel: wenige, überwiegend namenkundliche Quellen; keine breite öffentliche Debatte erkennbar",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Sverre",
+  "normalized_name": "sverre",
+  "overall_resonance": "Die öffentliche Resonanz auf den Vornamen Sverre wirkt in der vorliegenden Evidenz eher positiv bis neutral und zugleich eher seltene/nischenhaft. Der Name wird vor allem mit altnordischer bzw. skandinavischer Herkunft verbunden; einzelne Seiten heben eine kräftige, markante Namenswirkung hervor. Die Datenbasis ist jedoch schmal, daher sollte das als vorsichtige Tendenz und nicht als breite общеWahrnehmung verstanden werden.",
+  "practical_notes": [
+    "Für Suchmaschinen und Namenskontexte eignet sich die Einordnung als seltener, nordisch geprägter Vorname.",
+    "Die Aussprache und Schreibweise wirken klar, aber in Deutschland ungewohnt, was ihn merkbar und eigenständig erscheinen lässt.",
+    "Wegen der geringen Verbreitung ist keine belastbare breite öffentliche Bewertung ableitbar."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist schmal und stammt im Wesentlichen aus wenigen Namensportalen.",
+    "Positive Wertungen beruhen teils auf einzelnen Nutzerkommentaren und sind nicht repräsentativ.",
+    "Bedeutungsassoziationen wie \"der Wilde\" oder \"der Unruhige\" sind namenkundliche Deutungen, keine Aussagen über Personen."
+  ],
+  "short_summary": "Sverre wird in den vorliegenden Quellen meist positiv oder neutral und als seltener, skandinavisch geprägter Vorname beschrieben. Die Aussagekraft ist begrenzt, weil die Evidenz nur aus wenigen Namensseiten stammt.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.95,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Sverre � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/S/Sv/Sverre/"
+    },
+    {
+      "confidence": 0.87,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Sverre: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Sverre.html"
+    }
+  ],
+  "style_effect": [
+    "klanglich markant",
+    "nordisch-skandinavisch",
+    "selten",
+    "traditionsnah",
+    "charakterstark wirkend",
+    "eher modern im deutschsprachigen Raum durch Seltenheit"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland scheint Sverre eher wenig verbreitet und dadurch auffällig, aber nicht breit etabliert. Die Sichtbarkeit in den Quellen ist begrenzt und stützt sich vor allem auf Namenslexika und eine einzelne Namensseite mit Nutzerstimmen."
+}

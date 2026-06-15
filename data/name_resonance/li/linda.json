@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "althochdeutsche bzw. altgermanische Namensherkunft",
+    "Bedeutungsfeld: mild, freundlich, sanft",
+    "teilweise Bezug zu Linde/Lindenholz",
+    "in Quellen auch als Kurzform längerer Namen genannt",
+    "seit Jahren in Deutschland bekannt und beliebt"
+  ],
+  "confidence": 0.95,
+  "display_text": "Linda ist in Deutschland ein sehr bekannter, meist positiv besetzter Vorname. Er wird häufig mit freundlichen, sanften und klanglich angenehmen Eigenschaften verbunden und gilt als unkompliziert, vertraut und zeitlos.",
+  "evidence_quality": "hoch – mehrere namenkundliche Quellen mit klarer Bezugnahme auf Bedeutung, Herkunft und Beliebtheit in Deutschland.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Linda",
+  "normalized_name": "linda",
+  "overall_resonance": "Überwiegend positiv und vertraut. Linda wird in der deutschen Namenswahrnehmung meist als klanglich angenehm, freundlich und klassisch-modern beschrieben.",
+  "practical_notes": [
+    "Für eine Namenssuche ist Linda ein gut etablierter, leicht verständlicher Name.",
+    "Die öffentliche Rezeption ist insgesamt freundlich, ohne starke Kontroversen.",
+    "In neutralen Kontexten wirkt der Name meist unkompliziert und positiv.",
+    "Die Evidenzlage ist stark genug für eine verlässliche Kurzbewertung."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Deutungen zur Herkunft sind nicht in allen Quellen völlig einheitlich.",
+    "Eine gelegentlich genannte Verbindung zu 'hübsch/schön' im Spanischen oder Portugiesischen ist eher eine landläufige Assoziation als eine gesicherte Namensbedeutung.",
+    "Keine stigmatisierenden gesellschaftlichen Vorurteile erkennbar."
+  ],
+  "short_summary": "Linda wird in Deutschland überwiegend positiv wahrgenommen: ein bekannter, freundlich klingender Vorname mit sanfter Bedeutung und guter öffentlicher Vertrautheit.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.99,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Linda � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/L/Li/Linda/"
+    },
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Linda: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Linda.html"
+    }
+  ],
+  "style_effect": [
+    "klingt weich und freundlich",
+    "wirkt zeitlos und leicht zugänglich",
+    "wird oft mit positiven Bedeutungen wie milde, freundlich oder schön verbunden",
+    "hat einen klaren, einfachen Klang",
+    "wird teils auch als international anschlussfähig wahrgenommen"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Hoch – der Name ist in Deutschland gut bekannt und wurde bzw. wird häufig vergeben."
+}

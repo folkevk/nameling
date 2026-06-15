@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "spanische Form von Alexander",
+    "altgriechischer Ursprung",
+    "Bedeutung im Sinn von Beschützer/Verteidiger",
+    "männlicher Vorname",
+    "Namenstag wird genannt",
+    "Kurzformen wie Alex, Ale oder Alejo"
+  ],
+  "confidence": 0.88,
+  "display_text": "Alejandro wirkt in Deutschland überwiegend positiv, klangvoll und leicht exotisch. Der Name wird als spanische Form von Alexander mit der Bedeutung Beschützer/Verteidiger beschrieben und ist eher bekannt als häufig. Die öffentliche Resonanz ist insgesamt freundlich, die Belege sind jedoch auf wenige Namensseiten begrenzt.",
+  "evidence_quality": "mittel bis gering: zwei einschlägige Namensseiten, klare Namensbezüge, aber wenig unabhängige Breitenresonanz.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Alejandro",
+  "normalized_name": "alejandro",
+  "overall_resonance": "Überwiegend positiv und eher stilvoll-exotisch wahrgenommen, mit sachlich-neutaler Namenskundlichkeit im Hintergrund.",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt Alejandro in Deutschland eher besonders als alltäglich.",
+    "Der Name ist gut verständlich und international anschlussfähig.",
+    "Je nach Umfeld kann er als edel oder leicht exotisch wirken.",
+    "Als Kurzform wird im Alltag häufig Alex verwendet."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz basiert fast ausschließlich auf zwei Namenslexikon-Seiten, nicht auf breiter öffentlicher Debatte.",
+    "Positive Wirkungen stammen teils aus Nutzerkommentaren und sind daher nur eingeschränkt verallgemeinerbar.",
+    "Beliebtheitsaussagen beziehen sich auf einzelne Namensportale und sind keine belastbare Gesamtmessung."
+  ],
+  "short_summary": "Alejandro wird in Deutschland vor allem als klangvoller, spanisch geprägter und eher positiv besetzter Vorname wahrgenommen. Die Evidenz ist aber begrenzt und stammt vor allem aus Namenslexika.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Alejandro � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/A/Al/Alejandro/"
+    },
+    {
+      "confidence": 0.94,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Alejandro: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Alejandro.html"
+    }
+  ],
+  "style_effect": [
+    "klingt spanisch und international",
+    "wird oft als elegant, romantisch und klangvoll beschrieben",
+    "wirkt durch die Form nah an Alexander, aber eigenständig",
+    "hat einen eher markanten, weichen Klang"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland eher bekannt, aber nicht sehr verbreitet; die öffentliche Sichtbarkeit wirkt moderat."
+}

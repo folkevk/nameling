@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "althochdeutscher/altenglischer Ursprung",
+    "Bedeutung in Richtung „von den Elfen beraten“",
+    "historisch bekannt",
+    "früher populärer, heute seltener",
+    "Namenstag und klassische Namensform",
+    "mögliche Kurzformen wie Alf, Alfi oder Freddy"
+  ],
+  "confidence": 0.88,
+  "display_text": "Alfred wirkt in der öffentlichen Namenswahrnehmung überwiegend klassisch, traditionsreich und sachlich-positiv. Die verfügbaren Quellen beschreiben den Namen als historisch bekannt, mit Bedeutungsbezug zu „von den Elfen beraten“, heute eher seltener, aber etabliert. Eine starke gesellschaftliche Stigmatisierung ist in der Evidenz nicht erkennbar; die Datenlage ist jedoch eher mittelstark und basiert vor allem auf Namenslexika.",
+  "evidence_quality": "mittel: zwei sachliche Namensseiten mit konsistenten Angaben, aber kaum echte öffentliche Debatten oder breit gestützte Meinungsdaten.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Alfred",
+  "normalized_name": "alfred",
+  "overall_resonance": "Überwiegend sachlich-klassisch mit leicht positiver Färbung; in der öffentlichen Namensbeschreibung wirkt Alfred eher traditionsreich als trendig.",
+  "practical_notes": [
+    "Für Suchmaschinen-Nutzung eignet sich Alfred als klar klassischer, traditionsreicher Vorname.",
+    "Wer einen zeitlosen und bekannten Namen sucht, findet hier eher eine konservative als moderne Wirkung.",
+    "Die heutige öffentliche Wahrnehmung ist eher nüchtern und historisch geprägt als emotional aufgeladen."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt fast ausschließlich aus Namenslexika, nicht aus breiter öffentlicher Debatte.",
+    "Es gibt keine belastbaren Hinweise auf eine starke positive oder negative gesellschaftliche Stigmatisierung des Namens.",
+    "Aussagen über Wirkung und Stil sind trendbezogen und nicht als feste Eigenschaft von Personen zu verstehen."
+  ],
+  "short_summary": "Alfred wird öffentlich meist als klassischer, historisch geprägter Vorname mit leicht positiver, sachlicher Resonanz wahrgenommen. Der Name gilt eher als traditionsreich und heute seltener, ohne starke negative Konnotationen in der vorliegenden Evidenz.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.92,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Alfred � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/A/Al/Alfred/"
+    },
+    {
+      "confidence": 0.95,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Alfred: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Alfred.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "traditionell",
+    "historisch",
+    "informativ",
+    "eher selten im aktuellen Sprachgebrauch",
+    "leicht altmodisch, aber etabliert"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Gut sichtbar in Namenslexika und Vornamensseiten, aber nur schwach in breiter öffentlicher Diskussion. Die Evidenz ist insgesamt eher mittelstark, da sie vor allem auf redaktionellen Namensquellen beruht."
+}

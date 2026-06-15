@@ -1,0 +1,72 @@
+{
+  "associations": [
+    "Pfirsichblüte",
+    "kleiner Pfirsich",
+    "japanische Herkunft",
+    "althochdeutsche Herkunft",
+    "Kurz- und Koseform",
+    "Unisex-Name",
+    "Namenstag am 27. August",
+    "Kinderbuch von Michael Ende",
+    "selten"
+  ],
+  "confidence": 0.81,
+  "display_text": "Momo wirkt im deutschen Sprachraum überwiegend neutral bis leicht positiv: kurz, weich, selten und mit literarischer Prägung. Die vorhandene Evidenz ist vor allem namenkundlich; die öffentliche Resonanz ist daher eher indirekt belegt als breit dokumentiert.",
+  "evidence_quality": "mittel: klare Namensseiten, aber wenig direkte öffentliche Rezeption außerhalb von Lexikon- und Bedeutungsbeschreibungen",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Momo",
+  "normalized_name": "momo",
+  "overall_resonance": "Überwiegend neutral bis leicht positiv. Momo wird in den vorliegenden Namenslexika vor allem sachlich als Vorname mit mehreren Herkunfts- und Bedeutungsdeutungen beschrieben; die öffentliche Wirkung wirkt eher freundlich, aber nicht stark verbreitet oder eindeutig konnotiert.",
+  "practical_notes": [
+    "Für Suchmaschinen wirkt der Name eher freundlich, unkompliziert und literarisch assoziiert.",
+    "Die Kürze macht ihn markant, kann aber auch nach einer Erklärung zu Herkunft und Bedeutung verlangen.",
+    "In Deutschland eher als seltener Unisex-Vorname wahrnehmbar."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stützt sich fast ausschließlich auf Namenslexika; das ist für öffentliche Resonanz nur begrenzt belastbar.",
+    "Mehrere Herkunftserklärungen kursieren parallel, daher ist die Bedeutung nicht eindeutig.",
+    "Die Verbindung zu Michael Endes Buch prägt die Wahrnehmung mit, sollte aber nicht als einzige Deutung gesetzt werden."
+  ],
+  "short_summary": "Momo wird im Deutschen vor allem sachlich, selten und leicht positiv wahrgenommen, mit starken Bezügen zu Naturbildern und Michael Endes Romanfigur.",
+  "source_count": 3,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Momo � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/M/Mo/Momo/"
+    },
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Momo � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/M/Mo/Momo/"
+    },
+    {
+      "confidence": 0.89,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Momo: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Momo.html"
+    }
+  ],
+  "style_effect": [
+    "kurz und weich klingend",
+    "modern-unisex",
+    "informell/vertraut",
+    "literarisch geprägt",
+    "selten bis ungewöhnlich",
+    "lexikalisch erklärungsbedürftig"
+  ],
+  "usable_evidence_count": 3,
+  "visibility": "Im deutschsprachigen Raum bekannt, aber eher selten und vor allem durch Namenslexika sowie die Popkultur-Referenz an Michael Endes „Momo“ sichtbar. Die Evidenz deutet auf eher indirekte öffentliche Präsenz hin."
+}

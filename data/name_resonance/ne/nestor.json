@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "griechische bzw. altgriechische Herkunft",
+    "Bedeutung: der Heimkehrende / Zurückkehrende",
+    "Bezug zur griechischen Mythologie",
+    "historisch-literarische Anklänge (z. B. Ilias/Odyssee)",
+    "selten bis wenig verbreitet in Deutschland",
+    "sachlich-lexikalische Namenswahrnehmung"
+  ],
+  "confidence": 0.9,
+  "display_text": "Nestor: seltener, klassisch-griechischer Vorname mit mythologischem Bezug. In der verfügbaren deutschen Online-Evidenz wirkt die Wahrnehmung eher sachlich bis leicht positiv, bei insgesamt schwacher öffentlicher Diskussionslage.",
+  "evidence_quality": "Schwach bis mittel: inhaltlich klar, aber nur wenige, vor allem lexikalische Quellen; öffentliche Resonanz nur indirekt erkennbar.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Nestor",
+  "normalized_name": "nestor",
+  "overall_resonance": "Nestor wirkt in der verfügbaren deutschen Online-Evidenz eher sachlich, selten und leicht positiv konnotiert. Der Name wird vor allem über seine griechisch-altgriechische Herkunft, die Bedeutung als „der Heimkehrende/Zurückkehrende“ und den mythologischen Bezug wahrgenommen. Eine breite öffentliche Debatte ist nicht erkennbar.",
+  "practical_notes": [
+    "Für Suchmaschinen wirkt der Name eher ungewöhnlich und markant.",
+    "Die mythologische und klassische Herkunft kann positiv auffallen.",
+    "Wegen der Seltenheit ist die Alltagsvertrautheit vermutlich eher gering."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz beruht fast ausschließlich auf einzelnen Namenslexikon-Seiten.",
+    "Eine echte öffentliche Diskussionslage ist nur schwach ablesbar.",
+    "Die Einschätzung zur Wirkung ist daher vorsichtig und nicht als breiter Meinungsbefund zu verstehen."
+  ],
+  "short_summary": "Nestor wird in Deutschland vor allem als seltener, klassisch-griechischer Name mit mythologischem Hintergrund wahrgenommen – sachlich beschrieben, eher neutral bis leicht positiv, aber ohne breite öffentliche Resonanz.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Nestor � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/N/Ne/Nestor/"
+    },
+    {
+      "confidence": 0.86,
+      "is_name_discussion": true,
+      "sentiment": "eher neutral bis leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Nestor: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Nestor.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "gebildet",
+    "mythologisch",
+    "selten",
+    "lexikalisch-informativ"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Eher gering bis mäßig sichtbar; der Name wird zwar beschrieben, aber offenbar nur selten vergeben und kaum breit diskutiert."
+}

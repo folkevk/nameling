@@ -1,0 +1,59 @@
+{
+  "associations": [
+    "Bedeutung: „der Zwilling“",
+    "aramäische Herkunft bzw. Variante von Thomas",
+    "Namenstag-Angaben",
+    "skandinavische, norwegische, schwedische oder baltische Schreibtraditionen",
+    "Kurzformen wie Tom oder Tommy"
+  ],
+  "confidence": 0.84,
+  "display_text": "Tomas wird in den verfügbaren Quellen überwiegend sachlich bis leicht positiv beschrieben. Der Name gilt als Variante von Thomas mit aramäischer Herkunft und der Bedeutung „der Zwilling“. Er wirkt kurz, klar und international, ist im deutschen Raum aber eher moderat verbreitet. Hinweise auf eine soziale Stigmatisierung gibt es in der Evidenz nicht; die Datenlage ist jedoch insgesamt eher klein.",
+  "evidence_quality": "mittel bis gut; zwei einschlägige Namenslexikon-Quellen, aber keine breite öffentliche Meinungsstreuung",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Tomas",
+  "normalized_name": "tomas",
+  "overall_resonance": "Tomas wird in den vorliegenden Quellen überwiegend sachlich bis leicht positiv wahrgenommen. Der Name erscheint als klare, international anschlussfähige Variante von Thomas und wird vor allem über Herkunft, Bedeutung und Schreibweise eingeordnet.",
+  "practical_notes": [
+    "Für Suchmaschinen- und Lexikoneinträge eignet sich Tomas als kurze, internationale Form.",
+    "Im deutschen Raum kann der Name als Variante zu Thomas verstanden werden.",
+    "Die Schreibweise ist klar, aber weniger verbreitet als die Standardform Thomas."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenzbasis ist klein und besteht fast nur aus Namenslexikon-Seiten.",
+    "Es gibt keine belastbaren Hinweise auf eine gesellschaftliche Stigmatisierung des Namens in Deutschland.",
+    "Positive Eindrücke sollten nicht als allgemeingültige Wahrnehmung aller Menschen mit diesem Namen verstanden werden."
+  ],
+  "short_summary": "Tomas wirkt im Deutschen sachlich, klassisch und leicht international; die Quellen betonen vor allem Herkunft, Bedeutung und Varianten, nicht soziale Bewertungen.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Tomas � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/T/To/Tomas/"
+    },
+    {
+      "confidence": 0.92,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Tomas: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Tomas.html"
+    }
+  ],
+  "style_effect": [
+    "klingt kurz und klar",
+    "wirkt international bzw. nordisch-baltisch geprägt",
+    "klassisch, aber etwas seltener als Thomas",
+    "eher nüchtern als verspielt",
+    "in der Namenskunde gut einordenbar"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Eher gering bis moderat sichtbar im deutschen Namenskontext; die vorhandene Evidenz stammt vor allem aus Namenslexika und wirkt nicht wie eine breite öffentliche Debatte."
+}

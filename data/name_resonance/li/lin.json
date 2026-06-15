@@ -1,0 +1,69 @@
+{
+  "associations": [
+    "chinesische Herkunft",
+    "althochdeutsche Kurzform",
+    "Bedeutung je nach Herkunft z. B. Jade, Wald, Flachs/Leinen, Glöckchen",
+    "Unisex-Name",
+    "kurzer Vorname",
+    "selten bis moderat verbreitet in Deutschland"
+  ],
+  "confidence": 0.92,
+  "display_text": "Lin wirkt in Deutschland überwiegend neutral bis leicht positiv: kurz, modern, unisex und sprachlich vielseitig. Die öffentliche Rezeption ist eher sachlich als auffällig, bei zugleich mehrdeutiger Herkunft und Bedeutung.",
+  "evidence_quality": "Gut bis moderat: mehrere Namensseiten stimmen in der Grundwahrnehmung überein, die inhaltliche Deutung ist jedoch wegen mehrerer Herkunftslinien teilweise uneinheitlich.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Lin",
+  "normalized_name": "lin",
+  "overall_resonance": "Überwiegend neutral bis leicht positiv. Lin wird öffentlich vor allem als kurzer, moderner und sprachlich vielseitiger Vorname wahrgenommen, mit eher sachlicher als emotionaler Resonanz.",
+  "practical_notes": [
+    "Für Suchmaschinen und Namensprofile eignet sich Lin gut als knapper, international verständlicher Name.",
+    "Bei der Einordnung sollte man offenlassen, welche Herkunft gemeint ist, da mehrere Traditionen nebeneinander genannt werden.",
+    "Die öffentliche Wahrnehmung ist eher sachlich-informativ als stark emotional geprägt."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Herkunfts- und Bedeutungsangaben sind mehrdeutig und teils widersprüchlich; das ist bei Lin normal und sollte vorsichtig gelesen werden.",
+    "Die Evidenz stammt überwiegend aus Namenslexika und redaktionellen Namensseiten, nicht aus repräsentativen Umfragen.",
+    "Es gibt keine klare negative Stigmatisierung in der vorliegenden Evidenz."
+  ],
+  "short_summary": "Lin wird in Deutschland meist neutral bis leicht positiv als kurzer, moderner Unisex-Name mit mehreren möglichen Herkunfts- und Bedeutungsdeutungen wahrgenommen.",
+  "source_count": 3,
+  "sources": [
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Lin � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/L/Li/Lin/"
+    },
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Lin � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/L/Li/Lin/"
+    },
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "mixed",
+      "source_type": "web",
+      "title": "&#9655; Vorname Lin: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Lin.html"
+    }
+  ],
+  "style_effect": [
+    "sehr kurz und prägnant",
+    "modern und klar",
+    "unisex wahrgenommen",
+    "sprachlich mehrdeutig",
+    "international anschlussfähig",
+    "eher nüchtern als verspielt"
+  ],
+  "usable_evidence_count": 3,
+  "visibility": "In Deutschland wirkt Lin eher selten bis moderat verbreitet und damit bekannt, aber nicht alltäglich. Die Sichtbarkeit entsteht vor allem durch Namenslexika und Beliebtheitsseiten, weniger durch starke öffentliche Debatten."
+}

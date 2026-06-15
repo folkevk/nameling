@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "Bedeutung etwa „Vertraue Gott“ bzw. Gottvertrauen",
+    "deutsche/altdeutsche Herkunft",
+    "pietistische Namensgebung",
+    "selten und wenig gebräuchlich",
+    "historisch geprägt",
+    "Namenstag am 20. September"
+  ],
+  "confidence": 0.82,
+  "display_text": "Traugott: traditionell, altdeutsch und religiös geprägt; selten, historisch wirkend und insgesamt eher sachlich bis leicht positiv wahrgenommen.",
+  "evidence_quality": "mittel: zwei klare Namensquellen mit etymologischen Angaben und Nutzerkommentaren, aber nur begrenzt repräsentativ für die öffentliche Gesamtwahrnehmung.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Traugott",
+  "normalized_name": "traugott",
+  "overall_resonance": "Traugott wirkt öffentlich eher traditionell, altdeutsch und religiös geprägt. Die Wahrnehmung ist sachlich bis leicht positiv, zugleich aber deutlich selten und für viele ungewohnt.",
+  "practical_notes": [
+    "Für eine Namenssuche eignet sich Traugott besonders, wenn ein klassischer, traditionsreicher und religiös konnotierter Name gesucht wird.",
+    "Wegen der Seltenheit kann der Name auffallen und eher altertümlich wirken.",
+    "Die Quellenlage ist ausreichend für eine vorsichtige Einordnung, aber nicht für belastbare Aussagen über gesellschaftliche Gesamtstimmung."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt vor allem aus Namenslexika und Community-Seiten; das ist nützlich, aber nur begrenzt repräsentativ für die breite öffentliche Meinung.",
+    "Einzelne Kommentare können den Namen als ungewohnt oder komisch empfinden; das ist als subjektive Wahrnehmung zu lesen, nicht als allgemeine Tatsache."
+  ],
+  "short_summary": "Traugott wird meist als traditioneller, altdeutscher und religiös geprägter Name wahrgenommen. Er ist selten, wirkt für viele eher historisch als modern und ruft insgesamt eine sachlich bis leicht positive, teils auch ungewohnte Resonanz hervor.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Traugott � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/T/Tr/Traugott/"
+    },
+    {
+      "confidence": 0.92,
+      "is_name_discussion": true,
+      "sentiment": "mixed",
+      "source_type": "web",
+      "title": "&#9655; Vorname Traugott: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Traugott.html"
+    }
+  ],
+  "style_effect": [
+    "traditionell",
+    "altdeutsch",
+    "religiös/pietistisch",
+    "historisch",
+    "ungewöhnlich",
+    "sachlich",
+    "namensdeutend"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Niedrig bis mittel: Der Name ist bekannt genug für Nachschlagequellen, aber im Alltag eher selten und dadurch wenig präsent."
+}

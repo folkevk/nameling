@@ -1,0 +1,63 @@
+{
+  "associations": [
+    "althochdeutscher Ursprung",
+    "Adalbrecht als ältere Form",
+    "edel",
+    "vornehm",
+    "strahlend",
+    "traditionell",
+    "selten bis mäßig verbreitet in Deutschland",
+    "Namenstag"
+  ],
+  "confidence": 0.89,
+  "display_text": "Albrecht wirkt in der öffentlichen Wahrnehmung überwiegend sachlich-positiv und klassisch-traditionell. Der Name wird mit althochdeutscher Herkunft, „edel/vornehm/strahlend“ und einer eher seltenen, aber etablierten Nutzung in Deutschland verbunden.",
+  "evidence_quality": "Mittel bis gut: zwei einschlägige Namensquellen, beide überwiegend neutral-beschreibend; die Evidenz ist jedoch eher lexikalisch als eine breite öffentliche Resonanz.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Albrecht",
+  "normalized_name": "albrecht",
+  "overall_resonance": "Überwiegend sachlich-positiv bis neutral. Der Name wird vor allem mit Tradition, althochdeutscher Herkunft und Bedeutungen wie „edel“, „vornehm“ oder „strahlend“ verbunden. Eine klare gesellschaftliche Kontroverse ist in der vorliegenden Evidenz nicht erkennbar.",
+  "practical_notes": [
+    "Gut geeignet, wenn ein klassisch-traditioneller und historisch klingender Name gesucht wird.",
+    "Wirkt eher offiziell und markant als modern oder verspielt.",
+    "Die Aussprache und Schreibweise sind im Deutschen unkompliziert, der Name ist jedoch nicht sehr häufig."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt überwiegend aus Namenslexika und Nachschlagequellen, also eher aus beschreibenden als aus breit öffentlichen Debatten.",
+    "Die positiven Bedeutungsassoziationen sind quellenbasiert; sie sollten nicht als objektive Eigenschaft des Namens oder seiner Träger verstanden werden.",
+    "Wegen der Seltenheit kann die Wahrnehmung je nach Umfeld variieren."
+  ],
+  "short_summary": "Albrecht wird meist als traditioneller, seltener deutscher Vorname mit edler und vornehmer Bedeutungsassoziation wahrgenommen.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Albrecht � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/A/Al/Albrecht/"
+    },
+    {
+      "confidence": 0.78,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Albrecht: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Albrecht.html"
+    }
+  ],
+  "style_effect": [
+    "traditionell",
+    "klassisch",
+    "historisch",
+    "ernst",
+    "eher förmlich",
+    "namenskundlich geprägt"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Eher selten und dadurch auffälliger als alltägliche Namen, aber als etablierter deutscher Vorname grundsätzlich bekannt. Die öffentliche Sichtbarkeit wirkt eher lexikalisch als diskursiv."
+}

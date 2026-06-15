@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "Bedeutung im Umfeld von „Herr im Haus“ / „Herrscher“ / „Mächtiger“",
+    "englische und französische Form von Heinrich",
+    "männlicher Vorname mit althochdeutschem Ursprung",
+    "Namenstag",
+    "Beliebtheit in Deutschland",
+    "Spitznamen wie Henny, Harry, Hen oder Hank"
+  ],
+  "confidence": 0.88,
+  "display_text": "Henry wirkt in Deutschland überwiegend positiv, modern und zugleich zeitlos. Die vorliegenden Quellen beschreiben den Namen vor allem als internationale Form von Heinrich mit traditioneller Bedeutung und verweisen auf Beliebtheit sowie Namenstag. Eine auffällige soziale Stigmatisierung ist in der Evidenz nicht erkennbar.",
+  "evidence_quality": "gut für namenkundliche Einordnung, begrenzt für echte öffentliche Resonanz; die Quellen sind überwiegend lexikalisch und informativ",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Henry",
+  "normalized_name": "henry",
+  "overall_resonance": "Henry wird in den vorliegenden Quellen überwiegend freundlich, modern und zugleich traditionsnah beschrieben. Der Name wirkt international und in Deutschland bekannt, mit eher positiver, sachlicher Namensrezeption.",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt Henry vertraut und gut anschlussfähig.",
+    "Der Name kann sowohl modern als auch klassisch gelesen werden.",
+    "Die internationale Form kann als Vorteil für eine breite Verständlichkeit wahrgenommen werden."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist hauptsächlich beschreibend und stammt aus Namenslexika; sie zeigt eher Namenswissen als echte öffentliche Debatte.",
+    "Es gibt keine Hinweise auf soziale Stigmatisierung oder stark negative Zuschreibungen in den Quellen.",
+    "Beliebtheitsangaben sollten vorsichtig gelesen werden, da keine einheitliche Markt- oder Umfragedatenlage vorliegt."
+  ],
+  "short_summary": "Henry wird in Deutschland meist positiv, modern und zeitlos wahrgenommen; die Quellen betonen Herkunft, Bedeutung und Beliebtheit, aber eher als Namensbeschreibung als als öffentliche Diskussion.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Henry � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/H/He/Henry/"
+    },
+    {
+      "confidence": 0.91,
+      "is_name_discussion": true,
+      "sentiment": "positive",
+      "source_type": "web",
+      "title": "&#9655; Vorname Henry: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Henry.html"
+    }
+  ],
+  "style_effect": [
+    "modern",
+    "zeitlos",
+    "international",
+    "klassisch anschlussfähig",
+    "informativ",
+    "eher unkompliziert wahrnehmbar"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland gut sichtbar und als Vorname etabliert; die Evidenz deutet auf regelmäßige Nennung in Namenslexika und auf Beliebtheitshinweise hin, ohne dass daraus eine starke kulturelle Kontroverse ableitbar wäre."
+}

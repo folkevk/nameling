@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "lateinische Herkunft",
+    "Bedeutung im Sinn von „der Blühende“ / „der Prächtige“",
+    "männlicher Vorname",
+    "selten bzw. eher ungewöhnlich",
+    "Namenstag wird genannt",
+    "klassisch-elegant",
+    "ausgefallen, aber nicht extrem fremd"
+  ],
+  "confidence": 0.78,
+  "display_text": "Florentin wirkt in Deutschland eher selten, klassisch und leicht positiv konnotiert. Der Name wird vor allem mit lateinischer Herkunft, der Bedeutung „der Blühende“/„der Prächtige“ und einem eleganten, etwas ausgefallenen Eindruck verbunden. Die Evidenz ist jedoch begrenzt und stammt hauptsächlich aus Namensseiten.",
+  "evidence_quality": "mittel bis gut: zwei einschlägige Namensquellen mit klaren Angaben zu Bedeutung, Herkunft und Seltenheit, aber keine breite externe Reputationsbasis.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Florentin",
+  "normalized_name": "florentin",
+  "overall_resonance": "Überwiegend sachlich bis leicht positiv. Florentin wird in den vorliegenden Namensquellen vor allem über Bedeutung, Herkunft und Klang beschrieben; die öffentliche Wahrnehmung wirkt eher wohlwollend und bildungsnah als umstritten.",
+  "practical_notes": [
+    "Für eine Namenssuche lässt sich Florentin als klar positiv konnotierter, klassisch wirkender Jungenname zusammenfassen.",
+    "Wer einen seltenen, aber traditionsnahen Namen sucht, könnte ihn als passend empfinden.",
+    "Die Datenlage ist begrenzt; die Einschätzung sollte daher eher als vorsichtige Tendenz denn als harte Aussage gelesen werden."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt fast ausschließlich von Namensseiten, nicht von breiter öffentlicher Meinungsforschung.",
+    "Einige Bewertungen beruhen auf Nutzerkommentaren und sind daher subjektiv.",
+    "Die Seltenheit kann je nach Kontext positiv als besonders oder neutral als ungebräuchlich wirken; daraus lässt sich keine allgemeine gesellschaftliche Bewertung ableiten."
+  ],
+  "short_summary": "Florentin wird in den Quellen überwiegend sachlich und leicht positiv wahrgenommen: ein seltener, klassisch wirkender Vorname mit lateinischer Herkunft und der Bedeutung „der Blühende“/„der Prächtige“.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Florentin � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/F/Fl/Florentin/"
+    },
+    {
+      "confidence": 0.87,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Florentin: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Florentin.html"
+    }
+  ],
+  "style_effect": [
+    "klingt klassisch und elegant",
+    "wirkt eher formell als modern-umgangssprachlich",
+    "wird mit einer positiven, blühenden Bedeutung verbunden",
+    "kann durch die Seltenheit als besonders wahrgenommen werden",
+    "hat einen eher namenskundlich-geprägten als popkulturellen Eindruck"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland wirkt der Name eher selten und dadurch auffälliger als gebräuchlich. Er ist bekannt, aber nicht alltäglich, was die Wahrnehmung als etwas besonderer oder ausgefallener verstärken kann."
+}

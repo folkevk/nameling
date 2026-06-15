@@ -1,0 +1,68 @@
+{
+  "associations": [
+    "Freude",
+    "englische Herkunft",
+    "weiblicher Vorname",
+    "moderne Namenswirkung",
+    "selten bis moderat verbreitet",
+    "Namenstag in einzelnen Quellen erwähnt"
+  ],
+  "confidence": 0.78,
+  "display_text": "Joy wirkt in Deutschland überwiegend positiv, modern und international. Die Quellen betonen vor allem die Bedeutung „Freude“; zugleich ist die Evidenz für eine breitere öffentliche Wahrnehmung eher begrenzt.",
+  "evidence_quality": "mittel bis eher schwach für öffentliche Resonanz; gut für lexikalische Bedeutung, begrenzt für echte Außenwahrnehmung",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Joy",
+  "normalized_name": "joy",
+  "overall_resonance": "Überwiegend positiv bis neutral. Der Name wird in den Quellen vor allem sachlich-namenskundlich beschrieben, mit einer freundlichen Konnotation durch die Bedeutung „Freude“. Für die öffentliche Wahrnehmung wirkt Joy eher modern, kurz und international, ohne starke Polarisierung.",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt Joy freundlich, international und leicht verständlich.",
+    "Die Bedeutung ist positiv besetzt und kann als stärkster Eindruck des Namens gelten.",
+    "In Deutschland scheint der Name eher bekannt, aber nicht stark massenhaft diskutiert zu sein."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist stark auf wenige Namenslexikon-Quellen beschränkt.",
+    "Es gibt kaum Hinweise auf eine eigenständige öffentliche Debatte außerhalb der Namensportale.",
+    "Die Wahrnehmung als 'modern' oder 'englisch' ist eine typische Quellenassoziation, keine allgemeingültige Aussage über alle Kontexte."
+  ],
+  "short_summary": "Joy wird in den Quellen überwiegend positiv und sachlich beschrieben, vor allem wegen der Bedeutung „Freude“. Öffentliche Resonanz ist eher moderat sichtbar und stark lexikalisch geprägt.",
+  "source_count": 3,
+  "sources": [
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "Vorname Joy � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/J/Jo/Joy/"
+    },
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Joy � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/J/Jo/Joy/"
+    },
+    {
+      "confidence": 0.91,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Joy: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Joy.html"
+    }
+  ],
+  "style_effect": [
+    "kurz und prägnant",
+    "modern und international",
+    "positiv aufgeladene Bedeutung",
+    "eher weich und freundlich im Klang",
+    "lexikalisch gut erklärbar"
+  ],
+  "usable_evidence_count": 3,
+  "visibility": "Eher gering bis moderat sichtbar. Die Evidenz stammt fast ausschließlich aus Namenslexika und Vornamenportalen; belastbare Hinweise auf eine breitere öffentliche Diskussion sind nur begrenzt vorhanden."
+}

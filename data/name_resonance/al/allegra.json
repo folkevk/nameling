@@ -1,0 +1,64 @@
+{
+  "associations": [
+    "Bedeutung im Sinne von Fröhlichkeit und Heiterkeit",
+    "italienische Herkunft bzw. italienisch wirkender Klang",
+    "weiblicher Vorname",
+    "selten bis eher moderat bekannt in Deutschland",
+    "leichte, melodische Klangwirkung",
+    "Wunschname/positiv besetzter Namenscharakter"
+  ],
+  "confidence": 0.82,
+  "display_text": "Allegra wirkt in der öffentlichen Wahrnehmung überwiegend positiv: Der Name wird mit Fröhlichkeit, Heiterkeit und einem leichten, italienisch anmutenden Klang verbunden. In Deutschland ist er eher selten und dadurch etwas auffällig, aber nicht negativ konnotiert. Die Evidenz ist allerdings begrenzt und stammt vor allem aus Namensportalen.",
+  "evidence_quality": "mittel bis eher gering: zwei inhaltlich passende, aber kuratierte Namensquellen; kaum unabhängige öffentliche Resonanz sichtbar.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Allegra",
+  "normalized_name": "allegra",
+  "overall_resonance": "Überwiegend positiv, leicht auffällig und eher selten; die öffentliche Wahrnehmung wird vor allem über Bedeutung und Klang beschrieben, nicht über breite Alltagsnutzung.",
+  "practical_notes": [
+    "Für eine Namenssuche ist Allegra vor allem wegen der freundlichen Bedeutung und des weichen Klangs attraktiv.",
+    "Wer einen sehr geläufigen Namen sucht, könnte Allegra als eher speziell empfinden.",
+    "Die Wahrnehmung dürfte stark vom Umfeld abhängen, da der Name im deutschen Alltag nicht sehr häufig ist."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz basiert fast ausschließlich auf Vornamensportalen und Lexikonseiten.",
+    "Es gibt wenig belastbare freie öffentliche Debatte außerhalb der Quellenbeschreibung.",
+    "Seltenheit kann je nach Umfeld als ungewöhnlich wahrgenommen werden, ohne dass das negativ gemeint ist."
+  ],
+  "short_summary": "Allegra wird überwiegend positiv wahrgenommen: fröhlich, heiter und klanglich leicht. Im deutschsprachigen Raum ist der Name eher selten und dadurch etwas auffällig, ohne dass die verfügbare Evidenz auf negative Konnotationen hindeutet.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.95,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "Vorname Allegra � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/A/Al/Allegra/"
+    },
+    {
+      "confidence": 0.87,
+      "is_name_discussion": true,
+      "sentiment": "positive",
+      "source_type": "web",
+      "title": "&#9655; Vorname Allegra: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Allegra.html"
+    }
+  ],
+  "style_effect": [
+    "fröhlich",
+    "heiter",
+    "lebhaft",
+    "leicht",
+    "modern",
+    "elegant",
+    "italienisch geprägt",
+    "eher selten",
+    "auffällig, aber nicht negativ"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Im deutschsprachigen Raum wirkt der Name eher ungewöhnlich als alltäglich. Die verfügbare Evidenz deutet auf eine kleine bis moderate Bekanntheit hin, aber nicht auf eine stark verbreitete öffentliche Präsenz."
+}

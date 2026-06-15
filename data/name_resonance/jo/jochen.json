@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "Kurzform von Joachim",
+    "hebräische/biblische Wurzeln",
+    "Bedeutungen rund um Aufrichtung, Beständigkeit und göttliche Bestätigung",
+    "früher häufiger, heute eher selten",
+    "Namenstag an verschiedenen Tagen"
+  ],
+  "confidence": 0.84,
+  "display_text": "Jochen: überwiegend sachlich-neutrale Resonanz, traditionell und deutsch geprägt, heute eher selten. Die Quellen nennen vor allem die Herkunft als Kurzform von Joachim sowie biblisch-hebräische Wurzeln. Die Evidenz ist begrenzt und eher lexikalisch als breit öffentlich.",
+  "evidence_quality": "mittel: zwei überwiegend lexikalische Namensquellen, wenig echte öffentliche Debatte",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Jochen",
+  "normalized_name": "jochen",
+  "overall_resonance": "Jochen wird in den vorliegenden Namensquellen überwiegend sachlich-neutral wahrgenommen. Der Name wirkt traditionell, deutsch geprägt und eher klassisch als modisch.",
+  "practical_notes": [
+    "Für Namenssuchende wirkt Jochen klar verständlich und vertraut.",
+    "Der Name hat eine etablierte, traditionelle Anmutung.",
+    "Wer einen selteneren, aber nicht ausgefallenen klassischen deutschen Namen sucht, könnte Jochen passend finden."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenzlage ist begrenzt und stammt im Wesentlichen aus zwei Namenslexika.",
+    "Es geht um die öffentliche Beschreibung des Vornamens, nicht um die Bewertung konkreter Personen.",
+    "Eine breite gesellschaftliche Resonanz lässt sich daraus nur eingeschränkt ableiten."
+  ],
+  "short_summary": "Jochen wird meist neutral und traditionell beschrieben; die Quellen betonen Herkunft, Bedeutung und die eher seltene heutige Nutzung.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Jochen � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/J/Jo/Jochen/"
+    },
+    {
+      "confidence": 0.92,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Jochen: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Jochen.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "bodenständig",
+    "traditionsnah",
+    "deutsch geprägt",
+    "eher zeitlos als modern",
+    "sachlich in der Wahrnehmung"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Eher geringe bis mittlere öffentliche Sichtbarkeit: Der Name wird erklärt und eingeordnet, aber die Evidenz zeigt wenig breite Diskussion oder starke Meinungsbilder."
+}

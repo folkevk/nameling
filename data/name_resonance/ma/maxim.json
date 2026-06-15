@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "lateinischer Ursprung",
+    "Kurzform bzw. Variante von Maximilian",
+    "Bedeutung: „der Größte“",
+    "slawische Form: Maksim",
+    "in Deutschland eher beliebt bzw. stetig verbreitet",
+    "männlicher Vorname",
+    "Namensformen mit Max- und -im-Klang"
+  ],
+  "confidence": 0.84,
+  "display_text": "Maxim wirkt in Deutschland insgesamt positiv bis neutral: kurz, klar und modern, mit klassischem lateinischem Hintergrund und der Bedeutung „der Größte“. Die verfügbare Evidenz stammt jedoch vor allem aus Namenslexika, daher ist die öffentliche Resonanz nur begrenzt belastbar.",
+  "evidence_quality": "mittel bis begrenzt: zwei Namenslexikon-/Namensdatenbankquellen mit konsistenter, überwiegend sachlicher Darstellung; wenig echte öffentliche Diskussion.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Maxim",
+  "normalized_name": "maxim",
+  "overall_resonance": "In Deutschland wirkt Maxim insgesamt sachlich positiv bis neutral. Der Name wird vor allem als moderner, klarer Jungenname mit klassischer Herkunft wahrgenommen; starke Kontroversen oder klare Ablehnung sind in der vorliegenden Evidenz nicht erkennbar.",
+  "practical_notes": [
+    "Für eine Namenssuche ist Maxim ein gut verständlicher, unkomplizierter Vorname.",
+    "Die Kurzform wirkt modern und zugänglich, die Herkunft gibt dem Namen zugleich einen klassischen Hintergrund.",
+    "Als Resonanzbild überwiegen Herkunft, Bedeutung und Beliebtheit; öffentliche Kontroversen spielen hier kaum eine Rolle."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist begrenzt und stammt vor allem aus redaktionellen Namensdatenbanken, nicht aus einer breiten öffentlichen Debatte.",
+    "Es gibt keine belastbaren Hinweise auf eine negative soziale Stigmatisierung; falls einzelne Vorlieben existieren, lassen sie sich aus der Quelle nicht ableiten."
+  ],
+  "short_summary": "Maxim wird in der vorliegenden Evidenz als moderner, klassisch geprägter Jungenname mit eher positiver bis neutraler Resonanz beschrieben.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Maxim � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/M/Ma/Maxim/"
+    },
+    {
+      "confidence": 0.95,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Maxim: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Maxim.html"
+    }
+  ],
+  "style_effect": [
+    "kurz und prägnant",
+    "modern wirkend",
+    "klassisch-lateinischer Klang",
+    "international anschlussfähig",
+    "leicht elegant",
+    "informativ statt extravagant"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Eher gut sichtbar und regelmäßig vergeben, zugleich nicht als Massenname beschrieben. Die Wahrnehmung scheint vor allem durch Namenslexika und Beliebtheitsangaben geprägt zu sein."
+}

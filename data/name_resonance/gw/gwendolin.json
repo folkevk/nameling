@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "walisischer bzw. keltischer Ursprung",
+    "Bedeutung rund um ‚weißer Kreis‘, ‚weißer Bogen‘ oder ‚Mondsichel‘",
+    "seltene Verwendung in Deutschland",
+    "Feen- und Sagenbezug",
+    "weiße Blume als Bildassoziation"
+  ],
+  "confidence": 0.81,
+  "display_text": "Gwendolin wirkt in der öffentlichen Wahrnehmung eher poetisch, traditionsnah und ungewöhnlich. Der Name wird meist als seltener, walisisch/keltisch geprägter Mädchenname mit Bedeutungen rund um ‚weißer Kreis‘, ‚weißer Bogen‘ oder ‚Mondsichel‘ beschrieben. Die Evidenz ist vor allem namenskundlich und nicht stark diskursiv, daher ist die Aussagekraft begrenzt. Insgesamt: eher positiv bis neutral, mit einer leicht mythischen und individuellen Anmutung.",
+  "evidence_quality": "Mittel bis gut: Die Quellen benennen Bedeutung, Herkunft, Seltenheit und Stilwirkung klar, sind aber vor allem beschreibende Namensportale ohne breite öffentliche Diskussionslage.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Gwendolin",
+  "normalized_name": "gwendolin",
+  "overall_resonance": "Eher positiv bis neutral: Gwendolin wirkt in der verfügbaren Evidenz poetisch, traditionsnah und ungewöhnlich, ohne starke öffentliche Kontroversen. Der Name wird vor allem sachlich beschrieben; die Resonanz basiert damit eher auf Namenslexika als auf breiter öffentlicher Debatte.",
+  "practical_notes": [
+    "Wirkt eher charakterstark und individuell als alltäglich.",
+    "Geeignet, wenn ein seltener, klangvoller Name mit traditionell-mythologischer Anmutung gesucht wird.",
+    "Die Schreibweise kann als weniger geläufig wahrgenommen werden, bleibt aber gut lesbar und bekannt genug."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt überwiegend aus Namensdatenbanken und Lexika; das ist informativ, aber keine breite öffentliche Meinungsumfrage.",
+    "Es gibt keine klare Hinweise auf starke negative Debatten oder gesellschaftliche Stigmatisierung.",
+    "Falls einzelne Wahrnehmungen als altmodisch oder ungewohnt beschrieben werden, sind das eher Stilurteile als belastbare Allgemeinaussagen."
+  ],
+  "short_summary": "Gwendolin wird überwiegend als seltener, walisisch/keltisch geprägter und poetisch wirkender Vorname wahrgenommen. Die verfügbare Evidenz ist eher sachlich als kontrovers und zeigt keine starke negative öffentliche Resonanz.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.94,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Gwendolin � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/G/Gw/Gwendolin/"
+    },
+    {
+      "confidence": 0.78,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Gwendolin: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Gwendolin.html"
+    }
+  ],
+  "style_effect": [
+    "keltisch/walisisch",
+    "poetisch",
+    "mythisch-traditionell",
+    "weich und feminin",
+    "selten/ungewöhnlich",
+    "namenskundlich geprägt"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland eher selten und dadurch auffällig, aber nicht stark verbreitet. Die öffentliche Sichtbarkeit ist daher eher niedrig bis moderat."
+}

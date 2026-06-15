@@ -1,0 +1,62 @@
+{
+  "associations": [
+    "Kurzform oder Koseform",
+    "Bezug zu Maria/Mirjam",
+    "weiblicher Vorname",
+    "Namenstag",
+    "Beliebtheit in Deutschland",
+    "Oper 'La Bohème'",
+    "süß/lieb als Sprachgefühl"
+  ],
+  "confidence": 0.78,
+  "display_text": "Mimi wirkt in der öffentlichen Namenswahrnehmung eher leicht positiv bis neutral: kurz, weich, lieblich und kosehaft. In Deutschland erscheint der Name eher vertraut als sehr häufig. Die Evidenz ist solide für Bedeutung und Herkunft, aber nur begrenzt stark für die tatsächliche Alltagsresonanz.",
+  "evidence_quality": "mittel bis eher schwach: gute Namenslexika, aber wenig direkte Diskurs- oder Alltagswahrnehmungsevidenz",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Mimi",
+  "normalized_name": "mimi",
+  "overall_resonance": "Eher leicht positiv bis neutral",
+  "practical_notes": [
+    "Für Namenssuche wirkt Mimi freundlich, kurz und gut merkbar.",
+    "Die Wirkung ist eher verspielt als formell.",
+    "Als eigenständiger Vorname kann Mimi in Deutschland eher ungewöhnlich, aber anschlussfähig wirken."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Quellen sind überwiegend lexikalisch und damit nur begrenzt aussagekräftig für echte öffentliche Wahrnehmung.",
+    "Mehrdeutige Herkunftsangaben kommen vor; der Namensbezug ist nicht überall eindeutig gleich dargestellt.",
+    "Einzelne positive Kommentare sollten nicht als allgemeine Mehrheitsmeinung überbewertet werden."
+  ],
+  "short_summary": "Mimi wird in den Quellen meist als kurze, kosehafte und eher freundliche Namensform beschrieben. Die öffentliche Resonanz wirkt insgesamt leicht positiv, aber die Evidenz ist eher lexikalisch als breit gesellschaftlich belegt.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Mimi � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/M/Mi/Mimi/"
+    },
+    {
+      "confidence": 0.87,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Mimi: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Mimi.html"
+    }
+  ],
+  "style_effect": [
+    "kurz und weich",
+    "kosehaft/lieblich",
+    "spielerisch",
+    "jugendlich",
+    "ungewöhnlich, aber vertraut",
+    "namenskundlich aufgeladen"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Mimi ist als Vorname eher bekannt, aber nicht sehr verbreitet; öffentlich wird er vor allem als kurze, eingängige Kose- und Kurzform wahrgenommen."
+}

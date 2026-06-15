@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "portugiesische Form bzw. Kurzform von Santiago/Jakob",
+    "hebräische Wurzeln über Jakob/Santiago",
+    "Bedeutung im Umfeld von 'Jahwe möge schützen' bzw. 'der heilige Jakob'",
+    "Namenstag",
+    "moderne Namensverwendung",
+    "Beliebtheit in Deutschland"
+  ],
+  "confidence": 0.78,
+  "display_text": "Tiago hat in Deutschland eine sachlich-neutrale bis leicht positive öffentliche Resonanz: modern, freundlich und international klingend. Die verfügbare Evidenz ist allerdings schmal, daher ist das Bild vorsichtig zu lesen.",
+  "evidence_quality": "mittel bis schwach: zwei webbasierte Namensquellen, sachlich und weitgehend konsistent, aber keine breite öffentliche Datenlage",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Tiago",
+  "normalized_name": "tiago",
+  "overall_resonance": "Tiago wirkt in der öffentlichen Namenswahrnehmung eher modern, freundlich und leicht international geprägt. Die verfügbaren Quellen zeigen überwiegend eine sachlich-neutrale bis leicht positive Resonanz, allerdings auf schmaler Evidenzbasis.",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt Tiago unkompliziert, modern und gut merkbar.",
+    "Die Schreibweise ist etabliert, kann aber regional als etwas international oder besonders wahrgenommen werden.",
+    "Die Aussagekraft der verfügbaren Quellen ist begrenzt; die Einschätzung sollte als vorsichtiges Gesamtbild gelesen werden."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt nur aus wenigen Namenslexika; die öffentliche Resonanz ist daher nur eingeschränkt belastbar.",
+    "Einzelne Kommentare oder redaktionelle Einschätzungen sind keine repräsentative Mehrheitsmeinung.",
+    "Die Hinweise auf Beliebtheit können den Eindruck stärker positiver Resonanz erzeugen, ohne dass dafür breite Daten vorliegen."
+  ],
+  "short_summary": "Tiago wird in Deutschland überwiegend als moderner, international klingender Vorname mit sachlich-neutrales bis leicht positives Echo wahrgenommen. Die Evidenz ist jedoch begrenzt.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Tiago � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/T/Ti/Tiago/"
+    },
+    {
+      "confidence": 0.86,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Tiago: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Tiago.html"
+    }
+  ],
+  "style_effect": [
+    "modern",
+    "international",
+    "weich klingend",
+    "jung",
+    "freundlich",
+    "lexikalisch klar"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland sichtbar, aber eher als moderner, nicht alltäglicher Vorname mit klarer Wiedererkennbarkeit in Namenslexika und Datenbanken."
+}

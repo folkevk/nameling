@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "altnordische Herkunft",
+    "eingedeutschte Form von Erik",
+    "Bedeutung im Sinne von 'der Alleinherrschende'",
+    "klassischer Vorname",
+    "historisch in Deutschland stärker vertreten",
+    "heute seltener",
+    "Namenstag am 18. Mai und 10. Juli"
+  ],
+  "confidence": 0.83,
+  "display_text": "Erich wirkt öffentlich vor allem klassisch, historisch und eher neutral. Der Name ist bekannt, heute in Deutschland aber deutlich seltener und eher traditionell als modern. Die Evidenz ist begrenzt und stammt überwiegend aus Namenslexika.",
+  "evidence_quality": "Begrenzte Evidenz: vor allem zwei Namenslexikon-Quellen, sachlich und direkt zum Namen, aber mit schwacher Breite der öffentlichen Resonanz.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Erich",
+  "normalized_name": "erich",
+  "overall_resonance": "Überwiegend neutral bis leicht klassisch-traditionell. Der Name wird vor allem sachlich als alter, historisch bekannter Vorname wahrgenommen, mit eher zurückhaltender moderner Sichtbarkeit.",
+  "practical_notes": [
+    "Für Namenssuche und kurze Einordnung gut geeignet, wenn ein traditioneller Klang gewünscht ist.",
+    "Wirkt eher konservativ und generationsgebunden als modern-populär.",
+    "Die Schreibweise ist klar und vertraut; mögliche Kurzformen werden in den Quellen genannt, sind aber nicht dominant."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz basiert nur auf wenigen Namenslexikon-Seiten; das ist keine breite öffentliche Debatte.",
+    "Vereinzelt tauchen gemischte oder negative Nutzerreaktionen auf, diese wirken aber nicht repräsentativ für den Gesamteindruck.",
+    "Keine belastbaren Hinweise auf eine größere soziale Stigmatisierung erkennbar."
+  ],
+  "short_summary": "Erich wird in den verfügbaren Quellen vor allem als klassischer, historisch verankerter Vorname mit neutraler bis leicht traditioneller Wirkung beschrieben. Heute ist er eher selten und nicht besonders trendig; die Datenlage ist allerdings schmal.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Erich � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/E/Er/Erich/"
+    },
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "mixed",
+      "source_type": "web",
+      "title": "&#9655; Vorname Erich: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Erich.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "traditionell",
+    "namentlich klar",
+    "historisch geprägt",
+    "eher zeitlos als modisch"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland bekannt, aber heute deutlich seltener und eher nicht trendig. Die öffentliche Sichtbarkeit wirkt daher eher historisch als aktuell populär."
+}

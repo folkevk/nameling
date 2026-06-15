@@ -1,0 +1,59 @@
+{
+  "associations": [
+    "lateinisch-römische Herkunft",
+    "Bezug zu Julia / den Juliern",
+    "Bedeutungsdeutung: dem Jupiter geweiht",
+    "deutscher und französischer Namensgebrauch",
+    "Namenstag",
+    "Spitznamen wie Jule oder Julie"
+  ],
+  "confidence": 0.87,
+  "display_text": "Juliane: überwiegend sachlich-neutrale, klassisch-freundliche Wahrnehmung. Der Name gilt als traditionsreich, weiblich und klar einordenbar; die verfügbare Evidenz ist jedoch vor allem namenskundlich und nur indirekt als öffentliche Resonanz zu verstehen.",
+  "evidence_quality": "mittel bis eher schwach für öffentliche Resonanz; gut für Namensbedeutung und Einordnung, nur indirekt für Rezeption",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Juliane",
+  "normalized_name": "juliane",
+  "overall_resonance": "Überwiegend sachlich-neutral mit eher klassisch-freundlicher Anmutung. In der vorliegenden Evidenz erscheint Juliane als etablierter, traditionell wirkender weiblicher Vorname ohne auffällige starke Polarisierung.",
+  "practical_notes": [
+    "Für Suchmaschinen geeignet als klassischer Mädchenname mit klarer Herkunft und neutraler Bewertung.",
+    "Die Schreibweise ist eindeutig, der Name wirkt im deutschsprachigen Raum gut einordenbar und traditionsnah."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz zur öffentlichen Resonanz ist nur indirekt: Sie stammt vor allem aus Namenslexika und Beliebtheitsangaben, nicht aus breiter öffentlicher Meinungsforschung.",
+    "Keine belastbaren Hinweise auf soziale Stigmatisierung oder starke negative Konnotationen in den vorliegenden Quellen."
+  ],
+  "short_summary": "Juliane wird in den Quellen überwiegend neutral und klassisch wahrgenommen: ein traditionsreicher, weiblicher Vorname mit lateinischer Herkunft und eher vertrauter, nicht trendiger Wirkung.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Juliane � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/J/Ju/Juliane/"
+    },
+    {
+      "confidence": 0.92,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Juliane: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Juliane.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "elegant",
+    "schlicht",
+    "traditionell",
+    "weiblich",
+    "lexikalisch vertraut"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland bekannt und historisch verbreitet, aktuell eher mittlere bis geringere Alltagspräsenz. Die Wahrnehmung wirkt eher vertraut als trendig."
+}

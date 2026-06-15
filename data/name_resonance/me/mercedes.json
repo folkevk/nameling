@@ -1,0 +1,62 @@
+{
+  "associations": [
+    "spanischer Mädchenname",
+    "katholischer/religiöser Ursprung",
+    "Bedeutung: die Gnädige / die Barmherzige / die Dankbare",
+    "Namenstag",
+    "selten bis moderat gebräuchlich in Deutschland",
+    "Automarke als Nebenassoziation",
+    "gelegentlich humorvoll oder spöttisch kommentiert"
+  ],
+  "confidence": 0.72,
+  "display_text": "Mercedes: meist sachlich-positiv und traditionsnah wahrgenommen; zugleich kann der Markenbezug die öffentliche Resonanz deutlich mit beeinflussen. Die Evidenz ist begrenzt, aber der Namenscharakter klar erkennbar.",
+  "evidence_quality": "mittel bis begrenzt; direkte Namensquellen vorhanden, aber nur in kleiner Zahl und mit teils kommentarbasierter Resonanz",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Mercedes",
+  "normalized_name": "mercedes",
+  "overall_resonance": "Überwiegend sachlich-positiv, mit einer spürbaren gemischten Nebenassoziation durch die bekannte Automarke.",
+  "practical_notes": [
+    "Für Namenssuchende wirkt Mercedes inhaltlich reich und traditionsbezogen.",
+    "Wer einen klaren Vornamen ohne Markenbezug sucht, sollte die mögliche Doppelassoziation bedenken.",
+    "Die vorhandene Evidenz ist brauchbar, aber nicht breit genug für eine sehr sichere Gesamtbewertung."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die öffentliche Resonanz basiert hier nur auf wenigen, quellengebundenen Namensseiten.",
+    "Der starke Bezug zur Automarke kann den Namen im Alltag überlagern.",
+    "Vereinzelte negative Kommentare sollten nicht als allgemeine Namensbewertung verstanden werden."
+  ],
+  "short_summary": "Mercedes wird öffentlich meist als klangvoller, traditionsreicher und religiös geprägter Vorname wahrgenommen. Gleichzeitig kann die bekannte Automarke die Resonanz leicht mitprägen.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "Vorname Mercedes � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/M/Me/Mercedes/"
+    },
+    {
+      "confidence": 0.91,
+      "is_name_discussion": true,
+      "sentiment": "gemischt",
+      "source_type": "web",
+      "title": "&#9655; Vorname Mercedes: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Mercedes.html"
+    }
+  ],
+  "style_effect": [
+    "klangvoll",
+    "elegant",
+    "international",
+    "traditionsnah",
+    "namenskundlich aufgeladen",
+    "leicht markenassoziiert"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Der Vorname ist in Deutschland eher bekannt, aber nicht sehr häufig. In Namenskontexten wird er meist als spanisch-katholisch geprägt und bedeutungsvoll wahrgenommen; zugleich kann der Markenbezug die öffentliche Wahrnehmung mit beeinflussen."
+}

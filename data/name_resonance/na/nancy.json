@@ -1,0 +1,58 @@
+{
+  "associations": [
+    "Bedeutungen wie 'die Begnadete', 'die Liebreizende' oder 'die Gnädige'",
+    "hebräische bzw. althebräische Namensdeutung in den Quellen",
+    "Verwandtschaft zu Anna/Hannah bzw. Agnes in namenskundlichen Einordnungen",
+    "Namenstag",
+    "Beliebtheit in Deutschland"
+  ],
+  "confidence": 0.83,
+  "display_text": "Nancy wirkt in den vorliegenden Quellen überwiegend sachlich-neutral und leicht positiv. Der Name wird als weiblich, international und mit freundlicher, anmutiger Bedeutung beschrieben. Für Deutschland ist er bekannt, aber eher kein stark trenddominanter Vorname. Die Evidenz ist jedoch begrenzt und besteht vor allem aus namenskundlichen Einträgen.",
+  "evidence_quality": "mittel: klar namenskundliche Quellen mit direkter Diskussion des Vornamens, aber nur geringe Breite und kaum echte Rezeption außerhalb von Namenseinträgen.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Nancy",
+  "normalized_name": "nancy",
+  "overall_resonance": "Überwiegend sachlich-neutral mit leicht positivem Klang. In den Quellen wird Nancy vor allem als international gebräuchlicher, weiblicher Vorname mit freundlicher, anmutiger Bedeutung beschrieben.",
+  "practical_notes": [
+    "Für eine Namenssuche lässt sich Nancy als vertraut, freundlich und unkompliziert beschreiben.",
+    "Die Wirkung ist eher klassisch-international als ausgefallen.",
+    "Wenn du Wert auf eine klare, sachliche Einordnung legst, ist die Quellenlage ausreichend; für breitere öffentliche Resonanz wäre mehr Evidenz nötig."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist begrenzt und stammt im Wesentlichen aus zwei Namensseiten, daher nur vorsichtige Aussagen zur öffentlichen Rezeption.",
+    "Es gibt keine belastbaren Hinweise auf eine starke soziale Stigmatisierung oder besonders kontroverse Konnotationen in der vorliegenden Evidenz."
+  ],
+  "short_summary": "Nancy wird in den vorliegenden Quellen als weiblicher, internationaler Vorname mit freundlicher, anmutiger Bedeutung beschrieben. Die öffentliche Wirkung erscheint überwiegend neutral bis leicht positiv, bei nur begrenzter Evidenz für die tatsächliche Breite der Resonanz.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Nancy � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/N/Na/Nancy/"
+    },
+    {
+      "confidence": 0.92,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Nancy: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Nancy.html"
+    }
+  ],
+  "style_effect": [
+    "weiblich",
+    "weich und freundlich wirkend",
+    "international/englisch geprägt",
+    "klassisch-sachlich",
+    "eher informativ als modisch"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland bekannt, aber eher nicht dominant; die öffentliche Wahrnehmung wirkt eher namenskundlich als trendgetrieben. Die Evidenz spricht mehr für lexikalische Bekanntheit als für starke gesellschaftliche Resonanz."
+}

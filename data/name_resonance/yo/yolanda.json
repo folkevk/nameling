@@ -1,0 +1,59 @@
+{
+  "associations": [
+    "weiblicher Vorname",
+    "altgriechische Herkunft",
+    "Bedeutung im Umfeld von Veilchen/Veilchenblüte",
+    "spanischer Sprachraum",
+    "selten bis mäßig bekannt in Deutschland",
+    "klassische Namenslexikon- und Herkunftsassoziationen"
+  ],
+  "confidence": 0.88,
+  "display_text": "Yolanda wirkt in Deutschland überwiegend neutral bis leicht positiv: ein klangvoller, eher seltener weiblicher Vorname mit klassischer, internationaler Anmutung. Die Quellen beschreiben ihn vor allem namenskundlich und ohne auffällige negative Konnotationen.",
+  "evidence_quality": "mittel bis gut: zwei namenskundliche Webquellen, insgesamt aber begrenzte Quellenbreite",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Yolanda",
+  "normalized_name": "yolanda",
+  "overall_resonance": "Yolanda wird in den vorliegenden Quellen überwiegend neutral bis leicht positiv wahrgenommen: als klangvoller, eher seltener weiblicher Vorname mit klassisch-namenskundlichem Hintergrund.",
+  "practical_notes": [
+    "Für eine Namenssuche in Deutschland wirkt Yolanda solide, freundlich und traditionell genug, ohne sehr häufig zu sein.",
+    "Die Schreibweise ist klar und vertraut, mit internationaler Anmutung.",
+    "Wenn ein möglichst geläufiger Name gesucht wird, ist Yolanda eher eine seltenere Wahl."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz basiert nur auf wenigen Namenslexika; die öffentliche Wahrnehmung ist daher nur begrenzt abgesichert.",
+    "Einzelne positive Wertungen stammen teils aus Kommentaren und sind nicht als allgemeiner Konsens zu verstehen."
+  ],
+  "short_summary": "Yolanda wird meist sachlich, leicht positiv und als seltener, klassisch wirkender Mädchenname beschrieben.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Yolanda � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/Y/Yo/Yolanda/"
+    },
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Yolanda: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Yolanda.html"
+    }
+  ],
+  "style_effect": [
+    "klingt weich und feminin",
+    "wirkt klassisch und international",
+    "eher selten als modisch",
+    "namenskundlich klar einordenbar",
+    "in Lexikon-Kontexten sachlich und unaufgeregt"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland scheint der Name eher bekannt, aber nicht alltäglich zu sein; er wirkt daher auffällig, ohne stark exotisch zu erscheinen."
+}

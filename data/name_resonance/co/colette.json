@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "französische Herkunft",
+    "Kurzform von Nicolette",
+    "weiblicher Vorname",
+    "Bedeutung im Umfeld von „Sieg des Volkes“",
+    "selten in Deutschland",
+    "Namenstag",
+    "gehoben/klassisch wirkender Klang"
+  ],
+  "confidence": 0.82,
+  "display_text": "Colette wirkt in Deutschland eher selten, französisch und elegant. Die öffentliche Resonanz ist überwiegend neutral bis leicht positiv, mit Assoziationen zu Herkunft, Klang und Besonderheit. Die Evidenz basiert vor allem auf Namensportalen, daher ist die Alltagswahrnehmung nur indirekt ablesbar.",
+  "evidence_quality": "mittel bis gut; klar namenskundliche Quellen, aber nur begrenzt direkte Alltagsresonanz",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Colette",
+  "normalized_name": "colette",
+  "overall_resonance": "In der öffentlichen Wahrnehmung wirkt „Colette“ eher selten, elegant und klar französisch geprägt. Die Resonanz ist überwiegend neutral bis leicht positiv, mit Betonung auf Herkunft, Klang und Besonderheit.",
+  "practical_notes": [
+    "Für Suchende, die einen seltenen, französisch klingenden Namen suchen, wird Colette eher passend wirken.",
+    "Aufgrund der Seltenheit kann der Name als besonders und individuell wahrgenommen werden.",
+    "Die öffentliche Rezeption ist eher sachlich als kontrovers; starke negative oder stigmatisierende Muster sind in der Evidenz nicht erkennbar."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt überwiegend aus Namensdatenbanken und Namensportalen; eine breite öffentliche Debatte ist nur indirekt sichtbar.",
+    "Positive Eindrücke wie „schön“ oder „einzigartig“ wirken eher kommentarbasiert und sind nicht als allgemeingültige Wahrnehmung zu verstehen."
+  ],
+  "short_summary": "Colette wird in Deutschland eher selten, französisch und elegant wahrgenommen; die Resonanz ist überwiegend neutral bis leicht positiv.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Colette � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/C/Co/Colette/"
+    },
+    {
+      "confidence": 0.89,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Colette: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Colette.html"
+    }
+  ],
+  "style_effect": [
+    "französisch",
+    "elegant",
+    "selten",
+    "klassisch",
+    "individuell",
+    "namenskundlich anschlussfähig"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland ist der Name laut den Quellen eher wenig verbreitet und dadurch auffälliger als sehr geläufige Vornamen. Die Sichtbarkeit kommt vor allem aus Namensdatenbanken und Namensportalen, nicht aus breiter Alltagssprache."
+}

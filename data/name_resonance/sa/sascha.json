@@ -1,0 +1,68 @@
+{
+  "associations": [
+    "slawische Koseform von Alexander/Alexandra",
+    "Bedeutung im Umfeld von „Beschützer/in“",
+    "Unisex-Name",
+    "im deutschen Sprachraum verbreitet",
+    "besonders in den 1970er/1980er Jahren beliebt",
+    "heute rückläufig",
+    "historisch modern"
+  ],
+  "confidence": 0.93,
+  "display_text": "Sascha wirkt in DE vor allem bekannt, sachlich und vertraut. Der Name ist als Unisex-Name etabliert, wurde besonders in den 1970er/1980er Jahren häufig vergeben und erscheint heute eher etwas retro. Negative öffentliche Stigmatisierung ist in der vorliegenden Evidenz nicht erkennbar.",
+  "evidence_quality": "gut bis sehr gut; mehrere Namenslexikon-Quellen mit direkter Namensdiskussion, überwiegend konsistente Angaben",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Sascha",
+  "normalized_name": "sascha",
+  "overall_resonance": "Sascha wird im deutschen Sprachraum überwiegend sachlich-neutral und eher vertraut wahrgenommen, mit leicht positiver Resonanz durch die bekannte, historisch verbreitete Verwendung und die klare Namensbedeutung.",
+  "practical_notes": [
+    "Für die öffentliche Wahrnehmung ist Sascha ein etablierter, gut verständlicher Name.",
+    "Die Wirkung kann je nach Generation leicht retro erscheinen.",
+    "Als Unisex-Name ist er im Deutschen grundsätzlich flexibel lesbar."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Keine belastbaren Hinweise auf starke negative Stigmatisierung in der vorliegenden Evidenz.",
+    "Einige Quellen sind Namensportale; die Aussagen zur Beliebtheit sind eher beschreibend als streng empirisch."
+  ],
+  "short_summary": "Sascha ist ein bekannter, überwiegend neutral besetzter Vorname mit leicht positiver, vertrauter Wirkung und etwas retroem Klang.",
+  "source_count": 3,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Sascha � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/S/Sa/Sascha/"
+    },
+    {
+      "confidence": 0.99,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Sascha � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/S/Sa/Sascha/"
+    },
+    {
+      "confidence": 0.94,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Sascha: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Sascha.html"
+    }
+  ],
+  "style_effect": [
+    "informativ",
+    "vertraut",
+    "etwas retro",
+    "namenskundlich",
+    "unisex-lesbar"
+  ],
+  "usable_evidence_count": 3,
+  "visibility": "Der Name ist in DE gut bekannt und öffentlich präsent, wirkt aber heute eher weniger zeitgemäß als in seiner Hochphase in den 1970er/1980er Jahren."
+}

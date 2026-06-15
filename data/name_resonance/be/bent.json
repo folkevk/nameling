@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "dänische Kurzform von Benedikt",
+    "friesische Kurzform von Namen mit Bern-",
+    "Bedeutung: der Gesegnete",
+    "teils auch mit 'Bär' / 'der Braune' verbunden",
+    "Namenstage werden genannt",
+    "skandinavischer Klang"
+  ],
+  "confidence": 0.77,
+  "display_text": "Bent wirkt in der öffentlichen Namenswahrnehmung überwiegend positiv und sachlich: kurz, skandinavisch, maskulin und namenskundlich klar einordenbar. In den Quellen wird der Name meist als dänische Kurzform von Benedikt mit der Bedeutung „der Gesegnete“ beschrieben; teils werden auch friesische Wurzeln und weitere Bedeutungsbezüge genannt. Die Evidenz ist allerdings schmal und stammt fast nur aus spezialisierten Namensseiten, daher sollte die Einordnung vorsichtig gelesen werden. Eine mögliche zusätzliche Konnotation durch das englische Wort „bent“ kann den Namen in manchen Kontexten überlagern.",
+  "evidence_quality": "mittel: direkte Namensevidenz, aber geringe Quellenbreite und starke Abhängigkeit von spezialisierten Namensseiten",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Bent",
+  "normalized_name": "bent",
+  "overall_resonance": "Überwiegend positiv und sachlich-neutral: Bent wird in den Quellen vor allem als kurzer, skandinavisch geprägter Jungenname mit klarer Namensherkunft beschrieben.",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt Bent kurz, markant und international anschlussfähig.",
+    "In Deutschland erscheint der Name eher ungewöhnlich als mainstream, aber ohne erkennbar negative öffentliche Grundhaltung.",
+    "Die Wahrnehmung ist stärker von Herkunft und Klang als von sozialen Stereotypen geprägt."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist begrenzt und stammt fast ausschließlich von zwei Namenslexikon-Seiten.",
+    "Die zusätzliche englische Wortbedeutung von 'bent' kann den Namen in manchen Kontexten konnotativ überlagern.",
+    "Die positive Bewertung ist teilweise redaktionell bzw. aus Nutzerkommentaren abgeleitet und daher nur vorsichtig zu verallgemeinern."
+  ],
+  "short_summary": "Bent wird in den vorhandenen Quellen überwiegend positiv und neutral als kurzer, skandinavischer Jungenname mit klarer Herkunft beschrieben; die Beleglage ist jedoch begrenzt.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.95,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Bent � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/B/Be/Bent/"
+    },
+    {
+      "confidence": 0.95,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Bent: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Bent.html"
+    }
+  ],
+  "style_effect": [
+    "kurz",
+    "modern",
+    "skandinavisch",
+    "maskulin",
+    "klar und prägnant",
+    "namenskundlich etabliert"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Eher bekannt, aber nicht sehr breit belegt; die öffentliche Wahrnehmung wirkt vor allem namenskundlich geprägt und basiert hier auf wenigen spezialisierten Namensseiten."
+}

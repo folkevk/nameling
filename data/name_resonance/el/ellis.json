@@ -1,0 +1,73 @@
+{
+  "associations": [
+    "unisex",
+    "englische/walisische Namensform",
+    "althebräische Deutung",
+    "Bedeutungen wie „mein Gott ist Jahwe“ bzw. „freundlich/gutmütig/wohlwollend“",
+    "Namenstag",
+    "Beliebtheit in Deutschland",
+    "Familienname-als-Vorname möglich",
+    "für deutsche Ohren teils eher weiblich wahrgenommen"
+  ],
+  "confidence": 0.88,
+  "display_text": "Ellis wirkt in Deutschland eher neutral bis leicht positiv: ein kurzer, moderner und internationaler Unisex-Name, der in den Quellen vor allem sachlich beschrieben wird. Die Evidenz ist allerdings vor allem lexikalisch und zeigt kaum breite öffentliche Debatten.",
+  "evidence_quality": "Mittel bis gut für Namensbedeutung und Einordnung, aber begrenzt für echte öffentliche Resonanz; die Datenlage ist quellenlastig und lexikalisch.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Ellis",
+  "normalized_name": "ellis",
+  "overall_resonance": "Überwiegend neutral bis leicht positiv. In den vorliegenden Quellen wird Ellis vor allem sachlich als moderner, unisex nutzbarer Vorname mit englisch/walisischen bzw. teils althebräischen Deutungen beschrieben. Eine breite öffentliche Debatte ist in der Evidenz kaum sichtbar.",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt Ellis kurz, international und zeitgemäß.",
+    "Wer einen seltenen, genderoffenen Namen sucht, findet hier eine passende Option.",
+    "Im deutschen Umfeld kann Ellis als etwas ungewöhnlich oder erklärungsbedürftig wahrgenommen werden.",
+    "Die Schreibweise ist einfach, die öffentliche Resonanz insgesamt zurückhaltend und eher beschreibend als emotional."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz basiert fast nur auf Namenslexikon-Seiten, nicht auf breiter öffentlicher Diskussion.",
+    "Einzelne Wahrnehmungen in den Quellen können die Gesamtwirkung überzeichnen.",
+    "Die Einordnung als eher weiblich oder unisex ist kontextabhängig und keine feste Eigenschaft des Namens."
+  ],
+  "short_summary": "Ellis wird in den Quellen überwiegend neutral bis leicht positiv beschrieben: ein moderner, international wirkender Unisex-Name, in Deutschland eher selten und eher sachlich als kontrovers wahrgenommen.",
+  "source_count": 3,
+  "sources": [
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Ellis � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/E/El/Ellis/"
+    },
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Ellis � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/E/El/Ellis/"
+    },
+    {
+      "confidence": 0.84,
+      "is_name_discussion": true,
+      "sentiment": "mixed",
+      "source_type": "web",
+      "title": "&#9655; Vorname Ellis: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Ellis.html"
+    }
+  ],
+  "style_effect": [
+    "modern",
+    "international",
+    "unisex",
+    "kurz und klar",
+    "eher weich im Klang",
+    "lexikalisch beschrieben",
+    "leicht ungewöhnlich im deutschen Kontext"
+  ],
+  "usable_evidence_count": 3,
+  "visibility": "Eher bekannt, aber nicht stark alltagspräsent; in Deutschland wirkt Ellis eher selten bis mäßig verbreitet und eher als ungewöhnlicher, stilbewusster Name."
+}

@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "lateinische und altgriechische Herkunft",
+    "weibliche Form zu Antonius",
+    "Bedeutung: die von den Antoniern Abstammende / die Wertvolle / die Unschätzbare",
+    "international verbreitet",
+    "in Deutschland beliebt",
+    "traditionell und zugleich geläufig",
+    "Namenstag am 6. Mai und 13. Juni"
+  ],
+  "confidence": 0.96,
+  "display_text": "Antonia wird öffentlich meist als klassischer, eleganter und gut etablierter Vorname wahrgenommen. Die vorliegenden Quellen betonen die lateinische Herkunft, eine wertschätzende Bedeutung und die gute Bekanntheit in Deutschland. Hinweise auf Stigmatisierung finden sich nicht.",
+  "evidence_quality": "hoch; die Quellen sind klar namensbezogen und liefern konsistente Angaben zu Herkunft, Bedeutung, Beliebtheit und Stil, allerdings überwiegend aus lexikalischen Portalen.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Antonia",
+  "normalized_name": "antonia",
+  "overall_resonance": "Überwiegend positiv und wertschätzend; Antonia wird in den vorliegenden Quellen als klassischer, international verständlicher Mädchenname mit traditioneller, aber zeitloser Wirkung beschrieben.",
+  "practical_notes": [
+    "Der Name ist leicht auszusprechen und im deutschen Sprachraum gut bekannt.",
+    "Kurzformen und Spitznamen sind geläufig, was die alltagstaugliche Nutzung erhöht.",
+    "Die Wahrnehmung wirkt eher klassisch als modisch-experimentell."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt vor allem aus Namenslexika und nicht aus breiter öffentlicher Debatte.",
+    "Keine belastbaren Hinweise auf gesellschaftliche Stigmatisierung in den vorliegenden Quellen."
+  ],
+  "short_summary": "Antonia wirkt im deutschen Sprachraum klassisch, positiv besetzt und gut etabliert.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "positive",
+      "source_type": "web",
+      "title": "Vorname Antonia � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/A/An/Antonia/"
+    },
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Antonia: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Antonia.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "zeitlos",
+    "elegant",
+    "traditionell",
+    "international anschlussfähig",
+    "namenskundlich gut erklärbar"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland gut bekannt und beliebt, mit klarer Präsenz in Namenslexika und eher stabiler öffentlicher Wahrnehmung."
+}

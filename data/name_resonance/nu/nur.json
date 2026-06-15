@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "arabischer Vorname",
+    "Unisex-Name",
+    "Bedeutung: Licht/Glanz/Erleuchtung",
+    "religiöser Bezug im Islam als einer der 99 Namen Gottes",
+    "teils als eher weiblich, aber insgesamt genderneutral beschrieben",
+    "selten mit Spitznamen wie Nuri oder Nunu erwähnt"
+  ],
+  "confidence": 0.82,
+  "display_text": "Nur wird in der öffentlichen Namenswahrnehmung meist positiv, klar und bedeutungsstark gesehen. Der Name wirkt kurz, modern und international; häufig genannt werden die Assoziationen Licht, Glanz und Erleuchtung. Die Evidenz ist dabei eher schmal und stammt vor allem aus Namenslexika, nicht aus einer breiten öffentlichen Debatte.",
+  "evidence_quality": "Mittel: zwei einschlägige Namensseiten mit konsistent positiver bis neutral-positiver Darstellung, aber ohne breite öffentliche Diskussionsbasis.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Nur",
+  "normalized_name": "nur",
+  "overall_resonance": "Eher positiv und sachlich-klar wahrgenommen, mit starker Namensbedeutung im Vordergrund. Die öffentliche Rezeption wirkt vor allem beschreibend statt kontrovers.",
+  "practical_notes": [
+    "Für Suchende wirkt der Name meist kurz, einprägsam und bedeutungsvoll.",
+    "Die klare, positive Symbolik kann die Wahrnehmung stark prägen.",
+    "In Deutschland wird der Name als bekannt beschrieben, aber nicht als Mainstream-Name mit sehr breiter Alltagsverbreitung."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist begrenzt und stammt hauptsächlich aus Namensdatenbanken/lexikalischen Seiten.",
+    "Keine breite öffentliche Kontroverse erkennbar; Aussagen beruhen eher auf Beschreibungen als auf großen Meinungsdaten.",
+    "Einige Bedeutungszuordnungen können je nach Quelle variieren, daher vorsichtig lesen."
+  ],
+  "short_summary": "Nur wird im deutschsprachigen Namensumfeld überwiegend positiv und als kurzer, bedeutungsvoller Unisex-Name wahrgenommen. Die Evidenz ist jedoch eher begrenzt und basiert vor allem auf Namenslexika.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.94,
+      "is_name_discussion": true,
+      "sentiment": "neutral-positiv",
+      "source_type": "web",
+      "title": "Vorname Nur � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/N/Nu/Nur/"
+    },
+    {
+      "confidence": 0.86,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Nur: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Nur.html"
+    }
+  ],
+  "style_effect": [
+    "kurz",
+    "modern-klar",
+    "international",
+    "namenskundlich",
+    "weich positiv",
+    "unisex wahrgenommen"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Im deutschsprachigen Namensumfeld sichtbar, aber die Evidenzbasis ist eher schmal und besteht vor allem aus Namenslexika statt aus breiter öffentlicher Debatte."
+}

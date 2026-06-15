@@ -1,0 +1,63 @@
+{
+  "associations": [
+    "griechische Mythologie",
+    "Mond",
+    "Mondgöttin Selene",
+    "Helligkeit",
+    "Himmel",
+    "lateinische Herkunft",
+    "moderne Namenswirkung",
+    "Beliebtheit in Deutschland"
+  ],
+  "confidence": 0.83,
+  "display_text": "Selina wirkt in den vorliegenden Quellen überwiegend positiv: modern, weich und klangvoll, mit асsoziationen zu Mond, Licht und griechischer Mythologie. Die Evidenz ist solide, aber eher auf Namenslexika als auf breite öffentliche Resonanz gestützt.",
+  "evidence_quality": "mittel: zwei einschlägige Namensseiten mit überwiegend positiver, aber nur begrenzt öffentlich breiter Evidenz",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Selina",
+  "normalized_name": "selina",
+  "overall_resonance": "Überwiegend positiv und freundlich-modern. Selina wird in den vorliegenden Namensquellen meist als klangvoller, weiblicher Vorname mit schöner Bedeutung wahrgenommen.",
+  "practical_notes": [
+    "Für Suchmaschinen- und Alltagskontext wirkt Selina vertraut, gut aussprechbar und zeitgemäß.",
+    "Die Bedeutungsassoziationen rund um Mond und Licht prägen die Wahrnehmung deutlich.",
+    "Wer eine klassische, aber moderne Namenswirkung sucht, findet hier einen eher unproblematischen Eindruck."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt im Wesentlichen aus zwei Namenslexikon-Seiten; echte breite öffentliche Resonanz ist daher nur eingeschränkt belegbar.",
+    "Positive Eindrücke können durch die Art der Quellen leicht verstärkt sein, da es sich um namenkundliche Darstellung und nicht um unabhängige Meinungsbreite handelt.",
+    "Keine belastbaren Hinweise auf Stigmatisierung oder negative gesellschaftliche Konnotationen in den vorliegenden Quellen."
+  ],
+  "short_summary": "Selina wird in den vorhandenen Quellen überwiegend positiv, modern und klangvoll beschrieben, mit starken Assoziationen zu Mond, Licht und griechischer Mythologie. Die Evidenz ist brauchbar, aber nicht besonders breit.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "positive",
+      "source_type": "web",
+      "title": "Vorname Selina � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/S/Se/Selina/"
+    },
+    {
+      "confidence": 0.88,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Selina: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Selina.html"
+    }
+  ],
+  "style_effect": [
+    "weich",
+    "modern",
+    "elegant",
+    "hell",
+    "namenkundlich anschlussfähig",
+    "eher beliebt als exzentrisch"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland offenbar bekannt und recht präsent, vor allem in namenskundlichen und beliebtheitsbezogenen Quellen. Die öffentliche Breite ist jedoch nur begrenzt durch die vorliegende Evidenz abbildbar."
+}

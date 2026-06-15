@@ -1,0 +1,70 @@
+{
+  "associations": [
+    "Astrid Lindgren",
+    "schwedischer bzw. altschwedischer Bezug",
+    "erfundener oder literarisch geprägter Vorname",
+    "mögliche Bedeutungen rund um Wirrwarr/Irrwisch/Irrlicht",
+    "selten bis mäßig verbreitet in Deutschland",
+    "Unisex-Gebrauch",
+    "teils unsichere Etymologie"
+  ],
+  "confidence": 0.84,
+  "display_text": "Tjorven wirkt in Deutschland selten, markant und skandinavisch-liebenswert. Die öffentliche Rezeption ist überwiegend sachlich-neutral; der Name wird oft mit Astrid Lindgren und möglichen Bedeutungen wie Wirrwarr/Irrlicht verbunden, wobei die etymologische Einordnung teils unsicher bleibt.",
+  "evidence_quality": "mittel bis schwach: mehrere klare Namensseiten, aber wenig direkte Alltagsresonanz und teils unsichere Etymologie",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Tjorven",
+  "normalized_name": "tjorven",
+  "overall_resonance": "Überwiegend sachlich-informativ mit leicht spielerisch-skandinavischer Note. Der Name wirkt in der öffentlichen Wahrnehmung eher ungewöhnlich und erinnerungsstark als eindeutig vertraut.",
+  "practical_notes": [
+    "Gut geeignet, wenn ein eigenständiger, ungewöhnlicher Name mit skandinavischer Anmutung gesucht wird.",
+    "Die Seltenheit kann als Plus wirken, kann aber auch zu Erklärungsbedarf führen.",
+    "Bei der Wahl kann die teils unsichere Etymologie erwähnt werden, falls eine eindeutige sprachliche Herkunft wichtig ist."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Herkunft und Bedeutungsdeutungen sind in der Literatur nicht ganz einheitlich; die Evidenz ist hier eher quellenbasiert als alltagsnah.",
+    "Weil der Name selten ist, basiert die öffentliche Rezeption vor allem auf Nachschlage- und Bedeutungsseiten, nicht auf breiter gesellschaftlicher Nutzung."
+  ],
+  "short_summary": "Tjorven wird öffentlich vor allem als seltener, skandinavisch wirkender und literarisch geprägter Unisex-Name wahrgenommen. Die Rezeption ist eher neutral bis leicht positiv, jedoch mit unsicherer Herkunftsdeutung.",
+  "source_count": 3,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Tjorven � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/T/Tj/Tjorven/"
+    },
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "mixed",
+      "source_type": "web",
+      "title": "Vorname Tjorven � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/T/Tj/Tjorven/"
+    },
+    {
+      "confidence": 0.92,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Tjorven: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Tjorven.html"
+    }
+  ],
+  "style_effect": [
+    "skandinavisch",
+    "literarisch",
+    "ungewöhnlich",
+    "markant",
+    "unisex",
+    "kindlich-verspielt",
+    "namenskundlich"
+  ],
+  "usable_evidence_count": 3,
+  "visibility": "In Deutschland eher selten und daher auffällig. Die Sichtbarkeit ist vor allem durch Namenslexika und Herkunftsseiten geprägt, nicht durch breite Alltagsverwendung."
+}

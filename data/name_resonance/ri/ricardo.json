@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "spanischer und portugiesischer Vorname",
+    "Variante von Richard",
+    "Bedeutung: der mächtige Herrscher / der mächtig Starke",
+    "althochdeutsche Wurzeln",
+    "Namenstag",
+    "selten bis mittelhäufig in Deutschland",
+    "in Kommentaren teils als cool, nett oder schön beschrieben"
+  ],
+  "confidence": 0.84,
+  "display_text": "Ricardo wirkt in Deutschland überwiegend neutral bis leicht positiv. Der Name wird vor allem als spanische/portugiesische Form von Richard mit klassischer, internationaler Anmutung beschrieben; die Evidenz ist jedoch begrenzt und stammt hauptsächlich aus Namensseiten.",
+  "evidence_quality": "mittel bis schwach: zwei namenskundliche Webquellen, davon eine mit kommentarbasierten positiven Rückmeldungen; keine breite freie Diskurslage.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Ricardo",
+  "normalized_name": "ricardo",
+  "overall_resonance": "Ricardo wird im deutschen Namenskontext überwiegend neutral bis leicht positiv wahrgenommen. Die verfügbaren Quellen beschreiben den Namen vor allem sachlich als spanische bzw. portugiesische Variante von Richard; ergänzend gibt es vereinzelte positive, kommentarbasierte Einschätzungen.",
+  "practical_notes": [
+    "Für die öffentliche Namenswahrnehmung ist eher die Herkunfts- und Bedeutungsinfo prägend als ein starkes Image.",
+    "Die Namensresonanz sollte vorsichtig als Tendenz verstanden werden, nicht als allgemeingültiges Urteil.",
+    "Für Suchmaschinen geeignet ist eine neutrale Formulierung mit Hinweis auf die begrenzte Evidenz."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist begrenzt und stammt überwiegend von Vornamensseiten, nicht von breiter öffentlicher Debatte.",
+    "Positive Wertungen sind teilweise plattform- bzw. kommentarbedingt und daher nur eingeschränkt belastbar.",
+    "Es lassen sich keine klaren negativen Stigmatisierungen aus der vorliegenden Evidenz ableiten."
+  ],
+  "short_summary": "Ricardo wird in Deutschland meist sachlich und eher positiv, aber nicht stark verbreitet wahrgenommen. Die öffentliche Resonanz ist vor allem informativ; klare negative Konnotationen zeigen sich in der Evidenz nicht.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.94,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Ricardo � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/R/Ri/Ricardo/"
+    },
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Ricardo: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Ricardo.html"
+    }
+  ],
+  "style_effect": [
+    "klingt international und südeuropäisch",
+    "wirkt durch die -o-Endung markant und eingängig",
+    "wird häufig als modern bzw. angenehm wahrgenommen",
+    "hat eine klare, klassische Namensstruktur",
+    "erscheint eher selten bis mittelhäufig"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Eher gering bis mittel: Der Name ist in Deutschland bekannt, aber nicht sehr verbreitet. Die öffentliche Präsenz wirkt stärker informativ als diskutierend."
+}

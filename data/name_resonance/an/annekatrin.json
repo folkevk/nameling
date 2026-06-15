@@ -1,0 +1,53 @@
+{
+  "associations": [
+    "altdeutsche Doppelform aus Anne und Katrin",
+    "Bedeutung in der Quelle: „die anmutige Reine“ / „die liebliche Reine“",
+    "hebräische und altgriechische Bestandteile",
+    "selten in Deutschland",
+    "früher in den 1990er Jahren beliebter",
+    "Variante bzw. Nähe zu Anne-Katrin"
+  ],
+  "confidence": 0.74,
+  "display_text": "Annekatrin wirkt in Deutschland eher selten, klassisch und traditionell. Der Name wird vor allem als Zusammensetzung aus Anne und Katrin wahrgenommen; die vorliegende Evidenz ist jedoch begrenzt und stammt nur aus einer einzelnen Quelle.",
+  "evidence_quality": "schwach bis mittel; nur eine einzelne, sachliche Namensquelle mit begrenzter statistischer Basis",
+  "generated_at": "2026-06-14T10:47:41Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Annekatrin",
+  "normalized_name": "annekatrin",
+  "overall_resonance": "Annekatrin wirkt öffentlich eher selten, sachlich und traditionell. Der Name wird vor allem als zusammengesetzte Form aus Anne und Katrin wahrgenommen und mit einer eher klassischen, deutsch geprägten Namenswirkung verbunden.",
+  "practical_notes": [
+    "Für eine öffentliche Namenssuche eignet sich eine zurückhaltende Formulierung, da der Name eher selten ist.",
+    "Die Wahrnehmung ist vor allem durch Herkunft, Zusammensetzung und klassische Anmutung geprägt.",
+    "Falls gewünscht, sollte die Schreibvariante mit Bindestrich als verwandte Form mitgedacht werden."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenzlage ist schwach bis mittel, da nur eine Namenslexikon- bzw. Statistikquelle vorliegt.",
+    "Beliebtheitsaussagen sind quellengebunden und sollten nicht als allgemeingültig verstanden werden.",
+    "Es gibt keinen Hinweis auf eine soziale Stigmatisierung des Namens in der vorliegenden Evidenz."
+  ],
+  "short_summary": "Annekatrin ist in Deutschland eher selten und wird vor allem als klassische, zusammengesetzte Form von Anne und Katrin wahrgenommen. Die öffentliche Rezeption wirkt sachlich und traditionell, ohne auffällige Stigmatisierung.",
+  "source_count": 1,
+  "sources": [
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Annekatrin � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/A/An/Annekatrin/"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "traditionell",
+    "deutsch geprägt",
+    "Doppelform/zusammengesetzt",
+    "eher selten",
+    "formal und nüchtern"
+  ],
+  "usable_evidence_count": 1,
+  "visibility": "Gering bis mittel: Laut der vorliegenden, aber nur einzelnen Quelle ist der Name in Deutschland selten und war in den 1990er Jahren zeitweise etwas präsenter."
+}

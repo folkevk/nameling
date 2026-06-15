@@ -1,0 +1,59 @@
+{
+  "associations": [
+    "Bedeutungen wie „der Weise“ bzw. „der ganz Weise“",
+    "mögliche Herkunft aus dem Althochdeutschen bzw. als Form von Ludwig",
+    "Namenstag am 21. Juni",
+    "regional eher süddeutsch wahrgenommen",
+    "in Deutschland eher rückläufig"
+  ],
+  "confidence": 0.88,
+  "display_text": "Alois: überwiegend klassisch und historisch verankert, mit sachlich-neutraler bis leicht positiver Resonanz. Der Name wirkt traditionsbewusst, eher selten im heutigen Alltag und in den Quellen vor allem regional süddeutsch sowie sprachgeschichtlich interessant. Eine breite öffentliche Stigmatisierung ist nicht erkennbar.",
+  "evidence_quality": "mittel bis gut: zwei einschlägige Namenslexika, jedoch stark redaktionell geprägt und ohne breite Social-Media- oder Umfragedaten.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Alois",
+  "normalized_name": "alois",
+  "overall_resonance": "Überwiegend sachlich-neutral mit leicht klassisch-historischer, insgesamt eher positiver Resonanz. Alois wird in den vorliegenden Namensquellen vor allem als traditioneller, sprachgeschichtlich verankerter Vorname beschrieben.",
+  "practical_notes": [
+    "Für viele wirkt der Name eher traditionsbewusst als modern.",
+    "Durch die klare historische Einbettung kann Alois einen ernsthaften, bodenständigen Eindruck vermitteln.",
+    "Die Wahrnehmung kann regional variieren, besonders zwischen Süd- und Norddeutschland."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt im Wesentlichen aus wenigen redaktionellen Namensseiten; eine breite öffentliche Debatte ist nicht sichtbar.",
+    "Einzelne Einschätzungen wie „altmodisch“ sind als subjektive Meinungen zu verstehen, nicht als allgemeingültiges Urteil.",
+    "Aus der Quellenlage lässt sich keine belastbare soziale Stigmatisierung ableiten."
+  ],
+  "short_summary": "Alois wird in Deutschland vor allem als klassischer, historisch geprägter Vorname mit leicht positiver, sachlicher Resonanz wahrgenommen. Er gilt eher als traditionell und heute nicht besonders häufig.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "mostly neutral with mildly positive historical/classic framing",
+      "source_type": "web",
+      "title": "Vorname Alois � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/A/Al/Alois/"
+    },
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Alois: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Alois.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "traditionell",
+    "historisch verankert",
+    "sprachlich markant",
+    "eher selten im heutigen Alltag"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland eher bekannt, aber nicht stark modern trendend; die Hinweise deuten auf eine geringere heutige Verbreitung und eine stärkere Präsenz im Süden Deutschlands hin."
+}

@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "hebräische Herkunft",
+    "Bedeutung: „Gott ist gnädig“",
+    "biblischer Bezug",
+    "Namenstag",
+    "beliebt bzw. bekannt in Deutschland",
+    "viele Kurzformen und Varianten wie Hannes, Jojo oder Joni"
+  ],
+  "confidence": 0.83,
+  "display_text": "Johannes wird meist als klassischer, zeitloser und biblisch geprägter Vorname wahrgenommen. Die Quellen zeigen eine eher positive, vertraute Wirkung, mit Assoziationen wie „Gott ist gnädig“, Tradition und vielen Kurzformen. Die Evidenz basiert vor allem auf Namenslexika und ist daher eher begrenzt.",
+  "evidence_quality": "Mittel: zwei überwiegend informative Namenslexikon-Quellen, klare Namensbezüge, aber nur indirekte öffentliche Resonanz und geringe Breite.",
+  "generated_at": "2026-06-12T06:08:03Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Johannes",
+  "normalized_name": "johannes",
+  "overall_resonance": "Johannes wird in den vorliegenden Quellen überwiegend als klassischer, zeitloser und in Deutschland vertrauter Vorname dargestellt; die Tendenz ist eher positiv als kritisch.",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt Johannes solide, traditionell und gut anschlussfähig.",
+    "Der Name ist im öffentlichen Sprachgebrauch sehr bekannt und meist eindeutig positiv oder neutral konnotiert.",
+    "Kurze Formen und Spitznamen sind verbreitet, was den Namen im Alltag flexibel macht."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist schwach bis mittelstark, da sie vor allem aus Namenslexika und nicht aus breiter öffentlicher Debatte stammt.",
+    "Die positiven Einschätzungen spiegeln eher die lexikalische und kulturelle Einordnung wider als eine belastbare gesellschaftliche Gesamtmeinung."
+  ],
+  "short_summary": "Johannes gilt öffentlich vor allem als klassischer, zeitloser und biblisch geprägter Vorname mit eher positiver, vertrauter Wirkung. Die Evidenz ist jedoch überwiegend lexikalisch und nicht breit gesellschaftlich belegt.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.95,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "Vorname Johannes � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/J/Jo/Johannes/"
+    },
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Johannes: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Johannes.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "zeitlos",
+    "biblisch geprägt",
+    "traditionell",
+    "seriös",
+    "vertraut",
+    "lexikalisch-informativ"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Hohe Bekanntheit im deutschsprachigen Raum, vor allem als traditioneller und biblisch geprägter Name; die öffentliche Wahrnehmung wirkt eher etabliert als trendgetrieben."
+}

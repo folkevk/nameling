@@ -1,0 +1,58 @@
+{
+  "associations": [
+    "althochdeutsche/altgermanische Wurzeln",
+    "Deutung als Verbindung von Rat und Wolf",
+    "englische Schreibweise bzw. Variante von Ralf/Radulf",
+    "seltenere, eher traditionelle Wahrnehmung",
+    "Namenstag in der Namensbeschreibung erwähnt"
+  ],
+  "confidence": 0.78,
+  "display_text": "Ralph wirkt in Deutschland eher klassisch und traditionsnah. Die vorliegende Evidenz zeigt eine neutrale bis leicht positive Resonanz: Der Name wird vor allem mit Herkunft, Bedeutung und einer eher seltenen, nicht besonders modischen Wirkung verbunden.",
+  "evidence_quality": "mittel bis gut; klar namenkundliche Evidenz, aber nur begrenzt direkte öffentliche Bewertungsdaten",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Ralph",
+  "normalized_name": "ralph",
+  "overall_resonance": "neutral bis leicht positiv",
+  "practical_notes": [
+    "Für Suchmaschinen wirkt der Name eher klassisch als trendig.",
+    "Die Schreibweise mit 'ph' kann als markant oder leicht englisch gelesen werden.",
+    "In Deutschland wird der Name eher mit Tradition und Herkunft als mit aktueller Mode verbunden."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt überwiegend von Namensseiten mit informativem Fokus; die öffentliche Wertung ist daher nur indirekt ableitbar.",
+    "Einzelne Kommentare deuten eher auf Zurückhaltung gegenüber Modernität hin, das ist aber keine allgemeine soziale Abwertung.",
+    "Keine belastbaren Hinweise auf starke Stigmatisierung in der vorliegenden Evidenz."
+  ],
+  "short_summary": "Ralph wird in der vorliegenden Evidenz überwiegend neutral bis leicht positiv wahrgenommen: klassisch, traditionsnah und sprachlich interessant, aber eher nicht modern. Die Datenlage ist solide für Herkunft und Einordnung, für die öffentliche Rezeption jedoch nur indirekt.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Ralph � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/R/Ra/Ralph/"
+    },
+    {
+      "confidence": 0.84,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Ralph: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Ralph.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "traditionsnah",
+    "namenskundlich aufgeladen",
+    "eher nüchtern als modisch"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "eher bekannt, aber im heutigen Sprachgebrauch nicht besonders modern"
+}

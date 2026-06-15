@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "lateinischer bzw. römischer Ursprung",
+    "Bedeutungen wie 'die Ehrbare' oder 'die aus gutem Hause'",
+    "weiblicher Vorname",
+    "Namenstag",
+    "internationale Nutzbarkeit",
+    "Varianten wie Camille, Camila und Kamilla"
+  ],
+  "confidence": 0.82,
+  "display_text": "Camilla wirkt in den verfügbaren Quellen klassisch, elegant und international verständlich. Die Resonanz erscheint eher positiv, aber die Evidenz stammt vor allem aus Namensdatenbanken und ist für eine breite öffentliche Bewertung nur begrenzt aussagekräftig.",
+  "evidence_quality": "Begrenzt: zwei einschlägige Namensquellen, aber wenig echte öffentliche Resonanz oder Diskussionsvielfalt.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Camilla",
+  "normalized_name": "camilla",
+  "overall_resonance": "Überwiegend sachlich und eher positiv-konnotiert, aber die Evidenz für eine echte öffentliche Alltagsresonanz ist begrenzt. In den vorliegenden Namensquellen wird Camilla vor allem mit klassisch-ästhetischer und internationaler Wirkung verbunden.",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt Camilla eher zeitlos als trendig.",
+    "Der Name hat im deutschsprachigen Raum eine gut erklärbare, klassische Anmutung.",
+    "Die Schreibweise ist klar, die internationale Anschlussfähigkeit hoch."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt überwiegend aus Namensdatenbanken und nicht aus breiter öffentlicher Diskussion.",
+    "Positive oder klassische Assoziationen sind aus Quellenangaben abgeleitet und sollten nicht als allgemeine gesellschaftliche Bewertung verstanden werden.",
+    "Keine Hinweise auf soziale Stigmatisierung in der vorliegenden Evidenz."
+  ],
+  "short_summary": "Camilla wird in den Quellen vor allem als klassischer, international verständlicher Vorname mit eher positiver, eleganter Wirkung beschrieben; die öffentliche Resonanzlage ist jedoch nur schwach belegt.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Camilla � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/C/Ca/Camilla/"
+    },
+    {
+      "confidence": 0.88,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Camilla: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Camilla.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "elegant",
+    "international",
+    "traditionell",
+    "namenskundlich",
+    "sachlich"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Mittel: Der Name ist bekannt und in Namensdatenbanken gut beschrieben, doch die hier vorliegende Evidenz zeigt keine breite öffentliche Diskussionslage."
+}

@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "lateinischer Ursprung",
+    "Bedeutung: die Beständige / die Standhafte",
+    "deutsche Form von Constantia",
+    "selten in Deutschland",
+    "weiblicher Vorname",
+    "Namenstag am 18. Februar",
+    "Spitznamen wie Konni, Koko, Konsti"
+  ],
+  "confidence": 0.78,
+  "display_text": "Konstanze wird in den vorliegenden Quellen überwiegend klassisch, selten und positiv konnotiert beschrieben. Der Name ist vor allem namenkundlich geprägt und wird mit „die Beständige“ bzw. „die Standhafte“ verbunden. Eine breite öffentliche Resonanz ist jedoch kaum sichtbar, daher ist die Einschätzung vorsichtig zu verstehen.",
+  "evidence_quality": "mittel bis schwach: zwei namenkundliche Webquellen, wenig offene Diskussionslage, eher lexikalische als breit öffentliche Evidenz",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Konstanze",
+  "normalized_name": "konstanze",
+  "overall_resonance": "Konstanze wirkt in den vorliegenden Quellen eher klassisch, traditionsnah und positiv konnotiert. Der Name wird vor allem mit Beständigkeit, Standhaftigkeit und lateinischem Ursprung verbunden; zugleich erscheint er in Deutschland eher selten. Eine breite öffentliche Debatte ist nicht sichtbar, daher ist die Resonanz vorsichtig als überwiegend neutral bis freundlich einzuschätzen.",
+  "practical_notes": [
+    "Für Namenssuchmaschinen eignet sich eine Beschreibung als klassisch, selten und bedeutungstragend.",
+    "Die Aussprache und Schreibweise wirken im Deutschen vertraut, aber nicht alltäglich.",
+    "Wer einen traditionellen und gleichzeitig ungewöhnlicheren Namen sucht, könnte Konstanze als passend empfinden."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist begrenzt und stammt im Wesentlichen aus einzelnen Namenslexika.",
+    "Es gibt keine belastbare breite öffentliche Resonanzlage, daher sollten Verallgemeinerungen vermieden werden.",
+    "Positive Bedeutungsassoziationen sind namenskundlich, nicht als gesellschaftliche Mehrheitsmeinung zu verstehen."
+  ],
+  "short_summary": "Konstanze wird meist als klassischer, seltener und positiv bedeutungsbezogener Vorname beschrieben. Die Quellen betonen Beständigkeit, lateinischen Ursprung und den Namenstag, liefern aber nur begrenzte Hinweise auf eine breite öffentliche Wahrnehmung.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.91,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Konstanze � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/K/Ko/Konstanze/"
+    },
+    {
+      "confidence": 0.88,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Konstanze: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Konstanze.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "eher elegant",
+    "traditionsbewusst",
+    "namenskundlich geprägt",
+    "seltenheitsbedingt eigenständig"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Eher gering bis mittel: Der Name ist in Deutschland laut den Quellen selten und taucht vor allem in Namenslexika bzw. Namensdatenbanken auf, nicht in einer breiten öffentlichen Diskussion."
+}

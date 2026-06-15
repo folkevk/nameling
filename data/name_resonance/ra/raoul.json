@@ -1,0 +1,62 @@
+{
+  "associations": [
+    "französische Form von Radulf",
+    "germanische Herkunft",
+    "Bedeutung in Richtung 'Ratgeber/Berater'",
+    "Bedeutungselement 'Wolf'",
+    "Namenstag 21. Juni (teils auch 7. September genannt)",
+    "selten im deutschen Sprachraum"
+  ],
+  "confidence": 0.88,
+  "display_text": "Raoul wirkt im deutschen Namensraum eher selten, aber klassisch und französisch geprägt. Die vorliegenden Quellen beschreiben den Namen überwiegend neutral-informativ (Herkunft, Bedeutung, Namenstag) und zeigen keine klare negative öffentliche Resonanz. Für eine öffentliche Wahrnehmung ist die Datenlage jedoch begrenzt, da vor allem Namenslexika vorliegen.",
+  "evidence_quality": "mittel bis gut für Bedeutung, Herkunft und Einordnung; schwach für öffentliche Stimmungs- oder Reputationslage",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Raoul",
+  "normalized_name": "raoul",
+  "overall_resonance": "Raoul wirkt im deutschen Namensraum eher selten, aber klar etabliert und stilistisch eher elegant, klassisch-französisch geprägt. Die öffentliche Rezeption in den vorliegenden Quellen ist überwiegend sachlich-informativ und ohne deutliche negative Wertung.",
+  "practical_notes": [
+    "Für eine Namenssuche ist Raoul gut als kurzer, markanter Vorname einordbar.",
+    "Die Schreibweise mit 'ou' fällt visuell auf und verstärkt den französischen Eindruck.",
+    "Aufgrund der Seltenheit kann der Name als individuell wahrgenommen werden.",
+    "Die Quellenlage ist für eine öffentliche Resonanzkarte solide inhaltlich, aber schwach bei echter Meinungsbreite."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz besteht fast nur aus Namenslexika und beschreibt vor allem Herkunft, Bedeutung und Verbreitung.",
+    "Es gibt kaum belastbare öffentliche Meinungsdaten oder soziale Wahrnehmungssignale.",
+    "Leicht positive Tonlage sollte nicht als breiter Konsens missverstanden werden."
+  ],
+  "short_summary": "Raoul ist im deutschen Raum eher selten, wirkt aber klassisch und französisch geprägt. Die vorliegenden Quellen sind überwiegend neutral-informativ; belastbare Hinweise auf starke öffentliche Vorurteile oder besondere Popularität fehlen.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Raoul � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/R/Ra/Raoul/"
+    },
+    {
+      "confidence": 0.95,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Raoul: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Raoul.html"
+    }
+  ],
+  "style_effect": [
+    "französisch klingend",
+    "klassisch",
+    "leicht vornehm",
+    "kulturell kontinentaleuropäisch",
+    "selten, dadurch individuell",
+    "neutral bis leicht stilvoll"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "eher selten bis bekannt; im Alltag nicht sehr häufig, dadurch markanter als Mainstream-Namen"
+}

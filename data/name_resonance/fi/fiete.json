@@ -1,0 +1,76 @@
+{
+  "associations": [
+    "Kurzform von Friedrich/Friederike",
+    "Bedeutung: friedensreich bzw. friedlich",
+    "norddeutsch",
+    "friesisch",
+    "niederdeutsch",
+    "beliebt in Deutschland",
+    "modern",
+    "etabliert",
+    "Namenstag",
+    "vereinzelt problematische Laut- oder Wortassoziation in skandinavischen Sprachen"
+  ],
+  "confidence": 0.86,
+  "display_text": "Fiete wird überwiegend freundlich und positiv wahrgenommen: ein kurzer, moderner und klar norddeutsch/friesisch geprägter Name mit etablierter Wirkung. Die öffentliche Evidenz stammt vor allem aus Namensportalen; eine größere kritische Debatte ist nicht erkennbar. Einzelne Hinweise auf mögliche Fremdsprach-Assoziationen bleiben eher Randaspekte.",
+  "evidence_quality": "mittel bis gut; inhaltlich klar, aber überwiegend auf Namensportale und Lexikonseiten gestützt, kaum unabhängige öffentliche Diskussion.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Fiete",
+  "normalized_name": "fiete",
+  "overall_resonance": "Überwiegend positiv und sympathisch, mit klarer regionaler Verankerung im norddeutschen bzw. friesischen Raum. Der Name wird meist als etabliert, modern und beliebt beschrieben; vereinzelt gibt es vorsichtige Hinweise auf mögliche Fremdsprach-Assoziationen, die aber nicht die Gesamttendenz bestimmen.",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt Fiete freundlich, klar und regional profiliert.",
+    "Die Wahrnehmung ist insgesamt positiv, besonders im deutschen Kontext.",
+    "Wenn internationale Verwendbarkeit wichtig ist, lohnt ein kurzer Blick auf mögliche Aussprache- oder Nebenassoziationen im Ausland."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist stark von wenigen Namensportalen geprägt und daher nur bedingt unabhängig.",
+    "Die skandinavische Nebenassoziation ist eine Randnotiz und sollte nicht überbewertet werden.",
+    "Keine belastbaren Hinweise auf eine gesellschaftliche Stigmatisierung des Namens erkennbar."
+  ],
+  "short_summary": "Fiete wird in der öffentlichen Namenswahrnehmung meist positiv, modern und norddeutsch verortet. Die Quellen betonen Herkunft, Bedeutung und Beliebtheit; nur vereinzelt erscheinen leichte Fremdsprach-Risiken.",
+  "source_count": 3,
+  "sources": [
+    {
+      "confidence": 0.94,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "Vorname Fiete � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/F/Fi/Fiete/"
+    },
+    {
+      "confidence": 0.95,
+      "is_name_discussion": true,
+      "sentiment": "positive",
+      "source_type": "web",
+      "title": "Vorname Fiete � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/F/Fi/Fiete/"
+    },
+    {
+      "confidence": 0.9,
+      "is_name_discussion": true,
+      "sentiment": "mixed",
+      "source_type": "web",
+      "title": "&#9655; Vorname Fiete: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Fiete.html"
+    }
+  ],
+  "style_effect": [
+    "norddeutsch",
+    "friesisch",
+    "niederdeutsch",
+    "kurz und freundlich",
+    "modern",
+    "etabliert",
+    "regional verwurzelt",
+    "dynamisch",
+    "unisex-nahe Einordnung"
+  ],
+  "usable_evidence_count": 3,
+  "visibility": "Relativ gut sichtbar in deutschen Namensportalen und Namenslexika, aber die Evidenz ist vor allem portalbasiert und nicht aus einer breiten öffentlichen Debatte abgeleitet. Die öffentliche Wahrnehmung wirkt daher eher aus Namensseiten als aus unabhängigen Diskursen gespeist."
+}

@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "biblische Herkunft",
+    "althebräische Wurzeln",
+    "Bedeutung: 'Gott mit uns'",
+    "männlicher Vorname",
+    "Namenstag",
+    "deutsche Beliebtheit im Namenslexikon",
+    "englische und französische Form von Immanuel"
+  ],
+  "confidence": 0.88,
+  "display_text": "Emmanuel wirkt im deutschen Namenskontext überwiegend positiv, klassisch und biblisch geprägt. Die öffentliche Rezeption in den Quellen ist vor allem beschreibend: Der Name wird mit hebräischer Herkunft, der Bedeutung „Gott mit uns“ und einer internationalen, seriösen Anmutung verbunden. Breitere Alltagsmeinungen sind nur begrenzt belegt, daher sollte die Wirkung eher vorsichtig als traditionsreich und vertraut zusammengefasst werden.",
+  "evidence_quality": "gut für Herkunft, Bedeutung und lexikalische Einordnung; begrenzt für allgemeine öffentliche Alltagswahrnehmung",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Emmanuel",
+  "normalized_name": "emmanuel",
+  "overall_resonance": "überwiegend positiv und neutral-beschreibend",
+  "practical_notes": [
+    "Im deutschen Umfeld ist der Name bekannt, aber nicht alltäglich.",
+    "Die Resonanz wirkt eher klassisch als modern.",
+    "Durch die religiös-biblische Bedeutung kann der Name als traditionell und ernsthaft wahrgenommen werden.",
+    "Für eine öffentliche Namenssuche ist die Datenlage solide, aber nicht besonders breit."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist vor allem namenkundlich und beschreibend, nicht durch breite öffentliche Meinungsdaten abgesichert.",
+    "Einzelne Kommentare in den Quellen können personenbezogen sein und sind daher nur eingeschränkt für die Namenswirkung nutzbar."
+  ],
+  "short_summary": "Emmanuel wird im deutschsprachigen Raum meist positiv, traditionsreich und biblisch eingeordnet. Die Quellen betonen vor allem Herkunft, Bedeutung und Namensform, weniger spontane Alltagsurteile.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Emmanuel � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/E/Em/Emmanuel/"
+    },
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "positive",
+      "source_type": "web",
+      "title": "&#9655; Vorname Emmanuel: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Emmanuel.html"
+    }
+  ],
+  "style_effect": [
+    "klingt biblisch und traditionsreich",
+    "wirkt international vertraut",
+    "hat eine klare, seriöse Anmutung",
+    "wird häufig lexikalisch und herkunftsbezogen eingeordnet"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "mittel bis gut sichtbar im deutschsprachigen Namenskontext"
+}

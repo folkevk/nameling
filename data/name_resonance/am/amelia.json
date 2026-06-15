@@ -1,0 +1,59 @@
+{
+  "associations": [
+    "Bedeutungen wie „die Tüchtige“ oder „die Tapfere“ werden häufig genannt",
+    "mehrere mögliche Herkunftsbezüge, u. a. germanisch/althochdeutsch und lateinisch",
+    "in den Quellen als beliebter Mädchenvorname in Deutschland beschrieben",
+    "mit Varianten wie Amalia oder Amalie in Verbindung gebracht",
+    "Namenstag und lexikalische Namensinformationen werden häufig erwähnt"
+  ],
+  "confidence": 0.94,
+  "display_text": "Amelia wirkt in den verfügbaren Namensquellen überwiegend positiv: ein klangvoller, modern-klassischer Mädchenname, der als gut aussprechbar und in Deutschland beliebt beschrieben wird. Die Herkunftsdeutungen sind teils unterschiedlich, die Gesamtwirkung bleibt aber freundlich und unproblematisch.",
+  "evidence_quality": "gut für namenskundliche Beschreibung; mittel für breitere öffentliche Wahrnehmung, da die Evidenz überwiegend aus Lexikon- und Namensdatenbankquellen stammt.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Amelia",
+  "normalized_name": "amelia",
+  "overall_resonance": "Überwiegend positiv und modern-klassisch wahrgenommen; in den vorliegenden Namensquellen wird Amelia als klangvoll, gut aussprechbar und in Deutschland beliebt beschrieben.",
+  "practical_notes": [
+    "Für die öffentliche Wahrnehmung wirkt Amelia eher positiv, vertraut und zugleich zeitgemäß.",
+    "Die Schreibweise ist international gut verständlich, im Deutschen aber klar als Mädchenname eingeordnet.",
+    "Die Beliebtheit in Deutschland scheint in den Quellen hoch, ohne dass daraus Aussagen über einzelne Trägerinnen abgeleitet werden sollten."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Herkunftsangaben sind nicht einheitlich und teils mehrdeutig; das ist eher ein Merkmal der Namenslexik als ein Widerspruch.",
+    "Die Evidenz stammt vor allem aus Namenslexika und Informationsseiten, also aus beschreibenden Quellen mit begrenzter Aussagekraft über die öffentliche Debatte.",
+    "Es liegen keine belastbaren Hinweise auf gesellschaftliche Stigmatisierung oder problematische Konnotationen vor."
+  ],
+  "short_summary": "Amelia wird in den vorliegenden Quellen überwiegend positiv, modern-elegant und in Deutschland als beliebter Mädchenvorname beschrieben.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "positive",
+      "source_type": "web",
+      "title": "Vorname Amelia � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/A/Am/Amelia/"
+    },
+    {
+      "confidence": 0.95,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Amelia: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Amelia.html"
+    }
+  ],
+  "style_effect": [
+    "weiblich-klingend",
+    "elegant",
+    "sanft-modern",
+    "international verständlich",
+    "namenskundlich positiv gerahmt"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "hoch"
+}

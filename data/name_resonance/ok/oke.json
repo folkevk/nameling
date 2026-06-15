@@ -1,0 +1,70 @@
+{
+  "associations": [
+    "friesische Herkunft",
+    "althochdeutsche und altnordische Bezüge",
+    "Bedeutung im Sinn von Besitz/Reichtum/Erbe",
+    "männlicher Vorname",
+    "selten bis eher bekannt je nach Kontext",
+    "Namenstag",
+    "mögliche Verwechslung mit ähnlichen kurzen Namen wie Ole"
+  ],
+  "confidence": 0.87,
+  "display_text": "Oke wird in der öffentlichen Wahrnehmung überwiegend neutral bis leicht positiv gesehen: ein kurzer, seltener und friesisch geprägter Vorname mit traditionell-namenskundlicher Ausstrahlung. Die verfügbare Evidenz ist jedoch eher schwach, da sie vor allem aus Namenslexika stammt.",
+  "evidence_quality": "mittel bis schwach: mehrere übereinstimmende, aber überwiegend deskriptive Namensquellen; kaum unabhängige öffentliche Rezeption",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Oke",
+  "normalized_name": "oke",
+  "overall_resonance": "Die öffentliche Resonanz auf Oke wirkt überwiegend neutral bis leicht positiv. Der Name wird vor allem sachlich-namenskundlich eingeordnet, mit einem eher freundlichen, klaren und ungewöhnlichen Eindruck.",
+  "practical_notes": [
+    "Für die Namenssuche eignet sich Oke besonders, wenn ein kurzer, markanter und regional klingender Name gesucht wird.",
+    "Der Name kann in Deutschland erklärungsbedürftig sein, weil er selten ist.",
+    "Die Wirkung ist eher nüchtern-traditionell als verspielt oder modern."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist begrenzt und stark auf Namenslexika bzw. Datenbanken fokussiert.",
+    "Es gibt kaum echte öffentliche Meinungsvielfalt oder breiten Diskurs zum Namen.",
+    "Die Wahrnehmung als ungewöhnlich beruht eher auf Seltenheit als auf negativer Bewertung."
+  ],
+  "short_summary": "Oke wird meist sachlich und leicht positiv beschrieben: ein kurzer, seltener, friesisch geprägter Name mit traditioneller Herkunft und klarer, nüchterner Wirkung.",
+  "source_count": 3,
+  "sources": [
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "Vorname Oke � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/O/Ok/Oke/"
+    },
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Oke � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/O/Ok/Oke/"
+    },
+    {
+      "confidence": 0.78,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Oke: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Oke.html"
+    }
+  ],
+  "style_effect": [
+    "kurz und prägnant",
+    "friesisch-norddeutsch wirkend",
+    "traditionell-namenskundlich",
+    "ungewöhnlich, aber nicht ausgefallen",
+    "eher sachlich als modisch",
+    "klanglich schlicht und klar"
+  ],
+  "usable_evidence_count": 3,
+  "visibility": "In Deutschland erscheint Oke eher selten bis mäßig selten und daher auffällig, aber nicht stark verbreitet. Die Sichtbarkeit kommt vor allem über Namensdatenbanken und Lexikontexte zustande, nicht über breite öffentliche Diskussion."
+}

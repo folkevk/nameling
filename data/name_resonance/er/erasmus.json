@@ -1,0 +1,59 @@
+{
+  "associations": [
+    "altgriechischer Ursprung",
+    "Bedeutung: der Liebenswürdige / Geliebte",
+    "selten in Deutschland",
+    "historisch / mittelalterlich",
+    "heiliger Bezug",
+    "Namenstag am 2. Juni"
+  ],
+  "confidence": 0.82,
+  "display_text": "Erasmus wirkt in Deutschland eher selten, historisch und bildungssprachlich geprägt. Die verfügbaren Quellen deuten auf eine neutrale bis leicht positive Wahrnehmung hin, vor allem wegen der Bedeutung und des kulturell-religiösen Bezugs. Eine breite öffentliche Resonanz lässt sich daraus aber nur eingeschränkt ableiten.",
+  "evidence_quality": "mittel bis schwach: klare namenskundliche Quellen, aber nur begrenzte direkte Evidenz für öffentliche Resonanz in Deutschland.",
+  "generated_at": "2026-06-14T10:47:41Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Erasmus",
+  "normalized_name": "erasmus",
+  "overall_resonance": "Der Name Erasmus wirkt in den vorliegenden Quellen überwiegend historisch, bildungssprachlich und eher selten; die öffentliche Wahrnehmung ist insgesamt eher neutral bis leicht positiv.",
+  "practical_notes": [
+    "Für Suchende wirkt der Name eher klassisch und ungewöhnlich.",
+    "Die Seltenheit kann als eigenständig wahrgenommen werden, kann aber je nach Umfeld auch erklärungsbedürftig sein.",
+    "Der historische und religiöse Bezug prägt die Außenwahrnehmung stärker als ein moderner Trendcharakter."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Es liegen keine belastbaren Hinweise auf eine breite gesellschaftliche Stigmatisierung vor.",
+    "Die Resonanzdaten sind schwach und stammen hauptsächlich aus Namenslexika; daraus lässt sich keine allgemeine Bevölkerungsmeinung ableiten."
+  ],
+  "short_summary": "Erasmus wird in den Quellen als seltener, historisch geprägter Vorname mit eher positiver Bedeutung beschrieben; die öffentliche Resonanz wirkt insgesamt neutral bis leicht positiv, aber die Evidenz ist begrenzt.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Erasmus � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/E/Er/Erasmus/"
+    },
+    {
+      "confidence": 0.78,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Erasmus: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Erasmus.html"
+    }
+  ],
+  "style_effect": [
+    "altgriechisch und traditionsreich",
+    "gelehrt und historisch",
+    "eher selten und ausgefallen",
+    "namenskundlich gut erklärbar",
+    "durch den heiligen Bezug kulturell aufgeladen"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland scheint Erasmus wenig verbreitet und dadurch eher auffällig als alltäglich. Die Evidenz zur öffentlichen Resonanz ist jedoch begrenzt und stützt sich vor allem auf Namenslexika und Datenbankeinträge."
+}

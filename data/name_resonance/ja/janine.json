@@ -1,0 +1,68 @@
+{
+  "associations": [
+    "Bedeutung im Umfeld von „der Herr ist gnädig“ / „Jahwe ist gütig“",
+    "französische Form bzw. Schreibvariante von Johanna/Jeanine",
+    "deutsche und niederländische Nebenform im Namensgebrauch",
+    "Namenslexikon, Herkunft und Namenstag",
+    "Beliebtheit bzw. Verbreitung in Deutschland",
+    "vereinzelt popkulturelle oder listenartige Bezüge"
+  ],
+  "confidence": 0.84,
+  "display_text": "Janine ist im deutschsprachigen Raum ein bekannter, eher klassisch-französisch wirkender Vorname. Die vorhandenen Quellen beschreiben den Namen überwiegend neutral bis leicht positiv, vor allem über Herkunft, Bedeutung und Beliebtheit. Eine starke öffentliche Debatte ist kaum erkennbar; die Evidenz stammt größtenteils aus Namenslexika.",
+  "evidence_quality": "Eher schwach bis mittel: Die Quellen sind solide für Bedeutung, Herkunft und Beliebtheit, aber nur begrenzt aussagekräftig für öffentliche Resonanz im engeren Sinn.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Janine",
+  "normalized_name": "janine",
+  "overall_resonance": "Janine wird in den vorliegenden Quellen überwiegend sachlich und eher positiv-konnotiert beschrieben. Der Name wirkt im deutschsprachigen Raum bekannt, klassisch-französisch geprägt und vor allem über Bedeutung, Herkunft und Namenslisten präsent. Eine echte öffentliche Debatte oder starke emotionale Aufladung ist in der Evidenz kaum erkennbar.",
+  "practical_notes": [
+    "Für eine Namenssuche eignet sich Janine als gut etablierter, klar weiblich lesbarer Vorname.",
+    "Die Wahrnehmung ist eher klassisch als modern-experimentell.",
+    "Die Quellenlage spricht eher für Bekanntheit als für starke aktuelle Trenddynamik."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt fast nur aus Namenslexika und ähnlichen Informationsseiten; das bildet öffentliche Meinung nur eingeschränkt ab.",
+    "Es liegen keine belastbaren Hinweise auf eine kontroverse oder stigmatisierte Wahrnehmung vor.",
+    "Positive oder neutrale Eindrücke sollten nicht überinterpretiert werden, da echte Diskussionsbeiträge fehlen."
+  ],
+  "short_summary": "Janine wirkt im deutschen Namensgebrauch bekannt, sachlich und eher positiv besetzt, mit klarer französischer Prägung. Die öffentliche Resonanz ist in den Quellen jedoch vor allem lexikalisch und nicht breit gesellschaftlich diskutiert.",
+  "source_count": 3,
+  "sources": [
+    {
+      "confidence": 0.95,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Janine � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/J/Ja/Janine/"
+    },
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Janine � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/J/Ja/Janine/"
+    },
+    {
+      "confidence": 0.89,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Janine: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Janine.html"
+    }
+  ],
+  "style_effect": [
+    "informativ",
+    "namenskundlich",
+    "klassisch-französisch",
+    "weiblich-klar",
+    "leicht elegant"
+  ],
+  "usable_evidence_count": 3,
+  "visibility": "Mittlere Sichtbarkeit in Namenslexika und Beliebtheitslisten; die öffentliche Resonanz außerhalb solcher Namensseiten wirkt eher begrenzt."
+}

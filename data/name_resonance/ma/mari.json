@@ -1,0 +1,65 @@
+{
+  "associations": [
+    "Kurzform von Maria",
+    "mögliche Bezüge zu Mirjam",
+    "bretonische, finnische, walisische und skandinavische Namensverwendungen",
+    "weiblicher Vorname",
+    "christlicher Bezug über Maria",
+    "Namenstag",
+    "Bedeutungsaspekte wie Meer oder Meeresstern in einzelnen Deutungen",
+    "kurz und nicht abgehoben"
+  ],
+  "confidence": 0.87,
+  "display_text": "Mari wirkt im deutschsprachigen Raum eher positiv, kurz und ruhig. Der Name wird vor allem als Variante von Maria bzw. mit mehreren internationalen Herkunftsbezügen beschrieben. Die Evidenz ist solide für Herkunft und Stilwirkung, aber nur begrenzt für eine echte öffentliche Debatte.",
+  "evidence_quality": "Gut für Herkunft, Einordnung und grobe Wirkung; begrenzt für echte öffentliche Meinungsbreite, da die Quellen vor allem lexikalisch sind.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Mari",
+  "normalized_name": "mari",
+  "overall_resonance": "Eher positiv und ruhig, mit lexikalisch-kultureller Ausstrahlung. Mari wirkt im deutschsprachigen Raum kurz, freundlich und international anschlussfähig, ohne starke Polarisierung.",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt Mari klar, leicht merkbar und international verständlich.",
+    "Die Wahrnehmung ist eher unaufgeregt und freundlich als extravagant.",
+    "Wegen der kurzen Form kann der Name je nach Kontext als Variante von Maria verstanden werden."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt überwiegend aus Namenslexika und kommentarbasierten Seiten, also eher aus beschreibenden Quellen als aus breiter öffentlicher Diskussion.",
+    "Die Bedeutungsherkunft ist nicht in allen Quellen eindeutig; verschiedene Herleitungen werden nebeneinander genannt.",
+    "Keine belastbare Aussage zu gesellschaftlicher Bewertung jenseits der vorliegenden Quellen ableitbar."
+  ],
+  "short_summary": "Mari wird öffentlich meist freundlich, kurz und international wahrgenommen. Die Resonanz ist eher positiv, aber die Quellen sind vor allem namenskundlich statt breit diskursiv.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Mari � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/M/Ma/Mari/"
+    },
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "überwiegend positiv, mit etwas Unsicherheit zur Bedeutung",
+      "source_type": "web",
+      "title": "&#9655; Vorname Mari: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Mari.html"
+    }
+  ],
+  "style_effect": [
+    "kurz",
+    "weich",
+    "modern-prägnant",
+    "international",
+    "klassisch anschlussfähig",
+    "eher selten",
+    "neutral bis freundlich",
+    "namenskundlich aufgeladen"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Mittlere Sichtbarkeit: Der Name ist bekannt, wirkt aber eher selten und nicht dominant im Alltag. Die öffentliche Rezeption ist vor allem namenskundlich und beschreibend, weniger diskursiv oder emotional aufgeladen."
+}

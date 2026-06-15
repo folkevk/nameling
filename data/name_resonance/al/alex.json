@@ -1,0 +1,71 @@
+{
+  "associations": [
+    "Kurzform von Alexander oder Alexandra",
+    "Bedeutung im Sinn von beschützend/abwehrend",
+    "altgriechische Herkunft",
+    "international verbreitet",
+    "in Deutschland als beliebt und geläufig beschrieben",
+    "Unisex-Name",
+    "teilweise als eigenständiger Vorname genutzt"
+  ],
+  "confidence": 0.92,
+  "display_text": "Alex hat in den Quellen eine überwiegend positive bis neutrale Resonanz: modern, international, kurz und als Unisex-Name geläufig. Die öffentliche Evidenz ist jedoch eher auf Namenslexika beschränkt als auf breite Meinungsäußerungen.",
+  "evidence_quality": "mittel bis gut: mehrere klare Namensquellen, aber überwiegend redaktionell statt meinungsbasiert",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Alex",
+  "normalized_name": "alex",
+  "overall_resonance": "Alex wird in den vorliegenden Quellen überwiegend als moderner, internationaler und eher positiv bzw. neutral wahrgenommener Vorname beschrieben. Die Resonanz ist vor allem informativ-namenskundlich und weniger von öffentlicher Debatte geprägt.",
+  "practical_notes": [
+    "Für die Namenssuche wirkt Alex unkompliziert, vertraut und gut international nutzbar.",
+    "Die Schreibweise ist sehr kurz und dadurch alltagstauglich.",
+    "Die Wirkung ist eher zeitlos-modern als ausgefallen.",
+    "Als Unisex-Name kann Alex je nach Kontext bewusst neutral wirken."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt fast ausschließlich aus Namensdatenbanken und Lexikonseiten.",
+    "Es gibt keine breite öffentliche Debatte oder belastbare Alltagswahrnehmung im Material.",
+    "Einzelne Quellen erwähnen zusätzliche Popkultur-Bezüge, die für die Namensresonanz nur begrenzt aussagekräftig sind."
+  ],
+  "short_summary": "Alex wird meist als geläufiger, internationaler und eher positiv- neutraler Unisex-Vorname beschrieben. Die Evidenz ist solide, aber vor allem lexikalisch und nicht breit öffentlich diskutiert.",
+  "source_count": 3,
+  "sources": [
+    {
+      "confidence": 0.94,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "Vorname Alex � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/A/Al/Alex/"
+    },
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Alex � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/A/Al/Alex/"
+    },
+    {
+      "confidence": 0.89,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Alex: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Alex.html"
+    }
+  ],
+  "style_effect": [
+    "kurz und prägnant",
+    "international verständlich",
+    "unisex/genderneutral",
+    "modern und geläufig",
+    "eher sachlich als extravagant",
+    "als eigenständige Kurzform wahrgenommen"
+  ],
+  "usable_evidence_count": 3,
+  "visibility": "Hoch in Namenslexika und Vornamensdatenbanken, aber die öffentliche Meinungsbasis ist eher schmal. Die Evidenz wirkt vor allem redaktionell und nicht breit community-getrieben."
+}

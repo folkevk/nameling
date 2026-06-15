@@ -1,0 +1,69 @@
+{
+  "associations": [
+    "althochdeutsche Herkunft",
+    "niederdeutsche Kurzform",
+    "Bedeutung oft als \"Schwertträger\" bzw. mit \"Spitze/Schneide\" erklärt",
+    "Unisex-Name",
+    "Namenstag",
+    "selten bis moderat vergeben"
+  ],
+  "confidence": 0.79,
+  "display_text": "Eike wirkt in der öffentlichen Wahrnehmung überwiegend neutral und sachlich, mit leicht positivem, traditionell-norddeutschem Klang. Der Name wird meist als unisex, historisch und eher selten vergeben beschrieben. Die Evidenz ist vor allem portalbasiert und daher nur begrenzt belastbar.",
+  "evidence_quality": "mittel bis schwach: mehrere übereinstimmende, aber vor allem portalbasierte Quellen; wenig direkte öffentliche Diskurs-Evidenz.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Eike",
+  "normalized_name": "eike",
+  "overall_resonance": "Überwiegend neutral-sachlich mit leicht positivem Klang: Eike wird in Namenslexika meist informativ als traditionell, norddeutsch/althochdeutsch und geschlechtsübergreifend beschrieben.",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt Eike nüchtern, traditionell und gut merkbar.",
+    "Der Name hat eine klare historische/namenkundliche Einordnung und wirkt eher selten als modisch.",
+    "Als unisex verwendbarer Name kann Eike je nach Umfeld unterschiedlich gelesen werden."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist begrenzt und stützt sich vor allem auf Namensportale; Aussagen zur tatsächlichen öffentlichen Wahrnehmung sollten daher vorsichtig gelesen werden.",
+    "Beliebtheits- und Verbreitungsangaben sind kontextabhängig und nicht überall gleich belastbar.",
+    "Vereinzelt kann es zu Unsicherheit bei der Geschlechtszuordnung oder zu Schreibvarianten kommen, ohne dass dies eine negative Wertung darstellt."
+  ],
+  "short_summary": "Eike wird öffentlich meist neutral und namenkundlich-informativ wahrgenommen, mit leicht traditionell-norddeutscher und unisex geprägter Anmutung. Die Evidenz ist jedoch begrenzt.",
+  "source_count": 3,
+  "sources": [
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Eike � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/E/Ei/Eike/"
+    },
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Eike � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/E/Ei/Eike/"
+    },
+    {
+      "confidence": 0.86,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Eike: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Eike.html"
+    }
+  ],
+  "style_effect": [
+    "norddeutsch",
+    "traditionell",
+    "kurz und klar",
+    "lexikalisch-informativ",
+    "geschlechtsneutral/unisex",
+    "historisch anmutend"
+  ],
+  "usable_evidence_count": 3,
+  "visibility": "In Deutschland bekannt, aber eher selten bis moderat vergeben; die öffentliche Präsenz wirkt dadurch eher unaufdringlich als breit trendig."
+}

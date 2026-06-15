@@ -1,0 +1,71 @@
+{
+  "associations": [
+    "englische und französische Form von Franziskus",
+    "Bedeutung im Umfeld von „der kleine Franzose“",
+    "teils Deutung als „der Freie“ / „der freie Mann“",
+    "Unisex-Name",
+    "Namenstag am 4. Oktober",
+    "internationaler Klang",
+    "selten bis mäßig verbreitet in Deutschland"
+  ],
+  "confidence": 0.78,
+  "display_text": "Francis wirkt in Deutschland überwiegend neutral bis leicht positiv: international, eher selten und als Unisex-Name bekannt. Die vorhandene Evidenz ist jedoch vor allem lexikalisch, daher ist die öffentliche Resonanz nur begrenzt belegbar.",
+  "evidence_quality": "Begrenzt: drei vorwiegend lexikalische Quellen, kaum echte öffentliche Debatten oder freie Meinungsäußerungen.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Francis",
+  "normalized_name": "francis",
+  "overall_resonance": "Die öffentliche Wahrnehmung von „Francis“ in Deutschland wirkt eher sachlich, international und insgesamt neutral bis leicht positiv. Der Name wird vor allem als englische bzw. französische Form von „Franziskus“ beschrieben und als Unisex-Name eingeordnet. Eine starke öffentliche Debatte oder klare gesellschaftliche Bewertung ist in der vorliegenden Evidenz nicht erkennbar.",
+  "practical_notes": [
+    "Für eine Namenssuche ist „Francis“ in Deutschland ein gut verständlicher, eher international wirkender Vorname.",
+    "Die Wahrnehmung dürfte je nach Kontext und Umgebung eher als modern-international oder klassisch-namenkundlich ausfallen.",
+    "Wegen der Unisex-Nutzung kann die Geschlechtszuordnung je nach Kontext unterschiedlich wahrgenommen werden."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt fast ausschließlich aus Namensdatenbanken und ist daher eher beschreibend als ein Abbild öffentlicher Meinungen.",
+    "Positive Einschätzungen zur Klangwirkung sind nur vereinzelt sichtbar und sollten nicht verallgemeinert werden.",
+    "Es gibt keine belastbaren Hinweise auf eine starke soziale Stigmatisierung oder eine breite gesellschaftliche Kontroverse zum Namen."
+  ],
+  "short_summary": "Francis wird in Deutschland meist neutral bis leicht positiv als internationaler, seltener Unisex-Name wahrgenommen.",
+  "source_count": 3,
+  "sources": [
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Francis � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/F/Fr/Francis/"
+    },
+    {
+      "confidence": 0.89,
+      "is_name_discussion": true,
+      "sentiment": "mostly neutral to mildly positive",
+      "source_type": "web",
+      "title": "Vorname Francis � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/F/Fr/Francis/"
+    },
+    {
+      "confidence": 0.91,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Francis: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Francis.html"
+    }
+  ],
+  "style_effect": [
+    "international",
+    "klassisch",
+    "sachlich",
+    "namenkundlich",
+    "unisex",
+    "eher selten",
+    "teilweise elegant klingend"
+  ],
+  "usable_evidence_count": 3,
+  "visibility": "Eher gering bis mittel: Der Name wird in Namenslexika und Datenbanken behandelt, aber die Evidenz für echte öffentliche Resonanz ist begrenzt. Es gibt nur wenige, überwiegend beschreibende Quellen."
+}

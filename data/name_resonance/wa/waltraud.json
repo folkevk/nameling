@@ -1,0 +1,63 @@
+{
+  "associations": [
+    "altdeutsche Herkunft",
+    "zweigliedriger Vorname",
+    "Bedeutung im Sinn von Herrschaft/Kampfplatz bzw. Stärke",
+    "klassisch-traditionelle Wirkung",
+    "Namenstag",
+    "seltene Vergabe in Deutschland",
+    "Varianten wie Waltraut/Waltraute"
+  ],
+  "confidence": 0.84,
+  "display_text": "Waltraud wird meist als seltener, klassisch-altdeutscher Vorname mit starker, traditioneller Wirkung wahrgenommen. Die Resonanz ist eher neutral bis leicht positiv; die Quellen sind gut für Herkunft und Stil, aber nur begrenzt repräsentativ für die breite Öffentlichkeit.",
+  "evidence_quality": "mittel bis gut: zwei klare Namenslexikon-Quellen, jedoch keine breite, statistisch belastbare öffentliche Debatte.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Waltraud",
+  "normalized_name": "waltraud",
+  "overall_resonance": "Waltraud wird öffentlich meist als sehr traditioneller, altdeutscher Vorname wahrgenommen, mit eher historischer als moderner Ausstrahlung. Die Resonanz ist insgesamt neutral bis leicht positiv, vor allem wegen der klaren, kraftvollen Namensbedeutung und der klassischen Einordnung; zugleich wirkt der Name heute eher selten.",
+  "practical_notes": [
+    "Für Suchmaschinen eignet sich eine kurze Einordnung als seltener, klassischer und altdeutsch geprägter Vorname.",
+    "Die Aussagekraft ist gut für Herkunft und Stil, aber nur begrenzt für eine echte öffentliche Gesamtstimmung.",
+    "Wenn gewünscht, kann man den Namen auch als historisch-traditionell mit kräftigem Klang zusammenfassen."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist überwiegend aus Namenslexika und ist damit eher beschreibend als breit gesellschaftlich repräsentativ.",
+    "Einzelne positive oder negative Kommentare sollten nicht als allgemeine Mehrheitsmeinung verstanden werden.",
+    "Die heutige Wahrnehmung kann je nach Altersgruppe und persönlichem Namensgeschmack deutlich variieren."
+  ],
+  "short_summary": "Waltraud gilt als seltener, klassisch-altdeutscher Vorname mit kraftvoller Bedeutungswirkung. Die öffentliche Resonanz ist eher neutral bis leicht positiv, vor allem traditionell geprägt.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Waltraud � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/W/Wa/Waltraud/"
+    },
+    {
+      "confidence": 0.87,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Waltraud: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Waltraud.html"
+    }
+  ],
+  "style_effect": [
+    "traditionell",
+    "klassisch",
+    "altdeutsch",
+    "namenskundlich geprägt",
+    "historisch",
+    "kräftig und kantig im Klang",
+    "eher selten als modern"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland ist Waltraud als Vorname eher wenig präsent und wird vor allem als historischer, seltener Name wahrgenommen."
+}

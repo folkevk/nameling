@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "türkischer Ursprung",
+    "Bedeutungen rund um Stärke/Männlichkeit/Heldenhaftigkeit",
+    "männlicher Vorname",
+    "in Deutschland selten",
+    "lexikalische, erklärende Namensseiten"
+  ],
+  "confidence": 0.78,
+  "display_text": "Erol wirkt in Deutschland eher selten, klar männlich und leicht positiv konnotiert. Die Quellen beschreiben den Namen vor allem informativ mit türkischem Ursprung und Bedeutungen rund um Stärke/Heldenhaftigkeit. Eine breite öffentliche Debatte ist nicht erkennbar; die Evidenz ist dafür zu schwach.",
+  "evidence_quality": "mäßig bis schwach; überwiegend beschreibende Namensseiten, kaum Diskussionsdynamik",
+  "generated_at": "2026-06-14T10:47:41Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Erol",
+  "normalized_name": "erol",
+  "overall_resonance": "Erol wird in den vorliegenden Quellen überwiegend neutral bis leicht positiv und vor allem informativ beschrieben. Der Name wirkt im öffentlichen Gebrauch eher selten und dadurch markant, ohne dass sich eine breite Debatte oder starke Polarisierung zeigt.",
+  "practical_notes": [
+    "Für viele wirkt der Name klar, kurz und gut merkbar.",
+    "Durch die geringe Verbreitung kann er als ungewöhnlich wahrgenommen werden.",
+    "Die Aussprache dürfte im Deutschen meist unproblematisch sein.",
+    "Die Herkunft wird in Namenskontexten meist sofort mit Türkisch assoziiert."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist schwach und stammt fast nur von einzelnen Namensseiten.",
+    "Es gibt kaum echte öffentliche Diskussion oder belastbare Breitenresonanz.",
+    "Die beschriebene Bedeutung sollte als Namensdeutung verstanden werden, nicht als Aussage über Trägerinnen oder Träger."
+  ],
+  "short_summary": "Erol wird in Deutschland eher selten und überwiegend neutral bis leicht positiv wahrgenommen; die verfügbare Evidenz ist jedoch begrenzt und vor allem lexikalisch-beschreibend.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.83,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Erol � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/E/Er/Erol/"
+    },
+    {
+      "confidence": 0.84,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Erol: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Erol.html"
+    }
+  ],
+  "style_effect": [
+    "kurz und prägnant",
+    "klar männlich konnotiert",
+    "türkisch geprägt",
+    "namenskundlich und erklärungsbedürftig",
+    "selten und dadurch eigenständig"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland scheint Erol eher wenig verbreitet zu sein. Die verfügbare Evidenz deutet auf eine geringe öffentliche Sichtbarkeit hin; die Resonanz lässt sich daher nur eingeschränkt beurteilen."
+}

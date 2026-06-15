@@ -1,0 +1,69 @@
+{
+  "associations": [
+    "fremdsprachige Form von Michael",
+    "Bedeutung: Wer ist wie Gott?",
+    "italienische Form bzw. Variante",
+    "weiblich und männlich / Unisex-Verwendung",
+    "selten in Deutschland",
+    "Namenstag 29. September",
+    "Verwechslungsgefahr mit Michèle/Michaela"
+  ],
+  "confidence": 0.95,
+  "display_text": "Michele: eher selten in Deutschland, aber klar als internationaler Vorname mit neutral bis leicht positiver Resonanz wahrgenommen. Der Name steht vor allem für eine mehrsprachige Form von Michael und kann je nach Kontext erklärungsbedürftig sein.",
+  "evidence_quality": "hoch: mehrere Namenslexikon-Quellen mit direkter Diskussion des Vornamens, seiner Herkunft, Bedeutung und Verbreitung in Deutschland.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Michele",
+  "normalized_name": "michele",
+  "overall_resonance": "Michele wird in der öffentlichen Namenswahrnehmung überwiegend neutral bis leicht positiv beschrieben. Der Name gilt als selten in Deutschland, ist aber klar etabliert und namenskundlich gut einordenbar.",
+  "practical_notes": [
+    "Für eine öffentliche Nutzung ist Michele gut verständlich, aber oft erklärungsbedürftig.",
+    "Je nach Kontext kann eine Ergänzung zur Aussprache oder Herkunft hilfreich sein.",
+    "Die Wahrnehmung ist eher sachlich als modisch oder trendig."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Quellen zeigen eine mehrsprachige und geschlechtsvariable Verwendung; das kann je nach Kontext zu Rückfragen führen.",
+    "Die Seltenheit in Deutschland ist ein Verbreitungsmerkmal, keine negative Bewertung.",
+    "Vereinzelt kann die Schreibweise zu Unsicherheit bei Aussprache oder Geschlecht führen."
+  ],
+  "short_summary": "Michele wirkt in Deutschland selten, aber gut dokumentiert, mit neutral bis leicht positiver öffentlicher Resonanz. Der Name wird vor allem als internationale, mehrsprachige Form von Michael wahrgenommen.",
+  "source_count": 3,
+  "sources": [
+    {
+      "confidence": 0.99,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Michele � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/M/Mi/Michele/"
+    },
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Michele � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/M/Mi/Michele/"
+    },
+    {
+      "confidence": 0.95,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Michele: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Michele.html"
+    }
+  ],
+  "style_effect": [
+    "international/kultiviert wirkend",
+    "namenskundlich klar verortet",
+    "leicht mehrsprachig bzw. grenzüberschreitend",
+    "neutral bis elegant im Klang",
+    "potenziell missverständlich in der Schreib- und Geschlechtszuordnung"
+  ],
+  "usable_evidence_count": 3,
+  "visibility": "Eher geringe bis mittlere Sichtbarkeit in Deutschland, da der Name laut den Quellen selten vergeben wird. Gleichzeitig ist er durch mehrere Namenslexika gut auffindbar und verständlich dokumentiert."
+}

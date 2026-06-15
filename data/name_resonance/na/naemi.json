@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "althebräische Herkunft",
+    "Bezüge zu Noemi/Naomi",
+    "Bedeutungen wie lieblich, freundlich, Wonne",
+    "finnische Nebenform",
+    "Namenstag",
+    "selten bzw. nicht massenhaft verbreitet"
+  ],
+  "confidence": 0.82,
+  "display_text": "Naemi wirkt in den vorliegenden Quellen freundlich, sanft und positiv besetzt. Die öffentliche Sichtbarkeit ist eher begrenzt, da die Evidenz vor allem aus Namenslexika stammt. Insgesamt entsteht der Eindruck eines selten bis moderat gebräuchlichen Namens mit angenehmem, namenskundlich geprägtem Profil.",
+  "evidence_quality": "Begrenzt: zwei einschlägige Namenslexikon-Quellen, überwiegend positiv und informativ, aber ohne breite Diskussionsbasis.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Naemi",
+  "normalized_name": "naemi",
+  "overall_resonance": "Naemi wird in den vorliegenden deutschsprachigen Namensquellen überwiegend freundlich und positiv konnotiert dargestellt. Die öffentliche Rezeption wirkt eher sachlich-informativ als emotional breit diskutiert. Insgesamt erscheint der Name als selten bis moderat gebräuchlich und stilistisch angenehm, mit Bezug zu Bedeutungen wie „lieblich“, „freundlich“ oder „die Bezaubernde“.",
+  "practical_notes": [
+    "Für die Namenssuche wirkt Naemi klanglich weich und positiv besetzt.",
+    "Der Name ist bekannt, aber nicht sehr häufig.",
+    "Die vorhandenen Quellen legen eine eher neutrale bis freundliche öffentliche Wahrnehmung nahe."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist stark auf Namenslexikon-Seiten beschränkt.",
+    "Es gibt nur begrenzt Hinweise auf echte öffentliche Breitenwirkung oder kontroverse Wahrnehmung.",
+    "Eine allgemeine Bewertung sollte daher vorsichtig formuliert werden."
+  ],
+  "short_summary": "Naemi wird in den verfügbaren Quellen freundlich und positiv beschrieben, jedoch eher in lexikalischen als in breit öffentlichen Kontexten.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.94,
+      "is_name_discussion": true,
+      "sentiment": "positive",
+      "source_type": "web",
+      "title": "Vorname Naemi � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/N/Na/Naemi/"
+    },
+    {
+      "confidence": 0.78,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Naemi: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Naemi.html"
+    }
+  ],
+  "style_effect": [
+    "freundlich",
+    "sanft",
+    "namenskundlich geprägt",
+    "eher modern-sachlich",
+    "selten bis moderat gebräuchlich"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Eher gering bis mittel: Der Name ist in Namenslexika sichtbar, aber die Evidenz zeigt keine breite öffentliche Meinungsvielfalt oder starke Alltagsdiskussion."
+}

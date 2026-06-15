@@ -1,0 +1,72 @@
+{
+  "associations": [
+    "hebräischer Ursprung",
+    "biblischer Name",
+    "Löwe Gottes / Löwin Gottes als mögliche Deutung",
+    "Unisex-Name",
+    "Shakespeares Luftgeist aus 'Der Sturm'",
+    "Namenstag",
+    "selten bis mäßig bekannt in Deutschland",
+    "englischsprachig auch für Mädchen gebräuchlich"
+  ],
+  "confidence": 0.82,
+  "display_text": "Ariel wirkt in Deutschland überwiegend neutral bis leicht positiv: klangvoll, international und biblisch geprägt, zugleich eher selten. Die Evidenz ist vor allem lexikalisch und daher nur eingeschränkt aussagekräftig für die öffentliche Resonanz. Einzelne Nebenassoziationen, etwa mit dem Waschmittel oder möglichem Hänselpotenzial, werden zwar genannt, sollten aber als vereinzelte Wahrnehmungen verstanden werden.",
+  "evidence_quality": "mittel bis schwach: mehrere klare Namenslexikon-Quellen, aber nur begrenzte öffentliche Resonanz außerhalb von Nachschlagewerken",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Ariel",
+  "normalized_name": "ariel",
+  "overall_resonance": "In der vorliegenden Evidenz wirkt Ariel in Deutschland überwiegend neutral bis leicht positiv: der Name wird vor allem sachlich als biblisch/hebräisch, klangvoll und ungewöhnlich beschrieben. Gleichzeitig tauchen vereinzelte alltagsnahe Nebenassoziationen und mögliche Missverständnisse auf.",
+  "practical_notes": [
+    "Für eine Namenssuche in Deutschland dürfte Ariel eher als besonderer, internationaler und stilistisch auffälliger Name wahrgenommen werden.",
+    "Die Schreib- und Klangform ist bekannt, aber nicht stark verbreitet.",
+    "Die Geschlechtszuordnung kann je nach Kontext als offen oder unisex verstanden werden."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt überwiegend aus Namenslexika und ist daher nur eingeschränkt aussagekräftig für eine echte öffentliche Debatte.",
+    "Es gibt eine mögliche Verwechslungs- bzw. Nebenassoziation mit dem Waschmittel 'Ariel'.",
+    "Einzelne Quellen erwähnen mögliches Hänselpotenzial; das ist als gesellschaftliche Wahrnehmung, nicht als Eigenschaft des Namens, zu verstehen."
+  ],
+  "short_summary": "Ariel wird in den Quellen vor allem neutral bis leicht positiv beschrieben: klangvoll, international und biblisch geprägt, zugleich eher selten. Vereinzelte Nebenassoziationen und mögliche Verwechslungen sind vorhanden, aber die Evidenz für breitere öffentliche Resonanz ist begrenzt.",
+  "source_count": 3,
+  "sources": [
+    {
+      "confidence": 0.92,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Ariel � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/A/Ar/Ariel/"
+    },
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Ariel � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/A/Ar/Ariel/"
+    },
+    {
+      "confidence": 0.88,
+      "is_name_discussion": true,
+      "sentiment": "eher positiv mit leichten negativen Nebenassoziationen",
+      "source_type": "web",
+      "title": "&#9655; Vorname Ariel: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Ariel.html"
+    }
+  ],
+  "style_effect": [
+    "klangvoll",
+    "international",
+    "ungewöhnlich",
+    "biblisch geprägt",
+    "unisex / genderneutral wahrgenommen",
+    "sachlich-lexikalisch",
+    "leicht märchenhaft bzw. literarisch"
+  ],
+  "usable_evidence_count": 3,
+  "visibility": "eher gering bis mäßig sichtbar"
+}

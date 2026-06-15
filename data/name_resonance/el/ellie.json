@@ -1,0 +1,64 @@
+{
+  "associations": [
+    "Kurz- und Koseform von Eleanor/Eleonore und Elisabeth",
+    "englisch/international wirkender Vorname",
+    "Bedeutungsbezüge aus den Quellen wie \"die Andere\", \"die Fremde\" oder \"Gott ist mein Licht\"",
+    "weiblicher Vorname",
+    "Namensfeiertag/Namenstag",
+    "Beliebtheit in Deutschland"
+  ],
+  "confidence": 0.84,
+  "display_text": "Ellie wirkt in Deutschland überwiegend positiv: kurz, modern, freundlich und international. Die Quellen beschreiben den Namen vor allem als Kurz- bzw. Koseform mit guter Sichtbarkeit in Namensportalen. Für eine breite öffentliche Resonanz außerhalb dieser Quellen ist die Evidenz allerdings begrenzt.",
+  "evidence_quality": "mittel bis gut; mehrere einschlägige Namensquellen, aber überwiegend lexikalisch statt breit öffentlich.",
+  "generated_at": "2026-06-14T10:47:41Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Ellie",
+  "normalized_name": "ellie",
+  "overall_resonance": "Der Name Ellie wird in den vorliegenden Quellen überwiegend positiv und freundlich wahrgenommen. Er erscheint in Deutschland als geläufige, moderne und eher internationale Kurz- bzw. Koseform mit klarer Namenslexikon-Präsenz.",
+  "practical_notes": [
+    "Für Suchende wirkt Ellie in Deutschland eher vertraut als ungewöhnlich.",
+    "Der Name ist kurz und gut merkbar, mit internationaler Anmutung.",
+    "Als Spitzname- oder Kurzform kann Ellie je nach Kontext auch informell oder liebevoll wirken.",
+    "Die Quellenlage spricht eher für eine positive Namenswirkung als für Kontroversen."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt fast ausschließlich aus Namenslexika und Portalen; eine breite öffentliche Wahrnehmung ist nur eingeschränkt belegt.",
+    "Mögliche Bedeutungen und Herleitungen variieren je nach Quelle, daher vorsichtig interpretieren.",
+    "Keine belastbaren Hinweise auf negative soziale Stigmatisierung in den vorliegenden Quellen."
+  ],
+  "short_summary": "Ellie wird in Deutschland vor allem freundlich, modern und international wahrgenommen. Die Evidenz ist überwiegend positiv, aber hauptsächlich aus Namensportalen abgeleitet.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "Vorname Ellie � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/E/El/Ellie/"
+    },
+    {
+      "confidence": 0.9,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Ellie: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Ellie.html"
+    }
+  ],
+  "style_effect": [
+    "kurz",
+    "weich",
+    "modern",
+    "international",
+    "jugendlich wirkend",
+    "freundlich",
+    "koseformnah",
+    "leicht verspielt"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Die Sichtbarkeit wirkt gut bis sehr gut, vor allem in Namensportalen und Listen zur Beliebtheit. Die Evidenz deutet auf Bekanntheit im deutschen Namenskontext hin, auch wenn breite öffentliche Resonanz außerhalb von Namensquellen nur begrenzt belegt ist."
+}

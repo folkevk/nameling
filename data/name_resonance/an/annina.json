@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "Bedeutungen wie „begnadete“, „anmutige“ oder „liebreizende“",
+    "Herleitung als Weiterbildung von Anna, teils mit italienischem Bezug",
+    "Namenstag wird genannt",
+    "eher seltene Einordnung in Deutschland",
+    "Verwandte Formen wie Anna, Hannah, Anina, Annine"
+  ],
+  "confidence": 0.78,
+  "display_text": "Annina wird meist als freundlicher, klassisch-eleganter und eher seltener Vorname beschrieben. Die vorliegende Evidenz ist jedoch begrenzt und stammt vor allem aus Namenslexika. Insgesamt überwiegt ein positiver Eindruck, ohne dass sich daraus eine breite öffentliche Debatte ableiten lässt.",
+  "evidence_quality": "mittel bis schwach: wenige, überwiegend lexikalische Quellen; kaum unabhängige öffentliche Diskussion",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Annina",
+  "normalized_name": "annina",
+  "overall_resonance": "Annina wird in den vorliegenden Quellen überwiegend freundlich und sachlich wahrgenommen. Der Name wirkt eher selten, traditionell und leicht elegant; die öffentliche Resonanz ist insgesamt positiv, aber auf wenig Evidenz gestützt.",
+  "practical_notes": [
+    "Für Suchmaschinen-Nutzer vermittelt der Name ein klassisch-weiches, eher seltenes Profil",
+    "Die Wirkung hängt stark vom persönlichen Geschmack ab; die Quellenlage spricht eher für einen positiven Ersteindruck",
+    "Wegen der dünnen Datenbasis sollte die Einordnung vorsichtig gelesen werden"
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt fast ausschließlich aus Namenslexika und ist daher begrenzt",
+    "Nutzerkommentare sind nur eingeschränkt belastbar und nicht als breite öffentliche Meinung zu verstehen",
+    "Keine belastbaren Hinweise auf Kontroverse oder Stigmatisierung in den vorliegenden Quellen"
+  ],
+  "short_summary": "Annina wirkt in den Quellen freundlich, klassisch und eher selten. Die Resonanz ist überwiegend positiv, aber die Datenbasis ist klein.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Annina � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/A/An/Annina/"
+    },
+    {
+      "confidence": 0.78,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Annina: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Annina.html"
+    }
+  ],
+  "style_effect": [
+    "freundlich",
+    "zart",
+    "traditionell",
+    "leicht elegant",
+    "namenskundlich",
+    "selten"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Eher gering bis moderat: In den Quellen erscheint Annina als seltener Vorname mit klarer Namenslexikon-Präsenz, jedoch ohne breite öffentliche Debatte oder starke Alltagsverbreitung in der Evidenz."
+}

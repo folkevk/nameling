@@ -1,0 +1,59 @@
+{
+  "associations": [
+    "Bedeutung wie „der liebe Freund“ oder „der Volksfreund“",
+    "mögliche Herkunft aus althochdeutschen, niederdeutschen oder hebräischen Bezügen",
+    "Namenstag am 12. November",
+    "Betonung meist auf der ersten Silbe",
+    "in Deutschland als relativ beliebter Vorname beschrieben"
+  ],
+  "confidence": 0.84,
+  "display_text": "Levin wirkt in Deutschland überwiegend freundlich, modern und leicht positiv besetzt. Die Hinweise sprechen für einen bekannten und eher beliebten Vornamen; belastbare öffentliche Debatten oder negative Stigmatisierung sind in den vorliegenden Quellen kaum erkennbar. Da die Evidenz vor allem aus Namenslexika stammt, ist die Einordnung vorsichtig zu lesen.",
+  "evidence_quality": "mittel bis schwach: inhaltlich klar, aber fast nur Einzelquellen aus Namenslexika; wenig echte öffentliche Meinungsvielfalt.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Levin",
+  "normalized_name": "levin",
+  "overall_resonance": "Im deutschsprachigen Raum wirkt Levin überwiegend freundlich, modern und eher positiv besetzt. Die verfügbaren Hinweise sprechen vor allem für eine sachliche Namenswahrnehmung mit leichter Wertschätzung, nicht für starke Kontroversen oder klare negative Debatten.",
+  "practical_notes": [
+    "Für Suchmaschinen- und Kurzprofile eignet sich eine knappe Beschreibung wie: freundlich, modern, leicht positiv.",
+    "Wenn Kontext gewünscht ist, kann man Herkunft, Bedeutung und Namenstag ergänzen.",
+    "Keine belastbaren Hinweise auf gesellschaftliche Stigmatisierung in den vorliegenden Quellen."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz basiert vor allem auf Namensdatenbanken und Lexikonseiten, nicht auf öffentlicher Debatte.",
+    "Es gibt kaum belastbare Hinweise auf kontroverse oder stigmatisierende Rezeption.",
+    "Aussagen zur Wirkung sollten deshalb als vorsichtige Tendenzen verstanden werden, nicht als allgemeingültige Wahrheiten."
+  ],
+  "short_summary": "Levin wird in den verfügbaren Quellen überwiegend freundlich und modern beschrieben, mit leicht positiver Tendenz. Die Evidenz ist jedoch begrenzt, da sie fast nur aus Namenslexika stammt.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "Vorname Levin � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/L/Le/Levin/"
+    },
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Levin: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Levin.html"
+    }
+  ],
+  "style_effect": [
+    "freundlich",
+    "modern",
+    "namenskundlich-informativ",
+    "eher weich im Klang",
+    "zeitgemäß wahrgenommen"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Der Name scheint in Deutschland gut bekannt und sichtbar zu sein; die Quellen verweisen auf Beliebtheit und zunehmende Nutzung. Die Evidenz stammt jedoch fast ausschließlich aus Namenslexika, nicht aus breiter öffentlicher Diskussion."
+}

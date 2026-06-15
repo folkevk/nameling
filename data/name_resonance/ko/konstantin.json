@@ -1,0 +1,65 @@
+{
+  "associations": [
+    "lateinischer Ursprung",
+    "der Standhafte",
+    "der Beständige",
+    "Beständigkeit",
+    "Entschlossenheit",
+    "historische Bedeutung",
+    "Namenstag",
+    "internationale Varianten",
+    "Konstantin der Große",
+    "Konstantinopel"
+  ],
+  "confidence": 0.84,
+  "display_text": "Konstantin wirkt in der vorliegenden Evidenz überwiegend positiv: klassisch, zeitlos und mit Bedeutungen wie „der Standhafte“ bzw. „der Beständige“ verbunden. Die öffentliche Rezeption scheint eher wertschätzend als modern-experimentell, allerdings stützt sich das Bild vor allem auf Namensportale und ist daher nur begrenzt repräsentativ.",
+  "evidence_quality": "mittel: klare, namenskundliche Hinweise mit positiver Tonalität, aber überwiegend aus wenigen Portalquellen statt aus breiter öffentlicher Diskussion.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Konstantin",
+  "normalized_name": "konstantin",
+  "overall_resonance": "Überwiegend positiv und traditionell: Der Name Konstantin wird meist mit Beständigkeit, Standhaftigkeit und einem klassischen, zeitlosen Eindruck verbunden.",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt Konstantin seriös, klassisch und gut anschlussfähig.",
+    "Der Name ist gut verständlich und international anschlussfähig.",
+    "Die Resonanz ist eher wertschätzend als modern-experimentell."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz basiert überwiegend auf einzelnen Namensportalen mit möglichem SEO- oder Redaktionseinschlag.",
+    "Es liegen nur wenige unabhängige öffentliche Meinungen vor; die Aussagekraft für die breite Gesellschaft ist begrenzt.",
+    "Historische Bezüge können die Wahrnehmung prägen, sagen aber nichts über heutige Träger des Namens aus."
+  ],
+  "short_summary": "Konstantin wird in den verfügbaren Quellen überwiegend positiv, klassisch und bedeutungsvoll wahrgenommen; die Datenlage ist aber vor allem portalbasiert.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "Vorname Konstantin � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/K/Ko/Konstantin/"
+    },
+    {
+      "confidence": 0.95,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Konstantin: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Konstantin.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "zeitlos",
+    "würdig",
+    "informativ",
+    "traditionsnah",
+    "etymologisch geprägt"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Mittlere bis gute Sichtbarkeit im deutschen Namenskontext; die vorliegende Evidenz stammt jedoch vor allem aus Namensportalen und ist daher nur eingeschränkt repräsentativ für die allgemeine öffentliche Wahrnehmung."
+}

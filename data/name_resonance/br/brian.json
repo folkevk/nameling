@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "irischer bzw. keltischer Ursprung",
+    "mögliche Bedeutungen wie der Erhabene, der Edle, der Hügel oder der Starke",
+    "internationaler Klang",
+    "in Deutschland vereinzelt, aber bekannt",
+    "Variante Bryan",
+    "Namenstag-Angaben in einzelnen Quellen"
+  ],
+  "confidence": 0.88,
+  "display_text": "Brian wirkt in der öffentlichen Wahrnehmung eher leicht positiv, international und sachlich. In Deutschland ist der Name bekannt, aber eher vereinzelt vergeben. Die Quellen beschreiben vor allem Herkunft, mögliche Bedeutungen und Beliebtheit; eine breite Debatte gibt es nicht. Wegen der begrenzten Evidenz ist die Einordnung vorsichtig zu lesen.",
+  "evidence_quality": "mittel bis gut; direkte Namensdiskussionen, aber nur wenige Quellen und keine breite öffentliche Streuung",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Brian",
+  "normalized_name": "brian",
+  "overall_resonance": "Der Vorname Brian wird in der vorliegenden Evidenz insgesamt eher leicht positiv und sachlich wahrgenommen. Er erscheint als internationaler, vor allem irisch/keltisch geprägter Name mit überwiegend informativen Namenslexikon-Kontexten. Die öffentliche Rezeption wirkt nicht kontrovers, aber auch nicht breit diskutiert.",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt Brian unkompliziert, international verständlich und eher zeitlos als ausgefallen.",
+    "Die Schreibweise ist kurz und klar; die Variante Bryan kann als nahe Alternative auftreten.",
+    "Die öffentliche Resonanz ist eher neutral bis leicht positiv, ohne erkennbare starke soziale Stigmatisierung."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist auf wenige Namensseiten beschränkt, daher nur vorsichtige Einordnung möglich.",
+    "Die Bedeutung des Namens wird nicht überall einheitlich angegeben; etymologische Details sind teils unsicher.",
+    "Es gibt keine belastbare breite öffentliche Debatte, sondern vor allem beschreibende Namensinformationen."
+  ],
+  "short_summary": "Brian wird in Deutschland eher als internationaler, irisch/keltisch geprägter Vorname mit leicht positiver, sachlicher Resonanz beschrieben; die Evidenz ist jedoch begrenzt.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "Vorname Brian � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/B/Br/Brian/"
+    },
+    {
+      "confidence": 0.79,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Brian: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Brian.html"
+    }
+  ],
+  "style_effect": [
+    "international",
+    "modern",
+    "lexikalisch-namenkundlich",
+    "eher klar und direkt",
+    "leicht positiv konnotiert"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland eher vereinzelt vergeben, zugleich aber bekannt und als moderner, international verständlicher Vorname präsent. Die Sichtbarkeit in der Evidenz ist begrenzt und stützt sich vor allem auf einzelne Namensseiten."
+}

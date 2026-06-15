@@ -1,0 +1,57 @@
+{
+  "associations": [
+    "Kurzform von Eleonore, Elisabeth, Elena oder Ellen",
+    "Bedeutungen wie „die Leuchtende“, „die Strahlende“, „die Fremde“ oder „Gott ist Fülle“",
+    "weiblicher Vorname",
+    "Namenslexikon und Herkunftsdiskussion",
+    "teilweise als traditionell und familiär wahrgenommen"
+  ],
+  "confidence": 0.92,
+  "display_text": "Elli hat eine überwiegend freundliche, leicht positive Resonanz. Der Name gilt als kurz, weich klingend und eher modern, wird aber zugleich als Kose- oder Kurzform mit klassischem Hintergrund verstanden. In Deutschland ist er bekannt, aber nicht sehr häufig.",
+  "evidence_quality": "gut: zwei klare Namensquellen mit hoher Übereinstimmung; einzelne Meinungsaspekte sind jedoch nur anekdotisch belegt.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Elli",
+  "normalized_name": "elli",
+  "overall_resonance": "Die öffentliche Resonanz auf den Vornamen Elli wirkt überwiegend freundlich und sachlich, mit leicht positivem Eindruck. Der Name wird vor allem als kurzer, moderner und gut klingender Mädchenname wahrgenommen.",
+  "practical_notes": [
+    "Für die Namenssuche wirkt Elli unkompliziert, freundlich und gut merkbar.",
+    "Durch die Kürze erscheint der Name modern, bleibt aber durch die klassischen Langformen anschlussfähig."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Einige positive Eindrücke stammen aus Nutzerkommentaren und sind nur eingeschränkt verallgemeinerbar.",
+    "Die Angaben zur Herkunft und Bedeutung variieren je nach Quelle und Deutung."
+  ],
+  "short_summary": "Elli wird in der öffentlichen Wahrnehmung meist als freundlicher, kurzer und eher moderner Mädchenname mit klassischem Hintergrund beschrieben.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.99,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Elli � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/E/El/Elli/"
+    },
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Elli: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Elli.html"
+    }
+  ],
+  "style_effect": [
+    "kurz und einprägsam",
+    "weich und freundlich im Klang",
+    "modern, aber mit traditionellem Bezug",
+    "oft als Koseform oder Kurzform verstanden",
+    "wirkt eher leicht als förmlich"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland ist Elli als Vorname bekannt, aber eher nicht sehr häufig. Er wirkt dadurch vertraut, ohne alltäglich zu sein."
+}

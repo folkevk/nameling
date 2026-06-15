@@ -1,0 +1,62 @@
+{
+  "associations": [
+    "althochdeutscher Ursprung",
+    "Bedeutung: die Strahlende / Glänzende / Berühmte",
+    "historisch verbreitet",
+    "heute sehr selten",
+    "klassischer Vorname",
+    "Namenstag",
+    "Bezüge zu Kurzformen bzw. Namensfamilien wie Bert/Albert/Berthold/Bertram"
+  ],
+  "confidence": 0.84,
+  "display_text": "Berta wirkt in Deutschland überwiegend neutral bis leicht positiv: ein klassischer, heute seltener Vorname mit althochdeutscher Herkunft und der Bedeutung „die Strahlende/Glänzende/Berühmte“. Die vorliegenden Quellen sind vor allem Namenslexika, daher ist die öffentliche Resonanz nur begrenzt belegt. Einzelne negative Anklänge in Kommentaren sind nicht repräsentativ.",
+  "evidence_quality": "mittel: zwei namenskundliche Webquellen mit klarer Namensdiskussion, aber wenig echte öffentliche Debatte außerhalb von Lexikon- und Infotexten.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Berta",
+  "normalized_name": "berta",
+  "overall_resonance": "Überwiegend neutral bis leicht positiv: Berta wird in den Quellen als traditioneller, historisch gewachsener Vorname mit klarer Herkunft und Bedeutung beschrieben. Die öffentliche Wahrnehmung wirkt eher sachlich-informativ als emotional aufgeladen.",
+  "practical_notes": [
+    "Für eine Namenssuche ist Berta gut als klassischer Traditionsname mit klarer Etymologie einzuordnen.",
+    "Wenn Modernität oder hohe Alltagsvertrautheit wichtig sind, könnte die Seltenheit in Deutschland relevant sein.",
+    "Die Resonanz wirkt insgesamt stabil und unaufgeregt, ohne starke Polarisierung in den vorliegenden Quellen."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz zur öffentlichen Resonanz ist begrenzt und stammt überwiegend aus Namenslexika statt aus breiter Alltagsnutzung.",
+    "Einzelne negative Kommentarhinweise in den Quellen sind anekdotisch und nicht verallgemeinerbar.",
+    "Die Seltenheit des Namens kann je nach Umfeld als altmodisch oder besonders wahrgenommen werden; das ist eine Kontextfrage, keine feste Eigenschaft."
+  ],
+  "short_summary": "Berta wird in den verfügbaren Quellen vor allem als seltener, klassischer und historisch gewachsener Vorname beschrieben – neutral bis leicht positiv, mit wenig öffentlicher Debatte.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Berta � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/B/Be/Berta/"
+    },
+    {
+      "confidence": 0.92,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Berta: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Berta.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "traditionell",
+    "historisch",
+    "selten",
+    "namenskundlich",
+    "sachlich"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland heute eher selten und dadurch auffälliger als ein moderner Modename. Die Sichtbarkeit in den Quellen stammt vor allem aus Namenslexika, nicht aus breiter öffentlicher Diskussion."
+}

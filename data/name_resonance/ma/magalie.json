@@ -1,0 +1,63 @@
+{
+  "associations": [
+    "Perle",
+    "Variante von Magali",
+    "französische/provenzalische Namensform",
+    "selten in Deutschland",
+    "möglicher Bezug zu Margarete oder Magdalena",
+    "Namenstag 16. November",
+    "weiblicher Vorname"
+  ],
+  "confidence": 0.81,
+  "display_text": "Magalie wirkt in der öffentlichen Wahrnehmung überwiegend neutral bis eher positiv: ein seltener, französisch/provenzalisch klingender Mädchenname, der oft als elegant und besonders beschrieben wird. Die Evidenz ist allerdings begrenzt und beruht vor allem auf namenskundlichen Webseiten.",
+  "evidence_quality": "schwach bis mittelstark",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Magalie",
+  "normalized_name": "magalie",
+  "overall_resonance": "Die öffentliche Resonanz auf Magalie wirkt überwiegend neutral bis eher positiv. Der Name wird vor allem als französisch/provenzalisch wahrgenommen und mit einer eleganten, seltenen und etwas besonderen Ausstrahlung verbunden. Die Aussagekraft ist jedoch begrenzt, da nur wenige, vor allem namenskundliche Webquellen vorliegen.",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt Magalie eher stilvoll und ungewöhnlich.",
+    "Die Schreibweise kann als international und französisch gelesen werden.",
+    "Wer einen vertrauten, häufigen Namen sucht, findet hier eher das Gegenteil: einen seltenen Namen mit besonderem Klang."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist schwach bis mittelstark und stützt sich nur auf wenige Informationsseiten.",
+    "Beliebtheits- und Herkunftsangaben können je nach Quelle, Region und Zeitpunkt variieren.",
+    "Einzelne Nutzerreaktionen sind nicht repräsentativ für die allgemeine öffentliche Meinung."
+  ],
+  "short_summary": "Magalie wird überwiegend neutral bis eher positiv wahrgenommen: ein seltener, französisch/provenzalisch wirkender Mädchenname mit eleganter und besonderer Ausstrahlung. Die Evidenz ist begrenzt.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.92,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Magalie � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/M/Ma/Magalie/"
+    },
+    {
+      "confidence": 0.82,
+      "is_name_discussion": true,
+      "sentiment": "eher positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Magalie: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Magalie.html"
+    }
+  ],
+  "style_effect": [
+    "französisch/provenzalisch",
+    "elegant",
+    "selten",
+    "weiblich",
+    "namenkundlich",
+    "leicht poetisch",
+    "besonders statt alltäglich"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Im deutschsprachigen Raum eher selten und dadurch auffälliger als alltägliche Namen. Die Wahrnehmung scheint vor allem informativ und stilbezogen, weniger stark durch breite Alltagsnutzung geprägt."
+}

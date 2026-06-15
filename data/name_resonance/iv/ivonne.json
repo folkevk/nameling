@@ -1,0 +1,59 @@
+{
+  "associations": [
+    "deutsche bzw. niederländische Variante von Yvonne",
+    "Bedeutung oft mit Eibe bzw. Bogenschützin verbunden",
+    "weiblicher Vorname",
+    "in Deutschland eher selten",
+    "historisch häufiger in den 1970er/1980er Jahren",
+    "teilweise als unverwechselbar beschrieben"
+  ],
+  "confidence": 0.77,
+  "display_text": "Ivonne: überwiegend neutral bis leicht positiv wahrgenommen. Der Name gilt als eher selten in Deutschland, wirkt klassisch-ruhig und wird meist als Variante von Yvonne mit Bedeutungen wie Eibe oder Bogenschützin beschrieben. Die Evidenz ist eher mittel, da vor allem Namenslexika vorliegen.",
+  "evidence_quality": "mittel; überwiegend lexikalische Quellen, wenig breite Alltagsresonanz",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Ivonne",
+  "normalized_name": "ivonne",
+  "overall_resonance": "überwiegend neutral bis leicht positiv",
+  "practical_notes": [
+    "Für Suchmaschinen wirkt der Name vertraut, aber nicht sehr verbreitet.",
+    "Die Schreibweise mit 'v' wird als Variante von Yvonne wahrgenommen.",
+    "Die Gesamtwirkung ist eher klassisch als modisch."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist begrenzt und stützt sich vor allem auf Namenslexika statt auf breite öffentliche Diskussionen.",
+    "Die wahrgenommene Seltenheit und der Vintage-Eindruck sind beschreibend, keine objektive Qualitätsaussage.",
+    "Es liegen keine belastbaren Hinweise auf eine gesellschaftliche Stigmatisierung vor."
+  ],
+  "short_summary": "Ivonne wird öffentlich meist sachlich und eher freundlich wahrgenommen: ein seltener, klassisch wirkender Frauenname mit Bezügen zu Yvonne und Bedeutungen rund um Eibe/Bogenschützin.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.95,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Ivonne � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/I/Iv/Ivonne/"
+    },
+    {
+      "confidence": 0.86,
+      "is_name_discussion": true,
+      "sentiment": "eher positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Ivonne: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Ivonne.html"
+    }
+  ],
+  "style_effect": [
+    "sachlich",
+    "namenskundlich",
+    "klassisch-ruhig",
+    "leicht nostalgisch"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "eher gering bis mittel; in Namenslexika präsent, keine starke öffentliche Debatte sichtbar"
+}

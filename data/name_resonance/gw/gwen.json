@@ -1,0 +1,64 @@
+{
+  "associations": [
+    "keltisch",
+    "walisisch",
+    "Kurzform von Gwendolin/Gwendolyn",
+    "Bedeutungen wie „die Helle“, „die Weiße“ oder „die Heilige“",
+    "weiblich",
+    "selten in Deutschland",
+    "Namenstag am 18. Oktober"
+  ],
+  "confidence": 0.83,
+  "display_text": "Gwen wirkt in Deutschland eher positiv und zurückhaltend: ein kurzer, klangvoller und seltener Vorname mit keltisch-walisischer Herkunft. Die öffentliche Evidenz ist überwiegend beschreibend (Namelexika, Herkunft, Bedeutung) und zeigt keine auffällige Stigmatisierung. Insgesamt entsteht ein freundlicher, moderner und leicht besonderer Eindruck.",
+  "evidence_quality": "mittel bis gut; inhaltlich klar zum Namen, aber eher beschreibende Lexikonquellen statt breite öffentliche Debatte.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Gwen",
+  "normalized_name": "gwen",
+  "overall_resonance": "Überwiegend positiv bis neutral, mit eher zurückhaltender öffentlicher Wahrnehmung. Gwen wirkt in den Quellen vor allem als kurzer, klangvoller und seltenerer Vorname mit keltisch-walisischer Einordnung.",
+  "practical_notes": [
+    "Als Name wird Gwen oft als kurz, prägnant und angenehm international wahrgenommen.",
+    "Die Seltenheit kann als besondere Stärke wirken, bedeutet aber auch weniger Vertrautheit im deutschen Alltag.",
+    "Die Quellen sprechen eher von Herkunft und Bedeutung als von breiter öffentlicher Bewertung."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist überwiegend lexikalisch; direkte öffentliche Meinungsdiskussionen sind kaum sichtbar.",
+    "Positive Eindrücke stammen teilweise aus einzelnen Kommentaren und sind daher nur begrenzt belastbar.",
+    "Keine Hinweise auf soziale Stigmatisierung in den vorliegenden Quellen."
+  ],
+  "short_summary": "Gwen wird in Deutschland eher positiv und zurückhaltend wahrgenommen: kurz, klangvoll, selten und mit keltisch-walisischer Herkunft. Die Evidenz ist solide, aber überwiegend beschreibend statt diskussionsbasiert.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.9,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Gwen � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/G/Gw/Gwen/"
+    },
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Gwen: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Gwen.html"
+    }
+  ],
+  "style_effect": [
+    "kurz",
+    "klar",
+    "klingend",
+    "modern-zeitlos",
+    "weich",
+    "leicht international",
+    "selten",
+    "namenskundlich aufgeladen"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland eher selten bis mäßig verbreitet und dadurch nicht breit alltagspräsent. Die öffentliche Rezeption scheint eher informativ als diskussionsstark zu sein."
+}

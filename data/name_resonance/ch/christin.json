@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "Bedeutung: „die Christin“ bzw. „Anhängerin Christi“",
+    "verwandt mit Christine, Christiane und Christian",
+    "lateinisch/griechische Namensdeutung in Lexika",
+    "in Deutschland eher in den 1980er- und 1990er-Jahren verbreitet",
+    "seltenere, aber bekannte Schreib- und Namensvariante",
+    "Namenstag wird in Quellen genannt"
+  ],
+  "confidence": 0.9,
+  "display_text": "Christin wirkt in der öffentlichen Namenswahrnehmung überwiegend sachlich bis leicht positiv: ein klassischer, eher seltener Vorname mit christlicher Bedeutung, der vor allem in Namenslexika neutral beschrieben wird. Die Evidenz ist dabei eher namenskundlich als breit öffentlich diskutiert.",
+  "evidence_quality": "mittel bis gut; klar namenskundliche Quellen, aber wenig unabhängige öffentliche Diskussion",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Christin",
+  "normalized_name": "christin",
+  "overall_resonance": "Der Vorname Christin wird öffentlich überwiegend sachlich bis leicht positiv wahrgenommen. In Namenslexika wird er meist neutral beschrieben, mit Fokus auf Bedeutung, Herkunft und Namenstag. Einzelne Quellen heben den Klang als angenehm und den Namen als eher selten hervor.",
+  "practical_notes": [
+    "Für Suchmaschinen eignet sich eine knappe Einordnung als klassischer, eher seltener Vorname mit christlicher Bedeutungsassoziation.",
+    "Die Schreibweise kann mit Christine oder Kristin verwechselt werden; das wird in Quellen teils erwähnt.",
+    "Am sichersten ist eine neutrale Beschreibung, da die öffentliche Resonanz nicht stark polarisiert wirkt."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt vor allem aus Namenslexika und Kommentarbereichen; freie öffentliche Alltagsdiskussion ist kaum sichtbar.",
+    "Die positive Wirkung ist nur vorsichtig zu lesen, da sie teilweise auf wenigen Kommentaren basiert.",
+    "Keine belastbaren Hinweise auf soziale Stigmatisierung in der vorliegenden Evidenz."
+  ],
+  "short_summary": "Christin wird meist neutral bis leicht positiv als klassischer, eher seltener Vorname mit christlicher Bedeutung wahrgenommen.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.95,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Christin � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/C/Ch/Christin/"
+    },
+    {
+      "confidence": 0.92,
+      "is_name_discussion": true,
+      "sentiment": "eher positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Christin: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Christin.html"
+    }
+  ],
+  "style_effect": [
+    "sachlich",
+    "namenskundlich",
+    "eher klassisch",
+    "leicht zeitgebunden",
+    "seltenere Wahrnehmung"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "mittel"
+}

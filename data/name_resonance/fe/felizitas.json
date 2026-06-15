@@ -1,0 +1,67 @@
+{
+  "associations": [
+    "lateinische Herkunft",
+    "Bedeutung: die Glückliche / die Glückselige / die Fruchtbare",
+    "Wunschname",
+    "selten bis mäßig verbreitet",
+    "Namenstag",
+    "Verbindung zu Felicitas",
+    "Spitznamen möglich",
+    "Länge des Namens",
+    "häufige Unsicherheit bei der Schreibweise"
+  ],
+  "confidence": 0.78,
+  "display_text": "Felizitas wirkt in den verfügbaren Quellen überwiegend positiv: ein seltener, klassisch-lateinischer Wunschname mit der Bedeutung von Glück/Seligkeit. Vereinzelt wird er als lang oder etwas unpraktisch beschrieben; die Evidenz ist jedoch begrenzt und basiert vor allem auf wenigen Namensseiten.",
+  "evidence_quality": "Begrenzt: wenige, vorwiegend namenkundliche Webquellen; gute Hinweise zur Bedeutung und Einzelwahrnehmung, aber keine breite öffentliche Diskurslage.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Felizitas",
+  "normalized_name": "felizitas",
+  "overall_resonance": "Überwiegend positiv, mit leicht gemischter Nebenwahrnehmung: Der Name wird vor allem über seine Bedeutung als Glücks-/Wunschname und seine lateinische Herkunft positiv gerahmt, zugleich aber auch als eher selten, lang und potenziell unpraktisch beschrieben.",
+  "practical_notes": [
+    "Wirkt in der Wahrnehmung positiv und bedeutungsvoll.",
+    "Kann wegen der Länge als formell oder etwas sperrig empfunden werden.",
+    "Kurzformen und Spitznamen werden in den Quellen als naheliegend erwähnt.",
+    "Für eine seriöse Namenssuche ist die Bedeutung ein klarer Pluspunkt, die Alltagsgängigkeit eher der mögliche Abstrich."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz basiert nur auf wenigen Namenswebseiten und ist daher nicht repräsentativ für die Gesamtwahrnehmung.",
+    "Einzelne Hinweise auf ‚unpraktisch‘ oder Schreibfehler spiegeln eher Quellen- bzw. Nutzermeinungen als eine allgemeine gesellschaftliche Bewertung.",
+    "Keine belastbare breite öffentliche Debatte erkennbar."
+  ],
+  "short_summary": "Felizitas wird meist positiv als seltener, klassisch-lateinischer Wunschname mit Glücks-Bedeutung wahrgenommen. Gleichzeitig gibt es vereinzelte Hinweise, dass der Name als lang und teils unpraktisch empfunden werden kann.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.95,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "Vorname Felizitas � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/F/Fe/Felizitas/"
+    },
+    {
+      "confidence": 0.79,
+      "is_name_discussion": true,
+      "sentiment": "mixed",
+      "source_type": "web",
+      "title": "&#9655; Vorname Felizitas: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Felizitas.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "selten",
+    "namenskundlich aufgeladen",
+    "eher elegant",
+    "leicht altertümlich wirkend",
+    "Wunschname/Positivbedeutung",
+    "lang und formell",
+    "gelegentlich als unpraktisch empfunden"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Eher geringe bis mittlere öffentliche Sichtbarkeit in den vorliegenden Quellen; die Wahrnehmung wirkt stärker namenkundlich als breit gesellschaftlich diskutiert."
+}

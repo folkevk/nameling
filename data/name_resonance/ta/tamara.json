@@ -1,0 +1,62 @@
+{
+  "associations": [
+    "biblische bzw. althebräische Herkunft",
+    "Dattelpalme",
+    "Bedeutung im Sinne von Leben/Palme",
+    "Namenstag",
+    "Beliebtheit in Deutschland",
+    "weit verbreitet im russischen Sprachraum",
+    "Kurzformen wie Tami, Mara, Tara"
+  ],
+  "confidence": 0.83,
+  "display_text": "Tamara wird meist als klassischer, vertrauter und sprachlich weicher Vorname wahrgenommen. Die Quellen beschreiben den Namen überwiegend neutral bis leicht positiv und verweisen auf biblisch/althebräische Herkunft, die Bedeutung rund um Dattelpalme/Leben sowie eine zeitweise hohe Beliebtheit in Deutschland. Für eine breitere öffentliche Resonanz ist die Evidenz vor allem namenskundlich und daher nur eingeschränkt repräsentativ.",
+  "evidence_quality": "gut für Bedeutung, Herkunft und Namensgebrauch; mittel für öffentliche Resonanz insgesamt, da die Belege vor allem aus beschreibenden Namensseiten stammen.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Tamara",
+  "normalized_name": "tamara",
+  "overall_resonance": "Tamara wird in den vorliegenden Quellen überwiegend neutral bis leicht positiv beschrieben. Der Name wirkt vertraut, klassisch und gut einordenbar; die öffentliche Wahrnehmung ist eher namenkundlich-informativ als emotional aufgeladen.",
+  "practical_notes": [
+    "Für eine Namenssuche eignet sich Tamara als etablierter, leicht verständlicher Vorname mit klarer Herkunft.",
+    "Der Name wirkt eher zeitlos als modisch.",
+    "Die verfügbaren Quellen sprechen für eine unkomplizierte, weitgehend positive oder neutrale Wahrnehmung."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt vor allem aus namenslexikalischen Quellen; das ist belastbar für Bedeutung und Herkunft, aber nur eingeschränkt für echte öffentliche Resonanz.",
+    "Es liegen keine Hinweise auf eine nennenswerte Stigmatisierung oder negative gesellschaftliche Zuschreibung in den Quellen vor.",
+    "Die allgemeine Wirkung sollte nicht als gesamtgesellschaftlich repräsentativ überinterpretiert werden."
+  ],
+  "short_summary": "Tamara ist in Deutschland ein bekannter, klassisch wirkender Vorname mit überwiegend neutral bis leicht positiver Wahrnehmung. Die Quellen betonen Herkunft, Bedeutung und Namensgebrauch; für eine breitere öffentliche Resonanz ist die Evidenz jedoch nur begrenzt aussagekräftig.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Tamara � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/T/Ta/Tamara/"
+    },
+    {
+      "confidence": 0.9,
+      "is_name_discussion": true,
+      "sentiment": "überwiegend positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Tamara: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Tamara.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "weiblich",
+    "vertraut",
+    "sprachlich weich",
+    "traditionell",
+    "international anschlussfähig"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland gut bekannt und über lange Zeit präsent, mit besonderer Wahrnehmung als gebräuchlicher weiblicher Vorname. Die Quellen verweisen auf eine zeitweise höhere Beliebtheit, ohne dass daraus eine starke aktuelle Trenddynamik ableitbar wäre."
+}

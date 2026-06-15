@@ -1,0 +1,64 @@
+{
+  "associations": [
+    "lateinische Herkunft",
+    "weibliche Form von Felix",
+    "Bedeutung: die Glückliche / Glückselige",
+    "Fröhlichkeit",
+    "Glück",
+    "Fruchtbarkeit",
+    "Erfolg",
+    "klassisch klingender Vorname",
+    "Namenstag",
+    "in Deutschland eher selten bis mäßig verbreitet"
+  ],
+  "confidence": 0.92,
+  "display_text": "Felicia wirkt in Deutschland überwiegend positiv und klassisch-elegant. Der Name ist vor allem über seine Bedeutung – „die Glückliche“ – und seine lateinische Herkunft präsent. Die Evidenz spricht eher für eine wohlklingende, zeitlose Wahrnehmung; echte öffentliche Kontroversen sind kaum zu erkennen.",
+  "evidence_quality": "gut für namenskundliche Einordnung, begrenzt für echte öffentliche Debatten oder Kommentarresonanz",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Felicia",
+  "normalized_name": "felicia",
+  "overall_resonance": "Überwiegend positiv und klassisch-wohlklingend, mit vor allem namenskundlicher statt kontroverser öffentlicher Wahrnehmung.",
+  "practical_notes": [
+    "Der Name ist meist gut verständlich und schriftlich unkompliziert.",
+    "Die Aussprache kann vereinzelt falsch geraten werden, ist aber insgesamt naheliegend.",
+    "Durch die klassische Form wirkt der Name eher zeitlos als trendig."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt überwiegend aus Namensdatenbanken und nicht aus einer breiten freien öffentlichen Diskussion.",
+    "Positive Eindrücke zu Klang und Bedeutung können stärker sein als echte Alltagsresonanz.",
+    "Hinweise auf gelegentliche Fehl-Aussprache sind eher ein praktischer Aspekt als eine negative Wertung."
+  ],
+  "short_summary": "Felicia wird im Deutschen überwiegend positiv wahrgenommen: klassisch, freundlich klingend und mit klar positiven Bedeutungen verbunden. Hinweise auf Probleme sind gering und betreffen vor allem gelegentliche Ausspracheunsicherheit.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.94,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "Vorname Felicia � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/F/Fe/Felicia/"
+    },
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "positive",
+      "source_type": "web",
+      "title": "&#9655; Vorname Felicia: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Felicia.html"
+    }
+  ],
+  "style_effect": [
+    "lateinisch und traditionell",
+    "sanft, freundlich klingend",
+    "eher elegant als modisch",
+    "positiv konnotiert durch Glück/Glückseligkeit",
+    "formal gut lesbar und schreibbar"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland wirkt Felicia eher bekannt, aber nicht extrem häufig; die öffentliche Sichtbarkeit entsteht vor allem über Bedeutung, Herkunft und Namenslisten, nicht über breite Debatten."
+}

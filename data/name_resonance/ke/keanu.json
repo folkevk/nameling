@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "hawaiianische Herkunft",
+    "Bedeutung wie „die kühle Brise“ oder „der Kühle“",
+    "moderner Jungenname",
+    "selten bis moderat verbreitet",
+    "naturnahe Assoziation",
+    "eher positive Klangwirkung"
+  ],
+  "confidence": 0.83,
+  "display_text": "Keanu wirkt in den vorliegenden Quellen überwiegend freundlich und modern. Der Name wird meist mit hawaiianischer Herkunft, einer kühlen Brise bzw. „dem Kühlen“ verbunden und in Deutschland als eher selten bis moderat bekannt beschrieben. Die öffentliche Resonanz ist dabei eher positiv, aber die Evidenz ist vor allem namenskundlich und nur begrenzt breit öffentlich.",
+  "evidence_quality": "mittel; die Quellen sind namenskundlich und überwiegend informativ, aber nur begrenzt repräsentativ für eine echte öffentliche Breitenwahrnehmung.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Keanu",
+  "normalized_name": "keanu",
+  "overall_resonance": "Überwiegend freundlich und positiv, mit eher neutral-informativem Unterton. In den vorliegenden Namensquellen wird Keanu meist als moderner, auffälliger Jungenname mit hawaiianischer Herkunft und positiver Naturbedeutung beschrieben.",
+  "practical_notes": [
+    "Für Suchende wirkt der Name meist unkompliziert, freundlich und modern.",
+    "Durch die relative Seltenheit kann er als eigenständig und merkbar empfunden werden.",
+    "Die Aussprache und Schreibweise sind im deutschen Kontext in der Regel gut zugänglich."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt fast nur aus Namenslexika und Bewertungs-/Ranking-Seiten, nicht aus breiter öffentlicher Debatte.",
+    "Die positive Resonanz ist daher eher eine abgeleitete Tendenz als ein harter Beleg für gesellschaftliche Zustimmung.",
+    "Keine belastbaren Hinweise auf Stigmatisierung in den vorliegenden Quellen."
+  ],
+  "short_summary": "Keanu wird in den vorliegenden deutschen Namensquellen überwiegend positiv und modern wahrgenommen: ein seltener, klangvoller Jungenname mit hawaiianischer Herkunft und freundlicher Naturbedeutung.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.89,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Keanu � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/K/Ke/Keanu/"
+    },
+    {
+      "confidence": 0.9,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Keanu: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Keanu.html"
+    }
+  ],
+  "style_effect": [
+    "modern",
+    "international",
+    "weich klingend",
+    "markant",
+    "jung wirkend",
+    "namenskundlich interessant"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland eher selten bis moderat bekannt und dadurch auffälliger als klassische Standardnamen, aber grundsätzlich etabliert genug, um als vertrauter Vorname wahrgenommen zu werden."
+}

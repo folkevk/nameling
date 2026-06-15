@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "althochdeutsche/altgermanische Herkunft",
+    "Bedeutung rund um den Wolf, z. B. 'der mit dem Wolf in den Kampf geht'",
+    "'Wolfsgänger' bzw. 'Wolfsjäger' als Deutungen",
+    "Namenstag am 31. Oktober",
+    "Spitznamen wie Wolfi, Wolle oder Wolferl"
+  ],
+  "confidence": 0.88,
+  "display_text": "Wolfgang: ein klassischer, traditionsreicher Vorname mit althochdeutscher Herkunft und klarer historischer Prägung; heute eher selten vergeben, aber gut bekannt.",
+  "evidence_quality": "hoch für die Namensbedeutung und Herkunft, mittel für die öffentliche Resonanz insgesamt; direkte Reputationsdaten sind kaum enthalten.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Wolfgang",
+  "normalized_name": "wolfgang",
+  "overall_resonance": "Wolfgang wirkt im öffentlichen Namensbild eher klassisch, traditionsbewusst und historisch verankert als modern oder trendig.",
+  "practical_notes": [
+    "Für eine Namenssuche eignet sich Wolfgang besonders, wenn ein traditionsreicher, gut erklärbarer Name gesucht wird.",
+    "Die Resonanz ist eher nüchtern-freundlich als trendig-auffällig.",
+    "Die gebräuchlichen Kurzformen können den Namen alltagstauglicher wirken lassen."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz beschreibt den Namen sachlich; direkte öffentliche Wertungen sind nur begrenzt belegt.",
+    "Die Einschätzung 'klassisch' und 'traditionell' leitet sich aus der Namensbeschreibung und der historischen Einordnung ab, nicht aus einer breiten Meinungsumfrage.",
+    "Keine Hinweise auf soziale Stigmatisierung in der vorliegenden Evidenz."
+  ],
+  "short_summary": "Wolfgang wird öffentlich vor allem als klassischer, traditionsreicher und historisch geprägter Vorname wahrgenommen.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Wolfgang � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/W/Wo/Wolfgang/"
+    },
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Wolfgang: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Wolfgang.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "traditionell",
+    "historisch",
+    "namenkundlich",
+    "eher selten im aktuellen Gebrauch",
+    "klar männlich konnotiert"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland ist der Name bekannt, aber heute eher seltener vergeben; die öffentliche Wahrnehmung ist vor allem über Herkunft, Bedeutung und Tradition geprägt."
+}

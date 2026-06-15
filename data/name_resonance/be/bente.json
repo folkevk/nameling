@@ -1,0 +1,70 @@
+{
+  "associations": [
+    "nordische Kurzform",
+    "Bedeutung in Richtung „die Gesegnete“/„die Gepriesene“",
+    "lateinische Herkunft über benedicere",
+    "weiblich, teils auch unisex verwendet",
+    "skandinavisch, dänisch, niederländisch, friesisch",
+    "Namenstag",
+    "eher seltene bis mäßig verbreitete Namenswahl"
+  ],
+  "confidence": 0.84,
+  "display_text": "Bente wirkt in den verfügbaren Quellen überwiegend sachlich-neutral und leicht positiv. Der Name wird als nordisch geprägt, kurz und klar beschrieben, oft mit der Bedeutung „die Gesegnete“ bzw. „die Gepriesene“. Für die öffentliche Rezeption gibt es jedoch nur begrenzte Evidenz: Vor allem Namenslexika, keine starke Breitenresonanz. Insgesamt erscheint Bente als eher seltener, freundlicher und unaufgeregt wirkender Vorname.",
+  "evidence_quality": "mittel bis eher schwach für öffentliche Resonanz; gut für Namensbedeutung und Herkunft, begrenzt für echte Außenwahrnehmung",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Bente",
+  "normalized_name": "bente",
+  "overall_resonance": "Überwiegend sachlich-neutral mit leicht positiver Grundtönung. Bente wird in den vorliegenden Quellen vor allem als nordisch geprägter Vorname mit positiver Bedeutungszuordnung beschrieben; eine breite öffentliche Wertung ist aus der Evidenz jedoch nur eingeschränkt ableitbar.",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt Bente klar, kurz und international anschlussfähig.",
+    "Der Name wird in den Quellen meist erklärend und positiv-neutral gerahmt, weniger emotional oder trendig.",
+    "Wer einen seltenen, nordisch anmutenden Namen sucht, findet hier eine eher unaufgeregte Option."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist begrenzt und stammt überwiegend aus Namenslexika; daraus lässt sich nur vorsichtig auf öffentliche Resonanz schließen.",
+    "Ein möglicher Eindruck von Unisex-Verwendung ist kontextabhängig und sollte nicht als feste Regel verstanden werden.",
+    "Keine Hinweise auf nennenswerte Stigmatisierung in der vorliegenden Evidenz."
+  ],
+  "short_summary": "Bente wird überwiegend sachlich-neutral und leicht positiv beschrieben: ein nordisch geprägter, eher seltener Vorname mit der Bedeutung „die Gesegnete“/„die Gepriesene“.",
+  "source_count": 3,
+  "sources": [
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Bente � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/B/Be/Bente/"
+    },
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Bente � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/B/Be/Bente/"
+    },
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Bente: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Bente.html"
+    }
+  ],
+  "style_effect": [
+    "nordisch",
+    "kurz und prägnant",
+    "lexikalisch",
+    "zeitlos",
+    "leicht ungewöhnlich",
+    "freundlich-klar"
+  ],
+  "usable_evidence_count": 3,
+  "visibility": "Eher bekannte, aber nicht sehr häufige Namensform in Deutschland; die öffentliche Sichtbarkeit wirkt damit eher moderat als massenhaft. Die verfügbaren Quellen sind vor allem Namenslexika und keine breite Medien- oder Alltagsresonanz."
+}

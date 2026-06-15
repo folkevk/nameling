@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "Kurzform von Diederik bzw. niederdeutsche/niederländische Form von Dietrich",
+    "Bedeutungen wie „Herrscher des Volkes“ oder „mächtig im Volke“",
+    "klassischer männlicher Vorname",
+    "früher in Deutschland beliebter, heute seltener Name",
+    "Namenstag",
+    "klarer, kompakter Klang"
+  ],
+  "confidence": 0.9,
+  "display_text": "Dirk wirkt in der öffentlichen Wahrnehmung vor allem klassisch, sachlich und leicht positiv konnotiert. Der Name ist sprachlich klar und traditionsreich, mit Herkunft aus niederdeutschen/niederländischen Formen und Bedeutungen rund um „Herrscher des Volkes“. Heute erscheint er eher selten vergeben und nicht als Trendname, sondern als nüchterner, historisch verankerter Vorname.",
+  "evidence_quality": "mittel bis eher begrenzt: gute lexikalische Belege zur Herkunft und Bedeutung, aber nur schwache Hinweise auf aktuelle öffentliche Resonanz.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Dirk",
+  "normalized_name": "dirk",
+  "overall_resonance": "Überwiegend sachlich, leicht positiv konnotiert durch die klare, traditionelle Namensgeschichte; zugleich heute eher zurückhaltend und nicht mehr sehr häufig.",
+  "practical_notes": [
+    "Für Suchmaschinen eignet sich eine neutrale Beschreibung mit dem Hinweis auf Herkunft und klassische Wirkung.",
+    "Nicht als modern-hipper Name, eher als traditionsreicher, nüchterner Vorname einordnen.",
+    "Wenn Popularität erwähnt wird, besser vorsichtig formulieren: früher häufiger, heute eher selten."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz zur öffentlichen Resonanz ist begrenzt und stammt vor allem aus Namenslexika und Aggregationsseiten.",
+    "Positive Einordnung beruht eher auf der Namensdeutung und Tradition als auf breiter aktueller Popularität.",
+    "Keine belastbaren Hinweise auf starke gesellschaftliche Stigmatisierung oder besonders trendige Gegenwartswahrnehmung."
+  ],
+  "short_summary": "Dirk wird überwiegend sachlich und leicht positiv wahrgenommen: ein klassischer, nordisch anmutender Vorname mit klarer Herkunft und historischer Tiefe, heute eher selten.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Dirk � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/D/Di/Dirk/"
+    },
+    {
+      "confidence": 0.84,
+      "is_name_discussion": true,
+      "sentiment": "eher positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Dirk: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Dirk.html"
+    }
+  ],
+  "style_effect": [
+    "kurz und prägnant",
+    "klassisch-traditionell",
+    "niederdeutsch/norddeutsch wirkend",
+    "historisch verankert",
+    "sachlich statt verspielt"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Der Name ist in Namensdatenbanken und Lexika gut auffindbar, wirkt aber im heutigen deutschen Alltag eher selten und nicht besonders trendig."
+}

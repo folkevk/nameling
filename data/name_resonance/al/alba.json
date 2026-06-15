@@ -1,0 +1,63 @@
+{
+  "associations": [
+    "lateinische Herkunft",
+    "die Weiße / die Helle / die Leuchtende",
+    "Sonnenaufgang",
+    "Morgendämmerung",
+    "Morgenrot",
+    "weiblicher Vorname",
+    "schön und klangvoll wahrgenommen",
+    "in Deutschland teils als beliebt beschrieben"
+  ],
+  "confidence": 0.87,
+  "display_text": "Alba wird in den vorliegenden Quellen überwiegend positiv wahrgenommen: als kurzer, eleganter und klangvoller Vorname mit Assoziationen zu Helligkeit, Sonnenaufgang und Morgenrot. Die Evidenz ist brauchbar, aber vor allem auf wenige Namenslexika begrenzt.",
+  "evidence_quality": "mittel bis gut; inhaltlich klar, aber quellenmäßig begrenzt auf wenige namenskundliche Webseiten.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Alba",
+  "normalized_name": "alba",
+  "overall_resonance": "Überwiegend positiv und wertschätzend, mit eher moderner, zugleich klassischer Wirkung. In den vorliegenden Quellen wird Alba meist als schöner, heller und sprachlich ansprechender Vorname beschrieben.",
+  "practical_notes": [
+    "Für eine Namenssuche ist Alba gut anschlussfähig, weil Bedeutung und Klang meist positiv gelesen werden.",
+    "Der Name wirkt kompakt und international verständlich.",
+    "Die öffentliche Wahrnehmung erscheint eher freundlich als polarisierend."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist stark, aber fast vollständig auf Namenslexika und deren Kommentarbereiche beschränkt.",
+    "Es gibt keine breite öffentliche Debatte oder große Menge unabhängiger Quellen.",
+    "Einzelne positive Bewertungen sollten nicht als allgemeingültig überinterpretiert werden."
+  ],
+  "short_summary": "Alba wird öffentlich meist positiv, hell und elegant wahrgenommen; die Evidenz ist solide, aber vor allem auf Namenslexika gestützt.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "Vorname Alba � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/A/Al/Alba/"
+    },
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Alba: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Alba.html"
+    }
+  ],
+  "style_effect": [
+    "kurz und klar",
+    "elegant",
+    "modern",
+    "klassisch",
+    "weich klingend",
+    "licht-/morgensymbolisch"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Im deutschsprachigen Raum wirkt der Name bekannt und auffällig genug, ohne stark alltagsüberladen zu sein. Die Evidenz deutet auf gute Wahrnehmbarkeit in Namenslexika und auf positive Resonanz in Deutschland hin."
+}

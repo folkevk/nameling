@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "althochdeutsche Herkunft",
+    "Bedeutung im Sinne von „die Edle“ / „von edlem Wesen“",
+    "Kurzform bzw. Verwandtschaft zu Adel-Nameformen",
+    "historisch stärker verbreitet, heute selten",
+    "Namenstag-Betonung in Namenslexika"
+  ],
+  "confidence": 0.73,
+  "display_text": "Elke wirkt öffentlich eher traditionell, klar und leicht positiv konnotiert. Der Name ist in Deutschland heute eher selten und hat einen klassischen, namenkundlich geprägten Eindruck. Die vorliegende Evidenz ist allerdings vor allem lexikonartig, daher ist die Aussage zur öffentlichen Resonanz nur begrenzt belastbar.",
+  "evidence_quality": "mittel bis begrenzt: inhaltlich klare Namensquellen, aber wenig echte öffentliche Resonanz und kaum breite Diskussionsdaten.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Elke",
+  "normalized_name": "elke",
+  "overall_resonance": "Eher sachlich-traditionell, mit insgesamt neutral bis leicht positiver öffentlicher Wahrnehmung. Die verfügbare Evidenz ist vor allem lexikonartig und nur begrenzt als echte Meinungsresonanz belastbar.",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt Elke klar, traditionell und unkompliziert.",
+    "Wer einen seltenen, kurzen und historisch verankerten Namen sucht, könnte ihn passend finden.",
+    "Die Wahrnehmung dürfte eher zeitlos als trendig sein."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt überwiegend aus Namenslexika, nicht aus breiten öffentlichen Diskussionsdaten.",
+    "Mögliche nostalgische oder persönliche Wertungen in Kommentaren sind nur eingeschränkt verallgemeinerbar.",
+    "Keine belastbaren Hinweise auf soziale Stigmatisierung; falls einzelne negative Eindrücke vorkommen, sind sie eher subjektiv als repräsentativ."
+  ],
+  "short_summary": "Elke wird meist als traditioneller, seltener und sachlich positiv konnotierter Vorname wahrgenommen; die Evidenz ist jedoch vor allem lexikonartig.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.95,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Elke � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/E/El/Elke/"
+    },
+    {
+      "confidence": 0.9,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Elke: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Elke.html"
+    }
+  ],
+  "style_effect": [
+    "traditionell",
+    "klassisch",
+    "kurz und klar",
+    "namenskundlich",
+    "leicht altmodisch",
+    "eher nüchtern als verspielt"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland heute eher selten und dadurch weniger präsent im Alltag; der Name wirkt eher bekannt aus älteren Generationen als modischer Gegenwartsname."
+}

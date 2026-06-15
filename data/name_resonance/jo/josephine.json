@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "biblisch/althebräische Herkunft",
+    "Bedeutung sinngemäß: „Gott möge hinzufügen“",
+    "weiblicher Vorname",
+    "im Deutschen verbreitet",
+    "Namenstag",
+    "Kurzformen wie Josi, Josy, Josie, Fine",
+    "bekannte internationale Variante"
+  ],
+  "confidence": 0.83,
+  "display_text": "Josephine gilt in Deutschland als klassischer, zeitloser und eher positiv besetzter Vorname. Die öffentliche Wahrnehmung ist vor allem sachlich: Herkunft, Bedeutung und Beliebtheit stehen im Vordergrund. Der Name wirkt freundlich, elegant und gut vertraut, wobei die Evidenz überwiegend aus Namenslexika stammt.",
+  "evidence_quality": "mittel bis gut; direkte Namensquellen mit klaren Angaben zu Bedeutung, Herkunft und Beliebtheit, aber wenig echte Außenwahrnehmung oder breite Publikumsstimmen",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Josephine",
+  "normalized_name": "josephine",
+  "overall_resonance": "Josephine wirkt in der öffentlichen Namenswahrnehmung in Deutschland überwiegend klassisch, zeitlos und eher positiv besetzt. Der Name wird vor allem sachlich-informativ mit Herkunft, Bedeutung und Beliebtheit verknüpft; die Resonanz erscheint freundlich, aber nicht stark emotional aufgeladen.",
+  "practical_notes": [
+    "Für Suchmaschinen eignet sich Josephine als ein klassischer, gut erklärbarer Vorname mit klarer Herkunft.",
+    "Die vielen Kurzformen erhöhen die Alltagstauglichkeit und wirken oft modern und freundlich.",
+    "Im deutschen Kontext ist der Name gut verständlich und nicht erklärungsbedürftig."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die vorliegende Evidenz stammt überwiegend aus Namenslexika und ist daher nur eingeschränkt als direkte öffentliche Meinungswahrnehmung belastbar.",
+    "Beliebtheit und Verbreitung werden erwähnt, sollten aber nicht mit allgemeiner gesellschaftlicher Zustimmung gleichgesetzt werden."
+  ],
+  "short_summary": "Josephine wird in Deutschland überwiegend als klassischer, zeitloser und positiv konnotierter Vorname wahrgenommen. Die Quellen betonen vor allem Herkunft, Bedeutung und Beliebtheit; die öffentliche Resonanz wirkt sachlich freundlich, aber nicht stark emotional.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.99,
+      "is_name_discussion": true,
+      "sentiment": "positive",
+      "source_type": "web",
+      "title": "Vorname Josephine � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/J/Jo/Josephine/"
+    },
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Josephine: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Josephine.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "zeitlos",
+    "elegant",
+    "namenskundlich",
+    "international anschlussfähig",
+    "mit vertrauten Kurzformen"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "mittel bis hoch"
+}

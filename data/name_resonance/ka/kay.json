@@ -1,0 +1,71 @@
+{
+  "associations": [
+    "Unisex-Name",
+    "kurzer Vorname",
+    "mehrere mögliche Herkünfte",
+    "friesische Bezüge",
+    "lateinische Bezüge",
+    "altgriechische Bezüge",
+    "nordische Bezüge",
+    "Artussage / Ritter der Tafelrunde",
+    "sachlich-informative Namensdeutung"
+  ],
+  "confidence": 0.81,
+  "display_text": "Kay wirkt in Deutschland vor allem sachlich-neutral bis leicht positiv: kurz, modern und international, mit mehreren möglichen Herkunftsdeutungen. Die Quellen sind jedoch vor allem namenskundliche Datenbanken, daher ist die Evidenz eher beschreibend als eine echte öffentliche Resonanzmessung.",
+  "evidence_quality": "mittel: klare namenskundliche Quellen, aber einseitig und ohne echte öffentliche Diskursdaten",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Kay",
+  "normalized_name": "kay",
+  "overall_resonance": "Überwiegend sachlich-neutrale bis leicht positive Resonanz. Kay wird in den Quellen vor allem als kurzer, international wirkender Vorname mit mehreren möglichen Herkunftsdeutungen beschrieben. Die öffentliche Wahrnehmung wirkt eher informativ als emotional aufgeladen.",
+  "practical_notes": [
+    "Als Name wirkt Kay kompakt, leicht zu schreiben und gut aussprechbar.",
+    "Durch die mehreren Deutungen kann der Name je nach Kontext unterschiedlich wahrgenommen werden.",
+    "Für eine öffentliche Einordnung ist die Datenlage eher beschreibend als repräsentativ."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz basiert fast ausschließlich auf Namensseiten, nicht auf echter öffentlicher Debatte oder breiter Resonanzmessung.",
+    "Die Herkünfte werden unterschiedlich erklärt; das ist eher ein Hinweis auf mehrere Deutungen als auf eine eindeutige Herkunft.",
+    "Keine Hinweise auf soziale Stigmatisierung in den vorliegenden Quellen."
+  ],
+  "short_summary": "Kay wird überwiegend neutral bis leicht positiv als kurzer, vielseitig gedeuteter Vorname wahrgenommen.",
+  "source_count": 3,
+  "sources": [
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Kay � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/K/Ka/Kay/"
+    },
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "mixed",
+      "source_type": "web",
+      "title": "Vorname Kay � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/K/Ka/Kay/"
+    },
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Kay: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Kay.html"
+    }
+  ],
+  "style_effect": [
+    "kurz und prägnant",
+    "modern wirkend",
+    "international anschlussfähig",
+    "namenskundlich vielseitig",
+    "eher zeitlos als ausgefallen"
+  ],
+  "usable_evidence_count": 3,
+  "visibility": "Der Name ist in Namensdatenbanken sichtbar und bekannt, wirkt aber eher nicht als stark medial diskutierter oder auffällig trendgetriebener Name. Die Evidenz deutet auf eine eher moderate, beschreibende Präsenz in Deutschland hin."
+}

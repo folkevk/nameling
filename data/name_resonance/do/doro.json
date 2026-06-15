@@ -1,0 +1,59 @@
+{
+  "associations": [
+    "Kurzform von Dorothea",
+    "griechischer Ursprung",
+    "Bedeutung im Sinne von Geschenk/Gottesgabe",
+    "weiblicher Vorname",
+    "Kose- oder Spitzname",
+    "Namenstag 6. Februar",
+    "selten bis wenig verbreitet in Deutschland"
+  ],
+  "confidence": 0.91,
+  "display_text": "Doro wird in Deutschland vor allem als kurze, freundliche und eher seltene Kurzform von Dorothea wahrgenommen. Die öffentlichen Quellen sind überwiegend sachlich und betonen Herkunft, Bedeutung und den Koseform-Charakter; gesellschaftliche Stigmatisierung oder starke Negativassoziationen sind nicht erkennbar.",
+  "evidence_quality": "hoch für etymologische und beschreibende Namensinformationen, aber begrenzt für echte gesellschaftliche Resonanzdaten",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Doro",
+  "normalized_name": "doro",
+  "overall_resonance": "Doro wird öffentlich vor allem als kurze, vertraute und eher seltene Kurzform wahrgenommen, meist mit Bezug zu Dorothea. Die Rezeption ist überwiegend sachlich und namenkundlich geprägt, ohne starke emotionale Aufladung.",
+  "practical_notes": [
+    "Für eine Suchmaschine ist Doro eher als kurze, sympathische und traditionelle Namensform einzuordnen.",
+    "Die meisten öffentlichen Beschreibungen betonen Herkunft, Bedeutung und Kurzform-Charakter statt soziale Zuschreibungen."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Es liegen nur namenkundliche Webquellen vor; die Evidenz ist solide, aber nicht breit gesellschaftlich erhoben.",
+    "Die Seltenheitswahrnehmung kann je nach Region und Altersgruppe variieren."
+  ],
+  "short_summary": "Doro gilt öffentlich als kurze, freundliche und eher seltene Kurzform von Dorothea mit klassischem, griechischem Hintergrund.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Doro � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/D/Do/Doro/"
+    },
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Doro: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Doro.html"
+    }
+  ],
+  "style_effect": [
+    "kurz und knapp",
+    "kosehaft/umgangsnah",
+    "klassisch durch den Bezug zu Dorothea",
+    "selten und dadurch eigenständig",
+    "neutral bis freundlich wirkend"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland wirkt der Name eher wenig verbreitet und dadurch auffällig, aber nicht extrem ungewöhnlich. Die öffentliche Sichtbarkeit scheint vor allem über Namensportale und statistische Einordnungen zu entstehen."
+}

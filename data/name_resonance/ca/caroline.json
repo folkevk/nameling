@@ -1,0 +1,64 @@
+{
+  "associations": [
+    "weiblicher Vorname",
+    "klassisch",
+    "historische Präsenz",
+    "Beliebtheit in Deutschland",
+    "Bedeutung: die Starke / die Freie / die Geliebte",
+    "Namensherkunft: Karl/Carla",
+    "Namenstag",
+    "variantenreich",
+    "Spitznamen wie Caro oder Line"
+  ],
+  "confidence": 0.9,
+  "display_text": "Caroline wird meist als klassischer, traditionsreicher und eher positiv wahrgenommener Vorname beschrieben. Im deutschen Kontext ist der Name gut bekannt, mit Assoziationen zu Herkunft, Bedeutung und zeitloser Eleganz. Die vorliegende Evidenz ist allerdings vor allem lexikonartig und keine breite gesellschaftliche Umfrage.",
+  "evidence_quality": "gut für eine vorsichtige Namensbeschreibung, aber überwiegend lexikonartig und nicht repräsentativ für eine breite Meinungsumfrage",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Caroline",
+  "normalized_name": "caroline",
+  "overall_resonance": "Caroline wird in der vorliegenden Evidenz überwiegend als klassischer, international anschlussfähiger und eher positiv konnotierter Vorname beschrieben. Die öffentliche Wahrnehmung wirkt sachlich bis freundlich, mit Fokus auf Herkunft, Bedeutung und traditioneller Verankerung.",
+  "practical_notes": [
+    "Für Suchmaschinen- und Lexikoneinträge eignet sich eine knappe Einordnung als klassischer, traditionsreicher Mädchenname.",
+    "Die Bedeutung und Herkunft sind in den Quellen relativ präsent und tragen stark zur Wahrnehmung bei.",
+    "Die Schreibweise ist klar und im deutschen Kontext gut verständlich."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt vor allem aus Namenslexika und wirkt daher eher beschreibend als breit gesellschaftlich erhoben.",
+    "Positive Einordnung und Beliebtheitsangaben sollten nicht als harte Sozialmessung verstanden werden.",
+    "Keine Hinweise auf soziale Stigmatisierung in der vorliegenden Evidenz."
+  ],
+  "short_summary": "Caroline wirkt öffentlich als klassischer, eher positiv besetzter Vorname mit traditioneller Herkunft und guter Bekanntheit in Deutschland. Die Evidenz ist solide, aber vor allem lexikonbasiert.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Caroline � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/C/Ca/Caroline/"
+    },
+    {
+      "confidence": 0.94,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Caroline: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Caroline.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "elegant",
+    "zeitlos",
+    "international verständlich",
+    "historisch geprägt",
+    "leicht formell"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Im deutschsprachigen Raum ist der Name bekannt und gut einordbar; die Evidenz deutet auf eine solide, aber nicht unbedingt trenddominante Präsenz hin."
+}

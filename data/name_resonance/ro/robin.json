@@ -1,0 +1,71 @@
+{
+  "associations": [
+    "Koseform von Robert",
+    "Bedeutung im Sinne von Ruhm/Glanz",
+    "Rotkehlchen als Sprachassoziation",
+    "deutschsprachig gut bekannt",
+    "international verbreitet",
+    "in Deutschland eher geläufig",
+    "Unisex-Nutzung"
+  ],
+  "confidence": 0.89,
+  "display_text": "Robin wirkt in der öffentlichen Wahrnehmung überwiegend positiv: vertraut, international verständlich und eher zeitlos. In den Quellen wird der Name mit Koseform von Robert, Ruhm/Glanz und teils mit Unisex-Nutzung verbunden. Die Evidenz ist allerdings vor allem beschreibend und stammt überwiegend aus Namenslexika, nicht aus breiter Diskussion.",
+  "evidence_quality": "mittel bis gut; überwiegend lexikalische/namenskundliche Quellen, wenig echte Diskurs-Evidenz",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Robin",
+  "normalized_name": "robin",
+  "overall_resonance": "Robin wird in den vorliegenden Quellen überwiegend positiv und eher alltagstauglich wahrgenommen: ein vertrauter, international verständlicher Vorname mit klassischer Namensherkunft und moderner Unisex-Komponente. In Deutschland wird er häufig als geläufig und sympathisch beschrieben, ohne starke Polarisierung.",
+  "practical_notes": [
+    "Wirkt vertraut und leicht zugänglich.",
+    "Eignet sich gut, wenn ein moderner, aber nicht auffälliger Name gesucht wird.",
+    "Durch die internationale Bekanntheit ist die Aussprache meist unkompliziert.",
+    "Die öffentliche Resonanz erscheint insgesamt stabil und eher wertschätzend."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz besteht vor allem aus Namenslexika und beschreibenden Seiten, also nur eingeschränkt aus echter öffentlicher Diskussion.",
+    "Die Zuordnung als Unisex-Name ist vorhanden, in Deutschland aber je nach Quelle unterschiedlich gewichtet; das sollte nicht überinterpretiert werden.",
+    "Es liegen keine Hinweise auf soziale Stigmatisierung oder negative Namensklischees in den Daten vor."
+  ],
+  "short_summary": "Robin wird öffentlich meist positiv, freundlich und vertraut wahrgenommen. Der Name gilt als international bekannt, in Deutschland geläufig und eher zeitlos als trendig.",
+  "source_count": 3,
+  "sources": [
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "Vorname Robin � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/R/Ro/Robin/"
+    },
+    {
+      "confidence": 0.99,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "Vorname Robin � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/R/Ro/Robin/"
+    },
+    {
+      "confidence": 0.91,
+      "is_name_discussion": true,
+      "sentiment": "mostly positive",
+      "source_type": "web",
+      "title": "&#9655; Vorname Robin: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Robin.html"
+    }
+  ],
+  "style_effect": [
+    "informativ",
+    "zeitlos",
+    "international verständlich",
+    "freundlich",
+    "moderat modern",
+    "leicht unisex"
+  ],
+  "usable_evidence_count": 3,
+  "visibility": "mittel bis hoch"
+}

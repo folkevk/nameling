@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "Kurz- und Koseform von Thomas",
+    "aramäische Herkunft",
+    "Bedeutung: der Zwilling",
+    "männlicher Vorname",
+    "Namenstag",
+    "in Deutschland eher selten bis moderat verbreitet"
+  ],
+  "confidence": 0.9,
+  "display_text": "Tommy wird öffentlich meist als freundliche, lockere Kurzform von Thomas wahrgenommen. Die Namensdarstellung ist überwiegend neutral und informativ, ohne klare negative Stigmatisierung. In Deutschland wirkt der Name eher vertraut als offiziell und ist laut den Quellen eher mäßig verbreitet.",
+  "evidence_quality": "hoch bis mittel: zwei klare namenskundliche Quellen mit überwiegend konsistenter, neutraler Beschreibung; vereinzelte kommentarbasierten Elemente mit begrenzter Aussagekraft.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Tommy",
+  "normalized_name": "tommy",
+  "overall_resonance": "Tommy wird in der deutschsprachigen Namensrezeption überwiegend als freundliche, unkomplizierte und eher informelle Kurzform wahrgenommen. Die öffentliche Darstellung ist meist sachlich-lexikalisch und nicht stark polarisiert.",
+  "practical_notes": [
+    "Für eine öffentliche Namenssuche eignet sich Tommy als klar verständlicher, leicht zugänglicher Name.",
+    "Der Name wirkt eher vertraut als distanziert oder sehr offiziell.",
+    "Wer eine klassische Vollform bevorzugt, denkt meist an Thomas als zugrunde liegende Form."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Es gibt keine starke negative Stigmatisierung in den vorliegenden Quellen.",
+    "Die Wahrnehmung als Koseform kann je nach Kontext als weniger formell empfunden werden.",
+    "Die Evidenz ist überwiegend sachlich; einzelne kommentarbasierten Hinweise sind nur begrenzt repräsentativ."
+  ],
+  "short_summary": "Tommy wird in Deutschland meist freundlich, locker und als Kurzform von Thomas wahrgenommen; die Rezeption ist überwiegend neutral bis leicht positiv.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Tommy � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/T/To/Tommy/"
+    },
+    {
+      "confidence": 0.95,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Tommy: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Tommy.html"
+    }
+  ],
+  "style_effect": [
+    "kurz und locker",
+    "umgangssprachlich bis vertraut",
+    "jugendlich wirkend",
+    "englisch geprägt",
+    "Koseform-Charakter"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Im deutschsprachigen Raum bekannt, aber laut den Quellen eher nicht extrem verbreitet; die Sichtbarkeit wirkt solide, ohne stark modischen oder sehr exklusiven Eindruck."
+}

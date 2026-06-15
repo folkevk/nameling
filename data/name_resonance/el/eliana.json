@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "Bedeutungen wie „mein Gott hat geantwortet“ bzw. „mein Gott ist Jahwe“",
+    "mögliche Deutung „Tochter der Sonne“ bzw. „die Sonne“",
+    "hebräische bzw. biblische Bezüge",
+    "Variante/Verwandtschaft zu Eliane bzw. weibliche Form von Elias",
+    "Namenstag am 17. November",
+    "in den Quellen als in mehreren Ländern bekannt beschrieben"
+  ],
+  "confidence": 0.82,
+  "display_text": "Eliana wirkt in Deutschland eher sanft, modern und international. Die Quellen beschreiben den Namen überwiegend positiv und informativ, mit Bedeutungen rund um „mein Gott hat geantwortet“, „mein Gott ist Jahwe“ und teils „Tochter der Sonne“. Die Evidenz ist solide für Herkunft und Namensdeutung, aber begrenzt für eine breite öffentliche Wahrnehmung.",
+  "evidence_quality": "mittel: zwei spezialisierte Namensquellen, überwiegend informativ und neutral bis positiv, aber wenig breite öffentliche Diskussion",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Eliana",
+  "normalized_name": "eliana",
+  "overall_resonance": "Eliana wird in den vorliegenden Quellen überwiegend freundlich, modern und international wahrgenommen. Der Name wirkt eher sanft und klangvoll als auffällig oder polarisierend, mit positivem Namenslexikon-Ton.",
+  "practical_notes": [
+    "Für Suchende wirkt Eliana meist angenehm, vertraut und international verständlich.",
+    "Der Name hat eine eher positive, ruhige Klangwirkung.",
+    "In Deutschland scheint er präsent, aber nicht übermäßig häufig zu sein.",
+    "Für eine öffentliche Resonanzkarte ist die Datenlage eher gut für Herkunft und Bedeutung, aber begrenzt für Alltagsimage oder echte Breitenwahrnehmung."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist relativ schmal und stützt sich hauptsächlich auf zwei Namenslexikon-Seiten.",
+    "Es gibt keine breite öffentliche Debatte oder viele unterschiedliche Stimmen zur Wahrnehmung des Namens.",
+    "Die genannten Bedeutungen und Herkunftsdeutungen sind namenkundliche Angaben, keine gesicherten Eigenschaften des Namens im Alltag."
+  ],
+  "short_summary": "Eliana wird in den verfügbaren Quellen überwiegend positiv, sanft und international wahrgenommen. Die Namensdeutung ist klar namenskundlich geprägt; die öffentliche Diskussion ist jedoch eher schmal.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.94,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Eliana � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/E/El/Eliana/"
+    },
+    {
+      "confidence": 0.91,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Eliana: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Eliana.html"
+    }
+  ],
+  "style_effect": [
+    "weich und melodisch",
+    "modern-international",
+    "elegant und feminin",
+    "eher freundlich als kantig",
+    "namenskundlich klar einordenbar"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland wirkt Eliana eher bekannt, aber nicht extrem verbreitet. Die öffentliche Sichtbarkeit scheint vor allem über Namensportale und Namenskundeseiten zu laufen, nicht über breite Alltagsdiskussionen."
+}

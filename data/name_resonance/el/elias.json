@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "Bedeutung: „(mein) Gott ist Jahwe“",
+    "hebräische Herkunft",
+    "biblischer Bezug, oft mit Elias/Elija verbunden",
+    "latinisierte Schreibweise",
+    "Namenstag",
+    "in Deutschland sehr beliebt",
+    "modern und zugleich vertraut"
+  ],
+  "confidence": 0.95,
+  "display_text": "Elias hat in Deutschland eine sehr hohe Sichtbarkeit und wird überwiegend positiv aufgenommen. Die Quellen beschreiben den Namen als hebräisch-biblisch, mit der Bedeutung „(mein) Gott ist Jahwe“, und zugleich als sehr beliebt sowie modern und vertraut. Die Angaben stammen aus namenskundlichen Portalen und spiegeln daher vor allem die öffentliche Namensbeschreibung und Beliebtheit wider.",
+  "evidence_quality": "hoch: zwei klare namenskundliche Webquellen mit direkter Diskussion des Vornamens, konsistent positiver Ton und übereinstimmende Angaben zu Herkunft, Bedeutung und Beliebtheit.",
+  "generated_at": "2026-06-12T06:08:03Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Elias",
+  "normalized_name": "elias",
+  "overall_resonance": "Überwiegend positiv und etabliert; der Name wird in der deutschsprachigen Namenslandschaft klar wahrgenommen und häufig als modern-biblisch mit breiter Akzeptanz beschrieben.",
+  "practical_notes": [
+    "Für die öffentliche Wahrnehmung wirkt Elias meist leicht zugänglich, traditionsverbunden und positiv konnotiert.",
+    "Der Name ist gut bekannt und braucht in der Regel wenig Erklärung, kann aber über die religiöse Herkunft zusätzlich eingeordnet werden."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Wahrnehmung in den Quellen kann durch populäre Namensportale mitgeprägt sein; das ist eher eine Markt- als eine Kulturmessung.",
+    "Beliebtheitsaussagen sollten als Quellenbeschreibung verstanden werden, nicht als allgemeingültige gesellschaftliche Bewertung."
+  ],
+  "short_summary": "Elias wird in Deutschland überwiegend positiv, sehr bekannt und als biblisch-hebräisch geprägter, moderner Spitzenname wahrgenommen.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.99,
+      "is_name_discussion": true,
+      "sentiment": "positive",
+      "source_type": "web",
+      "title": "Vorname Elias � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/E/El/Elias/"
+    },
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "positive",
+      "source_type": "web",
+      "title": "&#9655; Vorname Elias: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Elias.html"
+    }
+  ],
+  "style_effect": [
+    "biblisch",
+    "hebräisch geprägt",
+    "klassisch und zugleich modern",
+    "kurz und klangstark",
+    "traditionsnah",
+    "namenskundlich gut erklärbar"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Sehr hoch in Deutschland; in den Quellen als sehr beliebt bzw. beliebter Spitzenreiter erwähnt."
+}

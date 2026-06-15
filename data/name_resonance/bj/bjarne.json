@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "altnordische Herkunft",
+    "dänische/norwegische Form von Bjarni",
+    "Bedeutung: „der Bär“ bzw. „der kleine Bär“",
+    "männlicher Vorname",
+    "Namenslexikon-Kontext",
+    "in Deutschland seit einigen Jahren häufiger"
+  ],
+  "confidence": 0.77,
+  "display_text": "Bjarne wirkt im deutschsprachigen Raum skandinavisch, eigenständig und eher positiv konnotiert. Die öffentlichen Quellen beschreiben den Namen vor allem über Herkunft, Bedeutung und zunehmende Bekanntheit; belastbare Alltagsresonanz ist nur begrenzt belegt.",
+  "evidence_quality": "mittel: zwei namenskundliche Webquellen, überwiegend redaktionell/lexikalisch, kaum unabhängige öffentliche Diskussion",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Bjarne",
+  "normalized_name": "bjarne",
+  "overall_resonance": "Bjarne wird im deutschsprachigen Raum überwiegend sachlich bis leicht positiv wahrgenommen. Der Name wirkt skandinavisch, ungewöhnlich genug, um aufzufallen, aber in Namenslexika klar etabliert.",
+  "practical_notes": [
+    "Für eine Namenssuche eignet sich Bjarne gut, wenn ein klar nordisch geprägter, ungewöhnlicher Jungenname gesucht wird.",
+    "Die Schreibweise kann für manche ungewohnt sein, bleibt aber einfach lesbar und aussprechbar.",
+    "Die Datenlage zur öffentlichen Resonanz ist begrenzt; die Einschätzung basiert vor allem auf Herkunfts- und Bedeutungsangaben."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt fast nur aus Namenslexika; echte öffentliche Debatten oder breite Alltagswahrnehmung sind nur indirekt sichtbar.",
+    "Mögliche Positiveffekte durch den nordischen Klang sollten nicht als allgemeine Tatsache über alle Träger verstanden werden."
+  ],
+  "short_summary": "Bjarne wird in Deutschland eher freundlich und sachlich wahrgenommen: skandinavisch, eigenständig und mit der Bedeutung „Bär“.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.95,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Bjarne � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/B/Bj/Bjarne/"
+    },
+    {
+      "confidence": 0.89,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Bjarne: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Bjarne.html"
+    }
+  ],
+  "style_effect": [
+    "skandinavisch",
+    "traditionell-nordisch",
+    "eigenständig",
+    "naturverbunden wirkend",
+    "selten, aber vertraut",
+    "lexikalisch gut einordbar"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Mittlere Sichtbarkeit in Deutschland: bekannt als Vorname, aber nicht massenhaft verbreitet. Die öffentliche Wahrnehmung wirkt eher informativ als kontrovers."
+}

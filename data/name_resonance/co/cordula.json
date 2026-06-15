@@ -1,0 +1,63 @@
+{
+  "associations": [
+    "lateinische Herkunft",
+    "mögliche Bedeutung: die Spätgeborene",
+    "mögliche Bedeutung: das Herzchen / die Herzliche",
+    "selten in Deutschland",
+    "historische Verbreitung über die Heilige Cordula",
+    "Namenstag am 22. Oktober",
+    "Spitzname: Cordi",
+    "kulturelle Anspielung durch 'Cordula Grün'"
+  ],
+  "confidence": 0.84,
+  "display_text": "Cordula wird überwiegend sachlich-neutral bis leicht positiv wahrgenommen: traditionell, selten und mit eher warmen, klassischen Assoziationen. Die öffentliche Resonanz ist jedoch nur begrenzt belegbar, da die Quellen vor allem namenskundliche Lexikonseiten sind.",
+  "evidence_quality": "mittel: gute namenskundliche Basis, aber nur begrenzte direkte Publikumsresonanz",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Cordula",
+  "normalized_name": "cordula",
+  "overall_resonance": "Cordula wird in den vorliegenden Quellen überwiegend sachlich-neutral und leicht positiv wahrgenommen. Der Name wirkt traditionell, eher selten und klar historisch geprägt, mit einigen warmen Assoziationen rund um Bedeutung, Namensherkunft und Namenstag. Die öffentliche Resonanzbasis ist jedoch begrenzt, da die Evidenz vor allem aus namenskundlichen Lexikonseiten besteht.",
+  "practical_notes": [
+    "Für Suchende wirkt Cordula klar weiblich, traditionell und gut einordenbar.",
+    "Der Name ist bekannt, aber eher selten; das kann ihn markant machen.",
+    "Die Wirkung ist eher freundlich und klassisch als modern oder trendig."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Bedeutungsetymologie ist in den Quellen nicht vollständig gesichert und teils nur als mögliche Deutung angegeben.",
+    "Die Resonanz ist nur eingeschränkt öffentlich messbar, weil die Evidenz überwiegend aus Lexikon- und Infoseiten besteht.",
+    "Einzelne kulturbezogene Bezüge sind nicht automatisch repräsentativ für die allgemeine Wahrnehmung."
+  ],
+  "short_summary": "Cordula wirkt traditionell, selten und leicht warm in der Wahrnehmung. Die öffentliche Resonanz ist eher neutral bis positiv, aber die Evidenz ist vor allem lexikalisch und nicht breit repräsentativ.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Cordula � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/C/Co/Cordula/"
+    },
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "mixed",
+      "source_type": "web",
+      "title": "&#9655; Vorname Cordula: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Cordula.html"
+    }
+  ],
+  "style_effect": [
+    "traditionell",
+    "klassisch-historisch",
+    "selten",
+    "namenskundlich",
+    "leicht warm/lieblich",
+    "leicht altmodisch"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "eher gering bis mittel"
+}

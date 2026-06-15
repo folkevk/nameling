@@ -1,0 +1,63 @@
+{
+  "associations": [
+    "französische Form von Daniela",
+    "hebräisch/biblischer Ursprung",
+    "Bedeutung: Gott ist mein Richter",
+    "weiblicher Vorname",
+    "eher selten in Deutschland",
+    "Namenstag wird genannt",
+    "Kurzformen wie Dani oder Dany"
+  ],
+  "confidence": 0.86,
+  "display_text": "Danielle wirkt in Deutschland eher selten, aber vertraut: ein klassisch-französisch klingender, weiblicher Vorname mit klarer, meist neutral bis leicht positiver Resonanz. Die vorhandenen Quellen betonen Herkunft, Bedeutung und Namenstag; die Evidenz ist jedoch eher lexikalisch als breit öffentlich.",
+  "evidence_quality": "mittel: zwei Namenslexika mit klarer Namensbeschreibung, aber kaum echte öffentliche Diskussionsbeiträge.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Danielle",
+  "normalized_name": "danielle",
+  "overall_resonance": "Eher neutral bis leicht positiv: Danielle wird in den Quellen als klassischer, international geprägter weiblicher Vorname beschrieben, mit klarer Namensbedeutung und meist sachlich-positiver Konnotation.",
+  "practical_notes": [
+    "Der Name wirkt vertraut, aber nicht alltäglich.",
+    "Durch die französische Form kann er als etwas eleganter oder international wahrgenommen werden.",
+    "In deutschsprachigem Umfeld könnten Aussprache und Schreibweise kurz erklärt werden müssen, sind aber insgesamt gut verständlich."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist begrenzt und stammt vor allem aus Namenslexika statt aus breiter öffentlicher Debatte.",
+    "Ein möglicher Eindruck von Verwechslung mit dem männlichen Namen Daniel wird erwähnt, ist aber keine negative Stigmatisierung.",
+    "Keine belastbaren Hinweise auf starke soziale Vorurteile oder problematische Konnotationen."
+  ],
+  "short_summary": "Danielle wird in Deutschland eher selten, aber gut verständlich wahrgenommen: klassisch, französisch geprägt und überwiegend neutral bis positiv konnotiert.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.95,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Danielle � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/D/Da/Danielle/"
+    },
+    {
+      "confidence": 0.89,
+      "is_name_discussion": true,
+      "sentiment": "mostly positive",
+      "source_type": "web",
+      "title": "&#9655; Vorname Danielle: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Danielle.html"
+    }
+  ],
+  "style_effect": [
+    "französisch-klingend",
+    "klassisch",
+    "weiblich",
+    "international",
+    "elegant",
+    "traditionell",
+    "sachlich bekannt"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland eher selten bis moderat sichtbar; der Name ist bekannt, aber nicht stark verbreitet. Die öffentliche Wahrnehmung wirkt daher eher unaufgeregt als modeprägend."
+}

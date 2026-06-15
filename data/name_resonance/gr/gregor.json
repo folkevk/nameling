@@ -1,0 +1,62 @@
+{
+  "associations": [
+    "altgriechische Herkunft",
+    "Bedeutung: \"der Wachsame\"",
+    "auch gedeutet als \"in Erwartung Gottes\"",
+    "christlich-historische Bezüge",
+    "Namenstag",
+    "klassischer Vorname",
+    "langfristig sinkende Beliebtheit in Deutschland"
+  ],
+  "confidence": 0.89,
+  "display_text": "Gregor: klassischer, traditionsreicher Vorname mit der Bedeutung „der Wachsame“. Die öffentliche Wahrnehmung ist überwiegend sachlich und leicht positiv, mit klarer historischer und sprachlicher Verankerung; als Modename tritt er derzeit eher weniger hervor.",
+  "evidence_quality": "mittel bis gut; zwei relevante Namenslexika mit konsistenter, überwiegend sachlicher Darstellung, aber ohne breite Diskussionsbasis.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Gregor",
+  "normalized_name": "gregor",
+  "overall_resonance": "Gregor wird in der vorliegenden Evidenz überwiegend als klassischer, traditionsreicher und sachlich positiv konnotierter Vorname wahrgenommen. Die öffentliche Rezeption wirkt eher nüchtern als trendig, mit klarer Namensbedeutung und historischer Verankerung.",
+  "practical_notes": [
+    "Für die Namenssuche wirkt Gregor klar, traditionell und leicht wiedererkennbar.",
+    "Der Name hat eine gut dokumentierte Bedeutung und Herkunft, was ihn für viele Suchende attraktiv macht.",
+    "Wer einen modernen Trendnamen sucht, dürfte ihn weniger als aktuell modisch, eher als klassisch einordnen."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt vor allem aus redaktionellen Namenslexika, nicht aus breiten Community-Diskussionen.",
+    "Beliebtheitsangaben sollten vorsichtig gelesen werden; sie zeigen Tendenzen, keine gesellschaftliche Gesamtbewertung.",
+    "Keine Hinweise auf soziale Stigmatisierung in der vorliegenden Evidenz."
+  ],
+  "short_summary": "Gregor wird öffentlich vor allem als klassischer, traditionsreicher Vorname mit klarer Bedeutung und historischer Tiefe wahrgenommen. Die Tendenz wirkt eher sachlich-positiv als trendig.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Gregor � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/G/Gr/Gregor/"
+    },
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "eher positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Gregor: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Gregor.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "traditionsbewusst",
+    "sachlich",
+    "namenskundlich",
+    "leicht würdevoll",
+    "eher zeitlos als modern"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Im deutschsprachigen Raum bekannt, aber eher nicht als Modename dominierend; die Vergabe scheint laut Evidenz langfristig eher rückläufig, bleibt jedoch etabliert und gut einordenbar."
+}

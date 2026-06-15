@@ -1,0 +1,63 @@
+{
+  "associations": [
+    "Efeu",
+    "englische bzw. altenglische Herkunft",
+    "Pflanzenname",
+    "kurz und modern",
+    "selten im deutschen Sprachraum",
+    "beliebt bzw. zunehmend wahrgenommen in Deutschland",
+    "weiblich, teils auch männlich",
+    "genderneutral klingend"
+  ],
+  "confidence": 0.79,
+  "display_text": "Ivy wirkt im deutschen Sprachraum überwiegend modern, kurz und positiv konnotiert. Der Name ist eher selten, wird aber als international verständlich, modisch und mit der Efeu-Assoziation freundlich wahrgenommen. Die Datenlage ist jedoch begrenzt und stammt vor allem aus Namenslexika.",
+  "evidence_quality": "mittel bis begrenzt: zwei einschlägige Namenslexikon-Quellen, aber kaum unabhängige öffentliche Meinungsdaten oder breite Diskussionslage.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Ivy",
+  "normalized_name": "ivy",
+  "overall_resonance": "Der Vorname Ivy wird in den vorliegenden deutschsprachigen Namensquellen überwiegend als modern, kurz und klanglich angenehm beschrieben. Die öffentliche Wahrnehmung wirkt eher positiv bis neutral, mit Assoziationen an Efeu, englische Herkunft und einen modischen, teils genderneutralen Eindruck. Gleichzeitig ist die Evidenz begrenzt und stammt vor allem aus Namenslexika, nicht aus breiter öffentlicher Debatte.",
+  "practical_notes": [
+    "Für Suchmaschinen wirkt Ivy wie ein klar moderner, international verständlicher Name.",
+    "Die Seltenheit im Deutschen kann ihn markant machen, ohne ungewöhnlich schwer zugänglich zu wirken.",
+    "Die Natur- und Pflanzenassoziation unterstützt ein freundliches, leichtes Namensbild."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist auf wenige Namenslexikon-Seiten beschränkt; eine breite öffentliche Resonanz ist daher nur eingeschränkt belegbar.",
+    "Einige Angaben mischen Beschreibung, Beliebtheit und redaktionelle Einordnung.",
+    "Aussagen zur Wahrnehmung sollten deshalb als Tendenzen und nicht als gesicherte Mehrheitsmeinung gelesen werden."
+  ],
+  "short_summary": "Ivy wird im Deutschen meist als moderner, kurzer und eher positiv besetzter Vorname wahrgenommen, jedoch auf Basis begrenzter lexikalischer Evidenz.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "positive",
+      "source_type": "web",
+      "title": "Vorname Ivy � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/I/Iv/Ivy/"
+    },
+    {
+      "confidence": 0.87,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Ivy: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Ivy.html"
+    }
+  ],
+  "style_effect": [
+    "kurz und eingängig",
+    "modern und international",
+    "weich und freundlich im Klang",
+    "pflanzlich/naturbezogen durch die Efeu-Assoziation",
+    "teils genderneutral wahrgenommen",
+    "modisch, aber nicht übermäßig häufig"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Im deutschen Sprachraum eher selten, aber bekannt und auffällig modern; keine starke Massennutzung, eher ein Name mit Nischenpräsenz."
+}

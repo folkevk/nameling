@@ -1,0 +1,62 @@
+{
+  "associations": [
+    "lateinische bzw. römische Herkunft",
+    "Bedeutung: die Jungfräuliche / die Keusche",
+    "weiblicher Vorname",
+    "Namenstag",
+    "selten oder außergewöhnlich",
+    "Kurzformen wie Gina, Vivi oder Ginny"
+  ],
+  "confidence": 0.74,
+  "display_text": "Virginia wirkt in Deutschland eher klassisch, international und leicht positiv, aber nicht besonders verbreitet. Die öffentliche Resonanz ist vor allem sachlich-namenkundlich; starke negative oder stark kontroverse Bewertungen zeigen die Quellen nicht.",
+  "evidence_quality": "mittel bis schwach; überwiegend lexikalische Quellen mit begrenzter echter Resonanz",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Virginia",
+  "normalized_name": "virginia",
+  "overall_resonance": "Virginia wird in den vorliegenden deutschsprachigen Namensquellen überwiegend sachlich bis leicht positiv dargestellt. Der Name wirkt klassisch, international und eher ungewöhnlich, ohne klar negative öffentliche Aufladung. Die Evidenz ist jedoch eher namenskundlich als meinungsstark, daher nur vorsichtig interpretierbar.",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt Virginia eher elegant und traditionsnah als modern oder trendig.",
+    "Die internationale Verständlichkeit kann ein Plus sein.",
+    "Wegen der Seltenheit kann der Name in Deutschland als auffällig wahrgenommen werden.",
+    "Die Bedeutung ist sprachlich historisch geprägt; wer eine neutrale oder moderne Bedeutungswirkung sucht, sollte das mitdenken."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenzlage ist schwach bis mittel: vor allem Nachschlage- und Namensseiten, kaum echte öffentliche Debatte.",
+    "Ein Teil der positiven Wirkung stammt aus Namensbeschreibungen und nicht aus breiter Alltagsrezeption.",
+    "Keine belastbaren Hinweise auf starke Stigmatisierung; falls einzelne Vorurteile existieren, sind sie in den Quellen nicht dominant belegt."
+  ],
+  "short_summary": "Virginia wird in Deutschland eher selten, klassisch und leicht positiv wahrgenommen. Die Quellen sind überwiegend sachlich-namenkundlich, daher ist die öffentliche Resonanz nur vorsichtig belastbar.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Virginia � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/V/Vi/Virginia/"
+    },
+    {
+      "confidence": 0.87,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Virginia: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Virginia.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "international",
+    "elegant",
+    "leicht feierlich",
+    "selten/ungewöhnlich",
+    "lexikalisch geprägt"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland eher selten und dadurch auffällig, aber bekannt. Die öffentliche Sichtbarkeit entsteht vor allem durch Namenslexika, Bedeutungsseiten und Beliebtheitsangaben, weniger durch breite Diskussionen."
+}

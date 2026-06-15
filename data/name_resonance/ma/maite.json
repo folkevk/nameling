@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "baskische bzw. spanische Herkunft",
+    "Bedeutungsnähe zu Liebe / die Liebenswerte / die Geliebte",
+    "selten bis eher besonders",
+    "Namenstag",
+    "Doppelform bzw. Bezug zu Maria/Teresa in manchen Darstellungen"
+  ],
+  "confidence": 0.88,
+  "display_text": "Maite wirkt in den vorliegenden Quellen freundlich, warm und positiv besetzt. Der Name wird meist mit baskisch-spanischer Herkunft, Liebe und einer eher seltenen, eigenständigen Ausstrahlung verbunden.",
+  "evidence_quality": "mittel bis gut; zwei einschlägige Namenslexikon-Quellen, aber kaum unabhängige öffentliche Breitenwahrnehmung.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Maite",
+  "normalized_name": "maite",
+  "overall_resonance": "Überwiegend positiv und freundlich klingend, mit klarer Namensbedeutung und herkunftsbezogener Attraktivität. In den vorliegenden Quellen wird Maite meist als liebevoll, selten und stilistisch eigenständig beschrieben.",
+  "practical_notes": [
+    "Für Suchmaschinen- und Ratgebertexte eignet sich Maite gut als Name mit positiver Bedeutungsaufladung.",
+    "Der Name wirkt im Deutschen eher ungewöhnlich, aber gut aussprechbar und freundlich.",
+    "Keine Hinweise auf gesellschaftliche Stigmatisierung in den vorliegenden Quellen.",
+    "Bei der Einordnung sollte erwähnt werden, dass die Datenlage schmal ist und vor allem aus Nachschlagequellen stammt."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz basiert fast ausschließlich auf Namenslexika; eine breite öffentliche Debatte ist nicht erkennbar.",
+    "Einzelne Community- oder Kommentarhinweise sind nur begrenzt belastbar.",
+    "Die Wahrnehmung als 'besonders' oder 'selten' ist quellenabhängig und nicht als allgemeingültig zu verstehen."
+  ],
+  "short_summary": "Maite wird in den Quellen überwiegend positiv, warm und bedeutungsstark dargestellt. Der Name gilt als eher selten, mit baskisch-spanischer Prägung und einem liebevollen Bedeutungsfeld.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "Vorname Maite � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/M/Ma/Maite/"
+    },
+    {
+      "confidence": 0.9,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Maite: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Maite.html"
+    }
+  ],
+  "style_effect": [
+    "weich",
+    "warm",
+    "modern mit internationalem Klang",
+    "kurz und einprägsam",
+    "leicht exotisch im deutschen Kontext",
+    "wertig durch Bedeutungsbezug auf Liebe"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Im deutschsprachigen Raum eher bekannt, aber nicht massenhaft verbreitet; die öffentliche Wahrnehmung wirkt vor allem lexikalisch-informativ statt debattiert."
+}

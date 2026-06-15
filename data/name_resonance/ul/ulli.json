@@ -1,0 +1,69 @@
+{
+  "associations": [
+    "Kurzform von Ulrich oder Ulrike",
+    "althochdeutsche Herkunft",
+    "Bedeutung im Sinn von 'mächtiger/reicher Erbe' bzw. 'Erbin'",
+    "Unisex-Name",
+    "eher selten in Deutschland",
+    "Namenslexikon- und Bedeutungskontext"
+  ],
+  "confidence": 0.89,
+  "display_text": "Ulli wird meist als kurze, seltene und sachlich wahrgenommene Namensform beschrieben. Die Quellen verbinden den Namen vor allem mit Ulrich/Ulrike, althochdeutscher Herkunft und einer eher klassischen Bedeutungsdeutung. Die öffentliche Resonanz ist insgesamt neutral bis leicht positiv; belastbare Hinweise auf starke Vorurteile oder kontroverse Rezeption gibt es nicht.",
+  "evidence_quality": "mittel bis gut, aber überwiegend lexikonartig und nicht stark diskussionsbasiert",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Ulli",
+  "normalized_name": "ulli",
+  "overall_resonance": "Ulli wird in den vorliegenden Quellen vor allem als kurze, sachliche und eher seltene Namensform wahrgenommen. Die öffentliche Resonanz wirkt insgesamt neutral bis leicht positiv, mit stärkerem Fokus auf Herkunft und Bedeutung als auf eine breite Alltagsdebatte.",
+  "practical_notes": [
+    "Für formelle Kontexte kann Ulli sehr kurz und freundlich wirken, aber auch etwas informell oder nickname-artig.",
+    "Die Schreibweise ist unkompliziert und gut merkbar.",
+    "Wer einen deutlich klassischen Vollnamen erwartet, könnte Ulli eher als Kurzform interpretieren."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist begrenzt und stammt überwiegend aus Namenslexika statt aus breiter öffentlicher Diskussion.",
+    "Eine mögliche Wahrnehmung als Spitzname/Koseform ist naheliegend, aber nicht als feste Eigenschaft zu verallgemeinern.",
+    "Es gibt keine belastbaren Hinweise auf starke gesellschaftliche Stigmatisierung oder besonders kontroverse Reaktionen."
+  ],
+  "short_summary": "Ulli wirkt öffentlich vor allem als kurze, seltene und eher neutrale bis leicht positiv konnotierte Namensform mit klarer Kurzform- und Herkunftsassoziation.",
+  "source_count": 3,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Ulli � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/U/Ul/Ulli/"
+    },
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Ulli � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/U/Ul/Ulli/"
+    },
+    {
+      "confidence": 0.88,
+      "is_name_discussion": true,
+      "sentiment": "mostly neutral to mildly positive",
+      "source_type": "web",
+      "title": "&#9655; Vorname Ulli: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Ulli.html"
+    }
+  ],
+  "style_effect": [
+    "kurz",
+    "umgangssprachlich/kosehaft",
+    "unisex wahrnehmbar",
+    "lexikalisch geprägt",
+    "eher selten",
+    "klassisch-deutsch im Klang"
+  ],
+  "usable_evidence_count": 3,
+  "visibility": "In Deutschland scheint Ulli eher wenig verbreitet zu sein und taucht vor allem in namenskundlichen Einträgen auf. Als öffentlicher Eindruck ist der Name sichtbar, aber nicht stark medial oder gesellschaftlich aufgeladen."
+}

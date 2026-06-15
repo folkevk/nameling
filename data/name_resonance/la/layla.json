@@ -1,0 +1,63 @@
+{
+  "associations": [
+    "arabischer Ursprung",
+    "Bedeutung: Nacht/Dunkelheit",
+    "mögliche Deutung in Richtung Flieder/Lila",
+    "klassische Erzählung 'Layla und Madschnun'",
+    "Beliebtheit in Deutschland",
+    "Alternative Schreibweisen: Laila, Leila",
+    "popkultureller Bezug durch den Song 'Layla'"
+  ],
+  "confidence": 0.91,
+  "display_text": "Layla wirkt in deutschen Namensquellen überwiegend positiv: klangvoll, modern und international. Häufig genannt werden die arabische Herkunft und Bedeutungen rund um Nacht/Dunkelheit; dazu kommen Varianten wie Laila oder Leila und ein bekannter Songbezug. Die Evidenz ist solide, aber vor allem auf wenige namenkundliche Online-Quellen gestützt.",
+  "evidence_quality": "Gut für eine vorsichtige Einordnung, aber thematisch eng: vor allem namenkundliche Online-Quellen mit klarer Tendenz, jedoch keine breite repräsentative Medien- oder Umfragebasis.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Layla",
+  "normalized_name": "layla",
+  "overall_resonance": "Layla wird in den vorliegenden deutschsprachigen Namensquellen insgesamt freundlich und überwiegend positiv wahrgenommen. Der Name wirkt klangvoll, modern und zugleich international bzw. arabisch geprägt. Neben der Namensbedeutung werden vor allem Herkunft, Varianten und kulturelle Bezüge betont; vereinzelt erscheint auch ein popkultureller Songbezug, der die Wahrnehmung leicht gemischt, aber nicht negativ macht.",
+  "practical_notes": [
+    "Für die Namenssuche wirkt Layla vertraut, weich und gut einprägsam.",
+    "Die Schreibweise kann je nach Kontext variieren (Layla, Laila, Leila).",
+    "Die Bedeutung und Herkunft werden in Quellen häufig genannt, was den Namen für viele suchende Nutzer attraktiv macht."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt überwiegend aus wenigen Namenslexikon-Quellen und ist daher in ihrer Breite begrenzt.",
+    "Der Songbezug kann die Wahrnehmung mitprägen, ist aber keine feste Eigenschaft des Namens.",
+    "Keine Hinweise auf soziale Stigmatisierung in den Quellen; falls im Alltag Vorurteile auftauchen, wären das gesellschaftliche Zuschreibungen und keine Eigenschaft des Namens selbst."
+  ],
+  "short_summary": "Layla wird im deutschen Sprachraum meist positiv, klangvoll und modern wahrgenommen, mit arabischer Herkunft und Bedeutungen rund um Nacht/Dunkelheit; vereinzelt gibt es popkulturelle Bezüge, die die Wirkung leicht mischen.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "positive",
+      "source_type": "web",
+      "title": "Vorname Layla � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/L/La/Layla/"
+    },
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "mixed",
+      "source_type": "web",
+      "title": "&#9655; Vorname Layla: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Layla.html"
+    }
+  ],
+  "style_effect": [
+    "klangvoll",
+    "modern",
+    "weich",
+    "international",
+    "weiblich",
+    "namenkundlich geprägt",
+    "leicht romantisch assoziiert"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Im deutschen Namensumfeld ist Layla gut sichtbar und bekannt, besonders durch Namenslexika und Beliebtheitsdebatten. Die Evidenz deutet auf eine solide öffentliche Präsenz hin, allerdings vor allem innerhalb namenkundlicher und informeller Online-Quellen."
+}

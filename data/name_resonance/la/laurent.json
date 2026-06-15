@@ -1,0 +1,62 @@
+{
+  "associations": [
+    "französische Form von Laurentius",
+    "lateinische Herkunft",
+    "Lorbeer / Lorbeerkranz",
+    "Bedeutung im Sinn von Herkunftsname bzw. Lorbeer-Bezug",
+    "männlicher Vorname",
+    "Namenstag wird teils genannt",
+    "im deutschen Kontext eher international als gängig"
+  ],
+  "confidence": 0.84,
+  "display_text": "Laurent wirkt im deutschen Kontext eher selten, klassisch und international mit französischem Klang. Die öffentliche Rezeption ist überwiegend neutral bis positiv; der Name wird meist mit der lateinischen Wurzel und dem Lorbeer-Bezug verbunden.",
+  "evidence_quality": "mittel: zwei thematisch passende Namensquellen, überwiegend neutral bis positiv, aber begrenzte Breite der Evidenz.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Laurent",
+  "normalized_name": "laurent",
+  "overall_resonance": "Laurent wird im deutschsprachigen Kontext überwiegend als klassisch-internationaler, französisch geprägter Jungenname wahrgenommen. Die öffentliche Rezeption wirkt eher sachlich bis positiv, ohne starke emotionale Aufladung.",
+  "practical_notes": [
+    "Für Suchmaschinen-Nutzung eignet sich die Kurzbeschreibung als 'französisch, klassisch, international'.",
+    "Im deutschen Raum kann der Name wegen seiner Seltenheit als besonders markant erscheinen.",
+    "Die Bedeutung wird meist mit Lorbeer und der lateinischen Namenswurzel verbunden."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenzbasis ist klein und stützt sich im Wesentlichen auf Namenslexika und eine wenige Quellen umfassende öffentliche Darstellung.",
+    "Positive oder negative Wertungen sind eher schwach ausgeprägt; die Wahrnehmung bleibt vor allem beschreibend.",
+    "Keine belastbaren Hinweise auf soziale Stigmatisierung oder klare Vorurteile in den vorliegenden Quellen."
+  ],
+  "short_summary": "Laurent wird in Deutschland als seltener, französisch klingender und klassisch-internationaler Jungenname wahrgenommen, meist neutral bis positiv.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Laurent � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/L/La/Laurent/"
+    },
+    {
+      "confidence": 0.88,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Laurent: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Laurent.html"
+    }
+  ],
+  "style_effect": [
+    "französisch-klingend",
+    "elegant",
+    "klassisch",
+    "international",
+    "namenskundlich vertraut",
+    "eher selten"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Eher selten in Deutschland und deshalb nicht sehr alltagspräsent; er wirkt eher auffällig als verbreitet."
+}

@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "Meer",
+    "lateinischer bzw. römischer Ursprung",
+    "französische Nebenform von Marinus",
+    "Namenstag",
+    "männlicher Vorname",
+    "in manchen Darstellungen auch als weibliche Variante eingeordnet"
+  ],
+  "confidence": 0.78,
+  "display_text": "Marin wirkt in Deutschland überwiegend neutral bis positiv: kurz, klangvoll, international und oft mit dem Meer verbunden. Die öffentliche Evidenz ist allerdings begrenzt und stammt vor allem aus namenskundlichen Quellen.",
+  "evidence_quality": "Begrenzt, aber thematisch passend: zwei namenskundliche Webquellen mit überwiegend neutraler bis leicht positiver Darstellung; keine breite Diskussionslage.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Marin",
+  "normalized_name": "marin",
+  "overall_resonance": "Die öffentliche Resonanz auf den Vornamen Marin wirkt in Deutschland insgesamt eher positiv bis neutral: Der Name wird vor allem sachlich als kurz, klangvoll und international wahrgenommen, mit der häufig genannten Assoziation zum Meer. Die Evidenz ist jedoch begrenzt und stützt sich vor allem auf wenige Namenslexikon-Seiten.",
+  "practical_notes": [
+    "Für Suchende ist Marin meist als kurzer, international verständlicher Name präsent.",
+    "Die Bedeutung mit Bezug zum Meer prägt die Wahrnehmung deutlich.",
+    "In Deutschland kann es je nach Umfeld zu Rückfragen zur Aussprache oder Einordnung kommen."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist schmal und basiert vor allem auf einzelnen Namensseiten.",
+    "Es gibt Hinweise auf mögliche Aussprache- oder Verwechslungsfragen im deutschen Sprachraum.",
+    "Keine belastbare Aussage über allgemeine gesellschaftliche Bewertung oder Verbreitung aus dieser Evidenz allein."
+  ],
+  "short_summary": "Marin wird in Deutschland meist als kurzer, klangvoller und eher internationaler Vorname mit Meeresbezug wahrgenommen. Die Resonanz ist überwiegend neutral bis positiv, die Datenlage aber begrenzt.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.95,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Marin � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/M/Ma/Marin/"
+    },
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "überwiegend positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Marin: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Marin.html"
+    }
+  ],
+  "style_effect": [
+    "kurz und prägnant",
+    "klangvoll",
+    "international",
+    "namenskundlich",
+    "eher modern wirkend"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Mittlere Sichtbarkeit in namenskundlichen und lexikalischen Quellen; keine breite öffentliche Debatte erkennbar."
+}

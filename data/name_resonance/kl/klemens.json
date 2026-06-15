@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "lateinische Herkunft",
+    "Bedeutung in Richtung 'gnädig' oder 'mild'",
+    "deutsche Schreibweise von Clemens",
+    "Namenstag",
+    "selten bis moderat verbreitet",
+    "teils als etwas altbacken beschrieben"
+  ],
+  "confidence": 0.88,
+  "display_text": "Klemens wirkt in der öffentlichen Wahrnehmung eher traditionell, freundlich und leicht positiv. Der Name ist bekannt, aber eher selten bis moderat verbreitet. Quellen beschreiben ihn als lateinisch geprägt, mit der Bedeutung in Richtung „gnädig“ oder „mild“, teils auch als etwas altbacken. Diese Stilnote ist eine Namenseinschätzung und kein objektiver Befund.",
+  "evidence_quality": "mittel bis gut: zwei spezialisierte Namensquellen mit direkter Namensdeutung und Stilhinweisen, aber keine breite Diskurslage.",
+  "generated_at": "2026-06-13T22:17:22Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Klemens",
+  "normalized_name": "klemens",
+  "overall_resonance": "Eher traditionell und freundlich, mit leicht positiver, aber zurückhaltender öffentlicher Wahrnehmung. Der Name wirkt vor allem klassisch-namenskundlich und weniger zeitgeistig.",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt Klemens solide, klassisch und gut verständlich.",
+    "Wer einen zeitlosen, eher seltenen Vornamen sucht, findet hier eine passende Option.",
+    "Die Wahrnehmung kann je nach Umfeld zwischen traditionell und etwas altmodisch schwanken."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Einschätzung 'altbacken' ist eine stilistische Einordnung aus Namensseiten und keine objektive Eigenschaft des Namens.",
+    "Die Evidenz stammt überwiegend aus redaktionellen Namensdatenbanken, nicht aus breiter öffentlicher Debatte.",
+    "Anekdotische Kommentare sind nur begrenzt aussagekräftig für die öffentliche Gesamtwahrnehmung."
+  ],
+  "short_summary": "Klemens wird öffentlich eher klassisch, traditionell und leicht positiv wahrgenommen; die Quellen beschreiben den Namen als selten bis moderat verbreitet, mit etwas altmodischer Stilwirkung.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.94,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "Vorname Klemens � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/K/Kl/Klemens/"
+    },
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Klemens: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Klemens.html"
+    }
+  ],
+  "style_effect": [
+    "traditionell",
+    "klassisch",
+    "leicht altmodisch",
+    "sanft klingend",
+    "seriös",
+    "namenskundlich vertraut"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Im deutschsprachigen Raum bekannt, aber eher selten bis moderat verbreitet; nicht sehr prominent in aktuellen Namenslisten."
+}

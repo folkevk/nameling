@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "Kurzform von Elisabeth",
+    "hebräischer bzw. biblischer Ursprung über Elisabeth",
+    "Bedeutungsbezug zu Gottes Fülle / Gottes Zusage",
+    "deutsch und skandinavisch assoziiert",
+    "eher traditioneller Vorname",
+    "Namenstag wird in Namensquellen genannt"
+  ],
+  "confidence": 0.86,
+  "display_text": "Lisbeth gilt öffentlich meist als klassischer, traditioneller und freundlich wirkender Vorname. Die verfügbare Evidenz ist jedoch begrenzt und vor allem lexikalisch; sie zeigt keine auffälligen negativen Konnotationen, sondern eher eine neutrale bis leicht positive Resonanz.",
+  "evidence_quality": "mittel bis eher schwach: zwei klar namenskundliche Webquellen, aber geringe Breite und keine belastbare öffentliche Meinungsvielfalt",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Lisbeth",
+  "normalized_name": "lisbeth",
+  "overall_resonance": "Lisbeth wirkt in der öffentlichen Namenswahrnehmung eher klassisch, freundlich und traditionsnah. Der Name wird vor allem als eigenständige, aber auch als Kurz- oder Nebenform von Elisabeth verstanden. In der verfügbaren Evidenz erscheint er überwiegend neutral bis leicht positiv, ohne starke trendige oder belastete Konnotationen.",
+  "practical_notes": [
+    "Für Suchmaschinen und Namensportale wirkt Lisbeth klar, verständlich und klassisch.",
+    "Der Name dürfte vor allem Menschen ansprechen, die kurze traditionelle Vornamen mögen.",
+    "Als Variantenbezug zu Elisabeth sollte man ihn kontextabhängig mitdenken."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist begrenzt und stützt sich vor allem auf Namenslexika.",
+    "Die Bewertung ist deshalb vorsichtig zu lesen und nicht als breites Meinungsbild zu verstehen.",
+    "Keine Hinweise auf eine gesellschaftliche Stigmatisierung in der vorliegenden Evidenz."
+  ],
+  "short_summary": "Lisbeth wird überwiegend als klassischer, traditioneller und eher freundlich wirkender Vorname wahrgenommen, mit moderater Bekanntheit in Deutschland.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Lisbeth � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/L/Li/Lisbeth/"
+    },
+    {
+      "confidence": 0.9,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Lisbeth: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Lisbeth.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "sanft",
+    "bodenständig",
+    "traditionsnah",
+    "leicht skandinavisch anmutend",
+    "lexikalisch vertraut"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland ist Lisbeth bekannt, aber eher moderat verbreitet. Die Wahrnehmung ist eher namenkundlich-traditionell als modisch oder auffällig."
+}

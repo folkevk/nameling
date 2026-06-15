@@ -1,0 +1,62 @@
+{
+  "associations": [
+    "altgriechischer Ursprung",
+    "Bedeutung: Christusträger",
+    "deutsche Form bzw. englische Form von Christoph/Christophorus",
+    "Namenstag",
+    "lange historische Verwendung",
+    "Beliebtheit in Deutschland",
+    "Kurzformen wie Chris, Kris, Kit"
+  ],
+  "confidence": 0.87,
+  "display_text": "Christopher wirkt in Deutschland klassisch, vertraut und eher seriös als modisch. Die Quellen betonen vor allem Herkunft, Bedeutung („Christusträger“) und lange Verwendung; belastbare Hinweise auf negative öffentliche Konnotationen gibt es nicht.",
+  "evidence_quality": "gut für Bedeutung, Herkunft und Einordnung; begrenzt für echte öffentliche Meinungsresonanz, da vor allem lexikalische Quellen vorliegen.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Christopher",
+  "normalized_name": "christopher",
+  "overall_resonance": "Christopher wird in den vorliegenden Quellen überwiegend als klassischer, sachlich positiv konnotierter Vorname beschrieben. Die öffentliche Wahrnehmung wirkt eher vertraut und etabliert als auffällig oder modern-experimentell.",
+  "practical_notes": [
+    "Der Name ist leicht erkennbar und im deutschsprachigen Raum gut einordenbar.",
+    "Durch die Kurzform Chris wirkt er im Alltag oft etwas lockerer.",
+    "Die starke religiös-historische Bedeutung kann für manche positiv, für andere neutral sein."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt aus Namenslexika, nicht aus einer breiten Meinungsumfrage; die öffentliche Resonanz ist daher nur vorsichtig ableitbar.",
+    "Keine Hinweise auf gesellschaftliche Stigmatisierung oder klare negative Konnotationen in den Quellen."
+  ],
+  "short_summary": "Christopher gilt in Deutschland als klassischer, gut bekannter Vorname mit traditionell-positiver, eher sachlicher Wirkung.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.99,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Christopher � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/C/Ch/Christopher/"
+    },
+    {
+      "confidence": 0.94,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Christopher: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Christopher.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "traditionell",
+    "seriös",
+    "zeitlos",
+    "eher formell",
+    "international anschlussfähig",
+    "informell oft zu Chris verkürzt"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland gut bekannt und verständlich; der Name wirkt nicht selten, aber auch nicht trendig-exotisch. Die Evidenz spricht vor allem für eine stabile, lange verwendete Namensform."
+}

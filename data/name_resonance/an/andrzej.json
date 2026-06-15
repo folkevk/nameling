@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "polnische Form von Andreas",
+    "altgriechischer Ursprung",
+    "Bedeutungen wie „der Mannhafte“, „der Männliche“, „der Tapfere“",
+    "Namenstag am 30. November",
+    "selten in Deutschland",
+    "namenskundlich und eher formal eingeordnet"
+  ],
+  "confidence": 0.84,
+  "display_text": "Andrzej ist in Deutschland ein seltener, klar polnisch geprägter Vorname. Öffentlich wird er vor allem sachlich und leicht positiv wahrgenommen – wegen seiner traditionellen Herkunft und Bedeutungen wie „tapfer“ oder „männlich“. Die Evidenz ist allerdings vor allem lexikalisch und daher nur begrenzt repräsentativ.",
+  "evidence_quality": "mittel bis schwach: überwiegend lexikalische Namensseiten, kaum echte Diskussions- oder Publikumsresonanz",
+  "generated_at": "2026-06-14T10:47:41Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Andrzej",
+  "normalized_name": "andrzej",
+  "overall_resonance": "Andrzej wirkt in der öffentlichen Namenswahrnehmung eher sachlich, kulturell klar verortet und leicht positiv konnotiert. Der Name wird vor allem über Herkunft, Bedeutung und Namenskunde wahrgenommen, nicht über breite Alltagsresonanz in Deutschland.",
+  "practical_notes": [
+    "Für eine Namenssuche in Deutschland ist Andrzej eher eine besondere, kulturell klar erkennbare Wahl.",
+    "Wer einen vertrauten deutschen Eindruck sucht, könnte die Schreibweise als ungewohnt empfinden.",
+    "Wer einen klar polnischen Bezug und eine traditionelle Namensbedeutung schätzt, findet hier eine stimmige Option."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenzlage ist schwach für echte öffentliche Resonanz außerhalb von Namensportalen.",
+    "Es liegen kaum unabhängige Meinungen oder breitere Alltagsbezüge vor.",
+    "Positive Wirkung ergibt sich vor allem aus Bedeutung und Herkunft, nicht aus messbarer Popularität."
+  ],
+  "short_summary": "Andrzej ist in Deutschland selten und wird vor allem als polnische Form von Andreas wahrgenommen. Die öffentliche Resonanz ist eher sachlich bis leicht positiv, jedoch auf Basis wenig breiter Evidenz.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Andrzej � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/A/An/Andrzej/"
+    },
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Andrzej: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Andrzej.html"
+    }
+  ],
+  "style_effect": [
+    "klingt markant und eher ungebräuchlich im deutschen Kontext",
+    "wird stark als polnische Form von Andreas wahrgenommen",
+    "hat einen formalen, traditionsbezogenen Eindruck",
+    "die Bedeutungsassoziationen wirken eher positiv (tapfer, männlich)",
+    "durch die Seltenheit kann der Name auffallen, ohne automatisch vertraut zu wirken"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland eher selten und dadurch öffentlich wenig präsent. Die verfügbare Evidenz stammt überwiegend aus Namenslexika und Beschreibungsseiten, nicht aus echter Diskussionsresonanz."
+}

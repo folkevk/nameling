@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "männlicher Vorname",
+    "altsächsische/althochdeutsche Herkunft",
+    "Bedeutung oft als „der Gebieter“ beschrieben",
+    "teils auch Deutung als „der Bote“",
+    "Namenstag am 2. Februar",
+    "eher selten bis mäßig vergeben",
+    "älterer, traditionell wirkender Name"
+  ],
+  "confidence": 0.84,
+  "display_text": "Bodo: überwiegend neutrale, traditionsbetonte Wahrnehmung. Der Name gilt als alter deutscher Vorname, eher selten vergeben und dadurch markant. Die öffentliche Rezeption ist vor allem sachlich-namenskundlich; eine breite Meinungsstimmung ist aus der verfügbaren Evidenz nicht ableitbar.",
+  "evidence_quality": "mittel: zwei namenskundliche Webquellen, überwiegend informativ und neutral, aber keine breite öffentliche Resonanzmessung.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Bodo",
+  "normalized_name": "bodo",
+  "overall_resonance": "Überwiegend neutral bis leicht traditionsbetont: Bodo wird als alter, eher seltener deutscher Vorname wahrgenommen, mit sachlich-lexikalischer Namenswirkung.",
+  "practical_notes": [
+    "Für die Namenssuche wirkt Bodo bodenständig und eindeutig deutsch geprägt.",
+    "Der Name hat wenig modische oder internationale Wirkung, dafür einen klaren historischen Charakter.",
+    "Aufgrund der Seltenheit kann er als prägnant wahrgenommen werden."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist insgesamt eher schmal und stammt vor allem aus namenskundlichen Webseiten, nicht aus belastbaren Meinungsumfragen.",
+    "Vereinzelt gibt es lockere oder ironische Nebenassoziationen, diese sollten nicht als allgemeine öffentliche Bewertung verstanden werden."
+  ],
+  "short_summary": "Bodo wird öffentlich meist neutral und traditionsnah wahrgenommen: ein seltener, alter deutscher Jungenname mit klarer, sachlicher Wirkung.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.99,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Bodo � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/B/Bo/Bodo/"
+    },
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Bodo: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Bodo.html"
+    }
+  ],
+  "style_effect": [
+    "kurz und klar",
+    "traditionell/altdeutsch",
+    "sachlich-namenskundlich",
+    "eher nüchtern als verspielt",
+    "leicht markant durch Seltenheit"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Eher geringe bis mittlere Sichtbarkeit in Deutschland; der Name ist bekannt, aber nicht sehr verbreitet und wirkt dadurch markant."
+}

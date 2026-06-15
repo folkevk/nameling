@@ -1,0 +1,59 @@
+{
+  "associations": [
+    "ungarische Form von Helena",
+    "altgriechischer Ursprung",
+    "Bedeutungen wie „die Sonnenhafte“ und „die Strahlende“",
+    "Namenstag",
+    "in Deutschland bekannt, aber eher selten",
+    "moderate bis regelmäßige Vergabe laut Namensseiten"
+  ],
+  "confidence": 0.92,
+  "display_text": "Ilona wirkt in der öffentlichen Namensbeschreibung überwiegend positiv: klassisch, weich und mit Bedeutungen rund um Licht, Strahlen und Sonne. In Deutschland ist der Name bekannt, aber eher selten, sodass die Resonanz eher moderat und traditionell als breit populär ausfällt.",
+  "evidence_quality": "gut, aber begrenzt: zwei einschlägige Namensseiten mit konsistenter, überwiegend positiver Beschreibung; kaum unabhängige Resonanzvielfalt.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Ilona",
+  "normalized_name": "ilona",
+  "overall_resonance": "Überwiegend positiv und sachlich-informativ, mit klarer lexikalischer Präsenz. Ilona wird in den Quellen vor allem als traditionsreicher, eher seltener Vorname mit warmen Bedeutungsassoziationen beschrieben.",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt Ilona klar, freundlich und traditionell.",
+    "Die Schreibweise ist einfach und gut lesbar.",
+    "Die Wahrnehmung kann je nach Generation eher klassisch als modern ausfallen."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt fast ausschließlich aus Namenslexikon-Seiten; eine breite öffentliche Debatte ist nicht sichtbar.",
+    "Die Wirkung ist daher eher aus Namensdeutungen als aus vielfältiger Alltagsrezeption abgeleitet."
+  ],
+  "short_summary": "Ilona wird in den verfügbaren Quellen als klassischer, eher seltener Vorname mit positiver Bedeutung und sachlich-freundlicher Wirkung beschrieben.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Ilona � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/I/Il/Ilona/"
+    },
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Ilona: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Ilona.html"
+    }
+  ],
+  "style_effect": [
+    "klingt weich und feminin",
+    "wirkt klassisch und international anschlussfähig",
+    "assoziiert Bedeutung von Helligkeit, Strahlen und Sonne",
+    "hat einen leicht nostalgischen, zeitlosen Charakter",
+    "erscheint eher namenskundlich als trendy"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland offenbar bekannt, aber nicht sehr häufig vergeben. Die öffentliche Sichtbarkeit wirkt daher eher moderat als breit massenpopulär."
+}

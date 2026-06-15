@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "italienische Koseform von Maria",
+    "kleine Maria",
+    "Bedeutungsbezüge aus Maria-Herleitungen",
+    "beliebter Vorname in Deutschland",
+    "Namenstag im September",
+    "klangvoll und weich"
+  ],
+  "confidence": 0.86,
+  "display_text": "Mariella wirkt in den vorliegenden Quellen überwiegend positiv: ein klangvoller, modern und freundlich empfundener Mädchenname mit italienisch anmutender Note. Die Datenlage ist allerdings schmal und beruht vor allem auf zwei Namensseiten, nicht auf breiter öffentlicher Diskussion.",
+  "evidence_quality": "mittel bis schwach: zwei überwiegend lexikalische Webquellen, klare Namensbezüge, aber keine breite Diskussionsbasis.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Mariella",
+  "normalized_name": "mariella",
+  "overall_resonance": "Überwiegend positiv bis wertschätzend, mit eher moderner und melodischer Wahrnehmung.",
+  "practical_notes": [
+    "Für eine Namenssuche erscheint Mariella als vertraut, freundlich und klangvoll.",
+    "Die Wahrnehmung ist eher stilistisch als kontrovers geprägt.",
+    "Bei der Einordnung sollte man die begrenzte Quellenlage mitdenken."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist schmal und stützt sich vor allem auf zwei Namensseiten.",
+    "Es gibt keine breite öffentliche Debatte oder kontroverse gesellschaftliche Einordnung in den Daten.",
+    "Aussagen zur Wirkung beruhen auf beschreibenden Namensquellen, nicht auf repräsentativer Umfrage."
+  ],
+  "short_summary": "Mariella wird in den vorliegenden deutschsprachigen Quellen überwiegend positiv, klangvoll und modern wahrgenommen. Die Evidenz ist jedoch begrenzt und vor allem beschreibend.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "Vorname Mariella � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/M/Ma/Mariella/"
+    },
+    {
+      "confidence": 0.92,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Mariella: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Mariella.html"
+    }
+  ],
+  "style_effect": [
+    "weiblich",
+    "melodisch",
+    "modern",
+    "italienisch anmutend",
+    "namenskundlich etabliert",
+    "freundlich wirkend"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Im deutschsprachigen Raum wirkt Mariella als bekannter, aber nicht dauerhaft breit öffentlich diskutierter Vorname. Die sichtbare Resonanz in den vorliegenden Quellen ist vor allem beschreibend und leicht positiv."
+}

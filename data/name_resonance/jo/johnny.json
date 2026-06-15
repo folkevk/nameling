@@ -1,0 +1,62 @@
+{
+  "associations": [
+    "Koseform von John",
+    "englische Form von Johannes",
+    "Bedeutung: Gott ist gnädig / Jahwe ist gnädig",
+    "hebräische Namenswurzel",
+    "eher selten in Deutschland",
+    "Namenstage und Varianten",
+    "Popkultur und Songtitel"
+  ],
+  "confidence": 0.81,
+  "display_text": "Johnny wirkt in den vorliegenden Quellen eher neutral bis leicht positiv: ein seltener, englisch geprägter Vorname mit klarer Bedeutung und etwas popkulturellem Flair. Für Deutschland wird er eher als ungewöhnlich, aber nicht negativ auffällig beschrieben.",
+  "evidence_quality": "mittel bis eher schwach: zwei einschlägige Namensquellen, aber wenig unabhängige öffentliche Breitenresonanz",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Johnny",
+  "normalized_name": "johnny",
+  "overall_resonance": "Johnny wird in den vorliegenden Quellen überwiegend sachlich und leicht positiv dargestellt. Der Name erscheint als bekannte, englisch geprägte Kurz- bzw. Koseform von John/Johannes mit klarer Bedeutung und etwas popkulturellem Klang. Für Deutschland wirkt er eher selten, aber nicht eindeutig negativ bewertet.",
+  "practical_notes": [
+    "Für eine Namenssuche ist Johnny ein gut erklärbarer, international verständlicher Name mit klarer Bedeutung.",
+    "In Deutschland kann der Name durch seine Seltenheit markanter wirken als traditionell deutsche Formen.",
+    "Die Quellenlage spricht eher für eine neutrale bis leicht positive Rezeption als für kontroverse Bewertungen."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist begrenzt und stammt vor allem aus Namenslexika bzw. Verzeichnissen, nicht aus breiter öffentlicher Meinungsbildung.",
+    "Mögliche Mischung aus Namensbeschreibung, Herkunftsangaben und Popularitätsdaten; die Aussagekraft für echte Alltagswahrnehmung ist daher nur mittelstark.",
+    "Keine belastbaren Hinweise auf eine soziale Stigmatisierung des Namens in den Quellen."
+  ],
+  "short_summary": "Johnny wird in den Quellen als seltener, englisch geprägter Vorname mit positiver Bedeutung und leicht popkulturellem Klang beschrieben. Die öffentliche Resonanz wirkt eher neutral bis leicht positiv.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.95,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Johnny � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/J/Jo/Johnny/"
+    },
+    {
+      "confidence": 0.89,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Johnny: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Johnny.html"
+    }
+  ],
+  "style_effect": [
+    "locker",
+    "englisch geprägt",
+    "jugendlich wirkend",
+    "umgangssprachlich-kurz",
+    "international verständlich",
+    "leicht popkulturell"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Der Name ist in Deutschland eher wenig verbreitet und dadurch auffälliger als klassische Standardnamen. In Namensdatenbanken wird er gut auffindbar diskutiert, die öffentliche Sichtbarkeit scheint vor allem über Herkunft, Bedeutung und Popkultur zu laufen."
+}

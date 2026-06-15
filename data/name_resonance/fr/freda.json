@@ -1,0 +1,62 @@
+{
+  "associations": [
+    "althochdeutsche Herkunft",
+    "Bedeutung: Frieden / friedlich / friedvolle",
+    "Kurzform bzw. verwandt mit Fred-Formen",
+    "Nähe zu Frieda und Frida",
+    "historisch und eher traditionell",
+    "Namenstag am 19. Oktober"
+  ],
+  "confidence": 0.82,
+  "display_text": "Freda wird in DE meist als seltener, klassisch-altdeutscher und freundlich wirkender Vorname wahrgenommen. Die Resonanz ist überwiegend neutral bis leicht positiv; belastbare öffentliche Debatten sind jedoch kaum sichtbar.",
+  "evidence_quality": "mittel bis schwach: klar namebezogene, aber überwiegend lexikalische Quellen mit begrenzter öffentlicher Resonanzbasis",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Freda",
+  "normalized_name": "freda",
+  "overall_resonance": "Freda wird im deutschsprachigen Raum überwiegend sachlich bis leicht positiv wahrgenommen. Der Name wirkt eher klassisch-altdeutsch und ruhig, mit einer freundlichen Bedeutung wie „friedlich“ bzw. „friedvolle“.",
+  "practical_notes": [
+    "Gut geeignet, wenn ein kurzer, klarer und traditionell wirkender Vorname gesucht wird.",
+    "Wirkt weniger modern als Frida, aber ähnlich zugänglich.",
+    "Für die öffentliche Einordnung ist die Datenlage eher schmal; Vorsicht bei starken Aussagen zur Popularität."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt vor allem aus Namenslexikon-Seiten, nicht aus breiter öffentlicher Debatte.",
+    "Die positive Bedeutungsdeutung kann die Wahrnehmung etwas freundlicher erscheinen lassen als es die reale Bekanntheit belegt.",
+    "Zur tatsächlichen gesellschaftlichen Resonanz gibt es nur begrenzte Hinweise."
+  ],
+  "short_summary": "Freda wirkt im Deutschen eher selten, klassisch und freundlich konnotiert. Die öffentliche Wahrnehmung ist überwiegend neutral bis leicht positiv, basiert aber vor allem auf Namenslexika.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Freda � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/F/Fr/Freda/"
+    },
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Freda: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Freda.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "altdeutsch",
+    "ruhig",
+    "freundlich",
+    "selten",
+    "namenskundlich",
+    "leicht nostalgisch"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Eher selten in DE, aber verständlich und durch ähnliche Formen wie Frieda/Frida wieder etwas präsenter. Keine starke öffentliche Debatte erkennbar."
+}

@@ -1,0 +1,62 @@
+{
+  "associations": [
+    "biblische Herkunft",
+    "aramäische Wurzeln",
+    "Bedeutung im Umfeld von \"Gazelle\"/\"Reh\"",
+    "Kurzform von Tabitha",
+    "Namenstag",
+    "selten, aber bekannt",
+    "deutschsprachige Namenslisten"
+  ],
+  "confidence": 0.86,
+  "display_text": "Tabea wird in deutschen Namensquellen meist positiv beschrieben: wohlklingend, biblisch/aramäisch geprägt und eher selten. Die öffentliche Resonanz wirkt freundlich und sachlich, die Datenlage ist aber vor allem lexikalisch und daher nur begrenzt repräsentativ.",
+  "evidence_quality": "mittel bis gut: zwei einschlägige Namenslexikon-Quellen mit überwiegend positiver Tonalität; jedoch keine breite öffentliche Meinungsbasis.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Tabea",
+  "normalized_name": "tabea",
+  "overall_resonance": "Tabea wird in den vorliegenden deutschsprachigen Namensquellen überwiegend positiv und sachlich wahrgenommen: Der Name gilt als wohlklingend, traditionell-biblisch geprägt und zugleich eher selten. Die öffentliche Rezeption wirkt insgesamt freundlich, ohne klare Hinweise auf negative Stereotype.",
+  "practical_notes": [
+    "Für eine Suchmaschine lässt sich Tabea knapp als bekannter, eher seltener und positiv konnotierter Mädchenname zusammenfassen.",
+    "Bei der Einordnung sollte die geringe Datenbreite erwähnt werden, um die Aussage vorsichtig zu halten.",
+    "Die Angaben zu Bedeutung und Namenstag sind gut anschlussfähig für eine sachliche Namensbeschreibung."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz basiert vor allem auf Namenslexika und nicht auf breiter Alltagsresonanz.",
+    "Ein Teil der positiven Einschätzungen stammt aus kommentarbasierten Quellen und ist daher nur begrenzt repräsentativ.",
+    "Keine belastbaren Hinweise auf gesellschaftliche Stigmatisierung in den vorliegenden Quellen."
+  ],
+  "short_summary": "Tabea wirkt im deutschsprachigen Raum wohlklingend, biblisch geprägt und eher selten. Die öffentliche Rezeption ist überwiegend positiv, aber die Evidenz stammt vor allem aus Namenslexika und ist daher nur begrenzt repräsentativ.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "positive",
+      "source_type": "web",
+      "title": "Vorname Tabea � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/T/Ta/Tabea/"
+    },
+    {
+      "confidence": 0.91,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Tabea: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Tabea.html"
+    }
+  ],
+  "style_effect": [
+    "wohlklingend",
+    "klassisch-biblisch",
+    "sanft-feminine Wirkung",
+    "traditionell, aber nicht altmodisch",
+    "eher selten und dadurch eigenständig",
+    "lexikalisch klar und gut einordenbar"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland ist Tabea bekannt, aber nicht massenhaft verbreitet. Die Sichtbarkeit wirkt eher moderat: präsent in Namenslexika und Beliebtheitslisten, jedoch ohne starke Mainstream-Dominanz."
+}

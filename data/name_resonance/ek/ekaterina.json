@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "russische Form von Katharina",
+    "altgriechische Herkunft",
+    "Bedeutung: „die Reine“",
+    "Namenstag/Namenstradition",
+    "Koseformen wie Katja, Kati oder Eka",
+    "selten bis moderat vergeben in Deutschland"
+  ],
+  "confidence": 0.92,
+  "display_text": "Ekaterina wirkt im deutschen Kontext elegant, international und klassisch. Der Name wird meist als russische Form von Katharina mit altgriechischer Herkunft und der Bedeutung „die Reine“ verstanden. In Deutschland scheint er eher selten bis moderat vergeben zu sein; die öffentliche Rezeption ist überwiegend neutral bis positiv und vor allem namenskundlich geprägt.",
+  "evidence_quality": "gut für Herkunft, Bedeutung und Benennungsgebrauch; eingeschränkt für Aussagen zur öffentlichen Breitenwahrnehmung, da nur wenige Namenslexikon-Quellen vorliegen",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Ekaterina",
+  "normalized_name": "ekaterina",
+  "overall_resonance": "Ekaterina wirkt im deutschen Kontext vor allem elegant, international und traditionell-kulturbezogen. Der Name wird eher als klare, sprachlich markante Variante von Katharina wahrgenommen, ohne starke negative oder sozial stigmatisierende Konnotationen.",
+  "practical_notes": [
+    "Für Suchmaschinenleser eignet sich die Einordnung als internationale, klassische Form von Katharina.",
+    "Der Name dürfte in Deutschland eher auffallen als häufig vorkommen.",
+    "Die Wahrnehmung ist überwiegend neutral bis positiv und beschreibend.",
+    "Bei Resonanzkarten dieser Art sollte die Herkunfts- und Bedeutungsseite betont werden, nicht eine vermeintliche Personenwirkung."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenzlage ist begrenzt: Es liegen vor allem zwei Namenslexikon-Quellen vor.",
+    "Beliebtheitsaussagen stammen aus Namensportalen und können je nach Datengrundlage abweichen.",
+    "Es gibt keinen belastbaren Hinweis auf soziale Stigmatisierung des Namens in der vorliegenden Evidenz."
+  ],
+  "short_summary": "Ekaterina wird in Deutschland überwiegend als seltene, elegante und international klingende Form von Katharina wahrgenommen. Die Rezeption ist neutral bis positiv und vor allem durch Herkunft, Bedeutung und Namensgebrauch geprägt.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Ekaterina � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/E/Ek/Ekaterina/"
+    },
+    {
+      "confidence": 0.94,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Ekaterina: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Ekaterina.html"
+    }
+  ],
+  "style_effect": [
+    "klingt klassisch und zugleich international",
+    "wirkt formal, weich und phonetisch markant",
+    "wird als fremdsprachige, insbesondere russische Form von Katharina gelesen",
+    "hat einen eher bildungsnahen, informationsgetriebenen Eindruck"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland eher selten bis moderat sichtbar; die öffentliche Rezeption erscheint vor allem lexikalisch und namenskundlich geprägt, nicht durch breite Alltagsverwendung oder starke Populärkultur-Präsenz."
+}

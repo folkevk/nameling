@@ -1,0 +1,59 @@
+{
+  "associations": [
+    "weiblicher Vorname",
+    "hebräischer Ursprung",
+    "Variante bzw. Koseform von Judith",
+    "Bedeutung: Frau aus Jehud/Judäa",
+    "Namenstag",
+    "historisch häufiger, heute seltener"
+  ],
+  "confidence": 0.86,
+  "display_text": "Jutta wirkt in der öffentlichen Wahrnehmung überwiegend klassisch und sachlich: ein traditioneller, heute eher seltener Vorname mit hebräischem Ursprung und klarer Bedeutung. Die Resonanz ist meist neutral, vereinzelt leicht gemischt, etwa wenn der Klang als etwas hart beschrieben wird.",
+  "evidence_quality": "mittel bis gut; hauptsächlich lexikalische Namensquellen mit etwas community-basiertem Feedback, aber begrenzter Breite.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Jutta",
+  "normalized_name": "jutta",
+  "overall_resonance": "Überwiegend sachlich-lexikalisch und traditionell; öffentlich eher neutral bis leicht gemischt wahrgenommen.",
+  "practical_notes": [
+    "Für Namenssuchmaschinen wirkt Jutta klar, traditionsbewusst und gut einordenbar.",
+    "Die seltenere heutige Vergabe kann den Namen als eher klassisch als modisch erscheinen lassen.",
+    "Die Quellenlage spricht eher für eine neutrale bis leicht ambivalente Wahrnehmung als für starke Polarisierung."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Einzelne Bewertungen zum Klang sind subjektiv und nicht als allgemeingültig zu lesen.",
+    "Die öffentliche Resonanz basiert hier vor allem auf Namenslexika und wenigen kommentierenden Quellen, nicht auf breiter Alltagsnutzung."
+  ],
+  "short_summary": "Jutta wird öffentlich vor allem als klassischer, hebräisch geprägter Mädchenname mit klarer Bedeutung wahrgenommen; die Resonanz ist überwiegend neutral, teils leicht gemischt wegen des als hart empfundenen Klangs.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.99,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Jutta � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/J/Ju/Jutta/"
+    },
+    {
+      "confidence": 0.92,
+      "is_name_discussion": true,
+      "sentiment": "mixed",
+      "source_type": "web",
+      "title": "&#9655; Vorname Jutta: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Jutta.html"
+    }
+  ],
+  "style_effect": [
+    "kurz und klassisch",
+    "historisch geprägt",
+    "etymologisch aufgeladen",
+    "in Teilen etwas altmodisch",
+    "vereinzelt als hart klingend beschrieben"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Im deutschsprachigen Raum bekannt, aber heute eher selten und dadurch weniger präsent als moderne Vornamen."
+}

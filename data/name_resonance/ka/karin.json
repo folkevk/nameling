@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "weiblicher Vorname",
+    "Kurzform von Karolina oder Katharina",
+    "Bedeutungen wie „die Freie“, „die Reine“ oder „die Unschuldige“",
+    "deutsch/skandinavisch geprägt",
+    "früher populär, heute seltener",
+    "Namenstage werden genannt"
+  ],
+  "confidence": 0.82,
+  "display_text": "Karin wirkt in den Quellen klassisch, klar und eher wohlwollend. In Deutschland ist der Name bekannt, heute aber eher selten vergeben.",
+  "evidence_quality": "mittel bis schwach: wenige webbasierte Namenslexika, überwiegend indirekte Hinweise auf Resonanz statt echte öffentliche Meinungsdaten",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Karin",
+  "normalized_name": "karin",
+  "overall_resonance": "Karin wird in den vorliegenden Quellen überwiegend sachlich und eher wohlwollend beschrieben. Der Name wirkt traditionell, klassisch und klar weiblich; zugleich wird er heute in Deutschland eher als selten vergeben eingeordnet.",
+  "practical_notes": [
+    "Für eine Namenssuche ist Karin ein gut verständlicher, klassischer Name mit klarer Herkunft.",
+    "Die heutige Seltenheit in Deutschland kann den Namen als eher retro oder generationsverbunden wirken lassen.",
+    "Die Quellen nennen mehrere Deutungen und Namenstage, was den Namen kulturell anschlussfähig macht."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz basiert auf wenigen, stark lexikonartigen Quellen; öffentliche Resonanz lässt sich daraus nur indirekt ableiten.",
+    "Positive Wirkung kann durch die informative Darstellung und einzelne wohlwollende Formulierungen leicht überzeichnet sein.",
+    "Keine belastbaren Hinweise auf soziale Stigmatisierung in der vorliegenden Evidenz."
+  ],
+  "short_summary": "Karin wird überwiegend als klassischer, traditioneller und eher seltener Vorname mit positiver, sachlicher Wahrnehmung dargestellt.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.91,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Karin � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/K/Ka/Karin/"
+    },
+    {
+      "confidence": 0.95,
+      "is_name_discussion": true,
+      "sentiment": "positive",
+      "source_type": "web",
+      "title": "&#9655; Vorname Karin: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Karin.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "kurz und unkompliziert",
+    "traditionell",
+    "namenkundlich klar",
+    "eher zeitlos als modern"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland ist Karin öffentlich bekannt, aber nach den Quellen nicht mehr sehr präsent im aktuellen Namensgebrauch. Die Wahrnehmung ist daher eher vertraut als trendig."
+}

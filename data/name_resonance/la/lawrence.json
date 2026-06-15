@@ -1,0 +1,64 @@
+{
+  "associations": [
+    "englische Form von Laurentius",
+    "lateinische Herkunft",
+    "Bedeutung: Mann aus Laurentum",
+    "volksetymologisch mit Lorbeer/Lorbeerkranz verbunden",
+    "Namenstag",
+    "Sieg bzw. Ehrenassoziationen",
+    "männlicher Vorname",
+    "selten bzw. ungewöhnlich in Deutschland"
+  ],
+  "confidence": 0.84,
+  "display_text": "Lawrence wirkt in Deutschland eher positiv und sachlich-neutral: ein international klingender, klassisch geprägter und eher seltener Vorname. In den vorliegenden Quellen wird er vor allem informativ beschrieben, teils auch als schön oder elegant – die Evidenz ist dabei begrenzt und stammt überwiegend aus Namenslexika.",
+  "evidence_quality": "mittel bis begrenzt: zwei einschlägige Namenslexikon-Quellen, überwiegend informativ, mit etwas subjektiv positiver Bewertung; keine breite öffentliche Meinungsstreuung.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Lawrence",
+  "normalized_name": "lawrence",
+  "overall_resonance": "Eher positiv und sachlich-neutral",
+  "practical_notes": [
+    "Für eine Suchmaschine ist eine vorsichtige Formulierung sinnvoll: eher positiv, aber nicht übertrieben.",
+    "Der Name wird in Deutschland eher als international und stilvoll wahrgenommen als als alltäglich.",
+    "Wenn gewünscht, kann man die Herkunft kurz mit „englische Form von Laurentius“ zusammenfassen.",
+    "Keine Hinweise auf gesellschaftlich belastete Namensbilder; daher keine besondere Warnung nötig."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt fast ausschließlich aus Namenslexika; das ist keine breite öffentliche Diskussion.",
+    "Positive Eindrücke wie „schön“ oder „elegant“ sind teilweise subjektiv und nicht allgemein verifizierbar.",
+    "Es gibt keine belastbare Hinweise auf starke negative Stigmatisierung oder Kontroversen.",
+    "Die Aussagekraft zur tatsächlichen Alltagsresonanz in Deutschland ist begrenzt."
+  ],
+  "short_summary": "Lawrence wird im deutschen Namenskontext meist sachlich, teils auch positiv wahrgenommen: international klingend, klassisch und eher selten. Die Evidenz ist jedoch vor allem lexikalisch und damit nur begrenzt aussagekräftig für die breite öffentliche Resonanz.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.95,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Lawrence � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/L/La/Lawrence/"
+    },
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Lawrence: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Lawrence.html"
+    }
+  ],
+  "style_effect": [
+    "klingt englischsprachig und international",
+    "wirkt klassisch über die lateinische Herkunft angebunden",
+    "wird oft als elegant, schön oder angenehm klingend beschrieben",
+    "erscheint in Namenslexika eher neutral bis positiv",
+    "durch die relative Seltenheit in DE leicht auffällig, aber nicht stark markiert"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Im deutschen Namenskontext eher bekannt, aber nicht sehr häufig; die öffentliche Wahrnehmung wirkt vor allem lexikalisch und informativ statt emotional aufgeladen."
+}

@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "eingedeutschte Form von Josa/Józsa",
+    "Nebenform von Josef",
+    "hebräische bzw. biblische Herkunft",
+    "Bedeutung: „Gott fügt hinzu“",
+    "seit den 1980er Jahren in Deutschland vergeben",
+    "Namenstag wird in Quellen genannt",
+    "überwiegend in Deutschland gebräuchlich"
+  ],
+  "confidence": 0.89,
+  "display_text": "Joscha wirkt in der öffentlichen Wahrnehmung überwiegend positiv: freundlich, klar und etwas eigenständig, dabei gut einordenbar über seine biblisch-hebräische Herkunft. Die Evidenz ist allerdings eher begrenzt und stammt vor allem aus Namenslexika.",
+  "evidence_quality": "mittel: zwei einschlägige Namenslexika mit überwiegend positiver, aber begrenzt repräsentativer Evidenz",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Joscha",
+  "normalized_name": "joscha",
+  "overall_resonance": "Überwiegend positiv und sachlich-wohlwollend. Joscha wird öffentlich meist als eigenständige, in Deutschland gebräuchliche Namensform mit klarer Herkunft und angenehmem Klang beschrieben.",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt Joscha unkompliziert, vertraut und gleichzeitig etwas ungewöhnlicher als sehr klassische Standardformen.",
+    "Die Schreibweise ist klar und gut lesbar; die Wahrnehmung ist eher freundlich als belastet.",
+    "Der Name hat eine gut nachvollziehbare Herkunfts- und Bedeutungszuordnung."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt vor allem aus zwei Namenslexika; sie ist damit eher begrenzt als repräsentativ.",
+    "Einzelne Bewertungen und Kommentare können persönliche Vorlieben spiegeln und sollten nicht als allgemeiner Konsens verstanden werden."
+  ],
+  "short_summary": "Joscha wird öffentlich meist positiv, freundlich und sachlich wahrgenommen – als in Deutschland gebräuchliche, biblisch-hebräisch geprägte Namensform mit etwas eigenständigem Charakter.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "Vorname Joscha � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/J/Jo/Joscha/"
+    },
+    {
+      "confidence": 0.91,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Joscha: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Joscha.html"
+    }
+  ],
+  "style_effect": [
+    "modern, aber nicht modisch",
+    "kurz und markant",
+    "vertraut durch biblisch-hebräische Herkunft",
+    "eher freundlich und unkompliziert",
+    "wirkt eigenständig, zugleich als Variante von Josef/Josa einordenbar"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland bekannt und verwendet, aber eher kein extrem häufiger Name. Die öffentliche Wahrnehmung wirkt eher namenskundlich-informativ als trendgetrieben."
+}

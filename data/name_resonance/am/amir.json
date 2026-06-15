@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "arabische Herkunft",
+    "hebräische Herkunft",
+    "Bedeutungen wie Fürst, Prinz, Anführer oder Befehlshaber",
+    "männlicher Vorname",
+    "bekannt und in Deutschland verbreitet",
+    "teils als zunehmend beliebt beschrieben",
+    "Namenslexikon- und Bedeutungsbezug"
+  ],
+  "confidence": 0.89,
+  "display_text": "Amir wirkt in deutschen Namensquellen bekannt, modern und eher positiv besetzt. Der Name wird vor allem mit arabischer bzw. teils hebräischer Herkunft sowie Bedeutungen wie Fürst, Prinz oder Anführer verbunden. Hinweise auf eine gesellschaftliche Stigmatisierung gibt es in der Evidenz nicht.",
+  "evidence_quality": "gut für Namensbedeutung und lexikalische Einordnung, eingeschränkt für gesellschaftliche Breitenwirkung",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Amir",
+  "normalized_name": "amir",
+  "overall_resonance": "Der Vorname Amir wird in den vorliegenden deutschen Namensquellen überwiegend sachlich und eher positiv wahrgenommen: modern, bekannt und teils als zunehmend beliebt beschrieben. Die Resonanz ist insgesamt freundlich-informativ, ohne starke Polarisierung.",
+  "practical_notes": [
+    "Für eine Suchmaschine eignet sich die Beschreibung als 'bekannt, international, mit starker Bedeutungsassoziation'.",
+    "Die Resonanz sollte neutral bis leicht positiv formuliert werden.",
+    "Beliebtheit besser als Tendenz denn als harte Tatsache darstellen."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt vor allem aus Namensdatenbanken und ist daher eher lexikalisch als gesellschaftlich breit erhoben.",
+    "Aussagen zur Beliebtheit sind nur vorsichtig zu lesen, da sie redaktionell oder allgemein formuliert sein können.",
+    "Keine Hinweise auf eine spezifische soziale Stigmatisierung in den vorliegenden Quellen."
+  ],
+  "short_summary": "Amir wird in den Quellen als bekannter, international wirkender Jungenname mit starker Bedeutungsassoziation und eher positiver, sachlicher Resonanz beschrieben.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Amir � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/A/Am/Amir/"
+    },
+    {
+      "confidence": 0.92,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Amir: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Amir.html"
+    }
+  ],
+  "style_effect": [
+    "klingt kurz, klar und international",
+    "wirkt modern und zugleich traditionell verankert",
+    "wird häufig mit Bedeutung und Herkunft assoziiert",
+    "hat einen eher starken, würdevollen Klang"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland ist Amir als Vorname sichtbar und etabliert, wirkt aber nicht beliebig häufig. Die Quellen beschreiben ihn als bekannt und teils im Aufwind, zugleich eher als noch nicht überall gleich verbreitet."
+}

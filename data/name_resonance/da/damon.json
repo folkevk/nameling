@@ -1,0 +1,58 @@
+{
+  "associations": [
+    "altgriechische Herkunft",
+    "Bedeutungshinweise wie Bezwinger/Eroberer oder göttliches Wesen",
+    "Bezug zur Legende von Damon und Pythias",
+    "internationale bzw. englischsprachige Verwendung",
+    "namenskundliche, lexikalische Einordnung"
+  ],
+  "confidence": 0.78,
+  "display_text": "Damon wirkt in deutschen Namensquellen überwiegend neutral bis eher positiv: international, markant und namenskundlich klar eingeordnet. Die öffentliche Resonanz ist allerdings nur begrenzt belegt und stammt vor allem aus beschreibenden Namenslexika.",
+  "evidence_quality": "mittel bis begrenzt: klare Namensdiskussion, aber überwiegend beschreibend und wenig echte öffentliche Rezeption im engeren Sinn.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Damon",
+  "normalized_name": "damon",
+  "overall_resonance": "Damon wird in den vorliegenden deutschsprachigen Namensquellen überwiegend neutral bis eher positiv beschrieben. Die öffentliche Wahrnehmung wirkt vor allem informativ und namenskundlich, mit einzelnen kulturellen und popkulturellen Anknüpfungen. Eine breite, eigenständige öffentliche Debatte ist in der Evidenz nicht stark erkennbar.",
+  "practical_notes": [
+    "Für Suchende wirkt Damon meist gut verständlich, prägnant und international anschlussfähig.",
+    "Der Name ist in Deutschland bekannt, aber nicht so alltagsdominant, dass sich eine starke Massenassoziation abzeichnet.",
+    "Die Wirkung hängt stark vom Kontext ab: eher sachlich-klassisch als verspielt."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt fast vollständig aus Namensdatenbanken und Lexikontexten; das ist keine starke Messung öffentlicher Meinung.",
+    "Popkulturelle Bezüge sollten nicht als allgemeine Bewertung des Namens verstanden werden.",
+    "Es gibt keine klare Hinweise auf soziale Stigmatisierung oder negative Namensklischees in der vorliegenden Evidenz."
+  ],
+  "short_summary": "Damon wird in den verfügbaren Quellen vor allem neutral bis eher positiv und informativ dargestellt. Die Resonanz ist eher beschreibend als kontrovers, bei insgesamt begrenzter Evidenz.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Damon � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/D/Da/Damon/"
+    },
+    {
+      "confidence": 0.9,
+      "is_name_discussion": true,
+      "sentiment": "mixed",
+      "source_type": "web",
+      "title": "&#9655; Vorname Damon: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Damon.html"
+    }
+  ],
+  "style_effect": [
+    "klingt modern und international",
+    "wirkt eher markant als weich",
+    "hat eine klare, sachliche Namenswirkung",
+    "kann durch die griechische Herkunft als klassisch-literarisch wahrgenommen werden"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Eher gering bis mittel: Der Name erscheint in Namenslexika und Bedeutungseinträgen, aber die öffentlich greifbare Resonanz basiert nur auf begrenzten, überwiegend beschreibenden Quellen."
+}

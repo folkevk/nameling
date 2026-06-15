@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "lateinische Herkunft",
+    "Bedeutung: Siegerin / die Siegreiche",
+    "römische Mythologie",
+    "Siegesgöttin",
+    "Beliebtheit",
+    "Namenstag",
+    "historische bzw. adelige Anmutung",
+    "Kurzformen wie Vicky/Vici"
+  ],
+  "confidence": 0.91,
+  "display_text": "Victoria wirkt im deutschsprachigen Raum überwiegend positiv: klassisch, elegant und mit starken Bedeutungen wie „Siegerin“ bzw. „die Siegreiche“ verbunden. Die vorliegende Evidenz ist jedoch vor allem lexikalisch und damit eher informativ als breit öffentlich. Als gesellschaftlich belastete Stigmatisierung ist hier nichts erkennbar.",
+  "evidence_quality": "gut für eine vorsichtige Namensresonanz, aber überwiegend lexikalische statt diskursiv-öffentliche Quellen",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Victoria",
+  "normalized_name": "victoria",
+  "overall_resonance": "Überwiegend positiv und wertschätzend, vor allem sachlich-informativ geprägt.",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt Victoria etabliert, gut vertraut und positiv besetzt.",
+    "Der Name klingt im Deutschen klassisch und repräsentativ, ohne stark modisch zu wirken.",
+    "Die öffentliche Wahrnehmung basiert eher auf Bedeutung und Tradition als auf kontroversen Assoziationen."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt fast ausschließlich aus Namenslexika und Informationsseiten, nicht aus einer breiten öffentlichen Debatte.",
+    "Einzelne subjektive Kommentare können gemischt sein; daraus lässt sich keine allgemeine gesellschaftliche Bewertung ableiten."
+  ],
+  "short_summary": "Victoria wird im deutschen Namenskontext meist positiv, klassisch und bedeutungsstark wahrgenommen.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "positive",
+      "source_type": "web",
+      "title": "Vorname Victoria � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/V/Vi/Victoria/"
+    },
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Victoria: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Victoria.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "elegant",
+    "international verständlich",
+    "namenskundlich aufgeladen",
+    "eher feierlich als modern-verspielt"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Hoch sichtbar im deutschsprachigen Namenskontext; der Name ist gut bekannt und wird häufig mit klassisch-positiven Bedeutungen verbunden."
+}

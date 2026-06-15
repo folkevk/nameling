@@ -1,0 +1,59 @@
+{
+  "associations": [
+    "altgriechischer Ursprung",
+    "Bedeutungen wie „die Helfende“, „die Gewinnerin“ oder „die Vorteilhafte“",
+    "Shakespeare / Hamlet",
+    "weitere literarische Bezüge",
+    "weiblicher Vorname"
+  ],
+  "confidence": 0.89,
+  "display_text": "Ophelia wirkt im deutschen Sprachraum überwiegend positiv: elegant, literarisch und klangvoll. Der Name ist eher selten und vor allem durch griechische Herkunft, Bedeutungen wie „die Helfende“/„die Gewinnerin“ sowie den Shakespeare-Bezug bekannt. Die vorliegende Evidenz ist gut für Namensbedeutung, aber nur begrenzt repräsentativ für die breite öffentliche Meinung.",
+  "evidence_quality": "Gut für Bedeutung, Herkunft und klangliche Einordnung; schwächer für eine breite gesellschaftliche Resonanz.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Ophelia",
+  "normalized_name": "ophelia",
+  "overall_resonance": "Überwiegend positiv und klanglich wertschätzend wahrgenommen, mit literarisch-eleganter Ausstrahlung.",
+  "practical_notes": [
+    "Wirkt im deutschen Sprachraum eher ungewöhnlich und dadurch markant.",
+    "Der Name ist gut verständlich, aber nicht alltäglich.",
+    "Die literarische Verbindung kann die Wahrnehmung zusätzlich prägen."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt vor allem aus Namensseiten und ist daher nur eingeschränkt repräsentativ für die breite öffentliche Meinung.",
+    "Es gibt keine belastbare öffentliche Debatte oder starke Kritik in den vorliegenden Quellen.",
+    "Die Wahrnehmung als elegant oder schön ist eine beschreibende Tendenz, keine allgemeingültige Tatsache."
+  ],
+  "short_summary": "Ophelia wird im deutschen Kontext meist positiv, elegant und literarisch geprägt wahrgenommen. Der Name ist eher selten und vor allem über Herkunft, Bedeutung und Shakespeare-Bezug präsent; belastbare Hinweise auf größere Kritik fehlen.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "Vorname Ophelia � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/O/Op/Ophelia/"
+    },
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Ophelia: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Ophelia.html"
+    }
+  ],
+  "style_effect": [
+    "elegant",
+    "klassisch-literarisch",
+    "weich klingend",
+    "gebildet",
+    "eher selten"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland eher selten bis mäßig gebräuchlich und dadurch gut auffällig, aber nicht stark massenhaft verbreitet."
+}

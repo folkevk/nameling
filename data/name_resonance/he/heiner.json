@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "Kurzform/Nebenform von Heinrich",
+    "althochdeutsche bzw. altdeutsche Herkunft",
+    "Bedeutung im Sinn von „Herr im Haus“ bzw. „Heim/Heimat + mächtig/reich“",
+    "traditioneller Männername",
+    "seltenere Verwendung in Deutschland"
+  ],
+  "confidence": 0.78,
+  "display_text": "Heiner wirkt überwiegend neutral bis traditionsbetont: ein klassischer, eher seltener Vorname mit sachlich-positiver Ausstrahlung. Die verfügbare Evidenz ist allerdings begrenzt und stammt vor allem aus Namenslexika.",
+  "evidence_quality": "Begrenzt: zwei einschlägige, aber vor allem lexikalische Quellen mit geringer Aussagekraft zur öffentlichen Meinung.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Heiner",
+  "normalized_name": "heiner",
+  "overall_resonance": "Überwiegend neutral bis leicht traditionsbetont. Heiner wird in den vorliegenden Quellen vor allem als klassischer, eher seltener Vorname wahrgenommen, mit sachlich positiver bis neutraler Namenswirkung.",
+  "practical_notes": [
+    "Für die Außendarstellung wirkt der Name seriös, klassisch und vertraut.",
+    "Wer einen modernen oder sehr trendigen Klang sucht, könnte Heiner eher als traditionell empfinden.",
+    "Die Seltenheit kann als individuell wahrgenommen werden, ohne exzentrisch zu wirken."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz für öffentliche Resonanz ist begrenzt und stammt überwiegend aus Namensdatenbanken und Lexikonseiten.",
+    "Daraus lässt sich eher eine namenkundliche Einordnung als ein breites Stimmungsbild ableiten."
+  ],
+  "short_summary": "Heiner wird öffentlich meist als klassischer, traditionsreicher und eher seltener Vorname wahrgenommen – sachlich-neutral mit leichter Bodenständigkeit.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.95,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Heiner � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/H/He/Heiner/"
+    },
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Heiner: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Heiner.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "traditionell",
+    "altdeutsch",
+    "bodenständig",
+    "eher selten",
+    "sachlich",
+    "leicht formal"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Eher gering bis mittel: Der Name ist bekannt, wirkt aber nicht besonders häufig im heutigen Deutschland. Die öffentliche Resonanz in den Quellen basiert vor allem auf Namenslexika und Datenbanken, nicht auf breiter Meinungsäußerung."
+}

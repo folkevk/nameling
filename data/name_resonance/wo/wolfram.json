@@ -1,0 +1,63 @@
+{
+  "associations": [
+    "Bedeutung im Umfeld von Wolf und Rabe",
+    "althochdeutsche Herkunft",
+    "germanische/mythische Bezüge",
+    "Namenstag",
+    "selten/ungewöhnlich",
+    "männlicher Vorname",
+    "Nebenassoziation zum Metall Wolfram"
+  ],
+  "confidence": 0.82,
+  "display_text": "Wolfram: ein seltener, traditioneller Vorname mit althochdeutscher Herkunft. Die öffentliche Resonanz wirkt überwiegend sachlich und leicht positiv, aber die Evidenz ist begrenzt und vor allem lexikalisch geprägt.",
+  "evidence_quality": "mittel bis eher schwach: wenige, vor allem lexikalische Quellen; nur begrenzte Hinweise auf tatsächliche öffentliche Wahrnehmung",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Wolfram",
+  "normalized_name": "wolfram",
+  "overall_resonance": "Der Vorname Wolfram wirkt in der öffentlichen Namensbeschreibung überwiegend sachlich, traditionell und eher selten. Die Resonanz ist nicht stark emotional aufgeladen, sondern vor allem namenkundlich geprägt; gelegentlich klingt eine leicht positive, historisch-interessierte Wahrnehmung an.",
+  "practical_notes": [
+    "Für Suchmaschinen eignet sich die Einordnung als seltener, traditioneller Vorname mit althochdeutscher Herkunft.",
+    "Wenn Kontext wichtig ist, hilft ein Hinweis auf die Nebenassoziation zum Metall, um Mehrdeutigkeit zu vermeiden.",
+    "Die Quellenlage spricht eher für lexikalische als für alltagsöffentliche Resonanz."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist begrenzt und stammt vor allem aus Namenslexika; das ist eher Beschreibungswissen als breite öffentliche Meinung.",
+    "Die Assoziation mit dem chemischen Element Wolfram kann die Namenswahrnehmung überlagern, ist aber nur eine Nebenassoziation.",
+    "Aus den Quellen lässt sich keine starke gesellschaftliche Bewertung ableiten; die Rezeption wirkt insgesamt eher neutral."
+  ],
+  "short_summary": "Wolfram wird in Deutschland eher als seltener, traditioneller und historisch geprägter Vorname wahrgenommen. Die verfügbare Evidenz ist begrenzt und überwiegend sachlich-lexikalisch.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Wolfram � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/W/Wo/Wolfram/"
+    },
+    {
+      "confidence": 0.83,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Wolfram: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Wolfram.html"
+    }
+  ],
+  "style_effect": [
+    "altdeutsch",
+    "historisch-traditionell",
+    "sachlich",
+    "selten",
+    "markant",
+    "namenskundlich",
+    "leicht archaisch"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Eher geringe Alltagspräsenz in Deutschland, aber als klar erkennbare, traditionelle Namensform bekannt. Die öffentliche Sichtbarkeit entsteht vor allem über Namenslexika und Herkunftsbeschreibungen, weniger über breite Diskussionen."
+}

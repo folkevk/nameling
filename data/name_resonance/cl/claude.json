@@ -1,0 +1,69 @@
+{
+  "associations": [
+    "französische Form von Claudius/Claudia",
+    "lateinische Herkunft",
+    "Geschlecht der Claudier",
+    "seltener Vorname in Deutschland",
+    "Unisex-Eindruck",
+    "Namenstag vorhanden"
+  ],
+  "confidence": 0.84,
+  "display_text": "Claude: seltener, französisch geprägter Vorname mit eher klassisch-eleganter Wirkung. Die Resonanz ist in den Quellen überwiegend neutral bis leicht positiv; die historische Bedeutungsdeutung wirkt teils sperrig, ist aber kein heutiges Urteil. In Deutschland ist der Name eher wenig verbreitet.",
+  "evidence_quality": "mittel bis eher schwach: mehrere klare Namenslexikon-Quellen, aber wenig echte öffentliche Diskussionsdichte und teilweise subjektive Kommentare.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Claude",
+  "normalized_name": "claude",
+  "overall_resonance": "Die öffentliche Rezeption von „Claude“ wirkt insgesamt sachlich, eher selten und leicht elegant-französisch gefärbt. In den vorliegenden Namensquellen überwiegt eine neutrale bis leicht positive Einordnung, bei gleichzeitig klarer Hinweise auf geringe Verbreitung in Deutschland. Die historische Bedeutungsdeutung kann vereinzelt etwas sperrig oder negativ wirken, dominiert aber nicht.",
+  "practical_notes": [
+    "Für Suchmaschinen- und Kurzprofile eignet sich die Beschreibung 'selten, französisch geprägt, klassisch'.",
+    "Wegen der geringen Häufigkeit kann der Name als individuell und merkbar wahrgenommen werden.",
+    "Wenn Kontext wichtig ist, hilft der Hinweis auf die französische Form und die historische Herkunft."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist überwiegend namenskundlich und stammt aus Namenslexika, also nur begrenzt ein direkter Indikator für öffentliche Resonanz.",
+    "Die ältere Bedeutungsdeutung mit 'der Hinkende/der Lahme' kann negativ klingen, ist aber historisch und nicht als heutige Bewertung zu verstehen.",
+    "Einige positive Aussagen zum Klang sind subjektiv und in Teilen aus Nutzerkommentaren abgeleitet."
+  ],
+  "short_summary": "Claude wird in Deutschland als seltener, französisch geprägter und eher klassisch-eleganter Vorname wahrgenommen; die Resonanz ist überwiegend neutral bis leicht positiv.",
+  "source_count": 3,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Claude � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/C/Cl/Claude/"
+    },
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Claude � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/C/Cl/Claude/"
+    },
+    {
+      "confidence": 0.9,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Claude: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Claude.html"
+    }
+  ],
+  "style_effect": [
+    "französisch",
+    "klassisch-lateinisch",
+    "eher selten",
+    "elegant-kurz",
+    "unisex-lesbar",
+    "namenskundlich geprägt"
+  ],
+  "usable_evidence_count": 3,
+  "visibility": "In Deutschland eher selten und dadurch wenig alltagspräsent. Der Name fällt eher als ungewöhnlich und markant auf als als breit etablierter Vorname."
+}

@@ -1,0 +1,64 @@
+{
+  "associations": [
+    "Heeresmann / Kriegsführer als etymologische Deutung",
+    "altdeutscher Vorname",
+    "historisch verbreitet",
+    "Namenstag",
+    "Spitznamen und Kosenamen",
+    "im Mittelalter beliebt",
+    "heute in Deutschland eher selten"
+  ],
+  "confidence": 0.86,
+  "display_text": "Hermann wirkt in der öffentlichen Namenswahrnehmung klassisch, altdeutsch und historisch; die Tonlage ist überwiegend neutral bis leicht positiv. Heute gilt der Name als eher selten vergeben in Deutschland.",
+  "evidence_quality": "Gut für Etymologie, Stil und Beliebtheitskontext; mittel für öffentliche Resonanz im engeren Sinne, da die Quellen überwiegend lexikalisch sind.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Hermann",
+  "normalized_name": "hermann",
+  "overall_resonance": "Eher traditionell-historisch und neutral bis leicht positiv wahrgenommen. Der Name wirkt in der öffentlichen Namensbeschreibung altdeutsch, klassisch und markant, wird aber heute als eher selten vergeben beschrieben.",
+  "practical_notes": [
+    "Für Suchmaschinen-Nutzung eignet sich eine Formulierung wie: klassischer, altdeutscher und historisch geprägter Jungenname.",
+    "Die Seltenheit heute sollte als Beschreibung verstanden werden, nicht als Wertung.",
+    "Die kriegerische Etymologie ist eine historische Bedeutung, keine Aussage über Träger des Namens."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist stark auf Namens- und Bedeutungsseiten begrenzt; das bildet vor allem die sprachliche Einordnung ab.",
+    "Positive Einschätzungen stammen teils aus redaktionellen oder kommentarbasierten Quellen, daher nur vorsichtig gewichten.",
+    "Keine belastbare öffentliche Kontroverse erkennbar; die Wahrnehmung wirkt eher beschreibend als polarisiert."
+  ],
+  "short_summary": "Hermann wird öffentlich vor allem als klassischer, altdeutscher und historisch geprägter Vorname wahrgenommen; die Resonanz ist eher neutral bis leicht positiv, bei heute eher seltener Vergabe.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Hermann � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/H/He/Hermann/"
+    },
+    {
+      "confidence": 0.92,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Hermann: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Hermann.html"
+    }
+  ],
+  "style_effect": [
+    "traditionell",
+    "altdeutsch",
+    "klassisch",
+    "historisch",
+    "markant",
+    "lexikalisch",
+    "eher selten",
+    "männlich-konventionell"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Mittelhoch im Namenskontext, aber geringe Breite in der öffentlichen Debatte. Die vorliegende Evidenz stammt vor allem aus Namenslexika und Bedeutungseiten, nicht aus einer breiten gesellschaftlichen Diskussion."
+}

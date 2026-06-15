@@ -1,0 +1,62 @@
+{
+  "associations": [
+    "griechische Mythologie",
+    "Siegesgöttin",
+    "altgriechischer Ursprung",
+    "Bedeutung rund um Sieg und Erfolg",
+    "selten bis moderat verbreitet",
+    "besondere, kurze Namensform",
+    "Verwechslungsgefahr mit der Marke Nike"
+  ],
+  "confidence": 0.92,
+  "display_text": "Nike wird im deutschsprachigen Raum überwiegend positiv und sachlich wahrgenommen. Der Name wirkt kurz, prägnant und besonders, mit klaren Bezügen zu griechischer Mythologie und der Bedeutung „die Siegreiche“. Er ist eher selten bis moderat verbreitet und fällt dadurch auf. Als wichtigster Nebeneffekt gilt die mögliche Verwechslung mit der bekannten Marke Nike.",
+  "evidence_quality": "Gut für eine vorsichtige Namensresonanz, aber begrenzt: Die Quellen sind überwiegend lexikalische Namensseiten mit moderat positiver Tendenz, nicht breit gestützte öffentliche Meinungsdaten.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Nike",
+  "normalized_name": "nike",
+  "overall_resonance": "Überwiegend positiv und sachlich-namenskundlich. Der Name wird meist mit griechischer Herkunft, Mythologie und der Bedeutung „die Siegreiche / die Siegerin“ verbunden. In der öffentlichen Wahrnehmung wirkt er eher markant und eigenständig als alltäglich.",
+  "practical_notes": [
+    "Für Suchmaschinen und Namenskontexte erscheint Nike als klar weiblich konnotierter Vorname mit starker Bedeutungsebene.",
+    "Die kurze Form macht den Namen einprägsam.",
+    "Wer den Namen wählt, sollte die mögliche Markenassoziation mitbedenken.",
+    "In Deutschland wirkt der Name eher speziell als massenhaft verbreitet."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die auffälligste Nebenassoziation ist die bekannte Marke Nike; das kann die Namenswahrnehmung überlagern oder zu Verwechslungen führen.",
+    "Die Evidenz stammt vor allem aus Vornamensseiten und nicht aus freier öffentlicher Debatte, daher ist die Aussagekraft begrenzt.",
+    "Wegen der Seltenheit kann der Name je nach Umfeld als ungewöhnlich wahrgenommen werden, ohne dass daraus eine allgemeine Bewertung folgt."
+  ],
+  "short_summary": "Nike wird in Deutschland meist positiv, markant und mythologisch aufgeladen wahrgenommen; der Name ist eher selten, prägnant und kann wegen der Marke Nike Verwechslungen auslösen.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "Vorname Nike � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/N/Ni/Nike/"
+    },
+    {
+      "confidence": 0.95,
+      "is_name_discussion": true,
+      "sentiment": "eher positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Nike: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Nike.html"
+    }
+  ],
+  "style_effect": [
+    "kurz und prägnant",
+    "modern-klar trotz antiker Herkunft",
+    "eher markant als weich",
+    "namenskundlich aufgeladen",
+    "seltenheit kann als besonders wahrgenommen werden"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Im deutschsprachigen Raum bekannt, aber eher selten bis moderat verbreitet. Dadurch fällt der Name auf, ohne sehr gewöhnlich zu wirken."
+}

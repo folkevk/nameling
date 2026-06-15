@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "altgriechische Herkunft",
+    "Bedeutung: Geschenk der (Göttin) Isis",
+    "historisch-religiöse Bezüge",
+    "Namenstag",
+    "selten in Deutschland",
+    "lexikalische und informative Darstellung"
+  ],
+  "confidence": 0.91,
+  "display_text": "Isidor wird meist als seltener, klassisch-historisch geprägter Vorname wahrgenommen. Die Quellen beschreiben ihn überwiegend sachlich mit altgriechischer Herkunft und der Bedeutung „Geschenk der Isis“; die öffentliche Resonanz wirkt eher neutral bis leicht positiv.",
+  "evidence_quality": "mittel bis hoch; zwei direkte Namensquellen, überwiegend neutral-informativ, aber mit begrenzter Breite und teils datenbankbasierter Evidenz",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Isidor",
+  "normalized_name": "isidor",
+  "overall_resonance": "Isidor wird in den vorliegenden Quellen überwiegend sachlich, klassisch und eher positiv wahrgenommen. Der Name wirkt altgriechisch-historisch geprägt und zugleich ungewöhnlich bzw. selten in Deutschland.",
+  "practical_notes": [
+    "Für Suchmaschinenleser gut als klassischer, seltener Vorname einordnen.",
+    "Die Wahrnehmung ist eher neutral bis positiv, aber nicht breit populär.",
+    "Die Bedeutung und Herkunft spielen in der Rezeption eine größere Rolle als Mode- oder Trendaspekte."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt vor allem aus Namensdatenbanken und Namenslexika, also eher datengetrieben als aus öffentlicher Alltagsdiskussion.",
+    "Positive Tendenzen beruhen teilweise auf einzelnen Nutzerreaktionen und sind daher nur vorsichtig zu gewichten.",
+    "Keine Hinweise auf eine gesellschaftliche Stigmatisierung in den Quellen."
+  ],
+  "short_summary": "Isidor wirkt in Deutschland eher selten, klassisch und historisch geprägt; die öffentliche Resonanz ist überwiegend neutral bis leicht positiv.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Isidor � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/I/Is/Isidor/"
+    },
+    {
+      "confidence": 0.88,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Isidor: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Isidor.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "historisch",
+    "namenskundlich",
+    "sachlich",
+    "eher edel klingend",
+    "selten/ungewöhnlich"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Der Name ist öffentlich sichtbar, aber eher randständig und nicht stark verbreitet. Die Resonanz entsteht vor allem aus Namenslexika und Beliebtheits-/Bedeutungsseiten, weniger aus breiter Diskussion."
+}

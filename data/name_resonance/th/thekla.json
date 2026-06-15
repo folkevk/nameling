@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "altgriechische Herkunft",
+    "Bedeutung im Sinn von 'Ruhm Gottes' bzw. 'Gott die Ehre'",
+    "heilige Thekla / Namenstag",
+    "seltene Verwendung in Deutschland",
+    "klassisch-historischer Klang",
+    "vereinzelte Popkultur-Assoziation wie 'Biene Maja'"
+  ],
+  "confidence": 0.78,
+  "display_text": "Thekla wirkt in Deutschland eher selten, klassisch und traditionsreich. Die vorliegenden Quellen beschreiben den Namen überwiegend sachlich-neutral mit leichter historischer und religiöser Färbung; einzelne Popkultur-Bezüge sind eher Randnotizen. Da die Evidenz vor allem aus Namenslexika stammt, ist die Aussage zur öffentlichen Resonanz nur vorsichtig belastbar.",
+  "evidence_quality": "Begrenzt bis mittel: zwei überwiegend lexikalische Quellen, beide mit ähnlichen Kernangaben, aber ohne breite öffentliche Diskussionsbasis.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Thekla",
+  "normalized_name": "thekla",
+  "overall_resonance": "Eher sachlich-neutral mit leichter historisch-traditioneller Färbung. Der Name wirkt in den vorliegenden Quellen vor allem als seltener, altgriechisch geprägter Vorname mit religiöser und sprachlicher Herkunftsnote.",
+  "practical_notes": [
+    "Für Suchmaschinen- und Namenskontext eignet sich eine Formulierung wie 'selten, klassisch und traditionsreich'.",
+    "Der Name ist eher erklärungsbedürftig, weil er im Alltag nicht sehr häufig begegnet.",
+    "Die Resonanz wirkt insgesamt ruhig und informativ, weniger modern-trendbezogen."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenzlage ist schwach und basiert vor allem auf Namenslexikon-Einträgen, nicht auf breiter öffentlicher Diskussion.",
+    "Einzelne Assoziationen, etwa aus Popkultur, sollten nicht verallgemeinert werden.",
+    "Es gibt keinen klaren Hinweis auf starke positive oder negative gesellschaftliche Stigmatisierung."
+  ],
+  "short_summary": "Thekla wird in den Quellen als seltener, klassisch-historischer Vorname mit altgriechischer und religiöser Herkunft beschrieben. Die öffentliche Resonanz wirkt überwiegend neutral bis leicht positiv, ist aber nur vorsichtig bewertbar, da die Evidenz hauptsächlich aus Namenslexika stammt.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.95,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Thekla � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/T/Th/Thekla/"
+    },
+    {
+      "confidence": 0.87,
+      "is_name_discussion": true,
+      "sentiment": "gemischt",
+      "source_type": "web",
+      "title": "&#9655; Vorname Thekla: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Thekla.html"
+    }
+  ],
+  "style_effect": [
+    "altmodisch/traditionell",
+    "klingt ernst und eher klassisch",
+    "namenskundlich geprägt",
+    "selten und dadurch markant",
+    "historisch-religiöse Assoziation",
+    "teils leicht verspielt durch Popkulturbezug"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland offenbar selten und damit eher wenig präsent. Die verfügbare Evidenz stammt fast ausschließlich aus Namenslexika, daher ist die Aussage zur öffentlichen Wahrnehmung nur vorsichtig belastbar."
+}

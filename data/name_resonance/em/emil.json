@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "lateinischer Ursprung",
+    "Bedeutungen wie „der Eifrige“ bzw. „der Fleißige“",
+    "deutschsprachig vertraut",
+    "klassischer Jungenname",
+    "aktuell populär in Deutschland",
+    "leichter Bezug zu historisch-literarischen Kontexten"
+  ],
+  "confidence": 0.96,
+  "display_text": "Emil hat in der vorliegenden Evidenz eine klare, überwiegend positive Resonanz: klassisch, freundlich und in Deutschland aktuell sehr beliebt. Der Name wird vor allem mit dem lateinischen Ursprung und Bedeutungen wie „der Eifrige“ oder „der Fleißige“ verbunden. Hinweise auf eine negative Stigmatisierung gibt es nicht.",
+  "evidence_quality": "hoch",
+  "generated_at": "2026-06-12T06:08:03Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Emil",
+  "normalized_name": "emil",
+  "overall_resonance": "Emil wird in der vorliegenden Evidenz überwiegend positiv und klassisch wahrgenommen. Der Name wirkt etabliert, freundlich und derzeit in Deutschland wieder sehr beliebt.",
+  "practical_notes": [
+    "Für die öffentliche Wahrnehmung ist Emil eher unproblematisch und positiv besetzt.",
+    "Der Name ist gut bekannt und dadurch leicht einzuordnen.",
+    "Keine Hinweise auf soziale Stigmatisierung in der Evidenz."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Quelle basiert vor allem auf Namenslexikon- und Portaltexten; das spricht gut für die Namensbeschreibung, aber weniger für unabhängige Alltagswahrnehmung.",
+    "Einzelne Bewertungen können durch Portalstil oder Beliebtheitskontext geprägt sein."
+  ],
+  "short_summary": "Emil wird in den Quellen als klassischer, freundlicher und derzeit sehr beliebter Vorname mit positiver Resonanz beschrieben.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "Vorname Emil � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/E/Em/Emil/"
+    },
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "positive",
+      "source_type": "web",
+      "title": "&#9655; Vorname Emil: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Emil.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "zeitlos",
+    "freundlich",
+    "bodenständig",
+    "beliebt",
+    "etymologisch klar"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "hoch"
+}

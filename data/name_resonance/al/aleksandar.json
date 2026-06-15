@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "altgriechische Herkunft",
+    "slawische Form von Alexander",
+    "Bedeutung: Beschützer/Verteidiger",
+    "Namenstag",
+    "Spitznamen und Varianten",
+    "in Deutschland eher seltener"
+  ],
+  "confidence": 0.82,
+  "display_text": "Aleksandar wirkt öffentlich vor allem sachlich und international: eine slawische Form von Alexander mit klassischer, eher seltenerer Präsenz in Deutschland. Die Quellen sind überwiegend neutral und nennen vor allem Herkunft, Bedeutung und Namenstag; starke Imageeffekte oder Stigmatisierung sind nicht erkennbar.",
+  "evidence_quality": "mittel bis gut; zwei direkte Namensquellen mit überwiegend neutralem Ton, aber keine breite öffentliche Resonanzmessung",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Aleksandar",
+  "normalized_name": "aleksandar",
+  "overall_resonance": "Aleksandar wird in den vorliegenden Quellen überwiegend sachlich-neutral wahrgenommen. Der Name wird vor allem als slawische Variante von Alexander mit altgriechischen Wurzeln und der Bedeutung „Beschützer/Verteidiger“ beschrieben.",
+  "practical_notes": [
+    "Für Suchende wirkt der Name klar international und gut einordbar.",
+    "Die Schreibweise mit -k- und -andar kann im Deutschen als markanter und slawisch geprägt wahrgenommen werden.",
+    "Wer eine nüchterne Namenswirkung sucht, findet hier eher einen klassischen als einen modischen Eindruck."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz zur öffentlichen Rezeption ist begrenzt und stammt vor allem aus Namensportalen, nicht aus breit angelegten Meinungsdaten.",
+    "Keine belastbaren Hinweise auf Stigmatisierung oder besonders negative Konnotationen in den Quellen.",
+    "Die Einschätzung sollte daher als vorsichtig und beschreibend verstanden werden, nicht als repräsentatives Stimmungsbild."
+  ],
+  "short_summary": "Aleksandar wird in Deutschland eher sachlich-neutral und als slawische Variante von Alexander mit der Bedeutung „Beschützer/Verteidiger“ wahrgenommen; belastbare Hinweise auf starke positive oder negative öffentliche Effekte sind nicht zu sehen.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Aleksandar � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/A/Al/Aleksandar/"
+    },
+    {
+      "confidence": 0.94,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Aleksandar: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Aleksandar.html"
+    }
+  ],
+  "style_effect": [
+    "sachlich",
+    "namenskundlich",
+    "international/slawisch geprägt",
+    "eher klassisch als modern",
+    "im Deutschen vertraut, aber nicht alltäglich"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Die öffentliche Sichtbarkeit wirkt in Deutschland eher bekannt, aber nicht dominant; die Quellen nennen ihn als vorhandenen, teils selteneren Vornamen. Belastbare Hinweise auf starke aktuelle Trend- oder Imageeffekte sind nicht erkennbar."
+}

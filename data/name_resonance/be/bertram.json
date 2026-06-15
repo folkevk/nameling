@@ -1,0 +1,63 @@
+{
+  "associations": [
+    "althochdeutsche Herkunft",
+    "Bedeutung wie „der glänzende Rabe“ bzw. „der berühmte Rabe“",
+    "alter deutscher Vorname",
+    "selten in Deutschland",
+    "Namenstag",
+    "klassische, historische Namenswirkung",
+    "mögliche Kurzformen wie Berti oder Bertl"
+  ],
+  "confidence": 0.78,
+  "display_text": "Bertram wirkt in der öffentlichen Wahrnehmung wie ein seltener, klassischer deutscher Vorname mit historischer Note. Die Resonanz ist überwiegend neutral bis leicht positiv, aber die Evidenz ist eher schwach und stammt vor allem aus Namenslexika.",
+  "evidence_quality": "schwach bis mittel",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Bertram",
+  "normalized_name": "bertram",
+  "overall_resonance": "Bertram wird öffentlich eher als alter, klassischer und selten vergebener deutscher Vorname wahrgenommen. Die Resonanz ist überwiegend neutral bis leicht positiv, mit eher sachlich-lexikalischem als trendigem Charakter.",
+  "practical_notes": [
+    "Für Suchmaschinen eignet sich eine vorsichtige Beschreibung als klassischer, seltener deutscher Männername.",
+    "Der Name wirkt eher traditionsbewusst als modern-trendig.",
+    "Die geringe Verbreitung kann als Besonderheit oder als ungewohnt wahrgenommen werden, je nach Kontext."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist begrenzt und stammt vor allem aus Namenslexika statt aus breiter öffentlicher Diskussion.",
+    "Aussagen zur Resonanz sind daher nur indirekt aus Herkunft, Beliebtheit und Tonalität abgeleitet.",
+    "Die Wahrnehmung als traditionell oder altmodisch ist eine übliche Namensassoziation, keine objektive Eigenschaft."
+  ],
+  "short_summary": "Bertram wird meist als seltener, klassischer und historisch geprägter deutscher Vorname wahrgenommen; die öffentliche Resonanz ist eher neutral bis leicht positiv.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Bertram � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/B/Be/Bertram/"
+    },
+    {
+      "confidence": 0.9,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Bertram: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Bertram.html"
+    }
+  ],
+  "style_effect": [
+    "altdeutsch",
+    "klassisch",
+    "gehoben bis traditionell",
+    "selten",
+    "historisch",
+    "namenskundlich",
+    "sachlich"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland wirkt der Name wenig präsent und nicht sehr verbreitet; er taucht eher in Namenslexika und Herkunftsseiten auf als im modernen Alltagsgebrauch."
+}

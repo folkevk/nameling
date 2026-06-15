@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "hebräischer Ursprung",
+    "biblischer Name",
+    "Bedeutung im Sinn von 'seht, ein Sohn'",
+    "männlicher Vorname",
+    "Namenstag",
+    "Beliebtheit in Deutschland",
+    "teils auch in den Niederlanden verbreitet"
+  ],
+  "confidence": 0.85,
+  "display_text": "Ruben ist in Deutschland ein eher klassisch und freundlich wirkender Vorname mit biblisch-hebräischem Ursprung. Die öffentliche Wahrnehmung ist überwiegend positiv bis neutral; der Name gilt als vertraut, klar und zeitlos, ohne starke negative Konnotationen. Die Evidenzlage ist jedoch eher schmal und basiert vor allem auf namenskundlichen Webquellen.",
+  "evidence_quality": "mittel: zwei einschlägige, namenskundliche Webquellen mit überwiegend sachlich-positiver Darstellung; keine breite empirische Grundlage, aber konsistente Hinweise.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Ruben",
+  "normalized_name": "ruben",
+  "overall_resonance": "Ruben wirkt in der öffentlichen Namenswahrnehmung in Deutschland überwiegend positiv bis neutral: ein geläufiger, klar als männlich verstandener Vorname mit biblisch-hebräischem Hintergrund und sachlich-klassischer Ausstrahlung.",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt Ruben vertraut, gut aussprechbar und international anschlussfähig.",
+    "Die Schreibweise ist stabil; Varianten oder Kosenamen kommen vor, sind aber für die Grundwahrnehmung nicht entscheidend.",
+    "Der Name vermittelt eher Tradition als Exotik oder starke Individualität."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist begrenzt und stützt sich im Wesentlichen auf zwei namenskundliche Webquellen.",
+    "Es gibt keine belastbaren Hinweise auf negative soziale Stigmatisierung; falls einzelne Vorlieben oder Abneigungen existieren, sind sie nicht als allgemeine Tendenz belegbar."
+  ],
+  "short_summary": "Ruben wird in Deutschland überwiegend als klassischer, biblisch geprägter Jungenname mit positiver bis neutraler Wirkung wahrgenommen.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.95,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Ruben � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/R/Ru/Ruben/"
+    },
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "positive",
+      "source_type": "web",
+      "title": "&#9655; Vorname Ruben: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Ruben.html"
+    }
+  ],
+  "style_effect": [
+    "biblisch-traditionell",
+    "klassisch",
+    "klar und unkompliziert",
+    "sachlich-namenskundlich",
+    "modern genug ohne auffällig trendig zu wirken"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Der Name ist im deutschsprachigen Raum bekannt und sichtbar, ohne als extrem selten oder modisch zugespitzt zu erscheinen. Die vorhandenen Quellen deuten auf solide, eher etablierte Präsenz hin."
+}

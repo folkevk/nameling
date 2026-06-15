@@ -1,0 +1,67 @@
+{
+  "associations": [
+    "Bedeutung: „die am Meer Lebende“",
+    "Herkunft: dänisch bzw. lateinisch/römisch",
+    "Verwandtschaft zu Marina und Maria",
+    "Namenstag: 18. Juni und 17. Juli",
+    "als weiblicher Vorname eingeordnet",
+    "in den Quellen teils als hübsch oder schön beschrieben"
+  ],
+  "confidence": 0.9,
+  "display_text": "Maren wird überwiegend sachlich und positiv wahrgenommen: bekannt, eher selten, mit maritimer Bedeutung und klassischer, freundlicher Wirkung. Die Evidenz ist solide für Herkunft und Einordnung, aber nur begrenzt für breite öffentliche Resonanz.",
+  "evidence_quality": "gut für Bedeutung, Herkunft und Einordnung; nur mittel für echte öffentliche Resonanz, da vor allem lexikalische Quellen vorliegen.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Maren",
+  "normalized_name": "maren",
+  "overall_resonance": "Maren wird öffentlich überwiegend sachlich und eher positiv wahrgenommen. In den Quellen erscheint der Name als vertraut, weiblich und namenkundlich gut eingeordnet, ohne starke Kontroversen oder auffällige negative Konnotationen.",
+  "practical_notes": [
+    "Für Suchmaschinen- oder Kurzprofileignet sich Maren als klarer, unauffälliger Vorname mit maritimer Anmutung.",
+    "Der Name wirkt eher traditionsnah als modisch-experimentell.",
+    "Es gibt keine Hinweise auf eine gesellschaftliche Stigmatisierung in den vorliegenden Quellen."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz zur öffentlichen Resonanz ist begrenzt und besteht stark aus Namenslexika statt aus breiter Diskussionslage.",
+    "Positive Eindrücke stammen teils aus subjektiven Kommentaren und sollten nicht verallgemeinert werden."
+  ],
+  "short_summary": "Maren wirkt öffentlich eher freundlich, klassisch und bekannt, aber nicht sehr häufig. Die Quellen betonen vor allem Herkunft, Bedeutung und eine ruhige, positive Namenswirkung.",
+  "source_count": 3,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Maren � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/M/Ma/Maren/"
+    },
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Maren � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/M/Ma/Maren/"
+    },
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Maren: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Maren.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "nordisch/meerbezogen",
+    "zeitlos",
+    "freundlich",
+    "bodenständig"
+  ],
+  "usable_evidence_count": 3,
+  "visibility": "In Deutschland ist Maren bekannt, aber nicht sehr häufig. Die öffentliche Sichtbarkeit wirkt daher eher moderat als besonders dominant."
+}

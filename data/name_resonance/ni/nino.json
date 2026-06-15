@@ -1,0 +1,72 @@
+{
+  "associations": [
+    "italienisch",
+    "spanisch",
+    "georgisch",
+    "Kurzform",
+    "Namenslexikon",
+    "Namenstag",
+    "Beliebtheit",
+    "Unisex-Name",
+    "Johannes/Giovanni",
+    "Antonio/Antonino"
+  ],
+  "confidence": 0.89,
+  "display_text": "Nino wird im deutschsprachigen Raum meist sachlich bis positiv wahrgenommen: kurz, international und vertraut. Die Quellen nennen verschiedene Herkunfts- und Bedeutungsvarianten sowie teils eine unisexhafte Einordnung. Insgesamt ist die Resonanz eher neutral-positiv, aber nicht ganz einheitlich.",
+  "evidence_quality": "gut bis moderat: mehrere direkte Namensquellen, aber teils redaktionell und mit gemischten Herkunftsangaben",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Nino",
+  "normalized_name": "nino",
+  "overall_resonance": "Der Vorname Nino wird in den Quellen überwiegend sachlich und eher positiv-neutral wahrgenommen. Er wirkt vertraut, kurz und international anschlussfähig, zugleich aber in Herkunft und Geschlechtszuordnung teils mehrdeutig.",
+  "practical_notes": [
+    "Für die öffentliche Wirkung ist vor allem die kurze, internationale Form prägend.",
+    "Bei Kontexten mit eindeutiger Geschlechtszuordnung kann die Mehrdeutigkeit erklärungsbedürftig sein.",
+    "Die Schreib- und Herkunftsvarianten können je nach Quelle unterschiedlich dargestellt werden."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist insgesamt gut, aber nicht völlig einheitlich.",
+    "Mehrere Quellen mischen verschiedene Herkunfts- und Bedeutungsdeutungen.",
+    "Die Einordnung als männlich, weiblich oder unisex variiert je nach Quelle und Region."
+  ],
+  "short_summary": "Nino wirkt öffentlich eher freundlich, modern und international, bei teils uneinheitlicher Herkunfts- und Geschlechtszuordnung. Die Quellen sind insgesamt sachlich, mit leicht positiver Tendenz.",
+  "source_count": 3,
+  "sources": [
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Nino � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/N/Ni/Nino/"
+    },
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Nino � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/N/Ni/Nino/"
+    },
+    {
+      "confidence": 0.94,
+      "is_name_discussion": true,
+      "sentiment": "mixed",
+      "source_type": "web",
+      "title": "&#9655; Vorname Nino: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Nino.html"
+    }
+  ],
+  "style_effect": [
+    "kurz und prägnant",
+    "international klingend",
+    "modern-vertraut",
+    "lexikalisch gut dokumentiert",
+    "teilweise unisex bzw. mehrdeutig eingeordnet"
+  ],
+  "usable_evidence_count": 3,
+  "visibility": "Im deutschsprachigen Namensumfeld ist Nino gut auffindbar und bekannt, vor allem über Namenslexika. Die öffentliche Diskussion wirkt eher informativ als emotional."
+}

@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "arabische Herkunft",
+    "Bedeutungen wie Nacht / dunkle Schönheit",
+    "Varianten wie Laila, Leyla oder Layla",
+    "Bezug zur Liebesgeschichte Leila und Madschnun",
+    "bekannter Vorname mit eher positiver Beschreibung",
+    "teils mit Namenstag-Angaben verknüpft"
+  ],
+  "confidence": 0.73,
+  "display_text": "Leila wirkt in den vorhandenen Namensquellen überwiegend positiv: klangvoll, international und mit poetischen Bedeutungen wie Nacht oder dunkle Schönheit verbunden. In Deutschland scheint der Name bekannt und etabliert zu sein. Die Evidenz ist aber begrenzt, da sie vor allem aus zwei Namenslexikon-Seiten stammt.",
+  "evidence_quality": "eher schwach bis mittel: zwei ähnliche, überwiegend lexikalische Webquellen mit positiver Tendenz, aber keine breite öffentliche Datenbasis.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Leila",
+  "normalized_name": "leila",
+  "overall_resonance": "Überwiegend positiv bis neutral-beschreibend; der Name wird in den vorliegenden Namensquellen meist mit einer angenehmen, klangvollen und international bekannten Wirkung verbunden.",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt Leila freundlich, elegant und vertraut.",
+    "Die Schreibweise ist verbreitet, aber es gibt mehrere geläufige Varianten.",
+    "Wer Eindeutigkeit möchte, sollte die gewünschte Schreibweise bewusst festlegen.",
+    "Die Herkunfts- und Bedeutungsangaben können je nach Quelle leicht variieren."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt fast ausschließlich aus Namenslexika bzw. kuratierten Namensseiten und ist daher nur begrenzt repräsentativ für echte öffentliche Wahrnehmung.",
+    "Positive Formulierungen können durch die Textsorten der Quellen mitgeprägt sein.",
+    "Keine belastbare Aussage über gesellschaftliche Vorurteile oder regionale Subgruppen aus diesen Daten ableitbar."
+  ],
+  "short_summary": "Leila wird in den vorliegenden Quellen überwiegend positiv und als klangvoller, bekannter Vorname beschrieben; die Evidenz ist jedoch schmal und vor allem namenskundlich geprägt.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.86,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "Vorname Leila � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/L/Le/Leila/"
+    },
+    {
+      "confidence": 0.86,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Leila: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Leila.html"
+    }
+  ],
+  "style_effect": [
+    "klangvoll",
+    "weiblich-markant",
+    "international anschlussfähig",
+    "poetisch aufgeladen",
+    "namenskundlich etabliert"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland offenbar gut bekannt und als Vorname präsent, aber die öffentliche Resonanz ist in der Evidenz nur eingeschränkt belegt."
+}

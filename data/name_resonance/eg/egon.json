@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "althochdeutsche Herkunft",
+    "Bedeutung in Richtung 'Schwertstärke' / 'der Schwertstarke'",
+    "historisch belegt",
+    "früher häufiger in Deutschland",
+    "heute eher selten",
+    "Kurzformbezug zu älteren germanischen Namen",
+    "Namenstag"
+  ],
+  "confidence": 0.84,
+  "display_text": "Egon: traditionell, historisch geprägt und heute eher selten. Die öffentliche Resonanz wirkt überwiegend neutral bis leicht positiv, mit einem eher altmodischen, aber klaren und markanten Eindruck.",
+  "evidence_quality": "mittel bis gut: direkte Namensquellen mit klarer etymologischer und beschreibender Information, aber nur wenige Quellen und kaum breite öffentliche Meinungsdaten.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Egon",
+  "normalized_name": "egon",
+  "overall_resonance": "Egon wird in den vorliegenden Quellen überwiegend sachlich und eher traditionell wahrgenommen. Die öffentliche Resonanz wirkt nicht stark emotional, sondern vor allem namenskundlich geprägt: bekannt, aber heute eher selten und dadurch etwas altmodisch im Klang.",
+  "practical_notes": [
+    "Für Suchmaschinenzwecke eignet sich eine Beschreibung als klassisch, kurz und historisch geprägt.",
+    "Die Wirkung ist eher nüchtern als trendig.",
+    "Wenn Modernität oder starke Aktualität gesucht wird, könnte Egon als untypisch erscheinen; wenn Tradition geschätzt wird, eher passend."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stützt sich auf wenige Namenslexikon-Quellen und ist daher nur begrenzt repräsentativ für die gesamte öffentliche Meinung.",
+    "Beliebtheitsaussagen sind in den Quellen nicht völlig einheitlich formuliert.",
+    "Es gibt Hinweise auf einen eher ungewöhnlichen bzw. altmodischen Eindruck, daraus sollte aber kein negatives Urteil abgeleitet werden."
+  ],
+  "short_summary": "Egon wird in den Quellen als traditioneller, historisch belegter und heute eher seltener Vorname beschrieben. Die öffentliche Resonanz wirkt sachlich, leicht altmodisch und insgesamt eher neutral bis leicht positiv.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Egon � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/E/Eg/Egon/"
+    },
+    {
+      "confidence": 0.88,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Egon: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Egon.html"
+    }
+  ],
+  "style_effect": [
+    "traditionell",
+    "altmodisch-im-neutralen-Sinn",
+    "kurz und markant",
+    "sachlich",
+    "historisch-konnotiert"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland ist der Name als Vorname klar bekannt, wirkt im heutigen Gebrauch aber eher wenig verbreitet. Die Sichtbarkeit in der öffentlichen Wahrnehmung scheint daher moderat bis niedrig."
+}

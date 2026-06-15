@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "weiblicher Vorname",
+    "altgriechisch und lateinisch eingeordnet",
+    "Deutung als „die Einzige“, „die Einsiedlerin“ oder „die Mahnerin“",
+    "Namenstag am 27. August",
+    "früher in Deutschland sehr beliebt",
+    "Kurzformen wie Moni, Mona oder Mo"
+  ],
+  "confidence": 0.82,
+  "display_text": "Monika wirkt in Deutschland vor allem klassisch, vertraut und traditionell. Die Quellen beschreiben den Namen überwiegend sachlich-informativ mit leicht positiver Tönung, etwa durch seine Bedeutung, Herkunft und lange Bekanntheit. Eine breite öffentliche Debatte gibt es dazu kaum; die Evidenz ist eher schmal und stammt vor allem aus Namenslexika.",
+  "evidence_quality": "mittel: wenige Quellen, überwiegend Nachschlagewerke statt öffentlicher Debatten",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Monika",
+  "normalized_name": "monika",
+  "overall_resonance": "Überwiegend klassisch, sachlich und eher positiv-konnotiert, aber ohne starke öffentliche Debatte.",
+  "practical_notes": [
+    "Wirkt vertraut und unkompliziert im deutschen Sprachraum.",
+    "Eher klassisch als modern; kann dadurch zeitlos, aber auch etwas generationsgebunden erscheinen.",
+    "Für die Namenssuche ist Monika vor allem als etablierter, historischer Vorname präsent."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt nur aus wenigen, vor allem lexikalischen Quellen.",
+    "Es gibt kaum direkte öffentliche Diskussion oder breite soziale Bewertung des Namens.",
+    "Die leichte Positiveinschätzung beruht eher auf Bedeutungs- und Traditionszusammenhängen als auf klaren Meinungsbildern."
+  ],
+  "short_summary": "Monika wird in Deutschland vor allem als klassischer, traditioneller und gut bekannter Vorname wahrgenommen. Die vorhandene Evidenz ist sachlich und eher positiv, aber nicht besonders breit; eine starke öffentliche Meinungsbildung ist kaum sichtbar.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Monika � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/M/Mo/Monika/"
+    },
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Monika: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Monika.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "traditionell",
+    "namenskundlich",
+    "eher zeitlos",
+    "sachlich-informativ"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Der Name ist in Deutschland gut bekannt und klar verankert, wirkt heute eher traditionell als trendig."
+}

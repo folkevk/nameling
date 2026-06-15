@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "althochdeutsche Herkunft",
+    "Bedeutung in Richtung edel/berühmt",
+    "Kurzform von Adalmar",
+    "Namenstag",
+    "selten",
+    "unverwechselbar",
+    "klassisch-traditionell"
+  ],
+  "confidence": 0.82,
+  "display_text": "Elmar wirkt in den verfügbaren Quellen überwiegend neutral bis leicht positiv: ein traditioneller, altdeutsch geprägter und eher seltener Vorname mit klarer Bedeutungsherkunft. Die Evidenz ist jedoch begrenzt und stammt vor allem aus Namenslexika, nicht aus einer breiten öffentlichen Diskussion.",
+  "evidence_quality": "Mittel: zwei klare Namenslexika mit überwiegend beschreibender, teils leicht positiver Tonalität; jedoch geringe Breite und keine echte öffentliche Debatte.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Elmar",
+  "normalized_name": "elmar",
+  "overall_resonance": "Überwiegend neutral bis leicht positiv. Der Name wird vor allem sachlich-namenskundlich wahrgenommen: traditionell, altdeutsch, selten und mit klarer Bedeutungsherkunft. Eine breite öffentliche Debatte ist in der vorliegenden Evidenz nicht erkennbar.",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt Elmar eher ruhig, klassisch und traditionsnah.",
+    "Die Quellen sprechen eher für einen sachlich positiven Eindruck als für einen modernen Trendnamen.",
+    "Die Beleglage ist ausreichend für eine vorsichtige Einordnung, aber nicht für eine starke gesellschaftliche Gesamtbewertung."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist begrenzt und besteht vor allem aus Namenslexika, nicht aus einer breiten öffentlichen Diskussion.",
+    "Die positive Tönung stammt überwiegend aus beschreibenden Quellen und sollte nicht als allgemeine Mehrheitsmeinung überinterpretiert werden."
+  ],
+  "short_summary": "Elmar wird in den Quellen überwiegend neutral bis leicht positiv und traditionell eingeordnet; die Evidenz ist aber eher lexikalisch als gesellschaftlich breit.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Elmar � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/E/El/Elmar/"
+    },
+    {
+      "confidence": 0.9,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Elmar: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Elmar.html"
+    }
+  ],
+  "style_effect": [
+    "traditionell",
+    "klassisch-althochdeutsch",
+    "selten",
+    "eher zeitlos",
+    "namenskundlich prägnant",
+    "sachlich statt modisch"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Eher niedrig bis mittel. In den Quellen erscheint Elmar als bekannt genug für Namenslexika und Rankings, aber nicht als stark diskutierter oder trenddominanter Vorname."
+}

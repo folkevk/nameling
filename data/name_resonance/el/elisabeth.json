@@ -1,0 +1,67 @@
+{
+  "associations": [
+    "biblischer Ursprung",
+    "hebräische Herkunft",
+    "Bedeutung mit religiösem Bezug",
+    "Namenstag",
+    "Deutschland",
+    "historisch beliebt",
+    "viele Kurzformen und Varianten",
+    "Lisa",
+    "Lissi",
+    "Elli",
+    "Sissi"
+  ],
+  "confidence": 0.93,
+  "display_text": "Elisabeth wird in Deutschland überwiegend positiv, klassisch und traditionsreich wahrgenommen. Der Name hat einen klaren biblisch-hebräischen Hintergrund, wirkt zeitlos und ist durch viele Kurzformen flexibel nutzbar. Die Evidenz stammt jedoch vor allem aus Namenslexika, nicht aus breiten öffentlichen Debatten.",
+  "evidence_quality": "Gut für Herkunft, Bedeutung und Namenscharakter; begrenzt für echte öffentliche Meinungsresonanz, da die Quellen überwiegend beschreibend sind.",
+  "generated_at": "2026-06-12T06:08:03Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Elisabeth",
+  "normalized_name": "elisabeth",
+  "overall_resonance": "Elisabeth wird in der verfügbaren Evidenz überwiegend positiv und sehr klassisch wahrgenommen. Der Name wirkt traditionell, historisch verankert und namenskundlich klar etabliert. Die öffentliche Rezeption erscheint eher wertschätzend als kontrovers.",
+  "practical_notes": [
+    "Für Suchmaschinen und Namensprofile eignet sich Elisabeth als etablierter, klassischer Vorname.",
+    "Die Kurzformen bieten im Alltag viel Flexibilität.",
+    "Die Wahrnehmung kann je nach Kontext eher feierlich, traditionell oder elegant wirken."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt fast ausschließlich aus Namenslexika; echte öffentliche Diskussionen sind kaum sichtbar.",
+    "Bewertungen sind daher eher informativ als meinungsstark.",
+    "Keine Aussagen über konkrete Personen ableiten."
+  ],
+  "short_summary": "Elisabeth gilt in Deutschland als klassischer, traditioneller und positiv besetzter Vorname mit starkem biblisch-hebräischem Hintergrund. Die Evidenz ist solide, aber vor allem lexikalisch.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Elisabeth � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/E/El/Elisabeth/"
+    },
+    {
+      "confidence": 0.95,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Elisabeth: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Elisabeth.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "traditionell",
+    "elegant",
+    "zeitlos",
+    "historisch",
+    "seriös",
+    "namenskundlich klar eingeordnet"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Sehr hoch: Der Name ist in Deutschland bekannt und gut dokumentiert. Die vorliegende Evidenz ist jedoch vor allem lexikalisch und nicht breit aus öffentlichen Meinungsdebatten abgeleitet."
+}

@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "althochdeutscher Ursprung",
+    "„die Milde im Volk“ bzw. sinngemäß freundlich/mild",
+    "Namenstag am 22. Januar",
+    "selten in Deutschland",
+    "klassisch-traditioneller Eindruck"
+  ],
+  "confidence": 0.84,
+  "display_text": "Dietlind ist in Deutschland eher selten und wirkt traditionell-altdeutsch. Die verfügbaren Quellen betonen vor allem die positive Namensbedeutung und den historischen Charakter, liefern aber nur schwache Hinweise auf eine breitere öffentliche Wahrnehmung.",
+  "evidence_quality": "eher schwach bis mittel: hauptsächlich lexikalische Namensseiten, wenig echte öffentliche Resonanz",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Dietlind",
+  "normalized_name": "dietlind",
+  "overall_resonance": "Dietlind wirkt in der öffentlichen Wahrnehmung eher selten, traditionell und altdeutsch. Die vorhandenen Quellen beschreiben den Namen überwiegend sachlich und leicht positiv über seine Bedeutung, aber die Evidenz für echte öffentliche Resonanz ist schwach.",
+  "practical_notes": [
+    "Für Suchmaschinen-Nutzer ist Dietlind vor allem als seltener, historisch geprägter Vorname einzuordnen.",
+    "Die wahrgenommene Wirkung hängt stark vom Umfeld ab, wird aber meist als klassisch und eher ungewöhnlich beschrieben.",
+    "Die Quellenlage erlaubt nur eine vorsichtige Zusammenfassung, keine starke Trend-Aussage."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt fast nur aus Namenslexika und enthält kaum unabhängige öffentliche Diskussion.",
+    "Einzelne Nutzerkommentare sind anekdotisch und nicht verallgemeinerbar.",
+    "Es gibt keinen belastbaren Hinweis auf breite, aktuelle Popularität oder auf klare gesellschaftliche Vorurteile gegen den Namen."
+  ],
+  "short_summary": "Dietlind wird überwiegend als seltener, traditioneller und altdeutscher Vorname beschrieben; die Bedeutung wirkt positiv, doch belastbare Hinweise auf breite öffentliche Resonanz sind begrenzt.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Dietlind � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/D/Di/Dietlind/"
+    },
+    {
+      "confidence": 0.95,
+      "is_name_discussion": true,
+      "sentiment": "mixed",
+      "source_type": "web",
+      "title": "&#9655; Vorname Dietlind: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Dietlind.html"
+    }
+  ],
+  "style_effect": [
+    "traditionell",
+    "altdeutsch",
+    "namenskundlich",
+    "selten",
+    "eher sachlich als modern",
+    "durch die Bedeutung leicht positiv konnotiert"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland scheint der Name wenig verbreitet und damit eher auffällig als geläufig zu sein."
+}

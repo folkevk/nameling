@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "Verbindung zu Andreas",
+    "altgriechischer Ursprung",
+    "Bedeutung im Umfeld von „tapfer“ und „mannhaft“",
+    "selten in Deutschland",
+    "als männliche Form, teils auch unisex beschrieben",
+    "Schreibvariante mit Nähe zu Andrée"
+  ],
+  "confidence": 0.91,
+  "display_text": "Andree wird vor allem als seltener, klassisch wirkender Name mit griechischem Ursprung wahrgenommen. Die öffentliche Resonanz ist in den verfügbaren Quellen überwiegend neutral bis leicht positiv. Allerdings ist die Evidenz dünn und stammt fast nur aus Namenslexika, nicht aus breiter öffentlicher Diskussion.",
+  "evidence_quality": "mittel bis schwach: inhaltlich klar, aber fast nur lexikalische Sekundärquellen ohne echte Diskussionsbreite",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Andree",
+  "normalized_name": "andree",
+  "overall_resonance": "Andree wird in der vorliegenden Evidenz vor allem sachlich und namenskundlich wahrgenommen: als seltene, eher klassische Form mit griechischem Ursprung und der Bedeutung im Umfeld von „tapfer/männlich“. Die öffentliche Resonanz wirkt insgesamt neutral bis leicht positiv, ohne starke emotionale oder kontroverse Aufladung.",
+  "practical_notes": [
+    "Für Suchmaschinen wirkt der Name eher eindeutig, aber nicht massenhaft verbreitet.",
+    "Die Schreibweise kann mit Andrée verwechselt werden; das ist bei der Einordnung relevant.",
+    "Wer einen seltenen, traditionellen Namen sucht, findet hier eine unaufgeregte, klassische Wirkung."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist stark auf Namenslexikon-Seiten begrenzt; echte öffentliche Meinungsbilder sind kaum sichtbar.",
+    "Die Einordnung als unisex oder weiblich/männlich kann je nach Schreibweise und Kontext variieren.",
+    "Aus den Daten lässt sich keine belastbare soziale Bewertung oder breite Bekanntheit ableiten."
+  ],
+  "short_summary": "Andree wirkt in Deutschland selten, klassisch und sachlich; die Resonanz ist überwiegend neutral bis leicht positiv, bei begrenzter Evidenzlage.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.95,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Andree � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/A/An/Andree/"
+    },
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Andree � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/A/An/Andree/"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "lexikalisch",
+    "selten",
+    "leicht traditionsbezogen",
+    "formal"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Eher gering bis mittel: In Deutschland wird der Name als selten beschrieben, und die verfügbare Evidenz stammt fast ausschließlich aus Namenslexika statt aus breiter öffentlicher Diskussion."
+}

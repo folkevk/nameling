@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "althochdeutsche bzw. westgermanische Herkunft",
+    "Bedeutung in Richtung \"der wie der Tag Glänzende\"",
+    "Koseform von Tasso",
+    "Namenstag am 11. Dezember",
+    "selten/ungewöhnlich",
+    "historisch geprägt"
+  ],
+  "confidence": 0.83,
+  "display_text": "Tassilo wirkt in der öffentlichen Wahrnehmung überwiegend sachlich bis leicht positiv: ein seltener, historisch-traditioneller Name mit markantem Klang und namenkundlichem Interesse. Die Quellen betonen Herkunft, Bedeutung und Namenstag, liefern aber nur begrenzt repräsentative Alltagsresonanz.",
+  "evidence_quality": "mittel: zwei einschlägige Namensquellen, aber überwiegend portalbasiert und nicht breit gesellschaftlich belegt.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Tassilo",
+  "normalized_name": "tassilo",
+  "overall_resonance": "Überwiegend sachlich bis leicht positiv. Der Name wirkt in den Quellen vor allem historisch, traditionsnah und sprachlich interessant; eine starke Alltagspräsenz scheint er nicht zu haben.",
+  "practical_notes": [
+    "Gut geeignet, wenn ein seltener, traditionsreicher Name gesucht wird.",
+    "Die Aussprache und Schreibweise sind klar, der Name bleibt aber durch seine Seltenheit besonders auffällig.",
+    "Für eine öffentliche Einschätzung sollte man den Namen eher als historisch-markant als als trendig einordnen."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt vor allem aus Namensportalen und ist daher nur eingeschränkt repräsentativ.",
+    "Etymologische Deutungen wirken teils unsicher bzw. nicht vollständig gesichert.",
+    "Keine belastbaren Hinweise auf starke positive oder negative gesellschaftliche Vorurteile in den vorliegenden Quellen."
+  ],
+  "short_summary": "Tassilo wird öffentlich vor allem als seltener, historisch-traditioneller Jungenname wahrgenommen, mit eher sachlich-positiver Resonanz und einigen etymologischen Unsicherheiten.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Tassilo � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/T/Ta/Tassilo/"
+    },
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "eher positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Tassilo: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Tassilo.html"
+    }
+  ],
+  "style_effect": [
+    "historisch-traditionell",
+    "eher edel/klassisch",
+    "selten und markant",
+    "sprachlich ungewohnt, aber gut einprägsam",
+    "namenskundlich interessant"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland eher selten und dadurch auffällig, aber nicht breit verbreitet. Die öffentliche Wahrnehmung in den Quellen ist eher namenkundlich als meinungsstark."
+}

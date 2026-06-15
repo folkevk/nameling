@@ -1,0 +1,53 @@
+{
+  "associations": [
+    "französische Form von Benedikt/Benedict",
+    "Bedeutung: „der Gesegnete“",
+    "lateinischer Ursprung",
+    "selten",
+    "bekannt durch den Namen Benediktus von Nursia",
+    "Kurzform/Anschluss an „Ben\""
+  ],
+  "confidence": 0.69,
+  "display_text": "Benoît wird im Deutschen eher selten, aber meist freundlich und elegant wahrgenommen. Der Name klingt französisch, klassisch und besonders; zugleich ist die Evidenz zur öffentlichen Gesamtresonanz begrenzt und stützt sich vor allem auf eine Namenslexikon-Quelle mit wenigen positiven Rückmeldungen.",
+  "evidence_quality": "Begrenzt: eine thematisch passende Namenslexikon-Quelle mit positiven Tendenzen und wenigen Nutzerkommentaren; keine breite Mehrquellenlage.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Benoît",
+  "normalized_name": "benoit",
+  "overall_resonance": "Eher positiv und elegant wahrgenommen, mit klarer französischer Note. Die öffentliche Rezeption wirkt freundlich, aber insgesamt auf Basis der vorliegenden Quelle nur begrenzt abgesichert.",
+  "practical_notes": [
+    "Für deutschsprachige Kontexte wirkt der Name markant und international.",
+    "Die Schreibweise mit Zirkumflex kann im Alltag gelegentlich erklärungsbedürftig sein.",
+    "Als seltene, französisch geprägte Form kann der Name stilistisch als besonders wahrgenommen werden."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist schwach für eine allgemeine öffentliche Gesamtresonanz; es liegt vor allem eine Namenslexikon-Quelle mit wenigen Rückmeldungen vor.",
+    "Einzelne positive Kommentare sollten nicht als repräsentativ für die gesamte Wahrnehmung verstanden werden.",
+    "Keine belastbaren Hinweise auf soziale Stigmatisierung in den vorliegenden Daten."
+  ],
+  "short_summary": "Benoît wirkt im deutschen Raum selten, französisch und elegant; die vorliegende Evidenz zeigt eher positive als negative Resonanz, ist aber nur begrenzt aussagekräftig.",
+  "source_count": 1,
+  "sources": [
+    {
+      "confidence": 0.91,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Benoît: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Beno%C3%AEt.html"
+    }
+  ],
+  "style_effect": [
+    "französisch",
+    "kultiviert",
+    "klassisch",
+    "selten",
+    "weicher Klang",
+    "elegant"
+  ],
+  "usable_evidence_count": 1,
+  "visibility": "Im deutschen Raum eher selten und dadurch auffälliger als alltägliche Standardnamen. Die Sichtbarkeit scheint vor allem über Namenslexika und einzelne Nutzerstimmen zu laufen, nicht über breite Alltagspräsenz."
+}

@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "Bedeutung wird meist als „kühner Beschützer“ angegeben",
+    "westgotische bzw. gotische Herkunft",
+    "italienische, portugiesische und spanische Form von Ferdinand",
+    "Namenstag am 30. Mai",
+    "Spitznamen wie Nando, Ferdi, Ferni oder Nano",
+    "Popkultur-Bezug über den ABBA-Song „Fernando\""
+  ],
+  "confidence": 0.78,
+  "display_text": "Fernando wirkt in deutschen Namensquellen überwiegend positiv: klangvoll, international und leicht mediterran. Die Belege stammen jedoch fast nur aus Namenslexika, daher ist die Einschätzung zur öffentlichen Rezeption vorsichtig zu lesen.",
+  "evidence_quality": "mittel bis eher schwach für öffentliche Meinungsbildung, gut für namenskundliche Einordnung",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Fernando",
+  "normalized_name": "fernando",
+  "overall_resonance": "Fernando wird in den vorliegenden deutschsprachigen Namensquellen überwiegend positiv und klanglich attraktiv beschrieben, mit einem eher internationalen, mediterranen Eindruck. Die öffentliche Resonanz wirkt sachlich bis freundlich, nicht kontrovers.",
+  "practical_notes": [
+    "Für Suchmaschinen-Nutzung eignet sich Fernando als klar verständlicher, international anschlussfähiger Name.",
+    "Die Resonanz dürfte besonders bei Menschen ankommen, die klangvolle, südländisch wirkende Namen mögen.",
+    "Die Quellenlage ist eher beschreibend als diskussionsbasiert; die Aussage zur öffentlichen Rezeption bleibt daher vorsichtig."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt fast ausschließlich aus Namenslexika und redaktionellen Namensseiten.",
+    "Daraus lässt sich nur eingeschränkt auf eine breite öffentliche Meinung schließen.",
+    "Keine belastbaren Hinweise auf Stigmatisierung oder negative gesellschaftliche Zuschreibungen in den vorliegenden Quellen."
+  ],
+  "short_summary": "Fernando wird im Deutschen überwiegend positiv, klangvoll und international wahrgenommen. Die Aussage beruht vor allem auf Namenslexika; für eine breite öffentliche Debatte ist die Evidenz begrenzt.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "Vorname Fernando � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/F/Fe/Fernando/"
+    },
+    {
+      "confidence": 0.92,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Fernando: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Fernando.html"
+    }
+  ],
+  "style_effect": [
+    "international und südlich geprägt",
+    "klangvoll und weich",
+    "klassisch-traditionell mit moderner Vertrautheit",
+    "eher markant als alltäglich",
+    "namenskundlich gut anschlussfähig"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Im deutschsprachigen Raum bekannt, aber eher kein typischer Alltagsname mit hoher Breitenpräsenz. Die Wahrnehmung scheint vor allem über Namenslexika, Herkunftsbeschreibungen und Popkultur-Bezüge geprägt zu sein."
+}

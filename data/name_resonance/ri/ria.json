@@ -1,0 +1,63 @@
+{
+  "associations": [
+    "Kurzform von Maria",
+    "deutsch",
+    "niederländisch",
+    "englisch",
+    "weiblicher Vorname",
+    "selten bis moderat gebräuchlich",
+    "Namenstag am 12. September",
+    "Bedeutung wird teils als variierend beschrieben",
+    "ähnliche Varianten: Rea, Rya"
+  ],
+  "confidence": 0.74,
+  "display_text": "Ria wirkt in Deutschland eher kurz, modern und freundlich. Der Name ist bekannt, aber nicht alltäglich, und die verfügbare Resonanz ist vor allem namenkundlich geprägt. Insgesamt zeigt sich eine leicht positive, unaufgeregte Wahrnehmung bei begrenzter öffentlicher Evidenz.",
+  "evidence_quality": "mittel bis eher schwach für öffentliche Resonanz; gut für namenkundliche Beschreibung, aber begrenzt für breite Rezeption.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Ria",
+  "normalized_name": "ria",
+  "overall_resonance": "Eher freundlich und modern wahrgenommen, insgesamt aber mit nur begrenzter öffentlicher Evidenz. Der Name Ria wird vor allem sachlich-namenkundlich beschrieben und teils positiv als kurz, selten und eingängig eingeordnet.",
+  "practical_notes": [
+    "Für Suchmaschinen- und Namenskontext wirkt Ria kurz, klar und gut merkbar.",
+    "Die Seltenheit kann als eigenständig empfunden werden, ohne exotisch zu wirken.",
+    "Die Wahrnehmung ist eher neutral bis freundlich; klare negative Muster sind in der Evidenz nicht dominant."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt überwiegend aus Namenslexika; öffentliche Breitenresonanz ist nur schwach belegt.",
+    "Einzelne irritierende Nebenassoziationen in Kommentaren sind anekdotisch und nicht repräsentativ.",
+    "Bedeutungsangaben können je nach Quelle variieren; daraus sollte keine feste Deutung abgeleitet werden."
+  ],
+  "short_summary": "Ria wird in Deutschland meist als kurzer, seltener und eher freundlich wirkender Vorname beschrieben. Die öffentliche Resonanz ist überwiegend sachlich-informativ mit leicht positiver Tendenz, aber nur schwach breit belegt.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Ria � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/R/Ri/Ria/"
+    },
+    {
+      "confidence": 0.91,
+      "is_name_discussion": true,
+      "sentiment": "überwiegend positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Ria: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Ria.html"
+    }
+  ],
+  "style_effect": [
+    "kurz und prägnant",
+    "modern-heller Klang",
+    "eher selten als häufig",
+    "international anschlussfähig",
+    "als Kurzform wahrgenommen"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland eher bekannt, aber nicht alltäglich; die verfügbare Resonanz wirkt überwiegend aus Namenslexika und einzelnen Kommentaren, nicht aus breiter öffentlicher Debatte."
+}

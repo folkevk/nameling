@@ -1,0 +1,63 @@
+{
+  "associations": [
+    "„der Gerechte“",
+    "Kurzform von Justinus / Form von Justus",
+    "lateinischer Ursprung",
+    "Beliebtheit in Deutschland",
+    "englische und französische Form",
+    "Namenstag am 1. Juni",
+    "Popkultur-Bezug zu Justin Bieber",
+    "Image-Diskussion seit den 1990ern"
+  ],
+  "confidence": 0.93,
+  "display_text": "Justin: In deutschen Namensquellen überwiegend sachlich bis leicht positiv beschrieben. Der Name ist bekannt, modern und international vertraut; zentral sind die Bedeutung „der Gerechte“, der lateinische Ursprung und gelegentliche Popkultur- bzw. Imagebezüge. Diese betreffen die öffentliche Wahrnehmung, nicht den Namen selbst.",
+  "evidence_quality": "gut: direkt namebezogene Quellen, überwiegend lexikalisch-informativ; leicht gemischte öffentliche Resonanz mit begrenzten, aber klaren Hinweisen auf Image- und Popkulturbezüge.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Justin",
+  "normalized_name": "justin",
+  "overall_resonance": "Justin wird in deutschsprachigen Namensquellen überwiegend sachlich bis leicht positiv beschrieben. Im Vordergrund stehen die Bedeutung „der Gerechte“, der lateinische Ursprung sowie die bekannte, seit Jahren präsente Nutzung im deutschen Sprachraum. Gleichzeitig tauchen in einigen Quellen Image- und Popkulturbezüge auf, die eher die öffentliche Wahrnehmung als den Namen selbst betreffen.",
+  "practical_notes": [
+    "Der Name ist im deutschsprachigen Raum gut bekannt und leicht einzuordnen.",
+    "Die Bedeutung ist klar und meist positiv konnotiert.",
+    "Durch die internationale Form wirkt Justin auch außerhalb des Deutschen vertraut.",
+    "Für eine neutrale Namenswahl ist er unauffällig bis modern, ohne stark regionale Bindung."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Ein Teil der öffentlichen Wahrnehmung beruht auf allgemeinen Image-Diskussionen und nicht auf der Bedeutung des Namens selbst.",
+    "Die Evidenz stammt vor allem aus Namenslexika und Übersichtsseiten; das ist brauchbar, aber keine breit angelegte Meinungsstudie.",
+    "Mögliche Popkultur-Assoziationen sollten nicht als feste Eigenschaft des Namens verstanden werden."
+  ],
+  "short_summary": "Justin wird in Deutschland meist sachlich und leicht positiv wahrgenommen: bekannt, modern und international vertraut, mit der Bedeutung „der Gerechte“.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "mixed",
+      "source_type": "web",
+      "title": "Vorname Justin � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/J/Ju/Justin/"
+    },
+    {
+      "confidence": 0.95,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Justin: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Justin.html"
+    }
+  ],
+  "style_effect": [
+    "sachlich",
+    "modern",
+    "international anschlussfähig",
+    "namenskundlich bekannt",
+    "leicht popkulturell aufgeladen"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "hoch"
+}

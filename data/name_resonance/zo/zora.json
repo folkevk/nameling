@@ -1,0 +1,62 @@
+{
+  "associations": [
+    "Morgenröte",
+    "Morgendämmerung",
+    "slawischer Ursprung",
+    "altslawische Namenstradition",
+    "mythologische Bezüge",
+    "selten",
+    "ausgefallen",
+    "weiblicher Vorname"
+  ],
+  "confidence": 0.86,
+  "display_text": "Zora ist in Deutschland eher selten, wirkt aber freundlich, poetisch und markant. Die öffentliche Rezeption ist überwiegend neutral bis positiv; geprägt von Bedeutungen wie Morgenröte und Morgendämmerung sowie von einem leicht exotischen, künstlerischen Klang.",
+  "evidence_quality": "Solide Namens-Evidenz aus zwei einschlägigen Quellen; öffentliche Resonanz ist jedoch nur mittelbar erfassbar und nicht durch groß angelegte Umfragedaten belegt.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Zora",
+  "normalized_name": "zora",
+  "overall_resonance": "Zora wirkt im deutschsprachigen Raum als eher seltener, klar weiblich gelesener Vorname mit freundlicher, poetischer Ausstrahlung. Die öffentliche Wahrnehmung ist überwiegend neutral bis positiv und stark über Bedeutung und Klang geprägt.",
+  "practical_notes": [
+    "Der Name ist kurz, gut merkbar und im Deutschen leicht aussprechbar.",
+    "Durch die Bedeutung wirkt er positiv und bildhaft.",
+    "Wegen der Seltenheit kann er auffallen, bleibt aber meist unkompliziert."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die öffentliche Resonanz ist nur indirekt aus Namensseiten und Kommentaren ableitbar; belastbare breite Bevölkerungsdaten fehlen hier.",
+    "Einzelne Popkultur- oder Kommentarbezüge sollten nicht als allgemeine Wahrnehmung überinterpretiert werden."
+  ],
+  "short_summary": "Zora wird in Deutschland meist als seltener, klangvoller und eher positiv besetzter Mädchenname wahrgenommen, mit starken Assoziationen an Morgenröte und einen poetisch-slawischen Ursprung.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Zora � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/Z/Zo/Zora/"
+    },
+    {
+      "confidence": 0.9,
+      "is_name_discussion": true,
+      "sentiment": "mixed",
+      "source_type": "web",
+      "title": "&#9655; Vorname Zora: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Zora.html"
+    }
+  ],
+  "style_effect": [
+    "weich",
+    "poetisch",
+    "farbenreich",
+    "leicht exotisch",
+    "kurz und markant",
+    "künstlerisch anschlussfähig"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Eher geringe bis mittlere Sichtbarkeit in Deutschland; der Name erscheint in Namenslexika und vereinzelten Diskussionen, aber nicht als sehr verbreiteter Alltagsname."
+}

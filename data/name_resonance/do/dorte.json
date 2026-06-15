@@ -1,0 +1,50 @@
+{
+  "associations": [
+    "dänische Kurzform von Dorothea",
+    "Bedeutung: Geschenk Gottes",
+    "weiblicher Vorname",
+    "selten in Deutschland",
+    "Namensdatenbank und Namenskunde"
+  ],
+  "confidence": 0.78,
+  "display_text": "Dorte wirkt in Deutschland selten und eher ruhig positiv konnotiert. Der Name ist vor allem namenskundlich als dänische Kurzform von Dorothea mit der Bedeutung ‚Geschenk Gottes‘ belegt; eine breite öffentliche Resonanz ist in der vorliegenden Evidenz kaum sichtbar.",
+  "evidence_quality": "mittel bis schwach: klare namenskundliche Evidenz, aber kaum direkte öffentliche Außenresonanz.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Dorte",
+  "normalized_name": "dorte",
+  "overall_resonance": "Vorsichtig leicht positiv, aber insgesamt nur schwach belegt.",
+  "practical_notes": [
+    "Für Suchmaschinen-Nutzung besser als ‚selten und leicht positiv konnotiert‘ zusammenfassen.",
+    "Keine starke Popularitätsaussage ableiten.",
+    "Wenn gewünscht, kann die Herkunft als dänische Kurzform von Dorothea separat hervorgehoben werden."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die öffentliche Resonanz außerhalb der genannten Quelle ist nur indirekt belegt.",
+    "Bewertende Rückmeldungen sind nur angedeutet, nicht breit nachweisbar.",
+    "Die Seltenheit kann je nach Kontext als charakteristisch oder ungewohnt empfunden werden; dafür gibt es hier aber keine robuste externe Evidenz."
+  ],
+  "short_summary": "Dorte ist in Deutschland ein seltener Vorname mit eher leicht positiver, sachlich-namenskundlicher Resonanz; die öffentliche Wahrnehmung ist jedoch nur schwach belegt.",
+  "source_count": 1,
+  "sources": [
+    {
+      "confidence": 0.88,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "Vorname Dorte � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/D/Do/Dorte/"
+    }
+  ],
+  "style_effect": [
+    "klingt kurz, klar und nordisch bzw. dänisch geprägt",
+    "wirkt traditionsnah und eher unauffällig",
+    "die Seltenheit kann den Namen für manche markanter machen",
+    "die Bedeutung als ‚Geschenk Gottes‘ kann positiv wahrgenommen werden"
+  ],
+  "usable_evidence_count": 1,
+  "visibility": "In Deutschland wirkt Dorte eher selten und dadurch öffentlich wenig präsent. Die verfügbare Evidenz stammt vor allem aus einer Namensdatenbank und zeigt keine breite externe Resonanz."
+}

@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "französische Form von Julia",
+    "lateinischer Ursprung",
+    "Bedeutung: aus dem Geschlecht der Julier stammend bzw. dem Jupiter geweiht",
+    "Namenstag",
+    "international verbreitet",
+    "in Deutschland als alternative Schreib- oder Namensform wahrgenommen"
+  ],
+  "confidence": 0.79,
+  "display_text": "Julie wird überwiegend sachlich bis leicht positiv wahrgenommen: kurz, international und klassisch-französisch geprägt. In Deutschland gilt der Name als bekannte Alternative zu Julia und Jule. Die Evidenz ist allerdings begrenzt und stammt vor allem aus Namenslexika.",
+  "evidence_quality": "mittel bis begrenzt: zwei überwiegend lexikalische Quellen, beide mit klarer Namensdiskussion, aber ohne breite unabhängige öffentliche Resonanzlage.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Julie",
+  "normalized_name": "julie",
+  "overall_resonance": "Julie wird in den vorliegenden Quellen überwiegend sachlich bis leicht positiv wahrgenommen: als international gebräuchlicher, eher klassisch-französisch geprägter Vorname mit klarer Herkunft und moderner, kurzer Klangwirkung.",
+  "practical_notes": [
+    "Gut verständlich und leicht aussprechbar im deutschen Sprachraum.",
+    "Wirkt durch die Kürze modern, bleibt aber traditionsnah.",
+    "Als internationaler Name in mehreren Sprachen anschlussfähig.",
+    "Die Wahrnehmung dürfte stark von der Nähe zu Julia und Jule geprägt sein."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist begrenzt und stützt sich im Wesentlichen auf Namenslexika, nicht auf eine breite öffentliche Debatte.",
+    "Daher nur vorsichtig von allgemeiner Resonanz sprechen; regionale oder generationenspezifische Unterschiede sind möglich.",
+    "Keine belastbaren Hinweise auf Stigmatisierung oder negative gesellschaftliche Vorurteile in den Quellen."
+  ],
+  "short_summary": "Julie wird in den Quellen als internationaler, klassisch-französisch geprägter Vorname mit eher positiver und unaufgeregter Resonanz beschrieben. In Deutschland erscheint er als bekannte Alternative zu Julia und Jule, ohne erkennbare Kontroversen.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Julie � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/J/Ju/Julie/"
+    },
+    {
+      "confidence": 0.91,
+      "is_name_discussion": true,
+      "sentiment": "eher positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Julie: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Julie.html"
+    }
+  ],
+  "style_effect": [
+    "klingt kurz, weich und international",
+    "wirkt klassisch-französisch und zugleich zeitgemäß",
+    "wird eher informativ als emotional diskutiert",
+    "erscheint als elegante Alternative zu Julia/Jule"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Im deutschsprachigen Raum wirkt der Name bekannt und als Schreib- bzw. Namensalternative zu Julia und Jule sichtbar, jedoch ohne Hinweis auf besondere Kontroversen oder starke öffentliche Debatten."
+}

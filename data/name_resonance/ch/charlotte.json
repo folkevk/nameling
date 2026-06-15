@@ -1,0 +1,63 @@
+{
+  "associations": [
+    "französische Koseform",
+    "althochdeutscher Ursprung",
+    "Bedeutung: die Freie",
+    "weiblicher Vorname",
+    "Namenstag am 17. Juli",
+    "sehr beliebt in Deutschland",
+    "klassisch/altdeutsch",
+    "internationale Verbreitung",
+    "Spitznamen wie Lotte, Lotti, Charly"
+  ],
+  "confidence": 0.95,
+  "display_text": "Charlotte wird öffentlich vor allem als klassischer, eleganter und sehr bekannter Vorname wahrgenommen. Die verfügbaren Quellen betonen die historische Herkunft, die Bedeutung „die Freie“ und die hohe Beliebtheit in Deutschland. Insgesamt ist die Rezeption klar positiv, ohne erkennbare soziale Stigmatisierung.",
+  "evidence_quality": "hoch; zwei thematisch passende, klar auf den Vornamen bezogene Lexikonquellen mit überwiegend konsistenter positiver Einordnung",
+  "generated_at": "2026-06-12T06:08:03Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Charlotte",
+  "normalized_name": "charlotte",
+  "overall_resonance": "Charlotte wird in der vorliegenden Evidenz überwiegend sehr positiv und klassisch wahrgenommen: als traditionsreicher, international verständlicher Mädchenname mit klarer historischer Verankerung und hoher Beliebtheit in Deutschland.",
+  "practical_notes": [
+    "Für Suchmaschinen-Nutzer wirkt der Name freundlich, etabliert und leicht einzuordnen.",
+    "Die Kürzungs- und Spitznamensvielfalt kann den Namen im Alltag flexibel machen.",
+    "Die positive Wahrnehmung beruht vor allem auf Herkunft, Klang und klassischer Verbreitung."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt fast ausschließlich aus Namenslexika und beschreibt den Namen selbst; eine breite öffentliche Debatte ist nicht erkennbar.",
+    "Beliebtheitsaussagen sollten als lexikalische Einordnung verstanden werden, nicht als vollständiges Stimmungsbild der Gesamtbevölkerung."
+  ],
+  "short_summary": "Charlotte gilt in den Quellen als klassischer, beliebter und positiv besetzter Vorname mit traditioneller Herkunft und internationaler Bekanntheit.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "Vorname Charlotte � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/C/Ch/Charlotte/"
+    },
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Charlotte: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Charlotte.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "elegant",
+    "traditionsbewusst",
+    "international anschlussfähig",
+    "namenskundlich gut etabliert",
+    "eher zeitlos als modisch"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Hoch; der Name ist in deutschsprachigen Namenslexika und Übersichtsseiten stark präsent und wird dort häufig als beliebter, klassischer Vorname beschrieben."
+}

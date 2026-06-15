@@ -1,0 +1,72 @@
+{
+  "associations": [
+    "weiblicher Vorname",
+    "Kurzform von Elisabeth",
+    "althebräische Herkunft",
+    "Bedeutung: \"mein Gott ist Fülle\"",
+    "Bedeutung: \"mein Gott hat geschworen\"",
+    "Namenstag am 19. November",
+    "selten in Deutschland",
+    "klassisch und historisch verankert"
+  ],
+  "confidence": 0.77,
+  "display_text": "Elsbeth wirkt in den Quellen klassisch, traditionell und heute eher selten. Die Resonanz ist überwiegend neutral-sachlich; ein paar Quellen klingen leicht positiv durch die historische Einordnung. Eine breite öffentliche Meinung ist wegen der vor allem lexikalischen Evidenz nur eingeschränkt erkennbar.",
+  "evidence_quality": "mittel bis schwach: überwiegend lexikalische Quellen, nur geringe direkte öffentliche Resonanz und teils kommentarbasiert",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Elsbeth",
+  "normalized_name": "elsbeth",
+  "overall_resonance": "Elsbeth wird in den vorliegenden Quellen überwiegend sachlich-neutral und leicht positiv als klassischer, historisch verankerter, aber heute seltener Vorname beschrieben. Eine klare breite öffentliche Wertung ist daraus nur eingeschränkt ableitbar.",
+  "practical_notes": [
+    "Für Suchmaschinen- oder Kontextanzeigen eignet sich eine Einordnung als traditioneller, seltener Mädchenname.",
+    "Wenn ein moderner Klang gesucht wird, kann Elsbeth eher als klassisch als zeitgeistig wahrgenommen werden.",
+    "Die Quellen nennen mehrere Koseformen wie Elsi, Elsa, Elli, Else und Bethi."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist stark von Namensdatenbanken geprägt und daher nur begrenzt repräsentativ für die öffentliche Gesamtwahrnehmung.",
+    "Einzelne Kommentarhinweise sind anekdotisch und nicht belastbar als allgemeine Meinung.",
+    "Aus der Quellenlage lässt sich keine deutliche soziale Stigmatisierung ableiten."
+  ],
+  "short_summary": "Elsbeth wird meist neutral und klassisch beschrieben, mit historischer Tiefe und heutiger Seltenheit. Eine breite öffentliche Bewertung ist nur schwach belegt.",
+  "source_count": 3,
+  "sources": [
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Elsbeth � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/E/El/Elsbeth/"
+    },
+    {
+      "confidence": 0.95,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Elsbeth � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/E/El/Elsbeth/"
+    },
+    {
+      "confidence": 0.86,
+      "is_name_discussion": true,
+      "sentiment": "gemischt",
+      "source_type": "web",
+      "title": "&#9655; Vorname Elsbeth: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Elsbeth.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "traditionell",
+    "historisch",
+    "eher selten",
+    "lexikalisch-sachlich",
+    "leicht altmodisch wirkend",
+    "namenskundlich klar einordenbar"
+  ],
+  "usable_evidence_count": 3,
+  "visibility": "Im deutschsprachigen Raum wirkt der Name eher selten und damit wenig präsent im aktuellen Namensalltag. Die sichtbare Resonanz stammt vor allem aus Namenslexika und Beliebtheitsseiten, nicht aus einer breiten öffentlichen Diskussion."
+}

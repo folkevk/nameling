@@ -1,0 +1,59 @@
+{
+  "associations": [
+    "spanische Form von Johannes",
+    "Bedeutung oft sinngemäß: „Gott ist gnädig“ / „Jahwe ist gnädig“",
+    "international gebrauchter Vorname",
+    "in Deutschland eher selten bis mäßig beliebt",
+    "teilweise auch andere sprachliche oder kulturelle Namensbezüge"
+  ],
+  "confidence": 0.89,
+  "display_text": "Juan wirkt in Deutschland überwiegend neutral bis leicht positiv: ein kurzer, internationaler Vorname mit spanischer Prägung. Er ist eher selten bis mäßig verbreitet und kann je nach Kontext unterschiedliche Herkunfts- und Bedeutungsbezüge haben.",
+  "evidence_quality": "gut, aber quellenbegrenzt; beide Quellen sind direkt namenskundlich, jedoch stark von einzelnen Datenbankeinträgen geprägt.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Juan",
+  "normalized_name": "juan",
+  "overall_resonance": "Der Vorname Juan wird in Deutschland überwiegend sachlich und eher positiv wahrgenommen: international, klar erkennbar und mit einer vertrauten spanischen Prägung. Gleichzeitig ist der Name in der öffentlichen Wahrnehmung mehrdeutig, weil er je nach Kontext unterschiedliche Herkunfts- und Bedeutungsbezüge haben kann.",
+  "practical_notes": [
+    "Für deutsche Ohren wirkt Juan meist vertraut, aber deutlich international.",
+    "Die Schreibweise ist kurz und leicht einprägsam.",
+    "Wer einen eindeutig spanisch klingenden Namen sucht, findet hier eine etablierte Form."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die öffentliche Einordnung ist wegen mehrerer Herkunfts- und Bedeutungsvarianten nicht ganz eindeutig.",
+    "Ein Teil der verfügbaren Informationen stammt aus einzelnen Namensdatenbanken; die Evidenz ist daher begrenzt.",
+    "Regionale und sprachliche Kontexte beeinflussen die Wahrnehmung stark."
+  ],
+  "short_summary": "Juan wird in Deutschland meist neutral bis leicht positiv und als international-spanischer Vorname wahrgenommen, bei zugleich mehrdeutiger Herkunft und Bedeutung.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Juan � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/J/Ju/Juan/"
+    },
+    {
+      "confidence": 0.92,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Juan: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Juan.html"
+    }
+  ],
+  "style_effect": [
+    "international",
+    "klassisch-spanisch",
+    "kurz und prägnant",
+    "lexikalisch vertraut",
+    "mehrdeutig in Herkunft und Zuordnung"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland eher bekannt als geläufig; die Quellen beschreiben Juan als international verbreitet, aber hierzulande eher selten bis mäßig häufig."
+}

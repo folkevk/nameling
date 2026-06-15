@@ -1,0 +1,57 @@
+{
+  "associations": [
+    "griechisch/lateinische Herkunft",
+    "Bedeutung: „Kranz“, „Krone“ bzw. „der Gekrönte“",
+    "Namenstag und christlicher Bezug",
+    "früher häufiger, heute in Deutschland eher seltener",
+    "klassischer, etablierter Vorname"
+  ],
+  "confidence": 0.83,
+  "display_text": "Stephan wird in den verfügbaren Quellen meist als klassischer, traditioneller Vorname mit positiver, aber eher sachlicher Wahrnehmung beschrieben. Die Evidenz betont vor allem Herkunft, Bedeutung und Namenstag; breite öffentliche Meinungsdiskussionen sind kaum sichtbar.",
+  "evidence_quality": "mittel: mehrere Namensseiten mit konsistenter, aber überwiegend beschreibender Evidenz; wenig echte öffentliche Diskussionsbreite.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Stephan",
+  "normalized_name": "stephan",
+  "overall_resonance": "Überwiegend positiv bis neutral-sachlich: Stephan wird in der vorliegenden Evidenz vor allem als klassischer, traditioneller und historisch geprägter Vorname beschrieben.",
+  "practical_notes": [
+    "Für eine Namenssuche ist Stephan ein gut bekannter, klassischer Name mit seriöser, zeitloser Wahrnehmung.",
+    "Die Datenlage ist insgesamt brauchbar, aber nicht besonders breit; die Aussage zur öffentlichen Resonanz sollte daher vorsichtig gelesen werden."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz basiert stark auf Namenslexikon-/Informationsseiten und weniger auf breiter öffentlicher Meinungsdiskussion.",
+    "Die positive Wirkung ergibt sich eher aus Tradition und Bedeutung als aus klaren emotionalen Bewertungen."
+  ],
+  "short_summary": "Stephan wirkt öffentlich vor allem klassisch, traditionell und überwiegend positiv-sachlich wahrgenommen.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Stephan � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/S/St/Stephan/"
+    },
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Stephan: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Stephan.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "traditionell",
+    "sachlich-informativ",
+    "historisch",
+    "leicht positiv konnotiert"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Die öffentliche Sichtbarkeit wirkt eher namenskundlich als meinungsstark; es finden sich vor allem Informationsseiten zu Bedeutung, Herkunft, Namenstag und Beliebtheit, aber kaum echte freie Diskussionen."
+}

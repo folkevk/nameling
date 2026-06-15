@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "Kurzform von Margarete/Marguerite",
+    "Bedeutung: Perle",
+    "französischer Ursprung bzw. französisch wirkende Form",
+    "im deutschen Sprachraum seit dem 19. Jahrhundert bekannt",
+    "seltenere moderne Nutzung in Deutschland",
+    "teilweise als altmodisch beschrieben"
+  ],
+  "confidence": 0.82,
+  "display_text": "Margot wirkt in Deutschland eher klassisch und französisch geprägt, mit der Assoziation „Perle“. Der Name ist bekannt, aber heute eher selten. Die verfügbare Evidenz ist vor allem lexikalisch und damit begrenzt; vereinzelt wird Margot als etwas altmodisch eingeordnet.",
+  "evidence_quality": "mittel bis schwach; zwei sachliche Namenslexika, kaum breitere öffentliche Resonanzdaten",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Margot",
+  "normalized_name": "margot",
+  "overall_resonance": "Margot wirkt im deutschsprachigen Raum eher klassisch, französisch geprägt und heute eher selten. Die öffentliche Wahrnehmung ist überwiegend sachlich-positiv, mit Bezügen zu Tradition, Herkunft und dem Bedeutungsfeld „Perle“; vereinzelt wird der Name auch als etwas altmodisch eingeordnet.",
+  "practical_notes": [
+    "Für Suchmaschinen- und Namenskontexte ist eine neutrale, vorsichtige Formulierung sinnvoll.",
+    "Der Name trägt eher einen klassischen als trendigen Eindruck.",
+    "Wegen der eher seltenen aktuellen Nutzung kann Margot als bewusst gewählte, traditionelle Namenswahl wahrgenommen werden."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist schwach und stammt fast ausschließlich aus Namenslexika.",
+    "Einzelne Bewertungen wie „altmodisch“ sind eher Einordnungen als allgemeiner Konsens.",
+    "Es gibt keine belastbare öffentliche Kontroverse oder starke Polarisierung zum Namen."
+  ],
+  "short_summary": "Margot wird in Deutschland vor allem als klassischer, französisch geprägter und eher seltener Vorname wahrgenommen; die vorhandenen Quellen sind überwiegend sachlich und deuten nur vereinzelt auf eine altmodische Wirkung hin.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.91,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Margot � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/M/Ma/Margot/"
+    },
+    {
+      "confidence": 0.92,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Margot: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Margot.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "elegant",
+    "französisch geprägt",
+    "traditionsnah",
+    "etwas nostalgisch",
+    "eher selten im modernen Gebrauch"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Im öffentlichen Namenskontext in Deutschland eher gering bis mittel: bekannt, aber nicht sehr häufig vergeben. Die verfügbare Evidenz spricht vor allem über Lexikon- und Namensdaten-Seiten, nicht über breite öffentliche Debatten."
+}

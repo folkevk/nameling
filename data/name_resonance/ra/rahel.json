@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "hebräischer Ursprung",
+    "biblischer Bezug",
+    "Bedeutung: Barmherzigkeit Gottes / Mutterschaf",
+    "weiblicher Vorname",
+    "Namenstag am 11. Juli",
+    "Namensvariante Rachel/Raquel",
+    "teils als schön beschrieben",
+    "Aussprache wird vereinzelt als etwas schwierig erwähnt"
+  ],
+  "confidence": 0.79,
+  "display_text": "Rahel: überwiegend neutral bis leicht positiv wahrgenommen, mit biblisch-traditionellem Eindruck. Die verfügbare Evidenz ist eher informativ als öffentlich-diskursiv; vereinzelt wird die Aussprache als etwas schwierig erwähnt.",
+  "evidence_quality": "mittel bis schwach: gute Namenslexikon-Evidenz, aber nur begrenzte Anzeichen für echte öffentliche Resonanz",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Rahel",
+  "normalized_name": "rahel",
+  "overall_resonance": "Rahel wird in den vorliegenden Quellen überwiegend sachlich bis leicht positiv wahrgenommen. Der Name wirkt traditionell, biblisch und eher etabliert, ohne starke öffentliche Kontroversen. Die Evidenz zur breiten öffentlichen Resonanz ist jedoch begrenzt, da sie vor allem aus Namenslexika und wenigen Kommentaren stammt.",
+  "practical_notes": [
+    "Für eine Namenssuche eignet sich Rahel als klassisch-biblischer und klar weiblich gelesener Name.",
+    "Wer auf einfache Aussprache Wert legt, sollte beachten, dass sie vereinzelt als etwas erklärungsbedürftig beschrieben wird."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz basiert überwiegend auf Namensdatenbanken und einzelnen Kommentaren; das ist keine repräsentative öffentliche Meinungslage.",
+    "Die Einschätzung zur Aussprache ist ein Randaspekt und nicht als allgemeine Ablehnung zu verstehen."
+  ],
+  "short_summary": "Rahel wird meist neutral bis leicht positiv als biblisch-traditioneller Vorname beschrieben; breite öffentliche Reaktionen sind in der Evidenz kaum sichtbar.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Rahel � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/R/Ra/Rahel/"
+    },
+    {
+      "confidence": 0.89,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Rahel: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Rahel.html"
+    }
+  ],
+  "style_effect": [
+    "biblisch-traditionell",
+    "klassisch",
+    "eher ruhig und seriös",
+    "leicht positiv konnotiert",
+    "namenslexikalisch geprägt"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Mittlere Sichtbarkeit in Namensportalen; keine klare breite Debatte erkennbar. Die öffentliche Rezeption wirkt eher informativ als emotional."
+}

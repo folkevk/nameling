@@ -1,0 +1,62 @@
+{
+  "associations": [
+    "aramäische Herkunft",
+    "biblischer Bezug",
+    "Bedeutung: „der Zwilling“",
+    "lange Popularität in Deutschland",
+    "Namenstag",
+    "Kurzformen wie Tom, Tommy, Thommy"
+  ],
+  "confidence": 0.91,
+  "display_text": "Thomas wirkt in Deutschland vor allem klassisch, vertraut und zeitlos. Die Quellen zeigen einen etablierten, historisch gewachsenen Namen mit biblisch-aramäischem Ursprung und der Bedeutung „der Zwilling“. Insgesamt ist die öffentliche Rezeption eher neutral bis positiv; Hinweise auf Stigmatisierung oder starke negative Konnotationen finden sich nicht. Die Aussagekraft ist gut für Herkunft und Namensbild, aber nur indirekt für echte öffentliche Debatten.",
+  "evidence_quality": "Gut bis sehr gut für Bedeutung, Herkunft und historische Einordnung; mittel für echte öffentliche Resonanz, da vor allem lexikalische Quellen vorliegen.",
+  "generated_at": "2026-06-12T06:08:03Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Thomas",
+  "normalized_name": "thomas",
+  "overall_resonance": "Thomas wird in der öffentlichen Wahrnehmung überwiegend als klassischer, vertrauter und sehr etablierter Jungenname gesehen. Die verfügbaren Quellen beschreiben ihn vor allem sachlich-namenskundlich, mit positiver bis neutraler Grundtönung und ohne klare Hinweise auf Stigmatisierung.",
+  "practical_notes": [
+    "Für Suchende wirkt Thomas meist unkompliziert, geläufig und leicht einzuordnen.",
+    "Der Name trägt eher traditionelle als modische Signale.",
+    "In den Quellen erscheinen keine belastbaren negativen Konnotationen oder soziale Vorurteile."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt vor allem aus Namenslexika und nicht aus einer breiten öffentlichen Debatte; deshalb ist die Resonanz nur indirekt belegt.",
+    "Beliebtheit und Bekanntheit sagen wenig über heutige Alters- oder Milieuzuschreibungen aus; solche Effekte sollten nicht überinterpretiert werden."
+  ],
+  "short_summary": "Thomas gilt in Deutschland als klassischer, sehr bekannter und neutral bis positiv wahrgenommener Vorname mit biblisch-aramäischem Ursprung.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Thomas � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/T/Th/Thomas/"
+    },
+    {
+      "confidence": 0.94,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Thomas: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Thomas.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "traditionell",
+    "zeitlos",
+    "seriös",
+    "vertraut",
+    "bodenständig",
+    "neutral-beschreibend",
+    "historisch geprägt"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Sehr hohe Bekanntheit in Deutschland; der Name ist traditionell und seit langem gebräuchlich, daher gut erkennbar und breit verstanden."
+}

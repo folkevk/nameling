@@ -1,0 +1,58 @@
+{
+  "associations": [
+    "Bedeutungsfeld rund um Liebe und Zuneigung",
+    "altgermanische bzw. althochdeutsche Herkunft",
+    "Namenstag am 28. September",
+    "heilige Lioba als Namenspatronin",
+    "selten, aber in Deutschland bekannt"
+  ],
+  "confidence": 0.84,
+  "display_text": "Lioba wirkt in der öffentlichen Namenswahrnehmung überwiegend positiv: traditionsreich, freundlich und selten. Die vorliegenden Quellen betonen vor allem die Bedeutung im Umfeld von „lieb“/„liebend“, die altgermanisch-althochdeutsche Herkunft sowie den Namenstag am 28. September. Weil die Evidenz vor allem aus Namenslexika stammt, ist die Einordnung vorsichtig zu lesen und keine Aussage über breitere gesellschaftliche Urteile.",
+  "evidence_quality": "mittel: zwei namenskundliche Webquellen, überwiegend beschreibend und mit positiver Tendenz, aber ohne breite Meinungsvielfalt oder echte öffentliche Debatte",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Lioba",
+  "normalized_name": "lioba",
+  "overall_resonance": "Überwiegend positiv und eher ruhig-beschreibend. Der Name wird in der vorliegenden Evidenz vor allem als altgermanisch/althochdeutsch, selten und traditionsnah eingeordnet, mit positiven Bedeutungen wie „lieb“, „liebend“ oder „die Liebliche“.",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt Lioba traditionsreich, freundlich und ungewöhnlich.",
+    "Wer einen seltenen, historisch geprägten Namen mit positiver Bedeutung sucht, findet hier eine passende Einordnung.",
+    "Die Wahrnehmung kann je nach Region und Umfeld unterschiedlich sein, da der Name nicht sehr verbreitet ist."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist begrenzt und stammt vor allem aus Namenslexika statt aus breiter öffentlicher Diskussion.",
+    "Es lassen sich daraus keine verlässlichen Aussagen über gesellschaftliche Wertungen oder den Alltagseindruck des Namens ableiten."
+  ],
+  "short_summary": "Lioba wird öffentlich vor allem positiv, traditionsnah und selten wahrgenommen. Die Quellen betonen eine freundliche Bedeutung, historische Herkunft und den Namenstag, bei insgesamt begrenzter Evidenz.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.88,
+      "is_name_discussion": true,
+      "sentiment": "positive",
+      "source_type": "web",
+      "title": "Vorname Lioba � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/L/Li/Lioba/"
+    },
+    {
+      "confidence": 0.9,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Lioba: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Lioba.html"
+    }
+  ],
+  "style_effect": [
+    "historisch-traditionell",
+    "sanft und freundlich wirkend",
+    "selten und eigenständig",
+    "namenskundlich/spirituell aufgeladen",
+    "eher klassisch als modern"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland bekannt, aber eher selten und nicht breit im Alltag präsent. Die öffentliche Wahrnehmung wirkt deshalb eher niche- und lexikonbasiert als durch breite Debatten geprägt."
+}

@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "lateinische Herkunft",
+    "Bedeutung: die Liebe / die Teure / die Wertvolle",
+    "weiblicher Vorname",
+    "kurzer internationaler Name",
+    "in Deutschland bekannt",
+    "Namenstag am 30. September"
+  ],
+  "confidence": 0.74,
+  "display_text": "Cara wirkt in Deutschland überwiegend positiv: kurz, weich, international und mit einer wertigen Bedeutungszuschreibung. Die öffentliche Resonanz ist auf Basis der vorliegenden Quellen aber nur eingeschränkt belegt, da sie fast ausschließlich aus Namenslexika stammt.",
+  "evidence_quality": "eingeschränkt: überwiegend lexikalische Namensquellen, keine repräsentative öffentliche Resonanz",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Cara",
+  "normalized_name": "cara",
+  "overall_resonance": "Überwiegend positiv und freundlich-informativ wahrgenommen, vor allem als kurzer, international klingender Mädchenname mit klarer Namensbedeutung.",
+  "practical_notes": [
+    "Für die Namenssuche wirkt Cara klar, freundlich und unkompliziert.",
+    "Der Name hat eine gut verständliche, positive Bedeutungszuschreibung.",
+    "In Deutschland scheint er eher bekannt als selten-unbekannt, ohne dass sich daraus allein eine starke Trendbewertung ableiten lässt."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt nur aus wenigen Namenslexikon-/Datenbankquellen und ist daher keine breite öffentliche Meinungsbasis.",
+    "Beliebtheitsaussagen sollten vorsichtig gelesen werden, da sie hier nicht durch eine repräsentative Resonanzlage abgesichert sind."
+  ],
+  "short_summary": "Cara wird im deutschsprachigen Kontext meist positiv, kurz und international wahrgenommen. Die Evidenz ist jedoch schmal und stammt vor allem aus Namenslexika.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "Vorname Cara � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/C/Ca/Cara/"
+    },
+    {
+      "confidence": 0.94,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Cara: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Cara.html"
+    }
+  ],
+  "style_effect": [
+    "kurz",
+    "weich klingend",
+    "international",
+    "modern-nah",
+    "namenskundlich aufgeladen",
+    "wertig/lieblich konnotiert"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Im deutschsprachigen Namensumfeld bekannt und präsent, aber die öffentliche Resonanz ist auf Basis der vorliegenden Evidenz nur eingeschränkt belastbar."
+}

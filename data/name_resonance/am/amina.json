@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "arabische Herkunft",
+    "Bedeutungen wie vertrauenswürdig, ehrlich, zuverlässig oder tapfer",
+    "Frieden und Harmonie",
+    "weiblicher Vorname",
+    "Beliebtheit/Bekanntheit in Deutschland",
+    "Namenstag am 8. Juli"
+  ],
+  "confidence": 0.88,
+  "display_text": "Amina wirkt in der öffentlichen Namenswahrnehmung überwiegend positiv: klangvoll, international und mit arabischer Herkunft. Häufig genannt werden Bedeutungen wie vertrauenswürdig, ehrlich oder harmonisch. Die Evidenz ist solide, aber vor allem auf Namenslexika gestützt.",
+  "evidence_quality": "Gut, aber quellenarm: zwei einschlägige Namensseiten mit klarer Namensdiskussion und überwiegend positiver Tonalität.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Amina",
+  "normalized_name": "amina",
+  "overall_resonance": "Überwiegend positiv und informativ. Amina wird in den Quellen vor allem als weiblicher Vorname mit arabischer Herkunft, positiven Bedeutungszuweisungen und guter Bekanntheit in Deutschland beschrieben. Die öffentliche Wahrnehmung wirkt eher freundlich und wertschätzend als kontrovers.",
+  "practical_notes": [
+    "Für die öffentliche Wahrnehmung ist der Name eher positiv und unkompliziert anschlussfähig.",
+    "Die Herkunftsangabe kann als kulturell prägend wahrgenommen werden, ohne dass daraus Aussagen über Personen abgeleitet werden sollten.",
+    "Für eine Suchmaschine eignet sich Amina als Name mit klarer, freundlicher und internationaler Ausstrahlung."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt fast ausschließlich aus Namenslexika und Informationsseiten, nicht aus breiter öffentlicher Debatte.",
+    "Bedeutungen können je nach Quelle, sprachlichem Hintergrund und Deutung leicht variieren.",
+    "Kommentare und zusätzliche Resonanzhinweise sind nur begrenzt belastbar."
+  ],
+  "short_summary": "Amina wird öffentlich meist positiv, klangvoll und informativ wahrgenommen, mit arabischer Herkunft und Bedeutungen rund um Vertrauen, Ehrlichkeit und Harmonie.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "Vorname Amina � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/A/Am/Amina/"
+    },
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Amina: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Amina.html"
+    }
+  ],
+  "style_effect": [
+    "klangvoll",
+    "sanft",
+    "international",
+    "klassisch-moderne Wirkung",
+    "kulturell verankert",
+    "positiv konnotiert"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland sichtbar und geläufig, aber nicht allgegenwärtig. Die Quellen verweisen auf Beliebtheit bzw. Bekanntheit, vor allem im informativen Namenskontext."
+}

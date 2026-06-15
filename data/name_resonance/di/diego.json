@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "spanischer und portugiesischer Vorname",
+    "Bedeutungsbezüge zu Jakob/Santiago",
+    "lateinisch und altgriechisch geprägte Namensdeutungen",
+    "Namenstag",
+    "Beliebtheit in Deutschland",
+    "kurze, gut einprägsame Form",
+    "mehrsprachig und international verwendbar"
+  ],
+  "confidence": 0.84,
+  "display_text": "Diego wird in Deutschland meist als moderner, internationaler und klarer Vorname wahrgenommen. Die verfügbare Evidenz ist überwiegend positiv, aber vor allem beschreibend: Namenslexika betonen Herkunft, Bedeutung und Beliebtheit, nicht eine kontroverse öffentliche Debatte.",
+  "evidence_quality": "mittel bis gut: zwei direkte Namensquellen, aber vor allem deskriptive statt diskursive Evidenz",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Diego",
+  "normalized_name": "diego",
+  "overall_resonance": "überwiegend positiv, informativ und international geprägt",
+  "practical_notes": [
+    "Für die öffentliche Wahrnehmung ist Diego ein gut etablierter, klar erkennbarer Vorname.",
+    "Der Name wirkt in Deutschland meist modern, international und unkompliziert.",
+    "Wer eine eindeutige, kurze und klangvolle Namenswahl sucht, trifft mit Diego auf einen gut anschlussfähigen Namen."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt überwiegend aus Namenslexika und SEO-/Ratgeberseiten.",
+    "Es gibt wenig direkte öffentliche Diskussion; die Resonanz ist daher eher indirekt abgeleitet.",
+    "Bedeutungsangaben können je nach Quelle variieren und sind nicht immer einheitlich."
+  ],
+  "short_summary": "Diego wirkt in Deutschland überwiegend positiv, international und gut bekannt. Die Quellen beschreiben vor allem Herkunft, Bedeutung und Beliebtheit; direkte öffentliche Debatten sind kaum sichtbar.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.94,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "Vorname Diego � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/D/Di/Diego/"
+    },
+    {
+      "confidence": 0.9,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Diego: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Diego.html"
+    }
+  ],
+  "style_effect": [
+    "klingt kurz, klar und modern",
+    "wirkt international, besonders spanisch/portugiesisch",
+    "hat einen vertrauten, leicht markanten Namenston",
+    "wird häufig mit Herkunft, Bedeutung und Beliebtheit verknüpft",
+    "kann je nach Umfeld als lebendig und unkompliziert wahrgenommen werden"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Der Vorname Diego ist in Deutschland sichtbar und bekannt, vor allem in Namenslexika und Bedeutungsseiten. Die öffentliche Wahrnehmung wirkt eher beschreibend als kontrovers."
+}

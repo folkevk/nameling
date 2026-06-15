@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "altgriechischer Ursprung",
+    "latinisierte Form von Korinna",
+    "Bedeutung: Mädchen/junge Frau/Jungfrau",
+    "teilweise gedeutet als Herzchen/kleines Herz",
+    "Namenstag am 22. Oktober",
+    "Spitznamen wie Conny, Coco oder Rina",
+    "Popkultur-Bezug über den Song „Corinna, Corinna“"
+  ],
+  "confidence": 0.93,
+  "display_text": "Corinna wirkt öffentlich klassisch, freundlich und eher selten. Der Name wird meist sachlich beschrieben, mit altgriechischem Ursprung, möglicher Bedeutung im Sinne von „Mädchen“ oder „Herzchen“ und einem leichten, zeitlosen Klang.",
+  "evidence_quality": "Gut bis sehr gut: zwei direkte Namensquellen mit konsistenter, überwiegend neutraler bis leicht positiver Beschreibung.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Corinna",
+  "normalized_name": "corinna",
+  "overall_resonance": "Corinna wird öffentlich überwiegend sachlich bis leicht positiv wahrgenommen: als klassischer, eher seltener Vorname mit altgriechischem Ursprung und ruhiger, namenskundlich klarer Wirkung.",
+  "practical_notes": [
+    "Für Suchmaschinen-Nutzer wirkt Corinna traditionell, klar und freundlich.",
+    "Die Schreibweise ist bekannt und unkompliziert.",
+    "Wer einen seltenen, aber etablierten Vornamen sucht, findet hier eine unaufgeregte Option."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Keine belastbaren Negativassoziationen in der vorliegenden Evidenz.",
+    "Die Einschätzung stützt sich auf Namenslexika und ist daher eher beschreibend als sozialpsychologisch belastbar.",
+    "Seltener Name bedeutet nicht automatisch besondere soziale Wirkung; das ist kontextabhängig."
+  ],
+  "short_summary": "Corinna ist ein klassischer, eher seltener Vorname mit altgriechischem Ursprung und überwiegend neutral bis leicht positiver öffentlicher Resonanz.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Corinna � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/C/Co/Corinna/"
+    },
+    {
+      "confidence": 0.99,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Corinna: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Corinna.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "namenskundlich",
+    "eher zeitlos",
+    "leicht weich und freundlich",
+    "nicht modisch-auffällig"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland eher selten, aber bekannt; keine starke Massenpräsenz, eher ein vertrauter Name mit zeitweiliger früherer Verbreitung."
+}

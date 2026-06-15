@@ -1,0 +1,62 @@
+{
+  "associations": [
+    "lateinische Herkunft",
+    "Bedeutung im Umfeld von Wald/Forst",
+    "Rhea Silvia bzw. römische Mythologie",
+    "Namenstag Anfang November",
+    "bekannter, etablierter Vorname",
+    "Spitznamen wie Silvi oder Vivi"
+  ],
+  "confidence": 0.87,
+  "display_text": "Silvia wirkt öffentlich überwiegend neutral bis leicht positiv: ein klassischer, vertrauter und zeitloser Vorname. Die Quellen betonen vor allem Herkunft, Bedeutung und Tradition; echte kontroverse Resonanz ist nicht erkennbar.",
+  "evidence_quality": "mittel bis gut: zwei einschlägige Namensseiten mit klaren Angaben zu Herkunft, Bedeutung und Namenstag; aber nur begrenzt echte öffentliche Meinungsäußerungen.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Silvia",
+  "normalized_name": "silvia",
+  "overall_resonance": "Überwiegend neutral bis leicht positiv. Silvia wird in den Quellen vor allem als klassischer, vertrauter und gut etablierter Vorname beschrieben, mit eher informativ-lexikalischer als kontroverser öffentlicher Wahrnehmung.",
+  "practical_notes": [
+    "Für Suchmaschinen- und Namenskontexte wirkt Silvia meist klar, unkompliziert und klassisch.",
+    "Die öffentliche Resonanz erscheint eher ruhig als polarisierend.",
+    "Je nach Generation kann der Name als eher traditionell wahrgenommen werden."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt überwiegend aus Namenslexika und redaktionellen Beschreibungen, nicht aus breiter freier öffentlicher Diskussion.",
+    "Positive Eindrücke sind eher vorsichtig zu lesen; sie spiegeln vor allem die Tonlage der Quellen, nicht belastbare Bevölkerungsmeinungen.",
+    "Keine Hinweise auf starke Stigmatisierung oder negative gesellschaftliche Stereotype in den vorliegenden Quellen."
+  ],
+  "short_summary": "Silvia wird öffentlich meist neutral bis leicht positiv wahrgenommen: ein klassischer, vertrauter Vorname mit traditioneller Ausstrahlung und klarer namenskundlicher Einordnung.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.91,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Silvia � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/S/Si/Silvia/"
+    },
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Silvia: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Silvia.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "traditionell",
+    "weiblich",
+    "vertraut",
+    "seriös",
+    "namenskundlich",
+    "eher zeitlos als modern"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Im deutschsprachigen Raum bekannt und präsent, aber eher als traditioneller Name mit stabiler Wiedererkennbarkeit als als aktueller Trendname."
+}

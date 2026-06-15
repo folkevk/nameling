@@ -1,0 +1,62 @@
+{
+  "associations": [
+    "Schreibvariante von Philipp",
+    "altgriechischer Ursprung",
+    "Bedeutung: der Pferdefreund",
+    "selten in Deutschland",
+    "vornehmlich deutsche Schreibweise",
+    "Namenstag",
+    "Spitznamen"
+  ],
+  "confidence": 0.95,
+  "display_text": "Phillipp wirkt in der öffentlichen Rezeption vor allem sachlich und klassisch: eine seltene Schreibvariante von Philipp mit neutraler, namenskundlicher Ausstrahlung.",
+  "evidence_quality": "hoch, da zwei direkt namenskundliche Webquellen den Namen, seine Herkunft, Bedeutung und Verbreitung klar behandeln.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Phillipp",
+  "normalized_name": "phillipp",
+  "overall_resonance": "Überwiegend sachlich-neutrale Resonanz mit klarer namenskundlicher Einordnung. Phillipp wird vor allem als seltene, in Deutschland vorkommende Schreibvariante von Philipp wahrgenommen.",
+  "practical_notes": [
+    "Für die öffentliche Wahrnehmung ist die Schreibweise mit doppeltem 'l' auffälliger als der Klang.",
+    "Der Name wirkt vertraut, aber nicht alltäglich.",
+    "Die Resonanz ist eher beschreibend als emotional aufgeladen."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist insgesamt gut, aber teils auf Namenslexika gestützt.",
+    "Es gibt keinen Hinweis auf eine negative gesellschaftliche Stigmatisierung des Namens.",
+    "Einzelne Quellen enthalten kleinere Unschärfen, die Gesamtbewertung bleibt jedoch stabil neutral."
+  ],
+  "short_summary": "Phillipp wird öffentlich vor allem als seltene, neutrale Schreibvariante von Philipp wahrgenommen – mit klassischer, namenskundlicher Wirkung.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Phillipp � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/P/Ph/Phillipp/"
+    },
+    {
+      "confidence": 0.91,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Phillipp: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Phillipp.html"
+    }
+  ],
+  "style_effect": [
+    "informativ",
+    "lexikalisch",
+    "namenskundlich",
+    "neutral",
+    "eher traditionell",
+    "als Schreibvariante markiert"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Eher geringe bis mittlere Sichtbarkeit; der Name erscheint vor allem in Namensdatenbanken und erklärenden Einträgen, weniger in breiter öffentlicher Alltagswahrnehmung."
+}

@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "bretonische bzw. französische Namensform",
+    "Variante von Johannes/Jean",
+    "Bedeutung in Richtung ‚Gott/Jahwe ist gnädig‘",
+    "kurzer Vorname",
+    "Namenstag",
+    "teils als moderne Schreibweise wahrgenommen"
+  ],
+  "confidence": 0.78,
+  "display_text": "Yann: eher neutral bis leicht positiv wahrgenommen. Der Name wirkt kurz, modern und international anschlussfähig, mit traditioneller Herkunft als Form von Johannes/Jean. Die öffentliche Evidenz ist jedoch vor allem namenskundlich und damit nur begrenzt aussagekräftig.",
+  "evidence_quality": "mittel bis schwach; zwei namenkundliche Webquellen, überwiegend beschreibend statt diskursiv",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Yann",
+  "normalized_name": "yann",
+  "overall_resonance": "Yann wirkt in der vorliegenden Evidenz insgesamt eher neutral bis leicht positiv. Der Name wird vor allem sachlich-namenskundlich beschrieben und mit einer kurzen, internationalen Form sowie einer religiös-traditionellen Herkunft verbunden.",
+  "practical_notes": [
+    "Für eine Namenssuche lässt sich Yann als kurz, international und eher zeitlos einordnen.",
+    "Die Schreibweise kann im deutschsprachigen Raum als etwas markanter oder seltener als klassische Varianten wirken.",
+    "Die Datenlage reicht für eine grobe Einordnung, aber nicht für eine starke Aussage zur Breitenwirkung."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist begrenzt und stammt überwiegend aus Namenslexika statt aus freier öffentlicher Diskussion.",
+    "Es gibt kaum echte Alltagsresonanz oder kontroverse Bewertung; die Einschätzung bleibt daher vorsichtig.",
+    "Spitznamen und Einzelkommentare sind nicht als allgemeine öffentliche Meinung zu verstehen."
+  ],
+  "short_summary": "Yann wird öffentlich eher sachlich und leicht positiv wahrgenommen: kurz, international und mit traditioneller Namensherkunft. Die Evidenz ist aber begrenzt, daher nur eine vorsichtige Einordnung möglich.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Yann � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/Y/Ya/Yann/"
+    },
+    {
+      "confidence": 0.94,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Yann: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Yann.html"
+    }
+  ],
+  "style_effect": [
+    "kurz",
+    "modern wirkend",
+    "international anschlussfähig",
+    "klar und prägnant",
+    "namenskundlich-traditionell"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Im deutschsprachigen Kontext ist Yann eher bekannt, aber nicht alltagsdominant; die öffentliche Wahrnehmung wirkt deshalb eher ruhig und unaufgeregt als stark trend- oder modisch geprägt."
+}

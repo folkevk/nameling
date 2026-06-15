@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "Kurzform von Theodor oder Teodor",
+    "altgriechischer Ursprung",
+    "Bedeutung: „Geschenk Gottes“",
+    "männlicher Vorname",
+    "kurze, schreibökonomische Form",
+    "in Deutschland als beliebt bzw. bekannt beschrieben"
+  ],
+  "confidence": 0.86,
+  "display_text": "Teo wirkt in den vorliegenden Quellen überwiegend positiv: kurz, modern und international verständlich. Häufig genannte Assoziationen sind die Herkunft als Kurzform von Theodor/Teodor und die Bedeutung „Geschenk Gottes“. Die Evidenz ist jedoch begrenzt und stützt sich vor allem auf wenige Namenslexika.",
+  "evidence_quality": "mittel bis eher schwach: wenige Quellen, überwiegend Namenslexika mit möglicher SEO- oder Listenorientierung, aber konsistente positive Tendenz.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Teo",
+  "normalized_name": "teo",
+  "overall_resonance": "Überwiegend positiv und modern wirkend. Teo wird in den vorliegenden Namensquellen meist als kurzer, wohlklingender und international verständlicher Vorname beschrieben.",
+  "practical_notes": [
+    "Für Suchmaschinen wirkt Teo unkompliziert, international und leicht merkbar.",
+    "Die Schreibweise ohne h wird als prägnant wahrgenommen, kann aber gelegentlich Fragen zur Herkunft oder zu Varianten wie Theo auslösen.",
+    "Die positive Resonanz bezieht sich vor allem auf Klang, Kürze und Bedeutung."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Datenbasis ist begrenzt und stark von einzelnen Namensportalen geprägt.",
+    "Einzelne Hinweise zu Schreibweise oder Verwechslungsgefahr sind eher praktische als soziale Kritik.",
+    "Keine belastbaren Hinweise auf Stigmatisierung in der vorliegenden Evidenz."
+  ],
+  "short_summary": "Teo wird im deutschsprachigen Namenskontext überwiegend positiv wahrgenommen: kurz, modern, international und mit der häufig genannten Bedeutung „Geschenk Gottes“.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.95,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "Vorname Teo � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/T/Te/Teo/"
+    },
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Teo: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Teo.html"
+    }
+  ],
+  "style_effect": [
+    "kurz und prägnant",
+    "modern",
+    "international anschlussfähig",
+    "freundlich und weich im Klang",
+    "namenskundlich klar einordenbar"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Im deutschsprachigen Namenskontext eher gut sichtbar, aber die Evidenzlage ist schmal und stützt sich im Wesentlichen auf wenige Namenslexika."
+}

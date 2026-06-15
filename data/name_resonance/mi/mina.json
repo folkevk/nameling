@@ -1,0 +1,67 @@
+{
+  "associations": [
+    "Kurzformen von Wilhelmina, Hermine oder Jasmina",
+    "Bedeutungen wie „die Schützende“, „die Kriegerin“ oder „die entschlossene Beschützerin“",
+    "international gebräuchlich",
+    "in Deutschland wieder bzw. zunehmend populär",
+    "eigenständiger Vorname",
+    "teilweise auch als genderneutral eingeordnet"
+  ],
+  "confidence": 0.86,
+  "display_text": "Mina hat eine überwiegend positive öffentliche Resonanz: Der Name gilt als kurz, freundlich klingend und international verständlich. In den Quellen wird er als wieder bzw. zunehmend beliebt in Deutschland beschrieben, meist mit Bezügen zu traditionellen Kurzformen und Bedeutungen wie „die Schützende“ oder „die Kriegerin“. Die Evidenz ist solide, stammt aber vor allem aus Namenslexika und nicht aus einer breiten öffentlichen Debatte.",
+  "evidence_quality": "Gut bis mittel: mehrere übereinstimmende Namenslexika mit klarer Namensdiskussion, aber keine breite soziale Debatte oder Umfragedaten.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Mina",
+  "normalized_name": "mina",
+  "overall_resonance": "Überwiegend positiv und wertschätzend; Mina wird in den vorliegenden Quellen als international gebräuchlich, klanglich schlicht und in Deutschland zunehmend bzw. weiterhin beliebt beschrieben.",
+  "practical_notes": [
+    "Für die öffentliche Wahrnehmung wirkt Mina eher positiv, unkompliziert und zeitgemäß.",
+    "Die Lesart als Mädchenname ist in den Quellen häufiger, Unisex-Einordnungen kommen aber ebenfalls vor.",
+    "Die Aussagekraft ist solide für eine Namensübersicht, aber nicht für eine breite Meinungsmessung."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt vor allem aus redaktionellen Namenslexika, nicht aus breiter öffentlicher Diskussion.",
+    "Mehrsprachige Herkunfts- und Bedeutungsdeutungen können je nach Quelle variieren."
+  ],
+  "short_summary": "Mina wird öffentlich meist positiv, modern und international wahrgenommen; die Quellen betonen vor allem Bedeutung, Herkunft und Beliebtheit.",
+  "source_count": 3,
+  "sources": [
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "Vorname Mina � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/M/Mi/Mina/"
+    },
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "Vorname Mina � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/M/Mi/Mina/"
+    },
+    {
+      "confidence": 0.92,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Mina: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Mina.html"
+    }
+  ],
+  "style_effect": [
+    "kurz und einprägsam",
+    "weich bis freundlich klingend",
+    "modern, zugleich traditionell anschlussfähig",
+    "international verständlich",
+    "je nach Herkunftsdeutung weiblich oder unisex lesbar"
+  ],
+  "usable_evidence_count": 3,
+  "visibility": "Mittlere Sichtbarkeit: Der Name erscheint in Namenslexika und Informationsseiten mit Beliebtheits- und Bedeutungsbezug, aber ohne breite öffentliche Debatte."
+}

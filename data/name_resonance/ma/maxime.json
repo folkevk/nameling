@@ -1,0 +1,71 @@
+{
+  "associations": [
+    "französische Form",
+    "lateinische Herkunft",
+    "Bedeutung: der/die Größte",
+    "Unisex-Name",
+    "Beliebtheit in Deutschland",
+    "Namenstag",
+    "selten bis mäßig gebräuchlich",
+    "teils unterschiedliche Aussprachewahrnehmung"
+  ],
+  "confidence": 0.78,
+  "display_text": "Maxime wirkt in Deutschland eher sachlich-neutral bis leicht positiv: ein französisch anmutender, eleganter Unisex-Name mit lateinischer Herkunft und der Bedeutung „der/die Größte“. Die vorhandenen Quellen sind allerdings vor allem Namenslexika, daher ist die Evidenz für echte öffentliche Resonanz begrenzt.",
+  "evidence_quality": "Begrenzt: mehrere namenskundliche Webseiten mit neutraler bis leicht positiver Einordnung, aber kaum direkte öffentliche Diskussion oder belastbare Resonanzdaten.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Maxime",
+  "normalized_name": "maxime",
+  "overall_resonance": "Überwiegend sachlich-neutral mit leicht positivem Unterton; die öffentliche Rezeption wirkt eher informativ als emotional aufgeladen.",
+  "practical_notes": [
+    "Für Suchende wirkt der Name eher stilvoll und international.",
+    "Die Bedeutung und Herkunft sind gut anschlussfähig und werden oft genannt.",
+    "Wenn eine klare Zuordnung wichtig ist, sollte die mögliche Unisex-Wahrnehmung mitbedacht werden.",
+    "Die Datenlage erlaubt nur eine vorsichtige Einschätzung, keine harte Popularitätsaussage."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist schwach für echte öffentliche Resonanz, da die Quellen überwiegend Namenslexika statt Diskussionsplattformen sind.",
+    "Die Wahrnehmung als Unisex-Name kann je nach Umfeld zu Unsicherheit führen; das ist jedoch keine negative Bewertung.",
+    "Es gibt Hinweise auf gemischte, aber überwiegend neutrale Einordnungen; daraus sollte keine starke gesellschaftliche Bewertung abgeleitet werden."
+  ],
+  "short_summary": "Maxime wird im deutschsprachigen Raum vor allem sachlich und eher positiv-konnotiert wahrgenommen: französisch, elegant, mit lateinischer Herkunft und der Bedeutung „der/die Größte“. Die Evidenz für echte öffentliche Resonanz ist jedoch begrenzt.",
+  "source_count": 3,
+  "sources": [
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Maxime � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/M/Ma/Maxime/"
+    },
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Maxime � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/M/Ma/Maxime/"
+    },
+    {
+      "confidence": 0.88,
+      "is_name_discussion": true,
+      "sentiment": "mixed",
+      "source_type": "web",
+      "title": "&#9655; Vorname Maxime: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Maxime.html"
+    }
+  ],
+  "style_effect": [
+    "französisch und elegant wirkend",
+    "lexikalisch/namenskundlich geprägt",
+    "Unisex und dadurch mehrdeutig wahrgenommen",
+    "eher zeitlos als trendig",
+    "durch Bedeutung und Herkunft leicht aufgewertet"
+  ],
+  "usable_evidence_count": 3,
+  "visibility": "Im deutschsprachigen Raum bekannt, aber eher nicht stark verbreitet; die Quellen deuten auf eine sichtbare, jedoch insgesamt moderate Präsenz hin."
+}

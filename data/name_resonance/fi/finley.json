@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "keltisch/irische Herkunft",
+    "anglisierte Form von Fionnlagh",
+    "Bedeutungsfeld hell/weiß",
+    "mögliche Deutungen wie blonder Krieger oder weißer Krieger",
+    "Unisex- bzw. eher auch als Jungenname eingeordnet",
+    "Namenstag wird in manchen Quellen genannt",
+    "Kurzformen wie Fin oder Finny"
+  ],
+  "confidence": 0.82,
+  "display_text": "Finley wirkt in Deutschland überwiegend modern, freundlich und international. Die vorliegenden Quellen ordnen den Namen meist sachlich-informativ mit positiver Färbung ein, verweisen auf eine keltisch/irische Herkunft und nennen Bedeutungen im Feld von „hell/weiß“. Die Evidenz ist allerdings begrenzt und stützt sich vor allem auf Namenslexika.",
+  "evidence_quality": "mittel bis schwach; die Quellen sind thematisch passend, aber zahlenmäßig begrenzt und überwiegend lexikalisch-informativ.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Finley",
+  "normalized_name": "finley",
+  "overall_resonance": "Überwiegend positiv und modern-international, zugleich sachlich-informativ wahrgenommen; die öffentliche Rezeption wirkt in den vorliegenden Quellen eher freundlich als kontrovers.",
+  "practical_notes": [
+    "Für Suchmaschinen- und Alltagskontext wirkt der Name gut verständlich und international anschlussfähig.",
+    "Die Schreibweise ist eingängig, kann aber gelegentlich als anglisch wahrgenommen werden.",
+    "In Deutschland erscheint der Name eher modern als klassisch-traditionell."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenzbasis ist schmal und stützt sich im Wesentlichen auf wenige Namenslexika/Infoseiten.",
+    "Die Zuschreibungen zur Bedeutung sind etymologisch, aber nicht als persönliche Eigenschaften zu verstehen.",
+    "Die Einordnung als Unisex-Name kann je nach Quelle variieren."
+  ],
+  "short_summary": "Finley wird in den vorliegenden Quellen überwiegend positiv, modern und international wahrgenommen; die Evidenz ist jedoch begrenzt und vor allem lexikalisch.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.95,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Finley � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/F/Fi/Finley/"
+    },
+    {
+      "confidence": 0.92,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Finley: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Finley.html"
+    }
+  ],
+  "style_effect": [
+    "klingt modern und anglophon",
+    "wirkt weich und zugleich klar",
+    "hat einen internationalen, leicht zeitgemäßen Charakter",
+    "wird in Namenslexika häufig als informativ und positiv konnotiert dargestellt"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland wird Finley als relativ gut sichtbar und durchaus bekannt beschrieben, ohne den Eindruck eines traditionellen Standardnamens zu haben."
+}

@@ -1,0 +1,69 @@
+{
+  "associations": [
+    "Amsel",
+    "Meer",
+    "hell/strahlend",
+    "deutschsprachiger Vorname",
+    "Unisex-Name, in Deutschland eher weiblich",
+    "Namenstag",
+    "namenskundlich und lexikalisch eingeordnet"
+  ],
+  "confidence": 0.93,
+  "display_text": "Merle wird in Deutschland überwiegend sachlich und positiv wahrgenommen. Der Name gilt als etabliert, wirkt weich und modern und wird in Namensquellen oft mit Amsel, Meer und einer hellen, natürlichen Anmutung verbunden. In Deutschland wird Merle meist eher weiblich verwendet, auch wenn er teils als Unisex-Name geführt wird.",
+  "evidence_quality": "hoch: mehrere direkte Namenslexikon-Quellen, überwiegend sachlich und konsistent",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Merle",
+  "normalized_name": "merle",
+  "overall_resonance": "Merle wird öffentlich überwiegend sachlich, freundlich und namenskundlich wahrgenommen. Der Name ist in Deutschland bekannt und wirkt für viele eher modern-norddeutsch bzw. zeitlos als auffällig oder kontrovers.",
+  "practical_notes": [
+    "Für die öffentliche Wahrnehmung ist Merle eher ein unauffälliger, positiver Name ohne starke Klischeelast.",
+    "Die Evidenz ist hier recht stark, weil mehrere Namenslexika den Namen direkt behandeln.",
+    "Wenn eine sehr eindeutige Geschlechtszuordnung wichtig ist, sollte man die regionale Verwendung mitdenken."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Keine belastbaren Hinweise auf soziale Stigmatisierung in den vorliegenden Quellen.",
+    "Die Einordnung als Unisex-Name ist kontextabhängig; in Deutschland wird Merle häufig eher weiblich verwendet.",
+    "Die Bedeutungsangaben variieren je nach Quelle und Herkunftsdeutung."
+  ],
+  "short_summary": "Merle wirkt in der öffentlichen Wahrnehmung freundlich, sachlich und etabliert; der Name wird meist mit Amsel, Meer und einer eher modernen, weich klingenden Anmutung verbunden.",
+  "source_count": 3,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Merle � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/M/Me/Merle/"
+    },
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Merle � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/M/Me/Merle/"
+    },
+    {
+      "confidence": 0.95,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Merle: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Merle.html"
+    }
+  ],
+  "style_effect": [
+    "informativ",
+    "klingt natürlich und weich",
+    "eher modern als altmodisch",
+    "leicht literarisch/nordisch anmutend",
+    "in Namenskontexten oft als freundlich und unkompliziert beschrieben"
+  ],
+  "usable_evidence_count": 3,
+  "visibility": "Der Name ist gut auffindbar und in deutschsprachigen Namensverzeichnissen klar etabliert; die Quellen beschreiben ihn als geläufigen, teils sogar regelmäßig beachteten Vorname."
+}

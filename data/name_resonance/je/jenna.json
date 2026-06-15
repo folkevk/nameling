@@ -1,0 +1,59 @@
+{
+  "associations": [
+    "Bedeutungen und Herleitungen wie „Jahwe ist gnädig“, „die Gnädige“ oder „die weiße Fee“ werden genannt",
+    "teils als hebräisch, teils als altwalisisch/keltisch eingeordnet",
+    "häufig als Kurzform von Jennifer erklärt",
+    "Namenslexikon- und Beliebtheitskontext statt Alltagsdiskussion"
+  ],
+  "confidence": 0.72,
+  "display_text": "Jenna wird in den vorliegenden Quellen überwiegend neutral bis leicht positiv wahrgenommen. Der Name wirkt kurz, modern und international, doch die Evidenz zur öffentlichen Resonanz ist begrenzt und stammt vor allem aus Namenslexika.",
+  "evidence_quality": "Begrenzt: zwei namenskundliche Webquellen, überwiegend beschreibend, nur indirekte Hinweise auf Resonanz.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Jenna",
+  "normalized_name": "jenna",
+  "overall_resonance": "Der Vorname Jenna wird in den vorliegenden Namensquellen überwiegend neutral bis leicht positiv beschrieben. Er wirkt modern, kurz und international verständlich; belastbare Hinweise auf eine breitere öffentliche Debatte oder starke Polarisierung sind in der Evidenz nicht zu sehen.",
+  "practical_notes": [
+    "Für Suchmaschinenzwecke eignet sich eine vorsichtige Formulierung wie: modern, international und überwiegend neutral bis leicht positiv wahrgenommen.",
+    "Keine starke regionale oder soziale Zuschreibung erkennbar.",
+    "Wenn gewünscht, kann auch eine Kurzversion für Ergebnislisten erstellt werden."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenzlage ist schwach und basiert im Wesentlichen auf wenigen Namenslexikon-Seiten.",
+    "Die erkennbaren Einschätzungen sind eher redaktionelle Einordnungen als breite öffentliche Meinung.",
+    "Aus den Quellen lässt sich keine stabile gesellschaftliche Wertung ableiten."
+  ],
+  "short_summary": "Jenna wirkt in den Quellen modern, international und eher positiv konnotiert, aber die öffentliche Resonanz ist nur schwach belegt.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.92,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Jenna � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/J/Je/Jenna/"
+    },
+    {
+      "confidence": 0.87,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Jenna: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Jenna.html"
+    }
+  ],
+  "style_effect": [
+    "modern",
+    "kurz",
+    "international",
+    "weich klingend",
+    "namenskundlich aufgeladen",
+    "leicht elegant"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Eher geringe bis mittlere Sichtbarkeit im deutschsprachigen Namenskontext: Jenna wird zwar in Namenslexika und Beliebtheitslisten erwähnt, doch die öffentliche Resonanz ist nur indirekt und auf wenige Quellen gestützt."
+}

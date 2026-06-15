@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "Kurzform von Andreas oder Andrew",
+    "altgriechischer Ursprung",
+    "Bedeutungen im Umfeld von „tapfer“, „männlich“, „mannhaft“",
+    "selten in Deutschland",
+    "auch im englischsprachigen Raum gebräuchlich",
+    "teils als genderneutral wahrgenommen"
+  ],
+  "confidence": 0.8,
+  "display_text": "Andy wird in Deutschland überwiegend sachlich bis positiv wahrgenommen. Der Name wirkt kurz, international und eher selten. Die vorhandene Evidenz ist vor allem namenkundlich; eine starke öffentliche Debatte ist kaum sichtbar.",
+  "evidence_quality": "mittel bis schwach; überwiegend lexikalische Quellen, wenig echte öffentliche Resonanz sichtbar",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Andy",
+  "normalized_name": "andy",
+  "overall_resonance": "Überwiegend positiv bis neutral, mit klar informativem Charakter. Der Name wirkt im deutschsprachigen Raum eher als kurze, internationale und eher seltene Kurzform. Die verfügbare Evidenz ist jedoch vor allem namenkundlich und nicht stark diskussionsbasiert.",
+  "practical_notes": [
+    "Für Suchmaschinen wirkt Andy unkompliziert, kurz und leicht merkbar.",
+    "Die Datenlage spricht eher für eine sachlich-positive als für eine stark polarisierte Wahrnehmung.",
+    "Wegen der geringen Debattenlage ist die Aussagekraft zur öffentlichen Meinung nur begrenzt."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt überwiegend aus Namenslexika und nicht aus breiter öffentlicher Debatte.",
+    "Eine echte soziale Bewertung oder Kontroverse ist in den Quellen kaum erkennbar.",
+    "Allgemeine Bedeutungszuschreibungen sollten nicht als feste Eigenschaften verstanden werden."
+  ],
+  "short_summary": "Andy wird im Deutschen meist sachlich und eher positiv wahrgenommen: kurz, international und als seltene Kurzform mit klarer namenkundlicher Herkunft. Die Evidenz ist jedoch vor allem beschreibend und nicht stark meinungsbasiert.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.95,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Andy � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/A/An/Andy/"
+    },
+    {
+      "confidence": 0.94,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Andy: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Andy.html"
+    }
+  ],
+  "style_effect": [
+    "kurz und international",
+    "eher modern bzw. locker wirkend",
+    "oft als Kose- oder Kurzform wahrgenommen",
+    "namenskundlich klar einordenbar",
+    "wenig emotional aufgeladen"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Eher niedrig bis mittel in Deutschland; als Vorname bekannt, aber nicht besonders häufig. Die öffentliche Wahrnehmung erscheint eher sachlich als auffällig."
+}

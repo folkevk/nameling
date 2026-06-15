@@ -1,0 +1,62 @@
+{
+  "associations": [
+    "althochdeutsche Herkunft",
+    "Bedeutung in Richtung „der Edle / der Vornehme / der Glänzende“",
+    "klassischer deutscher Jungenname",
+    "historisch in Deutschland verankert",
+    "Namenstag",
+    "Spitznamen wie Albi, Berti oder Bert",
+    "kulturelle Referenzen wie Albert Einstein und Albert Schweitzer"
+  ],
+  "confidence": 0.91,
+  "display_text": "Albert: ein klassischer, traditionsreicher Vorname mit überwiegend positiver, sachlicher Resonanz. Der Name wirkt zeitlos, seriös und historisch verankert.",
+  "evidence_quality": "mittel bis gut: zwei klare, namensbezogene Quellen mit überwiegend positiver, aber eher sachlich-lexikalischer Darstellung; begrenzte Abdeckung öffentlicher Diskussionen",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Albert",
+  "normalized_name": "albert",
+  "overall_resonance": "Albert wirkt in der öffentlichen Namenswahrnehmung überwiegend klassisch, traditionsbewusst und wertschätzend. Der Name wird vor allem mit historischer Verankerung, einer edel/ehrenhaft konnotierten Bedeutung und einer eher sachlich-informativen Namensdiskussion verbunden. Insgesamt überwiegt eine positive bis neutrale Resonanz, nicht eine auffällig trendige oder polarisierende.",
+  "practical_notes": [
+    "Für eine Namenssuche lässt sich Albert kurz als klassischer, traditionsreicher Vorname mit positiver Grundwirkung zusammenfassen.",
+    "Der Name wirkt eher seriös und zeitlos als verspielt oder modern.",
+    "Die öffentliche Wahrnehmung scheint vor allem lexikalisch und historisch geprägt zu sein."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt überwiegend aus Namenslexika und kommerziellen Namensdatenbanken; das bildet eher die beschreibende Namensdiskussion als echte breite Alltagsresonanz ab.",
+    "Einzelne Detailangaben, etwa zu Spitznamen oder kulturellen Assoziationen, sind nicht in jeder Quelle gleich stark belegt.",
+    "Keine Hinweise auf soziale Stigmatisierung; der Name wird eher konventionell und respektvoll eingeordnet."
+  ],
+  "short_summary": "Albert wird in Deutschland überwiegend als klassischer, traditionsreicher und positiv konnotierter Vorname wahrgenommen. Die Resonanz ist eher sachlich als emotional und stützt sich vor allem auf Namenslexika.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.92,
+      "is_name_discussion": true,
+      "sentiment": "positive",
+      "source_type": "web",
+      "title": "Vorname Albert � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/A/Al/Albert/"
+    },
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Albert: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Albert.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "traditionell",
+    "würdig",
+    "sachlich",
+    "namenskundlich",
+    "eher zeitlos als modern"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland ist Albert klar bekannt und verständlich, aber eher als klassischer, weniger modischer Vorname sichtbar. Die öffentliche Präsenz erscheint vor allem in Namenslexika und Beliebkeitsübersichten, weniger in breit emotionalen Debatten."
+}

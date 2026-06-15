@@ -1,0 +1,71 @@
+{
+  "associations": [
+    "hebräische Herkunft",
+    "Bedeutung: Ebene/Flachland/Niederung",
+    "biblischer Bezug",
+    "Unisex-Name",
+    "in Deutschland eher selten",
+    "englische Aussprache möglich",
+    "Namenstag in einigen Quellen",
+    "Nebenformen wie Scharon oder Sharona"
+  ],
+  "confidence": 0.86,
+  "display_text": "Sharon wirkt in Deutschland eher selten, international und sachlich wahrgenommen. Die vorliegenden Quellen zeigen überwiegend eine neutrale bis leicht positive Resonanz, besonders durch den Eindruck von Einzigartigkeit und den klaren Unisex-Charakter. Die Evidenz ist dabei eher namenskundlich als meinungsbasiert.",
+  "evidence_quality": "mittel bis gut: klare Namensdiskussion, aber nur begrenzt direkte öffentliche Meinungsdaten",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Sharon",
+  "normalized_name": "sharon",
+  "overall_resonance": "Die öffentliche Resonanz auf Sharon wirkt in den vorliegenden Quellen überwiegend sachlich bis leicht positiv. Der Name wird vor allem als hebräisch und eher selten in Deutschland beschrieben, mit einem klaren Unisex-Charakter. Insgesamt entsteht eher ein nüchtern-informativer Eindruck als ein stark emotionales Bild.",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt Sharon sachlich, modern und international.",
+    "Wer einen sehr häufigen oder stark traditionellen deutschen Vornamen sucht, findet hier eher das Gegenteil.",
+    "Die klare Unisex-Zuordnung kann je nach Umfeld als flexibel oder erklärungsbedürftig wahrgenommen werden."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt überwiegend aus Namenslexika und Datenbanken, nicht aus einer breiten öffentlichen Meinungsanalyse.",
+    "Einige positive Eindrücke beruhen auf einzelnen Kommentaren und sind daher nicht repräsentativ.",
+    "Die Wahrnehmung kann je nach Region, Altersgruppe und Aussprache stark variieren."
+  ],
+  "short_summary": "Sharon wird in den Quellen überwiegend neutral bis leicht positiv dargestellt: hebräisch, eher selten in Deutschland und mit Unisex-Charakter.",
+  "source_count": 3,
+  "sources": [
+    {
+      "confidence": 0.95,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Sharon � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/S/Sh/Sharon/"
+    },
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Sharon � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/S/Sh/Sharon/"
+    },
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "eher positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Sharon: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Sharon.html"
+    }
+  ],
+  "style_effect": [
+    "informativ",
+    "neutral-beschreibend",
+    "eher selten",
+    "international klingend",
+    "Unisex-Wahrnehmung",
+    "gelegentlich positiv durch Einzigartigkeit"
+  ],
+  "usable_evidence_count": 3,
+  "visibility": "In Deutschland scheint Sharon bekannt, aber nicht sehr verbreitet zu sein. Die Sichtbarkeit wird in den Quellen vor allem über Namensdatenbanken und Rang-/Beliebtheitsangaben beschrieben, nicht über breit ausgewertete freie Meinungsäußerungen."
+}

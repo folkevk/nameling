@@ -1,0 +1,68 @@
+{
+  "associations": [
+    "lateinischer bzw. römischer Ursprung",
+    "Bedeutung und Herkunft des Namens",
+    "unisex/genderneutral verwendbar",
+    "in Deutschland eher selten bis mäßig gebräuchlich",
+    "Namenstag",
+    "Namensvarianten und internationale Verwendung"
+  ],
+  "confidence": 0.84,
+  "display_text": "Marian wirkt in der öffentlichen Namenswahrnehmung eher sachlich bis leicht positiv. Der Name wird meist als lateinisch geprägt, teils unisex und in Deutschland eher selten bis mäßig gebräuchlich beschrieben. Die Evidenz ist allerdings vor allem lexikalisch; eine starke öffentliche Meinungsbildung ist nicht klar erkennbar.",
+  "evidence_quality": "mittel bis schwach: mehrere passende, aber überwiegend beschreibende Namensquellen; wenig echte öffentliche Diskussionsresonanz",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Marian",
+  "normalized_name": "marian",
+  "overall_resonance": "Die öffentliche Resonanz zu Marian wirkt insgesamt sachlich bis leicht positiv, vor allem in namenkundlichen Quellen. Der Name wird häufig als lateinisch geprägt, teils unisex bzw. genderneutral und in Deutschland eher selten bis mäßig gebräuchlich beschrieben. Eine starke, alltagsöffentliche Meinungsbildung ist aus der Evidenz jedoch nur schwach erkennbar.",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt Marian solide, klassisch und eher unaufgeregt.",
+    "Die Quellenlage spricht für eine nüchterne Wahrnehmung ohne starke Polarisierung.",
+    "Als unisex lesbarer Name kann Marian je nach Region unterschiedlich eingeordnet werden."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt überwiegend aus Namenslexika und Rankings, nicht aus breiter öffentlicher Diskussion.",
+    "Die Wahrnehmung ist daher eher beschreibend als wirklich meinungsbasiert.",
+    "Einzelne Bedeutungsangaben sind teils unsicher oder unterschiedlich hergeleitet."
+  ],
+  "short_summary": "Marian wird in den Quellen vor allem sachlich beschrieben, mit leicht positiver, unaufgeregter Resonanz und geringer bis mittlerer Sichtbarkeit.",
+  "source_count": 3,
+  "sources": [
+    {
+      "confidence": 0.92,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "Vorname Marian � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/M/Ma/Marian/"
+    },
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Marian � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/M/Ma/Marian/"
+    },
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Marian: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Marian.html"
+    }
+  ],
+  "style_effect": [
+    "informativ",
+    "lexikalisch",
+    "namenkundlich",
+    "neutral-beschreibend",
+    "leicht positiv durch Einordnung als verwendbar und etabliert"
+  ],
+  "usable_evidence_count": 3,
+  "visibility": "Eher geringe bis mittlere Sichtbarkeit in deutschsprachigen Namensquellen; die Belege sind vor allem lexikalisch und nicht stark diskursiv."
+}

@@ -1,0 +1,70 @@
+{
+  "associations": [
+    "altenglischer Herkunftsname",
+    "Bedeutung: Dachdecker/Ziegelmacher/Portier",
+    "Familienname als Ursprung",
+    "moderne englische Namensform",
+    "in Deutschland als beliebt beschrieben",
+    "unisex bzw. genderneutral eingeordnet",
+    "Spitzname: Ty"
+  ],
+  "confidence": 0.78,
+  "display_text": "Tyler wirkt in Deutschland modern, international und eher unisex. Die vorhandenen Quellen beschreiben den Namen überwiegend neutral bis leicht positiv, vor allem wegen seines englischsprachigen Klangs und der wahrgenommenen Beliebtheit. Die Evidenz ist jedoch begrenzt und stammt fast nur aus Namenslexika.",
+  "evidence_quality": "mittel bis schwach: wenige, vorwiegend redaktionelle Namenslexika; kaum echte öffentliche Meinungsäußerungen",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Tyler",
+  "normalized_name": "tyler",
+  "overall_resonance": "Tyler wirkt im deutschen Namensraum modern, anglophon und eher unisex/geschlechtsoffen. Die öffentliche Rezeption in den vorliegenden Quellen ist überwiegend sachlich bis leicht positiv, vor allem wegen des modernen Klangs und der wahrgenommenen Beliebtheit. Es gibt aber nur begrenzte Evidenz aus wenigen Namenslexika, daher ist die Aussagekraft für echte öffentliche Resonanz eher moderat.",
+  "practical_notes": [
+    "Für Suchende, die einen internationalen, kurzen und modernen Namen möchten, passt Tyler gut.",
+    "Im deutschen Kontext kann der Name etwas anglophon wirken.",
+    "Die Geschlechtszuordnung wird in den Quellen teils als unisex beschrieben, teils männlich eingeordnet."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist begrenzt und stammt fast ausschließlich aus einzelnen Namenslexika.",
+    "Es gibt keine belastbare breite Community- oder Alltagsresonanz in den Quellen.",
+    "Die Zuschreibung 'modern' oder 'beliebt' beschreibt Wahrnehmungen in den Quellen, nicht eine allgemeingültige Wahrheit."
+  ],
+  "short_summary": "Tyler wird in Deutschland vor allem als moderner, englisch klingender und teils unisex wahrgenommener Vorname beschrieben. Die Resonanz ist eher neutral bis leicht positiv, basiert aber nur auf begrenzter Evidenz.",
+  "source_count": 3,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Tyler � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/T/Ty/Tyler/"
+    },
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Tyler � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/T/Ty/Tyler/"
+    },
+    {
+      "confidence": 0.89,
+      "is_name_discussion": true,
+      "sentiment": "eher positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Tyler: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Tyler.html"
+    }
+  ],
+  "style_effect": [
+    "modern",
+    "englisch klingend",
+    "international",
+    "kurz und markant",
+    "eher zeitgemäß als traditionell",
+    "teils genderneutral wahrgenommen"
+  ],
+  "usable_evidence_count": 3,
+  "visibility": "Der Name ist in Deutschland bekannt und wird als modern sowie teils beliebt beschrieben, aber die vorliegende Evidenz zeigt vor allem lexikonartige Beschreibungen statt breite öffentliche Diskussion."
+}

@@ -1,0 +1,70 @@
+{
+  "associations": [
+    "hebräische Herkunft",
+    "biblischer Bezug",
+    "Bedeutung im Sinne von 'der Höchste' / 'der Erhabene'",
+    "kurze Form bzw. Kurzname",
+    "Unisex-Eindruck",
+    "leicht auszusprechen und zu schreiben",
+    "eher selten, aber bekannt"
+  ],
+  "confidence": 0.82,
+  "display_text": "Eli wirkt in der öffentlichen Wahrnehmung meist neutral bis positiv: ein kurzer, international klingender Vorname mit biblisch-hebräischem Hintergrund. Häufig genannt werden die Bedeutung, die leichte Aussprache und der eher seltene, aber vertraute Charakter. Die vorhandene Evidenz stammt allerdings vor allem aus Namenslexika und Portaltexten, also eher aus beschreibender als aus breiter öffentlicher Diskussion.",
+  "evidence_quality": "gut für Namensbedeutung und Einordnung, schwächer für echte öffentliche Resonanz",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Eli",
+  "normalized_name": "eli",
+  "overall_resonance": "Eli wird öffentlich überwiegend als kurzer, internationaler und klar biblisch-hebräisch geprägter Vorname wahrgenommen. Die Tonlage ist eher neutral bis positiv; hervorgehoben werden vor allem Bedeutung, Herkunft, leichte Aussprache und die Einordnung als seltener, aber vertrauter Name. Die Evidenz stammt jedoch hauptsächlich aus Namenslexika und Portaltexten, also eher aus beschreibender als aus breiter öffentlicher Debatte.",
+  "practical_notes": [
+    "Für Suchmaschinen-Nutzer wirkt Eli meist als schlichter, international verständlicher Vorname mit biblischem Hintergrund.",
+    "Die Kürze kann als modern und markant empfunden werden.",
+    "Wer einen seltenen, aber unkomplizierten Namen sucht, findet bei Eli meist positive oder zumindest neutrale Einordnungen."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist stark auf Namenslexika und Portalseiten konzentriert, daher nur begrenzt als echte öffentliche Meinungsresonanz zu lesen.",
+    "Der Unisex-Eindruck wird in den Quellen erwähnt, ist aber nicht überall gleich klar belegt.",
+    "Keine Hinweise auf gesellschaftliche Stigmatisierung in den vorliegenden Quellen."
+  ],
+  "short_summary": "Eli wird meist neutral bis positiv als kurzer, internationaler und biblisch-hebräischer Vorname beschrieben; die öffentliche Resonanz wirkt freundlich und klar, basiert aber überwiegend auf Namenslexika.",
+  "source_count": 3,
+  "sources": [
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Eli � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/E/El/Eli/"
+    },
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Eli � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/E/El/Eli/"
+    },
+    {
+      "confidence": 0.91,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Eli: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Eli.html"
+    }
+  ],
+  "style_effect": [
+    "kurz und prägnant",
+    "international klingend",
+    "biblisch-traditionell",
+    "lexikalisch klar",
+    "eher modern wirkend durch Kürze",
+    "unaufgeregt und freundlich"
+  ],
+  "usable_evidence_count": 3,
+  "visibility": "mittlere Sichtbarkeit in Namensportalen; keine starke öffentliche Kontroverse erkennbar"
+}

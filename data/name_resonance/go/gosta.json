@@ -1,0 +1,53 @@
+{
+  "associations": [
+    "schwedische Kurzform von Gustav",
+    "altnordische Herkunft",
+    "Bedeutung in Richtung „Stütze der Goten“",
+    "selten bzw. nicht alltäglich",
+    "Namenstag in der Quelle nicht hinterlegt",
+    "mögliche Verwechslung mit einem weiblichen Namen wird erwähnt",
+    "Spitzname Göschi/Gösi"
+  ],
+  "confidence": 0.83,
+  "display_text": "Gösta: selten, nordisch und markant. Die öffentliche Wahrnehmung wirkt überwiegend neutral-sachlich, mit einem eigenständigen, etwas erklärungsbedürftigen Klang im Deutschen.",
+  "evidence_quality": "mittel bis gut; die Quelle ist direkt namenbezogen und inhaltlich passend, aber die Breite der öffentlichen Rezeption ist nur eingeschränkt abgedeckt.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Gösta",
+  "normalized_name": "gosta",
+  "overall_resonance": "Eher eigenständig, nordisch geprägt und im Deutschen deutlich selten; die öffentliche Wahrnehmung wirkt sachlich-neutral mit leicht markantem Charakter.",
+  "practical_notes": [
+    "Im Alltag kann die Schreibweise mit Umlaut für Rückfragen sorgen.",
+    "Die Aussprache und Herkunft sind meist gut vermittelbar, wenn der Name erklärt wird.",
+    "Durch die Seltenheit wirkt der Name individuell und unverwechselbar."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist insgesamt solide, aber auf eine einzelne namenkundliche Quelle gestützt.",
+    "Die Hinweise zur Verwechslung mit einem weiblichen Namen sind eher anekdotisch und sollten nicht verallgemeinert werden."
+  ],
+  "short_summary": "Gösta wird im Deutschen als seltener, nordisch geprägter Vorname wahrgenommen. Die Rezeption ist überwiegend neutral-sachlich; der Name wirkt markant und ungewöhnlich, teils auch erklärungsbedürftig.",
+  "source_count": 1,
+  "sources": [
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Gösta: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,G%C3%B6sta.html"
+    }
+  ],
+  "style_effect": [
+    "nordisch",
+    "traditionsnah",
+    "markant",
+    "ungewöhnlich",
+    "kurz und prägnant",
+    "leicht erklärungsbedürftig"
+  ],
+  "usable_evidence_count": 1,
+  "visibility": "Im deutschsprachigen Raum wirkt der Name eher ungewöhnlich und nicht alltäglich, dadurch fällt er auf, bleibt aber eher niche als breit etabliert."
+}

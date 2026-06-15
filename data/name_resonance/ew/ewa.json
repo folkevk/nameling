@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "hebräische Herkunft",
+    "Bedeutung: Leben / die Lebendige",
+    "Form von Eva",
+    "polnische und schwedische Variante",
+    "biblischer Bezug",
+    "Namenstag",
+    "selten bis gelistet im deutschen Namenskontext"
+  ],
+  "confidence": 0.87,
+  "display_text": "Ewa wirkt in Deutschland überwiegend neutral bis leicht positiv: ein kurzer, klassischer und international verständlicher Vorname mit hebräisch-biblischer Herleitung und der Einordnung als polnische bzw. schwedische Form von Eva. Die öffentliche Evidenz ist jedoch eher namenskundlich als breit gesellschaftlich.",
+  "evidence_quality": "mittel: zwei überwiegend namenskundliche Quellen mit konsistenter, aber eher beschreibender als debattierter Resonanz.",
+  "generated_at": "2026-06-13T22:17:22Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Ewa",
+  "normalized_name": "ewa",
+  "overall_resonance": "Ewa wird in den verfügbaren Quellen überwiegend neutral bis leicht positiv wahrgenommen. Der Name erscheint vor allem als klar einordenbarer, traditionsreicher Vorname mit biblisch/hebräischem Hintergrund und als polnische bzw. schwedische Form von Eva.",
+  "practical_notes": [
+    "Der Name ist kurz, klar und international anschlussfähig.",
+    "In Deutschland kann die Schreibweise Ewa als Variante von Eva wahrgenommen werden.",
+    "Für eine Namenssuche ist der Eindruck eher seriös, klassisch und unaufgeregt."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenzlage ist eher lexikalisch als diskursiv; es gibt wenig breite öffentliche Diskussion.",
+    "Positive Eindrücke stammen teils aus einzelnen Kommentaren und sind nur begrenzt belastbar.",
+    "Keine Hinweise auf gesellschaftliche Stigmatisierung in den Quellen."
+  ],
+  "short_summary": "Ewa wird in den Quellen neutral bis leicht positiv dargestellt: klassisch, international und mit klarer Herkunftsdeutung, aber ohne breite öffentliche Debatte.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Ewa � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/E/Ew/Ewa/"
+    },
+    {
+      "confidence": 0.88,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Ewa: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Ewa.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "international",
+    "kurz und prägnant",
+    "namenskundlich gut erklärbar",
+    "eher sachlich als modisch"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Im deutschsprachigen Raum wirkt Ewa eher bekannt als gebräuchlich, aber nicht stark verbreitet. Die öffentliche Sichtbarkeit stammt hier vor allem aus Namenslexika und Informationsseiten, nicht aus breiter Debatte."
+}

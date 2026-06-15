@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "Kurzform von Robert",
+    "englischer Sprachraum",
+    "glänzender Ruhm / berühmt",
+    "Namenstag",
+    "selten bis mäßig vergeben",
+    "Spitzname/Koseform",
+    "verselbständigte Kurzform"
+  ],
+  "confidence": 0.89,
+  "display_text": "Bob wirkt in Deutschland kurz, international und unkompliziert. Die öffentliche Einordnung ist überwiegend neutral bis leicht positiv; der Name wird vor allem als englische Kurzform von Robert gesehen und ist eher selten bis mäßig verbreitet.",
+  "evidence_quality": "Gut für Herkunft, Bedeutung und übliche Einordnung; mittel für echte öffentliche Resonanz, da die Quellen vor allem beschreibend sind.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Bob",
+  "normalized_name": "bob",
+  "overall_resonance": "In Deutschland wirkt Bob eher kurz, unkompliziert und international geprägt. Die öffentliche Wahrnehmung ist überwiegend neutral bis leicht positiv, vor allem als englische Kurzform von Robert und als eigenständiger, seltener Vorname.",
+  "practical_notes": [
+    "Für den deutschen Kontext kann Bob sehr unkompliziert und international klingen.",
+    "Durch die Kürze ist der Name leicht merkbar, kann aber auch als Spitzname gelesen werden.",
+    "Wer einen formalen oder traditionell deutschen Eindruck sucht, könnte Bob als eher ungewöhnlich empfinden."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt fast ausschließlich aus Namenslexika und Vorname-Seiten, nicht aus breiter öffentlicher Meinungsbildung.",
+    "Positivere Töne ergeben sich eher aus der Namensbeschreibung als aus direkten Nutzerurteilen.",
+    "Mögliche Popkultur- oder Personenbezüge sind nur begrenzt aussagekräftig für die Namenswirkung insgesamt."
+  ],
+  "short_summary": "Bob wird in Deutschland meist als kurze, internationale Kurzform von Robert wahrgenommen: eher selten, neutral bis leicht positiv und unkompliziert im Klang.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Bob � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/B/Bo/Bob/"
+    },
+    {
+      "confidence": 0.9,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Bob: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Bob.html"
+    }
+  ],
+  "style_effect": [
+    "kurz und prägnant",
+    "modern-international",
+    "locker und informell",
+    "als Kurzform wahrgenommen",
+    "einprägsam durch Ein-Silben-Charakter"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Eher selten bis mäßig sichtbar; in deutschen Namensquellen präsent, aber kein sehr verbreiteter Standardname."
+}

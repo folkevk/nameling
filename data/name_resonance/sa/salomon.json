@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "althebräischer Ursprung",
+    "Bedeutung: der Friedliche / Frieden Stiftende",
+    "biblische Tradition",
+    "Weisheit",
+    "internationale Schreib- und Namensformen",
+    "Namenstag"
+  ],
+  "confidence": 0.84,
+  "display_text": "Salomon wird überwiegend sachlich bis leicht positiv wahrgenommen: ein traditioneller, biblisch geprägter Name mit der Bedeutung von Frieden und einer eher seltenen, klassischen Wirkung. In Deutschland ist er eher selten bis mäßig bekannt.",
+  "evidence_quality": "mittel: zwei einschlägige Namensquellen, aber keine breite öffentliche Diskurslage",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Salomon",
+  "normalized_name": "salomon",
+  "overall_resonance": "Überwiegend sachlich bis leicht positiv. Der Name wird in den vorliegenden Quellen vor allem traditionell, biblisch und bedeutungsnah wahrgenommen, mit einer eher ruhigen, wertigen Ausstrahlung.",
+  "practical_notes": [
+    "Wirkt eher klassisch und traditionsbewusst als trendig.",
+    "Durch die klare Bedeutung und die internationale Anschlussfähigkeit gut verständlich.",
+    "Je nach Umfeld kann der Name als selten, markant und etwas feierlich wahrgenommen werden."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist begrenzt und stammt vor allem aus Namenslexika; eine breite öffentliche Meinungsvielfalt ist daraus nur eingeschränkt ableitbar.",
+    "Die positive Wirkung ergibt sich vor allem aus Herkunft und Bedeutungsdeutung, nicht aus belastbaren Reputationsdaten.",
+    "Keine Hinweise auf soziale Stigmatisierung in der vorliegenden Evidenz."
+  ],
+  "short_summary": "Salomon wird in den Quellen überwiegend sachlich bis leicht positiv dargestellt: ein traditioneller, biblisch geprägter Name mit der Bedeutung von Frieden und einer eher seltenen, klassischen Wirkung.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.92,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Salomon � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/S/Sa/Salomon/"
+    },
+    {
+      "confidence": 0.86,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Salomon: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Salomon.html"
+    }
+  ],
+  "style_effect": [
+    "traditionell",
+    "biblisch",
+    "lexikalisch-klar",
+    "eher klassisch als modern",
+    "wertig und ernsthaft wirkend"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland eher selten bis mäßig bekannt; der Name ist präsent, aber kein typischer Modename."
+}

@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "lateinische Herkunft",
+    "Bedeutung in Richtung Glück / Seligkeit / Segen",
+    "deutsche Form von Beata",
+    "weiblicher Vorname",
+    "Namenstag",
+    "früher verbreitet, heute seltener"
+  ],
+  "confidence": 0.91,
+  "display_text": "Beate wird in Deutschland meist klassisch, sachlich und leicht positiv wahrgenommen. Der Name ist bekannt, aber heute eher selten und wirkt eher traditionsnah als modern.",
+  "evidence_quality": "hoch bis mittel: zwei namenskundliche Quellen mit klarer Nennung von Bedeutung, Herkunft und Beliebtheit; eine Quelle mit leicht positiver, aber gemischter Tonlage.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Beate",
+  "normalized_name": "beate",
+  "overall_resonance": "Der Vorname Beate wirkt im deutschsprachigen Raum vor allem klassisch, sachlich und traditionsnah. In der öffentlichen Namenswahrnehmung überwiegen neutrale bis leicht positive Assoziationen, besonders über die Bedeutung als „die Glückliche“ oder „die Gesegnete“. Gleichzeitig gilt der Name heute eher als selten und eher älter geprägt.",
+  "practical_notes": [
+    "Für Suchmaschinen wirkt der Name klar verständlich und etabliert.",
+    "Die Resonanz ist eher traditionsorientiert als modern-zeitgeistig.",
+    "Wenn Aktualität wichtig ist, sollte erwähnt werden, dass der Name heute eher selten vergeben wird."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt überwiegend aus Namenslexika und Infoseiten, also aus einer eher beschreibenden als meinungsstarken öffentlichen Wahrnehmung.",
+    "Einzelne positive Bewertungen sind vorhanden, aber nicht sehr breit belegt.",
+    "Keine belastbaren Hinweise auf starke negative Stigmatisierung in den vorliegenden Quellen."
+  ],
+  "short_summary": "Beate wird öffentlich überwiegend klassisch und freundlich-neutral wahrgenommen, mit positiver Bedeutungsassoziation, aber heute eher seltener Verwendung.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.99,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Beate � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/B/Be/Beate/"
+    },
+    {
+      "confidence": 0.84,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Beate: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Beate.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "traditionsnah",
+    "eher formal",
+    "zeitlos im historischen Sinn",
+    "sachlich",
+    "leicht positiv besetzt"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland bekannt, aber heute eher selten und nicht sehr trendig. Die Sichtbarkeit entsteht vor allem über Namenslexika und historische Beliebtheit, weniger über aktuelle Mode."
+}

@@ -1,0 +1,62 @@
+{
+  "associations": [
+    "hebräische Herkunft",
+    "biblischer Name",
+    "Bedeutung: der Beständige / der Standfeste",
+    "englische Form eines althebräischen Namens",
+    "international verbreitet",
+    "moderne Namenswirkung",
+    "teilweise Hinweise auf Beliebtheit in Deutschland"
+  ],
+  "confidence": 0.78,
+  "display_text": "Ethan wirkt in Deutschland modern, international und überwiegend positiv. Der Name wird meist mit hebräischer Herkunft, biblischem Bezug und der Bedeutung „der Beständige / der Standfeste“ verbunden. Die öffentliche Resonanz erscheint eher moderat; die Evidenz ist dafür nur begrenzt repräsentativ.",
+  "evidence_quality": "mittel bis eher schwach für öffentliche DE-Resonanz; gut für Herkunft, Bedeutung und lexikalische Einordnung",
+  "generated_at": "2026-06-14T10:47:41Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Ethan",
+  "normalized_name": "ethan",
+  "overall_resonance": "In Deutschland wirkt Ethan insgesamt modern, international und eher positiv konnotiert. Der Name wird vor allem mit hebräischer Herkunft, biblischem Bezug und der Bedeutung „der Beständige / der Standfeste“ verbunden. Die öffentliche Wahrnehmung erscheint dabei eher sachlich-wohlwollend als kontrovers.",
+  "practical_notes": [
+    "Für eine Namenssuche ist Ethan in Deutschland meist gut verständlich und als internationaler Name anschlussfähig.",
+    "Die Wahrnehmung ist eher positiv bis neutral, mit leicht moderner Wirkung.",
+    "Wenn eine besonders regionale oder repräsentative DE-Einordnung benötigt wird, wäre zusätzliche Evidenz sinnvoll."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz für die öffentliche Resonanz in Deutschland ist begrenzt und stark von Namensportalen geprägt.",
+    "Einzelne Kommentare zu Aussprache oder Alltagswirkung sind Meinungsäußerungen und nicht repräsentativ.",
+    "Keine Hinweise auf eine spezifische soziale Stigmatisierung in der vorliegenden Evidenz."
+  ],
+  "short_summary": "Ethan wird in Deutschland überwiegend modern, international und leicht positiv wahrgenommen. Die Evidenz ist jedoch vor allem lexikalisch und daher für eine breite öffentliche Resonanz nur eingeschränkt repräsentativ.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "Vorname Ethan � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/E/Et/Ethan/"
+    },
+    {
+      "confidence": 0.82,
+      "is_name_discussion": true,
+      "sentiment": "eher positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Ethan: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Ethan.html"
+    }
+  ],
+  "style_effect": [
+    "modern",
+    "international",
+    "biblisch",
+    "namenkundlich",
+    "sachlich-positiv",
+    "zeitgemäß"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Die Sichtbarkeit in Deutschland ist vorhanden, aber die öffentliche Resonanz wirkt eher moderat und nicht breit diskursiv. Die Evidenz stammt vor allem aus Namenslexika und wenigen Nutzerkommentaren, daher ist die Aussagekraft für eine allgemeine DE-Resonanz begrenzt."
+}

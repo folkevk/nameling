@@ -1,0 +1,62 @@
+{
+  "associations": [
+    "altgriechische Herkunft",
+    "Bedeutung in Richtung 'dem Herrn zugehörig'",
+    "männlicher Vorname",
+    "Bezug zu Kyrill und Method",
+    "kyrillisches Alphabet",
+    "englische und französische Form von Cyrillus",
+    "selten bis moderat vergeben",
+    "Namenstag am 14. Februar"
+  ],
+  "confidence": 0.72,
+  "display_text": "Cyril wird in den verfügbaren Quellen überwiegend neutral bis leicht positiv wahrgenommen. Der Name wirkt selten, international und traditionsnah, ohne stark kontrovers zu sein. Vereinzelte skeptische Stimmen sind vorhanden, aber die Evidenz ist begrenzt und stammt vor allem aus Namensdatenbanken.",
+  "evidence_quality": "mittel bis schwach; überwiegend Namensdatenbanken mit wenig echter öffentlicher Diskussionsbreite",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Cyril",
+  "normalized_name": "cyril",
+  "overall_resonance": "Cyril wird in den vorliegenden Quellen überwiegend neutral bis leicht positiv beschrieben. Der Name wirkt eher selten, international und namenskundlich klar verankert, ohne stark polarisiert zu sein. Einzelne skeptische oder spöttische Reaktionen kommen vor, die Evidenz dafür ist aber schwach und vor allem quellengebunden.",
+  "practical_notes": [
+    "Für Suchende dürfte Cyril vor allem wegen seiner klaren, internationalen Wirkung interessant sein.",
+    "Wer einen seltenen, aber gut lesbaren Namen sucht, findet hier eine eher unaufgeregte Option.",
+    "Die Aussprache und Schreibweise sind vergleichsweise unkompliziert, können aber in Deutschland gelegentlich Erklärungsbedarf auslösen."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die öffentliche Resonanz ist nur indirekt aus Namensseiten ableitbar und nicht aus breiter sozialer Debatte.",
+    "Vereinzelt auftauchende ablehnende Kommentare sollten nicht verallgemeinert werden.",
+    "Die Datenlage ist klein und quellenarm, daher ist die Einschätzung vorsichtig zu lesen."
+  ],
+  "short_summary": "Cyril wirkt in Deutschland eher selten, sachlich und leicht international. Die öffentliche Resonanz ist überwiegend neutral bis leicht positiv, bei nur schwacher Evidenz für vereinzelte Ablehnung.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Cyril � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/C/Cy/Cyril/"
+    },
+    {
+      "confidence": 0.67,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Cyril: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Cyril.html"
+    }
+  ],
+  "style_effect": [
+    "klingt kurz und international",
+    "wirkt eher sachlich als verspielt",
+    "hat einen traditionsnahen, namenkundlichen Eindruck",
+    "durch die Seltenheit etwas auffälliger",
+    "insgesamt eher nüchtern als modisch"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland scheint Cyril eher wenig verbreitet zu sein und hat dadurch keine sehr hohe Alltagspräsenz. Die öffentliche Wahrnehmung ist daher eher leise als breit diskutiert."
+}

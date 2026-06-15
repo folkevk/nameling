@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "Bedeutungen wie Illusion oder Magie",
+    "Sanskrit-, hebräische sowie teils griechisch/römische Bezüge",
+    "Variante bzw. Nähe zu Maia oder Maria",
+    "Mythologie-Bezüge",
+    "beliebter Mädchenname in Deutschland",
+    "international gebräuchlich"
+  ],
+  "confidence": 0.92,
+  "display_text": "Maya wirkt in der öffentlichen Namensbeschreibung überwiegend positiv: kurz, weich, international und modern. Die Quellen betonen vor allem Bedeutungen wie Illusion/Magie sowie verschiedene Herkunftsbezüge. Die Evidenz ist dabei stark namenskundlich geprägt, also eher beschreibend als breiter öffentlich gemessen.",
+  "evidence_quality": "hoch für namenskundliche Beschreibung, begrenzt für breitere öffentliche Wahrnehmung",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Maya",
+  "normalized_name": "maya",
+  "overall_resonance": "Maya wird in der vorliegenden deutschsprachigen Evidenz überwiegend positiv und modern wahrgenommen. Der Name gilt als kurz, international gut verwendbar und klanglich weich; die öffentliche Rezeption ist dabei vor allem namenskundlich und informativ geprägt.",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt Maya unkompliziert, eingängig und gut merkbar.",
+    "Die Schreibweise ist kurz und im deutschen Sprachraum sehr gut lesbar.",
+    "Der Name eignet sich für ein modernes, internationales Profil ohne stark erklärungsbedürftig zu sein."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt fast ausschließlich aus Namenslexika und ist daher eher beschreibend als breit öffentlich-rezeptiv.",
+    "Einzelne Deutungen zu Herkunft und Bedeutung variieren je nach Quelle; das ist bei Vornamen üblich.",
+    "Keine belastbaren Hinweise auf eine soziale Stigmatisierung in der vorliegenden Evidenz."
+  ],
+  "short_summary": "Maya wird in den Quellen überwiegend positiv, modern und international verstanden; die Evidenz ist jedoch vor allem lexikalisch und nicht breit gesellschaftlich erhoben.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "Vorname Maya � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/M/Ma/Maya/"
+    },
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Maya: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Maya.html"
+    }
+  ],
+  "style_effect": [
+    "kurz und klar",
+    "weich und freundlich klingend",
+    "international anschlussfähig",
+    "modern, aber etabliert",
+    "eher elegant als streng"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "hoch"
+}

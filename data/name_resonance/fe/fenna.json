@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "Bedeutung wird häufig als „die Friedliche“ beschrieben",
+    "Herkunft wird mit friesisch/niederdeutsch bzw. deutsch-niederdeutsch verbunden",
+    "Bezüge zu Frieden, Schutz und Sicherheit",
+    "Verwandte Formen wie Fenne, Fen und Fenneke",
+    "als eher selten bis mäßig verbreitet eingeordnet",
+    "Namenstag-Angaben werden in manchen Quellen genannt"
+  ],
+  "confidence": 0.84,
+  "display_text": "Fenna wirkt öffentlich überwiegend positiv: freundlich, ruhig und regional verankert. Der Name wird meist als friesisch/niederdeutsch beschrieben und mit Bedeutungen wie „die Friedliche“ verbunden. Die Sichtbarkeit ist eher gering bis mäßig, die Evidenz aber begrenzt und vor allem namenskundlich statt breit öffentlich diskutiert.",
+  "evidence_quality": "mittel bis schwach: zwei ähnlich ausgerichtete Namensquellen, überwiegend beschreibend statt diskursiv, kaum unabhängige Breitenresonanz.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Fenna",
+  "normalized_name": "fenna",
+  "overall_resonance": "Überwiegend positiv und ruhig; der Name wirkt sachlich, freundlich und regional verankert, bei insgesamt eher kleiner öffentlicher Sichtbarkeit.",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt Fenna klar, freundlich und unkompliziert.",
+    "Der Name hat genug Eigenständigkeit, bleibt aber gut aussprechbar und alltagstauglich.",
+    "Durch die regionale Prägung kann Fenna als bodenständig und zugleich selten wahrgenommen werden."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist schwach bis mittel: Es liegen vor allem zwei Namensseiten vor, keine breite unabhängige öffentliche Diskussion.",
+    "Ein Teil der positiven Einordnung stammt aus beschreibenden oder community-nahen Namenslexika, daher vorsichtig lesen.",
+    "Beliebtheitsangaben sind quellenabhängig und sollten nicht als exakte Marktmeinung verstanden werden."
+  ],
+  "short_summary": "Fenna wird öffentlich meist positiv, ruhig und namenskundlich beschrieben: ein seltener, freundlicher Name mit friesisch/niederdeutscher Prägung und Bedeutungen rund um Frieden und Schutz.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Fenna � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/F/Fe/Fenna/"
+    },
+    {
+      "confidence": 0.9,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Fenna: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Fenna.html"
+    }
+  ],
+  "style_effect": [
+    "freundlich",
+    "weich klingend",
+    "norddeutsch/friesisch geprägt",
+    "traditionell ohne altmodisch zu wirken",
+    "kurz und einprägsam",
+    "eher selten, daher individuell"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Eher gering bis mäßig sichtbar: Fenna wird in den Quellen vor allem in Namenslexika und Namensseiten behandelt, nicht in breiter öffentlicher Debatte."
+}

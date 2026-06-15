@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "englische bzw. schottische Namensvariante",
+    "althebräische Wurzeln",
+    "Bedeutung: die Geliebte / der Liebling",
+    "mehrere Namenstage",
+    "eher selten vergeben",
+    "sachlich-informative Namenslexika"
+  ],
+  "confidence": 0.79,
+  "display_text": "Davina wirkt in den vorliegenden Quellen überwiegend freundlich und klangvoll, mit eher seltener bis moderater Verbreitung in Deutschland. Der Name wird als weiblich mit schottisch-hebräischen bzw. englischen Bezügen beschrieben; die Bedeutung wird meist positiv als „die Geliebte“ oder „der Liebling“ angegeben. Insgesamt ist die Resonanz eher positiv, aber die Datenlage ist dünn und stammt vor allem aus Namenslexika.",
+  "evidence_quality": "mittel bis schwach: zwei überwiegend namenskundliche Webquellen, wenig unabhängige öffentliche Resonanz",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Davina",
+  "normalized_name": "davina",
+  "overall_resonance": "Davina wird in den vorliegenden Quellen überwiegend sachlich bis leicht positiv wahrgenommen. Der Name erscheint als weiblich, klangvoll und eher selten bis moderat bekannt; die Bedeutungsangaben („die Geliebte“ / „der Liebling“) und die Einordnung als Variante mit schottisch-hebräischem Hintergrund tragen zu einer freundlichen, eher eleganten Wirkung bei.",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt Davina freundlich, feminin und vergleichsweise markant.",
+    "Wer einen seltenen, aber gut verständlichen Namen sucht, könnte ihn passend finden.",
+    "Die Aussprache scheint in den Quellen vereinzelt erklärt werden zu müssen, was auf leichte Unsicherheit bei der Wahrnehmung hinweisen kann."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist stark quellengebunden und vor allem aus Namensdatenbanken entnommen.",
+    "Es liegen keine unabhängigen, breiten Publikumsreaktionen oder belastbaren Umfragedaten vor.",
+    "Die positive Wirkung ergibt sich teilweise aus der Bedeutungsdeutung; das ist keine gesicherte allgemeine Alltagswahrnehmung."
+  ],
+  "short_summary": "Davina wird in den Quellen freundlich, klangvoll und eher selten bis moderat bekannt beschrieben. Die Wirkung ist überwiegend positiv, aber die Evidenz stammt fast nur aus Namenslexika und ist daher nur begrenzt belastbar.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.95,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Davina � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/D/Da/Davina/"
+    },
+    {
+      "confidence": 0.92,
+      "is_name_discussion": true,
+      "sentiment": "positive",
+      "source_type": "web",
+      "title": "&#9655; Vorname Davina: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Davina.html"
+    }
+  ],
+  "style_effect": [
+    "weiblich",
+    "klangvoll",
+    "eher elegant",
+    "modern, aber nicht modisch überladen",
+    "selten bis moderat bekannt",
+    "namenskundlich geprägt"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland wirkt Davina eher bekannt, aber nicht alltäglich. Die öffentliche Sichtbarkeit ist damit vorhanden, jedoch nicht stark verbreitet. Die Evidenz dazu stammt vor allem aus Namenslexika und ist daher nur begrenzt repräsentativ für eine breitere öffentliche Meinung."
+}

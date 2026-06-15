@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "französische Form von Adriana",
+    "lateinische Herkunft",
+    "Bedeutung: die aus Adria Stammende",
+    "Namenstag",
+    "weiblicher Vorname",
+    "selten in Deutschland"
+  ],
+  "confidence": 0.76,
+  "display_text": "Adrienne wirkt in Deutschland eher selten, elegant und französisch geprägt. Die vorliegenden Quellen beschreiben den Namen sachlich-neutral mit Herkunft, Bedeutung und Namenstag; eine starke öffentliche Wertung ist kaum erkennbar.",
+  "evidence_quality": "mittel bis schwach: zwei überwiegend informative Quellen, klare Namensdaten, aber nur begrenzte Hinweise auf echte öffentliche Resonanz.",
+  "generated_at": "2026-06-14T10:47:41Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Adrienne",
+  "normalized_name": "adrienne",
+  "overall_resonance": "Adrienne wirkt im deutschen Sprachraum eher elegant, klassisch-französisch und selten; die öffentliche Rezeption in den vorliegenden Quellen ist überwiegend sachlich-neutral.",
+  "practical_notes": [
+    "Für Suchende wirkt der Name eher markant und ungewöhnlich als massentypisch.",
+    "Die Schreibweise kann als französisch wahrgenommen werden und dadurch einen internationalen Eindruck vermitteln.",
+    "Im deutschen Kontext ist der Name eher selten, was ihn auffälliger macht."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist begrenzt und stammt vor allem von Namenslexika; belastbare öffentliche Resonanz im engeren Sinn ist nur schwach ableitbar.",
+    "Es gibt keinen Hinweis auf eine verbreitete negative Stigmatisierung; falls einzelne Bewertungen existieren, sind sie in den Quellen nicht dominant."
+  ],
+  "short_summary": "Adrienne wird in den vorliegenden deutschen Quellen sachlich-neutral beschrieben und vor allem mit französisch-lateinischer Herkunft, seltener Verwendung und elegantem Klang verbunden.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Adrienne � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/A/Ad/Adrienne/"
+    },
+    {
+      "confidence": 0.91,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Adrienne: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Adrienne.html"
+    }
+  ],
+  "style_effect": [
+    "elegant",
+    "französisch-klingend",
+    "klassisch",
+    "gehoben",
+    "weich im Klang",
+    "selten"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Eher geringe Alltagspräsenz in Deutschland, mit klar erkennbarer Namensherkunft und wenig populärer Breitenwirkung."
+}

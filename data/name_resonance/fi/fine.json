@@ -1,0 +1,62 @@
+{
+  "associations": [
+    "Kurzform von Josefine/Josephine",
+    "Bedeutungsbezüge zu „Gott möge hinzufügen“",
+    "zart",
+    "zierlich",
+    "fein",
+    "schön",
+    "weiblich",
+    "selten bis eher ungewöhnlich"
+  ],
+  "confidence": 0.78,
+  "display_text": "Fine wirkt in den vorliegenden Quellen überwiegend positiv: kurz, zart, schlicht und freundlich. Der Name ist in Deutschland bekannt, aber eher besonders als allgegenwärtig. Die Evidenz stammt vor allem aus Namenslexika, daher ist die öffentliche Alltagsresonanz nur indirekt belegt.",
+  "evidence_quality": "mittel: explizite Namensquellen mit überwiegend positiver Tonalität, aber nur indirekter Beleg für echte öffentliche Resonanz",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Fine",
+  "normalized_name": "fine",
+  "overall_resonance": "Für Fine ist die öffentliche Resonanz in den vorliegenden Quellen überwiegend positiv und freundlich. Der Name wird vor allem als kurz, zart, schön und weiblich beschrieben. Die Evidenz ist jedoch eher indirekt, da sie hauptsächlich aus Namenslexika und redaktionellen Einträgen stammt.",
+  "practical_notes": [
+    "Gut geeignet, wenn ein kurzer, weicher und klar weiblich lesbarer Name gewünscht ist.",
+    "Die Aussprache und Schreibweise wirken einfach, was die Alltagstauglichkeit erhöht.",
+    "Wer sehr häufige Namen vermeiden möchte, findet hier eher eine besondere als eine generische Wahl."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Quellen sind überwiegend Namensdatenbanken und damit keine direkte Messung öffentlicher Alltagserfahrungen.",
+    "Einzelne Kommentare und Beschreibungen können die Wahrnehmung stärker vereinfachen, als sie im Alltag tatsächlich ist.",
+    "Keine Hinweise auf eine spezifische gesellschaftliche Stigmatisierung in den vorliegenden Daten."
+  ],
+  "short_summary": "Fine wird in den Quellen überwiegend positiv als kurzer, zarter und schöner Mädchenname beschrieben; die öffentliche Resonanz wirkt freundlich, aber die Evidenz ist vor allem indirekt aus Namenslexika.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.91,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "Vorname Fine � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/F/Fi/Fine/"
+    },
+    {
+      "confidence": 0.91,
+      "is_name_discussion": true,
+      "sentiment": "mostly positive",
+      "source_type": "web",
+      "title": "&#9655; Vorname Fine: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Fine.html"
+    }
+  ],
+  "style_effect": [
+    "kurz und prägnant",
+    "weich und zart wirkend",
+    "modern, aber nicht laut",
+    "elegant und schlicht",
+    "eher freundlich als markant"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Der Name ist in Deutschland sichtbar und bekannt, wirkt aber eher modern bis ungewöhnlich als massenhaft verbreitet. Die Quellen sprechen von Beliebtheit bzw. Bekanntheit, ohne eine sehr breite Alltagsresonanz belastbar zu belegen."
+}

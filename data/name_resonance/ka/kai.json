@@ -1,0 +1,69 @@
+{
+  "associations": [
+    "friesische bzw. niederdeutsche Herkunft",
+    "lateinische bzw. griechische Herleitungen in einzelnen Quellen",
+    "Bedeutungen wie Krieger/Kämpfer oder der Reine",
+    "kurze, klare Klangform",
+    "Namenstag",
+    "historische Beliebtheit in Deutschland"
+  ],
+  "confidence": 0.88,
+  "display_text": "Kai wirkt in den Quellen kurz, klassisch und überwiegend positiv bzw. neutral. Der Name ist im deutschsprachigen Raum gut bekannt; die Herkunftsdeutungen sind jedoch mehrdeutig und nicht vollständig einheitlich.",
+  "evidence_quality": "mittel bis gut: mehrere direkte, namebezogene Namenslexika mit überwiegend konsistenter, aber nicht vollständig einheitlicher Darstellung; öffentliche Resonanz im engeren Sinn ist nur begrenzt abbildbar.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Kai",
+  "normalized_name": "kai",
+  "overall_resonance": "Kai wird in den Quellen überwiegend als kurzer, klassischer und positiv bis neutral wahrgenommener Vorname beschrieben. Er wirkt vertraut und unkompliziert, teils auch modern genug durch seine Kürze, zugleich aber mit langer namenskundlicher Tradition. Die Deutungen und Herleitungen sind jedoch nicht ganz einheitlich.",
+  "practical_notes": [
+    "Für eine Namenssuche eignet sich Kai, wenn ein kurzer, geläufiger und unkompliziert wirkender Name gesucht wird.",
+    "Die öffentliche Rezeption ist eher sachlich-positiv als polarisierend.",
+    "Wegen der verschiedenen Herleitungen kann man den Namen je nach Kontext unterschiedlich erklären, ohne eine einzige Bedeutung als endgültig darzustellen."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Herkunft von Kai ist in den Quellen mehrdeutig und teils widersprüchlich.",
+    "Einige Deutungen sind nur schwach belegt und sollten vorsichtig gelesen werden.",
+    "Es gibt keine belastbare Evidenz für eine gesellschaftliche Stigmatisierung des Namens; falls einzelne Vorurteile existieren, wären sie nicht als allgemeine Wahrheit zu behandeln."
+  ],
+  "short_summary": "Kai wird in den vorliegenden Quellen als kurzer, klassischer und eher positiv wahrgenommener Vorname beschrieben, mit teils unterschiedlichen Herkunftsdeutungen.",
+  "source_count": 3,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Kai � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/K/Ka/Kai/"
+    },
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Kai � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/K/Ka/Kai/"
+    },
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Kai: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Kai.html"
+    }
+  ],
+  "style_effect": [
+    "kurz und prägnant",
+    "klassisch wirkend",
+    "eher modern durch die Knappheit",
+    "namenskundlich interessant",
+    "unisex-nah bzw. teils als Unisex-Name eingeordnet",
+    "einfach zu merken"
+  ],
+  "usable_evidence_count": 3,
+  "visibility": "Im deutschsprachigen Raum ist Kai gut bekannt und sichtbar; die Erwähnungen beziehen sich vor allem auf Namenslexika und Beliebtheitsbeschreibungen, nicht auf breite öffentliche Debatten."
+}

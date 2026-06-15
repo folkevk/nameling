@@ -1,0 +1,59 @@
+{
+  "associations": [
+    "Bedeutungen wie „die Helle“, „die Leuchtende“ oder „strahlend“",
+    "Herkunft wird meist als lateinisch/italienisch bzw. mit Clara/Klara verbunden beschrieben",
+    "teilweise auch irische Bezüge genannt",
+    "Namenslexika ordnen Kiara häufig als modern und eher beliebt ein",
+    "manche Quellen nennen alternative, widersprüchliche Etymologien"
+  ],
+  "confidence": 0.86,
+  "display_text": "Kiara wirkt in Deutschland überwiegend positiv, modern und freundlich. Der Name wird häufig mit „hell“, „leuchtend“ oder „strahlend“ verbunden und gilt eher als bekannt bis beliebt. Die Herkunftsdeutungen variieren je nach Quelle, daher ist die Evidenz dafür nur mäßig breit.",
+  "evidence_quality": "mittel bis gut: mehrere einschlägige Namensseiten, aber keine breite repräsentative Öffentlichkeitsstudie.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Kiara",
+  "normalized_name": "kiara",
+  "overall_resonance": "Überwiegend positiv und modern, mit sachlich-lexikalischer Wahrnehmung im deutschsprachigen Raum.",
+  "practical_notes": [
+    "Für eine öffentliche Namenssuche wirkt Kiara freundlich, modern und unkompliziert.",
+    "Der Name ist gut merkbar und hat einen positiven Klang.",
+    "Bei der Einordnung helfen vor allem die Bedeutungs- und Herkunftsdeutungen, weniger belastbare breitere Umfragedaten."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz basiert stark auf wenigen Namenslexika und ist daher begrenzt breit.",
+    "Einzelne Herkunfts- und Bedeutungsangaben unterscheiden sich je nach Quelle.",
+    "Aussagen zur Beliebtheit sollten vorsichtig gelesen werden, da sie quellenabhängig sind."
+  ],
+  "short_summary": "Kiara wird im deutschsprachigen Raum meist positiv, modern und klanglich angenehm wahrgenommen; die Bedeutung wird oft mit Helligkeit und Leuchten verbunden, bei zugleich etwas widersprüchlicher Herkunftsdeutung.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.94,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Kiara � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/K/Ki/Kiara/"
+    },
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Kiara: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Kiara.html"
+    }
+  ],
+  "style_effect": [
+    "hell, lebendig, freundlich",
+    "modern und zeitgemäß",
+    "international klingend",
+    "eher weich und leicht auszusprechen",
+    "namenskundlich oft mit positiver Bedeutungsassoziation verbunden"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland wirkt der Name Kiara eher bekannt bis beliebt, aber nicht als klassischer Dauerstandard; die Wahrnehmung ist insgesamt präsent und gut anschlussfähig."
+}

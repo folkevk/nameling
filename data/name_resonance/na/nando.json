@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "Kurzform von Ferdinando/Fernando",
+    "italienisch bzw. romanisch anmutend",
+    "mutig/stark als mögliche Bedeutungsassoziation",
+    "selten bis moderat verbreitet",
+    "Namenstag: 30. Mai",
+    "Spitzname-/Koseform-Potenzial"
+  ],
+  "confidence": 0.82,
+  "display_text": "Nando wirkt in Deutschland eher selten, kurz und markant. Die vorliegende Evidenz zeichnet den Namen überwiegend positiv-informativ: mit italienisch/romanischer Anmutung, möglicher Bedeutung als Kurzform von Ferdinando/Fernando und ohne erkennbare starke negative Konnotationen. Die Datenlage ist jedoch eher lexikalisch als öffentlich-diskussionsbasiert.",
+  "evidence_quality": "mittel bis schwach: zwei Namenslexikon-Quellen, wenig echte öffentliche Diskussionsdaten, überwiegend beschreibende statt meinungsstarker Evidenz",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Nando",
+  "normalized_name": "nando",
+  "overall_resonance": "Die öffentliche Resonanz zu Nando wirkt überwiegend sachlich bis leicht positiv. Der Name wird vor allem als kurze, eher seltene Form mit italienisch/romanischer Anmutung beschrieben. Eine breite emotionale Debatte ist in der vorliegenden Evidenz nicht erkennbar.",
+  "practical_notes": [
+    "Für Suchmaschinen-Nutzung eignet sich eine vorsichtige Formulierung wie: ‚seltener, klangvoller Vorname mit italienisch/romanischer Note‘.",
+    "Wenn Herkunft oder Bedeutung wichtig sind, sollte man die Aussagen als Namensdeutung und nicht als gesicherte Alltagswahrnehmung formulieren.",
+    "Die Verbreitung wird in den Quellen als gering bis moderat beschrieben; das spricht eher für Eigenständigkeit als für Mainstream-Charakter."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz basiert fast ausschließlich auf Namenslexika und ist damit nur begrenzt repräsentativ für echte öffentliche Meinungen.",
+    "Positive Bedeutungszuweisungen sind eher herkunfts- und beschreibungsbasiert als durch viele unabhängige Stimmen belegt.",
+    "Keine belastbaren Hinweise auf Stigmatisierung oder klar negative Konnotationen in der vorliegenden Quelle."
+  ],
+  "short_summary": "Nando wird in der vorliegenden Evidenz als seltener, kurz und klangvoll wirkender Vorname mit leicht positiver, vor allem herkunftsbezogener Resonanz beschrieben.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Nando � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/N/Na/Nando/"
+    },
+    {
+      "confidence": 0.87,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Nando: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Nando.html"
+    }
+  ],
+  "style_effect": [
+    "kurz",
+    "markant",
+    "modern-klassisch",
+    "international klingend",
+    "eher selten",
+    "informativ statt trendig"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland eher selten bis mäßig verbreitet und dadurch auffällig, aber nicht unbekannt. Die Sichtbarkeit in der öffentlichen Namenswahrnehmung scheint eher lexikalisch als durch starke Alltagsdiskussion geprägt zu sein."
+}

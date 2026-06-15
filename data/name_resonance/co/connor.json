@@ -1,0 +1,62 @@
+{
+  "associations": [
+    "altirische bzw. keltische Herkunft",
+    "anglisierte Form von Conchobhar",
+    "Bedeutungsdeutungen wie Hundefreund, Hundeliebhaber oder Wolfsliebhaber",
+    "männlicher Vorname",
+    "Namenstag am 29. September",
+    "eher selten bis moderat verbreitet in Deutschland",
+    "Spitznamen wie Con, Connie oder Conni"
+  ],
+  "confidence": 0.81,
+  "display_text": "Connor wirkt in Deutschland überwiegend neutral bis leicht positiv: ein moderner, international klingender Jungenname mit altirischer Herkunft und positiver Bedeutungsassoziation. Er ist eher seltener, aber gut verständlich und klar markant.",
+  "evidence_quality": "mittel bis gut, aber stark quellenabhängig; vor allem lexikalische Namensquellen statt breiter öffentlicher Diskurs",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Connor",
+  "normalized_name": "connor",
+  "overall_resonance": "Überwiegend neutral bis leicht positiv: Connor wird in der öffentlichen Namenswahrnehmung meist als moderner, international klingender Jungenname mit klarer Herkunft und positiver Bedeutungsaufladung beschrieben.",
+  "practical_notes": [
+    "Für eine Namenssuche ist Connor ein gut anschlussfähiger, international verständlicher Name.",
+    "Die Wirkung ist eher modern als traditionell-deutsch.",
+    "Durch die klare Herkunft und die positive Bedeutung kann der Name als sachlich positiv wahrgenommen werden, ohne überladen zu wirken."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt überwiegend aus zwei Namenslexika; echte öffentliche Debatten oder breitere Alltagsresonanz sind nur begrenzt belegt.",
+    "Beliebtheitsangaben sollten als Popularitätsbeschreibung verstanden werden, nicht als Werturteil.",
+    "Einzelne Bedeutungsangaben variieren leicht zwischen den Quellen; die Grundtendenz ist jedoch konsistent."
+  ],
+  "short_summary": "Connor wird in Deutschland meist als moderner, internationaler Jungenname mit altirischer Herkunft und eher positiver, sachlicher Wahrnehmung beschrieben. Die öffentliche Resonanz ist überwiegend neutral bis leicht positiv.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.95,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Connor � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/C/Co/Connor/"
+    },
+    {
+      "confidence": 0.86,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Connor: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Connor.html"
+    }
+  ],
+  "style_effect": [
+    "modern",
+    "international",
+    "keltisch/altirisch",
+    "klar und prägnant",
+    "jugendlich-frisch",
+    "namenkundlich gut erklärbar"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland ist der Name präsent, aber eher nicht sehr häufig; er wirkt dadurch vertraut, zugleich noch relativ markant."
+}

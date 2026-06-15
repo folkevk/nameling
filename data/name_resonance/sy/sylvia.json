@@ -1,0 +1,62 @@
+{
+  "associations": [
+    "lateinische Herkunft",
+    "Bedeutung: Frau des Waldes / die aus dem Wald Stammende",
+    "Wald",
+    "Natur",
+    "klassischer weiblicher Vorname",
+    "deutschsprachiger Raum",
+    "Namenstag",
+    "historisch verankert"
+  ],
+  "confidence": 0.88,
+  "display_text": "Sylvia wird im deutschsprachigen Raum meist als klassischer, zeitloser Vorname mit naturbezogener Bedeutung wahrgenommen. Die öffentliche Resonanz ist eher positiv und zurückhaltend, stützt sich aber vor allem auf Namenslexika statt auf breite Meinungsdebatten.",
+  "evidence_quality": "mittel bis gut: zwei namebezogene Quellen mit konsistenten Herkunfts- und Bedeutungsangaben, jedoch nur begrenzte echte Meinungsdiskussion.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Sylvia",
+  "normalized_name": "sylvia",
+  "overall_resonance": "Sylvia wird im deutschsprachigen Raum überwiegend als klassischer, traditionell verankerter Vorname wahrgenommen, mit eher ruhiger und positiver Grundwirkung. Die öffentliche Darstellung ist vor allem beschreibend statt meinungsstark.",
+  "practical_notes": [
+    "Für Suchmaschinen- und Ratgeberkontexte wirkt Sylvia verständlich, etabliert und leicht einzuordnen.",
+    "Die Namenswirkung ist eher zurückhaltend als auffällig.",
+    "Schreibvarianten wie Silvia können im Umfeld mitgedacht werden."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die verfügbare Evidenz stammt überwiegend aus Namenslexika und ähnlichen Informationsseiten; das ist keine starke Abbildung allgemeiner öffentlicher Meinungen.",
+    "Einzelne positive Kommentare können subjektiv sein und müssen nicht die Gesamtwahrnehmung widerspiegeln."
+  ],
+  "short_summary": "Sylvia gilt öffentlich vor allem als klassischer, naturbezogen konnotierter Vorname mit eher positiver, zeitloser Wirkung; die Evidenz ist überwiegend lexikalisch und nicht stark diskursiv.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.94,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Sylvia � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/S/Sy/Sylvia/"
+    },
+    {
+      "confidence": 0.94,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Sylvia: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Sylvia.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "traditionell",
+    "naturbezogen",
+    "eher zeitlos",
+    "lexikalisch klar",
+    "leicht nostalgisch"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Mittlere Sichtbarkeit: Der Name ist in Namenslexika und Ratgeberseiten präsent, aber die Evidenz für breitere öffentliche Debatten oder starke Trenddiskussionen ist begrenzt."
+}

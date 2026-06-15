@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "Kurzform von Adelheid bzw. Alexandra/Alexander",
+    "Bedeutungsfelder wie edel, vornehm, Beschützer/in, Verteidiger/in",
+    "altfranzösische bzw. historische Namensformen",
+    "selten/ungewöhnlich",
+    "Namenstag",
+    "mögliche Verwechslung mit Alex"
+  ],
+  "confidence": 0.82,
+  "display_text": "Alix wirkt in Deutschland eher selten und dadurch auffällig, zugleich aber neutral bis leicht positiv besetzt. In den verfügbaren Quellen wird der Name vor allem als elegant, historisch und international anschlussfähig beschrieben. Eine breite öffentliche Debatte ist kaum sichtbar; die Evidenz ist daher eher indirekt.",
+  "evidence_quality": "mittel bis schwach: zwei überwiegend lexikalische Webquellen, klare Namensbeschreibung, aber kaum echte öffentliche Diskussionssignale",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Alix",
+  "normalized_name": "alix",
+  "overall_resonance": "Die öffentliche Resonanz zu „Alix“ wirkt insgesamt neutral bis leicht positiv: Der Name wird vor allem sachlich als ungewöhnlich, elegant und international anschlussfähig beschrieben. In den vorliegenden Quellen steht eher die Namenskunde als eine breite öffentliche Bewertung im Vordergrund.",
+  "practical_notes": [
+    "Für Suchmaschinen eignet sich die Einordnung als seltener, historisch geprägter Vorname mit internationalem Klang.",
+    "Die Schreibweise „Alix“ kann als eigenständig wahrgenommen werden, aber auch Erklärbedarf erzeugen.",
+    "Wenn eine klare Alltagstauglichkeit wichtig ist, sollte die mögliche Verwechslung mit „Alex“ mitgedacht werden."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist schwach bis mittel, da vor allem Namenslexika und keine breite öffentliche Diskussion vorliegen.",
+    "Aussagen zur Resonanz sind daher nur indirekt ableitbar.",
+    "Ungewöhnlichkeit sollte nicht mit negativer Bewertung verwechselt werden."
+  ],
+  "short_summary": "Alix wird öffentlich eher neutral bis leicht positiv wahrgenommen: selten, elegant und international, aber mit wenig direkter Diskussionsbasis.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.86,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Alix � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/A/Al/Alix/"
+    },
+    {
+      "confidence": 0.94,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Alix: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Alix.html"
+    }
+  ],
+  "style_effect": [
+    "kurz und prägnant",
+    "eher modern-klassisch",
+    "international wirkend",
+    "ungewöhnlich statt alltäglich",
+    "sachlich-elegant",
+    "unisex, in den Quellen eher weiblich verwendet"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland scheint Alix eher selten und deshalb auffällig, aber nicht stark verbreitet. Die Sichtbarkeit wirkt eher klein-nischig als massenhaft bekannt."
+}

@@ -1,0 +1,59 @@
+{
+  "associations": [
+    "Bedeutungen wie „die Nette“, „die Schöne“ oder „die Hübsche“",
+    "englische bzw. schottische Herkunft",
+    "weiblicher Vorname",
+    "bekannt aus dem kulturellen Bezug „Bonnie und Clyde\"",
+    "in Deutschland in Namenslisten und Lexika präsent"
+  ],
+  "confidence": 0.77,
+  "display_text": "Bonnie wird in Deutschland meist freundlich und positiv wahrgenommen: weich, international und eher selten, aber gut bekannt. Die Quellen nennen vor allem Bedeutungen wie „hübsch“ oder „schön“; die öffentliche Breitenresonanz ist jedoch nur begrenzt belegt.",
+  "evidence_quality": "mittel: zwei direkt namenskundliche Webquellen mit überwiegend positiver Tonalität, aber begrenzter Beleglage für echte öffentliche Resonanz in Deutschland.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Bonnie",
+  "normalized_name": "bonnie",
+  "overall_resonance": "Überwiegend positiv und freundlich, mit eher weicher, englisch-schottisch geprägter Anmutung. Der Name wird in Namenslexika meist als hübsch, schön oder nett beschrieben.",
+  "practical_notes": [
+    "Für Suchende wirkt Bonnie freundlich, unkompliziert und leicht positiv besetzt.",
+    "Der Name klingt international und modern, ohne stark verspielt zu wirken.",
+    "Wer einen seltenen, aber gut verständlichen Namen sucht, findet hier eine passende Option."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist vor allem auf Namenslexikon-Seiten beschränkt; echte öffentliche Breitenresonanz ist nur indirekt belegt.",
+    "Einige Angaben zu Beliebtheit oder Nutzungsgefühl sind eher lexikalisch als repräsentativ für die Allgemeinbevölkerung.",
+    "Assoziationen mit „Bonnie und Clyde“ sind kulturell bekannt, sagen aber wenig über die Namenswahrnehmung im Alltag aus."
+  ],
+  "short_summary": "Bonnie wirkt in Deutschland eher positiv, weich und international. Die vorhandenen Quellen beschreiben den Namen vor allem als hübsch, schön und freundlich, wobei die Evidenz überwiegend lexikalisch und nicht breit gesellschaftlich ist.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "positive",
+      "source_type": "web",
+      "title": "Vorname Bonnie � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/B/Bo/Bonnie/"
+    },
+    {
+      "confidence": 0.89,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Bonnie: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Bonnie.html"
+    }
+  ],
+  "style_effect": [
+    "weich und charmant",
+    "jugendlich und verspielt",
+    "international/englisch wirkend",
+    "kurz und leicht merkbar",
+    "eher modern als traditionell"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland als Vorname bekannt, aber eher nicht extrem häufig; die öffentliche Präsenz wirkt daher eher leicht auffällig als breit alltäglich."
+}

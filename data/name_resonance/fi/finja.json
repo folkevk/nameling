@@ -1,0 +1,62 @@
+{
+  "associations": [
+    "weiblicher Vorname",
+    "altirische und altnordische Bezüge",
+    "Bedeutungen wie „weiß/hell/blond“",
+    "Deutungen wie „die Finnin“ oder „die Wanderin“",
+    "Skandinavien/Norddeutschland",
+    "Beliebtheit in Deutschland",
+    "selten bis moderat verbreitet"
+  ],
+  "confidence": 0.82,
+  "display_text": "Finja wirkt in Deutschland überwiegend positiv, modern und freundlich. Der Name hat eine weich klingende, leicht nordisch geprägte Anmutung und ist eher moderat verbreitet. Die vorliegende Evidenz ist vor allem namenskundlich/lexikalisch, daher ist die Bewertung vorsichtig zu lesen.",
+  "evidence_quality": "mittel bis gut; zwei thematisch passende Namensquellen, aber begrenzte Vielfalt und teils kommerzielle Lexikon-Evidenz.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Finja",
+  "normalized_name": "finja",
+  "overall_resonance": "Überwiegend positiv und freundlich wahrgenommen, mit sachlich-namenskundlichem Charakter. Der Name wirkt in den Quellen modern, weiblich und leicht nordisch geprägt.",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt Finja vertraut, modern und unkompliziert.",
+    "Die Resonanz ist eher positiv, aber die Quellenbreite ist begrenzt.",
+    "Als Name mit nordisch klingender Anmutung kann Finja als leicht, freundlich und zeitgemäß gelesen werden."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt fast ausschließlich aus Namenslexika und ist daher eher beschreibend als aus echter öffentlicher Debatte abgeleitet.",
+    "Einige Bedeutungszuweisungen sind deuterisch und nicht als gesicherte historische Wahrheit zu verstehen.",
+    "Keine Hinweise auf soziale Stigmatisierung oder negative Namensklischees in der vorliegenden Evidenz."
+  ],
+  "short_summary": "Finja wird in den vorliegenden Quellen überwiegend positiv, modern und freundlich wahrgenommen, mit nordisch/altsprachlich wirkender Anmutung. Die Evidenz ist solide, aber vor allem lexikalisch und daher begrenzt breit.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Finja � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/F/Fi/Finja/"
+    },
+    {
+      "confidence": 0.9,
+      "is_name_discussion": true,
+      "sentiment": "positive",
+      "source_type": "web",
+      "title": "&#9655; Vorname Finja: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Finja.html"
+    }
+  ],
+  "style_effect": [
+    "modern",
+    "weiblich",
+    "weich klingend",
+    "nordisch/altsprachlich anmutend",
+    "kurz und prägnant",
+    "jugendlich-frisch"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland ist Finja bekannt, aber eher moderat verbreitet; die öffentliche Präsenz wirkt eher angenehm präsent als dominant."
+}

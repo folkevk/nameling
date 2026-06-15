@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "lateinischer Ursprung",
+    "Bedeutung im Sinne von fromm/achtbar/gottesfürchtig",
+    "weibliche Form zu Pius",
+    "klassischer Mädchenname",
+    "Beliebtheit und Wiederentdeckung in Deutschland",
+    "Namenstag"
+  ],
+  "confidence": 0.9,
+  "display_text": "Pia gilt in Deutschland als klassischer, kurzer und freundlich wirkender Mädchenname. Die öffentliche Resonanz ist überwiegend positiv; Namenslexika verbinden ihn mit lateinischem Ursprung, traditionellen Bedeutungen wie „fromm“ oder „achtbar“ und einer guten Bekanntheit im deutschsprachigen Raum.",
+  "evidence_quality": "Mittel bis gut: zwei unabhängige Namenslexika mit konsistenter, überwiegend positiver Darstellung; jedoch wenig echte öffentliche Debatte.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Pia",
+  "normalized_name": "pia",
+  "overall_resonance": "Überwiegend positiv und klassisch-wertschätzend; der Name wirkt im deutschen Kontext gut etabliert und eher zeitlos als auffällig.",
+  "practical_notes": [
+    "Für Suchmaschinen und Namensportale ist Pia ein sehr gut einordbarer Vorname mit klarer Herkunft und kurzer Form.",
+    "Die öffentliche Wahrnehmung wirkt freundlich, traditionell und unkompliziert.",
+    "Aufgrund der Kürze und Vertrautheit ist der Name in Deutschland leicht merkbar und gut aussprechbar."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die vorliegende Evidenz stammt vor allem aus Namenslexika und ist daher eher beschreibend als diskursiv.",
+    "Keine belastbaren Hinweise auf negative soziale Zuschreibungen in der Evidenz.",
+    "Allgemeine Bedeutungen wie 'fromm' oder 'achtbar' sind traditionelle Namensdeutungen und keine Aussagen über Trägerinnen."
+  ],
+  "short_summary": "Pia wird in Deutschland überwiegend positiv, klassisch und vertraut wahrgenommen. Die Quellen betonen den lateinischen Ursprung, die traditionelle Bedeutung und die anhaltende Beliebtheit.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "positive",
+      "source_type": "web",
+      "title": "Vorname Pia � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/P/Pi/Pia/"
+    },
+    {
+      "confidence": 0.95,
+      "is_name_discussion": true,
+      "sentiment": "positive",
+      "source_type": "web",
+      "title": "&#9655; Vorname Pia: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Pia.html"
+    }
+  ],
+  "style_effect": [
+    "kurz und klar",
+    "klassisch-weiblich",
+    "zeitlos",
+    "freundlich und zugänglich",
+    "eher elegant als verspielt",
+    "namenskundlich positiv gerahmt"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Hoch: Pia ist in Deutschland als kurzer, vertrauter Mädchenname gut bekannt und öffentlich präsent."
+}

@@ -1,0 +1,59 @@
+{
+  "associations": [
+    "englische Form von Andreas",
+    "altgriechischer Ursprung",
+    "Bedeutungen wie männlich, tapfer, mannhaft",
+    "Namenstag",
+    "Spitznamen wie Andy oder Drew",
+    "als internationaler Jungenname eingeordnet"
+  ],
+  "confidence": 0.72,
+  "display_text": "Andrew wirkt in DE eher international, klassisch und neutral bis positiv. Die vorliegende Evidenz stammt fast nur aus Namenslexika, daher ist die öffentliche Resonanz nur schwach bis mittel belegt.",
+  "evidence_quality": "schwach bis mittel; überwiegend Namenslexika, kaum freie öffentliche Meinungsäußerung",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Andrew",
+  "normalized_name": "andrew",
+  "overall_resonance": "Andrew wird in den vorliegenden deutschsprachigen Namensquellen überwiegend sachlich und positiv-neutral beschrieben. Der Name wirkt international, klassisch und eher vertraut als auffällig; eine starke öffentliche Debatte ist in der Evidenz nicht erkennbar.",
+  "practical_notes": [
+    "Für eine Namenssuche in DE ist Andrew gut verständlich und international anschlussfähig.",
+    "Die Schreibweise und Aussprache können im deutschen Umfeld gelegentlich erklärungsbedürftig sein.",
+    "Als Variante von Andreas wirkt der Name inhaltlich vertraut, ohne stark deutsch geprägt zu sein."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist eher lexikonartig als diskursiv; daraus lässt sich nur vorsichtig auf öffentliche Resonanz schließen.",
+    "Es liegen keine Hinweise auf klare negative Stigmatisierung oder kontroverse gesellschaftliche Zuschreibungen vor."
+  ],
+  "short_summary": "Andrew wird in den verfügbaren Quellen sachlich, international und eher positiv-neutral wahrgenommen; die öffentliche Resonanz ist jedoch nur begrenzt direkt belegt.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Andrew � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/A/An/Andrew/"
+    },
+    {
+      "confidence": 0.89,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Andrew: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Andrew.html"
+    }
+  ],
+  "style_effect": [
+    "international",
+    "klassisch",
+    "sachlich",
+    "zeitlos",
+    "neutral-beschreibend"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Im deutschsprachigen Raum ist Andrew eher bekannt, aber nicht besonders verbreitet. Die Wahrnehmung stützt sich hier vor allem auf Namenslexika und nicht auf freie Alltagskommentare, daher ist die öffentliche Resonanz nur begrenzt belegbar."
+}

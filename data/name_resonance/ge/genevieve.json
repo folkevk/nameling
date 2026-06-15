@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "englische und französische Form von Genoveva",
+    "Bedeutung im Umfeld von Schicksal/Weberin bzw. Herkunftsdeutungen",
+    "Mädchenname",
+    "Namensgeschichte und Namenstag",
+    "selten, aber als schön wahrgenommen"
+  ],
+  "confidence": 0.84,
+  "display_text": "Genevieve wirkt in der öffentlichen Wahrnehmung eher elegant, international und selten. In Deutschland ist der Name nicht sehr häufig, wird aber meist freundlich bis positiv eingeordnet. Die vorhandene Evidenz ist allerdings schmal und stammt vor allem aus Namenslexika, nicht aus breiter öffentlicher Diskussion.",
+  "evidence_quality": "mittel: zwei einschlägige Namenslexikon-Quellen, überwiegend sachlich, mit etwas bewertender und teils anekdotischer Sprache.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Genevieve",
+  "normalized_name": "genevieve",
+  "overall_resonance": "Eher positiv bis neutral: Genevieve wird in den Quellen vor allem als seltener, klangvoller und stilistisch eleganter Mädchenname beschrieben. Die öffentliche Resonanz wirkt insgesamt freundlich und informativ, ohne starke Kontroversen.",
+  "practical_notes": [
+    "Für eine Namenssuche in Deutschland kann Genevieve als international verständlich, aber nicht sehr verbreitet gelten.",
+    "Aussprache und Schreibweise könnten in deutschsprachigem Umfeld gelegentlich erklärungsbedürftig sein.",
+    "Die Wahrnehmung hängt stark davon ab, ob eher ein klassisch-französischer oder ein englisch geprägter Klang bevorzugt wird."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist auf wenige Namenslexikon-Seiten beschränkt.",
+    "Ein Teil der positiven Wirkung stammt aus redaktionellen Beschreibungen und einzelnen Nutzerkommentaren, nicht aus breiter öffentlicher Debatte.",
+    "Keine belastbaren Hinweise auf soziale Stigmatisierung oder starke negative Konnotationen in der vorliegenden Evidenz."
+  ],
+  "short_summary": "Genevieve wird im deutschsprachigen Umfeld meist als seltener, eleganter und internationaler Mädchenname wahrgenommen; die Resonanz ist überwiegend positiv, aber die Evidenz ist begrenzt.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.95,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Genevieve � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/G/Ge/Genevieve/"
+    },
+    {
+      "confidence": 0.94,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Genevieve: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Genevieve.html"
+    }
+  ],
+  "style_effect": [
+    "elegant",
+    "international",
+    "klassisch-lexikalisch",
+    "selten",
+    "weiblich",
+    "klangvoll"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland eher selten bis moderat bekannt; dadurch wirkt der Name eher auffällig als alltäglich."
+}

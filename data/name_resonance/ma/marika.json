@@ -1,0 +1,62 @@
+{
+  "associations": [
+    "Koseform von Maria",
+    "weiblicher Vorname",
+    "ungarische, westslawische und baltische Bezüge",
+    "griechische Schreibweise Maríka",
+    "Namenstag am 12. September",
+    "international verbreitet",
+    "Bedeutung teils unsicher bzw. unterschiedlich angegeben"
+  ],
+  "confidence": 0.78,
+  "display_text": "Marika wird im deutschsprachigen Raum überwiegend sachlich bis eher positiv wahrgenommen. Der Name gilt als weiblich, freundlich klingend und international anschlussfähig. Er wird meist als Koseform von Maria eingeordnet, wobei Herkunft und Bedeutung je nach Quelle unterschiedlich angegeben werden. Die Evidenz ist allerdings begrenzt und basiert vor allem auf Namenslexika mit wenigen Kommentaren.",
+  "evidence_quality": "mittel bis schwach; überwiegend lexikalische Quellen, wenig unabhängige oder breit repräsentative Evidenz",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Marika",
+  "normalized_name": "marika",
+  "overall_resonance": "Marika wird in den Quellen insgesamt sachlich bis eher positiv wahrgenommen. Der Name erscheint als weiblicher Vorname mit internationaler Verwendung; die öffentliche Rezeption wirkt eher freundlich, ohne starke Kontroversen. Die Evidenz ist jedoch begrenzt und stammt vor allem aus Namenslexika mit teils anekdotischen Kommentaren.",
+  "practical_notes": [
+    "Für eine Namenssuche eignet sich Marika als klar weiblich lesbarer, international anschlussfähiger Vorname.",
+    "Die Schreibweise ist unkompliziert und im Deutschen gut aussprechbar.",
+    "Wenn eine eindeutige Herkunft gewünscht wird, sollte auf die uneinheitliche etymologische Einordnung hingewiesen werden."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenzbasis ist schwach bis mäßig, da sie vor allem aus Namenslexika stammt.",
+    "Einzelne Nutzerkommentare sind anekdotisch und nicht repräsentativ.",
+    "Angaben zu Beliebtheit können plattformabhängig und nicht belastbar sein.",
+    "Die Bedeutungsangaben variieren je nach Quelle; daher vorsichtig formulieren."
+  ],
+  "short_summary": "Marika wirkt öffentlich eher freundlich, sachlich und international. Die Quellenlage ist jedoch begrenzt, daher sollten Herkunft und Beliebtheit vorsichtig formuliert werden.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Marika � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/M/Ma/Marika/"
+    },
+    {
+      "confidence": 0.86,
+      "is_name_discussion": true,
+      "sentiment": "überwiegend positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Marika: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Marika.html"
+    }
+  ],
+  "style_effect": [
+    "klingt weich und melodisch",
+    "wirkt klassisch und zugleich eigenständig",
+    "wird als eher freundlich und unkompliziert wahrgenommen",
+    "hat einen leicht internationalen Charakter",
+    "erscheint namenskundlich interessant durch die Nähe zu Maria"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Der Name ist im deutschsprachigen Raum bekannt, aber nicht extrem dominant. Die Sichtbarkeit wird als moderat beschrieben, mit zusätzlicher internationaler Verankerung."
+}

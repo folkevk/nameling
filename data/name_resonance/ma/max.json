@@ -1,0 +1,69 @@
+{
+  "associations": [
+    "Kurzform von Maximilian",
+    "lateinischer Ursprung",
+    "Bedeutung: „der Größte“",
+    "eigenständige, lange etablierte Namensform",
+    "sehr beliebt in Deutschland",
+    "klassischer Jungenname",
+    "historisch und modern zugleich",
+    "in Namenslexika meist neutral bis positiv beschrieben"
+  ],
+  "confidence": 0.93,
+  "display_text": "Max wird in Deutschland meist als klassisch, kurz und sehr vertraut wahrgenommen. Die verfügbare Evidenz beschreibt den Namen überwiegend neutral bis positiv: als eigenständige, lange etablierte Kurzform von Maximilian mit lateinischem Ursprung und der Bedeutung „der Größte“. Hinweise auf Stigmatisierung oder kontroverse öffentliche Resonanz zeigen die Quellen nicht.",
+  "evidence_quality": "Gut bis sehr gut für Bedeutung, Herkunft und Beliebtheit; begrenzt für freie öffentliche Meinungsbilder.",
+  "generated_at": "2026-06-12T06:08:03Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Max",
+  "normalized_name": "max",
+  "overall_resonance": "Max wirkt in der öffentlichen Namenswahrnehmung in Deutschland sehr vertraut, klassisch und eher positiv besetzt. Der Name wird vor allem als kurze, etablierte Form mit starker Bekanntheit wahrgenommen.",
+  "practical_notes": [
+    "Für Suchmaschinen wirkt Max als sicherer, sehr geläufiger Name mit hoher Wiedererkennbarkeit.",
+    "Die öffentliche Resonanz ist eher stabil als polarisiert; es gibt keine Hinweise auf eine gesellschaftliche Stigmatisierung in der vorliegenden Evidenz.",
+    "Wenn Kontext wichtig ist: Max wird oft als Kurzform verstanden, aber auch als eigenständiger Vorname akzeptiert."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt vor allem aus Namensdatenbanken und lexikalischen Quellen, nicht aus einer breiten öffentlichen Debatte.",
+    "Aussagen zur Beliebtheit und Wahrnehmung sind gut belegt, aber sie spiegeln eher Namensgebrauch als individuelle Meinungen wider."
+  ],
+  "short_summary": "Max ist in Deutschland ein sehr bekannter, klassischer und überwiegend positiv wahrgenommener Jungenname mit kurzer, klarer Form.",
+  "source_count": 3,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Max � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/M/Ma/Max/"
+    },
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "positive",
+      "source_type": "web",
+      "title": "Vorname Max � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/M/Ma/Max/"
+    },
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Max: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Max.html"
+    }
+  ],
+  "style_effect": [
+    "kurz und prägnant",
+    "klassisch und zeitlos",
+    "modern genug, ohne modisch zu wirken",
+    "informell vertraut, aber namenskundlich etabliert",
+    "sprachlich unkompliziert und leicht merkbar"
+  ],
+  "usable_evidence_count": 3,
+  "visibility": "Sehr hoch – der Name ist in Deutschland gut bekannt und breit verbreitet, mit klarer Präsenz in Namenslexika und Beliebtheitsübersichten."
+}

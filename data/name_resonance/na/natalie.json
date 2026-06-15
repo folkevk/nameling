@@ -1,0 +1,70 @@
+{
+  "associations": [
+    "lateinische Herkunft",
+    "Bedeutung im christlichen Kontext: an Weihnachten bzw. am Geburtstag Christi geboren",
+    "Wintersonnenwende",
+    "Namenstag",
+    "Varianten wie Natalia",
+    "Kurzformen und Spitznamen",
+    "Beliebtheit in Deutschland"
+  ],
+  "confidence": 0.91,
+  "display_text": "Natalie wirkt im deutschen Namensumfeld klassisch, freundlich und gut bekannt. Die Quellen betonen vor allem Herkunft, Bedeutung und Beliebtheit; klare negative öffentliche Resonanzen sind in der Evidenz nicht erkennbar.",
+  "evidence_quality": "Gut für Herkunft, Bedeutung und Namensgebrauch; mittel für öffentliche Resonanz, da vor allem lexikalische Quellen vorliegen.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Natalie",
+  "normalized_name": "natalie",
+  "overall_resonance": "Eher positiv bis neutral. Natalie wird im deutschsprachigen Raum vor allem als etablierter, klassischer Mädchenvorname wahrgenommen, mit klarer lexikalischer Einordnung und überwiegend unauffälliger, freundlicher Konnotation.",
+  "practical_notes": [
+    "Für eine Suchmaschine lässt sich Natalie am besten als bekannter, klassischer und überwiegend positiv oder neutral besetzter Vorname zusammenfassen.",
+    "Die Wahrnehmung wirkt eher traditionell als modisch-experimentell.",
+    "Im deutschsprachigen Raum ist der Name gut verständlich und in seiner Schreibweise klar etabliert."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt überwiegend aus Namenslexika und nicht aus offenen Meinungsdiskussionen; die öffentliche Resonanz ist daher nur indirekt ablesbar.",
+    "Keine belastbaren Hinweise auf starke negative Stigmatisierung oder kontroverse Assoziationen in der vorliegenden Evidenz."
+  ],
+  "short_summary": "Natalie wird in Deutschland überwiegend als klassischer, freundlicher und gut bekannter Vorname mit eher positiver oder neutraler Wahrnehmung gesehen.",
+  "source_count": 3,
+  "sources": [
+    {
+      "confidence": 0.99,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Natalie � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/N/Na/Natalie/"
+    },
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Natalie � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/N/Na/Natalie/"
+    },
+    {
+      "confidence": 0.89,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Natalie: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Natalie.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "weiblich",
+    "elegant",
+    "zeitlos",
+    "international verständlich",
+    "lexikalisch klar",
+    "leicht festlich durch die Assoziation zu Weihnachten/Namenstag"
+  ],
+  "usable_evidence_count": 3,
+  "visibility": "Hoch: Der Name ist im deutschen Namensumfeld gut bekannt und in Namenslexika sowie Popularitätsübersichten präsent. Die öffentliche Debatte wirkt jedoch eher beschreibend als meinungsstark."
+}

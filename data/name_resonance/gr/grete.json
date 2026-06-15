@@ -1,0 +1,64 @@
+{
+  "associations": [
+    "Kurzform von Margarete",
+    "Bedeutung: Perle",
+    "altgriechischer und lateinischer Ursprung",
+    "deutscher Vorname",
+    "selten vergeben",
+    "früher beliebter",
+    "wieder vereinzelt vergeben",
+    "Namenstag",
+    "Varianten wie Greta und Gretchen"
+  ],
+  "confidence": 0.88,
+  "display_text": "Grete gilt in Deutschland als klassischer, eher seltener Vorname mit traditioneller und leicht positiv wirkender Ausstrahlung. Die Quellen verweisen vor allem auf die Herkunft als Kurzform von Margarete und die Bedeutung 'Perle'. Breite öffentliche Debatten sind nicht ersichtlich; die Resonanz wirkt vor allem namenskundlich und wertschätzend.",
+  "evidence_quality": "mittel bis gut: zwei thematisch passende Namensquellen, überwiegend lexikalisch und nur begrenzt meinungsbasiert.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Grete",
+  "normalized_name": "grete",
+  "overall_resonance": "Eher traditionell, vertraut und leicht positiv konnotiert; die öffentliche Wahrnehmung wirkt vor allem namenskundlich geprägt und nicht kontrovers.",
+  "practical_notes": [
+    "Wirkt traditionell und klar, mit historischer Tiefe.",
+    "Für Suchmaschinen-Nutzerinnen und -Nutzer ist besonders die Verbindung zu Margarete und die Bedeutung 'Perle' relevant.",
+    "Die Seltenheit kann als Plus für Individualität wahrgenommen werden.",
+    "Im DACH-Kontext ist der Name gut einordbar, aber nicht sehr häufig."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt vor allem aus Namenslexika; breite öffentliche Debatten sind nicht belegt.",
+    "Die positive bzw. wertschätzende Wirkung ist eher eine naheliegende Einordnung als ein stark gemessener Konsens.",
+    "Keine Hinweise auf soziale Stigmatisierung in der vorliegenden Evidenz."
+  ],
+  "short_summary": "Grete wird in der öffentlichen Namenswahrnehmung meist als klassischer, seltener und freundlich-traditioneller Vorname beschrieben, mit Bezug zu Margarete und der Bedeutung 'Perle'.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Grete � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/G/Gr/Grete/"
+    },
+    {
+      "confidence": 0.82,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Grete: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Grete.html"
+    }
+  ],
+  "style_effect": [
+    "kurz und kantig",
+    "klassisch-altdeutsch wirkend",
+    "zeitlos statt modisch",
+    "warm und bodenständig",
+    "durch Seltenheit leicht charakterstark"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland eher selten und dadurch auffällig, aber bekannt; die Sichtbarkeit ist mehr historisch-traditionell als trendig."
+}

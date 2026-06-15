@@ -1,0 +1,63 @@
+{
+  "associations": [
+    "altnordische Herkunft",
+    "skandinavischer Vorname",
+    "männlicher Vorname",
+    "mögliche Bedeutungen wie Krieger/Bogenschütze",
+    "Kurzformbezug zu Ingvar",
+    "Namenstag-Erwähnungen",
+    "selten in Deutschland"
+  ],
+  "confidence": 0.84,
+  "display_text": "Ivar wird im deutschsprachigen Raum meist als seltener, skandinavisch-altnordisch geprägter Jungenname wahrgenommen. Die Resonanz ist überwiegend neutral bis positiv-informativ: markant, kurz und namenskundlich interessant. Die Bedeutungsdeutungen sind in den Quellen nicht ganz einheitlich, daher sollte die Evidenz vorsichtig gelesen werden.",
+  "evidence_quality": "mittel bis schwach; überwiegend aus wenigen Namensdatenbanken und Lexikonquellen, mit teils uneinheitlicher Bedeutungsdeutung",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Ivar",
+  "normalized_name": "ivar",
+  "overall_resonance": "Ivar wird in der verfügbaren deutschsprachigen Namens-Evidenz vor allem als seltener, nordisch geprägter Vorname mit sachlich-positiver bis neutraler Wahrnehmung beschrieben. Die öffentliche Resonanz wirkt eher informativ als wertend.",
+  "practical_notes": [
+    "Für den deutschen Kontext wirkt der Name klar, kurz und eigenständig.",
+    "Die Aussprache und Schreibweise sind unkompliziert.",
+    "Durch die Seltenheit kann der Name auffallen, bleibt aber überwiegend unproblematisch.",
+    "Für eine belastbare Trendbewertung wäre breitere Evidenz hilfreich."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Bedeutungsangaben sind nicht völlig einheitlich und teils unterschiedlich gedeutet.",
+    "Die Evidenzlage ist begrenzt und stützt sich im Wesentlichen auf Namenslexika und Datenbanken.",
+    "Es gibt keine belastbaren Hinweise auf eine starke negative oder stigmatisierende öffentliche Bewertung."
+  ],
+  "short_summary": "Ivar erscheint in Deutschland als seltener, nordisch geprägter Jungenname mit neutral bis freundlich-sachlicher Resonanz. Die Quellen sind informativ, aber nur begrenzt vielfältig.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Ivar � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/I/Iv/Ivar/"
+    },
+    {
+      "confidence": 0.79,
+      "is_name_discussion": true,
+      "sentiment": "mixed",
+      "source_type": "web",
+      "title": "&#9655; Vorname Ivar: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Ivar.html"
+    }
+  ],
+  "style_effect": [
+    "altnordisch",
+    "skandinavisch",
+    "kurz und markant",
+    "eher traditionsnah als modern",
+    "namenskundlich interessant",
+    "selten bis moderat präsent"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Im deutschsprachigen Raum eher selten, aber bekannt genug, um in Namensdatenbanken und Lexika regelmäßig erläutert zu werden."
+}

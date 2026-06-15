@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "altgriechischer Ursprung",
+    "Bedeutung im Umfeld von Ordnung/Schönheit/Glanz",
+    "Kurzform bzw. Anschluss an Cosimo/Kosmas",
+    "ungewöhnlich im deutschen Namensgebrauch",
+    "moderne, internationale Wirkung"
+  ],
+  "confidence": 0.73,
+  "display_text": "Cosmo wirkt im deutschen Raum selten, modern und international. Die öffentliche Resonanz ist eher neutral bis leicht positiv, vor allem wegen der klangvollen, markanten Wirkung und der positiven Namensbedeutungen. Die Evidenz ist jedoch begrenzt und basiert vor allem auf redaktionellen Namensquellen.",
+  "evidence_quality": "Begrenzt: nur wenige, überwiegend lexikalisch-redaktionelle Quellen mit vorsichtig positiver Tendenz; wenig echte öffentliche Debatte.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Cosmo",
+  "normalized_name": "cosmo",
+  "overall_resonance": "Cosmo wirkt im deutschsprachigen Raum eher selten, modern und international; die öffentliche Wahrnehmung ist überwiegend informativ bis leicht positiv, vor allem wegen der klanglichen und bedeutungsbezogenen Assoziationen.",
+  "practical_notes": [
+    "Für Suchende wirkt Cosmo markant und gut merkbar.",
+    "Im deutschen Kontext dürfte die seltene Verwendung zu Nachfragen führen.",
+    "Die internationale Anmutung kann als Vorteil wahrgenommen werden, je nach persönlichem Stilgefühl."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist schwach und basiert vor allem auf redaktionellen Namensseiten, nicht auf breiter öffentlicher Diskussion.",
+    "Bewertungen wie 'schön' oder 'modern' spiegeln eher die beschreibende Tonlage der Quellen als gesicherte Mehrheitsmeinungen.",
+    "Keine Hinweise auf eine soziale Stigmatisierung; der Name wirkt eher ungewöhnlich als problematisch."
+  ],
+  "short_summary": "Cosmo wird in Deutschland eher selten, modern und international wahrgenommen. Die verfügbaren Quellen deuten auf eine überwiegend neutrale bis leicht positive Resonanz hin, bei insgesamt schwacher Evidenz.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.91,
+      "is_name_discussion": true,
+      "sentiment": "positive",
+      "source_type": "web",
+      "title": "Vorname Cosmo � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/C/Co/Cosmo/"
+    },
+    {
+      "confidence": 0.84,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Cosmo: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Cosmo.html"
+    }
+  ],
+  "style_effect": [
+    "modern",
+    "international",
+    "eigenständig",
+    "klangstark",
+    "selten",
+    "leicht elegant"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Die Sichtbarkeit scheint vorhanden, aber begrenzt: Der Name ist in Deutschland bekannt, jedoch nicht alltäglich und eher auffällig als massenhaft verbreitet."
+}

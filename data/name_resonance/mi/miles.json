@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "englischer Vorname",
+    "lateinische oder germanische Deutungen",
+    "mögliche Bedeutung in Richtung Krieger/Soldat oder Gnädiger/Großzügiger",
+    "mögliche Kurzform-Bezüge zu Michael",
+    "selten bis moderat verbreitet in Deutschland",
+    "Aussprachehinweis in einzelnen Quellen"
+  ],
+  "confidence": 0.86,
+  "display_text": "Miles wirkt in Deutschland modern, international und eher selten. Die verfügbaren Quellen beschreiben den Namen überwiegend sachlich bis leicht positiv; die Bedeutungs- und Herkunftsangaben sind jedoch teils unsicher und stammen vor allem aus Namenslexika.",
+  "evidence_quality": "mittel bis gut, aber inhaltlich vor allem auf Namensdatenbanken gestützt",
+  "generated_at": "2026-06-14T10:47:41Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Miles",
+  "normalized_name": "miles",
+  "overall_resonance": "Miles wird in den vorliegenden deutschsprachigen Namensquellen insgesamt sachlich bis leicht positiv beschrieben. Der Name wirkt modern, international und eher selten, ohne dass eine starke öffentliche Kontroverse sichtbar wäre.",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt Miles modern und unkompliziert.",
+    "Die Schreibweise ist kurz und international verständlich.",
+    "Wer einen sehr traditionellen oder eindeutig deutsch verankerten Namen sucht, könnte Miles als eher international wahrnehmen."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt überwiegend aus Namenslexika und ist daher begrenzt.",
+    "Mehrere Herkunfts- und Bedeutungsdeutungen werden nebeneinander genannt; das macht die Deutung unscharf.",
+    "Es ist keine breite öffentliche Debatte oder klare soziale Bewertung erkennbar."
+  ],
+  "short_summary": "Miles wird in den verfügbaren Quellen als moderner, internationaler und eher seltener Vorname beschrieben, mit überwiegend sachlich bis leicht positiver Resonanz.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.94,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Miles � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/M/Mi/Miles/"
+    },
+    {
+      "confidence": 0.91,
+      "is_name_discussion": true,
+      "sentiment": "eher positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Miles: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Miles.html"
+    }
+  ],
+  "style_effect": [
+    "modern",
+    "international",
+    "kurz und prägnant",
+    "eher elegant-klar",
+    "namenskundlich interessant"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland scheint Miles eher bekannt, aber nicht sehr häufig zu sein. Die öffentliche Sichtbarkeit in den Quellen ist vor allem namenkundlich geprägt und weniger durch breite Debatten oder starke Alltagsnutzung."
+}

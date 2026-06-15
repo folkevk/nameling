@@ -1,0 +1,63 @@
+{
+  "associations": [
+    "hebräische Herkunft",
+    "biblischer Ursprung",
+    "Variante von Jakob",
+    "Bedeutung häufig als „Gott beschützt“ beschrieben",
+    "auch Deutung als „Fersenhalter“",
+    "in Deutschland eher seltener als Jakob",
+    "regelmäßig vergeben",
+    "Namenstag",
+    "Spitznamen wie Jake oder Jack"
+  ],
+  "confidence": 0.93,
+  "display_text": "Jacob wirkt in der öffentlichen Wahrnehmung klassisch, biblisch und eher zeitlos als trendig. In Deutschland ist die Schreibweise bekannt, aber etwas seltener als Jakob. Die vorliegenden Quellen beschreiben den Namen überwiegend neutral bis positiv, ohne Hinweise auf Stigmatisierung.",
+  "evidence_quality": "gut: zwei thematisch passende, deutschsprachige Namensquellen mit klarer Namensdiskussion und hoher Übereinstimmung in Herkunft, Bedeutung und Einordnung",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Jacob",
+  "normalized_name": "jacob",
+  "overall_resonance": "Jacob wird in den vorliegenden deutschsprachigen Quellen überwiegend neutral bis positiv beschrieben: als klassischer, biblisch geprägter Vorname mit hebräischer Herkunft und klarer Namenskontinuität. In Deutschland gilt er eher als seltener als die Schreibweise Jakob, wird aber regelmäßig vergeben.",
+  "practical_notes": [
+    "Für eine öffentliche Namenssuche wirkt Jacob vertraut, klassisch und unauffällig.",
+    "Die Schreibweise kann gelegentlich mit Jakob verglichen werden, ist aber als eigene Variante klar verständlich.",
+    "Die Quellenlage spricht eher für neutrale bis positive Wahrnehmung als für starke Trends oder Kontroversen."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist insgesamt solide, aber inhaltlich vor allem aus namenskundlichen Informationsseiten zusammengesetzt.",
+    "Es gibt keine Hinweise auf soziale Stigmatisierung oder negative öffentliche Konnotationen im Material.",
+    "Einzelne Quellen mischen Namensinformationen mit Personenbezügen; diese wurden hier nicht berücksichtigt."
+  ],
+  "short_summary": "Jacob ist in Deutschland ein klassischer, biblisch geprägter Vorname mit überwiegend neutraler bis positiver öffentlicher Wahrnehmung; die Schreibweise ist bekannt, aber etwas seltener als Jakob.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Jacob � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/J/Ja/Jacob/"
+    },
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "mostly positive",
+      "source_type": "web",
+      "title": "&#9655; Vorname Jacob: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Jacob.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "biblisch",
+    "traditionsnah",
+    "klar und zeitlos",
+    "eher sachlich als modisch"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Im deutschsprachigen Raum gut einordenbar und bekannt, jedoch nicht die dominierende Schreibvariante. Die öffentliche Wahrnehmung wirkt eher sachlich-namenskundlich als trend- oder klischeehaft."
+}

@@ -1,0 +1,64 @@
+{
+  "associations": [
+    "biblischer Ursprung",
+    "Maria Magdalena",
+    "die aus Magdala Stammende",
+    "die Erhabene",
+    "traditionell",
+    "zeitlos",
+    "populärer Vorname",
+    "Namenstag",
+    "Kurzformen und Varianten"
+  ],
+  "confidence": 0.86,
+  "display_text": "Magdalena wird überwiegend positiv, klassisch und traditionsreich wahrgenommen. Der Name gilt als biblisch geprägt, zeitlos und gut bekannt. Die Evidenz ist jedoch vor allem lexikalisch und damit nur begrenzt aussagekräftig für echte öffentliche Resonanz.",
+  "evidence_quality": "mittel bis schwach; klar namebezogen, aber überwiegend lexikalische und beschreibende Quellen statt offener öffentlicher Resonanz",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Magdalena",
+  "normalized_name": "magdalena",
+  "overall_resonance": "Magdalena wird in den vorliegenden Quellen insgesamt überwiegend positiv und traditionsverbunden wahrgenommen. Der Name wirkt klassisch, zeitlos und gut bekannt, mit klarer biblisch-historischer Einordnung. Die Evidenz ist allerdings eher beschreibend als echte öffentliche Diskussion, daher ist die Aussagekraft begrenzt.",
+  "practical_notes": [
+    "Für eine Suchmaschine eignet sich eine kurze Einordnung als klassischer, traditionsreicher Mädchenname mit positiver Grundtendenz.",
+    "Wenn eine streng öffentliche Resonanz gemeint ist, sollte die Datenlage als schwach gekennzeichnet werden.",
+    "Keine negativen sozialen Zuschreibungen erkennbar; keine Stigmatisierung in den Quellen sichtbar."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die verfügbare Evidenz stammt vor allem aus Namenslexika und Infoseiten, nicht aus breiter öffentlicher Debatte.",
+    "Einzelne Kommentare oder Bewertungen können anekdotisch sein und sollten nicht verallgemeinert werden."
+  ],
+  "short_summary": "Magdalena wirkt in den Quellen klassisch, traditionsreich und überwiegend positiv besetzt. Die öffentliche Resonanz ist aber nur indirekt belegt.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "positive",
+      "source_type": "web",
+      "title": "Vorname Magdalena � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/M/Ma/Magdalena/"
+    },
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "überwiegend positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Magdalena: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Magdalena.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "zeitlos",
+    "traditionell",
+    "biblisch",
+    "eher elegant",
+    "namenskundlich etabliert",
+    "bekannt und verbreitet"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Hoch im Sinne von Bekanntheit und dokumentierter Namenskultur, aber nur gering bis mittel als direkte öffentliche Diskussionsresonanz."
+}

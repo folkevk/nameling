@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "französische Form von Anton/Antonius",
+    "lateinische und römische Herkunft",
+    "Bedeutung: aus dem Geschlecht der Antonier stammend",
+    "altgriechisch mit der Deutung „wertvoll / unschätzbar / preiswürdig“",
+    "Namenstag am 17. Januar"
+  ],
+  "confidence": 0.77,
+  "display_text": "Antoine wirkt im deutschsprachigen Raum eher elegant, französisch und insgesamt positiv bis neutral. Der Name ist in Deutschland eher selten bis moderat bekannt; die Evidenz ist allerdings schwach und stammt vor allem aus Namenslexika. Als Eindruck bleiben vor allem klassisch, wohlklingend und international.",
+  "evidence_quality": "mittel bis schwach: klar namebezogene Quellen, aber wenig echte öffentliche Resonanz oder Diskussionsbreite",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Antoine",
+  "normalized_name": "antoine",
+  "overall_resonance": "Antoine wirkt im deutschsprachigen Raum eher elegant, französisch geprägt und insgesamt positiv bis neutral wahrgenommen. Die öffentliche Rezeption ist jedoch nur schwach belegt und stützt sich vor allem auf Namenslexika statt auf breite Debatten oder viele unabhängige Stimmen.",
+  "practical_notes": [
+    "Für eine Namenssuche ist Antoine eine stilvolle, internationale Option mit klar französischer Färbung.",
+    "Die Schreibweise kann im deutschen Umfeld gelegentlich als ungewöhnlicher wahrgenommen werden.",
+    "Der Name ist gut verständlich, aber nicht besonders häufig.",
+    "Die Wahrnehmung ist eher kulturell-ästhetisch als sozial aufgeladen."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist begrenzt und stammt überwiegend aus Namenslexika.",
+    "Es liegt keine klare öffentliche Bewertungsdebatte vor.",
+    "Positive Wirkungseindrücke wie „wohlklingend“ sind nur vereinzelt und nicht als breite Mehrheitsmeinung belegbar."
+  ],
+  "short_summary": "Antoine wird in Deutschland eher als seltener, französisch-eleganter Vorname mit positivem Klang wahrgenommen; belastbare öffentliche Rezeption ist jedoch nur begrenzt sichtbar.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Antoine � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/A/An/Antoine/"
+    },
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Antoine: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Antoine.html"
+    }
+  ],
+  "style_effect": [
+    "elegant",
+    "französisch",
+    "klassisch",
+    "wohlklingend",
+    "gebildet",
+    "international"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland ist Antoine eher seltener bis moderat bekannt. Der Name fällt durch seine französische Form und seinen klassischen Klang auf, ist aber keine stark verbreitete Alltagswahl."
+}

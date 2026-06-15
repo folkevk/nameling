@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "slawischer Ursprung",
+    "Bedeutung in Richtung standhaft / Ruhm / Ansehen",
+    "männlicher Vorname",
+    "tschechischer und polnischer Sprachraum",
+    "Namensvarianten wie Stanislaus oder Stanislaw",
+    "Namenstag",
+    "selten bis moderat in Deutschland"
+  ],
+  "confidence": 0.89,
+  "display_text": "Stanislav wirkt in Deutschland eher selten, aber klar und traditionsnah. Die öffentliche Rezeption ist überwiegend neutral bis positiv, mit slawischer Prägung und Assoziationen zu Standhaftigkeit, Ruhm und Ansehen.",
+  "evidence_quality": "Gut für Herkunft, Bedeutung und Namensgebrauch; mittel für öffentliche Resonanz, da die Quellen überwiegend lexikalisch und nicht bevölkerungsrepräsentativ sind.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Stanislav",
+  "normalized_name": "stanislav",
+  "overall_resonance": "Stanislav wird in der vorliegenden Evidenz überwiegend neutral bis positiv beschrieben. Der Name wirkt eher slawisch geprägt, traditionell und markant, ohne starke negative Konnotationen. In Deutschland wird er eher als selten bis moderat verbreitet eingeordnet.",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt Stanislav klar, eigenständig und kulturell gut einordenbar.",
+    "Wer einen seltenen, aber verständlichen Vornamen sucht, findet hier eine eher klassische Option.",
+    "Im deutschen Umfeld kann die Schreibweise mit -v statt -w auffallen, bleibt aber nachvollziehbar."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt fast ausschließlich aus Namenslexika und ähnlichen Seiten; das ist für Bedeutungen gut, aber für echte öffentliche Breitenwirkung nur begrenzt repräsentativ.",
+    "Einzelne positive Kommentare sind subjektiv und sollten nicht als allgemeingültige Mehrheitsmeinung verstanden werden."
+  ],
+  "short_summary": "Stanislav wird überwiegend neutral bis positiv wahrgenommen: slawisch, traditionell und eher selten in Deutschland, mit klaren Assoziationen zu Standhaftigkeit und Ruhm.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Stanislav � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/S/St/Stanislav/"
+    },
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Stanislav: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Stanislav.html"
+    }
+  ],
+  "style_effect": [
+    "slawisch und international anschlussfähig",
+    "klassisch-traditioneller Eindruck",
+    "eher selten, dadurch auffälliger",
+    "formal und seriös wirkend",
+    "kurze Spitznamen wie Stan oder Stani werden genannt"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Im deutschsprachigen Raum ist Stanislav eher bekannt als geläufig. Die öffentliche Sichtbarkeit scheint vor allem über Namenslexika und Namensportale zu laufen, nicht über breite Alltagsnutzung."
+}

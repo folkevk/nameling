@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "biblische Herkunft",
+    "althebräische Bedeutung",
+    "religiöser Name",
+    "Spanisch- und Portugiesischsprachiger Raum",
+    "in Deutschland erlaubt, aber selten",
+    "starke christliche Konnotation"
+  ],
+  "confidence": 0.86,
+  "display_text": "Jesus (DE) wird überwiegend als stark religiös und ungewöhnlich wahrgenommen. Der Name ist in Deutschland selten, klar biblisch geprägt und kann wegen seiner Nähe zur christlichen Zentralfigur sensibel oder irritierend wirken. Die Evidenz ist vor allem lexikalisch; breitere öffentliche Resonanz ist nur schwach belegt.",
+  "evidence_quality": "mittel bis stark für lexikalische Einordnung, schwach bis mittel für breite öffentliche Resonanz außerhalb von Namensdatenbanken",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Jesus",
+  "normalized_name": "jesus",
+  "overall_resonance": "In Deutschland wirkt der Vorname Jesus vor allem stark religiös und ungewöhnlich. Die öffentliche Wahrnehmung ist eher sachlich-lexikalisch geprägt, zugleich aber sensibel, weil der Name unmittelbar mit der biblischen Figur verbunden wird. Insgesamt: bekannt, klar zuordenbar, aber im Alltagsgebrauch selten und potenziell kontrovers.",
+  "practical_notes": [
+    "Für deutschsprachige Kontexte wirkt der Name ungewöhnlich und sehr stark konnotiert.",
+    "Je nach Umfeld kann er eher als religiöser Begriff denn als neutraler Vorname gelesen werden.",
+    "Die Rezeption ist nicht einheitlich negativ; sie ist vor allem durch Seltenheit und starke Symbolik geprägt."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt vor allem aus Namenslexika; direkte öffentliche Meinungsbilder sind nur schwach belegt.",
+    "Wahrnehmung kann wegen der Nähe zur Person Jesus Christus sensibel sein.",
+    "Mögliche Irritation oder Spottgefahr wird in den Quellen erwähnt, sollte aber als gesellschaftliche Reaktionsmöglichkeit und nicht als allgemeine Wahrheit verstanden werden."
+  ],
+  "short_summary": "Jesus ist in Deutschland ein seltener, stark religiös aufgeladener Vorname mit klarer biblischer Prägung; die öffentliche Wahrnehmung ist eher sachlich, aber sensibel und teils kontrovers.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Jesus � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/J/Je/Jesus/"
+    },
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "gemischt",
+      "source_type": "web",
+      "title": "&#9655; Vorname Jesus: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Jesus.html"
+    }
+  ],
+  "style_effect": [
+    "stark religiös konnotiert",
+    "biblisch-traditionell",
+    "ungewöhnlich im deutschen Alltag",
+    "sprachlich markant",
+    "formal und lexikalisch wahrgenommen"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Niedrig bis mittel: als Vorname bekannt, in Deutschland jedoch selten und deutlich stärker als religiöses Wort bzw. biblischer Bezug präsent als als alltäglicher Vorname."
+}

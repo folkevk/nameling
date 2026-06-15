@@ -1,0 +1,63 @@
+{
+  "associations": [
+    "althochdeutscher Ursprung",
+    "zweigliedriger deutscher Name",
+    "Bezug zu Volk/Heer/Krieger",
+    "historisch im Mittelalter verbreitet",
+    "klassischer deutscher Männername",
+    "heute eher selten",
+    "namenskundlich gut einordenbar",
+    "Namenstag und literarische Bezüge werden gelegentlich erwähnt"
+  ],
+  "confidence": 0.93,
+  "display_text": "Volker wirkt öffentlich vor allem klassisch, traditionell und sachlich. Der Name hat althochdeutsche Wurzeln, wird mit Volk/Heer/Krieger verbunden und ist heute in Deutschland eher selten. Die verfügbare Evidenz ist stark für Herkunft und Bedeutung, aber nur begrenzt für die Alltagsresonanz.",
+  "evidence_quality": "hoch für Herkunft, Bedeutung und historische Einordnung; mittel für öffentliche Resonanz im Alltag, da die Quellen vor allem redaktionelle Namensseiten sind.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Volker",
+  "normalized_name": "volker",
+  "overall_resonance": "Der Vorname Volker wird öffentlich vor allem sachlich-traditionell wahrgenommen: als klassischer, althochdeutscher Männername mit historischer Tiefe und klarer Namenskunde. Die Rezeption wirkt eher neutral bis leicht würdevoll, nicht trendig.",
+  "practical_notes": [
+    "Für Namenssuche geeignet, wenn ein traditioneller und klar deutsch wahrgenommener Name gesucht wird.",
+    "Die Wirkung ist eher klassisch als modern oder besonders weich klingend.",
+    "Durch die heutige Seltenheit kann der Name auffallen, ohne exzentrisch zu wirken."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Es gibt keine belastbare Evidenz für eine starke soziale Stigmatisierung des Namens.",
+    "Die verfügbare Evidenz stammt überwiegend aus Namenslexika und redaktionellen Namensseiten; sie zeigt vor allem Beschreibung, nicht breite Alltagswahrnehmung.",
+    "Keine Aussagen über Träger des Namens ableitbar."
+  ],
+  "short_summary": "Volker gilt öffentlich als klassischer, traditioneller deutscher Name mit althochdeutscher Herkunft; heute eher selten, überwiegend neutral und sachlich wahrgenommen.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Volker � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/V/Vo/Volker/"
+    },
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Volker: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Volker.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "traditionsbetont",
+    "bodenständig",
+    "historisch",
+    "formell",
+    "eher nüchtern als verspielt"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland bekannt, aber heute eher selten und nicht besonders modisch; die Sichtbarkeit liegt vor allem im namenskundlichen und historischen Kontext."
+}

@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "Bedeutung: „die Edle“ / „die Vornehme“",
+    "althochdeutsche Herkunft",
+    "Verwandtschaft zu Adele/Adelheid",
+    "Namenspatronin bzw. Namenstag",
+    "eher seltene Platzierung in Beliebtheitslisten"
+  ],
+  "confidence": 0.79,
+  "display_text": "Adela wird in den verfügbaren Quellen überwiegend positiv wahrgenommen: Der Name wirkt edel, vornehm und klassisch. Er ist eher selten, aber in Deutschland bekannt. Die Einschätzung stützt sich jedoch vor allem auf wenige Namenslexikon-Quellen, daher ist die öffentliche Resonanz nur begrenzt abgesichert.",
+  "evidence_quality": "Begrenzt bis mittel: klare Namenslexikon-Evidenz mit einigen subjektiven Kommentaranteilen, aber keine breite Diskursbasis.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Adela",
+  "normalized_name": "adela",
+  "overall_resonance": "Überwiegend positiv und wertschätzend, mit eher klassisch-edler Ausstrahlung.",
+  "practical_notes": [
+    "Der Name wird meist klar positiv gelesen, besonders wegen seiner Bedeutung und seines traditionellen Klangs.",
+    "Wer einen klassischen, eher seltenen Mädchennamen sucht, findet hier eine sachlich gut anschlussfähige Option.",
+    "Die Aussprache und Klangwirkung können je nach persönlichem Geschmack unterschiedlich wahrgenommen werden."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz basiert nur auf zwei Namenslexikon- bzw. Kommentarquellen, daher ist die öffentliche Resonanz nur begrenzt belastbar.",
+    "Einzelne Klangurteile wie „hart klingend“ sind subjektiv und nicht allgemein gültig.",
+    "Beliebtheitsaussagen beziehen sich eher auf Statistik als auf offene öffentliche Debatten."
+  ],
+  "short_summary": "Adela wird in den verfügbaren Quellen überwiegend positiv als edler, vornehmer und klassisch wirkender Vorname beschrieben; zugleich ist die Evidenz schmal und vor allem auf Namenslexika gestützt.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.91,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "Vorname Adela � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/A/Ad/Adela/"
+    },
+    {
+      "confidence": 0.92,
+      "is_name_discussion": true,
+      "sentiment": "überwiegend positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Adela: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Adela.html"
+    }
+  ],
+  "style_effect": [
+    "edel",
+    "vornehm",
+    "klassisch",
+    "zeitlos",
+    "sanft bis elegant",
+    "leicht traditionsnah"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland als eher seltener, aber bekannter Vorname sichtbar; die öffentliche Wahrnehmung wirkt vor allem lexikalisch und namenskundlich geprägt, nicht durch breite Diskussionen."
+}

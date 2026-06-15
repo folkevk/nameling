@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "französische Namenswirkung",
+    "etruskisch/altrömische Herkunft über Sergius/Sergier",
+    "männlicher Vorname",
+    "selten in Deutschland",
+    "Namensbedeutung aus dem Geschlecht der Sergier",
+    "Namenslexikon und Herkunftserklärung",
+    "teilweise als schön oder wohlklingend beschrieben"
+  ],
+  "confidence": 0.71,
+  "display_text": "Serge: In Deutschland eher selten und dadurch auffällig, mit französisch geprägter, klassischer Wirkung. Die vorhandene Evidenz ist begrenzt, zeigt aber insgesamt eine neutrale bis leicht positive Resonanz.",
+  "evidence_quality": "mittel bis schwach: zwei thematisch passende Namensseiten, aber nur begrenzte öffentliche Resonanz und wenig echte Diskussionsbreite.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Serge",
+  "normalized_name": "serge",
+  "overall_resonance": "Eher neutral bis leicht positiv: Serge wird vor allem als klar französisch geprägter, männlicher und in Deutschland eher seltener Vorname beschrieben. Die vorhandenen Hinweise betonen Herkunft, Klang und den eher außergewöhnlichen Charakter; eine breite öffentliche Debatte ist in der Evidenz kaum erkennbar.",
+  "practical_notes": [
+    "Für eine Namenssuche in DE ist Serge eher eine seltene und markante Wahl.",
+    "Der Name wirkt kurz, international und klar französisch geprägt.",
+    "Wenn öffentliche Wahrnehmung wichtig ist, sollte man die geringe Verbreitung in Deutschland mitdenken."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist überwiegend beschreibend und nicht stark auf echte öffentliche Meinungen gestützt.",
+    "Positive Eindrücke stammen teils aus wenigen, anekdotischen Rückmeldungen und sollten nicht verallgemeinert werden.",
+    "Keine belastbaren Hinweise auf soziale Stigmatisierung in den vorliegenden Quellen."
+  ],
+  "short_summary": "Serge wird in den vorliegenden Quellen als seltener, französisch geprägter und eher stilvoll-klassischer Vorname mit überwiegend neutral bis leicht positiver Resonanz beschrieben.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Serge � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/S/Se/Serge/"
+    },
+    {
+      "confidence": 0.83,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Serge: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Serge.html"
+    }
+  ],
+  "style_effect": [
+    "französischsprachig",
+    "eher selten",
+    "klassisch-namenskundlich",
+    "klingt für einige wohlklingend",
+    "außergewöhnlich statt modisch"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland wirkt der Name öffentlich eher wenig verbreitet und dadurch auffälliger als geläufig. Die Datenlage zur tatsächlichen Alltagswahrnehmung ist jedoch schwach und basiert überwiegend auf Namenslexika mit wenigen Rückmeldungen."
+}

@@ -1,0 +1,66 @@
+{
+  "associations": [
+    "germanisch",
+    "altdeutsch",
+    "Speer",
+    "Macht",
+    "die Mächtige",
+    "historisch",
+    "traditionsreich",
+    "Namenstag",
+    "selten vergeben",
+    "Spitznamen wie Gerti, Trudi, Trude"
+  ],
+  "confidence": 0.81,
+  "display_text": "Gertrud wird meist als traditioneller, historisch geprägter und heute eher seltener Vorname wahrgenommen. Die Quellen zeigen vor allem sachlich-neutrale, leicht nostalgische Assoziationen; die Evidenz für echte öffentliche Resonanz ist jedoch begrenzt.",
+  "evidence_quality": "mittel bis schwach: solide zu Etymologie und Namensdaten, aber nur indirekte Hinweise auf öffentliche Resonanz",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Gertrud",
+  "normalized_name": "gertrud",
+  "overall_resonance": "Gertrud wird in der vorliegenden Evidenz überwiegend als traditioneller, historisch geprägter und eher seltener Vorname beschrieben. Die öffentliche Wahrnehmung wirkt sachlich-neutral bis leicht nostalgisch, mit Fokus auf Herkunft, Bedeutung und Namensgeschichte.",
+  "practical_notes": [
+    "Gut geeignet für eine klassische, traditionsbewusste Wirkung.",
+    "Durch die Seltenheit kann der Name als markant und individuell wahrgenommen werden.",
+    "Kurzformen wie Gerti, Trudi oder Trude werden in den Quellen genannt.",
+    "Der Namenstag und die historische Herkunft spielen in der Darstellung eine größere Rolle als moderne Trend-Assoziationen."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist insgesamt gut für Herkunft und Namensbedeutung, aber nur begrenzt aussagekräftig für echte öffentliche Meinung.",
+    "Einige Angaben stützen sich auf Namenslexika oder Kommentare und sind daher nur eingeschränkt belastbar.",
+    "Keine Hinweise auf eine soziale Stigmatisierung in den Quellen; falls Wahrnehmungen als altmodisch erscheinen, ist das als Eindruck der Quellen zu lesen, nicht als allgemeine Wahrheit."
+  ],
+  "short_summary": "Gertrud wirkt in den Quellen traditionell, historisch und eher selten; die öffentliche Resonanz ist sachlich-neutral mit leichter Nostalgie.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Gertrud � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/G/Ge/Gertrud/"
+    },
+    {
+      "confidence": 0.92,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Gertrud: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Gertrud.html"
+    }
+  ],
+  "style_effect": [
+    "traditionell",
+    "altdeutsch",
+    "historisch",
+    "namenskundlich",
+    "eher selten",
+    "leicht nostalgisch"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Eher gering bis mittel: Der Name ist bekannt, wirkt aber heute nicht sehr verbreitet. In den Quellen wird vor allem seine Seltenheit im deutschsprachigen Raum betont."
+}

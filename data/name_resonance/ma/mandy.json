@@ -1,0 +1,59 @@
+{
+  "associations": [
+    "Kurz- und Koseform von Amanda",
+    "Bedeutung: „die Liebenswerte“",
+    "weiblicher Vorname",
+    "Beliebtheitsschwerpunkt in den 1970er/1980er Jahren",
+    "heute eher selten",
+    "teils mit Popkultur-Bezügen verbunden"
+  ],
+  "confidence": 0.82,
+  "display_text": "Mandy wirkt in Deutschland wie ein vertrauter, heute eher seltenerer Vorname mit leicht retroem Charme. Die öffentliche Wahrnehmung ist überwiegend neutral bis leicht positiv; die Quellenlage ist dabei vor allem lexikalisch und daher für die allgemeine Resonanz nur eingeschränkt aussagekräftig.",
+  "evidence_quality": "mittel: zwei einschlägige Namenslexikon-Quellen mit klaren Angaben zu Herkunft, Bedeutung und Beliebtheit; öffentliche Resonanz außerhalb dieser Quellen nur eingeschränkt belegbar.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Mandy",
+  "normalized_name": "mandy",
+  "overall_resonance": "Eher bekannt, historisch verankert und meist neutral bis leicht positiv wahrgenommen; die heutige öffentliche Präsenz wirkt aber eher zurückhaltend.",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt Mandy verständlich, leicht merkbar und sprachlich unkompliziert.",
+    "Die Wahrnehmung kann je nach Generation unterschiedlich sein, da der Name stärker mit einer früheren Modephase verbunden ist.",
+    "Bei der Einordnung sollte man eher von einem klassischen, heute selteneren Namen sprechen als von einem stark trendigen Namen."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die vorhandene Evidenz stammt überwiegend aus Namenslexika, daher ist die Aussagekraft zur breiten öffentlichen Resonanz begrenzt.",
+    "Einzelne kommentarbasierte Nebenassoziationen zu Veralberung oder Negativbewertungen sind nicht als allgemeine Wahrnehmung zu verstehen.",
+    "Es gibt Hinweise auf mögliche soziale Vorurteile in Einzelfällen, dafür aber keine belastbare breite Evidenz in den vorliegenden Quellen."
+  ],
+  "short_summary": "Mandy wird in Deutschland meist als vertrauter, eher klassisch-zeittypischer Mädchenname wahrgenommen: freundlich, unkompliziert und mit leicht retroem Klang. Die öffentliche Resonanz wirkt eher neutral bis leicht positiv, allerdings basiert die Evidenz vor allem auf Namenslexika und ist für die breite Außenwahrnehmung nur begrenzt belastbar.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Mandy � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/M/Ma/Mandy/"
+    },
+    {
+      "confidence": 0.91,
+      "is_name_discussion": true,
+      "sentiment": "eher positiv, mit leicht gemischten Nebenassoziationen",
+      "source_type": "web",
+      "title": "&#9655; Vorname Mandy: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Mandy.html"
+    }
+  ],
+  "style_effect": [
+    "klingt kurz, direkt und freundlich",
+    "wirkt eher vertraut als modern-experimentell",
+    "hat einen leicht retrohaften Charakter",
+    "durch die englische Kurzformassoziation international anschlussfähig"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland vor allem als Name mit deutlichem Populärphase-Bezug in den 1970er und 1980er Jahren sichtbar, heute eher seltener."
+}

@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "weiblicher Vorname",
+    "englische Herkunft",
+    "altfranzösische Wortherkunft",
+    "Bedeutung: „Page“ / „Dienerin“",
+    "in Deutschland eher selten",
+    "vor allem aus Namenslexika und Vornamensseiten bekannt"
+  ],
+  "confidence": 0.84,
+  "display_text": "Paige wird in Deutschland überwiegend neutral und sachlich wahrgenommen: international klingend, weiblich, eher selten und vor allem aus Namenslexika bekannt. Eine starke öffentliche Meinung lässt sich aus der Evidenz nicht ableiten.",
+  "evidence_quality": "mittel bis schwach; überwiegend lexikalische Quellen, kaum echte öffentliche Diskussionsresonanz",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Paige",
+  "normalized_name": "paige",
+  "overall_resonance": "Die öffentliche Resonanz zu „Paige“ in Deutschland wirkt überwiegend sachlich-neutral und eher namenskundlich als emotional aufgeladen. Der Name wird vor allem als englisch/altfranzösisch geprägt, weiblich und im deutschen Kontext eher selten beschrieben.",
+  "practical_notes": [
+    "Für Suchende wirkt „Paige“ klar international und ungewöhnlich, aber nicht auffällig negativ besetzt.",
+    "Die Wahrnehmung dürfte stark vom Umfeld abhängen, da der Name in Deutschland eher selten ist.",
+    "Wenn ein Name mit klar deutscher Verankerung gesucht wird, könnte „Paige“ als importiert und etwas aus dem Rahmen fallend wahrgenommen werden."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz für echte öffentliche Resonanz in Deutschland ist schwach und stützt sich vor allem auf lexikalische Namensquellen.",
+    "Es liegen kaum belastbare Hinweise auf breite öffentliche Bewertung, Trenddiskussionen oder starke emotionale Konnotationen vor.",
+    "Keine belastbare Grundlage für soziale Zuschreibungen oder stereotype Deutungen."
+  ],
+  "short_summary": "„Paige“ wird in Deutschland meist neutral, international und eher selten wahrgenommen. Die öffentliche Rezeption wirkt sachlich-informativ, nicht stark polarisiert.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Paige � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/P/Pa/Paige/"
+    },
+    {
+      "confidence": 0.91,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Paige: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Paige.html"
+    }
+  ],
+  "style_effect": [
+    "international",
+    "modern-klingend",
+    "kurz und markant",
+    "eher selten im deutschen Kontext",
+    "sachlich-informativ in der öffentlichen Darstellung"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Eher geringe bis moderate Sichtbarkeit in Deutschland; der Name erscheint in Namensdatenbanken, wirkt aber im Alltag nicht stark etabliert."
+}

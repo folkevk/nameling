@@ -1,0 +1,63 @@
+{
+  "associations": [
+    "lateinische Herkunft",
+    "deutsche Form von Constantia",
+    "Bedeutung: die Beständige / die Standhafte",
+    "Festigkeit",
+    "Entschlossenheit",
+    "Namenstag",
+    "selten"
+  ],
+  "confidence": 0.78,
+  "display_text": "Constanze wirkt in den vorliegenden Quellen überwiegend klassisch, elegant und traditionsreich. Der Name wird mit „die Beständige“ bzw. „die Standhafte“ verbunden und eher selten, aber seriös eingeordnet. Die Evidenz ist jedoch begrenzt und stammt vor allem aus Namenslexika mit wenigen Kommentaren.",
+  "evidence_quality": "mittel bis schwach: überwiegend Namenslexikon- und Statistikseiten, kaum unabhängige öffentliche Meinungsäußerungen",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Constanze",
+  "normalized_name": "constanze",
+  "overall_resonance": "Überwiegend positiv bis neutral-informativ. Der Name wird in den Quellen vor allem als klassisch, elegant und traditionsreich beschrieben.",
+  "practical_notes": [
+    "Für Suchende wirkt Constanze eher klassisch und seriös als modisch.",
+    "Die Schreibweise ist bekannt, aber nicht sehr häufig.",
+    "Die Quellen betonen vor allem Bedeutung, Herkunft und Namenstag statt breiter öffentlicher Meinungen."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz zur öffentlichen Resonanz ist begrenzt und stammt überwiegend aus Namenslexika mit einzelnen Kommentaren.",
+    "Positive Stilzuweisungen wie „edel“ oder „elegant“ sind als subjektive Wahrnehmungen zu lesen, nicht als objektive Eigenschaften.",
+    "Keine belastbaren Hinweise auf soziale Stigmatisierung in den vorliegenden Quellen."
+  ],
+  "short_summary": "Constanze wird meist als klassischer, eleganter und traditionsreicher Vorname wahrgenommen; die Evidenz dafür ist aber eher begrenzt und vor allem lexikalisch geprägt.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.92,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Constanze � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/C/Co/Constanze/"
+    },
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Constanze: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Constanze.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "elegant",
+    "edel",
+    "selten",
+    "traditionsnah",
+    "namenskundlich",
+    "eher stilvoll als modern"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "mittel"
+}

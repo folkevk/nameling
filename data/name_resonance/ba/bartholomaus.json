@@ -1,0 +1,51 @@
+{
+  "associations": [
+    "biblischer/jüdisch-aramäischer Ursprung",
+    "Bedeutung: Sohn des Talmai",
+    "Namenstag am 24. August",
+    "griechisch-lateinische Form",
+    "selten und traditionell"
+  ],
+  "confidence": 0.83,
+  "display_text": "Bartholomäus wirkt in DE vor allem klassisch, traditionell und biblisch geprägt. Der Name ist eher selten, dadurch auffällig, und wird in der namenkundlichen Literatur sachlich bis leicht positiv beschrieben. Belegt sind vor allem Herkunft, Bedeutung („Sohn des Talmai“) und der Namenstag am 24. August; die breitere Alltagsresonanz ist nur begrenzt sichtbar.",
+  "evidence_quality": "stark für Herkunft, Bedeutung und namenkundliche Einordnung; schwächer für breite öffentliche Alltagsresonanz",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Bartholomäus",
+  "normalized_name": "bartholomaus",
+  "overall_resonance": "überwiegend traditionell und sachlich positiv wahrgenommen, mit starker historisch-biblischer Prägung",
+  "practical_notes": [
+    "Für eine Namenssuche ist vor allem die klare religiös-historische Herkunft relevant.",
+    "Im deutschen Raum ist der Name eher selten, daher fällt er stärker auf als geläufigere Vornamen.",
+    "Die Wirkung hängt stark vom Kontext ab: traditionell, kirchlich oder bewusst klassisch."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die öffentliche Resonanz wirkt vor allem aus einer einzelnen namenkundlichen Quelle abgeleitet; breite Alltagswahrnehmung ist damit nur eingeschränkt belegbar.",
+    "Der Name kann wegen Länge und historischer Form als ungewöhnlich oder feierlich empfunden werden, ohne dass das bereits eine negative Wertung bedeutet."
+  ],
+  "short_summary": "Bartholomäus wird im deutschen Kontext vor allem als seltener, traditioneller und biblisch geprägter Vorname wahrgenommen. Die öffentliche Rezeption ist eher sachlich bis leicht positiv, mit deutlichem Fokus auf Herkunft, Bedeutung und Namenstag.",
+  "source_count": 1,
+  "sources": [
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Bartholomäus: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Bartholom%C3%A4us.html"
+    }
+  ],
+  "style_effect": [
+    "biblisch",
+    "klassisch",
+    "traditionell",
+    "gelehrt/altsprachlich",
+    "namenkundlich markant",
+    "formal und eher lang"
+  ],
+  "usable_evidence_count": 1,
+  "visibility": "eher selten und dadurch auffällig, aber klar bekannt durch die historische und religiöse Einordnung"
+}

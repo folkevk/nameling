@@ -1,0 +1,64 @@
+{
+  "associations": [
+    "Falke",
+    "germanische bzw. althochdeutsche Herkunft",
+    "Mut",
+    "Gewandtheit",
+    "Stärke",
+    "Klugheit",
+    "Intelligenz",
+    "Kriegerbild",
+    "Namenstag",
+    "selten vergeben"
+  ],
+  "confidence": 0.84,
+  "display_text": "Falk wird überwiegend positiv und traditionell wahrgenommen. Der Name wirkt kurz, markant und eher selten, mit Assoziationen wie Falke, Mut, Stärke und Klugheit. Die verfügbare Evidenz stammt vor allem aus Namenslexika; eine breite öffentliche Debatte ist kaum erkennbar.",
+  "evidence_quality": "Gut für Bedeutung, Herkunft und stilistische Einordnung; begrenzt für tatsächliche öffentliche Wahrnehmung, da kaum echte Debatte oder breite Meinungsvielfalt sichtbar ist.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Falk",
+  "normalized_name": "falk",
+  "overall_resonance": "Überwiegend positiv und traditionell gefärbt, mit sachlich-neutraler Grundstimmung.",
+  "practical_notes": [
+    "Für Suchende wirkt Falk kompakt, männlich und traditionsnah.",
+    "Der Name hat eine klare, markante Klangwirkung und bleibt im deutschen Sprachraum gut einordenbar.",
+    "Wegen der Seltenheit seit den 1980er Jahren kann er individuell und nicht alltäglich wirken."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt überwiegend aus Namensdatenbanken und Lexika; das ist eher Beschreibung als echte öffentliche Resonanz.",
+    "Positive Bedeutungen wie Stärke oder Klugheit sind Namensassoziationen, keine Eigenschaften von Trägern des Namens.",
+    "Zur sozialen Bewertung gibt es keine klare Stigmatisierung; wenn überhaupt, dominiert ein neutral-bis-wertschätzender Eindruck."
+  ],
+  "short_summary": "Falk wird meist sachlich bis positiv wahrgenommen: kurz, traditionell, markant und mit starken Assoziationen wie Falke, Mut und Stärke. Die öffentliche Evidenz ist jedoch eher lexikalisch als gesellschaftlich breit diskutiert.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Falk � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/F/Fa/Falk/"
+    },
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Falk: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Falk.html"
+    }
+  ],
+  "style_effect": [
+    "kurz und prägnant",
+    "traditionell-deutsch",
+    "kräftig und markant",
+    "natur- bzw. tierbezogene Assoziation über den Falken",
+    "klassisch statt modisch"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Mittel: Der Name ist bekannt, wirkt aber eher selten vergeben und erscheint vor allem in Namenslexika statt in breiter öffentlicher Debatte."
+}

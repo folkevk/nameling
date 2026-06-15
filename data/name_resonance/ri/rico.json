@@ -1,0 +1,59 @@
+{
+  "associations": [
+    "Kurzform von Enrico, Ricardo oder Richard/Heinrich",
+    "Bedeutungsfelder wie reich, mächtig, Herrscher",
+    "Namenstag und Namenslexikon-Kontext",
+    "in Deutschland als Vorname verzeichnet",
+    "umgangssprachliche Nebenbedeutungen im Spanischen"
+  ],
+  "confidence": 0.84,
+  "display_text": "Rico gilt öffentlich eher als neutral bis leicht positiv besetzter Vorname: kurz, prägnant und mit klarer Herkunft aus längeren Namen wie Enrico oder Ricardo. Die verfügbare Evidenz ist solide, aber vor allem lexikografisch; breite Alltagsresonanz ist nur indirekt sichtbar.",
+  "evidence_quality": "gut, aber überwiegend lexikografisch; wenige direkt diskussionsbasierte Rückmeldungen",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Rico",
+  "normalized_name": "rico",
+  "overall_resonance": "Rico wird in der verfügbaren Evidenz überwiegend neutral bis leicht positiv wahrgenommen: als kurzer, markanter männlicher Vorname mit klarer Herkunfts- und Bedeutungszuordnung. Die öffentliche Rezeption wirkt eher informativ als kontrovers.",
+  "practical_notes": [
+    "Für Suchmaschinen-Nutzer wirkt Rico sachlich, klar und leicht einzuordnen.",
+    "Die Kurzform trägt zur Eingängigkeit bei, kann aber je nach Kontext auch als Spitzname wahrgenommen werden.",
+    "Im deutschen Kontext ist die Herkunft meist gut erklärbar, was die Einordnung erleichtert."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist insgesamt gut, aber stark lexikalisch geprägt; echte breite Alltagsresonanz ist nur begrenzt sichtbar.",
+    "Einzelne Quellen nennen mögliche Mehrdeutigkeiten oder Nebenassoziationen, daraus folgt aber keine negative Grundwahrnehmung.",
+    "Keine belastbaren Hinweise auf soziale Stigmatisierung in der vorliegenden Evidenz."
+  ],
+  "short_summary": "Rico wird meist neutral bis leicht positiv wahrgenommen: kurz, markant, männlich und mit klarer Herkunfts- und Bedeutungsdeutung.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Rico � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/R/Ri/Rico/"
+    },
+    {
+      "confidence": 0.9,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Rico: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Rico.html"
+    }
+  ],
+  "style_effect": [
+    "kurz und prägnant",
+    "international bzw. mehrsprachig anschlussfähig",
+    "modern wirkende Kurzform",
+    "klar männlich codiert",
+    "lexikalisch gut erklärbar"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Der Name ist bekannt und im deutschsprachigen Raum präsent, wirkt aber eher wie eine kompakte, eher seltene Kurzform als ein sehr häufiger Alltagsname."
+}

@@ -1,0 +1,59 @@
+{
+  "associations": [
+    "skandinavische Form bzw. Kurzform von Peter",
+    "Bedeutung: der Fels / der Stein",
+    "nordisch, international",
+    "Namenstag in den Quellen genannt",
+    "seltene, aber etablierte Schreib- und Namensform"
+  ],
+  "confidence": 0.83,
+  "display_text": "Per wirkt in Deutschland eher selten, kurz und nordisch. Die öffentliche Wahrnehmung ist insgesamt neutral bis leicht positiv; der Name wird vor allem mit der skandinavischen Form von Peter und der Bedeutung „der Fels/der Stein“ verbunden. Einzelne Stimmen finden ihn elegant, andere eher ungewohnt. Die Evidenz zur allgemeinen Resonanz ist allerdings begrenzt.",
+  "evidence_quality": "mittel bis eher schwach für allgemeine Resonanz, stärker für Bedeutung, Herkunft und Namensgebrauch",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Per",
+  "normalized_name": "per",
+  "overall_resonance": "In Deutschland wirkt Per insgesamt eher neutral bis leicht positiv und zugleich ungewöhnlich. Der Name wird vor allem sachlich als skandinavische Kurz- bzw. Form von Peter mit der Bedeutung „der Fels/der Stein“ eingeordnet. Öffentliche Wertungen zum Klang sind gemischt, aber die verfügbare Evidenz ist eher klein und überwiegend lexikalisch als meinungsbasiert.",
+  "practical_notes": [
+    "Gut geeignet, wenn ein kurzer, klarer und international anschlussfähiger Name gesucht wird.",
+    "Die Seltenheit kann als Pluspunkt oder als ungewohnt empfunden werden.",
+    "Die Aussprache und Schreibweise sind einfach, was im Alltag hilfreich sein kann."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz zur öffentlichen Resonanz ist begrenzt und vor allem aus Namenslexika abgeleitet.",
+    "Vereinzelte Einschätzungen zum Klang sind nicht repräsentativ für die Allgemeinheit.",
+    "Ungewohntheit kann wahrgenommen werden, sollte aber nicht als allgemeine negative Bewertung verstanden werden."
+  ],
+  "short_summary": "Per ist in Deutschland ein seltener, sachlich wirkender Vorname mit nordischer Herkunft. Die öffentliche Resonanz ist überwiegend neutral bis leicht positiv, bei zugleich vereinzelter Irritation über die Kürze oder Ungewohntheit.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Per � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/P/Pe/Per/"
+    },
+    {
+      "confidence": 0.94,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Per: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Per.html"
+    }
+  ],
+  "style_effect": [
+    "kurz und markant",
+    "nordisch/international",
+    "klassisch durch die Peter-Verbindung",
+    "sachlich bis elegant",
+    "für manche ungewohnt oder knapp wirkend"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Eher selten und daher auffällig, aber nicht stark verbreitet. In Namensverzeichnissen ist Per als Vorname klar geführt, was für Bekanntheit im Namenswissen spricht, nicht jedoch für breite Alltagsverwendung."
+}

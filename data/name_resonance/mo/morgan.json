@@ -1,0 +1,69 @@
+{
+  "associations": [
+    "walisischer bzw. keltisch-altwalisischer Ursprung",
+    "Unisex-Name",
+    "Bedeutung rund um das Meer, etwa 'Kreis des Meeres'",
+    "international verbreitet",
+    "in Deutschland eher selten",
+    "teils mit Artussage/Morgana und englischsprachigem Raum verbunden"
+  ],
+  "confidence": 0.82,
+  "display_text": "Morgan hat in Deutschland eine eher ruhige, internationale und unaufgeregte Resonanz. Der Name wird vor allem als seltener Unisex-Name mit walisisch-keltischem Ursprung wahrgenommen. Die Evidenz ist allerdings begrenzt und stammt überwiegend aus Namenslexika, nicht aus breiten öffentlichen Diskussionen.",
+  "evidence_quality": "mittel bis schwach: mehrere Namenslexikon-Quellen, aber wenig echte öffentliche Diskussions- oder Bewertungsdaten; überwiegend beschreibend statt resonanzstark.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Morgan",
+  "normalized_name": "morgan",
+  "overall_resonance": "Morgan wirkt in der deutschsprachigen Namenswahrnehmung überwiegend sachlich, international und eher modern-unaufgeregt. Die öffentliche Rezeption ist nach der vorliegenden Evidenz nicht stark emotional geprägt, sondern vor allem von Herkunft, Bedeutung und der Einordnung als Unisex-Name bestimmt.",
+  "practical_notes": [
+    "Für deutschsprachige Kontexte wirkt Morgan zeitgemäß, aber nicht modisch-überladen.",
+    "Durch die Seltenheit in Deutschland kann der Name auffallen, ohne stark erklärungsbedürftig zu sein.",
+    "Die Unisex-Verwendung ist ein prägendes Merkmal der Wahrnehmung."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz basiert fast nur auf Namenslexika und ist daher nur eingeschränkt als echte öffentliche Resonanz zu werten.",
+    "Es gibt kaum direkte Nutzerbewertungen oder breite soziale Diskussionen in den Quellen.",
+    "Die gelegentlich leicht positive Färbung stammt eher aus beschreibenden Texten als aus klarer Community-Wertung."
+  ],
+  "short_summary": "Morgan wird in Deutschland eher selten, international bekannt und sachlich-modern wahrgenommen. Die verfügbare Evidenz zeigt vor allem lexikalische Beschreibungen und nur wenig direkte öffentliche Wertung.",
+  "source_count": 3,
+  "sources": [
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Morgan � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/M/Mo/Morgan/"
+    },
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Morgan � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/M/Mo/Morgan/"
+    },
+    {
+      "confidence": 0.9,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Morgan: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Morgan.html"
+    }
+  ],
+  "style_effect": [
+    "international",
+    "neutral-modern",
+    "lexikalisch klar",
+    "unisex",
+    "leicht elegant",
+    "keltisch-walisisch assoziiert"
+  ],
+  "usable_evidence_count": 3,
+  "visibility": "In Deutschland eher selten und dadurch nicht sehr breit sichtbar. International ist der Name bekannter, wodurch er hierzulande eher als vertraut, aber ungewöhnlich wahrgenommen wird."
+}

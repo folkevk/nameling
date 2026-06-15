@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "weiblicher Vorname",
+    "altpersische Herkunft",
+    "Variante von Daria",
+    "Bedeutungsbezüge wie „die Besitzerin des Guten“ bzw. „das Gute festhaltend“",
+    "möglicher Bezug zu Meer/Ozean",
+    "Namenstag",
+    "selten bis moderat geläufig"
+  ],
+  "confidence": 0.88,
+  "display_text": "Darja wirkt in Deutschland überwiegend neutral bis leicht positiv. Der Name wird vor allem als weiblicher, eher seltener Vorname mit altpersischer bzw. slawischer Namensform beschrieben und mit Bedeutungen wie „die Besitzerin des Guten“ verbunden. Insgesamt entsteht ein sachlich-freundlicher, eigenständiger Eindruck ohne erkennbare öffentliche Stigmatisierung.",
+  "evidence_quality": "gut für Herkunft, Bedeutung und grobe Geläufigkeit; schwächer für differenzierte öffentliche Resonanz außerhalb von Namensseiten",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Darja",
+  "normalized_name": "darja",
+  "overall_resonance": "Überwiegend neutral bis leicht positiv: Darja wird in den Quellen vor allem als eigenständiger, eher seltener Vorname mit klarer namenkundlicher Einordnung beschrieben.",
+  "practical_notes": [
+    "Für die öffentliche Wahrnehmung ist der Name eher positiv konnotiert oder schlicht neutral.",
+    "Die Schreibweise wirkt klar, aber etwas ungewöhnlicher als sehr häufige deutsche Standardnamen.",
+    "Die Datenlage ist solide für Grundangaben, aber nicht stark genug für feine Nuancen zur Alltagssprache."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt überwiegend aus Namenslexika und ist daher eher beschreibend als kontrovers.",
+    "Einzelne Herkunfts- und Bedeutungsangaben variieren je nach Quelle.",
+    "Keine erkennbare öffentliche Stigmatisierung oder breite negative Debatte zum Namen."
+  ],
+  "short_summary": "Darja wird in Deutschland überwiegend neutral bis leicht positiv wahrgenommen: ein weiblicher, eher seltener Name mit international-slawischer Note und positiver Bedeutungsassoziation.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Darja � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/D/Da/Darja/"
+    },
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Darja: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Darja.html"
+    }
+  ],
+  "style_effect": [
+    "namenkundlich",
+    "sachlich",
+    "eher weich und freundlich",
+    "international bzw. slawisch geprägt",
+    "leicht eigenständig statt alltäglich"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland wirkt der Name eher selten bis moderat geläufig und damit präsent, aber nicht massenhaft verbreitet."
+}

@@ -1,0 +1,63 @@
+{
+  "associations": [
+    "Löwe",
+    "Mut",
+    "Kraft",
+    "Kühnheit",
+    "Kurzform-Bezug zu Leon/Leo",
+    "griechisch/lateinische Namensherkunft",
+    "moderner Jungenname",
+    "Namenstag",
+    "Beliebtheit in Deutschland"
+  ],
+  "confidence": 0.94,
+  "display_text": "Lion hat in Deutschland eine überwiegend positive, klare Namensresonanz: kurz, modern und stark mit „Löwe“, Mut und Kraft assoziiert. Die öffentliche Wahrnehmung ist vor allem namenskundlich und wirkt insgesamt unauffällig bis beliebt.",
+  "evidence_quality": "hoch: zwei name-fokussierte, einschlägige Namenslexika mit konsistenten Angaben zu Bedeutung, Herkunft und öffentlicher Einordnung.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Lion",
+  "normalized_name": "lion",
+  "overall_resonance": "Überwiegend positiv und klar namenskundlich geprägt. Der Name Lion wird öffentlich meist mit „Löwe“, Stärke und Mut verbunden; zugleich erscheint er in Namenslexika als moderner, kurzer Jungenname mit griechisch/lateinischen Bezügen. Die Wahrnehmung wirkt insgesamt freundlich und gut anschlussfähig, ohne auffällige negative öffentliche Resonanz.",
+  "practical_notes": [
+    "Für Suchende wirkt der Name in Deutschland bekannt und eingängig.",
+    "Die Schreibweise ist einfach, die Aussprache dürfte meist intuitiv sein.",
+    "Durch die starke Löwe-Assoziation erhält der Name ein markantes, symbolisches Profil."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die positiven Bedeutungen wie „mutig“ oder „kühn“ sind kulturelle Deutungen und keine objektiven Eigenschaften.",
+    "Die Quellen sind Namenslexika und können einen leichten Positiv- oder Beliebtheitsfokus haben.",
+    "Keine Hinweise auf soziale Stigmatisierung in der vorliegenden Evidenz."
+  ],
+  "short_summary": "Lion wird in Deutschland überwiegend positiv, modern und stark mit dem Löwen-Motiv verbunden wahrgenommen.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Lion � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/L/Li/Lion/"
+    },
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Lion: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Lion.html"
+    }
+  ],
+  "style_effect": [
+    "kurz und prägnant",
+    "modern-klingend",
+    "kräftig und symbolisch",
+    "namenskundlich klar einordenbar",
+    "leicht international anschlussfähig"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Im deutschsprachigen Raum gut sichtbar und bekannt, vor allem durch Namensportale und Ranglisten. Die Evidenz deutet auf eine recht präsente, aber eher lexikalisch geprägte Wahrnehmung hin."
+}

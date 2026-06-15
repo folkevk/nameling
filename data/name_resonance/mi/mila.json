@@ -1,0 +1,64 @@
+{
+  "associations": [
+    "slawische Herkunft",
+    "Kurzform",
+    "liebenswürdig",
+    "angenehm",
+    "freundlich",
+    "friedensbringend",
+    "beliebt",
+    "aufstrebend",
+    "weiblicher Vorname"
+  ],
+  "confidence": 0.96,
+  "display_text": "Mila: öffentlich überwiegend positiv besetzt – modern, weich im Klang und in Deutschland sehr beliebt. Die Namensquellen verbinden Mila häufig mit Freundlichkeit, angenehmer Wirkung und einer slawischen bzw. teils auch anders erklärten Herkunft. Keine Hinweise auf eine spezifische Stigmatisierung in der vorliegenden Evidenz.",
+  "evidence_quality": "hoch: mehrere einschlägige Namensquellen mit klarer, konsistenter und überwiegend positiver Namensdiskussion.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Mila",
+  "normalized_name": "mila",
+  "overall_resonance": "Überwiegend positiv und modern wahrgenommen; der Name wird in der öffentlichen Namensdiskussion häufig mit Freundlichkeit, angenehmer Klangwirkung und Beliebtheit verbunden.",
+  "practical_notes": [
+    "Der Name wirkt in der Recherche unkompliziert und gut anschlussfähig.",
+    "Da er sehr bekannt ist, ist die Wiedererkennbarkeit hoch.",
+    "Die Deutungen zur Herkunft variieren je nach Quelle; das ist bei vielen Vornamen normal."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Keine belastbaren Hinweise auf soziale Stigmatisierung in der vorliegenden Evidenz.",
+    "Die positiven Zuschreibungen stammen vor allem aus Namensportalen und sind als öffentliche Wahrnehmung, nicht als objektive Eigenschaft zu verstehen."
+  ],
+  "short_summary": "Mila wird in Deutschland meist als moderner, freundlicher und sehr beliebter Vorname wahrgenommen.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.99,
+      "is_name_discussion": true,
+      "sentiment": "positive",
+      "source_type": "web",
+      "title": "Vorname Mila � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/M/Mi/Mila/"
+    },
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Mila: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Mila.html"
+    }
+  ],
+  "style_effect": [
+    "kurz und weich im Klang",
+    "modern",
+    "freundlich wirkend",
+    "jugendlich",
+    "zeitgemäß",
+    "beliebt",
+    "international anschlussfähig"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland sehr sichtbar und verbreitet in Namenslexika sowie auf Beliebtheits- und Bedeutungsseiten."
+}

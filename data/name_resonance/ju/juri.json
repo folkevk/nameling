@@ -1,0 +1,63 @@
+{
+  "associations": [
+    "russische Form von Georg",
+    "altgriechische Herkunft",
+    "Bedeutung im Umfeld von 'Bauer' oder 'Landarbeiter'",
+    "männlicher Vorname",
+    "Namenstag am 23. April",
+    "in Deutschland eher bekannt, aber nicht alltäglich",
+    "teils als schön klingend beschrieben",
+    "gelegentliche Assoziationen mit Russland oder Sibirien"
+  ],
+  "confidence": 0.83,
+  "display_text": "Juri: überwiegend neutral bis freundlich wahrgenommen. Der Name gilt als kurz, klar und eher modern; in Deutschland bekannt, aber nicht stark verbreitet. Die Evidenz ist vor allem namenskundlich, daher vorsichtig zu interpretieren.",
+  "evidence_quality": "mittel: gute lexikalische Abdeckung, aber nur begrenzte echte öffentliche Diskussion",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Juri",
+  "normalized_name": "juri",
+  "overall_resonance": "Der Vorname Juri wird in den vorliegenden Quellen überwiegend neutral bis freundlich beschrieben. Er wirkt namenskundlich klar einordbar, klanglich eher modern und im deutschen Kontext bekannt, aber nicht extrem verbreitet. Die öffentliche Resonanz scheint insgesamt unaufgeregt und positiv, wobei die Evidenz vor allem aus Namenslexika und wenigen Kommentaren stammt.",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt Juri international, kurz und leicht merkbar.",
+    "Die Schreibweise ist simpel und im deutschen Sprachraum gut lesbar.",
+    "Die Herkunftsangaben werden in den Quellen konsistent als slawisch bzw. über Georg erklärt."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist nur begrenzt community-basiert; ein großer Teil stammt aus Namenslexika.",
+    "Einzelne positive Klangurteile sollten nicht als allgemeingültig verstanden werden.",
+    "Es gibt keine belastbaren Hinweise auf soziale Stigmatisierung in den Quellen."
+  ],
+  "short_summary": "Juri wird in den Quellen meist neutral bis positiv eingeordnet: bekannt, kurz, klar einzuordnen und eher modern wirkend. Die öffentliche Resonanz erscheint freundlich, aber die Belege sind überwiegend lexikalisch und nur teilweise community-nah.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.94,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Juri � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/J/Ju/Juri/"
+    },
+    {
+      "confidence": 0.9,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Juri: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Juri.html"
+    }
+  ],
+  "style_effect": [
+    "informativ",
+    "klar",
+    "eher modern",
+    "kurz und prägnant",
+    "namenskundlich",
+    "freundlich klingend"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland ist Juri als Vorname sichtbar und verständlich, wird aber eher als vergleichsweise seltener bis moderat bekannter Name beschrieben. Die Quellen deuten auf eine gewisse Bekanntheit hin, ohne starke Massenverbreitung zu belegen."
+}

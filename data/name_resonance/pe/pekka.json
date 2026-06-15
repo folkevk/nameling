@@ -1,0 +1,68 @@
+{
+  "associations": [
+    "finnische Form von Peter",
+    "Bedeutung: der Fels / der Stein",
+    "männlicher Vorname",
+    "selten in Deutschland",
+    "Namenstag",
+    "Spitznamen wie Peki oder Peku"
+  ],
+  "confidence": 0.82,
+  "display_text": "Pekka wirkt in Deutschland eher selten und markant. Die vorhandenen Quellen beschreiben den Namen vor allem neutral: finnische Form von Peter, mit der Bedeutung „der Fels/der Stein“. Eine breite öffentliche Bewertung ist kaum belegt.",
+  "evidence_quality": "Begrenzt bis mittel: mehrere konsistente Namenslexika, aber kaum direkte öffentliche Meinungsäußerungen oder alltagsbezogene Resonanzdaten.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Pekka",
+  "normalized_name": "pekka",
+  "overall_resonance": "Überwiegend neutral-sachlich mit leicht positiver Namenswirkung durch die klare Bedeutung und den traditionellen Ursprung. Für Deutschland wirkt der Name eher selten und dadurch auffällig, aber die vorliegende Evidenz zeigt keine deutliche öffentliche Kontroverse oder starke Trendbewertung.",
+  "practical_notes": [
+    "Für Suchmaschinen-Nutzer wirkt der Name vor allem informativ, traditionell und nordisch.",
+    "Im deutschen Kontext dürfte Pekka wegen der Seltenheit auffallen, ohne dass daraus eine klare positive oder negative Stigmatisierung ableitbar wäre.",
+    "Die Aussagekraft zur öffentlichen Rezeption bleibt begrenzt, weil überwiegend lexikalische Quellen vorliegen."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist schwach bis mittelstark und stammt fast ausschließlich aus Namensdatenbanken.",
+    "Es liegen keine breiten öffentlichen Meinungsbilder oder belastbaren Diskussionsdaten vor.",
+    "Die Wahrnehmung als selten oder ungewöhnlich ist eine Beschreibung der Quellen, keine gesellschaftliche Bewertung."
+  ],
+  "short_summary": "Pekka wird in den vorliegenden Quellen überwiegend neutral und sachlich dargestellt: ein seltener, finnisch geprägter Vorname mit der Bedeutung „der Fels“.",
+  "source_count": 3,
+  "sources": [
+    {
+      "confidence": 0.92,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Pekka � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/P/Pe/Pekka/"
+    },
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Pekka � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/P/Pe/Pekka/"
+    },
+    {
+      "confidence": 0.9,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Pekka: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Pekka.html"
+    }
+  ],
+  "style_effect": [
+    "kurz und markant",
+    "nordisch/finnisch geprägt",
+    "traditionell durch die Ableitung von Peter",
+    "selten und dadurch eigenständig",
+    "klanglich ungewöhnlich im deutschen Namensumfeld"
+  ],
+  "usable_evidence_count": 3,
+  "visibility": "Eher geringe Sichtbarkeit in Deutschland; in den Quellen wird Pekka als seltener Vorname beschrieben. Die öffentliche Rezeption ist deshalb nur begrenzt belegbar und stützt sich vor allem auf Namenslexika statt auf breite Meinungsäußerungen."
+}

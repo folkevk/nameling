@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "althochdeutsche bzw. altgermanische Herkunft",
+    "Bedeutungen wie „die Allumfassende“ oder „die starke Schützerin“",
+    "historisch in Deutschland verankert",
+    "selten, aber regelmäßig vergeben",
+    "Variantenbezug zu Irm- Namen wie Irmgard oder Irmtraud",
+    "eher älterer, traditionsreicher Klang"
+  ],
+  "confidence": 0.86,
+  "display_text": "Irma wird in den verfügbaren Quellen überwiegend positiv-neutral beschrieben: klassisch, historisch verankert und eher selten, mit Bedeutungen wie „die Allumfassende“ oder „die starke Schützerin“. Eine breite öffentliche Debatte ist kaum sichtbar; die Evidenz stammt vor allem aus Namenslexika.",
+  "evidence_quality": "mittel bis gut: klare namenskundliche Quellen, aber nur begrenzte Hinweise auf echte öffentliche Breitenresonanz.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Irma",
+  "normalized_name": "irma",
+  "overall_resonance": "Irma wird in den Quellen überwiegend freundlich bis neutral wahrgenommen: ein klassisch-historischer, eher seltener Vorname mit positiver Bedeutungsaufladung und klarer lexikalischer Einordnung.",
+  "practical_notes": [
+    "Für Suchende, die einen traditionellen und seltenen Namen mit klarer Bedeutung suchen, wirkt Irma passend.",
+    "Der Name ist unkompliziert lesbar und aussprechbar.",
+    "Die Resonanz ist eher unaufgeregt; starke Trend- oder Modeeffekte sind nicht erkennbar."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt fast ausschließlich aus Namenslexika und nicht aus breiter öffentlicher Debatte.",
+    "Einzelne Kommentare auf den Quellen sind nicht repräsentativ für die Gesamtwahrnehmung.",
+    "Die Einordnung „älter wirkend“ beschreibt den Stil des Namens, nicht die Person."
+  ],
+  "short_summary": "Irma gilt als klassischer, eher seltener Vorname mit positiver historischer Bedeutung; öffentlich wirkt er eher vertraut und sachlich als modern oder trendig.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "Vorname Irma � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/I/Ir/Irma/"
+    },
+    {
+      "confidence": 0.84,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Irma: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Irma.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "historisch",
+    "selten, aber vertraut",
+    "eher sachlich als modisch",
+    "leicht altmodisch wirkend",
+    "positiv durch Bedeutungen wie Stärke/Allumfassend"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland wirkt der Name bekannt, aber nicht sehr häufig; die öffentliche Sichtbarkeit ist eher moderat und stark von Namenslexika als von breiter Alltagsdiskussion geprägt."
+}

@@ -1,0 +1,70 @@
+{
+  "associations": [
+    "englischer Vorname",
+    "altenglische Herkunft",
+    "Bedeutung: Eschenhain / Eschenlichtung",
+    "geschlechtsneutral bzw. unisex",
+    "in Deutschland bekannt",
+    "teils weiblich, teils männlich verwendet",
+    "Spitznamen wie Ash"
+  ],
+  "confidence": 0.82,
+  "display_text": "Ashley ist in Deutschland bekannt und wirkt international, modern und klanglich weich. Die Rezeption ist überwiegend neutral mit leichter positiver Tendenz; die Evidenz dafür ist aber eher schwach und stammt vor allem aus Namenslexika. Als Unisex-Name wird Ashley je nach Kontext unterschiedlich eingeordnet.",
+  "evidence_quality": "mittel bis schwach: mehrere informative Quellen, aber wenig echte öffentliche Debatte oder breit gestreute Resonanzdaten",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Ashley",
+  "normalized_name": "ashley",
+  "overall_resonance": "Ashley wirkt in Deutschland eher bekannt als eingängig und international klingend. Die öffentliche Rezeption ist überwiegend sachlich-neutral mit leicht positiver Tendenz, vor allem wegen der weichen Klangwirkung und der klaren englischsprachigen Herkunft. Eine starke, eigenständige Namensmarke in der deutschen Alltagswahrnehmung ist aus der Evidenz nicht klar ableitbar.",
+  "practical_notes": [
+    "Für Suchmaschinen-Nutzer dürfte Ashley als moderner, internationaler Name wahrgenommen werden.",
+    "Die Aussprache und Schreibweise sind im deutschen Kontext meist gut handhabbar, können aber wegen der englischen Herkunft gelegentlich nachgefragt werden.",
+    "Als Unisex-Name kann Ashley je nach Umfeld unterschiedlich eingeordnet werden."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenzlage zur öffentlichen Resonanz in Deutschland ist begrenzt und stark von Namenslexika geprägt.",
+    "Positive Kommentare auf einzelnen Seiten sind nicht repräsentativ für die Gesamtwahrnehmung.",
+    "Keine belastbaren Hinweise auf gesellschaftliche Stigmatisierung in der vorliegenden Evidenz."
+  ],
+  "short_summary": "Ashley wird in Deutschland vor allem als englisch geprägter, moderner und eher neutral bis leicht positiv wahrgenommener Vorname beschrieben. Die Evidenz ist jedoch begrenzt und hauptsächlich informativ.",
+  "source_count": 3,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Ashley � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/A/As/Ashley/"
+    },
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Ashley � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/A/As/Ashley/"
+    },
+    {
+      "confidence": 0.84,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Ashley: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Ashley.html"
+    }
+  ],
+  "style_effect": [
+    "international",
+    "modern",
+    "weich im Klang",
+    "unisex wahrgenommen",
+    "lexikalisch vertraut",
+    "eher urban-popkulturell als traditionell"
+  ],
+  "usable_evidence_count": 3,
+  "visibility": "Der Name ist sichtbar und grundsätzlich bekannt, aber nicht als besonders auffälliger oder stark typisierter Vorname in der deutschen Öffentlichkeit belegt. Die Evidenz ist vor allem lexikalisch und namenskundlich, also eher beschreibend als diskursiv."
+}

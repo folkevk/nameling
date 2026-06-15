@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "Christusträger",
+    "altgriechische Herkunft",
+    "Variante von Christoph",
+    "flämische/skandinavische Schreibweise",
+    "männlicher Vorname",
+    "Namenstag",
+    "Kurzformen wie Kris"
+  ],
+  "confidence": 0.87,
+  "display_text": "Kristof: überwiegend sachlich-neutrale, leicht positive Resonanz. In der öffentlichen Beschreibung steht der Name vor allem für die Bedeutung „Christusträger“ und gilt als Variante von Christoph mit flämisch/skandinavischer Prägung.",
+  "evidence_quality": "eher schwach bis mittel; überwiegend lexikalische Namensseiten, wenig echte Meinungsäußerungen",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Kristof",
+  "normalized_name": "kristof",
+  "overall_resonance": "Überwiegend sachlich-neutral mit leicht positiver, namenkundlicher Resonanz. Die öffentliche Wahrnehmung wirkt vor allem beschreibend: Der Name wird als Variante von Christoph mit der Bedeutung „Christusträger“ und als eher flämisch bzw. skandinavisch eingeordnet.",
+  "practical_notes": [
+    "Für Suchmaschinen eignet sich eine knappe, neutrale Beschreibung ohne Wertung.",
+    "Der Name wirkt verständlich und traditionell eingeordnet, aber nicht stark emotional aufgeladen.",
+    "Bei Bedarf kann die Schreibweise/Variante gegenüber Christoph kurz erklärt werden."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist für echte öffentliche Resonanz eher schwach, da sie vor allem aus Namensbeschreibungen besteht.",
+    "Es liegen kaum belastbare Aussagen zur sozialen Bewertung oder zu breiten Meinungen vor.",
+    "Einzelne Web-Quellen können die Wahrnehmung stärker beschreiben als sie tatsächlich im Alltag ist."
+  ],
+  "short_summary": "Kristof wird öffentlich vor allem sachlich und namenkundlich wahrgenommen: als Variante von Christoph mit der Bedeutung „Christusträger“, überwiegend neutral und leicht positiv konnotiert.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.94,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Kristof � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/K/Kr/Kristof/"
+    },
+    {
+      "confidence": 0.9,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Kristof: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Kristof.html"
+    }
+  ],
+  "style_effect": [
+    "informativ",
+    "lexikalisch",
+    "etymologisch",
+    "namenskundlich",
+    "nüchtern"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Mittel: Der Name erscheint in mehreren Namenslexika und Vergleichsseiten, aber die Evidenz ist eher beschreibend als meinungsstark. Für eine breite öffentliche Meinungslage ist die Grundlage begrenzt."
+}

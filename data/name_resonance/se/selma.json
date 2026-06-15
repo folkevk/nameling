@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "Frieden und Harmonie",
+    "Unversehrtheit",
+    "arabische oder türkische Herkunft",
+    "teils auch keltische Deutung",
+    "Namenstagangaben in den Quellen",
+    "eher bekannt bis teils beliebt in Deutschland"
+  ],
+  "confidence": 0.76,
+  "display_text": "Selma wird im öffentlichen Namensumfeld überwiegend positiv wahrgenommen: freundlich, harmonisch und klar im Klang. Häufig genannte Deutungen sind Frieden, Unversehrtheit und teils auch keltische oder arabisch/türkische Herkunft. Die vorliegende Evidenz stammt jedoch fast nur aus Namenslexika, daher ist die Aussage zur breiten öffentlichen Resonanz vorsichtig zu verstehen.",
+  "evidence_quality": "mittel bis schwach: zwei überwiegend lexikalische Namensseiten, wenig unabhängige öffentliche Diskussionsbelege",
+  "generated_at": "2026-06-11T20:57:42Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Selma",
+  "normalized_name": "selma",
+  "overall_resonance": "Selma wirkt im öffentlichen Namensdiskurs überwiegend positiv und klanglich freundlich. Der Name wird häufig mit Bedeutungen wie Frieden, Unversehrtheit oder Harmonie verbunden; zugleich taucht er in Namenslexika als eher bekannt bis teils beliebt auf. Die Evidenz ist dabei vor allem lexikalisch und nur indirekt ein Abbild breiter öffentlicher Rezeption.",
+  "practical_notes": [
+    "Für eine Suchmaschine lässt sich Selma als wohlklingender, klarer und traditionsnaher Vorname zusammenfassen.",
+    "Bei der Einordnung von Beliebtheit oder Bekanntheit ist Vorsicht sinnvoll, da vor allem redaktionelle Namensseiten vorliegen.",
+    "Die öffentliche Resonanz wirkt insgesamt freundlich, aber nicht breit datenbasiert belegt."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Datenbasis ist klein und stark von Namenslexika geprägt.",
+    "Beliebtheitsangaben stammen aus einzelnen Quellen und sollten nicht als allgemeingültig verstanden werden.",
+    "Es gibt keine belastbaren Hinweise auf eine soziale Stigmatisierung des Namens in den vorliegenden Quellen."
+  ],
+  "short_summary": "Selma wird meist freundlich und positiv beschrieben, mit Assoziationen zu Frieden, Harmonie und Unversehrtheit. Die Evidenz ist jedoch vor allem lexikalisch und nur begrenzt ein direkter Beleg für breite öffentliche Resonanz.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.95,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Selma � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/S/Se/Selma/"
+    },
+    {
+      "confidence": 0.91,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Selma: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Selma.html"
+    }
+  ],
+  "style_effect": [
+    "weich und harmonisch",
+    "klassisch-feminin",
+    "kurz und prägnant",
+    "leicht international anschlussfähig",
+    "namenskundlich positiv gerahmt"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Mittlere Sichtbarkeit: Der Name ist in Namensverzeichnissen gut präsent, die vorliegenden Quellen liefern aber nur begrenzte Hinweise auf echte öffentliche Diskussionen außerhalb solcher Namensseiten."
+}

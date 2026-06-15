@@ -1,0 +1,59 @@
+{
+  "associations": [
+    "Bedeutung wird teils als „der Reiche“ angegeben",
+    "althochdeutsch/friesisch/niederdeutsche Einordnung",
+    "Kurzform zu Richard wird genannt",
+    "selten und eher regional verbreitet",
+    "männlicher Vorname"
+  ],
+  "confidence": 0.84,
+  "display_text": "Raik: überwiegend sachlich-neutral, mit leicht positiver Wirkung durch die kurze, markante und seltene Namensform. In Deutschland eher regional und norddeutsch/friesisch assoziiert.",
+  "evidence_quality": "gut bis mittel: zwei namenskundliche Webquellen mit überwiegend neutraler, teils leicht positiver Resonanz; eine Quelle ist stärker informativ-statistisch, die andere enthält nur begrenzt kommentierte Wertung.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Raik",
+  "normalized_name": "raik",
+  "overall_resonance": "Überwiegend sachlich-neutral mit leicht positiver Tendenz; der Name wird vor allem über Herkunft, Bedeutung und Seltenheit wahrgenommen.",
+  "practical_notes": [
+    "Gut geeignet, wenn ein kurzer und seltener Name gewünscht ist.",
+    "Wirkt eher eigenständig als modisch.",
+    "Im öffentlichen Eindruck klar, aber nicht massenhaft vertraut."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Es liegen keine belastbaren Hinweise auf eine gesellschaftliche Stigmatisierung vor.",
+    "Positive Eindrücke stammen teils aus schwächerer, kommentierter Evidenz; daher nur vorsichtig gewichten.",
+    "Keine Aussagen über typische Eigenschaften von Namensträgern ableitbar."
+  ],
+  "short_summary": "Raik wird öffentlich meist sachlich und eher positiv-nüchtern wahrgenommen: kurz, selten, norddeutsch/friesisch geprägt und klar als männlicher Vorname erkennbar.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Raik � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/R/Ra/Raik/"
+    },
+    {
+      "confidence": 0.9,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Raik: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Raik.html"
+    }
+  ],
+  "style_effect": [
+    "kurz und markant",
+    "klingt nordisch/friesisch",
+    "traditionell-deutschsprachig",
+    "namenskundlich klar einordenbar",
+    "durch Seltenheit leicht eigenständig"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland eher selten und regional verortet, besonders im norddeutschen/friesischen Umfeld; dadurch eher auffällig als alltagsneutral."
+}

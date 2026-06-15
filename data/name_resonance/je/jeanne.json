@@ -1,0 +1,65 @@
+{
+  "associations": [
+    "französische Form von Johanna/Jean",
+    "hebräische Wurzeln",
+    "Bedeutung: Gott ist gnädig bzw. gütig",
+    "mittelalterlich/traditionell",
+    "Namenstag",
+    "selten bis mäßig bekannt in Deutschland",
+    "Aussprache kann gelegentlich klärungsbedürftig sein"
+  ],
+  "confidence": 0.86,
+  "display_text": "Jeanne wirkt öffentlich meist klassisch, französisch und elegant. In Deutschland ist der Name eher selten bis mäßig bekannt, wodurch er auffällt, aber nicht ungewöhnlich stigmatisiert wirkt. Die Rezeption ist überwiegend neutral bis leicht positiv; gelegentlich wird auf die Aussprache hingewiesen.",
+  "evidence_quality": "Solide, direkt namensbezogene Web-Evidenz mit hoher Relevanz; die Aussagen sind jedoch vor allem lexikalisch und nur begrenzt durch breite Nutzersignale gestützt.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Jeanne",
+  "normalized_name": "jeanne",
+  "overall_resonance": "Eher klassisch, international und freundlich-neutral mit leicht positiver Tendenz. Der Name wirkt in der öffentlichen Wahrnehmung vor allem als französische, traditionsreiche Form von Johanna.",
+  "practical_notes": [
+    "Für die öffentliche Rezeption ist der internationale, französisch geprägte Charakter zentral.",
+    "Der Name kann als elegant und klassisch wahrgenommen werden.",
+    "Je nach Umfeld kann die Aussprache kurz erklärt werden müssen.",
+    "Durch die geringere Verbreitung bleibt der Name eher auffällig als beliebig."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist insgesamt solide, aber nicht sehr breit.",
+    "Einzelne Hinweise zur Aussprache und möglichen Verwechslung sind eher Wahrnehmungsdetails als starke Negativmerkmale.",
+    "Keine belastbaren Hinweise auf soziale Stigmatisierung."
+  ],
+  "short_summary": "Jeanne wird in Deutschland überwiegend als klassischer, französisch geprägter und eher seltener Vorname mit leicht positiver, neutral-ästhetischer Wirkung wahrgenommen.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.99,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Jeanne � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/J/Je/Jeanne/"
+    },
+    {
+      "confidence": 0.88,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Jeanne: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Jeanne.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "französisch",
+    "elegant",
+    "traditionell",
+    "international",
+    "leicht historisch",
+    "weiblich",
+    "namenkundlich klar verortet"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland eher selten bis mäßig bekannt; dadurch präsent, aber nicht alltagsdominant. Die Bekanntheit scheint vor allem über die Herkunft und die klangliche Eigenheit zu kommen."
+}

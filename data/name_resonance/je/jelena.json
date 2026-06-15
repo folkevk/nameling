@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "altgriechischer Ursprung",
+    "Variante von Helena/Helene",
+    "Bedeutung: die Leuchtende / Strahlende",
+    "russische Schreibweise bzw. Aussprache",
+    "Namenstag",
+    "weiblicher Vorname"
+  ],
+  "confidence": 0.84,
+  "display_text": "Jelena wirkt in der verfügbaren deutschen Evidenz freundlich, klassisch und klangvoll. Die Quellen betonen vor allem Herkunft, Bedeutung und Namenstag; eine breite öffentliche Debatte oder Stigmatisierung ist nicht erkennbar. Die Aussagekraft ist solide, aber vor allem auf Namensportale gestützt.",
+  "evidence_quality": "mittel bis gut: klare Namensquellen mit hoher inhaltlicher Passung, aber überwiegend lexikalisch statt diskursiv; daher gute Faktenlage, begrenzte Aussagekraft zur öffentlichen Debatte.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Jelena",
+  "normalized_name": "jelena",
+  "overall_resonance": "Jelena wird in der verfügbaren deutschsprachigen Namensevidenz überwiegend freundlich und sachlich wahrgenommen: der Name wirkt bekannt, eher klassisch und durch seine Bedeutungsdeutung positiv besetzt. Die öffentliche Resonanz ist jedoch vor allem beschreibend und stammt überwiegend aus Namenslexika, nicht aus breiter Debatte.",
+  "practical_notes": [
+    "Für eine Namenssuche eignet sich Jelena als gut verständlicher, international anschlussfähiger Vorname.",
+    "Die Wahrnehmung ist eher positiv-beschreibend als emotional aufgeladen.",
+    "Wenn du eine starke Alltagsbekanntheit suchst, sollte zusätzlich die aktuelle Häufigkeit in Deutschland geprüft werden."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt fast ausschließlich aus Namensdatenbanken und Namensportalen; echte öffentliche Meinungsvielfalt ist nur begrenzt sichtbar.",
+    "Es gibt keine belastbaren Hinweise auf eine soziale Stigmatisierung des Namens in der vorliegenden Evidenz.",
+    "Beliebtheitsangaben sollten vorsichtig gelesen werden, da sie meist kontextabhängig und nicht gleichbedeutend mit allgemeiner Zustimmung sind."
+  ],
+  "short_summary": "Jelena wird in deutschen Namensquellen überwiegend positiv, klassisch und klangvoll beschrieben; die Evidenz ist aber eher lexikalisch als öffentlich-diskursiv.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Jelena � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/J/Je/Jelena/"
+    },
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "überwiegend positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Jelena: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Jelena.html"
+    }
+  ],
+  "style_effect": [
+    "klangvoll",
+    "klassisch",
+    "international",
+    "eher weich im Klang",
+    "lexikalisch positiv aufgeladen",
+    "traditionell wirkend"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland ist Jelena als Vorname sichtbar und nachvollziehbar dokumentiert, wirkt aber eher nicht extrem häufig. Die Quellen sprechen von Beliebtheit bzw. Namenstag, ohne eine starke gesellschaftliche Kontroverse."
+}

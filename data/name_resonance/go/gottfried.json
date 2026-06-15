@@ -1,0 +1,62 @@
+{
+  "associations": [
+    "althochdeutsche Herkunft",
+    "Bedeutung in Richtung „von Gott beschützt“ / „göttlicher Friede“",
+    "traditioneller deutscher Jungenname",
+    "früher verbreitet",
+    "heute selten",
+    "historisch im Mittelalter und im Pietismus präsent"
+  ],
+  "confidence": 0.79,
+  "display_text": "Gottfried wirkt in Deutschland vor allem klassisch, traditionell und historisch geprägt. Die Quellen beschreiben den Namen sachlich über Herkunft und Bedeutung; heute gilt er eher als selten. Die Evidenz für echte öffentliche Resonanz ist begrenzt und vor allem redaktionell statt diskursiv.",
+  "evidence_quality": "mittel bis schwach: zwei sachliche Namenslexikon-Quellen mit neutraler Tonalität, aber kaum direkte, breit angelegte öffentliche Rezeption.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Gottfried",
+  "normalized_name": "gottfried",
+  "overall_resonance": "Gottfried wirkt in der öffentlichen Wahrnehmung eher klassisch, traditionell und historisch geprägt. Der Name wird vor allem über Herkunft, Bedeutung und Namenskunde beschrieben, nicht über eine breite aktuelle Diskussionslage.",
+  "practical_notes": [
+    "Für Suchmaschinen- und Namenskontexte ist der Name klar positiv-neutral beschrieben.",
+    "Die öffentliche Wahrnehmung scheint stärker von Bedeutung und Geschichte als von aktueller Mode geprägt.",
+    "Wer einen vertrauten, traditionellen Klang sucht, könnte den Namen passend finden; als moderner Trendname ist er weniger präsent."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist eher schwach für echte öffentliche Resonanz, da vor allem redaktionelle Namensseiten vorliegen.",
+    "Es gibt keine klar erkennbare breite Diskussions- oder Bewertungskultur zum Namen in den Quellen.",
+    "Die Seltenheit kann als altmodisch wahrgenommen werden, ohne dass daraus eine allgemeine gesellschaftliche Bewertung abgeleitet werden sollte."
+  ],
+  "short_summary": "Gottfried wird in Deutschland vor allem als klassischer, traditioneller und historisch geprägter Name wahrgenommen; heute ist er eher selten und die vorliegende Evidenz ist vor allem redaktionell-sachlich.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.94,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Gottfried � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/G/Go/Gottfried/"
+    },
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Gottfried: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Gottfried.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "traditionell",
+    "historisch",
+    "sachlich",
+    "namenskundlich",
+    "eher selten",
+    "altdeutsch"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Eher niedrig bis moderat sichtbar in Deutschland: Der Name ist bekannt, aber nach den vorliegenden Quellen heute eher selten und nicht stark im aktuellen Alltagsgebrauch präsent."
+}

@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "friesisch",
+    "niederländisch",
+    "lateinischer Bezug in einzelnen Quellen",
+    "Bedeutung in Richtung 'stolz'",
+    "selten bis mäßig verbreitet in Deutschland",
+    "Namenstag",
+    "ungewöhnlich, aber bekannt"
+  ],
+  "confidence": 0.78,
+  "display_text": "Arjen wirkt in der öffentlichen Namenswahrnehmung überwiegend neutral bis leicht positiv: selten, modern und nordisch/niederländisch geprägt. Die verfügbare Evidenz ist vor allem lexikalisch und daher nur eingeschränkt aussagekräftig für eine breite öffentliche Resonanz.",
+  "evidence_quality": "mittel bis schwach: mehrere Namenslexika, aber kaum unabhängige öffentliche Diskussion; überwiegend beschreibende statt diskursive Evidenz.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Arjen",
+  "normalized_name": "arjen",
+  "overall_resonance": "Arjen wird in den vorliegenden Namensquellen überwiegend neutral bis leicht positiv dargestellt. Der Name wirkt eher selten, modern und nordisch/niederländisch geprägt, ohne erkennbare starke negative Aufladung.",
+  "practical_notes": [
+    "Für eine Namenssuche eignet sich Arjen als kurzer, markanter Name mit internationaler/nordischer Anmutung.",
+    "Wer Wert auf Vertrautheit legt, sollte beachten, dass der Name in Deutschland eher selten ist.",
+    "Die Quellenlage ist solide für Herkunft und Einordnung, aber schwach für eine echte öffentliche Stimmungsanalyse."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt fast ausschließlich aus einzelnen Vornamensseiten; das ist eher beschreibend als echte öffentliche Debatte.",
+    "Positive oder negative Wirkungen beruhen hier vor allem auf lexikalischen Einträgen und vereinzelten Kommentaren, nicht auf breiter Resonanz.",
+    "Die Wahrnehmung 'modern' oder 'ungewöhnlich' ist eine Einordnung der Quellen und keine allgemeingültige Aussage."
+  ],
+  "short_summary": "Arjen wird in den verfügbaren Quellen meist neutral bis leicht positiv beschrieben: ein seltener, modern wirkender Name mit niederländisch/friesischer Prägung. Breite öffentliche Resonanz ist in der Evidenz jedoch nur begrenzt sichtbar.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Arjen � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/A/Ar/Arjen/"
+    },
+    {
+      "confidence": 0.74,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Arjen: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Arjen.html"
+    }
+  ],
+  "style_effect": [
+    "modern",
+    "nordisch/niederländisch",
+    "selten",
+    "klar und markant",
+    "lexikalisch gut verankert"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland scheint Arjen eher selten bis mäßig verbreitet zu sein und ist öffentlich vor allem in Namenslexika und Vornamendatenbanken präsent. Eine breite diskursive Resonanz ist in der Evidenz nicht erkennbar."
+}

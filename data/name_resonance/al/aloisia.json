@@ -1,0 +1,62 @@
+{
+  "associations": [
+    "weiblicher Vorname",
+    "althochdeutsche Herkunft",
+    "Bedeutung oft als „die ganz Weise“ erklärt",
+    "alternative Deutung: „die berühmte Kriegerin“",
+    "selten in Deutschland",
+    "Namenstag am 21. Juni und teils 24. Oktober",
+    "Varianten/Spitznamen wie Luise, Lisa, Lola, Lulu"
+  ],
+  "confidence": 0.79,
+  "display_text": "Aloisia wirkt in Deutschland eher selten, klassisch und traditionell. In den Quellen überwiegt eine neutrale bis leicht positive Wahrnehmung; belastbare öffentliche Diskussionen sind jedoch nur begrenzt vorhanden.",
+  "evidence_quality": "mittel bis schwach: zwei webbasierte Namensquellen, überwiegend lexikalisch, mit wenigen subjektiven Kommentaren",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Aloisia",
+  "normalized_name": "aloisia",
+  "overall_resonance": "Eher traditionell, selten und überwiegend neutral bis leicht positiv wahrgenommen; die öffentliche Resonanz ist jedoch nur schwach belegt.",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt Aloisia eher traditionsbewusst und auffällig selten.",
+    "Die Wahrnehmung kann je nach Umfeld zwischen altmodisch, elegant und ungewohnt schwanken.",
+    "Wenn Modernität im Vordergrund steht, könnte der Name für manche sehr klassisch wirken."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt vor allem aus Namenslexika und einzelnen Kommentaren; die öffentliche Resonanz ist daher nur begrenzt belastbar.",
+    "Bewertungen sind eher persönliche Eindrücke als repräsentative Meinungen.",
+    "Keine Hinweise auf starke soziale Stigmatisierung in den vorliegenden Quellen."
+  ],
+  "short_summary": "Aloisia wird in den vorliegenden Quellen als seltener, traditioneller Mädchenname mit althochdeutscher Herkunft beschrieben. Die Resonanz wirkt überwiegend neutral bis leicht positiv, ist aber nur schwach durch öffentliche Diskussionen belegt.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Aloisia � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/A/Al/Aloisia/"
+    },
+    {
+      "confidence": 0.92,
+      "is_name_discussion": true,
+      "sentiment": "gemischt",
+      "source_type": "web",
+      "title": "&#9655; Vorname Aloisia: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Aloisia.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "traditionell",
+    "selten",
+    "weich-klangvoll",
+    "altsprachlich wirkend",
+    "eher formell"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland wirkt der Name öffentlich eher wenig präsent und wird meist in Namenslexika oder vereinzelten Kommentaren erwähnt, nicht breit diskutiert."
+}

@@ -1,0 +1,59 @@
+{
+  "associations": [
+    "Morgendämmerung",
+    "Sonnenaufgang",
+    "altenglische bzw. englische Herkunft",
+    "weiblicher Vorname",
+    "selten in Deutschland"
+  ],
+  "confidence": 0.82,
+  "display_text": "Dawn wirkt in Deutschland eher selten, aber sachlich positiv: ein englisch geprägter Name mit der bildhaften Bedeutung „Morgendämmerung“. Die verfügbare Evidenz ist vor allem lexikalisch und zeigt keine starke öffentliche Polarisierung.",
+  "evidence_quality": "mittel: zwei klare, aber überwiegend lexikalische Quellen; wenig freie öffentliche Resonanz, daher vorsichtige Einordnung nötig.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Dawn",
+  "normalized_name": "dawn",
+  "overall_resonance": "Der Vorname Dawn wird in den vorliegenden Quellen überwiegend sachlich und neutral beschrieben. In Deutschland wirkt er eher selten und dadurch auffällig, ohne dass die Evidenz auf eine starke öffentliche Wertung hindeutet.",
+  "practical_notes": [
+    "Für deutschsprachige Ohren ist Dawn verständlich, aber nicht alltäglich.",
+    "Die Bedeutung ist positiv und bildhaft, was den Namen freundlich und leicht poetisch wirken lässt.",
+    "Wegen der Seltenheit kann es gelegentlich zu Nachfragen bei Aussprache oder Schreibweise kommen."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist schwach bis mittel und kommt überwiegend aus Namensdatenbanken statt aus öffentlicher Meinungsbildung.",
+    "Keine klaren Hinweise auf negative öffentliche Stigmatisierung oder starke Polarisierung in den Quellen.",
+    "Die Wirkung des Namens hängt in Deutschland vermutlich stark vom individuellen Umfeld und Sprachgefühl ab."
+  ],
+  "short_summary": "Dawn wird in Deutschland eher selten verwendet und vor allem neutral bis positiv als englisch geprägter Name mit der Bedeutung „Morgendämmerung“ wahrgenommen.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Dawn � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/D/Da/Dawn/"
+    },
+    {
+      "confidence": 0.92,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Dawn: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Dawn.html"
+    }
+  ],
+  "style_effect": [
+    "lexikalisch",
+    "informativ",
+    "international klingend",
+    "modern-nüchtern",
+    "eher selten"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Eher geringe Sichtbarkeit in Deutschland; die verfügbare Resonanz stammt vor allem aus Namenslexika und Infoseiten, nicht aus breiter öffentlicher Diskussion."
+}

@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "arabische Herkunft",
+    "türkischer Sprachraum",
+    "Bedeutung: der Gelobte / der Lobenswerte / der Gepriesene",
+    "Vorname für Jungen",
+    "Beliebtheit in Deutschland",
+    "Namensdatenbank- und Lexikoncharakter",
+    "teils Spitznamenformen"
+  ],
+  "confidence": 0.89,
+  "display_text": "Mehmet wirkt in den Quellen überwiegend sachlich-neutral und leicht positiv: ein traditionell wahrgenommener Jungenname mit klarer Bedeutung und türkisch/arabischer Herkunft. Die Evidenz ist jedoch vor allem lexikalisch und basiert auf Namensseiten, nicht auf einer breiten öffentlichen Debatte.",
+  "evidence_quality": "Gut für Herkunft, Bedeutung und lexikalische Einordnung; schwächer für eine breite öffentliche Meinungsbildung, da fast nur Namensportale vorliegen.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Mehmet",
+  "normalized_name": "mehmet",
+  "overall_resonance": "Überwiegend sachlich-neutral mit leicht positiver Namenswirkung: Mehmet wird in den Quellen vor allem als geläufiger Vorname mit klarer Bedeutung und türkisch/arabischer Herkunft dargestellt.",
+  "practical_notes": [
+    "Für eine Namenssuche eignet sich Mehmet als klar zuordenbarer, traditionell wahrgenommener Jungenname.",
+    "Die Wirkung ist eher vertraut als modisch.",
+    "Je nach Umfeld kann die kulturelle Zuordnung stark mitschwingen, ohne dass dies negativ sein muss."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz basiert fast nur auf Namensseiten und ist daher öffentlich nur begrenzt repräsentativ.",
+    "Keine breite Debatte oder klare gesellschaftliche Stigmatisierung in der vorliegenden Evidenz erkennbar.",
+    "Einzelne Kommentare sind nicht belastbar genug, um eine allgemeine Stimmung abzuleiten."
+  ],
+  "short_summary": "Mehmet wird in den vorliegenden Quellen überwiegend neutral und informativ dargestellt, mit leicht positiver Resonanz durch Bedeutung und Tradition. Breitere öffentliche Debatten sind in der Evidenz kaum sichtbar.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Mehmet � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/M/Me/Mehmet/"
+    },
+    {
+      "confidence": 0.94,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Mehmet: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Mehmet.html"
+    }
+  ],
+  "style_effect": [
+    "informativ",
+    "klassisch-traditionell",
+    "kulturell eindeutig",
+    "freundlich-neutrale Klangwirkung"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland gut erkennbar und als Vorname präsent; die öffentliche Wahrnehmung wirkt eher namenskundlich-informativ als gesellschaftlich kontrovers."
+}

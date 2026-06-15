@@ -1,0 +1,72 @@
+{
+  "associations": [
+    "biblischer Ursprung",
+    "althebräische Herkunft",
+    "Bedeutung im Sinn von Gottesgnade / Jahwe ist gnädig",
+    "Unisex-Name",
+    "katalanische, englische und weitere Sprachformen",
+    "Namenstag",
+    "Beliebtheit/Hitlisten",
+    "gelegentliche Aussprache- oder Schreibunsicherheit"
+  ],
+  "confidence": 0.88,
+  "display_text": "Joan wirkt in Deutschland überwiegend sachlich-informativ und leicht positiv: ein internationaler, biblisch geprägter Vorname mit klarer Bedeutung, eher seltener Verwendung und gelegentlichen Rückfragen zu Aussprache oder Schreibweise.",
+  "evidence_quality": "mittel bis schwach; überwiegend lexikalische Einträge mit wenigen kommentarbasierten Hinweisen, keine breite Diskussionslage",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Joan",
+  "normalized_name": "joan",
+  "overall_resonance": "Überwiegend sachlich-informativ mit leicht positiver Tendenz. Der Name Joan wird in den Quellen vor allem als internationaler, biblisch geprägter Vorname mit klarer Bedeutung und mehreren Sprachformen beschrieben. Die öffentliche Resonanz wirkt eher nüchtern als emotional.",
+  "practical_notes": [
+    "Für Suchende wirkt Joan klar, international und bedeutungstragend.",
+    "Wer einen seltenen, aber dennoch gut einordenbaren Namen sucht, findet hier eher ein zurückhaltendes als auffälliges Profil.",
+    "Wegen der Unisex-Verwendung kann der Name je nach Region unterschiedlich wahrgenommen werden.",
+    "Die Aussprache oder Schreibweise kann gelegentlich Rückfragen auslösen."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist nur schwach bis mittelstark und stammt fast ausschließlich aus Namenslexika statt aus freier öffentlicher Diskussion.",
+    "Einige Hinweise zur Wirkung beruhen auf Nutzerkommentaren und können nicht als breite Mehrheitsmeinung gelten.",
+    "Die Aussagen zur Beliebtheit beschreiben eher Datenbank- und Ranking-Kontexte als echte öffentliche Resonanz."
+  ],
+  "short_summary": "Joan wird in Deutschland vor allem sachlich, international und leicht positiv wahrgenommen; der Name gilt als eher bekannt, aber nicht sehr häufig.",
+  "source_count": 3,
+  "sources": [
+    {
+      "confidence": 0.92,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "Vorname Joan � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/J/Jo/Joan/"
+    },
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Joan � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/J/Jo/Joan/"
+    },
+    {
+      "confidence": 0.86,
+      "is_name_discussion": true,
+      "sentiment": "mixed",
+      "source_type": "web",
+      "title": "&#9655; Vorname Joan: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Joan.html"
+    }
+  ],
+  "style_effect": [
+    "informativ",
+    "lexikalisch",
+    "international",
+    "eher modern wirkend",
+    "selten bis mäßig verbreitet",
+    "neutral-beschreibend"
+  ],
+  "usable_evidence_count": 3,
+  "visibility": "In Deutschland eher bekannt, aber nicht alltagsdominant. Die Hinweise deuten auf gewisse Wiedererkennbarkeit hin, zugleich auf eine eher seltene bzw. nicht sehr häufige Verwendung."
+}

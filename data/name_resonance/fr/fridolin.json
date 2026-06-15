@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "als Koseform von Friedrich beschrieben",
+    "Bedeutungen wie „der Friedensreiche“ oder „Friedensherrscher“",
+    "oberdeutsche bzw. althochdeutsche Herkunft",
+    "Namenstag am 6. März",
+    "Kurzformen wie Frido oder Friedo",
+    "selten bis mäßig vergeben in DE"
+  ],
+  "confidence": 0.78,
+  "display_text": "Fridolin wirkt in Deutschland überwiegend sachlich-neutral, traditionell und etwas altmodisch. Der Name ist eher selten, dadurch aber markant und gut wiedererkennbar. Inhaltlich dominieren positive Bedeutungen wie Friedensbezug und die Einordnung als alte Form von Friedrich. Die verfügbare Evidenz stammt vor allem aus Namensportalen und ist daher nur begrenzt belastbar.",
+  "evidence_quality": "Begrenzt: vor allem redaktionelle Namensseiten mit etymologischen Angaben und wenigen kommentarbasierten Resonanzelementen.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Fridolin",
+  "normalized_name": "fridolin",
+  "overall_resonance": "Überwiegend sachlich-neutral mit leichter historisch-traditioneller Färbung. Der Name wirkt in der öffentlichen Wahrnehmung eher selten, bekannt und sprachlich markant, teils auch etwas altmodisch.",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt Fridolin klar, eigenständig und traditionsnah.",
+    "Durch die Seltenheit ist der Name gut wiedererkennbar.",
+    "Die Schreibvariante Friedolin kann vereinzelt auftauchen, ist aber weniger verbreitet."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist schwach bis mittelstark, da sie fast ausschließlich aus Namensportalen stammt.",
+    "Einzelne kommentierende Eindrücke können die Wahrnehmung leicht verzerren.",
+    "Einschätzungen wie „altmodisch“ sind als Eindruck und nicht als allgemeingültige Tatsache zu verstehen."
+  ],
+  "short_summary": "Fridolin wird in Deutschland eher selten, traditionell und freundlich-sachlich wahrgenommen. Die Evidenz ist begrenzt, daher ist die Einordnung vorsichtig zu lesen.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Fridolin � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/F/Fr/Fridolin/"
+    },
+    {
+      "confidence": 0.71,
+      "is_name_discussion": true,
+      "sentiment": "mixed",
+      "source_type": "web",
+      "title": "&#9655; Vorname Fridolin: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Fridolin.html"
+    }
+  ],
+  "style_effect": [
+    "traditionell",
+    "altdeutsch",
+    "friedlich im Klang und in der Bedeutungsassoziation",
+    "originell durch Seltenheit",
+    "leicht nostalgisch"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland eher wenig verbreitet und deshalb auffällig, aber nicht unbekannt. Die öffentliche Präsenz wirkt begrenzt und vor allem namenskundlich geprägt."
+}

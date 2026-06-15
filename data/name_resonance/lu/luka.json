@@ -1,0 +1,69 @@
+{
+  "associations": [
+    "Kurzform von Lukas",
+    "altgriechische bzw. lateinische Herkunft",
+    "Bedeutungsfeld um Licht/Leuchten",
+    "Unisex-Name",
+    "in Deutschland eher als Jungenname präsent",
+    "regelmäßig bis moderat beliebt"
+  ],
+  "confidence": 0.82,
+  "display_text": "Luka wird in den vorliegenden Quellen überwiegend als moderner, kurz wirkender und international anschlussfähiger Name beschrieben. Die Resonanz ist eher positiv-sachlich, mit Assoziationen zu Licht, Klarheit und einer unaufgeregten, zeitgemäßen Wirkung. In Deutschland erscheint der Name zwar auch geschlechtsneutral lesbar, wird aber häufig eher als Jungenname eingeordnet. Wichtig: Die Evidenz stammt vor allem aus Namenslexika, daher ist die Aussage zur öffentlichen Resonanz nur vorsichtig zu verstehen.",
+  "evidence_quality": "mittel bis schwach: mehrere konsistente Namenslexika, aber kaum freie öffentliche Debatte oder unabhängige Resonanzdaten.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Luka",
+  "normalized_name": "luka",
+  "overall_resonance": "Luka wirkt in den vorliegenden Quellen überwiegend modern, freundlich und sprachlich klar; die öffentliche Rezeption ist eher positiv-sachlich als emotional aufgeladen.",
+  "practical_notes": [
+    "Für Suchmaschinen und Namenslisten wirkt Luka unkompliziert, modern und gut merkbar.",
+    "Die Schreibweise ist kurz und international verständlich.",
+    "Wer einen klar unaufgeregten, zeitgemäßen Namen sucht, findet hier eher positive als kritische Assoziationen."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz zur öffentlichen Resonanz ist indirekt, weil sie vor allem aus Namensdatenbanken stammt.",
+    "Beliebtheitsangaben können quellenbedingt positiv erscheinen und sollten nicht als allgemeines Stimmungsbild überinterpretiert werden.",
+    "Die Einordnung als geschlechtsneutral ist möglich, wird in Deutschland jedoch häufig zugunsten einer männlichen Wahrnehmung verschoben."
+  ],
+  "short_summary": "Luka wird im deutschen Kontext meist als moderner, kurzer und freundlich-sachlicher Name wahrgenommen; die Hinweise deuten auf eher positive Resonanz, sind aber vor allem datenbankbasiert.",
+  "source_count": 3,
+  "sources": [
+    {
+      "confidence": 0.94,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Luka � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/L/Lu/Luka/"
+    },
+    {
+      "confidence": 0.95,
+      "is_name_discussion": true,
+      "sentiment": "positive",
+      "source_type": "web",
+      "title": "Vorname Luka � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/L/Lu/Luka/"
+    },
+    {
+      "confidence": 0.94,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Luka: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Luka.html"
+    }
+  ],
+  "style_effect": [
+    "modern",
+    "kurz und prägnant",
+    "international anschlussfähig",
+    "sachlich-informativ",
+    "leicht jugendlich",
+    "geschlechtsneutral wahrgenommen, in DE aber eher männlich eingeordnet"
+  ],
+  "usable_evidence_count": 3,
+  "visibility": "Im deutschsprachigen Raum gut sichtbar und regelmäßig erwähnt, aber die Evidenz stammt vor allem aus Namenslexika und ist daher nur bedingt ein Bild öffentlicher Alltagsresonanz."
+}

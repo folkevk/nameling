@@ -1,0 +1,59 @@
+{
+  "associations": [
+    "lateinisch/französische Herkunft",
+    "Bedeutung im Sinne von 'der kleine Kahle' bzw. 'der Kahlköpfige'",
+    "Verwendung im englischsprachigen Raum",
+    "beliebt bzw. bekannt in Deutschland",
+    "klassisch-modern wirkender Jungenname"
+  ],
+  "confidence": 0.87,
+  "display_text": "Calvin wirkt in der öffentlichen Wahrnehmung eher modern, international und sachlich positiv begleitet. Die verfügbare Evidenz ist jedoch vor allem namenskundlich und nur begrenzt repräsentativ.",
+  "evidence_quality": "mittel bis begrenzt: zwei klare Namenslexikon-Quellen, aber kaum freie öffentliche Diskussion oder repräsentative Meinungsdaten.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Calvin",
+  "normalized_name": "calvin",
+  "overall_resonance": "Calvin wird in den vorliegenden Quellen überwiegend sachlich und eher positiv-assoziativ beschrieben. Die öffentliche Rezeption wirkt nicht stark polarisiert, sondern vor allem namenskundlich geprägt: Herkunft, Bedeutung und internationale Verbreitung stehen im Vordergrund.",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt Calvin eher international und gut einordenbar.",
+    "Die Quellenlage ist eher beschreibend als meinungsstark, daher ist die Resonanz nur vorsichtig zu interpretieren.",
+    "Spitznamen-Varianten wie Cal oder Calli werden in einzelnen Quellen genannt."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt fast ausschließlich aus Namenslexika und nicht aus breiter öffentlicher Diskussion.",
+    "Die Bedeutungsangabe kann je nach Quelle unterschiedlich formuliert sein; sie sollte nicht als soziale Bewertung verstanden werden.",
+    "Es gibt keine belastbaren Hinweise auf eine spezifische Stigmatisierung oder starke negative öffentliche Konnotation."
+  ],
+  "short_summary": "Calvin wird in Deutschland überwiegend sachlich, modern und international wahrgenommen; klare starke Negativ- oder Stigmahinweise zeigen die Quellen nicht.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Calvin � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/C/Ca/Calvin/"
+    },
+    {
+      "confidence": 0.91,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Calvin: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Calvin.html"
+    }
+  ],
+  "style_effect": [
+    "modern",
+    "international",
+    "klanglich klar",
+    "sprachlich vertraut",
+    "informativ-namenskundlich"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Der Name ist in Deutschland bekannt und sichtbar, wirkt aber eher als moderner, international geprägter Vorname. Die Evidenz deutet auf solide, aber nicht herausragend intensive öffentliche Präsenz hin."
+}

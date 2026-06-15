@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "Variante von Jan/Jannik/Johannes",
+    "Bedeutung meist im Umfeld von „Gott ist gnädig“ bzw. „Jahwe ist gnädig“",
+    "dänisch bzw. norddeutsch anmutende Koseform",
+    "Spitznamen und Schreibvarianten kommen häufig vor",
+    "wirkt alltagstauglich und freundlich"
+  ],
+  "confidence": 0.88,
+  "display_text": "Jannick wird meist sachlich-freundlich und traditionsnah eingeordnet: als Variante von Jan/Jannik mit der Bedeutung im Umfeld von „Gott ist gnädig“. Die öffentliche Sichtbarkeit kommt vor allem aus Namenslexika; belastbare breite Meinungen sind eher selten.",
+  "evidence_quality": "mittel bis gut: zwei klare Namenslexikon-Quellen, aber keine breite öffentliche Diskussionslage und keine unabhängige Meinungsvielfalt.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Jannick",
+  "normalized_name": "jannick",
+  "overall_resonance": "Überwiegend sachlich-positiv und traditionsnah: Jannick wird öffentlich meist als Variantenname mit klarer Herkunft und freundlicher, vertrauter Wirkung beschrieben.",
+  "practical_notes": [
+    "Für Suchmaschinen-Nutzer wirkt der Name leicht erklärbar und gut einordbar.",
+    "Die Schreibweise mit -ck fällt als Variante auf, bleibt aber im deutschen Namensumfeld gut lesbar.",
+    "Der Name erscheint eher als Namensvariante mit familiärer/nahbarer Wirkung als als besonders seltener Trendname."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz basiert fast ausschließlich auf einzelnen Namensseiten; das ist für eine öffentliche Resonanzkarte nur begrenzt belastbar.",
+    "Es gibt keine verlässlichen Hinweise auf breite öffentliche Kontroversen oder Stigmatisierung.",
+    "Aussagen zur Wahrnehmung sollten daher als vorsichtige Tendenzen und nicht als allgemeingültig verstanden werden."
+  ],
+  "short_summary": "Jannick wird öffentlich meist sachlich und freundlich wahrgenommen, als Variante von Jan/Jannik mit traditioneller Bedeutung und leicht norddeutscher Note. Die Datenlage ist jedoch schmal und vor allem lexikalisch.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Jannick � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/J/Ja/Jannick/"
+    },
+    {
+      "confidence": 0.94,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Jannick: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Jannick.html"
+    }
+  ],
+  "style_effect": [
+    "informativ",
+    "namenskundlich",
+    "klassisch-modern",
+    "vertraut",
+    "regional leicht norddeutsch",
+    "leicht verspielt durch Koseform-Charakter"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Die öffentliche Sichtbarkeit ist eher mittel: Der Name taucht vor allem in Namenslexika und Bedeutungseinträgen auf, weniger in breiten öffentlichen Diskussionen."
+}

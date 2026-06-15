@@ -1,0 +1,70 @@
+{
+  "associations": [
+    "walisisch/keltisch",
+    "Meer",
+    "Meeresgott",
+    "Mythologie",
+    "unklare bzw. unterschiedlich angegebene Bedeutung",
+    "Unisex-Name",
+    "beliebt in Deutschland",
+    "gegen den Strom schwimmend"
+  ],
+  "confidence": 0.89,
+  "display_text": "Dylan wirkt öffentlich überwiegend neutral bis leicht positiv: modern, international und klangvoll. Der Name wird oft mit walisisch-keltischen Bezügen, Meer/Mythologie und teils als Unisex-Name beschrieben. Die Bedeutungsangaben sind nicht ganz einheitlich, die Evidenz ist aber insgesamt solide.",
+  "evidence_quality": "Gut bis mittel: mehrere direkte Namensquellen, überwiegend sachlich-lexikalisch, teils mit gemischten Quellenanteilen und begrenzter Breite.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Dylan",
+  "normalized_name": "dylan",
+  "overall_resonance": "Überwiegend neutral bis leicht positiv. Dylan wird in der öffentlichen Namenswahrnehmung meist als modern, international und klangvoll beschrieben; zugleich ist die Bedeutung teils unklar oder unterschiedlich tradiert.",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt Dylan insgesamt unkompliziert, modern und international verständlich.",
+    "Die Schreibweise ist geläufig; der Name wird im deutschen Kontext häufig als männlich, teils auch als Unisex-Name eingeordnet.",
+    "Wenn eine klare traditionelle deutsche Namensherkunft wichtig ist, passt Dylan eher in die internationale/keltische Schiene."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Bedeutungsangaben sind in den Quellen nicht ganz einheitlich; das ist eher eine namenkundliche Unsicherheit als ein Problem des Namens.",
+    "Ein Teil der positiven Eindrücke stammt aus redaktionellen Beschreibungen und einzelnen Nutzerkommentaren, daher nur vorsichtig verallgemeinern."
+  ],
+  "short_summary": "Dylan wird in Deutschland meist neutral bis leicht positiv wahrgenommen: modern, international und klangvoll, mit keltisch-walisischen Bezügen und teils unklarer Bedeutungsüberlieferung.",
+  "source_count": 3,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Dylan � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/D/Dy/Dylan/"
+    },
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Dylan � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/D/Dy/Dylan/"
+    },
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Dylan: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Dylan.html"
+    }
+  ],
+  "style_effect": [
+    "modern",
+    "international",
+    "klangvoll",
+    "locker",
+    "zeitgemäß",
+    "leicht individuell"
+  ],
+  "usable_evidence_count": 3,
+  "visibility": "In Deutschland gut bekannt und sichtbar, teils als Unisex-Name wahrgenommen. Die Quellen erwähnen auch eine gewisse Beliebtheit, ohne dass daraus ein eindeutiger Trend für alle Altersgruppen ableitbar ist."
+}

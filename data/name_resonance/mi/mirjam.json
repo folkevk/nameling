@@ -1,0 +1,62 @@
+{
+  "associations": [
+    "hebräische/biblische Herkunft",
+    "Schwester des Mose",
+    "Prophetin",
+    "ursprüngliche Form von Maria",
+    "Namenstag",
+    "selten in Deutschland",
+    "klassischer Mädchenvorname"
+  ],
+  "confidence": 0.9,
+  "display_text": "Mirjam wirkt öffentlich meist klassisch, biblisch und zeitlos. Der Name wird in Deutschland eher selten vergeben, ist aber gut verständlich und kulturell klar eingeordnet. Die Quellenlage ist solide, die genaue Bedeutungsdeutung jedoch nicht ganz einheitlich.",
+  "evidence_quality": "gut bis mittel; mehrere einschlägige Namenslexika, aber keine breite öffentliche Diskurslage",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Mirjam",
+  "normalized_name": "mirjam",
+  "overall_resonance": "Mirjam wird öffentlich meist sachlich bis leicht positiv wahrgenommen: als klassischer, biblisch geprägter Vorname mit traditioneller Ausstrahlung und klarer kultureller Verankerung. In Deutschland wirkt der Name eher vertraut, aber nicht sehr häufig.",
+  "practical_notes": [
+    "Für Suchende wirkt Mirjam vertraut, seriös und traditionsnah.",
+    "Der Name hat eine klare kulturelle und religiöse Einordnung, ohne stark modisch zu sein.",
+    "In Deutschland ist er präsent, aber eher nicht unter den sehr häufigen Vornamen."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Bedeutungsdeutungen in der Evidenz sind nicht vollständig eindeutig und werden je nach Quelle unterschiedlich beschrieben.",
+    "Die Datenlage ist begrenzt und stützt sich vor allem auf wenige Namenslexikon-Quellen.",
+    "Keine Hinweise auf gesellschaftliche Stigmatisierung erkennbar; falls einzelne persönliche Meinungen auftauchen, sollten sie nicht verallgemeinert werden."
+  ],
+  "short_summary": "Mirjam wird überwiegend als klassischer, biblischer und eher seltenerer Vorname mit sachlich-positiver Wirkung wahrgenommen.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Mirjam � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/M/Mi/Mirjam/"
+    },
+    {
+      "confidence": 0.92,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Mirjam: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Mirjam.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "biblisch",
+    "traditionell",
+    "namenskundlich",
+    "sachlich",
+    "zeitlos"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "eher gering bis mittel"
+}

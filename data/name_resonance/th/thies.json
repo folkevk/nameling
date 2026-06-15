@@ -1,0 +1,59 @@
+{
+  "associations": [
+    "niederdeutsche Kurzform von Matthias",
+    "hebräischer/biblischer Ursprung",
+    "Bedeutung: Geschenk Gottes",
+    "vor allem in Norddeutschland verbreitet",
+    "eher selten, aber etabliert"
+  ],
+  "confidence": 0.88,
+  "display_text": "Thies gilt im deutschen Sprachraum als eher seltener, aber positiv besetzter Vorname. Er wird meist als norddeutsche Kurzform von Matthias verstanden und mit der Bedeutung „Geschenk Gottes“ verbunden. Insgesamt wirkt der Name traditionell, klar und regional verankert.",
+  "evidence_quality": "Gut bis sehr gut: zwei klare Namensquellen mit überwiegend positiver, sachlicher Beschreibung; ein Teil der sekundären Kommentare ist nur begrenzt verallgemeinerbar.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Thies",
+  "normalized_name": "thies",
+  "overall_resonance": "Überwiegend positiv und wertschätzend, dabei eher sachlich-informativ als emotional aufgeladen.",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt Thies kurz, klar und regional verankert.",
+    "Der Name klingt traditionell und norddeutsch, ohne stark modisch zu wirken.",
+    "Die Bedeutung und Herkunft werden meist positiv oder neutral beschrieben.",
+    "Keine Hinweise auf eine auffällige soziale Stigmatisierung in der vorliegenden Evidenz."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die vorhandene Evidenz ist überwiegend namenkundlich und damit solide, aber die öffentliche Resonanz wirkt eher aus Lexika und Namensportalen als aus breiter Alltagsnutzung abgeleitet.",
+    "Einzelne Community-Kommentare sind nur eingeschränkt als allgemeine Namenswahrnehmung belastbar."
+  ],
+  "short_summary": "Thies wird öffentlich meist positiv, traditionell und norddeutsch wahrgenommen: kurz, markant und mit biblisch-hebräischer Bedeutung verbunden.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "positive",
+      "source_type": "web",
+      "title": "Vorname Thies � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/T/Th/Thies/"
+    },
+    {
+      "confidence": 0.78,
+      "is_name_discussion": true,
+      "sentiment": "slightly positive",
+      "source_type": "web",
+      "title": "&#9655; Vorname Thies: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Thies.html"
+    }
+  ],
+  "style_effect": [
+    "norddeutsch",
+    "traditionell",
+    "kurz und markant",
+    "klassisch-biblisch konnotiert",
+    "freundlich-neutral"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Im deutschen Raum bekannt, mit klarer Verortung vor allem in Norddeutschland; insgesamt eher selten als häufig."
+}

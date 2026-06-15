@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "altnordische/skandinavische Herkunft",
+    "Bedeutung in Richtung 'Thors Stein' bzw. 'Steinhammer Thors'",
+    "Namenstag",
+    "Beliebtheit in Deutschland",
+    "historische Hochphase in den 1960er- und 1970er-Jahren",
+    "heute selten"
+  ],
+  "confidence": 0.94,
+  "display_text": "Torsten: öffentlich eher neutral bis leicht positiv besetzt – klassisch, nordisch, traditionsverbunden und heute eher selten.",
+  "evidence_quality": "gut: zwei klar namenskundliche Quellen, überwiegend neutral bis leicht positiv, mit konsistenter Herkunfts- und Bedeutungsangabe; begrenzte Aussagekraft zur breiten gesellschaftlichen Resonanz.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Torsten",
+  "normalized_name": "torsten",
+  "overall_resonance": "Torsten wirkt in der öffentlichen Wahrnehmung überwiegend sachlich, bodenständig und klar nordisch geprägt. Der Name wird meist neutral bis leicht positiv beschrieben, mit starkem Fokus auf Herkunft und Bedeutung statt auf modische Wirkung.",
+  "practical_notes": [
+    "Für Suchmaschinen und Namenskontexte eignet sich eine kurze Einordnung als klassisch-nordischer Jungenname.",
+    "Wer einen zeitlosen, eher traditionellen Klang sucht, findet in Torsten eine stabile, verständliche Wirkung.",
+    "Die heutige Seltenheit kann den Namen eigenständig wirken lassen, ohne stark trendy zu erscheinen."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist vor allem lexikalisch und namenskundlich; sie zeigt die öffentliche Beschreibung des Namens, aber keine breite soziale Meinungsumfrage.",
+    "Einzelne Nutzerkommentare auf einer Quelle sind nur begrenzt aussagekräftig und sollten nicht überinterpretiert werden."
+  ],
+  "short_summary": "Torsten wird öffentlich meist als klassisch-nordischer, traditionsverbundener und heute eher seltener Vorname wahrgenommen.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.99,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Torsten � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/T/To/Torsten/"
+    },
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "mixed",
+      "source_type": "web",
+      "title": "&#9655; Vorname Torsten: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Torsten.html"
+    }
+  ],
+  "style_effect": [
+    "nordisch-skandinavisch",
+    "klassisch-bodenständig",
+    "sachlich-neutral",
+    "traditionsverbunden",
+    "eher männlich-klar",
+    "heute wenig modisch"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland ist Torsten bekannt, aber heute eher selten und vor allem als Name mit stärkerer Präsenz in früheren Jahrzehnten sichtbar. Die öffentliche Resonanz ist daher eher traditionsbezogen als trendig."
+}

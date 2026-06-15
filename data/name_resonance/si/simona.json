@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "althebräische bzw. hebräische Herkunft",
+    "Bedeutung: „die Erhörte“ bzw. „Gott hat gehört“",
+    "italienische Variante",
+    "Namenstag",
+    "Kurzformen wie Simi, Mona, Moni",
+    "in Deutschland eher selten bis mäßig verbreitet"
+  ],
+  "confidence": 0.84,
+  "display_text": "Simona wirkt in den Quellen sachlich bis leicht positiv und eher klassisch-international. Der Name ist in Deutschland eher selten bis mäßig gebräuchlich und wird vor allem mit hebräischer Herkunft, der Bedeutung „die Erhörte“ sowie Namenstagen und Kurzformen wie Simi oder Mona verbunden. Eine starke öffentliche Stigmatisierung ist nicht erkennbar; die Evidenz stammt jedoch hauptsächlich aus Namenslexika, nicht aus breiten Diskussionsbeiträgen.",
+  "evidence_quality": "mittel bis gut: zwei klare Namenslexikon-Quellen mit inhaltlichen Angaben zu Herkunft, Bedeutung und Gebrauch, aber nur indirekte öffentliche Resonanz.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Simona",
+  "normalized_name": "simona",
+  "overall_resonance": "Simona wird in den vorliegenden Namensquellen überwiegend sachlich bis leicht positiv dargestellt. Der Name wirkt eher klassisch-international und ist in Deutschland eher selten bis mäßig gebräuchlich, ohne klaren Hinweis auf starke Stigmatisierung oder sehr modische Spitzenbeliebtheit.",
+  "practical_notes": [
+    "Für Suchmaschinen-Nutzer wirkt Simona vertraut und gut einordenbar, aber nicht allzu häufig.",
+    "Der Name wird in den Quellen eher positiv und kulturgeschichtlich erklärt als emotional bewertet.",
+    "Als Resonanzkarte eignet sich hier am besten eine vorsichtige Einordnung statt einer starken Trend-Aussage."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt vor allem aus Namenslexika und Informationsseiten, nicht aus breiten öffentlichen Diskussionen.",
+    "Beliebtheits- oder Stilwirkungen lassen sich daher nur vorsichtig ableiten.",
+    "Keine Hinweise auf eine gesellschaftliche Stigmatisierung des Namens in den Quellen."
+  ],
+  "short_summary": "Simona wird in den Quellen sachlich bis leicht positiv beschrieben: klassisch-international, eher selten bis mäßig verbreitet, mit hebräischer Herkunft und der Bedeutung „die Erhörte“.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.92,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Simona � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/S/Si/Simona/"
+    },
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Simona: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Simona.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "international",
+    "weiblich",
+    "namenskundlich",
+    "eher zeitlos",
+    "leicht elegant"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Mittlere Sichtbarkeit in Namenslexika und Informationsseiten; als öffentlicher Diskurs im engeren Sinn ist die Evidenz jedoch eher indirekt und damit begrenzt."
+}

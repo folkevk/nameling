@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "persische bzw. altpersische Herkunft",
+    "Bedeutungen wie \"die Süße\", \"die Angenehme\", \"die Schöne\" oder \"die Charmante\"",
+    "weiblicher Vorname",
+    "in Deutschland vergeben, aber eher selten",
+    "Schreibvariante \"Schirin\""
+  ],
+  "confidence": 0.86,
+  "display_text": "Shirin wirkt in den vorliegenden Quellen überwiegend positiv: ein weiblicher, eher seltener Vorname mit persischer bzw. altpersischer Herkunft und Bedeutungen wie „die Süße“ oder „die Angenehme“. Die öffentliche Darstellung ist vor allem sachlich-namenskundlich und leicht positiv, ohne Hinweise auf eine starke negative Aufladung.",
+  "evidence_quality": "mittel",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Shirin",
+  "normalized_name": "shirin",
+  "overall_resonance": "Überwiegend positiv und freundlich, mit klarer lexikalischer Prägung. Der Name wird in den vorliegenden Quellen vor allem als klangvoll, weiblich und bedeutungsbezogen beschrieben.",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt Shirin positiv besetzt und gut merkbar.",
+    "Die Bedeutung und Herkunft stehen in der öffentlichen Darstellung deutlich im Vordergrund.",
+    "Durch die Seltenheit kann der Name für viele als besonders und individuell wahrgenommen werden."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist begrenzt und stammt vor allem aus zwei redaktionellen Namenslexika, nicht aus einer breiten öffentlichen Debatte.",
+    "Wirkungen wie \"elegant\" oder \"exotisch\" sind interpretative Eindrücke aus den Quellen und keine objektiven Eigenschaften.",
+    "Keine Hinweise auf starke negative Stigmatisierung in den vorliegenden Quellen."
+  ],
+  "short_summary": "Shirin wird in den verfügbaren Quellen überwiegend positiv, klangvoll und bedeutungsreich beschrieben; der Name wirkt eher selten, aber etabliert und ohne erkennbare negative öffentliche Aufladung.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.88,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "Vorname Shirin � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/S/Sh/Shirin/"
+    },
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Shirin: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Shirin.html"
+    }
+  ],
+  "style_effect": [
+    "weich",
+    "melodisch",
+    "international",
+    "exotisch wirkend",
+    "elegant",
+    "namenskundlich aufgeladen"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Eher bekannt, aber nicht sehr häufig; in Deutschland offenbar präsent, jedoch eher selten."
+}

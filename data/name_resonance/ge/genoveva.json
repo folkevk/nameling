@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "germanische bzw. gallische Herleitung in Namensdeutungen",
+    "historische Legenden und Volksbuch-Bezüge",
+    "Namenstag",
+    "selten",
+    "altmodisch im neutralen Sinn",
+    "traditionsbetont"
+  ],
+  "confidence": 0.87,
+  "display_text": "Genoveva: seltener, klassischer und historisch geprägter Vorname mit eher neutral bis leicht positiver Resonanz. Die Evidenz ist vor allem namenkundlich und nur eingeschränkt als breite öffentliche Meinung belastbar.",
+  "evidence_quality": "mittel bis gut: zwei thematisch passende Namensseiten, aber kaum direkte öffentliche Nutzerresonanz; daher vorsichtige Ableitung.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Genoveva",
+  "normalized_name": "genoveva",
+  "overall_resonance": "In der öffentlichen Namenswahrnehmung wirkt Genoveva eher selten, traditionell und historisch geprägt. Die vorhandene Evidenz deutet insgesamt auf eine sachlich-neutrale bis leicht positive Resonanz hin, vor allem wegen der klassischen, traditionsreichen Anmutung.",
+  "practical_notes": [
+    "Für eine Namenssuche ist Genoveva vor allem für Menschen interessant, die einen seltenen, klassischen und geschichtlich klingenden Namen suchen.",
+    "Im Alltag dürfte der Name wegen seiner Seltenheit eher auffallen und gelegentlich erklärt werden müssen.",
+    "Die Kurzform 'Ve' wird vereinzelt als Variante genannt."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt überwiegend von Namenslexika und nicht von breiter Nutzerresonanz; die öffentliche Wahrnehmung ist daher nur eingeschränkt belastbar.",
+    "Positive oder negative Wirkungen beruhen hier eher auf Namensdeutung und Stilassoziationen als auf direkter gesellschaftlicher Bewertung.",
+    "Keine Hinweise auf eine eindeutige Stigmatisierung; falls der Name als altmodisch empfunden wird, ist das eher eine Stilwahrnehmung als ein Vorurteil."
+  ],
+  "short_summary": "Genoveva wird in Namensquellen meist als seltener, klassischer und historisch geprägter Vorname beschrieben. Die Resonanz wirkt überwiegend neutral bis leicht positiv, ist aber nur begrenzt durch direkte Nutzerstimmen belegt.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Genoveva � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/G/Ge/Genoveva/"
+    },
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Genoveva: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Genoveva.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "traditionell",
+    "historisch",
+    "eher selten",
+    "elegant-gediegen",
+    "namenkundlich auffällig"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Eher geringe Alltagspräsenz in Deutschland; der Name fällt eher durch Seltenheit und historischen Charakter auf als durch breite Verbreitung."
+}

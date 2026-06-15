@@ -1,0 +1,59 @@
+{
+  "associations": [
+    "altdeutsche Herkunft",
+    "Bedeutung: edler Wolf",
+    "frühere Verbreitung",
+    "starker Rückgang der Nutzung",
+    "NS-Bezug und Stigma",
+    "Tabu- bzw. Sensitivitätsname"
+  ],
+  "confidence": 0.97,
+  "display_text": "Adolf: namenskundlich ein alter deutscher Vorname mit der Bedeutung „edler Wolf“, öffentlich in Deutschland jedoch stark historisch belastet und deshalb meist tabuisiert bzw. kaum vergeben.",
+  "evidence_quality": "stark",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Adolf",
+  "normalized_name": "adolf",
+  "overall_resonance": "Der Vorname Adolf wird in Deutschland öffentlich sehr stark historisch belastet wahrgenommen und ist dadurch deutlich negativ konnotiert. Zugleich wird er in namenskundlichen Quellen sachlich als alter deutscher Vorname mit der Bedeutung „edler Wolf“ beschrieben.",
+  "practical_notes": [
+    "Für eine Namenssuche in Deutschland ist mit sehr geringer Vergabe und hoher Zurückhaltung zu rechnen.",
+    "Die Quellenlage ist hier recht klar: Die öffentliche Resonanz ist überwiegend negativ, aber die namenskundliche Herkunft wird sachlich beschrieben.",
+    "Keine Rückschlüsse auf Personen ziehen; es geht hier nur um die Wahrnehmung des Vornamens."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die negative Wahrnehmung beruht vor allem auf der historischen Belastung und ist als gesellschaftliche Reaktion zu verstehen, nicht als Eigenschaft des Namens an sich.",
+    "Der Name kann emotional aufgeladen wirken und in vielen Kontexten als heikel gelten."
+  ],
+  "short_summary": "Adolf ist ein historisch alter Vorname mit der Bedeutung „edler Wolf“, wird in Deutschland heute aber wegen der NS-Historie stark tabuisiert und überwiegend negativ wahrgenommen.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "ambivalent",
+      "source_type": "web",
+      "title": "Vorname Adolf � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/A/Ad/Adolf/"
+    },
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "negativ",
+      "source_type": "web",
+      "title": "&#9655; Vorname Adolf: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Adolf.html"
+    }
+  ],
+  "style_effect": [
+    "historisch belastet",
+    "tabuisiert",
+    "kaum noch vergeben",
+    "lexikalisch-namenskundlich",
+    "sachlich, aber empfindlich besetzt"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "hoch"
+}

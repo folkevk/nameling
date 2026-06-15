@@ -1,0 +1,68 @@
+{
+  "associations": [
+    "Kurzform von Jillian bzw. verwandten Formen",
+    "lateinische bzw. römische Herleitung in den Quellen",
+    "weiblich, teils auch unisex erwähnt",
+    "selten bis mittelhäufig in Deutschland",
+    "Namenstag wird genannt",
+    "eher lexikalische als kulturell aufgeladene Wahrnehmung"
+  ],
+  "confidence": 0.84,
+  "display_text": "Jill wirkt in Deutschland eher selten bis mäßig geläufig und wird überwiegend neutral bis leicht positiv wahrgenommen. Die Quellen beschreiben den Namen vor allem sachlich: kurz, modern, international klingend und teils unisex. Für eine breite öffentliche Resonanz ist die Evidenz jedoch begrenzt, da sie hauptsächlich aus Namenslexika stammt.",
+  "evidence_quality": "mittel bis gut; mehrere direkte Namensquellen, aber kaum breite öffentliche Meinungsdaten",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Jill",
+  "normalized_name": "jill",
+  "overall_resonance": "Eher neutral bis leicht positiv; der Name wird in den vorliegenden Quellen vor allem sachlich-namenkundlich beschrieben.",
+  "practical_notes": [
+    "Für die Namenssuche wirkt Jill klar, kurz und international anschlussfähig.",
+    "Im deutschen Kontext dürfte der Name eher auffallen, ohne exotisch zu wirken.",
+    "Die Schreibweise ist sehr einfach, die Aussprache kann je nach Umfeld dennoch kurz erklärt werden müssen."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist insgesamt eher lexikonlastig; daraus lässt sich nur begrenzt öffentliche Alltagsresonanz ableiten.",
+    "Keine breite Debatte oder starke gesellschaftliche Aufladung erkennbar.",
+    "Aussagen zur Beliebtheit beziehen sich auf Namensdatenbanken und sollten vorsichtig gelesen werden."
+  ],
+  "short_summary": "Jill wird in den vorliegenden deutschen Quellen vor allem neutral und sachlich beschrieben, mit leicht positiver Tendenz. Der Name gilt als eher selten bis mäßig verbreitet und wirkt kurz, modern und international.",
+  "source_count": 3,
+  "sources": [
+    {
+      "confidence": 0.94,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Jill � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/J/Ji/Jill/"
+    },
+    {
+      "confidence": 0.95,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Jill � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/J/Ji/Jill/"
+    },
+    {
+      "confidence": 0.87,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Jill: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Jill.html"
+    }
+  ],
+  "style_effect": [
+    "kurz und prägnant",
+    "englisch anmutend",
+    "modern wirkend",
+    "informell bis freundlich",
+    "teils unisex wahrgenommen"
+  ],
+  "usable_evidence_count": 3,
+  "visibility": "In Deutschland eher selten bis mäßig geläufig; die öffentliche Sichtbarkeit wirkt begrenzt und stammt hier vor allem aus Namenslexika statt aus breiter Alltagsresonanz."
+}

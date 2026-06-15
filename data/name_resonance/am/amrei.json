@@ -1,0 +1,63 @@
+{
+  "associations": [
+    "Kurz- und Koseform von Annemarie",
+    "deutsche/bayerische Namensform",
+    "Bedeutungen wie gnädig, anmutig oder liebreizend",
+    "seltener Vorname in Deutschland",
+    "Namenstag wird teils mitgeführt",
+    "Varianten wie Amrai"
+  ],
+  "confidence": 0.83,
+  "display_text": "Amrei wird meist als freundlicher, klangvoller und eher seltener Vorname wahrgenommen. Die Quellen betonen vor allem Herkunft, Bedeutung und Seltenheit; die öffentliche Resonanz wirkt insgesamt positiv bis neutral, ist aber nur indirekt belegbar.",
+  "evidence_quality": "mittel: zwei namenskundliche Webquellen mit klaren Angaben zu Herkunft, Bedeutung und Seltenheit; öffentliche Resonanz ist nur indirekt erkennbar.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Amrei",
+  "normalized_name": "amrei",
+  "overall_resonance": "Amrei wird in den vorliegenden Quellen überwiegend als freundlicher, klangvoller und eher seltener deutscher Vorname beschrieben. Die öffentliche Wahrnehmung wirkt insgesamt positiv bis neutral, mit einem eher namenkundlichen als meinungsgetriebenen Fokus.",
+  "practical_notes": [
+    "Für die Namenssuche wirkt Amrei unverwechselbar und freundlich.",
+    "Die Aussprache und Schreibweise erscheinen unkompliziert, können aber wegen der Seltenheit gelegentlich nachgefragt werden.",
+    "Der Name hat einen klaren deutschsprachigen Klang und eine traditionelle Anmutung.",
+    "Wenn ein besonders geläufiger Name gesucht wird, ist Amrei eher untypisch; wenn etwas Eigenständiges gewünscht ist, eher passend."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist stark seiten- und datengetrieben; echte öffentliche Meinungen sind nur indirekt über Beschreibungen und Seltenheitsangaben sichtbar.",
+    "Kommerzielle Namensseiten können die Wahrnehmung vereinfachen oder vereinheitlichen.",
+    "Aus der Seltenheit des Namens lässt sich keine soziale Bewertung ableiten."
+  ],
+  "short_summary": "Amrei wirkt in den Quellen freundlich, klangvoll und traditionell-deutsch, zugleich eher selten. Die öffentliche Wahrnehmung ist überwiegend positiv bis neutral, aber die Evidenz ist vor allem namenkundlich und nicht breit meinungsbasiert.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Amrei � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/A/Am/Amrei/"
+    },
+    {
+      "confidence": 0.9,
+      "is_name_discussion": true,
+      "sentiment": "mixed",
+      "source_type": "web",
+      "title": "&#9655; Vorname Amrei: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Amrei.html"
+    }
+  ],
+  "style_effect": [
+    "weiblich",
+    "weich und freundlich klingend",
+    "kurz und markant",
+    "traditionell-deutsch bzw. bairisch geprägt",
+    "eher selten und dadurch auffällig",
+    "namenskundlich aufgeladen",
+    "eher elegant als modern-influent"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Eher niedrig bis mittel: Der Name ist in Deutschland bekannt, aber deutlich nicht alltäglich und wird meist in Namenslexika, Bedeutungsseiten und Statistik-Kontexten erwähnt."
+}

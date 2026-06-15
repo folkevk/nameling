@@ -1,0 +1,63 @@
+{
+  "associations": [
+    "weiblicher Vorname",
+    "lateinische Wurzeln",
+    "altgriechische Bezüge",
+    "Bedeutung/Herkunft",
+    "Namenstag",
+    "deutsche Variante meist Monika",
+    "angenehmer Klang",
+    "bekannt, aber nicht dominant häufig"
+  ],
+  "confidence": 0.9,
+  "display_text": "Monica wirkt in Deutschland überwiegend positiv und vertraut. Der Name wird als wohlklingend, klassisch und international lesbar beschrieben; die deutsche Standardform ist allerdings meist Monika.",
+  "evidence_quality": "gut, aber vorwiegend lexikalisch und nicht repräsentativ-umfragebasiert",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Monica",
+  "normalized_name": "monica",
+  "overall_resonance": "Überwiegend positiv und informativ: Monica wird in Namenslexika als klarer, wohlklingender weiblicher Vorname mit lateinisch/altgriechischen Wurzeln beschrieben. In der öffentlichen Namensrezeption wirkt der Name eher vertraut als exotisch und wird meist neutral bis positiv eingeordnet.",
+  "practical_notes": [
+    "Für Deutschland ist Monica verständlich, aber orthografisch weniger Standard als Monika.",
+    "Der Name eignet sich gut, wenn ein vertrauter, international lesbarer Vorname gewünscht ist.",
+    "Die Wahrnehmung ist eher sachlich-positiv als trendig oder polarisierend."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt vor allem aus Namenslexika und teils aus subjektiven Nutzerkommentaren; sie zeigt Rezeption, aber keine repräsentative Meinungsumfrage.",
+    "Die übliche deutsche Schreibweise wird häufig als Monika angegeben; Monica kann daher in Deutschland etwas markierter oder internationaler wirken."
+  ],
+  "short_summary": "Monica wird in Deutschland meist neutral bis positiv wahrgenommen: ein klarer, wohlklingender Vorname mit klassischer, internationaler Note. Die Schreibweise Monika ist hier gebräuchlicher.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.99,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Monica � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/M/Mo/Monica/"
+    },
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Monica: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Monica.html"
+    }
+  ],
+  "style_effect": [
+    "wohlklingend",
+    "klassisch",
+    "klar",
+    "international",
+    "leicht vertraut",
+    "nicht allzu exotisch",
+    "lexikalisch geprägt"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Mittel: Der Name ist bekannt und in Deutschland nachvollziehbar einzuordnen, wirkt aber in der deutschen Schreibweise Monika gebräuchlicher als Monica."
+}

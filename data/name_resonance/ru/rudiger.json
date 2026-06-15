@@ -1,0 +1,52 @@
+{
+  "associations": [
+    "altdeutscher zweigliedriger Name",
+    "Bedeutung: ruhmreicher Speerkämpfer",
+    "Namenstag am 1. und 16. März",
+    "Bezug zum Nibelungenlied",
+    "Kurzformen wie Rüdi oder Rudi"
+  ],
+  "confidence": 0.74,
+  "display_text": "Rüdiger wirkt als traditioneller, historisch geprägter deutscher Vorname. Die öffentliche Rezeption ist in der vorliegenden Evidenz eher schmal und vor allem über Herkunft, Bedeutung und kulturelle Bezüge sichtbar.",
+  "evidence_quality": "eher schwach bis mittel: inhaltlich klar, aber auf eine einzelne namenskundliche Webquelle begrenzt; öffentliche Resonanz nur indirekt ableitbar.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Rüdiger",
+  "normalized_name": "rudiger",
+  "overall_resonance": "Rüdiger wirkt öffentlich vor allem als traditioneller, klar deutschsprachig wahrgenommener Vorname mit historisch-klassischer Anmutung. Die verfügbare Evidenz deutet eher auf Herkunfts- und Bedeutungsinteresse als auf eine breite, aktuelle Alltagsrezeption hin.",
+  "practical_notes": [
+    "Für Suchmaschinen- oder Kontextanzeigen eignet sich eine Beschreibung wie: traditionell, deutsch, historisch geprägt.",
+    "Wenn ein neutraler Ton gewünscht ist, sollte der kulturelle/historische Bezug betont werden statt moderner Trendwirkung.",
+    "Die Quelle liefert gute Hinweise zu Herkunft und Bedeutung, aber keine breite öffentliche Meinungsbasis."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die öffentliche Resonanz ist nur schwach belegt, da die Evidenz im Wesentlichen auf einer einzelnen Namenslexikonquelle beruht.",
+    "Es gibt keinen belastbaren Hinweis auf verbreitete soziale Stigmatisierung in der vorliegenden Evidenz.",
+    "Allgemeine Assoziationen sollten nicht als feste Eigenschaften von Namensträgern verstanden werden."
+  ],
+  "short_summary": "Rüdiger wird eher traditionell und historisch wahrgenommen, mit klarer deutschsprachiger Prägung. Die Evidenz zur öffentlichen Rezeption ist jedoch dünn und stützt sich vor allem auf eine Namenslexikonquelle.",
+  "source_count": 1,
+  "sources": [
+    {
+      "confidence": 0.89,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Rüdiger: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,R%C3%BCdiger.html"
+    }
+  ],
+  "style_effect": [
+    "traditionell",
+    "altdeutsch",
+    "klassisch",
+    "historisch",
+    "eher formell",
+    "markant im Klang"
+  ],
+  "usable_evidence_count": 1,
+  "visibility": "Die öffentliche Sichtbarkeit scheint eher begrenzt und vor allem über Namenslexika, Herkunftserklärungen und kulturelle Bezüge präsent zu sein. Für eine starke, breit gestützte Alltagswahrnehmung ist die Evidenz zu dünn."
+}

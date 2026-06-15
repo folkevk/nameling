@@ -1,0 +1,59 @@
+{
+  "associations": [
+    "altnordische Herkunft",
+    "Bedeutung: junger Mann / Jüngling / junger Krieger",
+    "Variante von Sven",
+    "männlicher Vorname",
+    "selten in Deutschland",
+    "Namenstag am 4. September"
+  ],
+  "confidence": 0.79,
+  "display_text": "Swen wirkt überwiegend sachlich-neutral bis leicht positiv: ein kurzer, maskuliner Name mit altnordischer Prägung, meist als seltene Variante von Sven eingeordnet. Die vorliegende Evidenz ist jedoch begrenzt und stammt vor allem aus Namenslexikon-Seiten.",
+  "evidence_quality": "Begrenzt: zwei namenskundliche Webquellen, überwiegend sachlich-informativ, keine breite öffentliche Resonanz sichtbar.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Swen",
+  "normalized_name": "swen",
+  "overall_resonance": "Überwiegend sachlich-neutral mit leicht positiver Färbung. Der Name wird vor allem als seltene, nordisch geprägte Variante von Sven beschrieben.",
+  "practical_notes": [
+    "Für Suchende ist die Schreibweise klar, aber die Variante zu Sven wird oft mitgedacht.",
+    "Der Name wirkt vertraut, aber deutlich seltener als Sven.",
+    "Aufgrund der Seltenheit kann er als individuell wahrgenommen werden."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist schwach und stammt fast nur aus Namenslexikon-/SEO-Seiten, nicht aus freier öffentlicher Diskussion.",
+    "Beliebtheits- und Stilwirkungen sollten daher nur vorsichtig interpretiert werden.",
+    "Keine belastbaren Hinweise auf soziale Stigmatisierung in den vorliegenden Quellen."
+  ],
+  "short_summary": "Swen wird in den vorliegenden Quellen als seltene, altnordisch geprägte Variante von Sven beschrieben – sachlich, klar und leicht positiv, aber mit schwacher Evidenz.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Swen � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/S/Sw/Swen/"
+    },
+    {
+      "confidence": 0.86,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Swen: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Swen.html"
+    }
+  ],
+  "style_effect": [
+    "klingt kurz, klar und maskulin",
+    "wirkt traditionell-nordisch",
+    "als Schreibvariante von Sven leicht erklärungsbedürftig",
+    "selten, daher weniger mainstream als die Standardform"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Eher geringe bis mittlere Sichtbarkeit in Deutschland; in den Quellen wird Swen als seltene Schreibvariante bzw. eher unauffälliger Vorname eingeordnet."
+}

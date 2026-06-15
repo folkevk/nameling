@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "spanische und portugiesische Form von Noëlle",
+    "Bedeutung: an Weihnachten geboren",
+    "lateinische/altfranzösische Wurzeln",
+    "weiblicher Vorname",
+    "Namenstag am 24. Dezember",
+    "in Deutschland als relativ populär beschrieben"
+  ],
+  "confidence": 0.84,
+  "display_text": "Noelia klingt in den vorliegenden Quellen freundlich, weich und international. Der Name wird meist als spanisch/portugiesische Form mit der Bedeutung „an Weihnachten geboren“ beschrieben. Für Deutschland wirkt er vertraut, aber nicht alltäglich. Die Evidenz ist dabei eher namenskundlich als breit gesellschaftlich.",
+  "evidence_quality": "mittel bis gut; thematisch passend, aber überwiegend sekundäre Namenslexika statt offener öffentlicher Diskussion",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Noelia",
+  "normalized_name": "noelia",
+  "overall_resonance": "Noelia wird in den vorliegenden Quellen überwiegend freundlich und klanglich positiv wahrgenommen. Der Name wirkt international, weich und feminin, mit klarer Anbindung an spanisch/portugiesische Namensformen und der Bedeutung „an Weihnachten geboren“.",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt Noelia in Deutschland vertraut, aber nicht alltäglich.",
+    "Die Aussprache ist meist naheliegend, kann aber je nach Umfeld nachgefragt werden.",
+    "Der Weihnachtsbezug kann als stimmige, freundliche Bedeutung wahrgenommen werden."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist begrenzt und stammt hauptsächlich aus Namensseiten mit Eigenbeschreibung.",
+    "Keine belastbare öffentliche Mehrheitsmeinung, sondern vor allem lexikalische Einordnungen.",
+    "Einzelne positive Klangurteile sollten nicht als allgemeingültige gesellschaftliche Bewertung gelesen werden."
+  ],
+  "short_summary": "Noelia wird überwiegend positiv, weich und international wahrgenommen. Die Quellen betonen Herkunft, Klang und den Bezug zu Weihnachten, bei begrenzter öffentlicher Breiten-Evidenz.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "Vorname Noelia � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/N/No/Noelia/"
+    },
+    {
+      "confidence": 0.89,
+      "is_name_discussion": true,
+      "sentiment": "positive",
+      "source_type": "web",
+      "title": "&#9655; Vorname Noelia: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Noelia.html"
+    }
+  ],
+  "style_effect": [
+    "weich und melodisch",
+    "international/südlich geprägt",
+    "modern-wohlklingend",
+    "eher selten bis moderat bekannt",
+    "klassisch durch Bedeutungsbezug zu Weihnachten"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Eher gut sichtbar, aber die Evidenz stammt vor allem aus Namenslexika und nicht aus einer breiten öffentlichen Debatte in Deutschland."
+}

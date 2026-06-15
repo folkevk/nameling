@@ -1,0 +1,59 @@
+{
+  "associations": [
+    "keltische bzw. teils auch lateinisch beschriebene Herkunft",
+    "Bedeutungen rund um „der Traurige“ und teils „der Laute“",
+    "mittelalterliche Sage Tristan und Isolde",
+    "Opern- und Literaturbezug",
+    "Namenslexikon- und Herkunftswissen"
+  ],
+  "confidence": 0.78,
+  "display_text": "Tristan wird in Deutschland meist neutral bis leicht positiv wahrgenommen. Der Name wirkt klassisch, literarisch und kulturell bekannt, vor allem durch die Sage Tristan und Isolde. Die vorhandene Evidenz ist allerdings überwiegend namenskundlich und daher nur eingeschränkt aussagekräftig für die echte öffentliche Resonanz.",
+  "evidence_quality": "mittel bis schwach: mehrere informative Namensseiten mit klaren Namensangaben, aber wenig echte Diskussions- oder Alltagsresonanz",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Tristan",
+  "normalized_name": "tristan",
+  "overall_resonance": "Tristan wirkt in der öffentlichen Wahrnehmung überwiegend neutral bis leicht positiv. Der Name ist bekannt, kulturell anschlussfähig und wird vor allem mit Herkunft, Bedeutung und der Tristan-und-Isolde-Tradition verbunden. Die Evidenz ist jedoch eher namenskundlich als diskussionsbasiert, daher ist die Aussagekraft zur echten öffentlichen Resonanz begrenzt.",
+  "practical_notes": [
+    "Für eine Namenssuche ist Tristan ein gut anschlussfähiger, kulturell verankerter Name.",
+    "Die Wirkung wird eher von Literatur- und Sage-Bezügen als von aktuellen Trends geprägt.",
+    "Da die Datenlage vor allem informativ ist, sollte die öffentliche Resonanz vorsichtig interpretiert werden."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt überwiegend aus Namenslexika und nicht aus echter öffentlicher Diskussion.",
+    "Die Bedeutungsangaben variieren je nach Quelle leicht, daher sollte keine Deutung als eindeutig gelten.",
+    "Es gibt keinen klaren Hinweis auf negative gesellschaftliche Stigmatisierung des Namens in den vorliegenden Quellen."
+  ],
+  "short_summary": "Tristan ist in Deutschland ein bekannter, kulturell aufgeladener Vorname mit überwiegend neutral bis leicht positiver Resonanz. Die öffentliche Wahrnehmung wirkt eher klassisch und literarisch, bei begrenzter Evidenz aus echten Diskussionen.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Tristan � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/T/Tr/Tristan/"
+    },
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Tristan: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Tristan.html"
+    }
+  ],
+  "style_effect": [
+    "klingt klassisch und literarisch",
+    "wirkt gebildet und kulturbezogen",
+    "hat einen leicht romantisch-mythologischen Klang",
+    "erscheint eher zeitlos als modisch",
+    "kann durch die Sage Tristan und Isolde wiedererkannt werden"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland ist Tristan als Vorname relativ bekannt und sichtbar, ohne als besonders auffällig oder stark trendgetrieben zu erscheinen."
+}

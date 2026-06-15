@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "Bedeutung rund um Adel/Edelkeit",
+    "deutsche bzw. altdeutsche Namenswirkung",
+    "französisch anmutende Variante",
+    "Kurzform von Adelheid bzw. Adel-Namen",
+    "Namenstag",
+    "selten bis moderat verbreitet"
+  ],
+  "confidence": 0.91,
+  "display_text": "Adele wirkt in Deutschland überwiegend positiv, klassisch und elegant. Der Name ist bekannt, aber eher selten bis moderat verbreitet, und wird häufig mit Bedeutung, Edelkeit und einer harmonischen Klangwirkung verbunden.",
+  "evidence_quality": "gut: zwei einschlägige deutschsprachige Namensquellen mit klarer Namensdiskussion und überwiegend positiver Tonlage",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Adele",
+  "normalized_name": "adele",
+  "overall_resonance": "Überwiegend positiv und gepflegt, mit eher klassisch-eleganter Wirkung.",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt Adele zeitlos und gut aussprechbar.",
+    "Der Name vermittelt eher Tradition als Modetrend.",
+    "Die positive Resonanz hängt stark an der Bedeutungsassoziation 'edel/vornehm'."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die öffentliche Wahrnehmung beruht hier vor allem auf Namensportalen und Kommentaren, nicht auf einer breiten repräsentativen Umfrage.",
+    "Einzelne Einschätzungen sind subjektiv; daraus lässt sich keine allgemeine Bevölkerungsmeinung ableiten."
+  ],
+  "short_summary": "Adele wird in deutschen Namensquellen meist positiv, klassisch und elegant wahrgenommen. Der Name ist bekannt, aber eher nicht massenhaft verbreitet und wird oft mit 'edel' oder 'vornehm' verbunden.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "Vorname Adele � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/A/Ad/Adele/"
+    },
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Adele: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Adele.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "elegant",
+    "edel",
+    "vornehm",
+    "harmonisch klingend",
+    "namenskundlich klar lesbar"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland bekannt, aber eher nicht allgegenwärtig; wirkt eher stilbewusst als trendig."
+}

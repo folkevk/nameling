@@ -1,0 +1,59 @@
+{
+  "associations": [
+    "irische Form bzw. Variante von John/Johannes",
+    "Bedeutung: „Jahwe ist gnädig“",
+    "internationaler Klang",
+    "kurze, klare Schreibweise",
+    "in Deutschland als übernommener Vorname wahrgenommen"
+  ],
+  "confidence": 0.88,
+  "display_text": "Sean wirkt in Deutschland vor allem modern, international und freundlich-klar. Die Rezeption ist eher neutral bis leicht positiv und konzentriert sich auf Herkunft, Bedeutung und den schlichten, vertrauten Klang des Namens.",
+  "evidence_quality": "mittel bis gut: zwei einschlägige Namensquellen mit konsistenter Herkunfts- und Bedeutungsbeschreibung, aber begrenzte Breite der öffentlichen Evidenz.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Sean",
+  "normalized_name": "sean",
+  "overall_resonance": "Sean wird in der deutschen Namenswahrnehmung überwiegend als moderner, internationaler und eher freundlich-klar klingender Vorname beschrieben. Die öffentliche Rezeption wirkt insgesamt neutral bis leicht positiv, mit Fokus auf Herkunft und Bedeutung statt auf starke kulturelle Zuschreibungen.",
+  "practical_notes": [
+    "Für Suchende wirkt Sean meist unkompliziert und gut merkbar.",
+    "Die Aussprache und Schreibweise sind im deutschen Sprachraum grundsätzlich vertraut, können aber je nach Kontext kurz erklärt werden.",
+    "Wer einen international anschlussfähigen Vornamen sucht, findet hier einen eher schlichten, zeitlosen Eindruck."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt überwiegend aus Namenslexika und einer einzelnen Namensseite; die öffentliche Breite ist daher nur eingeschränkt belegt.",
+    "Es gibt keine belastbaren Hinweise auf soziale Stigmatisierung oder negative Namensurteile in der vorliegenden Evidenz.",
+    "Beliebtheitsangaben sollten vorsichtig gelesen werden, da sie je nach Quelle und Jahrgang variieren können."
+  ],
+  "short_summary": "Sean wird in Deutschland überwiegend neutral bis leicht positiv wahrgenommen: kurz, international, modern und mit klarer namenskundlicher Herkunft.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Sean � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/S/Se/Sean/"
+    },
+    {
+      "confidence": 0.91,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Sean: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Sean.html"
+    }
+  ],
+  "style_effect": [
+    "kurz und prägnant",
+    "international und vertraut klingend",
+    "modern, aber nicht trendig-extrem",
+    "namenskundlich gut einordbar",
+    "eher sachlich als verspielt"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland ist der Name bekannt, aber nicht extrem häufig. Er erscheint vor allem in Namenslexika und Vornamensdatenbanken, also eher als geläufiger internationaler Name mit moderner Wirkung."
+}

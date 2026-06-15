@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "der Franke",
+    "frei / tapfer",
+    "althochdeutsch / germanisch",
+    "Namenstag am 4. Oktober",
+    "kurze deutsche Form",
+    "historisch in Deutschland stärker verbreitet",
+    "heute eher selten"
+  ],
+  "confidence": 0.93,
+  "display_text": "Frank wirkt in Deutschland eher klassisch und traditionsreich. Der Name wird vor allem mit „der Franke“, „frei/tapfer“ und einem kurzen, klaren Klang verbunden; heute erscheint er eher seltener, aber gut bekannt.",
+  "evidence_quality": "gut: zwei klare namenskundliche Webquellen mit hoher inhaltlicher Übereinstimmung; keine belastbaren Hinweise auf negative öffentliche Konnotationen in der Evidenz.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Frank",
+  "normalized_name": "frank",
+  "overall_resonance": "Überwiegend neutral bis positiv: Frank wirkt im öffentlichen Namensbild klassisch, klar und traditionsreich. Die vorhandene Evidenz verbindet den Namen vor allem mit deutscher Namenskunde, kurzer Form und einer eher traditionellen, heute selteneren Verwendung.",
+  "practical_notes": [
+    "Für Suchmaschinen-Nutzer vermittelt Frank einen vertrauten, leicht einzuordnenden Eindruck.",
+    "Der Name eignet sich besonders, wenn ein kurzer, traditioneller und unaufgeregter Vorname gesucht wird.",
+    "Die heutige Seltenheit kann den Namen etwas markanter wirken lassen, ohne exotisch zu sein."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Quellenlage ist gut, aber vor allem namenkundlich-informativ und nicht als breite öffentliche Meinungsumfrage zu lesen.",
+    "Einzelne Angaben in aggregierten Namensportalen können redaktionell vereinfacht sein.",
+    "Keine Hinweise auf soziale Stigmatisierung in der Evidenz."
+  ],
+  "short_summary": "Frank wird in der öffentlichen Namenswahrnehmung meist als klassisch, kurz und traditionsreich beschrieben, mit neutral bis leicht positiver Wirkung und eher seltener heutiger Verwendung in Deutschland.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Frank � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/F/Fr/Frank/"
+    },
+    {
+      "confidence": 0.9,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Frank: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Frank.html"
+    }
+  ],
+  "style_effect": [
+    "kurz und unkompliziert",
+    "klassisch-traditionell",
+    "männlich und sachlich wirkend",
+    "namenskundlich gut verankert",
+    "eher zeitlos als modisch"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland ist der Name bekannt, wirkt aber nach der Evidenz heute eher weniger verbreitet als früher. Dadurch hat er eher Wiedererkennungswert als Trendcharakter."
+}

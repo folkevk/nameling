@@ -1,0 +1,63 @@
+{
+  "associations": [
+    "altgriechische und römische Mythologie",
+    "trojanischer Held",
+    "lateinische Form",
+    "Bedeutung im Sinn von Lob/Ruhm",
+    "Sohn der Göttin Venus",
+    "Stammvater der Römer",
+    "Namenstag als zusätzlicher Traditionsbezug"
+  ],
+  "confidence": 0.82,
+  "display_text": "Aeneas wirkt in Deutschland überwiegend positiv, klassisch und mythologisch geprägt. Der Name ist eher selten, markant und kulturhistorisch aufgeladen. Die vorliegende Evidenz ist jedoch vor allem lexikalisch und daher nur begrenzt repräsentativ für breite öffentliche Meinungen.",
+  "evidence_quality": "mittel bis eher schwach: zwei passende Namenslexikon-Quellen, aber kaum echte öffentliche Breitenresonanz.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Aeneas",
+  "normalized_name": "aeneas",
+  "overall_resonance": "Überwiegend positiv und eher kultiviert-mythologisch wahrgenommen, mit klarer historischer bzw. literarischer Aufladung. Die öffentliche Rezeption wirkt in den vorliegenden Quellen vor allem wertschätzend, aber nicht sehr breit belegt.",
+  "practical_notes": [
+    "Der Name wirkt deutlich, traditionsreich und ungewöhnlich.",
+    "Für Menschen, die einen klassischen oder mythologisch geprägten Namen suchen, dürfte Aeneas attraktiv erscheinen.",
+    "Wegen der Seltenheit kann der Name erklärungsbedürftig sein, bleibt aber gut einprägsam."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt vor allem aus Namenslexika und nicht aus breiter spontaner öffentlicher Diskussion.",
+    "Die positive Tendenz beruht eher auf Bedeutungs- und Herkunftsbeschreibungen als auf starken Meinungsäußerungen.",
+    "Zur tatsächlichen Alltagsresonanz in Deutschland ist die Datenlage begrenzt."
+  ],
+  "short_summary": "Aeneas wird öffentlich vor allem als klassischer, mythologisch aufgeladener und eher positiver Name wahrgenommen; in Deutschland ist er eher selten und die Evidenz ist begrenzt.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "Vorname Aeneas � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/A/Ae/Aeneas/"
+    },
+    {
+      "confidence": 0.89,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Aeneas: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Aeneas.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "antikisierend",
+    "gehoben",
+    "bildungssprachlich",
+    "mythologisch",
+    "selten",
+    "markant"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland eher selten bis mäßig gebräuchlich und dadurch auffällig, ohne nach den vorliegenden Hinweisen stark polarisiert zu sein."
+}

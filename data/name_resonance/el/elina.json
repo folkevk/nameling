@@ -1,0 +1,62 @@
+{
+  "associations": [
+    "skandinavische und baltische Anmutung",
+    "altgriechische Herkunftsdeutungen",
+    "Bedeutungen wie „die Leuchtende“ oder „die Strahlende“",
+    "weiblicher Vorname",
+    "Beliebtheit in Deutschland",
+    "Namenslexikon- und Bedeutungskontext"
+  ],
+  "confidence": 0.93,
+  "display_text": "Elina wirkt in Deutschland überwiegend positiv: klangvoll, weich und modern, mit Assoziationen an „Leuchtkraft“ und skandinavisch-baltische Herkunft. Die Evidenz stammt vor allem aus Namenslexika, daher ist die öffentliche Alltagsresonanz nur begrenzt direkt belegbar.",
+  "evidence_quality": "hoch für die namenskundliche Einordnung, aber begrenzt für echte öffentliche Alltagsresonanz, da vor allem beschreibende Quellen vorliegen.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Elina",
+  "normalized_name": "elina",
+  "overall_resonance": "Überwiegend positiv und freundlich gerahmt. Elina wird in deutschsprachigen Namensquellen meist als klangvoller, moderner und international anschlussfähiger Mädchenname dargestellt, mit eher weichen, hellen Assoziationen.",
+  "practical_notes": [
+    "Als Name wirkt Elina im deutschen Kontext meist unkompliziert und gut verständlich.",
+    "Die Schreibweise ist klar, die Aussprache dürfte für viele intuitiv sein.",
+    "Die Quellenlage spricht eher für eine stabile, moderne Namenswirkung als für starke kulturelle Zuspitzungen."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt fast nur aus Namensdatenbanken und Lexikonartikeln, nicht aus breiter öffentlicher Debatte.",
+    "Die positiven Deutungen der Bedeutung können die Wahrnehmung etwas stärker in eine freundliche Richtung rahmen.",
+    "Keine Hinweise auf soziale Stigmatisierung oder negative öffentliche Konnotationen in den vorliegenden Quellen."
+  ],
+  "short_summary": "Elina wird in deutschen Namensquellen überwiegend positiv, modern und klangvoll wahrgenommen. Die verfügbare Evidenz ist jedoch vor allem lexikalisch und wenig alltagsdiskursiv.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.94,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Elina � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/E/El/Elina/"
+    },
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Elina: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Elina.html"
+    }
+  ],
+  "style_effect": [
+    "klangvoll",
+    "weich",
+    "modern",
+    "international",
+    "elegant",
+    "hell/strahlend",
+    "namenskundlich vertraut"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland öffentlich gut auffindbar und präsent, vor allem in Namenslexika und Beliebtheitskontexten. Die Wahrnehmung wirkt eher beschreibend-positiv als kontrovers."
+}

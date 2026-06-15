@@ -1,0 +1,62 @@
+{
+  "associations": [
+    "altdeutsche Herkunft",
+    "Bedeutung in Richtung Kampf/Heer",
+    "männlicher Vorname",
+    "selten in Deutschland",
+    "Nibelungenlied",
+    "Namenstag",
+    "zweigliedriger Name"
+  ],
+  "confidence": 0.84,
+  "display_text": "Gunther wird öffentlich vor allem sachlich und traditionell wahrgenommen: klassisch, altdeutsch und eher selten. Die verfügbare Evidenz ist jedoch schmal und stammt fast nur aus Namenslexika, nicht aus breiter öffentlicher Debatte.",
+  "evidence_quality": "Begrenzt: zwei einschlägige Namensseiten, informativ und konsistent, aber ohne echte öffentliche Resonanzdaten oder Kommentarbreite.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Gunther",
+  "normalized_name": "gunther",
+  "overall_resonance": "Überwiegend sachlich-neutral mit leicht traditionell-positiver Färbung. Der Name wird vor allem als altdeutsch, klassisch und historisch eingeordnet; eine breite öffentliche Debatte ist in der vorliegenden Evidenz nicht erkennbar.",
+  "practical_notes": [
+    "Für Namenssuchmaschinen gut als traditionsreicher, historisch klingender Vorname einzuordnen.",
+    "Die Schreibweise ist bekannt, aber nicht besonders häufig.",
+    "Kurzformen und Varianten können die Wahrnehmung lockern, wenn ein modernerer Klang gewünscht ist."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist begrenzt und stammt fast ausschließlich aus Namensdatenbanken.",
+    "Es gibt keine belastbare öffentliche Debatte, daher sollten Eindrücke nicht überinterpretiert werden.",
+    "Die wahrgenommene Wirkung kann je nach Umfeld als klassisch oder etwas altmodisch gelesen werden."
+  ],
+  "short_summary": "Gunther wirkt in der vorliegenden Evidenz sachlich, klassisch und leicht positiv traditionell. Der Name ist eher selten und vor allem über Herkunft, Bedeutung und Namenskunde präsent.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.91,
+      "is_name_discussion": true,
+      "sentiment": "leicht neutral bis leicht positiv",
+      "source_type": "web",
+      "title": "Vorname Gunther � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/G/Gu/Gunther/"
+    },
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Gunther: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Gunther.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "traditionsbezogen",
+    "historisch",
+    "altdeutsch",
+    "lexikalisch-informativ",
+    "selten/ungewöhnlich"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Eher gering bis mäßig sichtbar: Der Name erscheint in Namenslexika und Datenbankseiten, aber es gibt kaum Hinweise auf echte öffentliche Diskussion oder starke Meinungsbilder."
+}

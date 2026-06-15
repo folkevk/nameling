@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "französische Form von Stella",
+    "Bedeutung: der Stern",
+    "lateinischer Ursprung",
+    "christlicher Bezug: Stella maris",
+    "Hoffnung und Lichtsymbolik",
+    "selten in Deutschland",
+    "Namenstag/namenskundliches Interesse"
+  ],
+  "confidence": 0.8,
+  "display_text": "Estelle wirkt in Deutschland selten, elegant und französisch geprägt. Öffentliche Quellen verbinden den Namen vor allem mit der Bedeutung „Stern“, mit Hoffnung und einer stilvollen, feinen Klangwirkung. Die Rezeption ist eher positiv, allerdings basiert sie nur auf begrenzter namenskundlicher Evidenz.",
+  "evidence_quality": "mittel bis eher schwach: zwei namenskundliche Webquellen, teils kommentarbasiert, mit klarer Namensbezugnahme, aber ohne breite empirische Öffentlichkeitserhebung.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Estelle",
+  "normalized_name": "estelle",
+  "overall_resonance": "Estelle wird im deutschsprachigen Raum eher als eleganter, französisch klingender und eher seltener Vorname wahrgenommen. Die öffentliche Rezeption ist überwiegend neutral bis positiv, mit klaren Bezügen zu Stern-Symbolik, Herkunft und einem eher feinen, stilvollen Klang.",
+  "practical_notes": [
+    "Für Suchmaschinen-Nutzung sollte der Name als selten, elegant und französisch geprägt beschrieben werden.",
+    "Die Bedeutungsebene ist ein zentraler Resonanzpunkt und wird mehrfach genannt.",
+    "Eine vorsichtige Formulierung ist sinnvoll, da die Quellenlage nicht breit repräsentativ ist."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist insgesamt eher schwach bis mittelstark und stützt sich vor allem auf Namenslexika statt auf breite öffentliche Wahrnehmung.",
+    "Einzelne positive Einschätzungen aus Kommentaren sollten nicht als allgemeine Meinung über den Namen verstanden werden.",
+    "Es liegen keine Hinweise auf eine soziale Stigmatisierung oder negative Standardassoziationen vor."
+  ],
+  "short_summary": "Estelle wird in Deutschland meist als seltener, eleganter und französisch klingender Vorname mit Stern-Bedeutung wahrgenommen; die Rezeption ist eher positiv, aber die Evidenz ist begrenzt.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Estelle � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/E/Es/Estelle/"
+    },
+    {
+      "confidence": 0.82,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Estelle: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Estelle.html"
+    }
+  ],
+  "style_effect": [
+    "französisch und klangvoll",
+    "elegant und eher fein",
+    "modern wirkend, aber nicht modisch überzeichnet",
+    "selten genug für einen individuellen Eindruck",
+    "assoziiert mit Stern-Bedeutung und Symbolik"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland wirkt der Name relativ selten und dadurch eher auffällig als alltäglich. Die Sichtbarkeit in Namensportalen ist vorhanden, aber die Evidenzlage ist begrenzt und vor allem auf namenskundliche Quellen gestützt."
+}

@@ -1,0 +1,58 @@
+{
+  "associations": [
+    "Bedeutung wird oft mit „ruhmreich“, „glänzend“ oder „strahlend“ verbunden",
+    "Herkunft als Form von Robert bzw. als italienische/spanische/portugiesische Variante",
+    "Namenstag wird in Quellen genannt",
+    "Spitznamen wie Robi, Berto oder Robby kommen vor"
+  ],
+  "confidence": 0.87,
+  "display_text": "Roberto wird in Deutschland meist als klassischer, internationaler Jungenname mit eher leichter, sachlich-positiver Resonanz wahrgenommen. Quellen verbinden ihn vor allem mit Bedeutungen wie „ruhmreich“ oder „glänzend“ und ordnen ihn als italienisch/spanisch/portugiesische Form von Robert ein. Die Evidenz ist solide, aber vor allem lexikalisch; Aussagen zur Alltagsresonanz bleiben daher vorsichtig zu lesen.",
+  "evidence_quality": "mittel bis gut; klar namebezogene Quellen, aber überwiegend lexikalisch und nicht aus breiter Alltagsbeobachtung",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Roberto",
+  "normalized_name": "roberto",
+  "overall_resonance": "Roberto wird in deutschsprachigen Namensquellen überwiegend sachlich bis leicht positiv wahrgenommen: ein klassisch-männlicher Vorname mit internationaler, vor allem italienisch/spanisch/portugiesischer Prägung. Die öffentliche Rezeption wirkt eher namenskundlich-informativ als emotional aufgeladen.",
+  "practical_notes": [
+    "Für Suchmaschinen eignet sich eine neutrale Einordnung als internationaler, traditioneller Jungenname.",
+    "Die Wirkung dürfte je nach Umfeld etwas mediterran und zugleich vertraut erscheinen.",
+    "Wenn gewünscht, lässt sich die Resonanz noch nach Schreibvariante, Generation oder Region präziser aufschlüsseln."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt vor allem von Namenslexika und ist daher nur indirekt ein Bild der öffentlichen Alltagsresonanz.",
+    "Kommentare und Listen auf einzelnen Webseiten können die Wahrnehmung leicht verzerren.",
+    "Keine belastbaren Hinweise auf soziale Stigmatisierung in den vorliegenden Quellen."
+  ],
+  "short_summary": "Roberto wirkt in deutschen Namensquellen klassisch, international und eher positiv-konnotiert, bei insgesamt eher seltener bis mittlerer Verbreitung.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.95,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Roberto � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/R/Ro/Roberto/"
+    },
+    {
+      "confidence": 0.92,
+      "is_name_discussion": true,
+      "sentiment": "neutral bis leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Roberto: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Roberto.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "international",
+    "klangvoll",
+    "traditionell",
+    "etwas mediterran geprägt"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland ist der Name bekannt, aber eher selten bis mittel häufig erfasst. Dadurch ist die Alltagspräsenz vorhanden, jedoch nicht dominant."
+}

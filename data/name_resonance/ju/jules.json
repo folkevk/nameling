@@ -1,0 +1,72 @@
+{
+  "associations": [
+    "französische Ableitung",
+    "lateinisch-römische Herkunft",
+    "Form von Julius bzw. teils auch Bezug zu Julia/Julianna",
+    "Unisex-Name",
+    "überwiegend männlich eingeordnet",
+    "Namenstag",
+    "Aussprache im Deutschen häufig als \"Ju-les\"",
+    "Beliebtheit in Deutschland",
+    "Jules Verne"
+  ],
+  "confidence": 0.79,
+  "display_text": "Jules wirkt in Deutschland überwiegend neutral bis leicht positiv: international, kurz, französisch geprägt und oft als Unisex-Name gelesen. Die Evidenz ist eher schwach, da vor allem Namenslexika und Informationsseiten vorliegen.",
+  "evidence_quality": "mittel bis schwach; überwiegend namenkundliche Informationsquellen, kaum echte öffentliche Bewertungsdiskussion",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Jules",
+  "normalized_name": "jules",
+  "overall_resonance": "Die öffentliche Resonanz auf „Jules“ in Deutschland wirkt überwiegend sachlich-neutr al mit einer leichten positiven Färbung: Der Name wird vor allem als international, französisch geprägt und geschlechtsneutral wahrgenommen. Die Evidenz ist jedoch eher schwach, da sie hauptsächlich aus Namenslexika und Informationsseiten stammt, nicht aus breiter Community-Diskussion.",
+  "practical_notes": [
+    "Für Deutschland kann „Jules“ als internationaler, kurzer und moderner Vorname wahrgenommen werden.",
+    "Die Schreibweise ist knapp und einprägsam, die Aussprache kann aber erklärungsbedürftig sein.",
+    "Wer nach eindeutiger Geschlechtszuordnung sucht, könnte den Namen je nach Umfeld unterschiedlich lesen."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz für echte öffentliche Resonanz ist schwach, weil vor allem Lexikon- und Rankingseiten vorliegen.",
+    "Es gibt Hinweise auf mögliche Ausspracheverwechslungen, aber keine starke negative Bewertung.",
+    "Die Einordnung als Unisex-Name wird genannt, ist aber je nach Quelle unterschiedlich gewichtet."
+  ],
+  "short_summary": "„Jules“ wird in Deutschland vor allem neutral bis leicht positiv, international und geschlechtsneutral wahrgenommen. Die Datenlage ist aber eher lexikalisch als community-basiert.",
+  "source_count": 3,
+  "sources": [
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Jules � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/J/Ju/Jules/"
+    },
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Jules � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/J/Ju/Jules/"
+    },
+    {
+      "confidence": 0.82,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Jules: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Jules.html"
+    }
+  ],
+  "style_effect": [
+    "international",
+    "französisch geprägt",
+    "modern-kurz",
+    "geschlechtsneutral/unisex",
+    "eher elegant als verspielt",
+    "namenskundlich auffällig"
+  ],
+  "usable_evidence_count": 3,
+  "visibility": "Eher niedrig bis moderat sichtbar; der Name taucht in Namensdatenbanken und Überblicksseiten auf, aber nur begrenzt in bewertender öffentlicher Diskussion."
+}

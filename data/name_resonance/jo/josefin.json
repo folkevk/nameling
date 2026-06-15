@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "skandinavische Form bzw. Variante von Josephine/Josephin",
+    "hebräisch-biblische Wurzel",
+    "Bedeutung im Sinn von \"Gott füge hinzu\"",
+    "in Schweden bekannter bzw. verbreiteter",
+    "in Deutschland eher zugunsten von Josefine/Josephine wahrgenommen",
+    "teilweise als schön und klar klingend beschrieben"
+  ],
+  "confidence": 0.84,
+  "display_text": "Josefin wirkt in der öffentlichen Wahrnehmung überwiegend leicht positiv bis neutral: ein skandinavisch anmutender, biblisch geprägter Vorname mit der Bedeutung im Sinn von „Gott füge hinzu“. In Deutschland ist er eher selten und wird oft mit Josefine/Josephine verglichen. Die Evidenz ist begrenzt, daher ist das Bild vorsichtig zu lesen.",
+  "evidence_quality": "mittel: zwei einschlägige Namenslexikon-Quellen, überwiegend beschreibend, mit etwas Nutzerresonanz",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Josefin",
+  "normalized_name": "josefin",
+  "overall_resonance": "überwiegend leicht positiv bis neutral",
+  "practical_notes": [
+    "Für Suchende wirkt der Name insgesamt vertraut, aber nicht häufig.",
+    "Die Schreibweise kann im deutschen Kontext erklärungsbedürftig sein.",
+    "Der Name hat eine ruhige, eher klassische und sachliche Ausstrahlung."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist begrenzt und stützt sich auf wenige Namenslexikon-Quellen.",
+    "Es gibt keine breite öffentliche Debatte; die Wahrnehmung ist daher nur vorsichtig ableitbar.",
+    "Hinweise auf Verwechslungen mit Josefine/Josephine betreffen eher die Schreibweise als den Namen selbst."
+  ],
+  "short_summary": "Josefin wird in der öffentlichen Namenswahrnehmung meist freundlich und eher neutral gesehen: skandinavisch, biblisch geprägt und mit positiver Bedeutung verbunden. In Deutschland wirkt der Name etwas seltener und wird teils mit Josefine/Josephine verwechselt, ohne klare negative Konnotation.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.92,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "Vorname Josefin � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/J/Jo/Josefin/"
+    },
+    {
+      "confidence": 0.94,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Josefin: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Josefin.html"
+    }
+  ],
+  "style_effect": [
+    "informativ",
+    "namenskundlich",
+    "klassisch-biblisch",
+    "skandinavisch geprägt",
+    "eher selten im deutschen Alltagsgebrauch"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "eher gering bis mittel; vor allem in Namenslexika und vereinzelten Kommentaren sichtbar"
+}

@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "lateinischer Ursprung",
+    "Bedeutung im Sinne von stark, kräftig, mächtig, gesund",
+    "weiblicher Vorname",
+    "französische Form Valérie",
+    "Namenstag am 4. Mai, 20. Mai und 9. Dezember",
+    "Spitznamen wie Vali oder Val"
+  ],
+  "confidence": 0.84,
+  "display_text": "Valerie wirkt in den vorliegenden deutschsprachigen Quellen überwiegend positiv: klassisch, feminin und mit einer klaren, positiven Namensbedeutung verbunden. Die Evidenz ist jedoch eher nachschlagend als breit repräsentativ.",
+  "evidence_quality": "mittel: zwei einschlägige, direkt namenbezogene Quellen mit überwiegend informativ-positiver Tonalität, aber ohne breite empirische öffentliche Umfragebasis.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Valerie",
+  "normalized_name": "valerie",
+  "overall_resonance": "Valerie wird in den vorliegenden deutschsprachigen Quellen überwiegend positiv und klassisch-elegant wahrgenommen. Der Name wirkt vertraut, feminin und in der Namenskunde klar positiv aufgeladen.",
+  "practical_notes": [
+    "Für eine Namenssuche ist Valerie gut anschlussfähig: leicht verständlich, international lesbar und mit klarer Herkunftsdeutung.",
+    "Die Schreibweise ist etabliert; Varianten wie Valérie können je nach Region als französisch wahrgenommen werden.",
+    "Die positiven Bedeutungsassoziationen stützen einen hochwertigen, traditionellen Namenseindruck."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Es liegen nur wenige, vor allem lexikalische Webquellen vor; die öffentliche Wahrnehmung ist daher nur begrenzt belastbar.",
+    "Hinweise auf Beliebtheit beschreiben eher den allgemeinen Eindruck als eine präzise, aktuelle Statistik.",
+    "Keine belastbaren Hinweise auf soziale Stigmatisierung in den Quellen."
+  ],
+  "short_summary": "Valerie wird in den verfügbaren Quellen überwiegend positiv, klassisch und feminin beschrieben; die Evidenz ist dabei eher lexikalisch als breit repräsentativ.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "Vorname Valerie � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/V/Va/Valerie/"
+    },
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Valerie: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Valerie.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "elegant",
+    "feminin",
+    "zeitlos",
+    "leicht gepflegt",
+    "namenskundlich positiv besetzt"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland scheint Valerie als eher bekannt und teils beliebt wahrgenommen zu werden; die Quellen beschreiben den Namen nicht als exotisch, sondern als geläufigen Vornamen mit stabiler Präsenz."
+}

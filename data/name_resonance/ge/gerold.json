@@ -1,0 +1,63 @@
+{
+  "associations": [
+    "germanisch/althochdeutsch",
+    "Bedeutung etwa: „der mit dem Speer Herrschende“",
+    "selten in Deutschland",
+    "historisch geprägt",
+    "Namenstag",
+    "Varianten und Kurzformen wie Gero/Geri"
+  ],
+  "confidence": 0.88,
+  "display_text": "Gerold: überwiegend neutral bis leicht positiv, traditionell und historisch geprägt, in Deutschland eher selten.",
+  "evidence_quality": "mittel bis gering: zwei überwiegend informative Namensquellen, wenig breitere öffentliche Rezeption sichtbar, Sentiment nur vorsichtig ableitbar.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Gerold",
+  "normalized_name": "gerold",
+  "overall_resonance": "Gerold wirkt in der öffentlichen Namenswahrnehmung eher sachlich-traditionell und insgesamt neutral bis leicht positiv. Der Name wird vor allem über seine alte germanische Herkunft, seine Bedeutung und seinen seltenen Gebrauch in Deutschland beschrieben.",
+  "practical_notes": [
+    "Für eine Namenssuche ist Gerold ein klar traditioneller, historisch verankerter Name.",
+    "Der Name dürfte eher bei Menschen ankommen, die klassische oder seltene Vornamen mögen.",
+    "Wegen der geringen Verbreitung kann er als ungewöhnlich, aber gut einordenbar wahrgenommen werden.",
+    "Kurzformen wie Gero oder Geri werden teilweise mitgenannt."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz basiert vor allem auf zwei Namensseiten; die öffentliche Resonanz ist daher nur eingeschränkt belastbar.",
+    "Die leichte Einordnung als altmodisch ist eher ein lexikalischer Eindruck als ein breites gesellschaftliches Urteil.",
+    "Keine Hinweise auf starke negative oder stigmatisierende Konnotationen in der vorliegenden Evidenz."
+  ],
+  "short_summary": "Gerold wird überwiegend neutral bis leicht positiv als traditioneller, seltener und historisch geprägter Vorname wahrgenommen.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Gerold � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/G/Ge/Gerold/"
+    },
+    {
+      "confidence": 0.95,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Gerold: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Gerold.html"
+    }
+  ],
+  "style_effect": [
+    "traditionell",
+    "historisch",
+    "altdeutsch",
+    "namenskundlich",
+    "sachlich",
+    "eher selten",
+    "leicht altmodisch wahrgenommen"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Eher gering: Der Name erscheint in Namenslexika und Einzelseiten, aber ohne breite öffentliche Diskussion. Die verfügbare Evidenz ist damit begrenzt und eher namekundlich als gesellschaftlich breit abgestützt."
+}

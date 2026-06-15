@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "lateinische Herkunft",
+    "Bedeutung im Sinn von heiter/fröhlich",
+    "weiblicher Vorname",
+    "Namenstag",
+    "internationale Verwendbarkeit",
+    "schöne Klangwirkung"
+  ],
+  "confidence": 0.91,
+  "display_text": "Serena wird in Deutschland meist freundlich und positiv wahrgenommen: heiter, klar und elegant im Klang, mit lateinischer Herkunft und internationaler Wirkung. Die Evidenz ist insgesamt stark, stammt aber vor allem aus Namenslexika; einzelne Meinungen sind subjektiv und nicht verallgemeinerbar.",
+  "evidence_quality": "hoch: beide Quellen behandeln den Namen direkt, mit konsistenter Bedeutungs- und Herkunftsbeschreibung; die Resonanzaussagen sind jedoch überwiegend lexikalisch statt breit öffentlich gemessen.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Serena",
+  "normalized_name": "serena",
+  "overall_resonance": "Serena wird in der deutschsprachigen Namensumgebung überwiegend freundlich und positiv wahrgenommen. Die öffentliche Beschreibung betont meist eine heitere, klare und elegante Wirkung sowie die lateinische Herkunft des Namens.",
+  "practical_notes": [
+    "Für Suchmaschinen-Nutzer wirkt der Name meist positiv, ruhig und vertraut.",
+    "Wer einen internationalen, leicht verständlichen Vornamen sucht, findet bei Serena eine eher gute Passung.",
+    "Die Wahrnehmung hängt stärker an Bedeutung und Klang als an auffälligen Trends."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Einzelne Online-Kommentare sind subjektiv und sollten nicht als allgemeingültig gelten.",
+    "Die Evidenz stammt vor allem aus Namenslexika und Informationsseiten; direkte öffentliche Breitenresonanz ist nur begrenzt sichtbar."
+  ],
+  "short_summary": "Serena wirkt in Deutschland überwiegend positiv, heiter und klanglich freundlich, mit eher klassisch-internationalem Eindruck.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "Vorname Serena � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/S/Se/Serena/"
+    },
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "positive",
+      "source_type": "web",
+      "title": "&#9655; Vorname Serena: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Serena.html"
+    }
+  ],
+  "style_effect": [
+    "heiter",
+    "fröhlich",
+    "freundlich",
+    "klar",
+    "elegant",
+    "international",
+    "klassisch-zeitlos"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland ist Serena bekannt, aber eher nicht extrem häufig. Die Präsenz wirkt eher etabliert als massenhaft verbreitet, mit klarer Namenskund- und Bedeutungswahrnehmung."
+}

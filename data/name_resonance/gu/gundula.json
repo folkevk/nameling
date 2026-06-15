@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "althochdeutsche Herkunft",
+    "Bedeutung im Umfeld von Kampf/Kämpferin",
+    "Seltenheit in Deutschland",
+    "Namenstag",
+    "klassisch-traditioneller Klang",
+    "Varianten wie Gunda, Gundi oder Gundel"
+  ],
+  "confidence": 0.74,
+  "display_text": "Gundula wird meist als seltener, traditioneller Vorname mit altdeutscher Herkunft wahrgenommen. Die öffentliche Resonanz ist überwiegend neutral bis leicht positiv; die Evidenz dafür ist jedoch eher begrenzt und stammt vor allem aus Namenslexika.",
+  "evidence_quality": "mittel bis schwach: zwei Namensportale, überwiegend lexikalisch-redaktionelle Inhalte, keine breite öffentliche Meinungsbasis",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Gundula",
+  "normalized_name": "gundula",
+  "overall_resonance": "Der Vorname Gundula wird öffentlich überwiegend sachlich und eher traditionell wahrgenommen; die Resonanz wirkt neutral bis leicht positiv, vor allem wegen der Namensbedeutung und des seltenen Gebrauchs.",
+  "practical_notes": [
+    "Für eine Namenssuche kann Gundula als eigenständig, traditionell und selten beschrieben werden.",
+    "Die Wahrnehmung hängt stark davon ab, ob eher der historische Klang oder die Seltenheit betont wird.",
+    "Keine belastbaren Hinweise auf soziale Stigmatisierung in der vorliegenden Evidenz."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz zur öffentlichen Resonanz ist begrenzt und stammt vor allem aus Namensportalen; daher nur vorsichtige Einordnung.",
+    "Positive Formulierungen wie „bezaubernd“ sind redaktionell und sollten nicht als allgemeine Mehrheitsmeinung verstanden werden."
+  ],
+  "short_summary": "Gundula wirkt in der öffentlichen Namenswahrnehmung eher selten, traditionell und sachlich, mit leicht positiver Tendenz durch Bedeutung und Herkunft.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Gundula � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/G/Gu/Gundula/"
+    },
+    {
+      "confidence": 0.86,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Gundula: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Gundula.html"
+    }
+  ],
+  "style_effect": [
+    "traditionell",
+    "altdeutsch",
+    "selten",
+    "namenskundlich",
+    "sachlich",
+    "leicht positiv gefärbt"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland wirkt Gundula eher selten und dadurch auffällig, aber nicht stark verbreitet. Die öffentliche Sichtbarkeit scheint vor allem in Namenslexika und Bedeutungsseiten zu liegen."
+}

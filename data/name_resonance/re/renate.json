@@ -1,0 +1,59 @@
+{
+  "associations": [
+    "lateinische Herkunft",
+    "Bedeutung: „die Wiedergeborene“",
+    "weiblicher Vorname",
+    "früher in Deutschland populärer",
+    "heute eher selten",
+    "Namensformen wie Reni oder Rena"
+  ],
+  "confidence": 0.91,
+  "display_text": "Renate wird in Deutschland meist als klassischer, traditionsreicher Vorname wahrgenommen. Die vorliegende Evidenz beschreibt ihn neutral bis leicht positiv, mit der Bedeutung „die Wiedergeborene“ und einer heute eher seltenen, aber bekannten Verwendung.",
+  "evidence_quality": "gut, aber vor allem lexikalisch-sachlich statt diskursiv; öffentliche Resonanz nur indirekt belegt",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Renate",
+  "normalized_name": "renate",
+  "overall_resonance": "Überwiegend neutral bis leicht positiv: Renate wirkt als klar etablierter, klassischer Vorname mit sachlich-wohlwollender Wahrnehmung.",
+  "practical_notes": [
+    "Für eine Namenssuche ist Renate vor allem als traditioneller, gut belegter Vorname einzuordnen.",
+    "Die heutige Seltenheit kann je nach Kontext als eher klassisch als modern wirken.",
+    "Es gibt keine belastbaren Hinweise auf eine starke positive oder negative gesellschaftliche Stigmatisierung in der vorliegenden Evidenz."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt überwiegend aus Namenslexika und nicht aus breiter öffentlicher Meinungsforschung.",
+    "Daher ist die öffentliche Resonanz nur indirekt ablesbar und sollte vorsichtig interpretiert werden."
+  ],
+  "short_summary": "Renate ist ein klassischer weiblicher Vorname mit lateinischer Herkunft und der Bedeutung „die Wiedergeborene“. Heute ist er in Deutschland eher selten und wirkt insgesamt neutral bis leicht positiv.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Renate � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/R/Re/Renate/"
+    },
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "mostly positive",
+      "source_type": "web",
+      "title": "&#9655; Vorname Renate: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Renate.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "traditionell",
+    "nüchtern",
+    "namenskundlich",
+    "leicht zeitlos"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland heute eher selten, aber als bekannter, traditioneller Frauenname weiterhin gut einordbar."
+}

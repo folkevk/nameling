@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "Lilie/Blume",
+    "Reinheit",
+    "lateinische bzw. altgriechische Herkunft",
+    "Kurzform oder Variante von Liliane/Lilian",
+    "Namenstag",
+    "Beliebtheit in Deutschland"
+  ],
+  "confidence": 0.81,
+  "display_text": "Lilia wirkt in den vorliegenden Quellen überwiegend positiv: ein weicher, blumiger Vorname mit Assoziationen zu Lilie, Reinheit und einer sanft-eleganten Ausstrahlung. Die öffentliche Resonanz erscheint eher freundlich und informativ, die Datenbasis ist aber begrenzt.",
+  "evidence_quality": "Begrenzt: wenige, aber direkt namenskundliche Webquellen mit überwiegend positiver oder neutraler Tendenz.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Lilia",
+  "normalized_name": "lilia",
+  "overall_resonance": "Überwiegend positiv und eher weich-klingend, mit klarer Verbindung zu Blume/Lilie und Reinheit. In den vorliegenden Quellen erscheint der Name sachlich bis freundlich bewertet.",
+  "practical_notes": [
+    "Für die Namenssuche wirkt Lilia vertraut, freundlich und feminin.",
+    "Der Name hat eine klare, leicht verständliche Symbolik und ist international gut anschlussfähig.",
+    "Die öffentliche Resonanz in den Quellen ist eher informativ als kontrovers."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist auf wenige Namenslexikon-Seiten beschränkt; das ist keine breite öffentliche Meinungsbasis.",
+    "Einzelne Beschreibungen und mögliche Nutzerkommentare sollten nicht als allgemeine soziale Wahrnehmung überinterpretiert werden."
+  ],
+  "short_summary": "Lilia wird in den verfügbaren Quellen meist freundlich und blumig wahrgenommen, mit Assoziationen zu Lilie, Reinheit und einer sanft-eleganten Wirkung. Die Evidenz ist jedoch begrenzt.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Lilia � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/L/Li/Lilia/"
+    },
+    {
+      "confidence": 0.88,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Lilia: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Lilia.html"
+    }
+  ],
+  "style_effect": [
+    "blumig",
+    "zart",
+    "klassisch-mild",
+    "elegant",
+    "sanft",
+    "namenskundlich aufgeladen"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Eher bekannt, aber nicht allgegenwärtig; die Quellen deuten auf eine gewisse Beliebtheit in Deutschland hin, ohne dass die Evidenz dafür breit ist."
+}

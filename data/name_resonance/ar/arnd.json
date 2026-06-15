@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "Kurzform von Arnold",
+    "althochdeutsche bzw. altdeutsche Herkunft",
+    "Bedeutung in Richtung \"herrschender Adler\"",
+    "Seltenheit in Deutschland",
+    "Namenstag",
+    "Verwandtschaft zu Arne, Arno, Arndt, Arnt"
+  ],
+  "confidence": 0.82,
+  "display_text": "Arnd wirkt in der öffentlichen Wahrnehmung überwiegend sachlich bis leicht positiv: ein seltener, altdeutscher und klar klingender Vorname mit traditioneller Note. Er wird vor allem mit der Kurzform von Arnold, historischer Herkunft und einer würdevollen, markanten Wirkung verbunden.",
+  "evidence_quality": "mittel: zwei klar namensbezogene Webquellen, überwiegend konsistente Angaben; die Datenlage ist jedoch klein und teilweise redaktionell geprägt.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Arnd",
+  "normalized_name": "arnd",
+  "overall_resonance": "Die öffentliche Resonanz auf den Vornamen Arnd wirkt überwiegend sachlich bis leicht positiv. Der Name wird vor allem als selten, altdeutsch und als Kurzform von Arnold wahrgenommen. Die Bedeutung und der historische Klang werden eher als markant und würdevoll beschrieben, ohne starke emotionale Aufladung.",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt Arnd vertraut, klar und traditionell.",
+    "Der Name ist kurz, eigenständig und ohne starke modeabhängige Wirkung.",
+    "Wer einen seltenen, klassischen deutschen Namen sucht, könnte Arnd als passend empfinden."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist begrenzt und stützt sich auf wenige Namensportale.",
+    "Ein Teil der positiven Eindrücke kann aus redaktionellen Bewertungen oder einzelnen Kommentaren stammen.",
+    "Die Seltenheit des Namens ist eher eine Beobachtung als eine Wertung."
+  ],
+  "short_summary": "Arnd wird öffentlich meist als seltener, altdeutscher und eher würdevoller Vorname wahrgenommen, mit sachlich bis leicht positiver Resonanz.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.95,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Arnd � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/A/Ar/Arnd/"
+    },
+    {
+      "confidence": 0.88,
+      "is_name_discussion": true,
+      "sentiment": "mostly positive",
+      "source_type": "web",
+      "title": "&#9655; Vorname Arnd: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Arnd.html"
+    }
+  ],
+  "style_effect": [
+    "kurz und markant",
+    "traditionell/altdeutsch",
+    "eher nüchtern als verspielt",
+    "würdevoll und historisch klingend",
+    "selten und dadurch eigenständig"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Eher selten und dadurch auffällig, aber nicht breit diskutiert. In Namensportalen erscheint Arnd vor allem in lexikalischen und namenskundlichen Kontexten."
+}

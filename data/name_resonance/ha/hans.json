@@ -1,0 +1,58 @@
+{
+  "associations": [
+    "Kurzform von Johannes",
+    "hebräische Herkunft",
+    "Bedeutung: „Gott ist gnädig“ / „Jahwe ist gnädig“",
+    "deutsche und schwedische Namensform",
+    "Namenstag am 24. Juni und 27. Dezember",
+    "historisch sehr beliebt in Deutschland",
+    "heute eher regelmäßig vergeben"
+  ],
+  "confidence": 0.98,
+  "display_text": "Hans gilt öffentlich als klassischer, traditioneller und sehr vertrauter deutscher Vorname. Die Resonanz ist überwiegend sachlich-neutral mit starker historischer Verankerung. Verbunden wird der Name meist mit Johannes, der Bedeutung „Gott ist gnädig“ und einem eher zeitlosen als trendigen Eindruck.",
+  "evidence_quality": "Sehr stark: zwei namenskundliche, direkt auf den Vornamen bezogene Quellen mit übereinstimmenden Angaben zu Herkunft, Bedeutung, Namenstag und Einordnung der Beliebtheit.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Hans",
+  "normalized_name": "hans",
+  "overall_resonance": "Hans wird in der öffentlichen Wahrnehmung vor allem als klassischer, traditioneller deutscher Jungenname gesehen: sachlich, vertraut und historisch gut verankert. Der Name wirkt eher zeitlos als modisch und wird oft mit Herkunft, Bedeutung und Namenskunde verbunden.",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt Hans klar, vertraut und leicht einordenbar.",
+    "Die öffentliche Resonanz ist überwiegend neutral bis positiv-sachlich; es gibt keine Hinweise auf problematische soziale Stigmatisierung in der vorliegenden Evidenz.",
+    "Der Name ist stark traditionsbezogen und weniger mit einem modernen Trendbild verbunden."
+  ],
+  "region": "DE",
+  "risk_notes": [],
+  "short_summary": "Hans ist ein sehr bekannter, klassischer deutscher Vorname mit traditioneller, sachlich-neutraler Resonanz und klarer historischer Verankerung.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Hans � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/H/Ha/Hans/"
+    },
+    {
+      "confidence": 0.99,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Hans: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Hans.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "traditionell",
+    "kurz und klar",
+    "nüchtern",
+    "historisch verankert",
+    "eher zeitlos als modern"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Sehr hoch im deutschen Sprachraum; der Name ist breit bekannt und kulturell stark präsent, auch wenn er heute eher regelmäßig als aktuell trendstark vergeben wird."
+}

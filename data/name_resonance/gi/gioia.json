@@ -1,0 +1,62 @@
+{
+  "associations": [
+    "Freude",
+    "Glück",
+    "italienischer Mädchenname",
+    "lateinischer Ursprung",
+    "italienische Eleganz",
+    "selten/außergewöhnlich",
+    "Aussprache \"Dschoia\""
+  ],
+  "confidence": 0.88,
+  "display_text": "Gioia hat in Deutschland eine überwiegend positive Resonanz: Der Name wirkt fröhlich, elegant und italienisch geprägt. Er ist eher selten und deshalb auffällig, aber nicht stark verbreitet. Die vorhandene Evidenz ist stimmig, stützt sich jedoch vor allem auf wenige Namensseiten.",
+  "evidence_quality": "mittel bis gut: klare Namensdiskussionen mit positiver Tendenz, aber nur wenige Quellen und keine breite repräsentative Öffentlichkeit.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Gioia",
+  "normalized_name": "gioia",
+  "overall_resonance": "Überwiegend positiv und freundlich mit einer eher eleganten, seltenen Wirkung. In der deutschen Namenswahrnehmung wird Gioia vor allem mit der Bedeutung „Freude“ sowie mit italienischem Flair verbunden. Die Resonanz wirkt aber eher namenskundlich und stilbezogen als breit gesellschaftlich abgesichert.",
+  "practical_notes": [
+    "Für Suchende wirkt Gioia meist besonders, freundlich und leicht mediterran.",
+    "Die Aussprache kann erklärungsbedürftig sein, vor allem im deutschen Alltag.",
+    "Durch die Seltenheit ist der Name gut wiedererkennbar, aber nicht alltagsgewöhnlich."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt im Wesentlichen aus zwei Namensseiten und ist damit in ihrer öffentlichen Breite begrenzt.",
+    "Einige Bewertungen sind redaktionell oder kommentarbasiert und nicht als objektive Allgemeinmeinung zu verstehen.",
+    "Die positive Wirkung ergibt sich stark aus der Namensbedeutung und dem Klang; das ist keine Garantie für eine einheitliche gesellschaftliche Wahrnehmung."
+  ],
+  "short_summary": "Gioia wird in Deutschland überwiegend positiv wahrgenommen: fröhlich, italienisch geprägt und eher selten. Die Evidenz ist solide, aber auf wenige Namensquellen beschränkt.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "positive",
+      "source_type": "web",
+      "title": "Vorname Gioia � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/G/Gi/Gioia/"
+    },
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Gioia: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Gioia.html"
+    }
+  ],
+  "style_effect": [
+    "fröhlich",
+    "modern-elegant",
+    "italienisch geprägt",
+    "selten/außergewöhnlich",
+    "weich und klangvoll",
+    "namenskundlich positiv aufgeladen"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Eher selten bis moderat bekannt in Deutschland; dadurch auffällig, aber nicht sehr verbreitet. Die öffentliche Sichtbarkeit scheint vor allem über Vornamensportale und Namenslexika zu laufen, nicht über eine breite Alltagspräsenz."
+}

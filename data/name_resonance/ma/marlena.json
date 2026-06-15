@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "Variante von Marlene",
+    "Verbindungen zu Maria und Magdalena",
+    "deutschsprachiger Gebrauch",
+    "englische und polnische Bezüge in Namensquellen",
+    "Namensbedeutung und Herkunft",
+    "Namenstag",
+    "Koseformen und Spitznamen"
+  ],
+  "confidence": 0.91,
+  "display_text": "Marlena: überwiegend sachlich bis leicht positiv wahrgenommen. Der Name ist vor allem aus Namenslexika bekannt, wirkt klassisch-weiblich und vertraut, mit eher weicher, international anschlussfähiger Anmutung. Die Evidenz ist solide für Herkunft und Bedeutung, aber überwiegend datenbankbasiert und ohne breite öffentliche Debatte.",
+  "evidence_quality": "Gut für namenskundliche Einordnung, aber überwiegend datenbankbasiert und wenig unabhängig-public-discursive.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Marlena",
+  "normalized_name": "marlena",
+  "overall_resonance": "Überwiegend sachlich bis leicht positiv wahrgenommen; der Name wirkt vertraut und unauffällig, ohne starke öffentliche Kontroverse.",
+  "practical_notes": [
+    "Für Suchmaschinen eignet sich eine knappe, neutrale Einordnung als weiblicher Vorname mit klassischer, leicht internationaler Wirkung.",
+    "Im deutschen Raum erscheint der Name bekannt und gut einordenbar, ohne auffällige Polarisierung.",
+    "Die Quellenlage ist solide für Herkunft und Bedeutung, aber begrenzt für echte öffentliche Resonanz."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt fast ausschließlich aus Namensdatenbanken und Namenslexika; eine breite öffentliche Diskussion ist nicht erkennbar.",
+    "Es gibt keine belastbaren Hinweise auf gesellschaftliche Stigmatisierung oder negative Stereotype, aber auch keine starke unabhängige Bestätigung aus Debatten oder Medien.",
+    "Beliebtheitsbezüge wirken eher beschreibend als wertend."
+  ],
+  "short_summary": "Marlena wird in den verfügbaren Quellen meist sachlich erklärt und leicht positiv konnotiert; der Name wirkt vertraut, klassisch und ohne auffällige öffentliche Kontroverse.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Marlena � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/M/Ma/Marlena/"
+    },
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Marlena: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Marlena.html"
+    }
+  ],
+  "style_effect": [
+    "informativ",
+    "klassisch-weiblich",
+    "weich im Klang",
+    "international anschlussfähig",
+    "leicht nostalgisch"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Eher gute Sichtbarkeit in Namenslexika und Datenbankseiten, aber wenig erkennbare öffentliche Debatte außerhalb namenskundlicher Quellen."
+}

@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "Koseform von Kate",
+    "englische Form von Katharina",
+    "Bedeutung: die Reine / die Unschuldige / die Aufrichtige",
+    "altgriechische Herkunft",
+    "Namenstag am 25. November",
+    "ähnliche Formen: Kati, Katy, Kathy",
+    "im Deutschen eher selten"
+  ],
+  "confidence": 0.83,
+  "display_text": "Katie: überwiegend neutral bis freundlich-informativ. Der Name gilt als englische Kurz- bzw. Koseform von Katharina, mit der Bedeutung „die Reine“ bzw. „die Aufrichtige“. Im deutschen Kontext ist Katie eher selten, aber bekannt; auffällige negative Konnotationen sind in der vorliegenden Evidenz nicht erkennbar.",
+  "evidence_quality": "mittel bis gut für Namensbedeutung und Herkunft, schwach bis mittel für öffentliche Rezeption",
+  "generated_at": "2026-06-14T10:47:41Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Katie",
+  "normalized_name": "katie",
+  "overall_resonance": "Überwiegend neutral bis freundlich-informativ. In der vorliegenden Evidenz wird Katie vor allem als englische Kurz- bzw. Koseform von Katharina/Kate beschrieben, mit klassischer Bedeutung und ohne auffällige negative Konnotationen.",
+  "practical_notes": [
+    "Für Suchende wirkt Katie meist leicht verständlich und international anschlussfähig.",
+    "Im deutschsprachigen Raum kann der Name als ungewöhnlicher, aber vertrauter Klang wahrgenommen werden.",
+    "Die Datenlage ist gut für Herkunft und Bedeutung, aber schwach für echte öffentliche Resonanz im engeren Sinn."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt überwiegend aus Namenslexika und Infoseiten; direkte öffentliche Meinungsrezeption ist nur indirekt ableitbar.",
+    "Keine belastbaren Hinweise auf starke positive oder negative gesellschaftliche Wertungen.",
+    "Ein möglicher Eindruck von 'international' oder 'modern' ist eine stilistische Einordnung, keine harte allgemeine Wahrnehmungsregel."
+  ],
+  "short_summary": "Katie wird in der verfügbaren Evidenz überwiegend neutral, freundlich und international beschrieben; im deutschen Raum ist der Name eher selten, aber bekannt.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.94,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Katie � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/K/Ka/Katie/"
+    },
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Katie: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Katie.html"
+    }
+  ],
+  "style_effect": [
+    "weich und international",
+    "kurz, modern wirkend",
+    "kosehaft bzw. vertraut",
+    "namenskundlich klar verortet",
+    "eher selten im deutschen Alltag"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Im deutschen Kontext eher selten, aber bekannt und vorhanden. Die öffentliche Sichtbarkeit wirkt daher eher begrenzt und namenskundlich geprägt als breit diskutiert."
+}

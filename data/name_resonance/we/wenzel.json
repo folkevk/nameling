@@ -1,0 +1,62 @@
+{
+  "associations": [
+    "altslawischer Ursprung",
+    "böhmisch/tschechisch",
+    "Kurzform von Wenzeslaus bzw. Václav",
+    "Bedeutung: der Ruhmgekrönte / der Ruhmreiche / der Vielberühmte",
+    "heiliger Wenzel",
+    "Namenstag am 28. September",
+    "Spitznamen wie Wenzi oder Wenzli"
+  ],
+  "confidence": 0.82,
+  "display_text": "Wenzel wirkt in der öffentlichen Wahrnehmung eher sachlich-traditionell und kulturhistorisch geprägt. Der Name ist in Deutschland selten und wird vor allem mit altslawischen bzw. böhmisch-tschechischen Wurzeln, dem heiligen Wenzel und seiner Bedeutung als ‚der Ruhmgekrönte‘ verbunden. Die verfügbare Evidenz ist dabei eher schwach und stammt hauptsächlich aus Namenslexika, nicht aus breiter öffentlicher Diskussion.",
+  "evidence_quality": "mittel bis schwach; überwiegend lexikalische Quellen, kaum unabhängige öffentliche Resonanz",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Wenzel",
+  "normalized_name": "wenzel",
+  "overall_resonance": "Eher sachlich-traditionell, mit leicht positiver kulturhistorischer Färbung. Die öffentliche Wahrnehmung wirkt vor allem namenskundlich und weniger alltagspräsent.",
+  "practical_notes": [
+    "Der Name wirkt auffällig, aber nicht exzentrisch.",
+    "Die historische und slawische Prägung ist für viele wahrscheinlich die stärkste Assoziation.",
+    "Wegen der Seltenheit kann der Name als markant und erinnerbar wahrgenommen werden."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist schwach und stammt fast nur aus Namenslexika, nicht aus freier öffentlicher Diskussion.",
+    "Die positiven kulturellen Bezüge sind eher hergeleitet als breit gesellschaftlich beobachtet.",
+    "Keine belastbaren Hinweise auf eine starke moderne Trendwirkung oder auf soziale Stigmatisierung."
+  ],
+  "short_summary": "Wenzel wird überwiegend sachlich-traditionell wahrgenommen, mit klaren historischen und altslawischen Bezügen. In Deutschland ist der Name selten; die Evidenz dafür ist vor allem namenskundlich, nicht breit öffentlich diskutiert.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.94,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Wenzel � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/W/We/Wenzel/"
+    },
+    {
+      "confidence": 0.94,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Wenzel: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Wenzel.html"
+    }
+  ],
+  "style_effect": [
+    "traditionell",
+    "altsprachlich",
+    "kulturhistorisch",
+    "selten",
+    "würdig",
+    "klassisch"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland eher selten und damit nicht besonders breit sichtbar; der Name ist vielen eher aus historischen oder kulturellen Zusammenhängen bekannt."
+}

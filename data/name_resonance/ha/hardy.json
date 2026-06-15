@@ -1,0 +1,62 @@
+{
+  "associations": [
+    "althochdeutsch/altdeutsch",
+    "hart, stark, fest, entschlossen",
+    "Koseform oder Kurzform",
+    "männlicher Vorname",
+    "selten in Deutschland",
+    "Namenstag in einer Quelle genannt",
+    "statistisch eher mittlerer bis niedriger Bekanntheitsgrad"
+  ],
+  "confidence": 0.82,
+  "display_text": "Hardy wird in Deutschland eher selten verwendet und überwiegend sachlich-neutral bis leicht positiv wahrgenommen. Der Name wirkt kurz, maskulin und traditionell; die Quellen ordnen ihn meist als altdeutsch oder als Kurzform mit der Bedeutung „stark/entschlossen“ ein. Die Evidenz ist dabei begrenzt und stammt vor allem aus Namenslexika.",
+  "evidence_quality": "Gut für eine vorsichtige Namensbeschreibung, aber insgesamt nur mittelstark, da die Evidenz fast ausschließlich aus Namenslexika und Ranking-Seiten stammt.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Hardy",
+  "normalized_name": "hardy",
+  "overall_resonance": "Überwiegend sachlich-neutral mit leicht positivem Klang. Der Name Hardy wird in den Quellen vor allem als seltener, männlicher Vorname mit traditionell-altdeutscher Anmutung beschrieben.",
+  "practical_notes": [
+    "Für Suchmaschinen und Namenskontexte wirkt Hardy klar, knapp und gut merkbar.",
+    "Die Wahrnehmung dürfte stärker von Klang und Namenskunde geprägt sein als von aktueller Popularität."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist auf wenige Namenslexikon-Seiten begrenzt, daher ist die öffentliche Resonanz nur vorsichtig ableitbar.",
+    "Es liegen keine belastbaren Hinweise auf soziale Stigmatisierung oder starke negative Konnotationen vor."
+  ],
+  "short_summary": "Hardy wirkt in Deutschland als seltener, traditionell wirkender Jungenname mit eher sachlich-neutraler bis leicht positiver Resonanz. Die Quellen betonen Bedeutung und Herkunft; die öffentliche Bekanntheit scheint begrenzt.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Hardy � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/H/Ha/Hardy/"
+    },
+    {
+      "confidence": 0.88,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Hardy: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Hardy.html"
+    }
+  ],
+  "style_effect": [
+    "kurz",
+    "maskulin",
+    "traditionell",
+    "kraftvoll",
+    "eher selten",
+    "namenskundlich",
+    "leicht altmodisch",
+    "klar und markant"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland eher selten und daher nicht sehr breit alltagsbekannt, aber als Vorname klar einzuordnen. Die öffentliche Wahrnehmung wirkt eher namenskundlich als populär."
+}

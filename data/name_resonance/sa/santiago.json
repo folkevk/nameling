@@ -1,0 +1,58 @@
+{
+  "associations": [
+    "spanische bzw. altspanische Herkunft",
+    "Bezug zu Sankt Jakobus / dem heiligen Jakob",
+    "Namenstag wird genannt",
+    "in Deutschland eher moderat verbreitet",
+    "selten bis ausgefallen, aber nicht exotisch wirkend"
+  ],
+  "confidence": 0.94,
+  "display_text": "Santiago wirkt öffentlich eher positiv, klangvoll und international. In Deutschland ist der Name bekannt, aber eher selten bis moderat verbreitet. Die Quellen beschreiben ihn vor allem sachlich mit spanisch/altspanischer Herkunft und Bezug zu Sankt Jakobus.",
+  "evidence_quality": "hoch: zwei klare Namensquellen mit direkter Beschreibung von Herkunft, Bedeutung, Namenstag und Beliebtheit; die Tonlage ist überwiegend sachlich bis positiv",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Santiago",
+  "normalized_name": "santiago",
+  "overall_resonance": "Der Vorname Santiago wird in der öffentlichen Wahrnehmung überwiegend sachlich bis positiv beschrieben: international klingend, kulturell klar verortet und mit einer eher besonderen, aber vertrauten Wirkung.",
+  "practical_notes": [
+    "Für die öffentliche Wahrnehmung ist vor allem der klangvolle, internationale Charakter relevant",
+    "In Deutschland dürfte der Name eher als markant und besonders gelesen werden",
+    "Die Namensportale beschreiben Herkunft und Bedeutung recht einheitlich und ohne negative Konnotation"
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Keine Hinweise auf eine gesellschaftliche Stigmatisierung in der vorliegenden Evidenz",
+    "Einzelne positive Kommentare sollten nicht als allgemeine Mehrheitsmeinung überinterpretiert werden",
+    "Die Einschätzung basiert auf Namensportalen und nicht auf einer repräsentativen Bevölkerungsstudie"
+  ],
+  "short_summary": "Santiago wird in Deutschland eher als klangvoller, internationaler und leicht besonderer Jungenname wahrgenommen, meist neutral bis positiv und ohne erkennbare Stigmatisierung.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Santiago � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/S/Sa/Santiago/"
+    },
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Santiago: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Santiago.html"
+    }
+  ],
+  "style_effect": [
+    "klingt international und spanisch geprägt",
+    "wirkt klangvoll und markant",
+    "hat einen eher modernen, zugleich traditionsnahen Eindruck",
+    "wird in Namenslexika meist informativ und neutral bis positiv dargestellt"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland ist der Name bekannt, aber eher nicht alltäglich; er wirkt dadurch auffällig, ohne völlig unbekannt zu sein."
+}

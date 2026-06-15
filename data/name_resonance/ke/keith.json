@@ -1,0 +1,59 @@
+{
+  "associations": [
+    "keltische bzw. schottisch-englische Herkunft",
+    "Bedeutungen wie Wald/Gebüsch bzw. Schlachtfeld je nach Deutung",
+    "Familienname-als-Vorname",
+    "englische Entlehnung",
+    "selten in Deutschland"
+  ],
+  "confidence": 0.88,
+  "display_text": "Keith wirkt in Deutschland überwiegend neutral bis leicht positiv: ein seltener, international klingender Jungenname mit keltisch-schottisch/englischen Bezügen. Die Quellen sind vor allem namenskundlich und nicht breit gesellschaftlich, daher ist die Evidenz begrenzt.",
+  "evidence_quality": "mittel: zwei thematisch passende, aber begrenzt breite Webquellen; überwiegend beschreibend, wenig gesellschaftliche Resonanz",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Keith",
+  "normalized_name": "keith",
+  "overall_resonance": "Überwiegend neutral bis leicht positiv, mit eher sachlich-namenskundlicher als emotionaler Wahrnehmung. In Deutschland wirkt Keith vor allem selten und dadurch auffälliger als alltäglich, ohne klar negative öffentliche Resonanz in der vorliegenden Evidenz.",
+  "practical_notes": [
+    "Für die Namenssuche ist Keith eher ein international wirkender, seltener Jungenname.",
+    "Die Aussprache und Schreibweise können im deutschen Alltag erklärungsbedürftig sein.",
+    "Durch die geringe Verbreitung fällt der Name eher auf als sehr häufige Namen."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist begrenzt und stützt sich im Wesentlichen auf zwei Namensseiten.",
+    "Es gibt keine breite öffentliche Debatte; die Einschätzung basiert vor allem auf lexikalischen Beschreibungen.",
+    "Seltenheit kann als individuell oder markant wahrgenommen werden, ist aber keine negative Bewertung."
+  ],
+  "short_summary": "Keith wird in Deutschland vor allem als seltener, international klingender Jungenname wahrgenommen. Die vorliegende Evidenz ist sachlich und zeigt keine klare negative öffentliche Resonanz.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Keith � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/K/Ke/Keith/"
+    },
+    {
+      "confidence": 0.91,
+      "is_name_discussion": true,
+      "sentiment": "mixed",
+      "source_type": "web",
+      "title": "&#9655; Vorname Keith: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Keith.html"
+    }
+  ],
+  "style_effect": [
+    "klingt englisch/international",
+    "wirkt knapp und sachlich",
+    "eher ungewöhnlich als modisch",
+    "durch Seltenheit markant",
+    "namenskundlich-klassisch"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland eher geringe Sichtbarkeit: Der Name ist bekannt und gelistet, aber nicht verbreitet. Die öffentliche Wahrnehmung in den Quellen ist daher eher informativ als gesellschaftlich diskutiert."
+}

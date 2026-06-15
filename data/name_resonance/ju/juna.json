@@ -1,0 +1,59 @@
+{
+  "associations": [
+    "Bedeutungen wie „die Erwünschte“",
+    "Bedeutungen wie „die Blühende“",
+    "möglicher Bezug zu Juno",
+    "keltische und lateinische Herkunftsdeutungen",
+    "moderner Mädchenname",
+    "Beliebtheit in Deutschland"
+  ],
+  "confidence": 0.71,
+  "display_text": "Juna wirkt in den verfügbaren Quellen überwiegend positiv: kurz, modern und als beliebter Mädchenname mit freundlicher Namensbedeutung. Die Datenlage ist allerdings dünn und basiert vor allem auf Namensportalen.",
+  "evidence_quality": "Begrenzt: zwei webbasierte Namensportale, beide klar namenskundlich und eher positiv geframet; keine breite empirische Resonanzanalyse.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Juna",
+  "normalized_name": "juna",
+  "overall_resonance": "Überwiegend positiv und modern, mit eher freundlicher als kontroverser öffentlicher Wahrnehmung. Die vorhandene Evidenz deutet vor allem auf einen beliebten, kurzen Mädchenvornamen mit positiv konnotierten Bedeutungen hin.",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt Juna aktuell freundlich, modern und gut anschlussfähig.",
+    "Die öffentliche Resonanz erscheint eher unproblematisch; belastbare Hinweise auf soziale Stigmatisierung sind in der vorliegenden Evidenz nicht erkennbar.",
+    "Wegen der dünnen Datenlage ist die Einschätzung vorsichtig zu lesen."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenzlage ist begrenzt und stützt sich vor allem auf Namensportale statt auf breite öffentliche Debatten.",
+    "Einige Darstellungen sind redaktionell geprägt und tendenziell positiv; das sollte nicht als allgemeine gesellschaftliche Mehrheitsmeinung missverstanden werden."
+  ],
+  "short_summary": "Juna wird in den vorliegenden Quellen als moderner, beliebter und freundlich wirkender Mädchenname mit positiv besetzten Bedeutungen beschrieben. Die Evidenz ist jedoch schmal und vor allem portalbasiert.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.84,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "Vorname Juna � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/J/Ju/Juna/"
+    },
+    {
+      "confidence": 0.94,
+      "is_name_discussion": true,
+      "sentiment": "positive",
+      "source_type": "web",
+      "title": "&#9655; Vorname Juna: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Juna.html"
+    }
+  ],
+  "style_effect": [
+    "kurz und modern",
+    "weiblich und weich klingend",
+    "namenskundlich aufgeladen",
+    "leicht melodisch",
+    "durch Bedeutungen wie „die Erwünschte“ oder „die Blühende“ positiv besetzt"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Mittlere Sichtbarkeit: Der Name wird in Namensportalen klar diskutiert und erscheint als bekannt, aber die vorliegende Evidenz ist dünn und basiert nur auf wenigen, portalbasierten Quellen."
+}

@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "Koseform von James",
+    "englische Variante von Jakob",
+    "männlicher Vorname",
+    "Namenslexika und Beliebtheitslisten",
+    "Namenstag",
+    "Kurzformen wie Jim, Jimi, Jimmi, Jimmie"
+  ],
+  "confidence": 0.9,
+  "display_text": "Jimmy wirkt in Deutschland meist neutral bis locker: ein kurzer, international geprägter Vorname, der vor allem als Koseform von James/Jakob bekannt ist.",
+  "evidence_quality": "gut für Namensbedeutung, Herkunft und lexikalische Einordnung; mittel für echte öffentliche Resonanz in Deutschland, da die Quellen überwiegend namenskundliche Einzelseiten sind.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Jimmy",
+  "normalized_name": "jimmy",
+  "overall_resonance": "Jimmy wird in deutschen Namensquellen vor allem sachlich als englisch geprägte Kurz- bzw. Koseform von James/Jakob beschrieben. Die öffentliche Wirkung erscheint eher locker, international und vertraut, ohne deutlich negative Grundtönung.",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt Jimmy unkompliziert, kurz und international verständlich.",
+    "Im deutschen Kontext kann der Name eher modern-informell als traditionell wirken.",
+    "Als vollständiger Vorname und als Spitzname ist er gleichermaßen plausibel."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz basiert vor allem auf Namenslexika; das sagt mehr über Namensbeschreibung als über breite öffentliche Stimmung.",
+    "Keine belastbaren Hinweise auf eine starke soziale Stigmatisierung in der vorliegenden Evidenz.",
+    "Beliebtheitsangaben sollten vorsichtig gelesen werden, da sie je nach Quelle und Jahr schwanken."
+  ],
+  "short_summary": "Jimmy wird in Deutschland überwiegend neutral bis locker wahrgenommen: ein kurzer, englisch geprägter Name mit vertrauter, internationaler Wirkung.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Jimmy � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/J/Ji/Jimmy/"
+    },
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Jimmy: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Jimmy.html"
+    }
+  ],
+  "style_effect": [
+    "locker und umgangssprachlich",
+    "international/englisch geprägt",
+    "kurz und eingängig",
+    "eher informell als klassisch-formell",
+    "als Spitzname oder eigenständiger Vorname lesbar"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland eher bekannt, aber nicht dauerhaft sehr breit verbreitet; die Wahrnehmung ist stärker von Namenslexika und Ranglisten als von einer ausgeprägten Alltagspräsenz geprägt."
+}

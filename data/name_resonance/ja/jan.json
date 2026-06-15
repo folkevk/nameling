@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "Kurzform von Johannes/Johann",
+    "hebräische Herkunft",
+    "Bedeutung: „Gott ist gnädig“ bzw. „Jahwe ist gnädig“",
+    "niederdeutsch und friesisch geprägt",
+    "auch in niederländischen, skandinavischen und slawischen Namensräumen bekannt",
+    "Namenstag am 24. Juni und teils am 27. Dezember",
+    "in Deutschland beliebt und lang etabliert"
+  ],
+  "confidence": 0.9,
+  "display_text": "Jan wirkt in der öffentlichen Wahrnehmung überwiegend positiv, klassisch und vertraut. Der Name ist kurz, traditionsreich und in Deutschland gut bekannt; die vorliegende Evidenz betont vor allem Herkunft, Bedeutung und anhaltende Beliebtheit.",
+  "evidence_quality": "gut für Herkunft, Bedeutung und Beliebtheit; schwächer für echte öffentliche Meinungsvielfalt",
+  "generated_at": "2026-06-12T06:08:03Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Jan",
+  "normalized_name": "jan",
+  "overall_resonance": "Der Vorname Jan wird in der vorliegenden Evidenz überwiegend positiv und sachlich-informativ wahrgenommen. Er gilt als kurzer, vertrauter und klassisch verankerter Name mit klarer Herkunfts- und Bedeutungszuordnung.",
+  "practical_notes": [
+    "Für Suchmaschinen-Text eignet sich eine knappe, freundliche Beschreibung ohne Überhöhung.",
+    "Der Name wirkt zeitlos und vertraut, mit starker klassischer Einbettung.",
+    "Keine belastbaren Hinweise auf Stigmatisierung oder negative Konnotationen in der Evidenz."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt fast ausschließlich aus Namenslexika und Popularitätsseiten; das ist für öffentliche Resonanz brauchbar, aber nur begrenzt breit gesellschaftlich.",
+    "Es sind kaum unterschiedliche Meinungen oder kritische Stimmen sichtbar.",
+    "Positive Töne können durch die Art der Quellen etwas verstärkt sein; das sollte nicht als allgemeine gesellschaftliche Bewertung überinterpretiert werden."
+  ],
+  "short_summary": "Jan wird überwiegend positiv, klassisch und sachlich wahrgenommen: ein kurzer, traditioneller und in Deutschland sehr bekannter Vorname mit klarer Herkunft und guter Bekanntheit.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "Vorname Jan � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/J/Ja/Jan/"
+    },
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Jan: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Jan.html"
+    }
+  ],
+  "style_effect": [
+    "kurz und prägnant",
+    "klassisch-traditionell",
+    "nüchtern und sachlich",
+    "namenskundlich klar einordenbar",
+    "modern genug durch die knappe Form"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland ist Jan gut bekannt und sichtbar; die Evidenz verweist auf frühere Spitzenplätze und eine anhaltende Popularität. Es handelt sich dabei vor allem um namenskundliche und Popularitäts-Quellen, nicht um eine breite öffentliche Debatte."
+}

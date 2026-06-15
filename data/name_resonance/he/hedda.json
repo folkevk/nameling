@@ -1,0 +1,59 @@
+{
+  "associations": [
+    "skandinavische Kurz- und Koseform",
+    "althochdeutsche Herkunft",
+    "Bedeutung: die Kämpferin / Kriegerin",
+    "Hedda Gabler als Literaturbezug",
+    "traditioneller Namenstag-Bezug",
+    "eher seltene Verbreitung in Deutschland"
+  ],
+  "confidence": 0.74,
+  "display_text": "Hedda wirkt in Deutschland traditionell, eigenständig und eher positiv. Der Name ist selten, aber gut bekannt, und wird oft mit „Kämpferin/Kriegerin“, skandinavisch-althochdeutscher Herkunft und einem literarischen Bezug verbunden. Die Evidenz ist eher begrenzt, daher vorsichtig zu lesen.",
+  "evidence_quality": "mittel bis schwach; die Quellen sind thematisch passend, aber keine belastbare breite Meinungsumfrage.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Hedda",
+  "normalized_name": "hedda",
+  "overall_resonance": "Hedda wirkt in Deutschland insgesamt traditionell, eigenständig und eher positiv konnotiert. Der Name wird meist mit skandinavisch bzw. althochdeutsch geprägter Herkunft, der Bedeutung „Kämpferin/Kriegerin“ und einem literarischen Bezug verbunden. Die öffentliche Wahrnehmung erscheint eher freundlich bis interessiert, aber nicht stark massenhaft.",
+  "practical_notes": [
+    "Für die öffentliche Wahrnehmung ist Hedda gut verständlich und eindeutig als Vorname lesbar.",
+    "Der Name vermittelt eher Stärke und Tradition als Modernität.",
+    "Wegen der Seltenheit kann er als besonders, aber nicht ungebräuchlich wirken."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist begrenzt und basiert vor allem auf Namenslexika sowie wenigen Kommentaren.",
+    "Positive oder starke Klangurteile sind eher subjektiv und nicht als allgemeine Mehrheitsmeinung zu verstehen."
+  ],
+  "short_summary": "Hedda wird in Deutschland überwiegend als traditioneller, seltener und eher kraftvoller Mädchenname wahrgenommen – mit positiver bis neutraler Resonanz.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Hedda � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/H/He/Hedda/"
+    },
+    {
+      "confidence": 0.63,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Hedda: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Hedda.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch-traditionell",
+    "kurz und markant",
+    "kräftig im Klang",
+    "eher eigenständig als modisch",
+    "leicht literarisch geprägt"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Eher selten bis mäßig bekannt; kein sehr häufiger Name, aber klar als eigenständiger Vorname erkennbar."
+}

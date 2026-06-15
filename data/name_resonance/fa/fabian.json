@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "lateinischer Ursprung",
+    "Bedeutung: „der Edle“",
+    "römisches Adelsgeschlecht der Fabier",
+    "heiliger Fabianus",
+    "Namenstag am 20. Januar",
+    "in Deutschland beliebt und bekannt",
+    "kurze Koseformen wie Fabi oder Fabsi"
+  ],
+  "confidence": 0.88,
+  "display_text": "Fabian wirkt in Deutschland überwiegend klassisch, vertraut und positiv-neutral. Der Name ist gut bekannt, traditionell eingeordnet und mit lateinischem Ursprung sowie der Bedeutung „der Edle“ verbunden. Die verfügbare Evidenz stammt vor allem aus Namenslexika; direkte öffentliche Resonanz ist nur indirekt ableitbar.",
+  "evidence_quality": "mittel: gute Namensdaten, aber nur indirekte Hinweise auf öffentliche Resonanz",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Fabian",
+  "normalized_name": "fabian",
+  "overall_resonance": "Überwiegend positiv bis neutral; der Name wird vor allem als klassisch, bekannt und angenehm wahrgenommen.",
+  "practical_notes": [
+    "Für die öffentliche Wahrnehmung wirkt Fabian meist unkompliziert, vertraut und traditionell.",
+    "Der Name ist in Deutschland gut anschlussfähig und leicht einzuordnen.",
+    "Die Resonanz wirkt eher solide als modisch oder polarisierend."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt überwiegend aus Namenslexika und nicht direkt aus breiter öffentlicher Meinungsforschung.",
+    "Beliebtheit ist belegt, sagt aber nur indirekt etwas über öffentliche Resonanz aus."
+  ],
+  "short_summary": "Fabian wird in Deutschland meist als klassischer, vertrauter und positiv bis neutral besetzter Vorname wahrgenommen.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Fabian � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/F/Fa/Fabian/"
+    },
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Fabian: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Fabian.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "zeitlos",
+    "seriös",
+    "international verständlich",
+    "sympathisch-kurz"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland gut sichtbar und vertraut, mit stabiler Bekanntheit und eher traditioneller Einordnung."
+}

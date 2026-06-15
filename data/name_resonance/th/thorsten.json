@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "Thor/Donner",
+    "altnordische Herkunft",
+    "skandinavische Variante",
+    "Namenstag",
+    "frühere Popularität in Deutschland",
+    "traditionelle Namenswahl"
+  ],
+  "confidence": 0.9,
+  "display_text": "Thorsten wirkt öffentlich als klassischer, traditionsnaher Vorname mit altnordisch-skandinavischer Herkunft. Die Rezeption ist überwiegend neutral bis leicht positiv; besonders genannt werden Thor/Donner, Namenstag und die frühere Popularität in Deutschland.",
+  "evidence_quality": "gut bis sehr gut; zwei thematisch passende Namensquellen mit klarer Namensdiskussion und konsistenten Herkunfts- und Bedeutungsangaben, allerdings keine direkte breite Bevölkerungsumfrage.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Thorsten",
+  "normalized_name": "thorsten",
+  "overall_resonance": "Thorsten wird öffentlich überwiegend als klassischer, deutschsprachig gelesener Jungenname mit altnordisch-skandinavischen Wurzeln wahrgenommen. Die Rezeption ist eher sachlich-informativ als emotional; er wirkt traditionsnah und bekannt, ohne stark modisch zu erscheinen.",
+  "practical_notes": [
+    "Für Suchmaschinen- und Namenskontexte wirkt Thorsten klar, vertraut und gut einordenbar.",
+    "Die öffentliche Resonanz ist eher neutral bis leicht positiv, aber ohne starke Trend- oder Lifestyle-Aufladung.",
+    "Als Namensbild steht die Bedeutung über Herkunft und Tradition stärker im Vordergrund als eine aktuelle Modeassoziation."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt überwiegend von Namenslexika und Informationsseiten; das beschreibt vor allem Namensdeutungen, nicht die breite Alltagswahrnehmung.",
+    "Einzelkommentare oder gemischte Nutzerbezüge können die Tonlage leicht beeinflussen, daher nur vorsichtig interpretieren."
+  ],
+  "short_summary": "Thorsten wird in Deutschland meist als klassischer, traditionsnaher Name mit altnordisch-skandinavischer Herkunft wahrgenommen. Die öffentliche Rezeption ist überwiegend neutral bis leicht positiv und vor allem sachlich geprägt.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Thorsten � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/T/Th/Thorsten/"
+    },
+    {
+      "confidence": 0.88,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Thorsten: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Thorsten.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "traditionell",
+    "altnordisch-skandinavisch",
+    "sachlich",
+    "bodenständig",
+    "lexikalisch vertraut",
+    "nicht modern-trendy"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland ist der Name gut erkennbar und vor allem aus früheren Jahrzehnten vertraut. Die Sichtbarkeit heute scheint eher etabliert als trendgetrieben; die Quellen verweisen auf eine frühere größere Beliebtheit, besonders in den 1960er/1970er Jahren."
+}

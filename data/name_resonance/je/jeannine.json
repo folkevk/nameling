@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "französische Form bzw. Koseform von Johanna/Jeanne",
+    "hebräische Wurzeln",
+    "Bedeutung: „Gott ist gnädig“ / „Jahwe ist gnädig“",
+    "Schreibvarianten wie Jeanine",
+    "verwandte Namen: Janine, Janina, Jannine",
+    "teilweise mit Spitznamen wie Nini, Jenny oder Jea genannt"
+  ],
+  "confidence": 0.89,
+  "display_text": "Jeannine wirkt im deutschen Raum überwiegend neutral-sachlich und leicht elegant. Der Name ist französisch geprägt, eher selten, aber gut einordenbar. In den Quellen wird vor allem die Herkunft als Form von Johanna/Jeanne und die Bedeutung „Gott ist gnädig“ genannt. Eine starke öffentliche Diskussion oder Stigmatisierung ist nicht erkennbar; die Evidenz ist dafür vor allem namenskundlich und nicht breit gesellschaftlich.",
+  "evidence_quality": "mittel bis gut: zwei klare namenskundliche Quellen, aber wenig unabhängige oder diskursive öffentliche Breite",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Jeannine",
+  "normalized_name": "jeannine",
+  "overall_resonance": "überwiegend neutral-sachlich mit leicht positiver, kultursprachlicher Note",
+  "practical_notes": [
+    "Für Suchende wirkt der Name gut belegbar, mit klarer Herkunft und Bedeutung.",
+    "Die öffentliche Wahrnehmung erscheint eher neutral als polarisierend.",
+    "Im deutschen Sprachraum ist der Name verständlich, aber nicht sehr häufig.",
+    "Als Schreibweise gibt es mehrere nahe Varianten, was bei der Einordnung helfen kann."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt überwiegend aus Namenslexika und einer einzelnen Namensdatenbank; das spricht eher für beschreibende als für breite öffentliche Diskussion.",
+    "Es gibt keine klare, belastbare öffentliche Meinungsbildung zum Namen selbst.",
+    "Einzelne Nutzerkommentare sollten nicht als allgemeine Bewertung des Namens verstanden werden."
+  ],
+  "short_summary": "Jeannine wird im deutschen Raum vor allem sachlich und neutral wahrgenommen: ein französisch geprägter, eher seltener Vorname mit klarer Herkunft und positiver Bedeutungszuordnung.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Jeannine � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/J/Je/Jeannine/"
+    },
+    {
+      "confidence": 0.91,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Jeannine: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Jeannine.html"
+    }
+  ],
+  "style_effect": [
+    "französisch klingend",
+    "klassisch-elegant",
+    "weich und feminin im Klang",
+    "etwas altbekannt, aber nicht modisch-auffällig",
+    "namenskundlich klar einordenbar"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "im deutschsprachigen Raum bekannt, aber eher selten; keine starke öffentliche Massenresonanz erkennbar"
+}

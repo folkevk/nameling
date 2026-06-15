@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "russische Koseform von Natalia/Natalja",
+    "lateinische Herkunft",
+    "Bedeutung: an Weihnachten bzw. am Geburtstag Christi geboren",
+    "klassischer Mädchenvorname",
+    "Namenstag",
+    "eher seltene heutige Vergabe",
+    "Beliebtheitsschwerpunkt in früheren Jahrzehnten"
+  ],
+  "confidence": 0.92,
+  "display_text": "Natascha wird öffentlich meist als klassischer, vertrauter Vorname wahrgenommen. Die Namensquellen beschreiben ihn überwiegend neutral und informieren vor allem über Herkunft, Bedeutung und Beliebtheit. In Deutschland gilt der Name eher als bekannt, aber heute nicht mehr sehr häufig vergeben, mit einem stärkeren Bezug zu früheren Jahrzehnten. ",
+  "evidence_quality": "gut: zwei klare Namenslexika/Informationsseiten mit überwiegend neutraler, direkter Namensdiskussion; keine starken Widersprüche.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Natascha",
+  "normalized_name": "natascha",
+  "overall_resonance": "Natascha wird öffentlich meist als klassischer, vertrauter und sprachlich klar zuordenbarer Vorname wahrgenommen. Die vorhandenen Namensquellen sind überwiegend neutral-informativ, mit leicht positivem Klang durch die Assoziationen zu Herkunft, Bedeutung und Tradition.",
+  "practical_notes": [
+    "Für Suchmaschinen eignet sich die Einordnung als klassischer, eher selten gewordener Vorname.",
+    "Die Bedeutung und Herkunft sind in der öffentlichen Beschreibung sehr präsent.",
+    "Wenn du eine moderne Trendwirkung suchst, wirkt Natascha eher zeitlos als aktuell modisch."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Es liegen keine Hinweise auf starke negative öffentliche Stigmatisierung vor.",
+    "Die Evidenz beschreibt den Namen vor allem lexikalisch; Aussagen über heutige gesellschaftliche Wirkung sollten daher vorsichtig formuliert werden.",
+    "Ein einzelner Quellenhinweis auf einen Liedtitel ist für die öffentliche Namenswahrnehmung nur begrenzt aussagekräftig."
+  ],
+  "short_summary": "Natascha wirkt öffentlich als klassischer, vertrauter Vorname mit klarer Herkunfts- und Bedeutungszuschreibung; heute eher seltener, aber nicht negativ konnotiert.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Natascha � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/N/Na/Natascha/"
+    },
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Natascha: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Natascha.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "vertraut",
+    "international bzw. slawisch geprägt",
+    "eher zeittypisch für frühere Jahrzehnte",
+    "informativ und namenslexikalisch statt modisch"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland ist der Name eher bekannt, aber nicht mehr stark im Trend; die Quellen verorten ihn besonders in den 1970er bis 1990er Jahren und beschreiben ihn heute eher als selten vergeben."
+}

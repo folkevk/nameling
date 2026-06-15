@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "wird häufig als Kurz- oder Koseform von Beatrix verstanden",
+    "lateinischer Ursprung",
+    "Bedeutungen wie Reisende, Wanderin oder Pilgerin",
+    "teils auch als Glück Bringende oder Gesegnete gedeutet",
+    "weiblicher Vorname",
+    "in den Quellen als selten bis wenig verbreitet beschrieben"
+  ],
+  "confidence": 0.89,
+  "display_text": "Trixi wirkt in der öffentlichen Wahrnehmung freundlich, kurz und verspielt. Der Name wird meist als seltene Kurz- oder Koseform von Beatrix eingeordnet und mit Bedeutungen wie Reisende oder Glück Bringende verbunden. Eine breite öffentliche Diskussion gibt es dazu kaum; die Evidenz ist vor allem namenskundlich und daher vorsichtig zu lesen.",
+  "evidence_quality": "gut, aber auf wenige namenskundliche Webquellen beschränkt; kaum echte Meinungsvielfalt oder breite öffentliche Diskussion",
+  "generated_at": "2026-06-14T10:47:41Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Trixi",
+  "normalized_name": "trixi",
+  "overall_resonance": "Eher freundlich und leicht verspielt, insgesamt aber klar selten und ohne starke öffentliche Kontroverse.",
+  "practical_notes": [
+    "Für Suchmaschinen lässt sich Trixi als kurze, charmante und eher seltene Namensform zusammenfassen.",
+    "Die Wahrnehmung hängt stark davon ab, ob der Name als eigenständiger Vorname oder als Koseform gelesen wird.",
+    "Aufgrund der Seltenheit kann der Name als unverwechselbar wahrgenommen werden."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt nur aus wenigen Namenslexika; die öffentliche Debatte ist daher begrenzt.",
+    "Einige Beschreibungen wie 'zuckersüß' oder 'verspielt' sind eher Eindrucks- als Faktenaussagen.",
+    "Es gibt keine erkennbare negative Stigmatisierung, aber auch keine breite soziale Resonanz."
+  ],
+  "short_summary": "Trixi wird überwiegend freundlich, verspielt und als seltene Kurzform von Beatrix wahrgenommen; die öffentliche Resonanz ist eher neutral bis positiv, aber nur schwach belegt.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.95,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Trixi � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/T/Tr/Trixi/"
+    },
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Trixi: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Trixi.html"
+    }
+  ],
+  "style_effect": [
+    "kurz und eingängig",
+    "spielerisch-kosehaft",
+    "leicht nostalgisch",
+    "freundlich-unkompliziert",
+    "selten und markant"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland wirkt Trixi eher wenig verbreitet und dadurch auffällig, aber nicht breit diskutiert."
+}

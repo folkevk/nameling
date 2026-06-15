@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "hebräischer Ursprung",
+    "biblischer Bezug",
+    "Bedeutung: der Brennende / der Feurige / der Funkelnde",
+    "Namenstag",
+    "selten bis wenig verbreitet",
+    "mögliche Kurzformen wie Sera oder Sefi"
+  ],
+  "confidence": 0.84,
+  "display_text": "Serafin wird in Deutschland meist als seltener, klassischer Vorname mit biblisch-hebräischem Hintergrund wahrgenommen. Die öffentliche Resonanz ist eher neutral bis leicht positiv; die Bedeutung wird oft als „der Feurige“ oder „der Funkelnde“ beschrieben. Die Datenlage ist jedoch schmal und vor allem lexikonbasiert.",
+  "evidence_quality": "mittel bis schwach: zwei überwiegend lexikalische Quellen, wenig unabhängige Breite, aber klare Übereinstimmung bei Herkunft und Grundton.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Serafin",
+  "normalized_name": "serafin",
+  "overall_resonance": "Serafin wird öffentlich überwiegend als seltener, namenskundlich klar einordbarer Vorname mit eher positiver, feierlicher Anmutung wahrgenommen. Die verfügbaren Quellen sind jedoch schmal und stark lexikonbasiert, daher ist die Einordnung vorsichtig zu lesen.",
+  "practical_notes": [
+    "Für Suchmaschinen und Namenskontexte wirkt Serafin eher positiv, klassisch und ungewöhnlich.",
+    "Die Seltenheit kann als Stärke gelesen werden, macht den Namen aber auch weniger vertraut im Alltag.",
+    "Wegen der Quellenlage sollte keine zu starke Aussage über gesellschaftliche Trends getroffen werden."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist auf wenige Namenslexikon-Seiten begrenzt.",
+    "Beliebtheits- und Verbreitungsangaben können je nach Zeitraum und Quelle abweichen.",
+    "Die Wahrnehmung ist vor allem aus etymologischen Beschreibungen abgeleitet, nicht aus breiter öffentlicher Meinungsforschung."
+  ],
+  "short_summary": "Serafin wirkt in Deutschland eher selten, klassisch und leicht feierlich, mit positiver Bedeutungsassoziation. Die öffentliche Resonanz ist überwiegend neutral bis leicht positiv, bei begrenzter Evidenz.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Serafin � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/S/Se/Serafin/"
+    },
+    {
+      "confidence": 0.94,
+      "is_name_discussion": true,
+      "sentiment": "eher neutral bis leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Serafin: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Serafin.html"
+    }
+  ],
+  "style_effect": [
+    "biblisch/klassisch",
+    "edel und markant",
+    "feurig-funkelnde Bedeutungsassoziation",
+    "selten und dadurch individuell",
+    "sprachlich international anschlussfähig"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland eher selten und damit nicht breit alltagspräsent, aber klar bekannt genug, um in Namenslexika und Community-Seiten geführt zu werden."
+}

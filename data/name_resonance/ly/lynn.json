@@ -1,0 +1,72 @@
+{
+  "associations": [
+    "sanft",
+    "freundlich",
+    "mild",
+    "kleiner Wasserfall",
+    "See",
+    "mögliche althochdeutsche Herkunft",
+    "mögliche walisische Herkunft",
+    "Kurzform oder verselbständigte Form",
+    "Beliebtheit in Deutschland"
+  ],
+  "confidence": 0.91,
+  "display_text": "Lynn wirkt in der deutschen öffentlichen Wahrnehmung eher modern, freundlich und sanft. Der Name wird meist sachlich beschrieben, teils als Unisex-Name oder Kurzform, mit positiven Bedeutungen wie „die Sanfte“ oder Bezügen zu „See“ bzw. „kleiner Wasserfall“. Die Herkunft ist in den Quellen jedoch nicht eindeutig und sollte vorsichtig gelesen werden.",
+  "evidence_quality": "Mittel bis gut; die Quellen diskutieren den Namen direkt, sind aber überwiegend auf ein kleines Set von Namenslexika beschränkt.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Lynn",
+  "normalized_name": "lynn",
+  "overall_resonance": "Lynn wird in der vorliegenden deutschen Namens-Evidenz insgesamt eher positiv und modern wahrgenommen, zugleich aber sachlich und wenig emotional aufgeladen. Die Quellen beschreiben den Namen vor allem über Bedeutung, Herkunft und Beliebtheit.",
+  "practical_notes": [
+    "Für die öffentliche Wahrnehmung überwiegen freundliche und unproblematische Assoziationen.",
+    "Der Name wirkt kurz, modern und international anschlussfähig.",
+    "Wer eine klar belegte Herkunft sucht, sollte die Angaben vorsichtig lesen, da die Quellen mehrere Deutungen nennen."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stützt sich stark auf wenige Namenslexikon-/Namensdatenbank-Quellen.",
+    "Die Herkunft wird in den Quellen unterschiedlich bzw. nicht eindeutig dargestellt.",
+    "Geschlechtszuordnung und Gebrauch können je nach Kontext variieren."
+  ],
+  "short_summary": "Lynn wird in Deutschland eher positiv, modern und freundlich konnotiert wahrgenommen. Die öffentliche Darstellung ist sachlich und unauffällig, mit Assoziationen zu Sanftheit, Kürze und teils unisex Gebrauch; die Herkunft bleibt jedoch in den Quellen nicht eindeutig.",
+  "source_count": 3,
+  "sources": [
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Lynn � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/L/Ly/Lynn/"
+    },
+    {
+      "confidence": 0.95,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Lynn � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/L/Ly/Lynn/"
+    },
+    {
+      "confidence": 0.95,
+      "is_name_discussion": true,
+      "sentiment": "überwiegend positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Lynn: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Lynn.html"
+    }
+  ],
+  "style_effect": [
+    "modern",
+    "kurz und prägnant",
+    "sanft wirkend",
+    "freundlich assoziiert",
+    "namenskundlich/lexikalisch",
+    "teils unisex wahrgenommen"
+  ],
+  "usable_evidence_count": 3,
+  "visibility": "In Deutschland scheint Lynn als geläufiger, eher moderner Vorname sichtbar zu sein, teils auch als Unisex-Name bzw. Kurzform. Die öffentliche Präsenz wirkt vor allem namenskundlich und listenorientiert, nicht kontrovers."
+}

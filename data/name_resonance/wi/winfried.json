@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "Bedeutung: „Freund des Friedens“ bzw. friedliche, schützende Konnotation",
+    "althochdeutsche / altdeutsche Herkunft",
+    "historisch und eher selten im heutigen Gebrauch",
+    "Namenstag am 5. Juni",
+    "gelegentliche Kurzformen wie Winni oder Winnie"
+  ],
+  "confidence": 0.84,
+  "display_text": "Winfried wirkt in Deutschland vor allem klassisch, traditionell und eher selten. Öffentlich wird der Name meist neutral beschrieben, mit klarer Bedeutung („Freund des Friedens“) und altdeutscher Herkunft. Für eine starke moderne Resonanz oder deutliche gesellschaftliche Bewertung gibt es in den Quellen wenig Belege.",
+  "evidence_quality": "mittel bis schwach für Resonanz, gut für Bedeutung und Herkunft",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Winfried",
+  "normalized_name": "winfried",
+  "overall_resonance": "Überwiegend neutral bis traditionell-klar. Winfried wird öffentlich vor allem als klassischer, altdeutscher Vorname mit friedlicher Bedeutung wahrgenommen; eine starke moderne Modewirkung ist in den Quellen nicht erkennbar.",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt Winfried seriös, klassisch und eindeutig männlich.",
+    "Der Name ist gut verständlich, aber im heutigen Alltag selten.",
+    "Die Quellen liefern vor allem Etymologie und Beliebtheit, weniger echte Breitenresonanz."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz zur öffentlichen Resonanz ist begrenzt; es handelt sich überwiegend um Namenslexika und datenbankartige Quellen.",
+    "Einzelne Nutzerkommentare deuten auf „unmodern“ oder traditionell, sind aber nicht repräsentativ.",
+    "Keine belastbaren Hinweise auf starke positive oder negative gesellschaftliche Stigmatisierung in den vorliegenden Quellen."
+  ],
+  "short_summary": "Winfried wird öffentlich vor allem als klassischer, seltener und friedlich konnotierter Vorname wahrgenommen. Die Evidenz ist eher namenskundlich als gesellschaftsbezogen.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Winfried � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/W/Wi/Winfried/"
+    },
+    {
+      "confidence": 0.95,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Winfried: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Winfried.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "altdeutsch",
+    "sachlich",
+    "traditionell",
+    "etwas antiquiert im heutigen Sprachgefühl",
+    "klar und gut lesbar"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland eher gering und heute selten vergeben; der Name ist eher bekannt als historisch-traditionell als als aktuell trendig."
+}

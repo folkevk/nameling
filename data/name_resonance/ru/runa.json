@@ -1,0 +1,75 @@
+{
+  "associations": [
+    "altnordische Herkunft",
+    "Rune",
+    "Geheimnis",
+    "Zauber",
+    "verborgenes Wissen",
+    "skandinavischer Eindruck",
+    "Seltenheit",
+    "Namenstag",
+    "weiblicher Vorname",
+    "Kurzform nordischer Namen"
+  ],
+  "confidence": 0.78,
+  "display_text": "Runa wirkt im Deutschen überwiegend positiv: kurz, selten, skandinavisch und mit einer geheimnisvoll-zauberhaften Note. Die verfügbare Evidenz ist jedoch vor allem namenskundlich, nicht breit gesellschaftlich – die öffentliche Resonanz ist daher eher vorsichtig als eindeutig.",
+  "evidence_quality": "Mittel bis schwach: gute Namensbeschreibung, aber wenig echte öffentliche Diskussionsresonanz.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Runa",
+  "normalized_name": "runa",
+  "overall_resonance": "Überwiegend positiv und leicht geheimnisvoll-ästhetisch geprägt, mit eher kleiner und datenbanklastiger Evidenzbasis.",
+  "practical_notes": [
+    "Für die Namenssuche wirkt Runa kurz, eigenständig und ungewöhnlich.",
+    "Der Name kann wegen der Nähe zu 'Rune' oder 'Luna' gelegentlich erklärungsbedürftig sein.",
+    "Die Resonanz erscheint eher positiv als kontrovers, aber insgesamt nur mäßig abgesichert."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt fast nur aus Namensdatenbanken und nicht aus breiten Alltagsdiskussionen.",
+    "Die positive Wirkung beruht vor allem auf Bedeutungs- und Herkunftsdeutungen, nicht auf belastbarer öffentlicher Debatte.",
+    "Einzelne Kommentare oder Einordnungen sind nicht verallgemeinerbar."
+  ],
+  "short_summary": "Runa wird im deutschsprachigen Raum meist positiv, geheimnisvoll und skandinavisch assoziiert, bleibt aber eher selten und vor allem aus Namenslexika bekannt.",
+  "source_count": 3,
+  "sources": [
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "Vorname Runa � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/R/Ru/Runa/"
+    },
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "Vorname Runa � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/R/Ru/Runa/"
+    },
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Runa: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Runa.html"
+    }
+  ],
+  "style_effect": [
+    "altnordisch",
+    "skandinavisch",
+    "rätselhaft",
+    "zauberhaft",
+    "kurz und markant",
+    "selten",
+    "namenskundlich",
+    "eher weich im Klang"
+  ],
+  "usable_evidence_count": 3,
+  "visibility": "Im deutschsprachigen Raum eher selten und dadurch auffälliger als massenhaft verbreitet; die öffentliche Sichtbarkeit wirkt vor allem über Namenslexika und einzelne Namenseinträge vermittelt."
+}

@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "französische Form",
+    "lateinisch/römische Herkunft",
+    "Bedeutung: die aus der Familie der Fabier Stammende",
+    "alternative Deutung: die Edle",
+    "seltenere Verwendung in Deutschland",
+    "Namenstag wird teils genannt",
+    "Koseformen und Spitznamen kommen vor"
+  ],
+  "confidence": 0.84,
+  "display_text": "Fabienne wird in Deutschland meist als eleganter, französisch geprägter und eher seltener Mädchenname wahrgenommen. Die öffentliche Rezeption ist überwiegend sachlich bis positiv; einzelne Kommentare sind vorhanden, aber nicht repräsentativ. Insgesamt wirkt der Name klassisch-international und feminin, ohne auffällige gesellschaftliche Stigmatisierung.",
+  "evidence_quality": "mittel: zwei einschlägige Namenslexika mit überwiegend sachlicher Beschreibung; Resonanzhinweise aus Kommentaren sind nur eingeschränkt belastbar.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Fabienne",
+  "normalized_name": "fabienne",
+  "overall_resonance": "Fabienne wird in Deutschland überwiegend als französisch geprägter, feminin wirkender Vorname mit eleganter und eher klassisch-internationaler Anmutung wahrgenommen. Die öffentliche Rezeption ist insgesamt sachlich bis positiv, ohne starke Kontroversen; einzelne Kommentare sind jedoch nicht repräsentativ.",
+  "practical_notes": [
+    "Für viele klingt der Name gepflegt, international und leicht französisch.",
+    "Der Name ist gut lesbar und eindeutig weiblich konnotiert.",
+    "Wer einen vertrauten, aber nicht sehr häufigen Vornamen sucht, findet hier eine eher unaufdringliche Option."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die öffentliche Resonanz stützt sich nur auf wenige Namenslexikon-Seiten; die Datenlage ist daher begrenzt.",
+    "Kommentarsektionen können einzelne Vorlieben oder Abneigungen zeigen, sind aber nicht repräsentativ für die Gesamtwahrnehmung.",
+    "Keine belastbaren Hinweise auf eine gesellschaftliche Stigmatisierung des Namens in der vorliegenden Evidenz."
+  ],
+  "short_summary": "Fabienne wirkt in Deutschland überwiegend elegant, französisch und eher selten; die öffentliche Rezeption ist sachlich bis positiv, bei begrenzter Evidenz.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.86,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Fabienne � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/F/Fa/Fabienne/"
+    },
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "mixed",
+      "source_type": "web",
+      "title": "&#9655; Vorname Fabienne: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Fabienne.html"
+    }
+  ],
+  "style_effect": [
+    "französisch-elegant",
+    "weiblich und weich im Klang",
+    "klassisch-international",
+    "eher selten statt alltäglich",
+    "namenskundlich gut anschlussfähig"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "mittlere Sichtbarkeit in Deutschland: bekannt, aber nicht so häufig wie sehr verbreitete Modenamen. Die Evidenz deutet auf eine stabile, eher seltenere Nutzung hin."
+}

@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "althochdeutsche Herkunft",
+    "Bedeutung im Sinne von 'Heer' und 'Glanz' bzw. 'berühmter Krieger'",
+    "Verwandtschaft zu Herbert",
+    "historische Verbreitung im Mittelalter",
+    "Namenstag",
+    "kirchlich-historischer Bezug über Heribert von Köln"
+  ],
+  "confidence": 0.93,
+  "display_text": "Heribert: selten, klassisch und historisch geprägt. Der Name hat althochdeutsche Wurzeln, ist mit Herbert verwandt und wirkt in Deutschland eher traditionsbewusst als modern.",
+  "evidence_quality": "hoch für Herkunft, Bedeutung und Einordnung; mittel für öffentliche Resonanz, da die Daten vor allem aus Namenslexika stammen und kaum breite Alltagsstimmen enthalten.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Heribert",
+  "normalized_name": "heribert",
+  "overall_resonance": "Heribert wirkt öffentlich vor allem klassisch, traditionsbewusst und deutlich historisch geprägt. Der Name hat eine alte, namenkundlich gut belegte Herkunft und wird eher als selten und altmodisch wahrgenommen als als modern-trendig.",
+  "practical_notes": [
+    "Für Suchende ist Heribert ein klar traditioneller, seltener Name mit starker historischer Einordnung.",
+    "Kurzformen wie Heri, Berti oder Bert werden teilweise genannt.",
+    "Wer einen vertrauten, aber ungewöhnlichen Namen sucht, findet hier eher einen klassischen als einen modernen Klang."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Quellenlage ist gut, aber überwiegend lexikalisch-namenskundlich; es gibt nur wenig echte Breitenwahrnehmung in der Allgemeinöffentlichkeit.",
+    "Positive oder negative soziale Bewertungen sollten nicht überinterpretiert werden; der Eindruck 'altmodisch' beschreibt vor allem den heutigen Gebrauch, nicht die Qualität des Namens."
+  ],
+  "short_summary": "Heribert ist in Deutschland ein seltener, klassisch-historischer Vorname mit althochdeutscher Herkunft. Öffentlich wird er eher traditionell und altmodisch als modern wahrgenommen.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Heribert � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/H/He/Heribert/"
+    },
+    {
+      "confidence": 0.95,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Heribert: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Heribert.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "traditionell",
+    "historisch",
+    "eher altmodisch",
+    "namenkundlich markant",
+    "selten"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland eher geringe Alltagspräsenz; der Name ist bekannt, aber deutlich selten. Dadurch fällt er eher als traditionsreicher Einzelname auf als als gängiger Vorname."
+}

@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "französische Variante von Lucia",
+    "lateinischer Ursprung über lux / Licht",
+    "Bedeutungen wie Licht, Helligkeit, Tageslicht",
+    "weiblicher Vorname",
+    "Namenstag-Traditionen",
+    "historisch bekannt, aktuell eher mittelmäßig präsent in Deutschland"
+  ],
+  "confidence": 0.83,
+  "display_text": "Lucie gilt öffentlich meist als freundlich, hell und klassisch-elegant. Die Quellen verbinden den Namen vor allem mit Licht und einer französisch-lateinischen Herkunft. In Deutschland wirkt er bekannt, aber eher moderat verbreitet; die Evidenz ist dabei vor allem namenskundlich und nicht breit gesellschaftlich.",
+  "evidence_quality": "mittel: zwei relevante Namensseiten, aber keine breite öffentliche Debatte oder repräsentative Statistik in der Evidenz",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Lucie",
+  "normalized_name": "lucie",
+  "overall_resonance": "Überwiegend freundlich und eher positiv konnotiert, insgesamt aber vor allem sachlich-namenskundlich geprägt.",
+  "practical_notes": [
+    "Für eine Namenssuche in Deutschland wirkt Lucie vertraut, aber nicht austauschbar.",
+    "Die Schreibweise mit -ie kann als französischer oder klassischer Akzent wahrgenommen werden.",
+    "Kurzformen und Spitznamen sind möglich, bleiben aber eher dezent.",
+    "Die Quellenlage spricht eher für eine solide, traditionsnahe Wahrnehmung als für einen stark trendigen Namen."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt im Wesentlichen aus Namenslexikon- und Informationsseiten, nicht aus breiter öffentlicher Meinungsdiskussion.",
+    "Die positive Tendenz beruht vor allem auf der Bedeutung und der stilistischen Einordnung, nicht auf belastbaren Umfragedaten.",
+    "Keine Hinweise auf soziale Stigmatisierung in der vorliegenden Evidenz."
+  ],
+  "short_summary": "Lucie wird in den Quellen überwiegend positiv und lichtbezogen beschrieben; die Wahrnehmung in Deutschland wirkt eher klassisch, freundlich und moderat verbreitet.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Lucie � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/L/Lu/Lucie/"
+    },
+    {
+      "confidence": 0.92,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Lucie: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Lucie.html"
+    }
+  ],
+  "style_effect": [
+    "wirkt hell und leicht durch die Licht-Bedeutung",
+    "klassisch und zugleich französisch angehaucht",
+    "eher elegant als verspielt",
+    "namenskundlich klar eingeordnet",
+    "durch Varianten und Spitznamen gut anschlussfähig"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland ist Lucie als Vorname bekannt, wirkt aber eher nicht massiv verbreitet; die öffentliche Präsenz in den Quellen ist entsprechend moderat."
+}

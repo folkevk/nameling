@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "Koseform von Adelheid",
+    "althochdeutsche Herkunft",
+    "Bedeutung im Sinne von edel/vornehm",
+    "Beliebtheit bzw. Wiederentdeckung in Deutschland",
+    "Namenstag",
+    "Buch- und Popkulturbezug durch die Figur 'Heidi'"
+  ],
+  "confidence": 0.86,
+  "display_text": "Heidi wirkt in Deutschland überwiegend positiv, klassisch und freundlich. Der Name ist gut bekannt, traditionell verankert und mit der Bedeutung „edel/vornehm“ sowie einer bekannten Kulturassoziation verbunden. Die Evidenz ist solide, aber eher namenskundlich als breit öffentlich-rezeptionsbezogen.",
+  "evidence_quality": "gut, aber überwiegend namenskundlich und quellengebunden; nur begrenzt breit gestützte Publikumsresonanz",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Heidi",
+  "normalized_name": "heidi",
+  "overall_resonance": "Überwiegend positiv und vertraut, mit klassisch-traditioneller Wirkung.",
+  "practical_notes": [
+    "Als Vorname ist Heidi sehr bekannt und leicht verständlich.",
+    "Er vermittelt eher einen freundlichen, klassischen Eindruck als einen stark modernen.",
+    "Für eine öffentliche Namenssuche erscheint die Evidenz insgesamt solide, aber nicht breit diversifiziert."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Resonanz wirkt teilweise von populären Kultur- und Traditionsassoziationen geprägt; das ist keine feste Eigenschaft des Namens selbst.",
+    "Einige Quellen mischen Fakten mit Einzelmeinungen, daher ist die Gesamtwirkung nur vorsichtig zu gewichten."
+  ],
+  "short_summary": "Heidi wird in den vorliegenden Quellen überwiegend positiv, klassisch und freundlich wahrgenommen. Der Name ist in Deutschland bekannt, traditionell verankert und mit edler Bedeutung sowie kulturellen Heidi-Referenzen verbunden.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "mostly positive",
+      "source_type": "web",
+      "title": "Vorname Heidi � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/H/He/Heidi/"
+    },
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Heidi: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Heidi.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "warm",
+    "fröhlich",
+    "bodenständig",
+    "kurz und eingängig",
+    "leicht nostalgisch"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Der Name ist in Deutschland gut bekannt und klar als weiblicher Vorname einordbar. Er wirkt eher etabliert als modisch-experimentell."
+}

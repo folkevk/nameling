@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "keltische bzw. altirische Herkunft",
+    "Bedeutungen wie „die Erhabene“ und „die Hohe“",
+    "früher sehr beliebt, heute selten",
+    "Namenstag",
+    "klassischer Mädchennamen-Eindruck",
+    "Varianten und Koseformen"
+  ],
+  "confidence": 0.88,
+  "display_text": "Brigitte wirkt in der öffentlichen Namensbeschreibung klassisch und traditionsnah. Der Name wird mit keltischer Herkunft, Bedeutungen wie „die Erhabene“ oder „die Hohe“ und einem heute eher seltenen Gebrauch verbunden. Die vorliegende Evidenz ist allerdings begrenzt und stammt vor allem aus Namenslexika.",
+  "evidence_quality": "mittel: zwei einschlägige Namenslexikon-Quellen, aber geringe Breite und kaum echte öffentliche Diskussionsdaten",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Brigitte",
+  "normalized_name": "brigitte",
+  "overall_resonance": "Brigitte wirkt in der öffentlichen Namensbeschreibung überwiegend klassisch, traditionsnah und sachlich positiv-konnotiert. Der Name wird vor allem mit keltisch/altirischer Herkunft, Bedeutungen wie „die Hohe“, „die Erhabene“ oder „die Strahlende“ sowie mit einem eher älteren, heute seltenen Gebrauch verbunden.",
+  "practical_notes": [
+    "Für Suchmaschinen und Kurzprofile eignet sich eine Beschreibung als klassischer, traditionsreicher Vorname mit historischer Tiefe.",
+    "Wenn Aktualität wichtig ist, sollte ergänzt werden, dass der Name heute eher selten vergeben wird.",
+    "Die öffentliche Wahrnehmung wirkt eher neutral bis leicht positiv, ohne starke Trend- oder Stigmaeffekte."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist auf wenige namenskundliche Webquellen beschränkt; sie zeigt vor allem Lexikon- und Bedeutungsbeschreibungen, nicht eine breite öffentliche Debatte.",
+    "Es gibt keine belastbaren Hinweise auf starke negative oder stark polarisierende Resonanz in den vorliegenden Quellen."
+  ],
+  "short_summary": "Brigitte wird überwiegend als klassischer, traditionsreicher und heute eher seltener Vorname mit keltischer Herkunft wahrgenommen.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Brigitte � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/B/Br/Brigitte/"
+    },
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Brigitte: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Brigitte.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "traditionsnah",
+    "würdig",
+    "eher altmodisch",
+    "seriös",
+    "namenskundlich geprägt"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland ist der Name laut den vorliegenden Quellen heute eher selten, war aber früher deutlich verbreiteter. Die öffentliche Sichtbarkeit ist daher eher historisch als aktuell-populär."
+}

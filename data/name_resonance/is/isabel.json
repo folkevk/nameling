@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "als spanische und portugiesische Form von Elisabeth beschrieben",
+    "Bedeutungen rund um „Gott ist Fülle“ bzw. „Gott ist Vollkommenheit“",
+    "Namenstag und historische Varianten",
+    "Beliebtheit in Deutschland",
+    "Kosenamen wie Isa, Isi oder Bella",
+    "gelegentliche Verwechslungen mit Isabelle/Isabell"
+  ],
+  "confidence": 0.94,
+  "display_text": "Isabel gilt in Deutschland als klassischer, international verständlicher Vorname mit überwiegend positiver Resonanz. Die Quellen verbinden ihn mit Elisabeth, schöner/positiver Bedeutungsdeutung und vertrauter, zeitloser Wirkung. Leichte Einschränkungen betreffen vor allem mögliche Verwechslungen mit ähnlichen Schreibweisen wie Isabelle oder Isabell.",
+  "evidence_quality": "hoch: mehrere direkte namenkundliche Quellen, überwiegend konsistent, mit einzelnen subjektiven Nutzeranteilen",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Isabel",
+  "normalized_name": "isabel",
+  "overall_resonance": "Überwiegend positiv und klassisch-international wahrgenommen, mit eher neutralen bis leicht gemischten Nebennoten durch Schreibweisen- und Verwechslungsfragen.",
+  "practical_notes": [
+    "Für die Namenssuche wirkt Isabel vertraut, gut aussprechbar und international anschlussfähig.",
+    "Die Schreibweise sollte bei Bedarf klar angegeben werden, da Varianten ähnlich aussehen können.",
+    "Die Evidenzlage ist gut, da mehrere namenskundliche Quellen den Namen direkt behandeln."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Quellen enthalten teils Community-Kommentare und damit subjektive Einschätzungen.",
+    "Vereinzelte Hinweise auf Schreibweisenverwechslungen können die Wahrnehmung leicht trüben, sind aber kein grundlegendes Negativmerkmal.",
+    "Keine belastbare Evidenz für soziale Stigmatisierung in den vorliegenden Quellen."
+  ],
+  "short_summary": "Isabel wird im deutschsprachigen Raum überwiegend positiv, klassisch und international wahrgenommen. Kleine Vorbehalte betreffen eher Schreibweise und Verwechslungsgefahr mit ähnlichen Formen als den Namen selbst.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "positive",
+      "source_type": "web",
+      "title": "Vorname Isabel � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/I/Is/Isabel/"
+    },
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "mixed",
+      "source_type": "web",
+      "title": "&#9655; Vorname Isabel: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Isabel.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "elegant",
+    "international verständlich",
+    "zeitlos",
+    "namenskundlich vertraut"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Im deutschsprachigen Raum gut bekannt und präsent; als Vornamensform sichtbar, aber nicht auffällig modisch."
+}

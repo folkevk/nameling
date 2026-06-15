@@ -1,0 +1,62 @@
+{
+  "associations": [
+    "hebräische Herkunft",
+    "Bedeutung: „Jahwe ist Gott“",
+    "weibliche Form von Joel",
+    "französisch/englische Prägung",
+    "international gebräuchlich",
+    "Namenstag wird genannt",
+    "eher positive, informativ-lexikalische Einordnung"
+  ],
+  "confidence": 0.89,
+  "display_text": "Joelle wirkt in den vorliegenden Quellen überwiegend sachlich bis leicht positiv: ein internationaler, weiblicher Vorname mit hebräischer Herkunft und moderner, weicher Klangwirkung. Die öffentliche Sichtbarkeit ist vorhanden, aber die Evidenz bleibt auf Namenslexika begrenzt.",
+  "evidence_quality": "mittel bis gut; mehrere Namenslexika, aber keine breite öffentliche Diskussionslage",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Joelle",
+  "normalized_name": "joelle",
+  "overall_resonance": "Überwiegend sachlich bis leicht positiv: Joelle wird in den vorliegenden Namensquellen als internationaler, weiblicher Vorname mit hebräischer Herkunft beschrieben und eher freundlich als kontrovers wahrgenommen.",
+  "practical_notes": [
+    "Für die Namenssuche wirkt Joelle vertraut, international und gut verständlich.",
+    "Die Schreibweise kann je nach Region als französisch oder englisch gelesen werden.",
+    "Wenn ein klar weiblich wahrgenommener, weicher und moderner Name gesucht wird, passt Joelle gut."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist auf wenige Namenslexika beschränkt; echte Meinungsvielfalt oder breite öffentliche Resonanz ist nur eingeschränkt sichtbar.",
+    "Es gibt keine belastbaren Hinweise auf eine negative gesellschaftliche Stigmatisierung des Namens in den Daten.",
+    "Beliebtheitsangaben sollten vorsichtig gelesen werden, da sie je nach Quelle und Erhebungsjahr variieren können."
+  ],
+  "short_summary": "Joelle wird in den verfügbaren Quellen überwiegend freundlich und nüchtern beschrieben: international, weiblich, mit hebräischer Bedeutung und eher moderner Ausstrahlung.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.95,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Joelle � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/J/Jo/Joelle/"
+    },
+    {
+      "confidence": 0.88,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Joelle: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Joelle.html"
+    }
+  ],
+  "style_effect": [
+    "elegant",
+    "international",
+    "weich klingend",
+    "modern",
+    "namenskundlich klar",
+    "eher klassisch als ausgefallen"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Im deutschsprachigen Raum sichtbar, aber nicht extrem verbreitet; die Quellen sprechen von Beliebtheit bzw. Hitlisten-Präsenz, ohne dass eine starke öffentliche Debatte erkennbar ist."
+}

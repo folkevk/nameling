@@ -1,0 +1,72 @@
+{
+  "associations": [
+    "hebräischer Ursprung",
+    "Taube",
+    "Friedensbringer",
+    "biblischer Bezug",
+    "Namenstag",
+    "beliebt in Deutschland",
+    "unisex",
+    "modern"
+  ],
+  "confidence": 0.9,
+  "display_text": "Jona wirkt in Deutschland überwiegend positiv: modern, freundlich und oft als unisex wahrgenommen. Die Quellen betonen vor allem den biblisch-hebräischen Ursprung sowie die Bedeutung rund um Taube und Frieden. Die Evidenz ist ordentlich, stammt aber fast nur aus Namenslexika.",
+  "evidence_quality": "gut, aber quellenarm: drei passende Namenslexikon-Quellen mit konsistenter Tendenz, jedoch wenig Meinungsvielfalt und kaum unabhängige öffentliche Diskussion.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Jona",
+  "normalized_name": "jona",
+  "overall_resonance": "Überwiegend positiv und modern, mit klarer biblisch-etymologischer Prägung. Jona wird in den Quellen meist als beliebter, freundlicher und geschlechtsneutral wahrgenommener Vorname beschrieben.",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt Jona klar positiv, modern und unkompliziert.",
+    "Die unisex-Wahrnehmung kann je nach Umfeld unterschiedlich stark hervortreten.",
+    "Wer einen Namen mit ruhiger, freundlicher und religiös geprägter Anmutung sucht, findet hier eine passende Beschreibung."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt fast ausschließlich aus Namenslexika und redaktionellen Namensseiten, also eher aus beschreibender als aus breit gesellschaftlicher Resonanz.",
+    "Es liegen keine belastbaren Hinweise auf negative oder stigmatisierende öffentliche Bewertungen vor.",
+    "Beliebtheitsangaben sind in diesem Material eher qualitativ als unabhängig überprüft."
+  ],
+  "short_summary": "Jona wird in den vorliegenden Quellen meist positiv, modern und unisex wahrgenommen; die Bedeutung und der biblische Ursprung prägen die Resonanz deutlich.",
+  "source_count": 3,
+  "sources": [
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "positive",
+      "source_type": "web",
+      "title": "Vorname Jona � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/J/Jo/Jona/"
+    },
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "Vorname Jona � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/J/Jo/Jona/"
+    },
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Jona: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Jona.html"
+    }
+  ],
+  "style_effect": [
+    "modern",
+    "freundlich",
+    "biblisch",
+    "klar",
+    "kurz und einprägsam",
+    "geschlechtsneutral/unisex",
+    "eher zeitgemäß als traditionell"
+  ],
+  "usable_evidence_count": 3,
+  "visibility": "Im deutschsprachigen Raum gut sichtbar und etabliert, vor allem in Namenslexika und Beliebtheitsübersichten. Die öffentliche Rezeption wirkt eher wertschätzend als kontrovers."
+}

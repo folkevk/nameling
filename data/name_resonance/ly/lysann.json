@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "deutschsprachiger weiblicher Vorname",
+    "selten in Deutschland",
+    "Schreibvariante bzw. verkürzte Form im Umfeld von Lisann/Lisanne",
+    "mögliche Verbindung zu Lisa und Anne",
+    "teils Hinweis auf griechische Herkunft und die Bedeutung 'die Freigelassene' / 'Befreierin'",
+    "Namenstagangaben in den Quellen",
+    "vereinzelt kommentierte Assoziation mit 'Lilie'"
+  ],
+  "confidence": 0.9,
+  "display_text": "Lysann wirkt in den Quellen überwiegend sachlich-neutral und leicht positiv. Der Name gilt als selten in Deutschland, klingt weich und feminin und wird namenkundlich oft im Umfeld von Lisanne, Lisann, Lisa und Anne eingeordnet. Zur Herkunft kursieren mehrere Deutungen; daher sollte sie vorsichtig formuliert werden.",
+  "evidence_quality": "mittel bis gut: klare Namensquellen, aber überwiegend beschreibend und ohne breite öffentliche Diskussion",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Lysann",
+  "normalized_name": "lysann",
+  "overall_resonance": "Überwiegend sachlich-neutral mit leicht positivem Unterton. Der Name wirkt in den verfügbaren Quellen eher selten und namenkundlich interessant als stark emotional aufgeladen.",
+  "practical_notes": [
+    "Für eine Suchmaschine lässt sich Lysann am besten als seltener, freundlich wirkender Mädchenname mit leicht variierender Herleitung zusammenfassen.",
+    "Die Quellenlage spricht eher für eine neutrale bis positive Wahrnehmung als für starke Polarisierung.",
+    "Bei Herkunftsangaben vorsichtig formulieren, da mehrere Deutungen kursieren."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt vor allem aus Namenslexika und Datenbanken; eine breite öffentliche Debatte ist nicht erkennbar.",
+    "Zur Herkunft und Bedeutung gibt es teils unterschiedliche Deutungen; Kommentare sind eher anekdotisch als gesichert.",
+    "Keine Hinweise auf negative gesellschaftliche Stigmatisierung in den vorliegenden Quellen."
+  ],
+  "short_summary": "Lysann wird in den verfügbaren Quellen vor allem sachlich beschrieben: ein seltener weiblicher Vorname in Deutschland, insgesamt neutral bis leicht positiv wahrgenommen, mit teils unterschiedlichen Herleitungen.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Lysann � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/L/Ly/Lysann/"
+    },
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Lysann: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Lysann.html"
+    }
+  ],
+  "style_effect": [
+    "klingt weich und feminin",
+    "wirkt modern, aber nicht sehr häufig",
+    "hat einen leicht lexikalischen, namenkundlichen Charakter",
+    "wird teils als Variante bzw. Kurzform im Umfeld von Lisa, Anne, Lisanne oder Lisann eingeordnet",
+    "kann durch die seltene Verwendung als individuell wahrgenommen werden"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Eher geringe bis mittlere Sichtbarkeit in Deutschland; in den Quellen wird Lysann als selten bzw. wenig verbreitet beschrieben."
+}

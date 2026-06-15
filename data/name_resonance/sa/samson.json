@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "hebräische Herkunft",
+    "biblischer Vorname",
+    "Bedeutung rund um Sonne/Glanz",
+    "Namenstag am 28. Juli",
+    "selten bzw. ungewöhnlicher als Durchschnitt",
+    "alternative Schreibweise Simson"
+  ],
+  "confidence": 0.89,
+  "display_text": "Samson wird in Deutschland eher selten vergeben und meist als biblisch-hebräischer Name mit der Bedeutung rund um Sonne/Glanz wahrgenommen. Die öffentliche Resonanz ist überwiegend sachlich-neutral, mit leicht positiver Färbung durch Herkunft, Klang und Namensbedeutung.",
+  "evidence_quality": "Gut für Herkunft, Bedeutung und Einordnung; mittel für echte öffentliche Resonanz, da die Quellen überwiegend lexikalisch sind und kaum freie Diskurse enthalten.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Samson",
+  "normalized_name": "samson",
+  "overall_resonance": "Im deutschsprachigen Raum wirkt Samson als seltener, klar biblisch geprägter Vorname mit eher sachlich-neutraler bis leicht positiver öffentlicher Resonanz. Der Name wird vor allem über Herkunft, Bedeutung und Namenstag beschrieben; die Wahrnehmung ist weniger alltagsgebräuchlich als bei sehr häufigen Namen.",
+  "practical_notes": [
+    "Für Suchmaschinen eignet sich die Kurzbeschreibung als biblischer, seltener Jungenname mit klarer Herkunft.",
+    "Die Wahrnehmung dürfte eher von Bedeutung und Klang als von aktuellen Trends geprägt sein.",
+    "Wegen der Seltenheit kann der Name auffallen, bleibt aber grundsätzlich gut einordenbar."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt im Wesentlichen aus Namenslexika und einer einzelnen Datenbank; die öffentliche Resonanz ist daher nur begrenzt diskursiv belegt.",
+    "Die positiven Töne sind eher mild und beschreibend als breit gesellschaftlich belegt.",
+    "Keine belastbaren Hinweise auf soziale Stigmatisierung in der vorliegenden Evidenz."
+  ],
+  "short_summary": "Samson ist in Deutschland ein seltener, biblisch geprägter Vorname mit sachlich-neutraler bis leicht positiver Resonanz.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.95,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Samson � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/S/Sa/Samson/"
+    },
+    {
+      "confidence": 0.95,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Samson: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Samson.html"
+    }
+  ],
+  "style_effect": [
+    "biblisch",
+    "klassisch-traditionell",
+    "markant",
+    "eher selten",
+    "lexikalisch klar",
+    "zeitlos"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Eher selten bis mäßig verbreitet in Deutschland; dadurch auffällig, aber nicht ungewöhnlich im Sinne eines stark belasteten Namens."
+}

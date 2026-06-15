@@ -1,0 +1,63 @@
+{
+  "associations": [
+    "lateinischer Ursprung",
+    "französischer Einfluss",
+    "Bedeutung: die Kleine / die Jüngere",
+    "weibliche Form von Paul",
+    "Namenstag",
+    "lange Namensverwendung",
+    "Beliebtheit in Deutschland",
+    "Spitznamen wie Pauli oder Paule"
+  ],
+  "confidence": 0.81,
+  "display_text": "Pauline wirkt in Deutschland überwiegend positiv: klassisch, freundlich und gut bekannt. Die vorhandenen Quellen verbinden den Namen mit einer langen Nutzung, lateinisch/französischen Wurzeln und einer eher zeitlosen, geläufigen Wirkung. Die öffentliche Resonanz scheint insgesamt ruhig und anerkennend zu sein; für eine breite Markt- oder Alltagsresonanz gibt es allerdings nur begrenzte Evidenz aus Namensportalen.",
+  "evidence_quality": "mittel bis gut: zwei namenskundliche Quellen mit klar positiver Tendenz, aber kaum unabhängige öffentliche Breitenresonanz außerhalb von Namensportalen.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Pauline",
+  "normalized_name": "pauline",
+  "overall_resonance": "Überwiegend positiv und eher klassisch-vertraut; der Name wird in den Quellen als geläufig, freundlich und namenskundlich gut anschlussfähig beschrieben.",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt Pauline meist vertraut, unkompliziert und traditionsnah.",
+    "Der Name ist eher etabliert als auffällig und dürfte deshalb wenig Erklärungsbedarf erzeugen.",
+    "Wenn ein besonders moderner oder ungewöhnlicher Klang gesucht wird, wirkt Pauline eher klassisch als trendig."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die vorliegende Evidenz misst vor allem die Darstellung auf Namensportalen, nicht eine breite öffentliche Meinungslandschaft.",
+    "Die positiven Einschätzungen beruhen teils auf subjektiven Einzelkommentaren; daraus sollte keine allgemeingültige Wirkung abgeleitet werden."
+  ],
+  "short_summary": "Pauline wird in den Quellen überwiegend positiv, klassisch und freundlich wahrgenommen; die öffentliche Resonanz wirkt eher vertraut als auffällig. Die Evidenz ist solide, aber vor allem namenskundlich geprägt.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.99,
+      "is_name_discussion": true,
+      "sentiment": "positive",
+      "source_type": "web",
+      "title": "Vorname Pauline � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/P/Pa/Pauline/"
+    },
+    {
+      "confidence": 0.88,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Pauline: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Pauline.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "weiblich-zart",
+    "freundlich",
+    "zeitlos",
+    "leicht französisch anmutend",
+    "bildungsnah/namenskundlich",
+    "geläufig statt exotisch"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland sichtbar und bekannt, mit solider Präsenz in Namensportalen; die Evidenz zur öffentlichen Resonanz ist jedoch eher indirekt und basiert vor allem auf Namensseiten sowie einzelnen Nutzermeinungen."
+}

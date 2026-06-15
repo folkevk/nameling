@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "italienische Herkunft",
+    "weiblicher Vorname",
+    "Bedeutung: „die Unschätzbare“ / „die Wertvolle“",
+    "Namenstag",
+    "seltenere Verwendung im deutschsprachigen Raum"
+  ],
+  "confidence": 0.74,
+  "display_text": "Antonella wird meist freundlich und sachlich eingeordnet: italienisch klingend, elegant und mit einer positiven Bedeutungsassoziation. Im deutschsprachigen Raum ist der Name eher seltener, weshalb er auffällt, ohne stark zu polarisieren. Die Evidenz ist allerdings begrenzt und stammt vor allem aus Namensdatenbanken.",
+  "evidence_quality": "mittel bis schwach: überwiegend Namenslexika/Informationsseiten, kaum direkte öffentliche Diskussionsdaten",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Antonella",
+  "normalized_name": "antonella",
+  "overall_resonance": "Antonella wird in den vorliegenden Quellen überwiegend freundlich und sachlich wahrgenommen. Die öffentliche Resonanz wirkt eher positiv-informativ als kontrovers, mit Assoziationen zu italienischer Herkunft, einem wertigen Bedeutungsbild und seltenerer Nutzung im deutschsprachigen Raum. Die Evidenz ist jedoch begrenzt und stammt vor allem aus Namensdatenbanken statt aus breiter öffentlicher Diskussion.",
+  "practical_notes": [
+    "Für Suchende wirkt der Name international und klangvoll.",
+    "Die Aussprache und Schreibweise dürften im Deutschen meist gut nachvollziehbar sein, der Name ist aber nicht alltäglich.",
+    "Je nach Umfeld kann Antonella als elegant und etwas aus dem Rahmen fallend wahrgenommen werden."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz zur öffentlichen Resonanz ist schwach, da überwiegend lexikalische Namensseiten vorliegen.",
+    "Beliebtheits- und Herkunftsangaben sind nicht gleichzusetzen mit direkter gesellschaftlicher Bewertung.",
+    "Es gibt keinen klaren Hinweis auf negative Stigmatisierung oder kontroverse Konnotationen."
+  ],
+  "short_summary": "Antonella wirkt in den vorliegenden Quellen überwiegend positiv, elegant und italienisch geprägt. Die Datenlage ist aber eher informativ als meinungsstark.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.84,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "Vorname Antonella � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/A/An/Antonella/"
+    },
+    {
+      "confidence": 0.9,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Antonella: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Antonella.html"
+    }
+  ],
+  "style_effect": [
+    "elegant",
+    "italienisch geprägt",
+    "klangvoll",
+    "klassisch-feminin",
+    "leicht exklusiv",
+    "namenskundlich aufgeladen"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Im deutschsprachigen Raum eher bekannt, aber nicht sehr häufig. Dadurch wirkt der Name auffällig, ohne stark polarisierend zu sein."
+}

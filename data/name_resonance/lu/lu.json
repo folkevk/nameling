@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "Kurzform von Luis oder Luise",
+    "althochdeutsche Herkunft",
+    "Bedeutung im Umfeld von „berühmter/beliebter Kämpfer“",
+    "auch als moderne irische Variante von Lugh beschrieben",
+    "Unisex-Name",
+    "in Deutschland eher selten bis mäßig geläufig"
+  ],
+  "confidence": 0.76,
+  "display_text": "Lu wirkt in Deutschland eher kurz, modern und neutral bis freundlich. Die vorhandene Evidenz stammt vor allem aus Namensdatenbanken: Dort wird der Name als Unisex-Name mit Kurzform-Charakter und namenkundlicher Bedeutung beschrieben. Eine breite öffentliche Resonanz ist damit nur eingeschränkt belegbar.",
+  "evidence_quality": "mittel bis schwach für öffentliche Rezeption, gut für namenkundliche Einordnung",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Lu",
+  "normalized_name": "lu",
+  "overall_resonance": "Die öffentliche Wahrnehmung von „Lu“ wirkt überwiegend sachlich, modern und unaufgeregt. Der Name wird vor allem als kurze, klare Form mit namenkundlicher Bedeutung beschrieben; eine stark emotionale oder breit öffentlich diskutierte Resonanz ist in der vorliegenden Evidenz nicht erkennbar.",
+  "practical_notes": [
+    "Für Suchmaschinen und Namensübersichten ist „Lu“ ein klar verständlicher, kompakter Name mit neutraler bis freundlicher Anmutung.",
+    "Die kurze Form kann als modern und elegant wirken, ist aber wegen der geringen Länge auch erklärungsbedürftig.",
+    "Falls Verwechslungen vermieden werden sollen, kann der Kontext als Kurzform oder Unisex-Name hilfreich sein."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz basiert fast ausschließlich auf einer redaktionellen Namensseite, nicht auf breiter öffentlicher Meinungsäußerung.",
+    "Beliebtheits- und Bedeutungsangaben sind beschreibend, nicht zwingend Ausdruck tatsächlicher gesellschaftlicher Wertung.",
+    "Aus der Quelle lassen sich keine belastbaren Rückschlüsse auf stereotype oder stigmatisierende Zuschreibungen ableiten."
+  ],
+  "short_summary": "„Lu“ wird in den verfügbaren Quellen vor allem als kurzer, moderner und sachlich beschriebener Unisex-Name mit klarer Herkunfts- und Bedeutungsdeutung dargestellt. Eine echte breite öffentliche Debatte ist kaum belegt.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Lu � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/L/Lu/Lu/"
+    },
+    {
+      "confidence": 0.94,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Lu � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/L/Lu/Lu/"
+    }
+  ],
+  "style_effect": [
+    "sehr kurz und prägnant",
+    "modern und schlicht",
+    "lexikalisch aufgeladen durch Herkunfts- und Bedeutungsdeutungen",
+    "neutral bis leicht positiv wahrgenommen",
+    "als Unisex-Name anschlussfähig"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Eher niedrig bis moderat sichtbar in Deutschland; die Belege stammen vor allem aus Namensdatenbanken und nicht aus freier öffentlicher Diskussion. Die Aussagekraft für echte Alltagsresonanz ist daher begrenzt."
+}

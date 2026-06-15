@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "lateinische Herkunft",
+    "Kurzform von Juliane",
+    "Nebenform zu Julia",
+    "weiblicher Vorname",
+    "Namenstag",
+    "selten bis mäßig verbreitet"
+  ],
+  "confidence": 0.83,
+  "display_text": "Liane gilt in Deutschland als eher freundlicher, melodischer und klassisch wirkender Vorname. Die öffentliche Resonanz ist überwiegend neutral bis leicht positiv; zugleich ist die Evidenz eher auf Namenslexika als auf breite Alltagsdiskussionen gestützt.",
+  "evidence_quality": "mittel bis gut: direkte Namensseiten mit klarer Namensdiskussion, aber begrenzte öffentliche Breite und teilweise redaktionell geprägte Quellen.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Liane",
+  "normalized_name": "liane",
+  "overall_resonance": "Die öffentliche Resonanz auf Liane wirkt insgesamt eher freundlich und sachlich, mit leicht positivem Unterton. Der Name wird vor allem als weiblich, klassisch und eher selten bis mäßig verbreitet wahrgenommen.",
+  "practical_notes": [
+    "Für eine Namenssuche eignet sich Liane als vertraut wirkender, aber nicht sehr alltäglicher Vorname.",
+    "Die Schreib- und Klangwirkung wird eher als weich und harmonisch beschrieben.",
+    "Eine starke Mode- oder Trendwirkung ist aus der Evidenz nicht erkennbar."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt überwiegend aus Namenslexika und wenigen kommentierenden Quellen; das ist nur eingeschränkt repräsentativ für breite öffentliche Meinung.",
+    "Die positiven Stilzuschreibungen sind eher beschreibende Wahrnehmungen als gesicherte soziale Fakten."
+  ],
+  "short_summary": "Liane wird in Deutschland eher freundlich, melodisch und klassisch wahrgenommen; der Name ist bekannt, aber nicht sehr häufig.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.95,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Liane � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/L/Li/Liane/"
+    },
+    {
+      "confidence": 0.91,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Liane: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Liane.html"
+    }
+  ],
+  "style_effect": [
+    "melodisch",
+    "freundlich",
+    "grazil",
+    "klassisch",
+    "eher zurückhaltend",
+    "namenskundlich neutral"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland scheint Liane bekannt, aber nicht sehr häufig zu sein. Die Sichtbarkeit in der öffentlichen Namenswahrnehmung ist eher moderat als breit diskutiert."
+}

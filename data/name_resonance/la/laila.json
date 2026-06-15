@@ -1,0 +1,63 @@
+{
+  "associations": [
+    "Bedeutung: Nacht",
+    "Deutung: die Schöne der Nacht",
+    "arabische Herkunft",
+    "mögliche weitere Herleitungen: finnisch/samisch/türkisch",
+    "Variante zu Leyla/Leila/Layla",
+    "Literaturbezug: Madschnun Laila",
+    "Beliebtheit in Deutschland"
+  ],
+  "confidence": 0.84,
+  "display_text": "Laila wirkt in der öffentlichen Namenswahrnehmung überwiegend freundlich, weich und international. Der Name wird meist mit „Nacht“ und einer poetischen, eleganten Anmutung verbunden. Die Evidenz ist dabei eher namenkundlich als breit öffentlich, daher vorsichtig zu lesen.",
+  "evidence_quality": "mittel: zwei klare Namenslexikon-Quellen, überwiegend konsistente Angaben, aber wenig unabhängige öffentliche Resonanz jenseits dieser Seiten.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Laila",
+  "normalized_name": "laila",
+  "overall_resonance": "Der Vorname Laila wird in der vorliegenden Evidenz überwiegend freundlich und sachlich wahrgenommen. Er erscheint als klangvoller, international bekannter Mädchenname mit positiver, eher poetischer Assoziation. Die öffentliche Rezeption wirkt insgesamt neutral bis leicht positiv.",
+  "practical_notes": [
+    "Für die Namenssuche wirkt Laila elegant und leicht zugänglich.",
+    "Die Schreibweise ist geläufig, aber Varianten wie Leyla, Leila oder Layla können je nach Umfeld mitgemeint sein.",
+    "Die Bedeutung wird häufig mit Nacht und poetischer Schönheit verbunden, was den Namen emotional positiv auflädt.",
+    "Für eine endgültige Einordnung der Verbreitung in Deutschland wären zusätzliche statistische Quellen sinnvoll."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Einige Herkunftsdeutungen sind nur als mögliche Herleitungen angegeben und daher nicht sicher belegbar.",
+    "Die Evidenz stammt fast vollständig aus Namenslexika; die öffentliche Resonanz außerhalb solcher Seiten ist nur begrenzt sichtbar.",
+    "Keine belastbaren Hinweise auf Stigmatisierung oder negative soziale Konnotationen in der vorliegenden Evidenz."
+  ],
+  "short_summary": "Laila wird in Deutschland überwiegend als klangvoller, internationaler und eher positiv besetzter Vorname wahrgenommen. Die Bedeutungen rund um Nacht und Schönheit prägen die Resonanz, auch wenn einige Herkunftsangaben nur vorsichtig zu verstehen sind.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Laila � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/L/La/Laila/"
+    },
+    {
+      "confidence": 0.9,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Laila: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Laila.html"
+    }
+  ],
+  "style_effect": [
+    "klangvoll",
+    "weich",
+    "international",
+    "poetisch",
+    "modern",
+    "namenskundlich etabliert"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland scheint der Name bekannt und präsent zu sein, vor allem über Namenslexika, Bedeutungsseiten und Beliebtheitslisten. Die Evidenz deutet eher auf eine breite, aber nicht stark kontrovers diskutierte Bekanntheit hin."
+}

@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "finnische Kose- bzw. Kurzform von Johannes",
+    "Bedeutung im Umfeld von 'Gott ist gnädig' / 'Jahwe ist gnädig'",
+    "nordische bzw. finnische Herkunft",
+    "selten in Deutschland",
+    "eher als markanter, aber nicht auffälliger Vorname beschrieben"
+  ],
+  "confidence": 0.84,
+  "display_text": "Jussi: in Deutschland eher selten, nordisch-finnisch geprägt und überwiegend neutral bis leicht positiv wahrgenommen. Die öffentliche Rezeption ist vor allem lexikalisch/namenskundlich, nicht durch breite gesellschaftliche Diskussionen bestimmt.",
+  "evidence_quality": "mittel bis schwach: zwei namenskundliche Webquellen, beide eher lexikalisch als breit öffentlich-rezeptiv; gute Übereinstimmung bei Herkunft und Seltenheit, aber wenig echte Resonanzdaten.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Jussi",
+  "normalized_name": "jussi",
+  "overall_resonance": "Jussi wirkt in Deutschland eher als seltener, nordisch-finnisch geprägter Vorname mit sachlich-positiver, unaufgeregter Wahrnehmung. Die öffentliche Rezeption ist vor allem namenskundlich geprägt, nicht von breiter Alltagsdiskussion.",
+  "practical_notes": [
+    "Für eine Namenssuche ist Jussi in Deutschland eher ein Besonderheitsname als ein Massenname.",
+    "Die Aussprache und Herkunft können erklärungsbedürftig sein, wirken aber zugleich unkompliziert und international.",
+    "Die Quellen zeichnen das Bild eines neutral bis leicht positiv besetzten Namens ohne starke Kontroversen."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist schmal und stützt sich auf wenige Namenslexika; das Bild ist daher nur vorsichtig belastbar.",
+    "Es gibt keine breite öffentliche Meinungsbasis oder klare gesellschaftliche Zuschreibungen.",
+    "Eine mögliche Wahrnehmung als 'ungewöhnlich' hängt stark vom Umfeld ab und sollte nicht verallgemeinert werden."
+  ],
+  "short_summary": "Jussi wird in Deutschland vor allem als seltener, finnisch-nordischer Name mit freundlicher, neutraler Wirkung wahrgenommen.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Jussi � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/J/Ju/Jussi/"
+    },
+    {
+      "confidence": 0.92,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Jussi: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Jussi.html"
+    }
+  ],
+  "style_effect": [
+    "nordisch",
+    "klar",
+    "kurz",
+    "ungewöhnlich",
+    "freundlich-neutral",
+    "modern-sachlich"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Eher gering bis moderat sichtbar; der Name ist laut den Quellen in Deutschland wenig verbreitet und wird vor allem in Namenslexika behandelt."
+}

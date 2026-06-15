@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "biblischer Name",
+    "altgriechische Herkunft",
+    "mögliche Bedeutung: der Lichtbringer / der Leuchtende",
+    "internationale Variante von Lukas",
+    "in Deutschland beliebt",
+    "regelmäßig vergeben",
+    "Namenstag"
+  ],
+  "confidence": 0.89,
+  "display_text": "Lucas wirkt in der vorliegenden Evidenz freundlich, vertraut und international anschlussfähig. Der Name wird vor allem als biblisch und altgriechisch hergeleitet beschrieben, mit der Bedeutung „der Leuchtende“ bzw. „der Lichtbringer“. In Deutschland gilt er als bekannt und regelmäßig vergeben. Hinweise auf negative öffentliche Wahrnehmung finden sich in den Quellen nicht.",
+  "evidence_quality": "Gut für Herkunft, Bedeutung und Namensgebrauch; schwächer für echte öffentliche Resonanz außerhalb von Namenslexika.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Lucas",
+  "normalized_name": "lucas",
+  "overall_resonance": "Lucas wird in den vorliegenden Quellen überwiegend neutral bis positiv und vor allem informativ dargestellt. Der Name wirkt international, vertraut und in Deutschland gebräuchlich, ohne auffällige negative Konnotationen in der Evidenz.",
+  "practical_notes": [
+    "Für Suchmaschinen-Texte eignet sich eine kurze Einordnung als beliebter, internationaler und biblisch geprägter Vorname.",
+    "Die Schreibweise Lucas ist als Variante von Lukas leicht erklärbar.",
+    "Wenn Kontext wichtig ist, sollte erwähnt werden, dass die Quellen vor allem Herkunft und Bedeutung behandeln."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz bezieht sich fast ausschließlich auf Namenslexikon-Seiten und nicht auf breite öffentliche Diskussion.",
+    "Eine allgemeine Beliebtheit in Quellen ist keine Aussage über individuelle Wahrnehmungen.",
+    "Keine belastbaren Hinweise auf Stigmatisierung oder negative gesellschaftliche Zuschreibungen in den vorliegenden Daten."
+  ],
+  "short_summary": "Lucas wird in den Quellen als beliebter, internationaler und biblisch geprägter Vorname beschrieben. Die Resonanz ist überwiegend neutral bis positiv, ohne erkennbare negative Stigmatisierung.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Lucas � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/L/Lu/Lucas/"
+    },
+    {
+      "confidence": 0.92,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Lucas: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Lucas.html"
+    }
+  ],
+  "style_effect": [
+    "modern und zugleich klassisch",
+    "international anschlussfähig",
+    "klar, weich klingend",
+    "informativ-biblisch geprägt",
+    "alltagsnah und gut lesbar"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland gut sichtbar und regelmäßig vergeben; die Quellen beschreiben Lucas als verbreitete, bekannte Variante von Lukas."
+}

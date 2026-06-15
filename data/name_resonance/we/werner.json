@@ -1,0 +1,59 @@
+{
+  "associations": [
+    "altdeutscher Vorname",
+    "Bedeutung im Sinn von sich wehren/schützen",
+    "möglicher Bezug zu den Warnen",
+    "früher populär in Deutschland",
+    "heute selten vergeben",
+    "männlicher Vorname"
+  ],
+  "confidence": 0.89,
+  "display_text": "Werner gilt als traditioneller, klassisch-deutscher Vorname mit sachlicher, historischer Ausstrahlung. Die Quellen beschreiben ihn als altdeutsch, in der Bedeutung mit ‚sich wehren/schützen‘ verbunden und heute eher selten vergeben.",
+  "evidence_quality": "gut für Bedeutung, Herkunft und Beliebtheit; schwächer für direkte öffentliche Rezeption",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Werner",
+  "normalized_name": "werner",
+  "overall_resonance": "Werner wirkt im öffentlichen Namensbild eher traditionell, klassisch-deutsch und heute wenig zeitgemäß vergeben. Die verfügbaren Quellen beschreiben den Namen sachlich und ohne starke emotionale Aufladung.",
+  "practical_notes": [
+    "Für eine Namenssuche ist Werner ein klar historisch eingeordneter, gut dokumentierter Name.",
+    "Wer einen modernen oder trendigen Eindruck sucht, dürfte ihn eher als traditionell wahrnehmen.",
+    "Die Quellenlage ist solide für Bedeutung und Beliebtheit, aber begrenzt für tatsächliche Alltagsresonanz."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist überwiegend lexikalisch; öffentliche Resonanz im engeren Sinn ist nur indirekt ablesbar.",
+    "Keine belastbaren Hinweise auf soziale Stigmatisierung in den Quellen; ein möglicher Eindruck von ‚altmodisch‘ ist eher eine Zeitwahrnehmung als ein Werturteil."
+  ],
+  "short_summary": "Werner wird öffentlich meist als traditioneller, klassisch-deutscher und heute seltener Vorname wahrgenommen.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.94,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Werner � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/W/We/Werner/"
+    },
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Werner: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Werner.html"
+    }
+  ],
+  "style_effect": [
+    "traditionell",
+    "klassisch-deutsch",
+    "sachlich",
+    "historisch geprägt",
+    "eher altmodisch im heutigen Gebrauch"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Die öffentliche Sichtbarkeit ist eher durch Namenslexika und Beliebtheitsangaben geprägt als durch lebendige Alltagsdiskussion. Insgesamt deutet die Evidenz auf einen bekannten, aber heute seltenen Vornamen hin."
+}

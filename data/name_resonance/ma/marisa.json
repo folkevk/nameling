@@ -1,0 +1,63 @@
+{
+  "associations": [
+    "weiblicher Vorname",
+    "Maria als Namensbezug",
+    "Luisa als Doppelform-Bezug",
+    "italienisch",
+    "portugiesisch",
+    "spanisch",
+    "Namenstag",
+    "Bedeutung und Herkunft",
+    "schöne Klangwirkung"
+  ],
+  "confidence": 0.91,
+  "display_text": "Marisa wirkt in der öffentlichen Namensrezeption überwiegend positiv: ein weiblicher, international klingender Vorname mit Bezug zu Maria, der vor allem als harmonisch, informativ und eher elegant beschrieben wird. Die Evidenz ist solide, aber vor allem lexikalisch-namenskundlich statt breit gesellschaftlich.",
+  "evidence_quality": "gut: zwei klare, namensbezogene Quellen mit überwiegend positiver, informativ-lexikalischer Darstellung; nur geringe Einschränkungen durch einzelne personenbezogene Kommentare.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Marisa",
+  "normalized_name": "marisa",
+  "overall_resonance": "Überwiegend positiv und eher weich-klangig wahrgenommen; der Name wird vor allem als international wirkende, weibliche Form mit klarer namenskundlicher Einordnung beschrieben.",
+  "practical_notes": [
+    "Für die öffentliche Wahrnehmung zählt bei diesem Namen vor allem die Klang- und Herkunftswirkung.",
+    "Die Schreibweise ist klar und international anschlussfähig.",
+    "Die Datenlage spricht eher für eine sachliche bis wohlwollende Rezeption als für starke Trend- oder Imageeffekte."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist vor allem aus Namenslexika und nicht aus breiter Alltagswahrnehmung gewonnen.",
+    "Einzelne Fundstellen enthalten Kommentare zu konkreten Personen; diese sind für die Namensbewertung nur eingeschränkt relevant.",
+    "Keine Hinweise auf nennenswerte negative soziale Stigmatisierung in der vorliegenden Evidenz."
+  ],
+  "short_summary": "Marisa wird in der vorliegenden deutschen Namensevidenz überwiegend positiv, klanglich angenehm und international geprägt beschrieben.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "Vorname Marisa � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/M/Ma/Marisa/"
+    },
+    {
+      "confidence": 0.86,
+      "is_name_discussion": true,
+      "sentiment": "eher positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Marisa: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Marisa.html"
+    }
+  ],
+  "style_effect": [
+    "informativ",
+    "harmonisch",
+    "international",
+    "klassisch-nah",
+    "leicht elegant"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Im deutschsprachigen Namenskontext gut auffindbar, aber nicht übermäßig dominant; die öffentliche Präsenz wirkt vor allem lexikalisch und namensbezogen."
+}

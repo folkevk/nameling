@@ -1,0 +1,70 @@
+{
+  "associations": [
+    "slawische Kurzform von Georg",
+    "Bedeutungen wie Landarbeiter/Bauer",
+    "japanisch teils mit Lilie verbunden",
+    "koreanisch teils mit Glas/Kristall/Glanz verbunden",
+    "quechua teils mit Morgendämmerung verbunden",
+    "Namenstag",
+    "selten in Deutschland"
+  ],
+  "confidence": 0.84,
+  "display_text": "Yuri wird in den verfügbaren Quellen überwiegend neutral bis leicht positiv beschrieben: ein seltener, international anschlussfähiger Vorname mit teils unisex/genderneutraler Wahrnehmung. Die Evidenz für echte öffentliche Resonanz ist jedoch begrenzt, da sie vor allem aus Namenslexika stammt.",
+  "evidence_quality": "Begrenzt: solide lexikalische Namensquellen, aber kaum freie öffentliche Debatte oder breitere soziale Rezeption.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Yuri",
+  "normalized_name": "yuri",
+  "overall_resonance": "Überwiegend neutral bis leicht positiv. Yuri wird in den Quellen vor allem sachlich als seltener, international verwendbarer Vorname beschrieben, teils mit unisex/genderneutraler Wahrnehmung.",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt Yuri kurz, international und klar erkennbar.",
+    "Die Aussprache und die kulturellen Bezüge können je nach Sprachraum unterschiedlich wahrgenommen werden.",
+    "Wer einen sehr verbreiteten Namen sucht, wird Yuri in Deutschland eher als ungewöhnlich erleben."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist schwach für allgemeine öffentliche Resonanz, da sie fast nur aus Namensdatenbanken besteht.",
+    "Mehrere Bedeutungen stammen aus unterschiedlichen Sprachräumen; das ist keine einheitliche kulturelle Deutung.",
+    "Unisex- bzw. genderneutrale Einordnung ist eine geläufige Beschreibung, aber kein universeller Konsens."
+  ],
+  "short_summary": "Yuri wirkt in Deutschland als seltener, internationaler und meist neutral bis leicht positiv wahrgenommener Vorname mit unisex-Anklang.",
+  "source_count": 3,
+  "sources": [
+    {
+      "confidence": 0.86,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Yuri � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/Y/Yu/Yuri/"
+    },
+    {
+      "confidence": 0.94,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Yuri � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/Y/Yu/Yuri/"
+    },
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Yuri: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Yuri.html"
+    }
+  ],
+  "style_effect": [
+    "international",
+    "modern-kurz",
+    "lexikalisch",
+    "selten",
+    "genderneutral/unisex",
+    "mehrsprachig anschlussfähig"
+  ],
+  "usable_evidence_count": 3,
+  "visibility": "In Deutschland eher selten bis mäßig bekannt; die öffentliche Sichtbarkeit wirkt begrenzt und kommt vor allem über Namenslexika und Bedeutungsseiten zum Ausdruck."
+}

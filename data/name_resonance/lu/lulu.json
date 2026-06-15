@@ -1,0 +1,62 @@
+{
+  "associations": [
+    "Kurzform von Luisa/Louisa oder Luise/Louise",
+    "Bezug zu Namen mit 'Lu' oder 'Lou'",
+    "Bedeutungsassoziation 'Perle'",
+    "weiblicher Vorname",
+    "selten im deutschen Sprachraum",
+    "Namenstag wird in Quellen genannt",
+    "kulturelle Referenz zur Oper 'Lulu' von Alban Berg"
+  ],
+  "confidence": 0.78,
+  "display_text": "Lulu wirkt in Deutschland eher selten, kurz und freundlich-verspielt. In den vorliegenden Quellen wird der Name vor allem als Kurzform von Luise/Louise oder Luisa/Louisa beschrieben, teils mit der Bedeutung 'Perle'. Die öffentliche Resonanz erscheint insgesamt positiv bis neutral, aber die Evidenz ist begrenzt und stammt vor allem aus Namenslexika.",
+  "evidence_quality": "mittel bis schwach: wenige, aber eindeutig namensbezogene Quellen; die Aussagen sind daher vorsichtig zu interpretieren.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Lulu",
+  "normalized_name": "lulu",
+  "overall_resonance": "Lulu wird in der öffentlichen Namenswahrnehmung eher freundlich, leicht verspielt und international gelesen. In Deutschland wirkt der Name zugleich selten und dadurch auffällig, aber nicht grundsätzlich negativ besetzt.",
+  "practical_notes": [
+    "Für die öffentliche Wahrnehmung ist vor allem der kurze, eingängige Klang prägend.",
+    "Wer einen seltenen, weichen und international verständlichen Namen sucht, findet hier einen eher guten Fit.",
+    "Als eigenständiger Vorname wirkt Lulu ungewöhnlicher als die längeren Ausgangsnamen wie Louise oder Luisa."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist begrenzt und stützt sich auf wenige Namenslexikon-Quellen.",
+    "Die positiven Wertungen stammen vor allem aus redaktionellen Namensseiten und sollten nicht als allgemeine Mehrheitsmeinung verstanden werden.",
+    "Die seltene Verwendung kann als markant wahrgenommen werden, aber das ist keine soziale Bewertung des Namens selbst."
+  ],
+  "short_summary": "Lulu wird in Deutschland meist als seltener, klangvoller und freundlich wirkender Vorname wahrgenommen, oft als Kurzform von Luise/Louise oder Luisa/Louisa.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.95,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Lulu � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/L/Lu/Lulu/"
+    },
+    {
+      "confidence": 0.88,
+      "is_name_discussion": true,
+      "sentiment": "positive",
+      "source_type": "web",
+      "title": "&#9655; Vorname Lulu: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Lulu.html"
+    }
+  ],
+  "style_effect": [
+    "kurz und klangvoll",
+    "kosehaft/liebevoll wirkend",
+    "leicht verspielt",
+    "modern-international",
+    "selten und dadurch markant",
+    "als Kurzform oder Spitzname mitgedacht"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Der Name ist im deutschen Sprachraum laut den vorliegenden Namenslexika eher selten und daher wenig alltäglich. Die öffentliche Sichtbarkeit ergibt sich vor allem aus Namensdatenbanken und Bedeutungsseiten, nicht aus breiter Alltagsverwendung."
+}

@@ -1,0 +1,54 @@
+{
+  "associations": [
+    "Birke",
+    "Island",
+    "nordische Herkunft",
+    "Natur",
+    "selten",
+    "weiblicher Vorname",
+    "ungewöhnliche Schreibweise"
+  ],
+  "confidence": 0.73,
+  "display_text": "Björk wirkt im deutschen Kontext selten, nordisch und naturverbunden. Die öffentliche Rezeption ist eher neutral-sachlich, bei kleiner Datenbasis. Der Name fällt durch seine markante Schreibweise und Seltenheit auf, kann aber auch Nachfragen zu Herkunft und Aussprache auslösen.",
+  "evidence_quality": "begrenzt: eine namenkundliche Webquelle, sachlich-neutral, mit kurzer Kommentarspur; insgesamt nur moderate Belastbarkeit.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Björk",
+  "normalized_name": "bjork",
+  "overall_resonance": "Björk wirkt im deutschen Namenskontext sehr eigenständig, nordisch und naturverbunden. Die öffentliche Wahrnehmung ist eher sachlich-neugierig als breit etabliert; der Name fällt durch seine Seltenheit und die ungewöhnliche Schreibweise auf.",
+  "practical_notes": [
+    "Im Alltag dürfte der Name oft nach Herkunft oder Aussprache gefragt werden.",
+    "Die Schreibweise mit Umlaut kann in Formularen und digitalen Systemen Aufmerksamkeit erzeugen.",
+    "Für eine öffentliche Namensbewertung ist Zurückhaltung sinnvoll, da die Datenbasis klein ist."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist schwach und basiert nur auf einer einzelnen namenskundlichen Quelle mit kurzen Community-Kommentaren.",
+    "Die Wahrnehmung kann durch den bekannten Künstlernamen Björk beeinflusst sein, ohne dass dies die Namensbedeutung selbst beschreibt.",
+    "Seltenheit kann als markant positiv oder als ungewohnt wahrgenommen werden; das ist kontextabhängig."
+  ],
+  "short_summary": "Björk ist im deutschen Kontext ein seltener, nordisch und naturbezogen wirkender Vorname mit markanter Schreibweise; die Evidenz ist jedoch begrenzt.",
+  "source_count": 1,
+  "sources": [
+    {
+      "confidence": 0.89,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Björk: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Bj%C3%B6rk.html"
+    }
+  ],
+  "style_effect": [
+    "nordisch",
+    "ungewöhnlich",
+    "markant",
+    "naturbezogen",
+    "kurz und prägnant",
+    "exotisch wirkend im deutschen Kontext"
+  ],
+  "usable_evidence_count": 1,
+  "visibility": "Eher geringe Sichtbarkeit in Deutschland; in der verfügbaren Evidenz wird der Name als selten geführt. Die Datenlage ist schmal und hauptsächlich lexikalisch geprägt."
+}

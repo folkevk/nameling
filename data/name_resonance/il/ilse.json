@@ -1,0 +1,63 @@
+{
+  "associations": [
+    "Kurzform von Elisabeth",
+    "hebräischer bzw. biblischer Bezug",
+    "Bedeutung im Umfeld von „Gott ist Fülle / Gott ist Vollkommenheit“",
+    "deutsche und niederländische Namensform",
+    "früher in Deutschland verbreitet",
+    "heute selten",
+    "traditioneller Mädchenname",
+    "Namenstag wird genannt"
+  ],
+  "confidence": 0.79,
+  "display_text": "Ilse wirkt in Deutschland vor allem klassisch und traditionsnah. Der Name ist historisch bekannt, heute aber eher selten, sodass er eher als bodenständig und zeitlos denn als modisch wahrgenommen wird. Die verfügbare Evidenz ist überwiegend lexikalisch und zeigt kaum breite öffentliche Meinungsvielfalt.",
+  "evidence_quality": "Mittel bis schwach für öffentliche Resonanz; gut für Bedeutung, Herkunft und historische Einordnung, aber begrenzt für echte Meinungsvielfalt.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Ilse",
+  "normalized_name": "ilse",
+  "overall_resonance": "Überwiegend klassisch, traditionsnah und sachlich-neutrale Resonanz; heute eher selten und damit weniger modern-populär im Alltag.",
+  "practical_notes": [
+    "Für Suchende wirkt der Name meist vertraut, aber nicht trendy.",
+    "Die kurze, klare Form kann als bodenständig und zeitlos wahrgenommen werden.",
+    "Wegen der Seltenheit heute eher ein stilistisch bewusster als ein modischer Name."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt fast ausschließlich aus Namenslexika und nicht aus breiter öffentlicher Diskussion.",
+    "Daher ist die öffentliche Resonanz nur eingeschränkt abbildbar.",
+    "Keine belastbaren Hinweise auf starke positive oder negative gesellschaftliche Stereotype im Material."
+  ],
+  "short_summary": "Ilse wird in den vorliegenden Quellen vor allem als klassischer, traditioneller und heute eher seltener Vorname beschrieben. Die Resonanz wirkt sachlich-neutral, mit historischer Verankerung statt moderner Popularität.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Ilse � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/I/Il/Ilse/"
+    },
+    {
+      "confidence": 0.91,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Ilse: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Ilse.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "traditionell",
+    "kurz und klar",
+    "historisch aufgeladen",
+    "lexikalisch vertraut",
+    "eher altmodisch wahrnehmbar"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Eher geringe heutige Sichtbarkeit in Deutschland, aber klar als etablierter Traditionsname erkennbar."
+}

@@ -1,0 +1,68 @@
+{
+  "associations": [
+    "Bedeutung: \"die Träumerin\" / \"die Träumende\" / \"der Traum\"",
+    "serbokroatische und slowenische Verbreitung",
+    "teils auch als russische Kurzform von Alexandra genannt",
+    "überwiegend weiblich, teils als unisex beschrieben",
+    "Aussprachehinweis mit \"nj\" ähnlich spanischem ñ",
+    "Namenstag-Angaben in den Quellen"
+  ],
+  "confidence": 0.86,
+  "display_text": "Sanja wirkt in Deutschland überwiegend sachlich-neutral und eher freundlich besetzt. Die Quellen betonen vor allem die Bedeutung \"die Träumende\", den slawischen Hintergrund und den eher seltenen, aber bekannten Charakter des Namens. Hinweise auf gesellschaftliche Stigmatisierung gibt es in der vorliegenden Evidenz nicht; die Datenlage ist jedoch eher lexikalisch als diskursiv.",
+  "evidence_quality": "Mittel bis eher schwach: mehrere Quellen, aber nahezu ausschließlich namenskundliche Lexikonseiten; wenig echte öffentliche Diskussion.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Sanja",
+  "normalized_name": "sanja",
+  "overall_resonance": "Überwiegend sachlich-neutral mit leicht positivem Unterton durch die Bedeutung und den eher weichen Klang. Die öffentliche Rezeption wirkt vor allem namenskundlich und beschreibend, nicht kontrovers.",
+  "practical_notes": [
+    "Für eine Namenssuche in Deutschland wirkt Sanja klar, international und gut merkbar.",
+    "Wer einen seltenen, aber nicht fremd wirkenden Namen sucht, könnte ihn passend finden.",
+    "Die Schreibweise kann kurz erklärt werden, da der Lautwert von \"nj\" nicht für alle sofort intuitiv ist."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist eher schwach für echte öffentliche Resonanz, da sie hauptsächlich aus Namensseiten stammt.",
+    "Keine belastbaren Hinweise auf starke Stigmatisierung oder negative Klischees in der vorliegenden Evidenz.",
+    "Beliebtheitsangaben sollten vorsichtig gelesen werden, da sie quellenabhängig und nicht einheitlich belegt sind."
+  ],
+  "short_summary": "Sanja wird in den vorliegenden Quellen überwiegend neutral und informativ dargestellt, mit freundlicher Bedeutung und eher seltener, aber bekannter Präsenz in Deutschland.",
+  "source_count": 3,
+  "sources": [
+    {
+      "confidence": 0.89,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Sanja � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/S/Sa/Sanja/"
+    },
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Sanja � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/S/Sa/Sanja/"
+    },
+    {
+      "confidence": 0.94,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Sanja: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Sanja.html"
+    }
+  ],
+  "style_effect": [
+    "weicher, melodischer Eindruck",
+    "slawisch/international assoziiert",
+    "eher modern-zeitlos als modisch",
+    "durch die Bedeutung \"die Träumende\" freundlich aufgeladen",
+    "klare, kurze Aussprache mit besonderem Schriftbild"
+  ],
+  "usable_evidence_count": 3,
+  "visibility": "In Deutschland offenbar bekannt, aber eher als seltener bis mittelmäßig verbreiteter Vorname wahrgenommen. Die sichtbare Evidenz bezieht sich vor allem auf Namenslexika und Beliebtheitsangaben, nicht auf breite öffentliche Diskussionen."
+}

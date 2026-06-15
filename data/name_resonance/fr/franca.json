@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "weiblicher Vorname",
+    "italienische bzw. italienisch geprägte Form",
+    "althochdeutsche/etymologische Deutung",
+    "Bedeutung rund um frei/offen/tapfer",
+    "Bezug zu den Franken bzw. zu Frankreich",
+    "Namenstag",
+    "eher seltene Namenswahl"
+  ],
+  "confidence": 0.83,
+  "display_text": "Franca wirkt in Deutschland eher selten, sachlich und leicht positiv. Der Name wird mit weiblicher, international anschlussfähiger und etwas eleganter Ausstrahlung verbunden. Die vorhandene Evidenz ist allerdings schmal und vor allem lexikalisch geprägt.",
+  "evidence_quality": "mittel bis schwach: klare Namensdiskussion, aber wenige unabhängige Quellen und teils anekdotische Resonanz",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Franca",
+  "normalized_name": "franca",
+  "overall_resonance": "Franca wird in den vorliegenden Namensquellen überwiegend sachlich bis leicht positiv wahrgenommen. Der Name wirkt bekannt, weiblich und eher eigenständig; die öffentliche Rezeption ist jedoch nur eingeschränkt belastbar, da sie auf wenigen Namenslexika und einzelnen Kommentaren beruht.",
+  "practical_notes": [
+    "Für Suchmaschinen-Nutzer wirkt Franca als klassischer, aber nicht häufiger Mädchenname.",
+    "Die Aussprache und Schreibweise sind unkompliziert.",
+    "Die Seltenheit kann als Vorteil für Individualität wahrgenommen werden, ohne exotisch zu wirken."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist schmal und stammt vor allem aus Namenslexika, daher nur begrenzt repräsentativ für die öffentliche Meinung.",
+    "Positive Eindrücke aus Kommentaren sind eher anekdotisch und nicht als verlässliche Mehrheitsmeinung zu verstehen.",
+    "Keine Hinweise auf starke negative Stigmatisierung in den Quellen."
+  ],
+  "short_summary": "Franca wird sachlich bis leicht positiv bewertet: ein weiblicher, eher seltener Name mit klarer, international anschlussfähiger Wirkung. Die öffentliche Resonanz ist jedoch nur begrenzt abgesichert.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.89,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Franca � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/F/Fr/Franca/"
+    },
+    {
+      "confidence": 0.88,
+      "is_name_discussion": true,
+      "sentiment": "mostly positive",
+      "source_type": "web",
+      "title": "&#9655; Vorname Franca: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Franca.html"
+    }
+  ],
+  "style_effect": [
+    "klingt weich und klar",
+    "wirkt international anschlussfähig",
+    "hat einen leicht eleganten, nicht alltäglichen Eindruck",
+    "wird als kurzer, unkomplizierter Mädchenname beschrieben"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland bekannt, aber eher selten bis wenig verbreitet. Die Quellen verorten den Namen im deutschen Gebrauch seit einigen Jahrzehnten, ohne auf breite Massennutzung hinzuweisen."
+}

@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "Bedeutung: „der kühne Beschützer“",
+    "deutsche Form von Fernando",
+    "westgotische/gotische Herkunft",
+    "klassischer Jungenname",
+    "Herrscher- und Traditionskontext",
+    "Namenstag",
+    "Spitznamen wie Ferdi oder Ferry"
+  ],
+  "confidence": 0.88,
+  "display_text": "Ferdinand wirkt öffentlich eher klassisch, würdig und traditionsnah. Die verfügbaren Quellen bewerten den Namen überwiegend positiv und verbinden ihn mit Bedeutung, Herkunft, Namenstag und mehreren Kurzformen. Die Evidenz ist allerdings auf wenige Namenslexikonquellen beschränkt.",
+  "evidence_quality": "mittel: zwei klar namensbezogene, überwiegend beschreibende Quellen; gute inhaltliche Passung, aber begrenzte Breite der Evidenz.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Ferdinand",
+  "normalized_name": "ferdinand",
+  "overall_resonance": "Überwiegend positiv und traditionell-konnotiert; Ferdinand wirkt in den Quellen als klassischer, wertgeschätzter Vorname mit historischer Tiefe.",
+  "practical_notes": [
+    "Für viele wirkt der Name eher seriös, zeitlos und kultiviert als trendy.",
+    "Kurzformen und Koseformen können den Namen alltagsnäher machen.",
+    "Die öffentliche Resonanz scheint stärker von Bedeutung und Tradition als von aktueller Modemode geprägt zu sein."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt im Wesentlichen aus zwei Namenslexikon-/Ratgeberquellen; das ist informativ, aber nur begrenzt repräsentativ für die Gesamtwahrnehmung.",
+    "Einzelne Kommentare bzw. Nebenhinweise sind nicht belastbar genug, um daraus eine breite öffentliche Meinung abzuleiten."
+  ],
+  "short_summary": "Ferdinand wird in den vorliegenden Quellen überwiegend positiv als klassischer, traditionsreicher Vorname mit der Bedeutung „der kühne Beschützer“ beschrieben.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "Vorname Ferdinand � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/F/Fe/Ferdinand/"
+    },
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Ferdinand: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Ferdinand.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "würdig",
+    "traditionell",
+    "historisch",
+    "namenskundlich",
+    "familiennah"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Im deutschsprachigen Raum gut bekannt, eher klassisch als modern-experimentell; keine starke Gegenwartswelle, aber solide öffentliche Wiedererkennung."
+}

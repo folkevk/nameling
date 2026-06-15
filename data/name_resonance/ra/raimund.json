@@ -1,0 +1,63 @@
+{
+  "associations": [
+    "altdeutscher Ursprung",
+    "Bedeutung: Ratgeber und Beschützer",
+    "selten/ungewöhnlich",
+    "traditionell",
+    "männlicher Vorname",
+    "Namenstag",
+    "Schreibvariante Raymund"
+  ],
+  "confidence": 0.83,
+  "display_text": "Raimund wirkt in den vorliegenden Quellen traditionell, altdeutsch und eher selten. Die Resonanz ist insgesamt sachlich bis leicht positiv, vor allem wegen der Bedeutung „Ratgeber und Beschützer“. Ein breites öffentliches Stimmungsbild ist nicht erkennbar.",
+  "evidence_quality": "moderat bis begrenzt: zwei überwiegend lexikalische Quellen, wenig unabhängige öffentliche Diskussion",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Raimund",
+  "normalized_name": "raimund",
+  "overall_resonance": "Die öffentliche Resonanz zu „Raimund“ in den vorliegenden Quellen wirkt überwiegend sachlich und leicht positiv. Der Name wird vor allem über seine altdeutsche Herkunft, die Bedeutung als „Ratgeber und Beschützer“ sowie über seine Seltenheit und Tradition wahrgenommen. Ein breites öffentliches Meinungsbild ist jedoch nicht erkennbar.",
+  "practical_notes": [
+    "Für Suchende wirkt der Name klassisch und eigenständig, aber eher selten.",
+    "Die Wirkung ist eher traditionsnah als modern-trendig.",
+    "Die vorhandene Evidenz ist moderat bis begrenzt und sollte vorsichtig interpretiert werden."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt fast ausschließlich aus Namenslexikon-Seiten; eine breite öffentliche Wahrnehmung lässt sich daraus nur eingeschränkt ableiten.",
+    "Die positive Tendenz basiert vor allem auf der Namensbedeutung und nicht auf einer großen Zahl unabhängiger Meinungen.",
+    "Vereinzelte Kommentare oder Personenbezüge wurden in der Bewertung nicht als Aussage über den Vornamen selbst gewertet."
+  ],
+  "short_summary": "„Raimund“ wird überwiegend sachlich, traditionell und leicht positiv wahrgenommen; der Name gilt als selten und altdeutsch, ohne breites öffentliches Meinungsbild.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.91,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "Vorname Raimund � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/R/Ra/Raimund/"
+    },
+    {
+      "confidence": 0.91,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Raimund: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Raimund.html"
+    }
+  ],
+  "style_effect": [
+    "traditionell",
+    "altdeutsch",
+    "eher ungewöhnlich",
+    "klassisch-männlich",
+    "namenskundlich",
+    "sachlich",
+    "selten"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Eher gering bis mittel: Der Name wird in Namenslexika und Ranking-/Info-Seiten behandelt, aber es gibt keine breite, kontroverse oder stark diskutierte öffentliche Debatte."
+}

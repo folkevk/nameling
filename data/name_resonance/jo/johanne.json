@@ -1,0 +1,64 @@
+{
+  "associations": [
+    "weiblicher Vorname",
+    "Variante von Johanna",
+    "weibliche Form von Johannes",
+    "hebräische Wurzeln",
+    "biblischer Ursprung",
+    "Bedeutung: Gott ist gnädig",
+    "historisch im Mittelalter verbreitet",
+    "Namenstag",
+    "in Deutschland gelegentlich als Alternative zu Johanna"
+  ],
+  "confidence": 0.9,
+  "display_text": "Johanne wirkt in der öffentlichen Namenswahrnehmung überwiegend neutral bis leicht positiv: ein klassischer, eher seltener Vorname mit historischer und biblischer Einordnung. In Deutschland erscheint er vor allem als alternative Form zu Johanna.",
+  "evidence_quality": "gut, aber quellenbegrenzt; überwiegend namenskundliche Webquellen mit ähnlicher Einordnung",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Johanne",
+  "normalized_name": "johanne",
+  "overall_resonance": "Überwiegend neutral bis leicht positiv. Der Name Johanne wird in den Quellen vor allem sachlich-namenskundlich behandelt; positive Färbungen ergeben sich eher aus der Bedeutung und Herkunft als aus einer öffentlichen Debatte.",
+  "practical_notes": [
+    "Für Suchende wirkt Johanne eher traditionsnah und selten.",
+    "Der Name ist gut einordbar, aber im Alltag vermutlich weniger geläufig als Johanna.",
+    "Die Wahrnehmung ist eher beschreibend als emotional aufgeladen."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt überwiegend aus Namenslexika und Datenbanken, nicht aus einer breiten öffentlichen Diskussion.",
+    "Es gibt keine deutliche gesellschaftliche Wertung oder Stigmatisierung in den vorliegenden Quellen.",
+    "Aussagen zur Beliebtheit sind vorsichtig zu lesen, da die Datenlage begrenzt und quellenlastig ist."
+  ],
+  "short_summary": "Johanne wird öffentlich vor allem als seltener, klassischer und sachlich beschriebener Vorname wahrgenommen, mit leicht positiver Konnotation durch Herkunft und Bedeutung.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.94,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "Vorname Johanne � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/J/Jo/Johanne/"
+    },
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Johanne: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Johanne.html"
+    }
+  ],
+  "style_effect": [
+    "informativ",
+    "klassisch",
+    "historisch",
+    "eher selten",
+    "namenskundlich",
+    "neutral-beschreibend"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Eher geringe bis mittlere Sichtbarkeit im deutschsprachigen Raum. Johanne erscheint in Namensdatenbanken als bekannte, aber eher seltene Alternative zu Johanna."
+}

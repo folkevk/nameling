@@ -1,0 +1,62 @@
+{
+  "associations": [
+    "altgriechischer Ursprung",
+    "Bedeutung im Sinn von „Gottesfreund“ bzw. „Gottlieb“",
+    "selten in Deutschland",
+    "historisch häufiger im 19. Jahrhundert und bis in die 1930er Jahre",
+    "männlicher Vorname",
+    "Namenstag",
+    "Spitzname Theo"
+  ],
+  "confidence": 0.82,
+  "display_text": "Theophil wirkt in Deutschland selten, klassisch und traditionsnah. Der Name hat einen altgriechischen Ursprung und wird meist mit „Gottesfreund“ bzw. „Gottlieb“ verbunden. In der öffentlichen Wahrnehmung erscheint er eher würdevoll und ungewöhnlich als modern; belastbare Hinweise auf breitere gesellschaftliche Bewertungen sind in der vorliegenden Evidenz allerdings nur begrenzt vorhanden.",
+  "evidence_quality": "mittel bis eher schwach für öffentliche Resonanz; gut für Herkunft, Bedeutung und Verbreitung, aber nur indirekte Hinweise auf gesellschaftliche Wirkung.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Theophil",
+  "normalized_name": "theophil",
+  "overall_resonance": "Eher selten, traditionsnah und sachlich-positiv konnotiert; in Deutschland wirkt Theophil vor allem ungewöhnlich und historisch geprägt, ohne starke emotionale Aufladung.",
+  "practical_notes": [
+    "Für eine öffentliche Wahrnehmung wirkt der Name eher traditionsbewusst als modern.",
+    "Die kurze Form ‚Theo‘ kann im Alltag vertrauter wirken als die Vollform.",
+    "Wegen der Seltenheit kann der Name auffallen, bleibt aber meist gut einordbar."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz zur öffentlichen Resonanz ist begrenzt und stammt überwiegend aus Namenslexika statt aus breiter öffentlicher Diskussion.",
+    "Die Wahrnehmung als ‚ungewöhnlich‘ beschreibt eine Verbreitungslage, keine Bewertung der Namensträger.",
+    "Keine Hinweise auf soziale Stigmatisierung in der vorliegenden Evidenz."
+  ],
+  "short_summary": "Theophil ist in Deutschland ein seltener, historisch geprägter Jungenname mit altgriechischem Ursprung und einer eher sachlich-positiven, traditionsnahen Wirkung.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.94,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Theophil � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/T/Th/Theophil/"
+    },
+    {
+      "confidence": 0.92,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Theophil: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Theophil.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "historisch",
+    "namenskundlich",
+    "leicht würdevoll",
+    "selten",
+    "altgriechisch"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Niedrig bis mittel: Der Name ist in Deutschland wenig verbreitet und fällt eher durch seine Seltenheit als durch breite Bekanntheit auf."
+}

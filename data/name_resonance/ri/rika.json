@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "mögliche Kurzform von Namen auf -rika/-rike",
+    "althochdeutsche Deutung mit Bedeutungen wie „die Reiche“ oder „die Mächtige“",
+    "teilweise auch japanische Deutungsbezüge in der Namensdiskussion",
+    "selten bis moderat in Deutschland",
+    "kurzer zweisilbiger Vorname"
+  ],
+  "confidence": 0.84,
+  "display_text": "Rika wirkt in der öffentlichen Wahrnehmung überwiegend positiv und neutral: ein kurzer, einprägsamer und eher seltener Vorname. In den Quellen wird er meist namenskundlich als Kurzform bzw. mit unterschiedlichen Herkunftsdeutungen beschrieben; die Evidenz ist dabei begrenzt und teils mehrdeutig.",
+  "evidence_quality": "mittel bis gut; klare Namensseiten, aber nur wenige Quellen und teils mehrdeutige Herkunftsangaben",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Rika",
+  "normalized_name": "rika",
+  "overall_resonance": "Überwiegend positiv bis neutral. Rika wird in den vorliegenden Namensquellen als kurzer, klarer Vorname mit eher freundlicher, sachlicher Ausstrahlung beschrieben; die öffentliche Wahrnehmung wirkt insgesamt unauffällig und wohlwollend.",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt Rika schlicht, freundlich und gut merkbar.",
+    "Der Name ist kurz und leicht auszusprechen.",
+    "Aufgrund der geringen Häufigkeit kann er als eher individuell wahrgenommen werden.",
+    "Die Bedeutung ist je nach Quelle unterschiedlich; bei Bedarf sollte man mehrere Namensquellen vergleichen."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist auf wenige Namenslexikon-Seiten beschränkt.",
+    "Herkunft und Bedeutung werden teils unterschiedlich angegeben.",
+    "Einige Bezüge stammen aus Kommentaren oder redaktionellen Namensdeutungen und sind nicht immer eindeutig belegbar."
+  ],
+  "short_summary": "Rika wird öffentlich meist positiv und sachlich wahrgenommen: kurz, einprägsam und eher selten, mit mehreren möglichen Deutungen zu Herkunft und Bedeutung.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Rika � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/R/Ri/Rika/"
+    },
+    {
+      "confidence": 0.91,
+      "is_name_discussion": true,
+      "sentiment": "mostly positive",
+      "source_type": "web",
+      "title": "&#9655; Vorname Rika: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Rika.html"
+    }
+  ],
+  "style_effect": [
+    "kurz und prägnant",
+    "weiblich und weich klingend",
+    "modern-familiar, aber nicht häufig",
+    "namenskundlich klar und leicht einprägsam",
+    "teils international anschlussfähig"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland eher selten bis moderat verbreitet, daher bekannt, aber nicht allgegenwärtig. Die Sichtbarkeit in der öffentlichen Namenswahrnehmung ist eher niedrig bis mittel."
+}

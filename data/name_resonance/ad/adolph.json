@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "althochdeutsche Herkunft",
+    "Bedeutung: 'edler Wolf'",
+    "veraltete Schreibweise von Adolf",
+    "selten in Deutschland",
+    "seit dem Zweiten Weltkrieg kaum verwendet",
+    "historische Belastung durch die NS-Zeit"
+  ],
+  "confidence": 0.9,
+  "display_text": "Adolph wirkt in Deutschland heute selten und historisch belastet. Die ursprüngliche Bedeutung („edler Wolf“) ist positiv, wird in der öffentlichen Wahrnehmung aber oft von der Nähe zu Adolf und der NS-Geschichte überlagert.",
+  "evidence_quality": "Begrenzt: zwei direkte, aber voneinander unabhängige Namensquellen; inhaltlich konsistent, jedoch geringe Breite.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Adolph",
+  "normalized_name": "adolph",
+  "overall_resonance": "Eher zurückhaltend bis belastet: Der Name wirkt heute in Deutschland selten und historisch mit einer stark negativen Assoziation verbunden, obwohl seine ursprüngliche Bedeutung neutral bis positiv ist.",
+  "practical_notes": [
+    "Für eine Namenssuche ist die heutige öffentliche Resonanz eher vorsichtig zu bewerten.",
+    "In Deutschland dürfte der Name wegen der historischen Assoziation oft als ungewöhnlich oder sensibel wahrgenommen werden.",
+    "Die ursprüngliche Bedeutung ist positiv, wird im Alltag aber meist von der historischen Konnotation überlagert."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die historische Nähe zu Adolf kann die öffentliche Wahrnehmung deutlich belasten.",
+    "Die Evidenzlage ist schwach bis mittel: Es liegen nur wenige, vor allem namenskundliche Quellen vor.",
+    "Eine geringe Verwendungsfrequenz sagt nichts über einzelne Personen oder ihre Wirkung aus; es beschreibt nur den Sprachgebrauch."
+  ],
+  "short_summary": "Adolph ist ein seltener, altsprachlich wirkender Vorname mit positiver Ursprungbedeutung, der in Deutschland heute jedoch durch die Nähe zu Adolf historisch belastet und öffentlich eher sensibel wahrgenommen wird.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Adolph � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/A/Ad/Adolph/"
+    },
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "mixed",
+      "source_type": "web",
+      "title": "&#9655; Vorname Adolph: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Adolph.html"
+    }
+  ],
+  "style_effect": [
+    "altsprachlich",
+    "traditionell",
+    "selten",
+    "historisch belastet",
+    "namenskundlich",
+    "eher antiquiert"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Niedrig; der Name ist im deutschen Sprachraum wenig gebräuchlich und fällt eher durch seine historische/namenskundliche Einordnung als durch moderne Popularität auf."
+}

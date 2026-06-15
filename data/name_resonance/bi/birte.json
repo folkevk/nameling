@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "Kurzform von Birgit/Birgitta",
+    "dänische und schwedische Namensform",
+    "Bedeutungsfelder wie Helfen, Schützen, Bergen, Retten",
+    "Bezug zu Heilige Brigid/Brigid von Kildare",
+    "Namenstag wird in Quellen erwähnt",
+    "selten/rar im deutschen Kontext"
+  ],
+  "confidence": 0.89,
+  "display_text": "Birte: überwiegend neutral bis leicht positiv wahrgenommen. Der Name gilt als selten, klar weiblich und eher nordisch im Klang. Quellen verbinden ihn mit Birgit/Birgitta und Bedeutungen wie Helferin oder Schützerin. Die Evidenz ist vor allem lexikalisch, daher ist die öffentliche Resonanz eher beschreibend als breit diskutiert.",
+  "evidence_quality": "mittel bis gut; klare Namens-Evidenz, aber überwiegend lexikalisch und wenig echte öffentliche Diskussion",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Birte",
+  "normalized_name": "birte",
+  "overall_resonance": "Überwiegend neutral bis leicht positiv. Birte wirkt als seltener, klar femininer Vorname mit eher nordischem Klang und sachlich-positiver Namensbedeutung. Die öffentliche Wahrnehmung ist vor allem beschreibend statt kontrovers.",
+  "practical_notes": [
+    "Für Suchmaschinen und Namensportale ist Birte ein gut verständlicher, klar einordenbarer Name.",
+    "Die Seltenheit kann als eigenständig wahrgenommen werden, kann aber auch zu Nachfragen führen.",
+    "Die Schreibweise ist kurz und eindeutig, was im Alltag praktisch sein kann."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt überwiegend aus Namenslexika und Einträgen, nicht aus breiter öffentlicher Debatte.",
+    "Positive Eindrücke wie 'klingt schön' sind eher Quellenstimmen als belastbare Allgemeinmeinung.",
+    "Hinweise auf Aussprache-Schwierigkeiten betreffen eher Nicht-Muttersprachler und sind kein allgemeines Urteil."
+  ],
+  "short_summary": "Birte wird meist neutral bis leicht positiv wahrgenommen: ein seltener, nordisch wirkender Vorname mit klarer, traditioneller Namensherkunft.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Birte � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/B/Bi/Birte/"
+    },
+    {
+      "confidence": 0.84,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Birte: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Birte.html"
+    }
+  ],
+  "style_effect": [
+    "nordisch-klar",
+    "kurz und prägnant",
+    "eher traditionell als modisch",
+    "selten, dadurch eigenständig",
+    "informell gut merkbar"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Eher geringe bis mittlere Sichtbarkeit im deutschsprachigen Raum; der Name wird als selten bzw. nicht sehr häufig eingeordnet."
+}

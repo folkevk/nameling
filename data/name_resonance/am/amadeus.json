@@ -1,0 +1,64 @@
+{
+  "associations": [
+    "lateinischer Ursprung",
+    "Bedeutung: „der von Gott Geliebte“",
+    "mögliche Deutung: „liebe Gott!“",
+    "historisch-pietistische Namensform",
+    "Namenstag",
+    "spätbarocke Anmutung",
+    "Popkultur-Bezug durch bekannte Titel"
+  ],
+  "confidence": 0.84,
+  "display_text": "Amadeus: überwiegend positive, klassische Resonanz; traditionsreich, eher selten und markant, mit deutlicher namenskundlicher Prägung.",
+  "evidence_quality": "mittel bis gut; zwei klare, namenskundliche Webquellen mit überwiegend konsistenter, aber eher lexikalischer Evidenz.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Amadeus",
+  "normalized_name": "amadeus",
+  "overall_resonance": "Überwiegend positiv und klassisch-traditionsreich, zugleich eher selten und dadurch auffällig. Die öffentliche Wahrnehmung wirkt mehr namenskundlich als trendig.",
+  "practical_notes": [
+    "Für Suchende wirkt der Name seriös, traditionsbewusst und etwas außergewöhnlich.",
+    "Er passt eher zu einem klassischen als zu einem modernen, modischen Eindruck.",
+    "Die Aussprache und Schreibweise sind im Deutschen gut erkennbar.",
+    "Durch die Seltenheit kann der Name markant wirken, ohne exotisch zu erscheinen."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt vor allem aus Namenslexika und ist daher eher beschreibend als repräsentativ für breite Alltagswahrnehmung.",
+    "Beliebtheitsangaben können die Wirkung prägen, sollten aber nicht als allgemeines Urteil verstanden werden.",
+    "Positive Konnotationen ergeben sich vor allem aus Herkunft und Stil, nicht aus einer starken öffentlichen Trendwahrnehmung."
+  ],
+  "short_summary": "Amadeus wird im deutschen Kontext meist als klassischer, traditionsreicher und positiv konnotierter Vorname wahrgenommen. Er ist eher selten, dadurch aber markant und stilvoll.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Amadeus � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/A/Am/Amadeus/"
+    },
+    {
+      "confidence": 0.92,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Amadeus: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Amadeus.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "gehoben",
+    "traditionsreich",
+    "historisch",
+    "melodisch",
+    "leicht feierlich",
+    "selten"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Im deutschen Raum bekannt, aber nicht sehr verbreitet; daher eher besondere als alltägliche Wahrnehmung."
+}

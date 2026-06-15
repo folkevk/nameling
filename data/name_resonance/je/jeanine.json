@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "französische Form bzw. Anmutung",
+    "Kose- oder Ableitungsform von Jeanne/Jean",
+    "hebräische Herkunft über Johannes",
+    "Bedeutung: Gott ist gnädig / Jahwe ist gnädig",
+    "seltenere Schreibweise in Deutschland",
+    "Namenstag",
+    "Spitznamen wie Jenny, Jeanny oder Jane"
+  ],
+  "confidence": 0.89,
+  "display_text": "Jeanine wirkt in Deutschland eher selten und insgesamt neutral bis leicht positiv. Die Quellen betonen vor allem die französische Anmutung, die Bedeutung und die Namensherkunft; eine breitere öffentliche Diskussion ist kaum sichtbar.",
+  "evidence_quality": "mittel bis eher schwach: klare Namensbeschreibungen, aber nur wenige Quellen und kaum öffentliche Diskussion.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Jeanine",
+  "normalized_name": "jeanine",
+  "overall_resonance": "Jeanine wirkt in Deutschland eher selten, sachlich bekannt und insgesamt leicht positiv bis neutral gerahmt. In den vorliegenden Quellen steht vor allem die Namensbedeutung, Herkunft und Schreibweise im Vordergrund; eine breite öffentliche Debatte ist nicht erkennbar.",
+  "practical_notes": [
+    "Für Suchmaschinen ist der Name vor allem über Herkunft, Bedeutung und Seltenheit auffindbar.",
+    "Die Wahrnehmung erscheint eher gepflegt und unaufgeregt als trendig.",
+    "Wenn eine sehr bekannte oder populäre Wirkung gesucht wird, ist Jeanine dafür eher nicht der Typname."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist eng auf wenige Namenslexikon-/Babynamen-Seiten begrenzt.",
+    "Es gibt kaum belastbare öffentliche Meinungen oder breite Diskussionsbeiträge zum Namen selbst.",
+    "Die leicht positive Tendenz basiert vor allem auf der lexikalischen Darstellung, nicht auf starker gesellschaftlicher Resonanz."
+  ],
+  "short_summary": "Jeanine wird in Deutschland überwiegend neutral bis leicht positiv wahrgenommen, mit französischer Anmutung und seltener Verbreitung. Die Evidenz ist jedoch begrenzt und vor allem lexikalisch.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Jeanine � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/J/Je/Jeanine/"
+    },
+    {
+      "confidence": 0.9,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Jeanine: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Jeanine.html"
+    }
+  ],
+  "style_effect": [
+    "französisch klingend",
+    "elegant",
+    "klassisch-weiblich",
+    "seltenheitsbetont",
+    "namenskundlich klar"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Gering bis mittel: Der Name taucht in Namenslexika und Babynamen-Portalen auf, wird dort aber eher informativ als stark emotional diskutiert."
+}

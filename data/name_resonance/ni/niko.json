@@ -1,0 +1,57 @@
+{
+  "associations": [
+    "Kurzform von Nikolaus",
+    "altgriechischer Ursprung",
+    "Bedeutung „Sieg des Volkes“",
+    "Namenstag am 6. Dezember",
+    "in Deutschland als Vorname bekannt und relativ beliebt"
+  ],
+  "confidence": 0.9,
+  "display_text": "Niko wirkt in Deutschland überwiegend positiv und vertraut. Der Name wird meist als kurze Form von Nikolaus verstanden und mit „Sieg des Volkes“ sowie dem Namenstag am 6. Dezember verbunden. Die Evidenz stammt vor allem aus Namensdatenbanken, daher ist die öffentliche Resonanz nur indirekt belegt.",
+  "evidence_quality": "mittel bis gut; hauptsächlich lexikalische Quellen, daher solide für Bedeutung und Einordnung, aber nur indirekt für öffentliche Resonanz.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Niko",
+  "normalized_name": "niko",
+  "overall_resonance": "In Deutschland wirkt Niko überwiegend vertraut, modern und eher positiv besetzt. Der Name wird vor allem als kurze Form von Nikolaus wahrgenommen und mit der Bedeutung „Sieg des Volkes“ sowie dem Namenstag am 6. Dezember verbunden.",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt Niko klar, leicht merkbar und alltagstauglich.",
+    "Die Schreibweise ist kurz und im deutschsprachigen Raum gut anschlussfähig."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Datenlage zeigt keine starke Kontroverse oder Stigmatisierung.",
+    "Die öffentliche Resonanz ist nur indirekt aus Namensquellen ableitbar, nicht aus breiter sozialer Medienresonanz."
+  ],
+  "short_summary": "Niko wird in Deutschland meist als moderner, vertrauter und eher positiv wahrgenommener Vorname eingeordnet.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.88,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "Vorname Niko � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/N/Ni/Niko/"
+    },
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Niko: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Niko.html"
+    }
+  ],
+  "style_effect": [
+    "kurz und prägnant",
+    "zeitgemäß",
+    "unkompliziert",
+    "freundlich-neutral",
+    "namenskundlich vertraut"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Die öffentliche Sichtbarkeit ist gut, aber die Evidenz stammt vor allem aus Namenslexika und Datenbanken. Das spricht eher für eine sprachlich-kulturelle Einordnung als für direkte Alltagsresonanz."
+}

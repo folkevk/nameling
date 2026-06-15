@@ -1,0 +1,63 @@
+{
+  "associations": [
+    "Veilchen",
+    "Veilchenblüte",
+    "violette Blume",
+    "altgriechische Herkunft",
+    "weiblicher Vorname",
+    "Namenstag",
+    "italienischer Klang",
+    "Spitznamen wie Jo, Joli oder Jola"
+  ],
+  "confidence": 0.76,
+  "display_text": "Jolanda wirkt in den verfügbaren Quellen freundlich, klassisch und leicht blumig. Der Name wird mit Veilchen, altgriechischer Herkunft und einem eher seltenen, aber gut verständlichen Klang verbunden. Die Evidenz ist vor allem beschreibend; für eine breite öffentliche Debatte gibt es nur schwache Hinweise.",
+  "evidence_quality": "mittel bis schwach: zwei klare Namensquellen, aber kaum echte öffentliche Debatte; überwiegend redaktionelle Beschreibungen.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Jolanda",
+  "normalized_name": "jolanda",
+  "overall_resonance": "Jolanda wird in den vorliegenden Quellen überwiegend freundlich, namenskundlich und eher selten verwendet beschrieben. Die öffentliche Wahrnehmung wirkt leicht positiv bis neutral, mit Assoziationen zu Blumen, insbesondere Veilchen, und einem eher klassischen, internationalen Klang.",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt Jolanda traditionsnah und freundlich.",
+    "Der Name ist verständlich und klar weiblich konnotiert.",
+    "Die Schreibweise ist etabliert, aber im deutschsprachigen Raum eher nicht sehr häufig.",
+    "Kurzformen wie Jo, Joli oder Jola können den Namen alltagstauglicher machen."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt vor allem aus Namensdatenbanken und ist daher eher beschreibend als diskussionsbasiert.",
+    "Keine belastbaren Hinweise auf eine gesellschaftliche Stigmatisierung oder kontroverse öffentliche Debatte.",
+    "Aussagen zur Beliebtheit sollten vorsichtig gelesen werden, da sie nicht auf breiter Medien- oder Social-Media-Rezeption beruhen."
+  ],
+  "short_summary": "Jolanda wird überwiegend positiv und klassisch wahrgenommen, mit floralen und leicht internationalen Assoziationen. Die Evidenz ist jedoch eher namenkundlich als öffentlich-diskursiv.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "positive",
+      "source_type": "web",
+      "title": "Vorname Jolanda � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/J/Jo/Jolanda/"
+    },
+    {
+      "confidence": 0.94,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Jolanda: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Jolanda.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch und feminin",
+    "sanft und blumig",
+    "etwas altgriechisch/namenskundlich geprägt",
+    "international bis leicht italienisch wirkend",
+    "eher selten und dadurch auffällig, aber nicht laut"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Eher gering bis mittel: Der Name erscheint in Namensdatenbanken und Informationsseiten, aber die Evidenz für echte öffentliche Debatten oder breite Alltagsrezeption ist schwach."
+}

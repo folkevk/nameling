@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "altgriechischer Ursprung",
+    "Bedeutung: „das Leben“",
+    "weiblicher Vorname",
+    "in Deutschland beliebt",
+    "Namenstag am 2. Mai",
+    "kurzer internationaler Name",
+    "moderne, etablierte Namenswahl"
+  ],
+  "confidence": 0.93,
+  "display_text": "Zoe gilt in Deutschland als moderner, international verständlicher Mädchenname mit überwiegend positiver Resonanz. In Namensportalen wird er vor allem mit dem altgriechischen Ursprung, der Bedeutung „das Leben“ und einer guten Bekanntheit verbunden.",
+  "evidence_quality": "mittel bis gut; zwei konsistente, aber redaktionell kuratierte Namensquellen",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Zoe",
+  "normalized_name": "zoe",
+  "overall_resonance": "Überwiegend positiv und modern; der Name wird vor allem als kurzer, international verständlicher und in Deutschland bekannter Mädchenname wahrgenommen.",
+  "practical_notes": [
+    "Für die Suche und Aussprache ist der Name sehr gut zugänglich.",
+    "Die Schreibweise mit „oe“ statt Umlaut wirkt international anschlussfähig.",
+    "Die öffentliche Wahrnehmung ist eher informativ-positive Namenskunde als kontroverse Debatte."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt nur aus zwei Namensportalen und ist damit eher kuratiert als breit öffentliches Stimmungsbild.",
+    "Es gibt keine belastbaren Hinweise auf soziale Stigmatisierung; dennoch sollte Popularität nicht mit allgemeiner Zustimmung verwechselt werden."
+  ],
+  "short_summary": "Zoe wird in deutschen Namensportalen überwiegend positiv, modern und international wahrgenommen, mit klaren Bezügen zu Herkunft, Bedeutung und Beliebtheit.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "Vorname Zoe � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/Z/Zo/Zoe/"
+    },
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Zoe: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Zoe.html"
+    }
+  ],
+  "style_effect": [
+    "kurz und prägnant",
+    "modern und international",
+    "freundlich und weich im Klang",
+    "namenskundlich gut anschlussfähig",
+    "eher zeitgemäß als klassisch"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Hoch – Zoe ist in deutschen Namensportalen klar präsent und wird dort als beliebter, etablierter Vorname beschrieben."
+}

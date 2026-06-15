@@ -1,0 +1,53 @@
+{
+  "associations": [
+    "althochdeutsche Herkunft",
+    "Kurzform von Gottfried",
+    "Bedeutung rund um Gott/Friede/Schutz",
+    "Namenstag am 8. November",
+    "selten bzw. ungewöhnlich in Hitlisten",
+    "Spitznamen wie Götzi oder Götzio"
+  ],
+  "confidence": 0.78,
+  "display_text": "Götz: klassisch-deutsch, selten und markant; die öffentliche Resonanz ist eher leicht positiv bis neutral, bei begrenzter Evidenz.",
+  "evidence_quality": "Begrenzt: eine einschlägige Namenslexikon-Quelle mit Kommentaren, daher eher vorsichtige Einordnung.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Götz",
+  "normalized_name": "gotz",
+  "overall_resonance": "Die öffentliche Resonanz auf Götz wirkt eher klassisch-deutsch und leicht positiv bis neutral. Der Name wird vor allem über Herkunft, Bedeutung und Tradition wahrgenommen, nicht über starke moderne Trendigkeit.",
+  "practical_notes": [
+    "Für Suchmaschinen-Nutzer ist vor allem die traditionelle Herkunft relevant.",
+    "Der Name wirkt kurz, prägnant und unverwechselbar.",
+    "Wegen der Seltenheit kann er als markant wahrgenommen werden.",
+    "Die vorhandene Evidenz ist informativ, aber nicht breit repräsentativ."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenzlage ist schmal und stützt sich im Wesentlichen auf eine einzelne Namenslexikon-Seite mit Kommentaren.",
+    "Die öffentliche Wahrnehmung kann je nach Umfeld unterschiedlich ausfallen; gemischte Kommentare deuten eher auf ein geteiltes, aber nicht stark negatives Bild.",
+    "Keine belastbaren Hinweise auf eine breite soziale Stigmatisierung erkennbar."
+  ],
+  "short_summary": "Götz wird öffentlich eher als klassischer, seltener und leicht positiv konnotierter Vorname wahrgenommen.",
+  "source_count": 1,
+  "sources": [
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Götz: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,G%C3%B6tz.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "traditionsbetont",
+    "knapp und markant",
+    "eher männlich-konservativ im Klang",
+    "leicht altdeutsch anmutend"
+  ],
+  "usable_evidence_count": 1,
+  "visibility": "Eher selten und dadurch auffälliger als häufige Vornamen; in Namenslexika präsent, im Alltag vermutlich weniger verbreitet."
+}

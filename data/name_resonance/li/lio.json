@@ -1,0 +1,72 @@
+{
+  "associations": [
+    "Löwe",
+    "Stärke",
+    "Sonne",
+    "Kurzform von Leo/Lion/Lionel/Leon",
+    "modern",
+    "aufsteigend",
+    "beliebt",
+    "Unisex-Name",
+    "lateinischer Ursprung"
+  ],
+  "confidence": 0.83,
+  "display_text": "Lio wirkt in den vorliegenden Quellen modern, kurz und positiv besetzt. Häufige Assoziationen sind Löwe, Stärke und Sonne; außerdem gilt der Name als aufsteigend beliebt. Die Evidenz stammt jedoch vor allem aus Namensportalen und ist deshalb eher mittelstark als breit öffentlich diskutiert.",
+  "evidence_quality": "mittelstark; überwiegend informativ-beschreibende Quellen, wenig diskursive oder unabhängige öffentliche Resonanz",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Lio",
+  "normalized_name": "lio",
+  "overall_resonance": "Lio wird in den vorliegenden Namensquellen überwiegend positiv und modern wahrgenommen. Der Name erscheint als kurz, klar und trendig, mit häufigen Assoziationen zu Löwe, Stärke und Sonne. Die öffentliche Resonanz wirkt eher wohlwollend als kontrovers.",
+  "practical_notes": [
+    "Für Suchende wirkt Lio einfach, modern und gut merkbar.",
+    "Die Schreibweise ist kurz und international gut verwendbar.",
+    "Je nach Kontext kann der Name als eigenständig oder als Kurzform verstanden werden."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Quellen sind vor allem Namensportale; die Resonanz ist daher nur indirekt ablesbar.",
+    "Ein Teil der positiven Wirkung stammt aus redaktionellen oder datenbankbasierten Bewertungen, nicht aus breiter öffentlicher Diskussion.",
+    "Es gibt keine belastbaren Hinweise auf soziale Stigmatisierung in den vorliegenden Daten."
+  ],
+  "short_summary": "Lio wird in den verfügbaren Quellen überwiegend positiv, modern und aufsteigend wahrgenommen. Der Name ist kurz, markant und wird häufig mit Löwe, Stärke und Sonne verbunden. Die Evidenz ist brauchbar, aber vor allem portalbasiert.",
+  "source_count": 3,
+  "sources": [
+    {
+      "confidence": 0.91,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "Vorname Lio � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/L/Li/Lio/"
+    },
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "Vorname Lio � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/L/Li/Lio/"
+    },
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Lio: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Lio.html"
+    }
+  ],
+  "style_effect": [
+    "kurz und prägnant",
+    "modern und zeitgemäß",
+    "weich, aber markant",
+    "jung und trendbewusst",
+    "eher unisex wahrgenommen",
+    "positiv konnotiert durch Stärke-/Löwen-Assoziationen"
+  ],
+  "usable_evidence_count": 3,
+  "visibility": "In Deutschland wirkt Lio sichtbar und aufsteigend beliebt, vor allem in Namensportalen und Beliebtheitslisten. Die Evidenz ist dabei eher mittelstark: Es gibt viel beschreibende Namensliteratur, aber nur wenig echte öffentliche Debatte oder breitere Diskussionssignale."
+}

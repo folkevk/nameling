@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "lateinische bzw. römische Herkunft",
+    "Bedeutung: „die aus Adria Stammende“",
+    "weiblicher Vorname",
+    "Namensform mit internationaler Nutzung",
+    "Namenstag",
+    "Kurzformen wie Adri, Adi, Nana oder Ari",
+    "Varianten wie Adriane, Adrianne, Adrianna, Adrienne"
+  ],
+  "confidence": 0.84,
+  "display_text": "Adriana wirkt in der verfügbaren deutschen Evidenz klassisch, klangvoll und überwiegend positiv. Der Name wird vor allem über Herkunft, Bedeutung und Namensvarianten beschrieben und erscheint eher als etablierter Vorname denn als stark diskutiertes Trendthema. Die Aussagekraft ist jedoch begrenzt, weil die Evidenz fast nur aus Namenslexika stammt.",
+  "evidence_quality": "mittel bis schwach: inhaltlich klar, aber überwiegend nur durch zwei ähnliche Namenslexikon-Quellen gestützt.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Adriana",
+  "normalized_name": "adriana",
+  "overall_resonance": "Adriana wird in der verfügbaren deutschsprachigen Evidenz überwiegend sachlich bis leicht positiv wahrgenommen: ein klangvoller, klar weiblich markierter Vorname mit klassischer Herkunft und gut nachvollziehbarer Bedeutung.",
+  "practical_notes": [
+    "Für Suchmaschinen-Nutzer wirkt der Name meist klassisch, freundlich und gut einordbar.",
+    "Die Bedeutung und Herkunft sind leicht vermittelbar, was den Namen in namenskundlichen Kontexten attraktiv macht.",
+    "Keine Hinweise auf gesellschaftliche Stigmatisierung in der vorliegenden Evidenz."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist stark auf wenige Namenslexikon-Seiten beschränkt; öffentliche Resonanz nur eingeschränkt belastbar.",
+    "Es liegen keine breiten unabhängigen Diskussionsquellen vor, daher ist die Wahrnehmung eher eine Lexikon- als eine Alltagsstichprobe.",
+    "Einzelne Rang- oder Beliebtheitsangaben sollten nicht als allgemeingültiger Trend gelesen werden."
+  ],
+  "short_summary": "Adriana wird öffentlich meist sachlich bis leicht positiv eingeordnet: ein klassischer, klangvoller Mädchenname mit lateinischer Herkunft und klarer Bedeutung.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.91,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Adriana � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/A/Ad/Adriana/"
+    },
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Adriana: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Adriana.html"
+    }
+  ],
+  "style_effect": [
+    "klingt weich und melodisch",
+    "wirkt international und zugleich vertraut",
+    "hat einen eher klassischen, lateinischen Charakter",
+    "wird häufig informativ über Herkunft und Bedeutung eingeordnet",
+    "erscheint als etablierter Mädchenname mit verschiedenen Kurzformen"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Im deutschen Raum ist der Name sichtbar, aber eher im namenskundlichen und listenbezogenen Kontext als als stark öffentlich diskutiertes Trendthema."
+}

@@ -1,0 +1,67 @@
+{
+  "associations": [
+    "Kurzform von Jennifer",
+    "teils auch als Koseform eingeordnet",
+    "walisische und hebräische Herkunft in Namensdeutungen",
+    "Bedeutungen wie „die Weiße“, „die Blonde“, „die weiße Fee“ oder „Jahwe ist gnädig“",
+    "Namensseiten erwähnen Beliebtheit und Namenstag"
+  ],
+  "confidence": 0.84,
+  "display_text": "Jenny wirkt in der vorliegenden Evidenz vertraut, freundlich und eher unaufgeregt. Der Name wird vor allem sachlich erklärt: als Kurz- bzw. Koseform, mit Herkunfts- und Bedeutungsangaben sowie Hinweisen auf Beliebtheit und Namenstag. Eine starke öffentliche Debatte oder Stigmatisierung ist in den Quellen nicht erkennbar.",
+  "evidence_quality": "mittel bis schwach für öffentliche Resonanz, aber gut für Namensbedeutung und Herkunft; die Quellen sind überwiegend informativ statt meinungsbasiert",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Jenny",
+  "normalized_name": "jenny",
+  "overall_resonance": "Jenny wirkt in der vorliegenden Evidenz überwiegend vertraut, freundlich und unaufgeregt. Die öffentliche Wahrnehmung erscheint eher sachlich-informativ als emotional aufgeladen; belastbare Hinweise auf starke Zustimmung, Ablehnung oder Stigmatisierung sind hier nicht zu sehen.",
+  "practical_notes": [
+    "Für eine Suchmaschine eignet sich eine neutrale Beschreibung mit dem Hinweis auf die gute Bekanntheit des Namens.",
+    "Die Wirkung lässt sich am ehesten als freundlich, vertraut und unkompliziert zusammenfassen.",
+    "Bei Bedarf kann zusätzlich zwischen Kurzform-Charakter und eigenständiger Namensverwendung unterschieden werden."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz zeigt kaum echte öffentliche Diskussion, sondern vor allem lexikalische Beschreibung.",
+    "Es gibt keine klare belastbare Grundlage für Aussagen über gesellschaftliche Vorurteile oder eine negative Stigmatisierung.",
+    "Beliebtheitsangaben sollten nicht mit allgemeiner gesellschaftlicher Bewertung verwechselt werden."
+  ],
+  "short_summary": "Jenny ist ein gut bekannter, eher freundlich und vertraut wirkender Vorname. Die Evidenz zeigt vor allem sachliche Namenskunde und Beliebtheitshinweise, aber kaum echte öffentliche Meinungsresonanz.",
+  "source_count": 3,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Jenny � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/J/Je/Jenny/"
+    },
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Jenny � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/J/Je/Jenny/"
+    },
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Jenny: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Jenny.html"
+    }
+  ],
+  "style_effect": [
+    "kurz und eingängig",
+    "modern-vertraut",
+    "umgangssprachlich anschlussfähig",
+    "als Kose- oder Kurzform wahrgenommen",
+    "leicht feminin und weich klingend"
+  ],
+  "usable_evidence_count": 3,
+  "visibility": "Im deutschsprachigen Raum ist der Name gut bekannt und durch Namensseiten sowie Beliebtheitsangaben sichtbar. Die Resonanz in der Evidenz ist jedoch nur indirekt ablesbar, da überwiegend Nachschlage- und Infotexte vorliegen."
+}

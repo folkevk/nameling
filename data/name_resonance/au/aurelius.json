@@ -1,0 +1,62 @@
+{
+  "associations": [
+    "lateinischer Ursprung",
+    "Bedeutung: der Goldene / aus Gold Gemachte",
+    "römische Geschichte",
+    "Marcus Aurelius",
+    "selten, aber in Deutschland vergeben",
+    "Namenstag",
+    "Spitznamen wie Aurel oder Auri"
+  ],
+  "confidence": 0.76,
+  "display_text": "Aurelius wird überwiegend als klassischer, edel klingender und historisch geprägter Vorname wahrgenommen. In Deutschland wirkt er eher selten und besonders; die verfügbaren Quellen sind jedoch vor allem namenskundlich und liefern nur begrenzt echte öffentliche Resonanz.",
+  "evidence_quality": "mittel bis schwach: gute Namenskunde, aber wenig echte öffentliche Resonanzdaten",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Aurelius",
+  "normalized_name": "aurelius",
+  "overall_resonance": "Aurelius wirkt in der öffentlichen Namensdarstellung eher edel, klassisch und historisch geprägt. Die vorhandene Evidenz ist überwiegend beschreibend und tendenziell positiv, aber nicht stark community-basiert. Eine breite, gesicherte Alltagsresonanz in Deutschland lässt sich daraus nur eingeschränkt ableiten.",
+  "practical_notes": [
+    "Für eine Namenssuche eignet sich Aurelius als ungewöhnlicher, stilvoller und historisch aufgeladener Name.",
+    "Die Aussprache und Schreibweise sind relativ klar, der Name bleibt aber wegen seiner Seltenheit auffällig.",
+    "Die starke klassische Assoziation kann für manche als besonders elegant, für andere als etwas distanziert wirken."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt vor allem aus Namensdatenbanken und redaktionellen Seiten, nicht aus breiter öffentlicher Diskussion.",
+    "Daher sind Aussagen zur tatsächlichen sozialen Wahrnehmung nur vorsichtig belastbar."
+  ],
+  "short_summary": "Aurelius wird meist als klassisch, edel und historisch wahrgenommen. In Deutschland ist der Name eher selten und auffällig; die Evidenz ist aber vor allem redaktionell, nicht breit community-basiert.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "Vorname Aurelius � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/A/Au/Aurelius/"
+    },
+    {
+      "confidence": 0.91,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Aurelius: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Aurelius.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "lateinisch",
+    "historisch",
+    "gehoben",
+    "selten",
+    "namenskundlich",
+    "klingt feierlich"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland scheint der Name eher selten und auffällig zu sein. Er ist bekannt, aber nicht alltäglich, und wird vor allem über seine Herkunft und Bedeutung wahrgenommen."
+}

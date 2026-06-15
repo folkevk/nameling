@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "altenglische Herkunft",
+    "geografisch/etymologisch geprägte Namensdeutung",
+    "Beliebtheit in Deutschland",
+    "im englischsprachigen Raum verbreitet",
+    "Kurzform: Kim",
+    "selten bis eher selten"
+  ],
+  "confidence": 0.84,
+  "display_text": "Kimberly wirkt in den vorliegenden Quellen überwiegend neutral bis positiv: ein international klingender, eher seltener Mädchenname mit englischsprachiger Prägung und der Kurzform Kim. Die Evidenz ist gut für Herkunft und Namensbeschreibung, aber begrenzt für eine breite öffentliche Debatte.",
+  "evidence_quality": "Gut für Namensbedeutung, Herkunft und grobe Beliebtheit; schwächer für echte öffentliche Resonanz oder gesellschaftliche Einordnung.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Kimberly",
+  "normalized_name": "kimberly",
+  "overall_resonance": "Kimberly wird in den vorliegenden deutschen Namensquellen überwiegend neutral bis positiv beschrieben: als weiblicher, international geprägter Vorname mit englischsprachiger Bekanntheit, seltenerem Vorkommen in Deutschland und der Kurzform Kim. Die öffentliche Wahrnehmung wirkt eher informativ-namenskundlich als kontrovers.",
+  "practical_notes": [
+    "Für Suchmaschinen-Nutzer wirkt Kimberly international und gut einordbar.",
+    "Die Kurzform Kim erhöht die Alltagstauglichkeit.",
+    "Wegen der Seltenheit in Deutschland kann der Name als individuell wahrgenommen werden."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt vor allem aus Namenslexika und kompilierter Darstellung, nicht aus einer freien öffentlichen Diskussion.",
+    "Etymologische Angaben sind teils unterschiedlich formuliert; die Herkunftsdeutung sollte daher vorsichtig gelesen werden.",
+    "Keine belastbaren Hinweise auf soziale Stigmatisierung in der vorliegenden Evidenz."
+  ],
+  "short_summary": "Kimberly wird in deutschen Namensquellen meist neutral bis positiv und als seltener, international wirkender Mädchenname mit Kurzform Kim beschrieben.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Kimberly � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/K/Ki/Kimberly/"
+    },
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Kimberly: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Kimberly.html"
+    }
+  ],
+  "style_effect": [
+    "international klingend",
+    "modern-zeitgemäß",
+    "weiblich-markant",
+    "durch Kurzform Kim alltagstauglich",
+    "eher seltene Wahrnehmung in Deutschland"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Mittel: Der Name ist in Namenslexika und Beliebtheitsseiten klar sichtbar, aber die Evidenz für eine breite öffentliche Debatte ist begrenzt."
+}

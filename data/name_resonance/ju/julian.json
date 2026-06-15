@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "lateinischer Ursprung",
+    "römischer Gentilname",
+    "Bezug zu den Juliern/Julius",
+    "mögliche Assoziation mit Julius Caesar",
+    "Namenstag",
+    "beliebter Vorname in Deutschland",
+    "etablierte, vertraute Namensform"
+  ],
+  "confidence": 0.93,
+  "display_text": "Julian wirkt in der öffentlichen Wahrnehmung überwiegend positiv: ein sehr bekannter, moderner und zugleich klassisch verankerter Vorname mit lateinischer Herkunft. Die Quellen sind vor allem namenskundliche Beschreibungen und zeigen wenig Kontroverse.",
+  "evidence_quality": "hoch; mehrere übereinstimmende, klare Namensquellen mit überwiegend positiver bzw. positiver-sachlicher Tendenz",
+  "generated_at": "2026-06-12T06:08:03Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Julian",
+  "normalized_name": "julian",
+  "overall_resonance": "Überwiegend positiv und etabliert; Julian wird in den Quellen als moderner, sehr gebräuchlicher Vorname mit klassischer Herkunft beschrieben.",
+  "practical_notes": [
+    "Für Suchende wirkt der Name in Deutschland gut bekannt und unauffällig positiv.",
+    "Die öffentliche Wahrnehmung erscheint eher sachlich-wertschätzend als emotional aufgeladen."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt vor allem aus Namenslexika und ist daher stärker beschreibend als meinungsbasiert.",
+    "Es gibt wenig echte öffentliche Debatte oder kontroverse Bewertung zum Namen selbst."
+  ],
+  "short_summary": "Julian wird öffentlich meist als beliebter, klassischer und modern wirkender Vorname mit lateinischer Herkunft wahrgenommen.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "Vorname Julian � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/J/Ju/Julian/"
+    },
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Julian: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Julian.html"
+    }
+  ],
+  "style_effect": [
+    "modern",
+    "klassisch",
+    "zeitlos",
+    "informativ",
+    "namenskundlich",
+    "eher weich klingend"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "hoch"
+}

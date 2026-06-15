@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "weiblicher Vorname",
+    "englische Variante von Henriette",
+    "altdeutsche Herkunft",
+    "Bedeutung: Hausherrin / Herrscherin der Heimat",
+    "Namenstag",
+    "selten bis mäßig verbreitet in Deutschland"
+  ],
+  "confidence": 0.84,
+  "display_text": "Harriet wirkt in Deutschland eher klassisch und international als modern-trendig. Die öffentliche Wahrnehmung ist überwiegend neutral bis leicht positiv, die Evidenz dazu ist aber begrenzt und stammt vor allem aus Vornamensseiten.",
+  "evidence_quality": "mittel bis schwach; klare Namensdiskussion, aber nur geringe Breite der öffentlichen Resonanz und kaum externe Alltagskontexte",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Harriet",
+  "normalized_name": "harriet",
+  "overall_resonance": "Harriet wirkt in der öffentlichen Namenswahrnehmung eher sachlich-klassisch als trendig. Die vorhandenen Quellen beschreiben den Namen vor allem über Herkunft, Bedeutung und Verbreitung, mit insgesamt neutral bis leicht positiver Tonlage.",
+  "practical_notes": [
+    "Für eine Suchmaschine eignet sich die Kurzbeschreibung als klassisch, international und eher selten.",
+    "Die Wahrnehmung ist eher informationsgetrieben als emotional oder modisch.",
+    "Falls gewünscht, kann Harriet im deutschen Kontext als vertraut, aber nicht alltäglich zusammengefasst werden."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenzlage ist begrenzt und stammt fast ausschließlich von Vornamensseiten.",
+    "Es gibt wenig belastbare Hinweise auf eine breite öffentliche Diskussion außerhalb namenskundlicher Kontexte.",
+    "Keine belastbaren Hinweise auf soziale Stigmatisierung oder klare negative Zuschreibungen in den vorliegenden Quellen."
+  ],
+  "short_summary": "Harriet wird in den vorliegenden Quellen neutral bis leicht positiv und vor allem sachlich beschrieben: ein klassisch wirkender, eher seltener Vorname mit englischer Form und traditioneller Bedeutung.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Harriet � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/H/Ha/Harriet/"
+    },
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Harriet: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Harriet.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "elegant",
+    "traditionsnah",
+    "international klingend",
+    "eher selten",
+    "lexikalisch klar"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland erscheint Harriet als eher seltener bis mäßig verbreiteter Vorname mit klarer, aber nicht sehr breiter öffentlicher Präsenz. Die Evidenz stammt überwiegend von Namensseiten und ist deshalb für die allgemeine Wahrnehmung nur eingeschränkt aussagekräftig."
+}

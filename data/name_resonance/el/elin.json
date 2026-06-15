@@ -1,0 +1,62 @@
+{
+  "associations": [
+    "„die Leuchtende“ / „die Strahlende“",
+    "skandinavische Form von Helena",
+    "teils auch walisische Bezugnahme",
+    "Unisex-Charakter in manchen Quellen",
+    "in Deutschland eher beliebt bzw. bekannt",
+    "Aussprache wird vereinzelt als nicht ganz eindeutig empfunden"
+  ],
+  "confidence": 0.89,
+  "display_text": "Elin: überwiegend neutral bis leicht positiv. Der Name wird als kurz, modern und skandinavisch geprägt beschrieben, meist mit Bedeutungen wie „die Leuchtende“ oder „die Strahlende“. Öffentliche Kritik ist in den vorliegenden Quellen kaum erkennbar; Hinweise betreffen eher die Aussprache als den Namen selbst.",
+  "evidence_quality": "mittel bis gut; zwei passende Namensquellen, aber nur indirekte öffentliche Resonanz und wenig freie Diskussion.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Elin",
+  "normalized_name": "elin",
+  "overall_resonance": "Überwiegend neutral bis leicht positiv. Elin wird in den vorliegenden Quellen vor allem sachlich als skandinavisch geprägter Vorname mit freundlicher, heller Bedeutungsassoziation beschrieben.",
+  "practical_notes": [
+    "Für die Namenssuche wirkt Elin kurz, modern und international anschlussfähig.",
+    "Die Bedeutung wird meist positiv als hell/strahlend wahrgenommen.",
+    "Falls eine klare Aussprache wichtig ist, kann eine kurze Erklärung hilfreich sein."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist begrenzt und stammt überwiegend aus Namensdatenbanken mit redaktionellen Angaben.",
+    "Freie öffentliche Meinungen oder kontroverse Diskussionen sind kaum sichtbar.",
+    "Die Hinweise zur Aussprache sind eher ein praktischer Punkt als eine gesellschaftliche Bewertung des Namens."
+  ],
+  "short_summary": "Elin wird in Deutschland überwiegend neutral bis leicht positiv wahrgenommen: ein kurzer, moderner, skandinavisch wirkender Name mit heller Bedeutung und kaum negativer öffentlicher Resonanz.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Elin � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/E/El/Elin/"
+    },
+    {
+      "confidence": 0.92,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Elin: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Elin.html"
+    }
+  ],
+  "style_effect": [
+    "hell",
+    "modern",
+    "sanft",
+    "skandinavisch",
+    "klar",
+    "elegant",
+    "zeitgemäß"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland scheint der Name bekannt und eher etabliert, zugleich aber nicht so massenhaft wie klassische Standardnamen. Die öffentliche Sichtbarkeit entsteht vor allem über Namensdatenbanken und Beliebtheitsangaben, weniger über breite Diskussionsbeiträge."
+}

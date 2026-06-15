@@ -1,0 +1,63 @@
+{
+  "associations": [
+    "weiblicher Vorname",
+    "Herkunft aus Lothringen/Lorraine",
+    "französisch bzw. altfranzösisch geprägt",
+    "englische und schottische Bezugspunkte in manchen Darstellungen",
+    "Bedeutung: aus Lothringen stammend bzw. mit Lorbeerkranz verbunden",
+    "Namenstag wird in Quellen unterschiedlich angegeben",
+    "in Deutschland selten"
+  ],
+  "confidence": 0.88,
+  "display_text": "Lorraine wird meist neutral bis leicht positiv wahrgenommen: ein seltener, international wirkender und klanglich eleganter Vorname. In Deutschland ist er eher wenig verbreitet, wobei Herkunft, Bedeutung und gelegentlich Aussprache stärker im Fokus stehen als eine soziale Bewertung.",
+  "evidence_quality": "gut: zwei direkte, namensbezogene Lexikonquellen mit konsistenter Grundtendenz; Resonanzdaten sind jedoch überwiegend beschreibend und nicht auf breite Umfragen gestützt.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Lorraine",
+  "normalized_name": "lorraine",
+  "overall_resonance": "Lorraine wird in der öffentlichen Namenswahrnehmung eher neutral bis leicht positiv beschrieben. Der Name wirkt international und klanglich elegant, ist in Deutschland aber eher selten. Die Resonanz ist vor allem beschreibend: Herkunft, Bedeutung und Aussprache stehen stärker im Vordergrund als eine ausgeprägte modische oder soziale Bewertung.",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt Lorraine stilvoll und international.",
+    "Wer einen vertrauten Alltagsnamen sucht, findet Lorraine eher ungewöhnlich.",
+    "Die Aussprache ist meist unkompliziert, kann aber je nach Umfeld kurz erklärt werden müssen.",
+    "Durch die Seltenheit hat der Name einen eher individuellen Charakter."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenzlage ist insgesamt solide, aber stark lexikalisch geprägt und enthält nur wenig echte Alltagsresonanz.",
+    "Schreibweise und Aussprache können in Deutschland vereinzelt als potenziell erklärungsbedürftig wahrgenommen werden.",
+    "Unterschiedliche Quellen nennen leicht abweichende Deutungen und Namenstage; das ist bei Namenslexika nicht ungewöhnlich."
+  ],
+  "short_summary": "Lorraine ist in Deutschland ein seltener, eher elegant und international wirkender Vorname mit neutral bis leicht positiver öffentlicher Resonanz.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Lorraine � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/L/Lo/Lorraine/"
+    },
+    {
+      "confidence": 0.84,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv mit vereinzelter ambivalenter bzw. negativer Resonanz",
+      "source_type": "web",
+      "title": "&#9655; Vorname Lorraine: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Lorraine.html"
+    }
+  ],
+  "style_effect": [
+    "international",
+    "elegant",
+    "klassisch-lexikalisch",
+    "weich klingend",
+    "eher selten",
+    "französisch anmutend"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland ist Lorraine bekannt, aber nicht häufig. Die Sichtbarkeit ist eher niedrig bis mittel, vor allem als gelisteter Vorname in Namenslexika und Datenbanken."
+}

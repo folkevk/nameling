@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "Bedeutung in Richtung „Wahrheit“ bzw. „die Wahre“",
+    "slawischer und lateinischer Ursprung",
+    "Kurzform von Verena oder Veronika",
+    "Namenstage werden mehrfach genannt",
+    "in Deutschland eher regelmäßig vergeben"
+  ],
+  "confidence": 0.88,
+  "display_text": "Vera gilt in der öffentlichen Wahrnehmung als klassischer, kurzer und eher positiv besetzter Vorname. Er wird mit Bedeutungen wie „die Wahre“ beziehungsweise „Wahrheit“ verbunden und meist als zeitlos, schlicht und gut anschlussfähig beschrieben. Die Evidenz ist solide, stammt aber teils aus Namensportalen mit gemischter Quellenlage; deshalb sollten Herkunfts- und Bedeutungsangaben vorsichtig gelesen werden.",
+  "evidence_quality": "mittel bis gut; klar namebezogene Quellen, aber teils portaltypisch, mit möglicher Verzerrung und gemischten redaktionellen/kommentierenden Inhalten.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Vera",
+  "normalized_name": "vera",
+  "overall_resonance": "Überwiegend positiv und sachlich-informativ wahrgenommen; der Name wirkt klassisch, kurz und etabliert, ohne starke Polarisierung.",
+  "practical_notes": [
+    "Für die öffentliche Wahrnehmung zählt vor allem der sachlich-positive, klassische Eindruck.",
+    "Der Name ist leicht aussprechbar, knapp und international anschlussfähig.",
+    "Die Resonanz wirkt eher unaufgeregt als trendgetrieben."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist überwiegend webbasiert und teils von Namensportalen mit möglicher Quellenverzerrung geprägt.",
+    "Ein Teil der Angaben mischt redaktionelle Inhalte mit Nutzerkommentaren.",
+    "Mehrere Bedeutungsableitungen kursieren parallel; sie sollten nicht als einzig gesicherte Deutung verstanden werden."
+  ],
+  "short_summary": "Vera wird öffentlich meist als klassischer, kurzer und positiv-sachlicher Vorname wahrgenommen – mit Bedeutungsbezügen zu Wahrheit und teils mehreren Herkunftsdeutungen.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Vera � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/V/Ve/Vera/"
+    },
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Vera: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Vera.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "kurz",
+    "elegant",
+    "zeitlos",
+    "nüchtern",
+    "namenskundlich anschlussfähig"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Im deutschsprachigen Raum gut bekannt und regelmäßig präsent, eher im mittleren Bereich der Nutzung. Die öffentliche Sichtbarkeit ist solide, aber nicht auffällig dominant."
+}

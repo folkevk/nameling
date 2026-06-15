@@ -1,0 +1,59 @@
+{
+  "associations": [
+    "althochdeutsche Herkunft",
+    "Bedeutung: Geist / Verstand / der Kluge",
+    "kurzer, markanter Name",
+    "historisch verbreitet",
+    "aktuell wieder beliebt",
+    "deutschsprachig gut anschlussfähig"
+  ],
+  "confidence": 0.92,
+  "display_text": "Hugo: überwiegend positiv wahrgenommen – kurz, klassisch, traditionsreich und wieder im Trend. Einzelne kritische Kommentare sind vorhanden, aber nicht stark belegt.",
+  "evidence_quality": "hoch",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Hugo",
+  "normalized_name": "hugo",
+  "overall_resonance": "Hugo wird in Deutschland überwiegend positiv und wertschätzend wahrgenommen: klassisch, kurz, traditionsreich und zugleich wieder modern im Trend. Die öffentliche Rezeption wirkt eher freundlich als kontrovers.",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt Hugo gut verständlich und positiv besetzt.",
+    "Der Name verbindet Tradition mit moderner Wiederkehr, ohne aufdringlich zu wirken.",
+    "Die Quellenlage ist insgesamt solide, aber Kommentare sollten vorsichtig gewichtet werden."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Vereinzelte kritische oder scherzhafte Assoziationen tauchen in Kommentaren auf, sind aber nicht belastbar oder repräsentativ.",
+    "Die Evidenz zu negativen Resonanzen ist schwach und sollte nicht überbewertet werden."
+  ],
+  "short_summary": "Hugo wird in der öffentlichen Wahrnehmung meist positiv gesehen: kurz, klassisch, traditionsreich und wieder modern beliebt. Einzelne kritische Kommentare gibt es, sie sind aber schwach belegt.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "positive",
+      "source_type": "web",
+      "title": "Vorname Hugo � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/H/Hu/Hugo/"
+    },
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "mixed",
+      "source_type": "web",
+      "title": "&#9655; Vorname Hugo: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Hugo.html"
+    }
+  ],
+  "style_effect": [
+    "kurz und prägnant",
+    "klassisch-traditionell",
+    "modern wiederbelebt",
+    "namenskundlich klar",
+    "sympathisch und unkompliziert"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "hoch"
+}

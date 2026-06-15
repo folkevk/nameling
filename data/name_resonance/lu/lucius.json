@@ -1,0 +1,66 @@
+{
+  "associations": [
+    "lateinischer Ursprung",
+    "römische Antike",
+    "Licht",
+    "Helligkeit",
+    "Tagesanbruch",
+    "leuchtend",
+    "selten",
+    "Namenstag",
+    "historische Anmutung"
+  ],
+  "confidence": 0.69,
+  "display_text": "Lucius hat in der öffentlichen Wahrnehmung eine eher klassische, historische und leicht positive Anmutung. Der Name gilt als selten und wird vor allem mit lateinischem Ursprung, Licht und Würde verbunden. Die Evidenz ist jedoch begrenzt, daher nur vorsichtige Aussagen zur tatsächlichen Resonanz.",
+  "evidence_quality": "schwach bis mittel: zwei überwiegend namenkundliche Webquellen, keine belastbare öffentliche Diskussionslage",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Lucius",
+  "normalized_name": "lucius",
+  "overall_resonance": "Lucius wirkt in der öffentlichen Wahrnehmung eher klassisch, bildungsnah und historisch geprägt. Die verfügbare Evidenz deutet auf eine überwiegend neutrale bis leicht positive Resonanz hin, wobei der Name vor allem über Bedeutung und Herkunft wahrgenommen wird, nicht über breite Alltagsdiskussion.",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt Lucius markant und traditionsreich.",
+    "Der Name kann im Deutschen als ungewöhnlich und daher einprägsam wahrgenommen werden.",
+    "Die öffentliche Resonanz ist eher sachlich als emotional aufgeladen."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenzlage ist schwach und basiert auf wenigen, vor allem informativen Quellen.",
+    "Es gibt keine klare Community-Diskussion oder breite öffentliche Debatte, daher nur vorsichtige Aussagen.",
+    "Positive Assoziationen wie 'Licht' oder 'strahlend' sind vor allem etymologisch und nicht als allgemeine soziale Bewertung zu verstehen."
+  ],
+  "short_summary": "Lucius wird meist klassisch, selten und historisch-lateinisch wahrgenommen. Die Resonanz wirkt eher neutral bis leicht positiv, ist aber nur schwach belegt.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.94,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Lucius � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/L/Lu/Lucius/"
+    },
+    {
+      "confidence": 0.74,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Lucius: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Lucius.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "lateinisch",
+    "historisch",
+    "würdevoll",
+    "eher selten",
+    "gebildet",
+    "antik anmutend",
+    "hell/strahlend assoziiert"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Eher selten und dadurch im deutschsprachigen Raum auffälliger als geläufig. Die öffentliche Sichtbarkeit ist vorhanden, aber die Evidenz zur tatsächlichen Resonanz ist schwach und vor allem aus namenkundlichen Informationsquellen abgeleitet."
+}

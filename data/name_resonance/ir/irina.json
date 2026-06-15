@@ -1,0 +1,59 @@
+{
+  "associations": [
+    "altgriechische Herkunft",
+    "Bedeutung: die Friedliche / die Friedfertige",
+    "Form zu Irene",
+    "Bezug zur Friedensgöttin Irene",
+    "Namenstag",
+    "weiblicher Vorname",
+    "im deutschen Sprachraum etabliert"
+  ],
+  "confidence": 0.95,
+  "display_text": "Irina hat eine überwiegend positive, sachlich-neutrale Resonanz. Der Name wird als klassisch, harmonisch und friedlich beschrieben, mit altgriechischer Herkunft und klarer Bedeutung. Im deutschen Sprachraum ist er bekannt, aber eher zeitlos als trendig.",
+  "evidence_quality": "hoch für Namensbedeutung und Herkunft, mittel für öffentliche Resonanz im engeren Sinn",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Irina",
+  "normalized_name": "irina",
+  "overall_resonance": "Überwiegend positiv und sachlich-neutral. Irina wird in den Quellen vor allem als klassischer, international verständlicher Frauenname mit friedlicher Bedeutung dargestellt.",
+  "practical_notes": [
+    "Für Suchmaschinen und Namenskontexte ist die Bedeutung meist leicht vermittelbar.",
+    "Der Name wirkt eher klassisch als modern-experimentell.",
+    "Aussprache und Schreibweise sind im Deutschen unproblematisch."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt vor allem aus Namensdatenbanken und lexikalischen Quellen, daher gibt es nur begrenzte öffentliche Meinungsvielfalt.",
+    "Keine belastbaren Hinweise auf eine negative soziale Stigmatisierung in der vorliegenden Evidenz."
+  ],
+  "short_summary": "Irina wird im deutschsprachigen Raum überwiegend positiv, klassisch und ruhig wahrgenommen. Die Quellen betonen vor allem die friedliche Bedeutung und die altgriechische Herkunft.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.99,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Irina � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/I/Ir/Irina/"
+    },
+    {
+      "confidence": 0.95,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Irina: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Irina.html"
+    }
+  ],
+  "style_effect": [
+    "klingt weich und harmonisch",
+    "wirkt klassisch und zeitlos",
+    "hat eine klare, nüchterne Namensstruktur",
+    "wird mit Frieden und Ruhe verbunden"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Im deutschsprachigen Raum bekannt und gut auffindbar, jedoch eher kein Mode- oder Trendname."
+}

@@ -1,0 +1,62 @@
+{
+  "associations": [
+    "lateinischer Ursprung",
+    "Bedeutungen wie „die Eifrige“, „die Fleißige“ oder „die Nachahmende“",
+    "weibliche Form bzw. Nähe zu Emil",
+    "französisch und deutschsprachiger Raum",
+    "Namenstag am 5. Januar",
+    "Spitznamen wie Emi, Emmi oder Mila",
+    "in Deutschland als aufstrebend bzw. beliebt beschrieben"
+  ],
+  "confidence": 0.84,
+  "display_text": "Emilie hat im deutschen Sprachraum eine überwiegend positive, klassische und zugleich moderne Resonanz. Der Name wird als weich, elegant und traditionsnah beschrieben, oft mit Bedeutungen wie „die Eifrige“ oder „die Fleißige“ verbunden. Die vorliegende Evidenz ist aber vor allem aus Namenslexika gewonnen, daher sollte die öffentliche Rezeption vorsichtig interpretiert werden.",
+  "evidence_quality": "mittel bis eher gering: klare Namensquellen, aber kaum echte öffentliche Diskussionsbreite",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Emilie",
+  "normalized_name": "emilie",
+  "overall_resonance": "Emilie wirkt im deutschsprachigen Raum überwiegend freundlich, klassisch und zugleich modern aufgegriffen. Die öffentliche Wahrnehmung in den vorliegenden Quellen ist klar eher positiv als kritisch.",
+  "practical_notes": [
+    "Für Suchmaschinen-Nutzer:innen wirkt Emilie eher positiv besetzt und gut anschlussfähig.",
+    "Der Name vermittelt einen gepflegten, zeitlosen Eindruck.",
+    "Die Aussprache und Schreibweise sind im deutschsprachigen Raum gut verständlich.",
+    "Kurzformen und ähnliche Namen erhöhen die Alltagstauglichkeit."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Datenlage ist schmal: überwiegend Namenslexika statt breit gestreuter öffentlicher Diskussionen.",
+    "Beliebtheitsaussagen sollten vorsichtig gelesen werden, da sie nicht direkt aus einer großen Meinungsbasis stammen.",
+    "Keine Hinweise auf eine soziale Stigmatisierung in der Evidenz."
+  ],
+  "short_summary": "Emilie wird im deutschsprachigen Raum überwiegend positiv, klassisch und freundlich wahrgenommen; die Evidenz ist jedoch vor allem namenskundlich und nicht breit öffentlich belegt.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "positive",
+      "source_type": "web",
+      "title": "Vorname Emilie � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/E/Em/Emilie/"
+    },
+    {
+      "confidence": 0.94,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Emilie: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Emilie.html"
+    }
+  ],
+  "style_effect": [
+    "weiblich und elegant",
+    "klassisch mit französisch-deutscher Anmutung",
+    "freundlich und weich im Klang",
+    "traditionell, aber nicht altmodisch",
+    "leicht modern durch aktuelle Beliebtheit"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Mittlere Sichtbarkeit: Der Name ist bekannt und wird in Namenslexika sowie Beliebtheitskontexten geführt, aber die Evidenz zur öffentlichen Resonanz ist begrenzt und stammt fast nur aus namenskundlichen Webquellen."
+}

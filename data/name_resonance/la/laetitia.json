@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "lateinischer Ursprung",
+    "Freude",
+    "Fröhlichkeit",
+    "die Glückliche",
+    "römische Mythologie",
+    "christlicher Bezug",
+    "Namenstag am 5. Juli",
+    "selten bis moderat verbreitet"
+  ],
+  "confidence": 0.92,
+  "display_text": "Laetitia wirkt in Deutschland überwiegend positiv, klassisch und elegant. In den Quellen wird der Name vor allem mit Freude, Fröhlichkeit und einem lateinisch-römischen Hintergrund verbunden; er ist bekannt, aber eher selten bis moderat verbreitet.",
+  "evidence_quality": "gut, aber vor allem lexikalisch/redaktionell; nur begrenzte direkte öffentliche Resonanzdaten",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Laetitia",
+  "normalized_name": "laetitia",
+  "overall_resonance": "Überwiegend positiv und eher elegant-traditionell wahrgenommen. Der Name wird in den Quellen vor allem mit Freude, Fröhlichkeit und einem klassischen lateinischen Hintergrund verbunden.",
+  "practical_notes": [
+    "Für Suchmaschinen und Kurzprofile ist der Name klar positiv konnotiert.",
+    "Die Schreibweise wirkt international und zugleich im deutschen Kontext vertraut.",
+    "Die Bedeutung kann als sympathischer Pluspunkt wahrgenommen werden."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt überwiegend aus Namenslexika und redaktionellen Beschreibungen, nicht aus breiter öffentlicher Meinungsforschung.",
+    "Einzelne Community-Elemente in einer Quelle können die Wahrnehmung leicht mitprägen, sollten aber nicht überinterpretiert werden."
+  ],
+  "short_summary": "Laetitia wird in den vorliegenden Quellen überwiegend positiv beschrieben: ein klassisch-eleganter Name mit Bedeutungselementen wie Freude und Fröhlichkeit, in Deutschland eher selten bis moderat verbreitet.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "Vorname Laetitia � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/L/La/Laetitia/"
+    },
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Laetitia: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Laetitia.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "elegant",
+    "freundlich",
+    "leicht feierlich",
+    "namenskundlich markant"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland bekannt, aber eher selten bis moderat verbreitet. Dadurch wirkt er präsent, ohne alltäglich zu sein."
+}

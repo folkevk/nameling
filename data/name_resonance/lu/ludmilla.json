@@ -1,0 +1,69 @@
+{
+  "associations": [
+    "slawische Herkunft",
+    "Bedeutung in Richtung „vom Volk geliebt“ / „mild“",
+    "selten in Deutschland",
+    "historische Verbindung zur heiligen Ludmilla",
+    "Namenstag am 15. und 16. September",
+    "Spitznamen wie Mila, Milla oder Ludi"
+  ],
+  "confidence": 0.87,
+  "display_text": "Ludmilla wirkt in den vorliegenden Quellen eher positiv-neutral: ein seltener, traditionsreicher und slawisch geprägter Vorname mit Bedeutung in Richtung „vom Volk geliebt“ bzw. „mild“. In Deutschland ist er wenig verbreitet und fällt dadurch auf, ohne dass sich in der Evidenz eine breite öffentliche Debatte zeigt. Die Rückmeldungen sind vor allem sachlich, teils leicht positiv, aber die Datenbasis ist schmal und stammt überwiegend aus Namenslexika.",
+  "evidence_quality": "mittel bis eher schmal: gute Übereinstimmung in der Namensbedeutung und Herkunft, aber fast ausschließlich lexikalische Einträge ohne breite öffentliche Debatte.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Ludmilla",
+  "normalized_name": "ludmilla",
+  "overall_resonance": "Eher positiv-neutral mit klarer namenskundlicher Prägung. Ludmilla wird in den vorliegenden Quellen vor allem als seltener, traditionsreicher und international klingender Vorname beschrieben; die Rückmeldungen sind überwiegend sachlich bis leicht positiv, ohne erkennbare breite öffentliche Debatte.",
+  "practical_notes": [
+    "Für Suchmaschinen wirkt Ludmilla eher seriös, traditionsnah und klar weiblich.",
+    "Der Name hat durch seine Seltenheit Wiedererkennungswert.",
+    "Die Quellen betonen vor allem Herkunft, Bedeutung und Klang, weniger Alltagsgebrauch oder Trendstatus."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist schmal und stammt fast nur aus Namenslexika; eine breite öffentliche Meinungsbildung ist nicht erkennbar.",
+    "Einzelne positive Kommentare sind subjektiv und sollten nicht als allgemeine Mehrheitsmeinung gelesen werden.",
+    "Es gibt keine belastbaren Hinweise auf eine soziale Stigmatisierung des Namens in der vorliegenden Evidenz."
+  ],
+  "short_summary": "Ludmilla wird in Deutschland vor allem als seltener, slawisch geprägter und traditionsreicher Vorname wahrgenommen – überwiegend neutral bis leicht positiv, bei begrenzter Evidenz.",
+  "source_count": 3,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Ludmilla � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/L/Lu/Ludmilla/"
+    },
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Ludmilla � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/L/Lu/Ludmilla/"
+    },
+    {
+      "confidence": 0.89,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Ludmilla: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Ludmilla.html"
+    }
+  ],
+  "style_effect": [
+    "slawisch-traditionell",
+    "klassisch und historisch",
+    "mild und positiv konnotiert",
+    "international aussprechbar",
+    "selten und dadurch eigenständig",
+    "mit kurzen Koseformen wie Mila oder Milla assoziierbar"
+  ],
+  "usable_evidence_count": 3,
+  "visibility": "In Deutschland wirkt der Name eher selten und dadurch auffällig, aber nicht stark verbreitet. Die öffentliche Sichtbarkeit in den Quellen ist begrenzt und stützt sich vor allem auf Namenslexika statt auf größere Diskussionsräume."
+}

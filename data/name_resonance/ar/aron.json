@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "biblischer Vorname",
+    "alternative Schreibweise zu Aaron",
+    "althebräische Herkunft",
+    "mögliche altägyptische Herleitung",
+    "Bedeutungen wie 'der Erhöhte' oder 'Krieger'",
+    "Namenstag am 1. Juli",
+    "in Deutschland als bekannt und etabliert beschrieben"
+  ],
+  "confidence": 0.78,
+  "display_text": "Aron wirkt in den Quellen sachlich bis leicht positiv: kurz, klassisch, biblisch geprägt und international gut verständlich. Die Belege stammen vor allem aus Namenslexika, daher ist die Aussage zur öffentlichen Resonanz nur vorsichtig belastbar.",
+  "evidence_quality": "mittel bis schwach: überwiegend lexikalische Namensseiten, wenig echte öffentliche Debatte",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Aron",
+  "normalized_name": "aron",
+  "overall_resonance": "Aron wird in den vorliegenden Quellen überwiegend sachlich bis leicht positiv wahrgenommen. Der Name erscheint als biblisch/hebräisch geprägt, international verständlich und eher zeitlos als modisch. Die öffentliche Resonanz wirkt insgesamt ruhig und positiv konnotiert, allerdings vor allem auf Basis von Namenslexika und nicht aus einer breiten Diskussion.",
+  "practical_notes": [
+    "Für Suchende wirkt Aron meist vertraut, klar und unkompliziert.",
+    "Die Schreibweise ist kurz und gut merkbar, kann aber gelegentlich mit Aaron verglichen werden.",
+    "In Deutschland scheint der Name eher solide und zeitlos als stark trendgetrieben zu wirken."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz zur öffentlichen Resonanz ist begrenzt, da die Quellen überwiegend beschreibende Namensseiten sind.",
+    "Einzelne positive Einschätzungen sollten nicht als breite Mehrheitsmeinung überinterpretiert werden."
+  ],
+  "short_summary": "Aron wird überwiegend sachlich bis leicht positiv wahrgenommen: biblisch, kurz, klassisch und international verständlich. Die Evidenz ist jedoch eher beschreibend als diskursiv.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Aron � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/A/Ar/Aron/"
+    },
+    {
+      "confidence": 0.9,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Aron: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Aron.html"
+    }
+  ],
+  "style_effect": [
+    "kurz und prägnant",
+    "klassisch wirkend",
+    "biblisch assoziiert",
+    "international gut anschlussfähig",
+    "eher modern-schlicht als ausgefallen"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Mittlere Sichtbarkeit in Namensdatenbanken und Namensseiten; die öffentliche Resonanz ist eher indirekt belegt als breit diskutiert."
+}

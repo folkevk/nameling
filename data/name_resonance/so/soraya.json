@@ -1,0 +1,59 @@
+{
+  "associations": [
+    "persische und arabische Herkunft",
+    "Sterne",
+    "Plejaden/Siebengestirn",
+    "„kleine Kostbarkeit“",
+    "„Licht der Sterne“",
+    "selten und besonders"
+  ],
+  "confidence": 0.78,
+  "display_text": "Soraya wirkt in Deutschland überwiegend positiv, klangvoll und elegant. Der Name wird meist mit einer besonderen, internationalen Note sowie mit Sternen- und Himmelsassoziationen verbunden. Die vorhandene Evidenz ist jedoch eher begrenzt und stammt vor allem aus Namenslexika; die öffentliche Resonanz sollte daher vorsichtig interpretiert werden.",
+  "evidence_quality": "mittel bis schwach: klare Namensdiskussionen, aber wenig direkte öffentliche Breitenresonanz; hauptsächlich einzelne Namensdatenbanken mit redaktionellem Charakter.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Soraya",
+  "normalized_name": "soraya",
+  "overall_resonance": "Überwiegend positiv und stilvoll-elegant wahrgenommen, mit eher exotisch-anklingender, internationaler Note.",
+  "practical_notes": [
+    "Für viele wirkt der Name klangvoll und markant, ohne schwer oder altmodisch zu erscheinen.",
+    "Die Schreib- und Ausspracheform ist relativ klar, was die Nutzung im Alltag erleichtert.",
+    "Durch die Seltenheit kann der Name auffallen, ohne ungewöhnlich schwer zugänglich zu sein."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die öffentliche Resonanz ist nur eingeschränkt belastbar, da die Evidenz vor allem aus Namenslexika und wenigen redaktionellen bzw. kommentarbasierten Einschätzungen stammt.",
+    "Es gibt keine belastbaren Hinweise auf eine soziale Stigmatisierung; positive Wertungen sollten aber nicht als allgemeingültig verstanden werden."
+  ],
+  "short_summary": "Soraya wird in den vorliegenden Quellen überwiegend positiv, klangvoll und besonders wahrgenommen. Der Name hat eine elegante, internationale Ausstrahlung und wird oft mit Sternen- und Herkunftsbezügen verbunden, allerdings ist die Evidenz für die öffentliche Resonanz eher begrenzt.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "Vorname Soraya � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/S/So/Soraya/"
+    },
+    {
+      "confidence": 0.91,
+      "is_name_discussion": true,
+      "sentiment": "positive",
+      "source_type": "web",
+      "title": "&#9655; Vorname Soraya: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Soraya.html"
+    }
+  ],
+  "style_effect": [
+    "klingt weich und melodisch",
+    "wirkt edel und besonders",
+    "hat eine internationale, persisch-arabische Anmutung",
+    "wird häufig mit Sternen- und Himmelsbezügen verbunden",
+    "erscheint in Namenslexika meist positiv bewertet"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland bekannt, aber nicht alltäglich; die Evidenz deutet eher auf moderate Präsenz als auf breite Alltagsverbreitung hin."
+}

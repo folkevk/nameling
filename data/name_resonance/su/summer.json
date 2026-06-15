@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "Sommer/Jahreszeit",
+    "englischer Vorname",
+    "altenglische Herkunft",
+    "weiblicher Vorname",
+    "moderne Namenswahl",
+    "Namenstag in Namenslexika",
+    "auch als Doppelname möglich"
+  ],
+  "confidence": 0.78,
+  "display_text": "„Summer“ wirkt in Deutschland überwiegend modern, international und freundlich. Der Name wird vor allem mit der Jahreszeit und einem englischsprachigen, eher auffälligen Vornamen verbunden. Die verfügbare Evidenz ist solide, aber hauptsächlich aus Namenslexika, daher ist die öffentliche Rezeption nur vorsichtig einzuordnen.",
+  "evidence_quality": "mittel bis gut; klare Namensquellen, aber wenig breit gestützte gesellschaftliche Evidenz",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Summer",
+  "normalized_name": "summer",
+  "overall_resonance": "Die öffentliche Rezeption von „Summer“ in Deutschland wirkt überwiegend modern, freundlich und international. Der Name wird vor allem als englischsprachiger, bildhafter Vorname mit direktem Bezug zum Sommer wahrgenommen. Gleichzeitig ist die Evidenz eher auf Namenslexika und beschreibende Quellen gestützt, daher ist das Bild solide, aber nicht breit gesellschaftlich abgesichert.",
+  "practical_notes": [
+    "Für deutschsprachige Umfelder wird der Name meist als international und modern gelesen.",
+    "Die Aussprache dürfte meist intuitiv als englisch wahrgenommen werden.",
+    "Als seltenerer Vorname kann er Aufmerksamkeit erzeugen, ohne automatisch negativ zu wirken."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die vorliegenden Quellen sind überwiegend Namenslexika und beschreibende Webeinträge; eine breite öffentliche Meinungslage lässt sich daraus nur eingeschränkt ableiten.",
+    "Da „Summer“ ein Alltagswort ist, kann der Name je nach Kontext besonders auffallen oder als ungewöhnlich empfunden werden; daraus folgt aber keine negative Bewertung."
+  ],
+  "short_summary": "Summer wird in Deutschland meist als moderner, internationaler und positiv besetzter Vorname wahrgenommen; die Belege sind jedoch eher lexikalisch als gesellschaftlich breit.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Summer � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/S/Su/Summer/"
+    },
+    {
+      "confidence": 0.91,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Summer: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Summer.html"
+    }
+  ],
+  "style_effect": [
+    "modern",
+    "international",
+    "leicht ausgefallen",
+    "bildhaft",
+    "sachlich-informativ",
+    "jugendlich wirkend"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Eher gut erkennbar, aber nicht sehr häufig; vor allem als moderner und auffälliger Vorname präsent."
+}

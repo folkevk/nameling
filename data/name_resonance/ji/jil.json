@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "Kurzform bzw. Variantenbezug zu anderen Namen",
+    "englisch bzw. international wirkende Schreibweise",
+    "lateinische bzw. herkunftsabhängige Deutungen",
+    "Beliebtheit in Deutschland",
+    "Namenstag",
+    "Jil Sander als bekannte Namensassoziation"
+  ],
+  "confidence": 0.91,
+  "display_text": "Jil wirkt öffentlich meist modern, kurz und eigenständig. Der Name ist in Deutschland bekannt, aber eher selten, und wird häufig mit einer internationalen Anmutung sowie verschiedenen Herkunfts- und Bedeutungsdeutungen verbunden. Einige Angaben sind dabei je nach Quelle unterschiedlich, daher sollte die Bedeutung vorsichtig interpretiert werden.",
+  "evidence_quality": "gut bis sehr gut: zwei direkt namenbezogene Quellen mit klaren Beschreibungen; die Resonanz ist plausibel, aber die Bedeutungsdeutungen sind teilweise mehrdeutig und teils kommentarbasiert.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Jil",
+  "normalized_name": "jil",
+  "overall_resonance": "Der Name Jil wird in der verfügbaren Namens-Evidenz überwiegend freundlich und modern wahrgenommen. Er erscheint als kurzer, klarer und eher seltener Vorname mit internationaler Anmutung; die Deutungen zu Herkunft und Bedeutung sind teils unterschiedlich und sollten daher vorsichtig gelesen werden.",
+  "practical_notes": [
+    "Für Suchende ist Jil vor allem interessant als kurzer, moderner Vorname mit klarer Schreibweise.",
+    "Die knappe Form kann je nach Umfeld als stilvoll, sachlich oder ungewöhnlich empfunden werden.",
+    "Bei der Bedeutung lohnt sich ein Blick auf die konkrete Herleitung, da mehrere Varianten im Umlauf sind."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Bedeutungsangaben sind nicht einheitlich und teils von der jeweiligen Herleitung abhängig.",
+    "Einzelne Community-Kommentare sind subjektiv und nur begrenzt belastbar.",
+    "Vereinzelt wird eine scherzhafte Nebenassoziation wie 'chill mal' genannt; das ist eher ein Wortspiel als eine stabile Namensbedeutung."
+  ],
+  "short_summary": "Jil wird in Deutschland überwiegend als kurzer, moderner und eher seltener Vorname mit internationaler Wirkung wahrgenommen; Bedeutungen und Herkunftsdeutungen sind teils unterschiedlich.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Jil � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/J/Ji/Jil/"
+    },
+    {
+      "confidence": 0.92,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Jil: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Jil.html"
+    }
+  ],
+  "style_effect": [
+    "kurz und prägnant",
+    "modern und leicht international",
+    "eher weich und klar klingend",
+    "selten, dadurch eigenständig",
+    "wirkt informell bis elegant je nach Kontext"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland wirkt Jil eher bekannt, aber nicht massenhaft verbreitet. Die öffentliche Wahrnehmung ist vor allem namenkundlich geprägt, mit Fokus auf Kürze, Stil und mögliche Herkunftsvarianten."
+}

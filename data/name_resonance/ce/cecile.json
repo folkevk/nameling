@@ -1,0 +1,62 @@
+{
+  "associations": [
+    "französische Form von Cäcilie/Cecilie",
+    "lateinischer Ursprung",
+    "Bedeutungsdeutungen wie 'die Himmlische' bzw. historisch auch 'die Blinde'",
+    "selten in Deutschland",
+    "weiblicher Vorname",
+    "Namenstag am 22. November"
+  ],
+  "confidence": 0.82,
+  "display_text": "Cecile wirkt in den vorliegenden Quellen freundlich, klassisch und französisch-elegant. Der Name ist in Deutschland eher selten, wodurch er individuell und etwas besonders erscheint. Die Bedeutungen und Herkunftsangaben sind plausibel, aber teils historisch bzw. volksetymologisch geprägt; die öffentliche Resonanz lässt sich daher nur vorsichtig zusammenfassen.",
+  "evidence_quality": "mittel",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Cecile",
+  "normalized_name": "cecile",
+  "overall_resonance": "Eher positiv und elegant, mit klarer französisch-anmutender, klassisch-zeitloser Wirkung; zugleich in Deutschland eher selten und dadurch etwas auffällig.",
+  "practical_notes": [
+    "Für Suchende, die einen eleganten und eher ungewöhnlichen Namen möchten, kann Cecile passend wirken.",
+    "Wer eine sehr vertraute oder häufige Schreibweise sucht, könnte den Namen als weniger präsent wahrnehmen.",
+    "Die französische Schreibweise prägt die Anmutung deutlich."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt vor allem aus Namenslexika/Infoseiten mit begrenzter Tiefe.",
+    "Bedeutungen sind teils historisch oder volksetymologisch und daher nicht eindeutig.",
+    "Die Einschätzung zur öffentlichen Wirkung ist daher vorsichtig zu lesen und nicht als allgemeingültige soziale Bewertung zu verstehen."
+  ],
+  "short_summary": "Cecile wird in den vorliegenden Quellen überwiegend positiv, klassisch und französisch-elegant eingeordnet, in Deutschland aber als eher seltener Vorname beschrieben.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Cecile � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/C/Ce/Cecile/"
+    },
+    {
+      "confidence": 0.86,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Cecile: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Cecile.html"
+    }
+  ],
+  "style_effect": [
+    "französisch",
+    "klassisch",
+    "fein",
+    "elegant",
+    "zeitlos",
+    "leicht individuell",
+    "lexikalisch klar"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland wirkt Cecile laut den vorliegenden Namensquellen eher wenig geläufig und damit nicht alltäglich."
+}

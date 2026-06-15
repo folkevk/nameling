@@ -1,0 +1,59 @@
+{
+  "associations": [
+    "lateinische Herkunft",
+    "die Adlige / die Patrizierin / die Edle",
+    "weiblicher Vorname",
+    "Namenstag",
+    "verbreitet in Deutschland",
+    "Kurzformen wie Pat, Patti, Patty, Tricia, Trish"
+  ],
+  "confidence": 0.86,
+  "display_text": "Patricia wird in Deutschland vor allem als klassischer, etablierter und eher freundlich wahrgenommener Vorname gesehen. Die Quellen betonen Herkunft, Bedeutung und verbreitete Kurzformen; eine klare Kontroverse ist nicht erkennbar. Die Evidenz ist jedoch eher lexikalisch als breit öffentlich diskutiert.",
+  "evidence_quality": "mittel: zwei einschlägige Namensquellen, aber wenig direkte öffentliche Diskussionsdynamik",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Patricia",
+  "normalized_name": "patricia",
+  "overall_resonance": "Patricia wird in den vorliegenden Quellen insgesamt als klassischer, etablierter und eher positiv besetzter Vorname dargestellt. Die öffentliche Wahrnehmung wirkt vor allem sachlich-informativ: Herkunft, Bedeutung und Namensvarianten stehen im Vordergrund. Eine ausgeprägt emotionale oder kontroverse Resonanz ist in der Evidenz nicht erkennbar.",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt Patricia vertraut, gut anschlussfähig und leicht verständlich.",
+    "Der Name hat einen klassischen Klang und verschiedene geläufige Kurzformen.",
+    "Die Quellenlage spricht eher für eine neutrale bis freundlich-wohlwollende Wahrnehmung als für auffällige Kontroversen."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt überwiegend aus Namenslexika und nicht aus einer breiten öffentlichen Diskussion.",
+    "Positive Wirkung kann teilweise aus der beschreibenden Darstellung der Quellen stammen; eine starke gesellschaftliche Gesamtresonanz lässt sich daraus nur vorsichtig ableiten."
+  ],
+  "short_summary": "Patricia wirkt in Deutschland als klassischer, etablierter und eher positiv wahrgenommener Vorname mit sachlich-informativer Namensresonanz.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Patricia � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/P/Pa/Patricia/"
+    },
+    {
+      "confidence": 0.94,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Patricia: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Patricia.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "etabliert",
+    "eher elegant",
+    "lexikalisch-informativ",
+    "zeitlos"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland scheint Patricia gut bekannt und verbreitet zu sein, mit klarer Präsenz in Namenslexika und Übersichtsseiten. Für eine breite öffentliche Diskussion im engeren Sinn ist die Evidenz jedoch begrenzt."
+}

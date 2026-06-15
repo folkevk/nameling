@@ -1,0 +1,64 @@
+{
+  "associations": [
+    "lateinischer Ursprung",
+    "Bedeutung: am Meer lebend / aus dem Meer stammend",
+    "Meer",
+    "römisch/antik",
+    "Namenstag",
+    "selten",
+    "wohlklingend",
+    "authentisch"
+  ],
+  "confidence": 0.9,
+  "display_text": "Marinus wirkt in der öffentlichen Namenswahrnehmung überwiegend neutral bis leicht positiv: klassisch, lateinisch und mit Meeresbezug, zugleich eher selten im deutschen Raum.",
+  "evidence_quality": "gut für eine vorsichtige Namensbeschreibung, aber inhaltlich begrenzt durch wenige, ähnlich ausgerichtete Quellen.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Marinus",
+  "normalized_name": "marinus",
+  "overall_resonance": "Marinus wird in den vorliegenden Quellen überwiegend sachlich bis leicht positiv wahrgenommen. Der Name wirkt für viele eher klassisch, lateinisch und maritim geprägt, zugleich aber selten und nicht sehr alltäglich.",
+  "practical_notes": [
+    "Für Suchende, die klassische und ungewöhnlichere Namen mögen, kann Marinus als markant und traditionsnah wirken.",
+    "Durch die Seltenheit kann der Name auffallen, ohne modern-auffällig zu sein.",
+    "Die Quellenlage ist ausreichend für eine vorsichtige Einordnung, aber nicht für eine breite gesellschaftliche Bewertung."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist relativ einseitig und stammt vor allem aus Namensdatenbanken.",
+    "Es gibt keine erkennbare breite öffentliche Kontroverse; die Quellen sind eher beschreibend als diskussionsorientiert.",
+    "Positive Eindrücke sollten nicht als allgemeingültig verstanden werden, sondern als Tendenz der vorliegenden Quellen."
+  ],
+  "short_summary": "Marinus wird in den Quellen meist neutral bis positiv beschrieben: ein seltener, klassisch-lateinischer und maritim assoziierter Vorname ohne erkennbare Kontroverse.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.94,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Marinus � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/M/Ma/Marinus/"
+    },
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Marinus: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Marinus.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "lateinisch",
+    "maritim",
+    "historisch/antik",
+    "selten",
+    "klingt eher formell und traditionell",
+    "in der Wahrnehmung eher sachlich als modisch"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Im deutschen Raum eher selten bis moderat sichtbar; die öffentliche Präsenz wirkt vor allem namenskundlich und nicht durch breite Alltagsnutzung oder Debatten geprägt."
+}

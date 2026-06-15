@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "althochdeutsche Herkunft",
+    "Bedeutung in Richtung Rat/Berater und stark/entschlossen",
+    "historisch verbreitet",
+    "heute sehr selten",
+    "klassischer deutscher Jungenname",
+    "weiser bzw. entschlossener Ratgeber"
+  ],
+  "confidence": 0.93,
+  "display_text": "Reinhard: klassisch, traditionsreich und heute eher selten. Der Name wird meist mit deutsch-althochdeutscher Herkunft, der Bedeutung von Rat und Stärke sowie einer seriös-bodenständigen Wirkung verbunden.",
+  "evidence_quality": "hoch: zwei direkte namenskundliche Webquellen mit klarer Beschreibung von Herkunft, Bedeutung und heutiger Seltenheit; überwiegend neutral bis leicht positiv.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Reinhard",
+  "normalized_name": "reinhard",
+  "overall_resonance": "Reinhard wirkt in der öffentlichen Namenswahrnehmung klassisch, traditionsbewusst und klar deutsch. Der Name wird vor allem als historischer, heute eher seltener Jungenname beschrieben, mit einer eher seriösen und bodenständigen Ausstrahlung.",
+  "practical_notes": [
+    "Für Suchmaschinen- oder Lexikoneinträge eignet sich eine Einordnung als klassischer, seltener Traditionsname.",
+    "Die Wirkung kann je nach Kontext zwischen würdevoll-traditionell und etwas altmodisch schwanken.",
+    "Als Namenswahl kann Reinhard bewusst historisch und markant wirken."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Wahrnehmung basiert überwiegend auf namenskundlichen Beschreibungen, nicht auf breiter öffentlicher Diskussionslage.",
+    "Einzelne Quellen enthalten auch kommentarartige oder listige Kontexte, daher vorsichtig interpretieren.",
+    "Keine belastbaren Hinweise auf soziale Stigmatisierung in der Evidenz."
+  ],
+  "short_summary": "Reinhard wird öffentlich meist als klassischer, traditionsreicher und heute seltener deutscher Vorname wahrgenommen.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Reinhard � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/R/Re/Reinhard/"
+    },
+    {
+      "confidence": 0.95,
+      "is_name_discussion": true,
+      "sentiment": "positive",
+      "source_type": "web",
+      "title": "&#9655; Vorname Reinhard: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Reinhard.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "traditionell",
+    "seriös",
+    "bodenständig",
+    "historisch geprägt",
+    "eher altmodisch als trendig"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland ist der Name bekannt, aber im heutigen Sprachgebrauch deutlich selten. Er fällt eher als traditioneller Altname auf als als moderner Modevorname."
+}

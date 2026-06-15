@@ -1,0 +1,69 @@
+{
+  "associations": [
+    "verschiedene sprachliche Ursprünge",
+    "Bedeutung und Herkunft",
+    "Namenstag",
+    "Beliebtheit in Deutschland",
+    "Kurzform- bzw. Variantenbezüge zu Daniela/Daniel",
+    "teilweise Unisex-Nutzung"
+  ],
+  "confidence": 0.81,
+  "display_text": "Dana wirkt in den Quellen insgesamt neutral bis leicht positiv: ein vertrauter, gut lesbarer Vorname mit mehreren Herkunfts- und Bedeutungsbezügen. Die Daten stammen vor allem aus Namenslexika, daher ist die öffentliche Resonanz eher beschreibend als breit diskutiert.",
+  "evidence_quality": "mittel bis gut: mehrere übereinstimmende, aber vor allem beschreibende Namensquellen; begrenzte echte Diskussions- oder Debattenevidenz.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Dana",
+  "normalized_name": "dana",
+  "overall_resonance": "Dana wird in den vorliegenden Quellen überwiegend sachlich bis leicht positiv dargestellt. Der Name erscheint als bekannter, mehrfach hergeleiteter Vorname mit guter Wiedererkennbarkeit; eine echte breite öffentliche Debatte ist jedoch nicht klar erkennbar.",
+  "practical_notes": [
+    "Für die Namenssuche wirkt Dana vertraut, modern und unkompliziert.",
+    "Die Einordnung als Unisex-Name kann je nach Quelle unterschiedlich ausfallen.",
+    "Die öffentliche Wahrnehmung scheint eher neutral bis freundlich als kontrovers."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt fast ausschließlich aus Namenslexika und Verzeichnissen, daher ist die Aussagekraft für allgemeine öffentliche Resonanz begrenzt.",
+    "Vereinzelte Beliebtheitsangaben können den Eindruck stärkerer Zustimmung erzeugen, als tatsächlich breit belegt ist.",
+    "Es liegen keine Hinweise auf eine nennenswerte Stigmatisierung vor."
+  ],
+  "short_summary": "Dana wird überwiegend neutral bis leicht positiv wahrgenommen: bekannt, gut einzuordnen und in Namensquellen häufig mit Herkunft, Bedeutung und Beliebtheit verknüpft. Breite öffentliche Resonanz ist jedoch nur begrenzt belegbar.",
+  "source_count": 3,
+  "sources": [
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "neutral-positive",
+      "source_type": "web",
+      "title": "Vorname Dana � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/D/Da/Dana/"
+    },
+    {
+      "confidence": 0.99,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Dana � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/D/Da/Dana/"
+    },
+    {
+      "confidence": 0.89,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Dana: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Dana.html"
+    }
+  ],
+  "style_effect": [
+    "informativ",
+    "lexikalisch",
+    "namenskundlich",
+    "neutral bis leicht positiv",
+    "kurz und gut merkbar",
+    "teils als Unisex-Name beschrieben"
+  ],
+  "usable_evidence_count": 3,
+  "visibility": "Mittlere Sichtbarkeit in Namenslexika und Vornamensportalen; die Evidenz deutet eher auf informierte Namensbeschreibung als auf starke öffentliche Meinungsbildung hin."
+}

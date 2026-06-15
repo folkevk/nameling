@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "altgriechischer Ursprung",
+    "Bedeutung: „Sieg des Volkes“",
+    "Bezug zu Nikolaus von Myra",
+    "Namenstag am 6. Dezember",
+    "Kurzformen wie Niko, Niki, Nik oder Nick",
+    "in Deutschland eher selten"
+  ],
+  "confidence": 0.71,
+  "display_text": "Nikolas wird in Deutschland eher als klassischer, seltener und leicht positiv-nüchterner Vorname wahrgenommen. Die verfügbaren Quellen sind vor allem Namenslexika, daher ist die öffentliche Resonanz nur vorsichtig ableitbar.",
+  "evidence_quality": "mittel bis schwach: klarer Namensbezug, aber nur wenige und überwiegend lexikalische Quellen; öffentliche Resonanz daher nur vorsichtig ableitbar.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Nikolas",
+  "normalized_name": "nikolas",
+  "overall_resonance": "Nikolas wird öffentlich überwiegend sachlich und eher positiv-nüchtern wahrgenommen: als altgriechischer Vorname mit klarer Bedeutung und klassischem Klang. Die verfügbare Evidenz deutet eher auf eine freundliche, unaufgeregte Rezeption als auf starke emotionale oder soziale Aufladung hin.",
+  "practical_notes": [
+    "Für die Namenssuche wirkt Nikolas eher klassisch und unkompliziert.",
+    "Der Name ist gut verständlich und international anschlussfähig.",
+    "Wer einen selteneren, aber vertrauten Vornamen sucht, findet hier eine passende Option."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist begrenzt und stammt vor allem aus Namensdatenbanken mit Lexikoncharakter.",
+    "Öffentliche Resonanz wird hier nur indirekt über Herkunfts- und Beliebtheitsangaben sichtbar.",
+    "Keine belastbaren Hinweise auf starke gesellschaftliche Vorurteile oder Stigmatisierung in den vorliegenden Quellen."
+  ],
+  "short_summary": "Nikolas wirkt in Deutschland eher klassisch, selten und leicht positiv-nüchtern; die Evidenzlage ist aber begrenzt.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.9,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Nikolas � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/N/Ni/Nikolas/"
+    },
+    {
+      "confidence": 0.82,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Nikolas: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Nikolas.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "zeitlos",
+    "informativ",
+    "international anschlussfähig",
+    "eher selten",
+    "neutral bis leicht positiv"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland ist der Name bekannt, aber eher selten bzw. nicht sehr verbreitet. Die öffentliche Sichtbarkeit ergibt sich vor allem aus Namenslexika und Beliebtheitsangaben, nicht aus breiter Alltagsdiskussion."
+}

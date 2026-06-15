@@ -1,0 +1,62 @@
+{
+  "associations": [
+    "als weiblicher Vorname geführt",
+    "Herkunft meist als hebräisch/althebräisch beschrieben",
+    "oft als Kurz- oder Koseform von Anna eingeordnet",
+    "Bedeutungsbezüge wie „die Begnadete“, „die Anmutige“ oder „Gott war gnädig“",
+    "Namenstag am 26. Juli",
+    "im deutschsprachigen Kontext eher selten"
+  ],
+  "confidence": 0.76,
+  "display_text": "Anica wird in Deutschland meist als freundlicher, femininer und eher seltener Vorname wahrgenommen. Die Namensseiten deuten auf eine positive, weiche Wirkung mit Bedeutungsbezügen wie „die Begnadete“ oder „Gott war gnädig“ hin. Die öffentliche Resonanz ist allerdings nur begrenzt belegt und sollte daher vorsichtig interpretiert werden.",
+  "evidence_quality": "mittel bis schwach: zwei Namenslexikon-Seiten mit überwiegend informativer und teils kommentierender Einordnung, aber wenig breit gestützte öffentliche Resonanzdaten",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Anica",
+  "normalized_name": "anica",
+  "overall_resonance": "Anica wird im deutschsprachigen Raum überwiegend freundlich und eher positiv wahrgenommen. Der Name wirkt für viele Quellen weich, feminin und unkompliziert, zugleich aber nicht allzu häufig. Insgesamt entsteht ein eher moderner, leicht vertrauter Eindruck mit leichter kultureller Einordnung in den slawischen Sprachraum.",
+  "practical_notes": [
+    "Der Name ist kurz, klar und im Alltag meist gut aussprechbar.",
+    "Wegen der Seltenheit kann es gelegentlich zu Rückfragen bei Schreibweise oder Herkunft kommen.",
+    "Für Suchmaschinen eignet sich eine vorsichtige Formulierung, da die Resonanz eher positiv, aber nicht stark belegt ist."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist schwach und basiert vor allem auf wenigen Namenslexikon-Seiten.",
+    "Einige positive Einschätzungen stammen aus Nutzerkommentaren und sind nur begrenzt repräsentativ.",
+    "Zur tatsächlichen öffentlichen Bekanntheit in Deutschland liegt nur eingeschränkte Datenlage vor."
+  ],
+  "short_summary": "Anica wirkt im Deutschen überwiegend freundlich, feminin und eher selten. Die verfügbare Evidenz spricht für eine positive, aber nur mäßig abgesicherte öffentliche Wahrnehmung.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.92,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Anica � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/A/An/Anica/"
+    },
+    {
+      "confidence": 0.82,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Anica: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Anica.html"
+    }
+  ],
+  "style_effect": [
+    "weich und melodisch",
+    "feminin und freundlich",
+    "leicht verspielt, aber nicht kindlich",
+    "relativ modern wirkend",
+    "eher selten als massenhaft verbreitet",
+    "einfach aussprechbar",
+    "mit internationalem bzw. slawischem Klang"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Eher selten bis mäßig bekannt in Deutschland; in Namenslexika vorhanden, aber keine starke breite öffentliche Präsenz erkennbar. Die Evidenz zur Sichtbarkeit ist begrenzt."
+}

@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "griechischer Ursprung",
+    "Bedeutung in Richtung „der Erhabene“ / „der Ehrwürdige“",
+    "historisch in Deutschland stark verbreitet",
+    "Beliebtheit besonders in den 1970er bis 1990er Jahren",
+    "Namenstag am 20. Januar",
+    "Kurzformen: Bastian, Basti, Sebi"
+  ],
+  "confidence": 0.9,
+  "display_text": "Sebastian wirkt in Deutschland klassisch, vertraut und positiv-konnotiert. Der Name ist historisch sehr verbreitet, kulturell gut verankert und trägt eine seriöse, zeitlose Anmutung. Die Evidenz ist vor allem lexikalisch, deshalb ist die öffentliche Resonanz nur indirekt ableitbar.",
+  "evidence_quality": "gut für Herkunft, Bedeutung und Namensgebrauch; eingeschränkt für echte öffentliche Resonanz, da die Quellen vor allem lexikalisch sind.",
+  "generated_at": "2026-06-12T06:08:03Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Sebastian",
+  "normalized_name": "sebastian",
+  "overall_resonance": "Sebastian wird in der verfügbaren Evidenz überwiegend sachlich, traditionell und positiv-konnotiert wahrgenommen. Der Name wirkt etabliert, klassisch und im deutschen Sprachraum gut bekannt, ohne auffällige Stigmatisierung.",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt Sebastian in Deutschland sehr vertraut und anschlussfähig.",
+    "Der Name vermittelt eher klassische als trendige Wirkung.",
+    "Kurzformen bieten zusätzliche Alltagstauglichkeit."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt fast ausschließlich aus Namenslexika und nicht aus breiter öffentlicher Meinungsforschung.",
+    "Daher lässt sich die öffentliche Resonanz nur indirekt ableiten.",
+    "Keine Hinweise auf gesellschaftliche Stigmatisierung in der vorliegenden Evidenz."
+  ],
+  "short_summary": "Sebastian ist in Deutschland ein sehr bekannter, klassischer und eher positiv konnotierter Vorname mit traditioneller Wirkung. Die Quellen sind vor allem lexikalisch, daher ist die öffentliche Resonanz nur indirekt belegt.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.99,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Sebastian � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/S/Se/Sebastian/"
+    },
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Sebastian: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Sebastian.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch und zeitlos",
+    "seriös und vertraut",
+    "traditionell, aber nicht altmodisch",
+    "informativ-lexikalische Assoziation statt emotionale Wertung",
+    "gut anschlussfähig an Kurzformen wie Bastian, Basti oder Sebi"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland sehr bekannt und historisch weit verbreitet; die öffentliche Sichtbarkeit ist hoch, auch wenn die aktuelle Vergabe laut Quellen eher rückläufig ist."
+}

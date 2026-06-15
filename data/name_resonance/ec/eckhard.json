@@ -1,0 +1,63 @@
+{
+  "associations": [
+    "althochdeutsche Herkunft",
+    "Bedeutung im Sinn von starker Spitze / schwertstark",
+    "selten",
+    "klassisch",
+    "historisch",
+    "Nebenform von Ekkehard",
+    "Namenstag",
+    "Spitznamen wie Ecki oder Ekki"
+  ],
+  "confidence": 0.83,
+  "display_text": "Eckhard: ein seltener, klassischer und historisch geprägter Vorname mit überwiegend sachlich-neutraler, leicht positiver Resonanz.",
+  "evidence_quality": "mittel bis schwach: überwiegend redaktionelle Namensseiten mit klarer Namensdiskussion, aber keine breite repräsentative öffentliche Resonanz.",
+  "generated_at": "2026-06-14T10:47:41Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Eckhard",
+  "normalized_name": "eckhard",
+  "overall_resonance": "Der Vorname Eckhard wirkt in der öffentlichen Namenswahrnehmung überwiegend klassisch, traditionell und historisch geprägt. Die Resonanz ist eher sachlich-neutral mit leichter positiver Färbung durch die altdeutsche Herkunft und die Bedeutungselemente.",
+  "practical_notes": [
+    "Für Suchmaschinen eignet sich die Einordnung als traditioneller, seltener deutscher Vorname.",
+    "Die Wirkung ist eher formal und historisch als modern oder trendig.",
+    "Kurzformen wie Ecki oder Ekki können den Namen informeller wirken lassen."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist insgesamt schwach bis mittelstark und stammt vor allem aus namenskundlichen Webseiten, nicht aus breiter öffentlicher Meinungsforschung.",
+    "Einzelne Kommentare oder Randnotizen sind nur anekdotisch und nicht als allgemeine Bewertung belastbar.",
+    "Es gibt keinen klaren Hinweis auf eine starke positive oder negative Stigmatisierung; die Wahrnehmung ist eher traditionsbezogen als gesellschaftlich umstritten."
+  ],
+  "short_summary": "Eckhard wird meist als seltener, klassischer und altdeutscher Vorname wahrgenommen, mit sachlich-neutraler bis leicht positiver Resonanz.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Eckhard � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/E/Ec/Eckhard/"
+    },
+    {
+      "confidence": 0.88,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Eckhard: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Eckhard.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "altdeutsch",
+    "historisch",
+    "namenskundlich",
+    "schlicht-robust",
+    "eher traditionsnah"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Eher selten und heute nicht sehr modisch; dadurch im Alltag auffällig, aber klar als traditionsreicher Name erkennbar."
+}

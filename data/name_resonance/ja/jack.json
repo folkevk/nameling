@@ -1,0 +1,58 @@
+{
+  "associations": [
+    "englische Kurz- bzw. Koseform von John/Johannes",
+    "Bedeutungsbezug zu „Gott ist gnädig“ bzw. „Jahwe ist gnädig“",
+    "internationaler, englischsprachiger Vorname",
+    "in Namenslexika oft als beliebt bzw. geläufig geführt",
+    "teilweise auch als Kurzform von James genannt"
+  ],
+  "confidence": 0.95,
+  "display_text": "Jack wirkt in der öffentlichen Wahrnehmung kurz, international und modern. Die Quellen beschreiben den Namen überwiegend neutral bis positiv, mit englischer Herkunft und der Bedeutung „Gott ist gnädig“ bzw. „Jahwe ist gnädig“. In Deutschland erscheint er als markant, leicht verständlich und vertraut, aber klar englisch geprägt.",
+  "evidence_quality": "stark",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Jack",
+  "normalized_name": "jack",
+  "overall_resonance": "Der Vorname Jack wird in der öffentlichen Namenswahrnehmung überwiegend als international, kurz und modern gelesen; die Tonlage der Quellen ist sachlich bis positiv.",
+  "practical_notes": [
+    "Für den deutschen Kontext wirkt Jack vertraut, aber deutlich englisch geprägt.",
+    "Durch die Kürze ist der Name leicht merkbar und gut aussprechbar.",
+    "Wer einen klar internationalen Eindruck sucht, findet hier eine passende, unkomplizierte Option."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Quellen sind vor allem Namenslexika; die Einordnung spiegelt daher eher sprachliche und kulturelle Beschreibungen als breite Alltagsumfragen wider.",
+    "Beliebtheitsangaben können je nach Land und Zeitraum schwanken."
+  ],
+  "short_summary": "Jack wird meist als internationaler, kurzer und moderner Vorname mit englischer Herkunft und positiver Bedeutungsassoziation wahrgenommen.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Jack � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/J/Ja/Jack/"
+    },
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Jack: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Jack.html"
+    }
+  ],
+  "style_effect": [
+    "kurz und prägnant",
+    "international klingend",
+    "modern und unkompliziert",
+    "eher urban als traditionell",
+    "durch die englische Form direkt und markant"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "hoch"
+}

@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "arabische Herkunft",
+    "Bedeutung als \"der an die Türe klopft\" bzw. \"nächtlicher Besucher\"",
+    "männlicher Vorname",
+    "Variante von Tariq",
+    "in Namenslexika und Beliebtheitslisten geführt",
+    "Nutzung auch im deutschsprachigen Raum"
+  ],
+  "confidence": 0.81,
+  "display_text": "Tarik wirkt in Deutschland überwiegend neutral bis modern und international. Die verfügbaren Quellen beschreiben den Namen vor allem sachlich über Herkunft, Bedeutung und Verbreitung; eine starke öffentliche Wertung ist nicht erkennbar.",
+  "evidence_quality": "mittel: zwei überwiegend neutrale Namenslexikon-Quellen, wenig direkte öffentliche Bewertungsdaten",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Tarik",
+  "normalized_name": "tarik",
+  "overall_resonance": "Überwiegend neutral-sachlich mit leicht moderner, internationaler Anmutung. In der vorliegenden Evidenz wird Tarik vor allem als Name mit klarer Herkunfts- und Bedeutungsangabe beschrieben, nicht als stark emotional oder kontrovers wahrgenommen.",
+  "practical_notes": [
+    "Für Suchende ist Tarik leicht als internationaler, arabisch geprägter Jungenname einzuordnen.",
+    "Die Schreibweise ist kurz und im Deutschen unkompliziert.",
+    "Die Quellen betonen eher Herkunft und Bedeutung als eine emotionale oder trendige Bewertung."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz zur öffentlichen Resonanz ist eher schwach bis mittel, da sie fast nur aus Namenslexika besteht.",
+    "Einzelne Quellen enthalten mögliche Kommentarbereiche; daraus lässt sich keine allgemeine Meinung ableiten.",
+    "Keine belastbaren Hinweise auf Stigmatisierung oder negative gesellschaftliche Zuschreibungen in der vorliegenden Evidenz."
+  ],
+  "short_summary": "Tarik wird in den vorliegenden Quellen vor allem neutral und informativ beschrieben: ein männlicher Vorname mit arabischer Herkunft und klarer Bedeutung, der im deutschsprachigen Raum bekannt ist.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Tarik � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/T/Ta/Tarik/"
+    },
+    {
+      "confidence": 0.9,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Tarik: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Tarik.html"
+    }
+  ],
+  "style_effect": [
+    "arabisch geprägt",
+    "modern wirkend",
+    "international anschlussfähig",
+    "kurz und prägnant",
+    "männlich-klar",
+    "namenkundlich gut erklärbar"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Der Name ist in Deutschland sichtbar und bekannt, wirkt aber eher als gut einordenbarer, nicht extrem verbreiteter Vorname. Die öffentliche Diskussion in den Quellen ist vor allem lexikalisch und informativ."
+}

@@ -1,0 +1,62 @@
+{
+  "associations": [
+    "aramäischer Ursprung",
+    "Bedeutung im Umfeld von Gazelle/Rehkitz",
+    "Bibel/Neues Testament",
+    "Namenstag",
+    "selten",
+    "schön klingend",
+    "ausgefallen, aber nicht extrem fremd"
+  ],
+  "confidence": 0.82,
+  "display_text": "Tabitha wirkt im deutschen Kontext eher selten, biblisch und freundlich im Klang. Die vorliegende Evidenz ist überwiegend positiv, aber vor allem namenskundlich; für eine breite öffentliche Resonanz ist die Datenlage begrenzt.",
+  "evidence_quality": "mittel bis gut: zwei direkt namenskundliche Quellen mit überwiegend konsistenter Aussage, aber nur begrenzte Aussagekraft zur breiten öffentlichen Wahrnehmung in Deutschland.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Tabitha",
+  "normalized_name": "tabitha",
+  "overall_resonance": "Tabitha wirkt in der deutschen Namenswahrnehmung eher klassisch-biblisch und zugleich etwas selten bzw. besonders. Die vorhandene Evidenz zeigt überwiegend eine positive, sachlich-wohlwollende Einordnung, vor allem wegen Klang, Herkunft und Bedeutungsbezügen. Eine starke breite Alltagsverbreitung ist daraus nicht abzuleiten; die Datenlage ist dafür begrenzt.",
+  "practical_notes": [
+    "Für eine Namenssuche eignet sich Tabitha als klarer, international verständlicher Vorname mit biblischem Hintergrund.",
+    "Im deutschen Kontext dürfte der Name eher als ungewöhnlich als als modisch häufig wahrgenommen werden.",
+    "Der Eindruck ist insgesamt freundlich und seriös, ohne auffällige negative Konnotationen in der vorliegenden Evidenz."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist vor allem lexikalisch und namenskundlich; sie bildet öffentliche Alltagswahrnehmung nur begrenzt ab.",
+    "Positive Einschätzungen stammen teils aus beschreibenden Texten und Kommentaren, daher nur vorsichtig als Resonanz zu werten.",
+    "Keine Hinweise auf soziale Stigmatisierung in den Daten."
+  ],
+  "short_summary": "Tabitha wird in Deutschland eher als seltener, biblisch geprägter und positiv klingender Vorname wahrgenommen.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Tabitha � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/T/Ta/Tabitha/"
+    },
+    {
+      "confidence": 0.9,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Tabitha: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Tabitha.html"
+    }
+  ],
+  "style_effect": [
+    "biblisch",
+    "klassisch",
+    "eher selten",
+    "weich und freundlich im Klang",
+    "namenskundlich aufgeladen",
+    "leicht besonders/ungewöhnlich"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Eher gering bis mittel; der Name ist bekannt, aber im deutschsprachigen Raum nicht alltäglich. Die öffentliche Wahrnehmung scheint stärker von Namenslexika und gelegentlichen positiven Beschreibungen geprägt als von massenhaftem Gebrauch."
+}

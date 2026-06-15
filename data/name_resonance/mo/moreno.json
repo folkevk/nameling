@@ -1,0 +1,59 @@
+{
+  "associations": [
+    "italienische und altspanische Herkunft",
+    "Bedeutung: der Dunkle / der Braune / der Schwarze / der Brünette",
+    "männlicher Vorname",
+    "in Deutschland eher selten",
+    "teils mit Kurzformen wie Mo oder Neno erwähnt"
+  ],
+  "confidence": 0.84,
+  "display_text": "Moreno wirkt in Deutschland überwiegend neutral bis leicht positiv. Der Name ist eher selten, klingt international und wird meist mit italienisch/spanischen Wurzeln sowie Bedeutungen wie „der Dunkle“ oder „der Braune“ verbunden. Die Evidenz ist allerdings begrenzt und stammt vor allem aus Namenslexika, nicht aus breiter öffentlicher Diskussion.",
+  "evidence_quality": "mittel bis schwach, da hauptsächlich lexikalische Einzelquellen vorliegen",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Moreno",
+  "normalized_name": "moreno",
+  "overall_resonance": "Überwiegend neutral bis leicht positiv",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt Moreno sachlich, international und klanglich prägnant",
+    "Die Seltenheit kann den Namen eigenständig wirken lassen",
+    "Durch die klare Herkunfts- und Bedeutungszuordnung ist der Name gut einordbar",
+    "Die öffentliche Wahrnehmung scheint eher beschreibend als emotional"
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist begrenzt und stammt vor allem aus Namenslexika bzw. Datenbanken",
+    "Es gibt kaum echte öffentliche Debatte oder breit belegte Meinungsbilder",
+    "Bedeutungsassoziationen sollten nicht als persönliche Zuschreibung verstanden werden"
+  ],
+  "short_summary": "Moreno wird im deutschsprachigen Raum meist neutral bis leicht positiv wahrgenommen: ein seltener, international klingender Jungenname mit italienisch/spanischen Wurzeln und klarer Bedeutungsassoziation.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.92,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "Vorname Moreno � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/M/Mo/Moreno/"
+    },
+    {
+      "confidence": 0.78,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Moreno: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Moreno.html"
+    }
+  ],
+  "style_effect": [
+    "klingt italienisch/spanisch",
+    "wirkt markant und eher weich im Klang",
+    "assoziiert mit Bedeutungselementen wie Dunkelheit, Braun oder Schwarz",
+    "lexikalisch klar und eher unaufgeregt"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Eher selten, aber im deutschen Namensgebrauch vorhanden"
+}

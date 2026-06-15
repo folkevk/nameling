@@ -1,0 +1,73 @@
+{
+  "associations": [
+    "deutschsprachiger Raum",
+    "Mädchenname",
+    "teils Unisex-Name",
+    "Kurzform",
+    "persische Herkunft",
+    "althebräische Herkunft",
+    "arabische Bezüge in einzelnen Quellen",
+    "Bedeutungen wie 'die Rose' oder 'Gott ist gnädig'",
+    "Beliebtheit",
+    "Namenstag am 11. März"
+  ],
+  "confidence": 0.85,
+  "display_text": "Sina gilt in den vorliegenden Quellen als kurzer, freundlicher und im deutschsprachigen Raum bekannter Vorname. Die Resonanz wirkt überwiegend positiv und informativ, nicht kontrovers. Allerdings stammen die Hinweise vor allem aus Namenslexika, daher ist die echte öffentliche Meinungslage nur eingeschränkt sichtbar.",
+  "evidence_quality": "Mittel bis gut: mehrere Namenslexika mit klarer Namensdiskussion, aber kaum echte öffentliche Resonanz außerhalb informationsbasierter Quellen.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Sina",
+  "normalized_name": "sina",
+  "overall_resonance": "Der Vorname Sina wird in den vorliegenden Namenslexika insgesamt eher positiv und freundlich wahrgenommen: kurz, modern, gut merkbar und im deutschsprachigen Raum bekannt. Die öffentliche Resonanz wirkt vor allem informativ und beschreibend, weniger emotional oder kontrovers.",
+  "practical_notes": [
+    "Für eine Namenssuche ist Sina gut anschlussfähig, weil der Name kurz, klar und leicht aussprechbar wirkt.",
+    "Die Quellen beschreiben den Namen als bekannt und relativ verbreitet in Deutschland.",
+    "Wer Wert auf eine eindeutige Herkunftsdeutung legt, sollte die Mehrdeutigkeit der Etymologie berücksichtigen."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt vor allem von Namenslexika und nicht von Community-Diskussionen; echte öffentliche Meinungsbilder sind daher nur eingeschränkt ableitbar.",
+    "Die Herkunft und Bedeutung werden in den Quellen teils unterschiedlich erklärt; das spricht für Mehrdeutigkeit statt für eine einzige feste Deutung.",
+    "Keine Hinweise auf soziale Stigmatisierung in der vorliegenden Evidenz."
+  ],
+  "short_summary": "Sina wird im deutschsprachigen Raum überwiegend freundlich, modern und unkompliziert wahrgenommen. Die Quellen sind eher lexikalisch als meinungsbasiert; die Herkunft und Bedeutung erscheinen mehrdeutig.",
+  "source_count": 3,
+  "sources": [
+    {
+      "confidence": 0.92,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Sina � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/S/Si/Sina/"
+    },
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "Vorname Sina � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/S/Si/Sina/"
+    },
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "überwiegend positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Sina: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Sina.html"
+    }
+  ],
+  "style_effect": [
+    "kurz und prägnant",
+    "weich und freundlich klingend",
+    "modern wirkend",
+    "einfach zu merken",
+    "namenskundlich vielseitig einordenbar",
+    "geschlechtsübergreifend bzw. teils als Unisex-Name beschrieben"
+  ],
+  "usable_evidence_count": 3,
+  "visibility": "Im deutschsprachigen Raum sichtbar und etabliert, aber ohne starke Hinweise auf breite Diskussion außerhalb von Namensseiten. Die Evidenz spricht eher für eine bekannte, regelmäßig geführte Namenswahl als für einen besonders trendigen oder auffällig debattierten Namen."
+}

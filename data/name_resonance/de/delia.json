@@ -1,0 +1,64 @@
+{
+  "associations": [
+    "griechische Mythologie",
+    "Artemis",
+    "Insel Delos",
+    "altgriechische Herkunft",
+    "Bedeutung: \"die von der Insel Delos Stammende\"",
+    "Namenstag",
+    "selten",
+    "schön",
+    "besonders",
+    "Beliebtheit in Deutschland"
+  ],
+  "confidence": 0.84,
+  "display_text": "Delia wirkt öffentlich überwiegend positiv: ein eleganter, sanfter und eher seltener Vorname mit griechisch-klassischer Anmutung. Die Quellenlage ist jedoch vor allem beschreibend und nicht breit diskussionsbasiert.",
+  "evidence_quality": "mittel: zwei namenskundliche Webquellen, überwiegend beschreibend und nur begrenzt diskussionsbasiert",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Delia",
+  "normalized_name": "delia",
+  "overall_resonance": "Überwiegend positiv und eher kultiviert-klassisch wahrgenommen, mit einer leichten seltenen/exklusiven Note. Die öffentliche Rezeption wirkt vor allem namenskundlich und beschreibend, nicht kontrovers.",
+  "practical_notes": [
+    "Für Namenssuchmaschinen eignet sich Delia als freundlich, elegant und unaufdringlich besonderer Name.",
+    "Die Aussprache und Schreibweise wirken unkompliziert.",
+    "Wer einen seltenen, aber nicht sperrigen Namen mit klassisch-griechischem Klang sucht, könnte Delia ansprechend finden."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt vor allem aus zwei redaktionellen Namensseiten; breite öffentliche Debatten oder unabhängige Alltagsnutzung sind im Auszug nicht sichtbar.",
+    "Die positive Einordnung basiert überwiegend auf beschreibenden Texten und kurzen Bewertungsformulierungen, nicht auf einer großen Menge an Diskussionsbeiträgen.",
+    "Aussagen zur Wirkung sind deshalb vorsichtig als Tendenz zu verstehen, nicht als allgemeingültige Wahrheit."
+  ],
+  "short_summary": "Delia wird in den vorliegenden Quellen überwiegend positiv, klassisch und eher selten wahrgenommen. Die Evidenz ist allerdings vor allem redaktionell und damit nur begrenzt breit belastbar.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.94,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "Vorname Delia � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/D/De/Delia/"
+    },
+    {
+      "confidence": 0.91,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Delia: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Delia.html"
+    }
+  ],
+  "style_effect": [
+    "griechisch/antik anmutend",
+    "sanft und feminin",
+    "elegant und zeitlos",
+    "klingt literarisch und etwas besonders",
+    "kurz, klar und gut merkbar"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland eher bekannt, aber nicht massenhaft verbreitet; in den vorliegenden Quellen wird Delia als eher seltener Name beschrieben."
+}

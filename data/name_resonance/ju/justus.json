@@ -1,0 +1,62 @@
+{
+  "associations": [
+    "lateinische Herkunft",
+    "„der Gerechte“",
+    "römischer/klassischer Klang",
+    "Namenstag",
+    "Beliebtheit in Deutschland",
+    "Die drei Fragezeichen",
+    "Justus Jonas als popkulturelle Namensassoziation"
+  ],
+  "confidence": 0.87,
+  "display_text": "Justus wirkt in Deutschland überwiegend klassisch, seriös und freundlich positiv. Der Name ist bekannt, aber nicht übermäßig häufig, und wird vor allem mit der lateinischen Bedeutung „der Gerechte“ sowie einer zeitlosen, traditionellen Note verbunden. Eine bekannte Popkultur-Assoziation ist „Die drei Fragezeichen“, die die Wahrnehmung mitprägen kann.",
+  "evidence_quality": "gut: zwei klare, namenskundliche Webquellen mit überwiegend positiver bzw. neutraler Tonalität; die Resonanz ist dennoch eher indirekt als alltagssozial gemessen.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Justus",
+  "normalized_name": "justus",
+  "overall_resonance": "Justus wird in deutschsprachigen Namensquellen überwiegend als klassischer, seriöser und eher positiv besetzter Vorname wahrgenommen. Die öffentliche Rezeption wirkt sachlich bis freundlich, mit einer stabilen, traditionellen Note.",
+  "practical_notes": [
+    "Wirkt in offiziellen und privaten Kontexten meist unproblematisch und gut aussprechbar.",
+    "Für Suchmaschinen und Namensverzeichnisse ist die Bedeutung „der Gerechte“ ein zentraler Wiedererkennungsfaktor.",
+    "Die Schreibweise ist einfach und eindeutig, was die praktische Nutzung erleichtert."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die popkulturelle Verbindung zu „Die drei Fragezeichen“ kann die Wahrnehmung mitprägen, ist aber keine Eigenschaft des Namens selbst.",
+    "Die Evidenz ist vor allem lexikalisch und beschreibend; sie zeigt keine breite belastbare Alltagsrezeption jenseits von Namensseiten.",
+    "Keine Hinweise auf gesellschaftliche Stigmatisierung in den vorliegenden Quellen."
+  ],
+  "short_summary": "Justus gilt im Deutschen meist als klassisch, seriös und positiv konnotiert, mit der Kernassoziation „der Gerechte“.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "positive",
+      "source_type": "web",
+      "title": "Vorname Justus � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/J/Ju/Justus/"
+    },
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Justus: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Justus.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "gehoben",
+    "traditionsbewusst",
+    "sachlich",
+    "klar",
+    "eher zeitlos"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Im deutschsprachigen Raum gut bekannt, aber nicht extrem häufig. Der Name ist in Namenslexika präsent und dadurch für viele sofort einordbar."
+}

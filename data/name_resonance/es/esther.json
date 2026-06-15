@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "biblischer Name",
+    "altpersische bzw. babylonische Wurzeln",
+    "Bedeutung: der Stern / die Strahlende / die Leuchtende",
+    "Namenstag am 24. Mai",
+    "lange bekannt und kulturell verankert",
+    "in Deutschland eher rückläufig"
+  ],
+  "confidence": 0.92,
+  "display_text": "Esther wird meist als klassischer, biblisch geprägter und zeitlos wirkender Vorname wahrgenommen. Die Quellen nennen als Assoziationen vor allem Bedeutung, Herkunft und Namenstag; zugleich wird der Name in Deutschland eher als rückläufig beschrieben, ohne dass dies eine negative öffentliche Stigmatisierung wäre.",
+  "evidence_quality": "hoch: beide Quellen diskutieren den Namen direkt, mit klaren Angaben zu Herkunft, Bedeutung, Namenstag und Beliebtheit; die Tonlage ist überwiegend sachlich bis positiv.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Esther",
+  "normalized_name": "esther",
+  "overall_resonance": "Esther wird in der deutschsprachigen Namenswahrnehmung überwiegend klassisch, seriös und positiv konnotiert beschrieben. Der Name wirkt etabliert und eher zeitlos als modisch; zugleich wird in den Quellen eine eher rückläufige Beliebtheit in Deutschland erwähnt.",
+  "practical_notes": [
+    "Für Suchende wirkt Esther meist vertraut, gut aussprechbar und klar einordbar.",
+    "Der Name ist eher traditionell als modern-experimentell.",
+    "Je nach Kontext kann die biblische Prägung für manche besonders attraktiv sein."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Aussagen zur Beliebtheit stammen aus Namensdatenbanken und redaktionellen Beschreibungen, nicht aus repräsentativer Sozialforschung.",
+    "Die positive bzw. klassische Wirkung ist eine öffentliche Namensassoziation, keine Eigenschaft von Namensträgerinnen."
+  ],
+  "short_summary": "Esther gilt im deutschsprachigen Raum als klassischer, biblisch geprägter und eher positiv wahrgenommener Vorname mit zeitloser Wirkung, aber nicht hoher aktueller Trenddynamik.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Esther � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/E/Es/Esther/"
+    },
+    {
+      "confidence": 0.94,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Esther: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Esther.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "zeitlos",
+    "eher elegant",
+    "sachlich",
+    "biblisch geprägt",
+    "historisch etabliert"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Mittlere Sichtbarkeit: Der Name ist bekannt und gut einordenbar, aber nicht aktuell besonders trendstark."
+}

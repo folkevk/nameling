@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "germanisch/althochdeutsche Herkunft",
+    "Bezug zu Thor bzw. Speer-Motiv",
+    "skandinavische Namensnähe",
+    "männlicher Vorname",
+    "Namenstag am 19. November",
+    "selten bis moderat verbreitet"
+  ],
+  "confidence": 0.78,
+  "display_text": "Torge wirkt in der vorliegenden Evidenz überwiegend neutral bis leicht positiv: ein seltener, traditionell-nordisch anmutender Jungenname mit klarer Namensbedeutung und wenig öffentlicher Kontroverse. Die Datenlage ist jedoch eher schwach und vor allem lexikalisch geprägt.",
+  "evidence_quality": "mittel bis schwach: zwei überwiegend lexikalische Quellen, wenig echte öffentliche Resonanzdaten",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Torge",
+  "normalized_name": "torge",
+  "overall_resonance": "Eher sachlich-neutral mit leicht traditionell-nordischer Wirkung. Torge wird vor allem als seltener, etymologisch klar verorteter Jungenname wahrgenommen, ohne starke Polarisierung in der vorliegenden Evidenz.",
+  "practical_notes": [
+    "Der Name wirkt kurz, eigenständig und gut merkbar.",
+    "Die Aussprache dürfte für deutschsprachige Kontexte unkompliziert sein.",
+    "Durch die seltenere Verbreitung kann der Name als charakterstark und individuell wahrgenommen werden.",
+    "Für eine Suchmaschine lässt sich Torge als traditionsnaher, nordisch geprägter Jungenname zusammenfassen."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenzbasis ist schmal und stark von Namenslexika geprägt; öffentliche Resonanz außerhalb solcher Seiten ist nur begrenzt belegt.",
+    "Die Deutungen zur Herkunft werden in den Quellen teilweise als möglich, nicht endgültig gesichert dargestellt.",
+    "Keine belastbaren Hinweise auf soziale Stigmatisierung oder klare Trend-/Modeeffekte in den Daten."
+  ],
+  "short_summary": "Torge wird in den vorliegenden Quellen vor allem als seltener, nordisch-germanisch wirkender Jungenname mit klarer etymologischer Einordnung beschrieben. Die öffentliche Rezeption erscheint überwiegend neutral und informativ, aber nur schmal belegt.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Torge � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/T/To/Torge/"
+    },
+    {
+      "confidence": 0.89,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Torge: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Torge.html"
+    }
+  ],
+  "style_effect": [
+    "traditionell",
+    "nordisch/skandinavisch anmutend",
+    "markant und knapp",
+    "historisch-etymologisch aufgeladen",
+    "eher ungewöhnlich als mainstream"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland eher selten bis mäßig sichtbar; die vorhandenen Quellen deuten auf Bekanntheit in Namenslexika statt auf breite öffentliche Diskussion hin."
+}

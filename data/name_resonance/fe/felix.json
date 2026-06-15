@@ -1,0 +1,62 @@
+{
+  "associations": [
+    "lateinischer Ursprung",
+    "der Glückliche",
+    "der Erfolgreiche",
+    "beliebt in Deutschland",
+    "Wunschname",
+    "international bekannt",
+    "Namenstag",
+    "Spitznamen wie Feli oder Flix"
+  ],
+  "confidence": 0.88,
+  "display_text": "Felix ist ein sehr vertrauter, klassischer Jungenname mit überwiegend positiver Resonanz. Er wird oft mit Glück, Erfolg und einer zeitlosen, internationalen Wirkung verbunden. Die Evidenz ist klar, stammt aber vor allem aus Namenslexika und weniger aus einer breiten öffentlichen Debatte.",
+  "evidence_quality": "mittel bis gut: klare, konsistente Namenslexikon-Evidenz, aber begrenzte Breite der öffentlichen Meinungsbasis.",
+  "generated_at": "2026-06-12T06:08:03Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Felix",
+  "normalized_name": "felix",
+  "overall_resonance": "Überwiegend positiv und freundlich konnotiert; der Name wird vor allem mit „Glück“, „Erfolg“ und einer zeitlosen, klassischen Wirkung verbunden.",
+  "practical_notes": [
+    "Für viele wirkt der Name vertraut, modern genug und zugleich klassisch.",
+    "Durch die internationale Bekanntheit ist er in vielen Kontexten leicht einsetzbar.",
+    "Die kurze, klare Form trägt zu einer unkomplizierten Wahrnehmung bei."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt fast ausschließlich aus Namenslexika; eine breite öffentliche Debatte ist daraus nur eingeschränkt ableitbar.",
+    "Positive Bedeutungszuschreibungen sollten nicht als allgemeingültige Eigenschaft von Trägern des Namens verstanden werden."
+  ],
+  "short_summary": "Felix wird öffentlich meist positiv, klassisch und zeitlos wahrgenommen – mit starken Assoziationen zu Glück und Erfolg.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "Vorname Felix � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/F/Fe/Felix/"
+    },
+    {
+      "confidence": 0.92,
+      "is_name_discussion": true,
+      "sentiment": "positive",
+      "source_type": "web",
+      "title": "&#9655; Vorname Felix: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Felix.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "zeitlos",
+    "international verständlich",
+    "positiv besetzt",
+    "sympathisch",
+    "einfach auszusprechen"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Der Vorname ist in Deutschland gut bekannt und wirkt öffentlich eher etabliert als auffällig. Die vorliegende Evidenz spricht für eine klare Namenswahrnehmung, aber nur auf Basis weniger Namenslexikon-Quellen."
+}

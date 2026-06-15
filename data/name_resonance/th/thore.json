@@ -1,0 +1,62 @@
+{
+  "associations": [
+    "skandinavischer bzw. altnordischer Ursprung",
+    "nordische Mythologie",
+    "Donnergott Thor",
+    "männlicher Vorname",
+    "Namenstag",
+    "selten bis mäßig verbreitet in Deutschland"
+  ],
+  "confidence": 0.9,
+  "display_text": "Thore wird überwiegend positiv und sachlich wahrgenommen. Der Name klingt nordisch, traditionell und markant, mit klaren Bezügen zu altnordischer Herkunft und Thor. In Deutschland ist er eher selten bis mäßig verbreitet; eine starke öffentliche Kontroverse ist nicht erkennbar.",
+  "evidence_quality": "mittel bis gut; inhaltlich klar, aber überwiegend auf wenige namenskundliche Webseiten beschränkt",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Thore",
+  "normalized_name": "thore",
+  "overall_resonance": "Überwiegend positiv und sachlich-namenskundlich, mit klarer Assoziation zu nordischer Herkunft und Mythologie. Der Name wirkt öffentlich eher selten bis mäßig verbreitet und dadurch markant, ohne dass eine starke kontroverse oder negative Debatte erkennbar wäre.",
+  "practical_notes": [
+    "Für eine Namenssuche ist Thore eine klare, gut einordenbare Wahl mit nordischem Klang.",
+    "Die Aussprache und Schreibweise sind unkompliziert und im deutschsprachigen Raum gut verständlich.",
+    "Durch die seltenere Verbreitung kann der Name auffallen, ohne ungewöhnlich schwer einzuordnen zu sein."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist stark auf Namenslexika und ähnliche Seiten konzentriert; eine breite öffentliche Debatte ist nicht sichtbar.",
+    "Positive Einordnung beruht vor allem auf Herkunfts- und Beliebtheitsangaben, nicht auf repräsentativen Umfragen.",
+    "Einzelne Kommentare sind subjektiv und nicht als allgemeine Meinung zu lesen."
+  ],
+  "short_summary": "Thore wird öffentlich meist positiv, sachlich und mit nordisch-mythologischen Bezügen wahrgenommen. Der Name ist in Deutschland eher selten bis mäßig verbreitet und wirkt dadurch markant.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.94,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Thore � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/T/Th/Thore/"
+    },
+    {
+      "confidence": 0.95,
+      "is_name_discussion": true,
+      "sentiment": "eher positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Thore: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Thore.html"
+    }
+  ],
+  "style_effect": [
+    "nordisch",
+    "kräftig",
+    "traditionsnah",
+    "klar",
+    "markant",
+    "sachlich",
+    "selten bis mittelhäufig"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland eher bekannt, aber nicht sehr häufig; dadurch wirkt Thore eher eigenständig als alltagsmassenhaft."
+}

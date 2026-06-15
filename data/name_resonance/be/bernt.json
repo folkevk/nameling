@@ -1,0 +1,50 @@
+{
+  "associations": [
+    "deutsche und skandinavische Form von Bernd",
+    "Kurzform von Bernhard",
+    "Bedeutung: der Bärenstarke",
+    "selten in Deutschland",
+    "männlicher Vorname",
+    "Namenstag"
+  ],
+  "confidence": 0.79,
+  "display_text": "Bernt wirkt in der öffentlichen Wahrnehmung überwiegend sachlich-neutral: ein seltener, traditionell und nordisch anmutender Vorname mit klarer etymologischer Herkunft. Die verfügbare Evidenz ist eher lexikalisch als diskursiv, daher ist die Aussagekraft zur echten öffentlichen Resonanz begrenzt.",
+  "evidence_quality": "Begrenzt: eine primär lexikalische Quelle mit direkter Namensbeschreibung, aber wenig echter öffentlicher Diskussionsresonanz.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Bernt",
+  "normalized_name": "bernt",
+  "overall_resonance": "Überwiegend sachlich-neutral, mit leicht traditionell-nordischem Klang und klarer etymologischer Einordnung. Die öffentliche Wahrnehmung wirkt eher informativ als emotional.",
+  "practical_notes": [
+    "Für Suchmaschinen und Namensportale wirkt Bernt klar, kurz und traditionsnah.",
+    "Die Seltenheit kann als Besonderheit wahrgenommen werden, sollte aber nicht mit allgemeiner Bekanntheit verwechselt werden."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist schwach im Sinn öffentlicher Resonanz: Es handelt sich vor allem um ein Namenslexikon, nicht um breite öffentliche Diskussion.",
+    "Keine belastbaren Hinweise auf soziale Stigmatisierung oder stark positive/negative Wertungen in der Quelle."
+  ],
+  "short_summary": "Bernt wird überwiegend neutral und sachlich beschrieben: ein seltener, traditionell-nordisch wirkender Vorname mit etymologischer Nähe zu Bernd/Bernhard.",
+  "source_count": 1,
+  "sources": [
+    {
+      "confidence": 0.95,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Bernt � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/B/Be/Bernt/"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "traditionell",
+    "etymologisch geprägt",
+    "nordisch anmutend",
+    "kurz und markant"
+  ],
+  "usable_evidence_count": 1,
+  "visibility": "In Deutschland eher selten und dadurch auffällig, aber nicht stark verbreitet. Die Evidenz deutet auf eine geringe Alltagspräsenz im öffentlichen Namensgebrauch hin."
+}

@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "italienische Kurzform von Ludwig",
+    "männlicher Vorname",
+    "Bedeutung: „berühmter Kämpfer“ / „glorreicher Krieger“",
+    "althochdeutsche Wurzeln über Ludwig",
+    "Namenstag",
+    "selten bis moderat verbreitet in Deutschland"
+  ],
+  "confidence": 0.86,
+  "display_text": "Luigi: in den vorliegenden Quellen sachlich bis leicht positiv wahrgenommen. Der Name wirkt italienisch, klassisch und klar als Form von Ludwig erkennbar. Die Evidenz ist gut für Bedeutung und Herkunft, aber begrenzt für breitere öffentliche Resonanz.",
+  "evidence_quality": "gut für Herkunft, Bedeutung und grobe Beliebtheit; schwach für echte öffentliche Resonanz außerhalb von Namensportalen",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Luigi",
+  "normalized_name": "luigi",
+  "overall_resonance": "Luigi wird in den vorliegenden deutschsprachigen Quellen überwiegend sachlich und leicht positiv wahrgenommen. Der Name erscheint vor allem als italienische Form von Ludwig und wird namenkundlich mit einer klaren Herkunft und Bedeutung verbunden. Eine breite öffentliche Debatte ist in der Evidenz jedoch nicht erkennbar.",
+  "practical_notes": [
+    "Für eine Namenssuche ist Luigi gut verständlich und klar einzuordnen.",
+    "Der Name wirkt im deutschen Kontext deutlich italienisch geprägt.",
+    "Durch die klassische Herkunft kann er seriös und traditionsnah wirken.",
+    "Die Schreib- und Lautform ist einfach, aber relativ stark kulturell markiert."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz zur öffentlichen Resonanz ist begrenzt und stammt vor allem aus Namenslexika.",
+    "Einzelne Einschätzungen in den Quellen sind eher anekdotisch und nicht verallgemeinerbar.",
+    "Keine Hinweise auf gesellschaftliche Stigmatisierung oder negative Debatten in der vorliegenden Evidenz."
+  ],
+  "short_summary": "Luigi wird in den Quellen als italienische Form von Ludwig sachlich bis leicht positiv beschrieben. In Deutschland wirkt der Name eher selten bis moderat verbreitet und vor allem namenskundlich präsent.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Luigi � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/L/Lu/Luigi/"
+    },
+    {
+      "confidence": 0.91,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Luigi: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Luigi.html"
+    }
+  ],
+  "style_effect": [
+    "italienisch klingend",
+    "klassisch-traditionell",
+    "international anschlussfähig",
+    "markant, aber nicht exzentrisch",
+    "eher informativ als modisch"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Im deutschsprachigen Raum wirkt Luigi eher bekannt, aber nicht sehr häufig verwendet. Die sichtbare Resonanz in den Quellen ist vor allem lexikalisch-namenskundlich, nicht stark gesellschaftlich oder medial aufgeladen."
+}

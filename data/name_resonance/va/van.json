@@ -1,0 +1,59 @@
+{
+  "associations": [
+    "mögliche Kurzform von anderen Namen",
+    "mehrere Herkunftsdeutungen in Namenslexika",
+    "vietnamesische Bezüge",
+    "Bedeutungen wie „Wolke“ oder religiöse Deutungen in einzelnen Quellen",
+    "selten, aber als Vorname verwendet"
+  ],
+  "confidence": 0.84,
+  "display_text": "Van: in Deutschland eher seltener Vorname mit neutral bis leicht positiver Resonanz. Er wirkt kurz, international und ungewöhnlich, ohne klar negative öffentliche Konnotation. Die Evidenz ist jedoch begrenzt und teils uneinheitlich, vor allem bei Herkunft und Bedeutung.",
+  "evidence_quality": "mittel bis eher schwach: direkte Namensseiten vorhanden, aber nur wenige Quellen und teils uneinheitliche Herkunfts- und Wahrnehmungsangaben.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Van",
+  "normalized_name": "van",
+  "overall_resonance": "Der Vorname Van wirkt in deutschsprachigen Namensquellen insgesamt eher neutral bis leicht positiv: kurz, international und ungewöhnlich, aber grundsätzlich vertraut genug, um als Vorname wahrgenommen zu werden.",
+  "practical_notes": [
+    "Für Suchmaschinen-Nutzer ist wichtig: Van ist ein kurzer, international lesbarer Name mit mehreren möglichen kulturellen Bezügen.",
+    "Wer den Namen in Deutschland vergibt, sollte mit Nachfragen zur Aussprache oder Herkunft rechnen, aber nicht mit starker negativer Assoziation.",
+    "Die Wirkung kann je nach Umfeld zwischen modern, sachlich und leicht außergewöhnlich schwanken."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist begrenzt und stützt sich vor allem auf wenige Namensdatenbank-Quellen.",
+    "Mehrere Herkunfts- und Bedeutungsangaben existieren parallel; sie sollten nicht als einheitliche Wahrheit verstanden werden.",
+    "Kommentare und Einzelmeinungen in Namensforen sind nicht repräsentativ für die allgemeine Wahrnehmung."
+  ],
+  "short_summary": "Van wird in deutschen Namensquellen meist neutral bis leicht positiv beschrieben: kurz, international und selten, mit mehreren möglichen Herkunftsdeutungen.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Van � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/V/Va/Van/"
+    },
+    {
+      "confidence": 0.91,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Van: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Van.html"
+    }
+  ],
+  "style_effect": [
+    "sehr kurz und prägnant",
+    "modern bzw. international wirkend",
+    "je nach Kontext als männlich, teils auch unisex wahrgenommen",
+    "lexikalisch klar, mit mehreren möglichen Herleitungen",
+    "ungewöhnlich, aber nicht ausgeprägt trendgebunden"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland scheint Van eher selten und damit auffällig, aber nicht fremd oder stark belastet. Die öffentliche Sichtbarkeit ist insgesamt eher niedrig bis moderat."
+}

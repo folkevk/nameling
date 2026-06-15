@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "Bedeutung: „Pferdefreund“",
+    "altgriechische Herkunft",
+    "englische Form von Philipp",
+    "Namensklassiker",
+    "Namenstag",
+    "Spitznamen wie Phil, Fips oder Flip"
+  ],
+  "confidence": 0.82,
+  "display_text": "Philip wird in Deutschland überwiegend sachlich bis leicht positiv wahrgenommen: klassisch, international und klangvoll. Die verfügbare Evidenz stammt vor allem aus Namenslexika und ist daher vorsichtig zu interpretieren.",
+  "evidence_quality": "mittel bis gut: zwei direkte Namensquellen, überwiegend sachlich-informativ, mit etwas subjektiver Bewertung",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Philip",
+  "normalized_name": "philip",
+  "overall_resonance": "Der Vorname Philip wird öffentlich meist sachlich bis leicht positiv wahrgenommen: klassisch, international verständlich und klangvoll. Die vorhandene Evidenz deutet eher auf eine stabile, unaufgeregte Namenswirkung als auf starke emotionale Reaktionen hin.",
+  "practical_notes": [
+    "Die Schreibweise Philip wird oft als international und klar lesbar empfunden.",
+    "Wer eine traditionellere deutsche Form sucht, stößt meist auf Philipp als nahe Variante.",
+    "Für eine kurze, gut verständliche Namenswirkung eignet sich Philip besonders in sachlichen oder modernen Kontexten."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt überwiegend aus Namensdatenbanken und Lexika, nicht aus freier öffentlicher Diskussion.",
+    "Daher lässt sich nur eine vorsichtige Resonanzkarte ableiten; starke soziale Wertungen sind nicht belegt.",
+    "Positive Zuschreibungen wie „edel“ oder „klangvoll“ sind eher beschreibende Bewertungen als harte öffentliche Mehrheitsmeinung."
+  ],
+  "short_summary": "Philip wirkt in der öffentlichen Namenswahrnehmung meist klassisch, international und leicht positiv, ohne starke Kontroversen. Die Evidenz ist jedoch vor allem lexikalisch und damit nur begrenzt repräsentativ.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Philip � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/P/Ph/Philip/"
+    },
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Philip: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Philip.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "zeitlos",
+    "international verständlich",
+    "klangvoll",
+    "eher seriös als verspielt",
+    "leicht modern durch die englische Schreibweise"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland ist der Name bekannt und geläufig, wirkt aber nicht übermäßig modisch. In Namenslexika und Beschreibungen wird er regelmäßig aufgeführt."
+}

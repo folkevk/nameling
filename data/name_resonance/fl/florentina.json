@@ -1,0 +1,62 @@
+{
+  "associations": [
+    "lateinische Herkunft",
+    "Bedeutung: die Blühende / die Erblühende",
+    "weiblicher Vorname",
+    "historisch belegt",
+    "Namenstag",
+    "selten/ungewöhnlich im deutschen Kontext",
+    "mögliche Kurzformen wie Flori, Flora, Flo oder Tina"
+  ],
+  "confidence": 0.86,
+  "display_text": "Florentina wird in Deutschland meist als seltener, klassisch-eleganter und positiv wirkender Vorname wahrgenommen. Die Bedeutung wird häufig mit 'die Blühende' bzw. 'die Erblühende' verbunden. Die Evidenz ist solide, aber vor allem aus Namenslexika gespeist; breite öffentliche Debatten sind kaum sichtbar.",
+  "evidence_quality": "mittel bis gut: zwei einschlägige Namensquellen mit überwiegend konsistenter, sachlich-positiver Beschreibung; jedoch begrenzte Breite der öffentlichen Evidenz.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Florentina",
+  "normalized_name": "florentina",
+  "overall_resonance": "Florentina wird in der öffentlichen Namenswahrnehmung überwiegend freundlich, klassisch und leicht poetisch aufgenommen. Der Name wirkt im deutschsprachigen Raum eher selten, aber positiv und gehoben, mit deutlicher Nähe zu blühenden, lateinisch geprägten Bedeutungen.",
+  "practical_notes": [
+    "Für eine Namenssuche ist Florentina gut anschlussfähig an klassische und elegante Namensstile.",
+    "Die Länge des Namens kann im Alltag durch Kurzformen abgefedert werden.",
+    "Der Name ist in Deutschland eher auffällig als alltäglich, was je nach Wunsch nach Seltenheit attraktiv sein kann."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenzlage ist relativ schmal und stützt sich vor allem auf Namenslexika statt auf breite öffentliche Diskussionen.",
+    "Positive Eindrücke wie 'hoch angesehen' sind als Beschreibung der wahrgenommenen Namenswirkung zu verstehen, nicht als objektive Eigenschaft.",
+    "Es gibt keine belastbaren Hinweise auf soziale Stigmatisierung in der vorliegenden Evidenz."
+  ],
+  "short_summary": "Florentina wirkt in Deutschland selten, klassisch und freundlich-poetisch. Die öffentliche Rezeption ist überwiegend positiv, aber vor allem namenskundlich belegt.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Florentina � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/F/Fl/Florentina/"
+    },
+    {
+      "confidence": 0.89,
+      "is_name_discussion": true,
+      "sentiment": "positive",
+      "source_type": "web",
+      "title": "&#9655; Vorname Florentina: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Florentina.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch und elegant",
+    "blumig/poetisch",
+    "lateinisch und traditionsnah",
+    "selten und individuell",
+    "sanft weiblich klingend",
+    "formal etwas länger, mit möglicher Kurzform-Nähe"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Die Sichtbarkeit ist vorhanden, aber eher gering bis mittel: Florentina ist bekannt, jedoch kein sehr häufiger Alltagsname in Deutschland. Die verfügbare Evidenz ist überwiegend lexikalisch-namenskundlich und nicht durch breite freie Debatten abgesichert."
+}

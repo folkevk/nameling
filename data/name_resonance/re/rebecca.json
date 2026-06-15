@@ -1,0 +1,62 @@
+{
+  "associations": [
+    "biblischer Vorname",
+    "althebräische Herkunft",
+    "Namenstag",
+    "beliebt in Deutschland",
+    "Spitznamen und Kurzformen",
+    "verschiedene Schreibweisen",
+    "klassischer Mädchenname"
+  ],
+  "confidence": 0.88,
+  "display_text": "Rebecca wirkt in den verfügbaren Quellen klassisch, biblisch geprägt und in Deutschland gut bekannt. Die Resonanz ist überwiegend neutral bis leicht positiv; belastbare Hinweise auf stärkere öffentliche Stimmungen außerhalb von Namenslexika sind nur begrenzt vorhanden.",
+  "evidence_quality": "mittel bis hoch: zwei klare, namebezogene Lexikonquellen; jedoch kaum unabhängige öffentliche Meinungsquellen",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Rebecca",
+  "normalized_name": "rebecca",
+  "overall_resonance": "Rebecca wird in den vorliegenden Quellen vor allem sachlich, klassisch und namenkundlich eingeordnet. Die öffentliche Wahrnehmung wirkt insgesamt eher positiv bis neutral: Der Name ist bekannt, historisch/biblisch verankert und in Deutschland über längere Zeit gebräuchlich gewesen.",
+  "practical_notes": [
+    "Für eine Namenssuche ist Rebecca ein gut anschlussfähiger, vertrauter Vorname mit klassischem Klang.",
+    "Der Name wirkt in der Regel seriös und zeitlos, ohne stark modisch zu sein.",
+    "Je nach Kontext können Kurzformen und Schreibvarianten relevant sein.",
+    "Wenn eine aktuelle Trendbewertung gewünscht ist, wären zusätzliche Quellen nötig."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt fast ausschließlich aus Namenslexika und ist daher eher beschreibend als meinungsstark.",
+    "Eine breite öffentliche Resonanz außerhalb dieser Namensquellen ist nur eingeschränkt belegbar.",
+    "Aussagen zur Beliebtheit beziehen sich auf allgemeine Namensinfos, nicht auf aktuelle Social-Media-Stimmung."
+  ],
+  "short_summary": "Rebecca wird überwiegend als klassischer, biblisch geprägter und in Deutschland vertrauter Vorname mit neutral bis leicht positiver Resonanz beschrieben.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Rebecca � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/R/Re/Rebecca/"
+    },
+    {
+      "confidence": 0.99,
+      "is_name_discussion": true,
+      "sentiment": "mixed",
+      "source_type": "web",
+      "title": "&#9655; Vorname Rebecca: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Rebecca.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "biblisch-traditionell",
+    "zeitlos",
+    "informativ",
+    "weiblich-klar"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Der Name ist in Deutschland gut sichtbar und leicht wiedererkennbar, besonders durch seine lange Nutzung, seine biblische Herkunft und die häufige Behandlung in Vornamen- und Namenslexika."
+}

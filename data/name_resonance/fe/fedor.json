@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "eingedeutschte Form von Fjodor",
+    "Verbindung zu Theodor bzw. altgriechischem Ursprung",
+    "Bedeutung im Sinne von „Geschenk Gottes“",
+    "männlicher Vorname",
+    "selten in Deutschland",
+    "teilweise als klassisch und eigenständig wahrgenommen",
+    "Namenslexikon-/Namenstags-Kontext"
+  ],
+  "confidence": 0.88,
+  "display_text": "Fedor wirkt in Deutschland eher selten, klassisch und leicht international. Die öffentliche Resonanz ist überwiegend sachlich-neutral mit leicht positivem Unterton; die Evidenz dafür ist jedoch begrenzt und stammt vor allem aus Namenslexika und wenigen Kommentaren.",
+  "evidence_quality": "mittel bis begrenzt: gute namenkundliche Quellen, aber nur schwache direkte Evidenz für allgemeine öffentliche Wahrnehmung",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Fedor",
+  "normalized_name": "fedor",
+  "overall_resonance": "Überwiegend sachlich-neutral mit leicht positivem Unterton. Der Name wird vor allem als selten, international geprägt und etymologisch klar einordenbar wahrgenommen.",
+  "practical_notes": [
+    "Für Suchende ist die Bedeutung meist leicht nachvollziehbar und gut erklärbar.",
+    "Wer einen seltenen, klar herleitbaren Namen sucht, könnte Fedor als eigenständig und charaktervoll wahrnehmen.",
+    "In Deutschland kann die Aussprache oder Schreibweise vereinzelt erklärungsbedürftig sein.",
+    "Die Seltenheit kann als Vorteil für Individualität gelten, macht den Namen aber weniger vertraut."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz zur öffentlichen Resonanz ist begrenzt und stammt vor allem aus Namenslexika und kommentarbasierten Seiten.",
+    "Es gibt keine belastbare allgemeine Meinungsstudie zur breiten gesellschaftlichen Wahrnehmung.",
+    "Die positive Tönung ist eher aus der Namensbeschreibung und wenigen Rückmeldungen abgeleitet als aus breiter öffentlicher Datengrundlage."
+  ],
+  "short_summary": "Fedor wird in Deutschland eher selten und überwiegend neutral bis leicht positiv wahrgenommen; der Name wirkt klassisch, international und etymologisch klar, bei begrenzter Evidenz zur breiten öffentlichen Resonanz.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Fedor � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/F/Fe/Fedor/"
+    },
+    {
+      "confidence": 0.91,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Fedor: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Fedor.html"
+    }
+  ],
+  "style_effect": [
+    "klingt traditionell und zugleich ungewöhnlich",
+    "wirkt international bzw. osteuropäisch geprägt",
+    "hat eine klare, klassische Namensbedeutung",
+    "durch die Seltenheit eher markant als modisch"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland eher gering verbreitet und damit auffälliger als geläufige Alltagsnamen. Die öffentliche Sichtbarkeit wirkt vor allem namenkundlich, weniger durch breite Alltagsnutzung geprägt."
+}

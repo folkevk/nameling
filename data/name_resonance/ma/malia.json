@@ -1,0 +1,62 @@
+{
+  "associations": [
+    "hawaiianische Schreibweise von Maria",
+    "mögliche Ableitung von Mirjam",
+    "mögliche Kurzform von Amalia",
+    "mögliche Bedeutung: die Geliebte",
+    "Bedeutung im Swahili: die Königin",
+    "Namenstag",
+    "Beliebtheit in Deutschland"
+  ],
+  "confidence": 0.84,
+  "display_text": "Malia wirkt in den vorliegenden Quellen modern, freundlich und klangvoll. Die Resonanz ist eher positiv, zugleich ist die Namensherkunft nicht eindeutig und wird unterschiedlich erklärt.",
+  "evidence_quality": "mittel bis gut für Namensbeschreibung, schwach für echte öffentliche Resonanz im breiten Sinn",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Malia",
+  "normalized_name": "malia",
+  "overall_resonance": "Für Malia zeigt die vorliegende Evidenz insgesamt eine eher positive bis neutrale öffentliche Namensresonanz. Der Name wird vor allem als modern, freundlich und klangvoll beschrieben; zugleich kursieren mehrere Herkunftsdeutungen, die teils unsicher sind.",
+  "practical_notes": [
+    "Für Suchmaschinen- oder Namenskontexte eignet sich Malia gut als moderner, international verständlicher Vorname.",
+    "Die Mehrdeutigkeit der Herkunft kann in kurzen Beschreibungen erwähnenswert sein, sollte aber vorsichtig formuliert werden.",
+    "Keine belastbaren Hinweise auf Stigmatisierung oder negative Stereotype in der vorliegenden Evidenz."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Herkunft ist in den Quellen nicht eindeutig; mehrere Deutungen werden nebeneinandergestellt.",
+    "Beliebtheitsangaben sind datenbasiert und keine allgemeine Qualitätsaussage.",
+    "Es liegen vor allem redaktionelle Namensseiten vor; die Evidenz für echte öffentliche Debatten ist begrenzt."
+  ],
+  "short_summary": "Malia wird in den vorliegenden Quellen überwiegend positiv und als moderner, klangvoller Vorname dargestellt. Die Herkunft ist jedoch uneinheitlich und teils unsicher.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.99,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Malia � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/M/Ma/Malia/"
+    },
+    {
+      "confidence": 0.91,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Malia: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Malia.html"
+    }
+  ],
+  "style_effect": [
+    "modern",
+    "weich klingend",
+    "international",
+    "kurz und eingängig",
+    "eher feminin wahrgenommen",
+    "namenskundlich interessant"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland wirkt Malia als vergleichsweise gut sichtbarer Vorname, vor allem in Namenslexika und Popularitätsseiten. Die Evidenz spricht für Bekanntheit und Interesse am Namen, aber nicht für eine breit dokumentierte gesellschaftliche Debatte."
+}

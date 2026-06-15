@@ -1,0 +1,68 @@
+{
+  "associations": [
+    "Kurz- und Koseform von Franziska",
+    "weiblicher Vorname",
+    "Bedeutung: die kleine Französin / die Französin",
+    "mögliche Herleitung zu franc = frei",
+    "Namenstag",
+    "Beliebtheit bzw. Häufigkeit in Deutschland"
+  ],
+  "confidence": 0.86,
+  "display_text": "Franzi wirkt öffentlich vor allem kurz, freundlich und kosehaft. Die vorliegenden Quellen sind jedoch eher Namenslexika als breite öffentliche Diskussionen, daher ist die Resonanz vorsichtig als überwiegend neutral bis freundlich-informativ einzuordnen.",
+  "evidence_quality": "schwach bis mittelstark; überwiegend Namenslexika und datenbankartige Quellen, kaum echte öffentliche Diskussion",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Franzi",
+  "normalized_name": "franzi",
+  "overall_resonance": "Überwiegend neutral bis freundlich-informativ. Franzi wird in den vorliegenden Quellen vor allem als Kurz- und Koseform von Franziska beschrieben; die öffentliche Wahrnehmung wirkt eher namenskundlich als emotional aufgeladen.",
+  "practical_notes": [
+    "Für Suchmaschinen-Nutzer wirkt der Name freundlich, kurz und leicht merkbar.",
+    "Franzi wird häufig als informelle oder liebevolle Form wahrgenommen.",
+    "Die öffentliche Resonanz erscheint sachlich und weitgehend unproblematisch."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist schwach bis mittelstark und stützt sich vor allem auf einzelne Namenslexikon-Einträge.",
+    "Die Quellen beschreiben vor allem Bedeutung und Einordnung, nicht eine breite öffentliche Meinungsbildung.",
+    "Beliebtheits- und Häufigkeitsangaben sollten vorsichtig gelesen werden, da sie aus spezialisierten Namensseiten stammen."
+  ],
+  "short_summary": "Franzi wird in den Quellen vor allem als kurze, kosehafte Form von Franziska beschrieben. Die Resonanz ist überwiegend neutral-freundlich und informativ, bei nur schwacher Evidenz.",
+  "source_count": 3,
+  "sources": [
+    {
+      "confidence": 0.92,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Franzi � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/F/Fr/Franzi/"
+    },
+    {
+      "confidence": 0.95,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Franzi � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/F/Fr/Franzi/"
+    },
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Franzi: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Franzi.html"
+    }
+  ],
+  "style_effect": [
+    "kurz und unkompliziert",
+    "kosehaft und vertraut",
+    "jugendlich-familiär",
+    "informativ statt auffällig",
+    "eher Spitzname als formaler Vollname"
+  ],
+  "usable_evidence_count": 3,
+  "visibility": "Eher bekannt, aber nicht auffällig dominant. In den Quellen wird Franzi als in Deutschland geläufige, eher kurze und alltagstaugliche Namensform eingeordnet, ohne starke öffentliche Debatten."
+}

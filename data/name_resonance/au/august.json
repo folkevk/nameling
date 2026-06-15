@@ -1,0 +1,66 @@
+{
+  "associations": [
+    "lateinischer Ursprung",
+    "erhaben",
+    "ehrwürdig",
+    "heilig",
+    "Monat August",
+    "römischer Beiname",
+    "historisch",
+    "Namenstag",
+    "klassischer Jungenname",
+    "skandinavische Variante"
+  ],
+  "confidence": 0.9,
+  "display_text": "August wirkt in der öffentlichen Namenswahrnehmung überwiegend positiv: klassisch, historisch und würdevoll. Die Evidenz ist solide, aber vor allem namenskundlich und nicht stark durch freie Alltagsdiskussion geprägt.",
+  "evidence_quality": "Mittel bis gut: zwei klar namenskundliche Quellen mit überwiegend konsistenter, aber eher sachlicher und quellengebundener Resonanz.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "August",
+  "normalized_name": "august",
+  "overall_resonance": "Überwiegend positiv und klassisch: August wird in der öffentlichen Namensbeschreibung meist als traditionsreich, würdevoll und klangvoll wahrgenommen. Die Resonanz wirkt eher sachlich-wohlwollend als emotional oder trendig.",
+  "practical_notes": [
+    "Für Suchende, die einen traditionellen und gut verständlichen Namen suchen, wirkt August meist passend.",
+    "Der Name kann eher altklassisch als modisch wirken.",
+    "Die Bedeutungsebene und der historische Bezug tragen stark zur positiven Wahrnehmung bei."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt überwiegend aus Namensdatenbanken und redaktionellen Namensseiten, nicht aus breiter öffentlicher Alltagsdiskussion.",
+    "Die Tonlage ist eher beschreibend als emotional; positive Eindrücke sollten nicht überinterpretiert werden.",
+    "Einzelne Kommentare können die Wahrnehmung leicht positiv einfärben, sind aber keine belastbare Gesamtmeinung."
+  ],
+  "short_summary": "August wird in Deutschland meist als klassischer, historisch geprägter und würdevoller Vorname wahrgenommen – mit überwiegend positiver, eher sachlicher Resonanz.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname August � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/A/Au/August/"
+    },
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname August: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,August.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "historisch",
+    "würdig",
+    "klar klingend",
+    "traditionsbetont",
+    "eher zeitlos als modern",
+    "leicht feierlich"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland klar als bekannter, aber nicht massenhaft häufiger Vorname sichtbar; vor allem in Namenslexika und Bedeutungstexten präsent. Die öffentliche Diskussion ist eher informativ als breit gesellschaftlich."
+}

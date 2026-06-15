@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "weiblicher Vorname",
+    "friesische bzw. niederdeutsche Kurz- und Koseform",
+    "lateinische Herkunftsbezüge",
+    "Bedeutungsdeutungen in der Namensliteratur",
+    "Namenstag am 31. März",
+    "in Deutschland bekannt und teils als beliebt beschrieben"
+  ],
+  "confidence": 0.88,
+  "display_text": "Neele: überwiegend leicht positive, sachliche Resonanz; bekannt, eher modern und nordisch wirkend, mit begrenzter, aber brauchbarer Quellenlage.",
+  "evidence_quality": "mittel bis gut: zwei einschlägige Namenslexikon-Quellen, aber insgesamt begrenzte Quellenbasis und teils unsichere Bedeutungszuweisungen.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Neele",
+  "normalized_name": "neele",
+  "overall_resonance": "Der Vorname Neele wird in den vorliegenden Quellen überwiegend leicht positiv und sachlich wahrgenommen: als weiblicher, eher norddeutsch/friesisch geprägter Name mit klarer Namensbedeutung und Namenstagsbezug. Die Rezeption wirkt insgesamt freundlich, informativ und unaufgeregt.",
+  "practical_notes": [
+    "Für Suchende dürfte Neele als vertraut, freundlich und gut merkbar wirken.",
+    "Die Schreibweise ist kurz und unkompliziert.",
+    "Die Wahrnehmung ist eher neutral bis positiv; es gibt keine klare gesellschaftliche Stigmatisierung in den vorliegenden Quellen."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist auf wenige Namenslexikon-Quellen begrenzt.",
+    "Einige Bedeutungsangaben sind nicht eindeutig gesichert und werden in den Quellen teils vorsichtig formuliert.",
+    "Subjektive Einzelmeinungen aus Kommentarbereichen sollten nicht als allgemeine Meinung gewertet werden."
+  ],
+  "short_summary": "Neele wird in den Quellen als freundlicher, eher norddeutsch/friesisch geprägter Mädchenname mit leicht positiver, sachlicher Resonanz beschrieben.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "Vorname Neele � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/N/Ne/Neele/"
+    },
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Neele: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Neele.html"
+    }
+  ],
+  "style_effect": [
+    "weich und freundlich",
+    "kurz, modern und klar",
+    "nordisch/friesisch wirkend",
+    "namenskundlich interessiert",
+    "eher selten als sehr geläufig"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland wirkt Neele eher bekannt, aber nicht extrem häufig. Die öffentliche Wahrnehmung ist vor allem namenskundlich geprägt; als Alltagsname ist er vorhanden, aber nicht stark massenhaft verbreitet."
+}

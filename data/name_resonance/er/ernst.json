@@ -1,0 +1,62 @@
+{
+  "associations": [
+    "Bedeutung im Sinn von „ernsthaft“ oder „entschlossen“",
+    "althochdeutsche bzw. altdeutsche Herkunft",
+    "klassischer deutscher Jungenname",
+    "früher deutlich gebräuchlicher",
+    "heute eher selten",
+    "Namenstag und traditionelle Namenskunde"
+  ],
+  "confidence": 0.84,
+  "display_text": "Ernst: klassisch, altdeutsch und eher selten. Die öffentliche Wahrnehmung wirkt überwiegend neutral bis leicht positiv, mit Assoziationen zu Ernsthaftigkeit, Entschlossenheit und Tradition.",
+  "evidence_quality": "Gut für Bedeutung, Herkunft und Namenseinordnung; schwach für echte öffentliche Resonanz außerhalb von Namensseiten.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Ernst",
+  "normalized_name": "ernst",
+  "overall_resonance": "Der Vorname Ernst wirkt in der vorliegenden Evidenz traditionell, klassisch und eher sachlich als modisch. Öffentlich erscheint er vor allem als altdeutscher Jungenname mit klarer Bedeutung und historischer Verankerung. Die Rezeption ist überwiegend neutral bis leicht positiv, jedoch basiert sie fast nur auf Namenslexika und nicht auf breiter öffentlicher Meinungsresonanz.",
+  "practical_notes": [
+    "Gut geeignet, wenn ein klar traditioneller und unaufgeregter Name gewünscht ist.",
+    "Wirkt eher formell und klassisch als modern oder verspielt.",
+    "Die seltenere heutige Vergabe kann den Namen markant, aber auch etwas altmodisch wirken lassen."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt fast ausschließlich aus Namensdatenbanken; eine breite öffentliche Stimmungsanalyse liegt nicht vor.",
+    "Es gibt keine belastbaren Hinweise auf eine starke soziale Stigmatisierung in der vorliegenden Quelle.",
+    "Mögliche Assoziationen mit Strenge oder Ernsthaftigkeit sind Bedeutungs- und Stilassoziationen, keine Aussagen über Träger des Namens."
+  ],
+  "short_summary": "Ernst wird öffentlich vor allem als klassischer, altdeutscher und eher seltener Jungenname wahrgenommen – sachlich, traditionsnah und überwiegend neutral bis leicht positiv.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Ernst � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/E/Er/Ernst/"
+    },
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Ernst: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Ernst.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "traditionell",
+    "altdeutsch",
+    "nüchtern",
+    "seriös",
+    "historisch",
+    "lexikalisch"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Heute eher selten vergeben und dadurch im Alltag weniger präsent; als historischer, vertrauter Name aber weiterhin klar erkennbar."
+}

@@ -1,0 +1,62 @@
+{
+  "associations": [
+    "althochdeutsche Herkunft",
+    "Bedeutung in Richtung „Beschützer“ / „Herrscher“",
+    "dänische Kurzform- und Variantentradition",
+    "in Deutschland seit den 1980er Jahren populärer",
+    "vor allem in Norddeutschland präsent",
+    "Namenstag am 28. November",
+    "teilweise mit Spitznamen wie Malti oder Malle verknüpft"
+  ],
+  "confidence": 0.76,
+  "display_text": "Malte wirkt in der öffentlichen Wahrnehmung überwiegend sachlich-neutrale bis leicht positive: ein vertrauter, traditionell wirkender Vorname mit norddeutscher Note und klarer, namenkundlicher Herkunft. Die Datenlage ist begrenzt und basiert vor allem auf Namenslexika, nicht auf breiter öffentlicher Diskussion.",
+  "evidence_quality": "mittel bis schwach: zwei überwiegend namenskundliche Webquellen, begrenzte Kommentarstimmen, keine breite öffentliche Debatte erkennbar.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Malte",
+  "normalized_name": "malte",
+  "overall_resonance": "Überwiegend sachlich-neutrale öffentliche Resonanz mit leicht positiver Namensassoziation; die Datenlage ist jedoch eng und vor allem namenkundlich geprägt.",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt Malte insgesamt solide, vertraut und unkompliziert.",
+    "Die öffentliche Wahrnehmung ist eher beschreibend als emotional aufgeladen.",
+    "Wegen der begrenzten Evidenz ist die Einordnung vorsichtig zu lesen, nicht als repräsentative Meinungsumfrage."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt fast ausschließlich aus Namenslexika und wenigen Kommentaren; eine breite öffentliche Diskussionslage ist nicht sichtbar.",
+    "Vereinzelt gibt es kritische oder abwertende Einzelstimmen, diese wirken aber nicht dominant und sollten nicht verallgemeinert werden.",
+    "Keine belastbaren Hinweise auf eine starke soziale Stigmatisierung erkennbar."
+  ],
+  "short_summary": "Malte wird öffentlich meist sachlich und eher positiv wahrgenommen: ein vertrauter, norddeutsch geprägter Vorname mit traditioneller Herkunft und klarer Bedeutung. Die Evidenz ist allerdings begrenzt und vor allem lexikalisch.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Malte � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/M/Ma/Malte/"
+    },
+    {
+      "confidence": 0.88,
+      "is_name_discussion": true,
+      "sentiment": "gemischt",
+      "source_type": "web",
+      "title": "&#9655; Vorname Malte: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Malte.html"
+    }
+  ],
+  "style_effect": [
+    "kurz und markant",
+    "norddeutsch assoziiert",
+    "klassisch-traditionell",
+    "namenskundlich klar",
+    "modern genug für breite Nutzung",
+    "freundlich-sachlich im Klang"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Der Name ist in Deutschland bekannt und gebräuchlich, mit wahrnehmbarer Verankerung vor allem im norddeutschen Raum. Öffentliche Erwähnungen beziehen sich eher auf Herkunft, Bedeutung und Beliebtheit als auf breite Debatten."
+}

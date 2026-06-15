@@ -1,0 +1,62 @@
+{
+  "associations": [
+    "Form von Heinrich",
+    "Bedeutung im Sinn von Hausherr/Herr im Haus bzw. Heim + reich/mächtig",
+    "niederdeutsche und friesische Namensform",
+    "historisch belegt",
+    "heute eher selten",
+    "Spitznamen wie Hinnerk oder Hinni werden teils genannt"
+  ],
+  "confidence": 0.89,
+  "display_text": "Hinrich ist in der öffentlichen Namenswahrnehmung vor allem traditionell, regional und selten. Er gilt als niederdeutsche bzw. friesische Form von Heinrich und wird sachlich-positiv, aber ohne starke Breitenwirkung beschrieben.",
+  "evidence_quality": "Mittlere bis gute Evidenz für Herkunft, Bedeutung und Seltenheit, aber nur aus wenigen, ähnlich gelagerten Namensquellen.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Hinrich",
+  "normalized_name": "hinrich",
+  "overall_resonance": "Der Name Hinrich wirkt in der öffentlichen Namenswahrnehmung eher traditionell, regional geprägt und sachlich positiv-konnotiert, ohne starke emotionale Aufladung. Er wird vor allem als niederdeutsche bzw. friesische Form von Heinrich beschrieben und gilt als selten im heutigen Deutschland.",
+  "practical_notes": [
+    "Für Suchende wirkt der Name eher klassisch und regional verankert als modern oder trendig.",
+    "Die Schreibweise ist klar und die Herkunft gut erklärbar.",
+    "Durch die Seltenheit kann der Name auffallen, ohne stark ungewöhnlich zu wirken."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz basiert fast ausschließlich auf einzelnen Namenslexika und Datenbankseiten.",
+    "Es gibt keine breite öffentliche Diskussionslage; die Einordnung bleibt daher vorsichtig.",
+    "Seltenheit sollte nicht als Wertung verstanden werden, sondern beschreibt nur die heutige Verbreitung."
+  ],
+  "short_summary": "Hinrich wird öffentlich vor allem als traditionelle, niederdeutsch-friesische und heute seltene Form von Heinrich wahrgenommen.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.94,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Hinrich � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/H/Hi/Hinrich/"
+    },
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Hinrich: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Hinrich.html"
+    }
+  ],
+  "style_effect": [
+    "traditionell",
+    "niederdeutsch/friesisch",
+    "bodenständig",
+    "historisch",
+    "selten",
+    "sachlich",
+    "klassisch"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Eher geringe Sichtbarkeit im Alltag; in Namensdatenbanken und Lexika klar dokumentiert, in breiter öffentlicher Diskussion jedoch wenig präsent."
+}

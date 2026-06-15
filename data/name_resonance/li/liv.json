@@ -1,0 +1,62 @@
+{
+  "associations": [
+    "Bedeutung: Leben",
+    "Bedeutung: Schutz oder Verteidigung",
+    "skandinavische bzw. altnordische Herkunft",
+    "weiblich",
+    "kurz und klar",
+    "selten bis moderat verbreitet"
+  ],
+  "confidence": 0.79,
+  "display_text": "Liv wirkt in Deutschland überwiegend positiv: kurz, modern, nordisch und klar in der Bedeutung. Die Quellen deuten auf eine eher moderate Verbreitung hin, aber die direkte öffentliche Resonanz ist nur begrenzt belegt.",
+  "evidence_quality": "Begrenzt bis mittel: zwei einschlägige Namensseiten mit überwiegend sachlicher, teils positiv bewertender Darstellung. Für eine echte öffentliche Meinungsresonanz ist die Datenlage dünn.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Liv",
+  "normalized_name": "liv",
+  "overall_resonance": "Überwiegend positiv und modern, mit eher sachlich-namenskundlicher als breit diskutierter öffentlicher Resonanz. Der Name wirkt kurz, nordisch und trendig; die Evidenz zur tatsächlichen öffentlichen Wahrnehmung in DE ist jedoch begrenzt.",
+  "practical_notes": [
+    "Gut geeignet für alle, die einen kurzen, modernen und klar international wirkenden Namen suchen.",
+    "Die Aussprache und Schreibweise sind unkompliziert.",
+    "In Deutschland scheint der Name bekannt, aber nicht stark übernutzt zu sein.",
+    "Die Wirkung ist eher stilistisch als klischeehaft."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz basiert vor allem auf Namensdatenbanken und Lexikonseiten, nicht auf freier öffentlicher Diskussion.",
+    "Positive Zuschreibungen wie „schön“ sind eher bewertend als repräsentativ.",
+    "Die tatsächliche öffentliche Resonanz außerhalb von Namensportalen bleibt damit nur indirekt erkennbar."
+  ],
+  "short_summary": "Liv wird in den Quellen überwiegend positiv als kurzer, moderner Name mit nordischer Herkunft und der Bedeutung „Leben“ wahrgenommen. Die öffentliche Resonanz ist eher stilistisch-namenskundlich als breit diskutiert.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.94,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Liv � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/L/Li/Liv/"
+    },
+    {
+      "confidence": 0.94,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Liv: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Liv.html"
+    }
+  ],
+  "style_effect": [
+    "kurz und prägnant",
+    "modern",
+    "skandinavisch/nordisch",
+    "elegant und weich",
+    "zeitgemäß",
+    "eher selten bis moderat verbreitet"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland offenbar bekannt und eher moderat verbreitet, aber nicht massenhaft. Die Wahrnehmung in den Quellen ist vor allem über Namenslexika und Beliebtheitsangaben sichtbar, nicht über eine breite öffentliche Debatte."
+}

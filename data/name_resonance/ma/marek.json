@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "slawische Form von Markus",
+    "lateinischer Ursprung",
+    "Bedeutung im Umfeld von Mars/kriegerischer Mythologie",
+    "Namenstag",
+    "eher seltener, aber in Deutschland geläufig",
+    "männlicher Vorname"
+  ],
+  "confidence": 0.91,
+  "display_text": "Marek: überwiegend sachlich-neutrale, leicht positive Resonanz. In Deutschland gilt der Name als klar erkennbar, international/slawisch geprägt und eher selten, aber bekannt. Die vorliegenden Quellen sind gut, jedoch vor allem lexikalisch und nicht als breite öffentliche Debatte zu verstehen.",
+  "evidence_quality": "gut bis sehr gut; zwei passende Namensquellen mit klarer Namensdiskussion, allerdings vor allem lexikalisch statt diskursiv.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Marek",
+  "normalized_name": "marek",
+  "overall_resonance": "Überwiegend sachlich-neutral mit leichter positiver Tendenz. Marek wird in der deutschen Namensumgebung vor allem als klar als Vorname erkennbare, international bzw. slawisch geprägte Form wahrgenommen.",
+  "practical_notes": [
+    "Für Suchmaschinen wirkt der Name gut dokumentiert und eindeutig zuordenbar.",
+    "Die Resonanz ist stabil und unaufgeregt; keine stark polarisierenden Signale erkennbar.",
+    "In Deutschland kann Marek als vertraut, aber nicht alltäglich wahrgenommen werden."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt überwiegend aus Namenslexika und ist daher eher beschreibend als breiter öffentlich-diskursiv belegt.",
+    "Es gibt keinen Hinweis auf eine negative gesellschaftliche Stigmatisierung des Namens in den vorliegenden Quellen."
+  ],
+  "short_summary": "Marek wird in Deutschland meist sachlich-neutral und leicht positiv wahrgenommen: ein klarer, international geprägter Jungenname mit slawischer Form, gut dokumentierter Herkunft und eher solider Bekanntheit.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Marek � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/M/Ma/Marek/"
+    },
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Marek: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Marek.html"
+    }
+  ],
+  "style_effect": [
+    "informativ",
+    "klar",
+    "international",
+    "slawisch geprägt",
+    "modern-zeitlos",
+    "namentypisch"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Der Name ist in Deutschland bekannt und auffindbar, wirkt aber eher nicht massenhaft verbreitet. Die Wahrnehmung ist vor allem lexikalisch und informationsorientiert, weniger durch öffentliche Debatten geprägt."
+}

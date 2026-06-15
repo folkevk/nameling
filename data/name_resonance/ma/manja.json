@@ -1,0 +1,62 @@
+{
+  "associations": [
+    "slawische Koseform von Maria/Marija",
+    "weiblicher Vorname",
+    "in Deutschland bekannt",
+    "selten bis ungewöhnlich",
+    "Namenslexikon/Beliebtheit",
+    "Namenstag",
+    "teilweise Diskussion verschiedener Herkunftsdeutungen"
+  ],
+  "confidence": 0.72,
+  "display_text": "Manja wirkt in der öffentlichen Wahrnehmung sachlich-neutral bis leicht positiv. Der Name ist bekannt, weiblich und slawisch geprägt, aber eher selten. Die vorliegende Evidenz ist begrenzt und stammt überwiegend aus Namenslexika, daher nur vorsichtig interpretierbar.",
+  "evidence_quality": "mittel bis schwach; überwiegend lexikalische Quellen, nur begrenzte echte Resonanzhinweise",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Manja",
+  "normalized_name": "manja",
+  "overall_resonance": "Überwiegend sachlich-neutral mit leicht positiver Tönung. Der Name Manja wird in den vorliegenden Quellen vor allem als bekannter, weiblicher Vorname mit slawisch geprägter Herkunft beschrieben; die öffentliche Resonanz wirkt eher ruhig als stark polarisiert.",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt Manja freundlich, klar und international anschlussfähig.",
+    "Die Wahrnehmung ist eher ruhig und traditionell als trendig.",
+    "Geeignet als Name mit eigenständiger, aber nicht aufdringlicher Präsenz."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist eher mittel bis schwach und stammt fast ausschließlich aus Namenslexika statt aus breiten öffentlichen Diskussionsräumen.",
+    "Positive Einschätzungen basieren nur auf wenigen, nicht repräsentativen Kommentaren.",
+    "Die Herkunftsdeutungen variieren in den Quellen; das sollte nicht als gesicherte Eindeutigkeit dargestellt werden."
+  ],
+  "short_summary": "Manja wird öffentlich eher sachlich-neutral und leicht positiv wahrgenommen: bekannt, weiblich, slawisch geprägt und eher selten. Die Evidenz ist begrenzt und stammt vor allem aus Namenslexika.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Manja � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/M/Ma/Manja/"
+    },
+    {
+      "confidence": 0.81,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Manja: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Manja.html"
+    }
+  ],
+  "style_effect": [
+    "sachlich",
+    "namenskundlich",
+    "leicht weich und freundlich wirkend",
+    "klassisch mit slawischer Anmutung",
+    "eher selten als modisch",
+    "unaufdringlich und vertraut"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Im deutschsprachigen Raum ist Manja bekannt, aber eher nicht sehr prominent. Die Quellen deuten auf eine gewisse Vertrautheit und zugleich auf eine eher seltene bis ungewöhnliche Wahrnehmung hin."
+}

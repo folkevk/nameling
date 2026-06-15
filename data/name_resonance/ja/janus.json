@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "lateinische Herkunft",
+    "römische Mythologie",
+    "Janus als Gott der Türen und Tore bzw. des Eingangs",
+    "Namenstag",
+    "selten bis eher ungewöhnlich in Deutschland"
+  ],
+  "confidence": 0.72,
+  "display_text": "Janus wirkt in Deutschland eher selten, klassisch und mythologisch geprägt. Die öffentliche Resonanz ist überwiegend neutral bis leicht positiv, allerdings basiert diese Einordnung auf nur wenigen namenskundlichen Quellen. Vereinzelt werden klangliche Vorbehalte genannt, ohne dass sich daraus ein breites negatives Bild ableiten lässt.",
+  "evidence_quality": "Begrenzt: vor allem einzelne, namenskundliche Webquellen mit geringer Breitenwirkung und wenig echter öffentlicher Diskussion.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Janus",
+  "normalized_name": "janus",
+  "overall_resonance": "Überwiegend neutral bis leicht positiv: Der Name wird vor allem sachlich als seltener, klanglich markanter Vorname mit klassischer Herkunft wahrgenommen.",
+  "practical_notes": [
+    "Für viele wirkt der Name bildungsnah und traditionsbezogen.",
+    "Durch die Seltenheit kann er auffallen und als besonders wahrgenommen werden.",
+    "Die kurze Form Jan kann als naheliegende Spitzname-/Kurzform erscheinen.",
+    "Für eine öffentliche Einordnung sollte die geringe Datenlage mitgedacht werden."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenzbasis ist schwach und stützt sich nur auf wenige namensbezogene Webseiten.",
+    "Vereinzelt wird eine mögliche negative Klangassoziation erwähnt; das ist eher ein subjektiver Eindruck als ein gesicherter Trend.",
+    "Keine belastbaren Hinweise auf breite soziale Stigmatisierung erkennbar."
+  ],
+  "short_summary": "Janus wird in Deutschland eher selten und vor allem sachlich-klassisch wahrgenommen, mit mythologischer und lateinischer Anmutung. Die Quellenlage ist schmal; vereinzelt gibt es subjektive Klangvorbehalte, insgesamt aber keine deutlich negative öffentliche Resonanz.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.94,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Janus � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/J/Ja/Janus/"
+    },
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "mixed",
+      "source_type": "web",
+      "title": "&#9655; Vorname Janus: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Janus.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "mythologisch",
+    "markant",
+    "ungewöhnlich",
+    "namenskundlich",
+    "eher sachlich als modisch"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Eher geringe bis mittlere öffentliche Sichtbarkeit in Deutschland; der Name wirkt bekannt, aber nicht breit verbreitet."
+}

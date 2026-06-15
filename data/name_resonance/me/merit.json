@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "Kurz- oder Nebenformen von Margarete und Emerentia",
+    "Bedeutungen wie „die Perle“ und „die Verdienstvolle / die Würdige“",
+    "mögliche weitere sprachliche Bezüge, je nach Quelle",
+    "selten als Vorname in Deutschland",
+    "teils unsichere Aussprache bzw. Schreibvarianten in einzelnen Quellen"
+  ],
+  "confidence": 0.79,
+  "display_text": "Merit wirkt in der öffentlichen Namenswahrnehmung überwiegend sachlich-neutral mit leicht positiver Tönung. Der Name wird vor allem als selten, kurz und bedeutungsvoll beschrieben; genannt werden unter anderem Bezüge zu Margarete/Emerentia sowie Bedeutungen wie „die Perle“ oder „die Verdienstvolle“. Da die Quellen hauptsächlich aus Namenslexika stammen, ist die Evidenz begrenzt und teils mehrdeutig.",
+  "evidence_quality": "mittel bis schwach: zwei Namenslexikon-Quellen, klare Namensbezüge, aber kaum unabhängige öffentliche Rezeption",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Merit",
+  "normalized_name": "merit",
+  "overall_resonance": "Überwiegend sachlich-neutral mit leicht positiver Tönung. In den verfügbaren Namensquellen wird Merit vor allem über Bedeutung und Herkunft eingeordnet, nicht über eine breite öffentliche Debatte.",
+  "practical_notes": [
+    "Für Suchmaschinen wirkt Merit eher als besonderer, seltener Vorname mit neutral bis freundlich wirkender Namensdeutung.",
+    "Die öffentliche Resonanz scheint eher informativ als emotional aufgeladen zu sein.",
+    "Bei der Einordnung ist Vorsicht sinnvoll, da unterschiedliche Herkunftslinien nebeneinander genannt werden."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt fast ausschließlich aus Namenslexika und nicht aus einer breiten öffentlichen Diskussion.",
+    "Herkunft und Bedeutung sind in den Quellen teils mehrdeutig und nicht einheitlich belegt.",
+    "Aussagen zur Beliebtheit oder Aussprache sollten vorsichtig gelesen werden, da sie auf begrenzten Quellen beruhen."
+  ],
+  "short_summary": "Merit wird in den verfügbaren Quellen überwiegend sachlich und leicht positiv beschrieben: selten, klanglich knapp und mit mehreren möglichen Herleitungen. Die öffentliche Sichtbarkeit wirkt eher gering und die Evidenz ist begrenzt.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Merit � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/M/Me/Merit/"
+    },
+    {
+      "confidence": 0.84,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Merit: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Merit.html"
+    }
+  ],
+  "style_effect": [
+    "kurz und prägnant",
+    "selten und ungewöhnlich",
+    "sprachlich klar",
+    "bedeutungsorientiert",
+    "leicht elegant",
+    "teils mehrdeutig in der Herkunft"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Eher selten und dadurch im Alltag nicht sehr präsent. Die Wahrnehmung wirkt vor allem lexikalisch-namenskundlich, weniger durch starke populäre Bekanntheit geprägt."
+}

@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "lateinischer Ursprung",
+    "Bezug zu Rom / „die Römerin“",
+    "weiblicher Vorname",
+    "italienisch anmutend",
+    "Namenstag",
+    "Spitznamen wie Romy oder Romi"
+  ],
+  "confidence": 0.82,
+  "display_text": "Romana wird überwiegend neutral bis leicht positiv wahrgenommen. Der Name wirkt klassisch, lateinisch geprägt und mit Rom assoziiert. In Deutschland scheint er eher selten bis mäßig verbreitet zu sein. Die Evidenz zur öffentlichen Resonanz ist allerdings begrenzt, weil vor allem beschreibende Namensquellen vorliegen.",
+  "evidence_quality": "eher schwach bis mittel: überwiegend lexikalische, beschreibende Quellen statt breiter öffentlicher Diskussion",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Romana",
+  "normalized_name": "romana",
+  "overall_resonance": "Überwiegend neutral bis leicht positiv; Romana wirkt als klassischer, eher seltener Vorname mit klarer Herkunfts- und Bedeutungszuschreibung.",
+  "practical_notes": [
+    "Für die Namenssuche ist Romana gut einordenbar und leicht erklärbar.",
+    "Der Name trägt eine klare, positive Bedeutungsassoziation über den Rom-Bezug.",
+    "Durch die eher seltene Verbreitung kann er als markant, aber nicht ungewöhnlich wahrgenommen werden."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz zur öffentlichen Resonanz ist schwach, weil vor allem Namenslexika und beschreibende Seiten vorliegen.",
+    "Es gibt kaum direkte öffentliche Wertung oder Debatte über den Namen selbst.",
+    "Die Wahrnehmung kann je nach Umfeld eher traditionell als modern wirken, ohne dass daraus eine allgemeine Aussage folgt."
+  ],
+  "short_summary": "Romana wird in den vorliegenden Quellen sachlich und eher positiv dargestellt: ein klassischer, lateinisch geprägter Mädchenname mit Bezug zu Rom. Die öffentliche Resonanz wirkt jedoch nur begrenzt belegt, da vor allem Namenslexika vorliegen.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.91,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Romana � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/R/Ro/Romana/"
+    },
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Romana: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Romana.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "international anklingend",
+    "sprachlich klar",
+    "eher traditionsnah",
+    "leicht elegant",
+    "namenskundlich vertraut"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland eher gering bis mittel sichtbar, mit dem Eindruck eines selten bis mäßig verbreiteten Vornamens."
+}

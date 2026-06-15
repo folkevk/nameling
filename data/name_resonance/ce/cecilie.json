@@ -1,0 +1,62 @@
+{
+  "associations": [
+    "weiblicher Vorname",
+    "lateinische Herkunft",
+    "tschechische Nebenform von Cäcilie",
+    "dänische und norwegische Abwandlung von Cecilia",
+    "Bedeutung oft mit 'die Blinde' verbunden",
+    "Namenstag am 22. November",
+    "in Deutschland selten",
+    "Spitznamen wie Cilli oder Cici"
+  ],
+  "confidence": 0.91,
+  "display_text": "Cecilie wirkt in der öffentlichen Rezeption überwiegend sachlich-neutral: ein seltener, klassisch-internationaler Mädchenname mit etymologisch geprägter, eher ruhiger Namenswirkung. Die Evidenz ist vor allem beschreibend und nicht stark meinungsorientiert.",
+  "evidence_quality": "mittel bis gut; die Quellen behandeln den Namen direkt, sind aber überwiegend lexikalisch-informativ statt meinungsstark.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Cecilie",
+  "normalized_name": "cecilie",
+  "overall_resonance": "Überwiegend sachlich-neutral und eher selten wahrgenommen; die öffentliche Rezeption wirkt vor allem namenkundlich-informativ als emotional aufgeladen.",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt Cecilie international, klassisch und eher ungewöhnlich.",
+    "Die Aussprache und Schreibweise sind unkompliziert, aber der Name ist im deutschen Alltag selten.",
+    "Die vorhandene Evidenz spricht eher für eine ruhige, informative Namenswirkung als für starke Polarisierung."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Quellen sind vor allem beschreibend und nicht als starke Meinungsdiskussion zu lesen.",
+    "Die Bedeutungsangaben sind etymologisch, sollten aber nicht als persönliche Zuschreibung verstanden werden.",
+    "Zur öffentlichen Wahrnehmung gibt es nur begrenzt belastbare Evidenz; Aussagen bleiben daher vorsichtig."
+  ],
+  "short_summary": "Cecilie wird in Deutschland vor allem als seltener, klassisch-internationaler Mädchenname mit neutraler, sachlicher Wahrnehmung beschrieben.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Cecilie � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/C/Ce/Cecilie/"
+    },
+    {
+      "confidence": 0.89,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Cecilie: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Cecilie.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "nordisch angehaucht",
+    "etymologisch geprägt",
+    "selten",
+    "eher elegant als modern"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland scheint Cecilie selten zu sein und taucht eher in Namenslexika und Informationsseiten als in breiten öffentlichen Diskussionen auf."
+}

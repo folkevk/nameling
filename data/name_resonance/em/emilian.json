@@ -1,0 +1,59 @@
+{
+  "associations": [
+    "lateinische Herkunft",
+    "Bedeutung: der Eifrige / der Nachahmer",
+    "moderner Jungenname",
+    "gelegentlich als beliebte Variante beschrieben",
+    "Namenstag",
+    "polnische und rumänische Nebenform"
+  ],
+  "confidence": 0.87,
+  "display_text": "Emilian wirkt in Deutschland überwiegend positiv: modern, freundlich und gut verständlich. Die verfügbaren Quellen ordnen den Namen als lateinisch geprägt und eher beliebter bzw. solide anschlussfähiger Jungenname ein. Die Evidenz ist dabei vor allem namenkundlich und nicht repräsentativ, daher nur als vorsichtige Momentaufnahme zu lesen.",
+  "evidence_quality": "mittel bis gut; zwei klare namenkundliche Quellen mit überwiegend positiver, sachlicher Resonanz, aber begrenzte Breite und keine unabhängige Repräsentativität.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Emilian",
+  "normalized_name": "emilian",
+  "overall_resonance": "Emilian wird in der vorliegenden deutschsprachigen Namens-Evidenz überwiegend positiv und eher modern wahrgenommen. Der Name wirkt sachlich, freundlich und zeitgemäß, ohne stark exzentrisch zu erscheinen.",
+  "practical_notes": [
+    "Gut lesbar und im deutschen Sprachraum problemlos einordbar.",
+    "Wirkt eher modern als altmodisch, aber nicht trendig-extrem.",
+    "Kurzformen und Varianten können je nach Umfeld unterschiedlich genutzt werden."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist überwiegend informativ und nicht sehr breit; die Einordnung stützt sich vor allem auf Namensportale und deren Community-Kontext.",
+    "Aussagen zur Beliebtheit sind nur als Momentaufnahme zu verstehen und können regional oder zeitlich schwanken."
+  ],
+  "short_summary": "Emilian wird in Deutschland meist als moderner, freundlich wirkender und eher positiv besetzter Vorname wahrgenommen.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "Vorname Emilian � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/E/Em/Emilian/"
+    },
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "überwiegend positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Emilian: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Emilian.html"
+    }
+  ],
+  "style_effect": [
+    "modern",
+    "freundlich",
+    "elegant",
+    "leicht klassisch durch lateinische Herkunft",
+    "sachlich-namenskundlich"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Im deutschen Namenskontext ist Emilian bekannt, aber nicht massenhaft verbreitet. Die Quellen beschreiben ihn eher als beliebten bzw. zumindest gut anschlussfähigen Vornamen mit solider Wiedererkennbarkeit."
+}

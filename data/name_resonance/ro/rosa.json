@@ -1,0 +1,63 @@
+{
+  "associations": [
+    "Rose",
+    "lateinischer Ursprung",
+    "Blumenname",
+    "Namenstag",
+    "historisch etabliert",
+    "eher traditionell",
+    "hübsch/angenehm klingend"
+  ],
+  "confidence": 0.86,
+  "display_text": "Rosa wirkt in Deutschland überwiegend klassisch, freundlich und zeitlos. Die öffentliche Resonanz ist eher positiv, basiert aber vor allem auf redaktionellen Namensquellen und weniger auf direktem öffentlichem Feedback.",
+  "evidence_quality": "mittel bis gut: mehrere einschlägige Namensquellen, aber überwiegend lexikalisch-redaktionell statt direkt öffentlichkeitsbasiert.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Rosa",
+  "normalized_name": "rosa",
+  "overall_resonance": "Überwiegend positiv und klassisch; der Name wirkt in der öffentlichen Namenswahrnehmung eher freundlich, traditionell und vertraut als auffällig oder modern.",
+  "practical_notes": [
+    "Für Namenssuchende wirkt Rosa in DE meist unkompliziert, vertraut und gut einordbar.",
+    "Der Name hat eine klare, kurze Form und einen klassischen Klang.",
+    "Die öffentliche Resonanz scheint eher sachlich-positiv als emphatisch oder polarisierend."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt vor allem aus redaktionellen Namensdatenbanken, nicht aus breiter direkter Meinungsumfrage.",
+    "Einzelne Angaben beziehen sich auf historische Beliebtheit statt auf heutige öffentliche Resonanz.",
+    "Leichte Verwechslungsgefahr mit der Farbe Rosa kann die Wahrnehmung in manchen Kontexten beeinflussen."
+  ],
+  "short_summary": "Rosa wird in Deutschland meist als klassischer, freundlicher und traditionsreicher Vorname wahrgenommen. Die verfügbare Evidenz ist eher beschreibend als meinungsbasiert, zeigt aber insgesamt eine überwiegend positive Resonanz.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "mostly positive",
+      "source_type": "web",
+      "title": "Vorname Rosa � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/R/Ro/Rosa/"
+    },
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "mostly positive",
+      "source_type": "web",
+      "title": "&#9655; Vorname Rosa: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Rosa.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "weiblich",
+    "blumig",
+    "elegant",
+    "zeitlos",
+    "freundlich",
+    "traditionsnah"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland gut bekannt und historisch etabliert; die Sichtbarkeit wirkt eher stabil als aktuell trendgetrieben."
+}

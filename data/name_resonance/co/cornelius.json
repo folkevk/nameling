@@ -1,0 +1,62 @@
+{
+  "associations": [
+    "lateinische und römische Herkunft",
+    "Geschlecht der Cornelier",
+    "mögliche Verbindung zu cornu/Horn",
+    "christliche Verbreitung durch den heiligen Cornelius",
+    "Namenstag",
+    "historische und literarische Bezüge",
+    "eher besonders statt banal"
+  ],
+  "confidence": 0.77,
+  "display_text": "Cornelius wirkt in Deutschland eher klassisch, traditionsreich und positiv besetzt. Der Name ist bekannt, aber nicht allzu alltäglich. Die vorliegenden Quellen deuten auf eine wertschätzende, sachliche Wahrnehmung hin; die Evidenz ist allerdings eher begrenzt.",
+  "evidence_quality": "mittel bis schwach: überwiegend lexikalische Namensquellen, nur indirekte Hinweise auf öffentliche Resonanz",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Cornelius",
+  "normalized_name": "cornelius",
+  "overall_resonance": "Die öffentliche Rezeption von Cornelius wirkt in den vorliegenden Quellen eher positiv bis wertschätzend und zugleich sachlich-traditionell. Der Name wird vor allem mit lateinisch-römischer Herkunft, christlicher Prägung und einem eher klassischen, besonderen Klang verbunden.",
+  "practical_notes": [
+    "Für eine Namenssuche in Deutschland wirkt Cornelius vertraut, traditionsbewusst und eher formell.",
+    "Der Name kann als klassisch und markant wahrgenommen werden, ohne stark modisch zu wirken.",
+    "Wegen der begrenzten Datenlage sollte die Einschätzung als vorsichtig verstanden werden."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist begrenzt und stützt sich vor allem auf Namenslexika und eine einzelne Namensseite.",
+    "Öffentliche Resonanz ist nur indirekt ablesbar; echte breitere Meinungsdaten liegen hier nicht vor.",
+    "Einzelne kritische Kommentare auf den Quellen sollten nicht als allgemeine Ablehnung des Namens verstanden werden."
+  ],
+  "short_summary": "Cornelius wird in den vorliegenden Quellen meist positiv, klassisch und traditionsreich eingeordnet. Er ist in Deutschland bekannt, wirkt aber eher besonders als alltäglich; die Datenlage ist jedoch begrenzt.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Cornelius � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/C/Co/Cornelius/"
+    },
+    {
+      "confidence": 0.9,
+      "is_name_discussion": true,
+      "sentiment": "überwiegend positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Cornelius: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Cornelius.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "traditionsreich",
+    "bildungssprachlich",
+    "historisch",
+    "sachlich",
+    "eher selten als modern"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Der Name ist in Deutschland bekannt, wirkt aber eher nicht alltäglich. Die Quellen beschreiben ihn als eher beliebt bzw. vertraut, zugleich aber auch als traditionsreich und etwas markant."
+}

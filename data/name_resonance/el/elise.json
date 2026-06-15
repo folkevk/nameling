@@ -1,0 +1,62 @@
+{
+  "associations": [
+    "Kurzform von Elisabeth",
+    "hebräische bzw. biblische Namensherkunft",
+    "Bedeutungen wie „Gott ist Fülle“ oder „Gott hat geschworen“",
+    "französisch-deutsche Namenswirkung",
+    "Namenstag am 23. September, teils auch 19. November",
+    "Assoziation mit „Für Elise\"",
+    "historisch bekannt und zugleich wieder aufstrebend"
+  ],
+  "confidence": 0.78,
+  "display_text": "Elise wirkt im deutschen Sprachraum überwiegend klassisch, elegant und positiv. Der Name ist gut etabliert, mit klaren Bezügen zu Elisabeth, biblischer Herkunft und der bekannten musikalischen Assoziation „Für Elise“. Die Evidenz stammt allerdings fast nur aus Namenslexika, daher ist die Einschätzung der öffentlichen Rezeption vorsichtig zu lesen.",
+  "evidence_quality": "Eher mittel bis schwach für öffentliche Resonanz: mehrere informative Namensseiten, aber kaum echte freie Diskussion oder breite Alltagsrezeption.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Elise",
+  "normalized_name": "elise",
+  "overall_resonance": "Eher positiv und klassisch, mit klarer etymologischer und kultureller Aufwertung. Die öffentliche Rezeption wirkt freundlich und traditionsnah, jedoch ist die Evidenz für echte freie Meinungsbildung nur begrenzt.",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt Elise zeitlos, weiblich und elegant.",
+    "Der Name ist leicht auszusprechen und international anschlussfähig.",
+    "Die Wahrnehmung ist eher positiv, sollte aber nicht als repräsentative Mehrheitsmeinung interpretiert werden."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz basiert fast nur auf Namenslexika, daher ist die Aussage zur öffentlichen Resonanz nur vorsichtig belastbar.",
+    "Beliebtheitsangaben können quellenintern und werblich gefärbt sein.",
+    "Es liegen keine belastbaren Hinweise auf negative soziale Stigmatisierung in der gegebenen Evidenz vor."
+  ],
+  "short_summary": "Elise wird im deutschsprachigen Raum meist als klassischer, eleganter und positiv besetzter Vorname wahrgenommen. Die vorliegende Evidenz ist jedoch vor allem namenskundlich und nur eingeschränkt als öffentliche Resonanz zu werten.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "Vorname Elise � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/E/El/Elise/"
+    },
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "überwiegend positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Elise: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Elise.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "elegant",
+    "kurz und klar",
+    "traditionsverbunden",
+    "namenskundlich aufgeladen",
+    "leicht musikalisch assoziierbar"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Mittel: Der Name ist in Namenslexika und Informationsseiten gut präsent, aber die hier vorliegende Evidenz stammt überwiegend aus solchen Quellen und weniger aus unabhängigen öffentlichen Diskussionen."
+}

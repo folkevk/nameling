@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "althochdeutsche Herkunft",
+    "Bedeutung im Umfeld von Ruhm und Speer",
+    "männlicher Vorname",
+    "selten im Deutschen",
+    "historisch zeitweise beliebt",
+    "Namenstag",
+    "Varianten wie Rodger, Rutger oder Rogerio"
+  ],
+  "confidence": 0.86,
+  "display_text": "Roger: in Deutschland eher seltener, sachlich-neutral bis leicht positiv wahrgenommener Vorname mit klassischer, etymologisch klarer Ausstrahlung.",
+  "evidence_quality": "mittel bis eher gut, aber thematisch eng und vor allem auf Namensseiten gestützt",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Roger",
+  "normalized_name": "roger",
+  "overall_resonance": "Überwiegend sachlich-neutral mit leicht positivem Klang: Der Name wird vor allem über Herkunft, Bedeutung und Namenskunde wahrgenommen, nicht über starke öffentliche Debatten.",
+  "practical_notes": [
+    "Für Suchmaschinen wirkt der Name klar, etabliert und gut einordenbar.",
+    "Im deutschen Kontext kann die Seltenheit als markant, aber unauffällig wahrgenommen werden.",
+    "Die Rezeption ist eher beschreibend als emotional aufgeladen."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist stark auf wenige Namenslexikon-Seiten begrenzt.",
+    "Es gibt keine belastbare breite öffentliche Debatte über den Namen selbst.",
+    "Einzelne Portal-Tonlagen sollten nicht als allgemeine Mehrheitsmeinung gelesen werden."
+  ],
+  "short_summary": "Roger wird in Deutschland meist sachlich und leicht positiv als klassischer, seltener Vorname mit althochdeutscher Herkunft und klarer Bedeutung wahrgenommen.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.94,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Roger � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/R/Ro/Roger/"
+    },
+    {
+      "confidence": 0.84,
+      "is_name_discussion": true,
+      "sentiment": "eher positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Roger: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Roger.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "international anschlussfähig",
+    "etymologisch klar",
+    "zeitweise als modern bzw. etabliert wahrgenommen",
+    "eher nüchtern als modisch"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland eher selten und dadurch vergleichsweise wenig alltagspräsent; öffentlich sichtbar vor allem in Namenslexika und Vornamenseiten."
+}

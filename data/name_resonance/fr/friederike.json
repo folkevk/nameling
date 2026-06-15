@@ -1,0 +1,62 @@
+{
+  "associations": [
+    "weibliche Form von Friedrich",
+    "Bedeutung im Sinn von Frieden / friedensreich",
+    "deutsche Herkunft",
+    "altdeutscher Ursprung",
+    "klassischer Vorname",
+    "selten bis mäßig verbreitet",
+    "Kurzformen wie Frieda oder Frida"
+  ],
+  "confidence": 0.84,
+  "display_text": "Friederike wird meist als klassischer, deutscher und traditionsreicher Vorname wahrgenommen. Die öffentliche Resonanz ist überwiegend neutral bis leicht positiv, mit Assoziationen zu Frieden, Herkunft und einer eleganten, eher seltenen Namenswirkung.",
+  "evidence_quality": "mittel: überwiegend redaktionelle Namensquellen, informative Angaben und nur begrenzt direkte öffentliche Reaktionen",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Friederike",
+  "normalized_name": "friederike",
+  "overall_resonance": "Friederike wird öffentlich überwiegend sachlich bis leicht positiv wahrgenommen: als klassischer, deutscher und traditionsreicher Vorname mit klarer Bedeutung und historischer Tiefe. Die Resonanz wirkt eher respektvoll als trendig.",
+  "practical_notes": [
+    "Für die öffentliche Wahrnehmung ist der Name gut verständlich und klar einordenbar.",
+    "Wer einen zeitlosen, traditionellen Namen sucht, findet hier eher eine klassische als eine trendige Wirkung.",
+    "Kurzformen können den Namen alltagsnäher und moderner wirken lassen."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt vor allem aus Namenslexika und redaktionellen Vornamensseiten; das ist nur indirekte Resonanz und keine breite Meinungsumfrage.",
+    "Einzelne Hinweise auf Verwechslungs- oder Schreibthemen sollten nicht als allgemeine Abwertung gedeutet werden."
+  ],
+  "short_summary": "Friederike wirkt in der öffentlichen Rezeption klassisch, deutsch und traditionsbewusst, mit überwiegend neutral bis leicht positiver Tonlage. Der Name ist bekannt, aber eher selten.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.92,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Friederike � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/F/Fr/Friederike/"
+    },
+    {
+      "confidence": 0.95,
+      "is_name_discussion": true,
+      "sentiment": "mostly positive",
+      "source_type": "web",
+      "title": "&#9655; Vorname Friederike: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Friederike.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "traditionell",
+    "deutsch",
+    "eher selten",
+    "namenskundlich vertraut",
+    "eher elegant als modern",
+    "mit klarer historischer Anmutung"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland ist der Name bekannt, aber eher selten bis mäßig verbreitet. Er fällt dadurch auf, ohne stark modisch zu wirken."
+}

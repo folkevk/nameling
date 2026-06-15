@@ -1,0 +1,63 @@
+{
+  "associations": [
+    "griechisch/lateinische Herkunft",
+    "Bedeutungen wie „die Reine“ oder „die aus Hadria Stammende“",
+    "Namenstag",
+    "Varianten wie Ariane, Arianne, Arianna",
+    "kurze Spitznamen wie Ari oder Aria",
+    "Mythologie-Bezug",
+    "seltener bis moderat verbreiteter Vorname"
+  ],
+  "confidence": 0.84,
+  "display_text": "Ariana wirkt öffentlich überwiegend positiv bis neutral: ein wohlklingender, international verständlicher Mädchenname mit griechisch/lateinischen Wurzeln. In den Quellen wird er als eher selten bis moderat beliebt beschrieben, oft mit Bedeutungen wie „die Reine“ oder „die aus Hadria Stammende“ verbunden. Die Evidenz ist vor allem namenskundlich und daher eher beschreibend als ein direkter Stimmungsbarometer.",
+  "evidence_quality": "mittel bis gut; zwei klare Namensquellen, aber begrenzte echte öffentliche Diskussionsbreite",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Ariana",
+  "normalized_name": "ariana",
+  "overall_resonance": "Überwiegend positiv bis neutral; Ariana wird in den Quellen vor allem als klangvoller, internationaler und namenskundlich gut anschlussfähiger Vorname beschrieben.",
+  "practical_notes": [
+    "Für Suchmaschinen eignet sich Ariana als klar erkennbarer, international gut verständlicher Mädchenname.",
+    "Die Wahrnehmung dürfte stark von Klang und Namensbedeutung geprägt sein.",
+    "Wer Neutralität betonen will, kann den Namen als klassisch-international mit weichem Klang beschreiben."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt überwiegend aus Namenslexika und ist daher eher beschreibend als repräsentativ für echte öffentliche Meinung.",
+    "Positive Formulierungen wie „wohlklingend“ spiegeln Seitenbewertungen wider, nicht eine gesicherte Gesamtwahrnehmung.",
+    "Keine belastbaren Hinweise auf soziale Stigmatisierung in der vorliegenden Evidenz."
+  ],
+  "short_summary": "Ariana wird im deutschsprachigen Kontext meist positiv oder neutral wahrgenommen: ein klangvoller, internationaler Mädchenname mit griechisch/lateinischen Bezügen und Bedeutungen wie „die Reine“.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Ariana � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/A/Ar/Ariana/"
+    },
+    {
+      "confidence": 0.92,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Ariana: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Ariana.html"
+    }
+  ],
+  "style_effect": [
+    "wohlklingend",
+    "elegant",
+    "modern",
+    "international verständlich",
+    "namenskundlich aufgeladen",
+    "eher feminin",
+    "teilweise selten bis moderat beliebt"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Im deutschsprachigen Raum bekannt und moderat beliebt; die öffentliche Präsenz wirkt eher sachlich-informativ als breit meinungsgetrieben."
+}

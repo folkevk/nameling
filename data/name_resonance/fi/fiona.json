@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "keltisch/altirisch bzw. gälisch",
+    "Bedeutungen wie 'die Weiße', 'die Helle', 'die Reine'",
+    "weiblicher Vorname",
+    "im deutschen Sprachraum seit den 1970er Jahren bekannt",
+    "seit den 2000er Jahren besonders beliebt",
+    "auch im englischen Sprachraum verbreitet"
+  ],
+  "confidence": 0.87,
+  "display_text": "Fiona wirkt in der öffentlichen Wahrnehmung überwiegend positiv: ein klangvoller, moderner und zugleich traditionsnaher Mädchenname mit gälisch-keltischer Herkunft. In Deutschland ist er bekannt und seit Jahren etabliert, ohne auffällige negative Konnotationen in der vorliegenden Evidenz.",
+  "evidence_quality": "gut bis mittel: zwei direkte Namensquellen mit klarer positiver Tendenz; keine belastbare Umfrage, aber konsistente lexikalische Evidenz.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Fiona",
+  "normalized_name": "fiona",
+  "overall_resonance": "Fiona wird in der öffentlichen Namenswahrnehmung überwiegend positiv und freundlich aufgenommen. Der Name wirkt für viele Menschen klangvoll, modern und zugleich traditionsnah, mit klarer Verbindung zu keltisch-gälischen Wurzeln.",
+  "practical_notes": [
+    "Für eine Suchmaschine lässt sich Fiona als positiv besetzter, unkompliziert lesbarer Vorname darstellen.",
+    "Die Wirkung ist eher zeitlos als ausgefallen, mit leicht internationalem Charakter.",
+    "Keine Hinweise auf eine soziale Stigmatisierung in den vorliegenden Quellen."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Datenlage ist insgesamt gut, stammt aber vor allem aus Namenslexika und Übersichtsseiten; das spiegelt eher Namensbeschreibung als repräsentative Meinungsforschung.",
+    "Einzelne Quellen mischen Beschreibung, Beliebtheit und teils redaktionelle Kommentare; daraus lassen sich nur vorsichtige Schlussfolgerungen ziehen."
+  ],
+  "short_summary": "Fiona wird in Deutschland überwiegend freundlich und positiv wahrgenommen: klangvoll, weiblich, international verständlich und mit gälisch-keltischer Herkunft.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "Vorname Fiona � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/F/Fi/Fiona/"
+    },
+    {
+      "confidence": 0.95,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Fiona: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Fiona.html"
+    }
+  ],
+  "style_effect": [
+    "klangvoll",
+    "weiblich",
+    "modern",
+    "elegant",
+    "international verständlich",
+    "zugleich traditionell"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland ist Fiona gut bekannt und seit Jahrzehnten vergeben; die Evidenz deutet auf eine spürbare, eher positive Sichtbarkeit hin, teils auch durch Beliebtheit im jüngeren Zeitraum."
+}

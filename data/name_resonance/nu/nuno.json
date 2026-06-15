@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "portugiesischer bzw. portugiesisch-spanischer Jungenname",
+    "lateinische Herkunft",
+    "mögliche Bedeutungen wie „der Bote“ oder „der Neunte“",
+    "teils auch als „der Großvater“ überliefert",
+    "Namenstag am 1. April",
+    "in Deutschland eher selten bis moderat verbreitet"
+  ],
+  "confidence": 0.87,
+  "display_text": "Nuno wirkt in Deutschland eher selten, aber positiv und markant: ein kurzer, international geprägter Vorname mit sachlich-freundlicher Namensrezeption.",
+  "evidence_quality": "mittel: klare Namensdiskussion, aber nur wenige Quellen und teils unterschiedliche Deutungen",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Nuno",
+  "normalized_name": "nuno",
+  "overall_resonance": "Der Vorname Nuno wird in deutschen Namensquellen eher positiv bis neutral wahrgenommen: kurz, klanglich markant und mit klarer internationaler, oft portugiesisch/spanisch assoziierter Prägung. Die öffentliche Rezeption wirkt sachlich interessiert, nicht kontrovers.",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt Nuno ungewöhnlich, aber gut merkbar.",
+    "Die kurze Form macht den Namen unkompliziert und modern im Eindruck.",
+    "Die internationale Zuordnung kann je nach Umfeld sofort auffallen."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist begrenzt und stützt sich auf wenige Namenslexikon-Seiten.",
+    "Herkunft und Bedeutungsdeutungen werden teils unterschiedlich angegeben.",
+    "Aussagen zur Beliebtheit sind nur eingeschränkt verallgemeinerbar."
+  ],
+  "short_summary": "Nuno wird in deutschen Namensquellen überwiegend freundlich und sachlich beschrieben: kurz, international und eher selten.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.94,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Nuno � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/N/Nu/Nuno/"
+    },
+    {
+      "confidence": 0.9,
+      "is_name_discussion": true,
+      "sentiment": "mostly positive",
+      "source_type": "web",
+      "title": "&#9655; Vorname Nuno: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Nuno.html"
+    }
+  ],
+  "style_effect": [
+    "kurz und prägnant",
+    "leicht exotisch wirkend",
+    "international-portugiesisch geprägt",
+    "klanglich weich, zugleich markant",
+    "namenkundlich klar einordenbar"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland eher selten bis moderat sichtbar; als besonderer, aber nicht völlig unbekannter Name wahrgenommen."
+}

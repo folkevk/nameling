@@ -1,0 +1,68 @@
+{
+  "associations": [
+    "Kurzform von Gerhard/Gerharda",
+    "althochdeutsche Herkunft",
+    "Bedeutung rund um \"Speer\" bzw. \"stark/entschlossen\"",
+    "friesisch und niederländisch geprägt",
+    "in Deutschland überwiegend männlich, teils als geschlechtsneutral beschrieben",
+    "seltenere Namenswahl",
+    "gelegentlich mit Schreibvarianten wie Gerit oder Gerryt"
+  ],
+  "confidence": 0.91,
+  "display_text": "Gerrit wird meist neutral bis leicht positiv wahrgenommen: ein seltener, traditioneller Vorname mit friesisch-niederländischer Prägung und klarer, eher sachlicher Ausstrahlung.",
+  "evidence_quality": "gut für Etymologie, Herkunft und grobe Resonanz; eingeschränkt für eine breitere gesellschaftliche Bewertung, da die Quellenlage überwiegend lexikalisch ist.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Gerrit",
+  "normalized_name": "gerrit",
+  "overall_resonance": "Der Name Gerrit wirkt in der öffentlichen Namenswahrnehmung überwiegend sachlich, traditionell und eher nordisch-friesisch geprägt. Insgesamt ist die Resonanz neutral bis leicht positiv, mit Fokus auf Herkunft und Bedeutung statt auf modische Wirkung.",
+  "practical_notes": [
+    "Für Namenssuche und Einordnung ist Gerrit klar verständlich und gut belegbar.",
+    "Wer einen seltenen, traditionsnahen Namen mit nordisch-friesischem Klang sucht, findet hier eine passende Option.",
+    "Die Wahrnehmung ist eher nüchtern als trendig; der Name fällt mehr durch Eigenständigkeit als durch Modecharakter auf."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt fast ausschließlich aus Namenslexika und ähnlichen Vorname-Seiten; das ist für Herkunft und Bedeutung brauchbar, aber nur eingeschränkt repräsentativ für die allgemeine öffentliche Wahrnehmung.",
+    "Eine leicht positive Tönung einzelner Quellen sollte vorsichtig gelesen werden, da sie nicht auf breiter Umfragebasis beruht."
+  ],
+  "short_summary": "Gerrit wird überwiegend neutral bis leicht positiv wahrgenommen: ein seltener, traditioneller, friesisch-niederländisch geprägter Name mit klarer Herkunft und eher sachlicher Ausstrahlung.",
+  "source_count": 3,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Gerrit � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/G/Ge/Gerrit/"
+    },
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Gerrit � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/G/Ge/Gerrit/"
+    },
+    {
+      "confidence": 0.86,
+      "is_name_discussion": true,
+      "sentiment": "positive",
+      "source_type": "web",
+      "title": "&#9655; Vorname Gerrit: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Gerrit.html"
+    }
+  ],
+  "style_effect": [
+    "friesisch-niederländischer Klang",
+    "kurz, klar und traditionell",
+    "namenskundlich gut greifbar",
+    "eher sachlich als modern",
+    "durch Seltenheit etwas eigenständig"
+  ],
+  "usable_evidence_count": 3,
+  "visibility": "In Deutschland eher selten und dadurch auffälliger als sehr verbreitete Vornamen, aber nicht ungewöhnlich genug für starke Polarisierung."
+}

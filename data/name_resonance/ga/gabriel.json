@@ -1,0 +1,62 @@
+{
+  "associations": [
+    "hebräische Herkunft",
+    "biblischer Name",
+    "Erzengel Gabriel",
+    "Bedeutungen wie \"Mann Gottes\" oder \"Gott ist meine Stärke\"",
+    "Namenstag",
+    "beliebt",
+    "edler Vorname"
+  ],
+  "confidence": 0.95,
+  "display_text": "Gabriel gilt in Deutschland überwiegend als klassischer, zeitloser und positiv besetzter Vorname. Häufig genannt werden die hebräische Herkunft, der biblische Bezug und Assoziationen wie „Erzengel Gabriel“ oder „Mann Gottes“. Insgesamt wirkt der Name vertraut, edel und seriös – eher traditionell als ausgefallen.",
+  "evidence_quality": "hoch; die Evidenz ist name-spezifisch, konsistent und überwiegend positiv, stützt sich aber vor allem auf Namensportale und keine unabhängige Meinungsumfrage.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Gabriel",
+  "normalized_name": "gabriel",
+  "overall_resonance": "Überwiegend positiv und klassisch-zeitlos, mit klarer kulturell-religiöser Prägung.",
+  "practical_notes": [
+    "Für die öffentliche Namenswirkung ist Gabriel meist leicht verständlich und positiv konnotiert.",
+    "Der Name wird eher als klassisch und hochwertig wahrgenommen als als experimentell oder trendig.",
+    "In Deutschland ist er bekannt genug, um kaum erklärungsbedürftig zu sein."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die positiven Zuschreibungen stammen vor allem aus Namenslexika und Namensportalen; das ist hilfreich, aber keine repräsentative Bevölkerungsumfrage.",
+    "Religiöse oder biblische Assoziationen sind kulturell geprägt und nicht für alle gleich relevant."
+  ],
+  "short_summary": "Gabriel wird öffentlich meist als schöner, zeitloser und biblisch geprägter Vorname mit positiver Wirkung wahrgenommen.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "Vorname Gabriel � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/G/Ga/Gabriel/"
+    },
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Gabriel: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Gabriel.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "zeitlos",
+    "edel",
+    "vertraut",
+    "biblisch geprägt",
+    "seriös",
+    "modern genug, aber traditionell verankert"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Der Name ist im deutschsprachigen Raum gut bekannt und wirkt in der öffentlichen Wahrnehmung eher etabliert als selten."
+}

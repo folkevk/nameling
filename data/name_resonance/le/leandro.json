@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "altgriechische Herkunft",
+    "Form von Leandros/Leander",
+    "Bedeutung: „Mann des Volkes“",
+    "italienisch-spanisch-portugiesischer Klang",
+    "Namenstag 13. März",
+    "in Deutschland als beliebt beschrieben"
+  ],
+  "confidence": 0.83,
+  "display_text": "Leandro wirkt im Deutschen eher positiv, modern und international. Die verfügbaren Quellen beschreiben den Namen als beliebt, klangvoll und mit altgriechisch-mediterranem Hintergrund. Eine breite öffentliche Debatte ist nicht erkennbar; die Evidenz stammt vor allem aus Namenslexika.",
+  "evidence_quality": "Mittel: zwei einschlägige Namensquellen mit konsistenter, überwiegend positiver Darstellung; jedoch keine breite öffentliche Diskussionslage.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Leandro",
+  "normalized_name": "leandro",
+  "overall_resonance": "Eher positiv und modern, mit klar namenskundlichem Profil.",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt Leandro vertraut und gut anschlussfähig.",
+    "Der Name ist gut aussprechbar und international verständlich.",
+    "Die öffentliche Wahrnehmung scheint eher stilvoll und positiv als problematisch.",
+    "Für eine endgültige Einordnung wären breitere, aktuelle Daten zur Namensnutzung hilfreich."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist begrenzt und stammt fast ausschließlich aus Namenslexikon-Seiten.",
+    "Es gibt keine breite öffentliche Debatte oder belastbare Hinweise auf starke soziale Zuschreibungen.",
+    "Beliebtheitsaussagen sollten als Einschätzung der Quellen, nicht als umfassendes Meinungsbild gelesen werden."
+  ],
+  "short_summary": "Leandro wird im deutschsprachigen Raum meist freundlich, modern und international wahrgenommen. Die Quellen beschreiben den Namen als beliebt und bedeutungsvoll, ohne klare Kontroversen; die Evidenz ist aber eher lexikalisch als öffentlich debattiert.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Leandro � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/L/Le/Leandro/"
+    },
+    {
+      "confidence": 0.89,
+      "is_name_discussion": true,
+      "sentiment": "überwiegend positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Leandro: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Leandro.html"
+    }
+  ],
+  "style_effect": [
+    "klingt international und freundlich",
+    "wirkt weich, melodisch und zeitgemäß",
+    "hat einen mediterranen Einschlag",
+    "wird oft als informativ-positiv beschrieben",
+    "erscheint eher beliebt als auffällig kontrovers"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Im deutschsprachigen Raum sichtbar und als Vorname bekannt; die vorliegende Evidenz deutet auf eine gewisse Beliebtheit hin, ist aber vor allem auf Namenslexikon-Seiten gestützt."
+}

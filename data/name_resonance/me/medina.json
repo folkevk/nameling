@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "arabische Herkunft",
+    "Bedeutung rund um „die Stadt“ bzw. „die erleuchtete Stadt“",
+    "Bezug zur Stadt Medina und islamischer Geschichte",
+    "weiblicher Vorname",
+    "Namenstag/namenskundliche Einordnung",
+    "Varianten und Kurzformen wie Madina, Medine, Dina, Mina"
+  ],
+  "confidence": 0.92,
+  "display_text": "Medina wirkt in Deutschland überwiegend sachlich bis leicht positiv: ein klangvoller weiblicher Vorname mit klarer arabisch-kultureller Herkunft und Bezug zur Stadt Medina. Die vorliegende Evidenz ist gut für Bedeutung und Einordnung, aber begrenzt für eine breite öffentliche Debatte.",
+  "evidence_quality": "Gut für Namensbedeutung und Herkunft, aber begrenzt für die öffentliche Alltagsrezeption; die Quellen sind überwiegend lexikalisch.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Medina",
+  "normalized_name": "medina",
+  "overall_resonance": "Überwiegend sachlich bis leicht positiv. Medina wird in den vorliegenden Namensquellen vor allem als klangvoller weiblicher Vorname mit klarer Herkunfts- und Bedeutungsangabe dargestellt.",
+  "practical_notes": [
+    "Für eine Namenssuche ist Medina gut einordbar und leicht erklärbar.",
+    "Der Name wirkt eher markant und kulturell anschlussfähig als neutral-unauffällig.",
+    "Wenn eine möglichst alltagsneutrale Wirkung gewünscht ist, sollte der starke Kulturbezug mitbedacht werden."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt fast nur aus Namenslexika, nicht aus einer breiten öffentlichen Debatte.",
+    "Der religiös-geografische Bezug kann je nach Kontext unterschiedlich wahrgenommen werden.",
+    "Es gibt keine belastbare Grundlage für starke gesellschaftliche Zuschreibungen; sichtbare Stigmatisierung ist in den Quellen nicht erkennbar."
+  ],
+  "short_summary": "Medina wird in den Quellen als klangvoller, weiblicher Vorname mit arabisch-kulturellem und religiös-geografischem Bezug beschrieben; die Resonanz ist sachlich bis leicht positiv.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Medina � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/M/Me/Medina/"
+    },
+    {
+      "confidence": 0.91,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Medina: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Medina.html"
+    }
+  ],
+  "style_effect": [
+    "weiblich",
+    "klangvoll",
+    "international",
+    "informativ",
+    "kulturell geprägt",
+    "selten bis moderat gebräuchlich"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland wirkt der Name eher bekannt als alltäglich; die Quellen verweisen auf eine vorhandene, aber nicht sehr breite Nutzung. Die öffentliche Sicht ist vor allem namenskundlich statt debattiert."
+}

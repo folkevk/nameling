@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "Kurzform von Elisabeth",
+    "biblisch/hebräische Bedeutungsdeutungen",
+    "historische Nutzung in Deutschland",
+    "wiederentdeckt, aber selten",
+    "auch in Skandinavien und den Niederlanden bekannt",
+    "teilweise als edel oder königlich beschrieben"
+  ],
+  "confidence": 0.86,
+  "display_text": "Else: eher neutral bis leicht positiv wahrgenommen. Der Name gilt als kurz, klassisch und historisch, heute eher selten, aber wiederentdeckt. Öffentliche Assoziationen reichen von der Kurzform von Elisabeth bis zu einer leicht edlen, traditionsnahen Wirkung. Die Evidenz ist ordentlich, aber begrenzt, daher vorsichtig zu lesen.",
+  "evidence_quality": "mittel bis gut: zwei einschlägige Namensseiten mit klarer Namensdiskussion, aber nur begrenzte öffentliche Resonanzdaten.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Else",
+  "normalized_name": "else",
+  "overall_resonance": "Eher neutral bis leicht positiv: Else wird in der öffentlichen Namenswahrnehmung vor allem als kurzer, traditioneller und historisch verankerter Mädchenname beschrieben, der heute wieder etwas entdeckt, aber insgesamt selten ist.",
+  "practical_notes": [
+    "Für die Namenssuche wirkt Else unkompliziert, klar und gut merkbar.",
+    "Der Name hat einen historischen Klang und passt eher zu einem klassischen als zu einem trendigen Stil.",
+    "Wegen der Seltenheit kann der Name als charaktervoll, aber auch ungewohnt empfunden werden."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist begrenzt und stützt sich vor allem auf Namenslexika und wenige Online-Kommentare.",
+    "Bedeutungsangaben variieren leicht; sie sollten vorsichtig gelesen werden.",
+    "Positive Stilzuschreibungen wie 'edel' oder 'königlich' sind subjektive Wahrnehmungen, keine objektiven Eigenschaften."
+  ],
+  "short_summary": "Else wird meist als kurzer, traditioneller und seltener Mädchenname wahrgenommen – eher klassisch als modern, mit leicht edler Ausstrahlung.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.99,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Else � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/E/El/Else/"
+    },
+    {
+      "confidence": 0.89,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Else: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Else.html"
+    }
+  ],
+  "style_effect": [
+    "kurz und klassisch",
+    "traditionell-historisch",
+    "eher selten",
+    "leicht edel/altmodisch empfunden",
+    "namenkundlich klar einordenbar"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Im deutschsprachigen Raum bekannt, aber nicht sehr verbreitet; die Sichtbarkeit wirkt eher nostalgisch als modisch."
+}

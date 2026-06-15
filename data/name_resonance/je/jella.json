@@ -1,0 +1,58 @@
+{
+  "associations": [
+    "friesische Kurzformbezüge",
+    "Gertrud bzw. Gabriela als mögliche Herkunftslinien",
+    "Bedeutungen wie 'starke Frau mit Speer' bzw. 'Heldin Gottes'",
+    "Namenstag",
+    "selten bis mäßig bekannt"
+  ],
+  "confidence": 0.76,
+  "display_text": "Jella: überwiegend positiv bis neutral wahrgenommen, selten bis mäßig bekannt und vor allem als friesisch/namenskundlich geprägter Vorname eingeordnet. Die Evidenz ist jedoch vor allem lexikalisch, daher nur eingeschränkt aussagekräftig für die echte öffentliche Resonanz.",
+  "evidence_quality": "mittel bis schwach; überwiegend lexikalische Quellen mit wenig direkter öffentlicher Meinungsbildung",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Jella",
+  "normalized_name": "jella",
+  "overall_resonance": "Jella wird in den vorliegenden Quellen überwiegend als seltener, norddeutsch/friesisch wirkender Vorname mit positiver bis neutraler Grundwahrnehmung beschrieben. Die öffentliche Resonanz erscheint eher informativ als emotional aufgeladen.",
+  "practical_notes": [
+    "Für die Namenssuche eignet sich Jella als kurzer, klarer und eher ungewöhnlicher Name.",
+    "Die Quellen deuten auf eine positive, sachliche Einordnung ohne starke negative Nebenbedeutungen hin.",
+    "Wegen der geringen Verbreitung kann der Name auffallen, ohne exotisch zu wirken."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt fast ausschließlich aus Namenslexika und Datenbanken, nicht aus einer freien öffentlichen Debatte.",
+    "Aussagen zur Resonanz sind daher nur eingeschränkt belastbar.",
+    "Beliebtheit und Herkunft sind besser belegt als echte Alltagswahrnehmung oder soziale Konnotationen."
+  ],
+  "short_summary": "Jella wird in den Quellen meist als seltener, friesisch geprägter Vorname mit sachlich bis positivem Klang beschrieben. Die öffentliche Resonanz wirkt eher informativ als kontrovers.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "Vorname Jella � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/J/Je/Jella/"
+    },
+    {
+      "confidence": 0.94,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Jella: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Jella.html"
+    }
+  ],
+  "style_effect": [
+    "weich und freundlich",
+    "norddeutsch/friesisch geprägt",
+    "kurz, modern wirkend",
+    "namenskundlich auffällig durch klare Herkunftsbezüge"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Der Name wirkt in Deutschland eher selten bis mäßig bekannt und hat deshalb eine gewisse Wiedererkennbarkeit, aber keine breite Alltagspräsenz."
+}

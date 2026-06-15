@@ -1,0 +1,64 @@
+{
+  "associations": [
+    "männlicher Vorname",
+    "Kurzform von Franziskus/Francesco",
+    "Bedeutung: kleiner Franzose bzw. Bezug zu den Franken",
+    "Namenstag",
+    "traditionell",
+    "klassisch",
+    "in Deutschland historisch beliebt",
+    "heute weiterhin vergeben",
+    "teilweise als altmodisch beschrieben"
+  ],
+  "confidence": 0.9,
+  "display_text": "Franz: klassisch, traditionell und gut etabliert. Die öffentliche Wahrnehmung ist überwiegend sachlich bis positiv; gelegentlich wird der Name als etwas altmodisch beschrieben.",
+  "evidence_quality": "gut: zwei einschlägige, namenskundliche Webquellen mit überwiegend sachlicher, teils kommentierender Bewertung",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Franz",
+  "normalized_name": "franz",
+  "overall_resonance": "Der Vorname Franz wirkt in Deutschland insgesamt klassisch, traditionell und klar deutschsprachig geprägt. Die öffentliche Wahrnehmung ist eher sachlich bis positiv, mit einer leichten Spannung zwischen „zeitlos“ und „etwas altmodisch“.",
+  "practical_notes": [
+    "Für eine Namenssuche ist Franz gut als klassischer, bodenständiger und sehr gut verständlicher Name einzuordnen.",
+    "Die Resonanz ist eher stabil als trendgetrieben.",
+    "Wer einen traditionellen, kurzen und klaren Vornamen sucht, findet hier meist eine positive bis neutrale öffentliche Wahrnehmung."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt vor allem aus Namensportalen mit redaktionellem Charakter; das ist nützlich, aber keine breite Meinungsumfrage.",
+    "Die Einordnung „altmodisch“ ist eine wahrnehmbare Stilassoziation, keine objektive Eigenschaft des Namens.",
+    "Keine Hinweise auf relevante soziale Stigmatisierung in der vorliegenden Evidenz."
+  ],
+  "short_summary": "Franz wird in der öffentlichen Wahrnehmung meist als klassischer, traditioneller und seriöser Vorname gesehen; gelegentlich wirkt er etwas altmodisch, insgesamt aber eher positiv und gut etabliert.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Franz � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/F/Fr/Franz/"
+    },
+    {
+      "confidence": 0.92,
+      "is_name_discussion": true,
+      "sentiment": "mixed",
+      "source_type": "web",
+      "title": "&#9655; Vorname Franz: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Franz.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "traditionell",
+    "historisch verankert",
+    "kurz und markant",
+    "eher seriös als verspielt",
+    "teils als altmodisch wahrgenommen"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "hoch"
+}

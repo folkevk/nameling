@@ -1,0 +1,70 @@
+{
+  "associations": [
+    "weiblicher Vorname",
+    "auch als Unisex bzw. in Italien teils männlich beschrieben",
+    "hebräische Deutung: \"Gott hat erhört\"",
+    "altgriechische Deutung: \"flachnasig\" bzw. \"stupsnasig\"",
+    "historisch in Deutschland populär",
+    "heute eher rückläufig",
+    "mit mehreren Spitznamen verbunden, z. B. Moni oder Simi"
+  ],
+  "confidence": 0.87,
+  "display_text": "Simone wirkt in Deutschland als klassischer, gut bekannter Vorname mit neutraler bis leicht nostalgischer Ausstrahlung. Die vorliegenden Quellen beschreiben den Namen vor allem als historisch populär, heute aber eher rückläufig. Öffentliche Resonanz: eher ruhig, etabliert und nicht stark trendgetrieben.",
+  "evidence_quality": "mittel bis gut: mehrere einschlägige Namensquellen, aber wenig direkte Evidenz zur aktuellen öffentlichen Alltagsresonanz",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Simone",
+  "normalized_name": "simone",
+  "overall_resonance": "Simone wirkt im deutschsprachigen Raum vor allem als klassischer, gut bekannter Vorname mit neutraler bis leicht nostalgischer Anmutung. Die verfügbare Evidenz beschreibt den Namen eher lexikalisch als im Sinne aktueller öffentlicher Debatten; die heutige Resonanz scheint daher eher zurückhaltend und nicht stark trendgeladen.",
+  "practical_notes": [
+    "Für die Namenssuche ist Simone ein gut verständlicher, etablierter Name mit klarer historischer Verankerung.",
+    "Wer einen sehr modernen oder seltenen Namen sucht, könnte Simone eher als klassisch als trendig wahrnehmen.",
+    "Die Quellen nennen unterschiedliche kulturelle und sprachliche Bezüge; das spricht für eine vielseitige, nicht eindeutig festgelegte Namenswahrnehmung."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz zur aktuellen gesellschaftlichen Wahrnehmung ist begrenzt und stammt überwiegend aus Namenslexika.",
+    "Keine Hinweise auf starke Stigmatisierung oder klare Trendkonflikte in den vorliegenden Quellen.",
+    "Geschlechtszuordnung und Herkunft werden je nach Quelle leicht unterschiedlich beschrieben; das ist bei diesem Namen normal und sollte nicht überinterpretiert werden."
+  ],
+  "short_summary": "Simone ist in Deutschland ein bekannter, klassischer Vorname mit neutraler bis leicht nostalgischer Wirkung. Die Quellen betonen Herkunft und Bedeutung, beschreiben den Namen aber als historisch beliebt und heute eher rückläufig.",
+  "source_count": 3,
+  "sources": [
+    {
+      "confidence": 0.99,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Simone � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/S/Si/Simone/"
+    },
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Simone � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/S/Si/Simone/"
+    },
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Simone: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Simone.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "zeitlos",
+    "leicht nostalgisch",
+    "seriös",
+    "eher unaufgeregt",
+    "namenskundlich geläufig"
+  ],
+  "usable_evidence_count": 3,
+  "visibility": "Der Name ist in Deutschland bekannt und historisch etabliert, wird in den Quellen aber eher als früher populär und heute deutlich rückläufig beschrieben. Öffentliche Sichtbarkeit ist damit vorhanden, jedoch eher nicht als moderner Modename."
+}

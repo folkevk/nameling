@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "skandinavische Kurzform von Sigrid",
+    "altnordische Herkunft",
+    "Bedeutung etwa „der schöne Sieg“ / „die Siegreiche und Schöne“",
+    "weiblicher Vorname",
+    "selten in Deutschland",
+    "Apple-Spracherkennung/Siri",
+    "traditionell nordisch"
+  ],
+  "confidence": 0.84,
+  "display_text": "Siri wirkt in Deutschland eher selten, skandinavisch und klanglich freundlich. Der Name wird meist mit einer schönen, nordischen Herkunft verbunden, kann aber durch die starke Apple-Assoziation auch gemischt wahrgenommen werden.",
+  "evidence_quality": "mittel: Die Quellen beschreiben den Namen selbst gut, aber die tatsächliche öffentliche Resonanz in Deutschland ist nur indirekt und teilweise kommentarbasiert belegt.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Siri",
+  "normalized_name": "siri",
+  "overall_resonance": "Vorsichtig überwiegend positiv bis gemischt: Siri wird öffentlich vor allem als kurzer, skandinavisch geprägter Mädchenname mit schöner Bedeutung wahrgenommen, zugleich kann die starke Assoziation mit Apples Sprachassistenten die Wahrnehmung überlagern.",
+  "practical_notes": [
+    "Für Suchmaschinen und Namenslisten wirkt Siri meist klar, freundlich und skandinavisch.",
+    "Wer den Namen in Deutschland wählt, sollte mit Nachfragen oder spontanen Tech-Assoziationen rechnen.",
+    "Durch die Kürze ist der Name gut merkbar, aber auch stark kontextabhängig in der Wirkung."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die öffentliche Wahrnehmung kann durch den Apple-Assistenten deutlich beeinflusst werden.",
+    "Die Evidenz zur Rezeption im deutschen Raum ist begrenzt; vieles stammt aus namenkundlichen/lexikalischen Beschreibungen und nicht aus breiter Bevölkerungswahrnehmung."
+  ],
+  "short_summary": "Siri ist in Deutschland ein seltener, nordisch wirkender Mädchenname mit positiver Bedeutung, dessen Wahrnehmung jedoch oft durch die Apple-Assoziation mitgeprägt wird.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.88,
+      "is_name_discussion": true,
+      "sentiment": "mixed",
+      "source_type": "web",
+      "title": "Vorname Siri � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/S/Si/Siri/"
+    },
+    {
+      "confidence": 0.89,
+      "is_name_discussion": true,
+      "sentiment": "gemischt",
+      "source_type": "web",
+      "title": "&#9655; Vorname Siri: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Siri.html"
+    }
+  ],
+  "style_effect": [
+    "kurz",
+    "weich-klingend",
+    "nordisch",
+    "modern durch Popkulturbezug",
+    "namenskundlich interessant",
+    "selten und dadurch einprägsam"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland eher selten und dadurch auffällig; die Bekanntheit entsteht weniger durch Verbreitung als durch die markante Form und die digitale Namensassoziation."
+}

@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "althochdeutsche Herkunft",
+    "Bedeutung: wagemutig / kühn im Kampf",
+    "alter deutscher Jungenname",
+    "selten im deutschsprachigen Raum",
+    "Bezug zu germanischer Sage und Nibelungenstoff",
+    "Namenstag am 26. Oktober"
+  ],
+  "confidence": 0.84,
+  "display_text": "Wieland wirkt in den Quellen traditionell, markant und selten. Die Resonanz ist überwiegend sachlich-neutral bis leicht positiv, mit Bezügen zu althochdeutscher Herkunft, Kampfesbedeutung und Sagenstoff. Die Evidenz ist jedoch begrenzt und vor allem lexikalisch statt breit öffentlich.",
+  "evidence_quality": "mittel bis schwach: überwiegend lexikalische Namensseiten, kaum breite öffentliche Resonanz",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Wieland",
+  "normalized_name": "wieland",
+  "overall_resonance": "Wieland wird in den vorliegenden Namensquellen überwiegend als traditionsreicher, alter deutscher Jungenname mit eher sachlich-neutraler bis leicht positiver Resonanz dargestellt. Der Name wirkt durch seine althochdeutsche Herkunft, die Bedeutung im Sinn von Mut/Kampfgeist und den literarisch-mythologischen Bezug markant und eher selten.",
+  "practical_notes": [
+    "Für Suchende wirkt der Name traditionell und eigenständig.",
+    "Die Kürze und historische Anmutung können als charakterstark empfunden werden.",
+    "Wegen der Seltenheit dürfte der Name eher auffallen als alltäglich wirken."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist begrenzt und stammt fast ausschließlich aus Namenslexika statt aus breiter öffentlicher Diskussion.",
+    "Die positive Wirkung einzelner Quellen sollte nicht als allgemeine Mehrheitsmeinung überbewertet werden.",
+    "Es gibt keinen Hinweis auf soziale Stigmatisierung in den vorliegenden Quellen."
+  ],
+  "short_summary": "Wieland wird als seltener, traditionsreicher deutscher Vorname mit neutral bis leicht positiver Resonanz beschrieben.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Wieland � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/W/Wi/Wieland/"
+    },
+    {
+      "confidence": 0.91,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Wieland: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Wieland.html"
+    }
+  ],
+  "style_effect": [
+    "traditionell",
+    "eher feierlich",
+    "klassisch-deutsch",
+    "markant",
+    "selten",
+    "lexikalisch geerdet"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Im deutschsprachigen Raum wirkt Wieland eher selten und dadurch auffälliger als sehr gebräuchliche Namen. Die öffentliche Wahrnehmung in den Quellen ist vor allem namenskundlich und beschreibend, nicht massenhaft diskutierend."
+}

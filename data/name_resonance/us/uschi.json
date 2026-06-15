@@ -1,0 +1,59 @@
+{
+  "associations": [
+    "Koseform von Ursula",
+    "lateinischer Ursprung",
+    "Bedeutung: kleine Bärin",
+    "selten in Deutschland",
+    "Namenstag",
+    "Spitzname/Kosename"
+  ],
+  "confidence": 0.79,
+  "display_text": "Uschi wirkt in der öffentlichen Wahrnehmung überwiegend neutral bis leicht positiv. Der Name wird vor allem als seltene, traditionelle Koseform von Ursula mit der Bedeutung „kleine Bärin“ beschrieben. Die Evidenz ist jedoch begrenzt und stammt größtenteils aus Namenslexika und einzelnen Kommentaren.",
+  "evidence_quality": "mittel bis schwach; überwiegend Namenslexika, wenig breit angelegte öffentliche Resonanz",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Uschi",
+  "normalized_name": "uschi",
+  "overall_resonance": "Überwiegend neutral bis leicht positiv, mit traditioneller und eher altbekannter Wahrnehmung.",
+  "practical_notes": [
+    "Für Suchmaschinen-Nutzung eignet sich eine kurze Einordnung wie: traditionell, selten und als Koseform von Ursula bekannt.",
+    "Die Wirkung kann je nach Kontext zwischen nostalgisch und schlicht-neutral variieren."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz für breite öffentliche Resonanz ist schwach und stark von wenigen Namensseiten geprägt.",
+    "Einzelne negative Kommentare sollten nicht als allgemeine Meinung über den Namen verstanden werden.",
+    "Es gibt keine belastbaren Hinweise auf eine starke gesellschaftliche Stigmatisierung; falls Kritik vorkommt, wirkt sie eher geschmacksbezogen."
+  ],
+  "short_summary": "Uschi wird meist als seltene, traditionelle Koseform von Ursula wahrgenommen. Die öffentliche Resonanz wirkt eher neutral bis leicht positiv, ist aber aufgrund der begrenzten Evidenz nur vorsichtig zu bewerten.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Uschi � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/U/Us/Uschi/"
+    },
+    {
+      "confidence": 0.78,
+      "is_name_discussion": true,
+      "sentiment": "überwiegend positiv, mit einzelnen negativen Nutzerkommentaren",
+      "source_type": "web",
+      "title": "&#9655; Vorname Uschi: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Uschi.html"
+    }
+  ],
+  "style_effect": [
+    "Koseform und vertraut",
+    "traditionell",
+    "altbekannt",
+    "informativ/namenskundlich",
+    "eher kurz und umgangssprachlich"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland scheint der Name eher selten und daher wenig präsent zu sein. Die öffentliche Wahrnehmung ergibt sich vor allem aus Namenslexika und einzelnen Kommentarbereichen, also aus begrenzter Evidenz."
+}

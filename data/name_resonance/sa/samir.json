@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "arabische Herkunft",
+    "teilweise auch andere hergeleitete Herkunftsdeutungen in Namensquellen",
+    "Bedeutung im Sinn von Gesprächspartner/Unterhalter",
+    "abendliche Brise oder leichte Brise als poetische Deutung",
+    "bekannter männlicher Vorname",
+    "Namen mit internationalem Charakter"
+  ],
+  "confidence": 0.79,
+  "display_text": "Samir wirkt in Deutschland bekannt, klangvoll und überwiegend positiv besetzt. Die vorliegenden Quellen betonen vor allem Herkunft, Bedeutung und einen freundlichen, internationalen Eindruck. Die Evidenz ist jedoch eher namenkundlich als breit öffentlich.",
+  "evidence_quality": "mittel: mehrere einschlägige Namensquellen, aber wenig breite Alltags- oder Diskussionsresonanz",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Samir",
+  "normalized_name": "samir",
+  "overall_resonance": "Der Vorname Samir wird in den vorliegenden Quellen überwiegend positiv bis sachlich-neutral beschrieben. Die öffentliche Wahrnehmung wirkt eher wertschätzend, mit Fokus auf Bedeutung, Herkunft und Klang, ohne erkennbar starke Kontroversen.",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt Samir klar verständlich, klassisch und international anschlussfähig.",
+    "Die Schreibweise ist einfach und die Aussprache im Deutschen meist unproblematisch.",
+    "Der Name trägt eine eher freundliche, ruhige und kulturell offene Anmutung."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Datenlage ist eher schmal und stammt vor allem aus Namenslexika, daher nur vorsichtig auf öffentliche Resonanz schließbar.",
+    "Keine belastbaren Hinweise auf negative Stigmatisierung in den vorliegenden Quellen.",
+    "Einzelne Bedeutungs- und Herkunftsangaben können je nach Quelle variieren."
+  ],
+  "short_summary": "Samir wird in den verfügbaren Quellen überwiegend positiv und sachlich beschrieben. Der Name gilt als international, klangvoll und bedeutungsstark, bei insgesamt begrenzter öffentlicher Evidenz.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "Vorname Samir � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/S/Sa/Samir/"
+    },
+    {
+      "confidence": 0.72,
+      "is_name_discussion": true,
+      "sentiment": "neutral-positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Samir: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Samir.html"
+    }
+  ],
+  "style_effect": [
+    "informativ",
+    "warm im Klang",
+    "international",
+    "lexikalisch",
+    "eher modern wirkend",
+    "sachlich-bewertungsneutral"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland ist der Name sichtbar und bekannt, wirkt aber nach den vorliegenden Hinweisen eher als etablierter, nicht übermäßig häufiger Vorname. Die Evidenz zur breiten öffentlichen Resonanz ist begrenzt, da vor allem Namenslexika und einzelne Namensseiten vorliegen."
+}

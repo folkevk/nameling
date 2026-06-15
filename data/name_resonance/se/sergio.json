@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "italienische und spanische Namensform",
+    "männlicher Vorname",
+    "etymologische Herkunft",
+    "Namenslexikon und Bedeutung",
+    "Namenstag",
+    "international verbreitet"
+  ],
+  "confidence": 0.72,
+  "display_text": "Sergio: im deutschen Kontext eher international, sachlich und leicht positiv besetzt. Die Quellen sprechen vor allem über Herkunft, Bedeutung und Namenstag; eine starke öffentliche Debatte ist nicht erkennbar.",
+  "evidence_quality": "mittel bis schwach: klare Namensdiskussion vorhanden, aber überwiegend lexikalische Quellen und kaum direkte öffentliche Resonanzdaten.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Sergio",
+  "normalized_name": "sergio",
+  "overall_resonance": "Sergio wirkt im deutschen Kontext eher international, sachlich und leicht positiv besetzt. Die vorhandene Evidenz zeigt vor allem namenskundliche Einordnungen, keine starke öffentliche Debatte.",
+  "practical_notes": [
+    "Für die öffentliche Wahrnehmung ist Sergio eher ein klarer, internationaler Name mit sachlicher Wirkung.",
+    "In Deutschland dürfte der Name eher als vertraut, aber nicht alltäglich wahrgenommen werden.",
+    "Die vorliegende Evidenz erlaubt nur eine vorsichtige Einschätzung, keine harte Bewertung."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt überwiegend aus Namensdatenbanken und nicht aus breiten öffentlichen Meinungsquellen.",
+    "Es gibt keine belastbare Hinweise auf starke Stigmatisierung oder auf eine ausgeprägte Trend- bzw. Image-Debatte.",
+    "Positive Töne sollten als leichte Tendenz und nicht als allgemeiner Konsens gelesen werden."
+  ],
+  "short_summary": "Sergio wird im deutschen Kontext meist als internationaler, sachlicher Jungenname mit leicht positiver Wirkung wahrgenommen. Die Evidenz ist jedoch begrenzt und stammt vor allem aus Namensdatenbanken.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Sergio � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/S/Se/Sergio/"
+    },
+    {
+      "confidence": 0.74,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Sergio: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Sergio.html"
+    }
+  ],
+  "style_effect": [
+    "international",
+    "klassisch-mediterran",
+    "lexikalisch",
+    "sachlich",
+    "leicht positiv wahrgenommen"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Im deutschen Sprachraum eher bekannt als internationaler Jungenname, aber keine breite Alltagspräsenz oder stark ausgeprägte öffentliche Resonanz erkennbar. Die Datenlage ist dabei begrenzt und vor allem aus Namenslexika abgeleitet."
+}

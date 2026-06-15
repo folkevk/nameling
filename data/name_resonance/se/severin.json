@@ -1,0 +1,69 @@
+{
+  "associations": [
+    "lateinischer Ursprung",
+    "Bedeutung wird oft mit streng, ernsthaft oder gewissenhaft verbunden",
+    "mögliche slawische Herleitung bzw. kulturelle Verbindungen",
+    "Namenstag",
+    "historisch durch kirchliche und traditionelle Kontexte präsent",
+    "selten bis eher wenig gebräuchlich in Deutschland"
+  ],
+  "confidence": 0.93,
+  "display_text": "Severin wirkt öffentlich überwiegend klassisch-traditionell und eher selten. Der Name wird meist sachlich, seriös und historisch verankert beschrieben, mit leicht positiver Tönung durch seine klare, traditionsreiche Ausstrahlung.",
+  "evidence_quality": "hoch: mehrere namenkundliche Webquellen mit konsistenter, überwiegend neutraler bis leicht positiver Beschreibung.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Severin",
+  "normalized_name": "severin",
+  "overall_resonance": "Überwiegend sachlich-traditionell mit leicht positiver Konnotation. Severin wirkt im öffentlichen Namensbild eher klassisch, seriös und historisch verankert als modern oder modisch.",
+  "practical_notes": [
+    "Für eine Namenssuche eignet sich Severin besonders, wenn ein klassischer und klarer Vorname mit historischer Tiefe gesucht wird.",
+    "Die eher seltene Verbreitung kann ihn eigenständig wirken lassen.",
+    "Je nach Umfeld kann der Name als ernst und traditionell gelesen werden."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die genannten Bedeutungen sind namenkundliche Deutungen, keine Eigenschaften von Personen.",
+    "Es gibt keine starke öffentliche Kontroverse oder soziale Stigmatisierung in der Evidenz.",
+    "Die Wahrnehmung beruht überwiegend auf Namenslexika und beschreibenden Quellen, nicht auf breiter Meinungsdebatte."
+  ],
+  "short_summary": "Severin wird in Deutschland meist als klassischer, seltener und traditionsreicher Vorname wahrgenommen – sachlich, seriös und eher leicht positiv als auffällig.",
+  "source_count": 3,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Severin � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/S/Se/Severin/"
+    },
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Severin � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/S/Se/Severin/"
+    },
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Severin: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Severin.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "ernsthaft",
+    "gewissenhaft",
+    "traditionell",
+    "historisch",
+    "eher selten"
+  ],
+  "usable_evidence_count": 3,
+  "visibility": "In Deutschland bekannt, aber eher nicht häufig; dadurch wirkt der Name markant und zugleich unaufgeregt."
+}

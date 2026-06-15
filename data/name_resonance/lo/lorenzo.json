@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "italienische/spanische Form von Laurentius",
+    "lateinischer Ursprung",
+    "Bedeutung rund um Laurentum und den Lorbeer",
+    "Namenstag",
+    "beliebter Vorname in Deutschland",
+    "Kurzformen: Enzo, Renzo",
+    "positiver, bekannter Klang"
+  ],
+  "confidence": 0.84,
+  "display_text": "Lorenzo wirkt in Deutschland überwiegend neutral bis leicht positiv: ein international und italienisch klingender Name mit klassischem lateinischem Ursprung und angenehmem Klang. Die vorliegende Evidenz ist eher lexikalisch als diskussionsbasiert, daher ist die öffentliche Resonanz nur eingeschränkt belegbar.",
+  "evidence_quality": "mittel bis schwach: zwei überwiegend lexikalische Webquellen, klare Namensbeschreibung, aber nur begrenzte echte Resonanzdaten",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Lorenzo",
+  "normalized_name": "lorenzo",
+  "overall_resonance": "Überwiegend neutral bis leicht positiv, vor allem sachlich-namenskundlich geprägt. Die öffentliche Wahrnehmung wirkt eher über Herkunft, Klang und Bedeutung vermittelt als über starke emotionale oder soziale Bewertungen.",
+  "practical_notes": [
+    "Für Suchmaschinen-Nutzer wirkt der Name gut einordbar: Herkunft und Bedeutung sind leicht auffindbar.",
+    "Die Wahrnehmung ist eher kulturell und stilistisch als kontrovers.",
+    "Im deutschen Kontext dürfte Lorenzo als international, aber verständlich wahrgenommen werden."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt überwiegend aus Namensdatenbanken und Lexika, nicht aus freier öffentlicher Diskussion.",
+    "Negative Einzelstimmen sind in den Quellen nicht dominant und teils eher personengebunden als namensbezogen.",
+    "Keine belastbare soziale Stigmatisierung erkennbar; ein Vorurteil sollte daraus nicht abgeleitet werden."
+  ],
+  "short_summary": "Lorenzo wird im deutschen Kontext meist sachlich und leicht positiv wahrgenommen: international, italienisch klingend, mit klassischem lateinischem Ursprung und angenehmem Klang. Starke Kontroversen oder Stigmatisierungen sind in der vorliegenden Evidenz nicht erkennbar.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.94,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Lorenzo � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/L/Lo/Lorenzo/"
+    },
+    {
+      "confidence": 0.91,
+      "is_name_discussion": true,
+      "sentiment": "mixed",
+      "source_type": "web",
+      "title": "&#9655; Vorname Lorenzo: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Lorenzo.html"
+    }
+  ],
+  "style_effect": [
+    "italienisch und international klingend",
+    "klassisch-traditionell durch den lateinischen Ursprung",
+    "weich und melodisch im Klang",
+    "leicht elegant und modern wirkend",
+    "kurze Formen wie Enzo oder Renzo verstärken die Alltagstauglichkeit"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Der Name ist in deutschsprachigen Namenslexika sichtbar und bekannt, die Evidenz zur echten öffentlichen Resonanz ist jedoch eher schwach bis mittel, da vor allem beschreibende Quellen vorliegen."
+}

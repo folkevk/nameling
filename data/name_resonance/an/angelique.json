@@ -1,0 +1,59 @@
+{
+  "associations": [
+    "französische bzw. niederländische Namensform",
+    "altgriechische Herkunft",
+    "Bedeutung wie engelhafte / engelsgleiche / Botin Gottes",
+    "selten in Deutschland",
+    "bekannt seit dem 19. Jahrhundert",
+    "Namenstag wird in einigen Quellen genannt"
+  ],
+  "confidence": 0.84,
+  "display_text": "Angelique wirkt in Deutschland überwiegend klangvoll, französisch und eher elegant. Der Name ist selten, aber bekannt, und wird meist neutral bis positiv eingeordnet. Die Evidenz ist solide, aber auf wenige Namensquellen begrenzt.",
+  "evidence_quality": "mittel bis gut; zwei einschlägige Namensquellen, überwiegend lexikalisch-informativ, mit etwas eingeschränkter Breite der öffentlichen Rückmeldungen.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Angelique",
+  "normalized_name": "angelique",
+  "overall_resonance": "Überwiegend positiv bis neutral, mit klarer, sachlicher Namenswirkung.",
+  "practical_notes": [
+    "Für eine Namenssuche in Deutschland wirkt Angelique klangvoll und etwas außergewöhnlich.",
+    "Die Schreibweise ist klar erkennbar, kann aber gelegentlich nachgefragt werden.",
+    "Die öffentliche Wirkung ist eher freundlich und stilbetont als nüchtern."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Einordnung als elegant oder positiv ist eine öffentliche Stilwahrnehmung, keine objektive Eigenschaft.",
+    "Die Evidenz zur Resonanz ist begrenzt und stammt überwiegend aus Namenslexika und einem Kommentarbereich.",
+    "Seltenheit kann je nach Umfeld als besonders oder ungewohnt wahrgenommen werden."
+  ],
+  "short_summary": "Angelique wird in Deutschland meist als klangvoll, französisch und eher selten wahrgenommen. Die Resonanz ist überwiegend positiv bis neutral, mit einer eleganten und leicht auffälligen Wirkung.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Angelique � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/A/An/Angelique/"
+    },
+    {
+      "confidence": 0.92,
+      "is_name_discussion": true,
+      "sentiment": "eher positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Angelique: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Angelique.html"
+    }
+  ],
+  "style_effect": [
+    "klingt französisch und elegant",
+    "wirkt weich, feminin und leicht festlich",
+    "hat eine eher klassische als moderne Ausstrahlung",
+    "durch die Seltenheit etwas markanter und individueller"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland eher selten und dadurch auffällig, aber dennoch bekannt und gut einordenbar."
+}

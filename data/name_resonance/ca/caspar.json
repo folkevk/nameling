@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "Heilige Drei Könige",
+    "altpersischer Ursprung",
+    "Schatzmeister / Schatz",
+    "Namenstag",
+    "biblische bzw. alttestamentarische Bezüge",
+    "Varianten wie Kaspar, Casper, Jasper"
+  ],
+  "confidence": 0.93,
+  "display_text": "Caspar wirkt in Deutschland klassisch, traditionsnah und angenehm historisch. Die öffentliche Resonanz ist überwiegend positiv bis neutral; der Name ist bekannt, aber eher seltener bis mittelhäufig. Typische Assoziationen sind die Heiligen Drei Könige, altpersische Herkunft und die Bedeutung rund um „Schatz/Schatzmeister“.",
+  "evidence_quality": "hoch: zwei klare, direkt namensbezogene Quellen mit überwiegend konsistenter Aussage zu Herkunft, Bedeutung und öffentlicher Wahrnehmung",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Caspar",
+  "normalized_name": "caspar",
+  "overall_resonance": "In der öffentlichen Namenswahrnehmung wirkt Caspar in Deutschland eher klassisch, traditionsnah und freundlich historisch aufgeladen. Die verfügbaren Quellen deuten überwiegend auf eine positive bis neutrale Resonanz hin, mit eher selten-mittlerer Verbreitung statt breiter Alltäglichkeit.",
+  "practical_notes": [
+    "Wirkt vertraut, aber nicht austauschbar.",
+    "Eignet sich für Eltern, die einen traditionellen Namen mit kultureller Tiefe suchen.",
+    "Die Schreibweise Caspar ist in Deutschland verständlich, aber weniger verbreitet als Kaspar/Casper."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz bezieht sich vor allem auf Namenslexika und bedeutet nicht automatisch breite Alltagsresonanz.",
+    "Einzelne kommentarbasierte Eindrücke sind nur begrenzt verallgemeinerbar.",
+    "Keine Hinweise auf eine starke soziale Stigmatisierung in den vorliegenden Quellen."
+  ],
+  "short_summary": "Caspar wird in Deutschland meist als klassischer, traditionsreicher Vorname mit positiver bis neutraler Wirkung wahrgenommen; er ist bekannt, aber eher nicht allgegenwärtig.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Caspar � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/C/Ca/Caspar/"
+    },
+    {
+      "confidence": 0.91,
+      "is_name_discussion": true,
+      "sentiment": "mostly positive",
+      "source_type": "web",
+      "title": "&#9655; Vorname Caspar: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Caspar.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "traditionsnah",
+    "kulturell-biblisch geprägt",
+    "elegant und eher zeitlos",
+    "selten bis mittlere Verbreitung"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Caspar ist bekannt, aber kein typischer Massenname. Er erscheint in Deutschland als eher seltener bis mittelhäufiger Vorname mit klarer Wiedererkennbarkeit."
+}

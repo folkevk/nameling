@@ -1,0 +1,59 @@
+{
+  "associations": [
+    "Kurzform von Leonhard/Leonard",
+    "Bedeutung rund um den Löwen bzw. Stärke",
+    "deutsch und englisch anschlussfähig",
+    "Namenstag wird teils am 6. November genannt",
+    "als verselbständigte Kurzform beschrieben"
+  ],
+  "confidence": 0.84,
+  "display_text": "Len wirkt in der öffentlichen Wahrnehmung überwiegend positiv: kurz, modern und klar männlich konnotiert, mit häufigen Bezügen zu Stärke bzw. dem Löwen. Gleichzeitig ist die Evidenz begrenzt und stützt sich vor allem auf wenige Namenslexika.",
+  "evidence_quality": "mittel: klare namenkundliche Quellen, aber begrenzte Quellbreite und teils anekdotische Kommentare",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Len",
+  "normalized_name": "len",
+  "overall_resonance": "überwiegend positiv und modern-kurz; vor allem als kompakter, vertrauter Jungenname wahrgenommen",
+  "practical_notes": [
+    "Für Suchmaschinen und Vornamenskontexte wirkt Len meist unkompliziert, klar und merkbar.",
+    "Die kurze Form kann als modern und international verständlich empfunden werden.",
+    "Wegen der Kürze kann der Name je nach Umfeld auch als Spitzname statt als Vollform wahrgenommen werden."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die öffentliche Evidenz ist relativ schmal und stützt sich stark auf wenige Namenslexika.",
+    "Beliebtheitsaussagen sollten vorsichtig gelesen werden, da sie je nach Quelle variieren können.",
+    "Keine belastbaren Hinweise auf negative gesellschaftliche Stigmatisierung in der vorliegenden Evidenz."
+  ],
+  "short_summary": "Len wird öffentlich meist als kurzer, moderner und positiv besetzter Jungenname mit Löwen-/Stärke-Assoziation wahrgenommen. Die Evidenz ist aber eher quellenarm und sollte vorsichtig interpretiert werden.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "Vorname Len � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/L/Le/Len/"
+    },
+    {
+      "confidence": 0.94,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Len: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Len.html"
+    }
+  ],
+  "style_effect": [
+    "kurz und prägnant",
+    "modern wirkend",
+    "namenkundlich klar einordenbar",
+    "jugendlich-frisch",
+    "etwas sachlich/lexikalisch statt verspielt"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "eher gut sichtbar im deutschsprachigen Namenskontext, aber kein sehr häufiger Massenname"
+}

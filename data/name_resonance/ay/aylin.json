@@ -1,0 +1,63 @@
+{
+  "associations": [
+    "türkischer Vorname",
+    "Mond",
+    "Mondlicht",
+    "strahlende Bedeutung",
+    "Mädchenname",
+    "Beliebtheit in Deutschland",
+    "vertraut und geläufig",
+    "gelegentliche Verwechslung mit Aileen"
+  ],
+  "confidence": 0.86,
+  "display_text": "Aylin wird in Deutschland überwiegend positiv und als moderner, melodischer Mädchenname wahrgenommen. Die Quellen betonen vor allem die türkische Herkunft und die Bedeutung rund um Mond bzw. Mondlicht. Hinweise auf eine negative öffentliche Stigmatisierung gibt es in der vorliegenden Evidenz nicht; die Datenbasis ist aber vor allem lexikalisch und nicht breit meinungsbezogen.",
+  "evidence_quality": "mittel bis gut: zwei klare Namenslexikon-Quellen mit konsistenten Angaben zu Herkunft, Bedeutung und Beliebtheit; öffentliche Diskussionsvielfalt jedoch begrenzt.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Aylin",
+  "normalized_name": "aylin",
+  "overall_resonance": "Aylin wird im deutschsprachigen Raum überwiegend als moderner, klanglich weicher und positiv konnotierter Mädchenvorname wahrgenommen. Die vorhandenen Namensquellen betonen vor allem die Bedeutung und Herkunft; eine breite öffentliche Meinungsvielfalt ist in der Evidenz jedoch nur begrenzt sichtbar.",
+  "practical_notes": [
+    "Der Name ist in Deutschland gut einordbar und leicht aussprechbar.",
+    "Durch die positive Bedeutungsdeutung wirkt er oft angenehm und freundlich.",
+    "Für Suchmaschinenanfragen ist die Herkunfts- und Bedeutungsassoziation besonders stark belegt."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt fast ausschließlich aus Namenslexika und nicht aus einer breiten Meinungsdiskussion.",
+    "Die Verwechslungsgefahr mit ähnlich klingenden Namen wie Aileen wird vereinzelt erwähnt.",
+    "Keine belastbaren Hinweise auf eine negative soziale Stigmatisierung in der vorliegenden Evidenz."
+  ],
+  "short_summary": "Aylin gilt in Deutschland als bekannter, modern und angenehm klingender Mädchenname mit positiver Bedeutungsassoziation rund um Mond/Mondlicht. Die Quellenlage ist eher lexikalisch als meinungsbasiert.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.99,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Aylin � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/A/Ay/Aylin/"
+    },
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Aylin: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Aylin.html"
+    }
+  ],
+  "style_effect": [
+    "weich",
+    "modern",
+    "melodisch",
+    "freundlich",
+    "elegant",
+    "international anschlussfähig"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland offenbar gut bekannt und eher weit verbreitet; zugleich wirkt der Name nicht übermäßig selten, sondern eher vertraut und geläufig."
+}

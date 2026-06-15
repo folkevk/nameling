@@ -1,0 +1,59 @@
+{
+  "associations": [
+    "Bedeutung häufig mit „der aus dem Wald“ bzw. Bezug zu lateinisch 'silva' verbunden",
+    "möglicher biblischer Kontext",
+    "teils als beliebt oder im Aufwind beschrieben",
+    "Namenstag am 13. Juli",
+    "sprachlich und kulturell eher positiv oder neutral gerahmt"
+  ],
+  "confidence": 0.86,
+  "display_text": "Silas wirkt in den verfügbaren Quellen überwiegend neutral bis leicht positiv: ein moderner, klarer Vorname mit biblisch und sprachgeschichtlich geprägten Bezügen. Die öffentliche Rezeption erscheint eher informativ als kontrovers; belastbare Hinweise auf negative Stigmatisierung sind in der Evidenz nicht zu sehen.",
+  "evidence_quality": "mittel: zwei einschlägige Namensquellen mit überwiegend beschreibender, nur begrenzt diskursiver Evidenz",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Silas",
+  "normalized_name": "silas",
+  "overall_resonance": "Überwiegend neutral bis leicht positiv. Silas wird in den vorliegenden Quellen vor allem als klanglich moderner, zugleich biblisch und sprachgeschichtlich anschlussfähiger Vorname beschrieben. Eine klare negative öffentliche Resonanz ist in der Evidenz nicht erkennbar.",
+  "practical_notes": [
+    "Für Suchmaschinen eignet sich die Einordnung als moderner, traditionell anschlussfähiger Vorname.",
+    "Die Resonanzbeschreibung sollte vorsichtig formuliert werden, da kaum freie öffentliche Diskussion vorliegt.",
+    "Bei Kurzprofilen hilft der Hinweis auf Bedeutung, Herkunft und Namenstag."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist begrenzt und stammt vor allem aus redaktionellen Namensdatenbanken.",
+    "Einzelne positive Einschätzungen sind nicht als repräsentative öffentliche Meinung zu verstehen.",
+    "Keine belastbaren Hinweise auf gesellschaftliche Stigmatisierung in der vorliegenden Evidenz."
+  ],
+  "short_summary": "Silas wird überwiegend neutral bis leicht positiv wahrgenommen: modern, klangvoll und mit biblisch-sprachgeschichtlichen Bezügen. Die Evidenz ist solide, aber vor allem beschreibend statt breit öffentlich diskutiert.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Silas � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/S/Si/Silas/"
+    },
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Silas: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Silas.html"
+    }
+  ],
+  "style_effect": [
+    "modern und zugleich traditionsnah",
+    "kurz, klar und international anschlussfähig",
+    "informativ-biblisch geprägt",
+    "natürlich wirkend, ohne stark auffällige Markierung",
+    "eher sachlich als ausgefallen"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Mittel bis gut sichtbar in Namenslexika und Beliebtheitsübersichten; die öffentliche Rezeption wirkt eher informativ als kontrovers. Die Evidenz stammt jedoch fast ausschließlich aus Namensportalen, nicht aus breiter öffentlicher Debatte."
+}

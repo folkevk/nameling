@@ -1,0 +1,67 @@
+{
+  "associations": [
+    "Frieden",
+    "Schutz",
+    "altdeutsche Herkunft",
+    "lange Tradition",
+    "Herrscher/Autorität",
+    "historische Anmutung",
+    "klassisch",
+    "Namenstag",
+    "Spitzname Fritz"
+  ],
+  "confidence": 0.94,
+  "display_text": "Friedrich wird meist als klassisch, traditionsreich und historisch verankert wahrgenommen. Die Resonanz ist überwiegend neutral bis leicht positiv, mit Assoziationen an Frieden, Schutz und eine eher würdige, gebildete Anmutung.",
+  "evidence_quality": "hoch: zwei einschlägige namenskundliche Quellen mit klarer Namensfokussierung; keine personenbezogene Diskussion, aber auch nur begrenzt echte öffentliche Debatte.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Friedrich",
+  "normalized_name": "friedrich",
+  "overall_resonance": "Friedrich wird in den vorliegenden Quellen vor allem als klassischer, traditionsreicher und historisch stark verankerter Vorname wahrgenommen. Die öffentliche Rezeption wirkt überwiegend neutral bis leicht positiv, mit Assoziationen an Frieden, Schutz, Würde und eine eher gebildet-traditionelle Anmutung.",
+  "practical_notes": [
+    "Für Suchende wirkt Friedrich meist solide, bekannt und seriös.",
+    "Der Name kann je nach Kontext eher traditionell als modern gelesen werden.",
+    "Kurzform/Spitzname: Fritz ist als Nebenform häufig mitgedacht."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Eindrücke stammen überwiegend aus Namenslexika und nicht aus einer breiten öffentlichen Debatte.",
+    "Es gibt keine belastbaren Hinweise auf soziale Stigmatisierung in der vorliegenden Evidenz.",
+    "Einige Bedeutungsaspekte wie Macht oder Herrschaft sind etymologisch, nicht als Aussage über Träger des Namens zu verstehen."
+  ],
+  "short_summary": "Friedrich wirkt in Deutschland wie ein klassischer, traditionsreicher und eher würdevoller Vorname mit neutral bis leicht positiver Resonanz.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.99,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Friedrich � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/F/Fr/Friedrich/"
+    },
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Friedrich: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Friedrich.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "traditionsbewusst",
+    "historisch",
+    "würdevoll",
+    "altdeutsch",
+    "gebildet",
+    "eher formell",
+    "zeitlos",
+    "selten modern-dynamisch"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Im deutschen Sprachraum gut bekannt und klar einordenbar; der Name hat eine hohe historische Sichtbarkeit und wirkt vielen eher vertraut als trendig."
+}

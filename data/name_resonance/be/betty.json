@@ -1,0 +1,69 @@
+{
+  "associations": [
+    "Kurz- und Koseform von Elisabeth/Elizabeth",
+    "hebräische Wurzeln",
+    "Bedeutung in den Quellen oft als religiös gedeutet: „Gott ist Fülle“ / „Gott ist Vollkommenheit“",
+    "weiblicher Vorname",
+    "international gebräuchlich",
+    "Popkultur-Assoziation wie Betty Boop"
+  ],
+  "confidence": 0.84,
+  "display_text": "Betty wirkt in den verfügbaren Quellen freundlich, klassisch und international vertraut. In Deutschland scheint der Name eher mittel bis niedrig verbreitet zu sein. Die Hinweise stammen jedoch vor allem aus Namenslexika, daher ist die Aussage zur öffentlichen Resonanz vorsichtig zu interpretieren.",
+  "evidence_quality": "mittel bis begrenzt: mehrere direkte Namensbeschreibungen, aber kaum unabhängige öffentliche Diskussionsquellen",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Betty",
+  "normalized_name": "betty",
+  "overall_resonance": "Betty wird in den vorliegenden Namensquellen insgesamt sachlich bis leicht positiv dargestellt. Der Name wirkt bekannt, traditionell und international gebräuchlich, mit eher mittel bis niedriger Beliebtheit in Deutschland. Die öffentliche Resonanz ist jedoch nur begrenzt belegt, da die Evidenz vor allem aus Namenslexika und redaktionellen Beschreibungen stammt.",
+  "practical_notes": [
+    "Für eine Namenssuche eignet sich Betty als vertrauter, klassischer und gut aussprechbarer Name.",
+    "Der Eindruck ist eher traditionsnah als modern-experimentell.",
+    "Wenn eine starke aktuelle Trendwirkung gesucht wird, erscheint Betty nach den Quellen eher nicht als besonders auffällige Wahl."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist schwach für echte öffentliche Resonanz; es handelt sich vor allem um redaktionelle Namensseiten.",
+    "Beliebtheitsangaben sind zeit- und quellenabhängig und nicht als allgemeingültige Meinung zu verstehen.",
+    "Keine Hinweise auf gesellschaftliche Stigmatisierung in den Quellen; dennoch sollte aus Popularitätsdaten keine soziale Bewertung abgeleitet werden."
+  ],
+  "short_summary": "Betty wird überwiegend neutral bis leicht positiv wahrgenommen: klassisch, bekannt und international verständlich, aber in Deutschland eher nicht sehr verbreitet. Die Evidenz ist vor allem lexikalisch und daher nur begrenzt aussagekräftig für echte öffentliche Resonanz.",
+  "source_count": 3,
+  "sources": [
+    {
+      "confidence": 0.88,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "Vorname Betty � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/B/Be/Betty/"
+    },
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Betty � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/B/Be/Betty/"
+    },
+    {
+      "confidence": 0.9,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Betty: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Betty.html"
+    }
+  ],
+  "style_effect": [
+    "kurz und freundlich",
+    "klassisch/traditionell",
+    "international anschlussfähig",
+    "koseformartig",
+    "eher vertraut als modisch",
+    "leicht nostalgisch"
+  ],
+  "usable_evidence_count": 3,
+  "visibility": "Eher mittel bis niedrig in Deutschland; der Name ist bekannt, aber nicht stark präsent. Die Aussagen zur Verbreitung beruhen überwiegend auf Namensdatenbanken und sind deshalb vorsichtig zu lesen."
+}

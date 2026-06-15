@@ -1,0 +1,58 @@
+{
+  "associations": [
+    "oft als slawische Kurzform zu Helena oder Magdalena beschrieben",
+    "Bedeutungen wie „die Strahlende“, „die Leuchtende“ oder „die Erhabene“",
+    "Namenstag wird vereinzelt genannt",
+    "in Deutschland als beliebter bzw. etablierter weiblicher Vorname beschrieben"
+  ],
+  "confidence": 0.89,
+  "display_text": "Alena wirkt in Deutschland überwiegend positiv: ein klangvoller, etablierter Vorname mit weicher, eleganter Ausstrahlung. In den Quellen werden vor allem Herkunft, Bedeutung und Beliebtheit sachlich bis freundlich hervorgehoben.",
+  "evidence_quality": "mittel bis gut; klar namebezogene Quellen, aber begrenzte Quellenvielfalt und teils gemischte redaktionelle/kommentierende Evidenz.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Alena",
+  "normalized_name": "alena",
+  "overall_resonance": "Überwiegend positiv bis neutral; Alena wirkt im deutschsprachigen Raum etabliert, klangvoll und eher unaufgeregt wahrgenommen.",
+  "practical_notes": [
+    "Für Suchmaschinen wirkt der Name gut verständlich und mit klarer Herkunfts- und Bedeutungszuschreibung.",
+    "Die Schreibweise ist unkompliziert und im deutschen Kontext gut lesbar.",
+    "Der Name vermittelt eher Wärme und Eleganz als Härte oder Extravaganz."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt im Wesentlichen aus wenigen Namenslexikon-Seiten; die öffentliche Rezeption ist daher nur eingeschränkt belastbar.",
+    "Positive Wirkung wird teils durch redaktionelle oder kommentierende Einschätzungen gestützt, nicht nur durch objektive Häufigkeitsdaten."
+  ],
+  "short_summary": "Alena wird in der deutschen Namenswahrnehmung meist als schöner, klangvoller und etablierter Mädchenname mit positiver, eher sanfter Ausstrahlung beschrieben.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Alena � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/A/Al/Alena/"
+    },
+    {
+      "confidence": 0.9,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Alena: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Alena.html"
+    }
+  ],
+  "style_effect": [
+    "weich",
+    "elegant",
+    "modern-klassisch",
+    "melodisch",
+    "freundlich",
+    "leicht international anschlussfähig"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland sichtbar und gebräuchlich, aber nicht stark massenhaft; eher vertraut als auffällig."
+}

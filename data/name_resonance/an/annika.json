@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "Koseform von Anna",
+    "althebräische Herkunft über Hannah",
+    "Bedeutungen wie „die Begnadete“, „die Liebreizende“ oder „die Anmutige“",
+    "Namenstag am 26. Juli",
+    "in Deutschland seit den 1970er-Jahren bekannt",
+    "Beliebtheit besonders um 1990",
+    "Kurzformen wie Anni oder Nika"
+  ],
+  "confidence": 0.84,
+  "display_text": "Annika gilt im deutschsprachigen Raum als vertrauter, freundlich klingender Mädchenname mit positiver Bedeutung („die Begnadete“, „die Anmutige“). Die öffentliche Resonanz wirkt überwiegend positiv bis neutral; die Quellen sind allerdings vor allem namenskundliche Einträge und weniger echte Debatten.",
+  "evidence_quality": "mittel: mehrere namenskundliche Webquellen, aber wenig direkte öffentliche Meinungsäußerung.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Annika",
+  "normalized_name": "annika",
+  "overall_resonance": "Überwiegend positiv bis neutral: Annika wird im deutschsprachigen Raum vor allem als vertrauter, freundlich klingender Mädchenname wahrgenommen.",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt Annika solide, zugänglich und positiv besetzt.",
+    "Der Name ist bekannt, aber nicht so häufig, dass er beliebig wirkt.",
+    "Die Quellenlage spricht eher für eine gute Grundakzeptanz als für starke Trend- oder Imageaussagen."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz beschreibt den Namen vor allem lexikalisch; echte öffentliche Debatten oder kontroverse Resonanz sind nur schwach belegt.",
+    "Beliebtheitsangaben stammen aus Namensseiten und sollten nicht als umfassende gesellschaftliche Statistik verstanden werden."
+  ],
+  "short_summary": "Annika wird in Deutschland meist freundlich, vertraut und positiv wahrgenommen; die verfügbare Evidenz ist jedoch vor allem beschreibend und nicht stark diskursiv.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Annika � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/A/An/Annika/"
+    },
+    {
+      "confidence": 0.9,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Annika: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Annika.html"
+    }
+  ],
+  "style_effect": [
+    "klingt weich und freundlich",
+    "wirkt modern, aber nicht trendig-überladen",
+    "hat eine klare, unkomplizierte Aussprache",
+    "wird oft als skandinavisch bzw. nordisch geprägt eingeordnet",
+    "erscheint in Namenslexika mit positiver Bedeutungszuordnung"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Gut bekannt in Deutschland, besonders als seit Jahrzehnten geläufiger Vorname; die öffentliche Wahrnehmung ist eher informativ als diskursiv."
+}

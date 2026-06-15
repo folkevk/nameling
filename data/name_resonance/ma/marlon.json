@@ -1,0 +1,62 @@
+{
+  "associations": [
+    "männlicher Vorname",
+    "keltische Herkunft vermutet",
+    "mögliche Bedeutung: kleiner Falke",
+    "teils auch Deutungen wie kriegerisch",
+    "Beliebtheit in Deutschland",
+    "relativ neuer Jungenname",
+    "Namenstag teils genannt, aber nicht einheitlich belegt"
+  ],
+  "confidence": 0.82,
+  "display_text": "Marlon wirkt in den vorliegenden Quellen überwiegend positiv, modern und melodisch. Die Hinweise zu Herkunft und Bedeutung sind uneinheitlich und stammen fast nur aus Namenslexika, daher ist die öffentliche Resonanz nur vorsichtig zu bewerten.",
+  "evidence_quality": "Begrenzt: zwei überwiegend namenskundliche Webseiten, wenig echte öffentliche Resonanz, kaum unabhängige Breite.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Marlon",
+  "normalized_name": "marlon",
+  "overall_resonance": "Überwiegend positive, moderne Namenswirkung mit eher informativ-lexikalischer als kontroverser öffentlicher Resonanz.",
+  "practical_notes": [
+    "Für Suchmaschinen-/Namenskontexte wirkt Marlon freundlich, modern und unkompliziert.",
+    "Die Wahrnehmung ist eher positiv, aber ohne starke öffentliche Debatte.",
+    "Eine vorsichtige Formulierung ist sinnvoll, da die Quellenlage begrenzt ist."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist einseitig und eher lexikalisch als diskursiv.",
+    "Herkunft und Bedeutung werden unterschiedlich gedeutet; das sollte nicht als gesichert dargestellt werden.",
+    "Keine belastbaren Hinweise auf soziale Stigmatisierung in der vorliegenden Evidenz."
+  ],
+  "short_summary": "Marlon wird in den vorliegenden Quellen meist positiv und modern wahrgenommen. Die Aussagen zu Herkunft und Bedeutung sind jedoch gemischt und die Evidenz ist eher schmal.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Marlon � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/M/Ma/Marlon/"
+    },
+    {
+      "confidence": 0.86,
+      "is_name_discussion": true,
+      "sentiment": "überwiegend positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Marlon: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Marlon.html"
+    }
+  ],
+  "style_effect": [
+    "modern",
+    "melodisch",
+    "jung",
+    "informell wirkend",
+    "zeitgemäß",
+    "leicht markant"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Mittel: Der Name ist in Deutschland bekannt und online gut auffindbar, die vorliegende Evidenz stammt jedoch fast ausschließlich aus Namenslexika und wenigen Kommentarbezügen, nicht aus breiter öffentlicher Diskussion."
+}

@@ -1,0 +1,63 @@
+{
+  "associations": [
+    "Koseform von Rosa",
+    "Rose/Blume",
+    "lateinische Herkunft",
+    "weiblicher Vorname",
+    "Namenstag",
+    "seit längerem im deutschen Sprachraum bekannt",
+    "eher kurze, alltagstaugliche Form"
+  ],
+  "confidence": 0.78,
+  "display_text": "Rosi klingt freundlich, vertraut und blumig. In den Quellen erscheint der Name vor allem als Koseform von Rosa mit der Bedeutung „die Rose“; die öffentliche Resonanz wirkt eher neutral bis leicht positiv, ist aber nur schwach belegt.",
+  "evidence_quality": "mittel bis schwach: zwei überwiegend sachliche Namenslexikon-Quellen, keine breite externe Resonanzlage",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Rosi",
+  "normalized_name": "rosi",
+  "overall_resonance": "Der Vorname Rosi wirkt in der vorliegenden Evidenz vor allem freundlich, vertraut und eher klassisch-kosehaft. Die Resonanz ist überwiegend neutral bis leicht positiv, getragen von der Verbindung zu Rosa/Rose und der Bedeutung „die Rose“.",
+  "practical_notes": [
+    "Für eine Namenssuchmaschine lässt sich Rosi knapp als freundlich klingende Kurzform mit Blumenbezug zusammenfassen.",
+    "Wenn mehr Sicherheit gewünscht ist, wären zusätzliche Quellen zu Nutzung, Altersverteilung oder sozialer Wahrnehmung hilfreich.",
+    "Die Schreibweise wirkt unkompliziert und leicht verständlich."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz besteht nur aus zwei Namenslexikon-Seiten; Aussagen zur tatsächlichen öffentlichen Wahrnehmung in Deutschland sind daher nur vorsichtig möglich.",
+    "Ein möglicher Eindruck als Spitzname/Koseform kann mitschwingen, ist aber keine feste Eigenschaft des Namens.",
+    "Keine Hinweise auf klare negative Stigmatisierung in der vorliegenden Evidenz."
+  ],
+  "short_summary": "Rosi wird in den Quellen als freundliche, kosehafte Kurzform mit Rosen-Bezug beschrieben; die Gesamtwirkung ist eher neutral bis leicht positiv.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.95,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Rosi � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/R/Ro/Rosi/"
+    },
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Rosi: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Rosi.html"
+    }
+  ],
+  "style_effect": [
+    "kosehaft",
+    "freundlich",
+    "blumig",
+    "vertraut",
+    "klassisch",
+    "informativ",
+    "leicht nostalgisch"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Eher bekannt, aber in den Quellen nicht als besonders häufig oder trendstark beschrieben. Die Wahrnehmung erscheint vor allem im deutschsprachigen Namenskontext verständlich und gut einordenbar, doch die öffentliche Breitenresonanz bleibt aufgrund der schmalen Evidenz unsicher."
+}

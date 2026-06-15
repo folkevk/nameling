@@ -1,0 +1,62 @@
+{
+  "associations": [
+    "hebräische Herkunft",
+    "„Gott hat geheilt“",
+    "Heilung",
+    "Erzengel Raphael",
+    "Namenstag",
+    "wohlklingend",
+    "internationale Varianten",
+    "in Deutschland eher selten bis moderat bekannt"
+  ],
+  "confidence": 0.89,
+  "display_text": "Rafael wirkt in Deutschland überwiegend leicht positiv bis neutral: klangvoll, international vertraut und biblisch geprägt. Die Quellen sind vor allem Namenslexika, daher ist die öffentliche Meinungsbreite nur begrenzt sichtbar.",
+  "evidence_quality": "gut für lexikalische Namensbedeutung, begrenzt für echte öffentliche Stimmungsbreite",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Rafael",
+  "normalized_name": "rafael",
+  "overall_resonance": "Im öffentlichen Namenskontext wirkt Rafael in Deutschland überwiegend leicht positiv bis neutral-sachlich: Der Name wird häufig als klangvoll, international vertraut und inhaltlich stark religiös/biblisch geprägt beschrieben.",
+  "practical_notes": [
+    "Für die Namenssuche ist Rafael ein gut verständlicher, international anschlussfähiger Vorname.",
+    "Die Schreibweise ist verbreitet und eindeutig, mit bekannten Kurzformen wie Rafa, Rafi oder Raffi.",
+    "Die öffentliche Wahrnehmung ist eher freundlich-sachlich als kontrovers."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt vor allem aus Namenslexika; echte öffentliche Meinungsdaten sind begrenzt.",
+    "Einzelne positive Klang- oder Beliebtheitsaussagen sind eher beschreibend als breit abgesichert.",
+    "Keine belastbaren Hinweise auf soziale Stigmatisierung in den vorliegenden Quellen."
+  ],
+  "short_summary": "Rafael wird in Deutschland meist positiv bis neutral wahrgenommen: klangvoll, international und biblisch geprägt, ohne starke negative Konnotationen.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "Vorname Rafael � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/R/Ra/Rafael/"
+    },
+    {
+      "confidence": 0.94,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Rafael: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Rafael.html"
+    }
+  ],
+  "style_effect": [
+    "klangvoll",
+    "international",
+    "biblisch-religiös",
+    "sachlich-informativ",
+    "eher zeitlos"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Mittel: Der Name ist bekannt und in Namenslexika präsent, wirkt in Deutschland aber eher nicht alltäglich."
+}

@@ -1,0 +1,62 @@
+{
+  "associations": [
+    "französische Herkunft",
+    "weiblicher Vorname",
+    "Bedeutung: Eibe",
+    "mögliche Deutung: Bogenschützin",
+    "selten in Deutschland",
+    "Namenstag",
+    "Varianten wie Yvetta oder Iwetta"
+  ],
+  "confidence": 0.84,
+  "display_text": "Yvette wirkt in Deutschland eher selten und stilistisch elegant. Die vorliegenden Quellen beschreiben den Namen überwiegend sachlich bis leicht positiv, mit Assoziationen zu französischer Herkunft, dem Bedeutungsfeld der Eibe und einer möglichen Deutung als „Bogenschützin“. Eine breite öffentliche Diskussion ist kaum zu erkennen; die Evidenz stammt vor allem aus Namensportalen und ist daher nur begrenzt aussagekräftig.",
+  "evidence_quality": "mittel bis eher schwach für öffentliche Resonanz; gut für namenskundliche Einordnung, aber kaum echte Debatten- oder Breitenwirkung belegt",
+  "generated_at": "2026-06-14T10:47:41Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Yvette",
+  "normalized_name": "yvette",
+  "overall_resonance": "Überwiegend sachlich bis leicht positiv; der Name wirkt in den vorliegenden Quellen eher als eleganter, seltener Vorname mit französischem Klang als als stark diskutiertes Alltagsphänomen.",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt Yvette klar, feminin und international anschlussfähig.",
+    "Wer einen ungewöhnlicheren, französisch geprägten Namen sucht, findet hier eine stimmige Option.",
+    "In Deutschland dürfte der Name vielen eher vertraut, aber nicht alltäglich erscheinen."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt fast ausschließlich aus Namensdatenbanken und Portalen, nicht aus einer breiten öffentlichen Diskussion.",
+    "Positive Töne ergeben sich vor allem aus der Beschreibung und Einordnung des Namens, nicht aus belastbarer gesellschaftlicher Resonanz.",
+    "Seltenheit kann als stilistisch interessant wahrgenommen werden, ist aber kein Beleg für besondere Bekanntheit oder Popularität."
+  ],
+  "short_summary": "Yvette wird in den vorliegenden Quellen vor allem sachlich und leicht positiv beschrieben: französisch klingend, selten und elegant. Eine breite öffentliche Debatte ist jedoch kaum belegt.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.88,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Yvette � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/Y/Yv/Yvette/"
+    },
+    {
+      "confidence": 0.9,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Yvette: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Yvette.html"
+    }
+  ],
+  "style_effect": [
+    "französisch klingend",
+    "elegant",
+    "klassisch",
+    "selten",
+    "namenskundlich",
+    "leicht exklusiv wirkend"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland scheint Yvette eher selten und dadurch wenig breit sichtbar zu sein; die öffentliche Wahrnehmung entsteht hier vor allem über Namensportale statt über lebhafte Debatten."
+}

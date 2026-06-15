@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "lateinische Herkunft",
+    "portugiesische und galicische Namensform von Paul",
+    "Bedeutung: „der Kleine“ / „der Jüngere“",
+    "Namenstag",
+    "männlicher Vorname",
+    "ähnlich zu Paul, Paolo und Pablo",
+    "in Deutschland bekannt, aber eher nicht dominant"
+  ],
+  "confidence": 0.86,
+  "display_text": "Paulo wirkt in Deutschland vor allem sachlich, international und klassisch. Die vorliegenden Quellen sehen den Namen als portugiesisch-galicische Form von Paul mit der Bedeutung „der Kleine“ / „der Jüngere“. Eine breite öffentliche Resonanz ist nicht belegt; die Evidenz ist eher schwach und stammt vor allem aus Namenslexika.",
+  "evidence_quality": "mittel bis schwach: zwei fachlich ähnliche Namensquellen, aber kaum echte öffentliche Resonanzdaten",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Paulo",
+  "normalized_name": "paulo",
+  "overall_resonance": "Der Name Paulo wird im deutschsprachigen Kontext überwiegend sachlich und namenskundlich wahrgenommen. Die vorhandenen Quellen beschreiben ihn vor allem als lateinisch bzw. portugiesisch-galicische Form von Paul, mit der Bedeutung „der Kleine“ oder „der Jüngere“. Eine starke öffentliche Debatte oder klare emotionale Aufladung ist in der Evidenz nicht erkennbar.",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt Paulo klar, international und unkompliziert.",
+    "Die Wahrnehmung ist eher kulturell-lexikalisch als trend- oder modegetrieben.",
+    "Wenn öffentliche Wirkung wichtig ist, sollte man den Namen als bekannt, aber nicht massenhaft verbreitet einordnen."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenzlage für öffentliche Resonanz in DE ist schwach und überwiegend beschreibend.",
+    "Die Quellen sind Namensdatenbanken; sie bilden eher Namenskunde als freie öffentliche Meinung ab.",
+    "Es gibt keinen Hinweis auf gesellschaftliche Stigmatisierung oder problematische Zuschreibungen in der vorliegenden Evidenz."
+  ],
+  "short_summary": "Paulo wird in Deutschland vor allem sachlich als internationaler, portugiesisch geprägter Vorname mit klassischer Herkunft beschrieben; die öffentliche Resonanz wirkt eher neutral und die Evidenz dafür ist begrenzt.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Paulo � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/P/Pa/Paulo/"
+    },
+    {
+      "confidence": 0.94,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Paulo: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Paulo.html"
+    }
+  ],
+  "style_effect": [
+    "informativ",
+    "klassisch-international",
+    "eher seltene, aber vertraute Klangwirkung",
+    "lexikalisch geprägt",
+    "neutral bis leicht positiv durch die Namensbedeutung und Beliebtheitsverweise"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Eher gering bis moderat sichtbar in Deutschland; die Evidenz stammt vor allem aus Namenslexika und nicht aus breiter öffentlicher Diskussion."
+}

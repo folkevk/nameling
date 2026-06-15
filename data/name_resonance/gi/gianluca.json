@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "italienische Doppelform",
+    "Gianni und Luca",
+    "Bedeutung im religiös-etymologischen Kontext",
+    "Namenstag",
+    "bekannt, aber nicht sehr häufig",
+    "sachlich-positive Namensbeschreibung"
+  ],
+  "confidence": 0.74,
+  "display_text": "Gianluca wird in Deutschland vor allem sachlich-informativ und leicht positiv wahrgenommen: ein italienisch geprägter, eher bekannter als häufiger Jungenname mit klarer Herkunft und Bedeutung. Die vorliegenden Quellen sind jedoch überwiegend Namensseiten, daher ist die Evidenz für eine breite öffentliche Resonanz begrenzt.",
+  "evidence_quality": "mittel bis schwach: inhaltlich klar, aber hauptsächlich aus einzelnen Vornamensseiten und wenig diskursiver Breite",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Gianluca",
+  "normalized_name": "gianluca",
+  "overall_resonance": "Überwiegend sachlich-informativ mit leicht positiver Färbung. Der Name wird vor allem als italienisch klingender Vorname mit klarer Herkunft, Bedeutung und Namenstag beschrieben. Eine starke öffentliche Debatte ist in den vorliegenden Quellen nicht erkennbar.",
+  "practical_notes": [
+    "Für die öffentliche Wahrnehmung eignet sich eine neutrale Einordnung als international wirkender, italienisch geprägter Jungenname.",
+    "Wenn Reichweite oder Popularität relevant sind, sollte man die Aussage mit aktuellen Statistikquellen ergänzen.",
+    "Als Namenswahl wird Gianluca meist als klar, vertraut und leicht mediterran lesbar wahrgenommen."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist begrenzt und stammt fast nur aus Namensdatenbanken und Lexikonseiten.",
+    "Es gibt wenig belastbare Hinweise auf eine breite öffentliche Resonanz in Deutschland.",
+    "Einzelne Bewertungen sind eher beschreibend als gesellschaftlich diskursiv."
+  ],
+  "short_summary": "Gianluca wird in den Quellen vor allem sachlich und leicht positiv dargestellt: ein italienisch geprägter, eher bekannter als häufiger Jungenname mit klarer Herkunft und Bedeutung. Eine breite öffentliche Debatte ist jedoch nicht sichtbar.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.9,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Gianluca � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/G/Gi/Gianluca/"
+    },
+    {
+      "confidence": 0.86,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Gianluca: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Gianluca.html"
+    }
+  ],
+  "style_effect": [
+    "italienisch",
+    "eher markant",
+    "modern-klingend",
+    "namenskundlich interessant",
+    "leicht elegant"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland wirkt Gianluca eher bekannt, aber nicht sehr häufig. Die Sichtbarkeit entsteht vor allem über Namenslexika und Vornamensseiten, weniger über breite öffentliche Diskussion."
+}

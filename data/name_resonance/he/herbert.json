@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "althochdeutscher Ursprung",
+    "Bedeutungen wie „der im Heer Glänzende“ bzw. „der berühmt(e) Krieger“",
+    "klassischer, traditioneller Vorname",
+    "historisch früher beliebt",
+    "heute in Deutschland als Babyname eher selten",
+    "Namenstag bekannt"
+  ],
+  "confidence": 0.87,
+  "display_text": "Herbert wirkt öffentlich eher neutral bis leicht positiv: klassisch, traditionell und altdeutsch, mit klarer namenskundlicher Prägung. In Deutschland ist der Name bekannt, als Babyname aber heute eher selten. Die Datenlage ist begrenzt und vor allem sachlich-informativ, nicht debatttenreich.",
+  "evidence_quality": "mittel: zwei klare Namenseinträge mit überwiegend sachlicher, teilweise leicht positiver Beschreibung; keine breite Diskussionslage.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Herbert",
+  "normalized_name": "herbert",
+  "overall_resonance": "Eher neutral bis leicht positiv: Herbert wird vor allem sachlich-traditionell und namenskundlich beschrieben, mit eher klassischer als moderner Ausstrahlung.",
+  "practical_notes": [
+    "Wirkt eher vertraut und klassisch als modern.",
+    "Kann je nach Kontext bodenständig und historisch klingen.",
+    "Die Seltenheit als Babyname kann den Eindruck von Tradition verstärken."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenzbasis ist schmal und besteht im Wesentlichen aus zwei Namenslexika/Informationsseiten.",
+    "Es gibt keine breite öffentliche Debatte oder belastbare Alltagsresonanz in den Daten.",
+    "Die Einschätzung zur Wirkung ist daher vorsichtig und eher beschreibend als eindeutig wertend."
+  ],
+  "short_summary": "Herbert wird in den verfügbaren Quellen überwiegend neutral bis leicht positiv und traditionell wahrgenommen. Der Name gilt als klassisch, altdeutsch und heute eher selten im Babyname-Gebrauch.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Herbert � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/H/He/Herbert/"
+    },
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Herbert: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Herbert.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "traditionell",
+    "altdeutsch",
+    "sachlich",
+    "eher generationenverbunden",
+    "namenskundlich"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland klar als Vorname bekannt, aber heute als Babyname eher selten und dadurch weniger präsent im aktuellen Namensgebrauch."
+}

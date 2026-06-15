@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "germanische bzw. althochdeutsche Herleitung über Karl/Karla",
+    "Bedeutungszuordnungen wie 'die Freie', 'die Starke' oder 'die Geliebte'",
+    "Varianten wie Karoline, Karolina, Carolin, Caroline, Carolina",
+    "Namenstag-Bezüge",
+    "informative Namenslexika und Beliebtheitsangaben"
+  ],
+  "confidence": 0.86,
+  "display_text": "Karolin wirkt im öffentlichen Bild vor allem klassisch, sachlich und traditionell. Die Evidenz ist stark bei Bedeutung und Herkunft, aber eher schwach für breite öffentliche Resonanz, da hauptsächlich Namenslexika vorliegen.",
+  "evidence_quality": "gut für Herkunft, Bedeutung und Varianten; schwächer für echte öffentliche Resonanz, da überwiegend lexikalische Quellen vorliegen",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Karolin",
+  "normalized_name": "karolin",
+  "overall_resonance": "Karolin wirkt im öffentlichen Namensbild überwiegend sachlich, traditionell und eher ruhig. Die vorliegende Evidenz zeigt vor allem namenskundliche, lexikalische Einträge statt breite öffentliche Debatten oder starke emotionale Reaktionen.",
+  "practical_notes": [
+    "Für Suchmaschinen und Kurzprofile eignet sich Karolin als klassisch-vertrauter Vorname mit eher nüchterner, positiver Grundwirkung.",
+    "Die Schreibweise Karolin ist klar lesbar, aber gegenüber Varianten wie Karoline oder Caroline etwas seltener.",
+    "Bei der Einordnung sollte zwischen Namensbedeutung und tatsächlicher öffentlicher Wahrnehmung unterschieden werden."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt fast ausschließlich aus Namenslexika und nicht aus einer breiten öffentlichen Diskussion.",
+    "Daher ist die Aussage zur tatsächlichen Alltagsresonanz nur vorsichtig belastbar.",
+    "Keine Hinweise auf ausgeprägte Stigmatisierung oder negative Namensklischees in der vorliegenden Evidenz."
+  ],
+  "short_summary": "Karolin wird überwiegend neutral und traditionell wahrgenommen. Die Quellen liefern vor allem Namensbedeutung, Herkunft und Varianten; eine breite öffentliche Debatte ist kaum sichtbar.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Karolin � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/K/Ka/Karolin/"
+    },
+    {
+      "confidence": 0.91,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Karolin: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Karolin.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "traditionell",
+    "weiblich",
+    "eher formell",
+    "namenskundlich geprägt",
+    "zeitlos wirkend"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Mittlere Sichtbarkeit im deutschsprachigen Raum, vor allem als bekannter, aber nicht besonders dominanter Vorname. Die Datenlage deutet eher auf informative Erwähnungen als auf hohe mediale oder soziale Resonanz hin."
+}

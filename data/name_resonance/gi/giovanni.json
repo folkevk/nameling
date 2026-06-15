@@ -1,0 +1,62 @@
+{
+  "associations": [
+    "italienische Form von Johannes",
+    "biblisch/hebräische Herkunft",
+    "Bedeutung: Gott ist gnädig",
+    "Namenstag",
+    "klassischer Vorname",
+    "Spitznamen wie Gio, Gianni, Gino"
+  ],
+  "confidence": 0.9,
+  "display_text": "Giovanni wirkt in Deutschland überwiegend positiv und eher klassisch: ein italienisch geprägter, international verständlicher Vorname mit biblischer Bedeutung. Die Sichtbarkeit ist eher gering bis mittel, die öffentliche Resonanz in den Quellen vor allem informativ und wertschätzend.",
+  "evidence_quality": "Gut für eine vorsichtige Namensbeschreibung, aber inhaltlich auf wenige, überwiegend lexikalische Quellen begrenzt.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Giovanni",
+  "normalized_name": "giovanni",
+  "overall_resonance": "Überwiegend positiv bis neutral-informativ. Giovanni wird in den Quellen vor allem als klassischer, italienisch geprägter und international verständlicher Vorname beschrieben, mit klarer kultureller und religiöser Bedeutung.",
+  "practical_notes": [
+    "Für Suchende wirkt Giovanni klanglich markant und kulturell eindeutig italienisch.",
+    "Der Name ist gut verständlich, aber nicht alltäglich.",
+    "Die öffentliche Resonanz erscheint eher wertschätzend als kritisch."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt vor allem aus zwei Namenslexika und ist damit eher beschreibend als meinungsstark.",
+    "Keine belastbaren Hinweise auf eine negative gesellschaftliche Stigmatisierung im Material.",
+    "Aussagen zur Beliebtheit in Deutschland sind vorsichtig zu lesen, da sie auf Namensseiten und nicht auf breiter öffentlicher Debatte beruhen."
+  ],
+  "short_summary": "Giovanni wird in Deutschland überwiegend positiv und neutral wahrgenommen: klassisch, italienisch, international und mit klarer religiös-kultureller Herkunft.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "positive",
+      "source_type": "web",
+      "title": "Vorname Giovanni � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/G/Gi/Giovanni/"
+    },
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "überwiegend positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Giovanni: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Giovanni.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "international",
+    "italienisch geprägt",
+    "traditionell",
+    "namenskundlich",
+    "eher elegant",
+    "kulturell markant"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland eher gering bis mittel sichtbar; der Name wirkt vertraut, aber nicht massenhaft verbreitet."
+}

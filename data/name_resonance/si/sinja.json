@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "niederdeutsche bzw. friesische Namensherkunft",
+    "Bedeutung im Umfeld von „kleine Sonne“ / „Sonnenschein“",
+    "Heiterkeit und Frohsinn",
+    "Kurzform- oder Variantencharakter",
+    "selten, aber im Namenskontext klar präsent"
+  ],
+  "confidence": 0.85,
+  "display_text": "Sinja wirkt in den verfügbaren Quellen überwiegend freundlich, weich und positiv besetzt. Der Name wird als eher seltener Vorname mit Sonne-, Heiterkeits- und Variantenassoziationen beschrieben. Die Evidenz ist dabei vor allem lexikalisch und nicht breit empirisch, daher ist die öffentliche Resonanz nur vorsichtig zu bewerten.",
+  "evidence_quality": "mittel: zwei klare Namensquellen mit überwiegend deskriptiver, teils positiv konnotierter Darstellung; keine breite empirische Öffentlichkeitsdatenlage",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Sinja",
+  "normalized_name": "sinja",
+  "overall_resonance": "Sinja wird in den vorliegenden Quellen überwiegend positiv und eher weich-klangig wahrgenommen, mit Assoziationen an Sonne, Heiterkeit und einen seltenen, besonderen Vornamen. Die öffentliche Rezeption wirkt insgesamt freundlich, aber nicht stark verbreitet oder eindeutig standardisiert.",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt Sinja angenehm, freundlich und eigenständig.",
+    "Der Name dürfte vor allem wegen seiner Seltenheit auffallen.",
+    "Die Bedeutung wird in den Quellen meist positiv aufgeladen dargestellt.",
+    "Wenn Klarheit wichtig ist, kann man mit kurzen Erklärungen zu Herkunft und Aussprache rechnen."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stützt sich vor allem auf Namenslexika und beschreibende Einträge; die öffentliche Resonanz ist daher nur begrenzt abgesichert.",
+    "Vereinzelt wird auf mögliche Aussprache- oder Verwechslungsfragen hingewiesen.",
+    "Zur tatsächlichen Alltagswahrnehmung gibt es in der vorliegenden Evidenz nur eingeschränkte Aussagen."
+  ],
+  "short_summary": "Sinja wird überwiegend als seltener, freundlich klingender und positiv besetzter Vorname mit Sonne-/Heiterkeitsassoziationen beschrieben.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.99,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Sinja � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/S/Si/Sinja/"
+    },
+    {
+      "confidence": 0.91,
+      "is_name_discussion": true,
+      "sentiment": "eher positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Sinja: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Sinja.html"
+    }
+  ],
+  "style_effect": [
+    "weich und melodisch",
+    "freundlich und sonnig",
+    "modern-ungewöhnlich",
+    "leicht verspielt",
+    "selten und individuell"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Im deutschsprachigen Raum bekannt, aber сравнweise selten; die Wahrnehmung erscheint eher in Namenslexika und Diskussionen über Herkunft und Bedeutung präsent als im alltäglichen Sprachgebrauch."
+}

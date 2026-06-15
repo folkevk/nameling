@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "deutsche Koseform von Margarete",
+    "Bedeutung: „die Perle“",
+    "Goethes Faust / Gretchenfigur",
+    "selten im deutschen Sprachraum",
+    "in den USA bekannter bzw. länger gebräuchlich",
+    "Spitznamen wie Gretl, Gretel, Gretty"
+  ],
+  "confidence": 0.79,
+  "display_text": "Gretchen wirkt im deutschsprachigen Raum selten, traditionell und literarisch geprägt. Die vorliegende Evidenz zeigt vor allem sachlich-neutrale Beschreibungen: Koseform von Margarete, Bedeutung „die Perle“ und starke Faust-Assoziation. Eine breite öffentliche Wertung ist daraus nur begrenzt ableitbar.",
+  "evidence_quality": "eher schwach bis mittel: überwiegend namenskundliche Webquellen, kaum direkte öffentliche Debatte",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Gretchen",
+  "normalized_name": "gretchen",
+  "overall_resonance": "Überwiegend sachlich-neutral mit leicht traditionell-romantischer, literarischer Anmutung. Der Name wirkt im deutschsprachigen Raum eher selten und dadurch auffällig, ohne dass die vorliegende Evidenz auf eine stark polarisierte öffentliche Bewertung hindeutet.",
+  "practical_notes": [
+    "Für eine Namenssuche eignet sich Gretchen vor allem, wenn ein klassischer, seltener und kulturell aufgeladener Name gesucht wird.",
+    "Im deutschsprachigen Alltag kann der Name wegen seiner Seltenheit auffallen.",
+    "Die öffentliche Rezeption wirkt eher beschreibend als wertend."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist schwach bis mittelstark, da überwiegend Namenslexika und keine breite freie öffentliche Diskussion vorliegen.",
+    "Einige Quellen enthalten Nutzerkommentare, die nur eingeschränkt repräsentativ sind.",
+    "Die literarische Gretchen-Referenz kann die Wahrnehmung stark prägen, sollte aber nicht als alleinige öffentliche Meinung verstanden werden."
+  ],
+  "short_summary": "Gretchen wird im Deutschen meist als seltene, traditionelle Koseform von Margarete wahrgenommen, mit klarer literarischer Faust-Assoziation und insgesamt sachlich-neutraler Resonanz.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.92,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Gretchen � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/G/Gr/Gretchen/"
+    },
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Gretchen: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Gretchen.html"
+    }
+  ],
+  "style_effect": [
+    "traditionell",
+    "klassisch",
+    "zärtlich durch Koseform",
+    "literarisch",
+    "leicht altmodisch",
+    "selten und markant"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Im deutschen Sprachraum wenig verbreitet; dadurch eher bekannt als Namensform und durch kulturelle Referenzen als im Alltagsgebrauch sichtbar."
+}

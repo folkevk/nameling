@@ -1,0 +1,69 @@
+{
+  "associations": [
+    "Kurzform von Daniel bzw. Danielle",
+    "hebräische Herkunft",
+    "Bedeutung: „Gott ist mein Richter“ bzw. „Gott sei mein Richter“",
+    "Namenstag",
+    "Unisex-Verwendung",
+    "Beliebtheit in Deutschland",
+    "teilweise als eher männlich eingeordnet, aber auch als Mädchenname gebräuchlich"
+  ],
+  "confidence": 0.85,
+  "display_text": "Dani wird überwiegend neutral bis leicht positiv wahrgenommen: kurz, modern und unkompliziert, mit klarer hebräischer Namensbedeutung. Die Quellen ordnen den Namen teils als Unisex-Name ein, teils eher männlich, insgesamt aber ohne starke öffentliche Kontroversen. Die Evidenz ist jedoch begrenzt, da sie fast nur aus Namensdatenbanken stammt.",
+  "evidence_quality": "mittel bis schwach: inhaltlich klare Namensbelege, aber überwiegend katalogartige Quellen ohne echte öffentliche Meinungsvielfalt.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Dani",
+  "normalized_name": "dani",
+  "overall_resonance": "Dani wirkt in den vorliegenden Quellen insgesamt sachlich-neutral bis leicht positiv, vor allem als kurzer, unkomplizierter Vorname mit klarer Namensbedeutung und bekanntem Herkunftsbezug. Die öffentliche Rezeption ist eher beschreibend als emotional; belastbare freie Meinungsäußerungen sind kaum enthalten.",
+  "practical_notes": [
+    "Für Suchmaschinen eignet sich Dani als kurzer, moderner Name mit klarer Herkunftserklärung.",
+    "Wer auf eindeutige Geschlechtszuordnung Wert legt, sollte beachten, dass die Quellen Dani teils unterschiedlich einordnen.",
+    "Die Datenlage spricht eher für eine nüchterne, unproblematische Wahrnehmung als für starke kulturelle Aufladung."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt fast ausschließlich aus Namenslexika und Datenbankeinträgen, nicht aus freier öffentlicher Debatte.",
+    "Daher ist die echte öffentliche Resonanz nur indirekt erkennbar und eher schwach bis mittel belegt.",
+    "Geschlechtszuordnungen variieren je nach Quelle; das ist eher eine beschreibende Einordnung als eine feste Eigenschaft."
+  ],
+  "short_summary": "Dani wird in den Quellen überwiegend neutral beschrieben: ein kurzer, moderner Vorname mit hebräischer Herkunft und der Bedeutung „Gott ist mein Richter“, teils als Unisex-Name eingeordnet. Die öffentliche Resonanz ist eher sachlich als meinungsstark belegt.",
+  "source_count": 3,
+  "sources": [
+    {
+      "confidence": 0.88,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Dani � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/D/Da/Dani/"
+    },
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Dani � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/D/Da/Dani/"
+    },
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Dani: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Dani.html"
+    }
+  ],
+  "style_effect": [
+    "kurz und prägnant",
+    "modern und unkompliziert",
+    "informell als Kurzform wahrnehmbar",
+    "lexikalisch klar einordenbar",
+    "unisex-nah, in den Quellen teils als eher männlich, teils als geschlechtsübergreifend beschrieben"
+  ],
+  "usable_evidence_count": 3,
+  "visibility": "Mittlere Sichtbarkeit in Namensdatenbanken und Vornamensverzeichnissen; als eigenständiger Vorname und Kurzform gut auffindbar, aber mit begrenzter evidenzbasierter öffentlicher Diskussion."
+}

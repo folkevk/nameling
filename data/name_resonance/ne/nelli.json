@@ -1,0 +1,64 @@
+{
+  "associations": [
+    "Kurz- und Koseform",
+    "weiblicher Vorname",
+    "Cornelia",
+    "Petronella",
+    "Eleonore",
+    "Helena",
+    "Namenstag",
+    "Beliebtheit",
+    "Deutschland"
+  ],
+  "confidence": 0.84,
+  "display_text": "Nelli wirkt in der öffentlichen Namenswahrnehmung meist freundlich, kurz und kosehaft. In den verfügbaren Quellen wird der Name vor allem sachlich-positiv beschrieben, mit Bezügen zu Cornelia, Helena oder Eleonore. Die Evidenz ist jedoch überwiegend lexikalisch, daher nur vorsichtig als öffentliche Resonanz zu deuten.",
+  "evidence_quality": "Eher gut für Herkunft, Bedeutung und lexikalische Einordnung; schwächer für echte öffentliche Resonanz, da die Quellen vor allem Namensdatenbanken und Lexika sind.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Nelli",
+  "normalized_name": "nelli",
+  "overall_resonance": "Nelli wird öffentlich vor allem sachlich und eher positiv wahrgenommen: als kurzer, freundlicher weiblicher Vorname, oft mit Koseform-Charakter und namenskundlichem Bezug zu längeren Namen. Die verfügbare Evidenz deutet auf eine unaufgeregte, wohlwollende Namensresonanz hin.",
+  "practical_notes": [
+    "Als Name wirkt Nelli unkompliziert, eingängig und leicht merkbar.",
+    "Durch die kurze Form kann er modern und zugleich vertraut erscheinen.",
+    "Für eine belastbare Einschätzung der tatsächlichen öffentlichen Wahrnehmung wären zusätzliche, breiter gestreute Quellen sinnvoll."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist überwiegend lexikalisch und nicht breit aus öffentlicher Alltagsdiskussion abgeleitet.",
+    "Ableitungen zu Herkunft und Wirkung sind daher nur vorsichtig zu verstehen.",
+    "Keine belastbaren Hinweise auf negative soziale Stigmatisierung in der vorliegenden Evidenz."
+  ],
+  "short_summary": "Nelli wird meist freundlich, kurz und kosehaft wahrgenommen; die verfügbare Evidenz ist überwiegend sachlich-informativ und nicht breit gesellschaftlich diskutiert.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Nelli � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/N/Ne/Nelli/"
+    },
+    {
+      "confidence": 0.95,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Nelli: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Nelli.html"
+    }
+  ],
+  "style_effect": [
+    "kurz",
+    "weich",
+    "freundlich",
+    "modern-klassisch",
+    "kosehaft",
+    "leicht verspielt"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Mittlere Sichtbarkeit im deutschsprachigen Namenskontext; der Name erscheint in Namenslexika und Beliebtheitsübersichten, aber die öffentliche Diskussionslage ist eher schmal und stark von Namensdatenbanken geprägt."
+}

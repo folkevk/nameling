@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "althochdeutsche bzw. altdeutsche Herkunft",
+    "Bedeutungen wie \"die berühmt Starke\", \"die Ruhmreiche\" oder \"die Erfolgreiche\"",
+    "zweigliedriger germanischer Name",
+    "Namenstag",
+    "älterer, heute seltener Vorname",
+    "lexikalisch und historisch geprägt"
+  ],
+  "confidence": 0.92,
+  "display_text": "Roswitha wird meist als klassischer, traditionsreicher und heute eher seltener deutscher Vorname wahrgenommen. Die verfügbaren Quellen betonen vor allem Herkunft, Bedeutung und Namensgeschichte; eine breitere öffentliche Debatte ist kaum erkennbar.",
+  "evidence_quality": "gut für Herkunft, Bedeutung und Namensgebrauch; begrenzt für echte öffentliche Meinung, da fast ausschließlich lexikalische Quellen vorliegen.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Roswitha",
+  "normalized_name": "roswitha",
+  "overall_resonance": "Roswitha wird öffentlich vor allem als klassischer, alter deutscher Mädchenname wahrgenommen, der sprachlich traditionsreich und eher selten vergeben ist. Die Rezeption ist überwiegend neutral bis wertschätzend, mit Fokus auf Herkunft, Bedeutung und Namensgeschichte.",
+  "practical_notes": [
+    "Für Suchmaschinen wirkt der Name vor allem historisch und erklärungsbedürftig.",
+    "Die Wahrnehmung hängt stark davon ab, ob klassische deutsche Vornamen als positiv oder altmodisch gelesen werden.",
+    "Wegen der geringen heutigen Verbreitung kann der Name als besonders eigenständig empfunden werden."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt fast nur aus Namensdatenbanken und Lexika, nicht aus breiter öffentlicher Debatte.",
+    "Es gibt keine belastbaren Hinweise auf eine aktuelle soziale Stigmatisierung des Namens in den vorliegenden Quellen.",
+    "Einzelne kulturelle Bezüge in den Quellen sind nicht als allgemeine öffentliche Meinung zu verstehen."
+  ],
+  "short_summary": "Roswitha gilt als klassischer, seltener deutscher Vorname mit starker historischer und sprachlicher Prägung. Die öffentliche Rezeption in den verfügbaren Quellen ist neutral bis positiv, aber nur begrenzt breit belegt.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Roswitha � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/R/Ro/Roswitha/"
+    },
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Roswitha: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Roswitha.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "traditionsbetont",
+    "sprachhistorisch",
+    "selten",
+    "eher formal",
+    "namenskundlich markant"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Der Name ist in Namenslexika und Verzeichnissen gut auffindbar, im alltäglichen Sprachgebrauch aber eher wenig präsent, da er heute seltener vergeben wird."
+}

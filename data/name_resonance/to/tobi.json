@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "Kurzform von Tobias",
+    "hebräische Herkunft",
+    "Bedeutung: \"Jahwe ist gut/gütig/gnädig\"",
+    "selten als eigenständiger Vorname in Deutschland",
+    "überwiegend männlich, teils genderneutral eingeordnet",
+    "Namenstag in manchen Quellen genannt",
+    "in einzelnen Quellen als süß oder niedlich beschrieben"
+  ],
+  "confidence": 0.72,
+  "display_text": "Tobi wirkt in den verfügbaren Quellen überwiegend freundlich, locker und spitznamenhaft. Der Name erscheint als Kurzform von Tobias, mit positiver, eher niedlicher Anmutung. Die Evidenz ist jedoch begrenzt und stammt vor allem aus Namenslexika.",
+  "evidence_quality": "Begrenzt: hauptsächlich lexikalische Quellen und wenige sekundäre Beschreibungen; kaum echte öffentliche Diskussionsdaten.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Tobi",
+  "normalized_name": "tobi",
+  "overall_resonance": "Überwiegend freundliche und sachlich-neutrale Resonanz. Tobi wird meist als Kurzform von Tobias wahrgenommen und wirkt eher locker, vertraut und umgangssprachlich als formell. Öffentliche Hinweise deuten auf eine positive, teils niedliche bzw. kosehafte Wirkung hin, bei gleichzeitig sehr schmaler Evidenzbasis.",
+  "practical_notes": [
+    "Für formelle Kontexte wirkt Tobi eher wie ein Spitzname als wie ein ausgeschriebener Vorname.",
+    "Im Alltag kann der Name sympathisch, nahbar und unkompliziert wirken.",
+    "Wer einen eigenständigen, seltenen und kurzen Vornamen sucht, findet hier eine eher informelle Option."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz zur öffentlichen Resonanz ist schwach und stammt überwiegend aus Namenslexika statt aus breiter Diskussion.",
+    "Positive oder niedliche Konnotationen sollten nicht als allgemeingültig verstanden werden, sondern als punktuelle Eindrücke.",
+    "Keine belastbaren Hinweise auf Stigmatisierung oder negative gesellschaftliche Zuschreibungen in den vorliegenden Quellen."
+  ],
+  "short_summary": "Tobi wird in den vorliegenden Quellen überwiegend freundlich, locker und kosehaft wahrgenommen, allerdings auf schmaler Datenbasis.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Tobi � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/T/To/Tobi/"
+    },
+    {
+      "confidence": 0.91,
+      "is_name_discussion": true,
+      "sentiment": "positive",
+      "source_type": "web",
+      "title": "&#9655; Vorname Tobi: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Tobi.html"
+    }
+  ],
+  "style_effect": [
+    "kurz und vertraut",
+    "umgangssprachlich",
+    "kosehaft/spitznamenhaft",
+    "locker und freundlich",
+    "eher informell als offiziell"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Eher geringe öffentliche Sichtbarkeit als eigenständiger Vorname in Deutschland; Tobi erscheint vor allem in Namenslexika und einzelnen Beschreibungen, nicht als breit diskutierter Name."
+}

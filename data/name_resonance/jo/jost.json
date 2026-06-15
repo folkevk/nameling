@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "Kurzform von Jodokus",
+    "keltisch-bretonische Herkunft",
+    "Bedeutung im Sinn von „Herr“, „Kämpfer“ oder „Krieger“",
+    "männlicher Vorname",
+    "Namenstag am 13. Dezember",
+    "selten und eher eigenständig wirkend"
+  ],
+  "confidence": 0.84,
+  "display_text": "Jost wirkt in der öffentlichen Rezeption eher sachlich und leicht positiv: kurz, selten und traditionell. Die Quellen betonen vor allem Herkunft, Bedeutung und Namenstag; eine breite öffentliche Debatte ist kaum erkennbar.",
+  "evidence_quality": "Mittel bis gut: inhaltlich klar, aber stark quellenarm und überwiegend datenbankbasiert.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Jost",
+  "normalized_name": "jost",
+  "overall_resonance": "Die öffentliche Wahrnehmung von „Jost“ wirkt eher freundlich-nüchtern mit leicht positiver Namenswirkung. Der Name wird vor allem sachlich über Herkunft, Bedeutung und Seltenheit beschrieben.",
+  "practical_notes": [
+    "Für Suchende wirkt der Name kompakt, traditionell und ungewöhnlich.",
+    "Die Seltenheit kann als Vorteil für Wiedererkennbarkeit wahrgenommen werden.",
+    "Die Quellenlage ist eher lexikalisch als diskursiv, daher nur begrenzt öffentliches Meinungsbild sichtbar."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt fast nur aus Namensdatenbanken und wenigen Kommentaren.",
+    "Die leicht positive Wirkung ist daher vorsichtig zu lesen und nicht als breite Mehrheitsmeinung zu verstehen.",
+    "Keine Hinweise auf eine relevante soziale Stigmatisierung in der vorliegenden Evidenz."
+  ],
+  "short_summary": "Jost wird überwiegend sachlich beschrieben und leicht positiv als kurzer, seltener und traditionsnaher Name wahrgenommen.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Jost � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/J/Jo/Jost/"
+    },
+    {
+      "confidence": 0.88,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Jost: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Jost.html"
+    }
+  ],
+  "style_effect": [
+    "kurz",
+    "klar",
+    "traditionell",
+    "eher markant",
+    "seltenheitsbetont"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Eher selten bis bekannt, mit klarer Präsenz in Namenslexika, aber wenig breiter öffentlicher Debatte."
+}

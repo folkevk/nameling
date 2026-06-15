@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "weiblicher Vorname",
+    "englische Kurzform von Aimee/Aimée",
+    "französisch-altfranzösische Herkunft",
+    "lateinische Wurzeln über \"amare\"",
+    "Bedeutung: die Geliebte / die Liebende / die Beliebte",
+    "eher selten, aber zunehmend beliebt in Deutschland",
+    "Namenstag in manchen Quellen genannt"
+  ],
+  "confidence": 0.77,
+  "display_text": "Amy wirkt in den vorliegenden Quellen überwiegend positiv: kurz, international und mit der häufig genannten Bedeutung „die Geliebte“ bzw. „die Liebende“. In Deutschland erscheint der Name eher selten, aber zunehmend beliebt. Wichtig ist: Die Evidenz für echte öffentliche Resonanz ist begrenzt und stammt fast nur aus Namenslexika, daher nur als vorsichtige Tendenz zu verstehen.",
+  "evidence_quality": "mittel bis schwach; überwiegend beschreibende Namenslexikon-Quellen, wenig echte öffentliche Diskussion",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Amy",
+  "normalized_name": "amy",
+  "overall_resonance": "Überwiegend positiv und freundlich, aber mit eher schwacher öffentlicher Evidenz. Amy wird in Namenslexika meist als kurzer, internationaler und angenehm klingender Vorname mit positiver Bedeutung beschrieben.",
+  "practical_notes": [
+    "Für eine Namenssuche eignet sich Amy besonders, wenn ein kurzer, international verständlicher Name gesucht wird.",
+    "Die positive Wirkung hängt in den Quellen vor allem an der Bedeutungsassoziation mit Liebe und Zuneigung.",
+    "Da die Quellenlage dünn ist, sollte die Einschätzung eher als vorsichtige Tendenz gelesen werden."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz zur öffentlichen Resonanz ist schwach und stammt fast nur aus Namenslexika.",
+    "Vereinzelt enthaltene Kommentare sind nicht breit genug, um eine belastbare gesellschaftliche Stimmung abzuleiten.",
+    "Keine Hinweise auf eine stärkere negative Stigmatisierung in den vorliegenden Quellen."
+  ],
+  "short_summary": "Amy wird in Deutschland meist freundlich und positiv wahrgenommen, vor allem wegen Klang, Kürze und der Bedeutung. Die öffentliche Evidenz ist jedoch begrenzt und vor allem lexikalisch.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "Vorname Amy � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/A/Am/Amy/"
+    },
+    {
+      "confidence": 0.88,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Amy: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Amy.html"
+    }
+  ],
+  "style_effect": [
+    "kurz und modern",
+    "international/englisch wahrgenommen",
+    "weich und freundlich im Klang",
+    "lexikalisch häufig mit Liebes-Bedeutung verknüpft",
+    "eher unkompliziert und zeitlos als extravagant"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland wirkt der Name eher bekannt als sehr häufig; er wird meist als eher selten, aber stetig beliebter dargestellt. Die öffentliche Sichtbarkeit stammt hier vor allem aus Namensportalen, nicht aus breiter diskussionsbasierter Resonanz."
+}

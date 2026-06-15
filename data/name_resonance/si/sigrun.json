@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "Sieg",
+    "Geheimnis oder Zauber",
+    "Rune",
+    "Walküre",
+    "althochdeutscher bzw. nordischer Klang",
+    "selten in Deutschland"
+  ],
+  "confidence": 0.83,
+  "display_text": "Sigrun wirkt öffentlich eher selten, traditionsreich und nordisch. Die Resonanz ist überwiegend neutral bis leicht positiv, mit klaren Assoziationen zu Sieg, Geheimnis/Zauber und Walküren.",
+  "evidence_quality": "mittel; zwei klare namenbezogene Webquellen, aber begrenzte öffentliche Breite und teils navigations-/kommentarlastige Auszüge",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Sigrun",
+  "normalized_name": "sigrun",
+  "overall_resonance": "Sigrun wird in der öffentlichen Namenswahrnehmung eher sachlich bis leicht positiv beschrieben. Der Name wirkt selten, altdeutsch/nordisch und traditionsnah, mit klaren Assoziationen zu Bedeutung, Herkunft und Namenskunde. Eine starke breite Popularität ist in den Quellen nicht erkennbar.",
+  "practical_notes": [
+    "Für Suchmaschinen wirkt der Name klar und gut einordenbar, mit starkem etymologischem Profil.",
+    "Wer einen ungewöhnlichen, historisch klingenden Namen sucht, findet hier eher positive als negative Resonanz.",
+    "Die Quellenlage ist eher mittelstark: gut für Bedeutung und Herkunft, weniger gut für echte öffentliche Meinungsbreite."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist überwiegend namenskundlich und nicht aus breiter öffentlicher Diskussion abgeleitet.",
+    "Einzelne Seiten enthalten auch Nutzerkommentare; diese sollten nicht als allgemeines Stimmungsbild verstanden werden.",
+    "Die Seltenheit des Namens ist eine Häufigkeitsbeobachtung, keine Bewertung der Namensqualität."
+  ],
+  "short_summary": "Sigrun wird meist als seltener, nordisch-altdeutscher Vorname mit starker Bedeutungs- und Herkunftsassoziation wahrgenommen; die Resonanz ist eher neutral bis leicht positiv.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.99,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Sigrun � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/S/Si/Sigrun/"
+    },
+    {
+      "confidence": 0.86,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Sigrun: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Sigrun.html"
+    }
+  ],
+  "style_effect": [
+    "traditionell",
+    "nordisch",
+    "altsprachlich",
+    "selten",
+    "ernsthaft",
+    "namenskundlich"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland wirkt Sigrun eher ungewöhnlich und wenig verbreitet. Die Sichtbarkeit entsteht vor allem über Namenslexika und Bedeutungsseiten, nicht über eine breite Alltagsnutzung."
+}

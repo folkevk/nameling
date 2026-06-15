@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "Kurzform von Elisabeth",
+    "hebräischer Ursprung",
+    "Bedeutungen wie „Gott hat geschworen“ bzw. „die Gottgeweihte“ je nach Quelle",
+    "Lilie als Blumenassoziation",
+    "Namenstag",
+    "Beliebtheit in Deutschland",
+    "Koseform/Spitzname"
+  ],
+  "confidence": 0.92,
+  "display_text": "Lilly hat in Deutschland eine überwiegend positive Resonanz: Der Name wirkt weich, freundlich und modern, zugleich aber vertraut und etabliert. Häufig genannt werden die Herkunft als Kurzform von Elisabeth, hebräische Wurzeln und die blumige Assoziation mit der Lilie. Die vorliegende Evidenz stammt vor allem aus Namenslexika; sie zeigt daher eher Bedeutung und Beliebtheit als eine breite gesellschaftliche Debatte.",
+  "evidence_quality": "Gut für Namensbedeutung, Herkunft und Popularität; nur begrenzt geeignet für eine breite soziale Resonanz, da überwiegend lexikalische Quellen vorliegen.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Lilly",
+  "normalized_name": "lilly",
+  "overall_resonance": "Überwiegend positiv und freundlich, mit starkem Familien- und Naturbezug; in Deutschland zudem als sehr geläufiger, moderner Mädchenname wahrgenommen.",
+  "practical_notes": [
+    "Für Suchmaschinen wirkt der Name klar positiv, schlicht und sehr zugänglich.",
+    "Die Schreibweise ist eingängig und im deutschsprachigen Raum gut etabliert.",
+    "Der Name trägt eher weiche, freundliche Konnotationen als formelle oder harte Assoziationen."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Quellen sind vor allem Namenslexika und keine breite öffentliche Debatte; die Evidenz beschreibt daher eher die Namensbedeutung und Popularität als echte Alltagsresonanz.",
+    "Beliebtheitsangaben können zeitgebunden sein.",
+    "Einzelne Nutzerkommentare auf einer Quelle sollten nicht übergewichtet werden."
+  ],
+  "short_summary": "Lilly wird in Deutschland meist als beliebter, weicher und freundlicher Mädchenname mit Lilien- und Kurzform-Assoziationen wahrgenommen.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "Vorname Lilly � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/L/Li/Lilly/"
+    },
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Lilly: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Lilly.html"
+    }
+  ],
+  "style_effect": [
+    "weich und klangvoll",
+    "lieblich und jugendlich",
+    "klassisch-modern",
+    "naturverbunden durch die Assoziation mit der Lilie",
+    "kurzform-/koseformnah"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Hoch sichtbar im deutschsprachigen Namenskontext; als beliebter Vorname seit Jahren präsent und leicht wiedererkennbar."
+}

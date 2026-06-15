@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "Kurzform von Dorothea und Theodora",
+    "altgriechische Herkunft",
+    "Bedeutung im Sinne von „Gottesgeschenk“ bzw. „Göttin“",
+    "weiblicher Vorname",
+    "im deutschen Sprachraum verbreitet",
+    "in Namensportalen als beliebt bzw. aufstrebend beschrieben"
+  ],
+  "confidence": 0.84,
+  "display_text": "Thea wird überwiegend positiv und als klassisch-klarer Mädchenname wahrgenommen. In den Quellen erscheint er als Kurzform von Dorothea oder Theodora, mit altgriechischer Herkunft und Bedeutungen wie „Gottesgeschenk“. Die Namensseiten beschreiben Thea als im deutschen Sprachraum gut bekannt und teils aufstrebend beliebt. Gleichzeitig ist die Evidenz vor allem namenskundlich und nicht besonders breit, daher sollte die Einschätzung vorsichtig gelesen werden.",
+  "evidence_quality": "mittel bis hoch, aber in der Breite begrenzt; vor allem namenskundliche Webquellen statt großer öffentlicher Resonanzdaten",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Thea",
+  "normalized_name": "thea",
+  "overall_resonance": "Thea wird in den vorliegenden Namensquellen überwiegend positiv und wertschätzend beschrieben. Der Name wirkt kurz, klar und klassisch, mit guter Bekanntheit im deutschen Sprachraum. Die öffentliche Wahrnehmung scheint eher freundlich und aktuell, allerdings stammt die Evidenz fast nur aus wenigen Namensseiten.",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt Thea unkompliziert, eingängig und gut merkbar.",
+    "Der Name funktioniert im Deutschen sehr gut und ist auch international leicht aussprechbar.",
+    "Als Kurzform kann Thea zugleich modern und traditionell wirken."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist begrenzt und stark von einzelnen Namensportalen geprägt.",
+    "Beliebtheitsangaben spiegeln eher Seiteninhalte als breite öffentliche Meinungsdaten wider.",
+    "Keine Hinweise auf soziale Stigmatisierung in den Quellen."
+  ],
+  "short_summary": "Thea wird überwiegend positiv, klassisch und freundlich wahrgenommen; die Quellen betonen Herkunft, kurze Form und aktuelle Beliebtheit, bei insgesamt begrenzter Evidenz.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "positive",
+      "source_type": "web",
+      "title": "Vorname Thea � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/T/Th/Thea/"
+    },
+    {
+      "confidence": 0.78,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Thea: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Thea.html"
+    }
+  ],
+  "style_effect": [
+    "kurz und prägnant",
+    "klassisch-traditionell",
+    "freundlich und zugänglich",
+    "namenskundlich etabliert",
+    "modern genug durch aktuelle Beliebtheit"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Im deutschsprachigen Raum ist Thea sichtbar und verständlich, vor allem als eigenständiger Vorname und zugleich als Kurzform. Die Quellen deuten auf eine solide, teils aufstrebende Präsenz hin, ohne dass dafür breite öffentliche Resonanzdaten vorliegen."
+}

@@ -1,0 +1,68 @@
+{
+  "associations": [
+    "slawische Form von Michael",
+    "biblische/hebräische Wurzeln",
+    "Unisex- bzw. auch weibliche Verwendung",
+    "Namenstag am 29. September",
+    "in Deutschland eher selten bis mittelmäßig häufig",
+    "Namensvariante in mehreren Sprachen (z. B. tschechisch, slowakisch, polnisch)"
+  ],
+  "confidence": 0.91,
+  "display_text": "Michal wirkt in Deutschland überwiegend sachlich-neutral: ein internationaler, slawisch und biblisch geprägter Name, der eher selten bis mäßig bekannt ist. Die verfügbare Evidenz ist vor allem informativ, nicht meinungsstark, daher ist die öffentliche Resonanz nur vorsichtig als neutral bis leicht positiv einzuordnen.",
+  "evidence_quality": "mittel bis gut: inhaltlich klare Namensbeschreibungen, aber wenig direkte öffentliche Meinungsäußerung",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Michal",
+  "normalized_name": "michal",
+  "overall_resonance": "Überwiegend sachlich-neutral mit leicht positiver Einordnung durch Herkunft, Namenstag und die Einordnung als international gebräuchliche Form.",
+  "practical_notes": [
+    "Für die öffentliche Wahrnehmung wirkt Michal eher nüchtern, kulturell anschlussfähig und international.",
+    "Die Schreibweise kann in Deutschland gelegentlich mit Michael verwechselt werden.",
+    "Als Vorname ist er gut erklärbar und durch die Namenstag-/Herkunftsangaben leicht einordenbar."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt überwiegend aus Namensdatenbanken und Informationsseiten, nicht aus echten Diskussionsforen; öffentliche Resonanz ist daher nur begrenzt ableitbar.",
+    "Einzelne Angaben zur Beliebtheit sollten vorsichtig gelesen werden, da sie je nach Quelle und Schreibweise variieren können.",
+    "Keine Hinweise auf eine klare soziale Stigmatisierung; falls im Alltag Vorurteile auftreten, wären diese eher auf Verwechslungen oder Bekanntheitsgrad als auf den Namen selbst zurückzuführen."
+  ],
+  "short_summary": "Michal wird in den Quellen vor allem sachlich beschrieben: als slawische, biblisch geprägte Form von Michael, teils unisex und in Deutschland eher selten bis mäßig verbreitet. Die Resonanz wirkt neutral bis leicht positiv, aber die öffentliche Meinungsbasis ist begrenzt.",
+  "source_count": 3,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Michal � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/M/Mi/Michal/"
+    },
+    {
+      "confidence": 0.95,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Michal � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/M/Mi/Michal/"
+    },
+    {
+      "confidence": 0.89,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Michal: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Michal.html"
+    }
+  ],
+  "style_effect": [
+    "informativ",
+    "lexikalisch",
+    "biblisch geprägt",
+    "slawisch/international",
+    "neutral-beschreibend"
+  ],
+  "usable_evidence_count": 3,
+  "visibility": "In Deutschland als eher selten bis mäßig bekannt beschrieben; der Name taucht vor allem in Namensdatenbanken und lexikalischen Quellen auf, nicht als stark diskutierter Popkultur- oder Trendname."
+}

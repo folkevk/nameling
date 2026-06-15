@@ -1,0 +1,63 @@
+{
+  "associations": [
+    "weiblicher Vorname",
+    "Kurzform",
+    "slawische Herkunft",
+    "altslawische und keltische Deutungen",
+    "Bedeutungen wie „die Lichtbringende“, „die Helle“ oder „kleiner Fels“",
+    "Namenstag",
+    "kurz, einprägsam, selten bis moderat bekannt",
+    "mögliche Verwechslung mit ähnlichen Namen wie Lara, Lena oder Jana"
+  ],
+  "confidence": 0.78,
+  "display_text": "Lana wird meist freundlich, modern und einprägsam wahrgenommen. Die verfügbaren Quellen deuten auf eine eher positive bis neutrale Resonanz hin, betonen aber vor allem Namensbedeutung und Herkunft statt eine breite öffentliche Debatte. Die Evidenz ist begrenzt und stammt überwiegend aus Namenslexika.",
+  "evidence_quality": "mittel bis eher schwach, da die Evidenz vor allem aus zwei Namenslexikon-Seiten besteht und keine breite öffentliche Diskussion zeigt.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Lana",
+  "normalized_name": "lana",
+  "overall_resonance": "Der Vorname Lana wirkt in der öffentlichen Namenswahrnehmung überwiegend freundlich, modern und einprägsam. Die vorhandene Evidenz deutet auf eine eher positive bis neutrale Resonanz hin, vor allem wegen der kurzen, klaren Form und der mehrfach genannten Bedeutungszuordnungen.",
+  "practical_notes": [
+    "Für Suchmaschinen- oder Namenskontexte ist Lana gut verständlich und leicht zu erfassen.",
+    "Die Namenswirkung hängt stark von der jeweiligen Aussprache und dem Umfeld ab.",
+    "Wegen der Kürze kann der Name mit ähnlichen Namen verwechselt werden.",
+    "Die Herkunft wird unterschiedlich erklärt; das sollte eher als Mehrdeutigkeit denn als gesicherte Einzelbedeutung gelesen werden."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt überwiegend von wenigen Vornamensseiten und ist daher begrenzt belastbar.",
+    "Es gibt keine klare öffentliche Debatte über den Namen selbst, sondern vor allem lexikalische Beschreibungen.",
+    "Einzelne Bewertungen können durch kommerzielle Namensseiten verzerrt sein."
+  ],
+  "short_summary": "Lana wird in der verfügbaren Evidenz überwiegend positiv und als kurzer, moderner und einprägsamer Vorname beschrieben, allerdings auf Basis begrenzter, vor allem lexikalischer Quellen.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.99,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Lana � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/L/La/Lana/"
+    },
+    {
+      "confidence": 0.83,
+      "is_name_discussion": true,
+      "sentiment": "eher positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Lana: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Lana.html"
+    }
+  ],
+  "style_effect": [
+    "kurz und leicht merkbar",
+    "modern und sanft klingend",
+    "eher elegant als spröde",
+    "namenskundlich aufgeladen durch mehrere Herkunftsdeutungen",
+    "teilweise als international wirkend wahrgenommen"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland scheint Lana als Name bekannt und präsent zu sein, aber eher als kurzer, markanter Vorname mit moderater Sichtbarkeit. Die Evidenz spricht mehr für namenskundliche Bekanntheit als für starke öffentliche Debatte."
+}

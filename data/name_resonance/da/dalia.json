@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "Bedeutung und Herkunft",
+    "Dahlie",
+    "Weinrebe",
+    "Schicksal und Glück",
+    "litauische Mythologie",
+    "weiblicher Vorname",
+    "Namensbedeutung",
+    "Namenstag"
+  ],
+  "confidence": 0.87,
+  "display_text": "Dalia wirkt in der öffentlichen Rezeption überwiegend positiv bis neutral: weich klingend, freundlich und eher elegant. Der Name wird vor allem mit Bedeutung, Herkunft, Schicksal/Glück und der Dahlie assoziiert. Die Evidenz ist solide, aber größtenteils namenskundlich und nur begrenzt frei öffentlich diskutiert.",
+  "evidence_quality": "gut, aber nicht vollständig repräsentativ; überwiegend Namensdatenbanken mit etwas subjektiver Resonanz",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Dalia",
+  "normalized_name": "dalia",
+  "overall_resonance": "Überwiegend positiv bis neutral. Dalia wird in der vorliegenden Evidenz vor allem als weich klingender, angenehm wirkender Mädchenname mit klaren Bedeutungs- und Herkunftsbezügen beschrieben.",
+  "practical_notes": [
+    "Für eine Namenssuche eignet sich Dalia als kurzer, gut aussprechbarer Vorname mit freundlicher Wirkung.",
+    "Die Evidenzlage ist solide, aber auf Namensdatenbanken und einzelne Rückmeldungen konzentriert, nicht auf breite freie Debatte."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die positiven Eindrücke stammen teilweise aus Bedeutungs- und Klangassoziationen; das ist keine objektive Eigenschaft des Namens.",
+    "Ein Teil der Quelle enthält redaktionelle bzw. subjektive Bewertungen, daher nur vorsichtig verallgemeinern."
+  ],
+  "short_summary": "Dalia wird in den Quellen überwiegend positiv und sachlich wahrgenommen: ein weicher, hübsch klingender Name mit starker Bedeutungs- und Herkunftsassoziation.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Dalia � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/D/Da/Dalia/"
+    },
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Dalia: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Dalia.html"
+    }
+  ],
+  "style_effect": [
+    "weich",
+    "elegant",
+    "freundlich",
+    "modern-klassisch",
+    "eher emotional als nüchtern"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland wirkt der Name eher bekannt, aber nicht massenhaft verbreitet. Die öffentliche Wahrnehmung scheint eher namenskundlich als stark alltagsumgangssprachlich geprägt zu sein."
+}

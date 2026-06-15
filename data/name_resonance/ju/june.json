@@ -1,0 +1,62 @@
+{
+  "associations": [
+    "englische Form von Juni",
+    "Monatsname Juni",
+    "lateinische bzw. römisch-mythologische Bezüge über Juno/Juni",
+    "Bedeutung: im Juni geboren",
+    "weiblicher Vorname",
+    "Namenstag am 17. Juni",
+    "seit dem 19. Jahrhundert in Gebrauch"
+  ],
+  "confidence": 0.82,
+  "display_text": "June wirkt in den vorliegenden Quellen überwiegend positiv: international, weich im Klang und mit klarer Verbindung zum Monat Juni. Die Datenlage ist solide für Herkunft und Bedeutung, aber nur begrenzt aussagekräftig für die breite Alltagswahrnehmung.",
+  "evidence_quality": "gut für Herkunft, Bedeutung und grobe Resonanz; nur begrenzt repräsentativ für breite öffentliche Wahrnehmung",
+  "generated_at": "2026-06-14T10:47:41Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "June",
+  "normalized_name": "june",
+  "overall_resonance": "June wird in den vorliegenden deutschsprachigen Namensquellen überwiegend positiv und freundlich wahrgenommen. Der Name wirkt international, leicht modern und zugleich klassisch genug, um als etablierter Vorname zu gelten.",
+  "practical_notes": [
+    "Für deutschsprachige Nutzer ist der Name gut verständlich, auch wenn er international wirkt.",
+    "Die Schreibweise ist kurz und klar, kann aber wegen der englischen Form gelegentlich nach Buchstabierung fragen lassen.",
+    "Als Vorname vermittelt June eher Leichtigkeit und Modernität als Tradition.",
+    "Die öffentliche Diskussion fokussiert vor allem Herkunft, Bedeutung und Klang."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Einzelne Quellen nennen mögliche Schreib- oder Ausspracheunsicherheiten; das wirkt aber nicht als starkes negatives Signal.",
+    "Die Evidenz zur Alltagsresonanz ist begrenzt und stützt sich vor allem auf Namenslexika und wenige Community-Hinweise.",
+    "Keine belastbaren Hinweise auf soziale Stigmatisierung in den vorliegenden Daten."
+  ],
+  "short_summary": "June wird im Deutschen meist freundlich und modern wahrgenommen, mit klaren internationalen und monatsbezogenen Assoziationen. Einzelne Hinweise auf Aussprache oder Schreibweise existieren, sind aber eher Nebenpunkte.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname June � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/J/Ju/June/"
+    },
+    {
+      "confidence": 0.92,
+      "is_name_discussion": true,
+      "sentiment": "positive",
+      "source_type": "web",
+      "title": "&#9655; Vorname June: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,June.html"
+    }
+  ],
+  "style_effect": [
+    "englisch-international",
+    "weich und freundlich im Klang",
+    "modern, aber nicht trendig-aufdringlich",
+    "kurz und klar",
+    "namenskundlich gut einordenbar"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Im deutschsprachigen Raum ist June als Vorname bekannt, aber eher nicht sehr häufig. Die öffentliche Wahrnehmung scheint daher eher niche- bis moderat präsent zu sein."
+}

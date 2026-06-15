@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "altgriechische bzw. griechische Herkunft",
+    "Bedeutungen wie liebend, freundlich, liebenswert oder hübsch",
+    "Goethes „Wilhelm Meisters Lehrjahre“",
+    "seit dem 19. Jahrhundert in Deutschland bekannt",
+    "Namenstag am 11. August",
+    "selten, aber etabliert"
+  ],
+  "confidence": 0.88,
+  "display_text": "Philine wirkt öffentlich überwiegend positiv: freundlich, elegant und literarisch geprägt. In Deutschland ist der Name bekannt, aber eher selten; die Resonanz lässt sich vor allem aus Namenslexika und Beliebtheitsangaben ableiten.",
+  "evidence_quality": "Gut für Herkunft, Bedeutung und stilistische Einordnung; eingeschränkt für echte öffentliche Resonanz, da die Evidenz überwiegend aus zwei Namenslexikon-Quellen besteht.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Philine",
+  "normalized_name": "philine",
+  "overall_resonance": "Überwiegend positiv und eher klassisch-elegant wahrgenommen; die öffentliche Resonanz wirkt freundlich, literarisch und in Deutschland etabliert, aber insgesamt nicht breit dokumentiert.",
+  "practical_notes": [
+    "Für Suchmaschinen- und Namenskontexte wirkt Philine angenehm, gebildet und unaufgeregt.",
+    "Der Name ist gut einordbar, ohne stark modisch zu wirken.",
+    "Die Quellenlage spricht eher für ein positives Image als für Kontroversen."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt fast ausschließlich aus Namenslexika; breite öffentliche Resonanz ist nur indirekt erkennbar.",
+    "Einzelne positive Stilurteile in den Quellen sollten nicht als allgemeine gesellschaftliche Mehrheitsmeinung verstanden werden."
+  ],
+  "short_summary": "Philine wird in den verfügbaren Quellen überwiegend positiv, freundlich und klassisch-elegant beschrieben. Der Name ist in Deutschland bekannt, aber eher selten; die öffentliche Resonanz ist vor allem indirekt über Namensseiten belegt.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.94,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "Vorname Philine � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/P/Ph/Philine/"
+    },
+    {
+      "confidence": 0.95,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Philine: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Philine.html"
+    }
+  ],
+  "style_effect": [
+    "freundlich",
+    "liebenswert",
+    "elegant",
+    "klassisch",
+    "literarisch",
+    "weich im Klang",
+    "modern genug, aber nicht modisch-auffällig"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland bekannt, dabei eher selten als Massenname, aber nicht unbekannt. Die Sichtbarkeit ergibt sich vor allem aus Namenslexika und Beliebtheitsangaben, weniger aus breiter öffentlicher Diskussion."
+}

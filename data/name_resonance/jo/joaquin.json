@@ -1,0 +1,51 @@
+{
+  "associations": [
+    "hebräische Herkunft",
+    "Bedeutung: 'Jahwe richtet auf'",
+    "spanischsprachiger Vorname",
+    "biblischer Bezug",
+    "Namenstag erwähnt, aber nicht eindeutig hinterlegt",
+    "Spitzname: Chimo"
+  ],
+  "confidence": 0.62,
+  "display_text": "Joaquín wirkt im deutschsprachigen Raum eher selten, international und kulturell markiert. Die öffentliche Resonanz ist überwiegend neutral bis leicht positiv, vor allem wegen der Bedeutung und des klanglichen Eindrucks. Die Datenlage ist allerdings dünn und stützt sich im Wesentlichen auf eine einzelne Namensquelle.",
+  "evidence_quality": "schwach bis mittel: nur eine relevante Quelle, aber klar namebezogen und mit nachvollziehbaren etymologischen Angaben",
+  "generated_at": "2026-06-14T10:47:41Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Joaquín",
+  "normalized_name": "joaquin",
+  "overall_resonance": "Überwiegend neutral bis leicht positiv: Der Name wirkt im öffentlichen Namenskontext vor allem informativ und kulturell markiert, mit etwas positiver Resonanz durch die Bedeutungsdeutung.",
+  "practical_notes": [
+    "Für eine Namenssuche in Deutschland wirkt Joaquín besonders international und kulturell geprägt.",
+    "Der Akzent im Namen kann in der Schreibweise und Aussprache im deutschen Alltag auffallen.",
+    "Als Seltenheitsname dürfte er eher bewusst gewählt als zufällig wahrgenommen werden."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist schwach und stützt sich nur auf eine einzelne Namenslexikon-Quelle.",
+    "Eine mögliche Verwechslung mit 'Joachim' sollte mitgedacht werden.",
+    "Positive Wirkung beruht hier eher auf der Namensdeutung als auf breiter öffentlicher Rezeption."
+  ],
+  "short_summary": "Joaquín wird öffentlich meist neutral bis leicht positiv wahrgenommen: ein spanisch und kulturell geprägter Vorname mit biblisch-etymologischer Bedeutung. Die Evidenz ist jedoch begrenzt und beruht auf einer einzelnen Namenslexikon-Quelle.",
+  "source_count": 1,
+  "sources": [
+    {
+      "confidence": 0.9,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Joaquín: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Joaqu%C3%ADn.html"
+    }
+  ],
+  "style_effect": [
+    "spanisch und international klingend",
+    "kulturell/etymologisch aufgeladen",
+    "eher weich und markant im Klang",
+    "namenslexikalisch neutral bis freundlich"
+  ],
+  "usable_evidence_count": 1,
+  "visibility": "Im deutschsprachigen Raum eher bekannt, aber nicht alltäglich; die Wahrnehmung scheint stärker über den spanischsprachigen Klang und die Namensbedeutung als über häufige Nutzung geprägt zu sein."
+}

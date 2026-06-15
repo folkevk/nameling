@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "Jasminblüte",
+    "altpersischer Ursprung",
+    "Duft",
+    "Schönheit",
+    "Reinheit",
+    "Beliebtheit in Deutschland",
+    "international gebräuchlich"
+  ],
+  "confidence": 0.77,
+  "display_text": "Yasmin wird in den vorliegenden Quellen überwiegend positiv wahrgenommen: blumig, freundlich und international verständlich. Die Evidenz ist jedoch eher schmal, da sie vor allem auf Namenslexika basiert.",
+  "evidence_quality": "Schwach bis mittel: zwei einschlägige Namensseiten, aber keine breite öffentliche Debatte oder größere Meinungsvielfalt.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Yasmin",
+  "normalized_name": "yasmin",
+  "overall_resonance": "Eher positiv und sachlich wahrgenommen, mit klaren Assoziationen zu Blumen, Duft und einer klassischen, international gebräuchlichen Namenswirkung. Die öffentliche Rezeption in den vorliegenden Quellen ist insgesamt freundlich, aber nicht breit belegt.",
+  "practical_notes": [
+    "Für Suchmaschinen wirkt der Name vertraut und leicht einordenbar.",
+    "Die Schreibweise ist gängig, mit klarer kultureller Anschlussfähigkeit.",
+    "Der Name wird überwiegend erklärend und positiv-konnotiert dargestellt."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist begrenzt und stützt sich auf einzelne Namenslexikon-Seiten.",
+    "Es liegt keine breite öffentliche Meinungsvielfalt vor.",
+    "Positive Bedeutungsassoziationen sind quellenbasiert, aber keine allgemeingültige Bewertung."
+  ],
+  "short_summary": "Yasmin wird in den vorliegenden Quellen überwiegend positiv, freundlich und blumig assoziiert. Die öffentliche Resonanz wirkt sachlich und wohlwollend, ist aber nur begrenzt belegt.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Yasmin � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/Y/Ya/Yasmin/"
+    },
+    {
+      "confidence": 0.91,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Yasmin: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Yasmin.html"
+    }
+  ],
+  "style_effect": [
+    "weiblich und elegant",
+    "natürlich und blumig",
+    "international verständlich",
+    "klassisch-modern",
+    "sachlich bis freundlich"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Der Name ist in Namenslexika und Vornamensseiten gut auffindbar; die Evidenz deutet auf eine gewisse Bekanntheit in Deutschland hin. Für eine belastbare Aussage zur breiten öffentlichen Meinung ist die Datenlage jedoch schwach, da nur wenige Quellen vorliegen."
+}

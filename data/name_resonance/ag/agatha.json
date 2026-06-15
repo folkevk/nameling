@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "altgriechischer Ursprung",
+    "Bedeutung: „die Gute“",
+    "weiblicher Vorname",
+    "Namensvariante Agathe",
+    "Namenstag (je nach Quelle 5. Februar bzw. 21. Januar und 5. Februar)",
+    "Spitznamen wie Agi oder Aga"
+  ],
+  "confidence": 0.88,
+  "display_text": "Agatha wirkt im deutschen Namenskontext klassisch, selten und eher positiv-respektvoll. Die Quellen betonen vor allem Herkunft, Bedeutung („die Gute“) und Namensvarianten; eine starke negative öffentliche Debatte ist nicht erkennbar.",
+  "evidence_quality": "mittel bis gut, aber stark quellenarm und überwiegend lexikalisch-informativ",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Agatha",
+  "normalized_name": "agatha",
+  "overall_resonance": "Agatha wird in den vorliegenden deutschsprachigen Namensquellen überwiegend sachlich und eher positiv-respektvoll dargestellt. Der Name wirkt klassisch, traditionell und ungewöhnlich, ohne erkennbare starke negative öffentliche Resonanz.",
+  "practical_notes": [
+    "Für eine Namenssuche lässt sich Agatha gut als klassischer, seltener Vorname mit klarer Bedeutung einordnen.",
+    "Die Schreibweise ist etabliert, die Variante Agathe ist im deutschsprachigen Raum ebenfalls relevant.",
+    "Wegen der Seltenheit kann der Name besonders markant wirken."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt fast ausschließlich aus Namenslexika und ähnlichen Informationsseiten, also eher aus beschreibender als aus öffentlicher Debatte.",
+    "Die positive oder leicht positive Wirkung ist deshalb vorsichtig zu lesen und nicht als allgemeine Mehrheitsmeinung zu verstehen."
+  ],
+  "short_summary": "Agatha wird im deutschen Raum vor allem als klassischer, seltener und eher positiv konnotierter Vorname beschrieben.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.94,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Agatha � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/A/Ag/Agatha/"
+    },
+    {
+      "confidence": 0.89,
+      "is_name_discussion": true,
+      "sentiment": "slightly positive",
+      "source_type": "web",
+      "title": "&#9655; Vorname Agatha: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Agatha.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "traditionell",
+    "eher literarisch",
+    "selten",
+    "namenskundlich klar einordenbar",
+    "leicht altmodisch"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Im deutschen Namenskontext eher selten bis mäßig verbreitet und dadurch gut erkennbar, aber nicht alltäglich. Die Sichtbarkeit entsteht vor allem über Namenslexika und Bedeutungsseiten, weniger über breite öffentliche Debatten."
+}

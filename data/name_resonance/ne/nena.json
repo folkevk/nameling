@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "weiblicher Vorname",
+    "Kurzform oder Koseform",
+    "kindliche Lallform",
+    "spanische Bedeutung „das kleine Mädchen“",
+    "mögliche Verbindung zu Nina",
+    "Namenstag",
+    "eher seltene, aber bekannte Namenswahl"
+  ],
+  "confidence": 0.89,
+  "display_text": "Nena: überwiegend neutral bis leicht positiv wahrgenommen. Der Name wirkt kurz, weich und freundlich, mit klaren namenkundlichen Bezügen; öffentlich erscheint er eher individuell als sehr häufig.",
+  "evidence_quality": "mittel bis gut: zwei klare namenkundliche Webquellen mit überwiegend neutraler bis leicht positiver Tonalität; öffentliche Debatte im engeren Sinne ist jedoch nur indirekt abgebildet.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Nena",
+  "normalized_name": "nena",
+  "overall_resonance": "Nena wirkt in den vorliegenden Quellen überwiegend neutral bis leicht positiv: als kurzer, klangvoller und eher moderner Vorname mit klarer namenkundlicher Einordnung und einigen positiven bzw. charmanten Assoziationen. Die Rezeption ist vor allem sachlich-informativ, nicht stark polarisiert.",
+  "practical_notes": [
+    "Für Suchmaschinen-Texte eignet sich eine Formulierung wie: „kurzer, freundlicher Vorname mit spanisch- und namenkundlichen Bezügen“.",
+    "Die Wirkung ist eher sanft und unkompliziert als streng oder formell.",
+    "Da der Name relativ auffällig, aber nicht massenhaft ist, kann er als individuell wahrgenommen werden."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Einzelne Quellen nennen bekannte Personen nur als Referenz; das sagt nichts über Trägerinnen des Namens aus.",
+    "Die Evidenz stammt überwiegend aus Namensdatenbanken und nicht aus freier öffentlicher Debatte, daher nur vorsichtig auf allgemeine Rezeption schließen.",
+    "Eine direkte gesellschaftliche Stigmatisierung ist hier nicht erkennbar."
+  ],
+  "short_summary": "Nena wird überwiegend neutral bis leicht positiv wahrgenommen: kurz, weich klingend, namenkundlich klar einordenbar und eher individuell als sehr häufig.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.94,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Nena � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/N/Ne/Nena/"
+    },
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "mixed",
+      "source_type": "web",
+      "title": "&#9655; Vorname Nena: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Nena.html"
+    }
+  ],
+  "style_effect": [
+    "kurz und weich im Klang",
+    "eher freundlich und jugendlich wirkend",
+    "modern, aber nicht modisch-überladen",
+    "namenkundlich gut anschlussfähig",
+    "durch die geringe Länge merkbar und prägnant"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Der Name ist in Namensdatenbanken gut sichtbar und bekannt, in der öffentlichen Alltagswahrnehmung aber eher als besonderer, seltenerer Vorname präsent als als Massenname."
+}

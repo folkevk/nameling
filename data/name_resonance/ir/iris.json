@@ -1,0 +1,64 @@
+{
+  "associations": [
+    "griechische Mythologie",
+    "Regenbogen",
+    "Schwertlilie",
+    "Regenbogenhaut",
+    "klassischer Vorname",
+    "Beliebtheit in Deutschland",
+    "Namenstag am 4. September",
+    "altgriechische Herkunft",
+    "selten aber bekannt"
+  ],
+  "confidence": 0.95,
+  "display_text": "Iris wirkt öffentlich überwiegend positiv: ein klassischer, kurzer und zeitloser Vorname mit starken Natur- und Mythologie-Assoziationen. Die Evidenz ist gut, aber vor allem beschreibend; eine breite gesellschaftliche Bewertung über diese Namensquellen hinaus lässt sich daraus nur vorsichtig ableiten.",
+  "evidence_quality": "Gut bis sehr gut: Zwei klare Namensquellen, beide direkt zum Vornamen Iris; insgesamt sachlich und konsistent, aber hauptsächlich lexikalisch.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Iris",
+  "normalized_name": "iris",
+  "overall_resonance": "Überwiegend positiv und klassisch-wohlwollend, mit sachlich-neutralen Anteilen.",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt Iris klar, freundlich und vertraut.",
+    "Der Name ist kurz, leicht merkbar und inhaltlich stark aufgeladen durch Natur- und Mythologiebezüge.",
+    "In Deutschland dürfte Iris eher als klassischer als als trendiger Name wahrgenommen werden."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Quellen sind überwiegend lexikalische Namensbeschreibungen; die Evidenz ist daher eher beschreibend als breit gesellschaftlich repräsentativ.",
+    "Positive Formulierungen in den Quellen können eine leichte Wohlwollens-Tendenz enthalten.",
+    "Es gibt keine Hinweise auf soziale Stigmatisierung; entsprechende Deutungen wären hier nicht begründet."
+  ],
+  "short_summary": "Iris wird in Deutschland meist als klassischer, eleganter und positiv besetzter Vorname wahrgenommen. Die öffentlichen Quellen betonen vor allem die griechische Herkunft, den Regenbogen- und Schwertlilien-Bezug sowie den Namenstag am 4. September.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.99,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Iris � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/I/Ir/Iris/"
+    },
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Iris: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Iris.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "kurz und prägnant",
+    "elegant",
+    "naturnah durch Blumenbezug",
+    "bildungsnah durch mythologische Assoziationen",
+    "zeitlos statt modisch"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Hoch: Der Name ist in Deutschland klar bekannt und öffentlich gut einordenbar, zugleich nicht so häufig, dass er beliebig wirkt."
+}

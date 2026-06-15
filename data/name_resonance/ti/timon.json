@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "altgriechischer Ursprung",
+    "Bedeutungen wie 'der Ehrenwerte' / 'der Angesehene' / 'der Geehrte'",
+    "Namenstag",
+    "biblischer bzw. historischer Bezug",
+    "Weisheit bzw. Ehrwürdigkeit",
+    "Beliebtheit in Deutschland"
+  ],
+  "confidence": 0.83,
+  "display_text": "Timon: überwiegend positiv, klassisch und namenskundlich geprägt; bekannt für altgriechische Herkunft, ehrwürdige Bedeutungen und einen seriösen Gesamteindruck.",
+  "evidence_quality": "mittel bis gut; mehrere Namensquellen mit klarer, aber thematisch enger Evidenzbasis",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Timon",
+  "normalized_name": "timon",
+  "overall_resonance": "Timon wirkt in der öffentlichen Namenswahrnehmung überwiegend positiv und eher klassisch-sachlich. Der Name wird vor allem mit Herkunft, Bedeutung und Namenstag verbunden, nicht mit starker Kontroverse oder klarer sozialer Stigmatisierung.",
+  "practical_notes": [
+    "Für Suchmaschinen wirkt der Name klar und gut einordenbar.",
+    "Die Resonanz ist eher stabil als trendgetrieben.",
+    "Der Name eignet sich für eine sachliche, positive Kurzbeschreibung ohne übertriebene Wertung."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die vorliegende Evidenz ist einseitig und stammt im Wesentlichen aus Namenslexika bzw. Einzelseiten.",
+    "Es gibt keinen belastbaren Hinweis auf breite öffentliche Debatten oder negative soziale Zuschreibungen.",
+    "Einzelne Deutungen sind traditions- oder lexikonbasiert und sollten nicht als gesicherte Alltagswahrnehmung aller Sprecher verstanden werden."
+  ],
+  "short_summary": "Timon wird öffentlich meist als klassischer, bedeutungsstarker und eher positiv wahrgenommener Vorname beschrieben.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.94,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "Vorname Timon � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/T/Ti/Timon/"
+    },
+    {
+      "confidence": 0.94,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Timon: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Timon.html"
+    }
+  ],
+  "style_effect": [
+    "informativ",
+    "klassisch",
+    "namenskundlich",
+    "leicht positiv",
+    "zeitlos",
+    "seriös"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland gut als Vorname bekannt und präsent, aber eher als etablierter, nicht extrem auffälliger Name. Die Evidenz deutet auf eine solide, namenskundlich geprägte Sichtbarkeit hin."
+}

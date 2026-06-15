@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "hebräischer/biblischer Ursprung",
+    "Bedeutung rund um Gottesbezug",
+    "Namensform im Deutschen sowie im Spanischen und Portugiesischen",
+    "Kurzformen wie Gabi oder Gaby",
+    "klassischer Vorname",
+    "Namenslexikon-Kontext"
+  ],
+  "confidence": 0.79,
+  "display_text": "Gabriela wird überwiegend als klassischer, vertrauter und eher positiv besetzter Vorname beschrieben. Die Quellen sind jedoch vor allem namenskundlich; für eine breite öffentliche Rezeption ist die Evidenz nur begrenzt belastbar.",
+  "evidence_quality": "mittel bis schwach für öffentliche Resonanz; gut für Herkunft, Bedeutung und Namenskunde, aber nur begrenzt für echte Außenwahrnehmung",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Gabriela",
+  "normalized_name": "gabriela",
+  "overall_resonance": "Gabriela wird in den vorliegenden Quellen überwiegend klassisch, vertraut und eher positiv wahrgenommen. Die öffentliche Rezeption wirkt sachlich-namenskundlich statt trendbetont; zugleich ist die Evidenz für echte öffentliche Meinung begrenzt, da sie vor allem aus Namenslexika stammt.",
+  "practical_notes": [
+    "Für Suchmaschinen- oder Lexikontexte eignet sich eine knappe Einordnung als klassischer, international verständlicher Vorname.",
+    "Wenn gewünscht, kann man die Kurzformen Gabi/Gaby mit angeben.",
+    "Eine Aussage über aktuelle Popularität sollte vorsichtig formuliert werden, da die Quellen eher rückblickend und informativ sind."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Datenlage zur öffentlichen Resonanz ist dünn und stark von Namenslexika geprägt.",
+    "Positive Eindrücke können teilweise aus Bedeutungsangaben und Beliebtheitsbeschreibungen abgeleitet sein, nicht aus repräsentativer öffentlicher Meinung.",
+    "Keine belastbare Aussage über soziale Wertung oder gesellschaftliche Vorurteile aus dieser Evidenz."
+  ],
+  "short_summary": "Gabriela wirkt in den Quellen klassisch, vertraut und leicht positiv konnotiert, allerdings basiert das vor allem auf Namenslexika und nicht auf starker öffentlicher Resonanz.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Gabriela � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/G/Ga/Gabriela/"
+    },
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Gabriela: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Gabriela.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "seriös",
+    "weiblich-klar",
+    "international anschlussfähig",
+    "informativ statt modisch",
+    "leicht traditionsbezogen"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Im deutschsprachigen Raum bekannt, aber nicht als besonders moderner oder stark trendiger Vorname hervorgehoben. Die Sichtbarkeit erscheint eher stabil-klassisch als auffällig prominent."
+}

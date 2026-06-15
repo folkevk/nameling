@@ -1,0 +1,64 @@
+{
+  "associations": [
+    "zweigliedriger deutscher Name",
+    "Speer als Bedeutungselement",
+    "stark und entschlossen als Namensdeutung",
+    "mittelalterlich",
+    "adelig konnotiert",
+    "Heiligenname",
+    "früher beliebt",
+    "heute selten"
+  ],
+  "confidence": 0.95,
+  "display_text": "Gerhard wird öffentlich meist als klassischer, altdeutscher Vorname wahrgenommen: historisch, traditionell und heute eher selten. Die Namensdeutung verbindet ihn häufig mit Stärke und Entschlossenheit, ohne dass daraus Aussagen über Personen abgeleitet werden sollten.",
+  "evidence_quality": "hoch: Beide Quellen beziehen sich direkt auf den Vornamen, nennen Herkunft, Bedeutung und Beliebtheit; die Aussagen zur heutigen Seltenheit und historischen Einordnung sind gut gestützt.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Gerhard",
+  "normalized_name": "gerhard",
+  "overall_resonance": "Gerhard wird in der öffentlichen Namenswahrnehmung meist als traditionell, altdeutsch und klar historisch eingeordnet. Die Resonanz ist überwiegend sachlich bis leicht positiv, mit starken Bezügen zu Bedeutung und Herkunft.",
+  "practical_notes": [
+    "Gut verständlich und eindeutig",
+    "wirkt eher klassisch als modern",
+    "für Namenssuchmaschinen vor allem relevant als historischer Traditionsname",
+    "in der öffentlichen Wahrnehmung eher nüchtern als verspielt"
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Bedeutungsassoziationen wie „stark“ oder „entschlossen“ sind namenkundliche Deutungen und keine Aussagen über Personen.",
+    "Die Seltenheit heute kann Wahrnehmungseffekte erzeugen, sollte aber nicht als Wertung verstanden werden."
+  ],
+  "short_summary": "Gerhard ist ein traditioneller, altdeutscher Jungenname mit starker historischer Prägung. Er wirkt sachlich und klassisch, ist heute eher selten, aber klar bekannt.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Gerhard � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/G/Ge/Gerhard/"
+    },
+    {
+      "confidence": 0.91,
+      "is_name_discussion": true,
+      "sentiment": "eher positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Gerhard: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Gerhard.html"
+    }
+  ],
+  "style_effect": [
+    "traditionell",
+    "klassisch",
+    "historisch",
+    "lexikalisch klar",
+    "eher ernst",
+    "altdeutsch",
+    "formal"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland heute eher selten und daher deutlich weniger präsent als moderne Modenamen. Der Name ist aber gut bekannt und vor allem als klassischer, älterer Vorname erkennbar."
+}

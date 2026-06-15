@@ -1,0 +1,62 @@
+{
+  "associations": [
+    "französische Form",
+    "lateinische Herkunft",
+    "die Feierliche",
+    "die Religiöse",
+    "Heilige Solange von Bourges",
+    "Namenstag am 10. Mai",
+    "selten in Deutschland"
+  ],
+  "confidence": 0.74,
+  "display_text": "Solange: in Deutschland eher selten und ungewöhnlich, zugleich klangvoll und überwiegend neutral bis leicht positiv bewertet. Die Quellen sind vor allem namenskundlich; eine breite öffentliche Resonanz ist daraus nur eingeschränkt ableitbar.",
+  "evidence_quality": "mittel bis schwach; wenige, vor allem lexikalische Quellen mit begrenzter Aussagekraft zur öffentlichen Rezeption",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Solange",
+  "normalized_name": "solange",
+  "overall_resonance": "Im deutschen Namenskontext wirkt Solange eher selten und ungewöhnlich, aber überwiegend neutral bis leicht positiv wahrgenommen. Die vorhandenen Quellen beschreiben den Namen vor allem sachlich-lexikalisch; eine breite öffentliche Debatte ist daraus nicht erkennbar.",
+  "practical_notes": [
+    "Für Suchmaschinen-Nutzerinnen und -Nutzer ist Solange ein klar weiblich gelesener, klangvoller und eher seltener Vorname.",
+    "Im deutschen Umfeld kann der Name etwas ungewöhnlich wirken, aber nicht negativ konnotiert sein.",
+    "Die Aussprache und Herkunft werden in den Quellen als französisch beschrieben.",
+    "Ein breiter Bekanntheitsgrad in Deutschland ist aus der Evidenz nicht ableitbar."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist eher schwach bis mittel, da nur wenige Namenslexikon-Quellen vorliegen.",
+    "Die Aussagen beziehen sich auf Namensbeschreibungen, nicht auf eine breite öffentliche Meinungsbildung in Deutschland.",
+    "Der Eindruck von Feierlichkeit oder Religiosität stammt aus der Namenskunde und sollte nicht als allgemeine Alltagserfahrung verstanden werden."
+  ],
+  "short_summary": "Solange wird in Deutschland eher selten und leicht fremdsprachig wahrgenommen, insgesamt aber sachlich bis positiv beschrieben.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.86,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Solange � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/S/So/Solange/"
+    },
+    {
+      "confidence": 0.83,
+      "is_name_discussion": true,
+      "sentiment": "überwiegend positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Solange: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Solange.html"
+    }
+  ],
+  "style_effect": [
+    "französisch geprägt",
+    "feierlich und elegant",
+    "religiös/namenskundlich aufgeladen",
+    "selten und markant",
+    "eher klassisch als modern"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Eher geringe Sichtbarkeit in Deutschland; der Name wird als selten und etwas fremdsprachig beschrieben."
+}

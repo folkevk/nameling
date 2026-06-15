@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "hebräischer Ursprung",
+    "Bedeutung: \"Jahwe ist Gott\" / \"der Herr ist Gott\"",
+    "biblischer Vorname",
+    "Namenstag",
+    "in Deutschland geläufig",
+    "männlicher Vorname"
+  ],
+  "confidence": 0.84,
+  "display_text": "Joel: überwiegend positiv, sachlich und international wirkend. Der Name ist biblisch geprägt, in Deutschland bekannt und in der vorliegenden Evidenz vor allem namenkundlich statt gesellschaftlich breit diskutiert.",
+  "evidence_quality": "mittel bis gut: zwei namenkundliche Webquellen mit klarer Namensdiskussion, aber nur indirekte Hinweise auf öffentliche Resonanz.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Joel",
+  "normalized_name": "joel",
+  "overall_resonance": "Überwiegend positiv und neutral-informativ wahrgenommen; der Name wirkt bekannt, international und biblisch geprägt. Die öffentliche Resonanz in der vorliegenden Evidenz ist eher lexikalisch als breit gesellschaftlich belegt.",
+  "practical_notes": [
+    "Für Suchmaschinen wirkt der Name vertraut, klar und international anschlussfähig.",
+    "Die Schreibweise ist unkompliziert und die Bedeutung leicht vermittelbar.",
+    "Die Wahrnehmung ist eher sachlich-positiv als emotional aufgeladen."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt vor allem aus Namenslexika; daraus lässt sich nur begrenzt auf echte öffentliche Meinung schließen.",
+    "Einzelne kurze Kommentare liefern wenig belastbare Aussagen zur breiten Rezeption.",
+    "Keine Hinweise auf gesellschaftliche Stigmatisierung in der vorliegenden Evidenz."
+  ],
+  "short_summary": "Joel wird in der vorliegenden Evidenz überwiegend positiv, sachlich und als biblisch-internationaler Name wahrgenommen. Die Resonanz ist gut belegt als Namensbedeutung und Herkunft, aber nur eingeschränkt als breite öffentliche Meinung.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "Vorname Joel � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/J/Jo/Joel/"
+    },
+    {
+      "confidence": 0.89,
+      "is_name_discussion": true,
+      "sentiment": "mostly positive",
+      "source_type": "web",
+      "title": "&#9655; Vorname Joel: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Joel.html"
+    }
+  ],
+  "style_effect": [
+    "kurz und international",
+    "biblisch geprägt",
+    "modern, aber nicht modisch überzeichnet",
+    "klar und leicht verständlich",
+    "namenskundlich etabliert"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Der Vorname ist in deutschen Namenslexika gut sichtbar und offenbar bekannt; konkrete Hinweise auf breite Alltagsrezeption oder starke Kontroversen sind in der Evidenz kaum vorhanden."
+}

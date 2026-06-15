@@ -1,0 +1,68 @@
+{
+  "associations": [
+    "französische Form von Johannes/Johann",
+    "Bedeutung: „Gott ist gnädig“ bzw. „Jahwe ist gnädig“",
+    "in Deutschland eher selten",
+    "teilweise geschlechtsneutral verwendet",
+    "Namenstag wird in Namensquellen genannt",
+    "kommt auch in Doppelnamen wie Jean-Claude vor"
+  ],
+  "confidence": 0.9,
+  "display_text": "Jean wirkt in Deutschland überwiegend neutral bis leicht positiv: klassisch, international und sprachlich elegant, aber eher selten. Die Quellen erklären vor allem Herkunft und Bedeutung; eine starke öffentliche Debatte ist kaum erkennbar.",
+  "evidence_quality": "Mittel bis gut: mehrere einschlägige Namenslexika, aber kaum unabhängige oder diskursive öffentliche Quellen.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Jean",
+  "normalized_name": "jean",
+  "overall_resonance": "Überwiegend neutral bis leicht positiv-informativ. Der Name wird in den vorliegenden Quellen vor allem als klassischer, sprachlich anschlussfähiger Vorname beschrieben, mit klarer Herkunfts- und Bedeutungszuordnung.",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt Jean sachlich, international und klassisch.",
+    "Die Aussprache und Wahrnehmung können je nach Region und Kontext variieren.",
+    "Wer einen seltenen, aber gut erklärbaren Namen sucht, findet hier eine eher unaufgeregte Option."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt fast ausschließlich aus Namenslexika, nicht aus breiter öffentlicher Debatte.",
+    "Die Quellen sind überwiegend beschreibend; echte Resonanz im Alltag lässt sich daraus nur begrenzt ableiten.",
+    "Geschlechtszuordnung und Nutzung variieren je nach Sprachraum; das sollte nicht pauschalisiert werden."
+  ],
+  "short_summary": "Jean wird in Deutschland vor allem als seltener, klassisch-französisch geprägter Vorname mit neutraler bis leicht positiver, sachlicher Wahrnehmung beschrieben.",
+  "source_count": 3,
+  "sources": [
+    {
+      "confidence": 0.95,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Jean � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/J/Je/Jean/"
+    },
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Jean � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/J/Je/Jean/"
+    },
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "mixed",
+      "source_type": "web",
+      "title": "&#9655; Vorname Jean: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Jean.html"
+    }
+  ],
+  "style_effect": [
+    "französisch geprägt",
+    "klassisch-traditionell",
+    "sprachlich elegant",
+    "geschlechtsneutral bzw. in mehreren Sprachräumen unterschiedlich genutzt",
+    "lexikalisch gut erklärbar"
+  ],
+  "usable_evidence_count": 3,
+  "visibility": "In Deutschland eher selten, aber durch Namenslexika und Einträge gut auffindbar. Die öffentliche Sichtbarkeit wirkt eher beschreibend als diskussionsstark."
+}

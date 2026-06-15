@@ -1,0 +1,58 @@
+{
+  "associations": [
+    "weiblicher Vorname",
+    "althebräische Herkunft",
+    "polnische Verkleinerungsform von Jana",
+    "Variante von Janine",
+    "Bedeutung: der Herr ist gnädig / Jahwe ist gnädig",
+    "Namenstag",
+    "Beliebtheit in Deutschland"
+  ],
+  "confidence": 0.86,
+  "display_text": "Janina wirkt in der öffentlichen Namenswahrnehmung überwiegend neutral bis freundlich-informativ. Die verfügbaren Quellen behandeln den Namen vor allem lexikografisch: weiblicher Vorname, mit hebräischer Herkunft und teils als polnische Verkleinerungsform von Jana bzw. Variante von Janine beschrieben. Eine starke positive oder negative soziale Aufladung ist in der Evidenz nicht erkennbar; zugleich ist die Datenlage zur breiteren öffentlichen Resonanz eher begrenzt.",
+  "evidence_quality": "mittel bis gut für Bedeutung, Herkunft und formale Namensbeschreibung; schwächer für öffentliche Alltagsresonanz.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Janina",
+  "normalized_name": "janina",
+  "overall_resonance": "Überwiegend neutral bis freundlich-informativ. Der Name Janina wird in den vorliegenden Quellen vor allem sachlich als weiblicher Vorname mit klarer Namenskunde behandelt, ohne starke positive oder negative öffentliche Aufladung.",
+  "practical_notes": [
+    "Für Suchmaschinen und Kurzporträts eignet sich eine neutrale Einordnung am besten.",
+    "Wenn gewünscht, kann der Name zusätzlich nach Klang, Modernität oder regionaler Nutzung eingeordnet werden."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist vor allem lexikografisch; Aussagen zur tatsächlichen öffentlichen Resonanz bleiben daher vorsichtig.",
+    "Es liegen keine belastbaren Hinweise auf klare soziale Stigmatisierung oder starke Trend-Bewertungen vor."
+  ],
+  "short_summary": "Janina wird in den Quellen vor allem neutral und informativ beschrieben: ein vertrauter weiblicher Vorname mit hebräisch/polnisch geprägter Namensgeschichte und wenig polarisiertem Eindruck.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Janina � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/J/Ja/Janina/"
+    },
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Janina: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Janina.html"
+    }
+  ],
+  "style_effect": [
+    "klingt weich und klassisch-modern",
+    "wirkt im Deutschen vertraut und unkompliziert",
+    "hat eine eher ruhige, wenig polarisierende Anmutung",
+    "erscheint vor allem als formal gebräuchliche Namensform"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Eher gut sichtbar in Namenslexika und Vornamensportalen, aber die Evidenz zur breiteren öffentlichen Wahrnehmung außerhalb dieser Quellen ist begrenzt."
+}

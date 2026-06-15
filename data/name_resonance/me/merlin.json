@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "Artussage",
+    "Zauberer Merlin",
+    "keltische bzw. altwalisische Herkunft",
+    "Beraterfigur",
+    "Falke",
+    "seltenere Namenswahl",
+    "ungewöhnlicher, eigenständiger Klang"
+  ],
+  "confidence": 0.82,
+  "display_text": "Merlin wirkt in Deutschland eher selten, markant und keltisch-mythologisch geprägt. Der Name wird meist positiv-neugierig beschrieben, ist aber vor allem aus Namenslexika bekannt; echte öffentliche Meinungsdaten sind begrenzt.",
+  "evidence_quality": "mittel: klare Namens- und Bedeutungsquellen, aber nur begrenzte echte öffentliche Resonanzdaten",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Merlin",
+  "normalized_name": "merlin",
+  "overall_resonance": "Merlin wird in der öffentlichen Namensbeschreibung meist als ungewöhnlich, markant und mythologisch aufgeladen wahrgenommen. Die Resonanz wirkt eher positiv-neugierig als alltäglich, ist aber vor allem informativ begründet und nur eingeschränkt durch echte öffentliche Meinungsäußerungen belegt.",
+  "practical_notes": [
+    "Für Suchmaschinen und Namensseiten wirkt Merlin klar einprägsam und thematisch stark besetzt.",
+    "Wer einen klassischen, aber nicht alltäglichen Namen sucht, findet hier eine gut erkennbare Option.",
+    "Die öffentliche Resonanz ist eher beschreibend als kontrovers."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt überwiegend aus Namenslexika und nicht aus breiter öffentlicher Befragung.",
+    "Positive oder besondere Wirkung kann stark von der kulturellen Merlin-Figur geprägt sein und nicht von allgemeiner Alltagswahrnehmung.",
+    "Keine belastbaren Hinweise auf soziale Stigmatisierung in den vorliegenden Quellen."
+  ],
+  "short_summary": "Merlin gilt in Deutschland als seltener, auffälliger und mythologisch geprägter Vorname mit überwiegend positiver, neugieriger Wirkung. Die Datenlage ist eher lexikalisch als gesellschaftlich breit belegt.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.94,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Merlin � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/M/Me/Merlin/"
+    },
+    {
+      "confidence": 0.92,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Merlin: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Merlin.html"
+    }
+  ],
+  "style_effect": [
+    "keltisch-mythologisch",
+    "märchenhaft",
+    "gelehrt",
+    "besonders",
+    "sachlich trotz Fantasiebezug"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland eher selten bis mittel verbreitet und dadurch auffälliger als sehr häufige Vornamen. Der Name ist bekannt, aber nicht alltäglich."
+}

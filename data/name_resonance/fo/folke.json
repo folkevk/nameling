@@ -1,0 +1,68 @@
+{
+  "associations": [
+    "Bedeutung im Umfeld von „Volk“ bzw. „der Volkszugehörige“",
+    "althochdeutsche Herkunft",
+    "Kurzform von Folk-/Volk-Namen",
+    "selten in Deutschland",
+    "männlich eingeordnet",
+    "mögliche Verwechslung mit ähnlich klingenden Namen"
+  ],
+  "confidence": 0.77,
+  "display_text": "Folke wirkt in Deutschland eher selten und ungewöhnlich, aber sachlich und leicht positiv konnotiert. Die Quellen beschreiben den Namen vor allem namenskundlich mit Bezug zu althochdeutscher Herkunft und der Bedeutung rund um „Volk“. Eine breite öffentliche Diskussion ist nicht erkennbar; die Evidenz ist dafür eher begrenzt.",
+  "evidence_quality": "Begrenzt: überwiegend datenbank- und lexikonbasierte Hinweise, nur wenig echte öffentliche Resonanz.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Folke",
+  "normalized_name": "folke",
+  "overall_resonance": "Die öffentliche Resonanz auf den Vornamen Folke wirkt in den vorliegenden Quellen überwiegend sachlich-neutral bis leicht positiv. Der Name wird vor allem namenskundlich beschrieben und als selten sowie ungewöhnlich wahrgenommen. Eine breite öffentliche Debatte ist nicht erkennbar.",
+  "practical_notes": [
+    "Für die Namenssuche ist Folke eher ein seltener, charaktervoller Vorname mit klarer sprachgeschichtlicher Einordnung.",
+    "Die Wahrnehmung kann je nach Umfeld von ungewohnt bis interessant reichen.",
+    "Wenn eine hohe Alltagsvertrautheit wichtig ist, sollte die geringe Verbreitung mitbedacht werden."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenzbasis ist eher schwach bis mittel, da vor allem ein einzelner Datentyp mit beschreibendem Charakter vorliegt.",
+    "Es gibt keine belastbare breite öffentliche Meinungsvielfalt oder klare soziale Bewertung.",
+    "Hinweise auf Verwechslungen oder Unsicherheit sind möglich, sollten aber nicht überinterpretiert werden."
+  ],
+  "short_summary": "Folke wird in den verfügbaren Quellen überwiegend neutral bis leicht positiv beschrieben: selten, ungewöhnlich und namenskundlich klar einordenbar. Eine breite öffentliche Debatte ist nicht sichtbar.",
+  "source_count": 3,
+  "sources": [
+    {
+      "confidence": 0.72,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "Vorname Folke � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/F/Fo/Folke/"
+    },
+    {
+      "confidence": 0.9,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Folke � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/F/Fo/Folke/"
+    },
+    {
+      "confidence": 0.78,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Folke: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Folke.html"
+    }
+  ],
+  "style_effect": [
+    "selten und eigenständig",
+    "kurz und markant",
+    "namenskundlich/geerdet",
+    "eher traditionell durch die althochdeutsche Einordnung",
+    "teils als ungewohnt wahrgenommen"
+  ],
+  "usable_evidence_count": 3,
+  "visibility": "In Deutschland scheint Folke wenig verbreitet zu sein und damit eher eine geringe Sichtbarkeit zu haben. Die verfügbaren Hinweise stammen vor allem aus Vornamensverzeichnissen und einzelnen Kommentaren, nicht aus einer breiten öffentlichen Diskussion."
+}

@@ -1,0 +1,63 @@
+{
+  "associations": [
+    "hebräische Herkunft",
+    "Bedeutung: „mein Licht“",
+    "Licht",
+    "Unisex-Eindruck",
+    "moderne Kurzform",
+    "positiv konnotiert",
+    "international verwendbar"
+  ],
+  "confidence": 0.77,
+  "display_text": "Lior wird überwiegend positiv wahrgenommen: kurz, modern und mit der hebräischen Bedeutung „mein Licht“. In Deutschland wirkt der Name eher bekannt als stark verbreitet; die öffentliche Resonanz ist freundlich, aber nur begrenzt belegt.",
+  "evidence_quality": "mittel bis schwach; vor allem lexikalische Quellen, wenig direkte öffentliche Diskussion",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Lior",
+  "normalized_name": "lior",
+  "overall_resonance": "Überwiegend positiv und freundlich, mit einem eher modernen, internationalen Eindruck. Der Name wird in den Quellen vor allem über Bedeutung und Herkunft wertgeschätzt.",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt Lior meist modern, kurz und angenehm zugänglich.",
+    "Die Schreibweise ist unkompliziert, die Aussprache im Deutschen in der Regel gut machbar.",
+    "Wegen des internationalen und teilweise unisex wirkenden Charakters kann der Name bewusst gewählt und individuell wahrgenommen werden."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenzlage ist schwach bis mittel: Es handelt sich überwiegend um Namensdatenbanken und einzelne redaktionelle Darstellungen.",
+    "Öffentliche Rezeption wird eher indirekt über Bedeutung und Beliebtheit abgeleitet; echte breitere Meinungsbilder sind nur begrenzt sichtbar.",
+    "Positive Beschreibungen in den Quellen sind nicht automatisch repräsentativ für die Gesamtwahrnehmung in Deutschland."
+  ],
+  "short_summary": "Lior wird in den verfügbaren Quellen überwiegend positiv als kurzer, moderner Name mit hebräischer Herkunft und der Bedeutung „mein Licht“ beschrieben. Die öffentliche Resonanz in Deutschland wirkt freundlich, ist aber nur indirekt und auf schmale Evidenz gestützt.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.82,
+      "is_name_discussion": true,
+      "sentiment": "positive",
+      "source_type": "web",
+      "title": "Vorname Lior � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/L/Li/Lior/"
+    },
+    {
+      "confidence": 0.92,
+      "is_name_discussion": true,
+      "sentiment": "positive",
+      "source_type": "web",
+      "title": "&#9655; Vorname Lior: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Lior.html"
+    }
+  ],
+  "style_effect": [
+    "kurz",
+    "klar",
+    "modern",
+    "international",
+    "wertig",
+    "namenskundlich",
+    "leicht exklusiv"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland wirkt Lior eher bekannt als verbreitet; die öffentliche Sichtbarkeit scheint vorhanden, aber nicht sehr breit belegt. Die Evidenz stützt sich vor allem auf Namenslexika und Beliebtheitsangaben, nicht auf eine große öffentliche Diskussion."
+}

@@ -1,0 +1,62 @@
+{
+  "associations": [
+    "griechischer Ursprung",
+    "Bedeutung: Weisheit",
+    "deutsche, italienische und spanische Schreibvariante von Sophia",
+    "seit dem Mittelalter in Deutschland verbreitet",
+    "beliebter Mädchenname",
+    "Namenstag",
+    "Kosenamen und Spitznamen"
+  ],
+  "confidence": 0.92,
+  "display_text": "Sofia wird in Deutschland überwiegend positiv und vertraut wahrgenommen: ein klassischer, international gut verständlicher Mädchenname mit der geläufigen Bedeutung „Weisheit“. Die verfügbaren Quellen beschreiben ihn als beliebt und seit langem etabliert. Es handelt sich dabei vor allem um redaktionelle Namensseiten, also eher um indirekte als um frei diskutierte öffentliche Resonanz.",
+  "evidence_quality": "gut für Namensbedeutung, Herkunft und Popularitätsbeschreibung; eingeschränkt für echte öffentliche Resonanz, da überwiegend redaktionelle Namensseiten vorliegen.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Sofia",
+  "normalized_name": "sofia",
+  "overall_resonance": "Sofia wird in den vorliegenden deutschsprachigen Namensquellen überwiegend positiv und sehr vertraut wahrgenommen: als klassischer, international gut verständlicher Mädchenname mit der verbreiteten Bedeutung „Weisheit“.",
+  "practical_notes": [
+    "Für die Namenssuche wirkt Sofia vertraut, positiv und leicht anschlussfähig.",
+    "Die Schreibweise ist international gut verständlich und in Deutschland etabliert.",
+    "Die Wirkung ist eher elegant und klassisch als auffällig oder experimentell."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt vor allem aus Namensdatenbanken mit redaktionellem Ton; das ist eher indirekte als offene öffentliche Debatte.",
+    "Es gibt keine belastbare Grundlage für starke soziale Vorurteile oder Stigmatisierungen im Material.",
+    "Beliebtheitsaussagen sollten als Quellenbeschreibung und nicht als exakte Gesamtmessung verstanden werden."
+  ],
+  "short_summary": "Sofia wirkt in Deutschland als beliebter, klassischer und international verständlicher Vorname mit positiver, ruhiger Ausstrahlung und der häufig genannten Bedeutung „Weisheit“.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Sofia � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/S/So/Sofia/"
+    },
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Sofia: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Sofia.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "zeitlos",
+    "international",
+    "weich und freundlich",
+    "gebildet/inhaltlich aufgeladen",
+    "namenskundlich etabliert"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland ist Sofia gut sichtbar und geläufig; die Quellen beschreiben den Namen als beliebt bzw. häufig, mit etablierter Nutzung seit längerer Zeit."
+}

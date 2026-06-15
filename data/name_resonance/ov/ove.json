@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "skandinavische Herkunft",
+    "männlicher Vorname",
+    "altnordische Anmutung",
+    "Bedeutungsbezüge wie Tatkraft oder Schwertspitze",
+    "kurz und markant",
+    "Namenstag am 4. Juli",
+    "selten bis moderat verbreitet in Deutschland"
+  ],
+  "confidence": 0.83,
+  "display_text": "Ove wirkt in der öffentlichen Namenswahrnehmung kurz, nordisch und eigenständig. Die meisten Quellen beschreiben den Namen sachlich positiv, vor allem wegen Herkunft, Bedeutung und Seltenheit. Eine breite soziale Debatte dazu ist aber kaum erkennbar.",
+  "evidence_quality": "mittel bis schwach: mehrere sachliche Namenslexikon-Quellen, aber kaum direkte öffentliche Meinungsäußerungen oder soziale Breitenresonanz.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Ove",
+  "normalized_name": "ove",
+  "overall_resonance": "Der Name Ove wirkt in der öffentlichen Namenswahrnehmung eher eigenständig, nordisch und sachlich positiv. Er wird vor allem über Herkunft, Bedeutung und Seltenheit beschrieben, weniger über breite Alltagsresonanz.",
+  "practical_notes": [
+    "Für Suchmaschinen und Namensportale ist Ove ein klar einzuordnender, gut erklärbarer Name.",
+    "Die starke Nordland-Assoziation kann für viele attraktiv wirken, zugleich aber auch ungewöhnlich erscheinen.",
+    "Wer einen seltenen, kurzen und wenig austauschbaren Namen sucht, findet hier eine passende Wirkung."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist begrenzt und stammt überwiegend aus Namensdatenbanken statt aus echter öffentlicher Diskussion.",
+    "Positive Eindrücke ergeben sich vor allem aus der Namensbeschreibung, nicht aus belastbaren Umfragedaten.",
+    "Einzelne Angaben können lexikalisch oder redaktionell geprägt sein und sollten nicht als allgemeine Mehrheitsmeinung verstanden werden."
+  ],
+  "short_summary": "Ove wird öffentlich meist als kurzer, nordisch geprägter und eher seltener Vorname mit sachlich positiver Wirkung beschrieben. Die Resonanz basiert jedoch überwiegend auf Namenskunde, nicht auf breiter Meinungsdiskussion.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Ove � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/O/Ov/Ove/"
+    },
+    {
+      "confidence": 0.82,
+      "is_name_discussion": true,
+      "sentiment": "mostly positive",
+      "source_type": "web",
+      "title": "&#9655; Vorname Ove: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Ove.html"
+    }
+  ],
+  "style_effect": [
+    "kurz und prägnant",
+    "skandinavisch/nordisch geprägt",
+    "selten und unverwechselbar",
+    "sachlich bis leicht markant",
+    "traditionell, aber nicht altmodisch wirkend"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland eher selten bis moderat sichtbar; die öffentliche Präsenz stammt vor allem aus Namenslexika und Ratgeberseiten, nicht aus breiter Meinungsdiskussion."
+}

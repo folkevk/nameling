@@ -1,0 +1,59 @@
+{
+  "associations": [
+    "Anna + Belle als Doppelform",
+    "Bedeutungen wie schön, liebenswert oder begnadet",
+    "französischer bzw. altsprachlicher Klang",
+    "Namenstag 26. Juli",
+    "Spitznamen wie Bella, Anni oder Ella"
+  ],
+  "confidence": 0.85,
+  "display_text": "Annabelle wirkt in der vorliegenden Evidenz überwiegend positiv: ein eleganter, weich klingender Mädchenname mit französisch-romantischer Anmutung und klaren Bedeutungsbezügen. Die Quellen sind jedoch vor allem Namenslexika, daher ist die öffentliche Breitenresonanz nur eingeschränkt belegt.",
+  "evidence_quality": "mittel: zwei einschlägige Namenslexikon-Quellen, beide klar namenbezogen und überwiegend positiv, aber ohne breite öffentliche Datenlage.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Annabelle",
+  "normalized_name": "annabelle",
+  "overall_resonance": "Überwiegend positiv und eher elegant-klingend wahrgenommen, mit klarer lexikalischer und namenskundlicher Einordnung. Die öffentliche Rezeption wirkt beschreibend statt kontrovers.",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt Annabelle positiv besetzt und gut aussprechbar.",
+    "Der Name hat einen weichen, hochwertigen Klang und ist im Deutschen gut anschlussfähig.",
+    "Die Schreib- und Variantenvielfalt kann je nach Kontext leicht zu Verwechslungen mit Annabel/Annabell führen."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist auf zwei Namenslexikon-/Namensseite-Quellen beschränkt.",
+    "Es gibt keine belastbare öffentliche Debatte oder klare Gegenwahrnehmung in der vorliegenden Evidenz.",
+    "Beliebtheits- oder Stilzuschreibungen sollten als Quellenbeschreibung, nicht als allgemeingültige Wahrheit verstanden werden."
+  ],
+  "short_summary": "Annabelle wird im deutschsprachigen Namenskontext überwiegend positiv, elegant und bedeutungsnah beschrieben. Die Evidenz ist jedoch vor allem lexikalisch und daher vorsichtig zu lesen.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.94,
+      "is_name_discussion": true,
+      "sentiment": "positive",
+      "source_type": "web",
+      "title": "Vorname Annabelle � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/A/An/Annabelle/"
+    },
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Annabelle: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Annabelle.html"
+    }
+  ],
+  "style_effect": [
+    "französisch-elegant",
+    "weich und feminin",
+    "klassisch-romantisch",
+    "namenskundlich gut anschlussfähig",
+    "modern, aber nicht modisch-überdreht"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Der Name ist im deutschsprachigen Namenskontext sichtbar und bekannt, erscheint aber laut der vorliegenden Web-Evidenz vor allem in Namenslexika und Bedeutungseinträgen; die Breitenwahrnehmung lässt sich daraus nur vorsichtig ableiten."
+}

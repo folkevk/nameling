@@ -1,0 +1,63 @@
+{
+  "associations": [
+    "germanischer Ursprung",
+    "Bedeutung sinngemäß: \"der mit dem Speer Herrschende\"",
+    "Namensbestandteile ger und waltan",
+    "historisch verbreitet",
+    "heute eher selten",
+    "Spitznamen wie Gerry oder Gero",
+    "Namenstag wird teils genannt"
+  ],
+  "confidence": 0.82,
+  "display_text": "Gerald wird in den verfügbaren Quellen überwiegend neutral bis leicht positiv wahrgenommen: klassisch, traditionell und eher selten. Die Evidenz zur öffentlichen Resonanz ist jedoch begrenzt und stammt vor allem aus Namenslexika. ",
+  "evidence_quality": "mittel bis schwach: wenige Quellen, überwiegend Lexikoncharakter, nur begrenzte echte Resonanzdaten",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Gerald",
+  "normalized_name": "gerald",
+  "overall_resonance": "Gerald wird in den vorliegenden Quellen überwiegend sachlich und eher neutral bis leicht positiv wahrgenommen. Der Name wirkt traditionell, klassisch und klar deutsch/germanisch geprägt, wird aber zugleich als heute eher selten und nicht besonders modern beschrieben.",
+  "practical_notes": [
+    "Für eine Namenssuche kann Gerald als traditioneller, gut einordnbarer Vorname gelten.",
+    "Wer einen seltenen, klassischen Namen sucht, könnte ihn passend finden.",
+    "Wer einen sehr zeitgemäßen oder modischen Klang sucht, könnte ihn eher als zurückhaltend wahrnehmen."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist vor allem beschreibend und stammt aus Namenslexika, nicht aus breiter öffentlicher Debatte.",
+    "Einzelne positive oder kritische Einschätzungen in Kommentaren sind nur eingeschränkt verallgemeinerbar.",
+    "Aussagen zur Modernität sollten als Eindruck, nicht als objektive Tatsache verstanden werden."
+  ],
+  "short_summary": "Gerald wirkt in Deutschland eher klassisch, traditionell und leicht positiv besetzt, bei zugleich geringer heutiger Verbreitung. Die öffentliche Resonanz ist eher sachlich als emotional.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.92,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Gerald � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/G/Ge/Gerald/"
+    },
+    {
+      "confidence": 0.87,
+      "is_name_discussion": true,
+      "sentiment": "eher positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Gerald: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Gerald.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "traditionell",
+    "eher altdeutsch",
+    "eher selten",
+    "sachlich-klar",
+    "leicht zeitlos",
+    "nicht stark trendig"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "eher gering bis mittel; der Name erscheint in Namenslexika und Einzelkommentaren, aber die Evidenz für breite öffentliche Diskussion ist begrenzt"
+}

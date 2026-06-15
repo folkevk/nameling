@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "lateinische Herkunft",
+    "französischer Namensbezug",
+    "Bedeutung mit Bezug zu Weihnachten bzw. Geburt Christi",
+    "Namenstag",
+    "Beliebtheit/Häufigkeit in Deutschland",
+    "Varianten zu Natalia",
+    "Kurzformen und Spitznamen"
+  ],
+  "confidence": 0.84,
+  "display_text": "Nathalie wirkt in den verfügbaren Quellen überwiegend positiv, klassisch und international anschlussfähig. Der Name wird vor allem mit französisch-lateinischer Herkunft, Weihnachten und einem eleganten, zeitlosen Klang verbunden. Die Belege sind allerdings vor allem Namenslexika; eine breite öffentliche Debatte ist kaum erkennbar.",
+  "evidence_quality": "Mittel: zwei überwiegend lexikalische Quellen mit klarer Namensbeschreibung, aber wenig echte öffentliche Diskussion.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Nathalie",
+  "normalized_name": "nathalie",
+  "overall_resonance": "Überwiegend positiv und sachlich-informativ: Nathalie wird vor allem als klassischer, international anschlussfähiger Vorname mit französisch-lateinischem Bezug wahrgenommen.",
+  "practical_notes": [
+    "Für Suchmaschinen-Nutzer wirkt der Name klar, freundlich und etabliert.",
+    "Die Schreibweise ist im deutschsprachigen Raum bekannt, aber weniger alltagssprachlich als manche Kurzformen.",
+    "Bei der Einordnung sollte man eher von einem stilvoll-klassischen Namen sprechen als von einem trendigen Modenamen."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt fast nur aus Namenslexika und nicht aus freier öffentlicher Debatte.",
+    "Daher ist die Resonanz eher eine Beschreibung der Namensdarstellung als ein breites Stimmungsbild.",
+    "Keine belastbaren Hinweise auf Stigmatisierung oder negative gesellschaftliche Konnotationen in den vorliegenden Quellen."
+  ],
+  "short_summary": "Nathalie wird in den vorliegenden Quellen überwiegend positiv und klassisch beschrieben, mit französisch-lateinischem Hintergrund und weihnachtlicher Bedeutungsassoziation. Die Evidenz ist jedoch eher namenskundlich als gesellschaftlich diskutiert.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Nathalie � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/N/Na/Nathalie/"
+    },
+    {
+      "confidence": 0.9,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Nathalie: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Nathalie.html"
+    }
+  ],
+  "style_effect": [
+    "klingt elegant und klassisch",
+    "wirkt international und vertraut",
+    "wird häufig mit französischem Flair verbunden",
+    "hat einen eher sanften, zeitlosen Eindruck",
+    "erscheint in Quellen vor allem beschreibend statt kontrovers"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Mittel bis gut sichtbar im namenskundlichen Umfeld; die öffentliche Resonanz wirkt jedoch eher lexikalisch als breit diskutiert."
+}

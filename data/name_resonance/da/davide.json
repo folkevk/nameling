@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "italienische Variante von David",
+    "hebräischer/biblischer Ursprung",
+    "Bedeutung: der Geliebte / Liebling Gottes",
+    "Namenstag",
+    "männlicher Vorname",
+    "Beliebtheit vor allem als Namensthema, nicht als öffentlicher Diskurs"
+  ],
+  "confidence": 0.82,
+  "display_text": "Davide wirkt öffentlich eher sachlich bis leicht positiv: ein italienisch klingender, biblisch geprägter Vorname mit der Bedeutung „der Geliebte“ bzw. „Liebling Gottes“. In Deutschland ist die Sichtbarkeit eher gering bis mittel; die vorhandene Evidenz stammt vor allem aus Namenslexika und zeigt keine breite kontroverse Debatte.",
+  "evidence_quality": "mittel bis schwach: inhaltlich konsistent, aber stark auf wenige lexikalische Quellen begrenzt",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Davide",
+  "normalized_name": "davide",
+  "overall_resonance": "Davide wird öffentlich vor allem sachlich und eher freundlich wahrgenommen: als italienische Form von David mit biblisch-hebräischem Hintergrund und positiver Namensbedeutung. Die Resonanz wirkt insgesamt unaufgeregt bis leicht positiv, allerdings auf Basis eher lexikalischer Namensseiten und nicht einer breiten Debatte.",
+  "practical_notes": [
+    "Für Suchende wirkt der Name klar, international und kulturell gut verortet.",
+    "In Deutschland dürfte Davide als eher seltener, aber gut verständlicher Vorname erscheinen.",
+    "Die öffentliche Wahrnehmung hängt stark von der Einordnung als italienische Form von David ab."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist begrenzt und stützt sich vor allem auf einzelne Namenslexikon-Seiten.",
+    "Es gibt keine belastbare breite öffentliche Resonanz oder kontroverse Debatte.",
+    "Beliebtheitsaussagen sollten vorsichtig gelesen werden, da sie nicht aus einer großen Meinungsbasis stammen."
+  ],
+  "short_summary": "Davide wird in Deutschland meist als italienische, biblisch geprägte Form von David mit positiver Namensbedeutung wahrgenommen. Die öffentliche Resonanz ist eher sachlich und freundlich, aber nur schwach breit belegt.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Davide � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/D/Da/Davide/"
+    },
+    {
+      "confidence": 0.74,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Davide: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Davide.html"
+    }
+  ],
+  "style_effect": [
+    "klingt italienisch und international",
+    "wirkt klassisch-biblisch",
+    "eher weich und melodisch",
+    "formal verständlich, aber nicht alltäglich-deutsch",
+    "durch die Endung -e leicht südlich/romanisch geprägt"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Eher geringe bis mittlere Sichtbarkeit in der deutschsprachigen Öffentlichkeit; der Name erscheint vor allem in Namenslexika und Bedeutungsseiten, nicht als stark diskutierter Trendname."
+}

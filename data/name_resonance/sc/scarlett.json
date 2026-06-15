@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "Scharlachrot / Rot / die Rothaarige",
+    "altfranzösische bzw. altenglische Namensherkunft",
+    "literarisch-popkulturelle Verbindung, z. B. Scarlett O'Hara",
+    "Farbigkeit und Wärme",
+    "englischsprachiger Namenseindruck"
+  ],
+  "confidence": 0.9,
+  "display_text": "Scarlett hat in der öffentlichen Wahrnehmung überwiegend eine positive, moderne und elegante Ausstrahlung. Der Name ist bekannt, aber in Deutschland nicht extrem häufig, und wird vor allem mit der Bedeutung rund um „rot“ bzw. „scharlachrot“ verbunden. Die Evidenz ist solide, aber auf wenige Namenslexikon-Quellen gestützt.",
+  "evidence_quality": "gut, aber begrenzt: zwei namenskundliche Webquellen mit konsistenten Angaben; keine breite Datenbasis, dennoch für eine vorsichtige Resonanzkarte brauchbar.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Scarlett",
+  "normalized_name": "scarlett",
+  "overall_resonance": "Scarlett wird in der öffentlichen Namenswahrnehmung überwiegend als klangvoll, markant und eher elegant wahrgenommen. Die Rezeption ist vor allem positiv bis neutral; der Name wirkt modern, international und zugleich durch seine Farb- und Bedeutungsassoziationen auffällig. In Deutschland scheint er bekannt, aber nicht übermäßig häufig zu sein.",
+  "practical_notes": [
+    "Für die Namenssuche wirkt Scarlett klar, eingängig und international verständlich.",
+    "Der Name hat einen starken Wiedererkennungswert durch Bedeutung und Klang.",
+    "In Deutschland dürfte er eher als modern-englischer Vorname wahrgenommen werden als als klassisch deutscher Name."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stützt sich auf wenige Namenslexikon-Quellen; die Lage kann je nach Erhebungszeitpunkt variieren.",
+    "Beliebtheitsaussagen sind als Tendenz zu lesen, nicht als exakte Rangliste.",
+    "Popkulturelle Assoziationen können die Wahrnehmung beeinflussen, sind aber keine allgemeingültige Eigenschaft des Namens."
+  ],
+  "short_summary": "Scarlett wird meist positiv, modern und markant wahrgenommen; der Name wirkt international und elegant, mit starker Farb- und Popkultur-Assoziation.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Scarlett � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/S/Sc/Scarlett/"
+    },
+    {
+      "confidence": 0.95,
+      "is_name_discussion": true,
+      "sentiment": "positive",
+      "source_type": "web",
+      "title": "&#9655; Vorname Scarlett: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Scarlett.html"
+    }
+  ],
+  "style_effect": [
+    "klangvoll",
+    "modern",
+    "international",
+    "elegant",
+    "auffällig",
+    "weiblich-klar",
+    "modisch, aber nicht kurzlebig wirkend"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Der Name ist gut auffindbar und im deutschen Namensraum bekannt, aber nicht allgegenwärtig. Die Evidenz deutet auf eine mittlere Sichtbarkeit hin: präsent genug für Wiedererkennung, jedoch ohne starke Sättigung."
+}

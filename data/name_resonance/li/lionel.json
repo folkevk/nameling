@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "französische Koseform von Leon",
+    "Bedeutung: der Löwe / kleiner Löwe",
+    "international bekannt",
+    "Namenstagangaben in Namenslexika",
+    "Kurzformen wie Lio oder Leo",
+    "eher selten, aber nicht unbekannt im deutschsprachigen Raum"
+  ],
+  "confidence": 0.89,
+  "display_text": "Lionel wirkt in Deutschland eher positiv und sachlich anerkannt: ein internationaler, klangvoller Vorname mit der Löwe-Bedeutung, der selten, aber gut bekannt ist. Die öffentliche Resonanz erscheint vor allem informativ und kaum kontrovers.",
+  "evidence_quality": "mittel: zwei einschlägige Namensquellen mit klarer Namensdiskussion, aber wenig breiter öffentlicher Diskurs außerhalb von Lexikon-/Ratgeberkontexten.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Lionel",
+  "normalized_name": "lionel",
+  "overall_resonance": "Lionel wird in der verfügbaren deutschen Namens-Evidenz überwiegend positiv bis neutral wahrgenommen: ein international klingender, eher klassisch-moderner Vorname mit klarer Bedeutung und guter Wiedererkennbarkeit.",
+  "practical_notes": [
+    "Für Suchende wirkt Lionel meist unkompliziert, klar aussprechbar und international anschlussfähig.",
+    "Wer einen seltenen, aber vertrauten Namen mit Löwe-Bedeutung sucht, findet hier ein passendes Profil.",
+    "Die Schreibweise ist etabliert, Varianten und Kurzformen sind leicht ableitbar."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz basiert vor allem auf zwei Namenslexika/Name-Seiten, also auf eher schmaler öffentlicher Diskussion.",
+    "Es ist keine breite gesellschaftliche Debatte oder starke Gegenreaktion erkennbar.",
+    "Die Wahrnehmung kann durch redaktionelle Namensseiten etwas positiv gefärbt sein."
+  ],
+  "short_summary": "Lionel wird in der verfügbaren deutschen Evidenz als klangvoller, internationaler und eher modern-klassischer Vorname mit positiver Grundwirkung beschrieben; er ist bekannt, aber nicht sehr häufig.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "Vorname Lionel � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/L/Li/Lionel/"
+    },
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Lionel: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Lionel.html"
+    }
+  ],
+  "style_effect": [
+    "international",
+    "klassisch-modern",
+    "elegant",
+    "sportlich anmutend",
+    "klangvoll",
+    "selten, aber präsent"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland eher weniger etabliert als sehr häufige Vornamen, aber sichtbar und bekannt; die öffentliche Resonanz wirkt eher informativ als kontrovers."
+}

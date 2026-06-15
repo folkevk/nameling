@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "weiblicher Vorname",
+    "altgriechische Herkunft",
+    "Kurzform/Variante von Helene bzw. Helen",
+    "Bedeutungsfelder wie „strahlend“, „leuchtend“, „sonnig“",
+    "Namenstag",
+    "im deutschsprachigen Raum bekannt"
+  ],
+  "confidence": 0.78,
+  "display_text": "Ellen: klassisch, freundlich und eher positiv konnotiert. Die vorliegende Evidenz nennt vor allem Bedeutungen wie „die Strahlende“ oder „die Sonnenhafte“; zugleich ist die Quellenlage eher schmal, daher nur eine vorsichtige Einordnung der öffentlichen Resonanz.",
+  "evidence_quality": "mittel bis schwach: inhaltlich klare Namensbeschreibungen, aber nur wenige Quellen und keine breite öffentliche Resonanzmessung",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Ellen",
+  "normalized_name": "ellen",
+  "overall_resonance": "Der Vorname Ellen wirkt in der vorliegenden Evidenz insgesamt sachlich, klassisch und eher positiv konnotiert. Häufig genannt werden Bedeutungen wie „die Strahlende“ oder „die Sonnenhafte“, was dem Namen eine helle, freundliche Wirkung gibt. Die öffentliche Rezeption erscheint eher ruhig und unaufgeregt als trendig oder auffällig.",
+  "practical_notes": [
+    "Für eine Namenssuche lässt sich Ellen als vertraut, klar und eher klassisch beschreiben.",
+    "Der Name wirkt eher zeitlos als modisch.",
+    "Die Bewertung sollte vorsichtig gelesen werden, da die Quellenlage begrenzt ist."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist relativ schmal und stützt sich hauptsächlich auf Namenslexikon-Seiten.",
+    "Beliebtheitsangaben sollten nicht als allgemeingültige öffentliche Meinung missverstanden werden.",
+    "Keine belastbaren Hinweise auf soziale Stigmatisierung in der vorliegenden Evidenz."
+  ],
+  "short_summary": "Ellen wird überwiegend freundlich, klassisch und hell konnotiert wahrgenommen. Die Quellenlage ist jedoch begrenzt und basiert vor allem auf Namenslexika.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.84,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Ellen � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/E/El/Ellen/"
+    },
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Ellen: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Ellen.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "zeitlos",
+    "eher freundlich",
+    "sachlich",
+    "leicht elegant",
+    "unaufdringlich"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Die Sichtbarkeit des Namens wird als vorhanden, aber nicht besonders laut oder medial stark dargestellt. Die Evidenz stützt sich vor allem auf Namenslexika und wenige beschreibende Quellen; daher ist die Aussagekraft für eine breite öffentliche Wahrnehmung begrenzt."
+}

@@ -1,0 +1,71 @@
+{
+  "associations": [
+    "Kurzform von Julia",
+    "lateinischer Ursprung",
+    "Geschlecht der Julier / dem Jupiter geweiht",
+    "Unisex-Name",
+    "selten bis mäßig beliebt in Deutschland",
+    "mögliche Verbindung zum Monatsnamen Juli",
+    "teilweise auch als Jungenname im russischen Sprachraum erwähnt",
+    "Namenstag"
+  ],
+  "confidence": 0.84,
+  "display_text": "Juli wirkt in der öffentlichen Wahrnehmung eher neutral bis leicht positiv: ein kurzer, ungewöhnlicher und gut einordenbarer Vorname mit moderner Note. Die verfügbare Evidenz stammt fast nur aus Namenslexika, daher ist die Aussagekraft begrenzt.",
+  "evidence_quality": "mittel bis gut: mehrere übereinstimmende Namenslexika, aber kaum freie öffentliche Diskussionslage und wenig breit gestreute Evidenz.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Juli",
+  "normalized_name": "juli",
+  "overall_resonance": "Eher neutral bis leicht positiv: Der Name Juli wird vor allem sachlich als kurzer, ungewöhnlicher Vorname wahrgenommen, mit teils freundlicher und moderner Wirkung.",
+  "practical_notes": [
+    "Für Suchmaschinen ist eine kurze Erklärung sinnvoll, da der Name leicht mit dem Monat verwechselt werden kann.",
+    "In Deutschland wirkt Juli eher selten, aber verständlich und unkompliziert.",
+    "Die Einordnung als Unisex-Name kann je nach Kontext unterschiedlich gelesen werden."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist schmal und fast nur lexikalisch, daher ist die öffentliche Resonanz nur eingeschränkt belastbar.",
+    "Ein Teil der Wahrnehmung kann durch die Überschneidung mit dem Monatsnamen Juli beeinflusst sein.",
+    "Keine Hinweise auf klare Stigmatisierung; falls der Name als ungewöhnlich empfunden wird, ist das eher eine Stilfrage als ein Vorurteil."
+  ],
+  "short_summary": "Juli wird überwiegend neutral bis freundlich wahrgenommen: kurz, selten, leicht modern und als Unisex-Name einordenbar. Die Evidenz ist jedoch vor allem lexikalisch und daher nur eingeschränkt repräsentativ.",
+  "source_count": 3,
+  "sources": [
+    {
+      "confidence": 0.91,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Juli � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/J/Ju/Juli/"
+    },
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Juli � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/J/Ju/Juli/"
+    },
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "überwiegend positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Juli: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Juli.html"
+    }
+  ],
+  "style_effect": [
+    "kurz und prägnant",
+    "modern wirkend",
+    "ungewöhnlich",
+    "namenskundlich klar einordbar",
+    "unisex-lesbar",
+    "teilweise verwechslungsnah mit dem Monatsnamen Juli"
+  ],
+  "usable_evidence_count": 3,
+  "visibility": "Die öffentliche Sichtbarkeit wirkt eher begrenzt und stark namenkundlich geprägt; die vorliegende Evidenz stammt fast ausschließlich aus Namenslexika und nicht aus breiter Alltagsdiskussion."
+}

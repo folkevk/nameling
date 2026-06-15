@@ -1,0 +1,62 @@
+{
+  "associations": [
+    "altnordische Herkunft",
+    "nordische Mythologie",
+    "Bedeutung mit göttlichem bzw. sternbezogenem Bezug",
+    "schön und friedlich wirkende Assoziationen",
+    "klassischer Mädchenvorname",
+    "Namenstag",
+    "Beliebtheit in Deutschland"
+  ],
+  "confidence": 0.78,
+  "display_text": "Astrid wirkt öffentlich überwiegend sachlich bis positiv: klassisch, nordisch und zeitlos. Die vorhandene Evidenz stammt jedoch vor allem aus Namenslexika, daher ist die Resonanz nur vorsichtig als allgemeine Wahrnehmung zu lesen.",
+  "evidence_quality": "mittel bis schwach: klar namebezogene, aber überwiegend lexikalische und redaktionelle Quellen; wenig direkte öffentliche Diskussion.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Astrid",
+  "normalized_name": "astrid",
+  "overall_resonance": "Überwiegend sachlich bis positiv, mit klassisch-nordischer Anmutung. Die öffentliche Rezeption wirkt eher beschreibend als kontrovers.",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt Astrid etabliert, klar lesbar und kulturell gut verankert.",
+    "Der Name passt stilistisch eher zu klassisch-nordischen oder zeitlosen Namensvorlieben.",
+    "In Deutschland erscheint er eher selten bis mäßig verbreitet, aber gut bekannt."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt fast ausschließlich aus Namenslexika und redaktionellen Namensseiten; das ist nur eingeschränkt ein Bild echter öffentlicher Resonanz.",
+    "Positive und neutral-informative Einordnung überwiegen, belastbare negative Wahrnehmungen sind kaum sichtbar.",
+    "Einzelne Formulierungen auf den Quellen können subjektiv oder marketingnah sein und sollten nicht als allgemeine Meinung verstanden werden."
+  ],
+  "short_summary": "Astrid wird im deutschsprachigen Raum überwiegend sachlich und eher positiv wahrgenommen: klassisch, nordisch und zeitlos. Die Belege sind jedoch vor allem lexikalische Namensseiten, daher ist die Aussage zur öffentlichen Resonanz nur vorsichtig belastbar.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Astrid � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/A/As/Astrid/"
+    },
+    {
+      "confidence": 0.94,
+      "is_name_discussion": true,
+      "sentiment": "mostly positive",
+      "source_type": "web",
+      "title": "&#9655; Vorname Astrid: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Astrid.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "nordisch",
+    "historisch",
+    "elegant",
+    "ruhig",
+    "namenskundlich"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Im deutschsprachigen Raum bekannt, aber eher nicht allgegenwärtig; die Evidenz deutet auf einen eher klassischen, gelegentlich als zeitlos wahrgenommenen Vornamen hin."
+}

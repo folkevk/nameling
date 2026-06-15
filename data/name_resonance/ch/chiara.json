@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "italienische Form von Clara",
+    "Bedeutung: die Helle / die Berühmte / die Glänzende",
+    "lateinischer Ursprung",
+    "beliebt in Deutschland",
+    "klarer, freundlicher Namensklang",
+    "teilweise mit Aussprachefragen verbunden"
+  ],
+  "confidence": 0.79,
+  "display_text": "Chiara wirkt in den vorliegenden Quellen überwiegend positiv: ein heller, eleganter und italienisch geprägter Mädchenname, der in Deutschland als beliebt beschrieben wird. Einzelne Hinweise auf Aussprachefragen sollten als vereinzelte Kommentare, nicht als allgemeines Urteil verstanden werden.",
+  "evidence_quality": "mittel bis gut, aber thematisch schmal; vor allem Namenslexika statt breiter öffentlicher Debatten",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Chiara",
+  "normalized_name": "chiara",
+  "overall_resonance": "Überwiegend positiv und freundlich, mit einem eleganten, italienisch geprägten Klang. In den vorliegenden Namensquellen wird Chiara meist mit Helligkeit, Klarheit und Stil verbunden.",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt Chiara modern, angenehm und international verständlich.",
+    "Im Deutschen dürfte die italienische Aussprache gelegentlich nachgefragt werden.",
+    "Der Name hat eine klare, positive Bedeutungswelt und klingt eher stilvoll als ungewöhnlich."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt fast ausschließlich aus Namenslexika und einer einzelnen Vornamensseite; das ist für öffentliche Resonanz nur begrenzt repräsentativ.",
+    "Einzelne Nutzerkommentare erwähnen Aussprache- oder Akzeptanzkritik, diese sollten aber nicht verallgemeinert werden.",
+    "Die positive Deutung des Namens ist stark kultur- und quellenabhängig und keine objektive Eigenschaft."
+  ],
+  "short_summary": "Chiara wird im deutschsprachigen Raum meist positiv wahrgenommen: hell, elegant, italienisch und beliebt. Die Datenlage ist jedoch vor allem auf Namensseiten gestützt.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "Vorname Chiara � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/C/Ch/Chiara/"
+    },
+    {
+      "confidence": 0.95,
+      "is_name_discussion": true,
+      "sentiment": "mostly positive",
+      "source_type": "web",
+      "title": "&#9655; Vorname Chiara: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Chiara.html"
+    }
+  ],
+  "style_effect": [
+    "weich",
+    "melodisch",
+    "elegant",
+    "modern-italienisch",
+    "hell und klar",
+    "lebendig, ohne hart zu wirken"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Im deutschsprachigen Raum ist der Name bekannt und wird als beliebter Mädchenname beschrieben; die öffentliche Sichtbarkeit wirkt damit ordentlich, aber nicht übermäßig dominant."
+}

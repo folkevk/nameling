@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "weiblicher Vorname",
+    "französische Form von Heinrich",
+    "Bedeutung: Hausherrin / Herrscherin der Heimat",
+    "deutscher Sprachraum",
+    "altdeutsche Herkunft",
+    "Namenstag",
+    "Kurzformen wie Henni, Henny, Jetta, Jette"
+  ],
+  "confidence": 0.86,
+  "display_text": "Henriette wirkt im deutschsprachigen Raum klassisch, elegant und eher selten. Die öffentliche Rezeption ist überwiegend positiv und leicht nostalgisch, wobei die Evidenz vor allem aus namenkundlichen Quellen stammt.",
+  "evidence_quality": "gut bis mittel: zwei klare namenkundliche Quellen mit überwiegend konsistenter Einordnung, jedoch begrenzte Alltags- bzw. Breitenresonanz.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Henriette",
+  "normalized_name": "henriette",
+  "overall_resonance": "Henriette wird im deutschsprachigen Raum überwiegend als klassischer, eher traditionell wirkender Mädchenvorname wahrgenommen. Die öffentliche Rezeption ist tendenziell positiv bis wertschätzend, mit einem leicht nostalgischen und sprachlich eleganten Eindruck. Die Evidenz ist insgesamt solide, stammt aber vor allem aus namenkundlichen Quellen und weniger aus breiter Alltagsdiskussion.",
+  "practical_notes": [
+    "Für Suchmaschinen wirkt der Name informativ, historisch und solide verankert.",
+    "Je nach Kontext kann er als eher selten und bewusst gewählt erscheinen.",
+    "Keine Hinweise auf eine problematische Stigmatisierung in der vorliegenden Evidenz."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Ein Teil der positiven Bewertung stammt aus Einzelmeinungen und nicht aus breiter öffentlicher Resonanz.",
+    "Die Quellen sind überwiegend lexikalisch/namenskundlich; die soziale Wahrnehmung im Alltag ist daher nur eingeschränkt belegbar."
+  ],
+  "short_summary": "Henriette gilt im Deutschen als klassisch, elegant und eher selten; die Resonanz ist überwiegend positiv, aber vor allem durch namenkundliche Quellen belegt.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Henriette � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/H/He/Henriette/"
+    },
+    {
+      "confidence": 0.84,
+      "is_name_discussion": true,
+      "sentiment": "eher positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Henriette: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Henriette.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "elegant",
+    "traditionell",
+    "leicht nostalgisch",
+    "namenskundlich klar",
+    "französisch-deutsche Anmutung"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Bekannt, aber nicht sehr häufig; eher ein vertrauter als ein modischer Vorname."
+}

@@ -1,0 +1,62 @@
+{
+  "associations": [
+    "friesisch/niederdeutsche Koseform von Cäcilie/Cecilia",
+    "lateinische Herkunft",
+    "Bedeutung wird teils als 'die Blinde', volksetymologisch auch 'die Himmlische' beschrieben",
+    "deutschsprachiger Mädchenname",
+    "Beliebtheitsschwerpunkt in den 1960er/1970er Jahren",
+    "heute eher selten",
+    "Namenslexikon- und Herkunftsassoziation"
+  ],
+  "confidence": 0.92,
+  "display_text": "Silke: überwiegend neutral bis leicht positiv. Der Name wirkt klassisch, freundlich und traditionell-deutsch, mit klarer Herkunft und einem Beliebtheitshöhepunkt in den 1960er/1970er Jahren. Heute wird er eher als vertraut, aber selten wahrgenommen. Die Evidenz stammt vor allem aus Namenslexika; eine breite öffentliche Debatte ist kaum sichtbar.",
+  "evidence_quality": "mittel bis gut; inhaltlich klare Namenseinträge, aber wenig echte öffentliche Diskussion und keine breite Resonanzvielfalt.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Silke",
+  "normalized_name": "silke",
+  "overall_resonance": "Überwiegend neutral bis leicht positiv. Der Name Silke wird öffentlich vor allem sachlich-namenkundlich wahrgenommen: als kurzer, freundlicher deutscher Mädchenname mit klarer Herkunft und zeittypischer Prägung. Die heutige Wahrnehmung wirkt eher ruhig und unaufgeregt; starke Polarisierung ist nicht erkennbar.",
+  "practical_notes": [
+    "Für Suchende wirkt Silke meist unkompliziert, klassisch und gut einordbar.",
+    "Der Name kann alters- bzw. generationstypisch erscheinen, da er seinen Höhepunkt eher in den 1960er/1970er Jahren hatte.",
+    "Da der Name heute seltener vergeben wird, kann er als eher vertraut als trendig wahrgenommen werden."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist einseitig und stammt überwiegend aus Namenslexika; es gibt kaum echte öffentliche Debatte oder breitere soziale Resonanz.",
+    "Einzelne Bedeutungsangaben variieren je nach Quelle; das ist bei Namensdeutungen üblich und kein Hinweis auf eine feste gesellschaftliche Bewertung."
+  ],
+  "short_summary": "Silke wird in Deutschland überwiegend neutral bis leicht positiv wahrgenommen: klassisch, freundlich und sachlich-namenkundlich geprägt, heute eher selten.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Silke � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/S/Si/Silke/"
+    },
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "gemischt",
+      "source_type": "web",
+      "title": "&#9655; Vorname Silke: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Silke.html"
+    }
+  ],
+  "style_effect": [
+    "kurz",
+    "freundlich",
+    "weiblich",
+    "traditionell-deutsch",
+    "zeittypisch",
+    "sachlich",
+    "vertraut, aber nicht modern-trendig"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland bekannt, aber heute eher selten und generationstypisch konnotiert. Der Name hat vor allem Präsenz in Namenslexika und weniger in aktueller Alltagsdiskussion."
+}

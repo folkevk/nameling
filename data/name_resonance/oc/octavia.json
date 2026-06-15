@@ -1,0 +1,62 @@
+{
+  "associations": [
+    "lateinische bzw. römische Herkunft",
+    "Bedeutung: „die Achte“",
+    "weiblicher Vorname",
+    "selten in Deutschland",
+    "Namenstag",
+    "Spitznamen wie Tavia, Tia, Tavi, Via oder Ava"
+  ],
+  "confidence": 0.8,
+  "display_text": "Octavia wirkt in Deutschland eher selten, aber positiv besetzt: ein klangvoller, eleganter und historisch-lateinischer Name. Die Quellenlage ist begrenzt und vor allem beschreibend, nicht breit diskursiv.",
+  "evidence_quality": "Begrenzt, aber brauchbar: zwei überwiegend redaktionelle Namensquellen, wenig echte Publikumsdiskussion.",
+  "generated_at": "2026-06-14T10:47:41Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Octavia",
+  "normalized_name": "octavia",
+  "overall_resonance": "Octavia wird in den vorliegenden deutschsprachigen Quellen überwiegend positiv und sachlich wahrgenommen: als seltener, klangvoller und historisch-lateinisch geprägter Mädchenname mit eleganter Wirkung.",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt Octavia stilvoll und ungewöhnlich, ohne stark erklärungsbedürftig zu sein.",
+    "Die Schreibweise ist klar, der Name ist aber im deutschen Alltag eher selten.",
+    "Wer einen klassischen, international anschlussfähigen und klangvollen Namen sucht, könnte Octavia als markant empfinden."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt im Wesentlichen aus zwei Namenslexika; eine breite öffentliche Debatte ist nicht erkennbar.",
+    "Positive Eindrücke wie „elegant“ oder „zeitlos“ sind redaktionelle Bewertungen und keine allgemeingültigen Fakten.",
+    "Zur sozialen Wahrnehmung liegen keine Hinweise auf Stigmatisierung oder problematische Konnotationen vor."
+  ],
+  "short_summary": "Octavia wird in den vorhandenen deutschen Quellen überwiegend positiv beschrieben: selten, klangvoll, elegant und historisch-lateinisch geprägt. Die Evidenz ist jedoch eher lexikalisch als breit öffentlich diskutiert.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.89,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Octavia � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/O/Oc/Octavia/"
+    },
+    {
+      "confidence": 0.91,
+      "is_name_discussion": true,
+      "sentiment": "positive",
+      "source_type": "web",
+      "title": "&#9655; Vorname Octavia: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Octavia.html"
+    }
+  ],
+  "style_effect": [
+    "melodisch",
+    "elegant",
+    "zeitlos",
+    "einzigartig",
+    "klassisch-historisch",
+    "sprachlich markant",
+    "selten"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Eher niedrig bis moderat sichtbar in Deutschland; die Evidenz deutet auf einen seltenen, aber bekannten Namen hin. Die öffentliche Wahrnehmung wirkt vor allem beschreibend und namenskundlich, nicht breit diskutiert."
+}

@@ -1,0 +1,62 @@
+{
+  "associations": [
+    "„der Siegende“ / „der Siegreiche“",
+    "lateinische Herkunft",
+    "christlicher Bezug und Namenstag",
+    "selten in Deutschland",
+    "klassisch und traditionell",
+    "Kurzformen wie Vinz oder Vince"
+  ],
+  "confidence": 0.74,
+  "display_text": "Vinzenz wird überwiegend als klassischer, traditionsreicher und eher positiv besetzter Vorname wahrgenommen. In Deutschland ist er сравнsweise selten, wodurch er markant und unverwechselbar wirkt. Die Evidenz ist jedoch vor allem namenskundlich und nicht als breite öffentliche Debatte zu verstehen.",
+  "evidence_quality": "mittel bis schwach: klar namenkundliche Treffer, aber kaum echte öffentliche Debatte oder breit angelegte Resonanzdaten.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Vinzenz",
+  "normalized_name": "vinzenz",
+  "overall_resonance": "Vinzenz wird in den vorliegenden Quellen überwiegend als klassischer, traditioneller und eher positiv konnotierter Vorname beschrieben. Die öffentliche Resonanz wirkt freundlich bis wertschätzend, aber die Evidenz ist vor allem namenskundlich und nicht als breite Alltagsdebatte zu verstehen.",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt Vinzenz eher hochwertig, traditionsbewusst und klar männlich.",
+    "Durch die Seltenheit bleibt der Name markant und unverwechselbar.",
+    "Kurzformen wie Vinz können den Eindruck etwas moderner und lockerer machen."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt vor allem aus Namenslexika und Datenbanken, nicht aus einer breiten öffentlichen Diskussion.",
+    "Die positive Tendenz beruht teils auf Bedeutung und Stil des Namens; das ist nicht automatisch ein Spiegel der Gesamtgesellschaft.",
+    "Seltenheit kann je nach Kontext als besonders, altmodisch oder ungewohnt wahrgenommen werden; daraus lässt sich keine allgemeingültige Bewertung ableiten."
+  ],
+  "short_summary": "Vinzenz erscheint öffentlich eher positiv und traditionsreich, aber die Datenlage ist vor allem beschreibend. Der Name ist in Deutschland eher selten und wirkt klassisch, markant und wertig.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.89,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "Vorname Vinzenz � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/V/Vi/Vinzenz/"
+    },
+    {
+      "confidence": 0.94,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Vinzenz: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Vinzenz.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "traditionsreich",
+    "eher formell",
+    "selten",
+    "wertig klingend",
+    "historisch/lateinisch geprägt",
+    "mit christlichem Bezug"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Eher niedrig bis mittel: Der Name ist in Deutschland vergleichsweise selten und dadurch weniger allgegenwärtig, aber als traditionsreicher Vorname gut einordbar."
+}

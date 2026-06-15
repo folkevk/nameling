@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "arabische bzw. hebräische Herkunft",
+    "Bedeutung: die Hohe / die Erhabene / die Aufsteigende",
+    "weiblicher Vorname",
+    "Namensvarianten wie Aliya oder Aliyah",
+    "Beliebtheit bzw. zunehmende Verwendung in Deutschland"
+  ],
+  "confidence": 0.81,
+  "display_text": "Aaliyah wird in Deutschland meist als moderner, klangvoller und internationaler Mädchenname wahrgenommen. Die vorliegenden Quellen sind vor allem informativ und neutral; sie nennen Herkunft, Bedeutung und zunehmende Bekanntheit, ohne starke öffentliche Meinungsbilder zu zeigen.",
+  "evidence_quality": "mittel bis gut: zwei klare Namenslexika/Infoseiten, aber überwiegend beschreibend statt meinungsbasiert; daher gute Faktenlage, jedoch nur begrenzte direkte Resonanzdaten.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Aaliyah",
+  "normalized_name": "aaliyah",
+  "overall_resonance": "Aaliyah wird in Deutschland überwiegend als moderner, klangvoller und international wahrgenommener Mädchenname beschrieben. Die öffentliche Rezeption in den vorliegenden Quellen ist sachlich bis positiv-neutral, mit Fokus auf Herkunft, Bedeutung und Beliebtheit statt auf klare Meinungsurteile.",
+  "practical_notes": [
+    "Für eine Namenssuche eignet sich die Formulierung „modern und international“ gut, solange klar bleibt, dass dies eine vorsichtige Einordnung ist.",
+    "Wenn Herkunft oder Bedeutung relevant sind, lassen sich diese bei Aaliyah gut anführen.",
+    "Die Schreibweise kann variieren; Varianten und ähnliche Formen kommen vor.",
+    "Bei öffentlicher Resonanz sollte betont werden, dass die vorliegende Evidenz begrenzt und eher beschreibend ist."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist vor allem lexikalisch-informativ und enthält wenig direkte öffentliche Meinungen.",
+    "Es gibt keinen Hinweis auf eine breite negative Stigmatisierung; solche Effekte sollten hier nicht unterstellt werden.",
+    "Aussagen zur Wahrnehmung stützen sich eher auf Namenslexika als auf repräsentative Meinungsdaten."
+  ],
+  "short_summary": "Aaliyah wirkt in Deutschland überwiegend modern, klangvoll und international; die vorliegenden Quellen sind sachlich-informativ und deuten eher auf positive Neutralität als auf starke öffentliche Wertung.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Aaliyah � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/A/Aa/Aaliyah/"
+    },
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Aaliyah: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Aaliyah.html"
+    }
+  ],
+  "style_effect": [
+    "modern",
+    "weich klingend",
+    "international",
+    "elegant",
+    "sachlich-informativ wahrgenommen"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Der Name ist in Deutschland bekannt und seit den 2000er-Jahren präsenter; die Quellen beschreiben ihn eher als etabliert bzw. häufiger geworden, ohne dass sich daraus allein eine starke kulturelle Bewertung ableiten lässt."
+}

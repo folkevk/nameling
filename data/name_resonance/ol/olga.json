@@ -1,0 +1,62 @@
+{
+  "associations": [
+    "slawischer Ursprung",
+    "altnordische Herleitung in Namenslexika",
+    "Bedeutung wie „heilig“, „geweiht“ oder „gesund“",
+    "weiblicher Vorname",
+    "historisch in Deutschland bekannt",
+    "heute eher selten",
+    "Namenstag am 11. Juli"
+  ],
+  "confidence": 0.82,
+  "display_text": "Olga wirkt in Deutschland überwiegend positiv und klassisch: ein traditioneller, slawisch geprägter Name mit positiver Bedeutung, der heute eher selten vergeben wird. Die verfügbare Evidenz ist jedoch vor allem lexikalisch und nur begrenzt repräsentativ für eine breite öffentliche Meinung.",
+  "evidence_quality": "Mittel bis eher schwach: zwei webbasierte Namenslexika, überwiegend informativ und nur begrenzt als öffentliche Meinungsquelle geeignet.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Olga",
+  "normalized_name": "olga",
+  "overall_resonance": "Überwiegend positiv bis neutral-informativ. Der Name wirkt im deutschsprachigen Raum vor allem als klassisch-osteuropäisch bzw. slawisch geprägt und wird in Namenslexika mit einer positiven Bedeutung verbunden. Gleichzeitig wird er in Deutschland heute eher als selten beschrieben.",
+  "practical_notes": [
+    "Für die Namenssuche wirkt Olga klar und vertraut, aber nicht modisch.",
+    "Die Aussprache und Schreibweise sind unkompliziert.",
+    "Wer einen seltenen, traditionsreichen Namen sucht, könnte ihn passend finden."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenzlage ist begrenzt und stützt sich auf zwei Namenslexika statt auf breite öffentliche Diskussion.",
+    "Die Wahrnehmung ist daher eher eine fachliche Namensbeschreibung als ein belastbares Meinungsbild.",
+    "Einzelne positive Formulierungen in Lexika sollten nicht als allgemeine gesellschaftliche Mehrheitsmeinung gelesen werden."
+  ],
+  "short_summary": "Olga wird im deutschen Namenskontext überwiegend positiv und traditionell wahrgenommen, mit klarer Namensbedeutung und eher seltener heutiger Verwendung.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.91,
+      "is_name_discussion": true,
+      "sentiment": "mixed",
+      "source_type": "web",
+      "title": "Vorname Olga � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/O/Ol/Olga/"
+    },
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Olga: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Olga.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "international",
+    "slawisch geprägt",
+    "traditionell",
+    "eher selten",
+    "namenskundlich positiv aufgeladen"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Mittlere Sichtbarkeit: bekannt, aber nicht sehr verbreitet. Die öffentliche Wahrnehmung erscheint eher lexikalisch als diskussions- oder trendgetrieben."
+}

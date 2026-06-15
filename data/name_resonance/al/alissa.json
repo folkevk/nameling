@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "Bedeutungshinweise wie „edel“ und „vornehm“",
+    "mögliche Bezüge zu Alice, Adelheid, Alexandra oder Elisabeth",
+    "moderne Schreibvariante bzw. Nebenform",
+    "Namenstag-Angaben in Namenslexika",
+    "gelegentliche positive Wirkungskommentare wie „schön“ oder „besonders\""
+  ],
+  "confidence": 0.86,
+  "display_text": "Alissa wirkt in den vorliegenden Quellen überwiegend sachlich bis leicht positiv. Der Name wird vor allem mit „edel“/„vornehm“, moderner Schreibweise und einer freundlichen, eleganten Wirkung verbunden. Hinweise auf negative Stigmatisierung finden sich hier nicht.",
+  "evidence_quality": "mittel bis gut; überwiegend sachliche Namenslexika, ergänzt durch einzelne kommentarbasiert positive Eindrücke",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Alissa",
+  "normalized_name": "alissa",
+  "overall_resonance": "Alissa wird öffentlich überwiegend sachlich bis leicht positiv wahrgenommen. In den vorliegenden Namensquellen steht vor allem die Bedeutung und Herkunft im Vordergrund; die Resonanz wirkt eher modern, freundlich und elegant als stark polarisiert.",
+  "practical_notes": [
+    "Für Suchmaschinen- und Kurzprofile ist „leicht positiv“ die passendste Einordnung.",
+    "Die Wirkung des Namens wird in den Quellen eher über Klang, Bedeutung und Schreibweise vermittelt als über gesellschaftliche Zuschreibungen.",
+    "Bei der Interpretation sollte zwischen lexikalischer Namensbeschreibung und echter öffentlicher Breitenwahrnehmung unterschieden werden."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist stark quellengebunden an Namenslexika und Community-Seiten; sie bildet öffentliche Wahrnehmung nur eingeschränkt ab.",
+    "Einige positive Eindrücke stammen aus Kommentaren und sind eher subjektiv als repräsentativ.",
+    "Es gibt keine belastbaren Hinweise auf starke negative Stigmatisierung in den vorliegenden Quellen."
+  ],
+  "short_summary": "Alissa wird in den Quellen meist sachlich und leicht positiv beschrieben, mit Assoziationen zu „edel“, „vornehm“ und einer modernen, weiblichen Namenswirkung.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.99,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Alissa � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/A/Al/Alissa/"
+    },
+    {
+      "confidence": 0.82,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Alissa: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Alissa.html"
+    }
+  ],
+  "style_effect": [
+    "modern",
+    "weiblich",
+    "elegant",
+    "edel/ vornehm assoziiert",
+    "sanft klingend",
+    "namenskundlich gut anschlussfähig"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Der Name ist im deutschsprachigen Namenskontext gut auffindbar und präsent, allerdings eher als bewusste Namenswahl in Namenslexika und Community-Seiten als als sehr massenhaft verbreitete Alltagsreferenz."
+}

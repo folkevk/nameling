@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "Kurzform von Christina/Kristina",
+    "skandinavische bzw. nordische Herkunft",
+    "Bedeutung in Richtung Christin/Anhängerin Christi",
+    "Verwendung in Schweden und anderen nordischen Ländern",
+    "in Deutschland besonders im norddeutschen Raum verortet",
+    "Namenstag in einigen Quellen erwähnt"
+  ],
+  "confidence": 0.79,
+  "display_text": "Stina wirkt in Deutschland eher selten, aber vertraut und freundlich. Die vorliegenden Quellen beschreiben den Namen vor allem als nordische Kurzform von Christina/Kristina; die Resonanz ist überwiegend neutral bis positiv, mit modernem und unkompliziertem Eindruck. Die Evidenz ist jedoch begrenzt und basiert vor allem auf Namenslexika.",
+  "evidence_quality": "mittel bis schwach: zwei überwiegend namenkundliche Webquellen, sachlich und plausibel, aber keine breite öffentliche Diskussionslage.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Stina",
+  "normalized_name": "stina",
+  "overall_resonance": "Stina wirkt in den vorliegenden Quellen insgesamt freundlich, modern und eher nordisch geprägt. Die öffentliche Wahrnehmung ist überwiegend sachlich bis positiv, ohne starke Kontroversen. In Deutschland erscheint der Name eher bekannt als häufig, besonders mit Bezug auf den norddeutschen bzw. skandinavischen Namensraum.",
+  "practical_notes": [
+    "Für eine Namenssuche vermittelt Stina einen klaren, kurzen und leicht merkbaren Eindruck.",
+    "Der Name kann als international anschlussfähig wirken, bleibt im deutschen Alltag aber eher speziell als Standardname.",
+    "Die Wirkung hängt stark davon ab, ob ein nordisch-minimalistischer Stil gewünscht ist."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz zur öffentlichen Resonanz ist begrenzt und stützt sich vor allem auf Namenslexika und einzelne Kommentare.",
+    "Aussagen zur Beliebtheit sollten vorsichtig gelesen werden, da sie je nach Quelle und Zeitpunkt schwanken können.",
+    "Keine belastbaren Hinweise auf gesellschaftliche Stigmatisierung in den vorliegenden Quellen."
+  ],
+  "short_summary": "Stina wird in den Quellen als kurzer, nordisch geprägter und eher modern wirkender Vorname beschrieben. Die Resonanz ist überwiegend neutral bis positiv, bei eher begrenzter Verbreitung in Deutschland.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Stina � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/S/St/Stina/"
+    },
+    {
+      "confidence": 0.84,
+      "is_name_discussion": true,
+      "sentiment": "mixed",
+      "source_type": "web",
+      "title": "&#9655; Vorname Stina: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Stina.html"
+    }
+  ],
+  "style_effect": [
+    "kurz und klar",
+    "nordisch/skandinavisch",
+    "modern und frisch",
+    "freundlich und unkompliziert",
+    "eher selten als sehr häufig"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Eher gering bis mittel in Deutschland; eher als vertrauter, aber nicht massenhaft verbreiteter Vorname wahrgenommen."
+}

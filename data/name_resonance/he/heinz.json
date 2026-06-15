@@ -1,0 +1,63 @@
+{
+  "associations": [
+    "Kurz- und Koseform von Heinrich",
+    "althochdeutsche Herkunft",
+    "Bedeutung im Sinn von Haus/Herrschaft im Haus",
+    "deutsch",
+    "traditionell",
+    "früher häufiger",
+    "heute rückläufig"
+  ],
+  "confidence": 0.89,
+  "display_text": "Heinz wirkt in Deutschland vor allem klassisch, traditionsreich und klar deutsch. Die Rezeption ist überwiegend neutral bis leicht positiv; heute ist der Name eher seltener und weniger trendig, bleibt aber gut bekannt.",
+  "evidence_quality": "gut für Namensbedeutung und Namenscharakter, aber nur begrenzt für echte öffentliche Resonanz; die Quellen sind vor allem lexikalische Namensseiten.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Heinz",
+  "normalized_name": "heinz",
+  "overall_resonance": "Der Vorname Heinz wird in der vorliegenden Evidenz überwiegend als klassisch, traditionsreich und klar deutsch wahrgenommen. Die öffentliche Rezeption wirkt eher neutral bis leicht positiv, mit einem deutlichen historischen Beiklang und weniger moderner Alltagspräsenz.",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt Heinz vertraut und klar einordenbar.",
+    "Der Name vermittelt eher Bodenständigkeit und Tradition als Modernität.",
+    "Wer einen seltenen, aber gut bekannten klassischen Namen sucht, findet hier eine passende Option."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt fast ausschließlich aus Namensdatenbanken und ist daher nur begrenzt aussagekräftig für breite öffentliche Wahrnehmung.",
+    "Es liegen keine Hinweise auf gesellschaftliche Stigmatisierung des Namens in der bereitgestellten Evidenz vor.",
+    "Einzelne positive Wertungen sollten nicht als allgemeine Mehrheitsmeinung überinterpretiert werden."
+  ],
+  "short_summary": "Heinz wird meist als klassischer, traditionsreicher und eher heute seltener deutscher Vorname wahrgenommen – überwiegend neutral bis leicht positiv.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Heinz � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/H/He/Heinz/"
+    },
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Heinz: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Heinz.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "altdeutsch",
+    "traditionsreich",
+    "männlich",
+    "namenskundlich",
+    "eher formell",
+    "historisch geprägt"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland ist der Name bekannt, aber heute eher seltener und weniger im aktuellen Trend. Die Sichtbarkeit scheint daher eher traditionell als zeitgemäß-populär."
+}

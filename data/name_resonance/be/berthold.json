@@ -1,0 +1,63 @@
+{
+  "associations": [
+    "Bedeutung im Sinne von „glänzender Herrscher“",
+    "Namenstag",
+    "Spitznamen wie Bert, Berti, Bertl",
+    "Namensgeschichte",
+    "eher traditionelles Klangbild"
+  ],
+  "confidence": 0.9,
+  "display_text": "Berthold wirkt in den Quellen vor allem traditionell, altdeutsch und selten. Die Resonanz ist überwiegend sachlich bis leicht positiv, mit Assoziationen wie „glänzender Herrscher“, Namenstag und klassischem Klang.",
+  "evidence_quality": "Solide, aber überwiegend lexikalische Evidenz; kaum öffentliche Meinungsäußerungen oder breiter Diskurs.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Berthold",
+  "normalized_name": "berthold",
+  "overall_resonance": "Berthold wird in den vorliegenden Quellen überwiegend sachlich und leicht positiv-konnotiert als traditioneller, altdeutscher Vorname beschrieben. Die öffentliche Wahrnehmung wirkt eher historisch-kulturell als trendig; der Name gilt als selten und klassisch.",
+  "practical_notes": [
+    "Gut geeignet, wenn ein klassischer, historisch wirkender Name gesucht wird.",
+    "Wirkt im Alltag eher ungewöhnlich, weil er seltener vergeben wird.",
+    "Kurzformen und Kosenamen sind in den Quellen belegt.",
+    "Für eine Suchmaschine sollte der Name als traditionell und selten, nicht als modern oder trendig, beschrieben werden."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist begrenzt und stammt vor allem aus Namenslexika; das ist eher beschreibend als diskursiv.",
+    "Keine belastbare Aussage über gesellschaftliche Wertung insgesamt; die leichte Positiveinstufung ergibt sich vor allem aus der Namensbedeutung und dem historischen Ton.",
+    "Keine Hinweise auf soziale Stigmatisierung in den Quellen."
+  ],
+  "short_summary": "Berthold wird meist als seltener, traditioneller und altdeutsch geprägter Vorname mit leicht positivem, historisch-kulturellem Klang wahrgenommen.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Berthold � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/B/Be/Berthold/"
+    },
+    {
+      "confidence": 0.94,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Berthold: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Berthold.html"
+    }
+  ],
+  "style_effect": [
+    "altdeutsch",
+    "mittelalterlich",
+    "klassisch",
+    "traditionell",
+    "selten",
+    "süddeutsch",
+    "glanzvoll",
+    "herrschaftlich klingend"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Eher niedrig bis mittel: Der Name taucht vor allem in Namenslexika und Erklärseiten auf, nicht als Gegenstand einer breiten öffentlichen Debatte."
+}

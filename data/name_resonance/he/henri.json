@@ -1,0 +1,68 @@
+{
+  "associations": [
+    "französische Form von Heinrich",
+    "Bedeutung im Sinne von Herrscher/Herr im Haus",
+    "altdeutsche Wortherkunft",
+    "modern und in Deutschland beliebt",
+    "traditionell, aber aktuell zeitgemäß",
+    "klassisch-internationaler Eindruck"
+  ],
+  "confidence": 0.82,
+  "display_text": "Henri wird überwiegend positiv wahrgenommen: modern, klassisch und international klingend. Die Evidenz ist solide, kommt aber vor allem aus Namenslexika und Namensseiten, daher ist die öffentliche Resonanz nur mittelstark belegt.",
+  "evidence_quality": "mittel bis gut: mehrere konsistente Namensquellen, aber überwiegend lexikalisch/redaktionell statt breit öffentlich diskutiert",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Henri",
+  "normalized_name": "henri",
+  "overall_resonance": "Henri wirkt in der verfügbaren Evidenz überwiegend positiv und modern, zugleich klar klassisch-international. Der Name wird meist mit seiner französischen Form von Heinrich, einer traditionellen Herkunft und einer freundlichen, zeitgemäßen Wirkung verbunden.",
+  "practical_notes": [
+    "Der Name ist kurz, gut merkbar und in Deutschland nachvollziehbar.",
+    "Die Mischung aus Tradition und Internationalität dürfte ihn für viele suchende Eltern attraktiv machen.",
+    "Die Wahrnehmung wirkt eher unproblematisch und wertig, ohne auffällige negative Konnotationen in der vorliegenden Evidenz."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist nur mittelstark, weil sie vor allem aus Namensdatenbanken besteht und wenig echte öffentliche Debatte abbildet.",
+    "Positive Bewertungen sind vorhanden, sollten aber nicht als allgemeingültige Mehrheitsmeinung überinterpretiert werden."
+  ],
+  "short_summary": "Henri wird in den Quellen meist positiv, modern und zugleich klassisch beschrieben. Die Belege sind ordentlich, stammen aber vor allem aus Namenslexika und weniger aus freier öffentlicher Resonanz.",
+  "source_count": 3,
+  "sources": [
+    {
+      "confidence": 0.9,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "Vorname Henri � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/H/He/Henri/"
+    },
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "Vorname Henri � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/H/He/Henri/"
+    },
+    {
+      "confidence": 0.86,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Henri: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Henri.html"
+    }
+  ],
+  "style_effect": [
+    "modern",
+    "klassisch",
+    "international",
+    "kurz und prägnant",
+    "elegant",
+    "traditionell verwurzelt"
+  ],
+  "usable_evidence_count": 3,
+  "visibility": "Die öffentliche Sichtbarkeit ist eher gut, aber die Evidenz stammt vor allem aus Namenslexika und redaktionellen Namensseiten. Das spricht für eine solide Namenswahrnehmung, jedoch nur begrenzt für breite freie Online-Diskussion."
+}

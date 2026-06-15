@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "altgriechische Herkunft",
+    "Bedeutung: „die Auferstandene“ bzw. „jene, die auferstehen soll“",
+    "christlicher Bezug",
+    "Namenstag",
+    "klassisch",
+    "international verbreitet",
+    "in Deutschland bekannt",
+    "historisch-traditionell"
+  ],
+  "confidence": 0.92,
+  "display_text": "Anastasia: überwiegend positiv wahrgenommener, klassischer und international verbreiteter Vorname mit altgriechischer Herkunft und der Bedeutung „die Auferstandene“. In Deutschland bekannt, eher traditionell-elegant als trendig. ",
+  "evidence_quality": "gut, aber überwiegend lexikalisch; zwei einschlägige Namensquellen, keine breite Diskurslage",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Anastasia",
+  "normalized_name": "anastasia",
+  "overall_resonance": "Überwiegend positiv und klassisch. Anastasia wird in den Quellen als traditionsreicher, international bekannter Vorname mit klarer historischer und religiöser Einordnung beschrieben.",
+  "practical_notes": [
+    "Für Suchmaschinen eignet sich eine knappe Einordnung als klassischer, internationaler Mädchenvorname mit positiver Namensbedeutung.",
+    "Die Wahrnehmung wirkt eher elegant und traditionell als modern-experimentell."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz basiert vor allem auf Namenslexika und nicht auf breiter öffentlicher Debatte.",
+    "Es sind keine belastbaren Hinweise auf soziale Stigmatisierung oder negative Stereotype in der vorliegenden Evidenz erkennbar."
+  ],
+  "short_summary": "Anastasia wird in den vorliegenden Quellen überwiegend positiv, klassisch und international wahrgenommen. Der Name ist in Deutschland bekannt und mit traditioneller, historisch-religiöser Bedeutung verknüpft.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "Vorname Anastasia � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/A/An/Anastasia/"
+    },
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Anastasia: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Anastasia.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "elegant",
+    "international",
+    "traditionsnah",
+    "namenkundlich",
+    "wertschätzend"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland gut auffindbar und bekannt, aber eher als klassisch-internationaler Name präsent als als stark trendgetriebener Modename."
+}

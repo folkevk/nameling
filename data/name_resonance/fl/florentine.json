@@ -1,0 +1,63 @@
+{
+  "associations": [
+    "lateinische Herkunft",
+    "französische weibliche Form",
+    "Bedeutung: die Blühende / die Erblühende",
+    "Blume und Frühling",
+    "historisch seit dem 16. Jahrhundert belegt",
+    "Namenstag",
+    "in Deutschland bekannt",
+    "teilweise als hoch angesehen beschrieben"
+  ],
+  "confidence": 0.86,
+  "display_text": "Florentine wirkt in den Quellen überwiegend positiv, klassisch und elegant. Der Name wird mit Blüte, Frühling und einer lateinisch-französischen Herkunft verbunden. Die öffentliche Resonanz scheint eher wohlwollend und namenskundlich geprägt; vereinzelt kann die Aussprache erklärt werden müssen.",
+  "evidence_quality": "Gut für Namensbedeutung, Herkunft und lexikalische Einordnung; nur mittelmäßig für echte öffentliche Meinungsresonanz, da überwiegend Portal- und Lexikonquellen vorliegen.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Florentine",
+  "normalized_name": "florentine",
+  "overall_resonance": "Überwiegend positiv und eher hochwertig-sachlich wahrgenommen, mit klassisch-eleganter Wirkung.",
+  "practical_notes": [
+    "Für Suchmaschinen- und Portalkontexte wirkt der Name meist stilvoll, feminin und traditionsnah.",
+    "Die Schreibweise und Aussprache können vereinzelt erklärt werden müssen.",
+    "Die Resonanz ist eher kulturell-ästhetisch als stark modisch geprägt."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt vor allem aus Namenslexika und -portalen, nicht aus breiter öffentlicher Meinungsforschung.",
+    "Die positiven Eindrücke beziehen sich stark auf Bedeutung, Klang und Herkunft; das ist keine Garantie für einheitliche Alltagswahrnehmung.",
+    "Vereinzelte Hinweise auf falsche Aussprache deuten auf ein mögliches praktisches Missverständnis hin, nicht auf eine negative Bewertung des Namens."
+  ],
+  "short_summary": "Florentine wird in den vorliegenden Quellen überwiegend positiv, klassisch und elegant wahrgenommen. Die Namensbedeutung rund um Blüte, Frühling und lateinisch-französische Herkunft prägt die Resonanz deutlich. Es gibt nur vereinzelte Hinweise auf Ausspracheunsicherheit.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Florentine � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/F/Fl/Florentine/"
+    },
+    {
+      "confidence": 0.9,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Florentine: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Florentine.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "elegant",
+    "blühend/lebendig",
+    "französisch-angehaucht",
+    "namenskundlich vertraut",
+    "eher selten-als-alltäglich"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Mittlere Sichtbarkeit in deutschsprachigen Namensportalen; die Evidenz spricht eher für eine bekannte als für eine stark trendige Namenswahrnehmung."
+}

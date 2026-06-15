@@ -1,0 +1,101 @@
+{
+  "associations": [
+    "altpersische Herkunft",
+    "biblischer Bezug",
+    "Bedeutungen wie 'das Gute festhaltend' oder 'der Mächtige'",
+    "historisch mit persischen Königen verbunden",
+    "selten in Deutschland",
+    "klassisch und markant",
+    "teils als 'cool' oder 'stolz' beschrieben"
+  ],
+  "confidence": 0.9,
+  "display_text": "Darius wirkt in Deutschland überwiegend positiv: ein seltener, historisch geprägter und klangstarker Vorname mit oft wertig empfundener Bedeutung. Die Quellen sind jedoch vor allem Namenslexika und Statistiken, daher ist die öffentliche Resonanz eher vorsichtig als breit gemessen.",
+  "evidence_quality": "Mittel bis gut: mehrere direkt auf den Namen bezogene Quellen, aber überwiegend lexikalisch/statistisch und nur begrenzt community-basiert. Die Tendenz ist gut erkennbar, die öffentliche Resonanz aber nicht breit repräsentativ gemessen.",
+  "generated_at": "2026-06-13T22:17:22Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Darius",
+  "normalized_name": "darius",
+  "overall_resonance": "Überwiegend positiv bis sachlich-neutral. Darius wird in den Quellen meist als klangstarker, historisch geprägter und eher seltener Vorname beschrieben, mit positiver Deutung der Herkunft und Bedeutung. Gleichzeitig ist ein Teil der Evidenz vor allem lexikalisch/statistisch und damit eher beschreibend als echte öffentliche Meinungsäußerung.",
+  "practical_notes": [
+    "Für eine Namenssuche in DE wirkt Darius als eher seltener, aber gut etablierter Jungenname.",
+    "Der Name vermittelt häufig einen seriösen, historischen und kraftvollen Eindruck.",
+    "Wenn eine moderne Massenverbreitung gesucht wird, passt Darius weniger; wenn ein markanter Klassiker gewünscht ist, eher gut."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Ein großer Teil der Evidenz stammt aus Namenslexika und Statistikseiten, nicht aus breiter öffentlicher Debatte.",
+    "Positive Bewertungen wie 'cool' oder 'stark' sind eher subjektive Einzelstimmen und nicht allgemein verallgemeinerbar.",
+    "Die Herkunfts- und Bedeutungsangaben variieren leicht je nach Quelle; das spricht für vorsichtige Formulierungen."
+  ],
+  "short_summary": "Darius wird in Deutschland eher selten, aber positiv und traditionsreich wahrgenommen. Der Name wirkt historisch, stark und markant; die Evidenz ist solide, aber größtenteils aus Namenslexika und Statistiken statt aus breiter öffentlicher Meinungsbildung.",
+  "source_count": 7,
+  "sources": [
+    {
+      "confidence": 0.99,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Darius � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/D/Da/Darius/"
+    },
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "überwiegend positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Darius: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Darius.html"
+    },
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Darius (Vorname) – Wikipedia",
+      "url": "https://de.wikipedia.org/wiki/Darius_(Vorname)"
+    },
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Der Vorname Darius als Babyname – Aktuelle Statistiken",
+      "url": "https://blog.beliebte-vornamen.de/name/darius/"
+    },
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Darius * Statistik, Herkunft und Bedeutung",
+      "url": "https://www.beliebte-vornamen.de/15271-darius.htm"
+    },
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "Der Name Darius: Bedeutung, Herkunft, Charakter & Viel Mehr - Jesus-Info.de",
+      "url": "https://www.jesus-info.de/darius/"
+    },
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "Bedeutung des Namens Darius",
+      "url": "https://www.wisdomlib.org/de/names/darius"
+    }
+  ],
+  "style_effect": [
+    "klingt stark und markant",
+    "historisch-alt und traditionsreich",
+    "eher formell/klassisch als modisch",
+    "durch die seltenere Verbreitung etwas besonders",
+    "die Bedeutungsdeutungen wirken wertig und positiv"
+  ],
+  "usable_evidence_count": 7,
+  "visibility": "In Deutschland eher selten, aber bekannt und in Namensdatenbanken sowie Statistiken sichtbar. Die öffentliche Wahrnehmung wirkt dadurch eher präsent als massenhaft verbreitet."
+}

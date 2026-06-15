@@ -1,0 +1,62 @@
+{
+  "associations": [
+    "Kurzform von Susanne/Susanna",
+    "hebräische Herkunft",
+    "Bedeutung: Lilie",
+    "deutscher Sprachraum",
+    "Rufname oder eigenständiger Vorname",
+    "Namenstag",
+    "Popkultur-Bezug: 'Susi und Strolch'"
+  ],
+  "confidence": 0.9,
+  "display_text": "Susi wird öffentlich meist als freundliche, vertraute Kurz- oder Koseform wahrgenommen. Der Name wirkt eher informell, weich und im deutschen Sprachraum gut verankert. Die vorhandene Evidenz ist jedoch hauptsächlich lexikalisch und damit nur begrenzt breit.",
+  "evidence_quality": "mittel bis gut, aber begrenzt: zwei sachliche Namenslexika mit konsistenten Angaben, jedoch wenig unabhängige Breite",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Susi",
+  "normalized_name": "susi",
+  "overall_resonance": "Susi wird in der öffentlichen Namensbeschreibung überwiegend als freundliche, vertraute Kurz- und Koseform wahrgenommen. Der Name wirkt eher informell, bodenständig und sehr im deutschen Sprachraum verankert. Die verfügbaren Hinweise sind aber vor allem lexikalische Namensdatenbanken, keine breite Meinungsumfrage.",
+  "practical_notes": [
+    "Als Name vermittelt Susi meist Nähe und Vertrautheit.",
+    "Für offizielle Kontexte kann er sehr direkt und persönlich wirken.",
+    "Die öffentliche Wahrnehmung ist eher neutral bis positiv, aber nicht stark formal.",
+    "Die Datenlage reicht für eine vorsichtige Namensbeschreibung, nicht für eine belastbare Trendanalyse."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist einseitig und stammt fast nur aus Namensdatenbanken.",
+    "Popkultur-Referenzen können die Wahrnehmung mitprägen, sagen aber wenig über die allgemeine Namensrezeption aus.",
+    "Es gibt keine klaren Hinweise auf eine gesellschaftliche Stigmatisierung; falls einzelne Assoziationen auftreten, sind sie eher kulturell als abwertend."
+  ],
+  "short_summary": "Susi gilt öffentlich meist als freundliche, vertraute Kurz- oder Koseform mit klassischer deutscher Namensanbindung. Die Rezeption ist überwiegend neutral bis positiv, basiert aber vor allem auf Namenslexika.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Susi � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/S/Su/Susi/"
+    },
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Susi: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Susi.html"
+    }
+  ],
+  "style_effect": [
+    "kurz und vertraut",
+    "umgangssprachlich-kosehaft",
+    "freundlich und weich klingend",
+    "klassisch im deutschen Sprachraum verankert",
+    "eher informell als formell"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Im deutschsprachigen Raum bekannt, aber eher als Kurzform oder Rufname als als seltener offizieller Vollvorname. Die Sichtbarkeit ist durch Namenslexika und Popkultur-Bezüge vorhanden, jedoch nicht durch viele unabhängige Quellen breit abgesichert."
+}

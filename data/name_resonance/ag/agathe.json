@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "griechische Herkunft",
+    "Bedeutung: „die Gute“",
+    "deutsche Form von Agatha",
+    "Namenstag am 5. Februar",
+    "selten in Deutschland",
+    "historische bzw. klassische Namenswirkung"
+  ],
+  "confidence": 0.72,
+  "display_text": "Agathe wird meist sachlich und klassisch wahrgenommen. In Deutschland ist der Name eher selten und wirkt traditionell, leicht altmodisch und durch die Bedeutung „die Gute“ leicht positiv. Die Evidenz ist jedoch begrenzt und vor allem lexikalisch.",
+  "evidence_quality": "mittel bis schwach: zwei einschlägige Namensseiten, aber nur wenig echte öffentliche Resonanz und teils kommentarbasiert",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Agathe",
+  "normalized_name": "agathe",
+  "overall_resonance": "Agathe wird in der öffentlichen Namenswahrnehmung überwiegend sachlich und eher klassisch wahrgenommen, mit einer leichten positiven Grundtönung durch Bedeutung und Namensherkunft. In Deutschland wirkt der Name zugleich selten und etwas altmodisch-traditionell.",
+  "practical_notes": [
+    "Für Suchmaschinen-Nutzer wirkt der Name eher traditionsbewusst als modern.",
+    "Die positive Konnotation kommt vor allem über Bedeutung und Herkunft zustande.",
+    "Wegen der Seltenheit kann der Name als ungewöhnlich wahrgenommen werden, ohne dass dies automatisch negativ ist."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist begrenzt und stammt vor allem aus Namenslexika statt aus breiter öffentlicher Diskussion.",
+    "Einzelne Kommentare wirken gemischt oder leicht ironisch; daraus lässt sich keine stabile Gesamtmeinung ableiten.",
+    "Keine belastbare breite Trend- oder Imagewahrnehmung erkennbar."
+  ],
+  "short_summary": "Agathe wirkt in Deutschland selten, klassisch und eher traditionsnah, mit leicht positiver Grundwirkung durch die Bedeutung „die Gute“.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Agathe � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/A/Ag/Agathe/"
+    },
+    {
+      "confidence": 0.76,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Agathe: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Agathe.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "traditionell",
+    "historisch",
+    "eher selten",
+    "sachlich-informativ",
+    "leicht elegant/altmodisch"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland eher geringe Sichtbarkeit; der Name wird als selten beschrieben und ist öffentlich nicht sehr präsent."
+}

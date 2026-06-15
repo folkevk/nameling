@@ -1,0 +1,64 @@
+{
+  "associations": [
+    "altnordische bzw. schwedische Herkunft",
+    "Bedeutung im Sinne von „Stab Gottes“ / „Gottes Stütze“",
+    "Namenstag",
+    "selten bis wieder verbreitet",
+    "klassischer Jungenname",
+    "historische Kontinuität",
+    "Namenswiederentdeckung"
+  ],
+  "confidence": 0.84,
+  "display_text": "Gustav wirkt in der öffentlichen Wahrnehmung vor allem klassisch, traditionsreich und eher positiv. Die vorliegende Evidenz stammt überwiegend aus Namenslexika und zeigt den Namen als historisch etabliert, wiederentdeckt und im deutschsprachigen Raum weiterhin gut bekannt.",
+  "evidence_quality": "mittel bis eher schwach für soziale Resonanz; gut für Herkunft, Bedeutung und lexikalische Einordnung, aber begrenzt für echte öffentliche Meinungsbreite.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Gustav",
+  "normalized_name": "gustav",
+  "overall_resonance": "Der Vorname Gustav wirkt in der öffentlichen Namenswahrnehmung überwiegend klassisch, traditionsnah und eher positiv besetzt. Die vorhandene Evidenz deutet auf eine wiederentdeckte, historisch etablierte Wahrnehmung hin, allerdings vor allem in lexikalischen Namensprofilen und nicht in breiter sozialer Diskussion.",
+  "practical_notes": [
+    "Für Suchmaschinen nutzbar als kurzer, höflicher Eindruck: klassisch, traditionsreich, wieder im Kommen.",
+    "Die Wahrnehmung wirkt eher wertschätzend als polarisierend.",
+    "Bei der Einordnung sollte man berücksichtigen, dass es sich vor allem um Profil- und Lexikonquellen handelt."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt überwiegend aus Namenslexika; eine breite öffentliche Debattenlage ist daraus nur eingeschränkt ableitbar.",
+    "Die positiven Zuschreibungen sind eher beschreibend als emotional oder gesellschaftlich kontrovers.",
+    "Keine belastbaren Hinweise auf soziale Stigmatisierung in der vorliegenden Evidenz."
+  ],
+  "short_summary": "Gustav wird meist als klassischer, traditionsreicher und eher positiv besetzter Vorname wahrgenommen. Die Evidenz ist vor allem lexikalisch und zeigt weniger eine breite Debatte als eine sachliche, wertschätzende Namenseinordnung.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.94,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "Vorname Gustav � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/G/Gu/Gustav/"
+    },
+    {
+      "confidence": 0.94,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Gustav: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Gustav.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "traditionell",
+    "historisch etabliert",
+    "wertig",
+    "ruhig",
+    "zeitlos",
+    "leicht altmodisch im positiven Sinn",
+    "wieder zunehmend vertraut"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Im deutschsprachigen Raum gut bekannt und als traditioneller Jungenname sichtbar, aktuell eher als klassischer Name mit Wiederbelebungstendenz als als sehr häufiger Modename."
+}

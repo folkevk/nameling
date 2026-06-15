@@ -1,0 +1,58 @@
+{
+  "associations": [
+    "türkischer Ursprung",
+    "Bedeutungen wie „großer“, „starker“ oder „gutaussehender Mann“",
+    "auch Deutung als „junger Held“ bzw. maritime Bezüge",
+    "moderne Namenswahrnehmung",
+    "Beliebtheit in Deutschland"
+  ],
+  "confidence": 0.89,
+  "display_text": "Levent wird in Deutschland überwiegend positiv bis neutral-informativ wahrgenommen. Der Name gilt als modern und bekannt, mit türkischem Ursprung und meist positiven Bedeutungszuweisungen wie „stark“ oder „gutaussehend“. Die Evidenz ist jedoch begrenzt und stammt vor allem aus Namenslexika; breite öffentliche Kontroversen sind nicht erkennbar.",
+  "evidence_quality": "mittel bis gut; klar namebezogene, aber begrenzt breite Online-Evidenz aus Namenslexika und Vornamensseiten",
+  "generated_at": "2026-06-14T10:47:41Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Levent",
+  "normalized_name": "levent",
+  "overall_resonance": "Überwiegend positiv bis neutral-informativ. Der Name wird vor allem über Herkunft, Bedeutung und seine Wahrnehmung als moderner Vorname beschrieben.",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt Levent meist freundlich, modern und gut merkbar.",
+    "Die öffentliche Rezeption ist eher beschreibend als polarisierend.",
+    "Bei Bedeutungsangaben lohnt sich Vorsicht, weil verschiedene Quellen leicht unterschiedliche Deutungen nennen."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist begrenzt und stützt sich vor allem auf wenige Namenslexika/Vornamensseiten.",
+    "Einzelne Bedeutungsdeutungen sind teils redaktionell oder spekulativ und nicht als gesicherte Allgemeinwahrheit zu verstehen.",
+    "Keine belastbaren Hinweise auf negative gesellschaftliche Stigmatisierung in der vorliegenden Evidenz."
+  ],
+  "short_summary": "Levent wird im deutschsprachigen Raum meist positiv bis neutral wahrgenommen: ein moderner, bekannter Vorname mit türkischem Ursprung und überwiegend positiven Bedeutungszuweisungen.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.92,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "Vorname Levent � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/L/Le/Levent/"
+    },
+    {
+      "confidence": 0.88,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Levent: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Levent.html"
+    }
+  ],
+  "style_effect": [
+    "klingt modern und klar",
+    "wirkt international bzw. türkisch geprägt",
+    "wird häufig über positive Bedeutungen erklärt",
+    "erscheint eher lexikalisch als emotional aufgeladen"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Im deutschsprachigen Raum sichtbar und bekannt, mit Hinweisen auf Beliebtheit bzw. Präsenz in Namenslisten; keine breite öffentliche Kontroverse erkennbar."
+}

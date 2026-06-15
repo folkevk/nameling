@@ -1,0 +1,62 @@
+{
+  "associations": [
+    "hebräische Herkunft",
+    "mögliche Bezüge zu „Singen“ oder „Freude“",
+    "teils auch altgriechische Zuschreibungen in Namensquellen",
+    "moderne, internationale Nutzung",
+    "Beliebtheit bzw. zunehmende Bekanntheit in Deutschland",
+    "Namenstag-Angaben in Namenslexika",
+    "Spitznamen wie Jaro oder Ronny in einzelnen Quellen"
+  ],
+  "confidence": 0.83,
+  "display_text": "Jaron wirkt öffentlich überwiegend positiv: modern, international und eher selten, aber bekannt genug, um in Namenslexika regelmäßig aufzutauchen. Die Quellen betonen vor allem Herkunft, Bedeutung und steigende Beliebtheit in Deutschland. Die Evidenz ist dabei solide, aber hauptsächlich auf Vornamensseiten gestützt.",
+  "evidence_quality": "mittel: klare Namensdiskussionen, aber überwiegend aus redaktionellen Namensseiten mit begrenzter Außenperspektive",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Jaron",
+  "normalized_name": "jaron",
+  "overall_resonance": "Jaron wird öffentlich überwiegend positiv bis neutral-informativ wahrgenommen. Der Name wirkt modern, international anschlussfähig und wird oft über Herkunft, Bedeutung und Beliebtheit beschrieben. Die Resonanz ist eher freundlich als kontrovers.",
+  "practical_notes": [
+    "Für die Namenssuche wirkt Jaron modern, angenehm und vergleichsweise unkompliziert.",
+    "Der Name ist in Deutschland nicht sehr häufig, aber gut anschlussfähig im internationalen Kontext.",
+    "Wer Wert auf klare, etablierte Namensdeutungen legt, sollte die unterschiedlichen Herkunftsangaben der Quellen beachten."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt fast ausschließlich aus Vornamensseiten; unabhängige öffentliche Diskussion ist im Auszug nicht erkennbar.",
+    "Bedeutungen und Herkunftsangaben können je nach Quelle variieren.",
+    "Die positive Tendenz ist plausibel, aber nicht als breiter gesellschaftlicher Konsens zu verstehen."
+  ],
+  "short_summary": "Jaron wird in den vorliegenden Quellen überwiegend positiv als moderner, internationaler Jungenname mit interessanter Herkunft und zunehmender Bekanntheit beschrieben. Die Evidenz ist brauchbar, aber vor allem auf Namenslexika gestützt.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.86,
+      "is_name_discussion": true,
+      "sentiment": "mostly positive",
+      "source_type": "web",
+      "title": "Vorname Jaron � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/J/Ja/Jaron/"
+    },
+    {
+      "confidence": 0.94,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Jaron: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Jaron.html"
+    }
+  ],
+  "style_effect": [
+    "modern",
+    "international",
+    "namenskundlich interessant",
+    "freundlich klingend",
+    "kurz und markant",
+    "eher selten als sehr häufig"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland ist der Name sichtbar, aber kein Massenname. Er taucht in Namenslexika und Vornamensseiten auf und wird dort als moderner Jungenname mit zunehmender Bekanntheit dargestellt."
+}

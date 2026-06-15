@@ -1,0 +1,69 @@
+{
+  "associations": [
+    "englische Variante von Sidney",
+    "altenglische bzw. teils lateinisch vermittelte Herkunft",
+    "Bedeutung: die weite Insel",
+    "Unisex-Name",
+    "Name der australischen Stadt Sydney",
+    "in Deutschland eher selten, aber bekannt"
+  ],
+  "confidence": 0.78,
+  "display_text": "Sydney wirkt in Deutschland eher international, modern und leicht außergewöhnlich. Die vorhandenen Quellen zeigen vor allem eine neutral bis leicht positive, sachliche Namenswahrnehmung; breite öffentliche Diskussionen sind nicht erkennbar. Der Name ist bekannt, aber eher selten und wird als Unisex-Name geführt.",
+  "evidence_quality": "mittel bis schwach; überwiegend lexikalische Namenseinträge statt öffentliche Meinungsäußerungen",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Sydney",
+  "normalized_name": "sydney",
+  "overall_resonance": "Sydney wirkt im deutschsprachigen Raum eher international, modern und leicht außergewöhnlich. Die vorhandene Evidenz deutet vor allem auf eine sachlich-neutrale bis leicht positive Wahrnehmung hin; eine breite öffentliche Debatte ist nicht erkennbar.",
+  "practical_notes": [
+    "Für die Namenssuche ist Sydney gut verständlich und international anschlussfähig.",
+    "Die Seltenheit in Deutschland kann als markant, aber nicht sperrig wahrgenommen werden.",
+    "Als Unisex-Name ist die Geschlechtszuordnung ohne Kontext nicht immer eindeutig."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt überwiegend aus Namensdatenbanken, nicht aus freier öffentlicher Debatte.",
+    "Daher ist die Aussage zur tatsächlichen öffentlichen Resonanz nur eingeschränkt belastbar.",
+    "Kein Hinweis auf nennenswerte Kontroverse oder Stigmatisierung in den vorliegenden Quellen."
+  ],
+  "short_summary": "Sydney wird in Deutschland eher als seltener, internationaler und modern wirkender Unisex-Name wahrgenommen. Die vorliegende Evidenz ist sachlich und eher positiv-neutral, aber nicht sehr stark öffentlichkeitsbasiert.",
+  "source_count": 3,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Sydney � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/S/Sy/Sydney/"
+    },
+    {
+      "confidence": 0.91,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Sydney � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/S/Sy/Sydney/"
+    },
+    {
+      "confidence": 0.86,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Sydney: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Sydney.html"
+    }
+  ],
+  "style_effect": [
+    "international",
+    "modern",
+    "ungewöhnlich",
+    "unisex",
+    "sachlich-informativ",
+    "leicht kosmopolitisch"
+  ],
+  "usable_evidence_count": 3,
+  "visibility": "In Deutschland bekannt, aber eher selten verwendet. Die Sichtbarkeit entsteht vor allem über Namenslexika und Bedeutungsseiten, weniger über starke öffentliche Diskussionen."
+}

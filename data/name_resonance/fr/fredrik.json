@@ -1,0 +1,63 @@
+{
+  "associations": [
+    "Form von Friedrich",
+    "Bedeutung: Friedensreicher / Friedensherrscher / Friedensfürst",
+    "skandinavische Herkunftsassoziation",
+    "althochdeutsche Wurzeln",
+    "männlicher Vorname",
+    "selten bis moderat geläufig in Deutschland",
+    "Namenstag",
+    "mögliche Verwechslung mit Frederik"
+  ],
+  "confidence": 0.77,
+  "display_text": "Fredrik wirkt in den Quellen freundlich, klassisch und skandinavisch geprägt. Der Name wird mit Frieden, Schutz und althochdeutscher Herkunft verbunden und in Deutschland eher als selten bis moderat geläufig beschrieben. Die öffentliche Resonanz ist dabei nur vorsichtig bewertbar, da die Evidenz vor allem aus Namenslexika stammt.",
+  "evidence_quality": "mittel bis schwach: wenige Quellen, vor allem Namenslexika, keine breite öffentliche Diskurslage",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Fredrik",
+  "normalized_name": "fredrik",
+  "overall_resonance": "Fredrik wird in den vorliegenden Quellen überwiegend freundlich und sachlich wahrgenommen: als skandinavische bzw. althochdeutsche Namensform mit positiver Bedeutungsnähe zu Frieden, Schutz und Herrschaft. Insgesamt wirkt der Name eher markant und traditionsnah als modisch.",
+  "practical_notes": [
+    "Für Suchende, die einen klassischen, nordisch anmutenden Namen möchten, kann Fredrik gut passen.",
+    "Die Schreibweise mit k kann in Deutschland gelegentlich erklärungsbedürftig sein, da Frederik verbreiteter wirkt.",
+    "Der Name ist gut verständlich, aber nicht stark alltäglich, daher eher auffällig als neutral-massentauglich."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die öffentliche Resonanz ist nur schwach abgesichert; es liegen vor allem Lexikon- und Erklärseiten vor.",
+    "Kommentare und Beschreibungen sind teilweise subjektiv und sollten nicht als allgemeine Mehrheitsmeinung gelesen werden.",
+    "Keine Hinweise auf eine belastete soziale Stigmatisierung in den vorliegenden Quellen."
+  ],
+  "short_summary": "Fredrik wird meist positiv und traditionell eingeordnet, mit skandinavisch-klassischer Wirkung. In Deutschland ist der Name eher selten; die Evidenz für die öffentliche Resonanz ist jedoch begrenzt.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.99,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Fredrik � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/F/Fr/Fredrik/"
+    },
+    {
+      "confidence": 0.89,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Fredrik: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Fredrik.html"
+    }
+  ],
+  "style_effect": [
+    "skandinavisch",
+    "traditionsnah",
+    "klar und klassisch",
+    "eher selten",
+    "freundlich und ernsthaft",
+    "leicht international wirkend"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland wirkt Fredrik eher selten bis moderat geläufig. Die öffentliche Sichtbarkeit scheint vorhanden, aber nicht breit; die Evidenzlage ist begrenzt und stützt sich vor allem auf Namenslexika und einzelne Kommentare."
+}

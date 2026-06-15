@@ -1,0 +1,58 @@
+{
+  "associations": [
+    "altgriechische Herkunft",
+    "Bedeutung: „Pferdefreund“",
+    "alternative Schreibweise von Philipp",
+    "Namenstag",
+    "eher unüblich in Deutschland"
+  ],
+  "confidence": 0.76,
+  "display_text": "Phillip wirkt in der öffentlichen Wahrnehmung überwiegend sachlich-neutral und leicht klassisch-traditionell. Die verfügbaren Quellen sprechen vor allem über Herkunft, Bedeutung und Schreibweise; starke öffentliche Meinungen sind daraus kaum ableitbar. Insgesamt ist die Evidenz eher begrenzt und vor allem lexikalisch.",
+  "evidence_quality": "mittel bis schwach: zwei namenskundliche Webquellen, überwiegend lexikalisch und nur begrenzt diskursiv",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Phillip",
+  "normalized_name": "phillip",
+  "overall_resonance": "Überwiegend sachlich-neutrale öffentliche Wahrnehmung mit leicht klassisch-traditioneller Note; die Evidenz ist jedoch begrenzt und stammt vor allem aus Namensseiten, nicht aus breiten öffentlichen Diskussionen.",
+  "practical_notes": [
+    "Für Suchmaschinen und Namensverzeichnisse wirkt der Name klar verständlich und etabliert.",
+    "Die Wahrnehmung ist eher zeitlos als modisch.",
+    "Als öffentliche Resonanzkarte sollte der Name neutral bis leicht positiv eingeordnet werden, ohne zu viel Gewicht auf Einzelquellen zu legen."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Quellen liefern vor allem beschreibende Namensinformationen, keine starke öffentliche Meinungsbildung.",
+    "Eventuelle positive oder negative Nuancen sollten vorsichtig gelesen werden, da sie nicht auf breiter Diskussionsbasis beruhen."
+  ],
+  "short_summary": "Phillip wird öffentlich meist sachlich und neutral wahrgenommen, mit klassisch-traditioneller Anmutung. Die Evidenz ist jedoch eher beschreibend als meinungsbasiert.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Phillip � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/P/Ph/Phillip/"
+    },
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Phillip: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Phillip.html"
+    }
+  ],
+  "style_effect": [
+    "informativ",
+    "klassisch",
+    "traditionell",
+    "lexikalisch",
+    "unaufgeregt"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Im deutschsprachigen Raum bekannt, aber eher nicht als auffälliger Trendname wahrgenommen; die Schreibweise mit zwei „l“ wird als alternative Form von „Philipp“ beschrieben."
+}

@@ -1,0 +1,64 @@
+{
+  "associations": [
+    "Morgenröte",
+    "Morgendämmerung",
+    "lateinischer Ursprung",
+    "römische Mythologie",
+    "Göttin der Morgenröte",
+    "Polarlicht",
+    "Nordlicht",
+    "Namenstag",
+    "wunderschön",
+    "selten oder etwas ausgefallen"
+  ],
+  "confidence": 0.95,
+  "display_text": "Aurora wird meist positiv wahrgenommen: klangvoll, poetisch und mit starken Bezügen zu Morgenröte, Licht und römischer Mythologie. In Deutschland ist der Name gut bekannt und etabliert, wirkt zugleich für manche leicht außergewöhnlich.",
+  "evidence_quality": "hoch; zwei klar namebezogene Quellen mit überwiegend positiver, konsistenter Resonanz, allerdings vor allem lexikalisch statt breit gesellschaftlich erhoben.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Aurora",
+  "normalized_name": "aurora",
+  "overall_resonance": "Überwiegend positiv und wertschätzend, mit klarer Assoziation zu Morgenröte, Licht und mythologischer Symbolik.",
+  "practical_notes": [
+    "Der Name wirkt international gut verständlich und in Deutschland bereits etabliert.",
+    "Durch die starke Licht- und Morgen-Assoziation hat Aurora ein bildhaftes, eher edles Profil.",
+    "Für eine Namenssuche eignet sich die Formulierung 'bekannt, klangvoll, mythologisch aufgeladen' gut."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die positiven Bewertungen stammen überwiegend aus Namenslexika und dortigen Beschreibungen; sie sollten als öffentliche Namenswahrnehmung, nicht als allgemeingültige Tatsache gelesen werden.",
+    "'Selten' oder 'ausgefallen' ist je nach Region und Umfeld unterschiedlich stark ausgeprägt."
+  ],
+  "short_summary": "Aurora wird öffentlich meist positiv wahrgenommen: ein klangvoller, poetischer Name mit starken Bezügen zu Morgenröte, Licht und römischer Mythologie, in Deutschland gut bekannt und etabliert.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "Vorname Aurora � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/A/Au/Aurora/"
+    },
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Aurora: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Aurora.html"
+    }
+  ],
+  "style_effect": [
+    "klangvoll",
+    "elegant",
+    "poetisch",
+    "mythologisch",
+    "symbolisch-lichtbezogen",
+    "leicht modern empfunden"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland gut etabliert und bekannt, zugleich für viele als klangvoll und leicht außergewöhnlich wahrnehmbar."
+}

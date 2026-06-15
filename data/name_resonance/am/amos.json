@@ -1,0 +1,62 @@
+{
+  "associations": [
+    "althebräische Herkunft",
+    "biblischer Vorname",
+    "Bedeutung in Richtung getragen/Last/Bürde bzw. der Getragene",
+    "selten in Deutschland",
+    "historisch-religiös geprägt",
+    "nicht stark modern oder trendig"
+  ],
+  "confidence": 0.89,
+  "display_text": "Amos wirkt in Deutschland eher selten, traditionsnah und biblisch geprägt. Die öffentliche Wahrnehmung ist vor allem sachlich-positiv, aber die Evidenz zur aktuellen Breitenwirkung ist begrenzt.",
+  "evidence_quality": "Gut für Bedeutung, Herkunft und typische Namenseinordnung; schwächer für aktuelle öffentliche Resonanz in Deutschland.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Amos",
+  "normalized_name": "amos",
+  "overall_resonance": "Amos wirkt in Deutschland eher zurückhaltend, traditionsnah und deutlich biblisch geprägt. Der Name wird vor allem als seltener, historisch-religiöser Vorname wahrgenommen, nicht als moderner Modename.",
+  "practical_notes": [
+    "Für eine Namenssuche ist Amos eine klare, kurze und traditionsbetonte Wahl.",
+    "Der Name kann als ungewöhnlich, aber gut einordenbar wahrgenommen werden.",
+    "Die Wirkung hängt stark vom Umfeld ab: eher klassisch als trendy.",
+    "Wenn ein moderner oder häufiger Name gesucht wird, passt Amos nur bedingt."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Datenlage zur aktuellen öffentlichen Wahrnehmung außerhalb von Namensseiten ist begrenzt.",
+    "Einzelne Hinweise auf geringe Bekanntheit sind schwach belastbar und sollten nicht überinterpretiert werden.",
+    "Keine belastbaren Hinweise auf gesellschaftliche Stigmatisierung in der vorliegenden Evidenz."
+  ],
+  "short_summary": "Amos wird in Deutschland vor allem als seltener, biblisch-hebräischer und traditionsnaher Vorname wahrgenommen. Die öffentliche Resonanz wirkt eher sachlich und positiv-neutral, mit begrenzter aktueller Sichtbarkeit.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Amos � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/A/Am/Amos/"
+    },
+    {
+      "confidence": 0.89,
+      "is_name_discussion": true,
+      "sentiment": "überwiegend positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Amos: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Amos.html"
+    }
+  ],
+  "style_effect": [
+    "traditionell",
+    "biblisch",
+    "hebräisch",
+    "lexikalisch",
+    "eher selten",
+    "nüchtern bis würdevoll"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Eher gering bis moderat sichtbar; in Namenslexika präsent, im öffentlichen Alltagsgebrauch vermutlich eher selten."
+}

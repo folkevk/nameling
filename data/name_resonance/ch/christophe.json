@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "französische Form von Christoph",
+    "altgriechischer Ursprung",
+    "Bedeutung: Christusträger / Christus tragend",
+    "Namenstag",
+    "Heiliger Christophorus",
+    "selten in Deutschland"
+  ],
+  "confidence": 0.78,
+  "display_text": "Christophe wirkt in Deutschland eher selten und sachlich-neutral rezipiert. Der Name wird vor allem mit französischer Form, klassischer Herkunft und der Bedeutung „Christusträger“ verbunden; die Evidenz ist dabei eher namenskundlich als öffentlich-diskursiv.",
+  "evidence_quality": "mittel bis schwach: mehrere Namensseiten, aber kaum echte öffentliche Diskussion",
+  "generated_at": "2026-06-14T10:47:41Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Christophe",
+  "normalized_name": "christophe",
+  "overall_resonance": "eher sachlich-neutral mit leicht internationaler/französischer Note",
+  "practical_notes": [
+    "Für deutschsprachige Kontexte wirkt Christophe eher ungewohnt und kann leicht als französisch wahrgenommen werden.",
+    "Die Schreibweise kann erklärungsbedürftig sein, da ähnliche Formen wie Christoph geläufiger sind.",
+    "Die Seltenheit kann den Namen markant machen, ohne dass daraus eine negative Bewertung folgt."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist begrenzt und stammt vor allem aus Namenslexika, nicht aus einer großen öffentlichen Debatte.",
+    "Einige Bewertungen beziehen sich auf persönliche Kommentare und sind nicht repräsentativ.",
+    "Aussagen zur Wahrnehmung sollten daher vorsichtig als Tendenzen verstanden werden."
+  ],
+  "short_summary": "Christophe wird in Deutschland eher selten wahrgenommen und vor allem sachlich über Herkunft, Bedeutung und Namenstag beschrieben. Die Resonanz ist überwiegend neutral, mit einer leichten französischen und klassischen Anmutung.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Christophe � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/C/Ch/Christophe/"
+    },
+    {
+      "confidence": 0.86,
+      "is_name_discussion": true,
+      "sentiment": "gemischt",
+      "source_type": "web",
+      "title": "&#9655; Vorname Christophe: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Christophe.html"
+    }
+  ],
+  "style_effect": [
+    "französisch klingend",
+    "klassisch durch die christliche Namensbedeutung",
+    "eher formell und kulturbezogen",
+    "seltenheitsbedingt individuell",
+    "in Schreibweise und Zuordnung teils erklärungsbedürftig"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "in Deutschland eher selten und dadurch auffällig, aber nicht breit diskutiert"
+}

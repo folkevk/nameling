@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "althochdeutsche Herkunft",
+    "Bedeutung im Sinn von Besitz/Reichtum/Erbe",
+    "Kurzform von Otto bzw. ot- نامen",
+    "Namenstag am 3. Oktober",
+    "historische Nutzung",
+    "heute selten"
+  ],
+  "confidence": 0.84,
+  "display_text": "Udo hat in der öffentlichen Wahrnehmung einen klar traditionell-historischen Klang. Die Quellen ordnen den Namen sachlich ein, mit Herkunft aus dem Althochdeutschen, Bedeutungen rund um Besitz/Erbe und einem Namenstag am 3. Oktober. Heute gilt Udo in Deutschland eher als selten, wodurch die moderne Alltagsresonanz nur begrenzt belegbar ist.",
+  "evidence_quality": "mittel: zwei einschlägige Namensquellen mit hoher thematischer Passung, aber wenig direkte Evidenz zur heutigen breiten Alltagsresonanz",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Udo",
+  "normalized_name": "udo",
+  "overall_resonance": "Udo wirkt in der öffentlichen Namenswahrnehmung vor allem sachlich-traditionell und deutlich historisch geprägt. Die verfügbaren Quellen beschreiben den Namen überwiegend neutral bis leicht positiv, mit Schwerpunkt auf Herkunft, Bedeutung und Namenstag. Für eine heutige, breite Alltagswahrnehmung ist die Evidenz eher schwach, da Udo in Deutschland als selten und nicht stark gegenwärtig präsent beschrieben wird.",
+  "practical_notes": [
+    "Für eine Namenssuche ist Udo ein klarer, kurzer und gut einprägsamer Name.",
+    "Die Wirkung ist eher traditionell als modern.",
+    "Wer einen seltenen, historisch aufgeladenen Namen sucht, findet hier eine passende Option."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz zur aktuellen gesellschaftlichen Resonanz ist begrenzt und stammt überwiegend aus Namenslexika.",
+    "Einzelne positive Community-Töne sind nicht repräsentativ für die Gesamtwahrnehmung.",
+    "Keine belastbaren Hinweise auf soziale Stigmatisierung in den vorliegenden Quellen."
+  ],
+  "short_summary": "Udo wird überwiegend sachlich, traditionell und historisch wahrgenommen; heute ist der Name eher selten und nicht stark trendbezogen.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Udo � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/U/Ud/Udo/"
+    },
+    {
+      "confidence": 0.95,
+      "is_name_discussion": true,
+      "sentiment": "eher positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Udo: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Udo.html"
+    }
+  ],
+  "style_effect": [
+    "traditionell",
+    "klassisch-historisch",
+    "sachlich",
+    "knapp und markant",
+    "namenskundlich etabliert",
+    "heute eher retro als modern"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland heute eher selten und dadurch wenig alltagspräsent; die öffentliche Sichtbarkeit ist vor allem namenskundlich und historisch, nicht trendgetrieben."
+}

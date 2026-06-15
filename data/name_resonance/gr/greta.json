@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "Bedeutung: „Perle“ bzw. „kleine Perle“",
+    "Kurzform von Margareta/Margarete",
+    "deutsch, skandinavisch und auch italienisch anschlussfähig",
+    "eigenständiger Name seit dem Mittelalter",
+    "Beliebtheitsschub seit den 1990er Jahren",
+    "besonders beliebt in den 2010er Jahren",
+    "Namenstag am 20. Juli"
+  ],
+  "confidence": 0.88,
+  "display_text": "Greta wird in Deutschland meist als klassischer, klarer und sympathischer Vorname wahrgenommen. Die vorliegenden Quellen beschreiben den Namen positiv, vor allem wegen seiner Bedeutung („Perle“), seiner langen Tradition und der zeitweisen Beliebtheit. Gleichzeitig zeigen sie, dass die Popularität zuletzt eher etwas zurückging. Hinweis: Die Evidenz stammt hauptsächlich aus Namenslexika, nicht aus einer breiten öffentlichen Diskussionsanalyse.",
+  "evidence_quality": "mittel; zwei einschlägige Namenslexika mit klarer Namensbeschreibung, aber keine breite öffentliche Diskursanalyse",
+  "generated_at": "2026-06-12T06:08:03Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Greta",
+  "normalized_name": "greta",
+  "overall_resonance": "Überwiegend leicht positiv und vertraut. Der Name Greta wird in den Quellen als klassisch, klar und namenskundlich gut einordenbar beschrieben; zugleich gibt es Hinweise auf frühere und zeitweise hohe Beliebtheit, mit zuletzt eher rückläufiger Tendenz in Deutschland.",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt Greta etabliert, freundlich und unkompliziert.",
+    "Der Name vermittelt eher klassische als modische Assoziationen, mit leichtem Retro-Charakter.",
+    "Die Quellen deuten auf eine positive Grundwahrnehmung hin, ohne starke Kontroversen."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist begrenzt und basiert vor allem auf Namensdatenbanken, nicht auf einer echten öffentlichen Meinungsanalyse.",
+    "Beliebtheitsangaben können von aktuellen Modeeffekten beeinflusst sein und sind nicht als allgemeingültige Bewertung zu verstehen."
+  ],
+  "short_summary": "Greta wirkt in Deutschland überwiegend leicht positiv, klassisch und vertraut; die Evidenz ist jedoch vor allem lexikalisch und daher nur begrenzt als öffentliche Resonanz messbar.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "Vorname Greta � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/G/Gr/Greta/"
+    },
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Greta: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Greta.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "kurz und prägnant",
+    "zeitlos wirkend",
+    "traditionell mit moderner Wiederbelebung",
+    "leicht skandinavisch/deutsch geprägt"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland gut bekannt und im öffentlichen Namensgebrauch präsent, aber die vorliegende Evidenz stammt vor allem aus Namenslexika und nicht aus einer breiten Diskussionsauswertung."
+}

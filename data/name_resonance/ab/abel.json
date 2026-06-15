@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "biblischer Vorname",
+    "hebräischer Ursprung",
+    "Bedeutung in Richtung Atem/Hauch/Vergänglichkeit",
+    "Namenstag",
+    "international verständlich",
+    "in Deutschland eher selten"
+  ],
+  "confidence": 0.74,
+  "display_text": "Abel wirkt in Deutschland vor allem sachlich, traditionsnah und leicht positiv besetzt. Der Name wird meist mit biblisch-hebräischem Ursprung, der Bedeutung rund um Atem/Hauch/Vergänglichkeit und einer eher seltenen Vergabe verbunden. Eine starke öffentliche Debatte ist in den vorliegenden Quellen nicht erkennbar; die Einschätzung beruht vor allem auf Namenslexika und ist daher nur vorsichtig zu gewichten.",
+  "evidence_quality": "mittel bis schwach; wenige Quellen, überwiegend lexikalisch-namenkundlich, nur begrenzte öffentliche Meinungsdaten",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Abel",
+  "normalized_name": "abel",
+  "overall_resonance": "Überwiegend sachlich bis leicht positiv; die öffentliche Wahrnehmung wirkt eher namenkundlich als emotional geprägt.",
+  "practical_notes": [
+    "Als Vorname wirkt Abel klar, kurz und traditionsnah.",
+    "Die seltene Vergabe kann ihn markant machen, ohne ungewöhnlich kompliziert zu wirken.",
+    "Die Resonanz basiert eher auf Bedeutung und Herkunft als auf Trends oder Popkultur."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist begrenzt und stützt sich vor allem auf Namenslexikon-Seiten.",
+    "Die positive Tönung stammt teilweise aus redaktioneller Darstellung, nicht aus breiter öffentlicher Debatte.",
+    "Keine belastbaren Hinweise auf starke Kontroversen oder soziale Stigmatisierung in den vorliegenden Quellen."
+  ],
+  "short_summary": "Abel wird in den Quellen vor allem als biblisch-hebräischer, kurzer und eher seltener Vorname beschrieben. Die öffentliche Resonanz erscheint sachlich und leicht positiv, aber die Evidenz ist begrenzt.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Abel � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/A/Ab/Abel/"
+    },
+    {
+      "confidence": 0.83,
+      "is_name_discussion": true,
+      "sentiment": "eher positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Abel: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Abel.html"
+    }
+  ],
+  "style_effect": [
+    "kurz und klar",
+    "biblisch-kulturell geprägt",
+    "klassisch, aber selten",
+    "lexikalisch/informativ",
+    "eher zeitlos als modisch"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "eher gering bis mittel"
+}

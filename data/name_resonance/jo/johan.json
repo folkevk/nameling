@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "Kurzform bzw. Variante von Johannes/Johann",
+    "Bedeutung: Gott ist gnädig / Jahwe ist gnädig",
+    "biblische Herkunft",
+    "skandinavisch und niederländisch geprägt",
+    "in Deutschland eher als Schreibvariante von Johann wahrgenommen",
+    "klassischer Jungenname"
+  ],
+  "confidence": 0.88,
+  "display_text": "Johan wirkt in der öffentlichen Rezeption überwiegend sachlich bis leicht positiv: ein klassischer, international verwendbarer Vorname mit biblischer und skandinavisch-niederländischer Prägung. In Deutschland wird er eher als Variante von Johann wahrgenommen. Die Evidenz ist eher beschreibend als breit öffentlich diskutiert.",
+  "evidence_quality": "mittel bis begrenzt: zwei redaktionelle Namensquellen mit klarer Namensbeschreibung, aber keine breite öffentliche Diskussionsbasis.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Johan",
+  "normalized_name": "johan",
+  "overall_resonance": "Überwiegend sachlich bis leicht positiv: Johan wird in den Quellen als klassischer, international verwendbarer Vorname mit traditioneller, skandinavisch/niederländischer Prägung beschrieben. In Deutschland wirkt er eher als weniger häufige Schreibvariante von Johann.",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt Johan schlicht, vertraut und international anschlussfähig.",
+    "Die Schreibvariante kann in Deutschland gelegentlich mit Johann verwechselt oder gleichgesetzt werden.",
+    "Der Name vermittelt eher einen traditionellen als einen modischen Eindruck."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenzlage ist begrenzt und überwiegend beschreibend; sie zeigt eher Namensdeutungen als echte öffentliche Debatten.",
+    "Es liegen keine Hinweise auf soziale Stigmatisierung oder negative Zuschreibungen vor.",
+    "Aussagen zur Beliebtheit sollten vorsichtig gelesen werden, da sie auf redaktionellen Namensdatenbanken beruhen."
+  ],
+  "short_summary": "Johan wird überwiegend freundlich und sachlich wahrgenommen: klassisch, international und traditionell, in Deutschland eher als Variante von Johann. Die Evidenz ist jedoch vor allem lexikalisch und nicht stark öffentlich-diskursiv.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.9,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Johan � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/J/Jo/Johan/"
+    },
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Johan: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Johan.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "traditionell",
+    "international",
+    "zurückhaltend",
+    "namenskundlich",
+    "kurz und klar"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Eher mittlere Sichtbarkeit in der öffentlichen Wahrnehmung; die verfügbare Evidenz stammt vor allem aus Namenslexika und redaktionellen Beschreibungen, nicht aus freier öffentlicher Diskussion."
+}

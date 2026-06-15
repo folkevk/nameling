@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "dänische und norwegische Form von Nikolaus",
+    "Bedeutung: Sieg des Volkes",
+    "skandinavischer Klang",
+    "Namenstag am 6. Dezember",
+    "in Deutschland eher selten bis mittelhäufig"
+  ],
+  "confidence": 0.86,
+  "display_text": "Niels wirkt in Deutschland überwiegend sachlich bis leicht positiv: skandinavisch, kurz, traditionsnah und eher selten bis mittelhäufig. Die vorhandenen Quellen sind vor allem namenskundliche Einträge, daher ist die Aussagekraft für echte öffentliche Resonanz begrenzt.",
+  "evidence_quality": "gut für namenskundliche Einordnung, aber begrenzt für echte öffentliche Resonanz; hauptsächlich beschreibende Quellen",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Niels",
+  "normalized_name": "niels",
+  "overall_resonance": "Niels wird in den vorliegenden Quellen überwiegend sachlich bis leicht positiv beschrieben. Der Name wirkt skandinavisch, klar und traditionsnah; die Bedeutung und der Namenstag tragen zu einer eher freundlichen, historischen Einordnung bei. Eine starke öffentliche Debatte oder auffällige Polarisierung ist in der Evidenz nicht erkennbar.",
+  "practical_notes": [
+    "Für Suchmaschinen-Nutzer wirkt Niels wie ein vertrauter, aber nicht übernutzter Name mit klarer Herkunft.",
+    "Die kurze Form und der skandinavische Charakter können als modern und zugleich klassisch wahrgenommen werden.",
+    "Der Name dürfte eher neutral bis positiv auffallen, ohne starke modische Überzeichnung."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt überwiegend aus Namensdatenbanken und lexikalischen Einträgen, nicht aus einer freien öffentlichen Meinungsdiskussion.",
+    "Einzelne persönliche Kommentare oder Erfahrungsberichte sind für die Gesamtwirkung nur eingeschränkt aussagekräftig.",
+    "Keine Hinweise auf soziale Stigmatisierung oder starke negative Zuschreibungen in der vorliegenden Evidenz."
+  ],
+  "short_summary": "Niels wird in den Quellen überwiegend als skandinavisch, traditionsnah und leicht positiv wahrgenommen; in Deutschland eher selten bis mittelhäufig, ohne erkennbare Stigmatisierung.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "positive",
+      "source_type": "web",
+      "title": "Vorname Niels � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/N/Ni/Niels/"
+    },
+    {
+      "confidence": 0.92,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Niels: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Niels.html"
+    }
+  ],
+  "style_effect": [
+    "skandinavisch",
+    "klassisch-männlich",
+    "kurz und prägnant",
+    "bildungsnah/namenskundlich",
+    "traditionsverbunden",
+    "freundlich und unaufgeregt"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland wirkt Niels eher selten bis mittelhäufig und damit bekannt, aber nicht alltäglich. Die öffentliche Sichtbarkeit entsteht vor allem über Namenslexika und Bedeutungsangaben, weniger über breite Diskussionen im Alltag."
+}

@@ -1,0 +1,56 @@
+{
+  "associations": [
+    "slawische bzw. russische Variante von Johannes",
+    "Bedeutung: „Jahwe ist gnädig“ / „Gott ist gnädig“",
+    "international verbreitet, besonders in mehreren osteuropäischen Ländern",
+    "in Deutschland historisch etabliert, aktuell eher selten"
+  ],
+  "confidence": 0.94,
+  "display_text": "Ivan wirkt in Deutschland überwiegend sachlich bis leicht positiv: ein kurzer, international verständlicher und klar slawisch geprägter Vorname, der bekannt, aber eher selten ist.",
+  "evidence_quality": "gut; mehrere einschlägige Namensquellen mit hoher Übereinstimmung, aber überwiegend portalbasiert und nicht als breite Umfrage zu verstehen",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Ivan",
+  "normalized_name": "ivan",
+  "overall_resonance": "Ivan wird in den Quellen überwiegend sachlich bis leicht positiv beschrieben. Der Name wirkt international, vertraut und klar slawisch geprägt, mit neutraler bis wertschätzender Namenswirkung.",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt Ivan unkompliziert, gut merkbar und international verständlich.",
+    "Die Aussprache ist im Deutschen meist klar, die Schreibweise eindeutig.",
+    "Die Quellenlage spricht eher für eine neutrale bis positive Wahrnehmung als für starke Modetrends."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Keine belastbaren Hinweise auf negative öffentliche Stigmatisierung in den vorliegenden Quellen.",
+    "Die Evidenz stammt vor allem von Namensportalen; die Einordnung ist daher eher lexikalisch als gesellschaftssoziologisch belastbar."
+  ],
+  "short_summary": "Ivan wird in Deutschland meist als klarer, internationaler und eher selten vergebener Vorname wahrgenommen – sachlich, klassisch und leicht positiv.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.99,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Ivan � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/I/Iv/Ivan/"
+    },
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Ivan: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Ivan.html"
+    }
+  ],
+  "style_effect": [
+    "klingt kurz, klar und markant",
+    "wirkt international und traditionsnah",
+    "hat eine eher nüchterne, nicht verspielte Ausstrahlung",
+    "vermittelt durch die Herkunft einen klassischen, osteuropäisch geprägten Eindruck"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland bekannt, aber eher seltener; dadurch präsent, ohne stark alltäglich zu sein."
+}

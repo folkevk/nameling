@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "spanische und katalanische Form von Raimund/Reimund",
+    "Bedeutung: Ratgeber und Beschützer",
+    "althochdeutsche Wurzeln",
+    "Namenstag 7. Januar und 31. August",
+    "in Deutschland als Vorname bekannt, aber nicht dominant verbreitet"
+  ],
+  "confidence": 0.84,
+  "display_text": "Ramon wird im deutschen Namenskontext überwiegend sachlich bis leicht positiv wahrgenommen. Der Name wirkt kurz, markant und spanisch-katalanisch geprägt; häufig genannt werden die Bedeutung als „Ratgeber und Beschützer“ sowie die Einordnung als Form von Raimund/Reimund. Die öffentliche Evidenz ist allerdings vor allem aus Namenslexika und Beliebtheitsseiten abgeleitet, daher eher begrenzt als breit gesellschaftlich. ",
+  "evidence_quality": "mittel: zwei einschlägige Namensquellen, aber keine breite, unabhängige Resonanzbasis",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Ramon",
+  "normalized_name": "ramon",
+  "overall_resonance": "Überwiegend sachlich-positiv und kulturell klar verortet, mit vor allem namenskundlicher statt emotionaler öffentliche Resonanz.",
+  "practical_notes": [
+    "Für Suchmaschinen gut beschreibbar, weil Herkunft und Bedeutung klar belegbar sind.",
+    "Wer einen international klingenden, kurzen Vornamen sucht, findet hier eine eher elegante und eindeutige Form.",
+    "Die Schreibweise ist einfach, die Zuordnung zum spanischen Namensraum liegt nahe.",
+    "In Deutschland eher vertraut als außergewöhnlich."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz zur öffentlichen Resonanz ist begrenzt und stark von Namensseiten geprägt.",
+    "Positive Eindrücke stammen teils aus redaktionellen oder nutzerbezogenen Beschreibungen; daraus lässt sich keine breite gesellschaftliche Stimmung ableiten.",
+    "Keine Hinweise auf eine soziale Stigmatisierung in der vorliegenden Evidenz."
+  ],
+  "short_summary": "Ramon wird öffentlich vor allem sachlich und leicht positiv wahrgenommen: als kurzer, international klingender Vorname mit spanisch-katalanischer Prägung und klarer Bedeutung. Die Evidenz ist jedoch eher namenskundlich als gesellschaftsbreit.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.99,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Ramon � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/R/Ra/Ramon/"
+    },
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Ramon: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Ramon.html"
+    }
+  ],
+  "style_effect": [
+    "klingt kurz und markant",
+    "wirkt spanisch/katalanisch geprägt",
+    "namenskundlich gut einordenbar",
+    "eher informativ als modisch",
+    "durch die Form vertraut, aber nicht alltäglich"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Im deutschen Namenskontext sichtbar, aber eher kein Massennamen: die öffentliche Wahrnehmung wirkt vor allem durch Namenslexika, Bedeutungsangaben und Beliebtheitsseiten geprägt."
+}

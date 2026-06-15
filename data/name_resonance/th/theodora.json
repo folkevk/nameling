@@ -1,0 +1,62 @@
+{
+  "associations": [
+    "altgriechische Herkunft",
+    "Bedeutung: Geschenk Gottes / Gottesgeschenk",
+    "weiblicher Vorname",
+    "selten in Deutschland",
+    "klassisch-historisch",
+    "Namenstag",
+    "Kurzformen wie Thea, Dora, Dori, Teddy"
+  ],
+  "confidence": 0.79,
+  "display_text": "Theodora wirkt im deutschsprachigen Raum klassisch, historisch und eher selten. Die vorhandenen Quellen beschreiben den Namen überwiegend positiv oder neutral, vor allem wegen der Bedeutung „Geschenk Gottes“ und der altgriechischen Herkunft. Eine breite öffentliche Diskussion ist jedoch kaum belegt.",
+  "evidence_quality": "mittel bis schwach; überwiegend beschreibende Namenslexikon-Quellen, nur indirekte Hinweise auf öffentliche Resonanz",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Theodora",
+  "normalized_name": "theodora",
+  "overall_resonance": "Der Vorname Theodora wird im deutschsprachigen Raum überwiegend sachlich bis positiv wahrgenommen. Die öffentliche Darstellung betont vor allem die klassische, historische und altgriechische Herkunft sowie die Bedeutung als „Geschenk Gottes“.",
+  "practical_notes": [
+    "Wirkt eher traditionsreich als modern-trendig.",
+    "Durch die Kürzformen Thea oder Dora alltagsnaher nutzbar.",
+    "Für Suchmaschinen ist wichtig: selten, aber gut einordenbar und klar klassisch geprägt."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist nur bedingt stark, da sie vor allem aus Namensdatenbanken und lexikalischen Einträgen besteht.",
+    "Es gibt kaum belastbare Hinweise auf eine breite öffentliche Debatte oder klare Alltagsrezeption.",
+    "Positive Assoziationen ergeben sich vor allem aus Bedeutung und Stil, nicht aus direkter Resonanzmessung."
+  ],
+  "short_summary": "Theodora wird meist als klassischer, seltener und positiv konnotierter Vorname beschrieben, mit Schwerpunkt auf Bedeutung und Herkunft. Die öffentliche Resonanz ist eher zurückhaltend dokumentiert.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.89,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Theodora � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/T/Th/Theodora/"
+    },
+    {
+      "confidence": 0.88,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Theodora: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Theodora.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "historisch",
+    "elegant",
+    "traditionsbetont",
+    "namenskundlich",
+    "selten"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Eher geringe Sichtbarkeit in Deutschland; der Name wird als selten bis wenig verbreitet beschrieben. Die Evidenz zur öffentlichen Resonanz ist begrenzt und stammt überwiegend aus Namenslexika statt aus breiter öffentlicher Diskussion."
+}

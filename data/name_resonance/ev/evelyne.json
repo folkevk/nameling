@@ -1,0 +1,63 @@
+{
+  "associations": [
+    "französische Schreibform von Evelyn",
+    "altfranzösisch-normannische Herkunft",
+    "mögliche Bedeutungen wie „die Erwünschte“",
+    "mögliche Bedeutung „Kraft und Stärke“",
+    "mögliche Bedeutung „der kleine Vogel“",
+    "Verkleinerungsform von Eva",
+    "selten in Deutschland",
+    "geringe Verbreitung"
+  ],
+  "confidence": 0.78,
+  "display_text": "Evelyne wird überwiegend sachlich-neutral bis leicht positiv wahrgenommen: elegant, französisch anmutend und eher selten. In Deutschland ist der Name wenig verbreitet; die Evidenz dafür ist allerdings begrenzt und stützt sich vor allem auf Namenslexika.",
+  "evidence_quality": "eher schwach bis mittel: wenige, vor allem lexikalische Quellen; wenig unabhängige öffentliche Resonanz erkennbar",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Evelyne",
+  "normalized_name": "evelyne",
+  "overall_resonance": "Evelyne wird in den vorliegenden Quellen überwiegend sachlich-neutral bis leicht positiv beschrieben. Der Name wirkt eher elegant und klassisch-französisch, ist in Deutschland aber deutlich selten und wenig verbreitet. Insgesamt entsteht eher ein feiner, individueller Eindruck als ein massenhaft geläufiger Name.",
+  "practical_notes": [
+    "Für eine Namenssuche eignet sich Evelyne vor allem, wenn ein seltener, französisch wirkender Name gewünscht ist.",
+    "Die Schreibweise kann im deutschen Umfeld gelegentlich erklärungsbedürftig sein.",
+    "Die Wahrnehmung ist eher zurückhaltend und unaufgeregt als trendig."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist insgesamt schwach und basiert im Wesentlichen auf wenigen Namenslexikon-Quellen.",
+    "Aussagen zur öffentlichen Resonanz sind nur eingeschränkt belastbar.",
+    "Beliebtheit und Seltenheit sind Beschreibungen der Verbreitung, keine Wertung über den Namen selbst."
+  ],
+  "short_summary": "Evelyne wirkt in den Quellen elegant und französisch, ist in Deutschland aber selten und kaum öffentlich verbreitet. Die verfügbare Evidenz ist begrenzt und überwiegend sachlich-neutral.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Evelyne � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/E/Ev/Evelyne/"
+    },
+    {
+      "confidence": 0.84,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Evelyne: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Evelyne.html"
+    }
+  ],
+  "style_effect": [
+    "elegant",
+    "französisch anmutend",
+    "klassisch",
+    "selten",
+    "weich klingend",
+    "namenskundlich interessant"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland ist Evelyne nur gering verbreitet und öffentlich eher wenig präsent. Die wahrnehmbare Resonanz ist deshalb schmal und stützt sich vor allem auf Namenslexika statt auf viele unabhängige Stimmen."
+}

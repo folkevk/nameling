@@ -1,0 +1,68 @@
+{
+  "associations": [
+    "altgriechischer bzw. christlicher Ursprung",
+    "Bedeutung: Anhänger Christi / der Christ",
+    "biblische und religiöse Bezüge",
+    "klassischer männlicher Vorname",
+    "Namenstag",
+    "früher bzw. historisch beliebt in Deutschland"
+  ],
+  "confidence": 0.98,
+  "display_text": "Christian: ein sehr bekannter, klassischer Vorname mit positiv bis neutraler Resonanz. In der öffentlichen Beschreibung steht vor allem die christlich-biblische Herkunft, die Bedeutung als „Anhänger Christi“ sowie der traditionelle, etablierte Charakter im Vordergrund.",
+  "evidence_quality": "hoch: mehrere namenskundliche Quellen mit direkter Behandlung von Bedeutung, Herkunft, Namenstag und Beliebtheit in Deutschland.",
+  "generated_at": "2026-06-12T06:08:03Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Christian",
+  "normalized_name": "christian",
+  "overall_resonance": "Überwiegend positiv bis neutral. Christian wirkt in der öffentlichen Namensbeschreibung als klassischer, vertrauter und gut etablierter Vorname mit klarer religiöser und historischer Einordnung.",
+  "practical_notes": [
+    "Für eine Namenssuche ist Christian ein sehr gut belegter, sprachlich klar einzuordnender Name.",
+    "Die öffentliche Wahrnehmung ist eher beschreibend als kontrovers.",
+    "Der Name vermittelt häufig Tradition und Vertrautheit."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die religiöse Bedeutung ist zentral und kann je nach Kontext unterschiedlich wahrgenommen werden.",
+    "Beliebtheitsaussagen sind zeit- und kulturabhängig und sollten nicht als allgemeingültig verstanden werden."
+  ],
+  "short_summary": "Christian wird öffentlich vor allem als klassischer, traditionsreicher und sachlich positiv konnotierter Vorname beschrieben, mit deutlichem christlich-biblischem Bezug.",
+  "source_count": 3,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "Vorname Christian � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/C/Ch/Christian/"
+    },
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "Vorname Christian � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/C/Ch/Christian/"
+    },
+    {
+      "confidence": 0.99,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Christian: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Christian.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "traditionell",
+    "sachlich",
+    "namenskundlich",
+    "vertraut",
+    "zeitlos"
+  ],
+  "usable_evidence_count": 3,
+  "visibility": "In Deutschland sehr bekannt und gut sichtbar; der Name ist in Namenslexika und Bedeutungsseiten breit dokumentiert und wird häufig als traditionell beschrieben."
+}

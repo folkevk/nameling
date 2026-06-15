@@ -1,0 +1,51 @@
+{
+  "associations": [
+    "altnordisch",
+    "skandinavisch",
+    "zweigliedriger Name",
+    "Bedeutungselemente: há = hoch, konr = der Sohn",
+    "historische Königsnamen aus Norwegen",
+    "Namenstag nicht hinterlegt"
+  ],
+  "confidence": 0.74,
+  "display_text": "Hákon wirkt in Deutschland vor allem altnordisch, skandinavisch und historisch. Die vorhandene Evidenz ist überwiegend lexikalisch und damit nur begrenzt aussagekräftig für öffentliche Resonanz; insgesamt erscheint der Name sachlich-neutral und eher ungewöhnlich.",
+  "evidence_quality": "mittel bis schwach: klare Namensbeschreibung, aber kaum diskussionsbasierte öffentliche Resonanz",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Hákon",
+  "normalized_name": "hakon",
+  "overall_resonance": "Überwiegend sachlich-neutral mit klar nordisch-skandinavischer Prägung; die öffentliche Rezeption wirkt eher lexikalisch als emotional.",
+  "practical_notes": [
+    "In Deutschland dürfte der Name selten und daher markant wirken.",
+    "Die Schreibweise mit Akzent kann im Alltag zu Nachfragen oder Unsicherheiten bei der Eingabe führen.",
+    "Für eine Namenssuche eignet sich die historische und nordische Einordnung als wichtigste Orientierung."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist schwach, da sie überwiegend aus einer Lexikonseite stammt.",
+    "Es liegen keine belastbaren Hinweise auf eine breite öffentliche Meinung oder aktuelle soziale Bewertung vor.",
+    "Keine Aussagen über Trägerinnen oder Träger des Namens ableitbar."
+  ],
+  "short_summary": "Hákon wird in Deutschland vor allem als altnordisch-skandinavischer, historisch geprägter Name wahrgenommen. Die öffentliche Resonanz ist eher neutral und sachlich; belastbare Diskussionen sind in der vorliegenden Evidenz kaum erkennbar.",
+  "source_count": 1,
+  "sources": [
+    {
+      "confidence": 0.88,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Hákon: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,H%C3%A1kon.html"
+    }
+  ],
+  "style_effect": [
+    "klingt altnordisch und historisch",
+    "wirkt skandinavisch und kultursprachlich markant",
+    "durch den Akzent visuell besonders, in DE eher selten",
+    "eher traditionell-historisch als modern-trendy"
+  ],
+  "usable_evidence_count": 1,
+  "visibility": "Der Name ist in Deutschland eher auffällig und ungewohnt, vor allem wegen der Schreibweise mit Akzent. Die sichtbare Resonanz stammt hier vor allem aus einer Namenslexikon-Quelle, nicht aus breiter öffentlicher Diskussion; die Evidenz ist daher begrenzt."
+}

@@ -1,0 +1,67 @@
+{
+  "associations": [
+    "mehrere mögliche Herkünfte werden genannt, darunter persisch-arabisch, teils auch hebräisch/aramäisch oder Sanskrit",
+    "Bedeutungen wie „Gesicht/Antlitz“ oder „Schatz/Geschenk Gottes“ werden je nach Quelle angegeben",
+    "als weiblicher Vorname gelistet",
+    "Aussprachehinweis oft in Richtung „Schima“",
+    "teils als Kurz- oder Koseform eingeordnet"
+  ],
+  "confidence": 0.84,
+  "display_text": "Sima ist in Deutschland eher selten und wird überwiegend neutral wahrgenommen. Die verfügbaren Quellen beschreiben den Namen vor allem sachlich und nennen mehrere mögliche Herkünfte und Bedeutungen. Eine klare Stigmatisierung oder starke öffentliche Debatte ist nicht erkennbar, die Evidenz ist aber eher lexikalisch als wirklich meinungsbasiert.",
+  "evidence_quality": "mittel bis schwach: vor allem lexikalische Namenseinträge, wenig echte Resonanzdiskussion",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Sima",
+  "normalized_name": "sima",
+  "overall_resonance": "Sima wird in den verfügbaren deutschsprachigen Namensquellen überwiegend sachlich und neutral beschrieben. Die öffentliche Resonanz wirkt eher informativ als emotional: Der Name ist bekannt, aber in Deutschland eher selten. Eine klare positive oder negative Stigmatisierung ist in der Evidenz nicht erkennbar.",
+  "practical_notes": [
+    "Für Suchende ist Sima ein kurzer, gut merkbarer Name mit internationaler Anmutung.",
+    "Wer den Namen wählt, sollte wissen, dass unterschiedliche Aussprache- und Herkunftsdeutungen kursieren.",
+    "Die Datenlage spricht eher für einen seltenen, neutral wahrgenommenen Namen als für einen Trendnamen."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Herkunfts- und Bedeutungsangaben sind nicht einheitlich und können sich je nach Quelle unterscheiden.",
+    "Die Evidenz stammt vor allem aus Namenslexika; echte öffentliche Meinungen oder breite soziale Resonanz sind nur schwach sichtbar.",
+    "Es gibt keine belastbaren Hinweise auf eine soziale Stigmatisierung des Namens in Deutschland."
+  ],
+  "short_summary": "Sima wirkt in Deutschland selten, neutral und eher lexikalisch präsent als gesellschaftlich aufgeladen. Die Quellen nennen mehrere mögliche Herkünfte und Bedeutungen, daher ist die Deutung nicht ganz eindeutig.",
+  "source_count": 3,
+  "sources": [
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Sima � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/S/Si/Sima/"
+    },
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Sima � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/S/Si/Sima/"
+    },
+    {
+      "confidence": 0.88,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Sima: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Sima.html"
+    }
+  ],
+  "style_effect": [
+    "kurz",
+    "klanglich weich und schlicht",
+    "international wirkend",
+    "namenskundlich interessant",
+    "eher selten als geläufig"
+  ],
+  "usable_evidence_count": 3,
+  "visibility": "Eher geringe bis mittlere Sichtbarkeit in Deutschland; in Namenslexika präsent, aber kein Name mit stark ausgeprägter öffentlicher Debatte."
+}

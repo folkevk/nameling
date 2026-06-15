@@ -1,0 +1,62 @@
+{
+  "associations": [
+    "lateinischer Ursprung",
+    "altrömischer Vorname oder Familienname",
+    "mögliche Deutung als „vom Meer“",
+    "männliche Namensform",
+    "Namenstag",
+    "früher hohe Beliebtheit in Deutschland",
+    "gut aussprechbar"
+  ],
+  "confidence": 0.92,
+  "display_text": "Marius wird in Deutschland meist als klassischer, vertrauter und eher positiv besetzter Vorname wahrgenommen. Er wirkt klar männlich, zeitlos und international gut aussprechbar. Die Herkunft wird meist lateinisch/römisch beschrieben; die genaue Bedeutung ist nicht in allen Quellen sicher geklärt.",
+  "evidence_quality": "gut: zwei klare Namensquellen, überwiegend lexikalisch-beschreibend, mit etwas Community-Färbung; insgesamt ausreichend, aber keine breite Meinungsdiskussion.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Marius",
+  "normalized_name": "marius",
+  "overall_resonance": "Marius wird in der öffentlichen Namenswahrnehmung in Deutschland überwiegend neutral bis positiv gesehen: klassisch, klar männlich und mit lateinisch-römischer Prägung verbunden. Der Name wirkt vertraut, aber nicht übertrieben modern, und wird oft als gut aussprechbar und international anschlussfähig beschrieben.",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt Marius solide, vertraut und unaufgeregt.",
+    "Der Name ist international relativ leicht verständlich und klanglich unkompliziert.",
+    "Wenn ein sehr moderner oder ausgefallener Eindruck gewünscht ist, wirkt Marius eher klassisch als trendig."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Bedeutungsangaben sind nicht eindeutig gesichert und sollten vorsichtig gelesen werden.",
+    "Die verfügbaren Quellen sind vor allem beschreibend und nur begrenzt diskursiv; die öffentliche Rezeption lässt sich daher nicht stark zuspitzen.",
+    "Keine Hinweise auf eine soziale Stigmatisierung in der vorliegenden Evidenz."
+  ],
+  "short_summary": "Marius gilt in Deutschland als klassischer, gut aussprechbarer und eher positiv wahrgenommener Jungenname mit lateinisch-römischem Hintergrund.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Marius � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/M/Ma/Marius/"
+    },
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Marius: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Marius.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "zeitlos",
+    "gebildet/namenskundlich",
+    "klar männlich",
+    "international verständlich",
+    "eher seriös als verspielt"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland gut bekannt, zeitweise besonders beliebt gewesen und dadurch vielen Menschen geläufig. Heute eher als etablierter, klassischer Vorname wahrgenommen als als Trendname."
+}

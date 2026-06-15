@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "arabische bzw. altorientalische Herkunftsdeutungen",
+    "Bedeutungen wie Prinzessin, Herrscherin, Fürstin",
+    "nobel, vornehm, reich",
+    "weiblicher Vorname",
+    "moderne, international anschlussfähige Wirkung",
+    "Beliebtheit in Deutschland"
+  ],
+  "confidence": 0.84,
+  "display_text": "Amira wirkt in den verfügbaren Quellen überwiegend positiv: ein moderner, melodischer und international anschlussfähiger Name mit nobler Bedeutung wie „Prinzessin“ oder „Herrscherin“. Für Deutschland wird der Name als bekannt und zunehmend beliebt beschrieben. Die Datenlage stammt jedoch vor allem aus Namenslexika und ist daher nur begrenzt repräsentativ für die öffentliche Gesamtwahrnehmung.",
+  "evidence_quality": "mittel bis begrenzt repräsentativ: inhaltlich klar, aber überwiegend aus zwei Namensquellen statt aus breit gestreuter öffentlicher Resonanz",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Amira",
+  "normalized_name": "amira",
+  "overall_resonance": "Überwiegend positiv und leicht modern-aufwertend, vor allem durch die Bedeutungen und die wahrgenommene Eleganz des Namens. In der vorliegenden Evidenz wird Amira häufig mit „Prinzessin“, „Herrscherin“ oder ähnlichen noblen Bedeutungen verbunden.",
+  "practical_notes": [
+    "Für Suchmaschinen eignet sich eine kurze Beschreibung wie: positiv konnotierter, international wirkender Mädchenname mit nobler Bedeutung.",
+    "Wenn mehr Öffentlichkeit/Alltagsresonanz gewünscht ist, wären zusätzliche Quellen aus Foren, Medien oder Social Media nötig.",
+    "Die Aussage sollte vorsichtig formuliert werden, da die Datenlage eher namenkundlich als repräsentativ ist."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt vor allem aus Namenslexika und einer Namensdatenbank, also nicht aus breiter öffentlicher Debatte.",
+    "Positive Zuschreibungen wie „Prinzessin“ sind Namensdeutungen und keine objektiven Eigenschaften.",
+    "Zur tatsächlichen gesellschaftlichen Wahrnehmung in Deutschland liegt nur begrenzt repräsentatives Material vor."
+  ],
+  "short_summary": "Amira wird in den vorliegenden Quellen überwiegend positiv wahrgenommen: ein moderner, international klingender Name mit nobler Bedeutung und steigender Bekanntheit in Deutschland. Die Evidenz ist jedoch vor allem namenkundlich und nur begrenzt repräsentativ.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.94,
+      "is_name_discussion": true,
+      "sentiment": "positive",
+      "source_type": "web",
+      "title": "Vorname Amira � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/A/Am/Amira/"
+    },
+    {
+      "confidence": 0.86,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Amira: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Amira.html"
+    }
+  ],
+  "style_effect": [
+    "klingt weich und melodisch",
+    "wirkt international und modern",
+    "hat eine elegante, noble Anmutung",
+    "wird häufig mit positiver Bedeutung verknüpft",
+    "erscheint eher stilvoll als altmodisch"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland gut bekannt und sichtbar, mit Hinweis auf steigende bzw. anhaltende Beliebtheit. Die öffentliche Resonanz wirkt eher beschreibend und namenkundlich als kontrovers; belastbare Breitenresonanz ist aus den Quellen aber nur begrenzt ableitbar."
+}

@@ -1,0 +1,62 @@
+{
+  "associations": [
+    "Bedeutung: „der Ernsthafte“ / „der Entschlossene“",
+    "englische und französische Form von Ernst",
+    "altdeutsche Herkunft",
+    "selten in Deutschland",
+    "Namenstag",
+    "Kurzform/Spitzname: Ernie",
+    "leicht literarisch oder historisch wirkend"
+  ],
+  "confidence": 0.84,
+  "display_text": "Ernest wirkt in Deutschland eher selten und klassisch. Die vorhandenen Quellen beschreiben den Namen vor allem sachlich: mit der Bedeutung „der Ernsthafte“ bzw. „der Entschlossene“, als englische/französische Form von Ernst. Öffentliche Resonanz ist kaum sichtbar und insgesamt eher neutral bis leicht positiv.",
+  "evidence_quality": "mittel bis schwach; zwei überwiegend lexikalische Quellen, keine breite öffentliche Debatte",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Ernest",
+  "normalized_name": "ernest",
+  "overall_resonance": "Eher neutral bis leicht positiv, mit klar informativem Charakter. Der Name wirkt in den vorhandenen Quellen vor allem selten, klassisch und sprachlich markant, ohne starke öffentliche Polarisierung.",
+  "practical_notes": [
+    "Für Suchmaschinen- oder Lexikon-Kontext eignet sich eine nüchterne, erklärende Einordnung.",
+    "Der Name kann als traditionsreich und ungewöhnlich wahrgenommen werden.",
+    "Wegen der geringen Verbreitung ist die Alltagssichtbarkeit eher niedrig."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist schmal und stützt sich im Wesentlichen auf Namenslexikon-Seiten.",
+    "Es gibt keine belastbare Grundlage für eine breite öffentliche Meinungsbildung.",
+    "Vereinzelt genannte Hänseleien oder negative Assoziationen sind nicht dominant und sollten nicht überbewertet werden."
+  ],
+  "short_summary": "Ernest wird in den vorliegenden Quellen vor allem sachlich erklärt und eher selten eingeordnet. Die öffentliche Resonanz wirkt neutral bis leicht positiv, ohne starke Polarisierung.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Ernest � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/E/Er/Ernest/"
+    },
+    {
+      "confidence": 0.94,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Ernest: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Ernest.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "altsprachlich",
+    "formal",
+    "sachlich",
+    "leicht historisch",
+    "eher selten"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland eher geringe Sichtbarkeit; die Evidenz deutet auf einen seltenen Vornamen hin. Eine breite öffentliche Diskussion ist nicht erkennbar."
+}

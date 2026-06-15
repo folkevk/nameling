@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "italienische Form von Marcus",
+    "lateinischer Ursprung",
+    "Bezug zu Mars",
+    "Namenstag",
+    "frühere Beliebtheit in Deutschland",
+    "heute eher moderate Nutzung"
+  ],
+  "confidence": 0.93,
+  "display_text": "Marco wird in Deutschland meist neutral bis positiv wahrgenommen: ein vertrauter, klassisch-mediterran klingender Vorname mit lateinischem Ursprung. Die Quellen beschreiben ihn als etabliert, früher häufiger vergeben und heute eher moderat genutzt.",
+  "evidence_quality": "hoch; die vorliegenden Quellen diskutieren den Namen direkt und konsistent mit starker, überwiegend neutraler Evidenz.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Marco",
+  "normalized_name": "marco",
+  "overall_resonance": "Marco wird in der öffentlichen Namenswahrnehmung überwiegend neutral bis positiv beschrieben: vertraut, gut bekannt und klassisch-mediterran klingend. In deutschen Namenslexika wird der Name meist sachlich als etablierter Vorname mit lateinischem Ursprung eingeordnet.",
+  "practical_notes": [
+    "Der Name ist leicht verständlich und im deutschsprachigen Raum gut bekannt.",
+    "Durch die italienisch/lateinische Prägung wirkt Marco oft international und gleichzeitig vertraut.",
+    "Die Quellenlage ist stark und überwiegend sachlich-informativ."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Keine belastbaren Hinweise auf soziale Stigmatisierung in den vorliegenden Quellen.",
+    "Aussagen zur Wirkung bleiben allgemein; sie sind als öffentliche Namensassoziationen zu verstehen, nicht als Eigenschaften von Personen."
+  ],
+  "short_summary": "Marco wirkt in Deutschland als bekannter, klassisch-mediterran klingender Vorname mit neutral bis positiver öffentlicher Resonanz.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Marco � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/M/Ma/Marco/"
+    },
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Marco: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Marco.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "mediterran klingend",
+    "vertraut",
+    "sachlich",
+    "zeitlos",
+    "namenkundlich klar einordbar"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland ist Marco gut bekannt und sichtbar, eher als etablierter, nicht exotischer Vorname. Die Quellen deuten auf frühere größere Beliebtheit und heute eher moderate Nutzung hin."
+}

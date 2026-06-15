@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "arabischer bzw. griechischer Ursprung",
+    "Bedeutungen wie „die Rückkehrerin“ oder „die Helfende“",
+    "Verdis Oper „Aida“",
+    "äthiopische Figur in der Opernrezeption",
+    "selten bis mäßig beliebt in Deutschland",
+    "weiblicher Vorname"
+  ],
+  "confidence": 0.87,
+  "display_text": "Aida wirkt in Deutschland überwiegend positiv und informativ: ein klangvoller, internationaler Vorname mit kulturellen Bezügen, vor allem zur Oper und zur Namenskunde. Die Quellen beschreiben ihn als eher selten bis mäßig beliebt, ohne Anzeichen für eine negative Stigmatisierung.",
+  "evidence_quality": "mittel bis gut: zwei klare Namensquellen mit überwiegend konsistenter, aber vorwiegend beschreibender Evidenz; echte öffentliche Diskussion ist nur indirekt erkennbar.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Aida",
+  "normalized_name": "aida",
+  "overall_resonance": "Überwiegend positiv-informativ, mit klarer kultureller und sprachlicher Einordnung. Der Name wird vor allem als international klingend und namenskundlich interessant wahrgenommen.",
+  "practical_notes": [
+    "Für die Namenssuche wirkt Aida freundlich, kulturell aufgeladen und gut merkbar.",
+    "Durch den Opernbezug kann der Name als klassisch und gebildet wahrgenommen werden.",
+    "Die Aussprache ist im Deutschen meist unkompliziert, die Schreibweise klar.",
+    "Wer einen seltenen, aber nicht schwer verständlichen Namen sucht, findet hier eine passende Option."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt vor allem aus Namensportalen; das ist eher beschreibend als eine echte öffentliche Debatte.",
+    "Es gibt keine Hinweise auf eine gesellschaftliche Stigmatisierung des Namens.",
+    "Beliebtheitsaussagen sollten vorsichtig gelesen werden, da sie je nach Quelle und Zeitraum variieren können."
+  ],
+  "short_summary": "Aida wird in Deutschland vor allem positiv-informativ wahrgenommen: ein internationaler, klangvoller und kulturell geprägter Vorname mit eher mittlerer bis geringer Verbreitung.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Aida � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/A/Ai/Aida/"
+    },
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Aida: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Aida.html"
+    }
+  ],
+  "style_effect": [
+    "klingt weich und melodisch",
+    "wirkt international und kulturell geprägt",
+    "hat einen literarisch-operalen Bezug",
+    "wird eher sachlich als modern-trendbezogen beschrieben",
+    "erscheint durch die Bedeutungen leicht positiv besetzt"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Mittlere Sichtbarkeit in Deutschland: bekannt, aber nicht massenhaft verbreitet. In den Quellen wird Aida als eher selten bis mäßig beliebt beschrieben."
+}

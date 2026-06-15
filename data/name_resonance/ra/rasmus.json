@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "dänische Kurzform von Erasmus",
+    "altgriechischer Ursprung",
+    "Bedeutung: liebenswürdig, geliebt, begehrenswert",
+    "skandinavische Anmutung",
+    "Namenstag am 2. Juni",
+    "norddeutscher und skandinavischer Sprachraum"
+  ],
+  "confidence": 0.87,
+  "display_text": "Rasmus wirkt in der öffentlichen Wahrnehmung überwiegend freundlich und sachlich positiv. Der Name wird vor allem als skandinavisch, traditionsnah und bedeutungsvoll beschrieben; gleichzeitig ist die Evidenz hauptsächlich aus Namenslexika und deshalb eher als Orientierungswert denn als breites Meinungsbild zu verstehen.",
+  "evidence_quality": "Gut für Herkunft, Bedeutung und grobe Resonanz; begrenzt für belastbare öffentliche Meinungsbildung, da vor allem lexikalische Quellen vorliegen.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Rasmus",
+  "normalized_name": "rasmus",
+  "overall_resonance": "Überwiegend positiv bis neutral, mit eher sachlich-informativem Gesamteindruck.",
+  "practical_notes": [
+    "Für Suchmaschinen und Namensportale wird Rasmus meist als klar skandinavisch und bedeutungsvoll eingeordnet.",
+    "Der Name wirkt eher markant als modisch und wird nicht als Massennamen wahrgenommen.",
+    "Die öffentliche Rezeption ist insgesamt freundlich, aber eher nüchtern als emotional aufgeladen."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Datenlage stammt fast ausschließlich aus Namenslexika und Portalbeschreibungen; das ist gut für Herkunft und Bedeutung, aber nur begrenzt aussagekräftig für echte öffentliche Meinungsbilder.",
+    "Die positive Tonalität beruht teils auf erklärenden oder kommentierenden Einträgen, nicht auf einer breiten Debatte.",
+    "Keine Hinweise auf soziale Stigmatisierung oder problematische Zuschreibungen in der vorliegenden Evidenz."
+  ],
+  "short_summary": "Rasmus wird öffentlich meist positiv oder neutral wahrgenommen: skandinavisch, traditionsnah und sprachlich eigenständig. Die Evidenz ist vor allem lexikalisch und daher vorsichtig zu lesen.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Rasmus � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/R/Ra/Rasmus/"
+    },
+    {
+      "confidence": 0.91,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Rasmus: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Rasmus.html"
+    }
+  ],
+  "style_effect": [
+    "skandinavisch",
+    "traditionell",
+    "sprachlich eigenständig",
+    "freundlich und zugänglich",
+    "selten bis nicht-mainstreamig wahrgenommen"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Mittlere Sichtbarkeit in Namenslexika und Vornamensportalen; im öffentlichen Diskurs wirkt der Name eher präsent als kontrovers."
+}

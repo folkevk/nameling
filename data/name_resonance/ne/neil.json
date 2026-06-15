@@ -1,0 +1,57 @@
+{
+  "associations": [
+    "altirisch/gälische Herkunft",
+    "englische Form von Niall",
+    "Bedeutungen wie Sieger, Kämpfer oder Meister",
+    "internationale Verwendbarkeit",
+    "eher selten bis moderat vergeben"
+  ],
+  "confidence": 0.82,
+  "display_text": "Neil wirkt in Deutschland überwiegend neutral bis leicht positiv. Der Name wird vor allem als international, schlicht und gälisch-altirisch geprägt beschrieben. Die verfügbare Evidenz ist allerdings hauptsächlich namenskundlich und damit nur eingeschränkt repräsentativ für eine breite öffentliche Resonanz.",
+  "evidence_quality": "mittel bis schwach; überwiegend Sachinformationen statt breit gestreuter öffentlicher Reaktionen",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Neil",
+  "normalized_name": "neil",
+  "overall_resonance": "Überwiegend neutral bis leicht positiv; der Name wird vor allem sachlich-lexikalisch wahrgenommen, mit gelegentlich positiv gefärbten Assoziationen durch Herkunft und Bedeutung.",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt Neil unkompliziert, international und leicht verständlich.",
+    "Im deutschen Kontext ist der Name eher markant als alltäglich, aber ohne starke Negativkonnotation in der vorliegenden Evidenz."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die vorliegende Evidenz stammt fast ausschließlich aus Namenslexika und redaktionellen Namensseiten, nicht aus breiter öffentlicher Diskussion.",
+    "Daher ist die Resonanz nur vorsichtig als Trendbeschreibung zu verstehen, nicht als repräsentatives Meinungsbild."
+  ],
+  "short_summary": "Neil wird in Deutschland eher neutral bis leicht positiv wahrgenommen: international, schlicht und mit gälisch-altirischer Herkunft. Die Evidenz ist jedoch vor allem lexikalisch und daher nur begrenzt repräsentativ.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.88,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Neil � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/N/Ne/Neil/"
+    },
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Neil: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Neil.html"
+    }
+  ],
+  "style_effect": [
+    "kurz",
+    "international klingend",
+    "modern-klassisch",
+    "klar und schlicht",
+    "namenskundlich geprägt"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland ist Neil eher bekannt, aber nicht stark massenhaft verbreitet; die öffentliche Sichtbarkeit wirkt eher moderat und die Evidenz ist insgesamt begrenzt."
+}

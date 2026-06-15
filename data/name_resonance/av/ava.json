@@ -1,0 +1,63 @@
+{
+  "associations": [
+    "Bedeutungsaspekte wie „die Starke“ oder „die Kräftige“",
+    "verschiedene mögliche sprachliche Ursprünge",
+    "weiblicher Vorname",
+    "Kurzform/kurzer Vorname",
+    "internationaler Eindruck",
+    "Beliebtheit bzw. zunehmende Bekanntheit in Deutschland",
+    "Namenstag wird in Namenslexika teils genannt"
+  ],
+  "confidence": 0.93,
+  "display_text": "Ava wirkt öffentlich überwiegend positiv bis neutral: kurz, modern und international. In Namenslexika wird der Name oft mit Stärke und Beliebtheit verbunden, die Herkunft bleibt aber mehrdeutig. Die Evidenz ist gut, einzelne Deutungen sind jedoch nicht eindeutig.",
+  "evidence_quality": "gut: zwei klar namensbezogene, überwiegend neutrale bis leicht positive Namenslexika mit starker Relevanz für Deutschland; einzelne Details sind jedoch etymologisch nicht eindeutig und teils kommentarbasiert.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Ava",
+  "normalized_name": "ava",
+  "overall_resonance": "Überwiegend positiv bis neutral; der Name wird öffentlich meist als kurz, modern und international wahrgenommen.",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt Ava sehr kompakt, eingängig und gut merkbar.",
+    "Der Name hat in den Quellen eine eher freundliche, moderne Anmutung ohne auffällige negative öffentliche Aufladung.",
+    "Wer Eindeutigkeit bei Herkunft oder Bedeutung erwartet, sollte die Mehrdeutigkeit der Etymologie mitdenken."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Herkunft ist nicht eindeutig; es werden mehrere mögliche etymologische Wurzeln genannt.",
+    "Einzelne Quellen mischen Lexikonwissen mit anekdotischen Kommentaren, die nicht verallgemeinert werden sollten.",
+    "Die positive Wahrnehmung basiert auf Namenslexika und Beliebtheitsdarstellungen; die Evidenz ist gut, aber nicht für jede Nuance gleich stark."
+  ],
+  "short_summary": "Ava wird in der öffentlichen Namenswahrnehmung meist als kurz, modern und international empfunden. Die Rezeption ist überwiegend positiv bis neutral; Herkunft und Bedeutung werden in den Quellen unterschiedlich hergeleitet.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Ava � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/A/Av/Ava/"
+    },
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Ava: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Ava.html"
+    }
+  ],
+  "style_effect": [
+    "kurz",
+    "international klingend",
+    "modern",
+    "weiblich",
+    "namenskundlich aufgeladen",
+    "eher beliebt bzw. bekannt",
+    "positiv-konnotiert durch Bedeutungszuschreibungen wie „stark“ oder „kräftig“"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "hoch"
+}

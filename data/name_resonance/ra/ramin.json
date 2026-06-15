@@ -1,0 +1,58 @@
+{
+  "associations": [
+    "persische und arabische Herkunft",
+    "Bedeutungen wie Frieden, Freude, Glück oder Schütze/Bogenschütze",
+    "selten bis mäßig verbreitet in Deutschland",
+    "teils mit einem eher kulturell und namenskundlich interessanten Profil verbunden",
+    "einzelne Quellen nennen einen Namenstag"
+  ],
+  "confidence": 0.84,
+  "display_text": "Ramin wirkt in der öffentlichen Namenswahrnehmung überwiegend freundlich, sachlich und leicht positiv. Die Quellen betonen vor allem Herkunft und Bedeutung, etwa persische/arabische Wurzeln sowie Assoziationen mit Frieden, Freude oder Glück. In Deutschland scheint der Name eher bekannt als häufig zu sein. Die Evidenz ist jedoch begrenzt und basiert vor allem auf Namenslexika und einzelnen Kommentaren, nicht auf einer breiten öffentlichen Debatte.",
+  "evidence_quality": "mittel: zwei einschlägige Namensquellen, überwiegend sachlich, aber begrenzte Breite und wenig unabhängige öffentliche Stimmen",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Ramin",
+  "normalized_name": "ramin",
+  "overall_resonance": "Überwiegend freundlich und sachlich; der Name wird in den vorliegenden Quellen meist positiv bis neutral beschrieben.",
+  "practical_notes": [
+    "Für Suchmaschinen wirkt der Name klar positiv aufgeladen, vor allem durch Bedeutungsangaben.",
+    "Die Schreibweise ist unkompliziert und international gut lesbar.",
+    "Die Resonanz dürfte eher von Herkunft und Klang als von häufiger Alltagsverwendung geprägt sein."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz basiert stark auf einzelnen Namensseiten; eine breite öffentliche Debatte ist nicht erkennbar.",
+    "Positive Eindrücke stammen teilweise aus Nutzerkommentaren und sind daher nur eingeschränkt verallgemeinerbar.",
+    "Keine Hinweise auf eine gesellschaftliche Stigmatisierung in den vorliegenden Quellen."
+  ],
+  "short_summary": "Ramin wird in den vorliegenden Quellen meist freundlich, sachlich und leicht positiv dargestellt, vor allem wegen der Bedeutungen und der Herkunft. Die Evidenz ist aber begrenzt und stützt sich überwiegend auf Namenslexika und wenige Kommentare.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Ramin � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/R/Ra/Ramin/"
+    },
+    {
+      "confidence": 0.91,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Ramin: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Ramin.html"
+    }
+  ],
+  "style_effect": [
+    "klingt weich und angenehm",
+    "wirkt international bzw. mehrsprachig anschlussfähig",
+    "wird häufig mit Herkunft und Bedeutung erklärt",
+    "hat eher einen markanten als alltäglichen Charakter"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Im deutschsprachigen Raum offenbar eher bekannt, aber nicht massenhaft verbreitet; die öffentliche Sichtbarkeit wirkt vor allem durch Namenslexika und vereinzelte Nutzerkommentare geprägt."
+}

@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "lateinische Herkunft",
+    "Bedeutung: der Sieger / der Siegreiche",
+    "männlicher Vorname",
+    "Namenstag",
+    "klassisch und international verbreitet",
+    "römisch-kulturelle Konnotation",
+    "Spitznamen wie Vic oder Vico"
+  ],
+  "confidence": 0.82,
+  "display_text": "Victor wirkt in Deutschland überwiegend positiv bis neutral: klassisch, international und mit der starken Bedeutung „der Sieger“. Die Evidenz ist vor allem lexikalisch, daher ist die öffentliche Resonanz nur vorsichtig ableitbar.",
+  "evidence_quality": "moderat: zwei namenskundliche Webquellen mit klarer Nennungsrelevanz, aber wenig direkte soziale Resonanz außerhalb der Lexikonbeschreibung",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Victor",
+  "normalized_name": "victor",
+  "overall_resonance": "Überwiegend positiv bis neutral, mit klassisch-zeitloser Anmutung",
+  "practical_notes": [
+    "Wirkt in Deutschland vertraut und gut anschlussfähig.",
+    "Eignet sich für eine seriöse, klassische Namenswirkung.",
+    "Die Schreibweise mit 'c' kann als internationaler wirken als 'Viktor'."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt vor allem aus Namenslexika; direkte öffentliche Meinungsäußerungen sind nur begrenzt vorhanden.",
+    "Die positive Wirkung leitet sich vor allem aus Herkunft und Bedeutung ab, nicht aus breit dokumentierter Alltagsresonanz."
+  ],
+  "short_summary": "Victor wird in Deutschland meist als klassischer, international verständlicher Vorname mit positiver Sieger-Bedeutung wahrgenommen. Die verfügbare Evidenz ist überwiegend namenskundlich und eher sachlich als meinungsstark.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Victor � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/V/Vi/Victor/"
+    },
+    {
+      "confidence": 0.91,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Victor: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Victor.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "international",
+    "eher elegant",
+    "historisch aufgeladen",
+    "sachlich"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland gut bekannt und als Vorname klar erkennbar; die öffentliche Wahrnehmung wirkt eher sachlich und positiv als auffällig kontrovers"
+}

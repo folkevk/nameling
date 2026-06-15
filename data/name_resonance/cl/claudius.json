@@ -1,0 +1,63 @@
+{
+  "associations": [
+    "lateinischer Ursprung",
+    "römischer Geschlechtername",
+    "historisch/klassisch",
+    "selten in Deutschland",
+    "Namenstag",
+    "wohlklingend",
+    "Shakespeare/Hamlet",
+    "weibliche Formen und Varianten"
+  ],
+  "confidence": 0.72,
+  "display_text": "Claudius wirkt klassisch, historisch und eher positiv besetzt. In Deutschland scheint der Name selten zu sein und wird vor allem mit lateinischem Ursprung, römischem Klang und einem traditionsbetonten Stil verbunden. Die Evidenz ist allerdings schwach, da sie überwiegend aus Namenslexika stammt.",
+  "evidence_quality": "mittel bis schwach: zwei namenskundliche Webquellen, sachlich bis leicht positiv, aber wenig echte öffentliche Debatte oder Alltagsresonanz.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Claudius",
+  "normalized_name": "claudius",
+  "overall_resonance": "Claudius wirkt in der vorliegenden Evidenz überwiegend klassisch, historisch und eher positiv wahrgenommen. Der Name wird vor allem mit lateinischem Ursprung, römischem Klang und einer seltenen Verwendung in Deutschland verbunden. Die öffentliche Resonanz erscheint sachlich bis leicht wohlwollend, allerdings ist die Evidenz für echte breite Alltagswahrnehmung begrenzt.",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt Claudius traditionell und markant.",
+    "Durch die Seltenheit kann der Name als besonders und leicht wiedererkennbar wahrgenommen werden.",
+    "Die Außenwahrnehmung dürfte eher von klassischer Bildung als von Modernität geprägt sein."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz basiert vor allem auf Namenslexika und nicht auf breiten Diskussionsdaten.",
+    "Aussagen zur öffentlichen Resonanz sind daher nur vorsichtig belastbar.",
+    "Die Bedeutung ist in den Quellen teils als umstritten beschrieben."
+  ],
+  "short_summary": "Claudius wird in den Quellen als seltener, klassischer und historisch-römischer Vorname mit eher positiver bis neutraler Resonanz beschrieben. Die öffentliche Evidenz ist jedoch begrenzt.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.95,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Claudius � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/C/Cl/Claudius/"
+    },
+    {
+      "confidence": 0.82,
+      "is_name_discussion": true,
+      "sentiment": "eher positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Claudius: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Claudius.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "historisch-römisch",
+    "bildungsnah",
+    "eher würdevoll",
+    "selten",
+    "traditionsbetont"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Eher niedrig bis mittel: Der Name ist in Deutschland offenbar selten und fällt dadurch eher als klassisch-besonderer Vorname auf. Eine starke Mainstream-Präsenz ist aus der Evidenz nicht erkennbar."
+}

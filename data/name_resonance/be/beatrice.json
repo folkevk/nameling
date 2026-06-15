@@ -1,0 +1,62 @@
+{
+  "associations": [
+    "lateinischer bzw. romanischer Ursprung",
+    "Bedeutung im Umfeld von „die Glück Bringende“ / „die Seligmachende“",
+    "auch Deutung als „Reisende“ / „Wanderin“ / „Pilgerin“",
+    "historischer und klassischer Eindruck",
+    "Namenstag",
+    "französische und italienische Form von Beatrix",
+    "Spitznamen wie Bea"
+  ],
+  "confidence": 0.82,
+  "display_text": "Beatrice wirkt in Deutschland überwiegend positiv, klassisch und elegant. Der Name ist bekannt, aber eher nicht sehr häufig. Die Einschätzung beruht jedoch vor allem auf Namenslexikon-Quellen und nicht auf breiter öffentlicher Meinungsforschung.",
+  "evidence_quality": "mittlere bis begrenzte Evidenz: inhaltlich klar, aber auf wenige Namenslexikon-Quellen beschränkt",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Beatrice",
+  "normalized_name": "beatrice",
+  "overall_resonance": "Beatrice wird in den vorliegenden Namensquellen überwiegend positiv und eher klassisch wahrgenommen. Der Name wirkt traditionell, gepflegt und international anschlussfähig, ohne als sehr modern oder trendig beschrieben zu werden.",
+  "practical_notes": [
+    "Für eine Namenssuche ist Beatrice eine gute Wahl, wenn ein klassischer und zugleich international verständlicher Name gewünscht ist.",
+    "Die Wirkung ist eher elegant und traditionsnah als verspielt oder trendbetont.",
+    "Kurzformen wie Bea können den Namen alltagsnaher machen."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz basiert fast ausschließlich auf Namenslexikon-Seiten, also auf redaktionellen Beschreibungen statt auf breiter öffentlicher Meinungsforschung.",
+    "Beliebtheits- und Häufigkeitsangaben zeigen nur indirekt die Resonanz und sind keine direkte Messung öffentlicher Einstellungen.",
+    "Es gibt keinen klaren Hinweis auf Stigmatisierung; die Wahrnehmung wirkt eher neutral bis positiv."
+  ],
+  "short_summary": "Beatrice wird in den Quellen überwiegend positiv, klassisch und elegant beschrieben; die öffentliche Sichtbarkeit in Deutschland wirkt eher moderat.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "Vorname Beatrice � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/B/Be/Beatrice/"
+    },
+    {
+      "confidence": 0.9,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Beatrice: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Beatrice.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "elegant",
+    "international",
+    "traditionell",
+    "namenskundlich aufgeladen",
+    "eher zeitlos als modisch"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Im deutschsprachigen Raum ist Beatrice bekannt, aber eher nicht sehr häufig. Die öffentliche Sichtbarkeit wirkt daher solide, jedoch nicht dominant."
+}

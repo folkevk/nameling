@@ -1,0 +1,68 @@
+{
+  "associations": [
+    "französische Form von Dionysius",
+    "altgriechischer Ursprung",
+    "Bedeutung: dem Dionysos Geweihte",
+    "Heiliger Denis / Dionysius von Paris",
+    "Namenstag",
+    "Wein, Fest, Freude als mythologische Bezüge",
+    "in Deutschland bekannt, aber nicht stark im Aufwind"
+  ],
+  "confidence": 0.86,
+  "display_text": "Denis wird öffentlich meist als klassischer, international anschlussfähiger Vorname wahrgenommen. Die Resonanz ist überwiegend neutral bis leicht positiv, mit Bezügen zu altgriechischer Herkunft, Dionysos und Namenstag. In Deutschland ist der Name bekannt, wirkt aber eher nicht trendig und wird teils als rückläufig beliebt beschrieben.",
+  "evidence_quality": "gut: mehrere passende Namensquellen mit konsistenter, überwiegend neutraler Beschreibung; nur begrenzte Eignung für eine breite Meinungsrepräsentation.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Denis",
+  "normalized_name": "denis",
+  "overall_resonance": "Denis wird in der öffentlichen Namenswahrnehmung überwiegend sachlich und eher klassisch wahrgenommen, mit leicht positiver Färbung durch die kulturelle und mythologische Herkunft. In Deutschland wirkt der Name bekannt, aber nicht besonders trendstark; die Beliebtheit wird eher als rückläufig beschrieben.",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt Denis eher klassisch und kulturell verankert als auffällig oder modern-experimentell.",
+    "Die Schreibweise ist klar und international verständlich, kann aber je nach Sprachraum unterschiedlich ausgesprochen werden.",
+    "Die öffentliche Wahrnehmung scheint eher neutral bis leicht positiv, ohne starke Modewelle."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist insgesamt solide, besteht aber teils aus redaktionellen Namenslexika und ist damit vor allem beschreibend, nicht repräsentativ für die gesamte Öffentlichkeit.",
+    "Einzelne Kommentare in den Quellen sind nur eingeschränkt belastbar und sollten nicht überinterpretiert werden.",
+    "Keine Hinweise auf eine relevante Stigmatisierung des Namens in den vorliegenden Quellen."
+  ],
+  "short_summary": "Denis gilt in Deutschland als klassischer, international anschlussfähiger Vorname mit neutral bis leicht positiver Resonanz und eher rückläufiger Beliebtheit.",
+  "source_count": 3,
+  "sources": [
+    {
+      "confidence": 0.99,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Denis � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/D/De/Denis/"
+    },
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Denis � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/D/De/Denis/"
+    },
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Denis: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Denis.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "informativ",
+    "international anschlussfähig",
+    "eher zeitlos als modisch"
+  ],
+  "usable_evidence_count": 3,
+  "visibility": "Mittlere Bekanntheit in Deutschland, vor allem als etablierter Vorname mit klarer internationaler Einordnung."
+}

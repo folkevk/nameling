@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "lateinische Herkunft",
+    "rumänische Form bzw. internationale Verwendbarkeit",
+    "Bedeutung: der Blühende",
+    "Prächtigkeit und Ansehen",
+    "Seltenheit in Deutschland",
+    "Namenstag",
+    "Nähe zu Florian"
+  ],
+  "confidence": 0.79,
+  "display_text": "Florin wirkt in Deutschland eher selten, aber überwiegend positiv besetzt. Die Quellen verbinden den Namen mit lateinischer Herkunft, der Bedeutung „der Blühende“ und einem eleganten, leicht vertrauten Klang. Insgesamt ergibt sich ein freundliches, sachlich-lexikalisches Bild – bei begrenzter Evidenz.",
+  "evidence_quality": "Begrenzt bis solide: zwei thematisch passende Namensquellen mit überwiegend beschreibendem Inhalt, aber keine breite empirische Meinungsbasis.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Florin",
+  "normalized_name": "florin",
+  "overall_resonance": "Eher positiv und stilvoll, zugleich sachlich-lexikalisch geprägt. Der Name wird vor allem über seine positive Bedeutung und Herkunft wahrgenommen, wirkt in Deutschland aber eher selten.",
+  "practical_notes": [
+    "Für eine Namenssuche ist Florin gut einordenbar: positiv konnotiert, aber nicht sehr verbreitet.",
+    "Der Name kann in Deutschland ungewöhnlich wirken, ohne negativ besetzt zu sein.",
+    "Die Wahrnehmung ist stärker durch Bedeutung und Herkunft geprägt als durch breite Populärkultur."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz basiert nur auf zwei Namenslexikon-/Vornamensseiten; das ist eher eine begrenzte als eine breite öffentliche Meinungsbasis.",
+    "Beliebtheitsaussagen hängen von den jeweiligen Datenquellen ab.",
+    "Einzelne Kommentare enthalten abwertende Randbemerkungen; das sollte nicht als allgemeine Haltung verstanden werden."
+  ],
+  "short_summary": "Florin wird in den vorliegenden Quellen überwiegend positiv und als seltener, stilvoller Name mit lateinischer Herkunft beschrieben. Die öffentliche Resonanz wirkt freundlich-sachlich, ist aber nur begrenzt belegt.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "Vorname Florin � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/F/Fl/Florin/"
+    },
+    {
+      "confidence": 0.84,
+      "is_name_discussion": true,
+      "sentiment": "überwiegend positiv, mit vereinzelter negativer Randbemerkung",
+      "source_type": "web",
+      "title": "&#9655; Vorname Florin: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Florin.html"
+    }
+  ],
+  "style_effect": [
+    "klingt weich und modern",
+    "wirkt zugleich klassisch durch die lateinische Herkunft",
+    "assoziiert Bedeutung wie 'der Blühende' / 'prächtig'",
+    "ähnlich zu Florian, dadurch vertraut und doch etwas eigenständig",
+    "durch die Seltenheit eher markant als massenhaft gebräuchlich"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Gering bis moderat: In den Quellen wird Florin als in Deutschland eher wenig verbreitet beschrieben, daher wirkt der Name eher auffällig als alltäglich."
+}

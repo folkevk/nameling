@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "italienische Variante von Remus",
+    "lateinische Herkunft",
+    "Bedeutung: der Ruderer",
+    "mögliche Verbindung zu Romulus und Remus",
+    "klassisch-mythologischer Bezug",
+    "Namenstag",
+    "kurze Spitznamen wie Remi oder Mo"
+  ],
+  "confidence": 0.79,
+  "display_text": "Remo wirkt in Deutschland überwiegend sachlich-neutral bis leicht positiv: kurz, klangklar und eher selten. Die öffentliche Wahrnehmung basiert vor allem auf namenskundlichen Quellen und deutet auf einen klassischen, leicht international wirkenden Namen mit mythologischen Bezügen hin.",
+  "evidence_quality": "mittel bis schwach: klare Namenseinträge, aber geringe Quellenzahl und kaum breite öffentliche Diskussion",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Remo",
+  "normalized_name": "remo",
+  "overall_resonance": "Überwiegend sachlich-neutral bis leicht positiv. Der Name wird vor allem als kurzer, klangklarer und eher seltener männlicher Vorname wahrgenommen, mit klassisch-mythologischen und italienisch/lateinischen Bezügen.",
+  "practical_notes": [
+    "Für Namenssuchende wirkt Remo meist unkompliziert, klar und eher zeitlos.",
+    "Die Kürze macht den Namen eingängig und gut merkbar.",
+    "Wer einen seltenen, aber nicht ausgefallenen Namen sucht, findet hier eine eher zurückhaltende Option."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenzbasis ist klein und stützt sich im Wesentlichen auf zwei Namenslexikon-Seiten.",
+    "Öffentliche Resonanz ist daher nur vorsichtig interpretierbar; breite Alltagswahrnehmung ist daraus nicht sicher ableitbar.",
+    "Beliebtheits- oder Hitlistenangaben können je nach Quelle und Zeitraum abweichen."
+  ],
+  "short_summary": "Remo wird öffentlich überwiegend neutral, teils leicht positiv wahrgenommen: kurz, klangklar, eher selten und mit klassisch-mythologischer sowie italienisch/lateinischer Einordnung.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Remo � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/R/Re/Remo/"
+    },
+    {
+      "confidence": 0.89,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Remo: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Remo.html"
+    }
+  ],
+  "style_effect": [
+    "kurz und prägnant",
+    "klanglich markant",
+    "klassisch-mythologisch aufgeladen",
+    "international anmutend",
+    "eher ungewöhnlich, aber vertraut genug"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland eher selten bis mittelhäufig; dadurch grundsätzlich erkennbar, aber nicht massenhaft verbreitet. Die öffentliche Präsenz wirkt vor allem lexikalisch und namenskundlich, weniger diskursiv."
+}

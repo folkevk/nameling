@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "Kurzform von Friederike, Henrieke, Marieke oder Ulrike",
+    "althochdeutsche Namenswurzeln",
+    "Bedeutungsbezüge wie Macht, Reichtum, Herrschaft, Frieden, Schutz und Sicherheit",
+    "vor allem in Norddeutschland verbreitet",
+    "klassisch-deutsche Namensästhetik"
+  ],
+  "confidence": 0.82,
+  "display_text": "Rieke wirkt in der öffentlichen Wahrnehmung überwiegend positiv, freundlich und traditionsnah. Der Name wird als Kurz- oder Koseform längerer -rike-Namen gesehen und vor allem mit norddeutscher Verbreitung sowie Bedeutungen wie „die Mächtige“, „die Reiche“ oder „Friede/Schutz/Sicherheit“ verbunden. Die Evidenz ist begrenzt und stammt hauptsächlich aus Namenslexika, daher sollten Aussagen zu Beliebtheit und Verbreitung vorsichtig gelesen werden.",
+  "evidence_quality": "mittel bis eher schwach: zwei Namenslexika/Namensseiten mit überwiegend sachlicher, leicht positiver Darstellung; keine breite repräsentative Evidenz",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Rieke",
+  "normalized_name": "rieke",
+  "overall_resonance": "Überwiegend positiv und traditionsnah, mit regionaler Verankerung in Norddeutschland. Der Name wird vor allem als Kurz- bzw. Koseform längerer -rike-Namen wahrgenommen und mit Bedeutungen wie „die Mächtige“, „die Reiche“ oder „Friede/Schutz/Sicherheit“ verbunden.",
+  "practical_notes": [
+    "Für die öffentliche Wahrnehmung wirkt der Name solide, freundlich und traditionell.",
+    "Die Kurzform kann modern und unkompliziert klingen, ohne ihren klassischen Bezug zu verlieren.",
+    "Je nach Region kann der Name vertrauter oder etwas seltener wahrgenommen werden."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz basiert nur auf wenigen Namensseiten und nicht auf breiter empirischer Öffentlichkeit.",
+    "Aussagen zu Beliebtheit und regionaler Verbreitung sollten daher vorsichtig gelesen werden.",
+    "Keine Hinweise auf eine soziale Stigmatisierung erkennbar."
+  ],
+  "short_summary": "Rieke wird überwiegend positiv, traditionell und norddeutsch geprägt wahrgenommen. Die Evidenz ist jedoch begrenzt und stammt vor allem aus Namenslexika.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "positive",
+      "source_type": "web",
+      "title": "Vorname Rieke � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/R/Ri/Rieke/"
+    },
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Rieke: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Rieke.html"
+    }
+  ],
+  "style_effect": [
+    "kurz",
+    "freundlich",
+    "klar",
+    "traditionell",
+    "norddeutsch",
+    "leicht bodenständig",
+    "namenskundlich aufgeladen"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland bekannt und grundsätzlich gut einordenbar, aber eher kein sehr massenhaft verbreiteter Alltagsname. Die Wahrnehmung wirkt eher vertraut als spektakulär; die öffentliche Sichtbarkeit erscheint besonders im Norden stärker."
+}

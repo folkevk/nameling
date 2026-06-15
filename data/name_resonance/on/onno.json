@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "friesische Kurzform",
+    "altsächsische Herkunft",
+    "Bedeutung: der Gönnende / der Gewährende",
+    "deutsche Nebenform von Arnold",
+    "selten bis eher ungewöhnlich",
+    "in Deutschland statistisch vorhanden, aber nicht sehr häufig"
+  ],
+  "confidence": 0.86,
+  "display_text": "Onno wirkt öffentlich eher positiv bis neutral: ein kurzer, friesisch geprägter und seltener Vorname mit freundlicher Bedeutung. Die verfügbare Evidenz ist vor allem namenskundlich und daher eher begrenzt, zeigt aber keine starken negativen Konnotationen.",
+  "evidence_quality": "Mittel bis gut: zwei klar namenskundliche Webquellen mit hoher Übereinstimmung, aber nur begrenzte Breite der öffentlichen Rezeption.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Onno",
+  "normalized_name": "onno",
+  "overall_resonance": "Eher positiv bis neutral. Onno wird öffentlich meist als friesisch/alt­sächsisch geprägter, kurzer und seltener Jungenname wahrgenommen, mit einer freundlich klingenden Bedeutung. Die Rezeption ist insgesamt sachlich und unaufgeregt, ohne starke polarisierende Signale.",
+  "practical_notes": [
+    "Für Suchmaschinen-Nutzer wirkt der Name kurz, eigenständig und traditionsnah.",
+    "Die Seltenheit kann als markant wahrgenommen werden, ohne laut oder modisch zu wirken.",
+    "Die Bedeutungsassoziation ist tendenziell freundlich und kann die Gesamtwirkung positiv stützen."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenzlage ist begrenzt und stark von Lexikon- und Namensseiten geprägt.",
+    "Einzelne Kommentare sollten nicht als allgemeine öffentliche Meinung überinterpretiert werden.",
+    "Keine Hinweise auf klare negative Stigmatisierung in den vorliegenden Quellen."
+  ],
+  "short_summary": "Onno wird meist als seltener, friesisch geprägter und eher freundlich konnotierter Jungenname wahrgenommen. Die öffentliche Resonanz ist überwiegend sachlich-positiv, bei begrenzter Evidenz.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "Vorname Onno � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/O/On/Onno/"
+    },
+    {
+      "confidence": 0.81,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Onno: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Onno.html"
+    }
+  ],
+  "style_effect": [
+    "kurz und markant",
+    "friesisch-traditionell",
+    "ungewöhnlich, aber nicht exotisch",
+    "sachlich-historisch",
+    "freundliche Bedeutungsassoziation"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland vorhanden, aber eher selten und dadurch nicht sehr breit bekannt. Die öffentliche Sichtbarkeit wirkt vor allem durch Namenslexika und einzelne Namensseiten geprägt."
+}

@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "lateinischer Ursprung",
+    "römisch/italienische Variante",
+    "aus dem Stamm der Sabiner",
+    "Namenstag",
+    "selten bis moderat gebräuchlich",
+    "historisch-religiöse Verbindung"
+  ],
+  "confidence": 0.84,
+  "display_text": "Sabina wirkt in Deutschland eher klassisch, lateinisch und traditionsnah. Der Name wird vor allem sachlich über Herkunft, Bedeutung und Namenstag beschrieben; die öffentliche Meinungsresonanz ist dabei eher begrenzt und überwiegend neutral.",
+  "evidence_quality": "mittel bis eher schwach für öffentliche Resonanz; gut für etymologische und lexikalische Einordnung",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Sabina",
+  "normalized_name": "sabina",
+  "overall_resonance": "In der öffentlichen Namenswahrnehmung wirkt Sabina in Deutschland eher sachlich, klassisch und leicht historisch geprägt. Der Name wird vor allem über Herkunft, Bedeutung und Namenstag beschrieben; klare Alltagsbilder oder starke Trends sind in der vorliegenden Evidenz kaum sichtbar.",
+  "practical_notes": [
+    "Für eine Namenssuche eignet sich Sabina als klassischer, international verständlicher Name mit klarer Herkunft.",
+    "Die Wahrnehmung ist eher ruhig und traditionsnah als modisch oder auffällig.",
+    "Aufgrund der begrenzten öffentlichen Diskussion sollte man keine starken Popularitätsaussagen ableiten."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die verfügbare Evidenz besteht überwiegend aus Namensdatenbanken und redaktionellen Lexika, nicht aus breiter öffentlicher Diskussion.",
+    "Daher ist die Aussagekraft für echte Alltagsresonanz begrenzt.",
+    "Es liegen keine deutlichen Hinweise auf soziale Stigmatisierung oder stark negative Konnotationen vor."
+  ],
+  "short_summary": "Sabina wird in Deutschland vor allem als klassischer, lateinisch geprägter und eher seltener Vorname wahrgenommen. Die öffentliche Resonanz wirkt neutral und traditionsnah, aber die Evidenz zur tatsächlichen Meinungslandschaft ist begrenzt.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Sabina � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/S/Sa/Sabina/"
+    },
+    {
+      "confidence": 0.88,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Sabina: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Sabina.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "lateinisch-historisch",
+    "lexikalisch",
+    "eher selten",
+    "neutral bis leicht elegant"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Eher gering bis moderat sichtbar: Der Name erscheint in Namenslexika und Datenbanken, aber die öffentliche Meinungsdiskussion ist begrenzt. Die Evidenz spricht mehr über den Namen als über breite persönliche Resonanz."
+}

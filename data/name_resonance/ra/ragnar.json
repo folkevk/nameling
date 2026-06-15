@@ -1,0 +1,63 @@
+{
+  "associations": [
+    "skandinavische bzw. nordische Herkunft",
+    "althochdeutsche Wurzeln",
+    "Bedeutungen rund um Rat und Heer",
+    "der beratende Krieger / Berater des Heeres",
+    "Seltenheit in Deutschland",
+    "namenskundlich interessante, historisch anmutende Wirkung"
+  ],
+  "confidence": 0.88,
+  "display_text": "Ragnar: seltener, nordisch-skandinavisch geprägter Vorname mit kraftvoller, traditionsreicher Wirkung. In den vorliegenden Quellen überwiegt eine neutrale bis positive Resonanz; die öffentliche Breite ist jedoch nur eingeschränkt abgebildet.",
+  "evidence_quality": "Gut für eine vorsichtige Namensbeschreibung, aber begrenzt, da die Quellen überwiegend aus Namenslexika und nicht aus breiter öffentlicher Diskussion stammen.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Ragnar",
+  "normalized_name": "ragnar",
+  "overall_resonance": "Ragnar wird in den vorliegenden Quellen überwiegend als markanter, nordisch-skandinavisch geprägter Vorname mit positiver bis neutraler Resonanz beschrieben. Der Name wirkt traditionsreich, kraftvoll und ungewöhnlich; in Deutschland wird er als eher selten wahrgenommen.",
+  "practical_notes": [
+    "Für viele wirkt der Name ungewöhnlich und einprägsam.",
+    "Die Aussprache kann außerhalb skandinavisch geprägter Kontexte gelegentlich nachgefragt werden.",
+    "Durch die Seltenheit hat der Name einen starken Eigencharakter.",
+    "Die Wahrnehmung ist eher sachlich-interessiert als kontrovers."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt fast ausschließlich aus Namenslexika und ist daher nur eingeschränkt als Abbild einer breiten öffentlichen Debatte geeignet.",
+    "Es gibt kaum echte Gegenstimmen; die positive Wirkung beruht vor allem auf der stilistischen und etymologischen Einordnung.",
+    "Aussagen zur Beliebtheit sollten vorsichtig gelesen werden, da sie auf einzelnen Ranking-/Lexikonangaben beruhen."
+  ],
+  "short_summary": "Ragnar wird in Deutschland meist als seltener, nordisch geprägter und kraftvoll wirkender Vorname wahrgenommen, mit überwiegend neutral bis positiv beschriebener Resonanz.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Ragnar � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/R/Ra/Ragnar/"
+    },
+    {
+      "confidence": 0.94,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Ragnar: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Ragnar.html"
+    }
+  ],
+  "style_effect": [
+    "nordisch",
+    "kraftvoll",
+    "traditionsreich",
+    "selten",
+    "markant",
+    "männlich-konnotiert",
+    "historisch wirkend"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Eher geringe Alltagspräsenz in Deutschland; in Namenslexika und Namensseiten klar präsent, in der öffentlichen Breite jedoch kein besonders verbreiteter Name."
+}

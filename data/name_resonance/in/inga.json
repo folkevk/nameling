@@ -1,0 +1,62 @@
+{
+  "associations": [
+    "skandinavischer Vorname",
+    "germanische Herkunft",
+    "Bedeutung: dem Ingwio geweiht bzw. Schutz-/Hilfebezug",
+    "weiblicher Vorname",
+    "Namenstag",
+    "historisch verbreitet",
+    "eher selten in Deutschland",
+    "Kurzform/Koseform von Ing-Namesformen"
+  ],
+  "confidence": 0.84,
+  "display_text": "Inga wirkt in Deutschland meist sachlich, klassisch und leicht nordisch. Die öffentliche Resonanz ist eher positiv oder neutral; vereinzelt wird der Name als etwas altmodisch beschrieben. Die Quellenlage ist solide für Herkunft und Namenswirkung, aber nur begrenzt aussagekräftig für eine breite Meinungslage.",
+  "evidence_quality": "mittel bis gut; die Quellen sind namebezogen und inhaltlich klar, aber die öffentliche Resonanz wird nur indirekt über Lexikoneinträge und vereinzelte Kommentare sichtbar",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Inga",
+  "normalized_name": "inga",
+  "overall_resonance": "überwiegend sachlich und eher positiv, mit einzelnen Hinweisen auf eine etwas altmodische Wirkung",
+  "practical_notes": [
+    "Für die öffentliche Resonanz eignet sich eine vorsichtige Formulierung wie 'klassisch-nordisch und sachlich wahrgenommen'.",
+    "Im deutschsprachigen Raum ist Inga bekannt, aber eher nicht hochmodisch.",
+    "Die Quellenlage ist gut für Herkunft und Namensdeutung, aber nur eingeschränkt für tatsächliche Alltagsresonanz."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt vor allem aus Namenslexika und Einzelkommentaren; das ist keine belastbare Umfrage zur breiten öffentlichen Meinung.",
+    "Die Einschätzung 'altmodisch' ist nur eine einzelne Wahrnehmung und kein allgemeiner Befund.",
+    "Keine Hinweise auf soziale Stigmatisierung in den Quellen; daher keine solche Zuschreibung ableiten."
+  ],
+  "short_summary": "Inga wird in Deutschland überwiegend sachlich, klassisch und leicht nordisch wahrgenommen; einzelne Stimmen empfinden den Namen als etwas altmodisch, insgesamt aber eher positiv und unaufgeregt.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Inga � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/I/In/Inga/"
+    },
+    {
+      "confidence": 0.92,
+      "is_name_discussion": true,
+      "sentiment": "mixed",
+      "source_type": "web",
+      "title": "&#9655; Vorname Inga: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Inga.html"
+    }
+  ],
+  "style_effect": [
+    "klingt kurz und klar",
+    "wirkt nordisch bzw. germanisch geprägt",
+    "eher klassisch als modern",
+    "in einzelnen Kommentaren als altmodisch beschrieben",
+    "als Name mit traditioneller, unkomplizierter Anmutung wahrgenommen"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "mittlere Bekanntheit in Deutschland; in Lexika und Namensportalen klar präsent, aber nicht als sehr trendiger Modevorname"
+}

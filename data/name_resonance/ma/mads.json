@@ -1,0 +1,58 @@
+{
+  "associations": [
+    "Kurzform von Matthias",
+    "dänische und norwegische Namensform",
+    "hebräische Herkunft",
+    "Bedeutung in Richtung „Geschenk Gottes“ / „Gott hat gegeben“",
+    "Namenstag",
+    "in Deutschland bekannt, aber nicht stark verbreitet"
+  ],
+  "confidence": 0.86,
+  "display_text": "Mads wird in Deutschland meist sachlich bis leicht positiv wahrgenommen: kurz, skandinavisch und mit der Bedeutung „Geschenk Gottes“. Die verfügbare Evidenz ist vor allem namenskundlich und daher vorsichtig zu interpretieren.",
+  "evidence_quality": "mittel bis gut: Die Quellen beschreiben den Namen direkt und konsistent, aber die öffentliche Resonanz ist nur indirekt aus Portaltexten ableitbar.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Mads",
+  "normalized_name": "mads",
+  "overall_resonance": "Mads wird in der verfügbaren deutschen Namensevidenz überwiegend sachlich bis leicht positiv wahrgenommen. Der Name erscheint als kurzer, skandinavisch geprägter Jungenname mit klarer Bedeutung und unauffälliger, eher moderner Wirkung.",
+  "practical_notes": [
+    "Für eine Suchmaschine eignet sich eine neutrale Einordnung: bekannt, kurz, nordisch geprägt und mit positiver Bedeutungsassoziation.",
+    "Keine starke Kontroverse erkennbar; die Bewertung sollte vorsichtig bleiben, da die Datenlage auf beschreibenden Quellen basiert."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt vor allem aus Vornamen-Portalen und beschreibt den Namen eher lexikalisch als aus echter öffentlicher Debatte.",
+    "Es gibt keine belastbaren Hinweise auf negative soziale Stigmatisierung; falls einzelne Wahrnehmungen existieren, wären sie nicht als allgemeine Eigenschaft des Namens zu verstehen."
+  ],
+  "short_summary": "Mads wirkt in Deutschland eher positiv und unaufgeregt: ein kurzer, skandinavischer Jungenname mit klarer Bedeutung. Die Evidenz ist überwiegend beschreibend, nicht breit gesellschaftlich diskutierend.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.92,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Mads � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/M/Ma/Mads/"
+    },
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Mads: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Mads.html"
+    }
+  ],
+  "style_effect": [
+    "kurz und prägnant",
+    "skandinavisch-modern",
+    "traditionell durch die biblische Namensableitung",
+    "sprachlich klar und leicht merkbar",
+    "eher sachlich als verspielt"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland ist der Name bekannt, aber nicht sehr prominent. Die öffentliche Sichtbarkeit wirkt eher namenskundlich als alltagskulturell: Er taucht vor allem in Vornamensportalen und Namenslexika auf."
+}

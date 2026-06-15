@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "althochdeutsche Herkunft",
+    "Nebenform von Gertrud",
+    "Bedeutungsbezüge wie Stärke/Macht",
+    "Namenstag",
+    "weiblicher Vorname",
+    "seltene Verwendung in Deutschland"
+  ],
+  "confidence": 0.88,
+  "display_text": "Gertraud wirkt in der öffentlichen Wahrnehmung vor allem traditionell, altdeutsch und selten. Die vorliegenden Quellen beschreiben den Namen sachlich als althochdeutsch und als Nebenform von Gertrud; eine breite aktuelle Popularität ist nicht erkennbar. Die Evidenz zur öffentlichen Resonanz ist jedoch begrenzt und überwiegend namenskundlich.",
+  "evidence_quality": "mittel bis gut für Herkunft und Einordnung, schwach für echte öffentliche Resonanz; die Quellen sind überwiegend sachlich-namenskundlich und nur begrenzt repräsentativ.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Gertraud",
+  "normalized_name": "gertraud",
+  "overall_resonance": "Gertraud wird öffentlich vor allem als traditioneller, althochdeutscher Vorname wahrgenommen; die Resonanz wirkt sachlich und eher nostalgisch als trendig. In den vorliegenden Quellen erscheint der Name selten und klar namenskundlich eingeordnet.",
+  "practical_notes": [
+    "Für eine Namenssuche ist Gertraud gut als traditioneller, klar historisch verankerter Name einzuordnen.",
+    "Der Name wirkt eher klassisch als modern und dürfte deshalb in heutigen Vergleichen oft als selten auffallen.",
+    "Kurzformen und Varianten werden in den Quellen erwähnt, was auf eine gewisse lexikalische Einordnung, nicht aber auf breite aktuelle Popularität hindeutet."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz zur öffentlichen Resonanz ist begrenzt und stammt fast nur aus namenskundlichen Quellen.",
+    "Einzelne Kommentare in einer Quelle können keine allgemeine Meinung über den Namen belegen.",
+    "Es gibt keinen belastbaren Hinweis auf eine breite gesellschaftliche Stigmatisierung; falls einzelne Reaktionen existieren, sind sie nicht repräsentativ."
+  ],
+  "short_summary": "Gertraud ist ein seltener, traditioneller und althochdeutsch geprägter Vorname mit eher sachlich-klassischer Wahrnehmung.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Gertraud � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/G/Ge/Gertraud/"
+    },
+    {
+      "confidence": 0.87,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Gertraud: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Gertraud.html"
+    }
+  ],
+  "style_effect": [
+    "traditionell",
+    "altdeutsch",
+    "namenskundlich",
+    "eher förmlich",
+    "nostalgisch",
+    "selten"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Niedrig bis sehr niedrig in Deutschland; in den Quellen wird Gertraud als selten und weit hinten in Beliebtheitslisten beschrieben."
+}

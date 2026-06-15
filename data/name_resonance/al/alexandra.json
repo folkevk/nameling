@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "griechische Herkunft",
+    "Bedeutung im Sinn von Schutz/Verteidigung",
+    "weibliche Form von Alexander",
+    "bekannter Vorname in Deutschland",
+    "Namenstag",
+    "häufige Kurzformen wie Alex oder Lexi"
+  ],
+  "confidence": 0.92,
+  "display_text": "Alexandra hat in Deutschland eine überwiegend positive, klassische Resonanz. Der Name gilt als etabliert, international verständlich und eher seriös als verspielt. Die verfügbare Evidenz ist vor allem namenskundlich und informativ; direkte öffentliche Meinungsdaten sind nur begrenzt vorhanden.",
+  "evidence_quality": "Mittel bis hoch: zwei einschlägige Namensquellen mit überwiegend positiver, informativ-lexikalischer Evidenz; begrenzte direkte öffentliche Rezeption.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Alexandra",
+  "normalized_name": "alexandra",
+  "overall_resonance": "Überwiegend positiv und klassisch, mit klarer, etablierter Ausstrahlung.",
+  "practical_notes": [
+    "Für die öffentliche Wahrnehmung wirkt Alexandra meist vertraut und unproblematisch.",
+    "Der Name ist international gut verständlich und in verschiedenen Kontexten gut einsetzbar.",
+    "Kurzformen können die Wirkung deutlich lockerer oder moderner machen."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt vor allem aus Namensdatenbanken und lexikalischen Beschreibungen, nicht aus breiten öffentlichen Meinungsumfragen.",
+    "Wirkungen wie 'seriös' oder 'klassisch' sind typische Lesarten, keine festen Eigenschaften des Namens.",
+    "Keine belastbaren Hinweise auf Stigmatisierung in der vorliegenden Evidenz."
+  ],
+  "short_summary": "Alexandra wird im Deutschen überwiegend positiv, klassisch und vertraut wahrgenommen. Der Name wirkt etabliert, international anschlussfähig und eher seriös als modisch.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.95,
+      "is_name_discussion": true,
+      "sentiment": "positive",
+      "source_type": "web",
+      "title": "Vorname Alexandra � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/A/Al/Alexandra/"
+    },
+    {
+      "confidence": 0.99,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Alexandra: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Alexandra.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "zeitlos",
+    "international anschlussfähig",
+    "formal bis freundlich",
+    "eher seriös als verspielt"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Sehr hoch: Der Name ist in Deutschland bekannt, gut dokumentiert und öffentlich leicht wiedererkennbar."
+}

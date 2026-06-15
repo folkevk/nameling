@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "mehrdeutige Herkunftszuordnungen (u. a. slawisch, arabisch, altgriechisch)",
+    "Bedeutungsfelder wie „Welt“, „Wohlgefallen“, „Wunsch“ oder „Quitte“",
+    "Namenstag am 1. März",
+    "literarische Erwähnung bei Puschkin",
+    "eher bekannte, aber seltene Namenswahl"
+  ],
+  "confidence": 0.87,
+  "display_text": "Dunja wirkt in Deutschland bekannt, aber eher selten und insgesamt sachlich bis leicht positiv. Die öffentliche Resonanz ist vor allem namenskundlich geprägt: Quellen nennen mehrere Herkunfts- und Bedeutungsdeutungen sowie den Namenstag am 1. März. Wegen der begrenzten Evidenz sollten starke Aussagen vermieden werden.",
+  "evidence_quality": "mittel: überwiegend Namensdatenbanken, wenig echte öffentliche Meinungsvielfalt",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Dunja",
+  "normalized_name": "dunja",
+  "overall_resonance": "In Deutschland wirkt Dunja insgesamt vertraut, eher selten und überwiegend sachlich bis leicht positiv konnotiert. Die öffentliche Wahrnehmung dreht sich vor allem um Herkunft, Bedeutung und Namenskunde, weniger um starke emotionale oder modische Trends.",
+  "practical_notes": [
+    "Für Suchmaschinen- und Kurzprofile eignet sich eine neutrale Formulierung mit Hinweis auf die vielfältigen Herkunftsdeutungen.",
+    "Die Wahrnehmung ist eher kulturell-namenskundlich als trendgetrieben.",
+    "Wegen der begrenzten Evidenz ist Zurückhaltung bei starken Verallgemeinerungen sinnvoll."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz basiert auf wenigen Namensseiten und bildet öffentliche Resonanz nur begrenzt ab.",
+    "Mehrere Herkunfts- und Bedeutungsdeutungen werden parallel genannt; sie sollten nicht als eindeutig gelten.",
+    "Beliebtheitsangaben können je nach Quelle variieren.",
+    "Es liegen keine belastbaren Hinweise auf eine soziale Stigmatisierung vor."
+  ],
+  "short_summary": "Dunja ist in Deutschland ein eher seltener, aber vertrauter Vorname mit leicht positiver, vor allem namenskundlicher Resonanz. Die Quellen nennen mehrere mögliche Herkünfte und Bedeutungen; die Evidenz ist jedoch begrenzt.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "Vorname Dunja � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/D/Du/Dunja/"
+    },
+    {
+      "confidence": 0.91,
+      "is_name_discussion": true,
+      "sentiment": "mixed",
+      "source_type": "web",
+      "title": "&#9655; Vorname Dunja: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Dunja.html"
+    }
+  ],
+  "style_effect": [
+    "informativ",
+    "namenskundlich",
+    "klassisch bis leicht exotisch",
+    "ruhig und unaufgeregt",
+    "leicht positiv durch Bedeutungsassoziationen"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Bekannt, aber nicht sehr häufig; die Evidenz deutet auf eine eher moderate Sichtbarkeit in Deutschland hin."
+}

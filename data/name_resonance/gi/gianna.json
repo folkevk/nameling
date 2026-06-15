@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "Bedeutung: „Gott ist gnädig“ / „Jahwe ist gnädig“",
+    "italienische Kurzform von Giovanna bzw. Johanna",
+    "hebräische/biblische Herleitung über Johannes/Jochanan",
+    "weiblicher Vorname",
+    "Namenstag",
+    "positiver, wertschätzender Klang"
+  ],
+  "confidence": 0.84,
+  "display_text": "Gianna wirkt in den verfügbaren Quellen überwiegend positiv: ein weich klingender, italienisch geprägter Mädchenname mit der freundlichen Bedeutung „Gott ist gnädig“. Die Wahrnehmung ist eher sachlich und namenskundlich als diskussionsgeladen; belastbare Hinweise auf breitere öffentliche Vorbehalte gibt es nicht. Da die Evidenz nur aus wenigen Namenslexika stammt, ist die Aussage vorsichtig zu lesen.",
+  "evidence_quality": "mittel bis schwach: zwei namenskundliche Webquellen, überwiegend beschreibend und neutral bis positiv; wenig echte öffentliche Debatte.",
+  "generated_at": "2026-06-14T10:47:41Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Gianna",
+  "normalized_name": "gianna",
+  "overall_resonance": "Überwiegend positiv und freundlich, mit sachlich-lexikalischer Prägung. Gianna wird in den vorliegenden Quellen vor allem als italienisch klingender, weiblicher Vorname mit positiver Bedeutung wahrgenommen.",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt Gianna in Deutschland vertraut, freundlich und international anschlussfähig.",
+    "Die Schreibweise ist klar und die Aussprache im Deutschen meist intuitiv.",
+    "Der Name verbindet einen eleganten Klang mit einer positiv besetzten Bedeutung."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenzbasis ist schmal und stützt sich vor allem auf Namenslexika statt auf breite öffentliche Debatten.",
+    "Aussagen zur allgemeinen Wahrnehmung sind daher vorsichtig zu lesen und nicht als repräsentative Mehrheitsmeinung zu verstehen.",
+    "Keine Hinweise auf soziale Stigmatisierung in den Quellen."
+  ],
+  "short_summary": "Gianna wird in den Quellen überwiegend positiv, elegant und italienisch klingend dargestellt; die Evidenz ist jedoch begrenzt und vor allem lexikalisch-namenskundlich.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.95,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Gianna � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/G/Gi/Gianna/"
+    },
+    {
+      "confidence": 0.88,
+      "is_name_discussion": true,
+      "sentiment": "mostly positive",
+      "source_type": "web",
+      "title": "&#9655; Vorname Gianna: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Gianna.html"
+    }
+  ],
+  "style_effect": [
+    "italienisch klingend",
+    "elegant und weich",
+    "modern, aber nicht modisch überladen",
+    "kulturell klar zuordenbar",
+    "sprachlich unkompliziert"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Im deutschsprachigen Raum bekannt, aber eher nicht massenhaft verbreitet; die öffentliche Sichtbarkeit wirkt moderat und eher namenskundlich als diskussionsgetrieben."
+}

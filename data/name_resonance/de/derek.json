@@ -1,0 +1,59 @@
+{
+  "associations": [
+    "Bedeutung wird häufig mit „Herrscher des Volkes“ verbunden",
+    "deutschsprachige Namensdeutung mit niederdeutsch/ostfriesischen bzw. althochdeutschen Bezügen",
+    "angloamerikanische Form bzw. internationaler Gebrauch",
+    "Variante/Verwandtschaft zu Dirk, Derrick, Derik, Dederick",
+    "teils als bekannt durch Popkultur und Namenslisten eingeordnet"
+  ],
+  "confidence": 0.77,
+  "display_text": "Derek wird in Deutschland meist neutral bis leicht positiv wahrgenommen: international, klar und namenskundlich traditionell. Die Quellen sprechen vor allem über Bedeutung, Herkunft und Beliebtheit; eine breite öffentliche Meinungslage ist daraus nur eingeschränkt ableitbar.",
+  "evidence_quality": "begrenzt: zwei namenskundliche Webquellen, wenig echte öffentliche Debatte, insgesamt eher lexikalische als meinungsbasierte Evidenz",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Derek",
+  "normalized_name": "derek",
+  "overall_resonance": "Eher neutral bis leicht positiv. Derek wird in den vorliegenden Quellen vor allem als internationaler, klar wahrnehmbarer Vorname mit traditioneller Namensdeutung beschrieben.",
+  "practical_notes": [
+    "Für Suchmaschinen- oder Namensprofile sollte Derek als sachlich positiv konnotiert, aber nicht stark trendgetrieben beschrieben werden",
+    "Am besten mit dem Hinweis auf den internationalen Charakter und die eher nüchterne, klassische Wirkung",
+    "Keine stereotype oder pauschale Zuschreibung ableiten"
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz zur öffentlichen Resonanz ist schwach: überwiegend Namenslexika statt freie Meinungsäußerungen",
+    "Einzelne positive Einschätzungen lassen sich nicht als breite öffentliche Haltung verallgemeinern",
+    "Keine belastbare Aussage zu gesellschaftlicher Wertung in Deutschland aus diesen Quellen allein"
+  ],
+  "short_summary": "Derek wirkt im deutschen Kontext eher neutral bis leicht positiv: ein internationaler, klarer Vorname mit traditioneller Bedeutung und moderater Sichtbarkeit. Die Evidenz für eine echte öffentliche Meinung ist jedoch begrenzt.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Derek � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/D/De/Derek/"
+    },
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "neutral bis leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Derek: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Derek.html"
+    }
+  ],
+  "style_effect": [
+    "international",
+    "klar",
+    "modern klingend",
+    "namenskundlich aufgeladen",
+    "eher sachlich als verspielt"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland eher bekannt, aber nicht sehr verbreitet; die öffentliche Sichtbarkeit wirkt daher moderat und stark von Namenslexika statt von breiter öffentlicher Diskussion geprägt."
+}

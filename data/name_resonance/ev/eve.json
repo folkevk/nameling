@@ -1,0 +1,62 @@
+{
+  "associations": [
+    "biblischer Ursprung",
+    "Form von Eva",
+    "Bedeutung: Leben / die Lebendige",
+    "weiblicher Vorname",
+    "englische und französische Variante",
+    "selten bis moderat beliebt in Deutschland",
+    "literarische Assoziation"
+  ],
+  "confidence": 0.84,
+  "display_text": "Eve wird in den verfügbaren Quellen überwiegend positiv wahrgenommen: kurz, international und klassisch-biblisch. In Deutschland wirkt der Name eher selten bis moderat verbreitet und vor allem in Namenslexika sichtbar; eine starke öffentliche Debatte ist nicht erkennbar.",
+  "evidence_quality": "mittel: mehrere namenskundliche Quellen, aber kaum externe öffentliche Debatte oder breite Alltagsresonanz.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Eve",
+  "normalized_name": "eve",
+  "overall_resonance": "Eve wird in den vorliegenden Namensquellen überwiegend positiv und eher elegant wahrgenommen. Die öffentliche Rezeption wirkt dabei vor allem sprachlich-lexikalisch geprägt: Der Name wird als internationale, kurze Form von Eva mit biblischem Ursprung beschrieben. Eine starke breite Diskussionslage in Deutschland ist in den Quellen nicht erkennbar.",
+  "practical_notes": [
+    "Für Suchende wirkt Eve meist unkompliziert, international verständlich und kurz.",
+    "In Deutschland dürfte der Name eher auffallen, ohne exotisch zu wirken.",
+    "Die vorhandenen Quellen deuten auf eher positive Konnotationen hin, jedoch ohne starke externe Resonanz."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt fast ausschließlich aus Namenslexika und ist daher eher beschreibend als wirklich diskursiv.",
+    "Keine belastbare Aussage über breitere gesellschaftliche Meinungen oder Alltagserfahrungen ableitbar.",
+    "Seltenheit kann als stilistisches Merkmal wirken, ist aber kein Werturteil."
+  ],
+  "short_summary": "Eve wird in den Quellen überwiegend positiv, kurz, international und biblisch geprägt beschrieben; die öffentliche Resonanz in Deutschland wirkt eher leise als breit diskutiert.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "Vorname Eve � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/E/Ev/Eve/"
+    },
+    {
+      "confidence": 0.94,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Eve: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Eve.html"
+    }
+  ],
+  "style_effect": [
+    "kurz und klar",
+    "international klingend",
+    "klassisch-biblisch",
+    "modern und schlicht",
+    "eher selten bis moderat verbreitet",
+    "leicht literarisch assoziiert"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Eher gering bis moderat sichtbar in deutschen Namensportalen; vor allem als lexikalisch beschriebener Vorname präsent, weniger als breit öffentlich diskutierter Name."
+}

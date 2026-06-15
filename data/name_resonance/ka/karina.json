@@ -1,0 +1,58 @@
+{
+  "associations": [
+    "Bedeutungen wie „die Reine“, „die Freie“ und teils „die Schöne/ die Liebste“",
+    "mögliche Herleitung aus skandinavischen, lateinischen oder althochdeutschen Traditionen",
+    "oft als Variante von Katharina oder Karolina beschrieben",
+    "in den Quellen als in Deutschland bekannt, teils beliebt bzw. eher selten vergeben eingeordnet"
+  ],
+  "confidence": 0.78,
+  "display_text": "Karina wird in Deutschland vor allem sachlich bis leicht positiv wahrgenommen. Der Name erscheint klassisch, weich klingend und international anschlussfähig. Die vorliegenden Quellen betonen vor allem Bedeutung und Herkunft; eine breite öffentliche Debatte ist nicht erkennbar.",
+  "evidence_quality": "mittel bis eher schwach: zwei überwiegend redaktionelle Namensseiten, kaum breite Debatte, wenig echte öffentliche Auseinandersetzung.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Karina",
+  "normalized_name": "karina",
+  "overall_resonance": "Karina wird im deutschsprachigen Raum überwiegend sachlich bis leicht positiv wahrgenommen. Die öffentliche Sicht ist vor allem namenkundlich geprägt: Bedeutung, Herkunft und Varianten stehen im Vordergrund, weniger eine breite gesellschaftliche Debatte.",
+  "practical_notes": [
+    "Für Suchmaschinen- und Kurzprofile eignet sich eine neutrale Einordnung mit leicht positiver Tendenz.",
+    "Wenn Kontext gewünscht ist, sollte erwähnt werden, dass die Wahrnehmung vor allem über Bedeutung und Herkunft entsteht.",
+    "Aufgrund der eher begrenzten Diskussionslage ist Zurückhaltung bei allgemeinen Aussagen sinnvoll."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist schwach bis mittelstark und stark lexikalisch geprägt; sie zeigt eher Namensbeschreibung als echte öffentliche Diskussion.",
+    "Keine belastbaren Hinweise auf Stigmatisierung oder negative gesellschaftliche Zuschreibungen in den vorliegenden Quellen.",
+    "Einzelne Tonlagen in Kommentaren oder Seitenbewertungen sollten nicht als allgemeine Mehrheitsmeinung verstanden werden."
+  ],
+  "short_summary": "Karina wirkt im deutschen Sprachraum bekannt, freundlich und eher klassisch; die verfügbare Evidenz ist vor allem beschreibend und nur begrenzt öffentlich diskutierend.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.9,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Karina � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/K/Ka/Karina/"
+    },
+    {
+      "confidence": 0.91,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Karina: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Karina.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch und zeitlos",
+    "weich klingend",
+    "international anschlussfähig",
+    "eher freundlich als streng",
+    "eher informell bis elegant je nach Kontext"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Eher moderate Sichtbarkeit in Deutschland; der Name ist bekannt, wirkt aber laut den vorliegenden Quellen nicht stark öffentlich diskutiert. Die Evidenz stammt überwiegend aus Namenslexika und ähnlichen Informationsseiten."
+}

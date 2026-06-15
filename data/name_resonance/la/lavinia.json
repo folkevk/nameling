@@ -1,0 +1,63 @@
+{
+  "associations": [
+    "lateinische Herkunft",
+    "möglicherweise etruskischer Ursprung",
+    "Lavinium",
+    "römische Mythologie",
+    "Bedeutung: aus Lavinium stammend",
+    "alternative Deutung: rein/sauber",
+    "weiblicher Vorname",
+    "eher selten/ungewöhnlich"
+  ],
+  "confidence": 0.82,
+  "display_text": "Lavinia: klassisch, selten und elegant wirkender Mädchenname mit lateinischer Herkunft. Die öffentliche Rezeption ist überwiegend positiv bis neutral, die Evidenz dafür ist aber vor allem namenkundlich und nur begrenzt breit repräsentativ.",
+  "evidence_quality": "mittel bis gut: Die Quellen sind direkt namenkundlich und inhaltlich passend, aber überwiegend einseitig und nicht breit repräsentativ.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Lavinia",
+  "normalized_name": "lavinia",
+  "overall_resonance": "Lavinia wirkt im deutschsprachigen Raum überwiegend klassisch, elegant und leicht literarisch. Die öffentliche Rezeption ist eher positiv bis neutral; der Name wird vor allem über Herkunft, Bedeutung und Seltenheit beschrieben.",
+  "practical_notes": [
+    "Der Name ist klanglich klar und in Deutschland gut aussprechbar.",
+    "Durch die Seltenheit kann er auffallen, ohne schwer verständlich zu sein.",
+    "Für Suchmaschinen ist eine knappe Einordnung als 'klassischer, seltener Mädchenname mit lateinischer Herkunft' passend."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt fast ausschließlich aus Namenslexika und einer Namensseite; das ist gut für Herkunft und Bedeutung, aber nur begrenzt repräsentativ für echte öffentliche Wahrnehmung.",
+    "Positive Wirkungen wie 'elegant' oder 'klassisch' sind abgeleitete Eindruckswerte, keine objektiven Messungen.",
+    "Keine belastbare Hinweise auf soziale Stigmatisierung erkennbar."
+  ],
+  "short_summary": "Lavinia wird in Deutschland vor allem als klassischer, seltener und elegant wirkender Mädchenname mit lateinischer Herkunft wahrgenommen.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.91,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Lavinia � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/L/La/Lavinia/"
+    },
+    {
+      "confidence": 0.91,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Lavinia: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Lavinia.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "elegant",
+    "gebildet",
+    "namenskundlich",
+    "leicht exklusiv",
+    "selten, aber zugänglich"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland offenbar bekannt, aber eher nicht alltäglich. Er wird als ungewöhnlicher, jedoch verständlicher Mädchenname wahrgenommen."
+}

@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "althochdeutsche Herkunft",
+    "Bedeutung: \"die starke Kämpferin\" / \"die im Kampf Mächtige\"",
+    "mittelalterliche Tradition",
+    "selten im heutigen Gebrauch",
+    "Varianten: Mechthilde, Mechtild, Mechtilde",
+    "Kurzformen: Metta, Mette"
+  ],
+  "confidence": 0.82,
+  "display_text": "Mechthild wirkt in der öffentlichen Wahrnehmung vor allem traditionell, historisch und selten. Der Name wird meist neutral bis leicht wertschätzend beschrieben, oft mit der Bedeutung \"die starke Kämpferin\" verbunden. Gleichzeitig kann er auf manche etwas altmodisch oder ungewöhnlich wirken. Die Evidenz ist eher mittelstark und stammt vor allem aus Namenslexika.",
+  "evidence_quality": "mittelstark: zwei einschlägige Namenslexikon-Quellen mit klarer Namensdiskussion, aber wenig breit gestützte öffentliche Resonanzdaten.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Mechthild",
+  "normalized_name": "mechthild",
+  "overall_resonance": "Eher traditionell und historisch geprägt; die öffentliche Wahrnehmung wirkt respektvoll, aber nicht besonders modern oder trendig.",
+  "practical_notes": [
+    "Für Suchende, die einen seltenen, traditionellen Namen suchen, kann Mechthild als markant und geschichtsbewusst wirken.",
+    "Wer einen modern klingenden oder häufigen Namen bevorzugt, könnte ihn eher als ungewöhnlich wahrnehmen.",
+    "Die Kurzformen Metta und Mette können den Namen im Alltag weicher und zugänglicher machen."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt im Wesentlichen aus Namenslexika und ist damit eher mittelstark als breit öffentlich belegt.",
+    "Einzelne wertende Formulierungen wie \"altbacken\" oder \"veraltet wirkend\" sind subjektive Eindrücke und keine objektive Eigenschaft des Namens.",
+    "Es gibt keine belastbare breite Datenlage zu allgemeiner Popularität oder sozialer Bewertung."
+  ],
+  "short_summary": "Mechthild wird öffentlich vor allem als alter, seltener und historisch geprägter Vorname wahrgenommen, mit positiver Deutung über die Bedeutung, aber teils als altmodisch empfunden.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Mechthild � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/M/Me/Mechthild/"
+    },
+    {
+      "confidence": 0.84,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Mechthild: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Mechthild.html"
+    }
+  ],
+  "style_effect": [
+    "altdeutsch",
+    "historisch",
+    "namenskundlich",
+    "eher klassisch",
+    "für manche etwas altmodisch wirkend"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Der Name ist bekannt, aber heute deutlich selten und im Alltag eher ungewöhnlich."
+}

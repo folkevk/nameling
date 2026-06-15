@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "lateinischer Ursprung",
+    "Bedeutung: „die Liebenswerte“",
+    "weiblicher Vorname",
+    "Namenstag wird genannt",
+    "in englischsprachigen Räumen bekannter",
+    "Spitznamen wie Mandy oder Amy"
+  ],
+  "confidence": 0.78,
+  "display_text": "Amanda wirkt in Deutschland überwiegend positiv, klassisch und freundlich. Der Name wird vor allem mit lateinischem Ursprung, der Bedeutung „die Liebenswerte“ und einer gewissen internationalen Vertrautheit verbunden. Gleichzeitig ist die Evidenz für die öffentliche Resonanz eher schwach, da sie vor allem aus Namenslexika stammt und keine breite Meinungsbasis zeigt.",
+  "evidence_quality": "schwach bis mittel; hauptsächlich namenskundliche Webquellen, kaum direkte öffentliche Resonanzdaten",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Amanda",
+  "normalized_name": "amanda",
+  "overall_resonance": "Überwiegend positiv und eher klassisch-informativ wahrgenommen, mit Fokus auf Bedeutung und Herkunft; die öffentliche Resonanz ist aber nur schwach belegt.",
+  "practical_notes": [
+    "Für eine Namenssuche ist Amanda gut verständlich, vertraut und sprachlich unkompliziert.",
+    "Der Name wirkt eher zeitlos als modisch-extrem.",
+    "Wer einen international gut anschlussfähigen, freundlich klingenden Vornamen sucht, findet hier eine naheliegende Option."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz zur öffentlichen Resonanz ist schwach und stammt im Wesentlichen aus Namenslexika.",
+    "Beliebtheitsangaben sind nur indirekte Hinweise und sollten nicht als umfassendes Meinungsbild verstanden werden.",
+    "Keine belastbare Aussage über gesellschaftliche Bewertung oder konkrete Personengruppen ableitbar."
+  ],
+  "short_summary": "Amanda wird in den Quellen überwiegend freundlich und klassisch beschrieben. Die Resonanz wirkt positiv, aber die Belege sind begrenzt und stammen vor allem aus Namenslexika.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Amanda � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/A/Am/Amanda/"
+    },
+    {
+      "confidence": 0.91,
+      "is_name_discussion": true,
+      "sentiment": "positive",
+      "source_type": "web",
+      "title": "&#9655; Vorname Amanda: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Amanda.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "weiblich",
+    "freundlich",
+    "namenskundlich",
+    "leicht elegant",
+    "international anschlussfähig"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland wirkt Amanda bekannt, aber nicht durchgängig stark präsent; die Hinweise deuten eher auf eine solide, zeitweise beliebte Nutzung als auf eine sehr dominante Verbreitung hin."
+}

@@ -1,0 +1,62 @@
+{
+  "associations": [
+    "Variante von Maximilian",
+    "lateinische Herkunft",
+    "Bedeutung: der Größte",
+    "männlicher Vorname",
+    "Namenstag",
+    "Spitznamen/Koseformen",
+    "Beliebtheit in Deutschland"
+  ],
+  "confidence": 0.74,
+  "display_text": "„Maximillian“ wird in Deutschland vor allem als klassische, lateinisch geprägte Variante von „Maximilian“ wahrgenommen. Die vorliegenden Quellen sind überwiegend informativ; eine breite öffentliche Resonanz lässt sich daraus nur vorsichtig ableiten.",
+  "evidence_quality": "mittel bis schwach; zwei informative Namensquellen, aber kaum echte öffentliche Diskussionsbelege",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Maximillian",
+  "normalized_name": "maximillian",
+  "overall_resonance": "Im deutschsprachigen Raum wird „Maximillian“ überwiegend sachlich und positiv-konnotiert wahrgenommen: als klassisch wirkende Variante von „Maximilian“ mit lateinischer Herkunft und der Bedeutung „der Größte“. Die öffentliche Resonanz in den vorliegenden Quellen ist jedoch eher beschreibend als diskursiv, daher ist die Evidenz für eine breite Alltagswahrnehmung begrenzt.",
+  "practical_notes": [
+    "Für Suchmaschinen und Namensprofile eignet sich eine knappe Einordnung als klassische, lateinisch geprägte Variante.",
+    "Falls eine breite Alltagsresonanz beschrieben werden soll, wären zusätzliche Quellen aus Medien, Foren oder Umfragen hilfreich.",
+    "Die Schreibweise mit Doppel-‚l‘ wirkt im Deutschen ungewöhnlicher als die verbreitete Form ‚Maximilian‘."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist schwach für echte öffentliche Resonanz, da die Quellen überwiegend informativ und datenbankartig sind.",
+    "Keine belastbaren Hinweise auf negative gesellschaftliche Stigmatisierung in den vorliegenden Quellen.",
+    "Die Wahrnehmung als ‚besonders‘ oder ‚klassisch‘ ist eine vorsichtige Ableitung aus der Namenskunde, keine allgemeingültige Tatsache."
+  ],
+  "short_summary": "„Maximillian“ wirkt im Deutschen klassisch, formal und positiv konnotiert, ist aber eher als Namensvariante bekannt als durch breite öffentliche Diskussion.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.91,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Maximillian � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/M/Ma/Maximillian/"
+    },
+    {
+      "confidence": 0.91,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Maximillian: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Maximillian.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "formell",
+    "namenskundlich",
+    "eher traditionell",
+    "leicht feierlich",
+    "international anmutend"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Mittel bis gering: Der Name ist erkennbar und klar einordenbar, die vorliegenden Treffer stammen aber vor allem aus Namensdatenbanken und nicht aus breiter öffentlicher Debatte."
+}

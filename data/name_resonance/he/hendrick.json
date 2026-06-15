@@ -1,0 +1,63 @@
+{
+  "associations": [
+    "Bedeutung in Richtung 'Herrscher des Heims' / 'Heimat und Herrscher'",
+    "althochdeutsche Herkunft",
+    "niederdeutsche und niederländische Form",
+    "Variante von Hendrik/Heinrich",
+    "männlicher Vorname",
+    "Namenstag am 13. Juli",
+    "eher selten in Deutschland"
+  ],
+  "confidence": 0.71,
+  "display_text": "Hendrick wirkt in Deutschland eher selten, klassisch und traditionell. Die vorliegenden Quellen zeigen eine sachlich-neutral bis leicht positive Wahrnehmung, vor allem in Namenslexika. Für eine breite öffentliche Resonanz ist die Evidenz jedoch begrenzt.",
+  "evidence_quality": "mittel bis schwach: klare Namensbeschreibung vorhanden, aber nur indirekte und begrenzte Hinweise auf öffentliche Resonanz",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Hendrick",
+  "normalized_name": "hendrick",
+  "overall_resonance": "Hendrick wird in den vorliegenden Quellen vor allem sachlich und namenskundlich wahrgenommen: als eher seltener, männlicher Vorname mit althochdeutsch/niederdeutscher bzw. niederländischer Prägung. Die öffentliche Resonanz wirkt insgesamt neutral bis leicht positiv, aber die Evidenz für eine breite Alltagswahrnehmung in Deutschland ist schwach.",
+  "practical_notes": [
+    "Für eine Namenssuche in Deutschland wirkt Hendrick vertraut, aber nicht alltäglich.",
+    "Die Schreibweise mit -ck kann als markanter und etwas internationaler Eindruck wahrgenommen werden.",
+    "Wer einen klassischen, historisch klingenden Namen sucht, findet hier eine eher seltene Variante.",
+    "Die Belege sprechen eher für lexikalische Bekanntheit als für starke soziale Trendwirkung."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz zur öffentlichen Resonanz ist begrenzt, da sie hauptsächlich aus Vornamensdatenbanken stammt.",
+    "Einzelne positive oder kritische Kommentare auf Namensseiten sind nicht gleichzusetzen mit breiter öffentlicher Meinung.",
+    "Keine Hinweise auf eine spezifische soziale Stigmatisierung in den vorliegenden Quellen."
+  ],
+  "short_summary": "Hendrick wird in Deutschland eher selten und sachlich aufgenommen: klassisch, traditionell und leicht positiv, aber mit schwacher Evidenz für breite Alltagsresonanz.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.95,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Hendrick � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/H/He/Hendrick/"
+    },
+    {
+      "confidence": 0.78,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Hendrick: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Hendrick.html"
+    }
+  ],
+  "style_effect": [
+    "traditionell",
+    "sprachlich-klassisch",
+    "namenskundlich",
+    "eher selten",
+    "nüchtern",
+    "regional anschlussfähig"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Eher geringe Sichtbarkeit in Deutschland; in den Quellen wird Hendrick als selten bzw. nicht sehr häufig beschrieben. Die Wahrnehmung stammt überwiegend aus Namenslexika statt aus breiten öffentlichen Diskussionen."
+}

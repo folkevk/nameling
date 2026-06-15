@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "althochdeutsche/altgermanische Herkunft",
+    "Kurzform zu Gund- bzw. Gudrun/Gundula-Namen",
+    "Bedeutung im Umfeld von \"Kämpferin\" oder \"Kriegerin\"",
+    "weiblicher Vorname",
+    "selten in Deutschland",
+    "Namenstag"
+  ],
+  "confidence": 0.9,
+  "display_text": "Gunda wirkt im Deutschen eher selten, traditionsnah und leicht kraftvoll. Der Name wird vor allem mit altgermanischer Herkunft, Kurzformen wie Gudrun/Gundula und der Bedeutung „Kämpferin“ verbunden. Die öffentliche Wahrnehmung ist überwiegend neutral bis leicht positiv, allerdings basiert sie vor allem auf Namenslexikon-Quellen und nur begrenzt auf breiter Alltagsresonanz.",
+  "evidence_quality": "Gut für Herkunft, Bedeutung und grobe Beliebtheit; schwächer für echte öffentliche Resonanz, da fast nur lexikalische Quellen vorliegen.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Gunda",
+  "normalized_name": "gunda",
+  "overall_resonance": "Eher neutral bis leicht positiv: Der Name wird vor allem sachlich-etymologisch wahrgenommen und wirkt traditionsnah, selten und klar weiblich.",
+  "practical_notes": [
+    "Gut geeignet, wenn ein kurzer, traditionsreicher und ungewöhnlicher Name gesucht wird.",
+    "Die Aussprache ist im Deutschen unkompliziert.",
+    "Durch die Seltenheit kann der Name auffallen, ohne stark modisch zu wirken."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die öffentliche Resonanz ist nur eingeschränkt belegt, da die Evidenz vor allem aus Namenslexikon-Seiten stammt.",
+    "Seltenheit kann je nach Kontext als eigenständig oder altmodisch wirken; das ist eine Wahrnehmung, keine feste Eigenschaft.",
+    "Keine belastbaren Hinweise auf eine breite moderne Trendwirkung."
+  ],
+  "short_summary": "Gunda wird meist sachlich und traditionsnah eingeordnet: ein seltener, altdeutsch wirkender Vorname mit der Assoziation von Stärke und Kämpferin.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Gunda � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/G/Gu/Gunda/"
+    },
+    {
+      "confidence": 0.89,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Gunda: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Gunda.html"
+    }
+  ],
+  "style_effect": [
+    "traditionell",
+    "altdeutsch",
+    "kurz und klar",
+    "selten",
+    "namenskundlich",
+    "leicht kraftvoll"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Im deutschen Raum eher selten und dadurch nicht sehr breit im Alltagsgebrauch präsent; in Namenslexika und Vorname-Portalen aber klar auffindbar."
+}

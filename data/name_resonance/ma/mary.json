@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "englische Form von Maria",
+    "biblischer Bezug",
+    "Bedeutungen wie „die Geliebte“ oder „die von Gott Geschenkte“",
+    "international weit verbreitet",
+    "in Deutschland relativ selten",
+    "Namenstag am 12. September"
+  ],
+  "confidence": 0.9,
+  "display_text": "Mary wirkt in Deutschland eher selten, aber klar vertraut: ein klassischer, international verbreiteter und biblisch geprägter Name mit neutral-freundlicher Resonanz.",
+  "evidence_quality": "mittelstark",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Mary",
+  "normalized_name": "mary",
+  "overall_resonance": "Überwiegend neutral bis freundlich-informativ. Mary wird in den vorliegenden Quellen vor allem als international gebräuchliche, sprachlich vertraute Form von Maria beschrieben.",
+  "practical_notes": [
+    "Als Name wirkt Mary in Deutschland vertraut, aber ungebräuchlicher als Maria.",
+    "Die internationale Lesbarkeit ist hoch.",
+    "Für eine zurückhaltend-elegante oder christlich geprägte Namenswirkung geeignet."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt überwiegend aus Namenslexika und Übersichtsseiten, nicht aus breiter öffentlicher Diskussion.",
+    "Einige Bedeutungsangaben sind je nach Quelle mehrdeutig oder nicht eindeutig abgesichert.",
+    "Keine Hinweise auf starke soziale Stigmatisierung in den vorliegenden Quellen."
+  ],
+  "short_summary": "Mary wird öffentlich vor allem als klassische, internationale und biblisch geprägte Form von Maria wahrgenommen; in Deutschland ist der Name eher selten, aber sachlich bekannt.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Mary � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/M/Ma/Mary/"
+    },
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Mary: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Mary.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "international",
+    "biblisch geprägt",
+    "sachlich",
+    "eher zeitlos als modisch"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland eher selten, aber gut bekannt und international sehr sichtbar. Die öffentliche Wahrnehmung wirkt deshalb eher klassisch als trendig."
+}

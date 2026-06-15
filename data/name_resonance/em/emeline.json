@@ -1,0 +1,63 @@
+{
+  "associations": [
+    "französische Herkunft",
+    "lateinische Herkunft",
+    "Bedeutung: die Nachahmende / die Eifrige",
+    "weiblicher Vorname",
+    "Namenstag",
+    "Spitznamen wie Emmy, Emi oder Emme",
+    "Seltenheit in Deutschland"
+  ],
+  "confidence": 0.84,
+  "display_text": "Emeline wirkt in den Quellen eher selten, französisch und elegant. Die Resonanz ist überwiegend sachlich bis leicht positiv, allerdings basiert die Evidenz vor allem auf Namenslexika und nicht auf breiter öffentlicher Diskussion.",
+  "evidence_quality": "mittel bis schwach: zwei klare, namenskundliche Webquellen mit überwiegend neutraler bis leicht positiver Tendenz, aber wenig direkte öffentliche Meinungsäußerung.",
+  "generated_at": "2026-06-14T10:47:41Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Emeline",
+  "normalized_name": "emeline",
+  "overall_resonance": "Emeline wird in den vorliegenden Quellen überwiegend sachlich, freundlich und leicht positiv eingeordnet. Der Name wirkt eher elegant und französisch geprägt, mit einer eher seltenen Wahrnehmung in Deutschland.",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt Emeline eher individuell und ungewöhnlich als massenhaft verbreitet.",
+    "Die Schreibweise ist klar erkennbar, der Klang aber für deutschsprachige Ohren eher französisch.",
+    "Kurze Koseformen sind in den Quellen gut anschlussfähig.",
+    "Die Gesamtwirkung lässt sich vorsichtig als stilvoll und freundlich beschreiben, ohne daraus feste Zuschreibungen abzuleiten."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz zur öffentlichen Resonanz ist begrenzt und stammt überwiegend aus Nachschlagewerken.",
+    "Es liegen kaum Hinweise auf breite Alltagswahrnehmung oder echte öffentliche Debatten vor.",
+    "Eine starke Verallgemeinerung über soziale Wirkung wäre daher nicht belastbar."
+  ],
+  "short_summary": "Emeline wird in den verfügbaren Quellen als seltener, französisch geprägter und eher freundlich-elegant wirkender Vorname beschrieben; die Evidenz zur öffentlichen Resonanz ist jedoch begrenzt.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.95,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Emeline � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/E/Em/Emeline/"
+    },
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Emeline: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Emeline.html"
+    }
+  ],
+  "style_effect": [
+    "französisch klingend",
+    "elegant",
+    "weich und melodisch",
+    "eher selten",
+    "namenskundlich geprägt",
+    "leicht klassisch"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Die öffentliche Sichtbarkeit scheint in Deutschland eher gering bis moderat zu sein, da Emeline in den Quellen ausdrücklich als eher seltener Vorname beschrieben wird. Die Evidenz stammt vor allem aus Namenslexika, nicht aus breiten öffentlichen Diskussionen."
+}

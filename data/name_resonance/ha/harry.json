@@ -1,0 +1,62 @@
+{
+  "associations": [
+    "englische Koseform von Henry/Heinrich",
+    "auch Kurzform von Harold/Harald",
+    "Bedeutungsfelder rund um Herrschaft/Hausherr/Heerführer",
+    "klassischer historischer Vorname",
+    "früher in Deutschland verbreiteter, heute rückläufig",
+    "vereinzelt Popkultur-Assoziationen wie Harry Potter"
+  ],
+  "confidence": 0.88,
+  "display_text": "Harry: überwiegend neutral bis klassisch wahrgenommen, mit traditioneller und leicht nostalgischer Wirkung. Der Name ist gut bekannt, heute in Deutschland eher seltener, und wird vor allem mit englisch-deutscher Namensgeschichte sowie einzelnen Popkultur-Bezügen verbunden.",
+  "evidence_quality": "mittel bis hoch für Herkunft und Namensdeutung, mittel für öffentliche Resonanz; die Quellen sind direkt namensbezogen, aber eher lexikalisch als meinungsbasiert.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Harry",
+  "normalized_name": "harry",
+  "overall_resonance": "Überwiegend neutral bis klassisch; der Name wirkt im deutschen Kontext bekannt, traditionsnah und eher altbekannt als modisch-neu. Die öffentliche Rezeption ist sachlich, mit etwas nostalgischer bzw. historischer Färbung.",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt Harry unkompliziert, vertraut und international verständlich.",
+    "In Deutschland eher klassisch als trendig, daher mit etwas Retro-Charakter.",
+    "Die Schreibweise ist sehr bekannt und leicht zu merken.",
+    "Wegen der englischen Form kann der Name je nach Umfeld als internationaler oder traditionell-deutscher Name gelesen werden."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz zur öffentlichen Wahrnehmung ist begrenzt und stammt vor allem aus Namenslexika, nicht aus breiter Meinungsforschung.",
+    "Einzelne Popkultur-Bezüge können die Wahrnehmung mitprägen, sind aber keine allgemeine Eigenschaft des Namens.",
+    "Keine belastbare Stigmatisierung erkennbar; wenn überhaupt, steht eher die historische als die soziale Einordnung im Vordergrund."
+  ],
+  "short_summary": "Harry wird in Deutschland überwiegend als klassischer, eher historisch geprägter Vorname wahrgenommen: bekannt, neutral und etwas nostalgisch, heute eher seltener als früher.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.99,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Harry � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/H/Ha/Harry/"
+    },
+    {
+      "confidence": 0.94,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Harry: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Harry.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "traditionsnah",
+    "kurz und eingängig",
+    "international anschlussfähig",
+    "leicht nostalgisch",
+    "namenskundlich klar lesbar"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Gut erkennbar und als Vorname klar etabliert, in Deutschland heute eher seltener als früher. Die Sichtbarkeit ist daher vorhanden, aber nicht dominant."
+}

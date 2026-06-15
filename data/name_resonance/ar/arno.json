@@ -1,0 +1,62 @@
+{
+  "associations": [
+    "Kurzform von Arnold oder anderen Arn-Formen",
+    "althochdeutsche Herkunft",
+    "Bedeutung im Umfeld von „Adler“ und „Herrscher“",
+    "Namenstag",
+    "historisch/mittelalterlich",
+    "klassischer deutscher Jungenname"
+  ],
+  "confidence": 0.91,
+  "display_text": "Arno wird in Deutschland meist als klassischer, kurzer und traditionsnaher Jungenname wahrgenommen. Der Name wirkt sachlich, zeitlos und eher seriös; die Quellen verbinden ihn vor allem mit althochdeutscher Herkunft, der Bedeutung rund um „Adler/Herrscher“ und einer klaren, unaufgeregten Namenswirkung.",
+  "evidence_quality": "mittel bis gut; die Quellen sprechen direkt über den Namen, sind aber vor allem lexikalisch-informativ und nur begrenzt meinungsdiskursiv.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Arno",
+  "normalized_name": "arno",
+  "overall_resonance": "Arno wirkt in der öffentlichen Namenswahrnehmung eher klassisch, traditionsnah und sachlich positiv. Der Name wird meist mit alter deutscher Herkunft, kurzer Form und der Bedeutung rund um „Adler“ bzw. „Herrscher“ verbunden. Insgesamt eher unaufgeregt und seriös als modern-experimentell.",
+  "practical_notes": [
+    "Gut geeignet, wenn ein kurzer, klarer und traditionell wirkender Name gesucht wird.",
+    "Wirkt eher seriös und zeitlos als verspielt oder modern.",
+    "Die Aussprache und Schreibweise sind unkompliziert.",
+    "Im Alltag dürfte der Name vor allem durch seine Kürze und klassische Anmutung auffallen."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt überwiegend aus Namenslexika und ist daher eher beschreibend als diskursiv.",
+    "Es gibt keine belastbaren Hinweise auf gesellschaftliche Stigmatisierung; der Name wirkt in den Quellen eher neutral bis leicht positiv.",
+    "Aussagen zur Beliebtheit sollten vorsichtig gelesen werden, da sie aus Informationsseiten und nicht aus breiter öffentlicher Meinungsforschung stammen."
+  ],
+  "short_summary": "Arno wird öffentlich meist als kurzer, klassischer und traditionsnaher Jungenname mit althochdeutscher Herkunft wahrgenommen.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Arno � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/A/Ar/Arno/"
+    },
+    {
+      "confidence": 0.95,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Arno: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Arno.html"
+    }
+  ],
+  "style_effect": [
+    "kurz und markant",
+    "klassisch-traditionell",
+    "historisch verankert",
+    "sachlich und bodenständig",
+    "eher zeitlos als modisch",
+    "männlich und klar lesbar"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Der Vorname ist in Deutschland bekannt, aber nicht auffällig trendig. Die öffentliche Sichtbarkeit entsteht vor allem über Namenslexika, Herkunftsangaben und historische Einordnung, weniger über starke Popkultur- oder Trendbezüge."
+}

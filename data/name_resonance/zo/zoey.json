@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "altgriechische Herkunft",
+    "Bedeutung: Leben",
+    "Variante bzw. englisch/amerikanische Form von Zoe",
+    "moderne Schreibweise",
+    "Beliebtheit in Deutschland",
+    "Namenslexikon- und Trendkontext"
+  ],
+  "confidence": 0.88,
+  "display_text": "Zoey wirkt in Deutschland modern, freundlich und international. Die verfügbaren Namensquellen ordnen den Namen meist positiv ein und verknüpfen ihn mit der Bedeutung „Leben“ sowie einer altgriechischen Herkunft. Insgesamt ist die öffentliche Resonanz eher trendig als traditionell; belastbare Hinweise auf negative Stigmatisierung zeigen die Quellen nicht.",
+  "evidence_quality": "gut, aber quellenarm; direkt namenskundliche und überwiegend konsistente Web-Evidenz",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Zoey",
+  "normalized_name": "zoey",
+  "overall_resonance": "Überwiegend modern, freundlich und positiv besetzt. Zoey wirkt im deutschsprachigen Raum wie ein zeitgemäßer, international klingender Mädchenname, der vor allem durch seine moderne Schreibweise auffällt.",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt Zoey leicht zugänglich und gut merkbar.",
+    "Die Schreibweise kann als modern und international wahrgenommen werden.",
+    "Wer eine klassischere Wirkung bevorzugt, könnte die Variante Zoe als schlichtere Form empfinden."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist insgesamt stark, aber weitgehend auf zwei Namenslexikon-Seiten begrenzt.",
+    "Einzelne Seiten können SEO- oder redaktionell geprägte Bewertungen enthalten.",
+    "Keine belastbaren Hinweise auf soziale Stigmatisierung in der vorliegenden Evidenz."
+  ],
+  "short_summary": "Zoey wird öffentlich meist als moderner, freundlicher und international wirkender Vorname wahrgenommen, mit positiver Grundtönung und Bezug zu Zoe.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Zoey � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/Z/Zo/Zoey/"
+    },
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "positive",
+      "source_type": "web",
+      "title": "&#9655; Vorname Zoey: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Zoey.html"
+    }
+  ],
+  "style_effect": [
+    "modern",
+    "international",
+    "weich im Klang",
+    "jugendlich",
+    "trendbetont",
+    "kurz und eingängig"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland sichtbar, aber eher als moderner Trendname denn als traditioneller Klassiker. Die öffentliche Rezeption in den vorliegenden Namensquellen ist klar präsent, insgesamt jedoch auf wenige Lexikonseiten gestützt."
+}

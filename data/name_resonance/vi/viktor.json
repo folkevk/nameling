@@ -1,0 +1,62 @@
+{
+  "associations": [
+    "lateinische Herkunft",
+    "Bedeutung: der Sieger / der Siegreiche",
+    "klassischer Vorname",
+    "lange Tradition",
+    "historisch verbreitet",
+    "deutsche Schreibweise mit k",
+    "Namenstag",
+    "teils osteuropäisch oder skandinavisch mitgedacht"
+  ],
+  "confidence": 0.83,
+  "display_text": "Viktor wirkt in Deutschland überwiegend klassisch, sachlich und leicht positiv. Der Name wird meist mit „der Sieger“, lateinischer Herkunft und langer Tradition verbunden. Die Evidenz ist eher namenkundlich als breit öffentlich, daher ist die Resonanz vorsichtig als etabliert und zeitlos einzuordnen.",
+  "evidence_quality": "mittel: zwei klare Namensquellen, überwiegend sachlich-informativ, aber nur begrenzte öffentliche Breite sichtbar",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Viktor",
+  "normalized_name": "viktor",
+  "overall_resonance": "Überwiegend sachlich bis leicht positiv. Viktor wird in Deutschland vor allem als klassischer, traditioneller Vorname mit der Bedeutung „der Sieger“ wahrgenommen. Die öffentliche Rezeption wirkt eher namenkundlich-informativ als emotional aufgeladen.",
+  "practical_notes": [
+    "Für deutschsprachige Nutzer wirkt Viktor meist vertraut, seriös und gut einordenbar.",
+    "Die Schreibweise mit k wird im Deutschen klar als Standardform wahrgenommen.",
+    "Der Name eignet sich gut, wenn ein klassischer und zugleich markanter Klang gesucht wird."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist begrenzt und stammt fast nur aus Namenslexika, daher nur vorsichtige Aussagen zur öffentlichen Resonanz.",
+    "Die Einschätzung 'eher selten' ist quellenabhängig und sollte nicht als allgemeingültig verstanden werden."
+  ],
+  "short_summary": "Viktor wird in Deutschland überwiegend als klassischer, traditioneller und leicht positiv konnotierter Vorname wahrgenommen. Die Quellen betonen vor allem Bedeutung, Herkunft und historische Einordnung; belastbare Hinweise auf breitere öffentliche Meinungen sind jedoch nur begrenzt vorhanden.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Viktor � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/V/Vi/Viktor/"
+    },
+    {
+      "confidence": 0.94,
+      "is_name_discussion": true,
+      "sentiment": "neutral bis leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Viktor: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Viktor.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "traditionell",
+    "sachlich",
+    "eher zeitlos",
+    "leicht kraftvoll",
+    "namenkundlich etabliert"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Mittlere Sichtbarkeit: Der Name ist bekannt und etabliert, wirkt aber nicht extrem häufig. In den Quellen wird er teils als historisch verbreitet und teils als eher seltener in Deutschland beschrieben."
+}

@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "Kurzform von Elisabeth",
+    "hebräische Herkunft",
+    "Bedeutungen aus der Namenslexikografie",
+    "historisch bereits beliebt",
+    "Namenstag-Tradition",
+    "\"Die Eiskönigin\" als moderner Bekanntheitsfaktor"
+  ],
+  "confidence": 0.9,
+  "display_text": "Elsa: in Deutschland überwiegend neutral bis leicht positiv wahrgenommen – klassisch, kurz und gut bekannt, mit historischer Tradition und moderner Popkultur-Assoziation.",
+  "evidence_quality": "mittel bis gut: zwei inhaltlich passende Namensquellen, aber überwiegend lexikalische und nicht meinungsdiskursive Evidenz.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Elsa",
+  "normalized_name": "elsa",
+  "overall_resonance": "Elsa wirkt in der vorliegenden deutschen Evidenz überwiegend neutral bis leicht positiv. Der Name wird vor allem informativ über Herkunft, Bedeutung, Namenstage und Beliebtheit beschrieben; positiv verstärkt wird die Wahrnehmung durch seine historische Bekanntheit und den Popkultur-Bezug zur Eiskönigin.",
+  "practical_notes": [
+    "Für die Namenssuche wirkt Elsa vertraut, unkompliziert und kulturell gut verankert.",
+    "Der Name ist kurz, international verständlich und im deutschen Kontext klar einordenbar.",
+    "Wer eine sehr nüchterne Wahrnehmung sucht, sollte beachten, dass der Disney-Bezug in der Öffentlichkeit mitschwingen kann."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt nur aus Namenslexika und ist eher beschreibend als diskursiv.",
+    "Es liegen keine belastbaren Hinweise auf eine soziale Stigmatisierung oder negative öffentliche Resonanz vor.",
+    "Die Popkultur-Assoziation kann die Wahrnehmung prägen, ist aber keine Aussage über den Namen an sich."
+  ],
+  "short_summary": "Elsa wird in Deutschland vor allem als klassischer, gut bekannter Mädchenname mit leicht positiver, zeitloser Wirkung wahrgenommen; die öffentliche Sichtbarkeit wurde durch die Eiskönigin zusätzlich erhöht.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.89,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "Vorname Elsa � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/E/El/Elsa/"
+    },
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Elsa: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Elsa.html"
+    }
+  ],
+  "style_effect": [
+    "kurz und klar",
+    "klassisch-traditionell",
+    "elegant und zeitlos",
+    "kulturell wiedererkennbar",
+    "leicht popkulturell aufgeladen"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Im deutschen Sprachraum gut bekannt und leicht wiedererkennbar; die Quellen deuten auf eine anhaltende öffentliche Sichtbarkeit hin, besonders seit dem Popkultur-Schub durch \"Die Eiskönigin\"."
+}

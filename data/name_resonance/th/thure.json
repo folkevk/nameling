@@ -1,0 +1,59 @@
+{
+  "associations": [
+    "altnordische Herkunft",
+    "Bezug zu Thor/Donner",
+    "skandinavische Kurzform",
+    "männlicher Vorname mit kräftigem Klang",
+    "selten in Deutschland"
+  ],
+  "confidence": 0.87,
+  "display_text": "Thure: überwiegend sachlich-neutrale bis leicht positive Resonanz. Der Name gilt als seltener, nordisch geprägter Vorname mit klarem, markantem Klang. Die vorliegende Evidenz ist solide für Herkunft und Bedeutung, aber eher schwach für eine breite öffentliche Debatte.",
+  "evidence_quality": "Gut für Herkunft, Bedeutung und Einordnung; schwächer für echte öffentliche Breitenresonanz, da kaum unabhängige oder kontroverse Quellen vorliegen.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Thure",
+  "normalized_name": "thure",
+  "overall_resonance": "Überwiegend sachlich-neutrale bis leicht positive Resonanz; der Name wird vor allem als skandinavisch/nordisch und klangstark wahrgenommen, ohne breite öffentliche Kontroverse.",
+  "practical_notes": [
+    "Für Namenssuchende wirkt Thure eher vertraut-nordisch als exzentrisch.",
+    "Die öffentliche Resonanz erscheint eher ruhig und informativ als emotional aufgeladen.",
+    "Wegen der Seltenheit kann der Name als markant wahrgenommen werden, ohne schwer verständlich zu sein."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenzlage ist einseitig und stützt sich vor allem auf Namenslexika statt auf breite öffentliche Debatten.",
+    "Seltenheit kann als positiv-eigenständig oder als ungewohnt wahrgenommen werden; das hängt stark vom persönlichen Kontext ab.",
+    "Keine belastbaren Hinweise auf negative gesellschaftliche Stigmatisierung in den vorliegenden Quellen."
+  ],
+  "short_summary": "Thure wird überwiegend neutral bis leicht positiv als seltener, nordisch geprägter Vorname mit kräftigem Klang wahrgenommen.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Thure � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/T/Th/Thure/"
+    },
+    {
+      "confidence": 0.84,
+      "is_name_discussion": true,
+      "sentiment": "eher neutral bis leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Thure: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Thure.html"
+    }
+  ],
+  "style_effect": [
+    "nordisch",
+    "kurz und markant",
+    "eher traditionell als modern",
+    "lexikalisch klar",
+    "selten und eigenständig"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland eher selten und dadurch auffällig, aber nicht stark verbreitet in der öffentlichen Wahrnehmung."
+}

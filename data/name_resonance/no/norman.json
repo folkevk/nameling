@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "Bedeutung wird meist mit „Mann aus dem Norden“ bzw. „Normanne“ verbunden",
+    "Herkunft wird als althochdeutsch bzw. historisch-nordisch beschrieben",
+    "Assoziation mit Normannen/Wikingern bzw. der Normandie",
+    "im deutschsprachigen Raum eher selten, aber bekannt",
+    "wirkt oft klar, unkompliziert und international anschlussfähig"
+  ],
+  "confidence": 0.82,
+  "display_text": "Norman wirkt in Deutschland eher neutral bis leicht positiv: klassisch, international verständlich und eher selten. Die vorliegende Evidenz stammt vor allem aus Namenslexika, daher ist die Aussage zur öffentlichen Resonanz nur vorsichtig zu bewerten.",
+  "evidence_quality": "mittel bis schwach für öffentliche Resonanz; stark für lexikalische Namensbeschreibung",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Norman",
+  "normalized_name": "norman",
+  "overall_resonance": "In Deutschland wirkt Norman insgesamt eher neutral bis leicht positiv: der Name wird vor allem sachlich als klassischer, international gut verständlicher Vorname wahrgenommen, allerdings ohne starke aktuelle Sichtbarkeit.",
+  "practical_notes": [
+    "Für Suchmaschinen eignet sich eine kurze Einordnung als klassisch, international und eher selten.",
+    "Der Name hat eine klare, leicht verständliche Bedeutung und ist im Deutschen gut aussprechbar.",
+    "Wenn eine besonders starke Trend- oder Beliebtheitswirkung gesucht wird, bietet die Evidenz dafür wenig Grundlage."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz für öffentliche Resonanz ist schwach, da sie überwiegend aus Namensdatenbanken stammt und nicht aus breiter Diskussion.",
+    "Mögliche historische oder nordisch-wikingerbezogene Assoziationen sind kulturelle Deutungen und keine festen Eigenschaften des Namens.",
+    "Keine belastbaren Hinweise auf soziale Stigmatisierung in der vorliegenden Evidenz."
+  ],
+  "short_summary": "Norman wird in Deutschland vor allem neutral bis leicht positiv wahrgenommen: klassisch, international und eher selten, aber mit nur begrenzter öffentlicher Resonanz-Evidenz.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Norman � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/N/No/Norman/"
+    },
+    {
+      "confidence": 0.94,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Norman: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Norman.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "international",
+    "nordisch-historisch",
+    "sachlich",
+    "eher selten",
+    "zeitlos"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Eher gering bis mittel. Die Evidenz stammt vor allem aus Namenslexika und weniger aus öffentlicher Diskussion; daher ist die Aussagekraft für die tatsächliche Alltagsresonanz begrenzt."
+}

@@ -1,0 +1,63 @@
+{
+  "associations": [
+    "Kurzform von Markus",
+    "lateinischer Ursprung",
+    "Bedeutung: „dem Mars geweiht“",
+    "klassischer Jungenname",
+    "ehemals beliebter Name in Deutschland",
+    "heute seltener als die Schreibweise Marc",
+    "teilweise als vertraut und unkompliziert beschrieben"
+  ],
+  "confidence": 0.84,
+  "display_text": "Mark: überwiegend positiv-sachlich wahrgenommen. Der Name gilt als klassisch, kurz und international verständlich; in Deutschland bekannt, heute aber eher seltener als Marc. Die Evidenz ist solide, stammt jedoch vor allem aus Namenslexika und wenigen Kommentaren.",
+  "evidence_quality": "mittel bis gut: zwei namenskundliche Webquellen mit direkter Namensbeschreibung, aber nur begrenzte öffentliche Resonanzdaten",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Mark",
+  "normalized_name": "mark",
+  "overall_resonance": "Überwiegend positiv bis neutral-sachlich. Der Name wirkt im deutschsprachigen Raum als klassischer, klarer Jungenname mit eher vertrauter, aber heute etwas weniger häufiger Präsenz.",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt Mark klar, bekannt und unkompliziert.",
+    "Die Schreibweise ist kurz und international gut lesbar.",
+    "Im Vergleich zu Marc erscheint Mark in den Quellen etwas klassischer und seltener.",
+    "Die öffentliche Rezeption ist eher unaufgeregt als trendig."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz basiert vor allem auf Namenslexikon-Seiten und wenigen Kommentaren.",
+    "Es gibt keine belastbare öffentliche Diskussionslage in den Quellen; die Bewertung ist daher vorsichtig zu lesen.",
+    "Positive Eindrücke sind eher redaktionell bzw. vereinzelt kommentierend und nicht repräsentativ für die Gesamtbevölkerung."
+  ],
+  "short_summary": "Mark wird in Deutschland überwiegend als klassischer, klarer und eher zeitloser Jungenname wahrgenommen – sachlich positiv, ohne starke Trend- oder Stigmaeffekte.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.94,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "Vorname Mark � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/M/Ma/Mark/"
+    },
+    {
+      "confidence": 0.9,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Mark: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Mark.html"
+    }
+  ],
+  "style_effect": [
+    "kurz und prägnant",
+    "klassisch",
+    "zeitlos",
+    "sachlich",
+    "international verständlich",
+    "eher nüchtern als verspielt"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Mittel: bekannt und verständlich, aber nicht mehr besonders häufig. In Deutschland wird Mark oft als klassische, eher zurückhaltende Wahl wahrgenommen."
+}

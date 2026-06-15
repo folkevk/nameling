@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "Koseform von Emma",
+    "Kurzform von Emily",
+    "germanisch/althochdeutsch eingeordnet",
+    "Bedeutungsdeutungen wie „allumfassend“ oder „groß/gewaltig“",
+    "Namenstag wird in den Quellen genannt",
+    "wiederentdeckter Name in Deutschland"
+  ],
+  "confidence": 0.84,
+  "display_text": "Emmy wirkt in den vorliegenden Namensquellen freundlich, klassisch und zugleich wiederentdeckt. Der Name wird meist als Kose- oder Kurzform von Emma bzw. Emily eingeordnet und eher positiv wahrgenommen. Die Evidenz ist allerdings begrenzt und stammt fast nur aus Namenslexika, daher ist die öffentliche Resonanz nur vorsichtig zu bewerten.",
+  "evidence_quality": "mittel bis schwach: inhaltlich klare Namensdiskussion, aber überwiegend nur zwei quellengebundene Namenslexika ohne breite öffentliche Debattenbasis.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Emmy",
+  "normalized_name": "emmy",
+  "overall_resonance": "Überwiegend positiv und wertschätzend, mit einem eher klassischen bis wiederentdeckten Eindruck. In den vorliegenden Namensquellen wird Emmy als vertraut, freundlich und traditionell verortet.",
+  "practical_notes": [
+    "Für Suchmaschinen-Nutzer wirkt Emmy als kurzer, freundlicher und gut merkbarer Mädchenname.",
+    "Wer einen vertrauten, aber nicht übermäßig häufigen Namen sucht, findet hier eine plausible Option.",
+    "Die Schreibweise ist einfach, die Nähe zu Emma/Emily kann die Einordnung erleichtern.",
+    "Aufgrund der begrenzten Evidenz sollte die öffentliche Resonanz vorsichtig interpretiert werden."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt fast nur aus Namenslexika und Namensdatenbanken; das ist keine breite Alltagsresonanz.",
+    "Positive Tendenzen in den Quellen sollten nicht mit allgemeiner gesellschaftlicher Zustimmung verwechselt werden.",
+    "Einzelne Formulierungen zu Beliebtheit sind quellenabhängig und nicht unabhängig verifiziert."
+  ],
+  "short_summary": "Emmy wird in den vorliegenden Quellen überwiegend positiv, freundlich und traditionell-wiederentdeckt dargestellt; die Datenbasis ist jedoch schmal und vor allem lexikalisch.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "positive",
+      "source_type": "web",
+      "title": "Vorname Emmy � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/E/Em/Emmy/"
+    },
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Emmy: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Emmy.html"
+    }
+  ],
+  "style_effect": [
+    "weiblich und weich im Klang",
+    "kurz, modern wirkend, zugleich traditionell anschlussfähig",
+    "als Koseform/Kurzform von Emma oder Emily lesbar",
+    "namenskundlich aufgeladen durch Herkunfts- und Bedeutungsdeutungen",
+    "eher sympathisch und unaufdringlich als markant-exzentrisch"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Die öffentliche Sichtbarkeit wirkt in Deutschland vorhanden, aber eher als bekannter Kurz- und Koseformname als als sehr verbreiteter Hauptname. Die Evidenzlage ist jedoch begrenzt und stark quellengebunden."
+}

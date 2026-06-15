@@ -1,0 +1,63 @@
+{
+  "associations": [
+    "Kurzform von Friedrich",
+    "althochdeutsche Herkunft",
+    "„der Friedensreiche“",
+    "„Schutz und Macht“",
+    "„der mächtige Beschützer“",
+    "historisch häufig",
+    "Namenstag",
+    "wieder im Trend"
+  ],
+  "confidence": 0.9,
+  "display_text": "Fritz wird in Deutschland meist als klassischer, kurzer und traditioneller Vorname wahrgenommen. Die Resonanz ist überwiegend neutral bis positiv; der Name wirkt vertraut, bodenständig und historisch verankert. Die Evidenz stammt jedoch vor allem aus Namenslexika, daher ist die Aussage zur breiten öffentlichen Resonanz vorsichtig zu lesen.",
+  "evidence_quality": "mittel bis gut: klare Namensquellen, aber begrenzte Aussagekraft für echte öffentliche Resonanz außerhalb von Lexikontexten.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Fritz",
+  "normalized_name": "fritz",
+  "overall_resonance": "Fritz wird im deutschsprachigen Raum überwiegend als klassischer, traditioneller und klar deutsch geprägter Vorname wahrgenommen. Die verfügbare Evidenz beschreibt den Namen eher informativ als kontrovers; insgesamt wirkt die Resonanz freundlich bis neutral mit leicht positiver Tönung.",
+  "practical_notes": [
+    "Für eine Suchmaschine lässt sich Fritz am ehesten als kurzer, traditioneller Jungenname mit starker deutscher Namenskultur zusammenfassen.",
+    "Die öffentliche Rezeption wirkt eher sachlich-positiv als emotional aufgeladen.",
+    "Wenn gewünscht, kann die Kurzform als Hinweis auf Friedrich mitgeführt werden."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt vor allem aus Namenslexika und ist daher nur eingeschränkt als Maß für breite öffentliche Wahrnehmung geeignet.",
+    "Kein klarer Hinweis auf negative Stigmatisierung oder gesellschaftliche Abwertung in der vorliegenden Evidenz.",
+    "Einzelne Bedeutungsangaben variieren je nach Quelle, ohne den Gesamteindruck wesentlich zu verändern."
+  ],
+  "short_summary": "Fritz gilt als klassischer, traditioneller und deutsch geprägter Vorname mit überwiegend positiver, sachlicher Wahrnehmung. Die Evidenz ist klar, aber vor allem lexikalisch.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Fritz � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/F/Fr/Fritz/"
+    },
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Fritz: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Fritz.html"
+    }
+  ],
+  "style_effect": [
+    "kurz und prägnant",
+    "klassisch-traditionell",
+    "altdeutsch/deutsch klingend",
+    "vertraut und bodenständig",
+    "namenskundlich aufgeladen",
+    "eher zeitlos als modisch"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland gut bekannt und historisch etabliert, aktuell eher als kurzer, markanter Traditionsname präsent. Die öffentliche Sichtbarkeit ergibt sich vor allem aus Namenslexika und Bedeutungstexten; belastbare Hinweise auf breite Alltagsresonanz sind nur begrenzt vorhanden."
+}

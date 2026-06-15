@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "spanische Form von Paul",
+    "lateinischer Ursprung: paulus",
+    "Bedeutung: der Kleine / der Jüngere",
+    "Pablo Picasso als bekannter Namensbezug",
+    "internationaler männlicher Vorname",
+    "Namenstag und Kurzformen werden genannt"
+  ],
+  "confidence": 0.84,
+  "display_text": "Pablo wirkt in Deutschland überwiegend positiv: ein internationaler, spanisch geprägter Vorname mit klarer Herkunft und angenehmem Klang. Die vorhandenen Quellen sind jedoch vor allem Namenslexika, daher ist die öffentliche Resonanz eher vorsichtig als breit abgesichert.",
+  "evidence_quality": "Begrenzt, da die Quellen überwiegend lexikalisch und nicht diskussionsbasiert sind; die Tendenz ist trotzdem recht konsistent positiv.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Pablo",
+  "normalized_name": "pablo",
+  "overall_resonance": "Pablo wird in den vorliegenden Quellen überwiegend positiv und wertschätzend beschrieben, vor allem als internationaler, klangvoller und gut einordenbarer Vorname mit klarer Herkunft. Die öffentliche Resonanz wirkt eher informativ als kontrovers.",
+  "practical_notes": [
+    "Für Suchmaschinen wirkt der Name meist klar, freundlich und leicht einzuordnen.",
+    "In Deutschland erscheint Pablo als etablierter, aber nicht überdominanter Vorname.",
+    "Die Wahrnehmung ist eher durch Herkunft und Klang geprägt als durch kontroverse Bedeutungen."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist schwach bis moderat und basiert vor allem auf redaktionellen Namenslexikon-Seiten.",
+    "Es handelt sich nicht um eine breite öffentliche Meinungsbildung, sondern um beschreibende Quellen.",
+    "Mögliche positive kulturelle Assoziationen sind kontextabhängig und nicht als allgemeingültig zu verstehen."
+  ],
+  "short_summary": "Pablo wird in den verfügbaren Namensquellen überwiegend positiv, international und klangvoll wahrgenommen; die Evidenz ist jedoch eher lexikalisch als breit öffentlich.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "Vorname Pablo � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/P/Pa/Pablo/"
+    },
+    {
+      "confidence": 0.9,
+      "is_name_discussion": true,
+      "sentiment": "mostly positive",
+      "source_type": "web",
+      "title": "&#9655; Vorname Pablo: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Pablo.html"
+    }
+  ],
+  "style_effect": [
+    "international",
+    "spanisch geprägt",
+    "kurz und markant",
+    "kulturell anschlussfähig",
+    "namenskundlich aufgeladen"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Eher gut sichtbar in Namenslexika und Vorname-Portalen, aber nicht stark durch breite öffentliche Debatten getragen."
+}

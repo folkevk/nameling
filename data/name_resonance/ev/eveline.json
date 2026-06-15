@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "weiblicher Vorname",
+    "altgermanische bzw. altfranzösische Herkunftsdeutungen",
+    "mögliche Verbindung zu Evelyn",
+    "Bedeutungsangaben wie „die Gewünschte“ oder vogelbezogene Deutungen",
+    "Namenstag",
+    "seltene Namensnutzung in Deutschland"
+  ],
+  "confidence": 0.81,
+  "display_text": "Eveline wirkt in den vorliegenden Quellen überwiegend neutral bis leicht positiv: klassisch, eher selten und sprachlich elegant. Die Aussagen beruhen aber nur auf wenigen namenkundlichen Quellen, und die Bedeutungsangaben sind teils unsicher.",
+  "evidence_quality": "mittel bis schwach: zwei Quellen, überwiegend informativ-lexikalisch, kaum echte öffentliche Debatte, teils unsichere Bedeutungsangaben.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Eveline",
+  "normalized_name": "eveline",
+  "overall_resonance": "Eveline wird in den vorliegenden Quellen überwiegend neutral bis leicht positiv wahrgenommen. Der Name wirkt sachlich bekannt, eher klassisch und namenkundlich interessant, ohne starke polarisierende öffentliche Debatte. Die Rezeption stützt sich jedoch nur auf wenige Webquellen, daher ist die Aussagekraft begrenzt.",
+  "practical_notes": [
+    "Für Suchmaschinen eignet sich Eveline als klassisch-eleganter, eher seltener Mädchenname.",
+    "Die Wahrnehmung ist insgesamt unauffällig und wenig konfliktgeladen.",
+    "Je nach Kontext kann der Name als Variante zu Evelyn verstanden werden."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz basiert nur auf zwei namenkundlichen Webquellen.",
+    "Die Bedeutungen sind nicht eindeutig gesichert und teils ausdrücklich unsicher.",
+    "Es gibt keine breite öffentliche Diskussion, daher sollte die Wirkung nicht verallgemeinert werden."
+  ],
+  "short_summary": "Eveline wird in den Quellen sachlich und leicht positiv beschrieben: klassisch, eher selten und namenkundlich interessant. Die Belege sind jedoch begrenzt und die Bedeutungsdeutung nicht ganz sicher.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.95,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Eveline � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/E/Ev/Eveline/"
+    },
+    {
+      "confidence": 0.92,
+      "is_name_discussion": true,
+      "sentiment": "neutral bis leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Eveline: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Eveline.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "eher weich im Klang",
+    "sprachlich elegant",
+    "namentlich traditionell",
+    "leicht international wirkend",
+    "seltenheitsbedingt individuell"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Im deutschen Raum scheint Eveline eher selten bis mäßig bekannt zu sein. In den Quellen wird der Name vor allem lexikalisch und statistisch behandelt, weniger als breit diskutierter Trendname."
+}

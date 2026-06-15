@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "hebräischer/biblischer Vorname",
+    "Bedeutung rund um 'die Jüdin' bzw. 'aus Judäa stammend'",
+    "lange Nutzung in Deutschland",
+    "ehemals populärer, heute seltenerer Name",
+    "Namenstag",
+    "traditionelle, bekannte Namensform"
+  ],
+  "confidence": 0.89,
+  "display_text": "Judith gilt in Deutschland als klassischer, biblisch-hebräischer Vorname mit traditioneller, eher positiv-neutraler Resonanz. Der Name wirkt vertraut und zeitlos, ist heute aber eher seltener als in früheren Jahrzehnten.",
+  "evidence_quality": "mittel bis gut: zwei direkte Namensquellen mit überwiegend sachlich-beschreibender, teils positiv konnotierter Darstellung; die Evidenz ist klar name-bezogen, aber nicht repräsentativ für die Gesamtbevölkerung.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Judith",
+  "normalized_name": "judith",
+  "overall_resonance": "Judith wirkt in der öffentlichen Namenswahrnehmung überwiegend klassisch, vertraut und eher positiv bis neutral. Der Name ist klar biblisch/hebräisch geprägt und wird oft mit Tradition, Historie und einer gewissen zeitlosen Seriosität verbunden.",
+  "practical_notes": [
+    "Für Suchmaschinen und Namensportale ist Judith ein gut einordbarer, historisch verankerter Vorname.",
+    "Der Name wirkt in Deutschland eher klassisch als modisch und ist daher für Menschen attraktiv, die vertraute Tradition schätzen.",
+    "Kurzformen wie Judy, Judi oder Jutta werden in einigen Quellen genannt, sind aber nicht Teil der öffentlichen Hauptwahrnehmung."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Bedeutungsableitungen sind kultur- und quellenabhängig und sollten nicht als eindeutige Charakterbeschreibung verstanden werden.",
+    "Einzelne Quellen enthalten auch Nutzerkommentare; diese sind nur eingeschränkt verallgemeinerbar.",
+    "Religiöse und ethnonymische Bezüge gehören zur Namensgeschichte, sagen aber nichts über heutige Trägerinnen aus."
+  ],
+  "short_summary": "Judith wird öffentlich meist als klassischer, biblisch-hebräischer Vorname wahrgenommen: bekannt, traditionell und eher zeitlos, heute aber weniger häufig als früher.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Judith � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/J/Ju/Judith/"
+    },
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "eher positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Judith: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Judith.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "traditionell",
+    "biblisch",
+    "zeitlos",
+    "sachlich-elegant",
+    "historisch geprägt"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland bekannt, aber heute eher seltener als in früheren Generationen. Die öffentliche Sichtbarkeit ist vor allem durch namenskundliche und lexikalische Einträge geprägt, nicht durch starke aktuelle Trend-Dynamik."
+}

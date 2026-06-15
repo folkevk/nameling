@@ -1,0 +1,57 @@
+{
+  "associations": [
+    "Bedeutung wird meist als „die Friedliche“ bzw. „die Friedensreiche“ beschrieben",
+    "althochdeutsche und altnordische Bezüge",
+    "Kurzform-/Verwandtschaft zu Friederike und Friedrich",
+    "Namenstag am 19. Oktober",
+    "wird als aktuell beliebt bzw. wieder häufiger vergeben beschrieben"
+  ],
+  "confidence": 0.95,
+  "display_text": "Frida klingt in Deutschland überwiegend positiv: freundlich, klar und modern, zugleich mit traditioneller Herkunft. Der Name wird als aktuell beliebt beschrieben und mit einer friedlichen Bedeutung verbunden.",
+  "evidence_quality": "Hoch: Beide Quellen sind klar namensbezogen, liefern Bedeutung, Herkunft und aktuelle Einordnung; die Evidenz ist überwiegend lexikalisch und positiv.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Frida",
+  "normalized_name": "frida",
+  "overall_resonance": "Überwiegend positiv und modern-traditionell wahrgenommen.",
+  "practical_notes": [
+    "Gut merkbar und leicht aussprechbar.",
+    "Wirkt zugleich klassisch und zeitgemäß.",
+    "Für die Suche hilfreich: Frida ist eine geläufige Schreibweise, aber die Nähe zu Frieda kann relevant sein."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Es gibt Hinweise auf gelegentliche Verwechslungen bzw. Falschschreibung mit „Frieda“.",
+    "Beliebtheitsaussagen sind zeit- und quellenabhängig; sie sollten als Momentaufnahme gelesen werden."
+  ],
+  "short_summary": "Frida wird in Deutschland überwiegend positiv, freundlich und aktuell beliebt wahrgenommen. Der Name wirkt kurz, klar und modern, mit traditioneller Herkunft und friedlicher Bedeutung.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "Vorname Frida � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/F/Fr/Frida/"
+    },
+    {
+      "confidence": 0.94,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Frida: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Frida.html"
+    }
+  ],
+  "style_effect": [
+    "weich und freundlich im Klang",
+    "kurz, klar und eingängig",
+    "traditionell verwurzelt, aber derzeit modern anschlussfähig",
+    "skandinavisch anmutend, ohne fremd zu wirken"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland aktuell gut sichtbar und laut den Quellen recht beliebt; der Name ist im Namenmarkt präsent."
+}

@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "Kurzform von Nikolaus",
+    "Bedeutung: „Sieg des Volkes“",
+    "niederdeutsche bzw. niederländische Form von Klaus",
+    "männlicher Vorname",
+    "Namenstag am 6. Dezember"
+  ],
+  "confidence": 0.83,
+  "display_text": "Klaas wirkt in der öffentlichen Wahrnehmung überwiegend neutral bis leicht positiv. Der Name wird meist als norddeutsch bzw. niederländisch geprägte Kurzform von Nikolaus eingeordnet und mit der Bedeutung „Sieg des Volkes“ verbunden. Insgesamt ist die Evidenz eher schmal und stammt vor allem aus Namenslexika; eine breite öffentliche Debatte ist nicht erkennbar.",
+  "evidence_quality": "mittel bis schwach; überwiegend lexikalische Webquellen, geringe öffentliche Breite",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Klaas",
+  "normalized_name": "klaas",
+  "overall_resonance": "überwiegend neutral bis leicht positiv",
+  "practical_notes": [
+    "Für viele wirkt der Name vertraut, aber nicht alltäglich.",
+    "Die kurze, klare Form kann als traditionell und bodenständig wahrgenommen werden.",
+    "In Deutschland ist die norddeutsche/niederländische Prägung für die Einordnung wichtig.",
+    "Als Suchname ist Klaas gut erklärbar und etymologisch eindeutig."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist schwach, da sie fast nur aus Namenslexika und Infoseiten stammt.",
+    "Es gibt keine belastbare breite öffentliche Debatte; die Wahrnehmung basiert vor allem auf sachlichen Namensbeschreibungen.",
+    "Positive Konnotationen stammen vor allem aus Herkunft und Bedeutung, nicht aus vielen unabhängigen Meinungen."
+  ],
+  "short_summary": "Klaas wird in den verfügbaren Quellen vor allem sachlich beschrieben: als niederdeutsche bzw. niederländische Kurzform von Nikolaus mit der Bedeutung „Sieg des Volkes“. Die öffentliche Resonanz wirkt insgesamt neutral bis leicht positiv, allerdings auf schmaler Evidenzbasis.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Klaas � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/K/Kl/Klaas/"
+    },
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Klaas: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Klaas.html"
+    }
+  ],
+  "style_effect": [
+    "norddeutsch",
+    "niederländisch geprägt",
+    "traditionell",
+    "kurz und markant",
+    "namenskundlich klar einordenbar"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "eher gering bis mittel; vor allem in Namenslexika und Infoseiten präsent"
+}

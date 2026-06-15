@@ -1,0 +1,62 @@
+{
+  "associations": [
+    "orangerote Erde",
+    "Stadt Siena",
+    "italienisch/romanischer Klang",
+    "Farbassoziation Rot-Orange",
+    "Mädchenvorname",
+    "selten, aber präsent",
+    "schön bzw. gefällig empfunden"
+  ],
+  "confidence": 0.84,
+  "display_text": "Sienna wirkt in Deutschland überwiegend modern, international und wohlklingend. Die verfügbaren Namensquellen beschreiben den Namen freundlich und wertschätzend, mit Bezügen zu Siena und einer orangeroten Farbassoziation. Die Evidenz ist jedoch begrenzt, daher nur als vorsichtige Zusammenfassung zu verstehen.",
+  "evidence_quality": "Gut nachvollziehbar, aber begrenzt: zwei einschlägige Namenslexikon-Quellen, davon teils kommentarbasiert und ohne breite Debattenlage.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Sienna",
+  "normalized_name": "sienna",
+  "overall_resonance": "Überwiegend positiv und modern: Sienna wird in den vorliegenden Namensquellen als klanglich attraktiv, international und inhaltlich ansprechend beschrieben.",
+  "practical_notes": [
+    "Für Suchende wirkt Sienna in Deutschland eher modern und international.",
+    "Der Name trägt eine klare Farbund-Ortsassoziation, was ihn markant macht.",
+    "Die öffentliche Rezeption lässt sich derzeit eher als freundlich und wertschätzend zusammenfassen als als kontrovers."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist auf wenige Namenslexikon-Quellen beschränkt, daher nur vorsichtig verallgemeinerbar.",
+    "Ein Teil der Aussagen bezieht sich auf Bedeutung, Herkunft und Popularität, nicht auf eine breite öffentliche Diskussion.",
+    "Positive Einschätzungen stammen teils aus beschreibenden oder kommentierenden Kontexten und sind nicht als allgemeingültiges Urteil zu lesen."
+  ],
+  "short_summary": "Sienna wird in den verfügbaren Quellen meist positiv wahrgenommen: modern, international und klanglich angenehm, mit starken Bezügen zu Siena und einer rötlich-orangen Farbassoziation.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.91,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "Vorname Sienna � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/S/Si/Sienna/"
+    },
+    {
+      "confidence": 0.9,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Sienna: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Sienna.html"
+    }
+  ],
+  "style_effect": [
+    "modern",
+    "international",
+    "weich-klangvoll",
+    "elegant",
+    "farben- und ortsbezogen",
+    "namenskundlich aufgeladen"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Der Name erscheint in Deutschland als bekannt, aber eher nicht alltäglich; die Quellen betonen eher eine freundliche, stilbewusste Wahrnehmung als eine breite öffentliche Debatte."
+}

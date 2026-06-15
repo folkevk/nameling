@@ -1,0 +1,59 @@
+{
+  "associations": [
+    "kurzer Jungenvorname",
+    "althochdeutsche Herkunft",
+    "Bedeutung wird sinngemäß mit 'Mann/ Herrscher des Volkes' verbunden",
+    "eigenständiger Name bzw. kurze Form",
+    "Namenstag 16. Januar",
+    "eher niedrig bis mittel in der Beliebtheit"
+  ],
+  "confidence": 0.83,
+  "display_text": "Til wirkt öffentlich überwiegend neutral bis leicht positiv: ein kurzer, traditionsnaher Jungenname mit schlichter, eigenständiger Ausstrahlung. Die Evidenz ist jedoch begrenzt und beruht vor allem auf einzelnen Namenslexika.",
+  "evidence_quality": "mittel bis schwach: inhaltlich klare Namenslexikon-Einträge, aber keine breit angelegte öffentliche Diskurslage.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Til",
+  "normalized_name": "til",
+  "overall_resonance": "Überwiegend neutral bis leicht positiv. Til wird öffentlich vor allem sachlich als kurzer, traditionsnaher Jungenvorname wahrgenommen; die vorhandenen Quellen deuten eher auf eine unaufgeregte, teilweise als markant und eigenständig empfundene Namenswirkung.",
+  "practical_notes": [
+    "Für Namenssuche gut geeignet, wenn ein kurzer, einfacher und traditionell anschlussfähiger Name gesucht wird.",
+    "Die Schreibweise mit nur einem 'l' ist prägnant und kann als bewusst schlicht wahrgenommen werden.",
+    "Wegen der knappen Form wirkt der Name eher modern-minimalistisch als verspielt."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist begrenzt und stammt vor allem aus einzelnen Namenslexikon-Seiten; das bildet öffentliche Resonanz nur indirekt ab.",
+    "Einzelne positive Formulierungen wie 'schön' oder 'einzigartig' sind subjektiv und nicht repräsentativ für die Gesamtwahrnehmung."
+  ],
+  "short_summary": "Til wird in den verfügbaren Quellen meist neutral bis leicht positiv bewertet: kurz, traditionell und eigenständig, aber mit eher geringer öffentlicher Präsenz.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.89,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Til � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/T/Ti/Til/"
+    },
+    {
+      "confidence": 0.86,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Til: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Til.html"
+    }
+  ],
+  "style_effect": [
+    "kurz und prägnant",
+    "klar und nüchtern",
+    "traditionell-deutsch/althochdeutsch konnotiert",
+    "eher modern wirkende Schlichtheit",
+    "gelegentlich als eigenständig und markant beschrieben"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Eher geringe bis mittlere öffentliche Sichtbarkeit in Deutschland; der Name ist bekannt, aber nicht stark im Mainstream-Diskurs präsent."
+}

@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "Bedeutung im Sinn von Recht und Ordnung bzw. nach dem Gesetz Waltender",
+    "altdeutscher männlicher Vorname",
+    "historische und mittelalterliche Verbreitung",
+    "heute eher selten in Deutschland",
+    "Namenstag am 3. Oktober"
+  ],
+  "confidence": 0.86,
+  "display_text": "Ewald wirkt in Deutschland eher selten und traditionsbetont. Die verfügbaren Quellen beschreiben den Namen sachlich als altdeutsch, historisch verbreitet und heute kaum gebräuchlich; die öffentliche Resonanz ist dabei eher neutral als wertend.",
+  "evidence_quality": "mittel bis schwach für öffentliche Resonanz, gut für lexikalische Namensmerkmale",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Ewald",
+  "normalized_name": "ewald",
+  "overall_resonance": "Überwiegend sachlich-neutral bis leicht traditionsbetont. Der Name Ewald wird vor allem als altdeutscher, historisch geprägter und heute seltener Vorname beschrieben.",
+  "practical_notes": [
+    "Wirkt traditionsbewusst und eher klassisch als modern.",
+    "Kann für Menschen attraktiv sein, die seltene und historisch klingende Namen mögen.",
+    "Die Aussprache und Schreibweise sind unkompliziert, der Name ist aber im Alltag wahrscheinlich eher ungewohnt."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz belegt vor allem lexikalische Angaben, nicht eine breite öffentliche Debatte.",
+    "Wertungen wie 'veraltet' oder 'aus der Mode gekommen' sind beschreibende Quellenangaben und keine allgemeingültigen Urteile.",
+    "Keine Hinweise auf soziale Stigmatisierung oder problematische Konnotationen in den Quellen."
+  ],
+  "short_summary": "Ewald wird in den Quellen als seltener, altdeutscher und historisch geprägter Vorname mit sachlich-neutraler bis leicht traditionsbetonter Wirkung beschrieben.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.94,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Ewald � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/E/Ew/Ewald/"
+    },
+    {
+      "confidence": 0.92,
+      "is_name_discussion": true,
+      "sentiment": "gemischt",
+      "source_type": "web",
+      "title": "&#9655; Vorname Ewald: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Ewald.html"
+    }
+  ],
+  "style_effect": [
+    "altdeutsch",
+    "traditionell",
+    "historisch",
+    "lexikalisch",
+    "selten",
+    "nüchtern",
+    "formell"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland wirkt der Name eher wenig präsent und wird in den vorliegenden Quellen als selten bzw. kaum gebräuchlich eingeordnet. Die Evidenz zur öffentlichen Wahrnehmung ist jedoch begrenzt, da sie vor allem aus Namenslexika stammt."
+}

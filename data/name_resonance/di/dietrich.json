@@ -1,0 +1,63 @@
+{
+  "associations": [
+    "althochdeutsche Herkunft",
+    "Bedeutung im Sinne von „Herrscher des Volkes“ bzw. „mächtig im Volke“",
+    "mittelalterlich verbreitet",
+    "klassischer deutscher Jungenname",
+    "heute eher selten",
+    "Namenstag",
+    "historische/ traditionelle Anmutung"
+  ],
+  "confidence": 0.86,
+  "display_text": "Dietrich wirkt öffentlich vor allem klassisch und traditionsreich. Der Name hat althochdeutsche Wurzeln, wird mit der Bedeutung „Herrscher des Volkes“ verbunden und erscheint heute eher selten. Die verfügbare Evidenz ist vor allem lexikalisch; echte breite Publikumsmeinungen sind kaum sichtbar.",
+  "evidence_quality": "mittel bis gut für Herkunft/Bedeutung, schwach für öffentliche Resonanz im engeren Sinne; hauptsächlich Lexikonquellen, kaum echte Publikumsreaktionen.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Dietrich",
+  "normalized_name": "dietrich",
+  "overall_resonance": "Die öffentliche Rezeption von „Dietrich“ wirkt überwiegend sachlich-neutriv bis leicht positiv. Der Name wird vor allem als klassisch, deutsch und historisch tradiert beschrieben.",
+  "practical_notes": [
+    "Für Suchende vermittelt der Name vor allem Tradition und historische Tiefe.",
+    "Die Seltenheit kann als markant oder altmodisch wahrgenommen werden, je nach Kontext.",
+    "Die Quellenlage ist solide für Herkunft und Bedeutung, aber schwach für eine echte öffentliche Resonanz im Meinungs-Sinn."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt fast ausschließlich aus Namenslexika; echte öffentliche Meinungsbilder oder breit gestreute Kommentare sind kaum sichtbar.",
+    "Die Einschätzung ist daher eher beschreibend als sozial repräsentativ.",
+    "Keine Hinweise auf starke Stigmatisierung erkennbar; falls einzelne Eindrücke abweichen, sind sie in der Quelle nicht breit belegt."
+  ],
+  "short_summary": "„Dietrich“ wird meist als klassischer, historisch geprägter deutscher Vorname wahrgenommen – sachlich, traditionsreich und heute eher selten.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Dietrich � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/D/Di/Dietrich/"
+    },
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Dietrich: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Dietrich.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "altdeutsch",
+    "traditionell",
+    "historisch",
+    "würdevoll",
+    "formal",
+    "namenskundlich"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Eher bekannt, aber heute selten; im Alltag wirkt der Name deutlich traditionsbetont statt modern-zeitgemäß."
+}

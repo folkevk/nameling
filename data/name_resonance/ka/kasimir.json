@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "altslawische bzw. altpolnische Herkunft",
+    "Deutung als Friedensbringer/Friedensstifter",
+    "Traditionsname",
+    "Namenstag am 4. März",
+    "selten bis wenig verbreitet in Deutschland",
+    "Varianten wie Casimir, Kazimir, Kazimierz"
+  ],
+  "confidence": 0.84,
+  "display_text": "Kasimir wird in Deutschland eher selten wahrgenommen und vor allem als traditionsreicher, altsprachlich geprägter Vorname beschrieben. Die öffentliche Resonanz ist insgesamt leicht positiv bis sachlich-wertschätzend, besonders wegen der verbreiteten Friedens-Deutung. Die Evidenz ist jedoch begrenzt und stammt hauptsächlich aus Namenslexika.",
+  "evidence_quality": "mittel bis eher schwach: zwei sehr ähnliche Namenslexikon-Quellen, überwiegend informativ und nur begrenzt repräsentativ für öffentliche Resonanz.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Kasimir",
+  "normalized_name": "kasimir",
+  "overall_resonance": "Überwiegend positiv bis sachlich-wertschätzend, mit starker Namenskunde-Prägung und insgesamt eher ruhiger, traditioneller Wahrnehmung.",
+  "practical_notes": [
+    "Für Suchmaschinen-Nutzung am besten als seltener, traditionsreicher Vorname mit positiver Bedeutungsnähe beschreiben.",
+    "Keine starke soziale Stigmatisierung erkennbar; eher ein Nischenname mit historisch-kultureller Wirkung.",
+    "Die geringe Verbreitung kann als Besonderheit wahrgenommen werden, nicht als Nachteil."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist begrenzt und stammt überwiegend aus Namensdatenbanken statt aus breiter öffentlicher Meinungsbildung.",
+    "Die Etymologie wird teils unterschiedlich gedeutet; die Friedens-Deutung ist verbreitet, aber nicht völlig eindeutig.",
+    "Positive Wirkung beruht hier vor allem auf der Namensbedeutung und nicht auf belastbaren Reputationsdaten."
+  ],
+  "short_summary": "Kasimir wirkt in der öffentlichen Namenswahrnehmung eher selten, traditionsreich und leicht positiv konnotiert, vor allem durch die Deutung als Friedensbringer.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.92,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "Vorname Kasimir � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/K/Ka/Kasimir/"
+    },
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Kasimir: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Kasimir.html"
+    }
+  ],
+  "style_effect": [
+    "traditionell",
+    "klassisch-altsprachlich",
+    "namenskundlich",
+    "leicht vornehm",
+    "selten",
+    "historisch geprägt"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland eher selten und deshalb nicht sehr breit im Alltag präsent; die öffentliche Wahrnehmung scheint vor allem in Namenslexika und Suchkontexten stattzufinden."
+}

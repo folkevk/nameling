@@ -1,0 +1,58 @@
+{
+  "associations": [
+    "französische Form von Martina",
+    "lateinischer Ursprung",
+    "Bezug zu Mars / römischer Mythologie",
+    "Bedeutung in Richtung ‚dem Mars geweiht‘ bzw. ‚die Kämpferin‘",
+    "weiblicher Vorname",
+    "in Deutschland selten"
+  ],
+  "confidence": 0.84,
+  "display_text": "Martine wirkt in Deutschland eher selten, klassisch und leicht elegant. Die verfügbare Evidenz ist vor allem namenskundlich: französische Form von Martina, mit lateinischem Ursprung und Bezug zu Mars. Eine echte breite öffentliche Resonanz ist nur schwach belegt, daher sollte die Wahrnehmung vorsichtig als sachlich bis leicht positiv beschrieben werden.",
+  "evidence_quality": "mittel bis schwach: gute Namensbeschreibung, aber wenig belastbare öffentliche Resonanz außerhalb von Lexikon- und Informationsseiten.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Martine",
+  "normalized_name": "martine",
+  "overall_resonance": "Überwiegend sachlich und neutral-informativ, mit leicht positivem Unterton in Namenslexika; die öffentliche Resonanz wirkt eher zurückhaltend als breit emotional.",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt Martine klar, klassisch und international anschlussfähig.",
+    "Wegen der Seltenheit in Deutschland kann der Name als besonders und ungewohnt wahrgenommen werden.",
+    "Die Quellen liefern eher Bedeutung und Herkunft als echte öffentliche Bewertung."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz zur öffentlichen Resonanz ist schwach und stammt fast nur aus Namenslexika, nicht aus breit repräsentativen Meinungen.",
+    "Leichte positive Tendenzen sind möglich, sollten aber nicht als allgemeine Zustimmung überinterpretiert werden."
+  ],
+  "short_summary": "Martine wird in den verfügbaren Quellen vor allem sachlich beschrieben: französische Form von Martina, selten in Deutschland und mit klassischer, leicht eleganter Wirkung. Eine breite öffentliche Bewertung ist kaum erkennbar.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Martine � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/M/Ma/Martine/"
+    },
+    {
+      "confidence": 0.89,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Martine: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Martine.html"
+    }
+  ],
+  "style_effect": [
+    "französisch klingend",
+    "klassisch-zeitlos",
+    "eher elegant und unaufdringlich",
+    "lexikalisch-informativ statt trendig"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland eher selten und daher nicht stark alltagspräsent; die Wahrnehmung scheint vor allem über Namensdatenbanken und Bedeutungsseiten vermittelt zu werden."
+}

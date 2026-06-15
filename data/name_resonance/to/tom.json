@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "Kurzform von Thomas",
+    "aramäische bzw. biblische Herkunft",
+    "Bedeutung: „der Zwilling“",
+    "einsilbig und leicht auszusprechen",
+    "international verwendbar",
+    "in Deutschland beliebt und geläufig"
+  ],
+  "confidence": 0.93,
+  "display_text": "Tom wirkt in Deutschland überwiegend positiv, vertraut und unkompliziert. Der Name wird meist als kurzer, international verständlicher Jungenname mit biblisch-aramäischer Herkunft und der Bedeutung „der Zwilling“ beschrieben.",
+  "evidence_quality": "gut: zwei einschlägige Namensquellen mit klarer Namensdiskussion, überwiegend konsistent und positiv; jedoch begrenzte öffentliche Breite der Evidenz.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Tom",
+  "normalized_name": "tom",
+  "overall_resonance": "Tom wird in der verfügbaren Evidenz überwiegend positiv und sehr unkompliziert wahrgenommen: als kurzer, international verständlicher Jungenname mit klarer Herkunft und breiter Bekanntheit in Deutschland.",
+  "practical_notes": [
+    "Für Suchmaschinen und Namenslisten wirkt Tom sehr zugänglich und alltagstauglich.",
+    "Der Name wird oft als eigenständig wahrgenommen, obwohl er etymologisch mit Thomas verbunden ist.",
+    "Durch die Kürze hat der Name eine hohe Merkfähigkeit und geringe sprachliche Hürden."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt vor allem aus Namenslexika und Portalen; eine breite öffentliche Debatte ist nicht erkennbar.",
+    "Beliebtheitsaussagen sollten als Portal-Einordnung verstanden werden, nicht als exakte Gesamtmessung.",
+    "Es gibt keine klaren Hinweise auf problematische gesellschaftliche Stigmatisierung in der vorliegenden Evidenz."
+  ],
+  "short_summary": "Tom ist in Deutschland ein sehr geläufiger, kurzer und freundlich wirkender Jungenname mit positiver, sachlicher Resonanz.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.99,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "Vorname Tom � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/T/To/Tom/"
+    },
+    {
+      "confidence": 0.95,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Tom: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Tom.html"
+    }
+  ],
+  "style_effect": [
+    "kurz und prägnant",
+    "modern, aber nicht modisch-auffällig",
+    "international verständlich",
+    "klassisch vertraut",
+    "umgangssprachlich leicht und direkt"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Hoch: Der Name ist in deutschen Namensportalen gut präsent und wird dort häufig als beliebter, geläufiger Vorname beschrieben."
+}

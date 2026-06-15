@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "altenglische bzw. englisch-keltische Herkunft",
+    "Bedeutung: „der Schotte“",
+    "männlicher Vorname",
+    "selten bis mäßig verbreitet in Deutschland",
+    "vor allem aus dem englischsprachigen Raum bekannt",
+    "kurze Form mit unkomplizierter Aussprache"
+  ],
+  "confidence": 0.76,
+  "display_text": "Scott wird in Deutschland meist als kurzer, international klingender und klar männlicher Vorname wahrgenommen. Die Resonanz wirkt neutral bis leicht positiv, allerdings ist die Evidenz für die öffentliche Rezeption eher begrenzt. Der Name ist vor allem durch seine englisch/altenglische Herkunft und die Bedeutung „der Schotte“ bekannt.",
+  "evidence_quality": "mittel bis eher schwach für öffentliche Resonanz in DE; gut für Herkunft und Namensbedeutung, aber begrenzt für gesellschaftliche Wahrnehmung",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Scott",
+  "normalized_name": "scott",
+  "overall_resonance": "Scott wird in deutschsprachigen Namensquellen meist sachlich, eher international und klar männlich wahrgenommen. Die öffentliche Resonanz wirkt insgesamt neutral bis leicht positiv, aber in Deutschland eher als seltener bis mäßig verbreiteter Name mit englisch/altenglischer Prägung.",
+  "practical_notes": [
+    "Für deutschsprachige Kontexte ist die Schreibweise einfach und eindeutig.",
+    "Die Aussprache kann je nach Region leicht variieren, wird aber meist nahe am Englischen verstanden.",
+    "Durch die internationale Form wirkt der Name oft weniger traditionell-deutsch.",
+    "Wenn eine sehr häufige Alltagsverwendung gewünscht ist, könnte Scott etwas auffälliger wirken als klassische deutsche Vornamen."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Datenlage zur öffentlichen Wahrnehmung in Deutschland ist schwach; es gibt nur wenige, eher lexikalische Quellen.",
+    "Aussagen zu Stil oder Wirkung sind vorsichtig zu lesen und keine festen Eigenschaften des Namens.",
+    "Keine belastbaren Hinweise auf soziale Stigmatisierung in der vorliegenden Evidenz."
+  ],
+  "short_summary": "Scott wirkt in Deutschland sachlich, international und eher selten. Die Resonanz ist überwiegend neutral bis leicht positiv, die Evidenz zur öffentlichen Wahrnehmung ist jedoch nur begrenzt.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Scott � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/S/Sc/Scott/"
+    },
+    {
+      "confidence": 0.88,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Scott: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Scott.html"
+    }
+  ],
+  "style_effect": [
+    "kurz und markant",
+    "international/englisch wirkend",
+    "klar männlich",
+    "modern ohne stark trendigen Eindruck",
+    "etwas sportlich oder urban klingend, ohne dass das als feste Eigenschaft gelten sollte"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland ist Scott eher wenig bis mittel präsent und vor allem als importierter, international klingender Vorname sichtbar. Die Evidenz zur öffentlichen Resonanz ist begrenzt und stützt sich hauptsächlich auf Namenslexika."
+}

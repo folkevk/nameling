@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "hebräische bzw. bretonisch geprägte Herkunftsangaben",
+    "Bedeutungen wie „Gott ist gnädig“ bzw. „Jahwe ist gnädig“",
+    "Schreibvarianten wie Yannik, Yannick und Jannik",
+    "eher seltene Verwendung in Deutschland",
+    "Namenstag-Angaben",
+    "gelegentliche Verwechslungsgefahr mit ähnlichen Schreibweisen"
+  ],
+  "confidence": 0.82,
+  "display_text": "Yannic: überwiegend sachlich-neutral, leicht positiv wahrgenommen; eher seltener Vorname mit namenskundlichen Bezügen, Herkunfts- und Bedeutungsangaben sowie gelegentlicher Verwechslungsgefahr bei der Schreibweise.",
+  "evidence_quality": "mittel bis eher schwach: zwei namenskundliche Webquellen, aber keine breit gestützte öffentliche Debatte.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Yannic",
+  "normalized_name": "yannic",
+  "overall_resonance": "Überwiegend sachlich-neutral mit leicht positiver Färbung.",
+  "practical_notes": [
+    "Für Suchmaschinen wirkt der Name klar, modern und gut einordenbar.",
+    "Die seltenere Schreibweise kann als individuell wahrgenommen werden.",
+    "Wer den Namen nutzt, sollte mit Nachfragen zur Schreibweise rechnen."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist begrenzt und stützt sich im Wesentlichen auf einzelne Vornamensseiten.",
+    "Die öffentliche Resonanz ist daher eher indirekt aus Lexikon- und Beliebtheitsangaben abgeleitet, nicht aus einer breiten Debatte.",
+    "Hinweise auf falsche Schreibweisen betreffen eher Verwechslungs- als Bewertungsfragen."
+  ],
+  "short_summary": "Yannic wird meist sachlich beschrieben: ein seltener Vorname mit hebräisch/bretonisch geprägten Herkunftsangaben, Bedeutungshinweisen und mehreren Schreibvarianten. Die Resonanz ist überwiegend neutral bis leicht positiv; belastbare öffentliche Diskussionen sind jedoch kaum vorhanden.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Yannic � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/Y/Ya/Yannic/"
+    },
+    {
+      "confidence": 0.84,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Yannic: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Yannic.html"
+    }
+  ],
+  "style_effect": [
+    "informativ",
+    "namenskundlich",
+    "leicht modern durch die Y-Schreibung",
+    "seltenheitsbetont",
+    "eher neutral-bis-positiv"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Der Name wirkt in der öffentlichen Wahrnehmung eher selten und damit nicht stark alltagspräsent; er taucht vor allem in namenskundlichen Kontexten auf."
+}

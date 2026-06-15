@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "althebräische Herkunft",
+    "biblischer weiblicher Vorname",
+    "Bedeutung im Sinne von Freude/Vaterfreude",
+    "Namenstag",
+    "Kurzformen: Abby, Abi, Abbie",
+    "in Deutschland als beliebt bzw. gut anschlussfähig beschrieben"
+  ],
+  "confidence": 0.88,
+  "display_text": "Abigail wirkt in der öffentlichen Wahrnehmung überwiegend positiv: klassisch-biblisch, international und freundlich im Klang. In Deutschland wird der Name eher als bekannt und attraktiv beschrieben. Die Evidenz ist allerdings quellenarm und stammt vor allem aus Namenslexika.",
+  "evidence_quality": "mittel bis gut, aber quellenarm und stark lexikonbasiert",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Abigail",
+  "normalized_name": "abigail",
+  "overall_resonance": "Abigail wird in der vorliegenden Evidenz überwiegend positiv und sachlich wahrgenommen: als biblischer, hebräisch geprägter Vorname mit klarer Bedeutung und internationaler Verwendbarkeit. In Deutschland wird er eher als bekannt und attraktiv beschrieben, ohne Hinweise auf eine starke negative öffentliche Konnotation.",
+  "practical_notes": [
+    "Für eine öffentliche Namenssuche wirkt Abigail klar, freundlich und etabliert.",
+    "Die Schreibweise ist international anschlussfähig, kann aber im Alltag gelegentlich nach der Aussprache gefragt werden.",
+    "Kurzformen sind verbreitet und können die formelle Variante im Gebrauch alltagstauglicher machen."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist auf wenige webbasierte Namenslexikon-Seiten beschränkt.",
+    "Es liegen keine unabhängigen breiten Diskussionsbeiträge im Auszug vor.",
+    "Aussagen zur Beliebtheit sollten vorsichtig gelesen werden, da sie nicht durch mehrere unabhängige Quellen abgesichert sind."
+  ],
+  "short_summary": "Abigail wird öffentlich überwiegend positiv, klassisch-biblisch und international wahrgenommen. Die Quellenlage ist jedoch begrenzt und vor allem lexikonartig.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Abigail � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/A/Ab/Abigail/"
+    },
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Abigail: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Abigail.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch-biblisch",
+    "international",
+    "freundlich und weich im Klang",
+    "informativ statt trendy",
+    "eher modern wahrgenommen durch Kurzformen wie Abby/Abi/Abbie"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Eher gute Sichtbarkeit im Namenskontext, vor allem in Namenslexika und Beliebtheitsdarstellungen. Die öffentliche Diskussion wirkt jedoch insgesamt schmal und quellenarm."
+}

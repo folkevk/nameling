@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "lateinische bzw. römische Herkunft",
+    "Verbindung zu Julia/Julian",
+    "Bedeutung: „die aus dem Geschlecht der Julier“",
+    "weiblicher Vorname",
+    "Namenstag",
+    "international verwendbar",
+    "eher selten bzw. wenig verbreitet"
+  ],
+  "confidence": 0.81,
+  "display_text": "Juliana hat in der öffentlichen Wahrnehmung eine überwiegend freundliche, klassische und leicht internationale Ausstrahlung. Der Name wird eher selten, aber gut verständlich eingeschätzt; die Datenlage ist dabei vor allem namenskundlich und nur begrenzt allgemein repräsentativ.",
+  "evidence_quality": "Begrenzt: überwiegend Namenslexika, teils subjektive Kommentierung, wenig echte Alltagsresonanz.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Juliana",
+  "normalized_name": "juliana",
+  "overall_resonance": "Überwiegend freundlich und eher klassisch-positiv, mit insgesamt sachlicher öffentlicher Wahrnehmung.",
+  "practical_notes": [
+    "Für die Namenssuche klingt Juliana eher vertraut als ungewöhnlich.",
+    "Der Name wird meist als klassisch und leicht international lesbar wahrgenommen.",
+    "Die Schreibweise ist klar und verständlich, mit Nähe zu Julia und Julian."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist schwach bis moderat und stammt vor allem aus Namenslexika und einzelnen Kommentaren.",
+    "Eine allgemeine öffentliche Meinung lässt sich nur vorsichtig ableiten.",
+    "Beliebtheits- und Stilzuschreibungen sind eher Beschreibungen als harte Befunde."
+  ],
+  "short_summary": "Juliana wird in Deutschland meist freundlich, klassisch und sachlich wahrgenommen. Der Name wirkt international anschlussfähig und eher selten, die Evidenz dafür ist jedoch begrenzt.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Juliana � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/J/Ju/Juliana/"
+    },
+    {
+      "confidence": 0.9,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Juliana: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Juliana.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "elegant",
+    "international anschlussfähig",
+    "weich und feminin",
+    "eher zeitlos als trendig"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Juliana wirkt in Deutschland eher bekannt, aber nicht massenhaft verbreitet; die öffentliche Präsenz ist vor allem namenskundlich und lexikalisch geprägt."
+}

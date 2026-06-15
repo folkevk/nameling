@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "Variante von Karl/Carlo",
+    "männlicher Vorname",
+    "althochdeutsche Herkunft",
+    "Bedeutung im Umfeld von „frei“/„der Freie“",
+    "Namenstag",
+    "Namensportal- und Lexikon-Kontext"
+  ],
+  "confidence": 0.82,
+  "display_text": "Karlo wird öffentlich vor allem neutral und sachlich wahrgenommen. In den verfügbaren Quellen steht die namenkundliche Einordnung im Vordergrund: Herkunft, Bedeutung und die Nähe zu Karl/Carlo. Eine starke Stigmatisierung oder auffällige Kontroverse ist in der Evidenz nicht erkennbar.",
+  "evidence_quality": "mittel: zwei einschlägige, aber vor allem portalbasierte Namensquellen; gut für eine vorsichtige Einordnung, begrenzt für echte öffentliche Breitenresonanz.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Karlo",
+  "normalized_name": "karlo",
+  "overall_resonance": "Die öffentliche Rezeption von „Karlo“ wirkt in den vorliegenden Quellen überwiegend neutral bis sachlich-informativ. Der Name wird vor allem namenkundlich behandelt, mit Fokus auf Herkunft, Bedeutung und Varianten zu Karl/Carlo; eine starke emotionale Aufladung ist nicht erkennbar.",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt „Karlo“ klar, kurz und gut aussprechbar.",
+    "Die Schreibweise hebt sich etwas von „Karl“ ab, bleibt aber nah an bekannten Namensformen.",
+    "Im deutschsprachigen Raum dürfte der Name eher als eigenständige Variante denn als sehr verbreiteter Klassiker wahrgenommen werden."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt vor allem aus Namensportalen mit editorischem Fokus; das ist für öffentliche Resonanz nur begrenzt repräsentativ.",
+    "Es gibt keine belastbaren Hinweise auf eine starke gesellschaftliche Stigmatisierung oder auffällige Negativkonnotationen in den Quellen.",
+    "Beliebtheitsangaben sollten vorsichtig gelesen werden, da sie je nach Portal und Erhebungsgrundlage variieren können."
+  ],
+  "short_summary": "Karlo wird in den verfügbaren Quellen vor allem sachlich und neutral als Variante von Karl/Carlo beschrieben. Die öffentliche Resonanz wirkt eher informativ als emotional oder kontrovers.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Karlo � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/K/Ka/Karlo/"
+    },
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Karlo: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Karlo.html"
+    }
+  ],
+  "style_effect": [
+    "sachlich",
+    "lexikalisch",
+    "namenskundlich",
+    "modern-kurz",
+    "international anschlussfähig"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Eher niedrig bis mittel: Der Name erscheint in Namensportalen und Listen, aber die Evidenz deutet nicht auf eine besonders breite öffentliche Debatte hin."
+}

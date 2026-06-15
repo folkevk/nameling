@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "Kurzform von Josefine/Josephine",
+    "hebräische Herkunft",
+    "Bedeutung im Sinn von „Gott fügt hinzu“ / „hinzufügen“",
+    "weiblicher Vorname",
+    "eher selten in Deutschland",
+    "Namenslexikon- und Beliebtheitskontext",
+    "Namenstag wird teils genannt"
+  ],
+  "confidence": 0.83,
+  "display_text": "Josi wirkt in Deutschland eher kurz, freundlich und selten. Öffentlich wird der Name meist neutral bis positiv gesehen und vor allem als Kurzform von Josefine/Josephine eingeordnet. Die Evidenz ist vor allem lexikalisch, daher nur begrenzt repräsentativ.",
+  "evidence_quality": "mittel: zwei einschlägige Namenslexikon-/Verzeichniseinträge, aber keine repräsentative gesellschaftliche Studie",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Josi",
+  "normalized_name": "josi",
+  "overall_resonance": "Josi wird öffentlich vor allem als kurze, freundliche und eher seltene deutsche Kurzform wahrgenommen. Die verfügbaren Namensseiten ordnen den Namen meist neutral bis positiv ein und verbinden ihn mit Josefine/Josephine sowie einer hebräischen Herkunft.",
+  "practical_notes": [
+    "Als Kurzform wirkt Josi alltagsnah und gut merkbar.",
+    "Wer einen formelleren Klang sucht, könnte die Langform Josefine/Josephine bevorzugen.",
+    "Für Suchmaschinen ist sinnvoll, Josi als möglichen eigenständigen Vornamen und als Koseform mitzuführen."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist vor allem lexikalisch und aus Namensverzeichnissen; das ist hilfreich, aber nicht gleichbedeutend mit breiter öffentlicher Wahrnehmung.",
+    "Die positive Einordnung beruht auf Namensbeschreibungen, nicht auf repräsentativen Umfragen.",
+    "Einige Quellen mischen redaktionelle Angaben und Nutzerkommentare; diese wurden vorsichtig gewichtet."
+  ],
+  "short_summary": "Josi wird meist als kurze, freundliche und seltene weibliche Namensform wahrgenommen, überwiegend neutral bis positiv; die Evidenz stammt vor allem aus Namenslexika.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Josi � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/J/Jo/Josi/"
+    },
+    {
+      "confidence": 0.92,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Josi: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Josi.html"
+    }
+  ],
+  "style_effect": [
+    "kurz und leicht",
+    "weich und modern wirkend",
+    "jugendlich bzw. locker assoziiert",
+    "als Spitzname oder eigenständiger Vorname lesbar",
+    "eher vertraut als formell"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Im deutschen Namenskontext wirkt Josi eher wenig verbreitet und dadurch auffällig, aber nicht ungewöhnlich. Die Sichtbarkeit stammt vor allem aus Namenslexika und Beliebtheitslisten; belastbare Alltagsverwendung ist daraus nur begrenzt ableitbar."
+}

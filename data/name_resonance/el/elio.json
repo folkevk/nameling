@@ -1,0 +1,65 @@
+{
+  "associations": [
+    "italienisch",
+    "altgriechisch",
+    "Sonne",
+    "Sonnenschein",
+    "Sonnenlicht",
+    "leuchtend",
+    "Helios",
+    "Geschenk der Sonne",
+    "jung",
+    "beliebt"
+  ],
+  "confidence": 0.84,
+  "display_text": "Elio wirkt in Deutschland überwiegend positiv und modern: sonnige, helle und leicht mediterrane Assoziationen dominieren. Die Evidenz ist jedoch eher schmal und stammt vor allem aus Namenslexika, daher ist die öffentliche Resonanz nur vorsichtig zu bewerten.",
+  "evidence_quality": "mittel: zwei einschlägige Namenslexikon-/Vornamenseiten, überwiegend positiv, aber nur begrenzte soziale Breite und wenig direkte Community-Debatte",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Elio",
+  "normalized_name": "elio",
+  "overall_resonance": "Überwiegend positiv und modern wirkend, mit klarer Assoziation zu Sonne, Helligkeit und mediterranem Klang. In der vorliegenden Evidenz erscheint Elio in Deutschland eher freundlich und attraktiv wahrgenommen, ohne erkennbare Kontroverse.",
+  "practical_notes": [
+    "Für eine öffentliche Resonanzkarte eignet sich die Einordnung als freundlich, sonnig und international anschlussfähig.",
+    "Im deutschen Kontext wirkt der Name eher modern als traditionell, aber nicht exzentrisch.",
+    "Die Datenlage ist ausreichend für eine vorsichtige Tendenz, nicht für eine starke Verallgemeinerung."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz basiert vor allem auf einzelnen Namensseiten; daraus lässt sich nur eingeschränkt eine breite öffentliche Meinung ableiten.",
+    "Es sind keine deutlichen negativen Debatten oder Stigmatisierungen in den Auszügen erkennbar.",
+    "Einzelne Kommentare können subjektiv sein und sollten nicht als allgemeine Mehrheitsmeinung verstanden werden."
+  ],
+  "short_summary": "Elio wird in den vorliegenden deutschen Namensquellen überwiegend positiv, sonnig und modern beschrieben; die öffentliche Resonanz wirkt freundlich, ist aber nur begrenzt breit belegt.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.9,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "Vorname Elio � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/E/El/Elio/"
+    },
+    {
+      "confidence": 0.91,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Elio: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Elio.html"
+    }
+  ],
+  "style_effect": [
+    "modern",
+    "leicht international",
+    "weich und sonnig",
+    "kurz und prägnant",
+    "sympathisch klingend",
+    "namenkundlich aufgeladen"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Eher gut sichtbar in Namenslexika und Vornamensseiten, aber die öffentliche Resonanz wirkt insgesamt nur schwach belegt und nicht breit durch Community-Diskussionen abgesichert."
+}

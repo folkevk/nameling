@@ -1,0 +1,62 @@
+{
+  "associations": [
+    "hebräische Herkunft",
+    "biblischer Name",
+    "Bedeutung: Mensch / Erdling",
+    "erster Mensch in der Bibel",
+    "weltweit verbreitet",
+    "in Deutschland bekannt und beliebt",
+    "Namenstag",
+    "klarer, zeitloser Jungenname"
+  ],
+  "confidence": 0.95,
+  "display_text": "Adam wird in der öffentlichen Darstellung überwiegend positiv, klassisch und biblisch eingeordnet. Der Name gilt als international verständlich, in Deutschland bekannt und eher zeitlos als modisch. Die vorliegende Evidenz ist stark, stammt aber vor allem aus Namenslexika und Profilseiten.",
+  "evidence_quality": "hoch; mehrere konsistente, namebezogene Quellen mit überwiegend positiver Einordnung",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Adam",
+  "normalized_name": "adam",
+  "overall_resonance": "überwiegend positiv und klassisch-traditionell",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt Adam sehr vertraut, international gut einsetzbar und in Deutschland gut sichtbar.",
+    "Der Name wird eher mit Tradition und biblischem Hintergrund als mit Modetrends verbunden.",
+    "Keine Hinweise auf soziale Stigmatisierung in der vorliegenden Evidenz."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt vor allem aus Namenslexika und Profilseiten, nicht aus einer breiten öffentlichen Meinungsdiskussion.",
+    "Einzelne Aussagen zur Klangwirkung sind subjektiv und sollten als solche verstanden werden."
+  ],
+  "short_summary": "Adam wird öffentlich meist als klassischer, biblischer und international verständlicher Vorname wahrgenommen, mit klar positiver und sachlicher Resonanz.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "positive",
+      "source_type": "web",
+      "title": "Vorname Adam � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/A/Ad/Adam/"
+    },
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "positive",
+      "source_type": "web",
+      "title": "&#9655; Vorname Adam: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Adam.html"
+    }
+  ],
+  "style_effect": [
+    "biblisch",
+    "klassisch",
+    "international verständlich",
+    "sachlich",
+    "wohlklingend",
+    "traditionell"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "hoch"
+}

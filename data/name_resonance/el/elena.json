@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "altgriechischer Ursprung",
+    "Bedeutungen wie „die Leuchtende“ oder „die Strahlende“",
+    "teils Bezüge zu Sonne/Mond in Namensdeutungen",
+    "bekannter und in Deutschland beliebter Vorname",
+    "Namenstag",
+    "lexikalisch und namenskundlich häufig erklärt"
+  ],
+  "confidence": 0.96,
+  "display_text": "Elena wird in Deutschland überwiegend positiv, klangvoll und zeitlos wahrgenommen. Der Name gilt als bekannt und beliebt, wird meist mit griechischer Herkunft und Bedeutungen wie „die Leuchtende“ verbunden. Einzelne gemischte Kommentare gibt es, sie prägen das Gesamtbild aber nicht.",
+  "evidence_quality": "hoch; zwei klare namenskundliche Webquellen, davon eine mit starkem Faktenfokus und eine mit zusätzlichen Nutzerkommentaren",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Elena",
+  "normalized_name": "elena",
+  "overall_resonance": "Elena wird in deutschsprachigen Namensquellen überwiegend positiv und sehr vertraut wahrgenommen: als klangvoller, international gebräuchlicher und stilistisch eher zeitloser Mädchenname mit klarer Bedeutung und griechischem Ursprung. Die öffentliche Rezeption ist insgesamt informativ-wohlwollend, mit einzelnen gemischten Kommentaren in Nutzerbereichen.",
+  "practical_notes": [
+    "Für Suchmaschinen ist Elena ein Name mit hoher Wiedererkennbarkeit und klarer positiver Grundtönung.",
+    "Die Quellenlage ist stark, weil der Name selbst direkt im Fokus steht.",
+    "Die Rezeption wirkt eher sachlich-informativ als kontrovers."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Einzelne kommentarbasierten Quellen enthalten auch abwertende oder gemischte Reaktionen; das wirkt eher wie Nutzermeinung als wie belastbare Gesamtbewertung.",
+    "Die Beliebtheits- und Stilwahrnehmung stammt vor allem aus Namensportalen und ist nicht als allgemeingültige gesellschaftliche Aussage zu verstehen."
+  ],
+  "short_summary": "Elena gilt im deutschen Namensraum als beliebter, klangvoller und überwiegend positiv wahrgenommener Mädchenname mit griechischer Herkunft und der Bedeutung „die Leuchtende“.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.99,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Elena � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/E/El/Elena/"
+    },
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "mixed",
+      "source_type": "web",
+      "title": "&#9655; Vorname Elena: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Elena.html"
+    }
+  ],
+  "style_effect": [
+    "klangvoll",
+    "international",
+    "zeitlos",
+    "eher klassisch-modern",
+    "weiblich",
+    "positiv besetzt"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "hoch"
+}

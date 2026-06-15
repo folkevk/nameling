@@ -1,0 +1,59 @@
+{
+  "associations": [
+    "altfranzösische bzw. bretonische Herkunft",
+    "Form von Jodokus/Jodok",
+    "teils auch als Kurzform von Josef eingeordnet",
+    "Bedeutungen wie „der Herr“ oder „der Kämpfer / der Krieger“",
+    "Namenstag am 13. Dezember",
+    "selten, aber in Deutschland bekannt"
+  ],
+  "confidence": 0.83,
+  "display_text": "Josse wird in den Quellen überwiegend neutral und namenkundlich beschrieben. Der Name ist in Deutschland eher selten, wirkt kurz, eigenständig und traditionsnah. Er wird oft mit altfranzösisch/bretonischer Herkunft sowie Bezügen zu Jodokus oder Josef verbunden. Insgesamt ist die öffentliche Resonanz sachlich und unaufgeregt, mit wenig Alltagspräsenz, aber klarer Wiedererkennbarkeit.",
+  "evidence_quality": "mittel bis gut: zwei einschlägige Namensquellen mit überwiegend neutral-informativer Beschreibung, aber wenig Breite in der öffentlichen Wahrnehmung.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Josse",
+  "normalized_name": "josse",
+  "overall_resonance": "Josse wird in den vorliegenden Quellen überwiegend sachlich und neutral wahrgenommen. Der Name erscheint im deutschen Kontext eher selten, wirkt aber klar eigenständig und namenkundlich interessant.",
+  "practical_notes": [
+    "Für Suchende wirkt der Name klar, historisch und ungewöhnlich.",
+    "Die Aussprache und Schreibweise sind kurz und einprägsam.",
+    "Wegen der Seltenheit kann der Name erklärungsbedürftig sein."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Datenlage ist begrenzt und besteht vor allem aus Namenslexika; daraus lässt sich nur eine vorsichtige öffentliche Resonanz ableiten.",
+    "Einzelne Quellen enthalten Nutzerkommentare, die nicht als allgemeine Meinung gewertet werden sollten."
+  ],
+  "short_summary": "Josse gilt in Deutschland als seltener, sachlich wirkender Vorname mit altfranzösisch/bretonischen Bezügen und neutraler, eher traditionsnaher Resonanz.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Josse � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/J/Jo/Josse/"
+    },
+    {
+      "confidence": 0.9,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Josse: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Josse.html"
+    }
+  ],
+  "style_effect": [
+    "kurz und prägnant",
+    "traditionsnah",
+    "namenkundlich markant",
+    "eher ungewöhnlich als geläufig",
+    "sachlich statt modisch"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Eher geringe Alltagspräsenz in Deutschland; als seltener, aber vorhandener Vorname beschrieben."
+}

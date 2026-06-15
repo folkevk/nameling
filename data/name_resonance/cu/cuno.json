@@ -1,0 +1,63 @@
+{
+  "associations": [
+    "althochdeutsch",
+    "Kurzform von Kuni-/Konrad-bezogenen Namen",
+    "Kühne",
+    "Tapfere",
+    "Sippe/Geschlecht",
+    "Ritterromane",
+    "Adelskreise",
+    "selten"
+  ],
+  "confidence": 0.87,
+  "display_text": "Cuno wirkt in der öffentlichen Wahrnehmung vor allem selten, traditionell und historisch. Die vorliegenden Quellen beschreiben den Namen sachlich und verbinden ihn leicht positiv mit Bedeutungen wie „der Kühne“ oder „der Tapfere“. Eine breite Debatte oder starke gesellschaftliche Wertung ist nicht erkennbar.",
+  "evidence_quality": "mittel bis eher schwach; zwei einschlägige Lexikon-/Namensseiten, aber keine breite öffentliche Diskussionslage",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Cuno",
+  "normalized_name": "cuno",
+  "overall_resonance": "Cuno wird in den vorliegenden Quellen überwiegend sachlich-neutral und leicht positiv dargestellt. Der Name wirkt traditionell, selten und historisch eingebettet, mit Bezügen zu Bedeutungen wie „der Kühne“ oder „der Tapfere“.",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt Cuno klassisch und ungewöhnlich zugleich.",
+    "Die Aussprache und Schreibweise sind kurz und klar, der Name bleibt aber im Alltag eher selten.",
+    "Die öffentliche Rezeption ist eher informativ als emotional besetzt."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist begrenzt und stammt vor allem aus einzelnen Namensdatenbanken.",
+    "Es gibt keine Hinweise auf eine breite öffentliche Debatte oder starke gesellschaftliche Bewertung des Namens.",
+    "Die positiven Konnotationen ergeben sich vor allem aus der Namensbedeutung, nicht aus einer öffentlichen Trendwahrnehmung."
+  ],
+  "short_summary": "Cuno wird selten, traditionell und historisch wahrgenommen, mit leicht positiven Bedeutungsassoziationen, aber ohne breite öffentliche Resonanz.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.88,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "Vorname Cuno � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/C/Cu/Cuno/"
+    },
+    {
+      "confidence": 0.89,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Cuno: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Cuno.html"
+    }
+  ],
+  "style_effect": [
+    "traditionell",
+    "historisch",
+    "namenskundlich",
+    "sachlich-informativ",
+    "leicht wertig durch Bedeutungsassoziationen",
+    "selten"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "eher niedrig; der Name erscheint selten und vor allem in Namenslexika statt in breiter öffentlicher Diskussion"
+}

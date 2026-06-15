@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "keltische Herkunft",
+    "französische bzw. bretonische Variante von Alan",
+    "Bedeutung in den Quellen meist als „Fels“ oder „kleiner Fels“ beschrieben",
+    "möglicher Bezug zu den Alanen",
+    "Namenstag am 8. September bzw. 8./9. September",
+    "in Deutschland eher selten"
+  ],
+  "confidence": 0.91,
+  "display_text": "Alain wird meist neutral bis leicht positiv beschrieben: französisch-klingend, elegant und eher selten in Deutschland. Die Quellen verbinden den Namen mit keltisch-französischer Herkunft und der Bedeutung rund um „Fels“; die Deutungen sind dabei teilweise vorsichtig zu lesen.",
+  "evidence_quality": "gut bis mittel; zwei einschlägige Namensquellen, inhaltlich konsistent, aber wenig breiter öffentliche Diskursnachweis",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Alain",
+  "normalized_name": "alain",
+  "overall_resonance": "Alain wird in der öffentlichen Namensbeschreibung überwiegend neutral bis leicht positiv wahrgenommen: eher elegant, international und sprachlich klar französisch geprägt. In Deutschland gilt der Name laut den Quellen als eher selten.",
+  "practical_notes": [
+    "Der Name wirkt im deutschsprachigen Raum vertraut, aber nicht alltäglich.",
+    "Die Schreibweise ist kurz und gut merkbar.",
+    "Die Aussprache dürfte im Deutschen meist unkompliziert sein, kann aber wegen der französischen Prägung gelegentlich nachgefragt werden."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist sprachlich und inhaltlich relativ einheitlich, aber stark auf wenige Namenslexikon-Quellen gestützt.",
+    "Bedeutungsangaben werden in den Quellen teilweise als möglich bzw. nicht ganz gesichert beschrieben; daher vorsichtig formulieren."
+  ],
+  "short_summary": "Alain wirkt in den vorliegenden Quellen vor allem neutral-informativ und leicht elegant. In Deutschland ist der Name eher selten und wird mit keltisch-französischer Herkunft sowie der Bedeutung rund um „Fels“ verbunden.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Alain � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/A/Al/Alain/"
+    },
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Alain: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Alain.html"
+    }
+  ],
+  "style_effect": [
+    "französisch klingend",
+    "elegant",
+    "international",
+    "namenskundlich",
+    "eher klassisch als modern",
+    "kurz und markant"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "eher gering bis mittel; als Vorname bekannt, aber nicht sehr verbreitet"
+}

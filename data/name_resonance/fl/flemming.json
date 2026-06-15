@@ -1,0 +1,65 @@
+{
+  "associations": [
+    "altnordische Herkunft",
+    "Dänemark",
+    "Flandern",
+    "Bedeutung: \"der Flame\"",
+    "Bedeutung: \"aus Flandern stammend\"",
+    "Jungenname",
+    "selten in Deutschland",
+    "Namenstag",
+    "Spitznamen möglich"
+  ],
+  "confidence": 0.8,
+  "display_text": "Flemming wirkt in der öffentlichen Namenswahrnehmung überwiegend neutral bis leicht positiv: ein seltener, skandinavisch geprägter Jungenname mit eigenständigem, unaufdringlichem Stil. Die Einschätzung basiert jedoch vor allem auf Namenslexika und weniger auf breiter öffentlicher Diskussion.",
+  "evidence_quality": "mittel bis schwach: überwiegend Namenslexika/Datenseiten, kaum direkte öffentliche Diskussion",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Flemming",
+  "normalized_name": "flemming",
+  "overall_resonance": "Überwiegend neutral bis leicht positiv. Flemming wird in den Quellen vor allem sachlich als skandinavisch-altnordischer Jungenname beschrieben; die öffentliche Wahrnehmung wirkt eher selten, eigenständig und stilistisch unaufdringlich.",
+  "practical_notes": [
+    "Für Suchmaschinen ist eine kurze Einordnung als seltener, skandinavisch geprägter Jungenname passend.",
+    "Der Name wirkt stilistisch eigenständig und eher nüchtern als modisch überladen.",
+    "Je nach Kontext kann die Seltenheit als Pluspunkt wahrgenommen werden.",
+    "Die Schreibweise ist klar und etabliert; alternative Kurzformen werden in den Quellen teils erwähnt."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist insgesamt eher schwach, da sie vor allem auf Namensdatenbanken und lexikalischen Einträgen basiert.",
+    "Es ist keine breite öffentliche Meinungsdiskussion erkennbar; die Einschätzung beruht vor allem auf Herkunfts- und Bedeutungsangaben.",
+    "Positive Wirkungen wie \"modern\" oder \"schön\" stammen teilweise aus gemischten Quellen und sollten vorsichtig gelesen werden."
+  ],
+  "short_summary": "Flemming wird in den verfügbaren Quellen vor allem als seltener, skandinavisch-altnordischer Jungenname beschrieben; die Resonanz wirkt sachlich und eher positiv, aber die Evidenz ist begrenzt.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.91,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Flemming � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/F/Fl/Flemming/"
+    },
+    {
+      "confidence": 0.81,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Flemming: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Flemming.html"
+    }
+  ],
+  "style_effect": [
+    "skandinavisch",
+    "eigenständig",
+    "unkitschig",
+    "modern wirkend",
+    "sachlich",
+    "selten"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland eher selten bis mäßig verbreitet und dadurch auffälliger als sehr geläufige Namen. Die Sichtbarkeit entsteht vor allem über Namenslexika und weniger über breite öffentliche Diskussionen."
+}

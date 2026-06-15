@@ -1,0 +1,64 @@
+{
+  "associations": [
+    "verschiedene etymologische Deutungen",
+    "Bedeutung und Herkunft",
+    "Namenstag",
+    "weiblicher Vorname",
+    "modern/modisch",
+    "Mut und Kraft als Deutungsfelder",
+    "Schmetterling/Wasser in einzelnen Quellen",
+    "Spitznamen bzw. alltagsnahe Varianten"
+  ],
+  "confidence": 0.88,
+  "display_text": "Yara wirkt in Deutschland überwiegend modern, freundlich und klanglich angenehm. Die öffentliche Rezeption ist eher positiv und sachlich; im Vordergrund stehen Herkunft, Bedeutung und Namenstag. Wichtig ist: Die Bedeutungsangaben sind nicht überall einheitlich, sondern variieren je nach Quelle.",
+  "evidence_quality": "gut bis solide, aber stark auf Namenslexika und einzelne Bewertungsseiten konzentriert; daher inhaltlich brauchbar, jedoch mit begrenzter Breite",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Yara",
+  "normalized_name": "yara",
+  "overall_resonance": "Überwiegend positiv und modern-sachlich wahrgenommen, mit starker Fokusierung auf Herkunft, Bedeutung und Klang; die öffentliche Rezeption wirkt insgesamt freundlich, aber nicht einheitlich, da die Bedeutungsdeutungen je nach Quelle variieren.",
+  "practical_notes": [
+    "Für eine öffentliche Namenssuche wirkt Yara kurz, zugänglich und zeitgemäß.",
+    "Die Bedeutung kann je nach Quelle unterschiedlich ausgelegt werden; bei Bedarf sollte man eine konkrete Herkunftsvariante separat prüfen.",
+    "Die vorhandene Evidenz ist ordentlich, aber vor allem lexikalisch geprägt und weniger durch breit angelegte öffentliche Debatten."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Herkunfts- und Bedeutungsangaben sind nicht ganz einheitlich; mehrere etymologische Deutungen werden nebeneinander genannt.",
+    "Einzelne positive Zuschreibungen in Kommentar- oder Bewertungsbereichen sind subjektiv und sollten nicht als allgemeingültig verstanden werden.",
+    "Es gibt keine deutliche Stigmatisierung in der vorliegenden Evidenz; die Bewertung ist insgesamt eher neutral bis positiv."
+  ],
+  "short_summary": "Yara wird in Deutschland überwiegend modern, freundlich und klanglich angenehm wahrgenommen. Die öffentliche Rezeption ist eher positiv, wobei Herkunft und Bedeutung je nach Quelle unterschiedlich erklärt werden.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Yara � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/Y/Ya/Yara/"
+    },
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Yara: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Yara.html"
+    }
+  ],
+  "style_effect": [
+    "modern",
+    "weich im Klang",
+    "kurz und prägnant",
+    "international anmutend",
+    "informativ/namenskundlich",
+    "leicht elegant",
+    "zeitgemäß"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Im deutschen Namenskontext gut sichtbar und etabliert, vor allem in Namenslexika und Community-/Bewertungsseiten; die Evidenzlage ist solide, aber eher auf Namensportale als auf breit gestreute Alltagsnutzung gestützt."
+}

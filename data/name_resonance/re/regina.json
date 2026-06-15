@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "lateinische Herkunft",
+    "Bedeutung: „die Königin“ / „die Herrscherin“",
+    "historisch klassischer Vorname",
+    "früher in Deutschland beliebter",
+    "heute eher selten",
+    "Namenstag",
+    "Spitznamen wie Gina, Regi, Rina"
+  ],
+  "confidence": 0.91,
+  "display_text": "Regina wirkt in den vorliegenden Quellen überwiegend positiv und klassisch: ein traditioneller, eher seltener Vorname mit edler Bedeutung („die Königin“). Die öffentliche Resonanz ist jedoch nur indirekt belegt, da die Quellen vor allem Namenslexika sind.",
+  "evidence_quality": "mittel: klare Namenskontext-Evidenz, aber nur indirekte Hinweise auf öffentliche Wahrnehmung",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Regina",
+  "normalized_name": "regina",
+  "overall_resonance": "Überwiegend positiv bis neutral. Regina wird in den Quellen vor allem als klassischer, traditioneller Vorname mit edler Bedeutung beschrieben; eine breite aktuelle öffentliche Debatte ist aber nicht erkennbar.",
+  "practical_notes": [
+    "Für viele wirkt Regina vertraut und seriös.",
+    "Der Name kann je nach Kontext etwas klassisch oder älter erscheinen.",
+    "Keine Hinweise auf eine gesellschaftliche Stigmatisierung in der vorliegenden Evidenz."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt überwiegend aus Namenslexika und Beliebtheitsseiten, nicht aus belastbarer öffentlicher Meinungsforschung.",
+    "Daher ist die Aussage zur öffentlichen Resonanz nur indirekt und vorsichtig interpretierbar."
+  ],
+  "short_summary": "Regina wird meist positiv als klassischer, traditionsreicher Vorname mit der Bedeutung „die Königin“ wahrgenommen; heute ist er in Deutschland eher selten.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Regina � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/R/Re/Regina/"
+    },
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Regina: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Regina.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "würdig",
+    "traditionell",
+    "eher zeitlos",
+    "lexikalisch klar",
+    "leicht förmlich"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland bekannt, aber heute eher seltener als früher. Der Name wirkt dadurch eher etabliert als trendig."
+}

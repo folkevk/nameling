@@ -1,0 +1,64 @@
+{
+  "associations": [
+    "Anmut",
+    "Gnade",
+    "lateinische Herkunft",
+    "englische Variante",
+    "Tugendname",
+    "Namenstag",
+    "elegant",
+    "wunderschön",
+    "Grace Kelly"
+  ],
+  "confidence": 0.87,
+  "display_text": "Grace wirkt in Deutschland überwiegend positiv: elegant, international und mit Bedeutungen wie Anmut und Gnade verbunden. Die Evidenz ist jedoch vor allem aus Namenslexika, also eher vorsichtig zu bewerten.",
+  "evidence_quality": "mittel: zwei klare, namebezogene Quellen mit überwiegend positiver Tonalität, aber vor allem lexikalische statt diskursive Evidenz",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Grace",
+  "normalized_name": "grace",
+  "overall_resonance": "Überwiegend positiv und wertschätzend, vor allem in namenkundlichen Quellen. 'Grace' wird meist mit Anmut, Gnade und einem eleganten, internationalen Klang verbunden. Die öffentliche Resonanz wirkt eher freundlich als kontrovers.",
+  "practical_notes": [
+    "Für Suchmaschinen und Namensportale wird 'Grace' meist klar positiv eingeordnet.",
+    "Der Name wirkt im deutschen Kontext international und stilvoll, ohne laut oder verspielt zu erscheinen.",
+    "Als kurze, gut erkennbare Form lässt er sich leicht merken und aussprechen."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt vor allem aus Namenslexika und nicht aus breiten öffentlichen Diskussionen.",
+    "Die positive Wirkung kann daher stärker durch Nachschlagewerke als durch allgemeine Alltagsresonanz geprägt sein.",
+    "Aussagen zur Beliebtheit in Deutschland sollten vorsichtig gelesen werden, da keine umfassende Diskussionslage vorliegt."
+  ],
+  "short_summary": "Grace wird in Deutschland vor allem als eleganter, internationaler und positiv besetzter Vorname wahrgenommen. Die verfügbare Evidenz ist eher lexikalisch als breit öffentlich diskutiert.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "positive",
+      "source_type": "web",
+      "title": "Vorname Grace � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/G/Gr/Grace/"
+    },
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Grace: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Grace.html"
+    }
+  ],
+  "style_effect": [
+    "elegant",
+    "international",
+    "klassisch",
+    "kurz und prägnant",
+    "wertig",
+    "sanft"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Die Sichtbarkeit in Deutschland wirkt vorhanden, aber eher als Nischenname mit klarer, positiver Lexikon-Präsenz statt als breit diskutierter Mainstream-Name."
+}

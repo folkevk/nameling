@@ -1,0 +1,69 @@
+{
+  "associations": [
+    "Kurzform von Louis, Louise oder Louisa",
+    "Unisex-Name / genderneutral",
+    "französische und englische Nutzung",
+    "Bedeutung im Umfeld von 'berühmt' und 'Kampf/Krieg'",
+    "kurz, modern und leicht merkbar",
+    "in Deutschland bekannt und gelistet"
+  ],
+  "confidence": 0.86,
+  "display_text": "Lou wirkt in der öffentlichen Wahrnehmung eher modern, kurz und sympathisch. Der Name wird häufig als Unisex-Name oder als Kurzform von Louis/Louise/Louisa beschrieben und mit internationalem, unkompliziertem Stil verbunden. Eine starke Kontroverse ist in der vorliegenden Evidenz nicht erkennbar.",
+  "evidence_quality": "mittel bis gut: mehrere einschlägige Namensseiten mit hoher thematischer Passung, aber überwiegend lexikalisch und nicht diskursiv",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Lou",
+  "normalized_name": "lou",
+  "overall_resonance": "Eher positiv und modern, mit klarer Tendenz zu einer freundlichen, zeitgemäßen Wahrnehmung. Lou wird in den Quellen vor allem als kurzer, genderneutraler Vorname mit internationaler Anmutung beschrieben.",
+  "practical_notes": [
+    "Für Suchmaschinen-Nutzer wirkt Lou wie ein unkomplizierter, moderner Name mit internationalem Flair.",
+    "Die Kurzform kann je nach Kontext als eigenständiger Vorname oder als Abkürzung wahrgenommen werden.",
+    "Die Wahrnehmung ist tendenziell freundlich und neutral bis positiv, ohne starke Kontroversen."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz besteht fast ausschließlich aus Namenslexika und beschreibenden Einträgen, nicht aus echter öffentlicher Debatte.",
+    "Positive Tendenzen stammen teils aus redaktionellen Wertungen; belastbare Meinungsvielfalt ist nur begrenzt sichtbar.",
+    "Keine Hinweise auf eine relevante Stigmatisierung oder problematische gesellschaftliche Aufladung in den vorliegenden Quellen."
+  ],
+  "short_summary": "Lou wird in Deutschland meist als moderner, kurzer und genderneutraler Vorname mit internationaler Anmutung wahrgenommen. Die öffentliche Resonanz ist überwiegend positiv bis neutral.",
+  "source_count": 3,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Lou � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/L/Lo/Lou/"
+    },
+    {
+      "confidence": 0.95,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Lou � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/L/Lo/Lou/"
+    },
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "überwiegend positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Lou: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Lou.html"
+    }
+  ],
+  "style_effect": [
+    "kurz und prägnant",
+    "modern und unkompliziert",
+    "international/französisch anmutend",
+    "genderneutral/unisex",
+    "eher weich und freundlich",
+    "selbstständig verwendbar oder als Kurzform"
+  ],
+  "usable_evidence_count": 3,
+  "visibility": "In Deutschland sichtbar, aber eher als moderner Kurzname bzw. Rufname als als sehr traditioneller Klassiker. Die öffentliche Wahrnehmung wirkt insgesamt eher beschreibend als kontrovers."
+}

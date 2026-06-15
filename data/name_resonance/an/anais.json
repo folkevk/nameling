@@ -1,0 +1,50 @@
+{
+  "associations": [
+    "französische Nebenform von Anna",
+    "provenzalische und katalanische Bezüge",
+    "Bedeutung im Umfeld von Anmut / Gnade",
+    "Namenslexikon, Herkunft, Bedeutung",
+    "Seltenheit im deutschsprachigen Raum"
+  ],
+  "confidence": 0.72,
+  "display_text": "Anaïs wirkt im deutschsprachigen Raum eher selten, aber stilvoll und positiv besetzt. Der Name wird vor allem mit französischem bzw. romanischem Klang, Anmut und einer besonderen, internationalen Note verbunden. Die Evidenz ist jedoch begrenzt und stützt sich im Wesentlichen auf eine einzelne Namenslexikon-Quelle.",
+  "evidence_quality": "eingeschränkt bis mittel: klare Namensbeschreibung vorhanden, aber nur eine Quelle und teils subjektive Zusatzstimmen",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Anaïs",
+  "normalized_name": "anais",
+  "overall_resonance": "eher positiv und stilvoll wahrgenommen, mit einem leicht exotischen bzw. französisch geprägten Eindruck",
+  "practical_notes": [
+    "Für Suchmaschinen- und Kurzprofile eignet sich eine Beschreibung wie: 'französisch geprägt, selten, elegant'.",
+    "Im deutschen Kontext kann der Name durch die Schreibweise mit Trema auffallen.",
+    "Die Aussprache und Schreibweise können erklärungsbedürftig sein, wenn der Name nur aus dem Schriftbild bekannt ist."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist schwach bis moderat, da sie im Wesentlichen auf einer einzelnen Namenslexikon-Quelle beruht.",
+    "Einige angegebene Einschätzungen können aus Nutzerkommentaren stammen und sind daher subjektiv.",
+    "Die Wahrnehmung 'elegant' oder 'französisch' ist eine öffentliche Stilassoziation, keine objektive Eigenschaft des Namens."
+  ],
+  "short_summary": "Anaïs wird öffentlich meist als seltener, französisch geprägter und elegant wirkender Vorname mit positiver, kulturell-historischer Resonanz wahrgenommen.",
+  "source_count": 1,
+  "sources": [
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Anaïs: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Ana%C3%AFs.html"
+    }
+  ],
+  "style_effect": [
+    "klingt elegant und weich",
+    "wirkt international bzw. französisch",
+    "hat einen kulturell-romantischen Anklang",
+    "wird als selten und dadurch besonders beschrieben"
+  ],
+  "usable_evidence_count": 1,
+  "visibility": "im deutschsprachigen Raum eher selten und dadurch auffälliger als gebräuchlich; die öffentliche Wahrnehmung wirkt eher namenslexikalisch als alltagspräsent"
+}

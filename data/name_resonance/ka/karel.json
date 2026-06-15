@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "Form von Karl",
+    "niederländische und tschechische Namensvariante",
+    "Bedeutungen wie „der Freie“ bzw. „der (Ehe)Mann“",
+    "männlicher Vorname",
+    "historisch bekannt",
+    "im deutschen Raum selten"
+  ],
+  "confidence": 0.86,
+  "display_text": "Karel wirkt in Deutschland selten, sachlich und leicht klassisch-international. Die Quellen ordnen ihn als Form von Karl ein; negative öffentliche Konnotationen sind nicht erkennbar.",
+  "evidence_quality": "mittel bis gut; die Quellen sind inhaltlich passend und überwiegend konsistent, aber hauptsächlich lexikalisch-informativ statt meinungsbasiert.",
+  "generated_at": "2026-06-14T10:47:41Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Karel",
+  "normalized_name": "karel",
+  "overall_resonance": "Karel wird in den vorliegenden deutschsprachigen Quellen vor allem sachlich und namenkundlich eingeordnet. Der Name wirkt selten, historisch bzw. international geprägt und insgesamt eher neutral bis leicht positiv im Stil.",
+  "practical_notes": [
+    "Für deutschsprachige Nutzer wirkt der Name eher ungewöhnlich als vertraut.",
+    "Die Schreibweise ist klar, international gut anschlussfähig und leicht lesbar.",
+    "Der Name kann je nach Kontext als traditionelle Form von Karl wahrgenommen werden.",
+    "Wegen der Seltenheit kann er auffallen, ohne automatisch exotisch zu wirken."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt überwiegend aus Namenslexika und Informationsseiten, nicht aus breiter öffentlicher Debatte.",
+    "Aussagen zur Beliebtheit sollten vorsichtig gelesen werden, da sie je nach Quelle und Zeitraum variieren können.",
+    "Es liegen keine Hinweise auf eine soziale Stigmatisierung oder negative öffentliche Konnotation vor."
+  ],
+  "short_summary": "Karel wird in Deutschland als seltener, historisch-international geprägter Vorname sachlich und eher neutral bis leicht positiv wahrgenommen.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Karel � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/K/Ka/Karel/"
+    },
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Karel: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Karel.html"
+    }
+  ],
+  "style_effect": [
+    "sachlich",
+    "klassisch-historisch",
+    "international/niederländisch-tschechisch geprägt",
+    "selten",
+    "leicht markant ohne starke emotionale Aufladung"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland laut den Quellen sehr selten und daher eher ungewohnt, aber klar als eigenständige Namensform sichtbar."
+}

@@ -1,0 +1,63 @@
+{
+  "associations": [
+    "Bedeutung und Herkunft",
+    "Namenstag",
+    "kurze Form / Koseform",
+    "Maria-Bezug",
+    "Perle",
+    "Geliebte",
+    "Namenslexikon",
+    "Beliebtheitskontext"
+  ],
+  "confidence": 0.83,
+  "display_text": "Marita wirkt in den verfügbaren Quellen sachlich, freundlich und traditionell. Die Evidenz stammt vor allem aus Namensportalen, daher ist die öffentliche Resonanz nur vorsichtig belegbar. Eine klare Stigmatisierung ist nicht erkennbar.",
+  "evidence_quality": "mittel bis gut für namenkundliche Basisdaten, aber schwach für echte öffentliche Resonanz; überwiegend lexikalische Namensportale statt offener Diskussion.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Marita",
+  "normalized_name": "marita",
+  "overall_resonance": "Marita wird in den vorliegenden Quellen vor allem sachlich-informativ und eher freundlich-nüchtern wahrgenommen. Der Name wirkt traditionell, vertraut und leicht klassisch; eine starke öffentliche Debatte oder klare soziale Stigmatisierung ist in der Evidenz nicht erkennbar.",
+  "practical_notes": [
+    "Für eine Namenssuche ist Marita gut verständlich und klar weiblich konnotiert.",
+    "Der Name wirkt eher zeitlos als modisch.",
+    "In den Quellen steht die Namensbedeutung stärker im Vordergrund als emotionale oder kontroverse Rezeption."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist auf Namensportale begrenzt; daraus lässt sich keine breite gesellschaftliche Resonanz sicher ableiten.",
+    "Gemischte Herkunftsangaben in einzelnen Quellen sollten vorsichtig interpretiert werden.",
+    "Keine Hinweise auf eine spezifische soziale Stigmatisierung in den Quellen; falls irgendwo Bewertungen auftauchen, sind sie nicht belastbar genug für eine allgemeine Aussage."
+  ],
+  "short_summary": "Marita wird überwiegend sachlich, freundlich und traditionell eingeordnet; die öffentliche Resonanz wirkt eher ruhig als kontrovers.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Marita � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/M/Ma/Marita/"
+    },
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Marita: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Marita.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "bodenständig",
+    "weiblich",
+    "vertraut",
+    "lexikalisch",
+    "leicht traditionell"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Eher moderate Sichtbarkeit im deutschsprachigen Namenskontext: Der Name taucht in Namensportalen mit Herkunft, Bedeutung und Beliebtheit auf, aber die Evidenz zeigt keine breite freie Diskussion im öffentlichen Raum."
+}

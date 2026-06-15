@@ -1,0 +1,59 @@
+{
+  "associations": [
+    "dänische bzw. nordische Kurz- oder Nebenform von Birgit/Birgitta",
+    "altnordische und teils keltische Herkunftsdeutungen",
+    "Bedeutungen wie \"die Helfende\" oder \"die Erhabene\"",
+    "seltener Vorname in Deutschland",
+    "Namenstag in den Quellen erwähnt"
+  ],
+  "confidence": 0.72,
+  "display_text": "Birthe wirkt in Deutschland eher selten und zurückhaltend, mit nordisch-traditioneller Anmutung. Die vorhandene Evidenz ist vor allem lexikalisch: Herkunft, Bedeutung und Namenstag werden genannt, echte öffentliche Diskussionen oder Kontroversen sind kaum erkennbar. Insgesamt daher eine vorsichtige Einordnung als neutral bis leicht positiv.",
+  "evidence_quality": "Begrenzt: zwei Namenslexikon-Quellen, konsistente Sachinformationen, aber kaum unabhängige öffentliche Resonanz oder Meinungsvielfalt.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Birthe",
+  "normalized_name": "birthe",
+  "overall_resonance": "Überwiegend neutral bis leicht positiv; der Name wirkt sachlich, traditionsnah und eher selten. Die vorhandene Evidenz beschreibt Birthe vor allem lexikalisch, nicht als breit öffentlich diskutierten Namen.",
+  "practical_notes": [
+    "Gut geeignet, wenn ein kurzer, nordisch klingender und eher seltener Name gesucht wird.",
+    "Die Schreibweise ist schlicht und gut lesbar, aber im Alltag nicht sehr verbreitet.",
+    "Für Suchmaschinen-Nutzer kann der Name vor allem über Herkunft und Bedeutung interessant sein."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist schwach und stammt fast vollständig aus Namenslexika; echte öffentliche Debatte fehlt.",
+    "Keine belastbaren Hinweise auf starke positive oder negative gesellschaftliche Bewertungen.",
+    "Seltenheit kann als ungewohnt empfunden werden, ist aber keine negative Wertung."
+  ],
+  "short_summary": "Birthe wird in den Quellen als seltener, nordisch geprägter und überwiegend neutral bis leicht positiv wirkender Vorname beschrieben.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Birthe � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/B/Bi/Birthe/"
+    },
+    {
+      "confidence": 0.95,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Birthe: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Birthe.html"
+    }
+  ],
+  "style_effect": [
+    "kurz und klar",
+    "nordisch/traditionsnah",
+    "sanft und zurückhaltend",
+    "modern weniger geläufig",
+    "lexikalisch statt trendig"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland eher geringe Sichtbarkeit und als ungewöhnlich wahrgenommen; die Quellen sprechen von einem seltenen Vornamen."
+}

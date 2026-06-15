@@ -1,0 +1,69 @@
+{
+  "associations": [
+    "hebräische Herkunft",
+    "biblischer Bezug",
+    "Bedeutungen wie „Geschenk Gottes“, „Mann Gottes“ oder „er existiert“",
+    "geschlechtsneutral/unisex",
+    "Namenstag am 29. Dezember",
+    "in Deutschland als Vorname bekannt",
+    "teils als englisch bzw. international wahrgenommen"
+  ],
+  "confidence": 0.88,
+  "display_text": "Jesse wirkt öffentlich überwiegend sachlich-neutral bis leicht positiv. Der Name wird meist als hebräisch-biblisch und teils geschlechtsneutral/unisex beschrieben. Die Evidenz stammt vor allem aus Namenslexika, daher ist die Aussage zur Breitenwahrnehmung vorsichtig zu lesen.",
+  "evidence_quality": "Gut für namenkundliche Einordnung, aber nur mittel für die echte öffentliche Breitenwahrnehmung, da vor allem redaktionelle Quellen vorliegen.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Jesse",
+  "normalized_name": "jesse",
+  "overall_resonance": "Überwiegend sachlich-neutral bis leicht positiv; der Name wird vor allem informativ und namenkundlich eingeordnet, mit wenigen gemischten Einzelwertungen.",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt Jesse eher unkompliziert und gut anschlussfähig.",
+    "Die öffentliche Einordnung ist eher beschreibend als wertend.",
+    "Die Schreibweise ist kurz und international verständlich, was die Wahrnehmung zusätzlich stabilisiert."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt fast ausschließlich aus Namenslexika und Vornamensseiten; das ist für eine breite öffentliche Meinung nur begrenzt aussagekräftig.",
+    "Einzelne Nutzerkommentare können die Wahrnehmung leicht verschieben, sollten aber nicht als allgemeiner Konsens gelesen werden.",
+    "Keine Hinweise auf starke soziale Stigmatisierung oder eine klar negative Namensdebatte."
+  ],
+  "short_summary": "Jesse wird in der verfügbaren Evidenz vor allem neutral und informativ wahrgenommen, mit biblisch-hebräischen und unisex Assoziationen sowie insgesamt eher positiver bis gemischter Resonanz.",
+  "source_count": 3,
+  "sources": [
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Jesse � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/J/Je/Jesse/"
+    },
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Jesse � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/J/Je/Jesse/"
+    },
+    {
+      "confidence": 0.95,
+      "is_name_discussion": true,
+      "sentiment": "mixed",
+      "source_type": "web",
+      "title": "&#9655; Vorname Jesse: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Jesse.html"
+    }
+  ],
+  "style_effect": [
+    "kurz und prägnant",
+    "international wirkend",
+    "biblisch/hebräisch konnotiert",
+    "geschlechtsneutral bzw. unisex wahrgenommen",
+    "modern, aber nicht auffällig laut"
+  ],
+  "usable_evidence_count": 3,
+  "visibility": "Mittel bis gut sichtbar in deutschen Namenslexika und Vornamensseiten, aber ohne Hinweis auf eine breite öffentliche Debatte."
+}

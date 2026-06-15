@@ -1,0 +1,59 @@
+{
+  "associations": [
+    "„die Weiße“ / „die Glänzende“",
+    "slawische bzw. auch spanisch geprägte Namensform",
+    "weiblicher Vorname",
+    "Namenstag wird genannt",
+    "selten in Deutschland"
+  ],
+  "confidence": 0.76,
+  "display_text": "Blanka klingt in deutschsprachigen Quellen eher freundlich, elegant und selten. Der Name wird meist sachlich bis positiv beschrieben, mit Bedeutungen wie „die Weiße“ oder „die Glänzende“. Für die öffentliche Wahrnehmung gibt es jedoch nur begrenzte Evidenz, da vor allem Namenslexika und wenige Kommentarquellen vorliegen.",
+  "evidence_quality": "mittel: gut für Bedeutung, Herkunft und Namenstag; schwächer für allgemeine öffentliche Wahrnehmung",
+  "generated_at": "2026-06-14T10:47:41Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Blanka",
+  "normalized_name": "blanka",
+  "overall_resonance": "Blanka wird in deutschsprachigen Namensquellen insgesamt eher freundlich und sachlich wahrgenommen. Der Name wirkt eher selten, klar weiblich und sprachlich elegant, mit positiven Assoziationen rund um Bedeutung und Klang. Die öffentliche Resonanz ist jedoch nur begrenzt belastbar, weil die vorliegende Evidenz vor allem aus Namenslexika und einzelnen Kommentarbereichen stammt.",
+  "practical_notes": [
+    "Für Suchmaschinen-Nutzende wirkt Blanka eher freundlich, eigenständig und unkompliziert.",
+    "Die Seltenheit kann als Besonderheit wahrgenommen werden.",
+    "Je nach Umfeld kann die Schreibweise ohne Kontext gelegentlich erklärt werden müssen."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz zur öffentlichen Resonanz ist begrenzt und stark von Namensdatenbanken geprägt.",
+    "Positiv gefärbte Kommentare sind nicht ohne Weiteres repräsentativ für die Gesamtöffentlichkeit.",
+    "Keine belastbaren Hinweise auf gesellschaftliche Stigmatisierung in den Quellen."
+  ],
+  "short_summary": "Blanka wird in den Quellen überwiegend positiv, elegant und selten beschrieben, mit klarer Namensbedeutung und freundlicher Tonlage. Die Aussagekraft zur öffentlichen Resonanz ist aber nur begrenzt, weil vor allem lexikalische Quellen vorliegen.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Blanka � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/B/Bl/Blanka/"
+    },
+    {
+      "confidence": 0.9,
+      "is_name_discussion": true,
+      "sentiment": "positive",
+      "source_type": "web",
+      "title": "&#9655; Vorname Blanka: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Blanka.html"
+    }
+  ],
+  "style_effect": [
+    "elegant",
+    "klassisch-mediterran bzw. slawisch geprägt",
+    "klar und kurz",
+    "seltenheitsbetont",
+    "namenskundlich interessant"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland offenbar eher selten und dadurch nicht sehr allgegenwärtig. Der Name ist bekannt, aber kein typischer Massenname."
+}

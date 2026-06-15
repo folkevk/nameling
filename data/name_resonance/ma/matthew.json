@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "biblische Herkunft",
+    "englische Form von Matthias",
+    "hebräischer Ursprung",
+    "Bedeutung: Geschenk/Gabe Gottes",
+    "Namenstag(e)",
+    "internationale Verwendbarkeit",
+    "Spitznamen wie Matt oder Matty"
+  ],
+  "confidence": 0.86,
+  "display_text": "Matthew wirkt in Deutschland überwiegend neutral bis leicht positiv: international, biblisch geprägt und mit der Bedeutung „Gabe Gottes“ verbunden. Die vorliegende Evidenz stammt vor allem aus Namensseiten, daher ist die öffentliche Resonanz nur eingeschränkt abbildbar.",
+  "evidence_quality": "Eher gut für die Namensbedeutung und Grundwahrnehmung, aber begrenzt für eine echte öffentliche Resonanzkarte, da fast nur Namenslexika und Informationsseiten vorliegen.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Matthew",
+  "normalized_name": "matthew",
+  "overall_resonance": "Matthew wird in der vorliegenden deutschsprachigen Evidenz überwiegend neutral bis leicht positiv wahrgenommen. Der Name wird vor allem sachlich über Herkunft, Bedeutung und internationale Nutzbarkeit beschrieben, nicht als Gegenstand kontroverser öffentlicher Debatten.",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt Matthew in Deutschland vertraut, international anschlussfähig und überwiegend positiv besetzt.",
+    "Die Schreibweise kann als englisch wahrgenommen werden; das ist je nach Umfeld ein Stilmerkmal.",
+    "Wenn ein klar deutschsprachiger Eindruck gewünscht ist, könnte die englische Form auffallen, ohne jedoch negativ konnotiert zu sein."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist auf wenige Namensseiten beschränkt; breite öffentliche Rezeption in DE ist dadurch nur eingeschränkt abbildbar.",
+    "Es gibt keine belastbaren Hinweise auf eine gesellschaftliche Stigmatisierung oder starke Negativassoziationen in der vorliegenden Evidenz.",
+    "Beliebtheitsangaben erscheinen eher als Register-/Listeninformation und nicht als tiefe öffentliche Debatte."
+  ],
+  "short_summary": "Matthew wird in der vorliegenden Evidenz überwiegend neutral bis leicht positiv beschrieben: international, biblisch geprägt und mit der Bedeutung „Gabe Gottes“ verbunden. Die Datenlage ist jedoch eher informativ als breit öffentlich, daher nur vorsichtig interpretieren.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "Vorname Matthew � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/M/Ma/Matthew/"
+    },
+    {
+      "confidence": 0.94,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Matthew: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Matthew.html"
+    }
+  ],
+  "style_effect": [
+    "international und modern wirkend",
+    "namenskundlich klar verortet",
+    "eher weich/positiv konnotiert durch die Bedeutung",
+    "kurz und gut aussprechbar im internationalen Kontext",
+    "als englische Form von Matthias bekannt"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Mittlere Sichtbarkeit: Der Name taucht in Vornamenseiten und Namensdatenbanken auf, wird dort aber eher informativ als gesellschaftlich diskutiert."
+}

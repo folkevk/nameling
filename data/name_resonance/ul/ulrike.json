@@ -1,0 +1,62 @@
+{
+  "associations": [
+    "althochdeutsche Herkunft",
+    "Bedeutung: „reiche Erbin“ bzw. „Herrscherin der Heimat“",
+    "Namenstag am 4. Juli und 8. Mai",
+    "historisch in Deutschland bekannt",
+    "heute eher selten",
+    "Varianten/Spitznamen wie Ulli, Uli oder Rike"
+  ],
+  "confidence": 0.82,
+  "display_text": "Ulrike wird in der öffentlichen Wahrnehmung meist als klassischer, traditionsreicher und heute eher seltener Vorname gesehen. Die Resonanz ist insgesamt neutral bis leicht positiv: Der Name wirkt sachlich weiblich, historisch verankert und teils elegant, wird in einzelnen Quellen aber auch als etwas altmodisch oder sperrig beschrieben. Die Evidenz ist begrenzt und beruht vor allem auf namenskundlichen Quellen.",
+  "evidence_quality": "mittel bis schwach; wenige, vorwiegend namenkundliche Quellen mit teils subjektiven Einschätzungen",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Ulrike",
+  "normalized_name": "ulrike",
+  "overall_resonance": "Ulrike wird öffentlich vor allem als klassischer, traditionsreicher und sachlich eindeutig weiblicher Vorname wahrgenommen. Die vorhandenen Quellen deuten eher auf eine neutrale bis leicht positive Resonanz hin, mit Hinweisen auf Eleganz und historische Verankerung, aber auch vereinzelt auf eine als altmodisch, hart oder etwas sperrig empfundene Wirkung.",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt Ulrike solide, klar und traditionsbewusst.",
+    "Wer einen modernen Trendnamen sucht, könnte Ulrike als eher klassisch und weniger zeittypisch empfinden.",
+    "Die kurze Form oder Spitznamen können die Wirkung lockern."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist begrenzt und basiert auf wenigen namenskundlichen Webquellen; daraus lässt sich nur eingeschränkt eine allgemeine öffentliche Resonanz ableiten.",
+    "Einzelne wertende Beschreibungen wie „hart“ oder „sperrig“ sind subjektive Eindrücke und keine allgemeingültige Eigenschaft des Namens."
+  ],
+  "short_summary": "Ulrike gilt als klassischer, seltener und historisch geprägter Vorname mit eher neutral bis leicht positiver Resonanz. Einzelne Quellen beschreiben ihn als elegant, andere als etwas altmodisch oder sperrig; die öffentliche Evidenz ist dabei begrenzt.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Ulrike � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/U/Ul/Ulrike/"
+    },
+    {
+      "confidence": 0.86,
+      "is_name_discussion": true,
+      "sentiment": "mixed",
+      "source_type": "web",
+      "title": "&#9655; Vorname Ulrike: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Ulrike.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "traditionell",
+    "eher selten",
+    "historisch verankert",
+    "sachlich-weiblich",
+    "teils elegant",
+    "teils etwas hart oder sperrig empfunden",
+    "nordisch anmutend in einzelnen Beschreibungen"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland ist der Name bekannt, heute aber eher selten. Dadurch wirkt er eher vertraut als trendig und taucht in der öffentlichen Wahrnehmung vor allem in namenkundlichen Kontexten auf."
+}

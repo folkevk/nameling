@@ -1,0 +1,59 @@
+{
+  "associations": [
+    "Kurzform von Helena/Helene",
+    "mögliche Verbindung zu Helga",
+    "deutsche, dänische und norwegische Herkunft",
+    "Bedeutungen wie „die Strahlende“, „die Leuchtende“, „die Heilige“",
+    "selten bis moderat verbreitet in Deutschland",
+    "Namenstag"
+  ],
+  "confidence": 0.93,
+  "display_text": "Hella wirkt in der öffentlichen Wahrnehmung überwiegend neutral bis leicht positiv: ein klarer, traditionsnaher Name mit Bedeutungen wie „die Strahlende“ oder „die Leuchtende“. In Deutschland ist er eher selten bis moderat bekannt, daher steht weniger eine breite Populärwirkung als eine sachliche, namenskundliche Einordnung im Vordergrund.",
+  "evidence_quality": "gut für Herkunft, Bedeutung und Einordnung; schwach bis begrenzt für eine breitere öffentliche Resonanz.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Hella",
+  "normalized_name": "hella",
+  "overall_resonance": "Überwiegend sachlich und neutral mit leicht positivem Klang durch Bedeutungen wie „die Strahlende“ oder „die Leuchtende“.",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt Hella traditionsnah, freundlich und klar.",
+    "Die Wahrnehmung dürfte stark vom persönlichen Stilkontext abhängen, da der Name nicht sehr breit im Alltag auffällt."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt vor allem aus Namenslexika und beschreibt eher Herkunft und Bedeutung als echte öffentliche Diskussion.",
+    "Eventuelle Eindrücke zu „altmodisch“ oder „ungewöhnlich“ sind vorsichtig zu lesen und keine allgemeingültige Bewertung."
+  ],
+  "short_summary": "Hella wird öffentlich meist neutral und namenskundlich wahrgenommen, mit eher positiver Assoziation durch die Bedeutung und einer in Deutschland eher seltenen, traditionsnahen Ausstrahlung.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.95,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Hella � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/H/He/Hella/"
+    },
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Hella: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Hella.html"
+    }
+  ],
+  "style_effect": [
+    "kurz",
+    "klar",
+    "klassisch-anmutend",
+    "leicht altmodisch",
+    "namenskundlich geprägt",
+    "weicher Klang"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland eher selten bis moderat bekannt; die öffentliche Sichtbarkeit wirkt daher eher begrenzt und namenskundlich als breit diskutiert."
+}

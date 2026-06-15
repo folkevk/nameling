@@ -1,0 +1,59 @@
+{
+  "associations": [
+    "althochdeutsche Herkunft",
+    "Bedeutung in Richtung „der Reiche“, „der Wohlhabende“ oder „der Erbe“",
+    "männlicher Vorname",
+    "selten bis moderat bekannt in Deutschland",
+    "teils als modern wahrgenommen"
+  ],
+  "confidence": 0.74,
+  "display_text": "Otis wirkt in Deutschland überwiegend neutral bis leicht positiv: modern, kurz und markant, dabei eher selten. Die verfügbare Evidenz ist begrenzt und stammt vor allem aus Namenslexika, daher ist die öffentliche Resonanz nur vorsichtig ableitbar.",
+  "evidence_quality": "Begrenzt: überwiegend lexikalische Namensquellen, nur indirekte Hinweise auf öffentliche Rezeption.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Otis",
+  "normalized_name": "otis",
+  "overall_resonance": "Überwiegend neutral bis leicht positiv; der Name wirkt in Deutschland eher modern und markant, aber nicht massenhaft verbreitet.",
+  "practical_notes": [
+    "Für Suchende in Deutschland wirkt Otis eher eigenständig und nicht austauschbar.",
+    "Der Name kann durch die Kürze und den klaren Klang gut im Gedächtnis bleiben.",
+    "Je nach Umfeld kann die Seltenheit als Vorteil oder als ungewohnt empfunden werden."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz zur öffentlichen Resonanz ist schwach und stammt vor allem aus Namenslexika statt aus breiter öffentlicher Wahrnehmung.",
+    "Einzelne positive Einordnungen sind nicht repräsentativ für die Gesamtbevölkerung.",
+    "Aus Herkunft und Bedeutung lässt sich keine sichere Aussage über die heutige soziale Bewertung ableiten."
+  ],
+  "short_summary": "Otis wird in Deutschland eher neutral bis leicht positiv wahrgenommen: modern, kurz und markant, aber vergleichsweise selten. Die Evidenz dafür ist jedoch begrenzt und vor allem lexikalisch.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.94,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Otis � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/O/Ot/Otis/"
+    },
+    {
+      "confidence": 0.9,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Otis: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Otis.html"
+    }
+  ],
+  "style_effect": [
+    "modern",
+    "kurz und prägnant",
+    "leicht international wirkend",
+    "eher wiedererkennbar als klassisch",
+    "sachlich-positiver Klang"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Eher geringe bis mittlere Sichtbarkeit: bekannt, aber weiterhin vergleichsweise selten und dadurch auffällig."
+}

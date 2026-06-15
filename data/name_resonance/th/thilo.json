@@ -1,0 +1,58 @@
+{
+  "associations": [
+    "althochdeutsche Herkunft",
+    "Kurzformbezug zu älteren Vornamenformen",
+    "Bedeutungsbezüge wie „Volk“ bzw. „Mann des Volkes“",
+    "Namenstag",
+    "bekannt, aber eher nicht sehr häufig",
+    "einfach auszusprechen"
+  ],
+  "confidence": 0.86,
+  "display_text": "Thilo wirkt öffentlich überwiegend neutral bis positiv: klassisch, gut aussprechbar und traditionsnah. Die Quellen ordnen den Namen althochdeutsch ein, nennen Bedeutungen mit Bezug zu „Volk“ und beschreiben ihn als eher selten bis mittlere Verbreitung in Deutschland.",
+  "evidence_quality": "mittel bis gut; zwei einschlägige Namensquellen, aber begrenzte Breite und potenzieller Portal-Bias.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Thilo",
+  "normalized_name": "thilo",
+  "overall_resonance": "Thilo wird in den vorliegenden Namensquellen überwiegend neutral bis freundlich aufgenommen: als traditionsnaher, klar verständlicher Vorname mit althochdeutscher Einordnung und positiver Bedeutungsdeutung. Die öffentliche Resonanz wirkt eher sachlich-informativ als emotional oder kontrovers.",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt Thilo unkompliziert, klar und traditionell.",
+    "Die Wahrnehmung ist eher nüchtern-positiv als trendig oder ausgefallen."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt vor allem aus Namensportalen und ist daher eher beschreibend als unabhängig öffentlichkeitsanalytisch.",
+    "Keine Hinweise auf starke negative Stigmatisierung oder kontroverse soziale Aufladung in den vorliegenden Quellen."
+  ],
+  "short_summary": "Thilo wird meist sachlich-positiv wahrgenommen: ein klassischer, klarer und eher selten bis mittel häufig vorkommender Vorname mit traditionsnaher Wirkung.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Thilo � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/T/Th/Thilo/"
+    },
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Thilo: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Thilo.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch und bodenständig",
+    "kurz und gut aussprechbar",
+    "namenskundlich klar verortet",
+    "zeitlos statt modisch",
+    "eher sachlich als verspielt"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland scheint Thilo eher bekannt, aber nicht massenhaft verbreitet zu sein; die Quellen beschreiben ihn als eher selten bis mittlere Verbreitung."
+}

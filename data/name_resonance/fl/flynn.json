@@ -1,0 +1,58 @@
+{
+  "associations": [
+    "altirische bzw. irisch-gälische Herkunft",
+    "Familienname-als-Vorname",
+    "Bedeutung im Sinne von 'Nachfahre des Rothhaarigen' bzw. 'der Rötliche'",
+    "moderne, englischsprachige Anmutung",
+    "selten, aber im deutschsprachigen Raum bekannt"
+  ],
+  "confidence": 0.9,
+  "display_text": "Flynn gilt öffentlich meist als moderner, international klingender Jungenname mit irisch-gälischer Herkunft. Die Rezeption ist überwiegend neutral bis leicht positiv; der Name erscheint vor allem in Namenslexika und wird eher sachlich als kontrovers beschrieben.",
+  "evidence_quality": "Gut für Herkunft, Bedeutung und gängige Namenswahrnehmung; begrenzt für echte öffentliche Meinung, da vor allem Namensportale als Quelle vorliegen.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Flynn",
+  "normalized_name": "flynn",
+  "overall_resonance": "Überwiegend neutral bis leicht positiv: Flynn wird öffentlich vor allem als moderner, international klingender Jungenname wahrgenommen, mit klarer Namensherkunft und eher sachlich-informativer Rezeption.",
+  "practical_notes": [
+    "Für Suchende wirkt Flynn meist unkompliziert, modern und international.",
+    "Die Schreibweise ist kurz und klar, kann aber je nach Umfeld als eher ungewöhnlich wahrgenommen werden.",
+    "Eine starke gesellschaftliche Stigmatisierung ist in der vorliegenden Evidenz nicht erkennbar."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt überwiegend aus Namenslexika und nicht aus einer breiten öffentlichen Diskussion.",
+    "Die positiven oder neutralen Deutungen zur Herkunft und Bedeutung sind beschreibend, nicht als allgemeine Tatsachen über Träger des Namens zu verstehen."
+  ],
+  "short_summary": "Flynn wird in Deutschland überwiegend neutral bis leicht positiv wahrgenommen: moderner, internationaler Jungenname mit irisch-gälischer Herkunft und sachlich erklärter Bedeutung.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.95,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Flynn � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/F/Fl/Flynn/"
+    },
+    {
+      "confidence": 0.92,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Flynn: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Flynn.html"
+    }
+  ],
+  "style_effect": [
+    "modern",
+    "international/englisch wirkend",
+    "kurz und markant",
+    "namenskundlich aufgeladen",
+    "eher jung und zeitgemäß wahrgenommen"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland ist der Name bekannt und in Namenslexika präsent; die öffentliche Debatte wirkt jedoch eher begrenzt und lexikalisch als kontrovers oder stark emotional."
+}

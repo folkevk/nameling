@@ -1,0 +1,63 @@
+{
+  "associations": [
+    "männlicher Vorname",
+    "althebräische Herkunft",
+    "Variante von Johannes",
+    "Kurzform von János",
+    "Bedeutung: „JHWH ist gnädig“",
+    "Bedeutung: „JHWH ist gütig“",
+    "selten bis mittelhäufig eingeordnet",
+    "Namenstag",
+    "deutschsprachiger Namenskontext"
+  ],
+  "confidence": 0.82,
+  "display_text": "Janno wirkt in den verfügbaren Quellen freundlich-neutral und vor allem namenkundlich geprägt: ein männlicher Vorname mit Bezug zu Johannes/János, eher selten und ohne auffällige breite öffentliche Konnotation.",
+  "evidence_quality": "Begrenzt: konsistente, aber schmale Evidenz aus Namenslexika; kaum externe öffentliche Resonanz sichtbar.",
+  "generated_at": "2026-06-14T10:47:41Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Janno",
+  "normalized_name": "janno",
+  "overall_resonance": "Janno wird in den vorliegenden Quellen überwiegend sachlich und neutral beschrieben. Der Name erscheint als männlicher Vorname mit klarer namenkundlicher Einordnung, meist als Variante bzw. Kurzform im Umfeld von Johannes/János. Öffentliche Resonanz im engeren Sinn ist nur schwach belegt; sichtbar sind vor allem lexikalische Namensseiten, keine breite Debatte.",
+  "practical_notes": [
+    "Für die öffentliche Wahrnehmung ist vor allem der sachlich-namenkundliche Charakter relevant.",
+    "Der Name wirkt eher eigenständig und ungewöhnlich, ohne klar negativ oder positiv aufgeladene Nebenbedeutung.",
+    "Wenn Beliebtheit genannt wird, sollte sie vorsichtig als grobe Einordnung formuliert werden."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz basiert praktisch nur auf zwei Namenslexikon-Seiten.",
+    "Es gibt keine belastbaren Hinweise auf eine breite öffentliche Diskussion oder starke gesellschaftliche Konnotationen.",
+    "Seltenheitsangaben sollten nicht als exakte Statistik verstanden werden."
+  ],
+  "short_summary": "Janno wird überwiegend neutral und namenkundlich eingeordnet: ein männlicher Vorname mit Bezug zu Johannes/János, eher selten und ohne starke öffentliche Nebenassoziationen.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.94,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Janno � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/J/Ja/Janno/"
+    },
+    {
+      "confidence": 0.95,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Janno: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Janno.html"
+    }
+  ],
+  "style_effect": [
+    "informativ",
+    "lexikalisch",
+    "namenkundlich",
+    "eher selten klingend",
+    "kurz und prägnant"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Eher gering bis moderat sichtbar im Namenskontext, aber mit schwacher Evidenz für eine allgemeine öffentliche Wahrnehmung außerhalb von Namensportalen."
+}

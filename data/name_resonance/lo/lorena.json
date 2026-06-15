@@ -1,0 +1,63 @@
+{
+  "associations": [
+    "lateinischer Ursprung",
+    "Lorbeerkranz",
+    "Sieg",
+    "Ruhm",
+    "Ehre",
+    "weiblicher Vorname",
+    "Lothringen",
+    "Namenstag",
+    "beliebter Vorname in Deutschland"
+  ],
+  "confidence": 0.86,
+  "display_text": "Lorena wirkt in Deutschland meist freundlich, modern und klangvoll. Die verfügbaren Quellen sind vor allem namenskundlich und deshalb eher beschreibend als meinungsstark; Hinweise auf eine negative Stigmatisierung gibt es nicht.",
+  "evidence_quality": "mittel bis gut; stark in der Namensbedeutung und Herkunft, aber schwächer in der tatsächlichen öffentlichen Meinungsbasis",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Lorena",
+  "normalized_name": "lorena",
+  "overall_resonance": "Lorena wird in der deutschsprachigen Namenswahrnehmung überwiegend freundlich, modern und angenehm klangvoll eingeordnet. Die verfügbare Evidenz ist vor allem lexikalisch-informativ und spricht eher für positive als für kritische Assoziationen.",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt Lorena unkompliziert, freundlich und gut aussprechbar.",
+    "Die Bedeutungsbezüge sind klar und positiv konnotiert, was den Namen oft attraktiv erscheinen lässt.",
+    "Da die Quellen vor allem beschreibend sind, bleibt die Einschätzung vorsichtig und nicht überinterpretiert."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist für öffentliche Resonanz nur bedingt stark, da sie vor allem aus Namenslexika stammt.",
+    "Es gibt keine belastbaren Hinweise auf eine negative gesellschaftliche Stigmatisierung des Namens.",
+    "Bewertungen zur Beliebtheit sollten nicht mit allgemeiner Zustimmung verwechselt werden."
+  ],
+  "short_summary": "Lorena wird in Deutschland überwiegend positiv, modern und klangvoll wahrgenommen; die Evidenz ist vor allem beschreibend und nur begrenzt als echte öffentliche Resonanz zu werten.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Lorena � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/L/Lo/Lorena/"
+    },
+    {
+      "confidence": 0.94,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Lorena: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Lorena.html"
+    }
+  ],
+  "style_effect": [
+    "weich und melodisch",
+    "modern, aber nicht modisch-extrem",
+    "international bzw. zeitgemäß klingend",
+    "informativ mit klarer Namensbedeutung",
+    "eher positiv besetzt durch Bedeutungen wie Lorbeer, Sieg und Ruhm"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland bekannt und als Vorname präsent; die öffentliche Resonanz wirkt eher stabil als stark kontrovers. Die Datenlage zur tatsächlichen Alltagswahrnehmung ist allerdings begrenzt und stützt sich überwiegend auf Namensseiten statt auf breite Meinungsquellen."
+}

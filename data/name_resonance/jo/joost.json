@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "friesisch",
+    "niederländisch",
+    "norddeutsch",
+    "Kurzform von Justus/Jodocus/Josef",
+    "Bedeutung in der Tradition: der Gerechte / der Kämpfer / der Krieger",
+    "Namenstag",
+    "selten, aber bekannt"
+  ],
+  "confidence": 0.84,
+  "display_text": "Joost wirkt in Deutschland eher selten, klar und traditionsnah. Die vorhandenen Quellen zeigen überwiegend eine positive, informativ geprägte Resonanz mit nordisch-friesischen und niederländischen Assoziationen. Eine breite öffentliche Diskussion ist jedoch nur schwach belegt.",
+  "evidence_quality": "mittel: zwei überwiegend beschreibende Namensquellen, wenig direkte öffentliche Meinungsäußerung",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Joost",
+  "normalized_name": "joost",
+  "overall_resonance": "Joost wird in den vorliegenden Quellen überwiegend freundlich und sachlich wahrgenommen. Der Name erscheint als regional geprägte, eher seltene Form mit klarer namenskundlicher Einordnung und ohne auffällige negative Konnotationen. Die öffentliche Resonanz wirkt eher informativ als meinungsstark.",
+  "practical_notes": [
+    "Für viele wirkt der Name prägnant und eigenständig.",
+    "Die Schreibweise kann in Deutschland als ungewöhnlich auffallen, ist aber gut aussprechbar.",
+    "Wer einen seltenen, traditionsnahen Namen mit nordischem Klang sucht, findet hier eine passende Option."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz zur öffentlichen Resonanz ist begrenzt und stammt überwiegend aus Namenslexika statt aus breiten Meinungsäußerungen.",
+    "Positive Wirkung kann stärker durch Beschreibung und Herkunft erklärt sein als durch echte Alltagsresonanz.",
+    "Aussagen zur Beliebtheit sollten vorsichtig gelesen werden, da sie je nach Quelle und Zeitraum variieren."
+  ],
+  "short_summary": "Joost wird in den Quellen als seltener, nordisch-friesisch bzw. niederländisch geprägter Vorname mit eher positiver, sachlicher Resonanz beschrieben.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Joost � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/J/Jo/Joost/"
+    },
+    {
+      "confidence": 0.9,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Joost: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Joost.html"
+    }
+  ],
+  "style_effect": [
+    "kurz und markant",
+    "nordisch/friesisch bzw. niederländisch wirkend",
+    "traditionell und zugleich ungebräuchlich",
+    "sachlich-klassisch statt modern-verspielt",
+    "namenskundlich interessant"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland wirkt Joost eher selten und damit auffälliger als sehr verbreitete Vornamen. Die Sichtbarkeit entsteht vor allem über Namenslexika und Beliebtheitslisten, weniger über breite öffentliche Diskussionen."
+}

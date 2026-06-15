@@ -1,0 +1,64 @@
+{
+  "associations": [
+    "altdeutscher Jungenname",
+    "Bedeutung: Ruhm/Ehre + Wolf",
+    "mittelalterlich",
+    "Fürstenname",
+    "Namenstag",
+    "Kurzform: Rolf",
+    "Spitzname: Rudi",
+    "früher verbreiteter, heute rückläufiger Gebrauch"
+  ],
+  "confidence": 0.78,
+  "display_text": "Rudolf wirkt in den Quellen klassisch, traditionell und historisch verankert. Der Name hat eine eher sachliche, respektvolle Resonanz und wird mit altdeutscher Herkunft, Namenstag und Kurzformen wie Rudi oder Rolf verbunden. Für eine Einschätzung der heutigen öffentlichen Wahrnehmung ist die Evidenz allerdings eher schwach, da vor allem Namenslexika vorliegen.",
+  "evidence_quality": "mittel bis schwach: inhaltlich passende Namensquellen, aber wenig direkte öffentliche Resonanz und kaum echte Diskussionsdaten.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Rudolf",
+  "normalized_name": "rudolf",
+  "overall_resonance": "Rudolf wird in den verfügbaren Quellen überwiegend als klassisch, traditionell und historisch verankert wahrgenommen. Die öffentliche Resonanz wirkt eher sachlich und respektvoll als trendig; aktuelle echte Debatten sind in der Evidenz jedoch kaum erkennbar.",
+  "practical_notes": [
+    "Für Suchende wirkt Rudolf verständlich, seriös und zeitlos, aber nicht modern-trendig.",
+    "Der Name hat eine klare historische Prägung und dürfte eher bei klassisch geprägten Namensvorlieben ankommen.",
+    "Kurzformen wie Rudi oder Rolf können die Wirkung deutlich lockern."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt vor allem aus Namenslexika und nicht aus einer echten öffentlichen Debatte.",
+    "Aussagen zur aktuellen Resonanz sind daher nur vorsichtig ableitbar.",
+    "Spitznamen und historische Einordnungen sind kulturelle Beschreibungen, keine festen Eigenschaften."
+  ],
+  "short_summary": "Rudolf wird öffentlich vor allem als klassischer, traditioneller und historischer Name wahrgenommen; die aktuelle Resonanz ist eher sachlich als trendig, bei insgesamt begrenzter Evidenz.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Rudolf � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/R/Ru/Rudolf/"
+    },
+    {
+      "confidence": 0.89,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Rudolf: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Rudolf.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "traditionell",
+    "altdeutsch",
+    "historisch",
+    "bodenständig",
+    "edel wirkend",
+    "leicht nostalgisch"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Eher niedrig bis mittel: Der Name ist bekannt, aber in den vorliegenden Quellen steht vor allem die Namenskunde im Vordergrund, nicht eine breite öffentliche Diskussion."
+}

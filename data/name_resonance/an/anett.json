@@ -1,0 +1,62 @@
+{
+  "associations": [
+    "weiblicher Vorname",
+    "Variante von Annette",
+    "ungarische Schreibvariante",
+    "französische Koseform",
+    "hebräische Herkunft",
+    "Bedeutung: die Begnadete / die Anmutige / die Liebreizende",
+    "Namenstag",
+    "kurze, klare Form"
+  ],
+  "confidence": 0.84,
+  "display_text": "Anett: insgesamt sachlich bis leicht positiv wahrgenommen. Der Name wirkt klassisch, weiblich und eher zeitlos; die öffentliche Resonanz ist jedoch nur indirekt belegt und basiert vor allem auf namenskundlichen Quellen.",
+  "evidence_quality": "mittel bis schwach für echte öffentliche Resonanz, gut für namenskundliche Einordnung",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Anett",
+  "normalized_name": "anett",
+  "overall_resonance": "Die öffentliche Wahrnehmung von „Anett“ wirkt insgesamt sachlich bis leicht positiv. Der Name wird vor allem als klassischer, weiblicher Vorname mit klarer Namenskunde wahrgenommen; die Resonanz in den Quellen ist eher informativ als emotional.",
+  "practical_notes": [
+    "Für eine Namenssuche eignet sich „Anett“ als kurze, traditionelle und gut lesbare Form.",
+    "Der Name wirkt in der Regel eher zurückhaltend als modisch.",
+    "Je nach Generation kann der Name unterschiedlich vertraut erscheinen."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt vor allem aus Namensdatenbanken und ist daher nur indirekt als öffentliche Meinungsresonanz zu verstehen.",
+    "Es liegen kaum echte Meinungsäußerungen vor; die Einschätzung basiert überwiegend auf Herkunft, Bedeutung und Beliebtheitsangaben.",
+    "Spielerische Wortdeutungen sind nicht als allgemeine gesellschaftliche Bewertung zu werten."
+  ],
+  "short_summary": "Anett wird überwiegend sachlich und leicht positiv wahrgenommen: klassisch, weiblich, klar und eher zeitlos, aber ohne starke aktuelle Trendwirkung.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Anett � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/A/An/Anett/"
+    },
+    {
+      "confidence": 0.89,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Anett: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Anett.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "nüchtern",
+    "zeitlos",
+    "leicht freundlich",
+    "namenskundlich geprägt"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "mittlere Sichtbarkeit, eher bekannt als häufig; je nach Zeitraum und Umfeld wirkt der Name eher selten bis gelegentlich verbreitet"
+}

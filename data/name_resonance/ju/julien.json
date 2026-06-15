@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "französische Form von Julian/Julius",
+    "lateinischer Ursprung",
+    "Bezug zum Geschlecht der Julier",
+    "männlicher Vorname",
+    "Namenstag",
+    "in Deutschland geläufig, aber nicht sehr häufig"
+  ],
+  "confidence": 0.84,
+  "display_text": "Julien wird in Deutschland überwiegend sachlich bis leicht positiv wahrgenommen: ein französisch geprägter, eleganter und vertrauter, aber nicht sehr häufiger Vorname.",
+  "evidence_quality": "mittel: mehrere überwiegend namenkundliche, sachliche Quellen mit ähnlicher Grundtendenz; jedoch begrenzte Breite der Evidenz.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Julien",
+  "normalized_name": "julien",
+  "overall_resonance": "Julien wird in den vorliegenden Quellen überwiegend sachlich bis leicht positiv wahrgenommen. Der Name wirkt in Deutschland eher bekannt als exotisch, mit klarer französischer Prägung und einer ruhigen, eleganten Anmutung.",
+  "practical_notes": [
+    "Für Suchende wirkt Julien meist klar international und gut einordenbar.",
+    "Der Name dürfte in Deutschland als vertraut, aber nicht alltäglich empfunden werden.",
+    "Die Schreib- und Klangform hebt sich etwas von der häufigeren Form Julian ab."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stützt sich auf wenige Namenslexikon-Quellen; die öffentliche Rezeption ist daher nur eingeschränkt belastbar.",
+    "Beliebtheits- und Häufigkeitsangaben können je nach Region und Zeitraum schwanken.",
+    "Es liegen keine Hinweise auf eine spezifische soziale Stigmatisierung vor."
+  ],
+  "short_summary": "Julien wirkt in Deutschland sachlich, freundlich und leicht elegant; bekannt, aber nicht übermäßig verbreitet.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.95,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "Vorname Julien � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/J/Ju/Julien/"
+    },
+    {
+      "confidence": 0.94,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Julien: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Julien.html"
+    }
+  ],
+  "style_effect": [
+    "französisch",
+    "modern-elegant",
+    "weich klingend",
+    "international",
+    "klassisch-leicht"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Eher bekannt, aber nicht extrem häufig; in Deutschland präsent, ohne starkes Massenprofil."
+}

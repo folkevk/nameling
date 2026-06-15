@@ -1,0 +1,59 @@
+{
+  "associations": [
+    "griechische Herkunft",
+    "altgriechische Bedeutung",
+    "Herrin / Gebieterin / Hausherrin",
+    "griechische Mythologie",
+    "Namenstag am 15. August",
+    "selten bis eher niedrig verbreitet in Deutschland"
+  ],
+  "confidence": 0.78,
+  "display_text": "Despina wirkt in Deutschland vor allem sachlich-neutral bis leicht positiv: ein klassischer, griechisch geprägter und eher seltener Vorname mit Bedeutungen rund um \"Herrin\" oder \"Gebieterin\". Die öffentliche Wahrnehmung ist vor allem namenskundlich geprägt; belastbare breitere Resonanzdaten sind nicht erkennbar.",
+  "evidence_quality": "Begrenzt: überwiegend lexikalische Namensseiten, sachlich-neutrale bis leicht positive Tonlage, aber keine breite öffentliche Debatte.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Despina",
+  "normalized_name": "despina",
+  "overall_resonance": "Überwiegend sachlich-neutral mit leicht positiver, kulturell geprägter Resonanz. Der Name wird vor allem über seine griechische Herkunft, die Bedeutungen rund um \"Herrin\"/\"Gebieterin\" und den Namenstag wahrgenommen.",
+  "practical_notes": [
+    "Für Namenssuchmaschinen eher als klassischer, kulturell markierter Mädchenname einzuordnen.",
+    "Die Bedeutung kann als stark und würdevoll wahrgenommen werden, ohne dass daraus feste Eigenschaften abgeleitet werden sollten.",
+    "Wegen der Seltenheit kann der Name als besonders und markant empfunden werden."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenzlage ist schwach, da sie im Wesentlichen auf wenigen Namenslexikon-Seiten beruht.",
+    "Die öffentliche Rezeption in Deutschland lässt sich nur indirekt über Namensseiten und Beliebtheitsangaben ableiten.",
+    "Keine belastbare breitere Diskussionslage erkennbar."
+  ],
+  "short_summary": "Despina wird im deutschen Kontext überwiegend sachlich-neutral und leicht positiv wahrgenommen, mit klaren griechischen und mythologischen Bezügen. Der Name gilt eher als selten und markant; die Evidenz ist jedoch begrenzt.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.9,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Despina � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/D/De/Despina/"
+    },
+    {
+      "confidence": 0.82,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Despina: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Despina.html"
+    }
+  ],
+  "style_effect": [
+    "klingt klassisch und griechisch",
+    "wirkt elegant und namenskundlich markant",
+    "trägt eine leichte Würde- und Autoritätsassoziation",
+    "eher informativ als modern-trendig"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Im deutschen Kontext eher selten bis moderat bekannt; keine Hinweise auf breite Alltagsverbreitung, aber als eigenständiger und klar erkennbarer Vorname präsent."
+}

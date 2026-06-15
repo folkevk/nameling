@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "lateinischer Ursprung",
+    "Rom",
+    "römisch",
+    "Bedeutung: der in Rom Wohnende / der Römer",
+    "Namenstag",
+    "männlicher Vorname",
+    "in Deutschland bekannt und etabliert"
+  ],
+  "confidence": 0.91,
+  "display_text": "Roman ist in Deutschland ein bekannter, klassisch wirkender Jungenname mit lateinischem Ursprung. Öffentlich erscheint er überwiegend sachlich bis leicht positiv, verbunden mit Rom, „der Römer“ und einem zeitlosen Namensbild.",
+  "evidence_quality": "gut, aber stark lexikalisch geprägt",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Roman",
+  "normalized_name": "roman",
+  "overall_resonance": "Roman wirkt in der öffentlichen Namenswahrnehmung in Deutschland überwiegend klassisch, vertraut und sachlich positiv. Der Name wird vor allem mit lateinischem Ursprung, Rom und der Bedeutung „der in Rom Wohnende“ bzw. „der Römer“ verbunden.",
+  "practical_notes": [
+    "Gut erkennbar und im deutschen Sprachraum vertraut.",
+    "Wirkt eher traditionell als modern-experimentell.",
+    "Durch die klaren historischen Bezüge eignet sich der Name für eine klassische, seriöse Anmutung."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt fast ausschließlich aus Namenslexika und nicht aus freier Alltagsdiskussion.",
+    "Daher lässt sich die öffentliche Resonanz nur vorsichtig als sachlich-positiv beschreiben, nicht als breit gesellschaftlich gemessen."
+  ],
+  "short_summary": "Roman wird in Deutschland überwiegend als klassischer, vertrauter und sachlich positiv besetzter Jungenname wahrgenommen, mit klaren Bezügen zu Rom und lateinischem Ursprung.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.99,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Roman � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/R/Ro/Roman/"
+    },
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Roman: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Roman.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "eher zeitlos",
+    "klar männlich codiert",
+    "gebildet/namenskundlich aufgeladen",
+    "neutral bis leicht positiv wahrgenommen"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "hoch"
+}

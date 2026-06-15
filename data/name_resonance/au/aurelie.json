@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "französische Form von Aurelia",
+    "lateinischer Ursprung",
+    "Bedeutung: die Goldene / aus Gold Gemachte",
+    "weiblicher Vorname",
+    "Namenstag am 15. Oktober",
+    "literarischer Bezug zu Goethes Wilhelm Meisters Lehrjahre"
+  ],
+  "confidence": 0.78,
+  "display_text": "Aurelie wird in Deutschland überwiegend sachlich-positiv wahrgenommen: ein seltener, elegant und französisch klingender Vorname mit der Bedeutung „die Goldene“. Die Evidenz ist jedoch begrenzt und stammt vor allem aus Namenslexika; eine breite öffentliche Debatte ist kaum erkennbar.",
+  "evidence_quality": "Begrenzt: zwei namenkundliche Webquellen mit sachlicher bis leicht positiver Beschreibung, aber keine breite öffentliche Diskurslage.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Aurelie",
+  "normalized_name": "aurelie",
+  "overall_resonance": "Überwiegend sachlich-positiv mit leicht eleganter, französisch geprägter Wirkung. Die öffentliche Wahrnehmung wirkt eher namenskundlich als breit diskutiert.",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt Aurelie eher besonders als alltäglich.",
+    "Die französische Schreibweise kann als stilvoll wahrgenommen werden, wird aber eventuell unterschiedlich ausgesprochen.",
+    "Durch die seltenere Verbreitung kann der Name Aufmerksamkeit erzeugen, ohne laut oder modisch zu wirken."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenzlage ist schwach für echte öffentliche Resonanz, da vor allem Namensdatenbanken vorliegen.",
+    "Einzelne Hinweise zu Ausspracheunsicherheit können in der Wahrnehmung eine kleine Hürde sein, sind aber kein starkes Negativsignal.",
+    "Keine belastbaren Hinweise auf soziale Stigmatisierung erkennbar."
+  ],
+  "short_summary": "Aurelie wirkt in Deutschland eher selten, elegant und französisch geprägt. Die verfügbare Evidenz ist vor allem lexikalisch und daher nur begrenzt aussagekräftig für echte öffentliche Resonanz.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.92,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Aurelie � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/A/Au/Aurelie/"
+    },
+    {
+      "confidence": 0.87,
+      "is_name_discussion": true,
+      "sentiment": "mixed",
+      "source_type": "web",
+      "title": "&#9655; Vorname Aurelie: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Aurelie.html"
+    }
+  ],
+  "style_effect": [
+    "elegant",
+    "französisch klingend",
+    "klassisch",
+    "weich und feminin",
+    "leicht gehoben",
+    "literarisch anschlussfähig"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland eher selten bis mittelhäufig und deshalb nicht stark alltagsprägend. Die Evidenz zur öffentlichen Resonanz ist begrenzt und stammt vor allem aus Namenslexika, nicht aus einer breiten Debatte."
+}

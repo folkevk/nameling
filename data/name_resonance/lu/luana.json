@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "weiblicher Vorname",
+    "albanische, hawaiianische und teils weitere zugeschriebene Herkunftsbezüge",
+    "Bedeutungen wie 'die Fröhliche' oder 'die Löwin'",
+    "Beliebtheit in Deutschland",
+    "harmonischer Klang",
+    "zeitgenössische Wahrnehmung"
+  ],
+  "confidence": 0.82,
+  "display_text": "Luana wirkt im deutschen Web überwiegend positiv: modern, weich klingend und international. Die verfügbaren Quellen sind vor allem Namenslexika, daher ist die öffentliche Resonanz nur vorsichtig zu bewerten.",
+  "evidence_quality": "mittel bis schwach: zwei ähnliche Namensquellen, überwiegend informativ-deskriptiv, wenig echte Meinungsvielfalt.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Luana",
+  "normalized_name": "luana",
+  "overall_resonance": "Überwiegend positiv und freundlich-deskriptiv, mit moderner, international klingender Wahrnehmung.",
+  "practical_notes": [
+    "Für die Namenssuche wirkt Luana aktuell, freundlich und gut aussprechbar.",
+    "Im deutschsprachigen Kontext erscheint der Name eher modern als traditionell.",
+    "Die Wahrnehmung ist insgesamt wertschätzend, aber datenarm außerhalb von Namensportalen."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt fast ausschließlich aus einzelnen Namensseiten und nicht aus breiter öffentlicher Diskussion.",
+    "Die genannten Bedeutungen und Herkunftszuordnungen sind Quellenangaben der Webseiten und nicht als gesicherte Einheitsmeinung zu verstehen.",
+    "Es zeigt sich eher eine lexikalische als eine spontan öffentliche Resonanz."
+  ],
+  "short_summary": "Luana wird im deutschen Web überwiegend positiv, modern und freundlich wahrgenommen. Die Evidenz ist jedoch vor allem lexikalisch und auf Namensseiten begrenzt.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "Vorname Luana � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/L/Lu/Luana/"
+    },
+    {
+      "confidence": 0.84,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Luana: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Luana.html"
+    }
+  ],
+  "style_effect": [
+    "modern",
+    "weich und melodisch",
+    "international",
+    "frisch und zeitgenössisch",
+    "namenskundlich positiv gerahmt"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Der Name ist im deutschsprachigen Web sichtbar, vor allem in Namenslexika und Vornamenseiten; eine breite öffentliche Debatte ist aus der vorliegenden Evidenz nicht erkennbar."
+}

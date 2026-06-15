@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "männlicher Vorname",
+    "althebräische bzw. althochdeutsche Deutungen",
+    "Kurzform oder Variante von Eric/Erich",
+    "teilweise auch Bezug zu Aryeh/Ariel",
+    "Bedeutungsfelder wie Herrscher, Löwe oder Naturgeister in den Quellen",
+    "Namenstag wird in Namensquellen erwähnt"
+  ],
+  "confidence": 0.82,
+  "display_text": "Arik wirkt in der öffentlichen Rezeption eher modern, kurz und leicht positiv. Der Name wird vor allem in Namensquellen als männlicher Vorname mit teils hebräischen, teils althochdeutsch/nordischen Deutungen beschrieben. Insgesamt ist die Resonanz eher freundlich-neutral, bei einer eher seltenen Sichtbarkeit im deutschsprachigen Raum.",
+  "evidence_quality": "mittel bis gut; die Quellen diskutieren den Namen direkt, sind aber überwiegend einzelne Namenslexika mit teilweise uneinheitlichen Etymologien.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Arik",
+  "normalized_name": "arik",
+  "overall_resonance": "Arik wirkt in der öffentlichen Namenswahrnehmung sachlich-modern und eher positiv konnotiert, mit einem klaren Fokus auf Herkunft, Bedeutung und Seltenheit. Der Name wird meist als männlicher Vorname mit teils hebräischen, teils althochdeutsch/nordischen Deutungen beschrieben. Die Rezeption ist insgesamt unaufgeregt und eher namenskundlich als stilistisch aufgeladen.",
+  "practical_notes": [
+    "Für Suchende wirkt Arik wie ein kurzer, klarer und gut merkbarer Vorname.",
+    "Wenn Herkunft wichtig ist, sollte man beachten, dass die Quellen nicht vollständig einheitlich sind.",
+    "Die öffentliche Resonanz lässt sich am besten als freundlich-neutral mit leicht positiver Färbung zusammenfassen."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Herkunftsangaben sind teils gemischt und nicht einheitlich; verschiedene Quellen nennen unterschiedliche etymologische Linien.",
+    "Ein Teil der Evidenz stammt aus Namensdatenbanken, also eher aus lexikalischer als aus breiter gesellschaftlicher Wahrnehmung.",
+    "Es gibt keine starke Evidenz für eine klare soziale Stigmatisierung oder für eine stark polarisierende öffentliche Rezeption."
+  ],
+  "short_summary": "Arik wird öffentlich eher als kurzer, seltener und sachlich positiv wirkender Jungenname wahrgenommen, vor allem in namenskundlichen Quellen. Die Herkunftsdeutungen variieren, daher ist die Evidenz nicht ganz einheitlich.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Arik � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/A/Ar/Arik/"
+    },
+    {
+      "confidence": 0.84,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Arik: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Arik.html"
+    }
+  ],
+  "style_effect": [
+    "kurz und prägnant",
+    "modern wirkend",
+    "eher selten",
+    "international anschlussfähig",
+    "namenskundlich geprägt",
+    "leicht markant, aber nicht schrill"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Im deutschsprachigen Raum scheint Arik bekannt, aber nicht breit verbreitet zu sein. Die öffentliche Sichtbarkeit entsteht vor allem über Namenslexika und Vornamensdatenbanken; belastbare Alltagswahrnehmung oder größere gesellschaftliche Diskussionen sind in der Evidenz nicht erkennbar."
+}

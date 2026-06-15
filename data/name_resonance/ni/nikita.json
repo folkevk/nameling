@@ -1,0 +1,70 @@
+{
+  "associations": [
+    "Unisex-Name",
+    "mehrdeutige Herkunft",
+    "Sanskrit und altgriechische Deutungen",
+    "Bedeutungen wie „Haus/Wohnung“ und „Sieger/Gewinner“ bzw. „der/die Unbesiegbare“",
+    "Namenstag",
+    "in Deutschland bekannt",
+    "teils als ungewöhnlich oder markant wahrgenommen"
+  ],
+  "confidence": 0.89,
+  "display_text": "Nikita wirkt in Deutschland insgesamt neutral bis leicht positiv: ein markanter, internationaler Unisex-Name mit mehrdeutiger Herkunft und Bedeutungen wie „Sieger/Gewinner“ bzw. „der/die Unbesiegbare“. Die Quellen liefern vor allem namenskundliche Informationen; eine breite öffentliche Debatte ist kaum erkennbar.",
+  "evidence_quality": "mittel bis gut; die Quellen sind namebezogen und inhaltlich relevant, aber die öffentliche Resonanz ist nur indirekt erfassbar",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Nikita",
+  "normalized_name": "nikita",
+  "overall_resonance": "insgesamt neutral bis leicht positiv; der Name wird vor allem sachlich-namenskundlich wahrgenommen, mit einzelnen positiven Klang- und Bedeutungsassoziationen",
+  "practical_notes": [
+    "für Suchende wirkt Nikita eher ungewöhnlich als alltäglich",
+    "die Unisex-Nutzung kann in Deutschland zu unterschiedlichen Erwartungen führen",
+    "bei öffentlicher Einordnung sollte die Mehrdeutigkeit von Herkunft und Geschlecht mitgedacht werden",
+    "die Wirkung hängt stark vom Kontext ab: sachlich-international statt eindeutig traditionell"
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "die Evidenz beschreibt überwiegend Lexikon- und Bedeutungsinformationen, keine breite öffentliche Debatte",
+    "Geschlechterzuordnung und Herkunft werden in den Quellen nicht einheitlich dargestellt",
+    "einzelne positive Kommentare zur Namenswirkung sind vorhanden, aber nicht stark repräsentativ"
+  ],
+  "short_summary": "Nikita wird in Deutschland vor allem neutral bis leicht positiv wahrgenommen: ein markanter, international wirkender Unisex-Name mit mehrdeutiger Herkunft und unterschiedlichen Bedeutungsdeutungen.",
+  "source_count": 3,
+  "sources": [
+    {
+      "confidence": 0.94,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Nikita � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/N/Ni/Nikita/"
+    },
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Nikita � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/N/Ni/Nikita/"
+    },
+    {
+      "confidence": 0.92,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Nikita: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Nikita.html"
+    }
+  ],
+  "style_effect": [
+    "modern",
+    "international",
+    "unisex",
+    "klanglich markant",
+    "namenskundlich interessant"
+  ],
+  "usable_evidence_count": 3,
+  "visibility": "in Deutschland bekannt, aber eher kein massenhaft verbreiteter Standardname; die öffentliche Wahrnehmung wirkt durch die mehrdeutige Herkunft und die Unisex-Nutzung etwas uneinheitlich"
+}

@@ -1,0 +1,67 @@
+{
+  "associations": [
+    "englischer bzw. altfranzösischer Ursprung",
+    "Bedeutung: Schneider",
+    "Unisex-Name",
+    "international gebräuchlich",
+    "in Deutschland eher selten, aber bekannt",
+    "teilweise Popkultur-Bezug"
+  ],
+  "confidence": 0.82,
+  "display_text": "Taylor wird in der vorliegenden Evidenz überwiegend sachlich-neutral bis leicht positiv beschrieben. Der Name wirkt international, modern und unisex; in Deutschland ist er eher selten, aber bekannt. Eine breite öffentliche Debatte ist nicht erkennbar, die Einschätzung stützt sich vor allem auf Namenslexika.",
+  "evidence_quality": "Begrenzt bis mittel: klare Namensdiskussionen vorhanden, aber überwiegend aus redaktionellen Namenslexika und ohne breite öffentliche Debatte.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Taylor",
+  "normalized_name": "taylor",
+  "overall_resonance": "Überwiegend sachlich-neutral mit leicht positiver Tendenz. In der vorliegenden Evidenz wird Taylor vor allem als international bekannter, unisex verwendbarer Vorname beschrieben; in Deutschland gilt er eher als selten, aber bekannt.",
+  "practical_notes": [
+    "Für Suchmaschinen wirkt Taylor als moderner, internationaler Name mit klarer Herkunftserklärung.",
+    "In Deutschland dürfte er eher auffallen als ein klassischer Standardname, ohne stark negativ oder stark positiv besetzt zu sein."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist eher schwach für eine echte breite öffentliche Resonanz, da sie vor allem aus Namensdatenbanken stammt.",
+    "Popkultur-Bezüge können die Wahrnehmung beeinflussen, sind aber nicht gleichzusetzen mit allgemeiner öffentlicher Meinung."
+  ],
+  "short_summary": "Taylor wird in der vorliegenden Evidenz überwiegend neutral bis leicht positiv wahrgenommen: international, unisex und modern, in Deutschland eher selten, aber bekannt.",
+  "source_count": 3,
+  "sources": [
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Taylor � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/T/Ta/Taylor/"
+    },
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Taylor � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/T/Ta/Taylor/"
+    },
+    {
+      "confidence": 0.91,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Taylor: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Taylor.html"
+    }
+  ],
+  "style_effect": [
+    "international",
+    "modern",
+    "unisex",
+    "englischsprachig geprägt",
+    "sachlich-namenkundlich",
+    "leicht popkulturell anschlussfähig"
+  ],
+  "usable_evidence_count": 3,
+  "visibility": "Mittel: Der Name ist im deutschen Sprachraum bekannt, wirkt aber nicht breit alltäglich. Die öffentliche Wahrnehmung scheint eher von Namenslexika und allgemeinen Herkunftsangaben geprägt als von starker Alltagsdiskussion."
+}

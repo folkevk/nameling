@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "Bedeutungen wie „die Allumfassende“, „die Große“ oder „die Erhabene“",
+    "althochdeutsche / altgermanische Herkunft",
+    "sehr hohe Beliebtheit in Deutschland",
+    "Namenstag",
+    "Spitznamen wie Emmi oder Emmchen",
+    "literarische, filmische und prominente Bezüge als Namensumfeld"
+  ],
+  "confidence": 0.94,
+  "display_text": "Emma gilt in den vorliegenden Quellen als klassisch, freundlich und sehr beliebt. Der Name wird meist positiv und wertschätzend beschrieben; die Evidenz basiert jedoch vor allem auf Namenslexika und nicht auf freier öffentlicher Debatte.",
+  "evidence_quality": "Gut für Namensbedeutung, Herkunft und Beliebtheit; schwächer für echte öffentliche Resonanz, da kaum freie Diskussion sichtbar ist.",
+  "generated_at": "2026-06-12T06:08:03Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Emma",
+  "normalized_name": "emma",
+  "overall_resonance": "Überwiegend positiv und klassisch geprägt. Der Name Emma wird in den vorliegenden Quellen vor allem wertschätzend, informativ und als sehr beliebt in Deutschland beschrieben.",
+  "practical_notes": [
+    "Für die Namenssuche wirkt Emma sehr zugänglich und vertraut.",
+    "Der Name hat eine klare, positive Grundwirkung ohne auffällige Stigmatisierung in den vorliegenden Quellen.",
+    "Wegen der starken Verbreitung kann der Name als sehr etabliert, aber nicht selten wahrgenommen werden."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist stark quellengebunden und stammt fast nur aus Namensdatenbanken.",
+    "Es gibt kaum direkte öffentliche Debatte, daher ist die Resonanz eher beschreibend als sozial-kontrovers.",
+    "Beliebtheit ist kein Qualitätsurteil, sondern nur ein Hinweis auf die Nutzungshäufigkeit."
+  ],
+  "short_summary": "Emma wird in den vorliegenden Quellen als klassischer, sehr beliebter und positiv konnotierter Mädchenname dargestellt. Die öffentliche Resonanz wirkt freundlich und etabliert, die Evidenz stammt jedoch überwiegend aus Namenslexika.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "positive",
+      "source_type": "web",
+      "title": "Vorname Emma � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/E/Em/Emma/"
+    },
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "positive",
+      "source_type": "web",
+      "title": "&#9655; Vorname Emma: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Emma.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "zeitlos",
+    "freundlich",
+    "eher modern im Gebrauch",
+    "namenskundlich gut etabliert",
+    "klingt kurz und eingängig"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Sehr hoch, aber die Evidenz ist vor allem lexikalisch: Es handelt sich überwiegend um Namenslexika statt um freie öffentliche Debatten."
+}

@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "arabische und hebräische Herkunftsdeutungen",
+    "Bedeutungen wie „die Erhabene“, „die Höchste“ oder „die Größte“",
+    "weiblicher Vorname",
+    "Namenstag am 5. April",
+    "teils als Kurzform oder Variante anderer Namen beschrieben",
+    "eher seltene bis mittlere Bekanntheit"
+  ],
+  "confidence": 0.76,
+  "display_text": "Alia wirkt in Deutschland vor allem als klangvoller, weiblicher und international anmutender Vorname mit überwiegend positiver, sachlicher Rezeption. Die Quellen nennen mehrere Herkunfts- und Bedeutungsdeutungen (u. a. „die Erhabene“), verweisen teils auf einen Namenstag am 5. April und beschreiben den Namen eher als selten bis mäßig verbreitet. Die Evidenz ist jedoch begrenzt und stammt vor allem aus Namenslexika, nicht aus einer breiten öffentlichen Debatte.",
+  "evidence_quality": "mittel bis begrenzt: zwei überwiegend lexikalische Webquellen, keine breite Diskussionslage, teils widersprüchliche Etymologien",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Alia",
+  "normalized_name": "alia",
+  "overall_resonance": "Die öffentliche Wahrnehmung von „Alia“ in deutschen Namenslexika wirkt insgesamt leicht positiv bis positiv: Der Name wird meist als klangvoll, weiblich und bedeutungsvoll beschrieben. Häufig stehen Herkunft, Bedeutung und Varianten im Vordergrund, weniger eine starke Alltagsrezeption oder klare soziale Zuschreibung.",
+  "practical_notes": [
+    "Für Suchmaschinen eignet sich „Alia“ als Name mit freundlicher, internationaler und eher edel wirkender Anmutung.",
+    "Die öffentliche Rezeption ist vor allem beschreibend und wenig polarisiert.",
+    "Wenn eine knappe Einordnung gewünscht ist: eher positiv, sachlich, wenig umstritten."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist begrenzt und basiert im Wesentlichen auf zwei Namenslexikon-Seiten.",
+    "Herkunfts- und Bedeutungsangaben sind teils uneinheitlich; mehrere Deutungen werden parallel genannt.",
+    "Es gibt keine belastbare öffentliche Debatte oder starke gesellschaftliche Bewertung des Namens.",
+    "Daher sollte keine klare Aussage über Popularität oder Image über die Quellen hinaus gemacht werden."
+  ],
+  "short_summary": "Alia wird in deutschen Namensquellen meist positiv, klangvoll und bedeutungsvoll dargestellt; die öffentliche Rezeption wirkt eher sachlich-informativ als kontrovers.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "Vorname Alia � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/A/Al/Alia/"
+    },
+    {
+      "confidence": 0.89,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Alia: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Alia.html"
+    }
+  ],
+  "style_effect": [
+    "kurz und melodisch",
+    "international wirkend",
+    "namenskundlich aufgeladen",
+    "eher elegant als trendig",
+    "lexikalisch gut erklärbar"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland scheint Alia eher bekannt, aber nicht massenhaft verbreitet zu sein. Die Quellen deuten auf eine eher seltene bis moderat sichtbare Wahrnehmung hin, ohne auffällige negative Konnotationen."
+}

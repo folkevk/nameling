@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "Lichtkranz, Mondschein oder Mondlicht",
+    "türkische und hebräische Bezüge",
+    "weitere gelegte Herleitungen aus anderen Sprachräumen",
+    "weiblicher Vorname",
+    "aktuell bzw. beliebt in Deutschland",
+    "klanglich sanft und modern"
+  ],
+  "confidence": 0.82,
+  "display_text": "Ayla wirkt in den verfügbaren Quellen überwiegend positiv und modern. Der Name wird vor allem mit Licht-, Mond- und Herkunftsbezügen verbunden und gilt in Deutschland als aktuell und klangvoll. Die öffentliche Resonanz ist dabei eher informativ als kontrovers; die Belege stammen jedoch hauptsächlich aus Namenslexika und nicht aus einer breiten Debatte.",
+  "evidence_quality": "mittel: überwiegend lexikalische Quellen mit indirekter Resonanz, wenig echte öffentliche Diskussion",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Ayla",
+  "normalized_name": "ayla",
+  "overall_resonance": "Ayla wird in den vorliegenden Quellen überwiegend positiv bis neutral beschrieben. Der Name erscheint vor allem als moderner, klangvoller Mädchenname mit schöner Bedeutungs- und Herkunftsvielfalt; belastbare Hinweise auf kontroverse oder negative öffentliche Debatten sind in der Evidenz nicht zu sehen.",
+  "practical_notes": [
+    "Für Suchmaschinen eignet sich Ayla als Name mit freundlicher, moderner und internationaler Wirkung.",
+    "Die Quellenlage spricht eher für eine positive Wahrnehmung durch Bedeutung und Klang als für starke öffentliche Kontroversen.",
+    "Wenn eine harte Aussage zur tatsächlichen Alltagsresonanz gewünscht ist, wären zusätzliche Daten aus Social Media, Foren oder Umfragen nötig."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt fast ausschließlich aus Namensdatenbanken und Lexikonseiten, nicht aus einer breiten öffentlichen Debatte.",
+    "Einige Bedeutungs- und Herkunftsangaben variieren je nach Quelle; das ist bei Vornamen üblich und sollte nicht als Widerspruch überinterpretiert werden.",
+    "Keine Hinweise auf gesellschaftliche Stigmatisierung oder negative Zuschreibungen in der vorliegenden Evidenz."
+  ],
+  "short_summary": "Ayla wird meist positiv, modern und klangvoll wahrgenommen; die Evidenz ist jedoch vor allem lexikalisch und damit nur begrenzt repräsentativ.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.95,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "Vorname Ayla � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/A/Ay/Ayla/"
+    },
+    {
+      "confidence": 0.92,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Ayla: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Ayla.html"
+    }
+  ],
+  "style_effect": [
+    "weich und melodisch",
+    "modern und zeitgemäß",
+    "international bzw. mehrsprachig anschlussfähig",
+    "namenskundlich interessant",
+    "eher elegant als markant"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland wirkt Ayla sichtbar und aktuell, vor allem in Namenslexika und Beliebtheitsübersichten. Die öffentliche Rezeption ist eher informativ als diskutierend; die Evidenz zur echten Breitenresonanz ist deshalb nur mittelstark."
+}

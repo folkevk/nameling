@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "weiblicher Vorname",
+    "slawische Form von Johanna",
+    "weibliche Form von Jan",
+    "Bedeutung: Gott ist gnädig",
+    "Namenstag",
+    "beliebt in Deutschland",
+    "Kurzform oder Variante anderer Namen"
+  ],
+  "confidence": 0.87,
+  "display_text": "Jana wirkt in der öffentlichen Wahrnehmung überwiegend neutral bis leicht positiv: bekannt, klassisch und unkompliziert. Die Evidenz ist solide, aber teils kommentarbasiert; einzelne Stimmen finden den Namen schlicht oder wenig auffällig.",
+  "evidence_quality": "mittel bis gut; klare Namensseiten, aber teils kommentarbasiert und damit nur begrenzt repräsentativ",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Jana",
+  "normalized_name": "jana",
+  "overall_resonance": "Jana wird in der öffentlichen Namenswahrnehmung überwiegend neutral bis leicht positiv dargestellt. Der Name wirkt etabliert, vertraut und sprachlich unkompliziert; einzelne Kommentare beschreiben ihn jedoch auch als eher schlicht oder wenig auffällig.",
+  "practical_notes": [
+    "Für Suchmaschinen eignet sich Jana als gut verständlicher, geläufiger Name mit klarer Herkunft.",
+    "Die öffentliche Resonanz wirkt insgesamt unproblematisch und alltagsnah, ohne starke Polarisierung.",
+    "Wenn eine besonders individuelle oder seltene Wirkung gewünscht ist, wird Jana eher nicht als außergewöhnlich wahrgenommen."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt vor allem aus Namenslexika und einer Seite mit Nutzerkommentaren; das ist nützlich, aber nur bedingt repräsentativ für die Gesamtöffentlichkeit.",
+    "Einzelne Bewertungen wie 'basic' oder 'langweilig' spiegeln persönliche Eindrücke wider und sollten nicht als allgemeiner Konsens verstanden werden."
+  ],
+  "short_summary": "Jana ist in Deutschland ein bekannter, klassisch wirkender Mädchenname mit überwiegend neutral bis leicht positiver öffentlicher Resonanz. Vereinzelt wird er als schlicht empfunden.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Jana � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/J/Ja/Jana/"
+    },
+    {
+      "confidence": 0.95,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Jana: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Jana.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch und vertraut",
+    "kurz und klar",
+    "modern-neutral",
+    "alltagstauglich",
+    "eher unprätentiös"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Im deutschsprachigen Raum, besonders in Deutschland, ist Jana als weiblicher Vorname gut bekannt und sichtbar. Die Quellen erwähnen zudem eine gewisse Beliebtheit und geläufige Verwendung."
+}

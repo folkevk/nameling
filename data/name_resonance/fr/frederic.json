@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "französische Form von Friedrich",
+    "Bedeutung: friedensreich / Friedensherrscher",
+    "seltene Schreibweise in Deutschland",
+    "Variante zu Frederik/Frederick/Fredrik",
+    "Namenstag am 18. Juli",
+    "eher informelle positive Grundassoziation"
+  ],
+  "confidence": 0.76,
+  "display_text": "Frederic wirkt in Deutschland eher klassisch-französisch und leicht elegant. Die Bedeutung wird meist als friedensbezogen beschrieben, die Schreibweise gilt als eher selten. Insgesamt ist die öffentliche Resonanz eher neutral bis positiv, allerdings beruhen die verfügbaren Hinweise vor allem auf Namenslexika und nicht auf breiter öffentlicher Bewertung.",
+  "evidence_quality": "mittel bis schwach: überwiegend namenkundliche, teils kommentarbasierten Quellen mit begrenzter Aussagekraft zur öffentlichen Wahrnehmung.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Frederic",
+  "normalized_name": "frederic",
+  "overall_resonance": "Frederic wirkt in Deutschland eher sachlich-klassisch und leicht elegant, aber nicht alltagsdominant. Die öffentliche Wahrnehmung ist vor allem namenkundlich geprägt: als französische Form von Friedrich mit freundlicher, friedensbezogener Bedeutung. Insgesamt eher positive bis neutrale Resonanz, bei insgesamt schwacher öffentlicher Evidenz.",
+  "practical_notes": [
+    "Die Schreibweise Frederic kann als etwas seltene, französisch geprägte Variante wahrgenommen werden.",
+    "Wer eine in Deutschland geläufigere Form sucht, landet oft bei Frederik oder Frederick.",
+    "Für formelle Kontexte wirkt der Name eher klassisch als modisch."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt überwiegend von Namenslexika und redaktionellen Seiten, nicht von belastbaren Nutzerreaktionen.",
+    "Die öffentliche Resonanz ist daher nur eingeschränkt messbar; Bewertungen sollten vorsichtig gelesen werden.",
+    "Keine Hinweise auf soziale Stigmatisierung in den vorliegenden Quellen."
+  ],
+  "short_summary": "Frederic wird in Deutschland meist als klassisch-französische, eher seltene Variante von Friedrich wahrgenommen – freundlich, neutral bis leicht positiv, aber mit schwacher öffentlicher Evidenz.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Frederic � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/F/Fr/Frederic/"
+    },
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Frederic: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Frederic.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "französisch angehaucht",
+    "gehoben",
+    "sachlich",
+    "zeitlos",
+    "leicht exklusiv"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Eher selten bis moderat sichtbar; die Schreibweise wirkt in Deutschland weniger verbreitet als Varianten wie Frederik oder Frederick."
+}

@@ -1,0 +1,71 @@
+{
+  "associations": [
+    "lateinischer Ursprung",
+    "italienische Form von Felix",
+    "Bedeutung: die/der Glückliche",
+    "Bedeutung: die/der Erfolgreiche",
+    "Bedeutung: die/der Fruchtbare",
+    "Unisex-Name",
+    "Namenstag",
+    "Beliebtheit in Deutschland",
+    "selten bis mittelhäufig"
+  ],
+  "confidence": 0.84,
+  "display_text": "Felice wirkt in den vorliegenden Quellen überwiegend positiv: international, elegant und mit Bedeutungen rund um Glück und Erfolg verbunden. Die Evidenz ist allerdings eher beschreibend als diskursiv, daher sollte die öffentliche Resonanz vorsichtig interpretiert werden.",
+  "evidence_quality": "mittel bis schwach: mehrere passende Namensquellen, aber wenig echte öffentliche Diskussion und kaum unabhängige Breitenresonanz.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Felice",
+  "normalized_name": "felice",
+  "overall_resonance": "Die öffentliche Resonanz zu Felice wirkt in den vorliegenden Quellen überwiegend positiv bis neutral. Der Name wird vor allem sachlich über Herkunft, Bedeutung und Namenstag eingeordnet; eine breite öffentliche Debatte ist kaum erkennbar.",
+  "practical_notes": [
+    "Für Suchmaschinen-Nutzung ist eine kurze Einordnung sinnvoll: international klingend, bedeutungsstark und eher freundlich konnotiert.",
+    "Die Wahrnehmung kann je nach Region und Umfeld zwischen weiblich, männlich und Unisex variieren.",
+    "Aufgrund der begrenzten Evidenz sollte man die Resonanz als Tendenz, nicht als gesicherten Durchschnitt verstehen."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt fast nur von Namenslexika und Vornamenseiten, also eher beschreibenden als diskursiven Quellen.",
+    "Positive Einschätzungen in Nutzerkommentaren sind nur begrenzt verallgemeinerbar.",
+    "Es gibt keine belastbare Grundlage für starke gesellschaftliche Bewertungen oder Stigmatisierung."
+  ],
+  "short_summary": "Felice wird überwiegend positiv und sachlich wahrgenommen, mit Assoziationen zu Glück, Erfolg und italienisch-lateinischem Ursprung. Die öffentliche Resonanz ist jedoch nur begrenzt belegt.",
+  "source_count": 3,
+  "sources": [
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Felice � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/F/Fe/Felice/"
+    },
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Felice � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/F/Fe/Felice/"
+    },
+    {
+      "confidence": 0.74,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Felice: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Felice.html"
+    }
+  ],
+  "style_effect": [
+    "klingt elegant und weich",
+    "wird als international bzw. italienisch wahrgenommen",
+    "wirkt bedeutungsnah durch die Assoziation mit Glück und Erfolg",
+    "kann als selten bis mittelhäufig wahrgenommen werden",
+    "erscheint als Unisex-Name, je nach Quelle und Kontext"
+  ],
+  "usable_evidence_count": 3,
+  "visibility": "Eher niedrig bis mittel: Felice taucht in Namenslexika und Vorname-Seiten auf, aber die Evidenz für eine größere, frei geführte öffentliche Diskussion ist begrenzt."
+}

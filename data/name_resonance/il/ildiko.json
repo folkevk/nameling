@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "ungarische Koseform bzw. ungarisch geprägter Vorname",
+    "altdeutsche bzw. germanische Namenswurzeln",
+    "Bedeutung in Richtung 'Kämpferin' oder 'Heldin'",
+    "weiblicher Vorname",
+    "selten in Deutschland",
+    "Namenstag als klassisches Namensmerkmal"
+  ],
+  "confidence": 0.75,
+  "display_text": "Ildiko klingt in Deutschland eher selten und markant. Die öffentliche Wahrnehmung ist vor allem sachlich-informativ: ungarisch geprägt, mit Bedeutungen rund um Kämpferin oder Heldin, und ohne erkennbare negative Stigmatisierung. Die Evidenz dafür ist jedoch begrenzt und stammt hauptsächlich aus Namenslexika.",
+  "evidence_quality": "mittel-schwach: überwiegend Namenslexika und Datenbankeinträge, wenig direkte öffentliche Diskussion",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Ildiko",
+  "normalized_name": "ildiko",
+  "overall_resonance": "Die öffentliche Wahrnehmung von Ildiko in Deutschland wirkt sachlich, eher positiv und vor allem namenskundlich geprägt. Der Name wird vor allem mit ungarischer Herkunft, einer kämpferisch-heroischen Bedeutung und Seltenheit verbunden. Eine breite öffentliche Debatte ist nicht erkennbar; die Evidenz ist insgesamt schwach bis mittel, weil vor allem Namenslexika und Datenbankeinträge vorliegen.",
+  "practical_notes": [
+    "Für die Namenssuche ist Ildiko ein eher besonderer, nicht alltäglicher Vorname.",
+    "Die Schreibweise kann in Deutschland ungewohnt wirken, ist aber gut erkennbar.",
+    "Die Resonanz ist eher informativ als emotional aufgeladen."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz belegt vor allem die Beschreibung des Namens, nicht eine echte öffentliche Debatte.",
+    "Es gibt keine klaren Hinweise auf Stigmatisierung oder negative gesellschaftliche Zuschreibungen.",
+    "Beliebtheits- und Seltenheitsangaben sollten vorsichtig gelesen werden, da sie aus Namensdatenbanken stammen."
+  ],
+  "short_summary": "Ildiko wird in Deutschland eher selten, sachlich und leicht positiv wahrgenommen. Der Name wirkt international, traditionsnah und mit einer kämpferisch-heroischen Bedeutung verbunden.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.92,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Ildiko � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/I/Il/Ildiko/"
+    },
+    {
+      "confidence": 0.89,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Ildiko: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Ildiko.html"
+    }
+  ],
+  "style_effect": [
+    "klingt international und zugleich traditionsnah",
+    "wirkt eher eigenständig als modisch",
+    "hat eine sachlich-heroische, leicht elegante Anmutung",
+    "durch die Seltenheit in Deutschland etwas markant",
+    "Namenslexikon-Kontext dominiert die Wahrnehmung"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland eher selten und dadurch auffälliger als vertraut. Sichtbarkeit entsteht vor allem über Namenslisten, Bedeutungsseiten und Beliebtheitsangaben, nicht über intensive öffentliche Diskussion."
+}

@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "Kurzform bzw. friesische Herkunft",
+    "weiblicher Vorname",
+    "althochdeutsche bzw. etymologische Ableitung",
+    "Bedeutungsdeutungen wie „die Dankende“ oder „die Denkende“",
+    "selten bis moderat verbreitet in Deutschland",
+    "teilweise als charmant und schlicht beschrieben"
+  ],
+  "confidence": 0.77,
+  "display_text": "Tomma wirkt in Deutschland eher selten, freundlich und klar, mit friesisch-etymologischem Hintergrund. Die öffentliche Resonanz ist leicht positiv, allerdings basiert sie nur auf begrenzter lexikalischer Evidenz.",
+  "evidence_quality": "Begrenzt: zwei überwiegend lexikalische Webquellen mit positiver bis leicht positiver Einordnung, aber ohne breite öffentliche Diskussionsbasis.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Tomma",
+  "normalized_name": "tomma",
+  "overall_resonance": "Überwiegend leicht positiv und eher freundlich-sachlich wahrgenommen; der Name wirkt in Deutschland zugleich selten bis moderat verbreitet. Die öffentliche Resonanz ist jedoch nur schwach belegt und stützt sich hier vor allem auf Namenslexika.",
+  "practical_notes": [
+    "Für Suchmaschinen-Nutzer lässt sich Tomma als seltener, klanglich einfacher und traditionell anmutender Mädchenname zusammenfassen.",
+    "Die wahrgenommene Wirkung hängt stark von regionalem Umfeld und persönlichem Geschmack ab.",
+    "Keine Hinweise auf eine breite negative Stigmatisierung erkennbar."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt nur aus wenigen Namensdatenbanken; öffentliche Breitenresonanz ist daher nur eingeschränkt belegbar.",
+    "Einzelne Seiten können SEO- oder redaktionelle Tendenzen haben, daher sollten Bewertungen vorsichtig gelesen werden.",
+    "Spitznamen oder Wortspiele können in Einzelfällen genannt werden, sind aber keine belastbare allgemeine Tendenz."
+  ],
+  "short_summary": "Tomma wird meist als seltener, weiblich wirkender und freundlich-sachlicher Name mit friesisch-etymologischem Hintergrund beschrieben. Die öffentliche Resonanz ist eher positiv, aber nur schwach belegt.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.88,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "Vorname Tomma � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/T/To/Tomma/"
+    },
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Tomma: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Tomma.html"
+    }
+  ],
+  "style_effect": [
+    "kurz und klar",
+    "weiblich wahrgenommen",
+    "regional-friesisch geprägt",
+    "traditionell-etymologisch",
+    "selten, dadurch markanter Eindruck",
+    "leicht positiv in der Klangwirkung"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Eher geringe öffentliche Sichtbarkeit: Tomma ist kein sehr geläufiger Name und fällt deshalb eher als besonderer, aber unauffälliger Vorname auf."
+}

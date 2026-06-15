@@ -1,0 +1,62 @@
+{
+  "associations": [
+    "männlicher Vorname",
+    "Kurzform von Arnold",
+    "althochdeutsche Herkunft",
+    "Bedeutung: herrschender Adler",
+    "selten in Deutschland",
+    "Namenstag",
+    "traditionell"
+  ],
+  "confidence": 0.92,
+  "display_text": "Arndt wird überwiegend neutral bis traditionell wahrgenommen: ein seltener, altdeutscher Vorname mit sachlich-klassischer Wirkung und der Bedeutungskonnotation „herrschender Adler“.",
+  "evidence_quality": "Stark für Herkunft, Bedeutung und Seltenheit; begrenzt für echte breitere Alltagsrezeption.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Arndt",
+  "normalized_name": "arndt",
+  "overall_resonance": "Arndt wird in Namenslexika überwiegend neutral bis traditionell wahrgenommen: ein seltener, altdeutscher männlicher Vorname, oft als Kurzform von Arnold gedeutet. Die öffentliche Rezeption wirkt eher sachlich-informativ als modisch oder trendig.",
+  "practical_notes": [
+    "Für Suchmaschinen- oder Lexikontexte eignet sich eine kurze Einordnung als seltener, traditioneller Vorname.",
+    "Die Wirkung ist eher klassisch als modern oder verspielt.",
+    "Wenn gewünscht, kann die Kurzform- und Herkunftsbeziehung zu Arnold transparent genannt werden."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt vor allem aus Namenslexika und ist daher stark auf Bedeutungs- und Herkunftsangaben fokussiert.",
+    "Keine belastbare öffentliche Massenwahrnehmung erkennbar; Aussagen zur Wirkung bleiben vorsichtig.",
+    "Keine Hinweise auf soziale Stigmatisierung in der vorliegenden Evidenz."
+  ],
+  "short_summary": "Arndt wirkt als seltener, traditioneller und sachlich konnotierter männlicher Vorname mit altdeutscher Herkunft und Bezug zu Arnold.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Arndt � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/A/Ar/Arndt/"
+    },
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Arndt: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Arndt.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "traditionell",
+    "sachlich",
+    "selten",
+    "altdeutsch",
+    "lexikalisch"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Eher gering bis mittel: Der Name ist in Deutschland bekannt, aber selten und damit nicht stark alltagspräsent."
+}

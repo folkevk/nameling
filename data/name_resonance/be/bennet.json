@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "Bedeutung: „der Gesegnete“",
+    "englische Form bzw. Kurzform von Benedikt",
+    "modern und in Deutschland verwendet",
+    "alternative zu Benedikt oder Ben",
+    "Namenstag wird teils geführt",
+    "Kurzformen wie Ben oder Benny werden genannt"
+  ],
+  "confidence": 0.84,
+  "display_text": "Bennet wirkt öffentlich überwiegend modern, sachlich und leicht positiv. Der Name wird vor allem über seine Bedeutung „der Gesegnete“ und seine Ableitung von Benedikt eingeordnet. Die verfügbare Evidenz ist jedoch vor allem lexikalisch; eine breite gesellschaftliche Debatte ist nicht erkennbar.",
+  "evidence_quality": "mittel bis gut; zwei namensbezogene Webquellen, überwiegend lexikalisch-informativ, aber keine breite öffentliche Debatte.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Bennet",
+  "normalized_name": "bennet",
+  "overall_resonance": "Eher positiv bis neutral-sachlich: Bennet wird öffentlich vor allem als moderner, klar einordbarer Vorname wahrgenommen, mit leicht positiver Färbung durch die Bedeutung und Herkunftserklärung.",
+  "practical_notes": [
+    "Für Suchende wirkt der Name meist vertraut, zeitgemäß und gut aussprechbar.",
+    "Die Schreibweise Bennet kann als Variante von Bennett/Benedikt-Kontexten wahrgenommen werden.",
+    "Die öffentliche Rezeption scheint eher neutral bis freundlich als kontrovers."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz basiert fast ausschließlich auf Namenslexika und einer einzelnen Vorname-Seite.",
+    "Es gibt kaum belastbare Hinweise auf eine breite gesellschaftliche Diskussion oder starke emotionale Aufladung.",
+    "Seltene/Beliebtheitsangaben können je nach Quelle schwanken."
+  ],
+  "short_summary": "Bennet wird in Deutschland überwiegend sachlich und leicht positiv wahrgenommen: modern, klar und mit der Bedeutung „der Gesegnete“ verbunden.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.95,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "Vorname Bennet � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/B/Be/Bennet/"
+    },
+    {
+      "confidence": 0.95,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Bennet: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Bennet.html"
+    }
+  ],
+  "style_effect": [
+    "modern",
+    "sachlich",
+    "namenskundlich",
+    "klar",
+    "leicht positiv",
+    "international anschlussfähig"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Im deutschen Namenskontext sichtbar und bekannt, aber eher als Lexikon- und Namenssuchbegriff als durch breite öffentliche Debatten geprägt."
+}

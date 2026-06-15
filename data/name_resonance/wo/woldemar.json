@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "alternative Schreibvariante von Waldemar",
+    "althochdeutsche bzw. germanische Herkunft",
+    "Bedeutung in Richtung „berühmter Herrscher“ / „angesehener Herrschender“",
+    "selten in Deutschland",
+    "veraltet bzw. ungewöhnlich",
+    "Namenstag wird teils genannt"
+  ],
+  "confidence": 0.88,
+  "display_text": "Woldemar wirkt in Deutschland vor allem selten, altdeutsch und historisch. Die verfügbaren Quellen beschreiben den Namen überwiegend neutral: als Variante von Waldemar mit germanischer Herkunft und der Bedeutung in Richtung „berühmter Herrscher“. Eine breite öffentliche Debatte ist kaum sichtbar; die Evidenz ist daher eher lexikalisch als meinungsbezogen.",
+  "evidence_quality": "Gut für Herkunft, Bedeutung und Seltenheit; schwächer für echte öffentliche Meinungsresonanz.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Woldemar",
+  "normalized_name": "woldemar",
+  "overall_resonance": "Überwiegend neutral bis leicht historisch-traditionell. Woldemar wird vor allem als alter, selten gebrauchter deutscher/germanischer Vorname wahrgenommen.",
+  "practical_notes": [
+    "Gut geeignet, wenn ein historisch-klingender und klar männlicher Name gesucht wird.",
+    "Die Schreibweise Woldemar wirkt markanter und seltener als Waldemar.",
+    "Kurzformen wie Woldi oder Wolle werden in Quellen erwähnt, sind aber nicht zwingend verbreitet."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist stark textquellenbasiert; eine breite öffentliche Debatte zum Namen ist kaum sichtbar.",
+    "Einzelne Quellen enthalten eher lexikalische als echte Resonanzdaten, daher nur vorsichtige Schlüsse.",
+    "Seltenheit kann als ungewöhnlich wirken, ist aber keine negative Bewertung an sich."
+  ],
+  "short_summary": "Woldemar ist ein seltener, altdeutsch/germanisch geprägter Vorname mit historischer Wirkung. Die öffentliche Wahrnehmung wirkt eher sachlich-neutral als emotional.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.95,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Woldemar � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/W/Wo/Woldemar/"
+    },
+    {
+      "confidence": 0.95,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Woldemar: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Woldemar.html"
+    }
+  ],
+  "style_effect": [
+    "altdeutsch",
+    "historisch",
+    "gehoben-klassisch",
+    "selten",
+    "ungewöhnlich",
+    "etymologisch geprägt"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland eher geringe Sichtbarkeit; der Name erscheint in Namenslexika und Statistik-Kontexten, aber kaum in breiter öffentlicher Diskussion."
+}

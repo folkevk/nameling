@@ -1,0 +1,62 @@
+{
+  "associations": [
+    "lateinischer Ursprung",
+    "deutsche Nebenform von Lucia",
+    "Bedeutung: die Leuchtende",
+    "Bedeutung: die Strahlende",
+    "Licht",
+    "Namenstag",
+    "Spitznamen wie Luzi/Lu/Luzie"
+  ],
+  "confidence": 0.78,
+  "display_text": "Luzia wirkt in den Quellen überwiegend freundlich und positiv: ein heller, klassischer Name mit der Bedeutung „die Leuchtende“ / „die Strahlende“. Die öffentliche Sichtbarkeit in Deutschland scheint eher moderat; die Evidenz kommt vor allem aus Namensportalen und ist deshalb nur begrenzt repräsentativ.",
+  "evidence_quality": "mittel bis gut, aber vor allem quellenintern und nicht breit öffentlich repräsentativ",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Luzia",
+  "normalized_name": "luzia",
+  "overall_resonance": "Überwiegend freundlich und sachlich-positiv; der Name wird vor allem über seine Licht-Bedeutung und den klanglichen Eindruck wahrgenommen.",
+  "practical_notes": [
+    "Für Suchende wirkt Luzia klar, warm und elegant.",
+    "Der Name hat eine gut verständliche Bedeutung und eine vertraute europäische Herkunft.",
+    "Je nach Umfeld kann er etwas seltener und dadurch individueller erscheinen."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt überwiegend aus Namensportalen, also eher aus der Namenskunde als aus breiter öffentlicher Debatte.",
+    "Positive Wirkung ergibt sich vor allem indirekt aus der Bedeutung; das ist keine repräsentative Meinungsumfrage.",
+    "Einzelne Kommentare oder Ranglisten sind nicht als allgemeine öffentliche Mehrheitsmeinung zu verstehen."
+  ],
+  "short_summary": "Luzia wird in den vorliegenden Quellen meist freundlich, lichtbezogen und sachlich bewertet. Die öffentliche Resonanz wirkt eher positiv, ist aber vor allem durch Namensportale belegt und daher nur eingeschränkt repräsentativ.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Luzia � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/L/Lu/Luzia/"
+    },
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Luzia: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Luzia.html"
+    }
+  ],
+  "style_effect": [
+    "weich",
+    "hell",
+    "klassisch",
+    "leicht romantisch",
+    "eher selten als sehr geläufig",
+    "namenskundlich klar lesbar"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland ist Luzia als Vorname bekannt, aber nicht alltagsdominant; die öffentliche Sichtbarkeit in den Quellen wirkt eher namenskundlich als breit gesellschaftlich verankert."
+}

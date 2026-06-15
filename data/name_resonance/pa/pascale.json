@@ -1,0 +1,68 @@
+{
+  "associations": [
+    "französische Form von Pascal",
+    "Bedeutung: zu Ostern geboren",
+    "Osterbezug",
+    "selten in Deutschland",
+    "als Mädchen- und teils auch Jungenname beschrieben",
+    "ungewöhnlich, aber vertraut klingend"
+  ],
+  "confidence": 0.78,
+  "display_text": "Pascale ist in Deutschland eher selten und wird überwiegend sachlich, teils leicht positiv wahrgenommen. Der Name wirkt französisch-elegant und ungewöhnlich, ohne starke öffentliche Debatten. Die Evidenz ist jedoch begrenzt und stammt hauptsächlich aus Namenslexika.",
+  "evidence_quality": "mittel bis schwach: überwiegend lexikalische Quellen, nur begrenzte Community-Resonanz",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Pascale",
+  "normalized_name": "pascale",
+  "overall_resonance": "Pascale wirkt in der öffentlichen Wahrnehmung eher selten, sachlich und leicht elegant-französisch. Die verfügbaren Hinweise deuten insgesamt auf eine neutrale bis vorsichtig positive Resonanz hin, ohne starke breite Diskussion.",
+  "practical_notes": [
+    "Für eine Namenssuche ist Pascale ein klarer, seltener Name mit internationalem Klang.",
+    "Die Wahrnehmung dürfte vor allem über Herkunft, Klang und Seltenheit geprägt sein.",
+    "Wer einen unauffälligen Massennamen sucht, findet hier eher das Gegenteil."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt überwiegend aus Namenslexika und einer einzelnen Namensseite; das ist eher beschreibend als echte öffentliche Meinungsbildung.",
+    "Die positive Tendenz ist nur schwach belegt und sollte nicht als breite gesellschaftliche Zustimmung gelesen werden."
+  ],
+  "short_summary": "Pascale wird in Deutschland eher selten und leicht positiv-französisch wahrgenommen, insgesamt aber vor allem sachlich beschrieben.",
+  "source_count": 3,
+  "sources": [
+    {
+      "confidence": 0.92,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Pascale � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/P/Pa/Pascale/"
+    },
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Pascale � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/P/Pa/Pascale/"
+    },
+    {
+      "confidence": 0.84,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Pascale: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Pascale.html"
+    }
+  ],
+  "style_effect": [
+    "französisch klingend",
+    "eher selten",
+    "elegant und weich",
+    "namenskundlich geprägt",
+    "unisex bzw. geschlechtsübergreifend beschrieben",
+    "besonders statt massentauglich"
+  ],
+  "usable_evidence_count": 3,
+  "visibility": "In Deutschland scheint der Name wenig verbreitet und damit eher auffällig als alltäglich. Die Sichtbarkeit in der öffentlichen Namenswahrnehmung ist eher niedrig."
+}

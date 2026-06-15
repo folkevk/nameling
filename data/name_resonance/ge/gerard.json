@@ -1,0 +1,58 @@
+{
+  "associations": [
+    "althochdeutsche Wurzeln",
+    "Form von Gerhard",
+    "Bedeutung in Richtung \"Speer\" / \"speerstark\"",
+    "männlicher Vorname",
+    "selten in Deutschland",
+    "Namenstag wird in Quellen genannt"
+  ],
+  "confidence": 0.87,
+  "display_text": "Gerard wirkt in Deutschland überwiegend neutral bis leicht positiv. Der Name ist eher selten, klingt klassisch und international und wird vor allem mit seiner traditionellen Herkunft und Bedeutung verbunden. Die öffentliche Resonanz ist jedoch nur schwach belegt, da die Quellen vor allem Namenslexika sind.",
+  "evidence_quality": "Gut für Bedeutung, Herkunft und grobe Einordnung; schwächer für echte öffentliche Resonanz, da vor allem lexikalische Quellen vorliegen.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Gerard",
+  "normalized_name": "gerard",
+  "overall_resonance": "Überwiegend neutral bis leicht positiv. Gerard wird vor allem sachlich als seltener, internationaler Vorname mit traditioneller Herkunft wahrgenommen.",
+  "practical_notes": [
+    "Für die öffentliche Wahrnehmung ist eher der klassische und internationale Klang relevant als ein modischer Effekt.",
+    "Durch die Seltenheit in Deutschland kann der Name auffallen, ohne eindeutig modern oder altmodisch zu wirken."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt überwiegend aus Namenslexika; direkte öffentliche Debatte ist schwach.",
+    "Keine belastbaren Hinweise auf starke soziale Vorurteile oder negative Stigmatisierung in der vorliegenden Evidenz."
+  ],
+  "short_summary": "Gerard wird in Deutschland meist neutral bis leicht positiv wahrgenommen: klassisch, selten und international klingend, mit traditioneller germanischer Herkunft.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Gerard � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/G/Ge/Gerard/"
+    },
+    {
+      "confidence": 0.89,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Gerard: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Gerard.html"
+    }
+  ],
+  "style_effect": [
+    "klingt klassisch und traditionsnah",
+    "wirkt international bzw. sprachübergreifend",
+    "eher selten im deutschen Namensalltag",
+    "assoziiert mit altertümlich-kräftiger Namensbedeutung",
+    "neutral-informative Wahrnehmung dominiert"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland eher geringe Sichtbarkeit; der Name wirkt bekannt, aber nicht alltäglich und taucht vor allem in Namenslexika auf."
+}

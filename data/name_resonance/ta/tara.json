@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "weiblicher Vorname",
+    "Bedeutungen wie Stern, Kraft oder Leben",
+    "irische, persische, aramäische und indische/buddhistische Bezüge",
+    "Kurzform von Tamara in manchen Quellen",
+    "Namenstag am 29. Dezember",
+    "bekannt, aber nicht stark trendüberladen"
+  ],
+  "confidence": 0.79,
+  "display_text": "Tara wirkt in Deutschland überwiegend leicht positiv: ein kurzer, international klingender Vorname mit freundlichen, namenskundlichen Assoziationen wie Stern, Kraft oder Leben. Die vorliegende Evidenz stammt jedoch fast nur aus Namensdatenbanken, daher ist die öffentliche Resonanz nur vorsichtig beurteilbar.",
+  "evidence_quality": "mittel bis eher schwach: zwei einschlägige Namensquellen, aber keine belastbare freie Social-Response oder Debattenlage.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Tara",
+  "normalized_name": "tara",
+  "overall_resonance": "Überwiegend leicht positiv bis positiv, mit eher sachlich-informativer als emotionaler öffentlicher Resonanz.",
+  "practical_notes": [
+    "Für die öffentliche Wahrnehmung wirkt der Name eher freundlich und zugänglich.",
+    "Die Kürze und internationale Verwendbarkeit sind klare Pluspunkte.",
+    "Da die Datenlage begrenzt ist, sollte die Einschätzung als vorsichtige Tendenz verstanden werden."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt fast ausschließlich aus Namensdatenbanken, nicht aus einer breiten öffentlichen Diskussion.",
+    "Die genannten Bedeutungen und Herkünfte sind quellenabhängig und teils mehrdeutig.",
+    "Eine gesellschaftliche Stigmatisierung ist hier nicht erkennbar; dafür gibt es in der Evidenz keinen Hinweis."
+  ],
+  "short_summary": "Tara wird im deutschsprachigen Raum überwiegend freundlich und sachlich wahrgenommen: ein kurzer, international klingender Vorname mit mehreren positiven Bedeutungs- und Herkunftsbezügen. Die Evidenz ist jedoch vor allem datenbankbasiert.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.92,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "Vorname Tara � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/T/Ta/Tara/"
+    },
+    {
+      "confidence": 0.92,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Tara: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Tara.html"
+    }
+  ],
+  "style_effect": [
+    "kurz und international wirkend",
+    "modern-neutral mit weichem Klang",
+    "namenskundlich aufgeladen durch mehrere Herkunftsdeutungen",
+    "eher freundlich als markant",
+    "leicht elegant und unkompliziert"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Der Vorname ist in Namensdatenbanken und Vornamen-Portalen gut auffindbar und scheint in Deutschland bekannt zu sein, aber die vorliegende Evidenz zeigt keine breite freie Debatte."
+}

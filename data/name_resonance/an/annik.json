@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "als Kurzform von Annika",
+    "als Verniedlichungs- bzw. Koseform von Anna",
+    "hebräischer Ursprung",
+    "Bedeutungen wie Anmut, Gnade oder Liebreiz",
+    "Namenstag wird genannt",
+    "in Deutschland als eher selten beschrieben"
+  ],
+  "confidence": 0.68,
+  "display_text": "Annik wirkt in den vorliegenden Quellen eher positiv und freundlich, zugleich aber selten und vor allem namenskundlich eingeordnet. Die öffentliche Resonanz ist schwach belegt und stammt überwiegend aus Namenslexika.",
+  "evidence_quality": "Begrenzt: wenige, überwiegend redaktionelle Namensquellen; öffentliche Debatte kaum sichtbar.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Annik",
+  "normalized_name": "annik",
+  "overall_resonance": "Eher positiv bis neutral, mit klarer Tendenz zu sachlich-wohlwollenden Namensbeschreibungen.",
+  "practical_notes": [
+    "Für Suchende wirkt der Name eher vertraut, aber ungewöhnlich.",
+    "Die Schreibweise ist kurz und klar, kann aber leicht mit ähnlichen Formen wie Annick oder Annika verwechselt werden.",
+    "Der Name passt in einen modernen, sanften Namensstil, ohne stark modisch zu wirken."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist schwach und basiert nur auf wenigen Namenslexikon-/Datenbankquellen.",
+    "Es gibt keine belastbare breite öffentliche Resonanz, eher redaktionelle Namensbeschreibungen.",
+    "Positive Einordnungen sollten nicht als allgemeine gesellschaftliche Meinung über Trägerinnen des Namens verstanden werden."
+  ],
+  "short_summary": "Annik wird meist freundlich, sachlich und leicht klassisch beschrieben, bei insgesamt geringer öffentlicher Sichtbarkeit. Die Quellenlage ist allerdings schmal.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Annik � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/A/An/Annik/"
+    },
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Annik: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Annik.html"
+    }
+  ],
+  "style_effect": [
+    "kurz und einprägsam",
+    "namenskundlich",
+    "klassisch-abgeleitet",
+    "eher selten",
+    "freundlich/lieblich konnotiert"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Die öffentliche Sichtbarkeit wirkt eher gering: Annik erscheint in den vorliegenden Quellen als seltener Vorname und wird vor allem in Namenslexika behandelt, nicht in einer breiten öffentlichen Debatte."
+}

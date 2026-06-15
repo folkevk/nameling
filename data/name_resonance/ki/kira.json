@@ -1,0 +1,69 @@
+{
+  "associations": [
+    "Bedeutungshinweise wie „die Herrin“ oder „die Sonne“",
+    "altgriechische und teils altpersische Herleitungen",
+    "weiblicher Vorname",
+    "moderne, internationale Ausstrahlung",
+    "Namenstag-Angaben",
+    "Beliebtheit in deutschen Vornamenscharts"
+  ],
+  "confidence": 0.82,
+  "display_text": "Kira wirkt in Deutschland modern, freundlich und eher positiv besetzt. Der Name ist in Namensportalen gut dokumentiert und wird meist als bekannt, international und einprägsam beschrieben. Die Evidenz ist allerdings begrenzt und basiert vor allem auf einzelnen namenskundlichen Quellen.",
+  "evidence_quality": "mittel bis schwach: mehrere namenskundliche Quellen, aber keine breite, unabhängige öffentliche Resonanzanalyse",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Kira",
+  "normalized_name": "kira",
+  "overall_resonance": "Im deutschsprachigen Raum wirkt Kira insgesamt modern, freundlich und eher positiv besetzt. Die vorhandene Evidenz beschreibt den Namen vor allem als bekannt, international wirkend und in Namensportalen gut verankert; eine breite öffentliche Debatte ist daraus jedoch nicht ableitbar.",
+  "practical_notes": [
+    "Für die öffentliche Wahrnehmung ist Kira eher unproblematisch und gut anschlussfähig.",
+    "Der Name wird meist sachlich-namenskundlich beschrieben, nicht kontrovers.",
+    "Für eine Suchmaschine eignet sich die Formulierung „modern, bekannt, eher positiv wahrgenommen“ mit dem Hinweis auf begrenzte Evidenz."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenzlage ist begrenzt und stammt überwiegend aus einzelnen Namensportalen.",
+    "Es gibt keine belastbare Grundlage für Aussagen über eine allgemeine gesellschaftliche Bewertung jenseits dieser Quellen.",
+    "Keine Hinweise auf Stigmatisierung in der vorliegenden Evidenz."
+  ],
+  "short_summary": "Kira wird in deutschen Namensquellen überwiegend modern, bekannt und eher positiv beschrieben. Die Evidenz ist jedoch begrenzt und vor allem lexikalisch-namenskundlich.",
+  "source_count": 3,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Kira � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/K/Ki/Kira/"
+    },
+    {
+      "confidence": 0.94,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "Vorname Kira � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/K/Ki/Kira/"
+    },
+    {
+      "confidence": 0.89,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Kira: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Kira.html"
+    }
+  ],
+  "style_effect": [
+    "modern",
+    "klar",
+    "international wirkend",
+    "kurz und einprägsam",
+    "namenskundlich etabliert",
+    "eher positiv konnotiert"
+  ],
+  "usable_evidence_count": 3,
+  "visibility": "Mittlere Sichtbarkeit: Der Name ist in deutschen Vornamen-Portalen präsent und als bekannt bzw. beliebt eingeordnet, aber die Evidenz ist auf wenige namenskundliche Quellen beschränkt."
+}

@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "skandinavische Kurzform",
+    "althebräische Namensdeutungen",
+    "Bedeutungen wie „Vater des Friedens“ oder „Vater ist Heil“",
+    "deutschsprachiger und nordischer Raum",
+    "Namenslexikon/Referenzname",
+    "eher traditionsnah als verspielt"
+  ],
+  "confidence": 0.9,
+  "display_text": "Axel wirkt in der öffentlichen Wahrnehmung überwiegend neutral bis leicht positiv: ein kurzer, klassischer und nordisch-deutsch geprägter Name. Die vorhandenen Quellen sind vor allem namenskundlich und deuten eher auf eine stabile, traditionsnahe Resonanz als auf starke Mode- oder Imageeffekte hin.",
+  "evidence_quality": "Gut, aber überwiegend lexikalisch-informativ; direkte Rezeption in Meinungsquellen ist nur begrenzt sichtbar.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Axel",
+  "normalized_name": "axel",
+  "overall_resonance": "Überwiegend neutral bis leicht positiv: Axel wird vor allem sachlich-lexikalisch wahrgenommen, mit eher klassischen und nordisch-deutschsprachigen Assoziationen.",
+  "practical_notes": [
+    "Wirkt kurz, klar und gut merkbar.",
+    "Passt zu einer eher klassischen, nüchternen Namenswirkung.",
+    "Die Resonanz basiert hier stärker auf Herkunft und Bedeutung als auf öffentlicher Trendwahrnehmung."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die verfügbare Evidenz ist vor allem lexikalisch und weniger von breiten Alltagsurteilen geprägt.",
+    "Positive oder negative Zuschreibungen lassen sich daraus nur vorsichtig ableiten.",
+    "Keine belastbaren Hinweise auf eine besondere soziale Stigmatisierung in der vorliegenden Evidenz."
+  ],
+  "short_summary": "Axel wird öffentlich meist sachlich und traditionsnah eingeordnet, mit leicht positiver Wirkung durch die zugeschriebene Bedeutung und die nordisch-deutsche Prägung.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Axel � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/A/Ax/Axel/"
+    },
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Axel: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Axel.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "nordisch",
+    "kurz und markant",
+    "informativ",
+    "zeitlos",
+    "männlich konnotiert"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Im deutschsprachigen Raum gut bekannt und klar einzuordnen; die öffentliche Sichtbarkeit wirkt eher stabil als modisch oder trendgetrieben."
+}

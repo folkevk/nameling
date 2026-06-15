@@ -1,0 +1,59 @@
+{
+  "associations": [
+    "Jungenname",
+    "international",
+    "altfranzösisch/althochdeutsche Herleitung in den Quellen",
+    "Bedeutung im Sinn von 'guter Freund' bzw. 'ratgebender Freund' wird genannt",
+    "in Deutschland eher selten bis moderat verbreitet"
+  ],
+  "confidence": 0.82,
+  "display_text": "Melvin wirkt in Deutschland überwiegend sachlich-neutral bis leicht positiv: ein international klingender Jungenname mit klar beschriebener Herkunft und Bedeutung, eher selten bis moderat verbreitet. Die Evidenz stammt vor allem aus Namenslexika und zeigt keine breite Kontroverse.",
+  "evidence_quality": "mittel bis gut: klare Namensdiskussionen vorhanden, aber vor allem beschreibende Lexikonquellen statt breiter öffentlicher Diskurs",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Melvin",
+  "normalized_name": "melvin",
+  "overall_resonance": "Überwiegend sachlich-neutral mit leicht positivem Unterton. In den vorliegenden Namensseiten wird Melvin vor allem als internationaler Jungenname mit klar beschriebener Herkunft und Bedeutung dargestellt; eine breite öffentliche Debatte ist daraus nicht erkennbar.",
+  "practical_notes": [
+    "Für die Namenssuche wirkt Melvin gut verständlich, international und unkompliziert.",
+    "Wer einen vertraut klingenden, aber nicht allzu häufigen Vornamen sucht, könnte ihn als passend empfinden.",
+    "Die Wirkung hängt stark vom Umfeld ab; aus den Quellen ergibt sich kein klarer Trend zu Stigma oder besonderem Prestige."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt fast ausschließlich aus Vornamenslexika und redaktionellen Namensseiten; das bildet öffentliche Resonanz nur eingeschränkt ab.",
+    "Es gibt keine belastbare Grundlage für starke soziale Zuschreibungen oder kontroverse Wahrnehmungen.",
+    "Die Angaben zur Beliebtheit sind beschreibend und sollten nicht als eindeutiges Stimmungsbild der Gesamtbevölkerung gelesen werden."
+  ],
+  "short_summary": "Melvin wird in den vorliegenden Quellen überwiegend sachlich und leicht positiv beschrieben: international, klar in Herkunft und Bedeutung, in Deutschland eher selten bis moderat verbreitet.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Melvin � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/M/Me/Melvin/"
+    },
+    {
+      "confidence": 0.86,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Melvin: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Melvin.html"
+    }
+  ],
+  "style_effect": [
+    "international klingend",
+    "informativ",
+    "modern, aber nicht trendig überzeichnet",
+    "lexikalisch klar",
+    "eher freundlich als streng"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Im deutschen Namenskontext wirkt Melvin eher mittel bis eher selten bis moderat verbreitet und dadurch bekannt, aber nicht massenhaft präsent. Die Wahrnehmung scheint stärker lexikalisch-informativ als gesellschaftlich umstritten."
+}

@@ -1,0 +1,69 @@
+{
+  "associations": [
+    "weiblicher Vorname",
+    "Bedeutungen wie „die Leuchtende“ und „die Schöne“",
+    "teils auch „die Adelige“ bzw. „die Vornehme“",
+    "moderne, bekannte Namenswahl in Deutschland",
+    "Beliebtheit und hohe Vertrautheit",
+    "Namenstag",
+    "kulturell mehrfach zugeschriebene Herkunft"
+  ],
+  "confidence": 0.95,
+  "display_text": "Alina hat in Deutschland eine überwiegend positive und sehr vertraute Resonanz. Der Name wirkt modern, weich und elegant und wird oft mit Bedeutungen wie „die Leuchtende“ oder „die Schöne“ verbunden. Die Herkunftsangaben variieren teils je nach Quelle, insgesamt gilt Alina aber als etablierter und beliebt wahrgenommener Vorname.",
+  "evidence_quality": "gut bis sehr gut; mehrere namenskundliche Quellen, überwiegend konsistente positive bzw. neutrale Resonanz, aber einzelne Herkunftsdetails sind uneinheitlich",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Alina",
+  "normalized_name": "alina",
+  "overall_resonance": "Alina wirkt in der öffentlichen Namenswahrnehmung insgesamt klar positiv und etabliert. Der Name wird vor allem mit schönen, wertschätzenden Bedeutungen wie „die Leuchtende“, „die Schöne“ oder „die Vornehme“ verbunden und als modern sowie in Deutschland sehr bekannt beschrieben.",
+  "practical_notes": [
+    "Für eine Namenssuche in Deutschland ist Alina gut anschlussfähig und leicht verständlich.",
+    "Der Name wirkt eher zeitgemäß als altmodisch und eher freundlich als streng.",
+    "Aufgrund der hohen Bekanntheit dürfte die Aussprache im Deutschen meist problemlos sein."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Herkunfts- und Bedeutungszuordnungen sind in den Quellen teils nicht einheitlich und werden nebeneinander genannt.",
+    "Die positive Wirkung ergibt sich vor allem aus namenskundlichen Beschreibungen und Beliebtheitshinweisen, nicht aus breiter öffentlicher Debatte."
+  ],
+  "short_summary": "Alina wird in Deutschland überwiegend positiv, modern und bekannt wahrgenommen. Häufig genannte Assoziationen sind Licht, Schönheit und Eleganz; die genaue Herkunft wird je nach Quelle unterschiedlich beschrieben.",
+  "source_count": 3,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "Vorname Alina � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/A/Al/Alina/"
+    },
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Alina � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/A/Al/Alina/"
+    },
+    {
+      "confidence": 0.91,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Alina: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Alina.html"
+    }
+  ],
+  "style_effect": [
+    "modern",
+    "freundlich",
+    "elegant",
+    "weich klingend",
+    "namenskundlich aufgeladen",
+    "etabliert"
+  ],
+  "usable_evidence_count": 3,
+  "visibility": "hoch"
+}

@@ -1,0 +1,57 @@
+{
+  "associations": [
+    "skandinavische bzw. altnordische Herkunft",
+    "Bedeutung: „Alleinherrscher“ / „der Alleinherrschende“",
+    "Beliebtheit als Jungenname in Deutschland",
+    "Namenstag am 18. Mai, teils auch 10. Juli",
+    "Varianten wie Eric, Eirik, Erich, Eryk"
+  ],
+  "confidence": 0.92,
+  "display_text": "Erik wird in Deutschland überwiegend sachlich bis positiv wahrgenommen: kurz, klar, nordisch geprägt und gut bekannt. Die Quellen betonen vor allem Herkunft, Bedeutung und Beliebtheit; direkte öffentliche Wertungen sind eher moderat belegt.",
+  "evidence_quality": "gut für Bedeutung, Herkunft und übliche Einordnung; nur mittelstark für echte öffentliche Resonanz, da die Quellen überwiegend informativ sind.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Erik",
+  "normalized_name": "erik",
+  "overall_resonance": "Erik wird in der deutschsprachigen Namenswahrnehmung überwiegend sachlich bis positiv beschrieben. Der Name gilt als kurz, klar und vertraut, mit eher klassisch-nordischer Anmutung.",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt Erik unkompliziert, vertraut und international anschlussfähig.",
+    "Die Schreibweise ist kurz und leicht merkbar; Varianten existieren, können aber je nach Kontext unterschiedliche Schreibgewohnheiten auslösen."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz zur Resonanz stammt vor allem aus Lexikon- und Namensseiten; direkte öffentliche Meinungen sind nur begrenzt belegt.",
+    "Die positive Bewertung wirkt eher moderat und beschreibend als enthusiastisch."
+  ],
+  "short_summary": "Erik wird meist als bekannter, kurz klingender und eher positiv konnotierter Jungenname wahrgenommen, mit nordischer Herkunft und zeitloser Wirkung.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Erik � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/E/Er/Erik/"
+    },
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "positive",
+      "source_type": "web",
+      "title": "&#9655; Vorname Erik: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Erik.html"
+    }
+  ],
+  "style_effect": [
+    "kurz und prägnant",
+    "schlicht und gut klingend",
+    "klassisch-nordisch / altnordisch",
+    "informativ und nüchtern",
+    "eher zeitlos als modisch"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland gut bekannt und deutschlandweit verbreitet; die öffentliche Sichtbarkeit wirkt stabil, ohne starken Trendcharakter."
+}

@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "altgriechische Herkunft",
+    "literarische Erfindung bzw. Namensbildung",
+    "mögliche Bedeutungen wie „die ganz Süße“ oder „die Honigsüße“",
+    "selten bis mittelmäßig verbreitet",
+    "Kurzformen wie Pam, Pammy, Pami",
+    "Nebenform Pamella",
+    "Namenstag wird in einigen Quellen genannt"
+  ],
+  "confidence": 0.89,
+  "display_text": "Pamela wirkt in Deutschland überwiegend neutral bis leicht positiv: klassisch, weiblich und eher selten bis mittelmäßig verbreitet. Die öffentliche Beschreibung ist vor allem lexikalisch und nennt häufig altgriechische bzw. literarische Bezüge sowie freundliche Bedeutungsdeutungen. Die Evidenz ist ordentlich, aber vor allem auf Namenslexika gestützt.",
+  "evidence_quality": "mittel bis gut: zwei einschlägige Namensquellen, insgesamt konsistent, aber stark lexikalisch und nicht breit empirisch belegt.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Pamela",
+  "normalized_name": "pamela",
+  "overall_resonance": "Die öffentliche Resonanz auf Pamela in Deutschland wirkt überwiegend sachlich bis leicht positiv: Der Name wird vor allem als klassischer weiblicher Vorname mit altgriechisch/literarischer Einordnung beschrieben. Die Wahrnehmung ist eher neutral, mit einer freundlichen Bedeutungsassoziation, aber ohne starke Trend- oder Modewirkung.",
+  "practical_notes": [
+    "Für Suchmaschinen wirkt der Name klar, etabliert und leicht einzuordnen.",
+    "Die häufigsten öffentlichen Beschreibungen sind neutral-informativ, nicht kontrovers.",
+    "Die positive Färbung kommt vor allem aus der Bedeutung, nicht aus einer starken modernen Popularität."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Bedeutungsdeutungen sind quellenabhängig und nicht in allen Fällen gesichert.",
+    "Es gibt keine belastbare Evidenz für soziale Stigmatisierung; falls einzelne Assoziationen auftreten, sind sie nicht als allgemeingültig zu werten.",
+    "Die Datenlage basiert vor allem auf Namenslexika und ist daher eher beschreibend als empirisch breit abgesichert."
+  ],
+  "short_summary": "Pamela wird in Deutschland überwiegend neutral bis leicht positiv wahrgenommen: ein klassischer, eher seltener weiblicher Vorname mit freundlicher Bedeutungsassoziation.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Pamela � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/P/Pa/Pamela/"
+    },
+    {
+      "confidence": 0.92,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Pamela: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Pamela.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "weiblich",
+    "eher freundlich klingend",
+    "lexikalisch klar einordenbar",
+    "etwas altmodisch/selten statt sehr modern"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Im deutschen Sprachraum bekannt, aber eher selten bis mittelmäßig verwendet; damit kein sehr dominanter, aber auch kein unbekannter Name."
+}

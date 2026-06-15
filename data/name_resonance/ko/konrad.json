@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "alte deutsche Herkunft",
+    "Bedeutung: der kühne Ratgeber",
+    "mittelalterliche Anmutung",
+    "historisch populär",
+    "sachlich-ernst",
+    "Spitznamen wie Konni/Konny/Koni"
+  ],
+  "confidence": 0.84,
+  "display_text": "Konrad wird meist als klassisch-deutscher, historisch geprägter und eher zeitloser Name wahrgenommen. Die vorliegenden Quellen beschreiben ihn sachlich und leicht positiv, mit Bedeutungen wie „der kühne Ratgeber“. Für eine breite öffentliche Resonanz außerhalb von Namensseiten ist die Evidenz jedoch begrenzt.",
+  "evidence_quality": "mittel bis gut für Namensbedeutung und Stilwirkung, aber schwach für echte öffentliche Resonanz außerhalb redaktioneller Namensseiten",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Konrad",
+  "normalized_name": "konrad",
+  "overall_resonance": "Konrad wird in den vorliegenden Quellen überwiegend sachlich, traditionell und eher positiv-konservativ wahrgenommen. Der Name wirkt historisch verankert, solide und im deutschen Sprachraum gut einordenbar, ohne stark modisch zu sein.",
+  "practical_notes": [
+    "Für Suchmaschinen wirkt der Name klar, klassisch und gut anschlussfähig an deutsche Namenskontexte.",
+    "Die Schreibweise ist unkompliziert und etabliert.",
+    "Wer einen modernen Trendnamen sucht, wird Konrad eher als traditionsbewusst empfinden."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt fast ausschließlich aus Namenslexika und redaktionellen Beschreibungen, nicht aus breiter öffentlicher Diskussion.",
+    "Positive Formulierungen zur Beliebtheit können die Wirkung leicht freundlicher erscheinen lassen als sie in der Alltagswahrnehmung ist.",
+    "Zur tatsächlichen öffentlichen Resonanz außerhalb dieser Quellen gibt es nur indirekte Hinweise."
+  ],
+  "short_summary": "Konrad wirkt im Deutschen traditionell, historisch und bodenständig, mit leicht positiver, sachlicher Rezeption. Eine starke Trend- oder Stigmawirkung ist in der vorliegenden Evidenz nicht erkennbar.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.94,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Konrad � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/K/Ko/Konrad/"
+    },
+    {
+      "confidence": 0.92,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Konrad: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Konrad.html"
+    }
+  ],
+  "style_effect": [
+    "traditionell",
+    "historisch",
+    "bodenständig",
+    "zeitlos",
+    "klassisch-deutsch",
+    "eher selten modern vergeben"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Im deutschen Kontext ist Konrad bekannt, aber eher nicht als Trendname präsent. Die Quellen deuten auf eine mittlere bis eher seltenere Vergabe in der Gegenwart hin."
+}

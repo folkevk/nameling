@@ -1,0 +1,62 @@
+{
+  "associations": [
+    "lateinische Herkunft",
+    "Variante von Lauretta/Laura",
+    "Lorbeer / Lorbeerkranz",
+    "Sieges- und Ehrenbezug",
+    "italienische Anmutung",
+    "Namenstag am 10. Dezember",
+    "selten bis mäßig verbreitet in Deutschland"
+  ],
+  "confidence": 0.74,
+  "display_text": "Loretta wirkt klassisch, elegant und leicht italienisch. Die vorhandenen Quellen sind überwiegend neutral bis leicht positiv, aber die tatsächliche öffentliche Resonanz in Deutschland ist nur schwach belegt.",
+  "evidence_quality": "mittel bis schwach: zwei namenskundliche Webquellen, überwiegend beschreibend, nur indirekte Hinweise auf öffentliche Wahrnehmung",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Loretta",
+  "normalized_name": "loretta",
+  "overall_resonance": "Loretta wirkt in der öffentlichen Namenswahrnehmung eher elegant, klassisch und leicht italienisch geprägt. Die Tonlage der vorhandenen Quellen ist überwiegend neutral bis leicht positiv; zugleich ist die direkte Evidenz zur tatsächlichen Breitenresonanz in Deutschland begrenzt.",
+  "practical_notes": [
+    "Für Suchmaschinen-Nutzer wirkt der Name klar, feminin und klangvoll.",
+    "Die Schreib- und Klangform ist gut erkennbar, aber im Alltag eher ungewöhnlich.",
+    "Wer einen seltenen, traditionsnahen Namen mit weicher Wirkung sucht, könnte ihn passend finden."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt vor allem aus Namensdatenbanken; unabhängige öffentliche Resonanzquellen sind schwach.",
+    "Positive oder stilvolle Eindrücke sind eher eine beschreibende Tendenz als ein harter Beleg für allgemeine Zustimmung.",
+    "Keine belastbaren Hinweise auf soziale Stigmatisierung in den vorliegenden Daten."
+  ],
+  "short_summary": "Loretta wird meist als klassisch, elegant und leicht italienisch wahrgenommen; die Quellen klingen eher positiv, aber die direkte öffentliche Resonanz in Deutschland ist nur begrenzt belegt.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Loretta � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/L/Lo/Loretta/"
+    },
+    {
+      "confidence": 0.86,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Loretta: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Loretta.html"
+    }
+  ],
+  "style_effect": [
+    "elegant",
+    "klassisch",
+    "weich klingend",
+    "leicht italienisch",
+    "namenskundlich vertraut",
+    "selten/ungewöhnlich wirkend"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland scheint Loretta eher selten bis mäßig verbreitet zu sein und dadurch auffälliger als sehr häufige Vornamen. Die Sichtbarkeit in der öffentlichen Wahrnehmung ist nach den vorliegenden Quellen eher indirekt und nicht stark abgesichert."
+}

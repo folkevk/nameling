@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "männlicher Vorname",
+    "englisch/angloamerikanisch bzw. altenglisch/skandinavisch eingeordnet",
+    "Namenstag am 26. Mai",
+    "selten verwendet",
+    "assoziiert mit Bekanntheit durch Elvis Presley als kulturelle Referenz"
+  ],
+  "confidence": 0.89,
+  "display_text": "Elvis: ein seltener, einprägsamer Vorname mit internationalem und popkulturellem Klang. Die öffentliche Rezeption wirkt überwiegend neutral bis leicht positiv; Herkunft und Beliebtheit sind quellengebunden und teils unterschiedlich beschrieben.",
+  "evidence_quality": "gut, aber überwiegend auf zwei Namenslexika gestützt; inhaltlich klar zum Vornamen, jedoch mit begrenzter Quellenbreite",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Elvis",
+  "normalized_name": "elvis",
+  "overall_resonance": "Elvis wirkt im deutschen Sprachraum als klar erkennbarer, eher seltener Vorname mit starkem internationalen und popkulturellen Klang. Die öffentliche Wahrnehmung ist überwiegend neutral bis leicht positiv, vor allem wegen der Bekanntheit des Namens und seiner markanten, einprägsamen Form.",
+  "practical_notes": [
+    "Für Suchmaschinen und Namenslisten ist Elvis sehr gut merkbar und eindeutig.",
+    "Der Name kann modern, international und charakterstark wirken.",
+    "Wegen der Seltenheit kann er auffallen, ohne automatisch ungewöhnlich negativ wahrgenommen zu werden."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Etymologie wird in den Quellen nicht ganz einheitlich dargestellt; die Herkunftsangaben sollten daher vorsichtig gelesen werden.",
+    "Beliebtheitsaussagen sind quellengebunden und nicht als allgemein belastbare Statistik zu verstehen.",
+    "Die popkulturelle Assoziation kann die Wahrnehmung stark prägen, sagt aber nichts über den Namensträger aus."
+  ],
+  "short_summary": "Elvis ist in Deutschland ein seltener, markanter Vorname mit internationalem und popkulturellem Klang. Die Rezeption ist überwiegend neutral bis leicht positiv, bei vorsichtiger Einordnung der Herkunft und Beliebtheit.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Elvis � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/E/El/Elvis/"
+    },
+    {
+      "confidence": 0.82,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Elvis: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Elvis.html"
+    }
+  ],
+  "style_effect": [
+    "markant",
+    "international",
+    "eingängig",
+    "leicht retro",
+    "popkulturell geprägt",
+    "selten im Alltag"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland eher selten bis mäßig bekannt; die Sichtbarkeit entsteht weniger durch breite Nutzung als durch den hohen Wiedererkennungswert des Namens."
+}

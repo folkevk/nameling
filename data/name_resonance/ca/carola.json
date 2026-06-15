@@ -1,0 +1,63 @@
+{
+  "associations": [
+    "weiblicher Vorname",
+    "althochdeutsche Herkunft",
+    "Bedeutung im Sinn von 'die Freie' bzw. 'freie Frau'",
+    "historisch etabliert",
+    "Namenstag",
+    "selten bis moderat verbreitet",
+    "Spitznamen wie Caro oder Lola"
+  ],
+  "confidence": 0.9,
+  "display_text": "Carola wirkt öffentlich klassisch und traditionsreich. Der Name wird meist neutral bis leicht positiv eingeordnet, mit der Bedeutung und Herkunft als zentrale Merkmale. In Deutschland ist er eher selten, aber gut bekannt.",
+  "evidence_quality": "mittel bis gut: zwei direkte Namensquellen mit weitgehend konsistenter, überwiegend neutral bis leicht positiver Darstellung; allerdings keine breite öffentliche Diskussion.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Carola",
+  "normalized_name": "carola",
+  "overall_resonance": "Carola wirkt öffentlich eher klassisch, sachlich und positiv-konnotiert. Der Name wird vor allem als traditioneller weiblicher Vorname mit historischer Herkunft und klarer Bedeutung wahrgenommen, ohne starke polarisierende Debatten.",
+  "practical_notes": [
+    "Für eine Namenssuchmaschine lässt sich Carola als klassischer, traditionsreicher Name mit klarer Bedeutung zusammenfassen.",
+    "Die Datenlage ist relativ schmal, aber konsistent.",
+    "Geeignet für eine zurückhaltende, wertige Beschreibung ohne Überhöhung."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt fast ausschließlich aus Namenslexika und nicht aus einer breiten öffentlichen Debatte.",
+    "Die positive oder neutrale Einordnung bezieht sich auf die Darstellung des Namens, nicht auf gesellschaftliche Urteile über Trägerinnen.",
+    "Keine belastbaren Hinweise auf Stigmatisierung oder starke Negativassoziationen in der vorliegenden Evidenz."
+  ],
+  "short_summary": "Carola wird in der vorliegenden Evidenz als klassischer, traditioneller und eher seltener Vorname mit positiver bzw. neutraler Wahrnehmung beschrieben.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.95,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Carola � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/C/Ca/Carola/"
+    },
+    {
+      "confidence": 0.92,
+      "is_name_discussion": true,
+      "sentiment": "eher positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Carola: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Carola.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "traditionell",
+    "eher zeitlos",
+    "formal bis freundlich",
+    "kurz und gut aussprechbar",
+    "leicht nostalgisch",
+    "namenskundlich klar verankert"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland eher selten, aber bekannt und kulturell gut einordenbar. Die öffentliche Sichtbarkeit ist vor allem lexikalisch-namenskundlich und weniger durch aktuelle breite Diskussionen geprägt."
+}

@@ -1,0 +1,59 @@
+{
+  "associations": [
+    "biblischer und hebräischer Bezug",
+    "auch altägyptische Assoziationen",
+    "Bedeutungen rund um Treue, Arbeit oder Erhabenheit",
+    "Seltenheit/Ungewöhnlichkeit",
+    "Namensvarianten wie Ammon oder Amun"
+  ],
+  "confidence": 0.83,
+  "display_text": "Amon wirkt in Deutschland eher selten, markant und historisch-religiös geprägt. Die öffentliche Rezeption ist überwiegend neutral bis positiv, basiert aber vor allem auf Namenslexika und weniger auf breiter Diskussion.",
+  "evidence_quality": "mittel: zwei klare, namensbezogene Lexikonquellen; wenig bis keine breite öffentliche Debatte",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Amon",
+  "normalized_name": "amon",
+  "overall_resonance": "Eher positiv bis neutral: Amon wirkt im öffentlichen Namenskontext markant, selten und zugleich kulturell/historisch aufgeladen.",
+  "practical_notes": [
+    "Für Suchende wirkt der Name kompakt, eigenständig und gut wiedererkennbar.",
+    "Durch die Seltenheit kann er auffallen, ohne stark polarisiert zu wirken.",
+    "Je nach Kontext werden eher die historischen und biblischen Bezüge wahrgenommen als eine modische Wirkung."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist begrenzt und stützt sich vor allem auf Namenslexika statt auf breite öffentliche Diskussionen.",
+    "Die Wahrnehmung als 'positiv' ist eher eine lexikalische Einordnung als ein eindeutiges gesellschaftliches Urteil.",
+    "Kulturelle und religiöse Bezüge sollten nicht als Aussage über Trägerinnen oder Träger des Namens verstanden werden."
+  ],
+  "short_summary": "Amon wird im deutschen Namenskontext meist als seltener, markanter und historisch-religiös geprägter Vorname wahrgenommen. Die verfügbare Evidenz ist begrenzt, wirkt aber überwiegend neutral bis positiv.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Amon � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/A/Am/Amon/"
+    },
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Amon: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Amon.html"
+    }
+  ],
+  "style_effect": [
+    "kurz und prägnant",
+    "markant und ungewöhnlich",
+    "historisch-religiös geprägt",
+    "lexikalisch klar einordenbar",
+    "eher modern klingend trotz alter Wurzeln"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland scheint der Name eher selten bis moderat verbreitet zu sein und ist daher eher auffällig als alltäglich."
+}

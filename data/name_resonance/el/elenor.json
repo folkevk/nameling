@@ -1,0 +1,58 @@
+{
+  "associations": [
+    "wird meist als Nebenform bzw. Variante von Eleonore/Eleanor eingeordnet",
+    "häufig mit Bedeutungen wie „die Andere“ oder „die Fremde“ verknüpft",
+    "wirkt durch die Schreibweise etwas eigenständig, aber nicht ausgefallen",
+    "Namenstage und Kurzformen werden in den Quellen häufig genannt"
+  ],
+  "confidence": 0.7,
+  "display_text": "Elenor wird im Deutschen meist neutral bis leicht positiv wahrgenommen. Der Name wirkt klassisch, elegant und eher selten. Die verfügbare Evidenz ist allerdings begrenzt und stammt vor allem aus Namenslexika; daher ist die Einordnung vorsichtig zu lesen.",
+  "evidence_quality": "begrenzt: zwei überwiegend sachliche Namensseiten, kaum echte öffentliche Debatte, daher nur vorsichtige Einordnung möglich.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Elenor",
+  "normalized_name": "elenor",
+  "overall_resonance": "Elenor wirkt im deutschsprachigen Raum eher sachlich-elegant und leicht klassisch; die öffentliche Wahrnehmung ist überwiegend neutral bis leicht positiv, ohne starke Polarisierung.",
+  "practical_notes": [
+    "Für Suchmaschinen-Texte eignet sich die Einordnung als klassische, seltenere Variante mit ruhiger Ausstrahlung.",
+    "Wenn gewünscht, kann man den Namen als internationale Form mit vertrautem Klang beschreiben.",
+    "Keine starke soziale Stigmatisierung erkennbar; der Eindruck bleibt überwiegend unauffällig bis freundlich."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist schwach bis mittel, da sie fast nur aus Namenslexikon- und Kommerzdarstellungen besteht.",
+    "Zur öffentlichen Resonanz gibt es nur wenige belastbare Hinweise; Nutzermeinungen sind nur eingeschränkt repräsentativ.",
+    "Ableitungen zur Herkunft sind teils unsicher und sollten nicht als gesicherte Fakten gelesen werden."
+  ],
+  "short_summary": "Elenor wird überwiegend neutral bis leicht positiv wahrgenommen: klassisch, elegant und eher selten, mit begrenzter öffentlicher Diskussionslage.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Elenor � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/E/El/Elenor/"
+    },
+    {
+      "confidence": 0.89,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Elenor: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Elenor.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "elegant",
+    "sanft",
+    "namenskundlich vertraut",
+    "leicht international"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Die Sichtbarkeit ist eher gering bis mittel: Der Name taucht in Namenslexika und Bedeutungseiten auf, ist aber keine breit diskutierte Alltagsmode im öffentlichen Diskurs. Die Evidenzbasis ist dabei begrenzt und vor allem auf wenige Namensseiten gestützt."
+}

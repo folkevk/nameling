@@ -1,0 +1,58 @@
+{
+  "associations": [
+    "weiblicher Vorname",
+    "arabische Herkunft bzw. arabisch geprägter Namenskontext",
+    "Bedeutungsfelder wie Stütze, Unterstützung, Verlässlichkeit",
+    "selten bis wenig verbreitet in Deutschland",
+    "teilweise auch bosnisch/serbische Verwendung in der Namensbeschreibung"
+  ],
+  "confidence": 0.74,
+  "display_text": "Senada wirkt in Deutschland eher selten und überwiegend neutral bis leicht positiv bewertet. Der Name erscheint vor allem in Namenslexika, oft mit positiver Bedeutung und einem sanften, eigenständigen Klang. Eine breite öffentliche Debatte ist kaum sichtbar; die Evidenz ist insgesamt eher begrenzt.",
+  "evidence_quality": "Begrenzt: zwei überwiegend lexikalische Quellen, wenig freie öffentliche Debatte, daher nur vorsichtige Einordnung möglich.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Senada",
+  "normalized_name": "senada",
+  "overall_resonance": "Eher neutral bis leicht positiv. Die verfügbare Evidenz beschreibt Senada vor allem als seltenen weiblichen Vornamen mit positiv konnotierter Bedeutung und Herkunft; eine breite öffentliche Debatte ist kaum erkennbar.",
+  "practical_notes": [
+    "Für die Namenssuche wirkt Senada eigenständig und eher selten.",
+    "Die Wahrnehmung kann je nach Sprach- und Kulturraum unterschiedlich sein.",
+    "Wenn eine möglichst allgemeine deutsche Bekanntheit wichtig ist, ist der Name eher ungewöhnlich; wenn Individualität gewünscht ist, kann das ein Vorteil sein."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist dünn und stammt vor allem aus Namenslexika, nicht aus breiter öffentlicher Resonanz.",
+    "Einige Bedeutungsangaben sind redaktionell bzw. herkunftsbezogen und sollten nicht als gesicherte Alltagswahrnehmung verstanden werden.",
+    "Es gibt keine belastbare Hinweise auf eine negative soziale Stigmatisierung des Namens in den vorliegenden Quellen."
+  ],
+  "short_summary": "Senada wird in den verfügbaren Quellen meist neutral bis leicht positiv beschrieben: ein seltener, weiblicher Vorname mit positiv konnotierter Bedeutung und wenig öffentlicher Sichtbarkeit in Deutschland.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.94,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Senada � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/S/Se/Senada/"
+    },
+    {
+      "confidence": 0.86,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Senada: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Senada.html"
+    }
+  ],
+  "style_effect": [
+    "klingt sanft und feminin",
+    "wirkt eher klassisch-besinnlich als modern-trendig",
+    "seltenheit verleiht Eigenständigkeit",
+    "die beschriebene Bedeutung kann den Eindruck von Verlässlichkeit und Würde verstärken"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Eher geringe Sichtbarkeit im deutschsprachigen Raum; der Name wirkt wenig verbreitet und eher bekannt aus Namenslexika als aus allgemeiner öffentlicher Diskussion."
+}

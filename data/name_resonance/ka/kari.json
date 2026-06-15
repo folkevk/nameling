@@ -1,0 +1,69 @@
+{
+  "associations": [
+    "skandinavische Form oder Kurzform von Katharina",
+    "Bedeutung: „die Reine“",
+    "teils auch andere internationale Deutungen genannt",
+    "Unisex-Nutzung, oft eher weiblich eingeordnet",
+    "selten bis wenig verbreitet in Deutschland",
+    "Namenstag",
+    "Aussprache- und Schreibvarianten"
+  ],
+  "confidence": 0.81,
+  "display_text": "Kari wirkt in Deutschland eher selten, international und sachlich-neutral. Öffentliche Wahrnehmungen aus den verfügbaren Quellen konzentrieren sich vor allem auf Herkunft, Bedeutung und Namenstag; eine breite positive oder negative Rezeption ist nicht erkennbar. Die Evidenz ist dafür allerdings begrenzt und stammt überwiegend aus Namenslexika.",
+  "evidence_quality": "mittel bis eher schwach für öffentliche Resonanz, gut für lexikalische Namensinformation",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Kari",
+  "normalized_name": "kari",
+  "overall_resonance": "Überwiegend sachlich-neutral mit leichter internationaler/seltenheitsbezogener Färbung. Kari wird öffentlich vor allem als kurzer, skandinavisch geprägter Vorname wahrgenommen, oft mit der Bedeutung „die Reine“ bzw. verwandten Deutungen. In der deutschen Wahrnehmung wirkt der Name eher ungewöhnlich und wenig bis mäßig verbreitet; deutliche positive oder negative Massenresonanz ist in der vorliegenden Evidenz nicht erkennbar.",
+  "practical_notes": [
+    "Für eine Namenssuche eignet sich Kari als kurzer, international klingender Name mit sachlich positiver Bedeutungsassoziation.",
+    "Im deutschen Kontext kann der Name als eher selten wahrgenommen werden.",
+    "Wenn Verwechslungen vermieden werden sollen, kann auf die Aussprache oder Herkunft kurz hingewiesen werden."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist auf wenige Namensseiten beschränkt und bildet keine breite gesellschaftliche Debatte ab.",
+    "Einzelne Kommentare können anekdotisch oder subjektiv sein.",
+    "Mehrsprachige Bedeutungen können zu Verwechslungen führen; daraus sollte keine allgemeine Bewertung abgeleitet werden."
+  ],
+  "short_summary": "Kari wird in der vorliegenden Evidenz überwiegend neutral und informativ beschrieben: ein seltener, skandinavisch geprägter Vorname mit der Bedeutung „die Reine“.",
+  "source_count": 3,
+  "sources": [
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Kari � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/K/Ka/Kari/"
+    },
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Kari � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/K/Ka/Kari/"
+    },
+    {
+      "confidence": 0.95,
+      "is_name_discussion": true,
+      "sentiment": "mixed",
+      "source_type": "web",
+      "title": "&#9655; Vorname Kari: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Kari.html"
+    }
+  ],
+  "style_effect": [
+    "kurz und klar",
+    "skandinavisch/international wirkend",
+    "lexikalisch-sachlich",
+    "seltenheitsbetont",
+    "eher neutral als emotional aufgeladen"
+  ],
+  "usable_evidence_count": 3,
+  "visibility": "Die öffentliche Sichtbarkeit ist eher gering bis moderat. Die Evidenz stammt fast ausschließlich aus Namenslexika und einzelnen Kommentaren, nicht aus breiten öffentlichen Diskussionen. Daher ist die Aussagekraft zur tatsächlichen Alltagsrezeption in Deutschland begrenzt."
+}

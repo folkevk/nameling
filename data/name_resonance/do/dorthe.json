@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "Kurzform von Dorothea",
+    "altgriechischer Ursprung",
+    "Bedeutung: Geschenk Gottes",
+    "dänische, friesische und niederdeutsche Einordnung",
+    "weiblicher Vorname",
+    "selten in Deutschland"
+  ],
+  "confidence": 0.8,
+  "display_text": "Dorthe wirkt in Deutschland eher selten und traditionell-nordisch. Der Name wird vor allem als Kurzform von Dorothea mit der Bedeutung „Geschenk Gottes“ beschrieben. Eine breite öffentliche Diskussion ist in den Quellen nicht erkennbar; die Evidenz ist insgesamt eher schwach.",
+  "evidence_quality": "Eher schwach bis mittel: zwei überwiegend informativ-lexikalische Einzelquellen, keine echte Diskussions- oder Bewertungsresonanz.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Dorthe",
+  "normalized_name": "dorthe",
+  "overall_resonance": "Die öffentliche Resonanz zu Dorthe wirkt in Deutschland eher zurückhaltend und namenskundlich geprägt als emotional oder trendig. Der Name erscheint vor allem als seltene, traditionell wirkende Kurzform von Dorothea mit klarer Herkunfts- und Bedeutungszuordnung.",
+  "practical_notes": [
+    "Für eine Namenssuche ist Dorthe vor allem als seltene, klare und traditionell-nordische Variante interessant.",
+    "Die Wahrnehmung dürfte eher sachlich als modern-breit populär ausfallen.",
+    "Aufgrund der geringen Evidenz sollte die öffentliche Resonanz vorsichtig interpretiert werden."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist schwach und stammt überwiegend aus einzelnen Namensseiten, nicht aus echter öffentlicher Debatte.",
+    "Es lassen sich keine belastbaren Aussagen zu gesellschaftlicher Bewertung oder aktuellem Trend ableiten.",
+    "Keine Hinweise auf Stigmatisierung in den Quellen; ein negatives Image wäre hier nicht belegt."
+  ],
+  "short_summary": "Dorthe wird in Deutschland vor allem als seltene, dänisch geprägte Kurzform von Dorothea mit der Bedeutung „Geschenk Gottes“ wahrgenommen; die öffentliche Resonanz ist eher sachlich und durch schwache Evidenz nur vorsichtig beurteilbar.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Dorthe � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/D/Do/Dorthe/"
+    },
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Dorthe: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Dorthe.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "nordisch-dänisch geprägt",
+    "kurz und sachlich",
+    "traditionell",
+    "selten",
+    "namenskundlich/lexikalisch"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Eher gering bis mittel: In den vorliegenden Quellen wird Dorthe als seltener Vorname in Deutschland beschrieben, mit Sichtbarkeit vor allem in Namensdatenbanken statt in breiter öffentlicher Diskussion."
+}

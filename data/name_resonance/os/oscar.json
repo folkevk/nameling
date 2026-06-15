@@ -1,0 +1,62 @@
+{
+  "associations": [
+    "Bedeutung wird häufig mit „Götterspeer“ bzw. „Speer Gottes“ verbunden",
+    "nordisch/altisländisch bzw. irisch gerahmte Herkunft",
+    "international verbreitet und gut verständlich",
+    "in Deutschland wieder häufiger vergeben",
+    "Namenstag am 3. Februar",
+    "kurze Spitznamenformen wie Ozzy oder Ossi können mitgedacht werden",
+    "vereinzelte popkulturelle Assoziation an „Oscar aus der Tonne“ bzw. den Filmpreis Oscar"
+  ],
+  "confidence": 0.91,
+  "display_text": "Oscar: in Deutschland überwiegend positiv und vertraut wahrgenommen. Der Name wirkt klassisch-international, ist gut bekannt und wird eher freundlich als auffällig gesehen. Die Evidenz ist vor allem namenskundlich und nicht sehr breit, daher vorsichtig zu interpretieren.",
+  "evidence_quality": "mittel bis gut; zwei direkte namenskundliche Quellen, beide klar auf den Vornamen bezogen, aber insgesamt nur ein begrenztes Evidenzset.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Oscar",
+  "normalized_name": "oscar",
+  "overall_resonance": "Überwiegend positiv und vertraut, mit starkem Namenslexikon-Charakter; Oscar wirkt in Deutschland eher klassisch-international als auffällig. Die öffentliche Wahrnehmung ist insgesamt freundlich, mit wenigen möglichen Altlasten aus popkulturellen Assoziationen.",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt Oscar klar, unkompliziert und international anschlussfähig.",
+    "Der Name hat eine positive, sachliche Resonanz ohne starke soziale Stigmatisierung.",
+    "Im deutschen Kontext ist er bekannt genug, um leicht verständlich zu sein, ohne sehr massenhaft zu wirken."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist relativ schmal und stützt sich vor allem auf namenskundliche Webtexte.",
+    "Einige Assoziationen sind eher populärkulturell als alltagsprägend.",
+    "Die frühere Sesamstraßen-Assoziation ist eher historisch als dominierend, kann aber vereinzelt mitschwingen."
+  ],
+  "short_summary": "Oscar wird in Deutschland meist positiv, klassisch und international wahrgenommen. Der Name gilt als bekannt, wieder etwas beliebter und mit freundlichen namenskundlichen Assoziationen verbunden.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.94,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "Vorname Oscar � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/O/Os/Oscar/"
+    },
+    {
+      "confidence": 0.94,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Oscar: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Oscar.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch-modern",
+    "international",
+    "kurz und markant",
+    "namenskundlich aufgeladen",
+    "leicht elegant",
+    "unaufgeregt vertraut"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland gut bekannt und wieder präsenter, aber nicht extrem häufig. Der Name ist international anschlussfähig und im deutschsprachigen Raum klar als Vorname etabliert."
+}

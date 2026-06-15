@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "italienische Form bzw. Variante von Alessandra/Alexander",
+    "altgriechische Herkunft",
+    "Bedeutung im Sinne von Beschützerin/Verteidigerin",
+    "Namenslexikon- und Beliebtheitskontext",
+    "Namenstag",
+    "Kurzformen und Koseformen"
+  ],
+  "confidence": 0.84,
+  "display_text": "Alessia wirkt im deutschsprachigen Raum vor allem modern, international und leicht positiv. Die Quellen beschreiben den Namen sachlich als weiblichen Vorname mit italienisch/altgriechischer Herkunft und der Bedeutung im Sinne von „Beschützerin“ oder „Verteidigerin“. Die Evidenz ist allerdings begrenzt und stützt sich hauptsächlich auf Namenslexika; eine breite öffentliche Debatte ist nicht erkennbar.",
+  "evidence_quality": "mittel bis schwach; zwei vorwiegend lexikalische Webquellen, keine breite öffentliche Debatte oder unabhängige Mehrfachbestätigung",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Alessia",
+  "normalized_name": "alessia",
+  "overall_resonance": "Der Vorname Alessia wirkt in den vorliegenden Quellen überwiegend sachlich, modern und eher positiv besetzt. Er wird vor allem als italienisch/altgriechisch geprägter Mädchenname mit einer Bedeutung im Sinne von „Beschützerin“ oder „Verteidigerin“ beschrieben.",
+  "practical_notes": [
+    "Für eine Namenssuche ist Alessia gut anschlussfähig, weil Herkunft und Bedeutung leicht verständlich vermittelt werden.",
+    "Der Name dürfte im deutschen Umfeld als international, freundlich und zeitgemäß wahrgenommen werden.",
+    "Die Quellenlage spricht eher für eine neutrale bis leicht positive Wahrnehmung als für eine kontroverse oder stark polarisierende."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz basiert nur auf zwei Namenslexikon-Seiten und ist daher nur eingeschränkt als breite öffentliche Resonanz interpretierbar.",
+    "Es gibt kaum Hinweise auf echte öffentliche Debatten oder starke gesellschaftliche Zuschreibungen; die Wirkung ergibt sich vor allem aus lexikalischen Beschreibungen.",
+    "Beliebtheitsaussagen sollten vorsichtig gelesen werden, da sie hier nicht durch unabhängige, breit angelegte Quellen abgesichert sind."
+  ],
+  "short_summary": "Alessia wird im Deutschen überwiegend als moderner, internationaler und eher positiv klingender Mädchenname wahrgenommen, mit klarer Namensbedeutung und wenig öffentlicher Kontroverse.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Alessia � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/A/Al/Alessia/"
+    },
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Alessia: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Alessia.html"
+    }
+  ],
+  "style_effect": [
+    "modern",
+    "melodisch",
+    "international",
+    "weiblich",
+    "eher weich im Klang",
+    "namenkundlich klar einordenbar"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Im deutschsprachigen Raum ist der Name sichtbar, vor allem in Namenslexika und Beliebtheitsübersichten. Die öffentliche Resonanz wirkt eher informativ als diskussionsgetrieben; breite kontroverse Debatten sind in der Evidenz nicht erkennbar."
+}

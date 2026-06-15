@@ -1,0 +1,63 @@
+{
+  "associations": [
+    "altdeutscher Vorname",
+    "Bedeutung: Sieg und Friede",
+    "Nibelungenlied",
+    "Drachentöter-Sage",
+    "mittelalterliche Tradition",
+    "klassische Namenswirkung",
+    "heute selten"
+  ],
+  "confidence": 0.82,
+  "display_text": "Siegfried ist ein klassisch-deutscher, traditionsreicher Vorname mit klarer historischer und kultureller Prägung. In der verfügbaren Evidenz wird er eher sachlich bis leicht positiv wahrgenommen, vor allem wegen der Bedeutung „Sieg und Friede“ und der Verbindung zur Nibelungensage. Gleichzeitig ist er heute selten und daher eher markant als modern. Die Datenlage zeigt vor allem Namenslexika, also eher Beschreibung als breite öffentliche Resonanz.",
+  "evidence_quality": "mittel: zwei sachliche Namensquellen mit überwiegend lexikalischer Beschreibung, aber nur begrenzter direkter Evidenz für breite öffentliche Wahrnehmung",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Siegfried",
+  "normalized_name": "siegfried",
+  "overall_resonance": "Siegfried wird in der verfügbaren Evidenz überwiegend als traditionsreicher, klassisch-deutscher Vorname mit historisch-kultureller Aufladung wahrgenommen. Die öffentliche Resonanz wirkt eher sachlich bis leicht positiv, vor allem wegen der Bedeutung „Sieg“ und „Friede“ sowie der Verbindung zur Nibelungensage. Gleichzeitig gilt der Name heute als selten und dadurch eher markant als modisch.",
+  "practical_notes": [
+    "Wer einen Namen mit Tradition und klarer historischer Referenz sucht, findet hier eine starke, gut erkennbare Option.",
+    "Durch die Seltenheit wirkt der Name ungewöhnlicher und weniger zeitgemäß als viele moderne Namen.",
+    "Kurzformen wie Sigi oder Siggi werden als vertraute Nebenformen genannt."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt vor allem aus Namenslexika und Portalen; das bildet eher Beschreibung als breite öffentliche Meinung ab.",
+    "Die positive Einfärbung kann durch kulturelle und etymologische Darstellung mitbedingt sein.",
+    "Für eine belastbare Einschätzung der allgemeinen Alltagsresonanz ist die Datenlage begrenzt."
+  ],
+  "short_summary": "Siegfried wirkt traditionell, historisch und eher selten; die Resonanz ist überwiegend sachlich bis leicht positiv, aber die Evidenz für echte Alltagswahrnehmung ist begrenzt.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Siegfried � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/S/Si/Siegfried/"
+    },
+    {
+      "confidence": 0.95,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Siegfried: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Siegfried.html"
+    }
+  ],
+  "style_effect": [
+    "traditionell",
+    "klassisch",
+    "historisch",
+    "kulturell aufgeladen",
+    "eher selten",
+    "markant",
+    "lexikalisch vertraut"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Im deutschsprachigen Raum ist der Name bekannt, aber im Alltag eher selten. Er hat eine klare historische Sichtbarkeit, ist jedoch kein aktueller Trendname."
+}

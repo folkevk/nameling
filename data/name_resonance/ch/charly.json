@@ -1,0 +1,71 @@
+{
+  "associations": [
+    "Bedeutung: „der Freie“",
+    "Koseform von Charles bzw. englische Form von Karl",
+    "im deutschen Sprachraum als Rufname bekannt",
+    "Beliebtheit in Deutschland",
+    "Schreibvarianten wie Charlie, Charley, Charli",
+    "männlich eingeordnet, teils auch Unisex-Nutzung",
+    "Namenstag",
+    "Popkultur-/Alltagsnähe"
+  ],
+  "confidence": 0.78,
+  "display_text": "Charly wirkt in Deutschland eher vertraut und leicht positiv besetzt. Der Name wird vor allem sachlich-namenskundlich beschrieben: mit Bedeutung, Herkunft, Varianten und teils als Unisex-Name. Die Evidenz ist dafür ordentlich, für die tatsächliche öffentliche Wahrnehmung aber nur begrenzt belastbar.",
+  "evidence_quality": "mittel bis eher schwach für öffentliche Resonanz; stark für namenkundliche Grunddaten, schwach für tatsächliche gesellschaftliche Wahrnehmung",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Charly",
+  "normalized_name": "charly",
+  "overall_resonance": "Die öffentliche Resonanz auf „Charly“ wirkt insgesamt sachlich bis leicht positiv. Der Name wird in den Quellen vor allem als Vorname mit klarer Namensbedeutung, Herkunft und mehreren Schreibvarianten beschrieben. In Deutschland erscheint er als bekannt und gebräuchlich, teils auch als Unisex-Name. Die Evidenz ist allerdings überwiegend namenkundlich und stammt aus Namenslexika, daher ist die Aussagekraft für echte öffentliche Wahrnehmung begrenzt.",
+  "practical_notes": [
+    "Für eine Suchmaschine lässt sich Charly als vertrauter, international klingender Vorname mit freundlicher, unaufgeregter Wirkung zusammenfassen.",
+    "Die Wahrnehmung ist eher stabil als polarisierend; negative gesellschaftliche Zuschreibungen sind in der Evidenz nicht erkennbar.",
+    "Bei der regionalen Einordnung in DE ist Vorsicht sinnvoll: Der Name ist bekannt, aber die Datenlage zur breiten Alltagsresonanz bleibt begrenzt."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Quellen sind vor allem Namensdatenbanken und können SEO- oder redaktionelle Eigenlogik enthalten.",
+    "Die Evidenz misst eher Namensbeschreibung als echte öffentliche Meinung.",
+    "Einige Angaben zur Einordnung als männlich oder Unisex variieren je nach Quelle und Kontext."
+  ],
+  "short_summary": "Charly wird in deutschen Namensquellen überwiegend sachlich bis leicht positiv beschrieben: bekannt, international klingend und teils als Unisex-Name. Für eine breite öffentliche Resonanz gibt es jedoch nur begrenzte Evidenz.",
+  "source_count": 3,
+  "sources": [
+    {
+      "confidence": 0.92,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Charly � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/C/Ch/Charly/"
+    },
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Charly � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/C/Ch/Charly/"
+    },
+    {
+      "confidence": 0.86,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Charly: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Charly.html"
+    }
+  ],
+  "style_effect": [
+    "informativ",
+    "lexikalisch",
+    "namenskundlich",
+    "leicht modern",
+    "international anschlussfähig",
+    "teils als Koseform wahrgenommen"
+  ],
+  "usable_evidence_count": 3,
+  "visibility": "Mittlere Sichtbarkeit: Der Name ist in deutschsprachigen Namensverzeichnissen präsent und wird dort aktiv diskutiert, aber die Evidenz für breitere öffentliche Resonanz ist eher schwach und beschränkt sich auf beschreibende Quellen."
+}

@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "italienische Form von Julia",
+    "lateinisch/römischer Ursprung",
+    "Bezug zu den Juliern",
+    "Namenstag",
+    "positive, liebevolle Nutzerkommentare",
+    "in Deutschland eher selten bzw. nicht sehr häufig"
+  ],
+  "confidence": 0.84,
+  "display_text": "Giulia wirkt in den vorliegenden Quellen überwiegend positiv: ein eleganter, italienisch geprägter und klassisch klingender Mädchenname. In Deutschland ist er bekannt, aber eher nicht sehr häufig. Die Evidenz ist allerdings begrenzt und stammt vor allem aus Namenslexika mit wenigen Kommentaren.",
+  "evidence_quality": "mittel bis schwach: zwei webbasierte Namenslexika, überwiegend beschreibend; nur begrenzte freie Resonanz in Kommentaren.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Giulia",
+  "normalized_name": "giulia",
+  "overall_resonance": "Giulia wird in den Quellen überwiegend als klangvoller, italienisch geprägter Mädchenname mit klassisch-lateinischer Herkunft beschrieben. Die öffentliche Rezeption wirkt eher positiv und wertschätzend, zugleich aber vor allem sachlich-informativ statt meinungsstark.",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt Giulia international und gut verständlich.",
+    "Der Name wird eher mit italienischem Flair als mit deutscher Alltagssprache verbunden.",
+    "Wegen der begrenzten Verbreitung in Deutschland kann er als etwas besonderer Name wahrgenommen werden."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist begrenzt und stammt überwiegend aus Namenslexika mit wenigen Nutzerkommentaren.",
+    "Die positive Färbung sollte nicht als allgemeingültige Mehrheitsmeinung über alle Sprecherinnen und Sprecher in Deutschland verstanden werden.",
+    "Es gibt keine belastbaren Hinweise auf eine Stigmatisierung; die Wahrnehmung wirkt vielmehr neutral bis positiv."
+  ],
+  "short_summary": "Giulia wird in Deutschland meist als eleganter, italienisch geprägter und eher positiv wahrgenommener Vorname beschrieben; die Evidenz ist jedoch begrenzt und vor allem sachlich-informativ.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Giulia � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/G/Gi/Giulia/"
+    },
+    {
+      "confidence": 0.94,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Giulia: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Giulia.html"
+    }
+  ],
+  "style_effect": [
+    "italienisch",
+    "elegant",
+    "klassisch",
+    "weiblich",
+    "modern-klar",
+    "namenskundlich geprägt"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland bekannt, aber eher nicht massenhaft verbreitet; die Wahrnehmung ist dadurch eher elegant und etwas individuell als alltäglich."
+}

@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "friesische bzw. niederdeutsche Kurzform älterer deutscher Namen mit Hug-",
+    "Bedeutungsnähe zu 'Geist' und 'Verstand' bzw. 'der/die Denkende'",
+    "Verbindung zu Hugo",
+    "literarische Figur Hauke Haien aus 'Der Schimmelreiter'",
+    "selten, aber als Vorname in Deutschland präsent"
+  ],
+  "confidence": 0.87,
+  "display_text": "Hauke wird öffentlich eher neutral bis leicht positiv wahrgenommen: als seltener, norddeutsch-friesischer Vorname mit traditionellem und literarischem Charakter. Die vorliegenden Quellen sprechen für klare Herkunfts- und Bedeutungsbezüge, aber nicht für eine breite gesellschaftliche Debatte.",
+  "evidence_quality": "mittel bis gut: zwei einschlägige Namensseiten mit klaren Angaben zu Herkunft, Bedeutung und Beliebtheit; jedoch kaum breite soziologische oder social-media-basierte Resonanz.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Hauke",
+  "normalized_name": "hauke",
+  "overall_resonance": "Eher neutral bis leicht positiv: Hauke wirkt als traditionsreicher, norddeutsch-friesisch geprägter Vorname mit klarer Herkunft und eigener Wiedererkennbarkeit. Die öffentliche Rezeption in den vorliegenden Quellen ist insgesamt zurückhaltend freundlich, aber nicht breit gesellschaftlich belegt.",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt Hauke klar, kurz und unverwechselbar.",
+    "Der Name hat einen starken regionalen und literarischen Klang.",
+    "Die öffentliche Resonanz ist eher ruhig als polarisierend.",
+    "Aufgrund der Seltenheit kann der Name auffallen, ohne exotisch zu wirken."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt überwiegend aus Namenslexika und nicht aus breiter öffentlicher Meinungsbildung.",
+    "Einzelne Nutzerkommentare können subjektiv oder anekdotisch sein und sollten nicht verallgemeinert werden.",
+    "Hinweise auf mögliche negative Assoziationen in Kommentaren sind als vereinzelte Wahrnehmungen zu lesen, nicht als allgemeines Urteil."
+  ],
+  "short_summary": "Hauke ist ein seltener, norddeutsch-friesisch geprägter Vorname mit traditionellem und literarischem Klang. Die öffentliche Rezeption wirkt überwiegend neutral bis leicht positiv, bei begrenzter Evidenz aus Namenslexika.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Hauke � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/H/Ha/Hauke/"
+    },
+    {
+      "confidence": 0.94,
+      "is_name_discussion": true,
+      "sentiment": "mixed",
+      "source_type": "web",
+      "title": "&#9655; Vorname Hauke: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Hauke.html"
+    }
+  ],
+  "style_effect": [
+    "norddeutsch-friesisch",
+    "traditionell",
+    "kurz und markant",
+    "bodenständig",
+    "literarisch assoziiert",
+    "eher selten als Trendname"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland eher selten, aber bekannt und präsent. Die Sichtbarkeit scheint vor allem über Namenslexika, Herkunftsangaben und literarische Bezüge zu laufen, weniger über breite Alltagsdiskussionen."
+}

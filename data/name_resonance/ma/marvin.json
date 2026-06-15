@@ -1,0 +1,58 @@
+{
+  "associations": [
+    "Bedeutung und Herkunft werden häufig erklärt",
+    "wird als männlicher Vorname eingeordnet",
+    "teils mit walisischer oder althochdeutscher Deutung verknüpft",
+    "als beliebt bzw. relativ häufig in Deutschland beschrieben",
+    "Namenstag und Spitznamen werden oft genannt"
+  ],
+  "confidence": 0.92,
+  "display_text": "Marvin wirkt in der öffentlichen Wahrnehmung überwiegend positiv bis neutral: ein bekannter, moderner und in Deutschland relativ häufiger Vorname mit klarer namenkundlicher Einordnung.",
+  "evidence_quality": "gut; mehrere unabhängige, klare Namensquellen mit hoher inhaltlicher Übereinstimmung",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Marvin",
+  "normalized_name": "marvin",
+  "overall_resonance": "Die öffentliche Wahrnehmung von Marvin ist insgesamt eher positiv bis neutral. Der Name wird vor allem als bekannt, modern und etabliert beschrieben; zugleich gilt er in Deutschland als relativ häufig und damit vertraut.",
+  "practical_notes": [
+    "Für Suchmaschinen und Namensportale ist Marvin gut auffindbar und klar einzuordnen.",
+    "Der Name wirkt gebräuchlich und international anschlussfähig, ohne stark ausgefallene Konnotation.",
+    "Die Aussagen beruhen auf informativen Namensseiten; sie sind daher eher beschreibend als gesellschaftlich meinungsbildend."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die vorliegende Evidenz ist überwiegend namenkundlich und nicht kontrovers, daher keine starke Risikodimension erkennbar.",
+    "Beliebtheitsaussagen beziehen sich auf allgemeine Namensverwendung, nicht auf einzelne Personen."
+  ],
+  "short_summary": "Marvin wird in Deutschland meist als bekannter, moderner und eher positiv besetzter Vorname wahrgenommen. Die Quellen betonen vor allem Bedeutung, Herkunft und Beliebtheit.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "Vorname Marvin � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/M/Ma/Marvin/"
+    },
+    {
+      "confidence": 0.95,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Marvin: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Marvin.html"
+    }
+  ],
+  "style_effect": [
+    "modern",
+    "vertraut",
+    "informativ",
+    "leicht jugendlich",
+    "namenkundlich klar"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "hoch"
+}

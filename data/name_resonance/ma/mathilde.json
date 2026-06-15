@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "starke Kämpferin",
+    "die im Kampf Mächtige",
+    "altdeutscher Ursprung",
+    "mittelalterlich überliefert",
+    "Namenstag",
+    "wieder zunehmend vergeben",
+    "Mathilda/Matilde/Matilda als Varianten"
+  ],
+  "confidence": 0.9,
+  "display_text": "Mathilde wirkt in der öffentlichen Wahrnehmung überwiegend positiv: ein klassischer, historisch geprägter und eher eleganter Mädchenname. Die verfügbaren Quellen betonen vor allem Herkunft, Bedeutung und traditionelle Einordnung; belastbare Hinweise auf starke gesellschaftliche Kontroversen gibt es nicht.",
+  "evidence_quality": "gut für eine vorsichtige Namensbeschreibung, aber begrenzt auf wenige redaktionelle Quellen",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Mathilde",
+  "normalized_name": "mathilde",
+  "overall_resonance": "Überwiegend positiv und wertschätzend, dabei eher sachlich-traditionell als trendig.",
+  "practical_notes": [
+    "Für Suchmaschinen wirkt Mathilde als klassischer, historisch verankerter Mädchenname mit positiver Grundkonnotation.",
+    "Wer einen zeitlosen und eher traditionellen Eindruck sucht, findet hier eine klare, gut anschlussfähige Namenswirkung."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt vor allem aus zwei Namenslexika; das Bild ist daher eher redaktionell als breit gesellschaftlich erhoben.",
+    "Positive Einordnung bedeutet nicht automatisch allgemeine Beliebtheit in allen Altersgruppen oder Regionen."
+  ],
+  "short_summary": "Mathilde wird öffentlich meist als klassischer, altdeutscher und positiv konnotierter Mädchenname beschrieben.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "positive",
+      "source_type": "web",
+      "title": "Vorname Mathilde � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/M/Ma/Mathilde/"
+    },
+    {
+      "confidence": 0.94,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Mathilde: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Mathilde.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "historisch",
+    "altdeutsch",
+    "eher elegant",
+    "traditionell",
+    "namenskundlich",
+    "sachlich-informativ"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Der Name ist in Namenslexika und Ratgeberseiten gut sichtbar; die öffentliche Wahrnehmung wirkt eher bekannt als auffällig kontrovers."
+}

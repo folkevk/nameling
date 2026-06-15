@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "Kurzform von Nikolaus",
+    "altgriechischer Ursprung",
+    "Bedeutung: Sieg des Volkes",
+    "männlicher Vorname",
+    "Namenstag am 6. Dezember",
+    "ähnlich zu Nick, Nico oder Nik"
+  ],
+  "confidence": 0.83,
+  "display_text": "Nic wird in den verfügbaren Quellen überwiegend neutral beschrieben: kurz, modern wirkend und meist als Form von Nikolaus mit der Bedeutung „Sieg des Volkes“. Eine starke öffentliche Meinung ist nicht erkennbar; die Datenlage ist dafür zu schmal.",
+  "evidence_quality": "mittel bis schwach: zwei sachliche Namenslexikon-Quellen, kaum direkte öffentliche Meinungsdaten",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Nic",
+  "normalized_name": "nic",
+  "overall_resonance": "Nic wirkt in den verfügbaren deutschsprachigen Namensquellen überwiegend sachlich und unaufgeregt. Der Name wird vor allem als kurze Form von Nikolaus beschrieben; öffentliche Resonanz ist eher neutral als emotional geprägt. Die Evidenz zu echter breiter Wahrnehmung ist allerdings begrenzt.",
+  "practical_notes": [
+    "Für Suchmaschinen und Namensportale ist Nic gut erklärbar und leicht einzuordnen.",
+    "Die kurze Form kann modern wirken, zugleich aber auch als Spitzname gelesen werden.",
+    "Wenn eine eindeutige Vollform gewünscht ist, wird Nic oft mit Nikolaus oder verwandten Formen verbunden."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt fast ausschließlich aus Namenslexika; daraus lässt sich nur eingeschränkt öffentliche Resonanz ableiten.",
+    "Es gibt keine belastbaren Hinweise auf starke positive oder negative gesellschaftliche Zuschreibungen.",
+    "Bei kurzen Namen kann Wahrnehmung stark vom persönlichen Umfeld abhängen."
+  ],
+  "short_summary": "Nic wird öffentlich vor allem neutral und als kurze Form von Nikolaus wahrgenommen; die Evidenz zur breiten Resonanz ist begrenzt.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.94,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Nic � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/N/Ni/Nic/"
+    },
+    {
+      "confidence": 0.95,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Nic: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Nic.html"
+    }
+  ],
+  "style_effect": [
+    "kurz und knapp",
+    "modern und reduziert",
+    "lexikalisch gut einordenbar",
+    "als Kose- oder Kurzform wahrgenommen",
+    "neutral bis leicht freundlich"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Eher gering bis moderat sichtbar in Namenslexika und Vornamensseiten; für eine belastbare Aussage zur breiten öffentlichen Meinung ist die Datenlage zu dünn."
+}

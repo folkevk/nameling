@@ -1,0 +1,68 @@
+{
+  "associations": [
+    "Kurzform von Josef/Joseph",
+    "hebräische Herkunft",
+    "Bedeutung im Sinn von 'Gott fügt hinzu'",
+    "Namenstag wird genannt",
+    "in Deutschland als Vorname gelistet",
+    "kurzer, international verwendbarer Vorname"
+  ],
+  "confidence": 0.87,
+  "display_text": "Joe wird in den vorliegenden Quellen überwiegend neutral bis leicht positiv wahrgenommen: als kurzer, international verständlicher Vorname mit klarer Herkunft aus Josef/Joseph. Die Belege sind solide, aber vor allem sachlich-lexikalisch; eine breite öffentliche Debatte ist nicht erkennbar.",
+  "evidence_quality": "mittel bis begrenzt: mehrere passende Namensquellen, aber überwiegend beschreibend und nicht aus öffentlicher Debatte oder breiten Meinungsäußerungen.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Joe",
+  "normalized_name": "joe",
+  "overall_resonance": "Überwiegend neutral bis leicht positiv. Der Name Joe wird in den vorliegenden Quellen vor allem sachlich als kurzer, international verständlicher Vorname beschrieben; eine starke öffentliche Debatte ist nicht erkennbar.",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt Joe klar, kurz und international anschlussfähig.",
+    "Wer einen traditionellen Ursprung schätzt, findet eine nachvollziehbare Verbindung zu Josef/Joseph.",
+    "Die Wahrnehmung dürfte eher von persönlichem Geschmack als von starken kulturellen Konnotationen abhängen."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt fast ausschließlich aus Namensdatenbanken und Lexika; unabhängige öffentliche Resonanz ist nur begrenzt sichtbar.",
+    "Keine belastbaren Hinweise auf Stigmatisierung oder kontroverse öffentliche Zuschreibungen in den vorliegenden Quellen.",
+    "Die Aussagekraft zur tatsächlichen Alltagswahrnehmung ist daher eingeschränkt."
+  ],
+  "short_summary": "Joe wirkt in den Quellen überwiegend neutral bis leicht positiv: kurz, international und etymologisch klar verankert. Die Evidenz ist jedoch vor allem lexikalisch, nicht breit öffentlich.",
+  "source_count": 3,
+  "sources": [
+    {
+      "confidence": 0.92,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "Vorname Joe � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/J/Jo/Joe/"
+    },
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Joe � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/J/Jo/Joe/"
+    },
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Joe: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Joe.html"
+    }
+  ],
+  "style_effect": [
+    "kurz und international",
+    "modern-klassisch durch die Verbindung zu Josef/Joseph",
+    "schlicht und unkompliziert",
+    "informativ bzw. namenskundlich geprägt",
+    "kaum emotionale Aufladung in der Evidenz"
+  ],
+  "usable_evidence_count": 3,
+  "visibility": "Eher bekannt, aber im deutschen Kontext nicht besonders häufig; die Sichtbarkeit wirkt vor allem durch Namenslexika und Beliebtheitslisten geprägt, nicht durch breite öffentliche Diskussion."
+}

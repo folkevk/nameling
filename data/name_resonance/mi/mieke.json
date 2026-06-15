@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "Kurzform von Marieke",
+    "niederländische, friesische und niederdeutsche Wurzeln",
+    "Koseform von Maria",
+    "weiblicher Vorname",
+    "eher selten bzw. speziell",
+    "Namenstag am 12. September"
+  ],
+  "confidence": 0.9,
+  "display_text": "Mieke gilt im deutschen Raum als kurzer, nordisch geprägter und eher seltener Vorname. Die öffentliche Resonanz wirkt überwiegend freundlich und sachlich-positiv, wobei die Evidenz vor allem aus Namenslexika stammt und weniger aus breiter Alltagsbeobachtung.",
+  "evidence_quality": "mittel bis gut: zwei einschlägige Namensquellen mit konsistenten Angaben zu Herkunft, Bedeutung und Verbreitung; die eigentliche Alltagsresonanz bleibt jedoch nur indirekt erschließbar.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Mieke",
+  "normalized_name": "mieke",
+  "overall_resonance": "Mieke wird im deutschsprachigen Raum überwiegend sachlich bis freundlich wahrgenommen: ein eher kurzer, nordisch klingender und vergleichsweise seltener Vorname mit klarer Herkunft aus niederländisch/niederdeutsch/friesischem Namensraum. Die öffentliche Resonanz wirkt eher positiv-neugierig als stark trendig.",
+  "practical_notes": [
+    "Gut geeignet für alle, die einen kurzen, klaren und nordisch klingenden Namen suchen.",
+    "Die Aussprache ist im Deutschen meist unkompliziert.",
+    "Durch die Seltenheit bleibt der Name auffällig, aber nicht sperrig.",
+    "Für Suchmaschinen und Namenslexika ist Mieke gut als eigenständige Form auffindbar."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz zur öffentlichen Alltagswahrnehmung ist begrenzt; vieles stammt aus Namensportalen und weniger aus breiter sozialer Beobachtung.",
+    "Teilweise wird auf eine mögliche Verwechslung mit 'Mike' hingewiesen.",
+    "Seltenheit kann je nach Umfeld als individuell oder ungewohnt wahrgenommen werden, ohne dass daraus eine negative Bewertung folgt."
+  ],
+  "short_summary": "Mieke wirkt in Deutschland freundlich, nordisch und eher selten; die öffentliche Wahrnehmung ist überwiegend sachlich-positiv, bei begrenzter Alltags-Evidenz.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Mieke � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/M/Mi/Mieke/"
+    },
+    {
+      "confidence": 0.92,
+      "is_name_discussion": true,
+      "sentiment": "überwiegend positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Mieke: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Mieke.html"
+    }
+  ],
+  "style_effect": [
+    "kurz und prägnant",
+    "nordisch/hanseatisch wirkend",
+    "modern-eigenständig",
+    "sanft und freundlich",
+    "namenkundlich klar einordenbar"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland bekannt, aber eher speziell und nicht extrem häufig. Die Sichtbarkeit entsteht vor allem durch Namenslexika und Beliebtheitslisten; belastbare Hinweise auf eine breite Alltagsresonanz sind nur begrenzt vorhanden."
+}

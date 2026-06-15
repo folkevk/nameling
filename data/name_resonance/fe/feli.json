@@ -1,0 +1,62 @@
+{
+  "associations": [
+    "Kurz- und Koseform",
+    "lateinische Herkunft",
+    "Felicitas / Felicia",
+    "Bedeutung: die Glückliche / die Glückselige",
+    "modern und kurz",
+    "weiblicher Vorname",
+    "Namenstag",
+    "Beliebtheit in Deutschland"
+  ],
+  "confidence": 0.74,
+  "display_text": "Feli wirkt in den verfügbaren Quellen freundlich, modern und positiv besetzt. Der Name wird vor allem als Kurz- oder Koseform mit Bedeutungen wie „die Glückliche“ wahrgenommen. Die Evidenz stammt aber überwiegend aus Namensportalen, daher ist die breite öffentliche Resonanz nur vorsichtig zu bewerten.",
+  "evidence_quality": "mittel bis eher schwach: zwei einschlägige Namensseiten mit positiver Tendenz, aber wenig unabhängige öffentliche Evidenz.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Feli",
+  "normalized_name": "feli",
+  "overall_resonance": "Die öffentliche Resonanz zu „Feli“ wirkt insgesamt freundlich, modern und überwiegend positiv. Der Name wird vor allem als kurze, verselbständigte Kose- bzw. Kurzform wahrgenommen und mit Bedeutungen wie „die Glückliche“ oder „die Freundliche“ verbunden. Die verfügbare Evidenz stammt jedoch überwiegend von Namenslexika und einzelnen Community-/Bewertungsseiten, daher ist die öffentliche Wahrnehmung nur begrenzt abgesichert.",
+  "practical_notes": [
+    "Für Suchmaschinen- oder Namensprofile eignet sich eine knappe Beschreibung als freundliche, moderne Kurzform.",
+    "Wenn du die Wirkung betonen willst, passt besonders die Assoziation mit „glücklich“ und „leicht“.",
+    "Eine klare Unterscheidung zwischen eigenständigem Vorname und Koseform kann Missverständnisse reduzieren."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Datenlage ist begrenzt und stark quellenabhängig.",
+    "„Feli“ kann als Spitzname oder Kurzform verstanden werden; das erschwert die Einordnung als eigenständiger Rufname.",
+    "Beliebtheits- oder Sympathieeindrücke stammen vor allem aus Namensseiten, nicht aus breiter öffentlicher Beobachtung."
+  ],
+  "short_summary": "Feli wird meist als kurze, moderne und freundlich wirkende Kurzform mit positiver Bedeutungsnähe wahrgenommen; die öffentliche Evidenz dafür ist jedoch nur begrenzt.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.91,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "Vorname Feli � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/F/Fe/Feli/"
+    },
+    {
+      "confidence": 0.78,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Feli: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Feli.html"
+    }
+  ],
+  "style_effect": [
+    "kurz und modern",
+    "freundlich und weich im Klang",
+    "koseform-/spitznamenhaft",
+    "leicht und unkompliziert",
+    "namenskundlich aufgeladen durch positive Bedeutungen"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Eher sichtbar in Namensportalen und Namensdiskussionen; die breite öffentliche Resonanz außerhalb dieser Quellen ist nur schwach belegt."
+}

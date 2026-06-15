@@ -1,0 +1,63 @@
+{
+  "associations": [
+    "Johannes von Nepomuk",
+    "Böhmen/Tschechien",
+    "Schutzpatron bzw. Schutzheiliger der Brücken",
+    "historische Herkunft",
+    "selten vergebener Jungenname",
+    "Namenstag am 16. Mai",
+    "literarische Bekanntheit, u. a. aus Jim-Knopf-Bezügen"
+  ],
+  "confidence": 0.78,
+  "display_text": "Nepomuk wirkt in Deutschland überwiegend neutral bis leicht positiv: selten, traditionsreich und mit starkem böhmisch-heiligem Bezug. Die öffentliche Evidenz ist allerdings vor allem lexikalisch und nur begrenzt meinungsbasiert.",
+  "evidence_quality": "Mittel: gute lexikalische Namensquellen, aber nur begrenzte direkte Resonanz- oder Meinungsdaten.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Nepomuk",
+  "normalized_name": "nepomuk",
+  "overall_resonance": "Überwiegend neutral bis leicht positiv; der Name wirkt vor allem als seltener, traditionsreicher und markanter Vorname mit klarem historisch-kulturellem Bezug.",
+  "practical_notes": [
+    "Für Suchende, die einen seltenen und traditionsreichen Namen suchen, kann Nepomuk als charaktervoll wahrgenommen werden.",
+    "Der Name ist in Deutschland nicht sehr geläufig, daher kann er Aufmerksamkeit erzeugen.",
+    "Die historische und religiöse Assoziation ist ein prägender Teil der Namenswirkung.",
+    "Die Evidenzlage ist eher lexikalisch als meinungsbasiert, daher sollte die Einordnung vorsichtig gelesen werden."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die vorliegende Evidenz stammt fast ausschließlich aus Namenslexika und ist daher nur eingeschränkt aussagekräftig für echte öffentliche Meinung.",
+    "Es liegen keine belastbaren Hinweise auf eine breite soziale Bewertung oder auf Stigmatisierung vor.",
+    "Die Wahrnehmung kann stark vom kulturellen Vorwissen abhängen; ohne Kontext wirkt der Name für viele zunächst ungewohnt."
+  ],
+  "short_summary": "Nepomuk wird in Deutschland meist als seltener, historisch geprägter und markanter Jungenname wahrgenommen; die verfügbare Evidenz deutet eher auf neutrale bis leicht positive Resonanz hin.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Nepomuk � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/N/Ne/Nepomuk/"
+    },
+    {
+      "confidence": 0.91,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Nepomuk: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Nepomuk.html"
+    }
+  ],
+  "style_effect": [
+    "selten und ungewöhnlich",
+    "traditionell/historisch",
+    "literarisch bzw. kulturgeschichtlich aufgeladen",
+    "markant und eigenständig",
+    "eher sachlich als modisch",
+    "mit starkem Böhmen-/Heiligenbezug"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland eher selten und dadurch auffällig, aber in Namenslexika und der öffentlichen Namensbeschreibung klar präsent."
+}

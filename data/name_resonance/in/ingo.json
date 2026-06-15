@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "deutscher männlicher Vorname",
+    "germanische Herkunft",
+    "Kurzform von Ing-Namen",
+    "historisch in Deutschland beliebt",
+    "heute eher selten",
+    "Namenstag"
+  ],
+  "confidence": 0.86,
+  "display_text": "Ingo: überwiegend neutral bis leicht positiv wahrgenommen, klassisch und deutsch geprägt, heute eher selten. Die verfügbare Evidenz ist vor allem namenskundlich und sagt nur begrenzt etwas über die aktuelle Alltagsresonanz aus.",
+  "evidence_quality": "mittel bis gut; die Quellen sind direkt namenskundlich, aber die Aussagekraft zur öffentlichen Resonanz im Alltag ist nur begrenzt.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Ingo",
+  "normalized_name": "ingo",
+  "overall_resonance": "Überwiegend neutral bis leicht positiv; der Name wirkt vor allem sachlich, traditionell und klar deutsch.",
+  "practical_notes": [
+    "Gut geeignet für eine klare, traditionelle Wirkung.",
+    "Wirkt eher klassisch als modisch.",
+    "Die Wahrnehmung ist wahrscheinlich stärker durch Namenskunde als durch aktuelle Trenddebatten geprägt."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz zur aktuellen öffentlichen Resonanz ist begrenzt und stammt vor allem aus Namenslexika.",
+    "Es gibt Hinweise auf historische Beliebtheit, aber keine starke Aussage zur heutigen Breitenwirkung.",
+    "Keine belastbaren Anzeichen für negative öffentliche Stigmatisierung in der vorliegenden Evidenz."
+  ],
+  "short_summary": "Ingo wird überwiegend neutral bis leicht positiv wahrgenommen: ein klassischer, deutsch geprägter Vorname mit historischer Tiefe, der heute eher selten vorkommt.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Ingo � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/I/In/Ingo/"
+    },
+    {
+      "confidence": 0.88,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Ingo: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Ingo.html"
+    }
+  ],
+  "style_effect": [
+    "informativ",
+    "traditionell",
+    "kurz und markant",
+    "etymologisch aufgeladen",
+    "eher altbekannt als modern"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Eher bekannt, aber heute im Alltag seltener; die öffentliche Sichtbarkeit scheint eher historisch als aktuell stark zu sein."
+}

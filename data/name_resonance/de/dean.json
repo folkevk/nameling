@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "Jungenvorname",
+    "englisch/altenglisch wahrgenommen",
+    "teils auch lateinische Deutungen in Namenslexika",
+    "Bedeutungen wie „Talbewohner“ oder „Dekan“ werden genannt",
+    "eher selten bis mittelbekannt in Deutschland",
+    "Namenstag wird vereinzelt angegeben"
+  ],
+  "confidence": 0.9,
+  "display_text": "Dean wirkt in Deutschland modern, kurz und international. Die Rezeption ist überwiegend neutral bis leicht positiv; der Name ist eher bekannt, aber nicht sehr häufig. Bedeutungen und Herkunft werden in Namenslexika unterschiedlich beschrieben, daher ist die Einordnung vorsichtig zu lesen.",
+  "evidence_quality": "gut für eine vorsichtige Namenseinschätzung, aber inhaltlich auf wenige lexikalische Webquellen begrenzt",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Dean",
+  "normalized_name": "dean",
+  "overall_resonance": "Im deutschsprachigen Namenskontext wirkt Dean eher modern, kurz und international klingend. Die öffentliche Rezeption ist überwiegend sachlich-neutral bis leicht positiv, vor allem durch die klare, markante Form und die bekannte, aber nicht übermäßig häufige Verwendung.",
+  "practical_notes": [
+    "Für die Namenssuche in Deutschland wirkt Dean zeitgemäß und unkompliziert.",
+    "Durch die Kürze ist der Name leicht merkbar und gut aussprechbar.",
+    "Wer einen eindeutig deutschsprachigen Traditionsnamen sucht, könnte Dean als internationaler empfinden."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Bedeutungsherleitung ist in den Quellen nicht ganz einheitlich; mehrere Deutungen kursieren.",
+    "Die Evidenz ist auf wenige Namenslexika beschränkt, daher nur vorsichtige Einordnung.",
+    "Keine belastbaren Hinweise auf soziale Stigmatisierung in der vorliegenden Evidenz."
+  ],
+  "short_summary": "Dean wird in Deutschland meist als moderner, international klingender Jungenname wahrgenommen: sachlich-neutral, eher bekannt als häufig, mit leicht unterschiedlichen Bedeutungsangaben in den Quellen.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Dean � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/D/De/Dean/"
+    },
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Dean: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Dean.html"
+    }
+  ],
+  "style_effect": [
+    "kurz und prägnant",
+    "modern und international",
+    "klarer, unkomplizierter Klang",
+    "eher markant als verspielt",
+    "lexikalisch gut anschlussfähig"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Eher bekannt, aber in Deutschland nicht extrem häufig. Dadurch ist der Name sichtbar, ohne stark alltäglich zu wirken."
+}

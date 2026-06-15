@@ -1,0 +1,66 @@
+{
+  "associations": [
+    "Bär",
+    "stark",
+    "glänzend-stark",
+    "entschlossen",
+    "männlich",
+    "mittelalterlich",
+    "Namenstag",
+    "Tradition",
+    "Seltenheit",
+    "abnehmende Beliebtheit"
+  ],
+  "confidence": 0.84,
+  "display_text": "Bernhard wird meist als klassisch, traditionsreich und sprachlich stark wahrgenommen. Die öffentliche Resonanz wirkt überwiegend positiv oder wertschätzend, ist aber vor allem aus Namenslexika ablesbar. Der Name erscheint heute eher selten und eher traditionell als modern.",
+  "evidence_quality": "mittel bis gut; überwiegend namenskundliche Quellen, kaum echte Diskussionsbreite",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Bernhard",
+  "normalized_name": "bernhard",
+  "overall_resonance": "Bernhard wird in den vorliegenden Namensquellen überwiegend als klassisch, traditionsreich und sprachlich stark konnotiert dargestellt. Die Wahrnehmung wirkt eher wertschätzend als kritisch, allerdings basiert sie vor allem auf lexikalischen Namensseiten und nicht auf breiter öffentlicher Diskussion.",
+  "practical_notes": [
+    "Für viele wirkt der Name vertraut und seriös, aber eher nicht modisch oder trendig.",
+    "Die Schreib- und Klangwirkung ist klar, traditionell und gut einprägsam.",
+    "Aufgrund der geringeren heutigen Häufigkeit kann der Name als bewusst klassisch oder nostalgisch wahrgenommen werden."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt überwiegend aus Namenslexika und ist deshalb nur eingeschränkt als direkte öffentliche Resonanz zu lesen.",
+    "Einige zugeschriebene Eigenschaften wie 'stark' oder 'entschlossen' sind kulturelle Namensassoziationen, keine Tatsachen über Träger des Namens."
+  ],
+  "short_summary": "Bernhard gilt im Deutschen als klassischer, traditionsreicher und kräftig konnotierter Vorname mit eher seltener heutiger Verwendung.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.99,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Bernhard � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/B/Be/Bernhard/"
+    },
+    {
+      "confidence": 0.91,
+      "is_name_discussion": true,
+      "sentiment": "positive",
+      "source_type": "web",
+      "title": "&#9655; Vorname Bernhard: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Bernhard.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "traditionsreich",
+    "altdeutsch",
+    "kräftig",
+    "ernsthaft",
+    "zeitlos",
+    "eher formell",
+    "eher selten"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Im deutschsprachigen Raum bekannt, aber eher traditionell und heute seltener im aktiven Gebrauch. Die öffentliche Sichtbarkeit ist daher vorhanden, aber nicht dominant modern."
+}

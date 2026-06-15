@@ -1,0 +1,59 @@
+{
+  "associations": [
+    "spanische und portugiesische Form von Karl/Carl",
+    "Bedeutung: „der freie Mann“ / „der Freie“",
+    "Jungenname",
+    "Namenstag am 4. November",
+    "weit verbreitet im spanisch- und portugiesischsprachigen Raum",
+    "in Deutschland als bekannt bzw. beliebt beschrieben"
+  ],
+  "confidence": 0.86,
+  "display_text": "Carlos: im deutschen Namenskontext meist positiv bis neutral wahrgenommen – klangvoll, international und als spanisch-portugiesische Form von Karl gut eingeordnet. Die verfügbare Evidenz ist solide, aber überwiegend aus Namensportalen.",
+  "evidence_quality": "mittel: klare Namensdiskussion mit konsistenter Bedeutung/Herkunft, aber begrenzte Breite der öffentlichen Quellen.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Carlos",
+  "normalized_name": "carlos",
+  "overall_resonance": "Carlos wird in der verfügbaren deutschen Namensevidenz überwiegend positiv bis neutral wahrgenommen: klangvoll, international bekannt und klar als spanisch-portugiesische Form von Karl eingeordnet.",
+  "practical_notes": [
+    "Für eine deutsche Umgebung wirkt Carlos meist gut verständlich und international anschlussfähig.",
+    "Der Name ist eindeutig männlich codiert und in der Form gut aussprechbar.",
+    "Wenn man öffentliche Wahrnehmung sucht, ist eher eine freundliche, unaufgeregte Resonanz zu erwarten als starke Polarisierung."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenzlage ist eher begrenzt und stark auf Namensportale konzentriert.",
+    "Positive Beschreibungen wie „schöner Name“ oder „klangvoll“ stammen aus Quellen mit möglicher Bewertungsneigung; sie sollten nicht als allgemeiner Konsens überinterpretiert werden."
+  ],
+  "short_summary": "Carlos wird im deutschen Kontext meist positiv bis neutral als klangvoller, internationaler Jungenname wahrgenommen; die Evidenz dafür stammt vor allem aus Namenslexika.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Carlos � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/C/Ca/Carlos/"
+    },
+    {
+      "confidence": 0.92,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Carlos: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Carlos.html"
+    }
+  ],
+  "style_effect": [
+    "klangvoll",
+    "international",
+    "klassisch-mediterran",
+    "modern-vertraut",
+    "lexikalisch klar"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Im deutschen Namenskontext sichtbar und geläufig, aber die öffentliche Resonanz stützt sich hier vor allem auf Namenslexika und einzelne Bewertungsseiten; breite Alltagswahrnehmung ist nur indirekt belegt."
+}

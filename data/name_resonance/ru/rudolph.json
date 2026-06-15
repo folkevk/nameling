@@ -1,0 +1,63 @@
+{
+  "associations": [
+    "althochdeutsche Herkunft",
+    "Bedeutung in Richtung 'ruhmreicher/ehrenvoller Wolf'",
+    "Variante von Rudolf",
+    "Mittelalterliche Verwendung",
+    "deutsch- und englischsprachiger Kulturraum",
+    "Spitzname/Kurzform 'Rudi'",
+    "popkulturelle Assoziation mit dem roten Rentier"
+  ],
+  "confidence": 0.89,
+  "display_text": "Rudolph wirkt in Deutschland wie ein seltener, traditionsreicher und eher altmodischer Vorname. Die Namensquellen ordnen ihn neutral-informativ ein und verbinden ihn mit althochdeutscher Herkunft, der Bedeutung 'ruhmreicher Wolf' und der Variante Rudolf. Öffentlich ist der Name vor allem sachlich bekannt; zusätzlich gibt es eine starke Popkultur-Assoziation, die aber nichts über die Person hinter dem Namen aussagt.",
+  "evidence_quality": "hoch: zwei direkte, namebezogene Lexikonquellen mit übereinstimmenden Angaben zu Herkunft, Bedeutung und Verbreitung; die soziale Rezeption ist daraus jedoch nur indirekt ableitbar.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Rudolph",
+  "normalized_name": "rudolph",
+  "overall_resonance": "Rudolph wird in der öffentlichen Namenswahrnehmung meist als alter, traditionsreicher und eher seltener deutscher Vorname beschrieben. Die Resonanz ist überwiegend neutral bis leicht nostalgisch-prägend, mit klarer historischer und sprachkundlicher Einordnung.",
+  "practical_notes": [
+    "Für Suchmaschinen-Nutzer ist Rudolph vor allem als klassischer, selten gebrauchter Männername sichtbar.",
+    "Wer einen markanten, traditionsbezogenen Namen sucht, könnte ihn als passend empfinden.",
+    "Die Schreibweise wirkt formeller als die Variante Rudolf.",
+    "Die öffentliche Rezeption ist eher sachlich-informativ als emotional aufgeladen."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Wahrnehmung ist teilweise durch die bekannte Popkultur-Figur mitgeprägt; das sagt jedoch nichts über den Namensträger aus.",
+    "Die verfügbare Evidenz stammt vor allem aus Namenslexika und ist daher eher beschreibend als sozial repräsentativ.",
+    "Eine moderne Trend- oder Popularitätsdeutung sollte vorsichtig formuliert werden, da der Name vor allem historisch eingeordnet wird."
+  ],
+  "short_summary": "Rudolph gilt als seltener, klassisch-traditioneller deutscher Vorname mit althochdeutscher Herkunft; die öffentliche Wahrnehmung ist eher neutral bis nostalgisch, ergänzt durch eine bekannte Popkultur-Assoziation.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Rudolph � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/R/Ru/Rudolph/"
+    },
+    {
+      "confidence": 0.95,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Rudolph: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Rudolph.html"
+    }
+  ],
+  "style_effect": [
+    "traditionell",
+    "historisch",
+    "namenskundlich",
+    "klassisch-ungewöhnlich",
+    "leicht altmodisch",
+    "selten"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland wirkt der Name eher wenig verbreitet und dadurch auffälliger als moderne Standardnamen. Er ist bekannt, aber nicht alltäglich."
+}

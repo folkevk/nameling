@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "slawische Herkunft",
+    "Deutung als Berg / Mann aus den Bergen",
+    "teils auch: der Große / der Hohe",
+    "klassischer Männername",
+    "früher häufiger, heute seltener",
+    "Namenstag wird genannt"
+  ],
+  "confidence": 0.83,
+  "display_text": "Goran wirkt in Deutschland eher sachlich, klassisch und leicht kraftvoll. Die Quellen verorten den Namen klar slawisch, mit Bedeutungen rund um Berg, Höhe und Stärke. Für die öffentliche Resonanz ist die Evidenz begrenzt: Goran ist bekannt, aber eher selten und nicht stark trendgeprägt.",
+  "evidence_quality": "mittel bis schwach für öffentliche Resonanz, stark für Namensbedeutung und Herkunft",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Goran",
+  "normalized_name": "goran",
+  "overall_resonance": "Eher sachlich bis leicht positiv, mit klarer kultureller Verortung; keine starke öffentliche Kontroverse erkennbar.",
+  "practical_notes": [
+    "Für Namenssuche wirkt Goran klar, kurz und international verständlich.",
+    "Der Name hat eine deutliche Herkunftsmarke und kann dadurch charakterstark wirken.",
+    "Wenn ein sehr moderner oder in Deutschland häufig verwendeter Name gesucht wird, ist Goran eher nicht die naheliegendste Wahl."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz zur öffentlichen Resonanz ist begrenzt, da vor allem Namenslexika vorliegen.",
+    "Die Wahrnehmung als klassisch oder kraftvoll ist eine naheliegende Einordnung, aber keine belastbare Mehrheitsmeinung.",
+    "Keine Hinweise auf eine breite negative Stigmatisierung in den vorliegenden Quellen."
+  ],
+  "short_summary": "Goran wird in den Quellen überwiegend neutral beschrieben: ein klassischer, slawisch geprägter Jungenname mit Bedeutungen rund um Berg, Höhe und Stärke. In Deutschland wirkt er bekannt, aber eher selten und ohne auffällige negative oder sehr trendige Resonanz.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Goran � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/G/Go/Goran/"
+    },
+    {
+      "confidence": 0.95,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Goran: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Goran.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "slawisch geprägt",
+    "eher maskulin-kraftvoll",
+    "lexikalisch klar",
+    "zeitlos, aber nicht trendig"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland eher bekannt, aber heute eher seltener und damit nicht sehr präsent im Alltag."
+}

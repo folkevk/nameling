@@ -1,0 +1,62 @@
+{
+  "associations": [
+    "althebräische Herkunft",
+    "russische bzw. slawische Variante von Elias/Elija",
+    "Bedeutung: mein Gott ist Jahwe",
+    "biblische Bezüge",
+    "Namenstag",
+    "männlicher Vorname",
+    "in Deutschland bekannt, aber nicht häufig"
+  ],
+  "confidence": 0.82,
+  "display_text": "Ilja wird meist sachlich und leicht positiv wahrgenommen: biblisch-traditionell, kurz und international anschlussfähig, in Deutschland aber eher selten bis mäßig verbreitet. Die Evidenz ist begrenzt und stammt vor allem aus Namenslexika.",
+  "evidence_quality": "schwach bis mittel: zwei spezialisierte Namensseiten, überwiegend lexikalisch-informativ, kaum öffentliche Diskussion",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Ilja",
+  "normalized_name": "ilja",
+  "overall_resonance": "Ilja wird in den vorliegenden Namensquellen überwiegend sachlich und leicht positiv beschrieben. Der Name wirkt biblisch-traditionell, zugleich in Deutschland eher selten bis mäßig verbreitet. Insgesamt entsteht ein ruhiger, klarer und international anschlussfähiger Eindruck.",
+  "practical_notes": [
+    "Für die Namenssuche wirkt Ilja kurz, markant und traditionsnah.",
+    "Die Schreibweise ist im deutschen Kontext verständlich, kann aber je nach Region als eher ungewöhnlich wahrgenommen werden.",
+    "Die Quellen deuten auf eine nüchtern positive, aber nicht trendige Namenswirkung hin."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz basiert nur auf zwei Namenslexikon-Seiten, also auf schwacher bis mittlerer Datenlage.",
+    "Es gibt kaum öffentliche Debatte oder breitere Alltagsresonanz in den Quellen.",
+    "Beliebtheitsangaben sollten nicht überinterpretiert werden, da sie je nach Erhebungszeitpunkt schwanken."
+  ],
+  "short_summary": "Ilja wirkt in Deutschland sachlich, biblisch und eher selten, mit leicht positiver, ruhiger Namenswirkung.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.95,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Ilja � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/I/Il/Ilja/"
+    },
+    {
+      "confidence": 0.94,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Ilja: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Ilja.html"
+    }
+  ],
+  "style_effect": [
+    "sachlich",
+    "traditionell",
+    "biblisch",
+    "international",
+    "weich-kurz",
+    "eher selten als alltagssprachlich präsent"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland eher bekannt als geläufig; die Quellen sprechen von moderater bis guter Verbreitung, zugleich aber auch von einer eher seltenen Platzierung in Hitlisten. Die öffentliche Sichtbarkeit scheint daher begrenzt und vor allem namenkundlich geprägt."
+}

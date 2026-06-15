@@ -1,0 +1,58 @@
+{
+  "associations": [
+    "Bedeutungen wie vertrauenswürdig, treu, gewissenhaft, zuverlässig und ehrlich",
+    "arabische, türkische, armenische, aserbaidschanische und bosnische Herkunftsbezüge",
+    "männlicher Vorname",
+    "teils als Variante von Amin beschrieben",
+    "gelegentliche Verbindung zu religiös-kulturellen Namensbezügen"
+  ],
+  "confidence": 0.87,
+  "display_text": "Emin wird in den verfügbaren Quellen überwiegend positiv und sachlich wahrgenommen. Der Name gilt als vertrauenswürdig, zuverlässig und kulturell vielfältig verankert. In Deutschland ist er bekannt, eher im mittleren Bereich und wirkt nicht stark modisch. Einige positive Eindrücke stammen aus kommentarbasierten Quellen, daher ist die Aussage vorsichtig zu lesen.",
+  "evidence_quality": "gut bis sehr gut; mehrere klar namebezogene, überwiegend informative Quellen mit überwiegend positiver Färbung, teils ergänzt durch weniger belastbare Kommentare.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Emin",
+  "normalized_name": "emin",
+  "overall_resonance": "Der Vorname Emin wird in den Quellen überwiegend positiv und wertschätzend beschrieben. Er wirkt sprachlich klar, eher traditionell verankert und in Deutschland bekannt, ohne stark modisch zu sein.",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt Emin unkompliziert, klar und international anschlussfähig.",
+    "Die Wahrnehmung ist eher informativ als trendig; der Name fällt nicht stark durch Modeeffekte auf."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Datenlage ist insgesamt gut, aber ein Teil der positiven Eindrücke stammt aus kommentarbasierten Quellen und ist daher nur eingeschränkt repräsentativ.",
+    "Keine belastbaren Hinweise auf gesellschaftliche Stigmatisierung in den vorliegenden Quellen."
+  ],
+  "short_summary": "Emin wird öffentlich meist positiv, vertrauenswürdig und kulturell vielseitig eingeordnet; in Deutschland ist der Name bekannt, aber nicht übermäßig dominant.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "positive",
+      "source_type": "web",
+      "title": "Vorname Emin � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/E/Em/Emin/"
+    },
+    {
+      "confidence": 0.9,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Emin: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Emin.html"
+    }
+  ],
+  "style_effect": [
+    "informativ",
+    "namenskundlich",
+    "lexikalisch",
+    "eher klassisch-mediterran bzw. nahöstlich geprägt",
+    "seriös und klar",
+    "leicht positiv konnotiert"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland eher bekannt und im mittleren Bereich verortet; die öffentliche Wahrnehmung wirkt damit präsent, aber nicht übermäßig häufig oder trendgetrieben."
+}

@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "weiblicher Vorname",
+    "friesische Kurz- und Koseform",
+    "althochdeutsche Herkunft",
+    "Bezug zu Ingwio/Schutz und Helfen",
+    "ungarische Koseform von Ilona",
+    "selten bis mäßig verbreitet in Deutschland",
+    "Namenstag-Angaben in der Namensliteratur"
+  ],
+  "confidence": 0.79,
+  "display_text": "Inka wirkt in der öffentlichen Rezeption eher neutral bis freundlich: ein kurzer, traditioneller und in Deutschland eher seltener Vorname. Die vorhandenen Quellen sind vor allem lexikalisch; daher ist die Aussagekraft begrenzt, aber es zeigen sich keine klaren negativen Konnotationen.",
+  "evidence_quality": "mittel bis eher schwach; überwiegend lexikalische Quellen, teils anekdotische Bewertungen, keine breite Diskursbasis",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Inka",
+  "normalized_name": "inka",
+  "overall_resonance": "Inka wird in der vorliegenden Evidenz überwiegend neutral bis eher positiv wahrgenommen. Der Name wirkt kurz, klar und traditionell; zugleich bleibt die Beleglage begrenzt und teils aus Namenslexika bzw. Nutzerkommentaren abgeleitet.",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt Inka unkompliziert, bekannt genug, aber nicht alltäglich.",
+    "Die Wahrnehmung kann je nach Umfeld zwischen traditionell und leicht individuell schwanken.",
+    "Die Quelle liefert vor allem etymologische und popularitätsbezogene Hinweise, weniger breite öffentliche Diskurse."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist insgesamt eher schwach und basiert vor allem auf Namenslexika und aggregierten Quellen.",
+    "Einzelne positive Wertungen stammen aus Kommentaren und sind nicht als allgemeine Mehrheitsmeinung zu verstehen.",
+    "Keine Hinweise auf eine klare gesellschaftliche Stigmatisierung in der vorliegenden Quelle."
+  ],
+  "short_summary": "Inka wird meist sachlich bis freundlich wahrgenommen: ein kurzer, traditioneller und eher seltener Vorname ohne auffällige negative Konnotationen in der vorliegenden Evidenz.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Inka � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/I/In/Inka/"
+    },
+    {
+      "confidence": 0.92,
+      "is_name_discussion": true,
+      "sentiment": "eher positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Inka: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Inka.html"
+    }
+  ],
+  "style_effect": [
+    "kurz und prägnant",
+    "klassisch/traditionell",
+    "eher freundlich und unkompliziert",
+    "selten, daher individuell",
+    "namenskundlich klar verortet"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland eher selten bis mäßig verbreitet und dadurch auffälliger als sehr häufige Vornamen. Die öffentliche Bekanntheit ist vorhanden, aber keine starke Mainstream-Präsenz."
+}

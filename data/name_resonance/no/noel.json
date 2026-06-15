@@ -1,0 +1,69 @@
+{
+  "associations": [
+    "Weihnachten",
+    "an Weihnachten geboren",
+    "altfranzösische/lateinische Herkunft",
+    "Namenstag am 24./25. Dezember",
+    "Beliebtheit in Deutschland",
+    "Unisex, meist männlich"
+  ],
+  "confidence": 0.84,
+  "display_text": "Noel wirkt in Deutschland überwiegend freundlich und sachlich, mit klarer Weihnachtsassoziation und internationalem, klassischem Klang. Die vorliegende Evidenz ist vor allem lexikalisch und zeigt eher Namenswissen als breite öffentliche Debatten.",
+  "evidence_quality": "mittel: mehrere direkt namenskundliche Quellen, aber wenig echte öffentliche Diskussions- oder Community-Evidenz",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Noel",
+  "normalized_name": "noel",
+  "overall_resonance": "Überwiegend freundlich, sachlich und namenskundlich geprägt; der Name wirkt im deutschen Raum vor allem mit Weihnachten und einem eher klassischen, internationalen Klang verbunden.",
+  "practical_notes": [
+    "Für Suchmaschinen eignet sich die Kurzbeschreibung als weihnachtlich und international.",
+    "Der Name ist kurz, leicht zu schreiben und im deutschen Sprachraum gut bekannt.",
+    "Die Assoziation mit Weihnachten ist sehr dominant und prägt die Außenwahrnehmung deutlich."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz für öffentliche Resonanz ist begrenzt, da sie überwiegend aus Namenslexika stammt.",
+    "Die Wahrnehmung als Unisex-Name kann je nach Quelle variieren.",
+    "Beliebtheitsaussagen sollten nicht als allgemeingültige soziale Bewertung verstanden werden."
+  ],
+  "short_summary": "Noel wird im deutschen Raum überwiegend sachlich und positiv beschrieben, mit starken Assoziationen zu Weihnachten, lateinisch-altfranzösischer Herkunft und einem internationalen Klang.",
+  "source_count": 3,
+  "sources": [
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Noel � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/N/No/Noel/"
+    },
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Noel � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/N/No/Noel/"
+    },
+    {
+      "confidence": 0.87,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Noel: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Noel.html"
+    }
+  ],
+  "style_effect": [
+    "weihnachtlich",
+    "international",
+    "klassisch",
+    "kurz und klar",
+    "leicht festlich",
+    "überwiegend männlich, teils unisex wahrgenommen"
+  ],
+  "usable_evidence_count": 3,
+  "visibility": "Mittel: Der Name ist in Deutschland bekannt und in Namenslexika präsent, aber die vorliegende Evidenz zeigt eher beschreibende Einträge als starke öffentliche Debatten oder breite Meinungsbilder."
+}

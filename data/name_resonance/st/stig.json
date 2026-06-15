@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "altnordische Herkunft",
+    "Bedeutung im Umfeld von \"Weg\" bzw. \"Wanderer\"",
+    "Kurzform von Stigr",
+    "skandinavischer Jungenname",
+    "in Deutschland selten",
+    "in Norwegen bekannter bzw. populärer"
+  ],
+  "confidence": 0.87,
+  "display_text": "Stig wirkt in Deutschland eher selten, klar und skandinavisch. Die öffentliche Rezeption ist überwiegend sachlich-neutral mit leicht positiver Tönung durch die nordische Herkunft und die prägnante, kurze Form.",
+  "evidence_quality": "mittel bis gut für Herkunft und Einordnung, aber begrenzt für echte öffentliche Resonanz in Deutschland",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Stig",
+  "normalized_name": "stig",
+  "overall_resonance": "Überwiegend sachlich-neutral mit leicht skandinavisch-positer Anmutung. In Deutschland wirkt der Name eher ungewöhnlich und selten, was ihn markant, aber nicht breit etabliert erscheinen lässt.",
+  "practical_notes": [
+    "Für eine öffentliche Namenssuche eignet sich eine Formulierung wie: kurz, nordisch, selten und klar.",
+    "Die Resonanz wirkt insgesamt eher positiv-neutral, ohne starke emotionale Aufladung.",
+    "Aufgrund der geringen Verbreitung in DE ist der Name eher ein Unikat als ein Modename."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist vor allem auf Namenslexikon-Seiten begrenzt; breite öffentliche Diskussion ist kaum sichtbar.",
+    "Die Wahrnehmung basiert überwiegend auf sachlichen Beschreibungen, nicht auf allgemeiner Alltagsrezeption.",
+    "Die Seltenheit in Deutschland kann als auffällig empfunden werden, ist aber keine negative Bewertung."
+  ],
+  "short_summary": "Stig wird in den Quellen vor allem als kurzer, altnordisch-skandinavischer Jungenname mit seltener Verbreitung in Deutschland beschrieben. Die öffentliche Wirkung ist eher neutral bis leicht positiv, vor allem wegen der klaren, nordischen Anmutung.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.91,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Stig � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/S/St/Stig/"
+    },
+    {
+      "confidence": 0.92,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Stig: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Stig.html"
+    }
+  ],
+  "style_effect": [
+    "kurz und prägnant",
+    "skandinavisch",
+    "altnordisch",
+    "selten",
+    "markant",
+    "eher nüchtern als verspielt"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In DE eher geringe Sichtbarkeit; in den vorliegenden Quellen wird Stig als seltener Name beschrieben, während er in Skandinavien deutlich geläufiger ist."
+}

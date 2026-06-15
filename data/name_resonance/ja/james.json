@@ -1,0 +1,62 @@
+{
+  "associations": [
+    "englische Form von Jakob",
+    "hebräischer Ursprung",
+    "Bedeutungen wie \"Gott möge schützen\" bzw. \"der Fersenhalter\"",
+    "biblischer Bezug",
+    "königliche Konnotation",
+    "James Bond",
+    "in Deutschland auch mit Butler-Klischee verbunden"
+  ],
+  "confidence": 0.88,
+  "display_text": "James wirkt in Deutschland überwiegend neutral bis leicht positiv: ein klassischer, internationaler Vorname mit hebräisch-biblischem Ursprung und bekannten Kulturassoziationen wie James Bond. Einige Bilder wie Butler- oder Elite-Klischees sind eher gesellschaftliche Zuschreibungen als feste Namensmerkmale.",
+  "evidence_quality": "mittel bis gut; klare, direkte Namensevidenz, aber kaum echte öffentliche Meinungsvielfalt.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "James",
+  "normalized_name": "james",
+  "overall_resonance": "Überwiegend neutral bis leicht positiv; der Name wirkt in der öffentlichen Namensbeschreibung vertraut, klassisch und international anschlussfähig.",
+  "practical_notes": [
+    "Der Name ist leicht erkennbar und international verständlich.",
+    "Im deutschen Umfeld kann er fremdsprachig und stilvoll wirken.",
+    "Kurzformen wie Jim, Jimmy oder Jamie werden häufig mitgedacht.",
+    "Für eine öffentliche Namenssuche wirkt James eher etabliert als ungewöhnlich."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt vor allem aus zwei Namensseiten und ist damit eher beschreibend als breit öffentlich diskutierend.",
+    "Einige Assoziationen sind kulturabhängig und nicht für alle Menschen gleich relevant.",
+    "Die Butler- und Bond-Assoziationen sind populäre Bilder, keine verlässlichen Eigenschaften des Namens."
+  ],
+  "short_summary": "James wird in Deutschland meist sachlich und eher positiv-konnotiert wahrgenommen: klassisch, international und mit starken Kulturassoziationen.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.95,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname James � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/J/Ja/James/"
+    },
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname James: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,James.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "international",
+    "eher elegant",
+    "kulturell aufgeladen",
+    "sachlich vertraut"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland gut bekannt und sichtbar, vor allem als englische Form von Jakob/James mit klarer Namenskunde-Präsenz."
+}

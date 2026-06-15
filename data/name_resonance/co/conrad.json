@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "althochdeutsche Wurzeln",
+    "Bedeutung in Richtung „kühner Ratgeber“ / „guter Ratgeber“",
+    "Variante zu Konrad",
+    "eher selten in Deutschland",
+    "Namenstag",
+    "Spitznamen und Kurzformen werden genannt"
+  ],
+  "confidence": 0.84,
+  "display_text": "Conrad wirkt in den Quellen klassisch, traditionsreich und eher selten. Die Resonanz ist überwiegend sachlich bis positiv, mit Bezügen zu Herkunft, Bedeutung und historischem Klang. Die Evidenz ist aber eher begrenzt, weil sie vor allem aus Namenslexika stammt.",
+  "evidence_quality": "mittel bis schwach: zwei überwiegend lexikalische Quellen, teils mit Kommentaren; wenig direkte öffentliche Diskussionsresonanz.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Conrad",
+  "normalized_name": "conrad",
+  "overall_resonance": "Conrad wird in den vorliegenden Quellen überwiegend als klassischer, traditionsreicher und eher seltener Vorname wahrgenommen. Die öffentliche Rezeption wirkt insgesamt sachlich bis positiv, mit Fokus auf Bedeutung, Herkunft und historischem Klang. Die Evidenz ist jedoch eher begrenzt, da sie vor allem aus Namenslexika und nur teilweise aus nutzerbasierten Reaktionen stammt.",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt Conrad eher klassisch und zeitlos als modisch.",
+    "Der Name kann durch seine Seltenheit etwas eigenständig wirken.",
+    "Die Schreibweise mit C kann als markant empfunden werden, ohne ungewöhnlich zu sein."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Datenbasis ist für öffentliche Resonanz nur eingeschränkt belastbar, weil sie hauptsächlich aus Namenslexika besteht.",
+    "Positive oder neutrale Tendenzen sollten nicht als breite gesellschaftliche Mehrheitsmeinung verstanden werden.",
+    "Es gibt keinen klaren Hinweis auf soziale Stigmatisierung in den Quellen."
+  ],
+  "short_summary": "Conrad wird überwiegend als klassischer, traditionsreicher und eher seltener Vorname mit positiv-sachlicher Wirkung beschrieben.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Conrad � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/C/Co/Conrad/"
+    },
+    {
+      "confidence": 0.91,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Conrad: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Conrad.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "traditionell",
+    "historisch",
+    "seriös",
+    "etwas altdeutsch",
+    "selten, aber vertraut"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Eher niedrig bis mittel: Der Name ist bekannt, aber in Deutschland offenbar nicht besonders häufig und wirkt dadurch eher markant als alltagsdominant."
+}

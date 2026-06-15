@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "Kurzform von Kenneth",
+    "keltisch/schottische Herkunft",
+    "teils auch japanische Herkunft in Namenslexika",
+    "Bedeutungen wie „der Schöne“ oder „der aus dem Feuer Geborene“ werden genannt",
+    "Namenstag in Namensverzeichnissen",
+    "popkulturelle Assoziation zu Barbie/Ken"
+  ],
+  "confidence": 0.79,
+  "display_text": "Ken wirkt in Deutschland überwiegend neutral bis leicht positiv: kurz, international und sachlich. Die öffentliche Resonanz ist laut den verfügbaren Quellen eher schwach belegt und vor allem lexikalisch beschrieben.",
+  "evidence_quality": "mittel bis schwach: gute direkte Namenslexikon-Evidenz, aber nur begrenzte Aussagen zur echten öffentlichen Resonanz in Deutschland.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Ken",
+  "normalized_name": "ken",
+  "overall_resonance": "Ken wird in der öffentlichen Namenswahrnehmung überwiegend als kurzer, international klingender und sachlich wirkender männlicher Vorname beschrieben. Die verfügbare Evidenz ist eher lexikalisch als gesellschaftlich breit belegt, daher sollte die Resonanz vorsichtig bewertet werden.",
+  "practical_notes": [
+    "Für Suchmaschinen- und Namenskontexte wirkt Ken knapp, international und leicht einprägsam.",
+    "Die Quellen deuten eher auf neutrale bis positive Namenskonnotationen hin, ohne starke gesellschaftliche Zuschreibungen.",
+    "Wegen der kurzen Form kann der Name je nach Kontext auch knapp oder sachlich nüchtern wirken."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz zur öffentlichen Resonanz ist begrenzt und stammt vor allem aus Namenslexika.",
+    "Die Barbie-Assoziation ist präsent, aber nicht zwangsläufig namengebend für die allgemeine Wahrnehmung.",
+    "Keine belastbaren Hinweise auf eine nennenswerte soziale Stigmatisierung in der vorliegenden Evidenz."
+  ],
+  "short_summary": "Ken wird meist neutral bis leicht positiv als kurzer, internationaler Vorname wahrgenommen; die öffentliche Resonanz ist jedoch nur schwach belegt.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Ken � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/K/Ke/Ken/"
+    },
+    {
+      "confidence": 0.74,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Ken: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Ken.html"
+    }
+  ],
+  "style_effect": [
+    "kurz",
+    "international",
+    "klar",
+    "modern wirkend",
+    "lexikalisch sachlich",
+    "eher unprätentiös"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland ist der Name bekannt, aber laut den vorliegenden Quellen eher moderat verbreitet und nicht stark mit einer klaren öffentlichen Imageprägung verbunden. Die Datenlage zur tatsächlichen Außenwirkung ist schwach."
+}

@@ -1,0 +1,63 @@
+{
+  "associations": [
+    "französische Koseform",
+    "Barbara",
+    "Elisabeth",
+    "selten bis mäßig verbreitet in Deutschland",
+    "eingedeutschte Schreibweise Babett",
+    "Namenstag",
+    "klassische Wirkung",
+    "wunderschön (Einzelmeinung)"
+  ],
+  "confidence": 0.86,
+  "display_text": "Babette wirkt klassisch, französisch geprägt und eher selten in Deutschland. Die öffentliche Resonanz ist überwiegend neutral bis leicht positiv, basiert aber nur auf begrenzter lexikalischer Evidenz.",
+  "evidence_quality": "Begrenzte, aber klare lexikalische Evidenz; überwiegend neutral-sachlich, mit wenigen leicht positiven Einzelwertungen. Keine breite öffentliche Debatte sichtbar.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Babette",
+  "normalized_name": "babette",
+  "overall_resonance": "Babette wird in den verfügbaren Quellen überwiegend sachlich, leicht klassisch und eher positiv wahrgenommen. Der Name wirkt traditionell und französisch geprägt, zugleich in Deutschland eher selten bis ungewohnt. Die öffentliche Resonanz ist damit eher ruhig als trendig.",
+  "practical_notes": [
+    "Für Suchmaschinen wirkt Babette eher als traditionsreicher, klar weiblich wahrgenommener Vorname.",
+    "Wegen der eher seltenen Nutzung kann der Name als markant und unverwechselbar erscheinen.",
+    "Die Schreibvariante Babett wird in den Quellen ebenfalls als relevant genannt."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz basiert nur auf zwei Namenslexikon-Quellen und ist damit für eine öffentliche Gesamtresonanz begrenzt.",
+    "Positive Wertungen stammen teils aus einzelnen Nutzermeinungen und sollten nicht verallgemeinert werden.",
+    "Beliebtheitsangaben können zeitgebunden sein."
+  ],
+  "short_summary": "Babette wird in den Quellen als klassischer, französisch geprägter und in Deutschland eher seltener Vorname beschrieben. Die Resonanz ist überwiegend neutral bis leicht positiv, bei insgesamt schwacher öffentlicher Evidenz.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.92,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Babette � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/B/Ba/Babette/"
+    },
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Babette: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Babette.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "traditionell",
+    "französisch geprägt",
+    "selten/ungewöhnlich",
+    "sachlich-informativ",
+    "leicht elegant"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Eher geringe bis mittlere Sichtbarkeit in Deutschland; der Name ist bekannt, aber nicht breit verbreitet. Die Evidenz deutet auf eine Nischenwahrnehmung hin."
+}

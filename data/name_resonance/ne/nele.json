@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "friesische Kurzform von Cornelia",
+    "deutschsprachig, besonders norddeutsch",
+    "Bedeutung wird teils als 'die Strahlende' oder 'die Leuchtende' beschrieben",
+    "teilweise auch mit 'der kleinen Sonne' verbunden",
+    "seit den 1970er Jahren in Deutschland vergeben",
+    "als beliebter, etablierter Vorname wahrgenommen",
+    "Varianten wie Nela, Neele, Neela, Nelia, Nella, Nelli, Nelly"
+  ],
+  "confidence": 0.9,
+  "display_text": "Nele wird in Deutschland überwiegend positiv wahrgenommen: ein kurzer, moderner und seit Jahren etablierter Vorname mit norddeutscher Prägung. Die Quellen betonen vor allem Herkunft, Bedeutung und Beliebtheit; direkte öffentliche Wertungen liegen nur begrenzt vor.",
+  "evidence_quality": "mittel bis gut: zwei klare Namenslexikon-Quellen, aber wenig freie öffentliche Resonanz im engeren Sinn.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Nele",
+  "normalized_name": "nele",
+  "overall_resonance": "Überwiegend positiv und etabliert; Nele wird in der verfügbaren Evidenz als vertrauter, moderner und beliebter Mädchenname beschrieben.",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt Nele insgesamt unkompliziert, freundlich und zeitgemäß.",
+    "Die öffentliche Wahrnehmung scheint eher stabil positiv als kontrovers.",
+    "Die Interpretation der Bedeutung variiert je nach Quelle leicht."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist überwiegend namenkundlich/lexikalisch; direkte öffentliche Meinungen oder freie Nutzerstimmen sind kaum enthalten.",
+    "Beliebtheit wird erwähnt, aber ohne belastbare Breitenmeinung aus Social-Media- oder Umfragequellen."
+  ],
+  "short_summary": "Nele wirkt in den verfügbaren Quellen positiv, modern und etabliert; die Resonanz ist vor allem freundlich-informativ, nicht kontrovers.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "Vorname Nele � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/N/Ne/Nele/"
+    },
+    {
+      "confidence": 0.94,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Nele: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Nele.html"
+    }
+  ],
+  "style_effect": [
+    "kurz und klar",
+    "modern wirkend",
+    "freundlich und leicht",
+    "traditionell-norddeutsch geprägt",
+    "lexikalisch statt emotional bewertet"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland gut sichtbar und bekannt, besonders im deutschsprachigen Raum; die Quellen betonen vor allem Popularität und Namensherkunft."
+}

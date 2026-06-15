@@ -1,0 +1,63 @@
+{
+  "associations": [
+    "Kurzform von Fridolin oder Friedrich",
+    "althochdeutsche Herkunft",
+    "Bedeutungen wie Friede, Frieden, Schutz, Sicherheit",
+    "selten",
+    "historisch bekannt, heute kaum verbreitet",
+    "wohlklingend",
+    "freundlich",
+    "frisch"
+  ],
+  "confidence": 0.84,
+  "display_text": "Frido klingt in der öffentlichen Wahrnehmung meist freundlich, friedlich und traditionell. Der Name ist eher selten und dadurch auffällig, aber nicht negativ besetzt. Die Evidenz ist begrenzt und stützt sich vor allem auf Namenslexika sowie einzelne positive Kommentare.",
+  "evidence_quality": "mittel bis schwach: gute lexikalische Angaben, aber nur indirekte und begrenzt repräsentative Resonanzhinweise",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Frido",
+  "normalized_name": "frido",
+  "overall_resonance": "Frido wird öffentlich eher freundlich und positiv wahrgenommen, vor allem wegen der Bedeutungselemente rund um Frieden, Schutz und Sicherheit. Zugleich wirkt der Name im deutschsprachigen Raum eher selten und dadurch etwas ungewöhnlich, aber nicht negativ besetzt.",
+  "practical_notes": [
+    "Für die Namenssuche wirkt Frido eigenständig, freundlich und traditionell.",
+    "Durch die Seltenheit kann der Name auffallen, ohne exotisch zu wirken.",
+    "Die Wahrnehmung dürfte eher über Klang und Bedeutung als über aktuelle Popularität geprägt sein."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz zur öffentlichen Resonanz ist begrenzt, da vor allem Namensdatenbanken und einzelne Kommentare vorliegen.",
+    "Positive Eindrücke sind teilweise subjektiv und nicht breit repräsentativ.",
+    "Es gibt keine belastbaren Hinweise auf eine starke gesellschaftliche Stigmatisierung oder auf eine breite Debatte um den Namen."
+  ],
+  "short_summary": "Frido wird meist freundlich, friedlich und traditionell wahrgenommen, ist im Alltag aber eher selten sichtbar. Die öffentliche Resonanz wirkt insgesamt positiv, allerdings basiert sie nur auf begrenzter Evidenz.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.91,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Frido � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/F/Fr/Frido/"
+    },
+    {
+      "confidence": 0.9,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Frido: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Frido.html"
+    }
+  ],
+  "style_effect": [
+    "kurz und klar",
+    "altdeutsch-traditionell",
+    "freundlich im Klang",
+    "ungewöhnlich, aber nicht sperrig",
+    "leicht bodenständig",
+    "namenskundlich aufgeladen"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Eher geringe Sichtbarkeit: Der Name wird als selten bis wenig vergeben beschrieben und erscheint eher in Namenslexika als in breiter öffentlicher Alltagsnutzung."
+}

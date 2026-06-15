@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "Kurzform bzw. verselbständigter Vorname aus Diet-/Dietrich-Namen",
+    "althochdeutsche Wurzel mit Bezug zu 'Volk'",
+    "Deutung als 'Herrscher des Volkes' oder 'der Tüchtige'",
+    "Namenstag am 16. Januar",
+    "Bezug zu Till Eulenspiegel",
+    "in Deutschland als gebräuchlich und vertraut beschrieben"
+  ],
+  "confidence": 0.89,
+  "display_text": "Till: überwiegend neutral bis leicht positiv wahrgenommen. Der Name gilt als kurzer, traditionell deutscher Vorname mit klarer Herkunft und etablierter namenskundlicher Bekanntheit. Die vorliegende Evidenz stammt vor allem aus Namenslexika; Hinweise auf breitere öffentliche Debatten sind schwach.",
+  "evidence_quality": "mittel bis hoch für Herkunft, Bedeutung und namenskundliche Einordnung; gering für echte öffentliche Breitenresonanz.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Till",
+  "normalized_name": "till",
+  "overall_resonance": "Überwiegend neutral bis leicht positiv. Der Name wird vor allem als kurzer, traditionell-deutscher Vorname wahrgenommen, mit klarer Namenskundebeziehung und wenig kontroverser öffentlicher Deutung.",
+  "practical_notes": [
+    "Für Suchmaschinen-Nutzung eignet sich eine kurze Beschreibung als 'klassischer deutscher Kurzname mit historischer Herkunft'.",
+    "Die Wahrnehmung ist eher positiv-neutral; der Name wirkt unkompliziert und etabliert.",
+    "Bei einer öffentlichen Darstellung sollte klar bleiben, dass die Bewertungen aus Namenskontexten stammen, nicht aus repräsentativen Umfragen."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Quellen stammen überwiegend aus Namensdatenbanken und Namenslexika, nicht aus breiter öffentlicher Medienresonanz.",
+    "Beliebtheit und Bedeutungen sind gut belegt, aber Aussagen zur gesellschaftlichen Wahrnehmung bleiben nur indirekt abgeleitet.",
+    "Keine Hinweise auf eine relevante soziale Stigmatisierung in der vorliegenden Evidenz."
+  ],
+  "short_summary": "Till wird meist als kurzer, traditionell deutscher Vorname mit historischer Bedeutung und freundlicher, sachlicher Wirkung wahrgenommen.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.92,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Till � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/T/Ti/Till/"
+    },
+    {
+      "confidence": 0.94,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Till: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Till.html"
+    }
+  ],
+  "style_effect": [
+    "kurz und prägnant",
+    "traditionell-deutsch",
+    "namenskundlich klar verankert",
+    "leicht freundlich/zugänglich",
+    "eher sachlich als modern-experimentell"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Im deutschsprachigen Namenskontext gut sichtbar, vor allem in Namenslexika und Beliebtheitslisten; die Evidenz für breitere öffentliche Debatten oder starke Alltagsresonanz ist jedoch begrenzt."
+}

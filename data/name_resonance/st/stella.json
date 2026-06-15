@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "lateinische Herkunft",
+    "Bedeutung: „der Stern“",
+    "christlicher Bezug über „Stella maris“",
+    "weiblicher Vorname",
+    "klassisch",
+    "in Deutschland beliebt bzw. bekannter werdend",
+    "Namenstag-Traditionen"
+  ],
+  "confidence": 0.84,
+  "display_text": "Stella wirkt in Deutschland überwiegend positiv, klassisch und freundlich-modern. Der Name wird vor allem mit „der Stern“, lateinischer Herkunft und einem eleganten Klang verbunden. Die Evidenz ist allerdings vor allem lexikalisch; für eine breite öffentliche Resonanz gibt es nur begrenzte direkte Belege.",
+  "evidence_quality": "mittel bis schwach: zwei einschlägige Namensquellen, aber kaum unabhängige Belege für breite öffentliche Resonanz außerhalb von Lexikon- und Bedeutungsbeschreibungen.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Stella",
+  "normalized_name": "stella",
+  "overall_resonance": "Überwiegend positiv und klassisch-modern wahrgenommen; die öffentliche Namensbeschreibung wirkt freundlich, klar und eher beliebt als kontrovers.",
+  "practical_notes": [
+    "Wirkt im Deutschen unkompliziert, international verständlich und gut aussprechbar.",
+    "Der Name hat eine klare, positive Bildhaftigkeit ohne erkennbar negative Konnotationen.",
+    "Als Suchname eignet sich Stella gut, weil Bedeutung und Klang meist sofort nachvollziehbar sind."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt fast ausschließlich aus Namenslexika; echte öffentliche Debatten oder breite Alltagsresonanz sind nur schwach belegt.",
+    "Beliebtheitsaussagen sollten vorsichtig gelesen werden, da sie hier vor allem beschreibend aus den Quellen übernommen sind."
+  ],
+  "short_summary": "Stella wird in der vorliegenden Evidenz überwiegend positiv, klassisch und als gut bekannter, eher beliebter Mädchenname beschrieben.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "positive",
+      "source_type": "web",
+      "title": "Vorname Stella � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/S/St/Stella/"
+    },
+    {
+      "confidence": 0.9,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Stella: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Stella.html"
+    }
+  ],
+  "style_effect": [
+    "elegant",
+    "klassisch",
+    "hell und freundlich",
+    "modern anschlussfähig",
+    "kurz und einprägsam"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland gut bekannt und seit Jahren präsent; die Evidenz deutet auf eine stabile bis zunehmende Sichtbarkeit hin, vor allem in Namenslexika und Popularitätsübersichten. Für eine breitere öffentliche Resonanz ist die Datenlage jedoch begrenzt."
+}

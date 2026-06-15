@@ -1,0 +1,75 @@
+{
+  "associations": [
+    "biblischer Ursprung",
+    "hebräische Herkunft",
+    "Meeresstern",
+    "Namenstag",
+    "historisch",
+    "weit verbreitet",
+    "weiblich",
+    "teils auch als unisex in einzelnen Kontexten genannt",
+    "traditionell",
+    "positiv konnotiert"
+  ],
+  "confidence": 0.96,
+  "display_text": "Maria wird in der öffentlichen Namensrezeption meist als klassisch, traditionsreich und sehr verbreitet beschrieben. Die Wirkung ist eher zeitlos und würdevoll als modern-experimentell. Starke religiöse und historische Bezüge sind typisch; die Bedeutung wird teils unterschiedlich erklärt.",
+  "evidence_quality": "hoch: mehrere einschlägige Namensseiten, konsistente positive und klassisch-traditionsbezogene Einordnung, geringe Widersprüche außer bei der Bedeutung.",
+  "generated_at": "2026-06-12T06:08:03Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Maria",
+  "normalized_name": "maria",
+  "overall_resonance": "Überwiegend positiv und sehr klassisch wahrgenommen; Maria wird in der öffentlichen Namensdiskussion als traditionsreich, biblisch geprägt und deutschlandweit verbreitet beschrieben.",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt Maria sehr vertraut, etabliert und stilistisch sicher.",
+    "Der Name funktioniert in formellen wie auch alltäglichen Kontexten gut.",
+    "Wer einen sehr seltenen oder modisch-experimentellen Eindruck sucht, findet hier eher das Gegenteil.",
+    "Die öffentliche Rezeption ist eher beschreibend als wertend; klare negative Muster zeigen sich in der Evidenz nicht."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Bedeutungsherkunft wird in den Quellen teils unterschiedlich erklärt; die Etymologie ist nicht eindeutig.",
+    "Religiöse Assoziationen sind stark präsent, was je nach Kontext als prägend empfunden werden kann.",
+    "Einige Angaben zur Verbreitung oder Beliebtheit sind allgemein gehalten und sollten nicht als exakte Statistik gelesen werden."
+  ],
+  "short_summary": "Maria gilt öffentlich als klassischer, traditionsreicher und sehr bekannter Vorname mit überwiegend positiver, sachlicher Resonanz.",
+  "source_count": 3,
+  "sources": [
+    {
+      "confidence": 0.99,
+      "is_name_discussion": true,
+      "sentiment": "positive",
+      "source_type": "web",
+      "title": "Vorname Maria � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/M/Ma/Maria/"
+    },
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "positive",
+      "source_type": "web",
+      "title": "Vorname Maria � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/M/Ma/Maria/"
+    },
+    {
+      "confidence": 0.99,
+      "is_name_discussion": true,
+      "sentiment": "positive",
+      "source_type": "web",
+      "title": "&#9655; Vorname Maria: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Maria.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "traditionsreich",
+    "würdig",
+    "zeitlos",
+    "neutral-beschreibend",
+    "lexikalisch",
+    "international anschlussfähig"
+  ],
+  "usable_evidence_count": 3,
+  "visibility": "Sehr hoch. Der Name ist breit bekannt und in Deutschland klar präsent, mit starker historischer und religiöser Anschlussfähigkeit."
+}

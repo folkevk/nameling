@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "Bedeutungen wie „die Bewundernswerte“ bzw. „die Wundervolle“",
+    "italienische Form bzw. Nähe zu Mireille/Mirabella",
+    "provenzalisch/okzitanischer Ursprung",
+    "schöner Klang und gefälliges Schriftbild",
+    "Namenstag im Mai",
+    "in Deutschland bekannt, aber eher selten"
+  ],
+  "confidence": 0.89,
+  "display_text": "Mirella wird meist positiv wahrgenommen: klangvoll, elegant und international. In Deutschland ist der Name bekannt, aber eher seltener, und wird vor allem mit schönen Bedeutungen sowie einem gefälligen Klang verbunden.",
+  "evidence_quality": "gut: zwei einschlägige Namensquellen mit direkter Namensdiskussion, überwiegend positive und relativ konsistente Angaben zu Herkunft, Bedeutung und Klangwirkung.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Mirella",
+  "normalized_name": "mirella",
+  "overall_resonance": "Überwiegend positiv: Mirella wird in den vorliegenden Namensquellen als klangvoll, schön und etymologisch ansprechend beschrieben. Die Rezeption wirkt eher elegant und international geprägt, mit klaren Bezügen zu italienisch/französischen bzw. provenzalischen Namensformen.",
+  "practical_notes": [
+    "Für Suchmaschinen eignet sich eine kurze Einordnung als „klangvoll, international und eher selten, aber bekannt“.",
+    "Die öffentliche Wahrnehmung wirkt eher stilistisch als alltagssprachlich geprägt.",
+    "Falls gewünscht, kann man den Namen als weich und elegant zusammenfassen, ohne ihn als modisch-häufig zu beschreiben."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist insgesamt gut, basiert aber auf wenigen Namenslexikon-Quellen.",
+    "Hinweise auf Seltenheit/Ungewöhnlichkeit sind Beschreibungselemente und keine Bewertung der Trägerinnen.",
+    "Keine belastbaren Hinweise auf soziale Stigmatisierung in den Quellen."
+  ],
+  "short_summary": "Mirella wirkt in der öffentlichen Rezeption überwiegend positiv: ein klangvoller, eleganter und eher seltener Vorname mit italienisch/französischem bzw. provenzalischem Hintergrund.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "positive",
+      "source_type": "web",
+      "title": "Vorname Mirella � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/M/Mi/Mirella/"
+    },
+    {
+      "confidence": 0.92,
+      "is_name_discussion": true,
+      "sentiment": "mostly positive",
+      "source_type": "web",
+      "title": "&#9655; Vorname Mirella: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Mirella.html"
+    }
+  ],
+  "style_effect": [
+    "klangvoll",
+    "elegant",
+    "weiblich-weich",
+    "international",
+    "etwas selten/ungewöhnlich",
+    "namenskundlich positiv aufgeladen"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland gebräuchlich, aber eher nicht alltäglich; die Quellen deuten auf eine gewisse Bekanntheit bei gleichzeitig eher seltenerer Verwendung hin."
+}

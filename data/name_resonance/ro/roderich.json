@@ -1,0 +1,62 @@
+{
+  "associations": [
+    "Bedeutung im Sinn von „berühmter/ruhmreicher Herrscher“",
+    "althochdeutsche bzw. altsächsische Herkunft",
+    "selten in Deutschland",
+    "traditioneller und historischer Charakter",
+    "Namenstag am 13. März"
+  ],
+  "confidence": 0.78,
+  "display_text": "Roderich wirkt in der öffentlichen Wahrnehmung vor allem traditionell, historisch und selten. Die vorliegenden Quellen sind sachlich und lexikalisch; eine breite positive oder negative Diskussion ist nicht erkennbar. Insgesamt ergibt sich ein neutral-klassischer Eindruck mit altgermanischer Prägung.",
+  "evidence_quality": "Begrenzt: zwei sachliche Namenslexika, keine echte Diskussions- oder Kommentar-Evidenz; daher nur vorsichtige Einordnung möglich.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Roderich",
+  "normalized_name": "roderich",
+  "overall_resonance": "Roderich wirkt in der öffentlichen Wahrnehmung eher traditionell, historisch und namenskundlich geprägt. Die vorliegenden Quellen beschreiben den Namen sachlich als selten in Deutschland, mit altgermanischer Herkunft und einer Bedeutung im Sinn von „ruhmreicher“ oder „berühmter Herrscher“. Eine breite öffentliche Debatte oder starke emotionale Bewertung ist in der Evidenz nicht erkennbar.",
+  "practical_notes": [
+    "Gut geeignet, wenn ein klassisch-historischer Klang gewünscht ist.",
+    "Wirkt eher ungewöhnlich als modern oder modisch.",
+    "Der Name dürfte bei vielen eher als traditionsreich und markant auffallen.",
+    "Für eine starke öffentliche Trendbewertung ist die Datenlage zu dünn."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz für öffentliche Resonanz ist schwach, da vor allem Lexikon- und Namensartikel vorliegen.",
+    "Es gibt keine belastbaren Hinweise auf breite positive oder negative Alltagsbewertungen in der Quelle.",
+    "Die Beschreibung sollte nicht als gesellschaftliche Mehrheitsmeinung über Träger des Namens verstanden werden."
+  ],
+  "short_summary": "Roderich wird überwiegend sachlich, historisch und selten wahrgenommen. Die öffentliche Resonanz ist eher neutral-traditionell, bei schwacher Evidenzlage.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Roderich � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/R/Ro/Roderich/"
+    },
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Roderich: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Roderich.html"
+    }
+  ],
+  "style_effect": [
+    "traditionell",
+    "historisch",
+    "altgermanisch",
+    "sachlich",
+    "selten",
+    "namenskundlich",
+    "klassisch-ernst"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Eher gering bis mäßig sichtbar: Der Name erscheint vor allem in Namenslexika und Informationsseiten, nicht als häufig diskutierter Trendname. Die öffentliche Resonanz ist deshalb nur eingeschränkt abbildbar."
+}

@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "Koseform",
+    "Kurzform von Charlotte",
+    "Koseform von Carlotta",
+    "Bedeutung: die Freie",
+    "deutschsprachiger Vorname",
+    "selten bis eher selten",
+    "weiblicher Vorname",
+    "Namenstag 17. Juli"
+  ],
+  "confidence": 0.88,
+  "display_text": "Lotti wird überwiegend freundlich-neutral wahrgenommen: ein kurzer, verspielter und eher seltener Name mit Koseform-Charakter. Die vorhandene Evidenz ist vor allem lexikalisch, daher ist die Aussage über öffentliche Resonanz vorsichtig zu lesen.",
+  "evidence_quality": "mittel bis schwach: zwei einschlägige Namenslexika, aber kaum Hinweise auf breitere öffentliche Diskussion oder belastbare Resonanz außerhalb beschreibender Namenseinträge.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Lotti",
+  "normalized_name": "lotti",
+  "overall_resonance": "Lotti wird in den vorliegenden Quellen überwiegend sachlich und freundlich-neutral wahrgenommen. Der Name erscheint vor allem als liebevolle, eher seltene Kose- und Kurzform von Charlotte bzw. Carlotta.",
+  "practical_notes": [
+    "Für eine Namenssuche eignet sich Lotti als kurzer, charmant-kosenameartiger Name.",
+    "Wer einen deutlich formelleren Eindruck sucht, könnte Lotti als Spitz- oder Kurzform wahrnehmen statt als Vollform.",
+    "Die vorhandenen Quellen deuten auf einen eher unauffälligen, positiven Grundton ohne starke Kontroversen hin."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenzlage ist schwach für echte öffentliche Resonanz im Sinne breiter Diskussionen; vorhanden sind vor allem lexikalische Einträge.",
+    "Die Einschätzung stützt sich hauptsächlich auf Namensdatenbanken und Verzeichnisse, also eher beschreibende als meinungsstarke Quellen."
+  ],
+  "short_summary": "Lotti wirkt in den Quellen freundlich, verspielt und eher selten; die öffentliche Rezeption ist sachlich-neutral und vor allem als Koseform von Charlotte bzw. Carlotta geprägt.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Lotti � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/L/Lo/Lotti/"
+    },
+    {
+      "confidence": 0.95,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Lotti: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Lotti.html"
+    }
+  ],
+  "style_effect": [
+    "klingt verspielt und zart",
+    "wirkt kurz, modern und zugleich traditionell verwurzelt",
+    "hat einen familiären, kosenameartigen Charakter",
+    "wird eher als informell-innig denn als streng oder formell empfunden"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Eher selten bis selten im deutschsprachigen Raum; die öffentliche Sichtbarkeit wirkt begrenzt und wird vor allem durch Namenslexika und Nachschlageportale getragen, nicht durch breite Debatten oder starke Trenddiskussionen."
+}

@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "mehrere mögliche Namensursprünge",
+    "Bedeutungen wie „die Edle“",
+    "Bedeutungen wie „die Einsiedlerin“",
+    "Bedeutungen wie „die Hoffnungsvolle“",
+    "Mona Lisa als bekannte kulturelle Assoziation",
+    "in Deutschland als Mädchenname gelistet und bekannt"
+  ],
+  "confidence": 0.84,
+  "display_text": "Mona wirkt in Deutschland als kurzer, klassischer und gut bekannter Vorname. Die vorliegenden Quellen beschreiben den Namen überwiegend neutral bis positiv, mit Assoziationen wie „die Edle“ und Mona Lisa. Die Evidenz stammt jedoch vor allem aus Namenslexika, daher ist die Aussage zur öffentlichen Resonanz vorsichtig zu verstehen.",
+  "evidence_quality": "mittel: inhaltlich klare Namensquellen, aber kaum echte öffentliche Debatten- oder Social-Media-Evidenz",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Mona",
+  "normalized_name": "mona",
+  "overall_resonance": "Mona wird in den vorliegenden Quellen überwiegend als kurzer, klassischer und positiv bis neutral wahrgenommener Mädchenname beschrieben. Die öffentliche Resonanz wirkt eher bekannt und unkompliziert als auffällig oder polarisierend.",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt Mona insgesamt freundlich, klar und etabliert.",
+    "Der Name ist kurz und leicht auszusprechen, was oft als praktisch wahrgenommen wird.",
+    "Wegen der bekannten Kulturassoziation Mona Lisa kann der Name als vertraut und leicht wiedererkennbar erscheinen."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz zur öffentlichen Resonanz ist begrenzt, da beide Quellen überwiegend Namenslexika sind.",
+    "Mehrere mögliche Herleitungen und Bedeutungen werden genannt; das ist eher namenskundlich als ein Hinweis auf eine einheitliche öffentliche Wahrnehmung.",
+    "Eine erwähnte negative Nebenbedeutung im Italienischen sollte nicht verallgemeinert werden und ist für den deutschen Kontext nur eingeschränkt relevant."
+  ],
+  "short_summary": "Mona gilt in den Quellen als klassischer, kurzer und eher positiv besetzter Vorname mit bekannten kulturellen Assoziationen. Die öffentliche Resonanz wirkt in Deutschland überwiegend neutral bis freundlich, bei insgesamt begrenzter Evidenz.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Mona � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/M/Mo/Mona/"
+    },
+    {
+      "confidence": 0.89,
+      "is_name_discussion": true,
+      "sentiment": "positive",
+      "source_type": "web",
+      "title": "&#9655; Vorname Mona: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Mona.html"
+    }
+  ],
+  "style_effect": [
+    "kurz und prägnant",
+    "klassisch und vertraut",
+    "informativ-lexikalisch",
+    "eher zeitlos als modisch",
+    "leicht international anschlussfähig"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland ist der Name sichtbar und etabliert, ohne dass die Evidenz auf eine besonders starke gesellschaftliche Debatte hindeutet. Die Quellen sind jedoch vor allem Namenslexika und keine breite Diskussionsplattform."
+}

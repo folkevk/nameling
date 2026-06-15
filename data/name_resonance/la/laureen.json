@@ -1,0 +1,62 @@
+{
+  "associations": [
+    "lateinischer Ursprung",
+    "Lorbeer",
+    "Sieg",
+    "Ruhm",
+    "Ehre",
+    "weiblicher Vorname",
+    "englische bzw. amerikanische Form von Laura",
+    "Namensvariant in Deutschland",
+    "selten bis moderat vergeben"
+  ],
+  "confidence": 0.86,
+  "display_text": "Laureen wirkt in der öffentlichen Wahrnehmung überwiegend freundlich und modern. Der Name wird meist sachlich über Herkunft und Bedeutung eingeordnet, mit Assoziationen wie Lorbeer, Sieg und Ehre. Die Evidenz ist jedoch vor allem namenskundlich und nicht als breite öffentliche Debatte zu verstehen.",
+  "evidence_quality": "mittel bis schwach: gute namenskundliche Informationen, aber nur begrenzte öffentliche Resonanzdaten",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Laureen",
+  "normalized_name": "laureen",
+  "overall_resonance": "Laureen wird in den vorliegenden deutschsprachigen Namensquellen überwiegend freundlich und sachlich aufgenommen. Der Name wirkt modern, feminin und eher selten bis moderat vergeben, ohne starke öffentliche Kontroverse.",
+  "practical_notes": [
+    "Für Suchende wirkt Laureen als vertraut, aber nicht alltäglich.",
+    "Der Name wird meist als angenehm, klar und eher modern beschrieben.",
+    "Die Schreibweise kann als internationale Variante von Laura wahrgenommen werden."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt vor allem aus Namenslexika und Infoseiten, nicht aus einer breiten öffentlichen Debatte.",
+    "Aussagen zur Beliebtheit sollten vorsichtig gelesen werden, da sie je nach Quelle und Zeitraum variieren können."
+  ],
+  "short_summary": "Laureen wird in deutschen Namensquellen meist positiv-sachlich beschrieben: modern, feminin und eher selten bis moderat verbreitet.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Laureen � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/L/La/Laureen/"
+    },
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Laureen: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Laureen.html"
+    }
+  ],
+  "style_effect": [
+    "modern",
+    "weich klingend",
+    "international anmutend",
+    "elegant",
+    "eher selten als sehr häufig wahrgenommen"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Die Sichtbarkeit ist eher mittel bis gering: Es gibt klare Namenslexikon-Einträge und Beliebtheitsangaben, aber nur wenig Anzeichen für eine breite öffentliche Diskussion."
+}

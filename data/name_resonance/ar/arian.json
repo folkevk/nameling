@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "mehrere mögliche Herkunftsdeutungen",
+    "albanische und lateinische Bezüge",
+    "Bedeutungen wie „der Edle“, „der Reine“ oder „unser Gold“",
+    "Namenstag",
+    "Beliebtheit bzw. Einordnung in Namenslisten",
+    "mögliche Nähe zu Adrian/Aryan als Variantenbezug"
+  ],
+  "confidence": 0.78,
+  "display_text": "Arian wirkt online überwiegend positiv und informativ: ein moderner, international anschlussfähiger Vorname mit mehreren möglichen Herkunfts- und Bedeutungsdeutungen. Die Sichtbarkeit ist vorhanden, die Evidenz aber eher schwach bis mittel, weil sie vor allem aus Namensdatenbanken stammt.",
+  "evidence_quality": "mittel bis schwach: inhaltlich relevant, aber überwiegend aus Namensdatenbanken und gemischten Informationsquellen statt aus klaren öffentlichen Debatten",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Arian",
+  "normalized_name": "arian",
+  "overall_resonance": "Eher positiv und informativ wahrgenommen, mit klarer Namenslexikon-Prägung. Die öffentliche Rezeption wirkt überwiegend neutral bis freundlich, aber die Evidenz ist nicht sehr stark, da sie vor allem aus Namensdatenbanken und gemischten Redaktions-/Kommentarquellen stammt.",
+  "practical_notes": [
+    "Für Suchmaschinen-Nutzer ist Arian vor allem als gut dokumentierter Vorname sichtbar.",
+    "Die Wahrnehmung scheint eher positiv-kontextuell als kontrovers.",
+    "Wenn eine eindeutige Herkunft wichtig ist, sollte auf die Mehrdeutigkeit der Deutungen hingewiesen werden."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenzbasis ist schwach für echte öffentliche Resonanz, weil vor allem Namenslexika und Datenbanken vorliegen.",
+    "Einzelne Herleitungen und Deutungen sind nicht einheitlich belegt.",
+    "Die vorhandenen Quellen spiegeln eher Namenswissen als spontane öffentliche Meinungen wider."
+  ],
+  "short_summary": "Arian wird online überwiegend sachlich und eher positiv beschrieben: als moderner, international wirkender Vorname mit mehreren Herkunfts- und Bedeutungsdeutungen. Die öffentliche Resonanz ist sichtbar, aber die Evidenz ist eher lexikalisch als gesellschaftlich breit diskutiert.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Arian � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/A/Ar/Arian/"
+    },
+    {
+      "confidence": 0.84,
+      "is_name_discussion": true,
+      "sentiment": "gemischt bis leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Arian: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Arian.html"
+    }
+  ],
+  "style_effect": [
+    "klingt modern und zugleich vertraut",
+    "wirkt international anschlussfähig",
+    "hat eine sanfte, weiche Klangwirkung",
+    "wird oft sachlich-lexikalisch statt emotional bewertet",
+    "erscheint als aktueller, aber nicht extrem auffälliger Vorname"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Mittel: Der Name wird online sichtbar diskutiert, vor allem in Bezug auf Herkunft, Bedeutung, Namenstag und Beliebtheit in Deutschland. Eine breite öffentliche Debatte ist daraus jedoch nicht erkennbar."
+}

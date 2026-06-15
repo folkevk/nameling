@@ -1,0 +1,62 @@
+{
+  "associations": [
+    "lateinische Herkunft",
+    "abgeleitet von Priscus",
+    "Bedeutungen wie altehrwürdig/alt/ehrwürdig",
+    "selten in Deutschland",
+    "bekannt in Süddeutschland und der Schweiz",
+    "Namenstag am 18. Januar",
+    "weiblicher Vorname"
+  ],
+  "confidence": 0.78,
+  "display_text": "Priska ist in Deutschland eher selten und wirkt traditionsnah, klassisch und leicht markant. Die vorliegenden Quellen zeigen überwiegend eine sachliche bis eher positive Wahrnehmung, allerdings auf schmaler Evidenzbasis.",
+  "evidence_quality": "schwach bis mittel; wenige, überwiegend beschreibende Namensquellen mit begrenzter öffentlicher Breite",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Priska",
+  "normalized_name": "priska",
+  "overall_resonance": "Priska wirkt im deutschsprachigen Raum eher selten, traditionsnah und leicht markant. Die öffentliche Wahrnehmung in den vorliegenden Quellen ist überwiegend sachlich bis eher positiv, mit einem ruhigen, namenskundlichen Charakter.",
+  "practical_notes": [
+    "Der Name ist klar verständlich, aber nicht häufig.",
+    "Er kann als klassisch und eher ungewöhnlich zugleich wahrgenommen werden.",
+    "Die Aussprache ist im Deutschen in der Regel unproblematisch.",
+    "Für Suchmaschinen- und Namenskontext wirkt der Name besonders über Herkunft und Bedeutung interessant."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenzlage ist begrenzt: Es liegen vor allem einzelne Namenslexikon-Seiten vor.",
+    "Beliebtheits- und Regionalangaben können zeitlich und räumlich begrenzt sein.",
+    "Aussagen zur Wirkung beruhen auf Namensbeschreibungen, nicht auf breiter öffentlicher Meinungsforschung."
+  ],
+  "short_summary": "Priska wird in den Quellen als seltener, traditionsnaher Vorname mit lateinischer Herkunft und eher positiver, sachlicher Resonanz beschrieben.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.94,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Priska � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/P/Pr/Priska/"
+    },
+    {
+      "confidence": 0.92,
+      "is_name_discussion": true,
+      "sentiment": "eher positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Priska: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Priska.html"
+    }
+  ],
+  "style_effect": [
+    "traditionsbezogen",
+    "klassisch-altsprachlich",
+    "sachlich",
+    "eher selten",
+    "leicht markant"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland wird der Name als wenig verbreitet beschrieben; er ist eher regional bekannt und fällt durch seine Seltenheit etwas auf."
+}

@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "männlicher Vorname",
+    "englische Form von Denis",
+    "Herkunft über Dionysius/Dionysos",
+    "Bedeutung: dem Dionysos Geweihte",
+    "in Deutschland früher besonders populär",
+    "heute eher rückläufig",
+    "Namenstag am 3. und 9. Oktober"
+  ],
+  "confidence": 0.9,
+  "display_text": "Dennis: weithin bekannter Jungenname mit griechisch-mythologischem Ursprung. Die öffentliche Wahrnehmung ist überwiegend neutral bis gemischt; der Name wirkt vertraut, eher klassisch und etwas retro, war in Deutschland früher deutlich populärer und ist heute weniger trendig.",
+  "evidence_quality": "stark",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Dennis",
+  "normalized_name": "dennis",
+  "overall_resonance": "Dennis wirkt in der öffentlichen Namenswahrnehmung überwiegend vertraut und klar einordbar, zugleich aber eher als ein Name mit früherer Hochphase als als aktueller Trendname. Die Tonlage der vorliegenden Quellen ist insgesamt neutral bis gemischt.",
+  "practical_notes": [
+    "Gut bekannt und leicht aussprechbar.",
+    "Die Schreibweise ist etabliert und im deutschsprachigen Raum sofort verständlich.",
+    "Die Wahrnehmung kann je nach Altersgruppe eher an die 1990er/2000er erinnern als an einen aktuellen Modenamen."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Einzelne Nutzerkommentare in Namensportalen können persönliche Vorlieben widerspiegeln und sind nicht als allgemeine öffentliche Meinung zu verstehen.",
+    "Keine belastbaren Hinweise auf eine starke soziale Stigmatisierung in den Quellen; falls im Alltag Vorurteile auftreten, wären diese nicht aus der Evidenz ableitbar."
+  ],
+  "short_summary": "Dennis ist ein sehr bekannter, klassisch wirkender Jungenname mit griechisch-mythologischem Ursprung. Die Quellen zeichnen ihn überwiegend neutral bis gemischt und eher als früher populären, heute etwas rückläufigen Namen.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.99,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Dennis � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/D/De/Dennis/"
+    },
+    {
+      "confidence": 0.94,
+      "is_name_discussion": true,
+      "sentiment": "mixed",
+      "source_type": "web",
+      "title": "&#9655; Vorname Dennis: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Dennis.html"
+    }
+  ],
+  "style_effect": [
+    "informativ",
+    "klassisch-vertraut",
+    "zeittypisch",
+    "leicht retro",
+    "umgangssprachlich bekannt"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "hoch"
+}

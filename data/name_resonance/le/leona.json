@@ -1,0 +1,59 @@
+{
+  "associations": [
+    "„die Löwin“",
+    "lateinische und altgriechische Herkunft",
+    "weibliche Form von Leon",
+    "Verwandtschaft zu Leo",
+    "Namenstag",
+    "beliebt in Deutschland"
+  ],
+  "confidence": 0.89,
+  "display_text": "Leona wirkt in Deutschland überwiegend positiv und modern: ein klangvoller, weiblicher Vorname mit der bekannten Bedeutung „die Löwin“ und einer Verbindung zu Leon/Leo.",
+  "evidence_quality": "gut für eine vorsichtige Namensbeschreibung, aber vor allem lexikalisch und nicht sozialwissenschaftlich breit belegt",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Leona",
+  "normalized_name": "leona",
+  "overall_resonance": "Leona wird in der verfügbaren Evidenz überwiegend positiv und modern wahrgenommen. Der Name wirkt vertraut, klangvoll und wird häufig mit der Bedeutung „die Löwin“ sowie mit einer weiblichen Form von Leon in Verbindung gebracht.",
+  "practical_notes": [
+    "Für Suchmaschinen-Nutzer ergibt sich ein insgesamt positives, leicht klassisch-modern wirkendes Namensbild.",
+    "Der Name ist gut einordbar und leicht mit bekannten Kurzformen und Namensverwandten verknüpft."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt aus namenkundlichen Lexikon- und Infoseiten und ist daher eher beschreibend als breit gesellschaftlich gemessen.",
+    "Beliebtheitsaussagen sollten vorsichtig gelesen werden, da keine direkte repräsentative Umfrage vorliegt."
+  ],
+  "short_summary": "Leona wird in den vorliegenden Quellen überwiegend positiv, modern und klangvoll dargestellt, mit der starken Assoziation zur „Löwin“.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "Vorname Leona � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/L/Le/Leona/"
+    },
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Leona: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Leona.html"
+    }
+  ],
+  "style_effect": [
+    "modern",
+    "klangvoll",
+    "elegant",
+    "weiblich",
+    "kraftvoll",
+    "zeitgemäß"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland ist Leona als bekannter Vorname sichtbar und wirkt eher zeitgemäß als selten. Die Quellen beschreiben ihn als beliebt bzw. geläufig, ohne starke Gegentendenzen."
+}

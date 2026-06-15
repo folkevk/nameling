@@ -1,0 +1,59 @@
+{
+  "associations": [
+    "weiblicher Vorname",
+    "hawaiische und/oder altpersische Deutungen",
+    "Bedeutung im Sinn von \"die Göttliche Strahlende\" oder \"die Königliche\"",
+    "Namenstag in den Quellen genannt",
+    "in Deutschland als bekannt bzw. beliebt beschrieben"
+  ],
+  "confidence": 0.73,
+  "display_text": "Kiana wirkt in den vorliegenden deutschen Namensquellen überwiegend positiv: modern, weich klingend und mit wohlwollenden Bedeutungen verknüpft. Die Herkunft wird unterschiedlich erklärt, und die öffentliche Evidenz ist begrenzt, daher ist die Einschätzung vorsichtig zu lesen.",
+  "evidence_quality": "Begrenzt bis mittel: zwei Namensportale mit positiver bis leicht positiver Tendenz, aber keine breite Datenbasis oder öffentliche Debatte.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Kiana",
+  "normalized_name": "kiana",
+  "overall_resonance": "Überwiegend positiv bis neutral. Kiana wird in den vorliegenden Namensquellen als moderner, weiblicher Vorname mit angenehmer Klangwirkung und klarer Namensbedeutung beschrieben. Die öffentliche Resonanz wirkt eher wohlwollend als kontrovers, allerdings ist die Evidenz schmal.",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt Kiana freundlich, modern und gut merkbar.",
+    "Wer Wert auf klare Herkunft legt, sollte wissen, dass die Deutungen je nach Quelle variieren.",
+    "Insgesamt gibt es derzeit keinen Hinweis auf eine negative gesellschaftliche Stigmatisierung des Namens in den vorliegenden Quellen."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz basiert fast nur auf einzelnen Namensseiten, nicht auf breiter öffentlicher Diskussion.",
+    "Die Herkunftsangaben sind teils uneinheitlich und sollten vorsichtig interpretiert werden.",
+    "Beliebtheitsaussagen stammen eher aus redaktionellen Namensdaten als aus unabhängiger öffentlicher Resonanz."
+  ],
+  "short_summary": "Kiana wird in den verfügbaren deutschen Namensquellen meist positiv, modern und klangvoll beschrieben. Die Herkunftsdeutungen variieren, und die Evidenz ist eher schmal.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "Vorname Kiana � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/K/Ki/Kiana/"
+    },
+    {
+      "confidence": 0.87,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Kiana: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Kiana.html"
+    }
+  ],
+  "style_effect": [
+    "weich und melodisch",
+    "modern und international wirkend",
+    "namenskundlich aufgeladen",
+    "eher selten als alltäglich wahrgenommen",
+    "positiv besetzt durch Bedeutungsdeutungen"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland wirkt der Name bekannt, aber nicht massenhaft verbreitet. Die Quellen beschreiben ihn als eher beliebt bzw. zumindest präsent, ohne dass eine breite öffentliche Debatte sichtbar wäre."
+}

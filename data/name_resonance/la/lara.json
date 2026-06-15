@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "weiblicher Vorname",
+    "römische bzw. griechische Mythologie",
+    "Lorbeerkranz / „die Lorbeerbekränzte“",
+    "Wassernymphe",
+    "Beliebtheit in Deutschland",
+    "Namenstag",
+    "kurze Spitznamenformen wie Lari oder Lala"
+  ],
+  "confidence": 0.92,
+  "display_text": "Lara gilt in der öffentlichen Namenswahrnehmung überwiegend als beliebter, freundlicher und zeitlos wirkender Mädchenname. Die Quellen verknüpfen ihn vor allem mit Herkunft aus Mythologie, der Bedeutung „die Lorbeerbekränzte“ und einer hohen Bekanntheit in Deutschland. Einzelne alternative Deutungen sind etymologische Varianten und sollten nicht als Eigenschaft einer Person gelesen werden.",
+  "evidence_quality": "gut; zwei klar namenskundliche, positive Quellen mit hoher Relevanz, aber ohne allgemeine Bevölkerungsstudie",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Lara",
+  "normalized_name": "lara",
+  "overall_resonance": "Überwiegend positiv und freundlich wahrgenommen, mit klarer Verankerung als kurzer, populärer Mädchenname im deutschen Sprachraum.",
+  "practical_notes": [
+    "Für Suchmaschinen und Namenslexika ist Lara sehr gut anschlussfähig, da der Name breit dokumentiert ist.",
+    "Die öffentliche Rezeption wirkt insgesamt unkompliziert und positiv, ohne auffällige Stigmatisierung.",
+    "Durch die Kürze und Bekanntheit funktioniert der Name in vielen Kontexten leicht und direkt."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Einzelne Deutungen zur Bedeutung variieren je nach Quelle; das ist bei Vornamen normal und kein Widerspruch.",
+    "Die Aussagen zur Wirkung des Namens beruhen auf Namenslexika und Beliebkeitsbeschreibungen, nicht auf einer breiten repräsentativen Umfrage.",
+    "Alternative Bedeutungen wie „die Gesprächige“ oder „die Geschwätzige“ sind etymologische Deutungen und sollten nicht als Charakteraussage verstanden werden."
+  ],
+  "short_summary": "Lara wird in den vorliegenden Quellen überwiegend positiv, populär und als kurzer, angenehm klingender Mädchenname beschrieben.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "Vorname Lara � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/L/La/Lara/"
+    },
+    {
+      "confidence": 0.94,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Lara: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Lara.html"
+    }
+  ],
+  "style_effect": [
+    "kurz und eingängig",
+    "modern bis zeitlos",
+    "namenskundlich gut anschlussfähig",
+    "eher weich und freundlich klingend",
+    "im öffentlichen Namenskontext häufig positiv bewertet"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "hoch"
+}

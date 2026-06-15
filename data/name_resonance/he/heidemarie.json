@@ -1,0 +1,62 @@
+{
+  "associations": [
+    "Bedeutung wird als „die edle Geliebte“ bzw. als Verbindung von Heide und Marie/Maria beschrieben",
+    "deutsche Doppelform",
+    "althebräisch/althochdeutsche Bezüge in den Quellen",
+    "Namenstag",
+    "Spitznamen wie Heidi, Heide oder Mariechen",
+    "selten bzw. eher ungewöhnlich in aktuellen Statistiken"
+  ],
+  "confidence": 0.89,
+  "display_text": "Heidemarie wird meist als traditioneller, seltener deutscher Vorname wahrgenommen. Die Quellen beschreiben ihn sachlich mit positiver Namensbedeutung und vertrauten Kurzformen wie Heidi oder Mariechen. Eine breite öffentliche Debatte gibt es dazu kaum; die Evidenz ist eher begrenzt und vor allem namenskundlich.",
+  "evidence_quality": "mittel bis schwach: gute namenskundliche Treffer, aber nur wenige Quellen und keine breite öffentliche Diskussionsbasis",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Heidemarie",
+  "normalized_name": "heidemarie",
+  "overall_resonance": "Heidemarie wirkt öffentlich eher traditionell, deutsch und sachlich-positiv konnotiert, mit einem eher seltenen und heute ungewohnten Klang.",
+  "practical_notes": [
+    "Für Suchmaschinen oder Namenslexika ist der Name gut einordenbar und klar beschreibbar",
+    "Die Wahrnehmung ist eher nüchtern-traditionell als trendig",
+    "Wegen der Seltenheit kann der Name heute ungewohnt wirken, ohne deshalb negativ besetzt zu sein"
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist auf wenige Namensdatenbank-Seiten beschränkt und damit nur begrenzt repräsentativ",
+    "Kommentarreaktionen sind anekdotisch und können Einzelmeinungen überbetonen",
+    "Aus den Quellen lässt sich keine breite öffentliche Debatte ableiten"
+  ],
+  "short_summary": "Heidemarie wird überwiegend als traditioneller, seltener deutscher Vorname mit positiver Herkunftsbedeutung wahrgenommen; die Quellenlage ist jedoch begrenzt und vor allem lexikonartig.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.95,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Heidemarie � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/H/He/Heidemarie/"
+    },
+    {
+      "confidence": 0.91,
+      "is_name_discussion": true,
+      "sentiment": "gemischt",
+      "source_type": "web",
+      "title": "&#9655; Vorname Heidemarie: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Heidemarie.html"
+    }
+  ],
+  "style_effect": [
+    "traditionell",
+    "altdeutsch/deutsch",
+    "doppelförmig",
+    "klassisch",
+    "eher selten",
+    "formal bis bodenständig",
+    "leicht nostalgisch"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Der Name ist in Deutschland bekannt, aber nach den vorliegenden Quellen aktuell eher selten bis wenig verbreitet. Die öffentliche Präsenz wirkt vor allem lexikalisch und namenskundlich, nicht breit gesellschaftlich diskutiert."
+}

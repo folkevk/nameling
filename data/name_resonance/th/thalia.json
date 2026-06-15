@@ -1,0 +1,62 @@
+{
+  "associations": [
+    "griechische Mythologie",
+    "Muse der komischen Dichtung",
+    "die Blühende",
+    "altgriechische Herkunft",
+    "Beliebtheit in Deutschland",
+    "Namenslexikon/Hitliste",
+    "assoziative Nähe zur Buchhandelskette"
+  ],
+  "confidence": 0.79,
+  "display_text": "Thalia wirkt in der öffentlichen Wahrnehmung überwiegend positiv bis neutral: klangvoll, mythologisch und elegant. Die Evidenz ist jedoch eher begrenzt und stammt vor allem aus Namenslexika statt aus breiter Diskussion.",
+  "evidence_quality": "mittel bis schwach; vor allem informative Namensseiten, wenig direkte öffentliche Diskussion",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Thalia",
+  "normalized_name": "thalia",
+  "overall_resonance": "Thalia wird in den vorliegenden Quellen überwiegend positiv bis neutral wahrgenommen. Der Name wirkt für viele vor allem klangvoll, mythologisch und bildungsnah; die öffentliche Rezeption ist eher von Namensbedeutung und Herkunft als von kontroversen Bewertungen geprägt.",
+  "practical_notes": [
+    "Der Name ist gut bekannt, ohne stark polarisierend zu wirken.",
+    "Die Bedeutung und mythologische Herkunft sind zentrale positive Anker in der Wahrnehmung.",
+    "Für eine öffentliche Namenssuche eignet sich Thalia als eher elegante, angenehme und unverfängliche Wahl."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist insgesamt eher schwach und seitengebunden; echte öffentliche Debatten sind kaum sichtbar.",
+    "Mehrere Quellen sind vor allem nachschlageorientiert und liefern Fakten statt breiter Meinungsbilder.",
+    "Die Verbindung zur Buchhandelskette kann die Wahrnehmung regional oder kulturell mitprägen, ist aber keine allgemeine Eigenschaft des Namens."
+  ],
+  "short_summary": "Thalia wird meist als klangvoll, mythologisch und positiv besetzt wahrgenommen; die öffentliche Resonanz ist eher informativ als kontrovers.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.86,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "Vorname Thalia � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/T/Th/Thalia/"
+    },
+    {
+      "confidence": 0.92,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Thalia: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Thalia.html"
+    }
+  ],
+  "style_effect": [
+    "klangvoll",
+    "elegant",
+    "mythologisch",
+    "modern-klassisch",
+    "eher weich und freundlich",
+    "bildungssprachlich assoziiert"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Die Sichtbarkeit ist moderat: Der Name erscheint in Namensverzeichnissen und Beliebtheitskontexten, aber die Evidenz für breite öffentliche Diskussion ist begrenzt. Vieles basiert auf informativen Seiten statt auf echter, vielfältiger Resonanz."
+}

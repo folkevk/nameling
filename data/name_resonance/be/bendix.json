@@ -1,0 +1,62 @@
+{
+  "associations": [
+    "friesische und niederdeutsche Form von Benedikt",
+    "Bedeutung: „der Gesegnete“",
+    "lateinische Herkunft",
+    "selten in Deutschland",
+    "Namenstag",
+    "Kurzformen wie Ben, Benny, Bene",
+    "mögliche Verwechslung mit Benedikt oder Benedix"
+  ],
+  "confidence": 0.83,
+  "display_text": "Bendix: eher selten, traditionsnah und freundlich konnotiert. In den verfügbaren Quellen wird der Name vor allem als friesisch/niederdeutsche Form von Benedikt mit der Bedeutung „der Gesegnete“ beschrieben. Die öffentliche Resonanz wirkt insgesamt neutral bis leicht positiv, wobei die Evidenz vor allem aus Namenslexika stammt und daher nur begrenzt die breite Wahrnehmung abbildet.",
+  "evidence_quality": "mittel bis schwach: zwei überwiegend lexikalische Quellen, teils mit kurzen Community-Elementen; gute Namensinformation, aber wenig echte öffentliche Diskurs-Evidenz.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Bendix",
+  "normalized_name": "bendix",
+  "overall_resonance": "Vorsichtig positiv bis neutral: Bendix wird in den verfügbaren Namensquellen vor allem als seltener, traditionsnaher Vorname mit freundlicher Bedeutung beschrieben.",
+  "practical_notes": [
+    "Für Suchmaschinen und Namensportale wirkt Bendix klar, freundlich und eigenständig.",
+    "Die Wahrnehmung ist eher informativ als emotional geprägt.",
+    "Wegen der Seltenheit kann der Name als besonders oder markant empfunden werden."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist insgesamt schwach für echte öffentliche Resonanz, weil vor allem Namenslexika und keine breite Diskussionslage vorliegen.",
+    "Eine gewisse Verwechslungsgefahr mit ähnlichen Namen ist möglich.",
+    "Aus der Seltenheit lässt sich keine soziale Bewertung ableiten."
+  ],
+  "short_summary": "Bendix wird in den Quellen als seltener, norddeutsch/friesisch geprägter Vorname mit positiver Bedeutung beschrieben. Die öffentliche Resonanz wirkt eher neutral bis freundlich, bei insgesamt begrenzter Evidenz.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Bendix � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/B/Be/Bendix/"
+    },
+    {
+      "confidence": 0.91,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Bendix: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Bendix.html"
+    }
+  ],
+  "style_effect": [
+    "selten",
+    "norddeutsch/friesisch wirkend",
+    "traditionsnah",
+    "kurz und markant",
+    "freundlich-konnotiert",
+    "leicht ungewöhnlich"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Eher geringe öffentliche Sichtbarkeit in Deutschland; der Name erscheint in erster Linie in Namenslexika und eher selten in diskursiven oder breiten öffentlichen Kontexten."
+}

@@ -1,0 +1,65 @@
+{
+  "associations": [
+    "altdeutsch",
+    "germanische Wurzeln",
+    "„der berühmte Krieger“ / „der glorreiche Kämpfer“",
+    "historisch etabliert",
+    "königlich",
+    "Heilige",
+    "klassisch",
+    "traditionell",
+    "Namenstag",
+    "Spitznamen"
+  ],
+  "confidence": 0.92,
+  "display_text": "Ludwig wirkt öffentlich überwiegend positiv und klassisch. Der Name wird als historisch etabliert, traditionsreich und eher würdevoll wahrgenommen; die Quellen betonen vor allem Herkunft, Bedeutung und die altdeutsch-herrschaftliche Wirkung. Breite Alltagsmeinungen sind im Material kaum enthalten, daher ist die Einordnung vorsichtig zu lesen.",
+  "evidence_quality": "Gut für Herkunft, Bedeutung und stilistische Einordnung; begrenzt für echte öffentliche Breitenwahrnehmung.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Ludwig",
+  "normalized_name": "ludwig",
+  "overall_resonance": "Überwiegend positiv bis neutral-klassisch",
+  "practical_notes": [
+    "Für Namenssuchende dürfte Ludwig als seriös, vertraut und traditionsreich wahrgenommen werden.",
+    "Der Name ist eher zeitlos als trendig und kann als bewusst klassisch gelesen werden.",
+    "Kurzformen oder Spitznamen kommen vor, stehen aber nicht im Mittelpunkt der öffentlichen Darstellung."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt vor allem aus redaktionellen Namensseiten; breite öffentliche Meinungen sind im Auszug kaum sichtbar.",
+    "Die genannten Bedeutungs- und Stilassoziationen sind Namensdeutungen, keine objektiven Eigenschaften.",
+    "Keine Hinweise auf klare soziale Stigmatisierung im Material."
+  ],
+  "short_summary": "Ludwig wird im deutschsprachigen Raum überwiegend positiv und klassisch wahrgenommen: ein historisch etablierter, traditionsreicher Name mit würdevoller, eher altdeutscher Anmutung.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.95,
+      "is_name_discussion": true,
+      "sentiment": "positive",
+      "source_type": "web",
+      "title": "Vorname Ludwig � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/L/Lu/Ludwig/"
+    },
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Ludwig: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Ludwig.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "traditionell",
+    "historisch etabliert",
+    "eher würdevoll als verspielt",
+    "leicht herrschaftlich/altdeutsch",
+    "stabil und vertraut"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Der Name wirkt im deutschsprachigen Raum gut bekannt und klar verortet, mit eher traditioneller als modischer öffentlicher Wahrnehmung."
+}

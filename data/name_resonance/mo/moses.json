@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "althebräische und altägyptische Herkunft",
+    "biblische Figur und Tradition",
+    "Bedeutung rund um ‚aus dem Wasser gerettet‘ bzw. ‚herausziehen‘",
+    "Namenstag und Namenskunde",
+    "selten in Deutschland",
+    "mehrsprachige Varianten und Spitznamen"
+  ],
+  "confidence": 0.88,
+  "display_text": "Moses wird öffentlich meist als seltener, traditionsreicher und biblisch geprägter Vorname wahrgenommen. Die Resonanz ist überwiegend neutral bis leicht positiv; im Vordergrund stehen Herkunft, Bedeutung und kulturelle Bekanntheit, nicht ein moderner Trendcharakter.",
+  "evidence_quality": "mittel bis gut: zwei klare Namenslexika mit konsistenten Angaben, aber nur begrenzte echte Resonanzhinweise aus dem öffentlichen Diskurs.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Moses",
+  "normalized_name": "moses",
+  "overall_resonance": "Der Vorname Moses wird in der öffentlichen Wahrnehmung überwiegend sachlich, traditionell und klar biblisch eingeordnet. Er wirkt eher selten als alltäglich und wird meist mit Herkunft, Bedeutung und Namenskunde verbunden. Die Tendenz ist neutral bis leicht wertschätzend, ohne starke moderne Trendwirkung.",
+  "practical_notes": [
+    "Geeignet für Menschen, die einen bekannten, kulturell aufgeladenen und zugleich seltenen Namen suchen.",
+    "Durch die Seltenheit kann Moses sofort erkennbar und prägnant wirken.",
+    "Die Aussprache und Schreibweise sind meist unkompliziert, die historische/biblische Verbindung ist aber sehr präsent.",
+    "Für eine Namenssuche ist der Name vor allem dann interessant, wenn Tradition und Eigenständigkeit wichtig sind."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist vor allem lexikalisch und damit nur begrenzt aussagekräftig für echte Alltagsresonanz.",
+    "Es gibt keine starken Hinweise auf negative öffentliche Stigmatisierung in den vorliegenden Quellen.",
+    "Aussagen zur Wirkung bleiben vorsichtig, da keine breit angelegte Umfrage- oder Medienanalyse vorliegt."
+  ],
+  "short_summary": "Moses gilt in Deutschland als seltener, klar biblisch geprägter Vorname mit sachlich-positiver, traditionsnaher Wahrnehmung.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Moses � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/M/Mo/Moses/"
+    },
+    {
+      "confidence": 0.79,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Moses: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Moses.html"
+    }
+  ],
+  "style_effect": [
+    "biblisch und traditionsnah",
+    "lexikalisch/informativ",
+    "selten, dadurch markant",
+    "international bzw. mehrsprachig anschlussfähig",
+    "eher klassisch als modisch"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland eher selten und daher auffällig, aber gut bekannt durch die biblische Tradition. Die Sichtbarkeit entsteht vor allem über die kulturelle und religiöse Bedeutung, nicht über starke Popularität im Alltag."
+}

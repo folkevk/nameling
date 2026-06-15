@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "deutsche und skandinavische Form von Susanna",
+    "Bedeutung: Lilie bzw. Wasserlilie",
+    "biblischer Name",
+    "selten in Deutschland",
+    "bekannt im deutschsprachigen Raum",
+    "Namenstag-Referenzen",
+    "Kurzformen wie Susi oder Sanni"
+  ],
+  "confidence": 0.82,
+  "display_text": "Susann wirkt überwiegend sachlich-neutral bis leicht positiv: klassisch, biblisch geprägt und in Deutschland eher selten. Die Evidenz ist vor allem namenskundlich und nur begrenzt geeignet, echte öffentliche Meinungen abzubilden.",
+  "evidence_quality": "mittel bis schwach für öffentliche Resonanz; gut für Herkunft, Bedeutung und Namensgebrauch, aber begrenzt für echte Meinungsbilder.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Susann",
+  "normalized_name": "susann",
+  "overall_resonance": "Überwiegend sachlich-neutral mit leicht positiver, klassisch-traditioneller Anmutung. Die verfügbare Evidenz deutet eher auf Namenskunde und seltene, aber bekannte Verwendung als auf starke öffentliche Debatten hin.",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt Susann vertraut, klassisch und unkompliziert.",
+    "Die Wahrnehmung ist eher neutral bis freundlich, ohne starke Modetrend-Zuordnung.",
+    "Wegen der Seltenheit in Deutschland kann der Name zugleich individuell und bodenständig wirken."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz basiert vor allem auf Namensdatenbanken und lexikalischen Beschreibungen, nicht auf breit erhobenen öffentlichen Meinungen.",
+    "Einzelne Community-Kommentare sind nur begrenzt belastbar und sollten nicht verallgemeinert werden."
+  ],
+  "short_summary": "Susann wird überwiegend neutral bis leicht positiv wahrgenommen: ein klassischer, biblisch geprägter und eher seltener Vorname mit freundlicher, zeitloser Wirkung.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Susann � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/S/Su/Susann/"
+    },
+    {
+      "confidence": 0.86,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Susann: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Susann.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "biblisch-traditionell",
+    "sprachlich klar",
+    "eher zeitlos",
+    "leicht freundlich",
+    "namenskundlich etabliert"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland eher selten und daher öffentlich nicht sehr präsent, aber als etablierte deutsche Form von Susanna klar einordbar."
+}

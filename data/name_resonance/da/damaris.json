@@ -1,0 +1,62 @@
+{
+  "associations": [
+    "biblische Tradition",
+    "griechische Herkunft",
+    "weiblicher Vorname",
+    "seltene Verwendung in Deutschland",
+    "Namenstag",
+    "Spitznamen wie Dami oder Maris"
+  ],
+  "confidence": 0.84,
+  "display_text": "Damaris wird überwiegend positiv und sachlich wahrgenommen: ein seltener, biblisch-griechisch geprägter Vorname mit klassischer, eher eleganter Wirkung. Die Quellenlage ist allerdings begrenzt und basiert vor allem auf Namenslexika.",
+  "evidence_quality": "Begrenzt: zwei vorwiegend lexikalische Quellen mit überwiegend sachlicher bis leicht positiver Tonlage; keine breite öffentliche Meinungsbasis.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Damaris",
+  "normalized_name": "damaris",
+  "overall_resonance": "Damaris wirkt in der vorliegenden Evidenz überwiegend positiv und sachlich: ein eher seltener, biblisch und griechisch geprägter Vorname mit klarer, namenskundlicher Einordnung. Die öffentliche Wahrnehmung scheint eher freundlich-interessiert als stark emotional aufgeladen zu sein.",
+  "practical_notes": [
+    "Für eine Namenssuche ist Damaris gut als seltener, traditionell wirkender Vorname positionierbar.",
+    "Der Name ist klanglich klar und markant, ohne stark polarisierend zu wirken.",
+    "Wegen der geringen Alltagsverbreitung kann er als individuell wahrgenommen werden."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist nur auf zwei Namenslexikon-/Namensseiten gestützt; echte breite öffentliche Meinungsdaten fehlen.",
+    "Positive Einordnungen stammen teils aus redaktionellen Beschreibungen und sind nicht als repräsentative Umfrage zu verstehen.",
+    "Die Bedeutungsangaben variieren leicht je nach Quelle; das spricht für vorsichtige Formulierung statt eindeutiger Festlegung."
+  ],
+  "short_summary": "Damaris wird in den Quellen überwiegend positiv und sachlich als seltener, biblisch-griechischer Vorname beschrieben. Die öffentliche Resonanz wirkt eher klassisch und freundlich als trendig; belastbare breite Meinungsdaten sind jedoch nicht vorhanden.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Damaris � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/D/Da/Damaris/"
+    },
+    {
+      "confidence": 0.94,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Damaris: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Damaris.html"
+    }
+  ],
+  "style_effect": [
+    "biblisch",
+    "klassisch",
+    "selten",
+    "elegant",
+    "namenskundlich",
+    "traditionsnah",
+    "weich klingend"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland eher selten bis mäßig bekannt; dadurch nicht sehr alltäglich, aber gut einordenbar. Die Sichtbarkeit in der öffentlichen Namenswahrnehmung ist eher mittel bis niedrig."
+}

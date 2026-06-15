@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "Variante von Lukas",
+    "niederländische bzw. holländische Schreibweise",
+    "altgriechische Herkunft",
+    "Bedeutung in Richtung „der Glänzende“ bzw. „hell/weiß“",
+    "kurzer, moderner Vorname",
+    "seltenere Nutzung in Deutschland"
+  ],
+  "confidence": 0.79,
+  "display_text": "Luuk wird meist als kurzer, moderner und eher seltener Name mit niederländisch-internationalem Klang wahrgenommen. Die Resonanz ist überwiegend positiv bis neutral, die Datenlage aber vor allem aus Namensportalen gespeist.",
+  "evidence_quality": "mittel bis schwach: zwei einschlägige Namenslexika/Infoseiten, aber kaum echte öffentliche Debatte oder unabhängige Breitenwahrnehmung erkennbar.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Luuk",
+  "normalized_name": "luuk",
+  "overall_resonance": "Luuk wird öffentlich meist sachlich bis eher positiv wahrgenommen: als kurze, moderne und eher seltene Variante von Lukas mit niederländischem Klang. Die vorhandene Evidenz ist überwiegend lexikalisch-namenskundlich und enthält nur begrenzt echte öffentliche Diskussion.",
+  "practical_notes": [
+    "Für eine Namenssuchmaschine eignet sich die Einordnung als kurzer, moderner und eher seltener Jungenname.",
+    "Die Schreibweise mit Doppel-k kann auffallen und als bewusst international wahrgenommen werden.",
+    "Bei der Interpretation sollte man beachten, dass die Quellen eher beschreibend als diskussionsbasiert sind."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz basiert vor allem auf Vorname-Portalen, nicht auf breiter öffentlicher Meinungsbildung.",
+    "Positive Wirkung kann auch aus der Kürze und Seltenheit resultieren; das ist keine allgemeingültige Bewertung.",
+    "Keine Hinweise auf eine starke soziale Stigmatisierung in den vorliegenden Quellen."
+  ],
+  "short_summary": "Luuk wirkt in der öffentlichen Namenswahrnehmung eher modern, kurz und leicht international, mit überwiegend positiver bis neutraler Resonanz. Die Evidenz ist jedoch eher lexikalisch als diskussionsbasiert.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Luuk � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/L/Lu/Luuk/"
+    },
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Luuk: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Luuk.html"
+    }
+  ],
+  "style_effect": [
+    "kurz und prägnant",
+    "modern wirkend",
+    "international/niederländisch assoziiert",
+    "selten, dadurch markant",
+    "namenskundlich klar einordenbar"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Mittlere Sichtbarkeit in deutschen Namensportalen; in der breiteren Öffentlichkeit eher bekannt, aber nicht alltäglich. Die Datenlage wirkt insgesamt schmal und stark von wenigen Infoseiten geprägt."
+}

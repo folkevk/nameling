@@ -1,0 +1,63 @@
+{
+  "associations": [
+    "lateinischer Ursprung",
+    "dem Jupiter geweiht",
+    "Gens Iulia / römischer Familienname",
+    "beliebt in Deutschland",
+    "Namenstag",
+    "international bekannt",
+    "klassischer Mädchenname",
+    "Shakespeare-Bezug über Romeo und Julia"
+  ],
+  "confidence": 0.9,
+  "display_text": "Julia hat in Deutschland eine überwiegend positive, eher klassische Resonanz. Der Name gilt als etabliert, international bekannt und stilistisch zeitlos. Die vorliegenden Quellen sind vor allem beschreibende Namenslexika; echte öffentliche Meinungsresonanz ist daher nur begrenzt direkt belegbar.",
+  "evidence_quality": "Gut für Herkunft, Beliebtheit und allgemeine Einordnung; nur mäßig stark für echte öffentliche Meinungsresonanz, da vor allem Namenslexikon- und Portalquellen vorliegen.",
+  "generated_at": "2026-06-12T06:08:03Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Julia",
+  "normalized_name": "julia",
+  "overall_resonance": "Überwiegend positiv bis neutral. Julia wird in den vorliegenden Namensquellen als klassisch, etabliert und international bekannt beschrieben; die öffentliche Wahrnehmung wirkt eher wertschätzend als kontrovers.",
+  "practical_notes": [
+    "Für Suchmaschinen und Namensprofile ist Julia ein sehr anschlussfähiger, breit verständlicher Name.",
+    "Die Wirkung ist eher klassisch und freundlich als experimentell oder exotisch.",
+    "Die Quellenlage ist solide für Herkunft und Einordnung, aber begrenzt für echte Meinungsresonanz im Alltag."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt vor allem aus Namenslexika und Portalseiten, also eher aus beschreibender als aus frei geäußerter öffentlicher Meinung.",
+    "Es gibt keine belastbaren Hinweise auf gesellschaftliche Stigmatisierung oder kontroverse Nebenbedeutungen in den vorliegenden Quellen.",
+    "Einzelne Formulierungen der Quellen können werblich oder wertend sein; daher nur vorsichtig als Resonanz lesen."
+  ],
+  "short_summary": "Julia wird in Deutschland überwiegend positiv und klassisch wahrgenommen: bekannt, etabliert, international geläufig und sprachlich unauffällig.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "positive",
+      "source_type": "web",
+      "title": "Vorname Julia � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/J/Ju/Julia/"
+    },
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Julia: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Julia.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "zeitlos wirkend",
+    "weiblich und klar zugeordnet",
+    "international verständlich",
+    "lexikalisch gut anschlussfähig",
+    "eher elegant als auffällig"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Sehr hoch. Der Name ist in Deutschland gut bekannt und in Namenslexika sowie Beliebtheitsübersichten präsent."
+}

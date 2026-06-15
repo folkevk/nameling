@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "gälisch/keltischer Ursprung",
+    "Bedeutung rund um 'Tal' bzw. 'Talbewohner'",
+    "englisch, schottisch, irisch geprägt",
+    "im Deutschen eher selten",
+    "teilweise als Unisex-Name beschrieben",
+    "in Datenbanken häufig als informativ und neutral eingeordnet"
+  ],
+  "confidence": 0.83,
+  "display_text": "Glenn wirkt in Deutschland überwiegend sachlich-neutral bis leicht positiv: international klingend, eher selten und mit gälisch-keltischem Namenshintergrund. Die öffentliche Debatte dazu ist klein, daher basiert die Einordnung vor allem auf Namensdatenbanken und sollte vorsichtig gelesen werden.",
+  "evidence_quality": "Begrenzt bis gut: klare namenskundliche Quellen, aber wenig breite общеностьsbezogene Evidenz und kaum unabhängige Rezeption.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Glenn",
+  "normalized_name": "glenn",
+  "overall_resonance": "Überwiegend sachlich-neutral mit leicht positiver, kultursprachlicher Anmutung. Der Name wirkt im deutschsprachigen Kontext bekannt, aber eher selten und nicht stark emotional aufgeladen.",
+  "practical_notes": [
+    "Für Suchende wirkt Glenn meist klar, international und gut aussprechbar.",
+    "Im deutschen Raum dürfte der Name eher auffallen, ohne exotisch zu wirken.",
+    "Da die öffentliche Resonanz dünn belegt ist, sollte die Einordnung als vorsichtige Tendenz verstanden werden."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt überwiegend aus wenigen Namensdatenbanken; die öffentliche Wahrnehmung ist daher nur begrenzt belastbar.",
+    "Keine Hinweise auf starke Stigmatisierung oder breite negative Zuschreibungen.",
+    "Einzelne positive Eindrücke aus Kommentaren sollten nicht verallgemeinert werden."
+  ],
+  "short_summary": "Glenn wird im deutschen Kontext vor allem sachlich und leicht positiv wahrgenommen: ein international klingender, eher seltener Name mit gälisch-keltischem Hintergrund.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Glenn � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/G/Gl/Glenn/"
+    },
+    {
+      "confidence": 0.94,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Glenn: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Glenn.html"
+    }
+  ],
+  "style_effect": [
+    "kurz und prägnant",
+    "international klingend",
+    "klassisch-nordisch/englisch wirkend",
+    "namenskundlich aufgeladen",
+    "eher modern als traditionell im deutschen Alltag"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Mäßige Sichtbarkeit: In Namensdatenbanken und Lexikoneinträgen gut dokumentiert, in der breiten öffentlichen Debatte jedoch kaum präsent."
+}

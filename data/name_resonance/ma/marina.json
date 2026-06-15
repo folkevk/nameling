@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "Meer",
+    "lateinischer Ursprung",
+    "„zum Meer gehörend“ / „aus dem Meer stammend“",
+    "weibliche Form von Marinus",
+    "internationaler Vorname",
+    "Namenstag",
+    "klassische Namenswirkung"
+  ],
+  "confidence": 0.95,
+  "display_text": "Marina: überwiegend positiv bis neutral. Der Name wirkt klassisch, weich und international verständlich und ist vor allem mit dem Meer und einem lateinischen Ursprung verbunden. Die öffentliche Rezeption ist eher sachlich und freundlich als stark trend- oder stigmabehaftet.",
+  "evidence_quality": "hoch für die namenskundliche Einordnung, begrenzt für eine breite öffentliche Meinungsbeschreibung",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Marina",
+  "normalized_name": "marina",
+  "overall_resonance": "Überwiegend positiv bis neutral, mit klarer, sachlicher Namenswahrnehmung.",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt Marina unkompliziert, international anschlussfähig und leicht verständlich.",
+    "Der Name trägt eine starke, angenehme Meeresassoziation und wird überwiegend neutral bis positiv wahrgenommen."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt vor allem aus Namenslexika; das Bild ist daher eher beschreibend als sozialwissenschaftlich belastbar.",
+    "Einzelne positive Nutzerstimmen sind vorhanden, sollten aber nicht als allgemeingültig verstanden werden."
+  ],
+  "short_summary": "Marina wird in Deutschland überwiegend als klassischer, freundlicher und international verständlicher Vorname mit Meeresbezug wahrgenommen.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Marina � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/M/Ma/Marina/"
+    },
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "positive",
+      "source_type": "web",
+      "title": "&#9655; Vorname Marina: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Marina.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "weiblich",
+    "international verständlich",
+    "weich und melodisch",
+    "namenskundlich geprägt",
+    "eher zeitlos als modisch"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Marina ist in Deutschland als bekannter, klassischer Vorname sichtbar und gut einordbar; die öffentliche Rezeption wirkt eher vertraut als auffällig."
+}

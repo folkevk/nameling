@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "Kurzform",
+    "niederländisch",
+    "althebräisch",
+    "keltisch/bretonisch",
+    "männlicher Vorname",
+    "selten bis moderat gebräuchlich in Deutschland",
+    "Namenstag: 13. Dezember"
+  ],
+  "confidence": 0.84,
+  "display_text": "Jos wirkt in Deutschland überwiegend neutral, kurz und namenkundlich interessant. Die vorliegenden Quellen sehen den Namen als eher seltene bis moderat gebräuchliche Kurzform mit internationaler Anmutung; klare positive oder negative öffentliche Wertungen sind nicht erkennbar.",
+  "evidence_quality": "mittel: zwei einschlägige Namenslexikon-Quellen, aber keine breite öffentliche Diskussionslage.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Jos",
+  "normalized_name": "jos",
+  "overall_resonance": "Die öffentliche Resonanz auf den Vornamen Jos in Deutschland wirkt überwiegend sachlich-neutral. In den vorliegenden Namenslexika wird Jos vor allem als kurze, eher seltene bis moderat gebräuchliche Kurzform mit niederländisch bzw. hebräisch/namenskundlichen Bezügen beschrieben. Eine klare positive oder negative Wertung ist in der Evidenz nicht erkennbar.",
+  "practical_notes": [
+    "Für Suchende wirkt Jos wie ein kurzer, klarer Vorname mit internationaler Note.",
+    "Die Schreibweise ist schlicht und leicht merkbar.",
+    "Die Quellen deuten auf eine eher nüchterne, namenkundliche Wahrnehmung hin, nicht auf einen stark trendigen oder stark polarisierten Namen."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist eher mittelstark bis begrenzt, da sie vor allem aus Namenslexika besteht und nicht aus freier öffentlicher Meinung.",
+    "Beliebtheitsangaben sind eher beschreibend als bewertend.",
+    "Es liegen keine belastbaren Hinweise auf soziale Stigmatisierung oder starke Negativassoziationen vor."
+  ],
+  "short_summary": "Jos wird in den Quellen überwiegend neutral und sachlich als kurzer, eher seltener Vorname mit niederländisch/hebräischen Bezügen beschrieben.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Jos � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/J/Jo/Jos/"
+    },
+    {
+      "confidence": 0.95,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Jos: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Jos.html"
+    }
+  ],
+  "style_effect": [
+    "kurz und knapp",
+    "lexikalisch",
+    "modern-klar",
+    "international anmutend",
+    "ungewöhnlich, aber nicht exzentrisch"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Eher niedrig bis mittel: Der Name ist bekannt, aber nicht breit alltagspräsent. In den Quellen erscheint er vor allem als namenkundlich interessanter Kurzname."
+}

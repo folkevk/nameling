@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "kornische bzw. walisisch-keltische Herkunft",
+    "Artussage / Gwenhwyfar",
+    "Bedeutungsfelder wie „weiße Fee“, „schönes Gesicht“ oder „weiße Wange“",
+    "in Deutschland zeitweise sehr beliebt, besonders ab den 1960er- bis 1980er-Jahren",
+    "Kurzformen wie Jenny oder Jenni"
+  ],
+  "confidence": 0.92,
+  "display_text": "Jennifer gilt öffentlich meist als klassischer, internationaler Mädchenname mit keltischer Herkunft. Die Rezeption ist überwiegend sachlich bis positiv; häufig genannt werden Bedeutung, Artussage-Bezug und die frühere Popularität in Deutschland. Die Evidenz ist solide, stammt aber vor allem aus Namenslexika.",
+  "evidence_quality": "gut bis sehr gut, aber überwiegend lexikalisch statt diskursiv",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Jennifer",
+  "normalized_name": "jennifer",
+  "overall_resonance": "Jennifer wird in der vorliegenden Evidenz überwiegend als klassischer, international bekannter Mädchenname mit klarer Namensgeschichte wahrgenommen. Die öffentliche Rezeption ist sachlich bis eher positiv, mit Fokus auf Herkunft, Bedeutung und früherer Popularität in Deutschland.",
+  "practical_notes": [
+    "Für viele wirkt der Name vertraut, gut aussprechbar und sofort als weiblicher Vorname erkennbar.",
+    "Die Resonanz ist eher historisch-populär als aktuell trendig.",
+    "Im deutschen Kontext kann der Name je nach Altersgruppe unterschiedlich altbekannt oder nostalgisch wirken."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt überwiegend aus Namenslexika, nicht aus breiter freier öffentlicher Diskussion.",
+    "Beliebtheit kann je nach Generation unterschiedlich wahrgenommen werden; das ist kein allgemeingültiges Urteil.",
+    "Keine Aussagen über Trägerinnen des Namens ableitbar."
+  ],
+  "short_summary": "Jennifer wird meist als vertrauter, klassischer und internationaler Mädchenname mit keltischer Herkunft und positiver, sachlicher Grundwahrnehmung beschrieben.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Jennifer � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/J/Je/Jennifer/"
+    },
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Jennifer: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Jennifer.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "international",
+    "weiblich",
+    "namenskundlich bekannt",
+    "zeitweise sehr populär",
+    "klingt vertraut und geläufig"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "hoch"
+}

@@ -1,0 +1,63 @@
+{
+  "associations": [
+    "hebräischer Ursprung",
+    "biblischer Name",
+    "Bedeutung: \"Gott beschütze\"",
+    "Bedeutung: \"der Fersenhalter\"",
+    "Namenstag",
+    "beliebt in Deutschland",
+    "klassischer Jungenname",
+    "traditionell"
+  ],
+  "confidence": 0.89,
+  "display_text": "Jakob wirkt im öffentlichen Namensbild überwiegend positiv: klassisch, traditionsreich und biblisch geprägt. Die vorliegende Evidenz beschreibt ihn als bekannten, beliebten und zeitlosen Jungenname im deutschen Kontext, ohne belastbare Hinweise auf negative Stigmatisierung.",
+  "evidence_quality": "gut für eine vorsichtige Namensbeschreibung, aber inhaltlich auf wenige lexikalische Webquellen beschränkt",
+  "generated_at": "2026-06-12T06:08:03Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Jakob",
+  "normalized_name": "jakob",
+  "overall_resonance": "Jakob wird in der vorliegenden Evidenz überwiegend positiv und klassisch wahrgenommen. Der Name wirkt traditionsreich, biblisch geprägt und im deutschen Kontext gut bekannt; die Resonanz ist eher informativ und wohlwollend als kontrovers.",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt Jakob vertraut, etabliert und unkompliziert.",
+    "Die Schreibweise ist schlicht und im deutschen Sprachraum sehr geläufig.",
+    "Die Wahrnehmung ist eher zeitlos als modisch."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt fast ausschließlich aus Namenslexikon-Seiten und ist daher begrenzt.",
+    "Es liegen keine belastbaren Hinweise auf negative gesellschaftliche Stigmatisierung vor."
+  ],
+  "short_summary": "Jakob wird überwiegend positiv, klassisch und traditionsreich wahrgenommen – ein vertrauter, biblisch geprägter Name mit guter Bekanntheit in Deutschland.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "Vorname Jakob � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/J/Ja/Jakob/"
+    },
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "überwiegend positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Jakob: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Jakob.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "traditionell",
+    "biblisch",
+    "seriös",
+    "zeitlos",
+    "namenskundlich",
+    "positiv konnotiert"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Im deutschsprachigen Raum sichtbar und vertraut, mit guter Wiedererkennbarkeit. Die Quellen beschreiben Jakob als beliebten, klassischen Jungenname mit etablierter Präsenz."
+}

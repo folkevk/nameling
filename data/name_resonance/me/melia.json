@@ -1,0 +1,58 @@
+{
+  "associations": [
+    "Bedeutungen wie „die Tapfere“, „die Tüchtige“ oder „die Arbeitende“",
+    "mögliche Herkunftsbezüge zu dänisch, französisch, spanisch sowie altgriechisch/althochdeutsch",
+    "Einordnung als Kurzform von Amelia oder Variante zu Melania",
+    "Namenstag wird in Namenslexika genannt",
+    "mögliche Schreibvariante: Meliah"
+  ],
+  "confidence": 0.83,
+  "display_text": "Melia wird in Deutschland überwiegend positiv und sachlich wahrgenommen: klangvoll, modern und zugleich vertraut. Die vorliegenden Quellen betonen vor allem Bedeutung, Herkunft und Beliebtheit; echte öffentliche Diskussion oder kritische Resonanz ist kaum sichtbar. Deshalb ist die Einschätzung vorsichtig zu lesen: eher freundlich etabliert als auffällig oder kontrovers.",
+  "evidence_quality": "mittel bis gut, aber quellenarm; überwiegend lexikalische Einträge mit wenig echter Meinungsvielfalt",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Melia",
+  "normalized_name": "melia",
+  "overall_resonance": "Überwiegend positiv und sachlich-namenskundlich; der Name wird in den vorliegenden Quellen eher als klangvoll und etabliert beschrieben als kontrovers diskutiert.",
+  "practical_notes": [
+    "Für Suchende ist Melia leicht verständlich und gut anschlussfähig an bekannte Namensformen.",
+    "Die Schreibweise ist relativ klar, kann aber mit ähnlichen Namen verwechselt werden.",
+    "In Deutschland dürfte der Name eher positiv auffallen, ohne sehr ungewöhnlich zu wirken."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt vor allem aus Namenslexika und nicht aus einer breiten öffentlichen Meinungsbasis.",
+    "Es sind kaum widersprüchliche oder kritische Stimmen in den Quellen erkennbar.",
+    "Aussagen zur Wirkung des Namens bleiben daher vorsichtig und beschreibend, nicht repräsentativ für die Gesamtbevölkerung."
+  ],
+  "short_summary": "Melia wird in den vorliegenden Quellen überwiegend positiv, modern und sachlich beschrieben. Die öffentliche Rezeption wirkt eher freundlich als kontrovers, basiert aber hauptsächlich auf Namenslexika.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.95,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "Vorname Melia � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/M/Me/Melia/"
+    },
+    {
+      "confidence": 0.9,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Melia: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Melia.html"
+    }
+  ],
+  "style_effect": [
+    "klingt weich und modern",
+    "wirkt zugleich vertraut und leicht eigenständig",
+    "wird oft informativ über Bedeutung und Herkunft eingeordnet",
+    "eher freundlich als markant-auffällig"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland wirkt Melia sichtbar, aber nicht massenhaft verbreitet; die Quellen ordnen den Namen als eher bekannt bzw. verbreitet ein, ohne breite öffentliche Debatte."
+}

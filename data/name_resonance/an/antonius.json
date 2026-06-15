@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "lateinischer Ursprung",
+    "römischer Geschlechtsname",
+    "Bedeutung: der Wertvolle / der Unschätzbare / der Preiswürdige",
+    "Namenstag am 17. Januar und 13. Juni",
+    "Spitznamen wie Toni oder Tony",
+    "selten bis mäßig verbreitet in Deutschland"
+  ],
+  "confidence": 0.72,
+  "display_text": "Antonius wird meist als klassischer, traditionsreicher und eher klangvoller Name wahrgenommen. Die verfügbare Evidenz ist allerdings begrenzt und stammt vor allem aus Namenslexika; eine breite öffentliche Bewertung lässt sich daraus nur vorsichtig ableiten.",
+  "evidence_quality": "mittel bis schwach; überwiegend Namenslexika und redaktionelle Beschreibungen, kaum direkte öffentliche Diskussion",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Antonius",
+  "normalized_name": "antonius",
+  "overall_resonance": "Antonius wird in der verfügbaren öffentlichen Namensinformation eher positiv bis neutral wahrgenommen: traditionell, klangvoll und mit klarer historischer/lassischer Einordnung. Die direkte öffentliche Resonanz ist jedoch nur schwach belegt, da die Quellen vor allem Namenslexikon- und Bedeutungsangaben enthalten.",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt Antonius eher seriös, klassisch und traditionsnah.",
+    "Wegen der Seltenheit kann der Name auffallen, bleibt aber gut einordenbar.",
+    "Kurzformen wie Toni oder Tony werden als alltagsnähere Varianten mitgedacht."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz zur öffentlichen Rezeption ist begrenzt; es handelt sich überwiegend um redaktionelle Namensseiten mit wenig unabhängiger Alltagsresonanz.",
+    "Die positive Einschätzung stammt teilweise aus kommentierenden oder lexikalischen Quellen und sollte nicht als breite Mehrheitsmeinung verstanden werden."
+  ],
+  "short_summary": "Antonius wirkt öffentlich eher klassisch, traditionsreich und leicht positiv besetzt, bei insgesamt schwacher Evidenz.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.91,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Antonius � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/A/An/Antonius/"
+    },
+    {
+      "confidence": 0.88,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Antonius: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Antonius.html"
+    }
+  ],
+  "style_effect": [
+    "traditionell",
+    "klassisch",
+    "historisch",
+    "eher selten",
+    "klangvoll",
+    "namenskundlich geprägt"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland eher selten bis mäßig verbreitet und dadurch vergleichsweise auffällig, aber nicht unbekannt."
+}

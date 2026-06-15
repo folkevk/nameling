@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "althebräische Herkunft",
+    "Bibel / Altes Testament",
+    "Richter Gideon",
+    "mögliche Bedeutung rund um Holzfällen/Zerstören",
+    "Namenstag",
+    "selten in Deutschland",
+    "deutsche Aussprache und Namenslexikon-Kontext"
+  ],
+  "confidence": 0.86,
+  "display_text": "Gideon wirkt in Deutschland überwiegend sachlich-informativ und leicht positiv: ein seltener, biblisch geprägter Vorname mit markantem, ernstem Klang.",
+  "evidence_quality": "mittel bis gut: zwei einschlägige Namenslexikon-Quellen mit überwiegend sachlicher, leicht positiver Resonanz; soziale Breite der Wahrnehmung nur begrenzt abgedeckt.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Gideon",
+  "normalized_name": "gideon",
+  "overall_resonance": "Überwiegend sachlich-informativ mit leicht positiver Tendenz; der Name wird eher als ungewöhnlich und markant wahrgenommen als als alltäglich.",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt Gideon klar, eigenständig und gut erinnerbar.",
+    "Die Seltenheit kann als Vorteil für Originalität wahrgenommen werden.",
+    "Der Name trägt eine starke religiös-historische Assoziation, was je nach Umfeld unterschiedlich wichtig sein kann."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt vor allem aus Namenslexika und Kommentarbereichen, nicht aus einer breiten öffentlichen Debatte.",
+    "Einzelne Kommentare sind subjektiv und nicht als allgemeine Meinung zu verstehen.",
+    "Die Deutung der Bedeutung kann je nach Quelle variieren; das sollte nicht überinterpretiert werden."
+  ],
+  "short_summary": "Gideon wird in Deutschland meist sachlich und positiv-konnotiert als seltener, biblisch geprägter Vorname wahrgenommen.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Gideon � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/G/Gi/Gideon/"
+    },
+    {
+      "confidence": 0.9,
+      "is_name_discussion": true,
+      "sentiment": "mixed",
+      "source_type": "web",
+      "title": "&#9655; Vorname Gideon: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Gideon.html"
+    }
+  ],
+  "style_effect": [
+    "biblisch-traditionell",
+    "selten bis ungewöhnlich",
+    "markant und ernst",
+    "informativ/namenkundlich",
+    "leicht klassisch-elitär wahrnehmbar"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Gideon ist in Deutschland eher selten, aber durch biblische und namenkundliche Kontexte bekannt. Die öffentliche Wahrnehmung wirkt dadurch eher nüchtern-lexikalisch als trendgetrieben."
+}

@@ -1,0 +1,69 @@
+{
+  "associations": [
+    "englische Koseform",
+    "Kurzform von Sandra, Alexandra oder Alexander",
+    "Unisex-Name",
+    "Bedeutungsbezüge wie Beschützer/Verteidiger",
+    "selten auch Bezug zu Sanford",
+    "Namenkundlich und belibtheitsbezogen diskutiert"
+  ],
+  "confidence": 0.86,
+  "display_text": "Sandy wirkt in Deutschland vor allem neutral und international: ein kurzer, einprägsamer Unisex-Name, der meist als Koseform oder Kurzform erklärt wird. Die Quellen sind überwiegend namenkundlich; eine starke positive oder negative öffentliche Debatte ist nicht erkennbar.",
+  "evidence_quality": "mittel bis gut; mehrere einschlägige Namensquellen, aber überwiegend lexikalisch statt diskursiv",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Sandy",
+  "normalized_name": "sandy",
+  "overall_resonance": "Sandy wird in den verfügbaren deutschsprachigen Quellen überwiegend sachlich und neutral wahrgenommen. Der Name erscheint als kurzer, international wirkender Unisex-Name mit klarer Namensbedeutung und Herkunftsbezügen, ohne starke positive oder negative öffentliche Bewertung.",
+  "practical_notes": [
+    "Für Suchmaschinen-Nutzer wirkt der Name vor allem klar, international und unkompliziert.",
+    "In Deutschland wird Sandy eher als seltener, aber verständlicher Vorname beschrieben.",
+    "Die Wahrnehmung scheint stärker von Herkunft und Namensform als von emotionaler Bewertung geprägt zu sein."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt vor allem aus Namenslexika und nicht aus freier öffentlicher Diskussion.",
+    "Öffentliche Resonanz zum Namen allein ist daher nur eingeschränkt abbildbar.",
+    "Keine belastbare Anzeichen für starke Stigmatisierung oder besondere Trenddynamik in den vorliegenden Quellen."
+  ],
+  "short_summary": "Sandy wird in den Quellen vor allem neutral, international und als Unisex-Koseform mit klarer Namensherkunft beschrieben.",
+  "source_count": 3,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Sandy � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/S/Sa/Sandy/"
+    },
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Sandy � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/S/Sa/Sandy/"
+    },
+    {
+      "confidence": 0.95,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Sandy: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Sandy.html"
+    }
+  ],
+  "style_effect": [
+    "informativ",
+    "lexikonartig",
+    "international",
+    "kurz und einprägsam",
+    "unisex-orientiert",
+    "bewertungsarm"
+  ],
+  "usable_evidence_count": 3,
+  "visibility": "mittel"
+}

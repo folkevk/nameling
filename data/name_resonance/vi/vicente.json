@@ -1,0 +1,58 @@
+{
+  "associations": [
+    "spanische und portugiesische Form von Vinzenz",
+    "lateinische Herkunft",
+    "Bedeutung: der Siegende / der Siegreiche",
+    "männlicher Vorname",
+    "Namenstag wird genannt",
+    "in Deutschland eher selten"
+  ],
+  "confidence": 0.9,
+  "display_text": "Vicente wirkt in Deutschland eher selten, aber klar und positiv anschlussfähig: ein männlicher Vorname mit spanisch-portugiesischer Form, lateinischer Herkunft und der Bedeutung „der Siegende“. Die vorliegende Evidenz ist solide für Bedeutung und Herkunft, aber nur begrenzt für eine breite öffentliche Resonanz.",
+  "evidence_quality": "Gut für Herkunft, Bedeutung und grundlegende Einordnung; mittel bis schwach für eine breite öffentliche Resonanz in Deutschland.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Vicente",
+  "normalized_name": "vicente",
+  "overall_resonance": "Vicente wird in den vorliegenden Quellen überwiegend sachlich und leicht positiv wahrgenommen. Der Name erscheint als klar als spanische bzw. portugiesische Form von Vinzenz mit traditionsreicher, lateinischer Herkunft und der Bedeutung „der Siegende“/„der Siegreiche“. In Deutschland wird er eher selten genannt, was ihn eher markant als alltäglich wirken lässt.",
+  "practical_notes": [
+    "Für Suchmaschinen- und Lexikon-Kontext ist Vicente gut anschlussfähig, weil Herkunft und Bedeutung klar sind.",
+    "In Deutschland dürfte der Name wegen seiner Seltenheit eher auffallen und als international gelesen werden.",
+    "Die Datenlage spricht eher für neutrale bis leicht positive Rezeption, nicht für eine starke Mainstream-Verbreitung."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die allgemeine öffentliche Resonanzbasis ist relativ schmal; die Aussagen stützen sich vor allem auf Namenslexika und nicht auf breite Alltagswahrnehmung.",
+    "Einzelne Spitznamen- oder Kommentarhinweise sind subjektiv und sollten nicht überinterpretiert werden."
+  ],
+  "short_summary": "Vicente wird überwiegend neutral bis leicht positiv und als seltener, internationaler Vorname mit spanisch-portugiesischer Herkunft wahrgenommen.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Vicente � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/V/Vi/Vicente/"
+    },
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Vicente: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Vicente.html"
+    }
+  ],
+  "style_effect": [
+    "klingt international und südeuropäisch",
+    "wirkt traditionsbezogen und klassisch",
+    "hat eine klare, namenkundlich gut erklärbare Herkunft",
+    "durch die Seltenheit in DE eher besonders als verbreitet"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Eher gering bis selten in Deutschland; die öffentliche Wahrnehmung in den Quellen ist daher begrenzt und nur vorsichtig verallgemeinerbar."
+}

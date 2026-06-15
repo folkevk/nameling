@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "deutsche Form von Edward",
+    "altenglischer Ursprung",
+    "Bedeutung: „Hüter des Besitzes“",
+    "klassisch und historisch etabliert",
+    "eher selten in Deutschland",
+    "Namenstag",
+    "Spitznamen/Kosenamen"
+  ],
+  "confidence": 0.82,
+  "display_text": "Eduard gilt als klassischer, traditionsreicher Vorname mit eher positiver, seriöser Wirkung. Er wird in Deutschland eher selten vergeben, ist aber klar historisch etabliert. Die verfügbare Evidenz ist vor allem namenkundlich und daher nur begrenzt repräsentativ für die öffentliche Gesamtwahrnehmung.",
+  "evidence_quality": "Begrenzt bis mittel: zwei überwiegend namenkundliche Webquellen, keine echte repräsentative öffentliche Debatte.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Eduard",
+  "normalized_name": "eduard",
+  "overall_resonance": "Überwiegend klassisch und eher positiv-konnotiert, aber die öffentliche Resonanz wirkt nicht sehr breit belegt.",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt Eduard solide, traditionsnah und wenig modisch.",
+    "Der Name hat klare historische und sprachliche Einordnung, was ihm Seriosität verleiht.",
+    "Wegen der eher geringen heutigen Häufigkeit kann er als markant, aber nicht ungewöhnlich wahrgenommen werden."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt vor allem aus Namenslexika und SEO-Namensseiten; das ist eher beschreibend als echte öffentliche Meinungsforschung.",
+    "Die positive Einordnung ist vorsichtig zu lesen, da nur wenige anekdotische Hinweise vorliegen.",
+    "Keine belastbare Aussage über eine breite gesellschaftliche Wahrnehmung möglich."
+  ],
+  "short_summary": "Eduard wird öffentlich meist als klassischer, traditionsreicher und eher positiv besetzter Vorname wahrgenommen. Die Evidenz ist jedoch vor allem lexikalisch; zur breiten Alltagsresonanz gibt es nur begrenzt Hinweise.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Eduard � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/E/Ed/Eduard/"
+    },
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Eduard: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Eduard.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "traditionell",
+    "namenskundlich",
+    "seriös",
+    "historisch"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Mittel: Der Name ist bekannt und historisch etabliert, wird in Deutschland aber eher als seltener wahrgenommen."
+}

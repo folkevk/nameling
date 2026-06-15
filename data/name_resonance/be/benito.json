@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "lateinische Herkunft",
+    "Bedeutung: „der Gesegnete“ / „der Gepriesene“",
+    "italienische und spanische Namensform von Benedikt",
+    "selten bis moderat vergeben in Deutschland",
+    "Namenstag",
+    "historische Namensassoziationen werden in den Quellen genannt, ohne dass daraus eine allgemeine öffentliche Bewertung folgt"
+  ],
+  "confidence": 0.84,
+  "display_text": "Benito wirkt in Deutschland eher selten, international und leicht positiv konnotiert. Die vorliegenden Quellen sind vor allem Namenslexika; eine starke öffentliche Debatte ist nicht erkennbar.",
+  "evidence_quality": "mittel bis schwach: zwei einschlägige Namenslexika mit klarer Namensbeschreibung, aber wenig direkte öffentliche Resonanz außerhalb dieser Informationsseiten.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Benito",
+  "normalized_name": "benito",
+  "overall_resonance": "Überwiegend neutral bis leicht positiv. Benito wird in den vorliegenden Quellen vor allem sachlich als seltener, klanglich markanter Vorname mit lateinisch-italienisch/spanischer Prägung beschrieben. Eine breite öffentliche Debatte ist in der Evidenz kaum erkennbar.",
+  "practical_notes": [
+    "Für die Namenssuche wirkt Benito eher individuell und international.",
+    "Im deutschen Umfeld ist der Name eher ungewöhnlich, aber gut verständlich.",
+    "Die Quellenlage spricht eher für neutrale Informationsresonanz als für ausgeprägte Trend- oder Kontroversencharakteristik."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz zur öffentlichen Resonanz ist schwach und stammt überwiegend aus Namenslexika statt aus echter Diskussion.",
+    "Historische politische Assoziationen werden in einer Quelle erwähnt; daraus lässt sich aber keine allgemeine Bewertung des Namens ableiten.",
+    "Keine belastbaren Hinweise auf starke Stigmatisierung oder breite negative Wahrnehmung in den vorliegenden Quellen."
+  ],
+  "short_summary": "Benito wird in den Quellen überwiegend neutral bis leicht positiv wahrgenommen: international klingend, selten und mit der Bedeutung „der Gesegnete“.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.94,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Benito � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/B/Be/Benito/"
+    },
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Benito: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Benito.html"
+    }
+  ],
+  "style_effect": [
+    "klingt international und mediterran",
+    "wirkt klassisch, aber nicht alltäglich",
+    "hat einen weichen, zugleich prägnanten Klang",
+    "wird eher als besonderer als als sehr häufiger Name wahrgenommen",
+    "wirkt in Namensportalen meist informativ und wertneutral"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Eher gering bis mittel: Der Name taucht in Namenslexika und Übersichtsseiten auf, wirkt im deutschen Kontext aber nicht stark verbreitet. Die öffentliche Wahrnehmung scheint daher eher punktuell als massenhaft."
+}

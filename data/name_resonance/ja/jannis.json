@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "häufig als Form von Johannes eingeordnet",
+    "Bedeutungen rund um „Gott ist gnädig“ / „Jahwe ist gnädig“",
+    "friesische, niederländische und griechische Bezüge",
+    "biblischer Hintergrund über Johannes",
+    "in Deutschland als gebräuchlicher Jungenname beschrieben",
+    "teilweise als schön, beliebt oder angenehm wahrgenommen"
+  ],
+  "confidence": 0.86,
+  "display_text": "Jannis wirkt in Deutschland überwiegend positiv und modern. Der Name wird vor allem namenskundlich eingeordnet, meist als Form von Johannes mit Bedeutungen wie „Gott ist gnädig“. Die verfügbare Evidenz ist ordentlich, aber vor allem aus redaktionellen Namensportalen; eine breite öffentliche Debatte ist kaum sichtbar.",
+  "evidence_quality": "Mittel: zwei einschlägige Namensquellen, überwiegend positiv, aber nur begrenzt unabhängige öffentliche Meinungsvielfalt.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Jannis",
+  "normalized_name": "jannis",
+  "overall_resonance": "Eher positiv und modern, mit klarer Namenslexikon-Prägung.",
+  "practical_notes": [
+    "Für Suchmaschinen-Nutzer wirkt Jannis unkompliziert, modern und gut einordnbar.",
+    "Der Name ist verständlich, klanglich klar und mit bekannten Herkunftsangaben verknüpft.",
+    "Die Resonanz erscheint stabil positiv, aber nicht besonders stark kontrovers oder gesprächig öffentlich sichtbar."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt fast vollständig aus Vornamen-Portalen und ist daher eher redaktionell als eine breite öffentliche Debatte.",
+    "Die positive Tendenz basiert vor allem auf Beschreibung, Beliebtheit und einzelnen Kommentaren; die Meinungsvielfalt ist begrenzt.",
+    "Keine belastbaren Hinweise auf soziale Stigmatisierung in der vorliegenden Evidenz."
+  ],
+  "short_summary": "Jannis wird in deutschen Namensquellen überwiegend positiv, modern und als gut verständlicher Jungenname mit biblisch-sprachlicher Herkunft beschrieben.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "Vorname Jannis � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/J/Ja/Jannis/"
+    },
+    {
+      "confidence": 0.89,
+      "is_name_discussion": true,
+      "sentiment": "eher positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Jannis: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Jannis.html"
+    }
+  ],
+  "style_effect": [
+    "modern",
+    "zeitgemäß",
+    "klar und freundlich",
+    "namenskundlich",
+    "kurz und prägnant",
+    "regional in Deutschland gut anschlussfähig"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Mittlere Sichtbarkeit in Namensdatenbanken und Vorname-Portalen; die öffentliche Resonanz wirkt eher informativ als breit diskutiert."
+}

@@ -1,0 +1,59 @@
+{
+  "associations": [
+    "Bedeutung: „Gott möge hinzufügen“ bzw. „Er (Gott) fügt hinzu“",
+    "weibliche Form von Josef/Josefa",
+    "spanischer Sprachraum, auch in Deutschland gebräuchlich",
+    "Kurzformen wie Fina, Josi, Josina",
+    "eher seltene, aber etablierte Namenswahl"
+  ],
+  "confidence": 0.88,
+  "display_text": "Josefina wirkt in den Quellen überwiegend neutral bis positiv: klassisch, weich und international geprägt. In Deutschland ist der Name eher selten, aber bekannt. Die Evidenz stammt jedoch vor allem aus Namenslexika, daher ist die Aussage zur öffentlichen Resonanz vorsichtig zu lesen.",
+  "evidence_quality": "mittel bis gut für Bedeutung, Herkunft und Einordnung; schwächer für öffentliche Resonanz außerhalb von Namenslexika",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Josefina",
+  "normalized_name": "josefina",
+  "overall_resonance": "Josefina wird in den vorliegenden Quellen vor allem sachlich-informativ und überwiegend neutral wahrgenommen. Der Name wirkt klassisch, weich und international anschlussfähig, mit klarer Einordnung als weibliche Form von Josef/Josefa.",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt Josefina gut verständlich, feminin und zeitlos.",
+    "Wer einen seltenen, aber nicht ungewohnten Namen mit internationaler Note sucht, findet hier eine passende Option.",
+    "Die Quellenlage ist solide für Bedeutung und Herkunft, aber begrenzt für echte öffentliche Meinungsbreite."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt fast ausschließlich aus Namenslexika; sie zeigt daher eher die Namensbeschreibung als eine breite öffentliche Alltagsresonanz.",
+    "Beliebtheitsaussagen beziehen sich auf den Namen selbst, nicht auf Wahrnehmungen von Trägerinnen.",
+    "Keine Hinweise auf eine belastende soziale Stigmatisierung in den Quellen."
+  ],
+  "short_summary": "Josefina wird überwiegend neutral und freundlich-sachlich beschrieben: klassisch, weiblich, international geprägt und in Deutschland eher selten.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Josefina � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/J/Jo/Josefina/"
+    },
+    {
+      "confidence": 0.94,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Josefina: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Josefina.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "elegant",
+    "weich im Klang",
+    "international/spanisch geprägt",
+    "namenskundlich vertraut"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland eher selten, aber bekannt; die Quellen beschreiben den Namen als historisch stärker vertreten und heute eher im unteren Bereich der Beliebtheit."
+}

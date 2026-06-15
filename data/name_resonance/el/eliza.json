@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "Kurzform von Elizabeth",
+    "hebräische bzw. biblische Herkunft",
+    "Bedeutungen wie 'Gott ist Fülle' oder 'mein Gott hat geschworen'",
+    "seltenere Schreibweise in Deutschland",
+    "Namenstag wird genannt",
+    "lexikalisch und informationsorientiert dargestellt"
+  ],
+  "confidence": 0.78,
+  "display_text": "Eliza wird in den vorliegenden Quellen überwiegend positiv und sachlich wahrgenommen: als internationale, elegante Kurzform von Elizabeth mit hebräisch-biblischen Bezügen. In Deutschland scheint der Name eher seltener zu sein, wirkt aber vertraut und modern. Die Evidenz ist mittelstark und stammt vor allem aus Namenslexika.",
+  "evidence_quality": "mittel",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Eliza",
+  "normalized_name": "eliza",
+  "overall_resonance": "Eliza wirkt in den vorliegenden deutschsprachigen Quellen überwiegend leicht positiv bis sachlich-informativ. Der Name wird meist als elegante, internationale Kurzform von Elizabeth beschrieben und mit biblisch-hebräischen Bedeutungen sowie einem eher seltenen, aber bekannten Vornamen in Deutschland verbunden.",
+  "practical_notes": [
+    "Für eine Namenssuche eignet sich Eliza als klarer, international verständlicher Name.",
+    "Die Schreibweise ist relativ eingängig, kann aber in Deutschland gelegentlich als seltener wahrgenommen werden.",
+    "Der Name hat eine eher freundliche, klassische und zugleich moderne Wirkung."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist insgesamt nur mittelstark und stützt sich auf wenige Namenslexika bzw. Verzeichnisse.",
+    "Einzelne Angaben zu Beliebtheit und Wahrnehmung sollten nicht als breite gesellschaftliche Meinung überinterpretiert werden.",
+    "Es liegen keine belastbaren Hinweise auf starke soziale Stigmatisierung vor."
+  ],
+  "short_summary": "Eliza wird in den Quellen überwiegend positiv und sachlich beschrieben: international, elegant und eher selten in Deutschland, ohne auffällige negative Konnotationen.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Eliza � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/E/El/Eliza/"
+    },
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Eliza: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Eliza.html"
+    }
+  ],
+  "style_effect": [
+    "elegant",
+    "international",
+    "klassisch-leicht",
+    "namenskundlich aufgeladen",
+    "eher selten, aber nicht fremd"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland scheint Eliza eher weniger häufig zu sein, wird aber dennoch als vertraut genug wahrgenommen, um in Namenslexika und Vornamensseiten regelmäßig aufzutauchen. Die öffentliche Sichtbarkeit ist damit eher moderat als breit verbreitet."
+}

@@ -1,0 +1,70 @@
+{
+  "associations": [
+    "griechische Mythologie",
+    "Moiren",
+    "Schicksal",
+    "Bestimmung",
+    "weiblicher Vorname",
+    "selten bis moderat in Deutschland",
+    "Namenstag",
+    "Herkunft aus dem griechisch-englisch/irisch-schottischen Namensraum"
+  ],
+  "confidence": 0.82,
+  "display_text": "Moira wirkt öffentlich überwiegend neutral bis leicht positiv: ein seltener, klangvoller Vorname mit griechischer Herkunft und der Assoziation zu Schicksal und Bestimmung. In Deutschland ist der Name eher selten bis moderat verbreitet; belastbare öffentliche Debatten dazu sind kaum vorhanden, daher ist die Evidenz insgesamt eher lexikalisch als community-basiert.",
+  "evidence_quality": "mittel bis schwach: klare Namensbelege, aber überwiegend lexikalische Quellen und kaum öffentliche Diskussion.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Moira",
+  "normalized_name": "moira",
+  "overall_resonance": "Überwiegend neutral bis leicht positiv. Moira wird öffentlich vor allem sachlich als weiblicher Vorname mit griechischer Herkunft und Bezug zu Schicksal/Bestimmung wahrgenommen; die verfügbare Evidenz wirkt aber eher lexikalisch als community-basiert.",
+  "practical_notes": [
+    "Für Suchmaschinen-Nutzer ist Moira vor allem ein Name mit klarer Herkunft und Bedeutung.",
+    "Die Wahrnehmung ist eher ruhig, kultiviert und wenig polarisierend.",
+    "Aufgrund der eher seltenen Verbreitung kann der Name als individuell empfunden werden.",
+    "Die Aussagekraft zur öffentlichen Resonanz bleibt begrenzt, weil kaum echte Meinungsvielfalt sichtbar ist."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt fast ausschließlich aus Namenslexika bzw. Datenbankseiten, nicht aus breiter öffentlicher Debatte.",
+    "Positive Eindrücke wie 'schön' oder wertschätzend sind nur begrenzt belastbar, da sie aus einzelnen Quellen stammen.",
+    "Es gibt keine klaren Hinweise auf gesellschaftliche Stigmatisierung oder negative Stereotype in der vorliegenden Evidenz."
+  ],
+  "short_summary": "Moira wird in Deutschland überwiegend neutral bis leicht positiv wahrgenommen: ein seltener, klangvoller Mädchenname mit griechischer Mythologie und der Bedeutung von Schicksal bzw. Bestimmung. Die Evidenz ist jedoch vor allem lexikalisch und damit nur eingeschränkt aussagekräftig.",
+  "source_count": 3,
+  "sources": [
+    {
+      "confidence": 0.95,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Moira � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/M/Mo/Moira/"
+    },
+    {
+      "confidence": 0.94,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Moira � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/M/Mo/Moira/"
+    },
+    {
+      "confidence": 0.89,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Moira: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Moira.html"
+    }
+  ],
+  "style_effect": [
+    "klingt klassisch und zugleich leicht eigenständig",
+    "wirkt bildhaft durch die mythologische Bedeutung",
+    "wird eher als elegant und zurückhaltend beschrieben als als modisch",
+    "durch die Seltenheit etwas markanter im Namensbild"
+  ],
+  "usable_evidence_count": 3,
+  "visibility": "In Deutschland eher selten bis moderat verbreitet und dadurch wahrnehmbar, aber nicht massenhaft präsent. Die öffentliche Sichtbarkeit entsteht vor allem über Namenslexika und Bedeutungsseiten."
+}

@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "weiblicher Vorname",
+    "hebräisch-biblische Herkunft",
+    "Bedeutung in Richtung „Gott füge hinzu“ / „er fügt hinzu“",
+    "Namenstag am 19. März",
+    "Kurzformen wie Josie, Josi, Jojo, Pepi"
+  ],
+  "confidence": 0.78,
+  "display_text": "Josepha wird überwiegend als klassischer, weiblicher und eher seltener Vorname mit positiver bis neutraler Wirkung wahrgenommen. Die Quellen betonen vor allem Herkunft, Bedeutung und Namenstag; eine breite öffentliche Debatte ist nicht erkennbar. Daher ist die Evidenz für echte Alltagsresonanz begrenzt.",
+  "evidence_quality": "begrenzt; überwiegend lexikalische Namensseiten mit wenig freier öffentlicher Debatte",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Josepha",
+  "normalized_name": "josepha",
+  "overall_resonance": "Josepha wird in den vorliegenden Quellen überwiegend als klassischer, weiblicher und eher selten gebrauchter Vorname mit klarer, positiver bis neutraler Namenswirkung beschrieben. Die öffentliche Rezeption wirkt vor allem sachlich-informativ statt stark emotional.",
+  "practical_notes": [
+    "Für die Namenssuche wirkt Josepha traditionell und zugleich individuell.",
+    "Der Name wird eher als vertraut-kulturell als modern-auffällig wahrgenommen.",
+    "Die vorhandenen Quellen deuten auf eine eher freundliche, unproblematische Wahrnehmung hin."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt fast nur aus Namenslexikon-Seiten, nicht aus breiten öffentlichen Diskussionen.",
+    "Die Datenlage zur tatsächlichen Alltagsresonanz ist daher begrenzt.",
+    "Beliebtheitsangaben sollten vorsichtig gelesen werden, da sie je nach Quelle und Zeitraum variieren können."
+  ],
+  "short_summary": "Josepha wirkt in den Quellen klassisch, weiblich und eher selten vergeben. Die Resonanz ist überwiegend positiv bis neutral, aber die Evidenz ist begrenzt und vor allem informativ-lexikalisch.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Josepha � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/J/Jo/Josepha/"
+    },
+    {
+      "confidence": 0.92,
+      "is_name_discussion": true,
+      "sentiment": "positive",
+      "source_type": "web",
+      "title": "&#9655; Vorname Josepha: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Josepha.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "namenskundlich",
+    "eher selten",
+    "elegant",
+    "traditionell",
+    "informativ"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "eher gering bis mittel"
+}

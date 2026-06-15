@@ -1,0 +1,62 @@
+{
+  "associations": [
+    "lateinische bzw. römische Herkunft",
+    "Patriziergeschlecht der Cornelier",
+    "Bedeutung im Sinn von Zugehörigkeit zum Geschlecht der Cornelier",
+    "mögliche Nebenassoziation mit „Horn“/„der Gehörnte“",
+    "biblische Erwähnung",
+    "Namenstag",
+    "selten bis mäßig verbreitet in Deutschland"
+  ],
+  "confidence": 0.83,
+  "display_text": "Kornelius: klassisch, traditionsnah und eher selten. Die öffentliche Wahrnehmung ist überwiegend neutral bis leicht positiv, stützt sich aber vor allem auf namenskundliche Quellen.",
+  "evidence_quality": "mittel bis schwach: zwei überwiegend namenskundliche Webquellen, wenig echte öffentliche Resonanz, kaum Meinungsvielfalt",
+  "generated_at": "2026-06-14T10:47:41Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Kornelius",
+  "normalized_name": "kornelius",
+  "overall_resonance": "Der Vorname Kornelius wirkt in der öffentlichen Wahrnehmung eher klassisch, traditionsnah und sachlich-informativ. Die verfügbare Evidenz deutet auf eine überwiegend neutrale bis leicht positive Resonanz hin, vor allem wegen Herkunft, Namenstag und der biblisch-lateinischen Einordnung.",
+  "practical_notes": [
+    "Für Suchmaschinen wirkt der Name eher stilvoll und traditionsorientiert als modern-verspielt.",
+    "Die Aussprache und Schreibweise sind klar und vertraut, der Name bleibt dennoch auffällig genug, um selten zu wirken.",
+    "Spitznamen-Varianten kommen vor, sind aber nicht zwingend gebräuchlich."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt fast vollständig aus Vornamensseiten und ist daher nur eingeschränkt repräsentativ für eine breite öffentliche Meinung.",
+    "Die Bedeutungsangabe mit „Horn“ kann je nach Lesart leicht missverständlich oder zwiespältig wirken, ohne dass daraus eine echte negative Bewertung folgt.",
+    "Es gibt keine belastbare breite Debatte oder starke soziale Zuschreibung zum Namen in den vorliegenden Quellen."
+  ],
+  "short_summary": "Kornelius wird in Deutschland meist als klassischer, historisch geprägter Vorname wahrgenommen. Die öffentliche Resonanz ist eher neutral bis leicht positiv, aber nur schwach belegt.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Kornelius � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/K/Ko/Kornelius/"
+    },
+    {
+      "confidence": 0.78,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Kornelius: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Kornelius.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "traditionsbewusst",
+    "historisch",
+    "sprachlich markant",
+    "eher formal",
+    "leicht biblisch-konnotiert"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland eher selten bis mäßig verbreitet und damit nicht sehr alltagspräsent. Öffentliche Diskussionen zum Namen wirken insgesamt begrenzt und vor allem namenskundlich geprägt."
+}

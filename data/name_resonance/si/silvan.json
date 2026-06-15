@@ -1,0 +1,62 @@
+{
+  "associations": [
+    "lateinische Herkunft",
+    "Wald",
+    "Waldbewohner",
+    "Kurzform von Silvanus",
+    "männlicher Vorname",
+    "Namenstag",
+    "selten bis moderat verbreitet"
+  ],
+  "confidence": 0.86,
+  "display_text": "Silvan wird in den Quellen überwiegend positiv und sachlich wahrgenommen: ein naturnaher, lateinisch geprägter Jungenname mit Bezug zu Wald und Silvanus. In Deutschland scheint er eher selten bis moderat verbreitet zu sein. Die Evidenz stammt vor allem aus Namensseiten, daher ist die Aussage zur öffentlichen Resonanz vorsichtig zu lesen.",
+  "evidence_quality": "mittel bis gut, aber thematisch eng und quellenarm",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Silvan",
+  "normalized_name": "silvan",
+  "overall_resonance": "Silvan wird in den vorliegenden Namensquellen überwiegend neutral bis positiv dargestellt. Der Name wirkt naturnah, klassisch und eher ruhig im Klang; die öffentliche Wahrnehmung dreht sich vor allem um Herkunft, Bedeutung und Beliebtheit, nicht um kontroverse Debatten.",
+  "practical_notes": [
+    "Für die Namenssuche ist Silvan ein klar einordenbarer, traditioneller Name mit Naturbezug.",
+    "Die Aussprache und Schreibweise sind unkompliziert.",
+    "Die Wirkung ist eher freundlich und zurückhaltend als auffällig oder modisch."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Datenlage basiert fast ausschließlich auf Namensseiten, nicht auf breiter öffentlicher Diskussion.",
+    "Beliebtheitsangaben können je nach Quelle variieren.",
+    "Einzelne Nutzerkommentare sind nur schwache Evidenz und sollten vorsichtig gewertet werden."
+  ],
+  "short_summary": "Silvan wird meist positiv und sachlich als naturnaher, lateinisch geprägter Jungenname mit Wald-Bezug beschrieben; die öffentliche Resonanz wirkt eher ruhig und wenig kontrovers.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.95,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Silvan � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/S/Si/Silvan/"
+    },
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Silvan: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Silvan.html"
+    }
+  ],
+  "style_effect": [
+    "naturnah",
+    "klassisch",
+    "ruhig",
+    "informativ",
+    "etymologisch geprägt",
+    "eher selten als massenhaft"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland wirkt Silvan eher selten bis moderat verbreitet und damit bekannt, aber nicht alltäglich. Die Evidenz bezieht sich vor allem auf Namenslexika und eine einzelne Namensseite; eine breite öffentliche Resonanz ist daraus nur eingeschränkt ableitbar."
+}

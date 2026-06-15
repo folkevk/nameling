@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "altisländisch",
+    "altnordisch",
+    "Kurzform von Edith/Edwina",
+    "italienische Form von Hedda",
+    "Bedeutungsbezüge wie „Segen“ oder „die Kämpferin“",
+    "Namenstag"
+  ],
+  "confidence": 0.84,
+  "display_text": "Edda wirkt in der öffentlichen Namenswahrnehmung kurz, traditionell und eher selten, aber vertraut. Die vorliegenden Quellen sind überwiegend sachlich bis positiv und betonen vor allem Herkunft, Bedeutung und Namenstag. Eine starke gesellschaftliche Stigmatisierung ist nicht erkennbar; die Evidenz beruht jedoch hauptsächlich auf Namensdatenbanken.",
+  "evidence_quality": "mittel bis gut: zwei einschlägige, namenskundliche Webquellen mit direkter Namensbeschreibung; jedoch kaum echte Diskussions- oder Breitenresonanzdaten.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Edda",
+  "normalized_name": "edda",
+  "overall_resonance": "Edda wird in den vorliegenden Quellen überwiegend sachlich bis positiv beschrieben. Der Name wirkt kurz, traditionell und eher selten, aber bekannt. Die öffentliche Wahrnehmung scheint vor allem von Herkunfts- und Bedeutungsangaben sowie von einer gewissen zeitlosen, nordisch/altsprachlichen Ausstrahlung geprägt zu sein.",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt Edda klar, knapp und gut einprägsam.",
+    "Die Quellen deuten auf eine freundliche, traditionelle Wahrnehmung ohne starke Kontroversen hin.",
+    "Wenn du eine sehr moderne oder trendige Wirkung suchst, ist Edda eher nicht die naheliegendste Wahl."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz basiert vor allem auf Namensdatenbanken und ist daher eher beschreibend als echte öffentliche Resonanz im Sinne von breiten Meinungen.",
+    "Es gibt keine belastbaren Hinweise auf eine negative gesellschaftliche Stigmatisierung in den Quellen.",
+    "Beliebtheitsangaben sollten vorsichtig gelesen werden, da sie je nach Quelle und Jahr variieren können."
+  ],
+  "short_summary": "Edda wird in den Quellen als kurzer, traditioneller und eher selten-aber-bekannter Name mit überwiegend positiver, sachlicher Resonanz dargestellt.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.92,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Edda � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/E/Ed/Edda/"
+    },
+    {
+      "confidence": 0.92,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Edda: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Edda.html"
+    }
+  ],
+  "style_effect": [
+    "kurz und prägnant",
+    "traditionell",
+    "altsprachlich/nordisch geprägt",
+    "eher selten, aber vertraut",
+    "zeitlos statt modisch"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland offenbar präsent und in Namenslisten bzw. Hitlisten verzeichnet, dabei aber nicht massenhaft verbreitet. Die öffentliche Sichtbarkeit wirkt eher solide als stark trendgetrieben."
+}

@@ -1,0 +1,59 @@
+{
+  "associations": [
+    "arabische Herkunft",
+    "Nebenform von Tariq",
+    "Bedeutungen rund um „der an die Tür klopft“ / „nächtlicher Besucher“",
+    "Verbindung zu Morgenstern bzw. Venus",
+    "bekannt aus Namenslexika",
+    "in Deutschland eher selten bis moderat"
+  ],
+  "confidence": 0.86,
+  "display_text": "Tarek wirkt in den vorliegenden Quellen sachlich bis leicht positiv: ein markanter Vorname mit arabischer Herkunft, klarer Bedeutung und eher seltener bis moderater Verbreitung in Deutschland. Die Evidenz ist vor allem lexikalisch; eine breite öffentliche Debatte ist nicht belegt.",
+  "evidence_quality": "mittel bis schwach: mehrere passende Namenslexikon-Quellen, aber kaum unabhängige öffentliche Reaktionen oder breite Diskussionsbelege",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Tarek",
+  "normalized_name": "tarek",
+  "overall_resonance": "Tarek wird in den vorliegenden Quellen überwiegend sachlich bis leicht positiv dargestellt. Die öffentliche Wahrnehmung wirkt vor allem durch Namenslexika geprägt, mit Fokus auf Herkunft, Bedeutung und einer als eher selten bis moderat beschriebenen Verbreitung in Deutschland. Eine breitere öffentliche Debatte ist in der Evidenz kaum sichtbar.",
+  "practical_notes": [
+    "Für Suchmaschinen eignet sich Tarek als klar erkennbarer, international anschlussfähiger Vorname.",
+    "Die Resonanz ist eher neutral bis freundlich; besondere Kontroversen sind in der Evidenz nicht erkennbar.",
+    "Wer einen seltenen, aber gut einordenbaren Namen sucht, findet hier eine eher stabile und unaufgeregte Wahrnehmung."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt fast ausschließlich aus Namenslexika; echte öffentliche Diskussionsdynamik ist kaum belegt.",
+    "Bewertungen zur Wirkung des Namens sollten nicht als allgemeingültig verstanden werden.",
+    "Keine Hinweise auf eine relevante Stigmatisierung in den vorliegenden Quellen."
+  ],
+  "short_summary": "Tarek wird in den Quellen meist sachlich und leicht positiv beschrieben: arabische Herkunft, klare Bedeutungsbezüge und in Deutschland eher selten bis moderat vergeben. Eine breite öffentliche Debatte ist kaum belegt.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.89,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Tarek � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/T/Ta/Tarek/"
+    },
+    {
+      "confidence": 0.92,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Tarek: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Tarek.html"
+    }
+  ],
+  "style_effect": [
+    "arabisch geprägt",
+    "klingt markant und modern",
+    "sachlich-informativ",
+    "eher selten bis moderat vergeben"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland offenbar bekannt, aber eher nicht stark massenmedial oder kontrovers präsent. Die Sichtbarkeit wirkt eher moderat und vor allem lexikalisch als gesellschaftlich diskutiert."
+}

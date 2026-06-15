@@ -1,0 +1,58 @@
+{
+  "associations": [
+    "altpersische bzw. iranisch-persische Herkunft",
+    "Bedeutung im Sinne von 'das Gute festhaltend' bzw. 'Inhaber des Guten'",
+    "Bezug zu Darius dem Großen",
+    "selten und ungewöhnlich in Deutschland",
+    "mögliche Anklänge an Meer/Ozean in einzelnen Quellen"
+  ],
+  "confidence": 0.86,
+  "display_text": "Dariush gilt in den vorliegenden Quellen als seltener, persisch/altpersisch geprägter Vorname mit traditionsreicher, eher wertschätzender Resonanz. Er wirkt eigenständig, international und eher ungewöhnlich als trendig.",
+  "evidence_quality": "mittel: zwei namenskundliche Webquellen, konsistente Angaben zu Herkunft, Bedeutung und Seltenheit, aber keine breite öffentliche Diskussionslage.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Dariush",
+  "normalized_name": "dariush",
+  "overall_resonance": "Der Name Dariush wird in den vorliegenden deutschen Namensquellen überwiegend sachlich bis leicht positiv beschrieben. Er wirkt markant, kulturhistorisch aufgeladen und eher ungewöhnlich als alltäglich.",
+  "practical_notes": [
+    "Für Suchmaschinen- oder Vornamenskontexte ist eine kurze Einordnung als seltener, persisch geprägter Name sinnvoll.",
+    "Die Schreibweise kann erklärungsbedürftig sein, wenn nur deutsche Standardnamen erwartet werden.",
+    "Ein Spitzname wie Dario wird in einzelnen Quellen erwähnt."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist begrenzt und stammt vor allem aus Namenslexika, nicht aus breiter öffentlicher Debatte.",
+    "Die positive Tönung ist eher informativ als ein eindeutiges Stimmungsbild.",
+    "Keine belastbaren Hinweise auf soziale Stigmatisierung in der vorliegenden Evidenz."
+  ],
+  "short_summary": "Dariush wird in Deutschland eher selten wahrgenommen und vor allem sachlich bis leicht positiv beschrieben: ein markanter, persisch geprägter Name mit traditionsreicher Herkunft.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.95,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Dariush � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/D/Da/Dariush/"
+    },
+    {
+      "confidence": 0.88,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Dariush: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Dariush.html"
+    }
+  ],
+  "style_effect": [
+    "klingt international und zugleich traditionsreich",
+    "wirkt durch die persisch/altpersische Herkunft besonders eigenständig",
+    "wird eher als namenskundlich interessant als trendig wahrgenommen",
+    "durch die Seltenheit eher individuell als mainstream"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland eher selten bis mäßig bekannt; dadurch fällt der Name auf, ist aber nicht stark massenhaft verbreitet."
+}

@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "Kurzform von Nikolaus",
+    "altgriechische Herkunft",
+    "Bedeutung: Sieg des Volkes",
+    "Namenstag-Bezug",
+    "männlicher Vorname",
+    "kompakt und schlicht"
+  ],
+  "confidence": 0.87,
+  "display_text": "Nik wirkt im deutschsprachigen Raum kurz, klar und freundlich-neutral. Die Quellen betonen vor allem die Bedeutung als Kurzform von Nikolaus sowie die Herkunft und den Namenstag. Für eine breite öffentliche Resonanz ist die Evidenz allerdings begrenzt, da sie vor allem aus Namenslexika stammt.",
+  "evidence_quality": "gut für Herkunft, Bedeutung und Namensmerkmale; begrenzt für echte öffentliche Resonanz, da die Quellen vor allem namenskundlich sind.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Nik",
+  "normalized_name": "nik",
+  "overall_resonance": "Nik wird in den vorliegenden Quellen überwiegend sachlich und positiv-konnotiert beschrieben: als kurze, klare Form mit traditionsnaher Herkunft und der Bedeutung „Sieg des Volkes“. Die öffentliche Wahrnehmung wirkt eher informativ als emotional oder kontrovers.",
+  "practical_notes": [
+    "Für Suchmaschinen- oder Namensprofile wirkt Nik kurz, klar und leicht merkbar.",
+    "Im deutschen Raum ist der Name gut verständlich und phonetisch unkompliziert.",
+    "Als Kurzform kann er je nach Kontext auch als informell oder modern wahrgenommen werden."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die verfügbare Evidenz stammt fast ausschließlich aus Namenslexika und nicht aus breiter öffentlicher Meinungsbildung.",
+    "Daher lassen sich nur vorsichtige Aussagen zur Resonanz treffen.",
+    "Keine belastbaren Hinweise auf soziale Stigmatisierung oder stark polarisierende Wahrnehmung in den Quellen."
+  ],
+  "short_summary": "Nik wird im Deutschen meist als kurze, sachliche und eher positiv konnotierte Form mit traditioneller Herkunft wahrgenommen.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.99,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Nik � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/N/Ni/Nik/"
+    },
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Nik: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Nik.html"
+    }
+  ],
+  "style_effect": [
+    "kurz",
+    "prägnant",
+    "modern wirkend",
+    "zugleich traditionell anschlussfähig",
+    "neutral bis freundlich",
+    "sprachlich unkompliziert"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Im deutschsprachigen Namenskontext ist Nik gut auffindbar und bekannt, wirkt aber eher als Kurz- bzw. Kurzformname als als sehr breit eigenständig etablierter Rufname. Die Evidenz zur öffentlichen Resonanz ist dabei vor allem lexikalisch und nicht breit gesellschaftlich."
+}

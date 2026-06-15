@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "Variante von Miriam",
+    "biblischer Name",
+    "hebräisch/ägyptische Herleitungen in Namensquellen",
+    "Bedeutungsfelder wie \"die Geliebte\"",
+    "Name mit Namenstag",
+    "im deutschen Sprachraum eher selten bis mittel verbreitet"
+  ],
+  "confidence": 0.9,
+  "display_text": "Myriam wirkt in der öffentlichen Namenswahrnehmung überwiegend positiv und neutral-sachlich: ein klassisch-biblischer, weich klingender Vorname mit eher seltener Verbreitung im deutschen Raum. Die Quellen beschreiben ihn vor allem als elegant, international und markant, ohne deutliche Kontroversen.",
+  "evidence_quality": "mittel bis stark, aber überwiegend aus einzelnen Namensseiten und ohne echte öffentliche Kontroverse",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Myriam",
+  "normalized_name": "myriam",
+  "overall_resonance": "Überwiegend positiv bis neutral: Myriam wird in Namenslexika meist als klangvoller, weiblicher und eher seltener Vorname mit biblisch-klassischer Wirkung beschrieben. Die öffentliche Wahrnehmung wirkt sachlich anerkennend, ohne starke Kontroversen.",
+  "practical_notes": [
+    "Für die Suche nach einem vertrauten, aber nicht häufigen Mädchennamen geeignet.",
+    "Wirkt im Deutschen meist unkompliziert lesbar und international verständlich.",
+    "Die Schreibweise Myriam kann als etwas seltener bzw. französisch geprägt wahrgenommen werden."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt fast nur aus Namenslexika und Verzeichnissen, nicht aus einer breiten öffentlichen Debatte.",
+    "Bedeutungsdeutungen sind teils gemischt und je nach Quelle unterschiedlich gewichtet.",
+    "Es gibt keinen Hinweis auf eine gesellschaftliche Stigmatisierung des Namens; daher keine entsprechende Zuschreibung ableitbar."
+  ],
+  "short_summary": "Myriam wird öffentlich meist freundlich und sachlich wahrgenommen: klassisch, biblisch, weich klingend und eher selten.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.95,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Myriam � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/M/My/Myriam/"
+    },
+    {
+      "confidence": 0.92,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Myriam: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Myriam.html"
+    }
+  ],
+  "style_effect": [
+    "französisch bzw. international anmutend",
+    "klassisch-biblisch",
+    "elegant und weich im Klang",
+    "selten bis auffällig",
+    "traditionsnah, aber nicht altmodisch"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Im deutschsprachigen Raum bekannt, aber eher selten bis mittel verbreitet; dadurch wirkt der Name eher markant als alltäglich."
+}

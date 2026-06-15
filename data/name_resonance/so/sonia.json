@@ -1,0 +1,64 @@
+{
+  "associations": [
+    "Weisheit",
+    "die Goldene",
+    "altgriechische Herkunft",
+    "sanskritische Herkunft",
+    "Variante von Sonja",
+    "Koseform von Sophia",
+    "international verbreitet",
+    "weiblich",
+    "Namenstag"
+  ],
+  "confidence": 0.77,
+  "display_text": "Sonia wird in der verfügbaren Evidenz eher positiv und sachlich wahrgenommen: klassisch, international und mit der Bedeutung „Weisheit“ verbunden. Für Deutschland wirkt der Name etabliert, aber nicht stark trenddominiert. Da die Quellen vor allem Namenslexika sind, ist die öffentliche Resonanz nur vorsichtig zu bewerten.",
+  "evidence_quality": "mittel bis schwach; überwiegend lexikalische Namensquellen, wenig echte öffentliche Diskussion",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Sonia",
+  "normalized_name": "sonia",
+  "overall_resonance": "Für Sonia zeigt die verfügbare Evidenz eine eher positive, sachlich-wohlwollende Namensresonanz. Der Name wird vor allem als international, klassisch und bedeutungsnah wahrgenommen, mit Bezügen zu „Weisheit“ und teils zu einer griechischen bzw. sanskritischen Herkunft. Die öffentliche Bewertung wirkt dabei eher beschreibend als diskutierend.",
+  "practical_notes": [
+    "Für eine Namenssuche in Deutschland wirkt Sonia gut verständlich und international anschlussfähig.",
+    "Die Schreibweise ist klar und im deutschsprachigen Raum ohne besondere Erklärung nutzbar.",
+    "Wenn eine stark moderne oder ausgefallene Wirkung gesucht wird, erscheint Sonia eher klassisch als experimentell."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist schwach für eine echte öffentliche Gesamtbewertung, da sie vor allem aus Namenslexika besteht.",
+    "Es liegen kaum freie Meinungsäußerungen oder alltagsnahe Diskurse vor.",
+    "Mögliche positive Eindrücke beruhen eher auf Bedeutungs- und Herkunftsdeutungen als auf breiter sozialer Resonanz."
+  ],
+  "short_summary": "Sonia wirkt im deutschen Kontext eher positiv, klassisch und international. Die Evidenz ist allerdings vor allem beschreibend und nur begrenzt geeignet, eine breite öffentliche Meinung abzuleiten.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.92,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Sonia � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/S/So/Sonia/"
+    },
+    {
+      "confidence": 0.94,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Sonia: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Sonia.html"
+    }
+  ],
+  "style_effect": [
+    "international",
+    "klassisch",
+    "kurz und klar",
+    "bildhaft durch Bedeutungsbezüge",
+    "eher freundlich als streng",
+    "lexikalisch-informativ"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland ist Sonia erkennbar, aber nicht massiv dominant; die öffentliche Sichtbarkeit wirkt eher solide und etabliert als trendstark. Die vorliegende Evidenz stammt überwiegend aus Namensdatenbanken, daher ist die Aussagekraft für echte breite Alltagswahrnehmung begrenzt."
+}

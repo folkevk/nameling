@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "niederdeutsche Form von Dietleib",
+    "althochdeutsche Herkunft",
+    "Bedeutung in Richtung „Sohn des Volkes“ bzw. „der im Volk Lebende“",
+    "Namenstag am 23. November",
+    "historisch etabliert",
+    "in Deutschland heute selten"
+  ],
+  "confidence": 0.89,
+  "display_text": "Detlef wirkt in der öffentlichen Wahrnehmung vor allem traditionell und namenkundlich klar verortet: alt-/niederdeutsche Herkunft, sachliche Bedeutung und heute eher seltene Nutzung in Deutschland. Die Resonanz ist überwiegend neutral bis leicht positiv, ohne deutliche gesellschaftliche Stigmatisierung.",
+  "evidence_quality": "mittel bis begrenzt: mehrere namenkundliche Quellen, aber keine breite soziale oder mediale Debatte.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Detlef",
+  "normalized_name": "detlef",
+  "overall_resonance": "Überwiegend sachlich-neutral bis leicht positiv; der Name wirkt traditionell, norddeutsch/altdeutsch geprägt und heute eher selten.",
+  "practical_notes": [
+    "Für Suchmaschinen wirkt Detlef klar einordbar und traditionsbezogen.",
+    "Der Name ist bekannt, aber im heutigen Alltag wenig präsent.",
+    "Die wahrgenommene Wirkung hängt stark vom Alterungs- und Traditionskontext ab; keine pauschale Aussage über Trägerinnen oder Träger ableiten."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist begrenzt und stützt sich vor allem auf Namenslexika bzw. eine einzelne Vornamenseite.",
+    "Es gibt keine belastbare öffentliche Debatte; die Einschätzung beruht eher auf lexikalischer Beschreibung als auf breiter Resonanz."
+  ],
+  "short_summary": "Detlef wird öffentlich vor allem als traditioneller, alt-/niederdeutscher Vorname mit klarer Herkunft und seltener heutiger Nutzung wahrgenommen.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Detlef � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/D/De/Detlef/"
+    },
+    {
+      "confidence": 0.91,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Detlef: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Detlef.html"
+    }
+  ],
+  "style_effect": [
+    "traditionell",
+    "bodenständig",
+    "altdeutsch",
+    "norddeutsch",
+    "klassisch",
+    "heute selten"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland eher geringe aktuelle Sichtbarkeit, aber als historischer bzw. namenkundlich bekannter Vorname gut verortet."
+}

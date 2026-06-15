@@ -1,0 +1,63 @@
+{
+  "associations": [
+    "italienische Form",
+    "lateinisch-römische Herkunft",
+    "Bedeutung mit Bezug zur Familie Ennia",
+    "männlicher Vorname",
+    "Namenstag",
+    "selten",
+    "Spitznamen Enni/Noni/Nono/Enno"
+  ],
+  "confidence": 0.76,
+  "display_text": "Ennio wird in der vorliegenden Evidenz überwiegend neutral bis leicht positiv wahrgenommen: als seltener, italienisch/lateinisch geprägter und stilvoll wirkender Vorname. Die Quellen betonen Herkunft, Bedeutung und Namenstag; eine breite öffentliche Debatte ist nicht erkennbar. Die Aussagekraft ist jedoch begrenzt, weil die Evidenz fast nur aus Namenslexika stammt.",
+  "evidence_quality": "Begrenzt: zwei überwiegend deskriptive Namenslexikon-Quellen, wenig echte öffentliche Diskussion, daher nur vorsichtige Einordnung möglich.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Ennio",
+  "normalized_name": "ennio",
+  "overall_resonance": "Der Vorname Ennio wird in der vorliegenden Evidenz überwiegend neutral bis leicht positiv wahrgenommen: als italienisch/lateinisch geprägter, eher seltener und stilvoll wirkender Name mit klarer Herkunft und Bedeutung. Eine breite öffentliche Debatte ist nicht erkennbar.",
+  "practical_notes": [
+    "Für die öffentliche Wahrnehmung zählen hier vor allem Herkunft, Klang und Seltenheit.",
+    "Der Name wirkt in den Quellen unkompliziert, international anschlussfähig und klar männlich codiert.",
+    "Eine belastbare Einschätzung zur tatsächlichen Alltagsresonanz in Deutschland ist mit dieser Evidenz nur eingeschränkt möglich."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist schwach und stammt fast nur aus Namenslexika statt aus breiter öffentlicher Diskussion.",
+    "Positive Stilassoziationen sollten als Eindruck der Quellen und nicht als allgemeingültige Eigenschaft verstanden werden.",
+    "Keine Hinweise auf soziale Stigmatisierung in der vorliegenden Evidenz."
+  ],
+  "short_summary": "Ennio wirkt in Deutschland eher selten, italienisch geprägt und stilvoll; die vorhandene Evidenz ist jedoch schmal und hauptsächlich lexikalisch-deskriptiv.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Ennio � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/E/En/Ennio/"
+    },
+    {
+      "confidence": 0.91,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Ennio: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Ennio.html"
+    }
+  ],
+  "style_effect": [
+    "italienisch",
+    "klassisch",
+    "kulturell geprägt",
+    "eher selten",
+    "stilvoll",
+    "leicht edel wirkend",
+    "kurz und prägnant"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland offenbar eher bekannt als seltener Vorname; die Sichtbarkeit wirkt vor allem über Namenslexika und Namensportale, nicht über eine große öffentliche Diskussion."
+}

@@ -1,0 +1,69 @@
+{
+  "associations": [
+    "weiblicher Vorname",
+    "gotisch/westgotische Herkunft",
+    "Bedeutung mit Bezug auf Lebhaftigkeit/Wahrheit bzw. Erhabenheit",
+    "Namenstag",
+    "Mozart-Oper Don Giovanni",
+    "kurze Koseformen wie Elli, Elvi, Elly, Vivi"
+  ],
+  "confidence": 0.87,
+  "display_text": "Elvira wirkt in Deutschland überwiegend klassisch und freundlich-sachlich. Der Name ist bekannt, aber eher selten, und wird vor allem mit traditioneller Herkunft, Namenstag und einem leicht nostalgischen Stil verbunden. Die Evidenz ist allerdings begrenzt und stammt hauptsächlich aus Namenslexika.",
+  "evidence_quality": "mittel bis schwach: wenige Quellen, überwiegend lexikalisch-informativ, kaum breite öffentliche Debattenlage.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Elvira",
+  "normalized_name": "elvira",
+  "overall_resonance": "Überwiegend positiv-sachlich mit klassisch-nostalgischer Färbung.",
+  "practical_notes": [
+    "Für die öffentliche Wahrnehmung wirkt Elvira eher klassisch als modern-trendhaft.",
+    "Die Namensresonanz ist eher informativ als emotional aufgeladen.",
+    "In Deutschland scheint der Name bekannt, aber nicht massenhaft präsent zu sein."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenzlage ist schmal und stützt sich im Wesentlichen auf Namenslexikon-Seiten.",
+    "Beliebtheitsangaben können zeitlich veraltet sein.",
+    "Die Wahrnehmung als „altmodisch“ ist eine Stilbeschreibung, keine feste gesellschaftliche Bewertung."
+  ],
+  "short_summary": "Elvira wird in Deutschland meist sachlich und eher positiv wahrgenommen: klassisch, selten und mit traditioneller Namensanmutung.",
+  "source_count": 3,
+  "sources": [
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Elvira � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/E/El/Elvira/"
+    },
+    {
+      "confidence": 0.92,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "Vorname Elvira � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/E/El/Elvira/"
+    },
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Elvira: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Elvira.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "altmodisch bzw. zeitlos",
+    "faktenorientiert",
+    "leicht elegant",
+    "nostalgisch",
+    "seltenheitsgeprägt"
+  ],
+  "usable_evidence_count": 3,
+  "visibility": "Der Name ist im deutschsprachigen Namenskontext bekannt, wirkt aber eher selten bis moderat verbreitet. Öffentliche Resonanz ist vor allem in Namenslexika sichtbar, nicht in breiten Diskussionen."
+}

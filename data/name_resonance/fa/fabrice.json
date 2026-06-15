@@ -1,0 +1,68 @@
+{
+  "associations": [
+    "französische Form mit lateinischem Ursprung",
+    "Bedeutungsfelder rund um Handwerk/Schmied",
+    "auch Deutungen wie gelehrt oder begabt werden genannt",
+    "Namenstag wird in einigen Quellen erwähnt",
+    "Spitznamen wie Fabi oder Brice kommen vor"
+  ],
+  "confidence": 0.84,
+  "display_text": "Fabrice: eher selten in Deutschland, mit positiver, eleganter und französisch geprägter Wirkung. Die Quellen betonen vor allem Herkunft, Klang und Namensbedeutung; die Evidenz ist jedoch begrenzt.",
+  "evidence_quality": "mittel bis schwach; wenige, aber passende Namensquellen, keine breite öffentliche Debatte erkennbar",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Fabrice",
+  "normalized_name": "fabrice",
+  "overall_resonance": "Der Vorname Fabrice wirkt im deutschen Raum eher selten, aber klar positiv und sachlich-französisch geprägt. In den vorliegenden Quellen wird er vor allem als stilvoller, internationaler Name mit traditioneller Herkunft wahrgenommen.",
+  "practical_notes": [
+    "Für Deutschland eher ein besonderer als ein geläufiger Vorname.",
+    "Wirkt in der Regel kulturell klar als französisch wahrnehmbar.",
+    "Die Aussprache dürfte für viele problemlos, die Schreibweise dennoch ungewohnt sein.",
+    "Als Namenswahl eher geeignet, wenn ein seltener, eleganter Klang gewünscht ist."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist begrenzt und stützt sich vor allem auf Namenslexikon-Seiten.",
+    "Positive Eindrücke stammen teilweise aus Einzelkommentaren und sind daher nur vorsichtig zu gewichten.",
+    "Keine belastbaren Hinweise auf eine breite gesellschaftliche Stigmatisierung in den vorliegenden Quellen."
+  ],
+  "short_summary": "Fabrice wird in den Quellen überwiegend positiv, elegant und französisch-international wahrgenommen, in Deutschland aber eher als seltener Vorname.",
+  "source_count": 3,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Fabrice � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/F/Fa/Fabrice/"
+    },
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "Vorname Fabrice � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/F/Fa/Fabrice/"
+    },
+    {
+      "confidence": 0.89,
+      "is_name_discussion": true,
+      "sentiment": "positive",
+      "source_type": "web",
+      "title": "&#9655; Vorname Fabrice: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Fabrice.html"
+    }
+  ],
+  "style_effect": [
+    "französisch und international",
+    "eher elegant als alltagssprachlich",
+    "klanglich weich und markant",
+    "namenskundlich gut anschlussfähig",
+    "selten, aber nicht exotisch"
+  ],
+  "usable_evidence_count": 3,
+  "visibility": "Mittlere bis geringe Bekanntheit in Deutschland; der Name ist präsent, aber kein Massenname."
+}

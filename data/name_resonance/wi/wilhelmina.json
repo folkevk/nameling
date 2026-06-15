@@ -1,0 +1,62 @@
+{
+  "associations": [
+    "altdeutsche bzw. althochdeutsche Herkunft",
+    "Bedeutung in Richtung Wille, Schutz und Entschlossenheit",
+    "historisch verwendet",
+    "selten, aber wieder etwas präsenter",
+    "Kurzformen wie Wilma, Mina oder Minna"
+  ],
+  "confidence": 0.88,
+  "display_text": "Wilhelmina wirkt in der öffentlichen Namenswahrnehmung eher positiv: klassisch, historisch und etwas selten. Die vorliegende Evidenz stammt vor allem aus Namenslexika und zeigt vor allem sachliche bis leicht positive Beschreibungen; eine breite öffentliche Debatte ist kaum sichtbar.",
+  "evidence_quality": "Mittel: Zwei gut passende Namensquellen mit überwiegend sachlicher, teils positiv gefärbter Beschreibung; öffentliche Breitenwahrnehmung nur begrenzt ablesbar.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Wilhelmina",
+  "normalized_name": "wilhelmina",
+  "overall_resonance": "Eher positiv und klassisch, mit einem Hauch von Besonderheit durch die Seltenheit.",
+  "practical_notes": [
+    "Für viele wirkt der Name traditionsreich und ungewöhnlich, ohne exzentrisch zu sein.",
+    "Die Länge und der historische Klang machen ihn eher auffällig als modern-kurz.",
+    "Kurznamen wie Wilma oder Mina können die Alltagsverwendung vereinfachen."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt fast nur aus Namensdatenbanken und wirkt kuratiert; das ist keine breite Alltagswahrnehmung.",
+    "Die positive Tendenz basiert vor allem auf lexikalischen Beschreibungen und wenigen Rückmeldungen, nicht auf umfangreichen öffentlichen Diskussionen.",
+    "Keine Hinweise auf sozial stigmatisierende Zuschreibungen in der vorliegenden Evidenz."
+  ],
+  "short_summary": "Wilhelmina wird überwiegend positiv als klassischer, seltener und traditionsreicher Vorname wahrgenommen. Die Evidenz ist aber eher lexikalisch als öffentlich breit diskutiert.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Wilhelmina � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/W/Wi/Wilhelmina/"
+    },
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "positive",
+      "source_type": "web",
+      "title": "&#9655; Vorname Wilhelmina: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Wilhelmina.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "historisch",
+    "edel klingend",
+    "selten",
+    "traditionell",
+    "leicht altdeutsch",
+    "feminin",
+    "markant"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Gering bis mittel: Der Name wird in Namenslexika und auf Namensseiten klar beschrieben, eine breite öffentliche Debatte ist in der Evidenz aber nicht sichtbar."
+}

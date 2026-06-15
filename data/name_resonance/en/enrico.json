@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "italienische Form von Heinrich",
+    "althochdeutsche Wurzeln",
+    "Bedeutung im Sinn von Herrscher/Herr im Haus",
+    "eher selten bis moderat bekannt",
+    "zeitweise stärker beliebt in den 1960er/1970er Jahren",
+    "Kurzformen wie Rico oder Enzo"
+  ],
+  "confidence": 0.88,
+  "display_text": "Enrico wirkt öffentlich überwiegend sachlich-neutral, mit leicht positivem Klang: ein klassisch-traditioneller, italienisch geprägter Vorname, der in Deutschland eher moderat bekannt ist.",
+  "evidence_quality": "mittel bis gut; zwei überwiegend sachliche Namensquellen, aber keine breite Diskurs- oder Social-Media-Evidenz.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Enrico",
+  "normalized_name": "enrico",
+  "overall_resonance": "Überwiegend sachlich-neutral mit leicht positivem Unterton. Enrico wird öffentlich vor allem als klassisch-traditioneller, italienisch geprägter Vorname wahrgenommen.",
+  "practical_notes": [
+    "Für Suchmaschinen-Nutzung eignet sich die Kurzbeschreibung 'klassisch, italienisch geprägt, sachlich bekannt'.",
+    "Die Datenlage ist ausreichend für eine vorsichtige Namensresonanz, aber nicht für weitreichende gesellschaftliche Aussagen.",
+    "Der Name wirkt im deutschen Kontext eher vertraut als exotisch, ohne dominant zu sein."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt vor allem aus Namenslexika und ist daher eher indirekt; sie beschreibt den Namen, nicht eine breite öffentliche Debatte.",
+    "Mögliche Eindrucksnoten wie 'klassisch' oder 'italienisch' sind Tendenzen, keine festen Zuschreibungen.",
+    "Keine belastbaren Hinweise auf starke Stigmatisierung oder negative öffentliche Konnotationen in der vorliegenden Evidenz."
+  ],
+  "short_summary": "Enrico wird in Deutschland meist sachlich-neutral und leicht positiv wahrgenommen: klassisch, italienisch geprägt und eher moderat bekannt.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.92,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Enrico � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/E/En/Enrico/"
+    },
+    {
+      "confidence": 0.92,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Enrico: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Enrico.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch-traditionell",
+    "italienisch geprägt",
+    "namenslexikalisch",
+    "sachlich-informativ",
+    "leicht vertraut, aber nicht massenhaft"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland eher bekannt, aber nicht allgegenwärtig; die öffentliche Sichtbarkeit wirkt eher moderat als stark verbreitet."
+}

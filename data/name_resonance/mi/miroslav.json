@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "slawische Herkunft",
+    "Bedeutung: Frieden/Friede und Ruhm",
+    "männlicher Vorname",
+    "Namenstag",
+    "selten in Deutschland",
+    "Kurzformen wie Miro oder Milo"
+  ],
+  "confidence": 0.83,
+  "display_text": "Miroslav wirkt in Deutschland eher selten, traditionsreich und klar slawisch geprägt. Die öffentliche Rezeption ist überwiegend neutral bis leicht positiv und vor allem durch Bedeutung, Herkunft und Namenstag bestimmt.",
+  "evidence_quality": "mittel bis eher schwach; zwei Namensquellen, überwiegend lexikalisch, nur begrenzte allgemeine Resonanzdaten",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Miroslav",
+  "normalized_name": "miroslav",
+  "overall_resonance": "Der Vorname Miroslav wird in den verfügbaren Namensquellen überwiegend sachlich und eher positiv-neutral beschrieben. Er wirkt als slawischer Name mit der Bedeutung von Frieden und Ruhm traditionsbewusst, markant und eher selten im deutschen Sprachraum.",
+  "practical_notes": [
+    "Für Suchmaschinen-Nutzende ist Miroslav vor allem als seltener, klar slawisch geprägter Jungenname einzuordnen.",
+    "Die Wahrnehmung ist eher neutral bis leicht positiv, mit Fokus auf Herkunft und Bedeutung statt auf Mode oder Trend.",
+    "Wenn gewünscht, kann die Kurzform Miro den Namen im deutschen Alltag zugänglicher wirken lassen."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenzlage ist begrenzt und stützt sich nur auf wenige Namenslexika/Kommentarseiten.",
+    "Einzelne Kommentare können personenbezogen sein und sind nur eingeschränkt für die allgemeine Namenswirkung nutzbar.",
+    "Keine belastbaren Hinweise auf eine breitere soziale Stigmatisierung des Namens in Deutschland erkennbar."
+  ],
+  "short_summary": "Miroslav wird in den Quellen meist neutral bis positiv als seltener, slawischer Vorname mit der Bedeutung von Frieden und Ruhm beschrieben.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Miroslav � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/M/Mi/Miroslav/"
+    },
+    {
+      "confidence": 0.82,
+      "is_name_discussion": true,
+      "sentiment": "mixed",
+      "source_type": "web",
+      "title": "&#9655; Vorname Miroslav: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Miroslav.html"
+    }
+  ],
+  "style_effect": [
+    "traditionsreich",
+    "slawisch geprägt",
+    "klangvoll",
+    "eigenständig",
+    "eher selten",
+    "formal bis klassisch"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Eher geringe Alltagspräsenz in Deutschland; der Name ist bekannt, aber nicht breit verbreitet. Die öffentliche Wahrnehmung in den Quellen ist vor allem lexikalisch-informativ und nicht stark polarisiert."
+}

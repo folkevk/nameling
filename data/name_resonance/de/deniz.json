@@ -1,0 +1,68 @@
+{
+  "associations": [
+    "türkische Herkunft",
+    "Bedeutung: Meer",
+    "Unisex-Name",
+    "moderne Namenswahl",
+    "in Deutschland bekannt",
+    "teils als neutral bis positiv beschrieben"
+  ],
+  "confidence": 0.86,
+  "display_text": "Deniz wirkt im deutschen Namenskontext überwiegend neutral bis leicht positiv. Der Name wird vor allem als moderner, türkisch geprägter Unisex-Name mit der Bedeutung „Meer“ beschrieben. Die vorliegende Evidenz ist gut für Herkunft und Einordnung, aber nur begrenzt aussagekräftig für eine breite öffentliche Resonanz.",
+  "evidence_quality": "mittel bis hoch für Bedeutung, Herkunft und Namenseinordnung; eher schwach für echte öffentliche Resonanz oder soziale Wirkung",
+  "generated_at": "2026-06-13T22:17:22Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Deniz",
+  "normalized_name": "deniz",
+  "overall_resonance": "Überwiegend neutral bis leicht positiv; der Name wird vor allem sachlich als moderner, türkisch geprägter Unisex-Name wahrgenommen.",
+  "practical_notes": [
+    "Für eine Namenssuchmaschine lässt sich Deniz am besten als kurzer, moderner und kulturell klar verorteter Vorname zusammenfassen.",
+    "Die öffentliche Wahrnehmung wirkt eher beschreibend als emotional aufgeladen.",
+    "Als Unisex-Name kann Deniz je nach Kontext unterschiedlich eingeordnet werden."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt fast ausschließlich aus Namenslexika und ist daher nur bedingt ein Bild der tatsächlichen Alltagsresonanz.",
+    "Keine belastbaren Hinweise auf starke gesellschaftliche Stigmatisierung in der vorliegenden Evidenz.",
+    "Aussagen zur Beliebtheit sollten vorsichtig gelesen werden, da sie hier nicht aus einer breiten Meinungsbasis stammen."
+  ],
+  "short_summary": "Deniz wird im deutschen Namenskontext meist neutral bis leicht positiv gesehen: ein moderner, türkisch geprägter Unisex-Name mit der Bedeutung „Meer“.",
+  "source_count": 3,
+  "sources": [
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Deniz � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/D/De/Deniz/"
+    },
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Deniz � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/D/De/Deniz/"
+    },
+    {
+      "confidence": 0.76,
+      "is_name_discussion": true,
+      "sentiment": "überwiegend positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Deniz: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Deniz.html"
+    }
+  ],
+  "style_effect": [
+    "modern",
+    "klar",
+    "international anschlussfähig",
+    "sprachlich kurz und prägnant",
+    "eher informativ als verspielt"
+  ],
+  "usable_evidence_count": 3,
+  "visibility": "Im deutschsprachigen Namenskontext recht präsent, vor allem durch Namenslexika und Bedeutungsseiten. Eine breite öffentliche Debatte ist in der vorliegenden Evidenz jedoch nicht erkennbar."
+}

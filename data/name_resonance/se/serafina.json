@@ -1,0 +1,62 @@
+{
+  "associations": [
+    "italienisch/spanisch/portugiesische Namensform",
+    "althebräische Herkunft",
+    "Bedeutung: die Feurige / die Brennende / die Glühende",
+    "Bezug zu Seraphim/Engelmotiv",
+    "eher selten in Deutschland",
+    "Namenstag wird in Quellen unterschiedlich angegeben"
+  ],
+  "confidence": 0.91,
+  "display_text": "Serafina wirkt in der öffentlichen Wahrnehmung überwiegend positiv: klangvoll, elegant und international. In Deutschland ist der Name eher selten, aber bekannt. Quellen verbinden ihn vor allem mit der Bedeutung „die Feurige / die Brennende“ sowie mit Seraphim- und Engelassoziationen. Die Einschätzung stützt sich überwiegend auf Namenslexika; belastbare Hinweise auf negative soziale Stigmatisierung liegen nicht vor.",
+  "evidence_quality": "hoch bis mittel: zwei einschlägige Namensquellen mit klarer Diskussion des Vornamens; überwiegend konsistente Angaben zu Herkunft, Bedeutung und Stil, aber keine breite quantitative Sozialwahrnehmung.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Serafina",
+  "normalized_name": "serafina",
+  "overall_resonance": "Überwiegend positiv und klanglich weich, mit einem edel-italienischen Eindruck. Der Name wird vor allem über seine feurige Bedeutung und den Bezug zu Engel-/Seraphim-Motiven wahrgenommen. In Deutschland gilt er eher als selten, aber bekannt.",
+  "practical_notes": [
+    "Für die Namenssuche wirkt Serafina feminin, klangvoll und eher auffällig als alltäglich.",
+    "Der Name ist gut verständlich, kann aber je nach Umfeld als besonders elegant oder ungewöhnlich wahrgenommen werden.",
+    "Kurzformen wie Fina, Sera oder Sina werden vereinzelt genannt."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist vor allem namenkundlich und nicht aus breiter öffentlicher Diskussion abgeleitet.",
+    "Einige Angaben zu Namenstagen variieren je nach Quelle.",
+    "Keine belastbaren Hinweise auf negative gesellschaftliche Stigmatisierung in den vorliegenden Quellen."
+  ],
+  "short_summary": "Serafina wird in Deutschland eher selten, aber positiv und klangvoll wahrgenommen. Die öffentliche Rezeption betont vor allem die feurige Bedeutung, den edel-italienischen Klang und den Bezug zu Engelmotiven.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Serafina � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/S/Se/Serafina/"
+    },
+    {
+      "confidence": 0.91,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Serafina: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Serafina.html"
+    }
+  ],
+  "style_effect": [
+    "edel",
+    "weich",
+    "melodisch",
+    "international",
+    "romantisch",
+    "klassisch",
+    "feurig in der Bedeutung"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Eher selten, aber in Deutschland verständlich und nicht unbekannt. Die öffentliche Wahrnehmung ist überwiegend lexikalisch geprägt, also durch Bedeutung, Herkunft und Namensklang."
+}

@@ -1,0 +1,59 @@
+{
+  "associations": [
+    "Bedeutung: „Besitzer des Speers“",
+    "angelsächsisch/altenglische Herkunft",
+    "Namenstag am 8. Juli",
+    "Kurzformen wie Ede, Edi, Eddie, Eddy",
+    "Beliebtheit in Deutschland eher mäßig häufig und teils rückläufig, zuletzt stabiler"
+  ],
+  "confidence": 0.81,
+  "display_text": "Edgar wirkt im Deutschen überwiegend klassisch, sachlich und leicht positiv. Der Name ist eher traditionell als modern und erscheint vor allem in Namenslexika; echte öffentliche Resonanz ist nur begrenzt belegt.",
+  "evidence_quality": "mittel bis schwach: klare Namensbeschreibung, aber nur begrenzt öffentliche Resonanzdaten",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Edgar",
+  "normalized_name": "edgar",
+  "overall_resonance": "Edgar wird im deutschsprachigen Raum überwiegend sachlich, leicht positiv und traditionell wahrgenommen. Die öffentliche Rezeption wirkt eher nüchtern als trendig, mit einem klaren Namenslexikon-Charakter.",
+  "practical_notes": [
+    "Für eine Namenssuche eignet sich Edgar als klarer, klassischer und gut erklärbarer Vorname.",
+    "Der Name wirkt eher zeitlos als modern-trendig.",
+    "Kurzformen sind vorhanden und können den Eindruck etwas lockern."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt fast ausschließlich aus Namenslexika und nicht aus freier öffentlicher Meinungsdiskussion.",
+    "Eine echte gesellschaftliche Stimmungsbreite ist daher nur eingeschränkt ableitbar.",
+    "Die leichte positive Tönung ergibt sich eher aus der Darstellung in den Quellen als aus direktem Publikumsecho."
+  ],
+  "short_summary": "Edgar wird meist als klassischer, sachlicher Vorname mit traditioneller und leicht positiv wirkender Ausstrahlung beschrieben; belastbare öffentliche Meinungsdaten sind jedoch dünn.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Edgar � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/E/Ed/Edgar/"
+    },
+    {
+      "confidence": 0.95,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Edgar: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Edgar.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "traditionell",
+    "gebildet/namenskundlich",
+    "eher sachlich",
+    "leicht altmodisch, aber nicht negativ"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Mäßig sichtbar: Der Name erscheint in Namensdatenbanken und Lexika, wirkt aber im öffentlichen Alltag eher nicht stark präsent oder besonders modisch."
+}

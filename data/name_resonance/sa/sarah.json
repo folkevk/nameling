@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "biblischer Name",
+    "hebräische Herkunft",
+    "Bedeutung: Fürstin/Herrin/Prinzessin",
+    "weiblicher Vorname",
+    "in Deutschland sehr beliebt",
+    "Namenstag",
+    "mehrsprachig verbreitet"
+  ],
+  "confidence": 0.94,
+  "display_text": "Sarah wird in Deutschland meist als klassisch, zeitlos und positiv wahrgenommen. Die Evidenz spricht für einen sehr bekannten, breit anschlussfähigen Vornamen mit biblisch-hebräischer Herkunft und der Bedeutung „Fürstin/Herrin/Prinzessin“. Es liegen vor allem lexikalische Quellen vor, daher ist das Bild eher eine vorsichtige Einordnung als eine direkte Auswertung öffentlicher Diskussionen.",
+  "evidence_quality": "hoch, aber überwiegend informationsseitig statt diskursiv",
+  "generated_at": "2026-06-12T06:08:03Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Sarah",
+  "normalized_name": "sarah",
+  "overall_resonance": "Sarah wirkt in Deutschland klar positiv und sehr vertraut: ein klassischer, weit verbreiteter Mädchenname mit biblisch-hebräischem Hintergrund.",
+  "practical_notes": [
+    "Für eine Namenssuche spricht die hohe Bekanntheit und gute Verständlichkeit im deutschen Raum.",
+    "Der Name ist weder auffällig stigmatisiert noch stark modeabhängig.",
+    "Er wird meist als klassisch und angenehm wahrgenommen."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die vorliegende Evidenz ist überwiegend lexikalisch/namenskundlich und nicht aus freier öffentlicher Diskussion abgeleitet.",
+    "Daher lässt sich die öffentliche Resonanz nur vorsichtig als traditionelle Bekanntheit und positive Grundwirkung beschreiben."
+  ],
+  "short_summary": "Sarah ist in Deutschland ein sehr bekannter, klassischer Vorname mit positiver, zeitloser Wirkung. Die Evidenz stützt vor allem Herkunft, Bedeutung und Beliebtheit, nicht eine breite Debatte im Netz.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Sarah � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/S/Sa/Sarah/"
+    },
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Sarah: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Sarah.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "zeitlos",
+    "weich klingend",
+    "vertraut",
+    "eher elegant als ausgefallen",
+    "breit anschlussfähig"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "hoch"
+}

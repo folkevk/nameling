@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "arabische Herkunft",
+    "Bedeutung wie „der König“, „der Herrscher“ oder „der Besitzer“",
+    "mehrsprachige Herkunftsangaben",
+    "Beliebtheit in Deutschland",
+    "Varianten wie Maalik, Malek, Malick und Maliq"
+  ],
+  "confidence": 0.87,
+  "display_text": "Malik wirkt in Deutschland überwiegend neutral bis leicht positiv: ein kurzer, moderner und international anschlussfähiger Jungenname mit klarer Bedeutung und gut dokumentierter Namensherkunft.",
+  "evidence_quality": "mittel bis gut; die Quellen sind klar namensbezogen und konsistent, aber überwiegend lexikalisch statt diskursiv-öffentlich.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Malik",
+  "normalized_name": "malik",
+  "overall_resonance": "Der Vorname Malik wirkt in der öffentlichen Namenswahrnehmung überwiegend neutral bis leicht positiv. Er wird vor allem sachlich als moderner, kurzer Jungenname mit klarer Bedeutung und verschiedener Herkunft beschrieben.",
+  "practical_notes": [
+    "Gut geeignet für eine moderne, kurze Namenswirkung.",
+    "Durch die internationale Verwendbarkeit kann der Name in verschiedenen Sprachräumen anschlussfähig sein.",
+    "Die Schreibweise Malik ist klar und unkompliziert, Varianten kommen jedoch auch vor.",
+    "Für die Resonanzkarte ist die Datenlage ausreichend, aber nicht breit öffentlich diskutiert."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt fast nur aus Namenslexika und einer Namensseite, nicht aus freier öffentlicher Debatte.",
+    "Es gibt keine belastbaren Hinweise auf eine negative gesellschaftliche Stigmatisierung in den vorliegenden Quellen.",
+    "Bewertungen zu Bedeutung oder Beliebtheit sollten nicht als allgemeingültige Wahrheit verstanden werden, sondern als lexikalische Einordnung."
+  ],
+  "short_summary": "Malik wird in der öffentlichen Namenswahrnehmung meist sachlich und eher positiv als moderner, internationaler Jungenname mit arabisch geprägter Bedeutung beschrieben.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Malik � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/M/Ma/Malik/"
+    },
+    {
+      "confidence": 0.92,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Malik: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Malik.html"
+    }
+  ],
+  "style_effect": [
+    "kurz und modern",
+    "klanglich markant",
+    "international anschlussfähig",
+    "namenskundlich gut erklärbar",
+    "leicht positiv durch Bedeutungsassoziationen"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Im deutschsprachigen Raum sichtbar und bekannt, mit Einträgen in Namenslexika und Seiten zur Beliebtheit von Vornamen. Die öffentliche Präsenz wirkt eher informativ als kontrovers."
+}

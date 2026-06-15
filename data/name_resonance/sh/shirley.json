@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "altenglische Herkunft",
+    "Bedeutung in Richtung \"helle Lichtung\" / \"leuchtende Wiese\"",
+    "englischer bzw. englischsprachiger Vorname",
+    "in Deutschland selten",
+    "teils auch historisch als Jungenname erwähnt",
+    "literarischer Bezug über Charlotte Brontë"
+  ],
+  "confidence": 0.83,
+  "display_text": "Shirley wirkt im deutschen Kontext eher selten, englisch geprägt und leicht positiv besetzt. Die verfügbaren Quellen sind überwiegend namenskundlich; eine breite öffentliche Debattenresonanz ist nicht erkennbar.",
+  "evidence_quality": "Begrenzt: überwiegend lexikalische und namenskundliche Quellen, kaum echte öffentliche Reaktionsdaten.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Shirley",
+  "normalized_name": "shirley",
+  "overall_resonance": "Shirley wird in der vorliegenden Evidenz überwiegend sachlich bis leicht positiv beschrieben. Der Name wirkt im deutschen Kontext eher selten und klar englisch geprägt, mit einer freundlich klingenden, traditionellen Note.",
+  "practical_notes": [
+    "Für eine deutsche Namenswahl kann Shirley als auffällig, international und eher ungewöhnlich wirken.",
+    "Die Schreibweise ist vertraut, aber die Aussprache kann im Deutschen je nach Umfeld variieren.",
+    "Der Name hat einen eher freundlichen, traditionsnahen Klang.",
+    "Aufgrund der Seltenheit kann er als individuell empfunden werden."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenzlage ist schwach und basiert vor allem auf Namenslexika statt auf breiter öffentlicher Debattenresonanz.",
+    "Eine starke gesellschaftliche Bewertung oder Stigmatisierung ist nicht erkennbar.",
+    "Wahrnehmungen wie \"englisch\" oder \"klassisch\" sind typische Namensassoziationen, keine objektiven Eigenschaften."
+  ],
+  "short_summary": "Shirley wird in Deutschland eher selten wahrgenommen und überwiegend neutral bis leicht positiv eingeordnet – als englisch geprägter, freundlich klingender und etwas besonderer Vorname.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.89,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Shirley � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/S/Sh/Shirley/"
+    },
+    {
+      "confidence": 0.92,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Shirley: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Shirley.html"
+    }
+  ],
+  "style_effect": [
+    "englisch und international wirkend",
+    "klassisch-freundlich",
+    "weich und feminin wahrgenommen",
+    "selten und dadurch markant",
+    "etwas altmodisch-historisch anmutend"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Eher gering bis mittel: In Deutschland scheint Shirley kein sehr verbreiteter Vorname zu sein, wodurch er auffällt, aber nicht stark im Alltag präsent ist."
+}

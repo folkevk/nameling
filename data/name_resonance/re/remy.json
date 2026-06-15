@@ -1,0 +1,58 @@
+{
+  "associations": [
+    "französische bzw. lateinische Herkunft",
+    "Kurzform zu Remigius",
+    "Bedeutungsfelder wie „Heilmittel“ oder „der Ruderer“",
+    "in Deutschland eher als internationaler Vorname wahrgenommen",
+    "teils Hinweis auf mögliche Unsicherheit bei der Aussprache",
+    "vereinzelt als unisex wahrgenommen"
+  ],
+  "confidence": 0.92,
+  "display_text": "Remy wird in Deutschland überwiegend neutral bis leicht positiv wahrgenommen. Der Name wirkt kurz, international und französisch geprägt, mit lateinischen Wurzeln. Genannt werden vor allem Bedeutungen wie „Heilmittel“ oder „der Ruderer“ sowie die Nähe zu Remigius. Hinweise auf mögliche Ausspracheunsicherheit sind eher praktisch als negativ. Die Evidenz ist solide, stammt aber vor allem aus Namenslexika und Infoseiten.",
+  "evidence_quality": "gut, aber überwiegend lexikalisch und nicht breit debattenbasiert",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Remy",
+  "normalized_name": "remy",
+  "overall_resonance": "überwiegend neutral bis leicht positiv",
+  "practical_notes": [
+    "Für die öffentliche Wahrnehmung wirkt Remy meist sachlich, freundlich und international.",
+    "Die Schreibweise kann je nach Sprachraum unterschiedlich gelesen werden; im Deutschen kann dies kurz erklärt werden müssen.",
+    "Der Name ist eher ungewöhnlich, aber nicht schwer belastet oder stark stigmatisiert."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt vor allem aus Namenslexika und Infoseiten, nicht aus breiter öffentlicher Debatte.",
+    "Hinweise zu Aussprache oder Geschlechtseindruck sind eher Beobachtungen aus Namenskontexten als harte öffentliche Urteile."
+  ],
+  "short_summary": "Remy wird im deutschsprachigen Kontext meist neutral bis leicht positiv wahrgenommen: ein kurzer, international klingender Vorname mit französisch/lateinischer Prägung. Mögliche Unsicherheit gibt es eher bei Aussprache und Schreibweise als bei der allgemeinen Bewertung.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Remy � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/R/Re/Remy/"
+    },
+    {
+      "confidence": 0.92,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Remy: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Remy.html"
+    }
+  ],
+  "style_effect": [
+    "kurz und prägnant",
+    "international/französisch geprägt",
+    "namenskundlich-sachlich",
+    "modern, aber nicht modisch aufdringlich"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "mittlere Sichtbarkeit im deutschsprachigen Namenskontext; eher als informativer, international wirkender Vorname präsent"
+}

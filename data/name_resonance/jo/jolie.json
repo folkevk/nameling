@@ -1,0 +1,62 @@
+{
+  "associations": [
+    "französische bzw. altfranzösische Herkunft",
+    "Bedeutung im Sinn von 'die Hübsche'",
+    "Mädchenname",
+    "Alltagswort als Vorname",
+    "Beliebtheit in Deutschland",
+    "selten bis mittelhäufig"
+  ],
+  "confidence": 0.84,
+  "display_text": "Jolie wirkt in der öffentlichen Wahrnehmung überwiegend positiv: freundlich, hübsch und leicht französisch anmutend. In Deutschland scheint der Name bekannt, aber eher selten bis mittelhäufig zu sein. Die vorhandene Evidenz kommt vor allem aus Namenslexika, daher ist die Aussagekraft für echte öffentliche Debatten begrenzt.",
+  "evidence_quality": "mittel bis gut: zwei starke Namenslexikon-Quellen mit überwiegend positiver Tonalität, aber nur indirekte öffentliche Resonanz.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Jolie",
+  "normalized_name": "jolie",
+  "overall_resonance": "Eher positiv und freundlich, mit leicht trendigem, französisch anmutendem Klang. Die öffentliche Rezeption wirkt vor allem namenskundlich geprägt; echte freie Debatten sind in der Evidenz nur begrenzt sichtbar.",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt Jolie modern, weich und leicht international.",
+    "Der Name ist gut merkbar und sprachlich eingängig.",
+    "Wer eine sehr traditionelle oder sehr seltene Form sucht, könnte ihn als eher trendig bzw. bekannt wahrnehmen."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt überwiegend aus redaktionellen Namenslexika, nicht aus einer breiten öffentlichen Debatte.",
+    "Vereinzelt gibt es kritische Hinweise zum Klang oder zur Beliebtheit, aber keine starke negative Gesamtstimmung.",
+    "Aus den Quellen lässt sich keine belastbare Aussage über gesellschaftliche Stereotype oder reale Zuschreibungen ableiten."
+  ],
+  "short_summary": "Jolie wird in den verfügbaren Quellen überwiegend positiv, freundlich und elegant wahrgenommen. Die Evidenz ist solide, stammt aber vor allem aus Namenslexika und weniger aus freier öffentlicher Diskussion.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "Vorname Jolie � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/J/Jo/Jolie/"
+    },
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "überwiegend positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Jolie: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Jolie.html"
+    }
+  ],
+  "style_effect": [
+    "hübsch",
+    "schön",
+    "freundlich",
+    "französisch anmutend",
+    "modern",
+    "zart",
+    "kosenamenfähig"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Mittlere Sichtbarkeit in Namensportalen; in Deutschland offenbar bekannt, aber eher selten bis mittelhäufig. Die öffentliche Resonanz ist vor allem aus Lexikon- und Beliebtheitsseiten ableitbar, nicht aus breiter Alltagsdiskussion."
+}

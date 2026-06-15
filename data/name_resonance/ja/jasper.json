@@ -1,0 +1,59 @@
+{
+  "associations": [
+    "Form von Kaspar/Caspar",
+    "niederdeutsch/friesisch/niederländisch/englisch geprägt",
+    "persischer Ursprung",
+    "Bedeutung: Schatz / Schatzmeister / Verwalter der Schätze",
+    "Namenstag am 6. Januar und 26. September",
+    "bekannter Jungenname in Deutschland"
+  ],
+  "confidence": 0.94,
+  "display_text": "Jasper wirkt in Deutschland überwiegend positiv: modern, klar und traditionsnah. Der Name ist bekannt, gut anschlussfähig und wird vor allem über Herkunft, Bedeutung und Beliebtheit beschrieben. Die Evidenz ist stark namenskundlich, aber kaum von freier öffentlicher Diskussion geprägt.",
+  "evidence_quality": "hoch für Herkunft, Bedeutung und Namensgebrauch; mittel für öffentliche Resonanz, da kaum offene Debattenquellen vorliegen.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Jasper",
+  "normalized_name": "jasper",
+  "overall_resonance": "Überwiegend positiv und modern wahrgenommen, mit klarer klassisch-namenskundlicher Verankerung.",
+  "practical_notes": [
+    "Für die Namenssuche wirkt Jasper unkompliziert, international anschlussfähig und gut aussprechbar.",
+    "Der Name verbindet moderne Wirkung mit traditioneller Herkunft.",
+    "Die öffentliche Resonanz scheint eher freundlich als kontrovers, ohne klare negative Stigmatisierung."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt fast ausschließlich aus Namenslexika; eine breite freie öffentliche Debatte ist nicht erkennbar.",
+    "Einzelne Beschreibungen wie „cool“ oder „modern“ sind eher subjektive Einordnungen als repräsentative Meinungsbilder."
+  ],
+  "short_summary": "Jasper wird in Deutschland überwiegend positiv, modern und zugleich traditionsnah wahrgenommen. Die Quellen betonen vor allem Herkunft, Bedeutung und Beliebtheit, weniger öffentliche Kontroversen.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Jasper � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/J/Ja/Jasper/"
+    },
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Jasper: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Jasper.html"
+    }
+  ],
+  "style_effect": [
+    "modern",
+    "eher cool/zeitgemäß",
+    "klassisch-historisch anschlussfähig",
+    "kurz und markant",
+    "namenskundlich vertraut"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland bekannt und präsent, eher als moderner Jungenname im öffentlichen Namensgebrauch sichtbar; die Evidenz wirkt jedoch vor allem lexikalisch statt breit öffentlich diskutiert."
+}

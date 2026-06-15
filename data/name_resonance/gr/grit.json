@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "Kurzform von Margrit bzw. Nebenform von Margarete",
+    "Bedeutung: die Perle",
+    "altgriechisch/lateinischer Herkunftskontext",
+    "in Deutschland selten",
+    "besonders in früheren Jahrzehnten, etwa den 1960ern, präsenter",
+    "teilweise norddeutsch oder niederländisch assoziiert"
+  ],
+  "confidence": 0.86,
+  "display_text": "Grit wirkt in Deutschland eher selten, traditionell und kurz-markant. Die öffentliche Rezeption ist überwiegend sachlich bis leicht positiv; einzelne Kommentare empfinden den Klang als hart, diese Einschätzung ist aber nur schwach belegt.",
+  "evidence_quality": "mittel: klare namenskundliche Quellen, aber nur begrenzte echte öffentliche Resonanz; teils Mischung aus Redaktionsinhalt und einzelnen Kommentaren.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Grit",
+  "normalized_name": "grit",
+  "overall_resonance": "Eher sachlich-positiv bis neutral: Grit wird vor allem als kurzer, traditioneller und klar verorteter Vorname wahrgenommen, mit leichtem historischen und namenskundlichen Charme. In einzelnen Kommentaren wird der Klang als eher hart empfunden, das ist aber nur schwach belegt.",
+  "practical_notes": [
+    "Für Namenssuche und Namensdeutung ist Grit gut auffindbar, aber als Alltagsname heute eher selten.",
+    "Der Name wirkt kompakt und eigenständig, kann aber je nach persönlichem Geschmack als hart oder knapp empfunden werden.",
+    "Die Wahrnehmung ist eher traditionell als modern-trendy."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Hinweise zu Klang und Wirkung stammen teils aus einzelnen Nutzerkommentaren und sind daher nur eingeschränkt belastbar.",
+    "Es gibt keine starke, breit belegte öffentliche Wertung; die Evidenz ist eher sprachlich-informativ als meinungsstark."
+  ],
+  "short_summary": "Grit wird in Deutschland eher selten, traditionell und sachlich wahrgenommen; der Name gilt als kurz, markant und namenskundlich positiv, mit vereinzelten Hinweisen auf einen eher harten Klang.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "Vorname Grit � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/G/Gr/Grit/"
+    },
+    {
+      "confidence": 0.84,
+      "is_name_discussion": true,
+      "sentiment": "gemischt",
+      "source_type": "web",
+      "title": "&#9655; Vorname Grit: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Grit.html"
+    }
+  ],
+  "style_effect": [
+    "kurz und prägnant",
+    "traditionell",
+    "norddeutsch bzw. regional mitschwingend",
+    "klassisch-ernst",
+    "leicht altmodisch",
+    "selten und dadurch markant"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland eher selten und dadurch auffällig, zugleich bekannt genug, um meist sofort als Vorname erkannt zu werden. Die öffentliche Präsenz wirkt insgesamt begrenzt und vor allem informativ-namenskundlich."
+}

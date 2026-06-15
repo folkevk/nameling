@@ -1,0 +1,62 @@
+{
+  "associations": [
+    "Kurzform/Koseform von Katharina",
+    "englische Herkunft bzw. englische Namensform",
+    "Bedeutung im Umfeld von „die Reine“",
+    "weiblicher Vorname",
+    "selten in Deutschland",
+    "eigenständige Namensverwendung",
+    "Namenstag in einigen Namensquellen"
+  ],
+  "confidence": 0.78,
+  "display_text": "Kitty wird in Deutschland eher selten wahrgenommen und in den vorliegenden Quellen sachlich bis leicht positiv beschrieben. Der Name wirkt kurz, weich und etwas verspielt; öffentliche Resonanz ist vorhanden, aber nur schwach breit belegt.",
+  "evidence_quality": "mittelstark, aber nicht repräsentativ: zwei namenkundliche Webquellen mit klarer Namensdiskussion, jedoch ohne belastbare Umfrage- oder Social-Media-Breite.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Kitty",
+  "normalized_name": "kitty",
+  "overall_resonance": "Die öffentliche Rezeption von „Kitty“ in den vorliegenden Quellen wirkt überwiegend sachlich und eher freundlich-neutral. Der Name wird vor allem als englische Kurz- bzw. Koseform und als eigenständiger Vorname eingeordnet, mit eher spielerisch-weichem Klang. Für die öffentliche Wahrnehmung in Deutschland deutet die Evidenz auf einen seltenen Namen mit klarer Namenskenntnis, aber nur begrenzter Breitenresonanz hin.",
+  "practical_notes": [
+    "Für Suchmaschinen- oder Namenskontexte wirkt „Kitty“ unkompliziert und positiv anschlussfähig.",
+    "Wer einen seltenen, international klingenden und eher liebevoll wirkenden Namen sucht, findet hier eine passende Einordnung.",
+    "In Deutschland dürfte der Name eher auffallen als alltäglich wirken."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz zur öffentlichen Resonanz ist nur mittelstark und stützt sich vor allem auf Namensportale, nicht auf breite repräsentative Meinungsdaten.",
+    "Einzelkommentare und Lexikonangaben können die Wahrnehmung verzerren; sie sind daher nur vorsichtig zu gewichten.",
+    "Keine Hinweise auf eine belastbare soziale Stigmatisierung in den vorliegenden Quellen."
+  ],
+  "short_summary": "„Kitty“ wird in den Quellen als seltener, englisch geprägter und eher freundlich-leichter Vorname beschrieben; die öffentliche Resonanz wirkt sachlich bis leicht positiv, aber nur begrenzt breit belegt.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Kitty � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/K/Ki/Kitty/"
+    },
+    {
+      "confidence": 0.94,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Kitty: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Kitty.html"
+    }
+  ],
+  "style_effect": [
+    "kurz und freundlich",
+    "leicht verspielt",
+    "englisch geprägt",
+    "kosenameartig",
+    "modern-ungewöhnlich",
+    "weich im Klang"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Eher gering bis mittel: Der Name ist in Deutschland bekannt, aber laut den Quellen eher selten und nicht stark verbreitet. Die öffentliche Aufmerksamkeit scheint vor allem auf Namenslexika und Einordnungen zu beruhen, weniger auf breiter Alltagspräsenz."
+}

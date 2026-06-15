@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "hebräische/biblische Herkunft",
+    "Bedeutung im Sinn von \"Gott hat gehört\"",
+    "männlicher Vorname",
+    "Namenstag",
+    "Varianten und Kurzformen",
+    "eher seltene bis moderate Verbreitung in Deutschland"
+  ],
+  "confidence": 0.84,
+  "display_text": "Simeon wirkt in der öffentlichen Wahrnehmung überwiegend sachlich bis leicht positiv: biblisch, klassisch und eher selten. Die vorhandene Evidenz ist jedoch begrenzt und stammt vor allem aus Namenslexika, nicht aus einer breiten öffentlichen Debatte.",
+  "evidence_quality": "mittel bis gering: zwei einschlägige Namensquellen, aber kaum freie öffentliche Diskussion oder breites Stimmungsbild.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Simeon",
+  "normalized_name": "simeon",
+  "overall_resonance": "Simeon wird in der öffentlichen Wahrnehmung vor allem sachlich und eher positiv-nüchtern eingeordnet. Der Name wirkt biblisch, traditionsreich und zugleich vergleichsweise selten. Eine breite Debatte oder starke Polarisierung ist in der vorliegenden Evidenz nicht erkennbar.",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt Simeon zuverlässig, klassisch und kulturell verankert.",
+    "Der Name dürfte eher als bewusst gewählt und nicht als Modename wahrgenommen werden.",
+    "Wegen der biblischen Prägung kann er traditionell oder ernsthaft wirken."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenzlage ist begrenzt und stark quellengebunden; eine breite öffentliche Resonanz ist nur indirekt sichtbar.",
+    "Leicht positive Töne können aus Beliebtheit oder Namensprofilen stammen, nicht zwingend aus echter öffentlicher Zustimmung.",
+    "Keine Hinweise auf soziale Stigmatisierung in der vorliegenden Evidenz."
+  ],
+  "short_summary": "Simeon wird meist sachlich, leicht positiv und traditionsnah wahrgenommen; der Name wirkt biblisch, klassisch und eher selten, bei insgesamt begrenzter öffentlicher Debatte.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Simeon � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/S/Si/Simeon/"
+    },
+    {
+      "confidence": 0.91,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Simeon: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Simeon.html"
+    }
+  ],
+  "style_effect": [
+    "biblisch und traditionsbewusst",
+    "klassisch, aber nicht überpräsent",
+    "eher ruhig und seriös",
+    "durch Seltenheit etwas markanter",
+    "informativ statt emotional aufgeladen"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Mittlere Sichtbarkeit im Namensumfeld, aber wenig echte öffentliche Diskussion. Die verfügbare Evidenz stammt überwiegend aus Namenslexika und Informationsseiten, nicht aus einer breiten Meinungsdebatte."
+}

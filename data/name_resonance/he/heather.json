@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "englischer Mädchenname",
+    "Heidekraut / Pflanzenbezug",
+    "britisch-international",
+    "selten in Deutschland",
+    "wohlklingend",
+    "klassisch-lexikalisch"
+  ],
+  "confidence": 0.76,
+  "display_text": "Heather wirkt in Deutschland eher selten, international und weich klingend. Die vorhandenen Namensquellen zeichnen ein überwiegend positives bis neutrales Bild, allerdings ist die Evidenz zur tatsächlichen öffentlichen Resonanz begrenzt.",
+  "evidence_quality": "Begrenzt: zwei namenskundliche Webquellen, beide eindeutig zum Vornamen, aber keine starke direkte Evidenz zur öffentlichen Alltagsresonanz.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Heather",
+  "normalized_name": "heather",
+  "overall_resonance": "Eher positiv bis neutral, mit klarer Tendenz zu einem als international, weich klingend und namenskundlich interessant wahrgenommenen Vornamen. In Deutschland wirkt Heather zugleich eher selten und dadurch auffälliger als gebräuchlich.",
+  "practical_notes": [
+    "Für eine Namenssuche in Deutschland wirkt Heather ungewöhnlich und international.",
+    "Die Seltenheit kann als Vorteil für Individualität gelesen werden, kann aber auch Erklärungsbedarf erzeugen.",
+    "Die Bedeutung und der Klang tragen eher zu einer freundlichen, sanften Gesamtwirkung bei."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenzlage zur öffentlichen Resonanz ist schwach und basiert überwiegend auf Namensdatenbanken.",
+    "Es gibt keine belastbare Breitenwahrnehmung aus sozialen Medien oder repräsentativen Umfragen.",
+    "Etwaige positive Formulierungen in den Quellen sind eher lexikalische Einordnungen als direkte öffentliche Meinungsbilder."
+  ],
+  "short_summary": "Heather wird in Deutschland eher selten, international und klanglich angenehm wahrgenommen. Die Tendenz ist positiv bis neutral, die Evidenz dafür ist jedoch begrenzt.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.95,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Heather � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/H/He/Heather/"
+    },
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "überwiegend positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Heather: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Heather.html"
+    }
+  ],
+  "style_effect": [
+    "englisch/international",
+    "weich und wohlklingend",
+    "naturnah durch die Bedeutung 'Heidekraut'",
+    "eher selten in Deutschland",
+    "namenskundlich bekannt, aber im Alltag wenig verbreitet"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Die öffentliche Sichtbarkeit in Deutschland scheint niedrig bis moderat zu sein. Die verfügbare Evidenz stammt vor allem aus Vornamensdatenbanken und Namenslexika, daher ist die tatsächliche öffentliche Resonanz nur eingeschränkt belegbar."
+}

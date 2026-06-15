@@ -1,0 +1,70 @@
+{
+  "associations": [
+    "englischer Sprachraum",
+    "Koseform von Alice",
+    "altfranzösische bzw. althochdeutsche Herleitungen werden genannt",
+    "Bedeutungsfeld um 'edel', 'nobel' oder 'von edler Art'",
+    "weiblicher Vorname",
+    "selten bis mäßig verbreitet in Deutschland",
+    "Namenstag wird erwähnt"
+  ],
+  "confidence": 0.72,
+  "display_text": "Alison wirkt in den vorliegenden deutschen Namensquellen überwiegend neutral bis leicht positiv: international, weich klingend und eher selten bis mäßig verbreitet. Eine breite öffentliche Diskussion in DE ist daraus allerdings nur schwach erkennbar.",
+  "evidence_quality": "mittel bis schwach: mehrere einschlägige Namensseiten, aber kaum unabhängige öffentliche Diskussion in DE",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Alison",
+  "normalized_name": "alison",
+  "overall_resonance": "Alison wird in den vorliegenden deutschsprachigen Namensquellen überwiegend neutral bis leicht positiv beschrieben. Der Name wirkt eher international und klanglich angenehm, mit sachlichen Hinweisen auf Herkunft, Bedeutung und Beliebtheit; eine breite öffentliche Debatte in DE ist daraus aber nur schwach ablesbar.",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt Alison unkompliziert, international verständlich und eher positiv besetzt.",
+    "Wer eine starke Alltagsverbreitung in DE sucht, findet eher einen seltenen bis mäßig verbreiteten Namen.",
+    "Die verfügbaren Quellen liefern mehr Namenskunde als echte Rezeption im öffentlichen Diskurs."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt fast ausschließlich aus Namenslexika und nicht aus freier öffentlicher Debatte.",
+    "Einige wertende Aussagen zur Klangwirkung sind subjektiv und nicht breit verifiziert.",
+    "Die öffentliche Resonanz in Deutschland ist daher nur eingeschränkt belastbar."
+  ],
+  "short_summary": "Alison wird in deutschen Namensquellen meist neutral bis leicht positiv dargestellt: international, klangvoll und eher selten bis mäßig verbreitet. Die Evidenz für eine breite öffentliche Resonanz ist jedoch begrenzt.",
+  "source_count": 3,
+  "sources": [
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Alison � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/A/Al/Alison/"
+    },
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Alison � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/A/Al/Alison/"
+    },
+    {
+      "confidence": 0.84,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Alison: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Alison.html"
+    }
+  ],
+  "style_effect": [
+    "international",
+    "weich klingend",
+    "modern wirkend",
+    "eher selten bis mäßig verbreitet",
+    "namenskundlich bekannt",
+    "leicht elegant/nobel konnotiert"
+  ],
+  "usable_evidence_count": 3,
+  "visibility": "Eher gering bis mittel: In Deutschland erscheint Alison vor allem in Namenslexika und Vornamensseiten, nicht als stark öffentlich diskutierter Name."
+}

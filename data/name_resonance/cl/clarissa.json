@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "lateinische Herkunft",
+    "Bedeutungsfelder wie 'die Helle', 'die Leuchtende' oder 'die Strahlende'",
+    "Nähe zu Clara/Klara",
+    "Namenstag und Namenskunde",
+    "historische bzw. literarische Bekanntheit",
+    "seltenere, aber positiv bewertete Namenswahl"
+  ],
+  "confidence": 0.85,
+  "display_text": "Clarissa gilt im deutschsprachigen Raum überwiegend als klassischer, freundlich-eleganter und eher seltener Vorname. Die öffentliche Rezeption ist meist positiv bis neutral; der Name wirkt markant, aber nicht aufdringlich.",
+  "evidence_quality": "mittel bis gut; klare Namensbezüge, aber nur wenige Quellen und teils portaltypische Darstellung",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Clarissa",
+  "normalized_name": "clarissa",
+  "overall_resonance": "Clarissa wird im deutschsprachigen Raum überwiegend als klassischer, freundlich-klingender und eher eleganter Mädchenname wahrgenommen. Die öffentliche Rezeption ist insgesamt positiv bis neutral.",
+  "practical_notes": [
+    "Für Suchmaschinen und Namensportale wirkt Clarissa gut verständlich und meist positiv besetzt.",
+    "Der Name dürfte eher als stilvoll und etwas außergewöhnlich wahrgenommen werden als als massenhaft gebräuchlich.",
+    "Die Schreibweise ist klar, die Aussprache im Deutschen meist unkompliziert."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz basiert auf nur zwei Namensportalen; die Aussagekraft ist deshalb begrenzt.",
+    "Einzelne Nutzerkommentare sollten nur vorsichtig gewichtet werden.",
+    "Zur tatsächlichen Verbreitung liegen hier keine umfassenden Statistikdaten vor."
+  ],
+  "short_summary": "Clarissa ist im Deutschen meist positiv, klassisch und elegant konnotiert, aber eher selten. Die Quellen deuten auf eine freundliche, literarisch anmutende Wahrnehmung hin.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "positive",
+      "source_type": "web",
+      "title": "Vorname Clarissa � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/C/Cl/Clarissa/"
+    },
+    {
+      "confidence": 0.94,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Clarissa: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Clarissa.html"
+    }
+  ],
+  "style_effect": [
+    "klingt weich und melodisch",
+    "wirkt eher bildungsnah oder literarisch",
+    "hat einen klassischen, leicht eleganten Charakter",
+    "erscheint als Variante im Umfeld von Clara/Klara",
+    "durch die Seltenheit etwas markant und individuell"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Eher selten bis wenig verbreitet; dadurch wirkt der Name auffällig, aber nicht mainstream. Die Sichtbarkeit in Namensportalen ist vorhanden, die Alltagsverbreitung scheint jedoch begrenzt."
+}

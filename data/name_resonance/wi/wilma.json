@@ -1,0 +1,64 @@
+{
+  "associations": [
+    "Kurzform von Wilhelma/Wilhelmina",
+    "Bedeutung: „die entschlossene Beschützerin“",
+    "altdeutsche Herkunft",
+    "historisch in Deutschland zeitweise beliebt",
+    "seit den 2010er-Jahren wieder im Aufwind",
+    "Popkultur-Bezug über Wilma Feuerstein",
+    "teilweise auch als Vilma-Variante genannt"
+  ],
+  "confidence": 0.76,
+  "display_text": "Wilma wirkt in der öffentlichen Wahrnehmung eher positiv, klassisch und etwas nostalgisch. Der Name wird meist als altdeutsch geprägt, klar im Klang und mit der Bedeutung „die entschlossene Beschützerin“ verbunden. Zugleich scheint er seit einigen Jahren wieder an Beliebtheit zu gewinnen. Die Belege dafür sind allerdings vor allem namenskundlich und nur begrenzt direkt öffentlich-meinungsbasiert.",
+  "evidence_quality": "mittel bis schwach: inhaltlich klare Namensinformationen, aber nur begrenzte direkte öffentliche Meinungsdaten",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Wilma",
+  "normalized_name": "wilma",
+  "overall_resonance": "Eher positiv und freundlich-klassisch, mit leicht nostalgischer Note. In der öffentlichen Namenswahrnehmung wird Wilma vor allem als altdeutsch wirkender Vorname mit klarer Bedeutung und wieder wachsender Beliebtheit beschrieben.",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt Wilma klar, kompakt und gut merkbar.",
+    "Der Name vermittelt eher klassische als modische Anmutung.",
+    "Wegen der Wiederentdeckung seit den 2010er-Jahren kann er zugleich vertraut und etwas besonders wirken."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt überwiegend aus Namenslexika und redaktionell aufbereiteten Seiten; direkte öffentliche Resonanz ist nur eingeschränkt ablesbar.",
+    "Einzelne popkulturelle Bezüge sind bekannt, aber keine verlässliche Aussage über eine breite Mehrheitsmeinung.",
+    "Die wahrgenommene Wirkung kann je nach Generation und Umfeld unterschiedlich ausfallen."
+  ],
+  "short_summary": "Wilma wird überwiegend freundlich und klassisch wahrgenommen, mit altdeutscher Prägung und leichtem Retro-Charme. Die Evidenz für die öffentliche Resonanz ist jedoch eher indirekt als breit meinungsbasiert.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Wilma � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/W/Wi/Wilma/"
+    },
+    {
+      "confidence": 0.89,
+      "is_name_discussion": true,
+      "sentiment": "überwiegend positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Wilma: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Wilma.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "altdeutsch",
+    "kurz und markant",
+    "nostalgisch",
+    "freundlich",
+    "leicht bodenständig",
+    "selten, aber vertraut",
+    "wieder im Trend"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Mittel: Der Name ist bekannt, aber die Evidenz zur öffentlichen Resonanz ist nur indirekt und stark namenskundlich geprägt. Belastbare freie Meinungsäußerungen sind in den Quellen eher begrenzt."
+}

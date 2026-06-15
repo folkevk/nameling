@@ -1,0 +1,58 @@
+{
+  "associations": [
+    "Bedeutungen wie „die Tapfere“, „die Tüchtige“",
+    "mögliche Wurzeln im Althochdeutschen, Altnordischen oder Gotischen",
+    "historische und literarische Bezüge",
+    "Namenstag",
+    "Kurzformen wie Mali, Malia, Lia oder Mila"
+  ],
+  "confidence": 0.8,
+  "display_text": "Amalia wirkt in den vorliegenden Quellen klassisch, elegant und positiv besetzt. Der Name wird vor allem mit Bedeutungen wie „tapfer“ oder „tüchtig“, mit Herkunftsangaben und mit literarisch-historischen Bezügen verbunden. Eine breite öffentliche Debatte ist kaum sichtbar; die Evidenz stammt überwiegend aus Namenslexika.",
+  "evidence_quality": "mittel bis schwach: zwei überwiegend lexikalische Quellen, kaum echte Meinungs- oder Debattenevidenz",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Amalia",
+  "normalized_name": "amalia",
+  "overall_resonance": "Amalia wird in den vorliegenden Quellen überwiegend freundlich und klassisch wahrgenommen: der Name wirkt traditionsnah, elegant und positiv besetzt, vor allem durch Bedeutungen wie „tapfer“ oder „tüchtig“ sowie durch seine historische und literarische Einordnung.",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt Amalia in den Quellen eher hochwertig und traditionsreich als modern-experimentell.",
+    "Die Schreib- und Klangform ist klar erkennbar und in Deutschland gut einordenbar.",
+    "Kurzformen werden in den Quellen häufig mitgedacht, was den Namen im Alltag flexibler erscheinen lässt."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt fast ausschließlich aus Namenslexika und Infoseiten; echte öffentliche Resonanz oder Alltagswahrnehmung ist nur begrenzt abgebildet.",
+    "Die positiven Bedeutungen und Popularitätsangaben sind beschreibend, nicht als allgemeine gesellschaftliche Bewertung zu verstehen."
+  ],
+  "short_summary": "Amalia wird in den Quellen überwiegend positiv, klassisch und traditionsnah dargestellt; die Evidenz ist aber vor allem lexikalisch und daher nur begrenzt repräsentativ.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Amalia � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/A/Am/Amalia/"
+    },
+    {
+      "confidence": 0.95,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Amalia: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Amalia.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch und zeitlos",
+    "elegant und weich im Klang",
+    "traditions- und herkunftsbetont",
+    "leicht bildungsnah/literarisch",
+    "positiv konnotiert durch Bedeutungsangaben"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland ist Amalia bekannt und suchbar, wirkt aber eher wie ein stilvoller, nicht massenhaft dominanter Vorname. Die öffentliche Rezeption in den Quellen ist mehr beschreibend als debattierend; eine echte breite Meinungsdiskussion ist nicht erkennbar."
+}

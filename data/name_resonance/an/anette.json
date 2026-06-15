@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "Bedeutung: die Anmutige / die Begnadete / die Liebreizende",
+    "Herkunft über Anna/Anne, althebräisch",
+    "Variante bzw. Form von Annette",
+    "Namenstag",
+    "in Deutschland eher selten"
+  ],
+  "confidence": 0.87,
+  "display_text": "Anette wird öffentlich vor allem sachlich und leicht positiv wahrgenommen. Der Name wirkt klassisch, freundlich und eher selten in Deutschland. Die Evidenz ist jedoch begrenzt und stammt überwiegend aus Namenslexika, daher ist die Aussagekraft zur breiten öffentlichen Resonanz eingeschränkt.",
+  "evidence_quality": "mittel bis schwach: klare Namensbeschreibung, aber nur wenige, vor allem lexikalische Quellen mit begrenzter Aussagekraft zur öffentlichen Resonanz.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Anette",
+  "normalized_name": "anette",
+  "overall_resonance": "Anette wird öffentlich eher sachlich und zurückhaltend wahrgenommen. Die verfügbaren Quellen beschreiben den Namen vor allem lexikalisch; die Grundwirkung ist leicht positiv durch Bedeutungsassoziationen wie „anmutig“ oder „liebevoll“, aber nicht stark emotional aufgeladen.",
+  "practical_notes": [
+    "Für Suchmaschinen- oder Namensprofile eignet sich eine neutrale, leicht freundliche Beschreibung.",
+    "Der Name wirkt vertraut, aber nicht modisch oder stark trendgetrieben.",
+    "Wegen der Seltenheit kann er als individuell wahrgenommen werden, ohne ungewöhnlich zu wirken."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist begrenzt und stützt sich im Wesentlichen auf zwei Namenslexikon-Seiten.",
+    "Es gibt keine belastbaren Hinweise auf eine breitere öffentliche Kontroverse oder starke gesellschaftliche Zuschreibungen.",
+    "Positive Kommentare in den Quellen sind eher anekdotisch und sollten nicht als allgemeine Mehrheitsmeinung verstanden werden."
+  ],
+  "short_summary": "Anette wirkt in Deutschland eher klassisch, ruhig und leicht positiv konnotiert, bei insgesamt geringer öffentlicher Präsenz.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Anette � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/A/An/Anette/"
+    },
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Anette: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Anette.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "zeitlos",
+    "nüchtern",
+    "freundlich",
+    "eher selten",
+    "namenskundlich vertraut"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Eher gering bis mittel: In den vorliegenden Quellen erscheint Anette als klar erkennbarer, aber insgesamt seltener Vorname in Deutschland. Eine breite öffentliche Debatte ist nicht belegt."
+}

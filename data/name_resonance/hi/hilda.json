@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "althochdeutsche Herkunft",
+    "Bedeutung im Umfeld von \"Kämpferin\" / \"Kriegerin\"",
+    "Kurzform germanischer Namen mit Hild-",
+    "Namenstag am 17. November",
+    "historisch in Deutschland verbreitet",
+    "heute eher regelmäßig, aber nicht häufig"
+  ],
+  "confidence": 0.88,
+  "display_text": "Hilda wirkt im deutschsprachigen Raum überwiegend positiv und traditionell: ein klassischer, eher seltener Mädchenname mit althochdeutscher Herkunft und starker Bedeutungsnote rund um \"Kämpferin\" oder \"Kriegerin\". Die öffentliche Einordnung ist vor allem sachlich-lexikalisch; belastbare breite Meinungsdaten sind nur begrenzt vorhanden.",
+  "evidence_quality": "mittelstark",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Hilda",
+  "normalized_name": "hilda",
+  "overall_resonance": "überwiegend positiv bis neutral",
+  "practical_notes": [
+    "Für Suchmaschinen-Nutzer wirkt Hilda klar, traditionell und gut einordenbar.",
+    "Der Name hat eine verständliche Bedeutung und eine lange Herkunftstradition.",
+    "Wer einen seltenen, aber nicht exotischen Namen sucht, könnte Hilda als passend empfinden."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt vor allem aus Namenslexika und redaktionellen Beschreibungen, nicht aus einer breiten freien öffentlichen Debatte.",
+    "Die Wahrnehmung als \"positiv\" ist eher eine lexikalische Einordnung als ein direkt gemessener Publikumskonsens.",
+    "Seltenheit kann je nach Umfeld als klassisch oder ungewohnt wahrgenommen werden."
+  ],
+  "short_summary": "Hilda wird im Deutschen meist sachlich, eher positiv und traditionell wahrgenommen: ein klassischer, seltener Frauenname mit althochdeutscher Herkunft und der Bedeutung rund um \"Kämpferin\".",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Hilda � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/H/Hi/Hilda/"
+    },
+    {
+      "confidence": 0.92,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Hilda: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Hilda.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "kurz und prägnant",
+    "traditionsnah",
+    "eher feminin",
+    "leicht kraftvoll durch die Bedeutungsebene"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "im deutschsprachigen Raum bekannt, aber eher selten und nicht stark modisch"
+}

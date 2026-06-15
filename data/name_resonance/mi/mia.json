@@ -1,0 +1,69 @@
+{
+  "associations": [
+    "weiblicher Vorname",
+    "Kurzform bzw. Form von Maria/Mirjam",
+    "skandinavische und biblische Bezüge",
+    "Deutungen wie \"die Geliebte\" oder \"die (von Gott) Geschenkte\"",
+    "sehr beliebt in Deutschland",
+    "modern",
+    "stark aufstrebend"
+  ],
+  "confidence": 0.92,
+  "display_text": "Mia wirkt öffentlich überwiegend positiv: ein kurzer, moderner und in Deutschland sehr beliebter Vorname. Die Bedeutung und Herkunft werden je nach Quelle unterschiedlich gedeutet, daher ist die Evidenz eher beschreibend als eindeutig. ",
+  "evidence_quality": "mittel bis gut: mehrere klar namenskundliche Quellen mit überwiegend positiver, aber vor allem beschreibender Resonanz; wenig unabhängige Meinungsvielfalt.",
+  "generated_at": "2026-06-12T06:08:03Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Mia",
+  "normalized_name": "mia",
+  "overall_resonance": "Überwiegend positiv und sehr populär wahrgenommen. Mia wird in den Quellen vor allem als moderner, kurzer und derzeit stark beliebter Vorname beschrieben. Die öffentliche Rezeption wirkt eher freundlich und unaufgeregt als kontrovers.",
+  "practical_notes": [
+    "Für die öffentliche Wahrnehmung ist Mia derzeit ein sehr vertrauter und positiv besetzter Name.",
+    "Die kurze Form kann als unkompliziert und leicht merkbar wahrgenommen werden.",
+    "Wer eine eindeutige historische Herkunft erwartet, sollte beachten, dass die Deutungen je nach Quelle variieren."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Herkunftsdeutungen sind mehrdeutig und werden je nach Quelle unterschiedlich erklärt.",
+    "Die Evidenz stammt überwiegend aus Namenslexika und beschreibenden Webseiten; die Einordnung ist daher eher informativ als unabhängig belegt.",
+    "Es gibt keine Hinweise auf soziale Stigmatisierung in den vorliegenden Quellen."
+  ],
+  "short_summary": "Mia wird in Deutschland überwiegend positiv, modern und sehr beliebt wahrgenommen. Die Quellen sind vor allem beschreibend und nennen verschiedene Herkunftsdeutungen, daher ist die Einordnung vorsichtig zu lesen.",
+  "source_count": 3,
+  "sources": [
+    {
+      "confidence": 0.95,
+      "is_name_discussion": true,
+      "sentiment": "positive",
+      "source_type": "web",
+      "title": "Vorname Mia � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/M/Mi/Mia/"
+    },
+    {
+      "confidence": 0.99,
+      "is_name_discussion": true,
+      "sentiment": "positive",
+      "source_type": "web",
+      "title": "Vorname Mia � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/M/Mi/Mia/"
+    },
+    {
+      "confidence": 0.95,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Mia: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Mia.html"
+    }
+  ],
+  "style_effect": [
+    "kurz und eingängig",
+    "modern und zeitgemäß",
+    "weich und freundlich wirkend",
+    "international anschlussfähig",
+    "klassisch über Herkunftsdeutungen, aber aktuell im Trend"
+  ],
+  "usable_evidence_count": 3,
+  "visibility": "Sehr hoch: In Deutschland ist Mia laut den vorliegenden Quellen ein sehr bekannter und häufig diskutierter Mädchenname, vor allem im Zusammenhang mit Beliebtheit, Herkunft und Bedeutung."
+}

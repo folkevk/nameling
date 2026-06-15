@@ -1,0 +1,63 @@
+{
+  "associations": [
+    "Bedeutung: friedlich",
+    "Bedeutung: wunderbar/bewundernswert",
+    "Bedeutung: Meer/Ozean",
+    "Kurzform mehrerer weiblicher Namen",
+    "modern",
+    "beliebt in Deutschland",
+    "mehrsprachig anschlussfähig",
+    "Namenstag"
+  ],
+  "confidence": 0.9,
+  "display_text": "Mira wirkt in Deutschland überwiegend positiv und modern. In den verfügbaren Namensquellen wird der Name mit freundlichen Bedeutungen wie „friedlich“ und „wunderbar“ verbunden und als beliebt beschrieben. Die Evidenz stammt vor allem aus Namenslexika, daher ist die öffentliche Resonanz gut, aber nur indirekt belegt.",
+  "evidence_quality": "gut, aber überwiegend indirekt: zwei einschlägige Namenslexikon-Quellen mit klarer Themenpassung, jedoch keine breit angelegte öffentliche Stimmungsanalyse.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Mira",
+  "normalized_name": "mira",
+  "overall_resonance": "Überwiegend positiv und modern wirkend. Mira wird in den vorliegenden Namensquellen meist mit freundlichen, wertschätzenden Bedeutungen wie „friedlich“, „wunderbar“ oder teils auch „Meer/Ozean“ verbunden und als beliebter Vorname in Deutschland beschrieben.",
+  "practical_notes": [
+    "Für eine Namenssuche ist Mira eine kurze, leicht merkbare und in Deutschland gut anschlussfähige Wahl.",
+    "Die Schreibweise ist einfach und international gut verständlich.",
+    "Die Wahrnehmung wirkt insgesamt freundlich und zeitgemäß, ohne starke negative Konnotationen."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist vor allem lexikalisch; eine direkte öffentliche Meinungsanalyse liegt nur indirekt vor.",
+    "Die genannten Bedeutungen und Herkunftszuordnungen können je nach Quelle variieren.",
+    "Keine belastbaren Hinweise auf negative gesellschaftliche Stigmatisierung in den vorliegenden Quellen."
+  ],
+  "short_summary": "Mira wird in den Quellen überwiegend positiv, modern und freundlich wahrgenommen, mit Bedeutungen wie „friedlich“ oder „wunderbar“.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "Vorname Mira � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/M/Mi/Mira/"
+    },
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Mira: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Mira.html"
+    }
+  ],
+  "style_effect": [
+    "modern",
+    "freundlich",
+    "sanft",
+    "elegant",
+    "kurz und eingängig",
+    "namenskundlich positiv aufgeladen"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Der Name ist im deutschsprachigen Raum gut sichtbar und bekannt; die Evidenz deutet auf eine solide, eher positive öffentliche Wahrnehmung hin. Die Aussagen beruhen jedoch vor allem auf Namenslexika und nicht auf breiten Meinungsdaten."
+}

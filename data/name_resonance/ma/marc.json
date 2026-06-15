@@ -1,0 +1,63 @@
+{
+  "associations": [
+    "lateinischer Ursprung",
+    "französische Form von Markus",
+    "Bezug zu Marcus/Mars",
+    "bedeutungsoffene, traditionelle Namensdeutung",
+    "beliebter Vorname in Deutschland",
+    "männlich",
+    "Namensgeschichte",
+    "Namenstag"
+  ],
+  "confidence": 0.78,
+  "display_text": "Marc gilt in den vorliegenden deutschen Quellen als klassischer, bekannter und eher leicht positiv konnotierter Vorname. Die öffentliche Rezeption wirkt sachlich, zeitlos und unaufgeregt. Die Evidenz ist dabei eher namenskundlich als diskussionsbasiert.",
+  "evidence_quality": "mittel bis schwach: klare Namenskunde, aber nur wenig echte öffentliche Diskussion oder breites Meinungsbild.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Marc",
+  "normalized_name": "marc",
+  "overall_resonance": "Der Vorname Marc wirkt in den vorliegenden deutschen Namensquellen überwiegend klassisch, vertraut und eher leicht positiv konnotiert. Die öffentliche Rezeption erscheint sachlich bis freundlich, ohne starke emotionale oder kontroverse Töne.",
+  "practical_notes": [
+    "Für eine Namenssuche eignet sich Marc als kurzer, klarer und gut einordbarer Name.",
+    "Die Wirkung dürfte je nach Kontext eher nüchtern-elegant als auffällig-extravagant erscheinen.",
+    "Die Quellenlage ist solide für Herkunft und Einordnung, aber begrenzt für echte öffentliche Resonanz."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz basiert hauptsächlich auf Namensdatenbanken und lexikalischen Quellen, nicht auf freier öffentlicher Diskussion.",
+    "Die positive Tendenz ist eher schwach und ergibt sich vor allem aus Klassik, Bekanntheit und Beliebtheit, nicht aus starken Stimmen.",
+    "Keine belastbaren Hinweise auf Stigmatisierung oder negative gesellschaftliche Stereotype in den vorliegenden Quellen."
+  ],
+  "short_summary": "Marc wird in den Quellen als klassischer, bekannter und leicht positiv wahrgenommener Vorname beschrieben. Die Resonanz ist überwiegend sachlich und traditionsnah.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "Vorname Marc � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/M/Ma/Marc/"
+    },
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Marc: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Marc.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "kurz und klar",
+    "traditionell",
+    "zeitlos",
+    "eher sachlich als verspielt",
+    "etwas international durch die französische Form"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland ist Marc als bekannter, etablierter Jungenname gut sichtbar; die Wahrnehmung wird vor allem durch Namenslexika, Herkunftsangaben und Beliebtheitskontext geprägt. Die Evidenz ist jedoch eher beschreibend als diskussionsbasiert."
+}

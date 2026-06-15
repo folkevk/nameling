@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "männlicher Vorname",
+    "gälische bzw. englische Herkunft",
+    "Kurzform von Nikolaus",
+    "Bedeutungsdeutungen wie „Sieg des Volkes“",
+    "auch als Schreibvariante Collin bekannt",
+    "in Deutschland gebräuchlich",
+    "Namenlexikon-/Ratgeberkontext"
+  ],
+  "confidence": 0.83,
+  "display_text": "Colin wirkt in Deutschland überwiegend sachlich bis leicht positiv: ein etablierter, moderner und international gebräuchlicher Vorname. Die öffentliche Wahrnehmung ist eher informativ als kontrovers; die Evidenz ist solide, aber nicht breit.",
+  "evidence_quality": "mittel: zwei einschlägige Namensquellen mit überwiegend sachlich-positiver Darstellung, aber begrenzter Breite und leichten inhaltlichen Widersprüchen",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Colin",
+  "normalized_name": "colin",
+  "overall_resonance": "Colin wird in den vorliegenden deutschen Namensquellen überwiegend sachlich bis leicht positiv wahrgenommen. Der Name erscheint etabliert, modern und international gebräuchlich; die öffentliche Rezeption ist vor allem informativ statt emotional aufgeladen.",
+  "practical_notes": [
+    "Für die Namenssuche wirkt Colin neutral bis freundlich und wenig erklärungsbedürftig.",
+    "Der Name wird eher als modern-international gelesen als als ausgefallen oder altmodisch.",
+    "Je nach Quelle können unterschiedliche Herkunftsdeutungen genannt werden; das ist bei der Einordnung normal."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Quellenlage ist begrenzt und basiert vor allem auf Namensportalen, nicht auf breiter öffentlicher Diskussion.",
+    "Es gibt kleine Uneinheitlichkeiten bei Herkunft und Bedeutungsdeutung; deshalb nur vorsichtige Schlussfolgerungen.",
+    "Beliebtheitsangaben sind vorhanden, aber nicht durchgängig konsistent."
+  ],
+  "short_summary": "Colin gilt in deutschen Namensquellen als etablierter, moderner und internationaler Vorname mit überwiegend sachlich-positiver Resonanz.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "überwiegend positiv und sachlich-informativ",
+      "source_type": "web",
+      "title": "Vorname Colin � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/C/Co/Colin/"
+    },
+    {
+      "confidence": 0.88,
+      "is_name_discussion": true,
+      "sentiment": "eher positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Colin: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Colin.html"
+    }
+  ],
+  "style_effect": [
+    "modern",
+    "international",
+    "etabliert",
+    "kurz und klar",
+    "sachlich-informativ"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland ist Colin sichtbar und bekannt, vor allem über Namenslexika und Vornamensseiten. Die Evidenz spricht eher für eine stabile, moderate Präsenz als für einen stark polarisierenden Namen."
+}

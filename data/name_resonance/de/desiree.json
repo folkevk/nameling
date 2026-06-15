@@ -1,0 +1,62 @@
+{
+  "associations": [
+    "lateinischer Ursprung",
+    "französische Schreibweise",
+    "die Erwünschte / die Ersehnte",
+    "Sehnsucht / Verlangen",
+    "weiblicher Vorname",
+    "Namenstag",
+    "Spitznamen wie Desi oder Desy"
+  ],
+  "confidence": 0.87,
+  "display_text": "Desiree wirkt in der öffentlichen Wahrnehmung überwiegend neutral bis leicht positiv. Der Name wird vor allem als französisch anmutend, klassisch und elegant beschrieben. Die Bedeutung wird meist mit „die Erwünschte“ oder „die Ersehnte“ verbunden. Die vorliegende Evidenz ist vor allem namenkundlich und damit gut für Herkunft und Bedeutung, aber nur begrenzt für eine breite Stimmungslage. Hinweise auf soziale Stigmatisierung ergeben sich hier nicht.",
+  "evidence_quality": "Gut für Herkunft, Bedeutung und Namensgebrauch; nur mittel für die öffentliche Resonanz, da die Quellen vor allem namenkundlich sind.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Desiree",
+  "normalized_name": "desiree",
+  "overall_resonance": "Überwiegend neutral bis leicht positiv; der Name wird vor allem sachlich-namenkundlich wahrgenommen.",
+  "practical_notes": [
+    "Für eine Namenssuche ist die Bedeutung gut erklärbar und leicht zugänglich.",
+    "Die französisch wirkende Form kann als elegant oder international empfunden werden.",
+    "Kurzformen und Varianten sind bekannt, was den Namen alltagstauglich macht.",
+    "In Deutschland ist der Name erkennbar, aber nicht der derzeit dominanteste Trendname."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt vor allem aus Namenslexika und Portalen; das ist gut für Bedeutung und Einordnung, aber nur begrenzt für echte öffentliche Stimmung.",
+    "Einzelne Kommentare auf Portalen sind subjektiv und nicht als allgemeine Meinung zu verstehen.",
+    "Keine belastbaren Hinweise auf eine starke soziale Stigmatisierung in der vorliegenden Evidenz."
+  ],
+  "short_summary": "Desiree wird in Deutschland überwiegend neutral bis leicht positiv wahrgenommen: ein französisch wirkender, klassisch-eleganter Vorname mit der Bedeutung „die Erwünschte/Ersehnte“.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.99,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Desiree � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/D/De/Desiree/"
+    },
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Desiree: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Desiree.html"
+    }
+  ],
+  "style_effect": [
+    "klingt französisch und elegant",
+    "wirkt klassisch und weich",
+    "wird oft als fremdsprachig bzw. international gelesen",
+    "hat eine klare, gut erkennbare Namensform",
+    "erscheint in der öffentlichen Wahrnehmung eher als stilvoll als modisch"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Mittel bis gut sichtbar in Namensportalen, aber ohne klare Hinweise auf breite öffentliche Debatten."
+}

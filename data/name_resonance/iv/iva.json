@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "Bedeutungshinweise wie Eibe oder freie Deutung als Bogenschützin",
+    "mögliche Herkunftsbezüge: althochdeutsch, althebräisch oder slawisch",
+    "weiblicher Vorname",
+    "Variante bzw. Kurzform von Ivana/Ivo",
+    "Namenstag",
+    "selten bzw. nicht häufig"
+  ],
+  "confidence": 0.84,
+  "display_text": "Iva wirkt in deutschen Namensquellen überwiegend freundlich und positiv: kurz, melodisch, selten und international verständlich. Die verfügbare Evidenz ist jedoch vor allem beschreibend aus Namenslexika, nicht aus einer breiten öffentlichen Debatte.",
+  "evidence_quality": "mittel bis schwach: zwei überwiegend beschreibende Namensportale, teils mit subjektiven Kommentaren und ohne breite Diskussionslage.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Iva",
+  "normalized_name": "iva",
+  "overall_resonance": "Eher positiv und sachlich-informativ: Iva wird in den vorliegenden Namensquellen vor allem als kurzer, melodischer und international verwendbarer Mädchenname beschrieben. Die öffentliche Wahrnehmung wirkt insgesamt freundlich, aber die Evidenz ist eher lexikalisch als diskussionsbasiert.",
+  "practical_notes": [
+    "Für Suchmaschinen-Nutzer wirkt der Name leicht verständlich und unkompliziert.",
+    "Die knappe Form kann als modern und markant wahrgenommen werden.",
+    "Da der Name selten ist, fehlt eine starke allgemeine Alltagsprägung im deutschen Sprachraum."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Quellen sind überwiegend Namenslexika und keine echte öffentliche Meinungsdebatte.",
+    "Die Einschätzung zur Resonanz ist daher nur indirekt aus Beschreibungen und einzelnen Nutzerkommentaren abgeleitet.",
+    "Beliebtheitshinweise sind nicht gleichbedeutend mit breiter gesellschaftlicher Bewertung."
+  ],
+  "short_summary": "Iva wird in deutschen Namensquellen meist positiv, kurz, melodisch und selten beschrieben; die Evidenz ist aber vor allem lexikalisch und nur eingeschränkt öffentlich-diskursiv.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.95,
+      "is_name_discussion": true,
+      "sentiment": "positive",
+      "source_type": "web",
+      "title": "Vorname Iva � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/I/Iv/Iva/"
+    },
+    {
+      "confidence": 0.86,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Iva: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Iva.html"
+    }
+  ],
+  "style_effect": [
+    "kurz und prägnant",
+    "melodisch",
+    "international anschlussfähig",
+    "namenskundlich",
+    "eher modern-klar als verspielt"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Eher selten bis nicht sehr häufig in Deutschland; dadurch wirkt der Name präsent, aber nicht massenhaft verbreitet."
+}

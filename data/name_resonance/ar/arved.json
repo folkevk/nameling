@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "altnordische Herkunft",
+    "Bedeutung in der Art von „Adler des Waldes“",
+    "nordisch/skandinavische Anmutung",
+    "männlicher Vorname",
+    "Namenstag am 31. August",
+    "selten bis mäßig verbreitet in Deutschland"
+  ],
+  "confidence": 0.78,
+  "display_text": "Arved wird meist neutral bis leicht positiv wahrgenommen: nordisch, markant und eher selten. Die vorhandene Evidenz stammt vor allem aus Namenslexika, daher ist die öffentliche Resonanz nur begrenzt belegt.",
+  "evidence_quality": "mittel bis schwach; mehrere Namenslexika, aber wenig direkte soziale Resonanz",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Arved",
+  "normalized_name": "arved",
+  "overall_resonance": "Arved wird in den vorliegenden Quellen überwiegend neutral bis leicht positiv wahrgenommen. Der Name wirkt in der öffentlichen Beschreibung eher eigenständig, nordisch und traditionsnah, ohne starke Polarisierung.",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt Arved ungewöhnlich, aber gut einordenbar.",
+    "Die Schreibweise ist klar und gut lesbar.",
+    "Wegen der Seltenheit kann der Name auffallen, ohne extravagant zu wirken."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz basiert fast ausschließlich auf Namenslexika und Beliebtheitsseiten.",
+    "Konkrete öffentliche Bewertungen oder breite Alltagsresonanz sind nur schwach belegt.",
+    "Die Wirkung als „positiv“ ist eher eine abgeleitete Tendenz als ein klar messbares Urteil."
+  ],
+  "short_summary": "Arved hat in den Quellen eine eher positive, vor allem nordisch-traditionelle Wirkung. Der Name ist selten genug, um eigenständig zu wirken, bei insgesamt begrenzter öffentlicher Resonanz.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.92,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Arved � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/A/Ar/Arved/"
+    },
+    {
+      "confidence": 0.86,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Arved: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Arved.html"
+    }
+  ],
+  "style_effect": [
+    "klingt nordisch und altnordisch",
+    "wirkt klar männlich und eher markant",
+    "hat einen eher klassischen, aber ungebräuchlichen Charakter",
+    "wird mit einer poetischen Bedeutung verknüpft",
+    "erscheint eher seriös als modisch"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Eher selten bis mäßig verbreitet in Deutschland; dadurch ist die öffentliche Resonanz vorhanden, aber nicht sehr breit dokumentiert."
+}

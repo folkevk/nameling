@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "altirische bzw. altenglische Bezüge",
+    "persische Bezüge",
+    "Bedeutungen wie 'der Ausdauernde', 'der Weise' oder 'der König'",
+    "international gebräuchlich",
+    "modern und klar",
+    "Beliebtheit in Deutschland"
+  ],
+  "confidence": 0.89,
+  "display_text": "Kian: überwiegend modern, international und freundlich-klar im Eindruck. Die öffentlich sichtbare Resonanz ist sachlich bis leicht positiv, geprägt von Bedeutungen wie 'der Weise', 'der König' oder 'der Ausdauernde'.",
+  "evidence_quality": "gut bis sehr gut; zwei klar namenskundliche Webquellen mit überwiegend sachlicher, leicht positiver Tonlage",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Kian",
+  "normalized_name": "kian",
+  "overall_resonance": "Kian wirkt in der öffentlichen Namenswahrnehmung überwiegend modern, international und sachlich positiv konnotiert. Die Resonanz ist eher freundlich als stark emotional und wird vor allem über Herkunft, Bedeutung und Klang beschrieben.",
+  "practical_notes": [
+    "Für Suchmaschinen-Nutzer lässt sich Kian als moderner, kurzer und international verständlicher Name zusammenfassen.",
+    "Der Name kann durch die verschiedenen Herkunftsdeutungen kulturell vielseitig wirken.",
+    "In Deutschland dürfte er eher als zeitgemäß und nicht als altmodisch wahrgenommen werden."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist insgesamt gut, aber teils lexikalisch geprägt; öffentliche Alltagsresonanz ist nur indirekt ablesbar.",
+    "Einzelne Quellenangaben und Kommentare sind für die Gesamtbewertung nur begrenzt aussagekräftig.",
+    "Keine belastbaren Hinweise auf soziale Stigmatisierung oder negative Namensbilder in den vorliegenden Quellen."
+  ],
+  "short_summary": "Kian wird in Deutschland überwiegend als moderner, internationaler und freundlich-klarer Jungenname wahrgenommen, mit Bedeutungen und Herkunftsbezügen, die positiv und vielseitig wirken.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.99,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Kian � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/K/Ki/Kian/"
+    },
+    {
+      "confidence": 0.91,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Kian: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Kian.html"
+    }
+  ],
+  "style_effect": [
+    "modern",
+    "international",
+    "kurz und prägnant",
+    "namenskundlich aufgeladen",
+    "leicht markant",
+    "eher zeitlos als verspielt"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Im deutschsprachigen Raum ist Kian sichtbar und bekannt, wirkt aber nicht massenhaft verbreitet. Er erscheint als kurzer, markanter Jungenname mit eher zeitgemäßem Eindruck."
+}

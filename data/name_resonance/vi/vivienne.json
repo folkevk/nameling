@@ -1,0 +1,62 @@
+{
+  "associations": [
+    "französischsprachig",
+    "englischsprachig",
+    "lateinische Herkunft",
+    "etymologisch mit Lebendigkeit verbunden",
+    "Variante von Viviana",
+    "seltenere Schreibweise",
+    "Namenstag-Erwähnungen",
+    "Beliebtheits- und Namenslexikon-Kontext"
+  ],
+  "confidence": 0.9,
+  "display_text": "Vivienne wirkt in der öffentlichen Wahrnehmung meist elegant, international und freundlich positiv. Der Name wird häufig mit „die Lebendige“/„die Lebhafte“ verbunden. In Deutschland ist er bekannt, aber eher selten; die Schreibweise kann als besonders wahrgenommen werden. Einzelne Herkunfts- und Namenstagsangaben sind in den Quellen nicht ganz einheitlich, daher vorsichtig zu bewerten.",
+  "evidence_quality": "gut: zwei direkte Namenslexika mit klarer Namensdiskussion, dazu überwiegend konsistente, aber teils unterschiedlich gewichtete Angaben zur Herkunft und Beliebtheit.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Vivienne",
+  "normalized_name": "vivienne",
+  "overall_resonance": "Vivienne wird in der öffentlichen Namenswahrnehmung überwiegend als eleganter, international klingender und eher positiver Mädchenname beschrieben. Die Bedeutung wird häufig mit „die Lebendige“ bzw. „die Lebhafte“ verbunden.",
+  "practical_notes": [
+    "Für die Namenssuche wirkt Vivienne stilvoll und international.",
+    "Die Schreibweise kann gelegentlich erklärungsbedürftig sein, weil sie als seltener wahrgenommen wird.",
+    "Die Resonanz ist insgesamt freundlich bis positiv, ohne starke negative Konnotationen."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Einzelne Herkunfts- und Namenstagsangaben werden in den Quellen nicht einheitlich dargestellt und sollten daher vorsichtig gelesen werden.",
+    "Die Wahrnehmung ist stark von Namenslexika und Community-Kommentaren geprägt; belastbare öffentliche Breitenresonanz ist nur begrenzt sichtbar."
+  ],
+  "short_summary": "Vivienne wird in Deutschland meist als eleganter, internationaler und positiv besetzter Vorname wahrgenommen, mit der Bedeutungsidee von Lebendigkeit; die Schreibweise gilt eher als besonders als alltäglich.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "positive",
+      "source_type": "web",
+      "title": "Vorname Vivienne � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/V/Vi/Vivienne/"
+    },
+    {
+      "confidence": 0.95,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Vivienne: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Vivienne.html"
+    }
+  ],
+  "style_effect": [
+    "elegant",
+    "international",
+    "weiblich",
+    "lebendig",
+    "modern-klassisch",
+    "sprachlich markant"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland bekannt, aber nicht zu den sehr häufigen Vornamen gehörend; eher auffällig durch die französisch/englische Anmutung und die vergleichsweise besondere Schreibweise."
+}

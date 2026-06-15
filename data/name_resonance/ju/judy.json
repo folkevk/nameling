@@ -1,0 +1,59 @@
+{
+  "associations": [
+    "englische Koseform von Judith",
+    "althebräische Herkunft",
+    "biblischer Bezug",
+    "Bedeutung im Sinn von 'Frau aus Jehud/Judäa'",
+    "Namenstag",
+    "in Deutschland selten bis mäßig vergeben"
+  ],
+  "confidence": 0.74,
+  "display_text": "Judy wirkt in Deutschland eher freundlich, international und leicht klassisch. Die vorhandene Evidenz ist vor allem lexikalisch; eine breite öffentliche Diskussion ist kaum sichtbar.",
+  "evidence_quality": "Eher schwach bis mittel: zwei informative Namensquellen, wenige Einzelkommentare, kaum freie öffentliche Debatte.",
+  "generated_at": "2026-06-14T10:47:41Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Judy",
+  "normalized_name": "judy",
+  "overall_resonance": "In Deutschland wirkt Judy insgesamt eher freundlich, klassisch-englisch und leicht international. Die öffentliche Wahrnehmung ist vor allem sachlich geprägt; echte breite Diskussionen oder deutliche Polarisierung sind in der vorliegenden Evidenz kaum erkennbar.",
+  "practical_notes": [
+    "Für eine Namenssuche ist Judy gut verständlich und international anschlussfähig.",
+    "Der Name kann durch die englische Form als modern oder charmant wahrgenommen werden.",
+    "Wegen der eher geringen Verbreitung kann er als etwas ungewöhnlich, aber nicht sperrig wirken."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz zur öffentlichen Resonanz ist schwach, da sie überwiegend aus Namenslexika besteht.",
+    "Positive oder negative Eindrücke sollten nicht als allgemeine Mehrheitsmeinung verstanden werden.",
+    "Keine belastbaren Hinweise auf Stigmatisierung oder starke soziale Wertung in der vorliegenden Quelle."
+  ],
+  "short_summary": "Judy wird in Deutschland vor allem als kurze, englisch geprägte Form mit biblisch-hebräischem Hintergrund wahrgenommen. Die öffentliche Resonanz ist eher sachlich und freundlich, aber nur schwach belegt.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.95,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Judy � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/J/Ju/Judy/"
+    },
+    {
+      "confidence": 0.88,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Judy: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Judy.html"
+    }
+  ],
+  "style_effect": [
+    "englisch/kosmopolitisch",
+    "kurz und weich im Klang",
+    "modern-zeitlos",
+    "eher vertraut als ausgefallen"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Eher gering bis mittel: Der Name erscheint in Namensdatenbanken und vereinzelt in Nutzerkommentaren, aber nicht als stark öffentlich diskutierter Vorname."
+}

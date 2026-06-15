@@ -1,0 +1,59 @@
+{
+  "associations": [
+    "biblische/hebräische Namensdeutung",
+    "altfranzösische Koseform",
+    "englischsprachiger bzw. internationaler Klang",
+    "modern und eher besonders",
+    "selten bis moderat verbreitet in Deutschland"
+  ],
+  "confidence": 0.78,
+  "display_text": "Eliot wirkt in den vorliegenden Quellen eher positiv und modern, mit internationalem Klang. Die Evidenz ist jedoch begrenzt und stammt vor allem aus Namenslexika, daher ist die öffentliche Resonanz nur vorsichtig zu bewerten.",
+  "evidence_quality": "Eher mittel: zwei einschlägige Namensquellen, aber keine starke unabhängige Evidenz zur öffentlichen Wahrnehmung außerhalb von Namensportalen.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Eliot",
+  "normalized_name": "eliot",
+  "overall_resonance": "Eher positiv bis neutral. Der Name Eliot wird in den vorliegenden Quellen vor allem sachlich und leicht positiv beschrieben; eine breite öffentliche Debatte ist daraus aber nicht klar erkennbar.",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt Eliot modern, international und vergleichsweise eigenständig.",
+    "Die Schreibweise ist kurz und gut merkbar.",
+    "Die Datenlage zur öffentlichen Resonanz in Deutschland ist begrenzt; Einschätzungen sollten daher vorsichtig gelesen werden."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt überwiegend aus Namenslexika und ähnlichen Portalen; das zeigt eher redaktionelle Einordnung als breite öffentliche Resonanz.",
+    "Positive Eindrücke wie „cool“ oder „sportlich“ sind eher Stilurteile als gesicherte Allgemeinwahrnehmung.",
+    "Aus den Quellen lässt sich keine starke gesellschaftliche Stigmatisierung oder klare Negativkonnotation ableiten."
+  ],
+  "short_summary": "Eliot wird in den vorliegenden Quellen meist sachlich und leicht positiv beschrieben, mit modernem, internationalem Klang. Die öffentliche Resonanz ist eher zurückhaltend belegt, nicht stark negativ.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.94,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Eliot � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/E/El/Eliot/"
+    },
+    {
+      "confidence": 0.87,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Eliot: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Eliot.html"
+    }
+  ],
+  "style_effect": [
+    "informativ",
+    "modern",
+    "international",
+    "leicht markant",
+    "eher glatt als verspielt"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Mittel bis eher gering. Die Evidenz deutet auf eine bekannte, aber eher selten bis moderat verbreitete Namensnutzung in Deutschland hin."
+}

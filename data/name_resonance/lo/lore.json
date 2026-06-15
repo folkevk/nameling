@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "Kurzform von Eleonore",
+    "Kurzform von Hannelore",
+    "Bedeutungen wie „die Andere“, „die Fremde“, „die Barmherzige“",
+    "auch Deutungen wie „Gott ist mein Licht“",
+    "teils auch baskisch mit der Bedeutung „die Blume“, „die Blüte“",
+    "weiblicher Vorname",
+    "eher selten bzw. ungewöhnlich"
+  ],
+  "confidence": 0.9,
+  "display_text": "Lore wirkt im deutschen Kontext überwiegend freundlich und klassisch, zugleich eher selten und dadurch eigenständig. Die verfügbaren Quellen sind vor allem namenskundlich und deuten auf kurze, elegante Wirkung sowie verschiedene Herkunfts- und Bedeutungsansätze hin. Eine breite öffentliche Debatte ist nicht erkennbar.",
+  "evidence_quality": "gut, aber überwiegend lexikalisch statt breit öffentlich diskutiert",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Lore",
+  "normalized_name": "lore",
+  "overall_resonance": "Überwiegend positiv bis freundlich-namenkundlich; Lore wirkt im deutschsprachigen Raum eher kurz, klassisch und etwas selten, ohne starke Negativassoziationen.",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt Lore kurz, klar und unkompliziert.",
+    "Die Seltenheit kann als Pluspunkt für Individualität empfunden werden.",
+    "Die Etymologie ist vielfältig, daher je nach Quelle leicht unterschiedliche Deutungen möglich."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Quellen sind vor allem lexikalische Namensseiten; echte öffentliche Debatten oder breite Alltagswahrnehmung sind nur begrenzt belegbar.",
+    "Die Bedeutungszuordnungen sind teils unterschiedlich und sollten daher nicht als eindeutig verstanden werden."
+  ],
+  "short_summary": "Lore wird in Deutschland eher freundlich, klassisch und selten wahrgenommen; die Quellen zeigen vor allem namenskundliche, überwiegend positive oder neutrale Einordnungen.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.99,
+      "is_name_discussion": true,
+      "sentiment": "positive",
+      "source_type": "web",
+      "title": "Vorname Lore � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/L/Lo/Lore/"
+    },
+    {
+      "confidence": 0.94,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Lore: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Lore.html"
+    }
+  ],
+  "style_effect": [
+    "kurz und prägnant",
+    "klassisch-elegant",
+    "leicht altmodisch bzw. traditionsnah",
+    "selten und dadurch eigenständig",
+    "namenskundlich gut anschlussfähig"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland bekannt, aber eher ungewöhnlich und nicht stark verbreitet; die Wahrnehmung scheint vor allem über Namenslexika und Beliebtheitsangaben geprägt zu sein."
+}

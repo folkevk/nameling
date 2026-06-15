@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "russische Koseform",
+    "altgriechische Herkunft über Alexej/Alexios",
+    "Bedeutung im Umfeld von \"Beschützer\" oder \"Verteidiger\"",
+    "Namenstag",
+    "seltene bis moderate Verbreitung in Deutschland",
+    "Spitznamen wie Joschi oder Joscha"
+  ],
+  "confidence": 0.82,
+  "display_text": "Aljoscha wirkt in Deutschland eher selten, freundlich und leicht international. Die vorhandenen Quellen beschreiben den Namen sachlich mit positiver Tendenz; eine breite öffentliche Resonanz ist wegen der begrenzten Evidenz nur eingeschränkt belegbar.",
+  "evidence_quality": "mittel: klare Namenslexikon-Evidenz, aber nur wenige Quellen und keine breite Diskussionslage",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Aljoscha",
+  "normalized_name": "aljoscha",
+  "overall_resonance": "Aljoscha wird in den vorliegenden deutschen Namensquellen überwiegend sachlich, leicht positiv und eher weich-klingend wahrgenommen. Der Name wirkt vertraut, aber nicht alltäglich, mit klarer international-slawischer Färbung.",
+  "practical_notes": [
+    "Für Suchmaschinen-Nutzung eignet sich die Formulierung \"selten, aber bekannt\" gut.",
+    "Die Aussprache und Schreibweise sind im deutschsprachigen Raum meist gut handhabbar, können aber nach Herkunftsverständnis unterschiedlich eingeordnet werden.",
+    "Durch die Seltenheit kann der Name individuell wirken, ohne schwer verständlich zu sein."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist auf wenige Namenslexikon-Quellen beschränkt; breite öffentliche Resonanz ist nur eingeschränkt belegbar.",
+    "Es liegen keine belastbaren Hinweise auf negative gesellschaftliche Stigmatisierung vor.",
+    "Aussagen zur Wirkung sollten als Namenswahrnehmung verstanden werden, nicht als Eigenschaft von Personen."
+  ],
+  "short_summary": "Aljoscha wird in den verfügbaren deutschen Quellen als seltener bis moderat verbreiteter, sachlich-freundlich wirkender Name mit slawisch-internationaler Prägung beschrieben.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Aljoscha � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/A/Al/Aljoscha/"
+    },
+    {
+      "confidence": 0.88,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Aljoscha: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Aljoscha.html"
+    }
+  ],
+  "style_effect": [
+    "klingt freundlich und jugendlich",
+    "wirkt international bzw. ostslawisch geprägt",
+    "hat eine informelle, zugängliche Anmutung",
+    "erscheint eher modern-rezeptionsoffen als traditionell-streng",
+    "durch die Seltenheit etwas eigenständig und merkfähig"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland eher selten bis moderat verbreitet und dadurch auffällig, aber nicht exotisch. Die öffentliche Sichtbarkeit in den Daten ist begrenzt und stützt sich vor allem auf Namenslexika."
+}

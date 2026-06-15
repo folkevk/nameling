@@ -1,0 +1,59 @@
+{
+  "associations": [
+    "häufig als Kurzform von Alfred oder Alfons erklärt",
+    "teilweise mit historischer Herleitung verknüpft",
+    "Bedeutungsfelder wie 'Elf' oder Naturgeist werden genannt",
+    "nordische bzw. altenglisch/althochdeutsche Anklänge",
+    "Namenstag wird in den Quellen erwähnt"
+  ],
+  "confidence": 0.68,
+  "display_text": "Alf wirkt in Deutschland eher selten, kurz und markant. Die verfügbaren Quellen zeigen vor allem eine sachlich-informative, teils gemischte Wahrnehmung; belastbare Hinweise auf eine starke öffentliche Bewertung sind nur schwach vorhanden.",
+  "evidence_quality": "mittel bis schwach; überwiegend lexikalische Webquellen, nur begrenzt echte Resonanzdaten",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Alf",
+  "normalized_name": "alf",
+  "overall_resonance": "Eher sachlich bis gemischt. Der Name wird vor allem als kurzer, markanter Vorname wahrgenommen; die öffentliche Resonanz in den Quellen ist jedoch nur begrenzt belastbar, da es sich überwiegend um Namenslexika handelt.",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt Alf klar, kurz und eigenständig.",
+    "Wegen der Seltenheit kann der Name als ungewohnt oder markant empfunden werden.",
+    "Die Quellenlage spricht eher für nüchterne Information als für ein stark positives oder negatives Image."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz zur öffentlichen Meinung ist schwach, da vor allem Namenslexika vorliegen.",
+    "Einzelkommentare können die Wahrnehmung verzerren und sind nicht als allgemeine Meinung zu verstehen.",
+    "Historische Herleitungen sind keine Aussagen über heutige gesellschaftliche Bewertung."
+  ],
+  "short_summary": "Alf wird in den Quellen vor allem sachlich beschrieben: kurz, selten, traditionsnah und mit möglichen Kurzform- bzw. Naturgeist-Assoziationen. Die öffentliche Rezeption wirkt eher gemischt und insgesamt wenig stark ausgeprägt.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Alf � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/A/Al/Alf/"
+    },
+    {
+      "confidence": 0.94,
+      "is_name_discussion": true,
+      "sentiment": "gemischt",
+      "source_type": "web",
+      "title": "&#9655; Vorname Alf: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Alf.html"
+    }
+  ],
+  "style_effect": [
+    "kurz und prägnant",
+    "alt bzw. traditionsnah",
+    "nordisch/altsprachlich anmutend",
+    "lexikalisch bekannt",
+    "selten und dadurch eigenständig"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland eher selten und dadurch auffällig, aber nicht breit alltagspräsent. Die Sichtbarkeit scheint eher von der Kürze und Seltenheit des Namens als von einer starken aktuellen Mode getragen zu sein."
+}

@@ -1,0 +1,67 @@
+{
+  "associations": [
+    "Bedeutung: „Jahwe/Gott ist gütig“ bzw. „gnädig“",
+    "althebräische Herkunft mit französisch/bretonischen Bezügen",
+    "Variante von Yannick/Jannik und ähnlichen Schreibformen",
+    "Beliebtheit bzw. Nutzung im deutschen Sprachraum",
+    "Namenstag und klassische Namenslexikon-Einordnung"
+  ],
+  "confidence": 0.81,
+  "display_text": "Yannik wirkt in den verfügbaren Quellen überwiegend sachlich-neutral mit leicht positiver Tendenz. Der Name wird vor allem als moderner, im deutschen Sprachraum bekannter Vorname mit freundlichem Klang und klarer Herkunft beschrieben. Die öffentliche Resonanz ist eher informativ als kontrovers; die Evidenz dazu ist allerdings nur schwach bis mittel und stark von Namenslexika geprägt.",
+  "evidence_quality": "schwach bis mittel: überwiegend Namenslexika und Datenbankeinträge, nur wenig breiter öffentliche Diskurs erkennbar",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Yannik",
+  "normalized_name": "yannik",
+  "overall_resonance": "Überwiegend sachlich-neutral mit leicht positiver Tendenz. In den Quellen wird Yannik vor allem als moderner, gebräuchlicher Vorname beschrieben, mit klarer namenskundlicher Einordnung und wenigen wertenden Hinweisen. Die öffentliche Resonanz wirkt eher informativ als emotional.",
+  "practical_notes": [
+    "Gut verständlich und im deutschen Sprachraum anschlussfähig.",
+    "Schreibvarianten können je nach Umfeld unterschiedlich wahrgenommen werden.",
+    "Für die öffentliche Suchanfrage wirkt der Name eher neutral bis freundlich als kontrovers."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Datenlage ist begrenzt und stark von Namenslexika geprägt.",
+    "Einzelne Bewertungen oder Kommentare sind nicht repräsentativ für die Gesamtwahrnehmung.",
+    "Keine belastbaren Hinweise auf soziale Stigmatisierung in den vorliegenden Quellen."
+  ],
+  "short_summary": "Yannik wird in den vorliegenden Quellen überwiegend sachlich und leicht positiv beschrieben: modern, bekannt und mit klarer namenskundlicher Bedeutung. Die Evidenz zur öffentlichen Resonanz ist jedoch eher begrenzt.",
+  "source_count": 3,
+  "sources": [
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Yannik � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/Y/Ya/Yannik/"
+    },
+    {
+      "confidence": 0.94,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Yannik � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/Y/Ya/Yannik/"
+    },
+    {
+      "confidence": 0.9,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Yannik: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Yannik.html"
+    }
+  ],
+  "style_effect": [
+    "modern und zeitgemäß wirkend",
+    "weiche, freundliche Klangassoziation",
+    "informativ-namenskundlich geprägt",
+    "als Variante zu Yannick/Jannik wahrgenommen",
+    "eher alltagstauglich als auffällig"
+  ],
+  "usable_evidence_count": 3,
+  "visibility": "Im deutschsprachigen Raum sichtbar und bekannt, aber in den vorliegenden Quellen vor allem als Lexikon- und Datenbankname präsent. Die Evidenz zur öffentlichen Wahrnehmung ist insgesamt eher schwach bis mittel und nicht besonders breit gestützt."
+}

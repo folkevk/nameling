@@ -1,0 +1,63 @@
+{
+  "associations": [
+    "Edelstein",
+    "Juwel",
+    "Schmuck",
+    "moderne Namenswahl",
+    "altenglische bzw. englische Herkunft",
+    "altspanische bzw. spanische Herkunft",
+    "selten auch als männlich erwähnt"
+  ],
+  "confidence": 0.88,
+  "display_text": "Jade wirkt in Deutschland modern, klar und leicht edel. Der Name ist vor allem mit dem Edelstein verbunden und wird in den Quellen überwiegend neutral bis leicht positiv beschrieben. Die öffentliche Resonanz scheint eher unauffällig bis freundlich; direkte breite Alltagsmeinungen sind in der Evidenz jedoch nur indirekt erkennbar.",
+  "evidence_quality": "mittel bis gut: zwei klare, namebezogene Lexikonquellen mit überwiegend neutraler bis leicht positiver Tonalität; öffentliche Resonanz nur indirekt erfassbar.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Jade",
+  "normalized_name": "jade",
+  "overall_resonance": "Der Vorname Jade wirkt in der öffentlichen Wahrnehmung überwiegend modern, sachlich und leicht positiv. Häufige Assoziationen sind der Edelstein bzw. Schmuckstein sowie ein edler, klarer Klang. In der vorliegenden Evidenz wird der Name als bekannt, eher modern und teilweise beliebt beschrieben, ohne starke negative Konnotationen.",
+  "practical_notes": [
+    "Als Kurzname ist Jade sehr leicht auszusprechen und zu merken.",
+    "Die Edelstein-Assoziation prägt die Wahrnehmung stark und meist positiv.",
+    "Je nach Kontext kann der Name international und modern wirken.",
+    "Für eine belastbare Aussage zur tatsächlichen Beliebtheit wäre eine breitere Datengrundlage hilfreich."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt überwiegend aus Namensdatenbanken und ist daher eher beschreibend als repräsentativ für die öffentliche Meinung.",
+    "Einzelne Seiten enthalten Zusatzmaterial oder Kommentare, die nicht als allgemeine Resonanz überinterpretiert werden sollten."
+  ],
+  "short_summary": "Jade wird in Deutschland meist als moderner, edler und eher positiv besetzter Vorname wahrgenommen, mit starker Edelstein-Assoziation. Die Quellenlage ist solide, beschreibt aber vor allem Namensbedeutung und Herkunft statt direkte öffentliche Debatte.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Jade � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/J/Ja/Jade/"
+    },
+    {
+      "confidence": 0.92,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Jade: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Jade.html"
+    }
+  ],
+  "style_effect": [
+    "modern",
+    "edel",
+    "klar",
+    "schmuckhaft",
+    "international wirkend",
+    "kurz und einprägsam",
+    "leicht elegant"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Im deutschen Namenskontext scheint Jade gut erkennbar, aber nicht massenhaft verbreitet zu sein. Die öffentliche Präsenz wird vor allem über Namenslexika und Bedeutungsseiten sichtbar; direkte breite Alltagsresonanz ist in den Quellen nur indirekt ablesbar."
+}

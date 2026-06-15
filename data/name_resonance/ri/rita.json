@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "Kurzform von Margherita/Margarethe",
+    "Bedeutungen wie „die Perle“ und teils „die Wahrhaftige / die Gerechte“",
+    "weiblicher Vorname",
+    "in Deutschland früher verbreitet",
+    "heute wiederentdeckt",
+    "Namenstag am 22. Mai"
+  ],
+  "confidence": 0.93,
+  "display_text": "Rita wirkt in der öffentlichen Wahrnehmung überwiegend positiv und neutral-klar: ein kurzer, klassischer und international klingender Vorname mit historischer Präsenz in Deutschland und einer leichten Wiederentdeckung.",
+  "evidence_quality": "hoch; die Evidenz bezieht sich direkt auf den Vornamen und ist konsistent",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Rita",
+  "normalized_name": "rita",
+  "overall_resonance": "überwiegend positiv bis neutral",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt Rita klar, kurz und gut merkbar.",
+    "Der Name klingt vertraut, ohne alltäglich zu sein.",
+    "Die internationale Verständlichkeit ist ein Pluspunkt.",
+    "In Deutschland hat der Name eher einen klassischen als einen modernen Trendcharakter."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Keine belastbaren Hinweise auf starke negative öffentliche Stigmatisierung in der vorliegenden Evidenz.",
+    "Die Wahrnehmung als eher klassisch kann je nach Generation unterschiedlich ausfallen.",
+    "Aussagen zu Herkunft und Bedeutung stammen aus Namenslexika und sind als sprachliche Deutungen zu verstehen, nicht als Fakten über Personen."
+  ],
+  "short_summary": "Rita wird öffentlich meist freundlich, sachlich und eher klassisch wahrgenommen. Der Name gilt als kurz, international klingend und historisch in Deutschland bekannt, mit einer leichten Wiederentdeckung.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Rita � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/R/Ri/Rita/"
+    },
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Rita: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Rita.html"
+    }
+  ],
+  "style_effect": [
+    "kurz und prägnant",
+    "international klingend",
+    "klassisch statt modisch",
+    "namenskundlich gut anschlussfähig",
+    "freundlich und unkompliziert wahrgenommen"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "mittlere Bekanntheit, in Deutschland historisch präsent und heute wieder stärker wahrgenommen"
+}

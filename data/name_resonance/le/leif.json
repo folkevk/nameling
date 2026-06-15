@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "altnordische Herkunft",
+    "Skandinavien",
+    "Norddeutschland",
+    "Bedeutung im Sinne von Erbe/Nachkomme",
+    "Namenstag am 3. März",
+    "Leif Eriksson als historischer Bezug"
+  ],
+  "confidence": 0.84,
+  "display_text": "Leif wird in DE meist als nordischer, klarer und moderner Kurzname wahrgenommen. Die vorhandenen Quellen beschreiben ihn überwiegend positiv und sachlich, vor allem mit Bezug auf altnordische Herkunft, Skandinavien und eine Bedeutung im Sinne von Erbe/Nachkomme. Die Evidenz ist jedoch eher schmal und basiert vor allem auf Namenslexika.",
+  "evidence_quality": "mittel bis gut; direkt namensbezogene Quellen, aber nur wenige und überwiegend lexikalisch statt breit öffentlich",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Leif",
+  "normalized_name": "leif",
+  "overall_resonance": "Leif wird im deutschsprachigen Raum überwiegend als nordisch, klar und modern-kurz wahrgenommen. Die öffentliche Rezeption ist eher freundlich und sachlich, ohne starke Polarisierung.",
+  "practical_notes": [
+    "Für Suchmaschinen und Namensseiten wirkt der Name leicht verständlich und gut merkbar.",
+    "Die Wahrnehmung ist stark von der nordischen Herkunft geprägt.",
+    "In DE dürfte Leif vor allem als moderner, skandinavisch wirkender Jungenname gelesen werden."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist begrenzt und stammt vor allem aus Namenslexika statt aus breiter öffentlicher Diskussion.",
+    "Einzelne Stil- oder Beliebtheitsaussagen sollten nicht als allgemeine Mehrheitsmeinung verstanden werden.",
+    "Keine belastbaren Hinweise auf negative gesellschaftliche Stigmatisierung in der vorliegenden Evidenz."
+  ],
+  "short_summary": "Leif wirkt in DE vor allem nordisch, klar und modern-kurz. Die Rezeption ist eher positiv und sachlich, die Evidenz dafür aber nur begrenzt breit.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Leif � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/L/Le/Leif/"
+    },
+    {
+      "confidence": 0.89,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Leif: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Leif.html"
+    }
+  ],
+  "style_effect": [
+    "kurz und markant",
+    "skandinavisch/nordisch konnotiert",
+    "eher modern als klassisch",
+    "nüchtern-positiv im Klang",
+    "lexikalisch gut einordbar"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "mittel"
+}

@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "Kurzform bzw. Variante von Eleonore",
+    "Bedeutungen wie „die Andere“ bzw. „die Barmherzige“",
+    "mögliche Verbindung zu „Gott ist mein Licht“",
+    "Namenstag am 11. Februar, 25. Juni und 9. Juli",
+    "Bezug zu Beethoven/Fidelio",
+    "eher ungewöhnlich, aber bekannt"
+  ],
+  "confidence": 0.82,
+  "display_text": "Leonore wirkt in Deutschland klassisch, elegant und eher selten. Die öffentliche Wahrnehmung ist überwiegend positiv und stark von Bedeutung, Herkunft und Namenstag geprägt. Belastbare Hinweise auf eine breite gesellschaftliche Resonanz sind allerdings begrenzt, da die verfügbaren Quellen vor allem Namenslexika und wenige Kommentare sind.",
+  "evidence_quality": "mittel bis schwach: zwei einschlägige Namensquellen, überwiegend lexikalisch und nur mit begrenzten Community-Hinweisen auf Resonanz",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Leonore",
+  "normalized_name": "leonore",
+  "overall_resonance": "Im deutschsprachigen Raum wirkt Leonore insgesamt klassisch, eher selten und überwiegend positiv konnotiert. Die öffentliche Wahrnehmung ist vor allem namenskundlich geprägt: Bedeutung, Herkunft und Namenstag stehen im Vordergrund, weniger eine breite alltagskulturelle Diskussion.",
+  "practical_notes": [
+    "Für Suchmaschinen und Namenskontexte lässt sich Leonore gut als klassischer, seltener Mädchenname mit literarisch-musikalischer Assoziation beschreiben.",
+    "Die Schreibweise ist klar und etabliert, aber im Alltag dürfte der Name seltener sein als die Kurz- und Variantenformen.",
+    "Die Resonanz wirkt eher ruhig und wertschätzend als auffällig kontrovers."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt überwiegend aus Namensportalen und wenigen Nutzerkommentaren; das ist für öffentliche Resonanz nur eingeschränkt repräsentativ.",
+    "Positive Einschätzungen wie „wunderschön“ oder „einzigartig“ sind subjektiv und nicht als allgemeiner Konsens zu verstehen.",
+    "Die Quellen sind eher erklärend als meinungsbildend, daher ist die Aussagekraft zur tatsächlichen gesellschaftlichen Rezeption begrenzt."
+  ],
+  "short_summary": "Leonore wird im deutschsprachigen Raum meist als klassischer, seltener und positiv besetzter Vorname wahrgenommen; belastbare Breitenresonanz ist jedoch nur eingeschränkt belegt.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.95,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Leonore � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/L/Le/Leonore/"
+    },
+    {
+      "confidence": 0.79,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Leonore: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Leonore.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "elegant",
+    "traditionsnah",
+    "eher selten",
+    "bildungssprachlich anmutend",
+    "namenskundlich aufgeladen"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Mittel: Der Name ist bekannt und in Namensportalen präsent, aber die Evidenz zur öffentlichen Resonanz ist eher beschreibend als diskursiv. Für eine belastbare Aussage zur breiten gesellschaftlichen Wahrnehmung ist die Datenlage begrenzt."
+}

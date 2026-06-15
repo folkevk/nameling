@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "lateinische Herkunft",
+    "Olive und Olivenbaum",
+    "Frieden und Friedlichkeit",
+    "Beliebtheit in Deutschland",
+    "weiblicher Vorname",
+    "Namenstag",
+    "historische Heiligenbezüge",
+    "Spitznamen und Varianten",
+    "popkulturelle Erwähnungen"
+  ],
+  "confidence": 0.84,
+  "display_text": "Olivia wirkt in den vorliegenden Quellen überwiegend positiv, freundlich und stilvoll. Der Name ist in Deutschland gut bekannt und wird meist mit lateinischer Herkunft, Olive/Olivenbaum, Frieden und einer eleganten, modernen Wirkung verbunden. Die Evidenz ist solide, stammt aber vor allem aus Namenslexika und weniger aus freier öffentlicher Debatte.",
+  "evidence_quality": "moderat bis stark, aber überwiegend lexikalisch statt diskursiv; daher gute Namensbeschreibung, nur begrenzte Aussage zur echten öffentlichen Debatte.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Olivia",
+  "normalized_name": "olivia",
+  "overall_resonance": "Olivia wird in den vorliegenden Quellen überwiegend positiv und sachlich wahrgenommen. Der Name wirkt in der öffentlichen Beschreibung vertraut, freundlich und stilvoll, ohne auffällige negative Konnotationen.",
+  "practical_notes": [
+    "Als Vorname ist Olivia im deutschsprachigen Raum gut anschlussfähig und leicht verständlich.",
+    "Die Wahrnehmung ist eher positiv und unauffällig; es gibt keinen Hinweis auf eine gesellschaftliche Stigmatisierung in den vorliegenden Quellen.",
+    "Für eine Namenssuche wirkt Olivia eher zeitlos-modern als exotisch oder polarisierend."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt vor allem aus Namenslexika und nicht aus einer breiten öffentlichen Debatte; die öffentliche Resonanz ist daher nur eingeschränkt messbar.",
+    "Einige Quellen mischen Namensbeschreibung mit Nebeninhalten wie Personenlisten oder Kommentaren; daraus sollten keine starken Schlüsse gezogen werden."
+  ],
+  "short_summary": "Olivia wird überwiegend positiv, freundlich und stilvoll beschrieben; die Quellen deuten auf hohe Bekanntheit und eine eher unproblematische, klassische Wirkung hin.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Olivia � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/O/Ol/Olivia/"
+    },
+    {
+      "confidence": 0.89,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Olivia: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Olivia.html"
+    }
+  ],
+  "style_effect": [
+    "weich und melodisch",
+    "modern, aber nicht modisch-überladen",
+    "elegant und international verständlich",
+    "klassisch mit leichtem frischen Eindruck"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland ist Olivia gut bekannt und offenbar vergleichsweise präsent; die Evidenz deutet eher auf hohe Wiedererkennbarkeit als auf kontroverse Diskussionen hin."
+}

@@ -1,0 +1,62 @@
+{
+  "associations": [
+    "biblischer Ursprung",
+    "althebräische Herkunft",
+    "auch altägyptisch/mythologisch eingeordnet",
+    "Bedeutung: der Ersatz / der Platzierte / der Ernannte",
+    "selten in Deutschland",
+    "eher klangbetont",
+    "in Quellen teils als cool bzw. schön klingend bewertet"
+  ],
+  "confidence": 0.79,
+  "display_text": "Seth wirkt in den verfügbaren Quellen überwiegend sachlich bis leicht positiv. Der Name ist in Deutschland eher selten, klingt kurz und markant und wird vor allem über seine biblisch-hebräische, teils auch mythologische Herkunft beschrieben. Die öffentliche Resonanz ist jedoch nur schwach belegt, da vor allem Namenslexika und wenige direkte Bewertungen vorliegen.",
+  "evidence_quality": "mittel bis eher schwach für öffentliche Resonanz; gut für namenkundliche Einordnung",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Seth",
+  "normalized_name": "seth",
+  "overall_resonance": "In der vorliegenden, eher lexikalischen Evidenz wird Seth überwiegend sachlich bis leicht positiv wahrgenommen. Der Name wird vor allem über Herkunft, Bedeutung und Klang beschrieben; eine breite öffentliche Diskussion ist jedoch nur schwach sichtbar.",
+  "practical_notes": [
+    "Für eine Namenssuche ist Seth ein kurzer, markanter Name mit klarer Herkunftserzählung.",
+    "Wer einen seltenen, international verständlichen Namen sucht, findet hier eher eine positive bis neutrale öffentliche Einordnung.",
+    "Die wahrgenommene Wirkung dürfte stärker von Kontext und persönlichem Geschmack als von öffentlicher Bekanntheit geprägt sein."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist für öffentliche Resonanz nur begrenzt stark, weil hauptsächlich Namensseiten und keine breite Debatte vorliegen.",
+    "Einzelne positive Klangurteile sind nicht als allgemeine Mehrheitsmeinung zu verstehen.",
+    "Mythologische und biblische Bezüge können je nach Kontext unterschiedlich gewichtet werden."
+  ],
+  "short_summary": "Seth wird in den verfügbaren Quellen meist sachlich, teils leicht positiv beschrieben: selten, klangvoll und mit biblisch-hebräischer sowie teilweise mythologischer Herkunft. Breite öffentliche Meinungen sind jedoch kaum belegt.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.94,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "Vorname Seth � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/S/Se/Seth/"
+    },
+    {
+      "confidence": 0.91,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Seth: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Seth.html"
+    }
+  ],
+  "style_effect": [
+    "biblisch",
+    "kurz und prägnant",
+    "international klingend",
+    "selten",
+    "namenskundlich",
+    "leicht markant"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland wirkt Seth eher selten und dadurch auffälliger als sehr gängige Vornamen. Die öffentliche Sichtbarkeit in den Quellen ist begrenzt und stammt vor allem aus Namenslexika statt aus vielen unabhängigen Meinungsäußerungen."
+}

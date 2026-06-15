@@ -1,0 +1,62 @@
+{
+  "associations": [
+    "Kurzform von Nikolaus",
+    "Bedeutung im Umfeld von „Sieg des Volkes“",
+    "altgriechischer Ursprung",
+    "seit dem Mittelalter verbreitet",
+    "deutschsprachig vertraut",
+    "Namenstag",
+    "eher selten bis mittelmäßig präsent"
+  ],
+  "confidence": 0.84,
+  "display_text": "Claus wirkt in der öffentlichen Wahrnehmung überwiegend neutral bis leicht traditionspositiv: ein klassischer, schlichter und eher zeitloser Name. Die vorhandene Evidenz ist jedoch begrenzt und stammt vor allem aus Namenslexika, daher ist die Aussage zur breiteren Resonanz vorsichtig zu lesen.",
+  "evidence_quality": "mittel bis schwach: zwei überwiegend lexikalische Webquellen, wenig direkte Publikumsresonanz",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Claus",
+  "normalized_name": "claus",
+  "overall_resonance": "überwiegend neutral bis leicht traditionspositiv",
+  "practical_notes": [
+    "Für viele wirkt Claus sachlich, traditionell und klar.",
+    "Der Name kann eher als klassisch als modern wahrgenommen werden.",
+    "Durch die Kürze ist er leicht merkbar und unaufgeregt.",
+    "Im Alltag dürfte er eher seriös als verspielt klingen."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz basiert fast nur auf Namenslexika; daraus lässt sich öffentliche Wahrnehmung nur indirekt ableiten.",
+    "Keine belastbaren Hinweise auf breite positive oder negative gesellschaftliche Zuschreibungen in den Quellen.",
+    "Spitznamen- und Kommentarbereiche sind für die öffentliche Resonanz nur eingeschränkt aussagekräftig."
+  ],
+  "short_summary": "Claus wird in den Quellen vor allem als klassischer, traditioneller Vorname mit neutraler bis leicht positiver Wirkung beschrieben. Die Evidenz ist jedoch begrenzt und vor allem lexikalisch.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.92,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Claus � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/C/Cl/Claus/"
+    },
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Claus: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Claus.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "traditionell",
+    "kurz und schlicht",
+    "namenskundlich",
+    "eher zeitlos als modisch"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Der Name ist im deutschsprachigen Raum bekannt, wirkt aber eher klassisch und nicht besonders auffällig; in den vorliegenden Quellen wird seine öffentliche Resonanz vor allem lexikalisch beschrieben, nicht breit gesellschaftlich gemessen."
+}

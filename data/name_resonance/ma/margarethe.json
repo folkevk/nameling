@@ -1,0 +1,62 @@
+{
+  "associations": [
+    "Bedeutung: „Perle“",
+    "griechisch/lateinischer Ursprung",
+    "Schreibvariante von Margarete",
+    "historisch verbreitet",
+    "heute eher selten",
+    "Kurzformen wie Greta, Grete, Gretchen",
+    "Namenstag"
+  ],
+  "confidence": 0.87,
+  "display_text": "Margarethe: klassisch, traditionsreich und eher selten. Die öffentliche Wahrnehmung ist überwiegend neutral-sachlich; starke Kontroversen sind in der vorliegenden Evidenz nicht erkennbar.",
+  "evidence_quality": "mittel bis gut; thematisch passend, aber vor allem lexikalische und wenig diskursive Quellen",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Margarethe",
+  "normalized_name": "margarethe",
+  "overall_resonance": "Margarethe wirkt in der öffentlichen Wahrnehmung vor allem klassisch, traditionsreich und eher selten. Die vorhandene Evidenz beschreibt den Namen überwiegend sachlich und positiv-neutral, ohne starke Debatten oder kontroverse Bewertungen.",
+  "practical_notes": [
+    "Für Suchende wirkt Margarethe eher traditionsbewusst als modern.",
+    "Die klassischen Kurzformen können den Namen im Alltag lockern.",
+    "Aufgrund der Seltenheit kann der Name als markant und unverwechselbar wahrgenommen werden."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt überwiegend aus Namensdatenbanken und Informationsseiten; eine breitere öffentliche Debatte ist kaum sichtbar.",
+    "Die Einschätzung zur Resonanz ist daher eher beschreibend als meinungsstark.",
+    "Keine Hinweise auf soziale Stigmatisierung oder starke negative Konnotationen in der vorliegenden Evidenz."
+  ],
+  "short_summary": "Margarethe wird meist als klassischer, traditionsreicher und eher seltener Vorname wahrgenommen. Die Evidenz ist überwiegend neutral-sachlich und zeigt keine starke öffentliche Kontroverse.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Margarethe � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/M/Ma/Margarethe/"
+    },
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Margarethe: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Margarethe.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "traditionell",
+    "altsprachlich",
+    "eher formell",
+    "historisch",
+    "selten"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland ist der Name eher wenig präsent und wird vor allem als historischer, traditioneller Vorname wahrgenommen. Die öffentliche Sichtbarkeit scheint gering bis moderat, basierend auf Namenslexika statt breiter Diskussionen."
+}

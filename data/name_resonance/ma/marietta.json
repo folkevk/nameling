@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "italienische Kose- bzw. Verniedlichungsform von Maria/Marie",
+    "weiblicher Vorname",
+    "Herkunft und Bedeutung werden betont",
+    "selten bis moderat gebräuchlich",
+    "Namenstag wird genannt",
+    "wirkt auf manche Schreibende schön oder speziell"
+  ],
+  "confidence": 0.74,
+  "display_text": "Marietta wirkt in Deutschland eher selten und freundlich-klassisch. Die vorhandenen Quellen beschreiben den Namen vor allem sachlich, mit einer leicht positiven, eleganten Note; starke öffentliche Wertungen sind nicht erkennbar.",
+  "evidence_quality": "mittel bis schwach: zwei überwiegend lexikalische Webquellen, wenig breite öffentliche Debatte, aber konsistente Namensbeschreibung.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Marietta",
+  "normalized_name": "marietta",
+  "overall_resonance": "Überwiegend neutral bis freundlich: Marietta wird in den vorliegenden Quellen vor allem sachlich-namenskundlich beschrieben, mit leicht positiver Nebenwirkung durch Aussagen wie „schön“ oder „klingt speziell“.",
+  "practical_notes": [
+    "Für Namenssuchmaschinen eignet sich eine kurze Einordnung als „selten, klassisch und italienisch geprägt“.",
+    "Die Wahrnehmung scheint eher sachlich als trend- oder klischeegetrieben.",
+    "Wenn gewünscht, kann man Marietta zusätzlich als Variante von Maria/Marie verorten."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist quellengebunden und eher schwach für eine allgemeine öffentliche Resonanz.",
+    "Einzelkommentare und Lexikontexte sind nicht automatisch repräsentativ für die Gesamtwahrnehmung.",
+    "Keine belastbaren Hinweise auf eine negative gesellschaftliche Stigmatisierung in den vorliegenden Quellen."
+  ],
+  "short_summary": "Marietta wird in den Quellen meist neutral bis freundlich wahrgenommen: selten, italienisch geprägt und eher klassisch-elegant als modisch.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Marietta � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/M/Ma/Marietta/"
+    },
+    {
+      "confidence": 0.89,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Marietta: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Marietta.html"
+    }
+  ],
+  "style_effect": [
+    "italienisch angehaucht",
+    "klassisch-weiblich",
+    "eher elegant",
+    "selten/spezial",
+    "lexikalisch-informativ"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Eher selten bis mäßig präsent in Deutschland; die öffentliche Wahrnehmung wirkt damit eher begrenzt und nicht stark massenhaft verbreitet."
+}

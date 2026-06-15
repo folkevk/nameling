@@ -1,0 +1,59 @@
+{
+  "associations": [
+    "Kurzform, häufig von Giuseppina",
+    "italienische Herkunft",
+    "Bedeutung im Sinne von „Gott fügt hinzu“",
+    "Namenstag am 19. März",
+    "selten bzw. eher ungewöhnlich"
+  ],
+  "confidence": 0.82,
+  "display_text": "Pina wirkt in Deutschland überwiegend neutral bis leicht positiv: kurz, weich klingend, italienisch geprägt und eher selten. Die vorliegenden Quellen sind jedoch vor allem lexikalisch und liefern nur begrenzte Hinweise auf eine breitere öffentliche Resonanz.",
+  "evidence_quality": "Eher schwach bis mittel: klar namebezogene Quellen, aber wenig Breite und kaum unabhängige öffentliche Rezeption.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Pina",
+  "normalized_name": "pina",
+  "overall_resonance": "Überwiegend neutral bis leicht positiv, mit einem eher seltenen und lexikalisch geprägten Eindruck.",
+  "practical_notes": [
+    "Für eine Namenssuche ist Pina vor allem wegen Klang, Herkunft und Kürze interessant.",
+    "Wer einen vertrauten, aber seltenen Namen sucht, könnte ihn als markant, aber unaufdringlich wahrnehmen.",
+    "Die Wirkung hängt stark vom Umfeld ab, da die Quellen vor allem Herkunft statt Alltagsresonanz zeigen."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist schmal und besteht fast nur aus Namenslexika; eine breite öffentliche Debatte ist nicht sichtbar.",
+    "Vereinzelte anekdotische Hinweise auf Irritation in bestimmten Kontexten sind nicht belastbar genug für eine starke Aussage.",
+    "Keine Hinweise auf eine gesellschaftliche Stigmatisierung des Namens in den Daten."
+  ],
+  "short_summary": "Pina wird in den vorliegenden Quellen als seltener, italienisch geprägter Vorname mit neutral bis leicht positiver Resonanz beschrieben.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.95,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Pina � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/P/Pi/Pina/"
+    },
+    {
+      "confidence": 0.95,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Pina: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Pina.html"
+    }
+  ],
+  "style_effect": [
+    "klingt kurz und weich",
+    "wirkt italienisch geprägt",
+    "erscheint eher ungewöhnlich und selten",
+    "hat einen eher freundlichen, leichten Klang",
+    "wird stark über Herkunft und Bedeutung wahrgenommen"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland scheint Pina als Vorname bekannt, aber nicht sehr häufig zu sein. Die öffentliche Wahrnehmung in den vorliegenden Quellen ist vor allem informativ statt meinungsstark."
+}

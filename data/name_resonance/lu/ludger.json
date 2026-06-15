@@ -1,0 +1,62 @@
+{
+  "associations": [
+    "Bedeutungsbezüge wie 'Volk' und 'Speer'",
+    "niederdeutsche/altdeutsche Herkunft",
+    "heiliger bzw. historischer Namensbezug",
+    "regionale Verbreitung in Westfalen und Umgebung",
+    "seltenes, eher traditionsnahes Namensbild"
+  ],
+  "confidence": 0.86,
+  "display_text": "Ludger wirkt in der öffentlichen Wahrnehmung eher traditionell, altdeutsch und regional verwurzelt. Der Name ist in Deutschland selten, wird aber meist neutral bis leicht positiv eingeordnet. Die Evidenz dafür ist solide bei Herkunft und Bedeutung, aber nur begrenzt bei echter Alltagsresonanz.",
+  "evidence_quality": "Gut für Herkunft, Bedeutung und grobe Einordnung; nur mittel für echte öffentliche Resonanz, da überwiegend Lexikonquellen vorliegen.",
+  "generated_at": "2026-06-13T22:17:22Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Ludger",
+  "normalized_name": "ludger",
+  "overall_resonance": "Eher traditionell und regional verankert, mit überwiegend neutraler bis leicht positiver öffentlicher Wahrnehmung. Der Name wirkt in Deutschland eher selten und daher auffällig, aber nicht problematisch.",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt Ludger klar und traditionsbetont.",
+    "Durch die Seltenheit kann der Name eigenständig und markant erscheinen.",
+    "Regional wird er eher erkannt als bundesweit verbreitete Standardwahl."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt vor allem aus Namenslexika; direkte öffentliche Alltagsresonanz ist nur begrenzt sichtbar.",
+    "Positive Eindrücke können durch die historische Bedeutung und den Namenshintergrund leicht verstärkt sein.",
+    "Keine belastbaren Hinweise auf soziale Stigmatisierung in der vorliegenden Evidenz."
+  ],
+  "short_summary": "Ludger wird öffentlich vor allem als seltener, traditioneller und regional verankerter Vorname wahrgenommen – eher neutral bis leicht positiv.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.99,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Ludger � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/L/Lu/Ludger/"
+    },
+    {
+      "confidence": 0.89,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Ludger: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Ludger.html"
+    }
+  ],
+  "style_effect": [
+    "altdeutsch",
+    "niederdeutsch",
+    "traditionell",
+    "historisch",
+    "regional",
+    "selten",
+    "bodenständig",
+    "namenskundlich"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Niedrig bis mittel: Der Name ist bekannt, aber im Alltag deutlich selten. Besonders in Westfalen sowie im Oldenburger Münsterland und Osnabrücker Land scheint er stärker verankert zu sein."
+}

@@ -1,0 +1,62 @@
+{
+  "associations": [
+    "altdeutsche Koseform, meist im Umfeld von Elisabeth",
+    "biblischer bzw. hebräischer Namenshintergrund über die Ursprungsnamen",
+    "historisch früher gebräuchlicher Name",
+    "selten vergeben",
+    "deutschsprachiger Raum",
+    "Namenstag und Namenslexikon-Kontext"
+  ],
+  "confidence": 0.89,
+  "display_text": "Liesel wirkt in Deutschland eher selten, traditionell und leicht nostalgisch. Die vorhandenen Quellen beschreiben den Namen sachlich bis leicht positiv, vor allem als altdeutsche Koseform mit klassischem, vertrautem Klang. Eine breite öffentliche Debatte ist jedoch kaum erkennbar.",
+  "evidence_quality": "Gut für Herkunft, Bedeutung und grobe Stilwirkung; schwächer für echte öffentliche Breitenresonanz.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Liesel",
+  "normalized_name": "liesel",
+  "overall_resonance": "Eher freundlich-traditionell mit historischer, leicht nostalgischer Wirkung. Die vorhandenen Quellen beschreiben den Namen überwiegend sachlich und mit tendenziell positiver Konnotation, vor allem durch Herkunft, Bedeutung und die Einordnung als seltener, älterer Name.",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt Liesel eher klassisch als modern.",
+    "Durch die Seltenheit kann der Name auffallen, ohne aufdringlich zu wirken.",
+    "Die Kurzform vermittelt einen vertrauten, warmen Eindruck.",
+    "Im öffentlichen Bild steht eher die traditionelle Namenskunde als ein aktueller Trend im Vordergrund."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt überwiegend aus Namensdatenbanken und nur begrenzt aus öffentlicher Diskussion.",
+    "Positive Eindrücke beruhen teils auf Lexikontexten und einzelnen Kommentaren, nicht auf breiter Resonanz.",
+    "Beliebtheitsangaben sind vor allem deskriptiv und sollten nicht als Werturteil gelesen werden."
+  ],
+  "short_summary": "Liesel wird überwiegend als seltener, traditioneller und freundlich-nostalgisch wirkender Vorname wahrgenommen. Die verfügbare Evidenz ist solide für Namenskunde, aber nur begrenzt für breite öffentliche Diskussion.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "Vorname Liesel � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/L/Li/Liesel/"
+    },
+    {
+      "confidence": 0.89,
+      "is_name_discussion": true,
+      "sentiment": "mixed",
+      "source_type": "web",
+      "title": "&#9655; Vorname Liesel: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Liesel.html"
+    }
+  ],
+  "style_effect": [
+    "altdeutsch/klassisch",
+    "Koseform-Charakter",
+    "lieblich und vertraut klingend",
+    "nostalgisch",
+    "selten und markant",
+    "traditionell-weiblich"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland eher selten und daher nicht stark alltagspräsent; die öffentliche Wahrnehmung wirkt eher namenkundlich als breit diskutiert."
+}

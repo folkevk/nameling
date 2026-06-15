@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "englische Variante von Susanna",
+    "biblischer Ursprung",
+    "Bedeutung: Lilie",
+    "Namenstag",
+    "historisch in Deutschland eher verbreitet",
+    "heute seltener",
+    "Kurzformen wie Sue, Susi oder Sunny"
+  ],
+  "confidence": 0.9,
+  "display_text": "Susan: klassisch, international und eher selten – mit biblisch-englischer Herkunft und schlichter, zeitloser Wirkung.",
+  "evidence_quality": "gut bis sehr gut: zwei klar namenskundliche Quellen mit hoher Relevanz, teils mit gemischten Community-Kommentaren.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Susan",
+  "normalized_name": "susan",
+  "overall_resonance": "Susan wirkt im deutschen Namensraum eher klassisch und klar international geprägt, mit zurückhaltender, eher vertrauter als trendiger Ausstrahlung.",
+  "practical_notes": [
+    "Für die Öffentlichkeit ist Susan gut erkennbar und leicht einzuordnen.",
+    "Der Name kann je nach Umfeld als etwas älter oder klassisch wahrgenommen werden.",
+    "Die Schreibweise ist international verständlich und unauffällig."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Einzelne Klangurteile aus Kommentaren sind subjektiv und nicht als allgemeine Eigenschaft des Namens zu verstehen.",
+    "Die Evidenz stammt überwiegend aus Namenslexika und kommentierten Namenseinträgen, nicht aus breiter Repräsentativforschung."
+  ],
+  "short_summary": "Susan wird in Deutschland meist als klassischer, international geprägter und eher seltener Vorname wahrgenommen, mit biblisch-englischer Herkunft und einer schlichten, zeitlosen Wirkung.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Susan � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/S/Su/Susan/"
+    },
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "mixed",
+      "source_type": "web",
+      "title": "&#9655; Vorname Susan: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Susan.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "international",
+    "schlicht",
+    "weiblich",
+    "zeitlos",
+    "eher selten als modern"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Der Name ist bekannt, aber heute eher seltener und nicht stark modisch präsent; die öffentliche Wahrnehmung ist vor allem namenskundlich und historisch gefärbt."
+}

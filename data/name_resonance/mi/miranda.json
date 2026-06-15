@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "lateinische Herkunft",
+    "die Wunderbare / die Bewundernswerte",
+    "Shakespeare-Bezug",
+    "weiblicher Vorname",
+    "selten bis moderat verbreitet",
+    "informative Namenslexika"
+  ],
+  "confidence": 0.88,
+  "display_text": "Miranda wirkt öffentlich überwiegend positiv: ein klangvoller, eleganter Vorname mit lateinischer Herkunft und der Bedeutung „die Wunderbare“/„die Bewundernswerte“. In Deutschland erscheint er eher selten bis moderat präsent; die Evidenz kommt vor allem aus Namenslexika, daher ist die Resonanz gut belegt, aber nur indirekt als öffentliche Meinung.",
+  "evidence_quality": "gut für die Namendeutung, mittel für öffentliche Resonanz; überwiegend lexikalische Quellen, kaum freie Meinungsäußerungen",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Miranda",
+  "normalized_name": "miranda",
+  "overall_resonance": "Überwiegend positiv bis neutral. Miranda wird in den vorliegenden Namensquellen meist als klangvoller, wertschätzend konnotierter Vorname mit lateinischer Herkunft beschrieben. Die öffentliche Resonanz wirkt eher leise, aber freundlich; eine starke Alltagspräsenz in Deutschland ist aus der Evidenz nicht klar ableitbar.",
+  "practical_notes": [
+    "Für Suchmaschinen-Texte eignet sich Miranda als freundlicher, eleganter und international verständlicher Vorname.",
+    "Der Name wirkt eher literarisch als trendig.",
+    "Wenn gewünscht, lässt sich die Resonanz auch als Kurzprofil für Eltern oder als Vergleich zu ähnlichen Namen aufbereiten."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt fast ausschließlich aus Namensverzeichnissen, nicht aus freien öffentlichen Meinungen.",
+    "Die positive Wirkung ist vor allem lexikalisch und etymologisch belegt, nicht als breiter Publikumstrend.",
+    "Aussagen zur tatsächlichen Beliebtheit in Deutschland sollten vorsichtig gelesen werden."
+  ],
+  "short_summary": "Miranda wird in den Quellen überwiegend positiv und wertschätzend beschrieben, mit Bedeutungen wie „die Wunderbare“ oder „die Bewundernswerte“. In Deutschland wirkt der Name eher selten bis moderat sichtbar und eher literarisch-elegant als trendbetont.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.95,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "Vorname Miranda � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/M/Mi/Miranda/"
+    },
+    {
+      "confidence": 0.95,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Miranda: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Miranda.html"
+    }
+  ],
+  "style_effect": [
+    "klangvoll",
+    "elegant",
+    "eher klassisch-literarisch",
+    "wertschätzend",
+    "leicht international"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Eher selten bis moderat sichtbar in Deutschland; die Belege deuten auf Bekanntheit in Namenslexika hin, aber nicht auf breite öffentliche Diskussion."
+}

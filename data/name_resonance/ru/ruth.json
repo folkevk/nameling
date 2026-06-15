@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "althebräische Herkunft",
+    "biblischer Name",
+    "Bedeutung im Sinne von Freundin/Begleiterin/Erquickung",
+    "lange in Deutschland bekannt",
+    "eher selten bis mäßig vergeben",
+    "Namenstag wird in Namensquellen erwähnt"
+  ],
+  "confidence": 0.92,
+  "display_text": "Ruth wirkt in der öffentlichen Wahrnehmung klassisch, biblisch und zeitlos. Der Name ist in Deutschland gut bekannt, wird aber eher selten bis mäßig vergeben. Die Quellen betonen vor allem Herkunft, Bedeutung und den traditionsreichen Charakter des Namens.",
+  "evidence_quality": "hoch",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Ruth",
+  "normalized_name": "ruth",
+  "overall_resonance": "Der Vorname Ruth wird in der öffentlichen Wahrnehmung meist als klassisch, biblisch und sprachlich klar einordenbar beschrieben. Er wirkt eher zeitlos als modisch und wird in Deutschland eher als bekannt, aber heute nicht sehr häufig vergeben wahrgenommen.",
+  "practical_notes": [
+    "Für Suchmaschinen und Namenslexika ist Ruth ein gut anschlussfähiger, leicht erklärbarer Name mit klarer Herkunft.",
+    "Die Wirkung ist eher klassisch als trendig, was ihn für Menschen attraktiv machen kann, die einen traditionsreichen Namen suchen.",
+    "In Deutschland scheint der Name eher selten bis moderat vergeben zu sein, ohne dabei ungewöhnlich oder schwer verständlich zu wirken."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Quellenlage ist überwiegend stark, aber einige Auszüge enthalten Navigations- oder Randfragmente, die nicht zu hoch gewichtet werden sollten.",
+    "Es gibt keine Hinweise auf eine soziale Stigmatisierung des Namens in den vorliegenden Quellen; die Einordnung bleibt daher sachlich und zurückhaltend."
+  ],
+  "short_summary": "Ruth wird öffentlich vor allem als klassischer, biblischer und traditioneller Vorname wahrgenommen, der in Deutschland bekannt, aber eher nicht sehr häufig ist.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Ruth � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/R/Ru/Ruth/"
+    },
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Ruth: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Ruth.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "biblisch",
+    "traditionell",
+    "nüchtern",
+    "zeitlos",
+    "namenskundlich"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "mittel"
+}

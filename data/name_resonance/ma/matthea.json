@@ -1,0 +1,62 @@
+{
+  "associations": [
+    "weiblicher Vorname",
+    "Variante zu Matthias/Matteo",
+    "althebräischer Ursprung",
+    "Bedeutung: Geschenk Gottes / Gabe des Herrn",
+    "deutscher und niederländischer Raum",
+    "selten bis wenig verbreitet",
+    "Namenstag",
+    "Spitznamen wie Thea"
+  ],
+  "confidence": 0.86,
+  "display_text": "Matthea wird überwiegend sachlich bis leicht positiv beschrieben: ein seltener, biblisch geprägter Mädchenname mit der Bedeutung „Geschenk Gottes“. In Deutschland wirkt er eher ungewöhnlich und auffällig, ohne belastbare Hinweise auf eine starke gesellschaftliche Stigmatisierung.",
+  "evidence_quality": "gut für Herkunft, Bedeutung und Verbreitung; mittel für tatsächliche öffentliche Wirkung, da vor allem lexikalische Quellen vorliegen.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Matthea",
+  "normalized_name": "matthea",
+  "overall_resonance": "Matthea wird in der öffentlichen Namensbeschreibung überwiegend sachlich bis leicht positiv wahrgenommen. Der Name gilt als selten, markant und eher ungewöhnlich, mit klarer religiös-biblischer und althebräischer Herleitung.",
+  "practical_notes": [
+    "Für Suchmaschinen wirkt Matthea klar, originell und gut einordenbar.",
+    "Der Name dürfte wegen seiner Seltenheit eher als individuell denn als alltäglich empfunden werden.",
+    "Die religiöse Bedeutung kann für manche ein Pluspunkt sein, ist aber nicht für alle relevant."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz zur öffentlichen Resonanz ist begrenzt und stammt vor allem aus Namensportalen, nicht aus breiten Umfragen.",
+    "Einzelne positive Einschätzungen sollten nicht als allgemeine gesellschaftliche Mehrheitsmeinung verstanden werden."
+  ],
+  "short_summary": "Matthea ist ein seltener, biblisch geprägter Mädchenname mit positiv-sachlicher Wahrnehmung. Er wirkt eigenständig, klassisch und ungewöhnlich, bei insgesamt eher niedriger Verbreitung in Deutschland.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Matthea � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/M/Ma/Matthea/"
+    },
+    {
+      "confidence": 0.88,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Matthea: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Matthea.html"
+    }
+  ],
+  "style_effect": [
+    "selten",
+    "eigenständig",
+    "biblisch geprägt",
+    "klingt klassisch und zugleich ungewöhnlich",
+    "eher sanft als hart",
+    "namenskundlich interessant"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland wirkt Matthea eher wenig verbreitet und damit auffälliger als geläufige Vornamen. Die öffentliche Sichtbarkeit ist vor allem namenskundlich geprägt, nicht durch breite Alltagsnutzung."
+}

@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "deutsche Variante von Jessica",
+    "Bedeutungsbezug zu 'Gott sieht' / 'Gott wacht über dich'",
+    "aramäisch/althebräische Herkunftsdeutung",
+    "selten im deutschen Sprachraum",
+    "Schreibvarianten wie Jessyka oder Dzhessika",
+    "Kurzformen wie Jessi oder Jessy"
+  ],
+  "confidence": 0.86,
+  "display_text": "Jessika wird meist als seltener, weiblicher Vorname mit neutral bis leicht positiver Resonanz wahrgenommen. Die öffentliche Sichtbarkeit ist vor allem namenskundlich geprägt – über Bedeutung, Herkunft und Schreibvarianten – nicht über starke soziale Bewertungen.",
+  "evidence_quality": "mittel bis gut: klare Namensbeschreibungen, aber kaum echte Meinungs- oder Diskussionsdaten",
+  "generated_at": "2026-06-14T10:47:41Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Jessika",
+  "normalized_name": "jessika",
+  "overall_resonance": "Jessika wird öffentlich vor allem als weiblicher Vorname mit klarer, eher sachlich-informativer Namenswirkung wahrgenommen. Die Rezeption wirkt insgesamt neutral bis leicht positiv, vor allem durch Herkunft, Bedeutung und Schreibvarianten; belastbare Hinweise auf starke emotionale oder soziale Aufladung sind in der vorliegenden Evidenz nicht erkennbar.",
+  "practical_notes": [
+    "Für eine Namenssuche eignet sich Jessika als klare, bekannte, aber eher seltene Form.",
+    "Die Schreibweise mit k kann als markante Variante von Jessica wirken.",
+    "Die Wahrnehmung ist eher informativ und zurückhaltend als trendstark oder polarisierend."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt überwiegend aus Namensdatenbanken; daraus lässt sich öffentliche Resonanz nur indirekt ableiten.",
+    "Bei Herkunftsangaben gibt es teils uneinheitliche oder konkurrierende Deutungen.",
+    "Es liegen keine belastbaren Hinweise auf gesellschaftliche Stigmatisierung oder starke Vorurteile vor."
+  ],
+  "short_summary": "Jessika wirkt in Deutschland als seltener, gut verständlicher Mädchenvorname mit eher neutraler bis leicht positiver Resonanz. Die öffentliche Wahrnehmung ist vor allem informativ geprägt; starke Wertungen sind in der Evidenz nicht zu sehen.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Jessika � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/J/Je/Jessika/"
+    },
+    {
+      "confidence": 0.9,
+      "is_name_discussion": true,
+      "sentiment": "mixed",
+      "source_type": "web",
+      "title": "&#9655; Vorname Jessika: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Jessika.html"
+    }
+  ],
+  "style_effect": [
+    "weiblich",
+    "klassisch-lexikalisch",
+    "modern durch Schreibvariante",
+    "weich im Klang",
+    "eher selten",
+    "namenskundlich statt trendgetrieben"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland wirkt Jessika eher selten und damit nicht alltagsdominant, aber als bekannte Schreibvariante gut einordenbar. Die öffentliche Sichtbarkeit scheint vor allem über Namenslexika und Herkunftsseiten zu entstehen, weniger über lebendige Diskussionsdynamik."
+}

@@ -1,0 +1,69 @@
+{
+  "associations": [
+    "altgriechische Herkunft",
+    "Bedeutung: Beschützer/in oder Verteidiger/in",
+    "Kurzform von Alexander",
+    "Unisex-Name",
+    "im deutschsprachigen Raum seit den 1980er-Jahren bekannt",
+    "eher selten, aber geläufig",
+    "Namenstag wird in den Quellen unterschiedlich angegeben"
+  ],
+  "confidence": 0.86,
+  "display_text": "Alexis wirkt in Deutschland eher bekannt als verbreitet: ein klassisch-internationaler, meist neutral wahrgenommener Unisex-Name mit griechischer Herkunft. Die öffentliche Resonanz ist auf Basis der vorliegenden Quellen eher sachlich als wertend; belastbare Hinweise auf starke Vorlieben oder Ablehnung sind nicht erkennbar.",
+  "evidence_quality": "mittel bis schwach für öffentliche Resonanz; gut für Herkunft, Bedeutung und Gebrauchsprofil",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Alexis",
+  "normalized_name": "alexis",
+  "overall_resonance": "Der Name Alexis wird in den vorliegenden Quellen überwiegend sachlich-neutral wahrgenommen. Er wirkt eher klassisch und international, ist im deutschsprachigen Raum bekannt, aber nicht stark verbreitet. Die öffentliche Rezeption erscheint insgesamt unaufgeregt und beschreibend, mit wenig klarer emotionaler Wertung.",
+  "practical_notes": [
+    "Für eine Namenssuche ist Alexis gut einordenbar: bekannt, international verständlich und nicht stark mit Trendspitzen verbunden.",
+    "Die Wahrnehmung dürfte je nach Region und Sprachraum etwas variieren, besonders wegen der Unisex-Nutzung.",
+    "Wer auf eindeutige Geschlechtszuordnung Wert legt, sollte beachten, dass der Name in den Quellen als geschlechtsneutral beschrieben wird."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz für echte öffentliche Resonanz ist schwach, da die Quellen vor allem Lexikon- und Namensdaten enthalten.",
+    "Unterschiedliche Angaben zum Namenstag zeigen, dass einige Details quellenabhängig variieren.",
+    "Es gibt keine belastbaren Hinweise auf starke positive oder negative gesellschaftliche Bewertung."
+  ],
+  "short_summary": "Alexis wird überwiegend neutral und beschreibend rezipiert: ein bekannter, eher seltener, international wirkender Unisex-Name mit griechischer Herkunft.",
+  "source_count": 3,
+  "sources": [
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Alexis � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/A/Al/Alexis/"
+    },
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Alexis � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/A/Al/Alexis/"
+    },
+    {
+      "confidence": 0.9,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Alexis: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Alexis.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "international",
+    "geschlechtsneutral bzw. unisex",
+    "sprachlich eher weich und modern klingend",
+    "eher ungewöhnlich als alltäglich"
+  ],
+  "usable_evidence_count": 3,
+  "visibility": "Mittlere Sichtbarkeit: Der Name ist bekannt, aber eher selten bis mäßig häufig. In den Quellen wird er vor allem namenskundlich und statistisch eingeordnet, weniger in frei geäußerten öffentlichen Meinungen."
+}

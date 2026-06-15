@@ -1,0 +1,59 @@
+{
+  "associations": [
+    "skandinavische Form von Christian",
+    "Bedeutung im christlichen Namensfeld",
+    "seltenere Schreibweise in Deutschland",
+    "Namenstag",
+    "Variante mit internationalem Klang"
+  ],
+  "confidence": 0.89,
+  "display_text": "Kristian: überwiegend neutral bis leicht positiv. Der Name wirkt klassisch, international und etwas seltener in Deutschland. Öffentliche Debatten oder starke Wertungen sind in der Evidenz nicht erkennbar.",
+  "evidence_quality": "gut für Herkunft, Bedeutung und Einordnung; schwach für echte öffentliche Meinungsbildung",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Kristian",
+  "normalized_name": "kristian",
+  "overall_resonance": "Überwiegend neutral bis leicht positiv: Kristian wird öffentlich vor allem als sachliche Namensvariante mit klarer Herkunft und Bedeutung wahrgenommen, ohne auffällige Polarisierung.",
+  "practical_notes": [
+    "Für die Namenssuche wirkt Kristian vertraut, aber etwas markanter als Christian.",
+    "Die Schreibweise kann als nordisch/international wahrgenommen werden.",
+    "Im deutschen Alltag dürfte der Name meist problemlos verständlich sein, aber gelegentlich als seltenere Variante erklärt werden müssen."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz basiert vor allem auf namenskundlichen Webseiten und nicht auf breiter öffentlicher Debatte.",
+    "Es sind keine starken negativen oder positiven Massenurteile erkennbar.",
+    "Der Eindruck bleibt deshalb vorsichtig und eher beschreibend als gesellschaftlich bewertet."
+  ],
+  "short_summary": "Kristian wird in Deutschland meist neutral bis leicht positiv wahrgenommen: ein seltenerer, klar einordbarer Vorname mit skandinavischem Klang und christlicher Namensbedeutung.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.89,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Kristian � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/K/Kr/Kristian/"
+    },
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Kristian: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Kristian.html"
+    }
+  ],
+  "style_effect": [
+    "informativ",
+    "klassisch-namenskundlich",
+    "eher international wirkend",
+    "zeitlos",
+    "unaufgeregt"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland eher seltener und dadurch nicht massenhaft präsent, aber als eigener Vorname gut auffindbar und namenskundlich klar eingeordnet."
+}

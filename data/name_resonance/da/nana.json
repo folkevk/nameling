@@ -1,0 +1,92 @@
+{
+  "associations": [
+    "Kose- oder Kurzform von Anna/Johanna",
+    "Bedeutungen wie „gnädig“, „liebreizend“ oder „die Glückliche“",
+    "mehrsprachig und kulturell vielseitig",
+    "selten bis ungewöhnlich in Deutschland",
+    "teilweise als Unisex-Name eingeordnet",
+    "mancherorts mit positiven, freundlichen Assoziationen verbunden"
+  ],
+  "confidence": 0.79,
+  "display_text": "Nana wird in den Quellen meist neutral bis leicht positiv wahrgenommen: kurz, einprägsam, eher selten und mit mehreren kulturellen Bedeutungen. Für Deutschland gibt es jedoch nur begrenzte direkte Evidenz zur öffentlichen Resonanz, daher ist die Einordnung vorsichtig zu lesen.",
+  "evidence_quality": "mittel bis schwach: klare Namensbelege, aber wenig direkte öffentliche Meinungsäußerung",
+  "generated_at": "2026-06-13T22:17:22Z",
+  "ignored_mentions_count": 1,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Nana",
+  "normalized_name": "nana",
+  "overall_resonance": "Überwiegend neutral bis leicht positiv: Nana wird in den Quellen meist als kurzer, auffälliger und eher seltener Vorname beschrieben, mit vielseitigen kulturellen Bezügen und teils freundlicher, zarter oder liebenswürdiger Konnotation. Die öffentliche Resonanz wirkt eher sachlich-informativ als kontrovers.",
+  "practical_notes": [
+    "Für Deutschland wirkt Nana eher modern, kurz und unverwechselbar.",
+    "Der Name ist leicht zu merken, kann aber wegen seiner Mehrdeutigkeit nach der Herkunft gefragt werden.",
+    "Da er selten ist, fällt er im Alltag eher auf als sehr häufige Vornamen."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt fast ausschließlich aus Namenslexika und Statistikseiten, daher ist die öffentliche Resonanz nur indirekt ablesbar.",
+    "Mehrere unterschiedliche kulturelle Herleitungen können je nach Kontext Verwirrung erzeugen.",
+    "Einzelne Bedeutungen oder Länderbezüge sollten nicht als allgemein verbindlich verstanden werden."
+  ],
+  "short_summary": "Nana wirkt in Deutschland eher selten, international und freundlich besetzt, mit insgesamt neutral bis leicht positiver Resonanz. Die Datenlage ist jedoch vor allem lexikalisch und nicht stark öffentlich-diskursiv.",
+  "source_count": 6,
+  "sources": [
+    {
+      "confidence": 0.95,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Nana � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/N/Na/Nana/"
+    },
+    {
+      "confidence": 0.88,
+      "is_name_discussion": true,
+      "sentiment": "gemischt",
+      "source_type": "web",
+      "title": "&#9655; Vorname Nana: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Nana.html"
+    },
+    {
+      "confidence": 0.65,
+      "is_name_discussion": false,
+      "sentiment": "unknown",
+      "source_type": "web",
+      "title": "Nana (Vorname) – Wikipedia",
+      "url": "https://de.wikipedia.org/wiki/Nana_(Vorname)"
+    },
+    {
+      "confidence": 0.95,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Der Vorname Nana als Babyname – Aktuelle Statistiken",
+      "url": "https://blog.beliebte-vornamen.de/name/nana/"
+    },
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Nana – Bedeutung, Herkunft & Beliebtheit",
+      "url": "https://charlies-names.com/de/nana/"
+    },
+    {
+      "confidence": 0.94,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Nana - Bedeutung, Herkunft, Namenstag",
+      "url": "https://www.babyvornamen.at/details?vorname=Nana"
+    }
+  ],
+  "style_effect": [
+    "kurz und eingängig",
+    "international anschlussfähig",
+    "eher selten und dadurch markant",
+    "informell bis liebevoll wirkend",
+    "vieldeutig durch mehrere Herkunfts- und Bedeutungsbezüge"
+  ],
+  "usable_evidence_count": 5,
+  "visibility": "Eher niedrig bis mittel: Der Name erscheint in Namensportalen und Statistikseiten, aber die Evidenz für eine breite öffentliche Debatte oder starke Alltagswahrnehmung ist begrenzt."
+}

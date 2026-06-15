@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "friesische bzw. norddeutsche Kurzform",
+    "mögliche Kurzform von Friederike, Henrike oder Ulrike",
+    "althochdeutsche Herkunft",
+    "Bedeutungsfelder wie „die Mächtige“, „die Reiche“ oder „die Herrscherin“",
+    "selten verwendet",
+    "teils als Spitzname, teils als eigenständiger Vorname"
+  ],
+  "confidence": 0.87,
+  "display_text": "Rike wirkt in den verfügbaren Quellen überwiegend neutral bis leicht positiv: ein seltener, norddeutsch geprägter Vorname, der oft als Kurzform von längeren Namen genannt wird, aber auch eigenständig wirkt. Die öffentliche Rezeption ist eher sachlich-wohlwollend; wegen der begrenzten Evidenz bleibt die Einordnung vorsichtig.",
+  "evidence_quality": "mittel bis schwach: zwei überwiegend lexikalische Quellen, wenig breit gestützte öffentliche Diskussion, daher nur vorsichtige Einordnung möglich.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Rike",
+  "normalized_name": "rike",
+  "overall_resonance": "Der Vorname Rike wird in der verfügbaren Evidenz überwiegend neutral bis leicht positiv wahrgenommen. Er gilt als selten, norddeutsch geprägt und wird oft als Kurzform, teils auch als eigenständiger Name beschrieben. Die öffentliche Rezeption wirkt eher sachlich-wohlwollend als stark emotional.",
+  "practical_notes": [
+    "Für die Namenssuche kann Rike als kurzer, klarer und regional eingefärbter Name erscheinen.",
+    "Wer einen seltenen, traditionellen Namen sucht, findet hier eine gut anschlussfähige Option.",
+    "Die Aussagen zur Beliebtheit sind vorsichtig zu lesen, da die Quellenlage begrenzt ist."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenzbasis ist klein und stützt sich vor allem auf Namenslexika sowie wenige Community-Stimmen.",
+    "Einschätzungen wie „hübsch“ oder „altmodisch“ sind subjektive Eindrücke und keine allgemeingültigen Fakten.",
+    "Es gibt keinen klaren Hinweis auf gesellschaftliche Stigmatisierung; die Wahrnehmung wirkt vielmehr neutral bis freundlich."
+  ],
+  "short_summary": "Rike wird öffentlich meist neutral bis leicht positiv wahrgenommen: ein seltener, norddeutsch geprägter Vorname mit traditioneller Kurzform-Wirkung.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Rike � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/R/Ri/Rike/"
+    },
+    {
+      "confidence": 0.88,
+      "is_name_discussion": true,
+      "sentiment": "slightly positive",
+      "source_type": "web",
+      "title": "&#9655; Vorname Rike: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Rike.html"
+    }
+  ],
+  "style_effect": [
+    "kurz und klar",
+    "traditionell-norddeutsch",
+    "selten und eigenständig wirkend",
+    "eher freundlich als modern-experimentell",
+    "leicht altmodischer, aber nicht negativ belegter Eindruck"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Eher geringe bis mittlere Sichtbarkeit: Der Name ist bekannt, aber nicht sehr verbreitet und wird in den Quellen vor allem in Namenslexika und einzelnen Community-Kommentaren behandelt."
+}

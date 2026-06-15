@@ -1,0 +1,70 @@
+{
+  "associations": [
+    "Lilie / Blumenbezug",
+    "hebräische, lateinische oder englische Herleitungen",
+    "Bedeutungen wie „mein Gott ist Fülle“ bzw. ähnliche Deutungen",
+    "klassischer Vorname",
+    "Unisex-Name, in Deutschland eher für Mädchen verwendet",
+    "Varianten wie Lillian, Liliane, Lilienne",
+    "Beliebtheit/Häufigkeit in Deutschland"
+  ],
+  "confidence": 0.78,
+  "display_text": "Lilian wirkt in Deutschland überwiegend sachlich bis leicht positiv. Der Name wird vor allem als klassisch, weich klingend und namenskundlich interessant beschrieben, oft mit Bezug zu „Lilie“ und unterschiedlichen Herkunftsdeutungen. Die Evidenz ist allerdings begrenzt und basiert vor allem auf wenigen Namenslexikon-Seiten.",
+  "evidence_quality": "Eher begrenzt: mehrere verwandte Namensseiten, aber kaum unabhängige öffentliche Diskussion oder community-getragene Bewertung.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Lilian",
+  "normalized_name": "lilian",
+  "overall_resonance": "Für Lilian wirkt die öffentliche Resonanz in der vorliegenden Evidenz überwiegend sachlich bis leicht positiv. Der Name wird vor allem als klassisch, elegant und namenskundlich interessant beschrieben; zugleich ist die Datenlage eher schmal und basiert hauptsächlich auf wenigen Namenslexikon-/Detailseiten.",
+  "practical_notes": [
+    "Für Suchmaschinen eignet sich eine Beschreibung als klassischer, weich klingender und eher positiv konnotierter Vorname.",
+    "Wenn gewünscht, kann man die Unisex-Wahrnehmung erwähnen, in Deutschland aber mit Hinweis auf die häufigere Mädchenvergabe.",
+    "Die öffentliche Rezeption wirkt eher informativ als emotional aufgeladen."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist schwach bis moderat und stützt sich fast nur auf Namenslexikon-Seiten, nicht auf breite öffentliche Diskussionen.",
+    "Die Herkunft und Bedeutung werden teils unterschiedlich erklärt; das sollte als mögliche Deutungsvielfalt verstanden werden, nicht als eindeutige Wahrheit.",
+    "Keine Hinweise auf starke negative Stigmatisierung in der vorliegenden Evidenz."
+  ],
+  "short_summary": "Lilian wird in den vorliegenden Quellen überwiegend sachlich und leicht positiv als klassischer, eleganter Vorname mit Blumen- und Bedeutungsbezügen dargestellt; die Evidenz ist jedoch eher schmal.",
+  "source_count": 3,
+  "sources": [
+    {
+      "confidence": 0.82,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Lilian � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/L/Li/Lilian/"
+    },
+    {
+      "confidence": 0.91,
+      "is_name_discussion": true,
+      "sentiment": "eher positiv-neutral",
+      "source_type": "web",
+      "title": "Vorname Lilian � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/L/Li/Lilian/"
+    },
+    {
+      "confidence": 0.88,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Lilian: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Lilian.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "elegant",
+    "weich klingend",
+    "neutral bis leicht positiv",
+    "namenskundlich interessant",
+    "teils unisex wahrgenommen"
+  ],
+  "usable_evidence_count": 3,
+  "visibility": "In Deutschland scheint Lilian als bekannter, aber nicht extrem dominanter Vorname wahrgenommen zu werden. Die Quellen betonen eher die Einordnung und Herkunft als eine breite gesellschaftliche Debatte."
+}

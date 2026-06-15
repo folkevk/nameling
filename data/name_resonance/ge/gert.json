@@ -1,0 +1,62 @@
+{
+  "associations": [
+    "Kurzform von Gerhard",
+    "Variante von Gerd",
+    "althochdeutsche Herkunft",
+    "Bedeutung rund um den Speer / den Speerstarken",
+    "seltener Vorname in Deutschland",
+    "freundlich und beständig als subjektive Namenswirkung",
+    "etwas aus der Mode als einzelne Kommentierung"
+  ],
+  "confidence": 0.84,
+  "display_text": "Gert: ein seltener, klassisch-deutscher Vorname mit althochdeutscher Herkunft. Die öffentliche Resonanz wirkt überwiegend sachlich und neutral bis leicht positiv, teils mit einem etwas altmodischen Eindruck.",
+  "evidence_quality": "mittel: zwei thematisch passende Namensseiten, überwiegend sachlich, aber mit begrenzter Breite und wenig unabhängiger Alltagsresonanz.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Gert",
+  "normalized_name": "gert",
+  "overall_resonance": "Gert wird öffentlich meist sachlich und namenskundlich eingeordnet: ein kurzer, traditioneller deutschsprachiger Name mit althochdeutscher Herkunft und klarer Bedeutung. Die Wahrnehmung wirkt eher neutral bis leicht positiv, zugleich aber etwas altmodisch und selten.",
+  "practical_notes": [
+    "Für Suchmaschinen eignet sich eine vorsichtige Einordnung als klassischer, seltener Männername mit traditioneller Herkunft.",
+    "Die Namenswirkung kann je nach Kontext eher nostalgisch als modern wahrgenommen werden.",
+    "Keine belastbaren Hinweise auf soziale Stigmatisierung in der vorliegenden Evidenz."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt überwiegend von Namensseiten mit begrenzter Alltagsresonanz; echte öffentliche Wahrnehmung außerhalb solcher Seiten ist nur schwach belegt.",
+    "Einzelne Aussagen wie 'etwas aus der Mode' sind subjektive Einschätzungen und sollten nicht als allgemeine Tatsache verstanden werden."
+  ],
+  "short_summary": "Gert wird meist als seltener, traditioneller deutschsprachiger Vorname mit althochdeutscher Herkunft wahrgenommen; die Resonanz ist eher neutral bis leicht positiv, gelegentlich mit einem leicht altmodischen Eindruck.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Gert � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/G/Ge/Gert/"
+    },
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "mixed",
+      "source_type": "web",
+      "title": "&#9655; Vorname Gert: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Gert.html"
+    }
+  ],
+  "style_effect": [
+    "kurz und knapp",
+    "traditionell",
+    "klassisch-deutsch",
+    "altmodisch",
+    "unaufgeregt",
+    "sachlich",
+    "leicht markant durch Kürze"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland eher geringe heutige Sichtbarkeit; der Name wird als seltener Vorname beschrieben und wirkt nicht stark modeprägend."
+}

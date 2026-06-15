@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "irische bzw. englische Namensform",
+    "Kurzform von William/Wilhelm",
+    "Bedeutungen wie „der entschlossene Beschützer“ oder „der Willensstarke“",
+    "modisch und populär",
+    "namenskundlich etabliert",
+    "mehrere genannte Namenstage"
+  ],
+  "confidence": 0.92,
+  "display_text": "Liam wird in Deutschland überwiegend positiv wahrgenommen: modern, international und sehr beliebt. Die Quellen beschreiben den Namen vor allem als trendig, klar und namenskundlich gut verankert. Die Bedeutung wird meist mit „der entschlossene Beschützer“ oder „der Willensstarke“ verbunden. Eine soziale Stigmatisierung ist in der vorliegenden Evidenz nicht erkennbar.",
+  "evidence_quality": "hoch für Herkunft, Bedeutung und Popularität; mittel für die allgemeine öffentliche Wirkung, da vor allem Namensportale vorliegen.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Liam",
+  "normalized_name": "liam",
+  "overall_resonance": "Liam wird in der öffentlichen Namenswahrnehmung in Deutschland überwiegend positiv bis neutral beschrieben. Der Name wirkt modern, international und aktuell sehr beliebt; die verfügbaren Quellen betonen vor allem Bedeutung, Herkunft und Trendcharakter.",
+  "practical_notes": [
+    "Sehr gut bekannt und leicht aussprechbar.",
+    "Wirkt in Deutschland vertraut, ohne altmodisch zu sein.",
+    "Geeignet, wenn ein kurzer, international verständlicher Name gewünscht ist.",
+    "Die Datenlage ist solide; für die allgemeine Resonanz sind die Quellen aber vor allem namenskundliche Portale."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die öffentliche Wahrnehmung ist stark durch Namensportale und Beliebtheitsdaten geprägt; das ist hilfreich, aber keine umfassende gesellschaftliche Umfrage.",
+    "Einzelne Formulierungen wie „trendiger“ oder „modischer“ sind beschreibend und sollten nicht als Werturteil über Träger des Namens verstanden werden."
+  ],
+  "short_summary": "Liam gilt in Deutschland als sehr beliebter, moderner und international wirkender Jungenname mit überwiegend positiver Resonanz.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.99,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Liam � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/L/Li/Liam/"
+    },
+    {
+      "confidence": 0.95,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Liam: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Liam.html"
+    }
+  ],
+  "style_effect": [
+    "modern",
+    "international",
+    "kurz und klar",
+    "trendiger Jungenname",
+    "lexikalisch vertraut",
+    "freundlich und zeitgemäß"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Sehr hoch – der Name ist in Deutschland stark präsent und laut den Quellen in Hitlisten weit oben bzw. seit Jahren deutlich im Trend."
+}

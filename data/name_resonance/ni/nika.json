@@ -1,0 +1,70 @@
+{
+  "associations": [
+    "altgriechische Herkunft",
+    "persische Herkunft",
+    "Bedeutung: Sieg / Siegerin",
+    "Bedeutung: die Gute",
+    "Kurzform oder Koseform",
+    "Unisex- bzw. genderneutral lesbar",
+    "in Deutschland bekannt und eher selten, aber verbreitet",
+    "Namenstag am 6. Dezember"
+  ],
+  "confidence": 0.79,
+  "display_text": "Nika wirkt in den verfügbaren Quellen überwiegend positiv, kurz und modern. Der Name wird häufig als international, teils genderneutral und mit Bedeutungen wie „Sieg“ oder „Siegerin“ beschrieben. Für die öffentliche Resonanz ist die Evidenz allerdings vor allem lexikonbasiert, daher nur vorsichtig belastbar.",
+  "evidence_quality": "mittel: mehrere inhaltlich ähnliche, aber vor allem lexikalische Quellen; wenig echte Diskurs-Evidenz",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Nika",
+  "normalized_name": "nika",
+  "overall_resonance": "Überwiegend positiv und modern, mit sachlich-informativem Eindruck. In den Quellen wird Nika meist als kurzer, internationaler und teils genderneutraler Vorname beschrieben; die öffentliche Resonanz wirkt eher wertschätzend als kontrovers.",
+  "practical_notes": [
+    "Für eine Namenssuche ist Nika meist ein gut verständlicher, kurzer und international anschlussfähiger Name.",
+    "Die Schreibweise ist klar und leicht auszusprechen.",
+    "Da der Name sowohl als weiblich als auch unisex beschrieben wird, kann die Wahrnehmung je nach Kontext variieren."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz basiert überwiegend auf Namenslexika, nicht auf breiter öffentlicher Diskussion.",
+    "Gemischte Einzelmeinungen in Kommentaren sind nur eingeschränkt verallgemeinerbar.",
+    "Keine Hinweise auf eine relevante soziale Stigmatisierung in den vorliegenden Quellen."
+  ],
+  "short_summary": "Nika wird in den verfügbaren Quellen überwiegend positiv, modern und international beschrieben. Die Wahrnehmung wirkt sachlich wertschätzend, die Datenlage zur öffentlichen Resonanz ist aber eher lexikonbasiert als breit diskursiv.",
+  "source_count": 3,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "positive",
+      "source_type": "web",
+      "title": "Vorname Nika � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/N/Ni/Nika/"
+    },
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Nika � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/N/Ni/Nika/"
+    },
+    {
+      "confidence": 0.91,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Nika: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Nika.html"
+    }
+  ],
+  "style_effect": [
+    "kurz und prägnant",
+    "modern und international",
+    "sachlich-beschreibend",
+    "leicht freundlich",
+    "teils genderneutral wahrgenommen"
+  ],
+  "usable_evidence_count": 3,
+  "visibility": "In Deutschland wirkt der Name bekannt, aber nicht massenhaft verbreitet. Die verfügbare Evidenz stammt vor allem aus Namenslexika und einzelnen Diskussionsseiten, daher ist die Aussage zur öffentlichen Wahrnehmung nur vorsichtig belastbar."
+}

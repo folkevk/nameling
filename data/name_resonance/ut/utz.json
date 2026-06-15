@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "Kurzform von Ulrich",
+    "altdeutscher bzw. oberdeutscher Namensgebrauch",
+    "Bedeutungsfelder wie Erbe / mächtig / reich",
+    "Namenstag",
+    "selten in Deutschland",
+    "traditionell und historisch"
+  ],
+  "confidence": 0.89,
+  "display_text": "Utz: seltener, traditioneller Vorname mit altdeutschem Klang. Die öffentliche Resonanz wirkt überwiegend neutral bis leicht positiv, vor allem sachlich-lexikalisch und eher ungewöhnlich als verbreitet.",
+  "evidence_quality": "mittel: vor allem lexikalische und community-basierte Namenseinträge, wenig direkte öffentliche Meinungsäußerung",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Utz",
+  "normalized_name": "utz",
+  "overall_resonance": "Der Vorname Utz wird öffentlich vor allem sachlich-lexikalisch wahrgenommen: als seltener, traditioneller und altdeutsch geprägter Name mit kurzer, markanter Form. Die Rezeption wirkt eher neutral bis leicht positiv, weniger mode- oder mainstreamorientiert.",
+  "practical_notes": [
+    "Für Suchmaschinen wird Utz meist als ungewöhnlicher, traditionsnaher Jungenvorname eingeordnet.",
+    "Die kurze Form sorgt für hohe Wiedererkennbarkeit.",
+    "Wer einen seltenen und klar historischen Klang sucht, findet hier einen passenden Namen.",
+    "Bei der Einordnung sollte die Seltenheit mitgedacht werden, da sie die Wahrnehmung stärker prägt als breite Bekanntheit."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist eher mittelstark und stammt überwiegend aus Namensdatenbanken und lexikalischen Quellen.",
+    "Öffentliche Resonanz im engeren Sinn ist nur begrenzt ablesbar; Nutzerbewertungen sind subjektiv und nicht allgemein verallgemeinerbar.",
+    "Keine belastbaren Hinweise auf soziale Stigmatisierung in den vorliegenden Quellen."
+  ],
+  "short_summary": "Utz wird meist als seltener, traditioneller und altdeutsch geprägter Vorname mit neutral bis leicht positiver Resonanz beschrieben.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.94,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Utz � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/U/Ut/Utz/"
+    },
+    {
+      "confidence": 0.89,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Utz: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Utz.html"
+    }
+  ],
+  "style_effect": [
+    "kurz und markant",
+    "traditionell/altdeutsch",
+    "selten und ungewöhnlich",
+    "historisch geprägt",
+    "eher sachlich als verspielt"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland wirkt Utz insgesamt wenig verbreitet und entsprechend eher auffällig als geläufig. Die öffentliche Sichtbarkeit ist daher begrenzt; die vorhandene Evidenz stammt vor allem aus Namenslexika und Community-basierten Einträgen."
+}

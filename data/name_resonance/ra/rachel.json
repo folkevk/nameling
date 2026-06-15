@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "hebräische Herkunft",
+    "biblischer Vorname",
+    "Bedeutung: \"das Mutterschaf\"",
+    "weiblicher Vorname",
+    "international gebräuchlich",
+    "in Deutschland gelistet",
+    "teils als im Deutschen etwas ungewohnt ausgesprochen beschrieben"
+  ],
+  "confidence": 0.77,
+  "display_text": "Rachel wirkt in Deutschland eher sachlich-neutral bis leicht positiv: ein internationaler, biblischer Vorname mit etablierter, aber moderater Sichtbarkeit. Die Quellenlage ist vor allem namenskundlich, daher nur begrenzt als direkte öffentliche Resonanz interpretierbar.",
+  "evidence_quality": "mittel bis schwach; überwiegend lexikalische Quellen, kaum direkte öffentliche Meinungsdaten",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Rachel",
+  "normalized_name": "rachel",
+  "overall_resonance": "Überwiegend sachlich-neutral bis leicht positiv; der Name wirkt in der öffentlichen Namenswahrnehmung eher international und vertraut als auffällig oder belastet.",
+  "practical_notes": [
+    "Für die Suche nach einem klaren, bekannten und zugleich international wirkenden Namen kann Rachel gut passen.",
+    "Im Deutschen kann die Aussprache je nach Umfeld unterschiedlich gehandhabt werden.",
+    "Die Quellen deuten auf eine eher neutrale bis freundlich-positiv konnotierte Namenswahrnehmung hin."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist stark auf Namenslexika und einzelne Namensseiten begrenzt; daraus lässt sich nur indirekt auf öffentliche Resonanz schließen.",
+    "Leichte Hinweise auf Aussprachehürden im Deutschen sind eher ein praktischer Punkt als ein negatives Urteil.",
+    "Keine belastbaren Hinweise auf gesellschaftliche Stigmatisierung erkennbar."
+  ],
+  "short_summary": "Rachel wird in Deutschland als biblisch-hebräischer, international wirkender Vorname wahrgenommen, überwiegend neutral bis leicht positiv; die Evidenz ist jedoch vor allem lexikalisch und nur indirekt aussagekräftig.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Rachel � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/R/Ra/Rachel/"
+    },
+    {
+      "confidence": 0.89,
+      "is_name_discussion": true,
+      "sentiment": "mixed",
+      "source_type": "web",
+      "title": "&#9655; Vorname Rachel: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Rachel.html"
+    }
+  ],
+  "style_effect": [
+    "international",
+    "biblisch",
+    "klassisch",
+    "namenskundlich etabliert",
+    "leicht elegant wirkend"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland als Vorname bekannt und gelistet, aber eher nicht sehr verbreitet; die öffentliche Sichtbarkeit scheint daher moderat."
+}

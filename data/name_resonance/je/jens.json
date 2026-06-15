@@ -1,0 +1,62 @@
+{
+  "associations": [
+    "friesische Kurzform von Johannes",
+    "Bedeutung: „Gott ist gnädig“",
+    "dänisch",
+    "norddeutsch",
+    "skandinavisch",
+    "Namenstag am 24. Juni und 27. Dezember",
+    "früher sehr beliebt, heute eher selten"
+  ],
+  "confidence": 0.82,
+  "display_text": "Jens: überwiegend neutral bis leicht positiv konnotiert. Der Name gilt als klassisch, norddeutsch/skandinavisch geprägt und heute eher selten. Die öffentliche Wahrnehmung ist vor allem sachlich-namenskundlich; einzelne kritische Klangurteile sind vorhanden, aber nicht dominant.",
+  "evidence_quality": "mittel",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Jens",
+  "normalized_name": "jens",
+  "overall_resonance": "Überwiegend neutral bis leicht positiv, mit klar sachlicher, namenskundlicher Prägung. Der Name wirkt in der öffentlichen Beschreibung eher klassisch-norddeutsch/skandinavisch und ist heute eher seltener.",
+  "practical_notes": [
+    "Für Suchmaschinen- oder Namensprofile ist Jens ein gut anschlussfähiger, verständlicher Vorname mit klarer Herkunft.",
+    "Die Wahrnehmung ist eher traditionsnah als trendig.",
+    "Die Quellenlage spricht eher für eine sachliche Beschreibung als für starke emotionale Polarisierung."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz zur öffentlichen Resonanz ist eher schwach bis mittel, da die Quellen überwiegend Namenslexika und keine breite Meinungsdiskussion sind.",
+    "Eine leicht kritische Klangbewertung stammt nur aus einzelnen Kommentaren und sollte nicht verallgemeinert werden.",
+    "Keine Hinweise auf gesellschaftliche Stigmatisierung in den vorliegenden Quellen."
+  ],
+  "short_summary": "Jens wird öffentlich vor allem sachlich und traditionell wahrgenommen: ein norddeutsch/skandinavisch geprägter Name mit klarer Bedeutung, eher seltener heute, insgesamt neutral bis leicht positiv.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Jens � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/J/Je/Jens/"
+    },
+    {
+      "confidence": 0.92,
+      "is_name_discussion": true,
+      "sentiment": "gemischt",
+      "source_type": "web",
+      "title": "&#9655; Vorname Jens: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Jens.html"
+    }
+  ],
+  "style_effect": [
+    "kurz und prägnant",
+    "klassisch-norddeutsch",
+    "skandinavisch wirkend",
+    "sachlich-neutral",
+    "eher selten im heutigen Gebrauch",
+    "in Teilen als klanglich schlicht wahrgenommen"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Mittlere Sichtbarkeit: Der Name ist bekannt und gut dokumentiert, wird aber in den Quellen vor allem informativ beschrieben und weniger in breiten Meinungsdiskussionen verhandelt."
+}

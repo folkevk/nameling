@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "hebräische/biblische Herkunft",
+    "Bedeutung: Lilie",
+    "deutsche und skandinavische Form von Susanna",
+    "Namenstag",
+    "früher in Deutschland sehr beliebt",
+    "heute eher selten vergeben"
+  ],
+  "confidence": 0.87,
+  "display_text": "Susanne wirkt klassisch, traditionell und sachlich. Die vorhandene Evidenz ist überwiegend neutral-informativ und stammt vor allem aus Namenslexika; eine breite öffentliche Diskussion ist kaum sichtbar. Historisch war der Name in Deutschland deutlich beliebter, heute wird er eher als seltener vergeben wahrgenommen.",
+  "evidence_quality": "Mittel bis schwach: zwei einschlägige Namensseiten, aber wenig externe öffentliche Debatte und kaum vielfältige Meinungsquellen.",
+  "generated_at": "2026-06-12T06:08:03Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Susanne",
+  "normalized_name": "susanne",
+  "overall_resonance": "Susanne wirkt in der öffentlichen Wahrnehmung vor allem klassisch, sachlich und traditionsnah. Die verfügbare Evidenz beschreibt den Namen überwiegend neutral-informativ; eine breite aktuelle Diskussionslage ist kaum erkennbar. Historisch war der Name in Deutschland deutlich verbreiteter, heute wird er eher als seltener vergeben wahrgenommen.",
+  "practical_notes": [
+    "Für eine Namenssuche ist Susanne gut als klassisch-traditioneller Name einzuordnen.",
+    "Die Quellenlage spricht eher für sachliche als für stark emotionale Resonanz.",
+    "Wer aktuelle Beliebtheit oder gesellschaftliche Assoziationen sucht, sollte zusätzliche Quellen heranziehen."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist einseitig und basiert vor allem auf Namenslexikon-Seiten.",
+    "Es gibt kaum belastbare Hinweise auf eine breite öffentliche Meinungsbildung oder aktuelle Trends.",
+    "Die Wahrnehmung kann je nach Generation und Umfeld unterschiedlich sein."
+  ],
+  "short_summary": "Susanne wird überwiegend klassisch und neutral wahrgenommen, mit klarer namenskundlicher Tradition, aber geringer aktueller Sichtbarkeit in der öffentlichen Resonanz.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Susanne � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/S/Su/Susanne/"
+    },
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Susanne: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Susanne.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "traditionell",
+    "zeitlos",
+    "eher nüchtern",
+    "namenskundlich klar"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Mittlere Bekanntheit, aber eher geringe aktuelle Sichtbarkeit als Babyname in Deutschland; die Resonanz stammt vor allem aus Namenslexika und ist daher nur eingeschränkt öffentlich breit belegt."
+}

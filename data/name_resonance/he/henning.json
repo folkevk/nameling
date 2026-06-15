@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "friesisch- und niederdeutsche Kurz- bzw. Koseform von Heinrich und Johannes",
+    "Bedeutungen wie \"der Hausherr\", \"der Herr im Haus\" oder \"Gott ist gnädig\"",
+    "norddeutsch und teilweise skandinavisch verortet",
+    "historisch belegt und namenslexikalisch gut erklärbar",
+    "vereinzelt als schön bzw. klangvoll beschrieben"
+  ],
+  "confidence": 0.86,
+  "display_text": "Henning wirkt in der öffentlichen Namenswahrnehmung überwiegend positiv und sachlich. Der Name gilt als traditionell, norddeutsch geprägt und historisch gut verankert. Er ist in Deutschland bekannt, besonders im Norden, und wird eher als klassisch als als modisch empfunden. Die Evidenz ist solide, aber auf wenige Namenslexikon-Quellen beschränkt.",
+  "evidence_quality": "mittel bis gut; inhaltlich klare Namensquellen, aber nur wenige Quellen und teils kommentarbasiert.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Henning",
+  "normalized_name": "henning",
+  "overall_resonance": "Überwiegend positiv bis sachlich-neutral; der Name wirkt traditionell, norddeutsch geprägt und im Namenskontext gut etabliert.",
+  "practical_notes": [
+    "Für Suchende, die einen traditionellen und klar einordenbaren Vornamen suchen, wirkt Henning eher vertraut als trendig.",
+    "Der Name ist im deutschen Sprachraum verständlich und wenig erklärungsbedürftig.",
+    "Die Wirkung ist eher sachlich-klassisch als verspielt oder modern.",
+    "Als Namenswahl kann er regional besonders in Norddeutschland vertraut klingen."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz basiert im Wesentlichen auf wenigen Namenslexikon-Seiten; die öffentliche Wahrnehmung ist daher nur begrenzt belastbar.",
+    "Beliebtheitsangaben können je nach Quelle schwanken und sind teils widersprüchlich.",
+    "Es liegen keine Hinweise auf eine soziale Stigmatisierung oder negative öffentliche Aufladung vor."
+  ],
+  "short_summary": "Henning wird öffentlich meist sachlich-neutral bis positiv wahrgenommen: traditionell, norddeutsch und klar in der Herkunft. Die Evidenz ist brauchbar, aber auf wenige Namenslexikon-Quellen begrenzt.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "mostly neutral with mildly positive popularity framing",
+      "source_type": "web",
+      "title": "Vorname Henning � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/H/He/Henning/"
+    },
+    {
+      "confidence": 0.92,
+      "is_name_discussion": true,
+      "sentiment": "positive",
+      "source_type": "web",
+      "title": "&#9655; Vorname Henning: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Henning.html"
+    }
+  ],
+  "style_effect": [
+    "traditionell",
+    "norddeutsch",
+    "klassisch",
+    "bodenständig",
+    "namenskundlich klar",
+    "leicht historisch"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland, besonders im Norden, bekannt und geläufig; insgesamt eher klassisch als modisch auffällig."
+}

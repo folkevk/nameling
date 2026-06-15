@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "althochdeutsche Herkunft",
+    "Bedeutung: aus dem Wald stammend",
+    "romanisierte Form von Wido",
+    "männlicher Vorname",
+    "Namenstag",
+    "früher beliebter, heute seltener",
+    "sprachlich auch mit italienischen Bezügen assoziiert"
+  ],
+  "confidence": 0.88,
+  "display_text": "Guido: überwiegend neutral bis leicht positiv wahrgenommen. Der Name gilt als klassisch und traditionsnah, ist in Deutschland aber eher selten. Die verfügbare Evidenz ist vor allem namenskundlich und nur begrenzt als echte öffentliche Resonanz zu verstehen.",
+  "evidence_quality": "Mittelstark: zwei informative Namensquellen, aber wenig direkte öffentliche Resonanz oder Nutzerbewertung.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Guido",
+  "normalized_name": "guido",
+  "overall_resonance": "Überwiegend neutral bis leicht positiv, mit eher beschreibender als bewertender öffentlicher Wahrnehmung. Der Name wirkt im deutschsprachigen Raum bekannt, aber heute eher selten.",
+  "practical_notes": [
+    "Für Suchende wirkt Guido klar verständlich, klassisch und traditionsnah.",
+    "Im heutigen Deutschland eher ein seltener Vorname, ohne stark polarisierende Konnotation.",
+    "Die Resonanz basiert eher auf Namenskunde als auf breiter öffentlicher Diskussion."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt vor allem aus Namensdatenbanken und ist daher nur begrenzt aussagekräftig für echte öffentliche Meinung.",
+    "Es liegen kaum frei geäußerte Bewertungen vor; die Wahrnehmung ist vor allem aus beschreibenden Quellen abgeleitet."
+  ],
+  "short_summary": "Guido wird im deutschsprachigen Raum überwiegend sachlich und eher positiv-kontextuell wahrgenommen: klassisch, traditionsnah und heute eher selten.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.95,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Guido � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/G/Gu/Guido/"
+    },
+    {
+      "confidence": 0.94,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Guido: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Guido.html"
+    }
+  ],
+  "style_effect": [
+    "sachlich",
+    "namenskundlich",
+    "klassisch",
+    "eher selten",
+    "traditionell",
+    "leicht altmodisch"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Mittel: Der Name ist in Namensdatenbanken gut dokumentiert, aber die öffentliche Resonanz wirkt nur schwach ausgeprägt und wenig meinungsstark."
+}

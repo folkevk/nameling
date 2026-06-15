@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "altgriechische Herkunft",
+    "„der Tapfere“ / „der Männliche“",
+    "biblischer Bezug: Apostel Andreas",
+    "Namenstag am 30. November",
+    "früher häufig, heute eher seltener",
+    "in Deutschland etabliert"
+  ],
+  "confidence": 0.87,
+  "display_text": "Andreas wird überwiegend als klassischer, traditioneller und freundlich-neutraler Vorname wahrgenommen. Die Quellen betonen die altgriechische Herkunft, die Bedeutung „der Tapfere“ / „der Männliche“ sowie den biblischen Bezug. In Deutschland ist der Name gut bekannt, wirkt aber heute eher seltener als früher vergeben. Die Evidenz ist begrenzt und stammt vor allem aus Namenslexika; die Aussagen zur Beliebtheit sind daher quellengebunden.",
+  "evidence_quality": "mittel: zwei einschlägige Namenslexikon-Quellen, aber keine breite, repräsentative Resonanzbasis",
+  "generated_at": "2026-06-12T06:08:03Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Andreas",
+  "normalized_name": "andreas",
+  "overall_resonance": "Andreas wird in den vorliegenden Quellen überwiegend als klassischer, traditioneller und sachlich positiv besetzter Vorname dargestellt. Die öffentliche Wahrnehmung wirkt eher vertraut und etabliert als modisch. Hinweise auf frühere größere Beliebtheit, heute aber eher seltenere Vergabe, prägen das Bild.",
+  "practical_notes": [
+    "Für Namenssuchende wirkt Andreas solide, klassisch und gut verständlich.",
+    "Der Name transportiert eher Tradition als Originalität.",
+    "Die Wahrnehmung ist insgesamt neutral bis freundlich, ohne auffällige Stigmatisierung."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz basiert nur auf zwei Namenslexikon-Quellen und ist daher eher begrenzt.",
+    "Beliebtheitsaussagen sind quellengebunden und sollten nicht als allgemeingültige Markt- oder Trenddaten verstanden werden.",
+    "Die positive Tonlage stammt vor allem aus Bedeutungs- und Traditionsbezügen, nicht aus breiter öffentlicher Resonanzforschung."
+  ],
+  "short_summary": "Andreas gilt als klassischer, traditioneller und meist positiv oder neutral wahrgenommener Vorname mit altgriechischer Herkunft. Er ist in Deutschland bekannt, heute jedoch eher seltener als früher.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Andreas � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/A/An/Andreas/"
+    },
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Andreas: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Andreas.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "traditionell",
+    "vertraut",
+    "lexikalisch-nüchtern",
+    "leicht positiv konnotiert"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland gut bekannt, aber nach den Quellen heute weniger häufig vergeben als früher."
+}

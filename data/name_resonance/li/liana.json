@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "Kurzform von Juliana/Juliane",
+    "lateinische Herkunft",
+    "Bezug zu den Juliern bzw. Jupiter",
+    "weiblicher Vorname",
+    "Namenstag",
+    "Beliebtheit in Deutschland"
+  ],
+  "confidence": 0.86,
+  "display_text": "Liana wird im deutschsprachigen Raum überwiegend sachlich-neutral bis leicht positiv wahrgenommen: ein weicher, moderner und gut verständlicher Mädchenname mit klassischer Herkunft und solider Bekanntheit. Die vorhandene Evidenz belegt vor allem Bedeutung, Einordnung und Beliebtheit, weniger eine breite öffentliche Diskussion.",
+  "evidence_quality": "mittel bis gut für Herkunft, Bedeutung und Beliebtheit; schwächer für echte öffentliche Meinungsresonanz",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Liana",
+  "normalized_name": "liana",
+  "overall_resonance": "Überwiegend sachlich-neutral bis leicht positiv. Der Name Liana wird in der deutschen Namensumgebung vor allem als klangvoller, moderner Mädchenname wahrgenommen; die Quellen betonen Herkunft, Bedeutung und Beliebtheit, weniger echte öffentliche Debatten.",
+  "practical_notes": [
+    "Für Suchmaschinen-Nutzung gut geeignet, weil Herkunft und Bedeutung klar und unkompliziert vermittelbar sind.",
+    "Die Wirkung lässt sich am ehesten als freundlich, weich und modern beschreiben.",
+    "Wenn du eine rein alltagsnahe Resonanz suchst, wäre zusätzliche Evidenz aus Foren, Social Media oder Elternkommentaren sinnvoll."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt überwiegend aus Vornamens- und Lexikonseiten, nicht aus breiter Meinungs- oder Medienresonanz.",
+    "Beliebtheitsangaben sind als sachliche Einordnung nützlich, aber keine direkte Aussage über öffentliche Wertung.",
+    "Es gibt keine belastbaren Hinweise auf Stigmatisierung oder negative gesellschaftliche Konnotationen."
+  ],
+  "short_summary": "Liana wirkt im deutschen Raum überwiegend sachlich-neutral bis leicht positiv: ein klangvoller, moderner Mädchenname mit klassischer Herkunft und solider Bekanntheit.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.94,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Liana � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/L/Li/Liana/"
+    },
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Liana: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Liana.html"
+    }
+  ],
+  "style_effect": [
+    "weich und melodisch",
+    "modern-zeitlos",
+    "eher elegant als streng",
+    "kurz, eingängig und international verständlich",
+    "namenskundlich aufgeladen durch klassische Herkunftsdeutungen"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Im deutschsprachigen Raum sichtbar und bekannt, mit solider Einordnung in Namenslexika und Beliebkeitslisten. Die öffentliche Resonanz im engeren Sinn ist jedoch nur indirekt belegt, da vor allem Nachschlage- und Namensseiten vorliegen."
+}

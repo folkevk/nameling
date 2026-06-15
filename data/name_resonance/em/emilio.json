@@ -1,0 +1,59 @@
+{
+  "associations": [
+    "lateinische Herkunft",
+    "italienische und spanische Form von Emil",
+    "Bedeutung: der Eifrige / der Fleißige",
+    "internationaler Jungenname",
+    "Namenstag wird genannt",
+    "Beliebtheit in Deutschland"
+  ],
+  "confidence": 0.8,
+  "display_text": "Emilio wirkt in Deutschland überwiegend positiv bis neutral: ein international klingender Jungenname, der als weich, modern und sympathisch beschrieben wird. Die Evidenz ist vor allem lexikalisch, daher ist die öffentliche Resonanz nur vorsichtig zu bewerten.",
+  "evidence_quality": "mittel bis schwach für öffentliche Resonanz, stark für lexikalische Angaben",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Emilio",
+  "normalized_name": "emilio",
+  "overall_resonance": "Überwiegend positiv bis neutral-informativ. Emilio wird in den vorliegenden deutschen Namensseiten vor allem sachlich als international klingender Jungenname beschrieben; die öffentliche Resonanz wirkt eher freundlich und unaufgeregt als kontrovers.",
+  "practical_notes": [
+    "Für eine Namenssuche in Deutschland wirkt Emilio vertraut, modern und gut anschlussfähig.",
+    "Der Name ist gut verständlich, ohne stark polarisiert zu sein.",
+    "Die Quellenlage spricht eher für eine positive Namenswahrnehmung als für kritische Debatten."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz basiert fast nur auf Namenslexikon-Seiten; das ist gut für Bedeutung und Einordnung, aber schwach für eine breite öffentliche Resonanz.",
+    "Einige positive Klangurteile stammen aus wenigen Kommentaren und sind nicht repräsentativ für die Gesamtbevölkerung."
+  ],
+  "short_summary": "Emilio wird in Deutschland meist freundlich und sachlich wahrgenommen: ein international klingender Jungenname mit positiver bis neutraler Ausstrahlung. Die Belege stammen vor allem aus Namenslexika, daher ist die Aussage zur öffentlichen Resonanz vorsichtig zu interpretieren.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Emilio � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/E/Em/Emilio/"
+    },
+    {
+      "confidence": 0.92,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Emilio: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Emilio.html"
+    }
+  ],
+  "style_effect": [
+    "international",
+    "weich und klangvoll",
+    "modern wahrgenommen",
+    "sachlich-positiv beschrieben",
+    "eher sympathisch als markant"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland sichtbar und bekannt, mit klarer Präsenz in Namenslexika und Popularitätsübersichten. Die echte öffentliche Diskussionslage ist jedoch nur schwach belegt."
+}

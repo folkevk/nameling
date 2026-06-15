@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "„löwenstark“ / „mutig wie ein Löwe“",
+    "althochdeutsche Herkunft",
+    "Form bzw. Variante von Leonhard",
+    "aktuell in Deutschland beliebt",
+    "Namenstag am 6. November",
+    "Spitznamen wie Leo, Leon oder Lenny"
+  ],
+  "confidence": 0.9,
+  "display_text": "Leonard wirkt in der öffentlichen Wahrnehmung überwiegend positiv: klassisch-modern, seriös und gut vertraut. Der Name wird mit „löwenstark“, althochdeutscher Herkunft und einer aktuell beliebten, geläufigen Schreibweise verbunden.",
+  "evidence_quality": "gut, aber quellenmäßig eher einseitig; vor allem lexikalische und redaktionelle Namensquellen",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Leonard",
+  "normalized_name": "leonard",
+  "overall_resonance": "Leonard wird in den vorliegenden Quellen überwiegend positiv und modern wahrgenommen: Der Name gilt als vertraut, klangvoll und in Deutschland aktuell beliebt. Die öffentliche Darstellung betont vor allem die starke Bedeutung und die klare, geläufige Schreibweise.",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt Leonard unkompliziert, etabliert und gut anschlussfähig.",
+    "Der Name verbindet traditionelle Herkunft mit einer modernen, vertrauten Form.",
+    "Die Kurzformen Leo, Leon und Lenny können je nach Umfeld zusätzliche Flexibilität bieten."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt überwiegend aus Namenslexika bzw. redaktionell kuratierten Webseiten.",
+    "Es liegen kaum unabhängige Alltags- oder Social-Media-Stimmen vor.",
+    "Beliebtheitsaussagen sind beschreibend und sollten nicht als exakte Marktanalyse verstanden werden."
+  ],
+  "short_summary": "Leonard wird öffentlich meist positiv, klassisch-modern und gut vertraut wahrgenommen. Der Name ist in Deutschland geläufig, mit starker Bedeutung und klarer, moderner Schreibweise.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.95,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "Vorname Leonard � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/L/Le/Leonard/"
+    },
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Leonard: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Leonard.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch-modern",
+    "seriös",
+    "klangvoll",
+    "gut verständlich",
+    "namenskundlich aufgeladen",
+    "kurz und eingängig"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "hoch"
+}

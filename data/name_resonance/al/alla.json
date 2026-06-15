@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "weiblicher Vorname",
+    "mögliche althochdeutsche oder griechische Herkunft",
+    "Deutung als 'die Edle / die Vornehme' oder 'die Zweitgeborene' in einzelnen Quellen",
+    "Kurzform-/Kurznamensbezug bei mehreren Namensstämmen",
+    "selten, aber als Vorname belegt",
+    "Namenstag wird in einzelnen Lexika genannt"
+  ],
+  "confidence": 0.8,
+  "display_text": "Alla wirkt in Deutschland eher selten, freundlich und leicht elegant. Die vorhandenen Namenslexika beschreiben den Vornamen überwiegend positiv, nennen aber unterschiedliche und teils unsichere Herkunftsdeutungen.",
+  "evidence_quality": "mittel: zwei überwiegend namenkundliche Quellen, teils mit unsicheren oder mehrdeutigen Herkunftsangaben, aber klarer Bezug zum Vornamen selbst.",
+  "generated_at": "2026-06-14T10:47:41Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Alla",
+  "normalized_name": "alla",
+  "overall_resonance": "Eher positiv und sachlich-lexikalisch, mit leichtem Seltenheits- und Besonderheitsgefühl. Die öffentliche Wahrnehmung wirkt insgesamt freundlich, aber nicht breit verbreitet.",
+  "practical_notes": [
+    "Für Suchmaschinen wirkt der Name kurz, klar und merkfähig.",
+    "Durch die Seltenheit kann er als individuell und markant empfunden werden.",
+    "Je nach Kontext kann die historische Herkunft unterschiedlich dargestellt werden, ohne dass eine Deutung eindeutig dominiert."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist begrenzt und stützt sich im Wesentlichen auf Namenslexika; das macht die Herkunftsdeutungen teils unsicher.",
+    "Es gibt mehrere etymologische Deutungen, die nicht vollständig übereinstimmen.",
+    "Die Seltenheit kann die Wahrnehmung prägen, sollte aber nicht mit allgemeiner Bewertung verwechselt werden."
+  ],
+  "short_summary": "Alla wird in der öffentlichen Rezeption meist als seltener, klanglich klarer und eher positiv-konnotierter Vorname beschrieben. Die Herkunftsangaben sind jedoch uneinheitlich und teils unsicher.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.92,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Alla � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/A/Al/Alla/"
+    },
+    {
+      "confidence": 0.91,
+      "is_name_discussion": true,
+      "sentiment": "eher positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Alla: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Alla.html"
+    }
+  ],
+  "style_effect": [
+    "informativ",
+    "klassisch-lexikalisch",
+    "leicht elegant",
+    "selten/ungewöhnlich",
+    "neutral bis freundlich"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland eher selten und dadurch eher auffällig als alltäglich. Die Belege sprechen für eine geringe bis mittlere Bekanntheit im Namenskontext."
+}

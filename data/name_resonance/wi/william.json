@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "englische Form von Wilhelm",
+    "Bedeutung: willensstarker bzw. entschlossener Beschützer",
+    "althochdeutsche Wurzeln",
+    "international verbreitet",
+    "in Deutschland beliebt",
+    "Kurzformen wie Will, Liam, Bill, Willi oder Willy",
+    "gelegentlich mit traditionell-klassischem Eindruck verbunden"
+  ],
+  "confidence": 0.88,
+  "display_text": "William wirkt in Deutschland überwiegend klassisch, international und positiv besetzt. Die Quellen betonen vor allem Bedeutung, Herkunft und Beliebtheit; eine breite öffentliche Debatte ist jedoch kaum erkennbar.",
+  "evidence_quality": "mittel bis gut, aber stark quellengebunden und wenig breit öffentlich diskutiert",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "William",
+  "normalized_name": "william",
+  "overall_resonance": "Überwiegend positiv und sachlich-informativ, mit starkem Fokus auf Herkunft, Bedeutung und internationaler Verbreitung. Die öffentliche Wahrnehmung wirkt eher klassisch und etabliert als kontrovers.",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt William vertraut, gut einordbar und international anschlussfähig.",
+    "Der Name wird eher als klassisch und ernsthaft wahrgenommen als als ausgefallen.",
+    "Kurzformen bieten mehrere alltagstaugliche Varianten."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt fast ausschließlich aus Namenslexika und einer Namensseite; eine breite öffentliche Meinungsvielfalt ist kaum sichtbar.",
+    "Positive Tendenzen ergeben sich vor allem aus Beliebtheit und klassischer Einordnung, nicht aus einer großen Anzahl unabhängiger öffentlicher Stimmen."
+  ],
+  "short_summary": "William wird in den vorliegenden Quellen überwiegend positiv, klassisch und international wahrgenommen. Die Evidenz ist jedoch vor allem namenskundlich und nicht breit gesellschaftlich.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.95,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname William � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/W/Wi/William/"
+    },
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "mixed",
+      "source_type": "web",
+      "title": "&#9655; Vorname William: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,William.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "international",
+    "traditionell",
+    "namenskundlich",
+    "eher zeitlos als modisch"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland gut bekannt und als Vorname präsent; die Sichtbarkeit entsteht vor allem über Namensdatenbanken und Lexika, nicht über breite öffentliche Debatten."
+}

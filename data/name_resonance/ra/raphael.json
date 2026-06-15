@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "hebräische Herkunft",
+    "„Gott hat geheilt“ bzw. heilende Bedeutung",
+    "Erzengel Raphael",
+    "Heilung und Schutz",
+    "Namenstag",
+    "biblischer Kontext",
+    "beliebt und etabliert in Deutschland"
+  ],
+  "confidence": 0.96,
+  "display_text": "Raphael hat in Deutschland eine überwiegend positive, klassische Resonanz. Der Name wird meist mit hebräischer Herkunft, dem Erzengel Raphael, Heilung und Schutz verbunden und gilt als etabliert sowie zeitlos. Die Einschätzung basiert vor allem auf Namenslexika und redaktionellen Beschreibungen, nicht auf breiter öffentlicher Debatte.",
+  "evidence_quality": "hoch für die Namensbedeutung und öffentliche Einordnung, aber begrenzt durch die überwiegend lexikalische Quellenlage",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Raphael",
+  "normalized_name": "raphael",
+  "overall_resonance": "überwiegend positiv, traditionell und in Deutschland gut etabliert",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt Raphael in Deutschland vertraut und gut verständlich.",
+    "Der Name hat eine klare traditionelle Aura, ohne altmodisch zu wirken.",
+    "Die Schreibweise ist geläufig; Varianten können regional vorkommen."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die vorliegende Evidenz stammt vor allem aus Namenslexika und redaktionellen Beschreibungen, nicht aus freier öffentlicher Debatte.",
+    "Die positiven Zuschreibungen spiegeln vor allem sprachliche und kulturelle Einordnungen wider, keine gesicherten Aussagen über Personen oder Träger des Namens."
+  ],
+  "short_summary": "Raphael wird in Deutschland meist positiv, klassisch und biblisch geprägt wahrgenommen; der Name gilt als etabliert, zeitlos und gut bekannt.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "Vorname Raphael � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/R/Ra/Raphael/"
+    },
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Raphael: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Raphael.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "biblisch geprägt",
+    "seriös",
+    "zeitlos",
+    "freundlich",
+    "namenskundlich anschlussfähig"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "hoch; der Name ist bekannt, regelmäßig vergeben und öffentlich klar einordbar"
+}

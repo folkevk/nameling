@@ -1,0 +1,69 @@
+{
+  "associations": [
+    "skandinavische und norddeutsche Herkunft",
+    "weiblicher Vorname",
+    "Bedeutung im Sinne von Stärke",
+    "Kurzform/Variante historischer Eber-Namen",
+    "Namenslexikon und Beliebtheitsangaben",
+    "Namenstag"
+  ],
+  "confidence": 0.86,
+  "display_text": "Ebba wirkt in der deutschen Online-Rezeption überwiegend neutral bis leicht positiv: ein seltener, nordisch geprägter Vorname mit klarer, traditionsbezogener Bedeutung. Die verfügbare Evidenz stammt vor allem aus Namenslexika, daher ist die regionale öffentliche Resonanz nur begrenzt belegt.",
+  "evidence_quality": "mittel bis schwach: mehrere übereinstimmende, aber vor allem beschreibende Namenslexikon-Quellen; wenig freie öffentliche Diskussion.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Ebba",
+  "normalized_name": "ebba",
+  "overall_resonance": "In der verfügbaren deutschen Online-Evidenz wirkt Ebba überwiegend sachlich-neutral bis leicht positiv. Der Name wird vor allem als skandinavisch/norddeutsch eingeordnet und mit einer klaren, traditionsbezogenen Bedeutung beschrieben. Die öffentliche Resonanz scheint eher von Namenskunde und Beliebtheitshinweisen geprägt als von kontroversen Debatten.",
+  "practical_notes": [
+    "Für die Namenssuche wirkt Ebba unkompliziert, klar und gut merkbar.",
+    "Der Name kann als nordisch und eher selten wahrgenommen werden.",
+    "Die Bedeutung wird in den Quellen meist positiv als stark und traditionsbezogen beschrieben."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt fast ausschließlich aus Namensdatenbanken und Lexikonseiten, nicht aus breiter öffentlicher Debatte.",
+    "Regionale Resonanz in Deutschland ist nur schwach bis mittel belegbar.",
+    "Beliebtheitsangaben sollten vorsichtig gelesen werden, da sie je nach Quelle variieren können."
+  ],
+  "short_summary": "Ebba wird online vor allem als skandinavisch-norddeutscher, seltener Mädchenname mit traditioneller Bedeutung beschrieben. Die Resonanz ist überwiegend neutral bis leicht positiv, bei begrenzter öffentlicher Breite.",
+  "source_count": 3,
+  "sources": [
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Ebba � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/E/Eb/Ebba/"
+    },
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Ebba � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/E/Eb/Ebba/"
+    },
+    {
+      "confidence": 0.88,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Ebba: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Ebba.html"
+    }
+  ],
+  "style_effect": [
+    "kurz",
+    "klar",
+    "nordisch-klassisch",
+    "selten bis ungewöhnlich",
+    "namenskundlich",
+    "eher freundlich als belastet"
+  ],
+  "usable_evidence_count": 3,
+  "visibility": "Mittlere Sichtbarkeit in Namenslexika und Vornamensdatenbanken; eine breite öffentliche Diskussion in Deutschland ist in der Evidenz kaum erkennbar."
+}

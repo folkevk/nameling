@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "männlicher Vorname",
+    "Kurz- und Koseform von Jan/Johannes",
+    "Bedeutung: „Gott ist gnädig“",
+    "niederdeutsche, slawische und teils ungarische Bezüge",
+    "selten in Deutschland",
+    "Namenstag wird genannt"
+  ],
+  "confidence": 0.77,
+  "display_text": "Janko wird in den Quellen überwiegend sachlich bis leicht positiv wahrgenommen. Der Name wirkt selten, markant und eher traditionell-kulturell geprägt. In Deutschland scheint er wenig verbreitet zu sein; die Evidenz ist allerdings begrenzt und stammt vor allem aus Namenslexika.",
+  "evidence_quality": "begrenzt: überwiegend zwei Namenslexikon-Quellen, kaum breit abgestützte öffentliche Debatte",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Janko",
+  "normalized_name": "janko",
+  "overall_resonance": "Janko wird in den vorliegenden Quellen überwiegend sachlich und eher positiv wahrgenommen. Die öffentliche Rezeption wirkt jedoch insgesamt zurückhaltend, weil der Name als selten beschrieben wird und die Evidenz nur auf wenigen Namenslexikon-Quellen beruht.",
+  "practical_notes": [
+    "Für eine Namenssuche kann Janko als eigenständig, selten und kulturell gemischt wahrgenommen werden.",
+    "Wer einen ungewöhnlichen, aber gut aussprechbaren Namen sucht, findet hier ein eher markantes Profil.",
+    "Die Resonanz wirkt eher nüchtern als trendig."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Datenlage ist schwach und stützt sich vor allem auf Namenslexika statt auf breite öffentliche Meinungen.",
+    "Beliebtheitsaussagen sollten nicht als allgemeine gesellschaftliche Bewertung verstanden werden.",
+    "Die Quellen zeigen keine starke negative Stigmatisierung; eine solche ist hier nicht belegt."
+  ],
+  "short_summary": "Janko wirkt in Deutschland selten, sachlich und eher positiv konnotiert, mit klaren Bezügen zu Johannes und der Bedeutung „Gott ist gnädig“.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.89,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Janko � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/J/Ja/Janko/"
+    },
+    {
+      "confidence": 0.83,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Janko: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Janko.html"
+    }
+  ],
+  "style_effect": [
+    "kurz",
+    "klanglich markant",
+    "international bzw. slawisch wirkend",
+    "traditionell durch die Johannes-Variante",
+    "sachlich-informativ statt modisch"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland wirkt Janko eher wenig verbreitet und damit eher auffällig als alltäglich. Öffentliche Bekanntheit scheint begrenzt, was die Resonanz stärker von der Namenskunde als von einer breiten Alltagswahrnehmung geprägt erscheinen lässt."
+}

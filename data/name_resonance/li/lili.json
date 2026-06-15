@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "Kurz- und Koseform von Elisabeth",
+    "mögliche Verbindung zu Lilian/Liliana",
+    "Bezug zur Lilie bzw. zum lateinischen 'lilium'",
+    "Bedeutungsdeutung wie 'Gott ist Fülle' / 'Gott ist Vollkommenheit' in einigen Namensquellen",
+    "international im englischen und französischen Sprachraum verbreitet",
+    "häufig auch in Varianten wie Lilli, Lilly, Lily"
+  ],
+  "confidence": 0.88,
+  "display_text": "Lili hat in den vorliegenden Quellen eine überwiegend positive, weiche und freundliche Resonanz. Der Name wirkt kurz, modern und international verständlich. Genannt werden vor allem Bezüge zu Elisabeth, zur Lilie sowie zu Varianten wie Lilli, Lilly und Lily. Da die Evidenz fast ausschließlich aus Namenslexika stammt, ist die öffentliche Wahrnehmung nur eingeschränkt sichtbar.",
+  "evidence_quality": "mittel bis gut; inhaltlich klare Namensquellen, aber nur wenige und überwiegend lexikalische Belege",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Lili",
+  "normalized_name": "lili",
+  "overall_resonance": "Überwiegend positiv und freundlich, mit sachlich-lexikalischem Charakter. In den vorliegenden Namensquellen wird Lili vor allem als kurzer, international verständlicher Mädchenname mit weicher, eleganter Wirkung beschrieben.",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt Lili sehr zugänglich, leicht auszusprechen und international anschlussfähig.",
+    "Die Schreibweise ist kurz und klar, kann aber mit ähnlichen Varianten wie Lilli, Lilly oder Lily verwechselt werden.",
+    "In den Quellen erscheint der Name eher harmonisch und unproblematisch, ohne erkennbare negative Zuschreibungen."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt fast nur aus Namenslexika; öffentliche Resonanz ist daher nur eingeschränkt ablesbar.",
+    "Beliebtheitsangaben sind quellenabhängig und sollten nicht als allgemeingültige Markt- oder Gesellschaftsaussage verstanden werden."
+  ],
+  "short_summary": "Lili wird in den Quellen freundlich, weich und international wahrgenommen; die Resonanz ist überwiegend positiv, aber vor allem auf Namenslexika gestützt.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "Vorname Lili � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/L/Li/Lili/"
+    },
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Lili: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Lili.html"
+    }
+  ],
+  "style_effect": [
+    "kurz",
+    "weich",
+    "lieblich",
+    "modern",
+    "international verständlich",
+    "klassisch durch Namensbezüge",
+    "eher spielerisch als formell"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Im deutschsprachigen Raum gut bekannt und sichtbar, allerdings eher als beliebte Kurz- bzw. Koseform als als stark eigenständiger Großnamen-Trend. Die öffentliche Resonanz ist in den Quellen eher ruhig als kontrovers."
+}

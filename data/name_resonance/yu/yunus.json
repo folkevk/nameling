@@ -1,0 +1,63 @@
+{
+  "associations": [
+    "Taube",
+    "Frieden",
+    "Friedensbringer",
+    "arabische und türkische Herkunft",
+    "Form von Jonas/Jonah",
+    "althebräische Wurzeln",
+    "Koran-Bezug",
+    "Namenstag",
+    "Beliebtheit in Deutschland"
+  ],
+  "confidence": 0.9,
+  "display_text": "Yunus wirkt in Deutschland überwiegend freundlich, ruhig und kulturell verankert. Der Name wird meist mit Frieden, Taube und seinen türkisch-arabisch/religiösen Wurzeln verbunden. Die öffentliche Resonanz ist eher positiv-neutraal; die Datenlage ist vor allem namenskundlich und nicht breit empirisch.",
+  "evidence_quality": "mittel bis gut: zwei einschlägige Namensquellen mit überwiegend konsistenter, positiv-neutrale Bewertung; allerdings keine breite sozialwissenschaftliche Datengrundlage.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Yunus",
+  "normalized_name": "yunus",
+  "overall_resonance": "Der Vorname Yunus wird in der öffentlichen Namenswahrnehmung überwiegend positiv bis neutral eingeordnet. Häufig genannt werden friedliche, religiös-kulturelle und sprachgeschichtliche Bezüge; die Wirkung ist eher freundlich, sachlich und vertraut als auffällig oder polarisierend.",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt Yunus klar, zugänglich und in Deutschland gut einordenbar.",
+    "Die Schreibweise ist simpel und die Aussprache im Deutschen meist unproblematisch.",
+    "Die Resonanz ist insgesamt positiv, aber nicht stark trend- oder hypegetrieben."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt fast ausschließlich aus Namensportalen und ist daher eher beschreibend als empirisch breit abgesichert.",
+    "Einige Zuordnungen wie Wirkung oder Bedeutungsassoziationen sind kultur- und quellenabhängig; sie sollten nicht als feste Eigenschaften verstanden werden."
+  ],
+  "short_summary": "Yunus wird öffentlich meist freundlich und sachlich wahrgenommen, mit positiven Bedeutungen wie Frieden und Taube sowie klaren türkisch-arabischen und religiösen Bezügen.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "Vorname Yunus � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/Y/Yu/Yunus/"
+    },
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Yunus: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Yunus.html"
+    }
+  ],
+  "style_effect": [
+    "freundlich",
+    "ruhig",
+    "kulturell verankert",
+    "informativ",
+    "zeitlos",
+    "leicht international"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland ist Yunus als bekannter, aber nicht extrem häufiger Vorname präsent. Die Wahrnehmung wirkt eher namekundlich geprägt als durch breite Alltagsdebatten."
+}

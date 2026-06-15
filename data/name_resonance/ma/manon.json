@@ -1,0 +1,62 @@
+{
+  "associations": [
+    "französische Koseform von Maria",
+    "niederländische Koseform von Maria",
+    "weiblicher Vorname",
+    "Namenstag",
+    "Roman 'Manon Lescaut'",
+    "Bedeutungskontext zu Maria/Mirjam",
+    "leicht auszusprechen"
+  ],
+  "confidence": 0.83,
+  "display_text": "Manon: überwiegend neutral bis leicht positiv, französisch, selten, elegant und gut aussprechbar.",
+  "evidence_quality": "mittel bis gut; starke Namenslexikon-Evidenz, aber nur schwache direkte Evidenz für breitere öffentliche Resonanz in DE",
+  "generated_at": "2026-06-14T10:47:41Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Manon",
+  "normalized_name": "manon",
+  "overall_resonance": "Überwiegend neutral bis leicht positiv. Der Name wird vor allem sachlich-lexikalisch wahrgenommen, mit etwas positiver Resonanz durch die französische Herkunft, die Klangwirkung und die Assoziation zu Maria.",
+  "practical_notes": [
+    "Als Name wirkt Manon international und freundlich, zugleich etwas besonders.",
+    "In Deutschland dürfte er eher auffallen als alltäglich sein.",
+    "Die Aussprache gilt als unkompliziert, was die Nutzung im Alltag erleichtert."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz zur öffentlichen Resonanz in Deutschland ist begrenzt und kommt überwiegend aus Namensportalen.",
+    "Hinweise auf Ungewöhnlichkeit sind eher als Beschreibung der Seltenheit zu verstehen, nicht als negative Bewertung.",
+    "Keine belastbaren Hinweise auf gesellschaftliche Stigmatisierung."
+  ],
+  "short_summary": "Manon wird in Deutschland meist neutral bis leicht positiv wahrgenommen: ein französisch geprägter, seltener und gut aussprechbarer Vorname mit eleganter, freundlicher Wirkung.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Manon � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/M/Ma/Manon/"
+    },
+    {
+      "confidence": 0.9,
+      "is_name_discussion": true,
+      "sentiment": "eher positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Manon: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Manon.html"
+    }
+  ],
+  "style_effect": [
+    "französisch",
+    "weich klingend",
+    "elegant",
+    "kurz und prägnant",
+    "selten/ungewöhnlich",
+    "klassisch-frisch"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland eher selten bis ungewöhnlich, aber bekannt und gut einzuordnen. Die öffentliche Sichtbarkeit wirkt begrenzt und stützt sich vor allem auf Namenslexika und wenige Kommentare."
+}

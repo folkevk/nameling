@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "Kurz- und Koseform von Anna/Anne",
+    "Bedeutung in den Quellen: „die Begnadete“, „die Liebreizende“, „die Anmutige“",
+    "althebräische Namensherkunft über Anna",
+    "Namenstag: 26. Juli",
+    "deutschsprachige bzw. schweizerdeutsche Verwendung",
+    "seltenere, eher namenskundlich bekannte Form"
+  ],
+  "confidence": 0.74,
+  "display_text": "Anneli wirkt in der öffentlichen Wahrnehmung freundlich, weich und eher klassisch-kosehaft. Die Resonanz ist überwiegend neutral bis leicht positiv, die Evidenz dafür aber eher schwach, weil vor allem Namenslexika und keine breite öffentliche Diskussion vorliegen.",
+  "evidence_quality": "mittel bis schwach: klare Namensbeschreibung vorhanden, aber kaum freie öffentliche Resonanz oder breite Meinungsäußerungen",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Anneli",
+  "normalized_name": "anneli",
+  "overall_resonance": "Anneli wirkt in der öffentlichen Namenswahrnehmung eher freundlich, weich und klassisch-kosehaft. Die Resonanz ist überwiegend neutral bis leicht positiv, aber die Evidenz ist eher schwach, weil vor allem lexikalische Namensseiten vorliegen und kaum freie öffentliche Meinungen.",
+  "practical_notes": [
+    "Für Suchende wirkt Anneli unkompliziert, freundlich und gut aussprechbar.",
+    "Der Name ist gut anschlussfähig an bekannte Formen wie Anna oder Anne.",
+    "Wer einen seltenen, weichen und eher traditionellen Mädchennamen sucht, findet hier einen passenden Eindruck.",
+    "Die Wahrnehmung ist eher fein und unaufdringlich als markant oder trendig."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz besteht fast nur aus Namensdatenbanken und Infoseiten, nicht aus echter öffentlicher Debatte.",
+    "Die positiven Eindrücke sind deshalb vorsichtig zu lesen und eher als Namenswirkung denn als breite gesellschaftliche Bewertung zu verstehen.",
+    "Aus den Quellen lässt sich keine belastbare Stigmatisierung oder negative öffentliche Dynamik ableiten."
+  ],
+  "short_summary": "Anneli wird überwiegend freundlich, weich und klassisch-kosehaft wahrgenommen. Die öffentliche Resonanz ist eher neutral bis leicht positiv, basiert aber vor allem auf Namenslexika statt auf breiter Diskussion.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.95,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Anneli � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/A/An/Anneli/"
+    },
+    {
+      "confidence": 0.78,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Anneli: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Anneli.html"
+    }
+  ],
+  "style_effect": [
+    "klingt zart und lieblich",
+    "wirkt kurz, persönlich und eher verspielt",
+    "hat einen traditionellen, nordisch- bzw. koseformnahen Eindruck",
+    "erscheint sachlich gut einordenbar durch die Nähe zu Anna/Anne",
+    "wird eher als weich und freundlich wahrgenommen als als streng oder modern"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Im deutschsprachigen Raum sichtbar, aber eher selten und nicht stark im Massengebrauch präsent. Der Name erscheint eher in Namenslexika und Datenbanken als in breiten öffentlichen Diskussionen."
+}

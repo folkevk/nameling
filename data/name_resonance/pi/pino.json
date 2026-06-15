@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "italienische Kurzform von Giuseppe/Josef",
+    "hebräische Bedeutung im Sinn von „Gott möge hinzufügen“",
+    "Namenstag",
+    "männlicher Vorname",
+    "selten bis mittelhäufig in Deutschland",
+    "Kurzform/Koseform"
+  ],
+  "confidence": 0.84,
+  "display_text": "Pino wird in der vorliegenden Evidenz überwiegend leicht positiv bis neutral wahrgenommen. Der Name erscheint vor allem als italienische Kurzform von Giuseppe/Josef mit klarer Bedeutung und Namenstag. Die Datenlage ist jedoch schmal und besteht hauptsächlich aus Namenslexika, nicht aus breiter öffentlicher Diskussion.",
+  "evidence_quality": "mittel bis schwach: zwei überwiegend lexikalische Quellen, wenig freie öffentliche Diskussion, kaum belastbare Breitenwahrnehmung.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Pino",
+  "normalized_name": "pino",
+  "overall_resonance": "Pino wirkt in der vorliegenden deutschsprachigen Evidenz überwiegend leicht positiv bis neutral. Der Name wird vor allem sachlich als italienische Kurz- bzw. Koseform mit klarer Herkunft und Bedeutung beschrieben; eine breite öffentliche Debatte ist nicht erkennbar.",
+  "practical_notes": [
+    "Für Suchmaschinen- und Registerkontext gut verständlich und eindeutig als Vorname erkennbar.",
+    "Die Aussprache dürfte im Deutschen meist unkompliziert sein.",
+    "Der Name hat einen klaren, internationalen Klang, ohne stark erklärungsbedürftig zu sein."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenzbasis ist schmal und stützt sich im Wesentlichen auf zwei Namenslexikon-Seiten.",
+    "Es handelt sich eher um beschreibende Einträge als um breite öffentliche Meinungsäußerungen.",
+    "Ein möglicher positiver Eindruck kann stärker aus der Namensbeschreibung als aus echter öffentlicher Rezeption stammen."
+  ],
+  "short_summary": "Pino wird in den Quellen sachlich und eher positiv beschrieben, vor allem als italienische Kurzform mit klarer Herkunft und Bedeutung; eine starke gesellschaftliche Reaktion ist nicht sichtbar.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "Vorname Pino � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/P/Pi/Pino/"
+    },
+    {
+      "confidence": 0.9,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Pino: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Pino.html"
+    }
+  ],
+  "style_effect": [
+    "kurz und einprägsam",
+    "italienisch-mediterraner Eindruck",
+    "modern, aber nicht modisch aufdringlich",
+    "freundlich und weich klingend",
+    "lexikalisch klar eingebettet"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Eher bekannt, aber nicht stark verbreitet; die Wahrnehmung scheint vor allem durch Namenslexika und einzelne kurze Rückmeldungen geprägt zu sein. Belastbare Hinweise auf eine größere öffentliche Kontroverse fehlen."
+}

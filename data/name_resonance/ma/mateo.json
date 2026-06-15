@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "spanische bzw. kroatische Form von Matthäus",
+    "hebräische Herkunft",
+    "Bedeutung: „Geschenk Gottes“ / „von JHWH gegeben“",
+    "männlicher Vorname",
+    "in Deutschland zunehmend bzw. bereits beliebt",
+    "Namenstag wird in Namenslexika genannt"
+  ],
+  "confidence": 0.94,
+  "display_text": "Mateo wirkt in Deutschland überwiegend positiv: modern, international und klanglich weich. Namenslexika ordnen den Namen als Variante von Matthäus mit der Bedeutung „Geschenk Gottes“ ein und beschreiben ihn als zunehmend beliebt. Hinweise auf eine negative Stigmatisierung finden sich in der vorliegenden Evidenz nicht.",
+  "evidence_quality": "hoch; beide Quellen sind direkte Namenslexika mit klarer, themenbezogener Evidenz",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Mateo",
+  "normalized_name": "mateo",
+  "overall_resonance": "überwiegend positiv und vertraut, mit internationalem, modernem Klang",
+  "practical_notes": [
+    "Für eine öffentliche Namenssuche wirkt Mateo meist positiv, leicht zugänglich und international anschlussfähig.",
+    "Die Schreibweise ist klar, kann aber je nach Kontext mit Matteo oder Matheo verwechselt werden.",
+    "Die Evidenzlage ist gut, da beide Quellen direkt den Vornamen und seine Namensbedeutung behandeln."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Keine belastbaren Hinweise auf negative öffentliche Konnotationen in der vorliegenden Evidenz.",
+    "Beliebtheits- und Bedeutungszuschreibungen stammen aus Namenslexika und sollten nicht als allgemeingültige soziale Tatsachen verstanden werden."
+  ],
+  "short_summary": "Mateo wird im deutschen Namenskontext überwiegend positiv, modern und international wahrgenommen. Die Quellen betonen Herkunft, Bedeutung und zunehmende Beliebtheit; negative öffentliche Konnotationen sind nicht erkennbar.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Mateo � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/M/Ma/Mateo/"
+    },
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Mateo: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Mateo.html"
+    }
+  ],
+  "style_effect": [
+    "modern",
+    "international",
+    "weich im Klang",
+    "namenslexikalisch klar",
+    "zeitgemäß",
+    "sympathisch wahrgenommen"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "in Deutschland gut sichtbar und bekannt; wirkt eher geläufig als exotisch"
+}

@@ -1,0 +1,62 @@
+{
+  "associations": [
+    "lateinischer Ursprung",
+    "italienische und spanische Form von Aemilia",
+    "Bedeutungen wie „die Eifrige“, „die Fleißige“ oder „die Ehrgeizige“",
+    "Namenstag",
+    "sehr hohe Beliebtheit in Deutschland",
+    "häufig als eleganter und vertrauter Vorname beschrieben"
+  ],
+  "confidence": 0.9,
+  "display_text": "Emilia wirkt in der vorliegenden Evidenz klangvoll, modern und klassisch zugleich. Der Name wird in Deutschland sehr häufig und überwiegend positiv wahrgenommen, vor allem wegen seiner Beliebtheit, Herkunft und der assoziierten Bedeutungen. Die Quellenlage ist jedoch begrenzt und stützt sich hauptsächlich auf Namenslexika mit wenigen subjektiven Kommentaren.",
+  "evidence_quality": "mittel bis gut; klar namebezogene Quellen, aber nur wenige unabhängige Stimmen und starke Abhängigkeit von Namensdatenbanken",
+  "generated_at": "2026-06-12T06:08:03Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Emilia",
+  "normalized_name": "emilia",
+  "overall_resonance": "Emilia wird in der vorliegenden Evidenz überwiegend positiv bis neutral wahrgenommen. Der Name gilt als klangvoll, modern und zugleich klassisch, mit starkem Bezug zu Bedeutung, Herkunft und Beliebtheit. Einzelne Quellen enthalten auch gemischte bzw. subjektive Kommentare, die öffentliche Rezeption insgesamt aber nicht deutlich abwerten.",
+  "practical_notes": [
+    "Für die öffentliche Wahrnehmung ist vor allem die hohe Bekanntheit relevant.",
+    "Der Name wirkt in Deutschland vertraut und gut anschlussfähig.",
+    "Da Emilia sehr verbreitet ist, kann er als eher geläufig denn als ungewöhnlich wahrgenommen werden."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist stark quellenbegrenzt und stützt sich überwiegend auf Namenslexika mit wenigen Kommentaren.",
+    "Einzelne Aussagen zur Wirkung des Namens sind subjektiv und nicht als allgemeingültig zu verstehen.",
+    "Es gibt keine belastbaren Hinweise auf gesellschaftliche Stigmatisierung in den vorliegenden Daten."
+  ],
+  "short_summary": "Emilia wird in Deutschland überwiegend positiv, klangvoll und sehr beliebt wahrgenommen; die Evidenz ist jedoch vor allem lexikalisch und nur begrenzt breit abgestützt.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "positive",
+      "source_type": "web",
+      "title": "Vorname Emilia � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/E/Em/Emilia/"
+    },
+    {
+      "confidence": 0.92,
+      "is_name_discussion": true,
+      "sentiment": "mixed",
+      "source_type": "web",
+      "title": "&#9655; Vorname Emilia: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Emilia.html"
+    }
+  ],
+  "style_effect": [
+    "klangvoll",
+    "modern",
+    "klassisch",
+    "zeitlos",
+    "weich im Klang",
+    "namenskundlich etabliert",
+    "popularitätsstark"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Sehr hoch in Deutschland; laut den Quellen zählt Emilia zu den besonders beliebten Mädchennamen und ist in Namenslisten sehr prominent vertreten."
+}

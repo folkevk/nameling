@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "altnordisch/skandinavisch",
+    "„die Wölfin“",
+    "weibliche Form von Ulf",
+    "Schweden/Norden",
+    "selten, aber vergeben",
+    "Namenstag am 11. April"
+  ],
+  "confidence": 0.88,
+  "display_text": "Ylva wirkt im deutschen Raum überwiegend positiv, selten und nordisch. Der Name wird vor allem mit der Bedeutung „die Wölfin“ und einer altnordisch/skandinavischen Herkunft verbunden. Die öffentliche Sicht scheint eher sachlich-wohlwollend als kontrovers zu sein, allerdings ist die Evidenz auf wenige Namenslexikon-Seiten begrenzt.",
+  "evidence_quality": "mittel bis schwach: inhaltlich klar, aber nur auf wenige, namensbezogene Webquellen gestützt",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Ylva",
+  "normalized_name": "ylva",
+  "overall_resonance": "Überwiegend positiv und klar namenkundlich geprägt. Ylva wird in den vorliegenden Quellen als seltener, skandinavisch/nordisch geprägter Mädchenname mit der Bedeutung „die Wölfin“ beschrieben. In Deutschland wirkt der Name eher besonders als alltäglich.",
+  "practical_notes": [
+    "Für Deutschland vermutlich gut merkbar und ungewöhnlich, ohne schwer verständlich zu sein.",
+    "Der Name kann durch seine Kürze und den Anfangsbuchstaben Y auffallen.",
+    "Mögliche Kurzformen/Varianten tauchen in den Quellen auf, sind aber nicht zwingend gebräuchlich."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz basiert fast ausschließlich auf zwei Namenslexikon-Seiten; eine breite öffentliche Debatte ist nicht erkennbar.",
+    "Die Wahrnehmung als „nordisch“ oder „modern-selten“ ist eine naheliegende Einordnung, aber keine allgemeingültige Tatsache.",
+    "Keine Hinweise auf negative soziale Stigmatisierung in den Quellen."
+  ],
+  "short_summary": "Ylva wird in den Quellen als seltener, nordisch geprägter Mädchenname mit positiver, markanter Wirkung beschrieben.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.91,
+      "is_name_discussion": true,
+      "sentiment": "positive",
+      "source_type": "web",
+      "title": "Vorname Ylva � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/Y/Yl/Ylva/"
+    },
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Ylva: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Ylva.html"
+    }
+  ],
+  "style_effect": [
+    "nordisch",
+    "eigenständig",
+    "klanglich markant",
+    "modern-selten",
+    "natur- und tierbezogen",
+    "namenkundlich interessant"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Eher niedrig bis mittel: Der Name wird erwähnt und erklärt, scheint aber im deutschsprachigen Raum kein stark breit diskutierter Mainstream-Name zu sein."
+}

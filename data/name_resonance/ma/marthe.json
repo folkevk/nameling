@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "als Form von Martha/Marthe beschrieben",
+    "biblische bzw. historische Namenswurzel",
+    "Bedeutung: Herrin/Gebieterin",
+    "französische und teils norwegische Variante",
+    "Namenstag",
+    "selten bis mäßig verbreitet"
+  ],
+  "confidence": 0.84,
+  "display_text": "Marthe wirkt in der öffentlichen Wahrnehmung überwiegend neutral bis leicht positiv: klassisch, selten und mit international-französischer Anmutung. Die verfügbare Evidenz ist jedoch begrenzt und stützt sich vor allem auf Namenslexika statt auf breite öffentliche Diskussion.",
+  "evidence_quality": "mittel bis schwach; hauptsächlich zwei Namenslexikon-Quellen, kaum unabhängige öffentliche Diskussion",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Marthe",
+  "normalized_name": "marthe",
+  "overall_resonance": "Überwiegend neutral bis leicht positiv; Marthe wird vor allem als seltener, klassisch-historischer Vorname wahrgenommen.",
+  "practical_notes": [
+    "Für Suchmaschinen nutzbar als kurzer, klassisch wirkender Name mit internationaler Note.",
+    "Die Seltenheit kann als Pluspunkt für Individualität wahrgenommen werden.",
+    "Je nach Umfeld kann die Schreibweise mit Martha verwechselt oder als Variante verstanden werden."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist schwach bis mittel und basiert fast nur auf Namenslexika und wenigen Kommentarhinweisen.",
+    "Positive Eindrücke stammen teils aus subjektiven Nutzerkommentaren und sollten nicht verallgemeinert werden.",
+    "Es gibt keine belastbare öffentliche Debatte oder breite gesellschaftliche Bewertung des Namens."
+  ],
+  "short_summary": "Marthe wird öffentlich meist neutral und gelegentlich positiv als seltener, klassischer Vorname mit französisch-biblischer Anmutung beschrieben.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.95,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Marthe � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/M/Ma/Marthe/"
+    },
+    {
+      "confidence": 0.78,
+      "is_name_discussion": true,
+      "sentiment": "eher positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Marthe: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Marthe.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "traditionell",
+    "leicht international/französisch geprägt",
+    "eher selten",
+    "namenslexikalisch",
+    "edel bzw. fein klingend in vielen Beschreibungen"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Im deutschsprachigen Raum eher wenig verbreitet und dadurch auffälliger als gängige Standardnamen, aber ohne starke öffentliche Kontroverse."
+}

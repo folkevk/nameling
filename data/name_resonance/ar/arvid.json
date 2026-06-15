@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "altnordische Herkunft",
+    "skandinavischer Namensklang",
+    "Bedeutungsbezüge rund um Adler und Wald",
+    "Namenstag",
+    "in Deutschland bekannt, aber nicht allgegenwärtig",
+    "kurzer Jungenname mit klarer Struktur"
+  ],
+  "confidence": 0.84,
+  "display_text": "Arvid wirkt in der öffentlichen Rezeption überwiegend positiv: ein kurzer, skandinavisch-altnordisch klingender Name mit klaren Bedeutungsbezügen. In Deutschland scheint er bekannt, aber eher nicht sehr häufig zu sein. Die Evidenz ist allerdings begrenzt, da sie vor allem aus Namenslexika und Beschreibungsseiten stammt.",
+  "evidence_quality": "Mittel bis schwach: inhaltlich passende Namensquellen, aber kaum freie öffentliche Resonanz oder Diskussionen.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Arvid",
+  "normalized_name": "arvid",
+  "overall_resonance": "Eher positiv und ruhig, mit sachlich-wohlwollender Wirkung. Der Name wird vor allem über Herkunft, Bedeutung und Klang eingeordnet, nicht über kontroverse öffentliche Debatten.",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt Arvid zeitlos, nordisch und gut merkbar.",
+    "Der Name hat eine klare, unkomplizierte Form und eine positive Bedeutungsassoziation.",
+    "Wer einen eher seltenen, aber nicht sperrigen Namen sucht, könnte Arvid als passend empfinden."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt fast nur aus Namenslexika und Namensseiten, also eher aus Beschreibungen als aus echter öffentlicher Diskussion.",
+    "Eine belastbare Aussage über tatsächliche Alltagswahrnehmung oder gesellschaftliche Trends ist daher nur eingeschränkt möglich.",
+    "Positive Einordnung kann durch die Art der Quellen leicht verstärkt sein."
+  ],
+  "short_summary": "Arvid wird überwiegend positiv und sachlich wahrgenommen: skandinavisch, klar, selten bis mäßig verbreitet und mit freundlichen Bedeutungsassoziationen.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Arvid � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/A/Ar/Arvid/"
+    },
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Arvid: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Arvid.html"
+    }
+  ],
+  "style_effect": [
+    "kurz und prägnant",
+    "skandinavisch-altnordisch wirkend",
+    "eher markant als modisch",
+    "lexikalisch aufgeladen durch Bedeutungsbezüge",
+    "seriös und freundlich",
+    "leicht eigenständig, ohne exzentrisch zu wirken"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Mittlere Sichtbarkeit in Deutschland; die Quellen deuten auf Bekanntheit hin, aber eher als seltener bis mäßig verbreiteter Name als als stark präsenter Trendname."
+}

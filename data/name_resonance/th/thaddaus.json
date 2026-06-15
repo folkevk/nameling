@@ -1,0 +1,58 @@
+{
+  "associations": [
+    "biblisch",
+    "aramäisch/hebräisch",
+    "Lobpreis",
+    "mutig",
+    "beherzt",
+    "Namenstag",
+    "selten",
+    "traditionell",
+    "Spitznamen wie Taddl, Teddy oder Tadde"
+  ],
+  "confidence": 0.77,
+  "display_text": "Thaddäus wirkt öffentlich eher selten, traditionell und biblisch geprägt. Die Resonanz ist insgesamt leicht positiv, vor allem durch Bedeutungen wie „mutig“ oder „beherzt“, bleibt aber eher sachlich als modern oder emotional. Die Evidenz ist begrenzt und vor allem lexikalisch, daher nur vorsichtig zu interpretieren.",
+  "evidence_quality": "mittel bis begrenzt: klare Namensdiskussion vorhanden, aber nur wenige Quellen und überwiegend lexikalische statt breit öffentliche Evidenz.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Thaddäus",
+  "normalized_name": "thaddaus",
+  "overall_resonance": "Eher positiv, aber vor allem traditionell und sachlich geprägt. Der Name wirkt im öffentlichen Namenskontext selten, historisch-biblisch und eher charakterstark als modisch.",
+  "practical_notes": [
+    "Wirkt in Deutschland eher außergewöhnlich und traditionell als modern.",
+    "Kann je nach Kontext feierlich oder altmodisch klingen.",
+    "Koseformen können die Strenge des vollen Namens etwas auflockern.",
+    "Für Suchmaschinen ist eine neutrale Einordnung sinnvoll, da der Name nicht stark emotional aufgeladen erscheint."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist begrenzt und stützt sich stark auf ein Namenslexikon; die öffentliche Gesamtwahrnehmung lässt sich nur vorsichtig ableiten.",
+    "Etymologische Angaben können uneinheitlich sein und sollten nicht als endgültig betrachtet werden.",
+    "Einzelne Popkultur- oder Kommentarbezüge sind nicht als allgemeine Namensbewertung zu verstehen."
+  ],
+  "short_summary": "Thaddäus wird im deutschsprachigen Namenskontext meist als seltener, traditioneller und biblisch geprägter Vorname wahrgenommen, mit eher positiver, aber nüchterner Resonanz.",
+  "source_count": 1,
+  "sources": [
+    {
+      "confidence": 0.91,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Thaddäus: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Thadd%C3%A4us.html"
+    }
+  ],
+  "style_effect": [
+    "traditionell",
+    "selten",
+    "biblisch",
+    "gehoben/altsprachlich",
+    "charakterstark",
+    "eher formell",
+    "mit möglichen Koseformen"
+  ],
+  "usable_evidence_count": 1,
+  "visibility": "Gering bis mittel: In der Namenswahrnehmung ist Thaddäus eher ungewöhnlich und dadurch auffällig, aber nicht breit verbreitet."
+}

@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "biblischer Jungenname",
+    "hebräischer Ursprung",
+    "Bedeutung: der Geliebte / der Liebling",
+    "weit verbreitet",
+    "lange populär in Deutschland",
+    "etablierter Klassiker",
+    "Namenstag"
+  ],
+  "confidence": 0.95,
+  "display_text": "David wird in Deutschland überwiegend positiv wahrgenommen: ein klassischer, sehr verbreiteter und langfristig beliebter Vorname mit biblisch-hebräischer Herkunft und der Bedeutung „der Geliebte / der Liebling“. Die vorliegende Evidenz ist stark, aber vor allem lexikalisch; direkte öffentliche Debatten sind kaum enthalten.",
+  "evidence_quality": "hoch, aber eher beschreibend als diskursiv",
+  "generated_at": "2026-06-12T06:08:03Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "David",
+  "normalized_name": "david",
+  "overall_resonance": "Der Vorname David wird in Deutschland überwiegend positiv und sehr vertraut wahrgenommen. In den vorliegenden Quellen erscheint er als etablierter, lange populärer Name mit biblisch-hebräischem Hintergrund und klarer, positiver Namensbedeutung.",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt David als sehr sichere, gut bekannte Wahl.",
+    "Der Name ist leicht verständlich, international gebräuchlich und in Deutschland seit Langem präsent.",
+    "Die Quellen betonen eher Herkunft und Beliebtheit als kontroverse Bewertungen."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist stark, aber überwiegend lexikalisch und nicht community-basiert; es gibt daher nur begrenzte direkte Hinweise auf öffentliche Meinungsbilder.",
+    "Keine Hinweise auf soziale Stigmatisierung in den Quellen."
+  ],
+  "short_summary": "David ist in Deutschland ein sehr bekannter, klassisch-positiv besetzter Vorname mit biblisch-hebräischem Ursprung und langer Popularität.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "Vorname David � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/D/Da/David/"
+    },
+    {
+      "confidence": 0.99,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname David: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,David.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "modern-etabliert",
+    "vertraut",
+    "seriös",
+    "international anschlussfähig",
+    "namenskundlich klar"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Sehr hohe Bekanntheit und gute öffentliche Sichtbarkeit in Deutschland; der Name wirkt zeitlos und breit etabliert."
+}

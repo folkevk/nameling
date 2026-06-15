@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "deutsche Variante von Matthias",
+    "althebräischer Ursprung",
+    "Bedeutung: Geschenk Gottes / Gabe Jahwes",
+    "biblischer Bezug",
+    "Namenstag am 24. Februar",
+    "Namensvariante mit etabliertem, traditionellem Klang"
+  ],
+  "confidence": 0.88,
+  "display_text": "Mathias wird überwiegend positiv und sachlich wahrgenommen: ein klassischer, biblisch geprägter Vorname mit der Bedeutung „Geschenk Gottes“ bzw. „Gabe Jahwes“. In Deutschland wirkt er vertraut, aber eher selten vergeben und dadurch zeitlos, traditionell und etwas markant.",
+  "evidence_quality": "mittel bis gut: klare namenkundliche Quellen, aber begrenzte öffentliche Diskussionslage",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Mathias",
+  "normalized_name": "mathias",
+  "overall_resonance": "Mathias wird in den vorliegenden Quellen überwiegend sachlich bis positiv wahrgenommen: als traditionsreicher, biblisch geprägter Vorname mit klarer Herkunft und Bedeutung. Die öffentliche Resonanz wirkt eher informativ als emotional aufgeladen.",
+  "practical_notes": [
+    "Für Suchmaschinen-Nutzer lässt sich Mathias am besten als klassische, gut einordbare Namensform mit biblischer Bedeutung zusammenfassen.",
+    "Die Schreibweise wirkt etwas traditioneller als Matthias, ohne ungewöhnlich zu sein.",
+    "Wegen der eher seltenen Vergabe in Deutschland kann der Name als markant, aber nicht exotisch erscheinen."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt vor allem aus Namensdatenbanken und redaktionellen Namensseiten, nicht aus freier öffentlicher Debatte.",
+    "Daher beschreibt die Karte eher die namenkundliche Einordnung als breite gesellschaftliche Meinungsbilder.",
+    "Keine Hinweise auf soziale Stigmatisierung in den Quellen."
+  ],
+  "short_summary": "Mathias gilt als klassischer, biblisch geprägter Vorname mit positiver bis neutraler Resonanz und eher seltener Vergabe in Deutschland.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Mathias � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/M/Ma/Mathias/"
+    },
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Mathias: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Mathias.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "traditionell",
+    "biblisch",
+    "seriös",
+    "zeitlos",
+    "eher selten als mainstream"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland eher bekannt, aber laut den Quellen nicht sehr häufig vergeben. Dadurch wirkt der Name vertraut, zugleich etwas klassisch und weniger modisch."
+}

@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "französische Form von Adrian",
+    "lateinischer Ursprung",
+    "Bedeutung: Mann aus Hadria",
+    "in Deutschland eher selten",
+    "Namenstag genannt",
+    "vereinzelt Popkultur-Bezug"
+  ],
+  "confidence": 0.78,
+  "display_text": "Adrien wirkt in Deutschland eher selten, international und klassisch. Die öffentliche Resonanz ist auf Basis der verfügbaren Quellen vorsichtig neutral bis leicht positiv, allerdings mit begrenzter Evidenz.",
+  "evidence_quality": "mittel bis schwach; hauptsächlich namenkundliche Webquellen, wenig direkte öffentliche Resonanzdaten für DE",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Adrien",
+  "normalized_name": "adrien",
+  "overall_resonance": "Adrien wird in den vorliegenden Quellen eher neutral bis leicht positiv wahrgenommen. Der Name wirkt sachlich, französisch geprägt und eher selten im deutschen Sprachraum; eine starke öffentliche Aufladung ist nicht erkennbar.",
+  "practical_notes": [
+    "Für eine Namenssuche in DE ist Adrien eher ein seltener, international klingender Name.",
+    "Die Wahrnehmung ist eher neutral bis positiv, ohne starke Trend- oder Modewirkung.",
+    "Wenn eine eindeutige deutsche Alltagsverbreitung gewünscht ist, wirkt der Name weniger geläufig als Adrian."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist insgesamt schwach und stützt sich vor allem auf Name-Infoseiten.",
+    "Einige positive Eindrücke stammen aus kommentarbasierten oder redaktionell kuratierten Inhalten und sind nur eingeschränkt verallgemeinerbar.",
+    "Es gibt keine belastbaren Hinweise auf eine klare gesellschaftliche Stigmatisierung oder starke Polarisierung."
+  ],
+  "short_summary": "Adrien wird in den Quellen als seltener, französisch geprägter Vorname mit eher neutral bis leicht positiver Wirkung beschrieben.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.84,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Adrien � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/A/Ad/Adrien/"
+    },
+    {
+      "confidence": 0.89,
+      "is_name_discussion": true,
+      "sentiment": "mostly positive",
+      "source_type": "web",
+      "title": "&#9655; Vorname Adrien: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Adrien.html"
+    }
+  ],
+  "style_effect": [
+    "französisch und elegant wirkend",
+    "eher selten statt häufig",
+    "klingt international und klassisch",
+    "sachlich-namenskundliche, nicht stark emotionalisierte Wirkung",
+    "durch Popkultur vereinzelt wiedererkennbar"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland scheint Adrien eher wenig verbreitet und dadurch auffälliger als gängige Standardnamen zu sein. Die öffentliche Sichtbarkeit ist vorhanden, aber die Evidenz dafür ist begrenzt und vor allem namenkundlich geprägt."
+}

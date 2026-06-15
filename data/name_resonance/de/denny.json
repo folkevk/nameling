@@ -1,0 +1,68 @@
+{
+  "associations": [
+    "Kurz- und Koseform von Dennis",
+    "Verbindung zu Dionysius/Dionysos",
+    "männlicher Vorname",
+    "bekannt, aber nicht sehr häufig",
+    "Namenstag wird genannt",
+    "kurz und knackig"
+  ],
+  "confidence": 0.92,
+  "display_text": "Denny: in Deutschland bekannter Vorname mit überwiegend neutral bis leicht positiver Resonanz. Der Name wirkt kurz, unkompliziert und freundlich; häufig wird er als Kurz- oder Koseform von Dennis bzw. als Form mit Bezug zu Dionysius/Dionysos eingeordnet. Die Evidenz ist solide, einzelne Einschätzungen zur Seltenheit oder Klangwirkung bleiben jedoch subjektiv.",
+  "evidence_quality": "gut: mehrere namenskundliche Quellen mit klarer Direktbezugnahme auf den Vornamen; die Resonanzwerte sind überwiegend neutral bis leicht positiv, aber teils aus redaktionellen Einschätzungen und Nutzerkommentaren abgeleitet.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Denny",
+  "normalized_name": "denny",
+  "overall_resonance": "Im deutschsprachigen Raum wirkt Denny eher sachlich-vertraut als stark auffällig. Die öffentliche Wahrnehmung ist überwiegend neutral bis leicht positiv, mit Fokus auf Kürze, Klang und der Einordnung als bekannte Kurz- oder Koseform.",
+  "practical_notes": [
+    "Für Suchmaschinen eignet sich eine Beschreibung als bekannte, kurze und neutral bis freundlich wirkende Namensform.",
+    "Die Schreibweise und Herkunft können gelegentlich erklärt werden müssen, da Denny oft als Kurzform verstanden wird.",
+    "Die Gesamtlage der Evidenz ist gut, aber die Bewertung der Klangwirkung bleibt teilweise subjektiv."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Einordnung als „selten“ oder „ungewöhnlich“ ist nur vorsichtig zu verwenden und hängt von der jeweiligen Quelle ab.",
+    "Ein Teil der verfügbaren Aussagen stammt aus Namensseiten und Nutzerkommentaren; das ist eher Hinweischarakter als harte Messung der öffentlichen Meinung.",
+    "Es gibt keine belastbaren Hinweise auf eine starke soziale Stigmatisierung des Namens in der vorliegenden Evidenz."
+  ],
+  "short_summary": "Denny wird in Deutschland als bekannter, eher kurzer und unkompliziert wirkender Vorname wahrgenommen. Die öffentliche Resonanz ist überwiegend neutral bis leicht positiv, mit leichter Tendenz zu freundlich-modern.",
+  "source_count": 3,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Denny � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/D/De/Denny/"
+    },
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Denny � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/D/De/Denny/"
+    },
+    {
+      "confidence": 0.91,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Denny: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Denny.html"
+    }
+  ],
+  "style_effect": [
+    "kurz und eingängig",
+    "modern-unkompliziert",
+    "weicher, freundlicher Klang",
+    "als Kurzform bzw. englisch geprägte Variante wahrgenommen",
+    "teils buchstabierungs- oder erklärungsbedürftig"
+  ],
+  "usable_evidence_count": 3,
+  "visibility": "Der Name ist in Deutschland bekannt und wird in Namenslexika und Vornamensseiten regelmäßig geführt. Er wirkt nicht extrem häufig, aber auch nicht exotisch."
+}

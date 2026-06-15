@@ -1,0 +1,63 @@
+{
+  "associations": [
+    "altgriechische Herkunft",
+    "Variante von Melania",
+    "Bedeutung meist als „die Dunkle“ bzw. „die Schwarze“ erklärt",
+    "französisch vermittelt/angepasst dargestellt",
+    "in Deutschland besonders in den 1970er- und 1980er-Jahren beliebt",
+    "heute weniger häufig",
+    "Namenstag wird genannt (31. Dezember)"
+  ],
+  "confidence": 0.94,
+  "display_text": "Melanie wird in Deutschland meist als klassischer, vertrauter Mädchenvorname wahrgenommen. Die öffentliche Rezeption ist überwiegend neutral bis freundlich: Der Name gilt als historisch gut bekannt, war besonders in den 1970er- und 1980er-Jahren sehr beliebt und ist heute eher seltener. In den Quellen werden altgriechische Herkunft, die Bedeutung „die Dunkle“ bzw. „die Schwarze“ und ein Namenstag genannt. Die Evidenz ist insgesamt stark; einzelne Bedeutungsdetails variieren leicht zwischen den Quellen.",
+  "evidence_quality": "hoch: zwei inhaltlich passende Namenslexika mit klarer Diskussion des Vornamens, konsistenten Kernaussagen zur Herkunft, Bedeutung und Beliebtheit; nur geringe Unsicherheiten in Nebenangaben.",
+  "generated_at": "2026-06-12T06:08:03Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Melanie",
+  "normalized_name": "melanie",
+  "overall_resonance": "Melanie wird in der deutschsprachigen Namensrezeption überwiegend als klassischer, gut bekannter und historisch zeitweise sehr populärer Mädchenvorname wahrgenommen. Die öffentliche Darstellung ist meist sachlich-informativ mit leicht positiver bzw. neutraler Färbung.",
+  "practical_notes": [
+    "Für Suchmaschinen-Nutzer wirkt der Name vertraut und gut einordenbar.",
+    "Die Rezeption ist eher beschreibend als emotional aufgeladen.",
+    "Wer einen modernen, aber nicht trendigen Namen sucht, findet hier einen eher klassischen Eindruck.",
+    "Die heutige Seltenheit im Vergleich zu früheren Jahrzehnten kann den Namen etwas generationstypisch wirken lassen."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Einzelne Bedeutungsangaben variieren leicht zwischen den Quellen; die etymologische Darstellung ist daher nicht in allen Details einheitlich.",
+    "Die Quellenlage ist insgesamt gut, enthält aber teils gemischte Lexikon- und Nutzerelemente.",
+    "Keine Hinweise auf gesellschaftliche Stigmatisierung in den Quellen; falls der Name in manchen Milieus als zeittypisch wahrgenommen wird, ist das eher eine Geschmacksfrage als ein Vorurteil."
+  ],
+  "short_summary": "Melanie gilt in Deutschland als klassischer, früher sehr populärer und heute seltenerer Vorname mit überwiegend neutral-freundlicher Wahrnehmung.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Melanie � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/M/Me/Melanie/"
+    },
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Melanie: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Melanie.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "zeittypisch",
+    "vertraut",
+    "namenkundlich geprägt",
+    "leicht weich im Klang",
+    "neutral bis freundlich"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Hohe Bekanntheit in Deutschland; laut den vorliegenden Quellen früher besonders populär, heute eher seltener, aber weiterhin klar wiedererkennbar."
+}

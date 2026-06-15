@@ -1,0 +1,62 @@
+{
+  "associations": [
+    "slawischer Ursprung",
+    "Bedeutungsdeutungen wie „Wolf“ oder „Kämpfer“",
+    "Kurzform bzw. verselbständigte Form",
+    "Namenstag",
+    "klassischer Vorname",
+    "rückläufige Beliebtheit",
+    "vereinzelt positiv bewertet"
+  ],
+  "confidence": 0.86,
+  "display_text": "Boris: überwiegend neutral bis leicht positiv wahrgenommen. Der Name wirkt klassisch, markant und slawisch geprägt; die Quellen nennen ihn eher traditionsnah als trendig. Positive Einschätzungen sind vorhanden, stammen aber teils aus kommentarbasierten Quellen.",
+  "evidence_quality": "mittel bis gut; klar namebezogene Quellen, aber überwiegend wenige webbasierte Namenslexika mit begrenzter Breite",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Boris",
+  "normalized_name": "boris",
+  "overall_resonance": "überwiegend neutral bis leicht positiv",
+  "practical_notes": [
+    "Für eine Namenssuche lässt sich Boris als gut bekannt, traditionsnah und eher markant beschreiben.",
+    "Der Name wirkt nicht stark trendgetrieben, sondern eher zeitlos mit slawischer Färbung.",
+    "Eine eindeutige gesellschaftliche Stigmatisierung ist aus der vorliegenden Evidenz nicht ersichtlich."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt im Wesentlichen aus zwei Namenslexika; die öffentliche Rezeption ist daher nur begrenzt breit abgesichert.",
+    "Ein Teil der positiven Eindrücke kommt aus Nutzerkommentaren und ist nicht repräsentativ.",
+    "Die Angaben zur Bedeutung variieren je nach Quelle und sollten vorsichtig formuliert werden."
+  ],
+  "short_summary": "Boris wird im deutschsprachigen Raum meist neutral bis leicht positiv wahrgenommen: klassisch, markant und slawisch geprägt, mit eher rückläufiger Beliebtheit.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Boris � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/B/Bo/Boris/"
+    },
+    {
+      "confidence": 0.9,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Boris: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Boris.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "eigenständig",
+    "kurz und prägnant",
+    "slawisch geprägt",
+    "traditionell",
+    "etwas markanter Klang"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Der Name ist im deutschsprachigen Raum bekannt, aber laut den Quellen eher kein aktueller Modename; er wirkt eher klassisch und gelegentlich als markanter, slawisch geprägter Name wahrgenommen."
+}

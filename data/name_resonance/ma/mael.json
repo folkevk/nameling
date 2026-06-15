@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "bretonische Herkunft",
+    "keltischer Ursprung",
+    "Bedeutung: „der Prinz“",
+    "männlicher Vorname",
+    "kurze Form",
+    "international lesbar",
+    "in Deutschland als bekannt/geläufig beschrieben",
+    "teils als beliebt eingeordnet"
+  ],
+  "confidence": 0.81,
+  "display_text": "Mael wirkt in der verfügbaren Online-Rezeption eher positiv und modern: ein kurzer, international klingender Name mit bretonisch/keltischer Herkunft. In deutschen Namensquellen wird er als bekannt, teils beliebt und eher ausgefallen beschrieben. Die Evidenz ist allerdings begrenzt und basiert vor allem auf wenigen Namenslexika.",
+  "evidence_quality": "mittel bis schwach: inhaltlich klare Namensbeschreibungen, aber nur wenige Quellen und kaum unabhängige öffentliche Resonanz.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Mael",
+  "normalized_name": "mael",
+  "overall_resonance": "Für Mael zeigt die verfügbare Online-Evidenz insgesamt eine eher positive, sachlich-informative Resonanz. Der Name wird vor allem als bretonisch/keltisch, kurz und international wirkend beschrieben; in Deutschland erscheint er als bekannt, teils als beliebt oder geläufig eingeordnet. Die öffentliche Wahrnehmung wirkt dabei eher namenkundlich als kontrovers.",
+  "practical_notes": [
+    "Für eine Suchmaschine lässt sich Mael als freundlicher, moderner und knapp wirkender Vorname zusammenfassen.",
+    "Die Wahrnehmung ist eher neutral bis positiv; es gibt keinen klaren Hinweis auf starke gesellschaftliche Vorurteile oder problematische Konnotationen in der vorliegenden Evidenz."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt fast nur aus einzelnen Namenslexikon-Seiten; eine breite öffentliche Debatte ist nicht erkennbar.",
+    "Beliebtheitsaussagen sollten vorsichtig gelesen werden, da sie nicht durch mehrere unabhängige öffentliche Quellen gestützt sind."
+  ],
+  "short_summary": "Mael wird online überwiegend positiv und informativ beschrieben: kurz, international, bretonisch/keltisch geprägt und in Deutschland als bekannt bis teils beliebt eingeordnet. Die Evidenz ist jedoch begrenzt.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.92,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Mael � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/M/Ma/Mael/"
+    },
+    {
+      "confidence": 0.84,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Mael: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Mael.html"
+    }
+  ],
+  "style_effect": [
+    "kurz und prägnant",
+    "international wirkend",
+    "modern, aber nicht laut",
+    "namenskundlich aufgeladen",
+    "selten bis ausgefallen wirkend",
+    "eher freundlich als polarisierend"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Eher moderat sichtbar: Der Name taucht in Namenslexika und Datenbanken auf, aber die Evidenzbasis ist klein und stark auf wenige Quellen begrenzt."
+}

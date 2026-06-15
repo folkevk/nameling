@@ -1,0 +1,62 @@
+{
+  "associations": [
+    "altenglische Herkunft",
+    "Bedeutung im Sinne von Freund/Reicher Freund",
+    "klassischer Jungenname",
+    "historisch etabliert",
+    "Namenstag",
+    "eher selten in Deutschland",
+    "sprachlich traditionsnah"
+  ],
+  "confidence": 0.84,
+  "display_text": "Edwin wirkt öffentlich vor allem klassisch, historisch und eher selten. Die vorliegenden Quellen beschreiben den Namen sachlich bis leicht positiv, mit Fokus auf altenglische Herkunft, Bedeutung und Namenstage. Für eine breite öffentliche Resonanz gibt es jedoch nur begrenzte Evidenz.",
+  "evidence_quality": "Gut für Herkunft, Bedeutung und grobe Einordnung; begrenzt für echte öffentliche Breitenresonanz, da nur lexikalische Einzelnachweise vorliegen.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Edwin",
+  "normalized_name": "edwin",
+  "overall_resonance": "Überwiegend sachlich bis leicht positiv: Edwin wird öffentlich vor allem als klassischer, historisch etablierter Jungenname mit altenglischer Herkunft wahrgenommen. Die Quellen betonen eher Bedeutung und Namenskunde als emotionale oder gesellschaftliche Debatten.",
+  "practical_notes": [
+    "Für Suchende wirkt Edwin eher traditionsbewusst als modisch.",
+    "Der Name ist klar männlich codiert und leicht einzuordnen.",
+    "Durch die seltenere Verwendung kann er eigenständig und markant wirken.",
+    "Die Quellen nennen mehrere Namenstage; das kann für Namensinteressierte ein zusätzlicher Pluspunkt sein."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz basiert nur auf zwei Namenslexikon-Quellen, daher ist die öffentliche Resonanz nur eingeschränkt belastbar.",
+    "Beliebtheitsangaben können je nach Datenstand und Hitliste schwanken.",
+    "Es gibt keine breite Debatte oder starke gesellschaftliche Zuschreibung; deshalb sollten Eindrücke nicht überinterpretiert werden."
+  ],
+  "short_summary": "Edwin wird im Deutschen meist als klassischer, historisch etablierter und eher seltener Jungenname wahrgenommen; die Resonanz ist sachlich bis leicht positiv, aber die Evidenz ist begrenzt.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Edwin � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/E/Ed/Edwin/"
+    },
+    {
+      "confidence": 0.92,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Edwin: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Edwin.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "historisch",
+    "lexikalisch-namenskundlich",
+    "ruhig und seriös",
+    "eher traditionell als modern"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Mittlere Sichtbarkeit im deutschsprachigen Raum; in den vorliegenden Quellen wird Edwin eher als seltener bzw. rückläufiger Name beschrieben, aber dennoch klar erkennbar und etabliert."
+}

@@ -1,0 +1,63 @@
+{
+  "associations": [
+    "slawische Herkunft",
+    "russische bzw. osteuropäische Einordnung",
+    "Bedeutungsfeld: Licht, Helligkeit, Erleuchtung",
+    "weiblicher Vorname",
+    "selten in Deutschland",
+    "Namenstag",
+    "vereinzelt als schöner Name beschrieben"
+  ],
+  "confidence": 0.84,
+  "display_text": "Swetlana wirkt in den vorliegenden Quellen eher positiv und zugleich sachlich. Der Name wird mit Licht, Helligkeit und Erleuchtung verbunden und erscheint dadurch freundlich und angenehm. In Deutschland ist er eher selten. Die Evidenz zur öffentlichen Resonanz ist jedoch begrenzt, da sie hauptsächlich aus Namenslexika stammt.",
+  "evidence_quality": "Begrenzt: überwiegend Namenslexikon-/Namensdatenbank-Evidenz, kaum freie öffentliche Diskussion. Daher nur vorsichtige Aussagen zur Resonanz möglich.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Swetlana",
+  "normalized_name": "swetlana",
+  "overall_resonance": "Eher positiv bis neutral, vor allem sachlich-informativ geprägt. Der Name wird in den vorliegenden Quellen häufig mit Bedeutungen rund um Licht, Helligkeit und Erleuchtung verbunden, was seine Wahrnehmung freundlich und angenehm erscheinen lässt. Eine breite öffentliche Debatte ist jedoch nicht erkennbar.",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt Swetlana eher ungewöhnlich und markant.",
+    "Die Bedeutung und Klangassoziationen können als freundlich und hell wahrgenommen werden.",
+    "In Deutschland dürfte die Schreibweise bzw. Herkunft nicht jedem sofort vertraut sein.",
+    "Wer einen seltenen, slawisch geprägten Vornamen sucht, findet hier eine klare, traditionelle Option."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist schwach für öffentliche Resonanz im engeren Sinn, da sie vor allem aus Namensdatenbanken stammt.",
+    "Einzelne positive Kommentare sind nicht repräsentativ für die Gesamtwahrnehmung.",
+    "Ableitungen zur Wirkung des Namens sollten vorsichtig gelesen werden, da sie stark von lexikalischen Beschreibungen abhängen."
+  ],
+  "short_summary": "Swetlana wird in den Quellen überwiegend sachlich und leicht positiv wahrgenommen, vor allem durch Bedeutungen rund um Licht und Helligkeit. In Deutschland ist der Name eher selten; belastbare öffentliche Meinungen sind nur schwach belegt.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.94,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "Vorname Swetlana � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/S/Sw/Swetlana/"
+    },
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Swetlana: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Swetlana.html"
+    }
+  ],
+  "style_effect": [
+    "sachlich",
+    "namenskundlich",
+    "leicht positiv konnotiert",
+    "klassisch-slawisch",
+    "ungewöhnlich in Deutschland",
+    "hell/positiv assoziiert"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland eher selten und dadurch nicht sehr breit sichtbar. Die vorhandene Evidenz stammt überwiegend aus Namenslexika und nicht aus offenen öffentlichen Diskussionen; die Aussagekraft für echte Alltagsresonanz ist daher begrenzt."
+}

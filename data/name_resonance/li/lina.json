@@ -1,0 +1,63 @@
+{
+  "associations": [
+    "weiblicher Vorname",
+    "Kurz- und Koseform mehrerer Namen",
+    "Bedeutungen wie „die Zarte“, „die Sanfte“ oder „die Kleine“",
+    "teilweise altgriechische, arabische oder lateinische Herleitung in Quellen",
+    "in Deutschland sehr beliebt",
+    "Namenstag",
+    "namenskundlich und informativ aufgeladen"
+  ],
+  "confidence": 0.91,
+  "display_text": "Lina gilt in Deutschland als sehr beliebter, moderner und freundlich wirkender Vorname. Die vorliegende Evidenz ist überwiegend positiv, stammt aber vor allem aus Namenslexika und Datenbanken. Hinweise auf Stigmatisierung gibt es nicht.",
+  "evidence_quality": "Gut bis sehr gut, aber überwiegend lexikalisch statt diskursiv; die Quellen sind nützlich für Bedeutung und Popularität, liefern jedoch wenig echte öffentliche Meinungsvielfalt.",
+  "generated_at": "2026-06-12T06:08:03Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Lina",
+  "normalized_name": "lina",
+  "overall_resonance": "Überwiegend positiv und modern wahrgenommen, mit klarer Alltagsvertrautheit in Deutschland. Die öffentliche Darstellung ist vor allem beschreibend und namenkundlich, nicht kontrovers.",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt Lina unkompliziert, sympathisch und vertraut.",
+    "Die starke Verbreitung kann den Namen eher klassisch-aktuell als besonders selten erscheinen lassen.",
+    "Die Quellen deuten auf mehrere mögliche Herleitungen und Bedeutungen hin, was die Resonanz vielfältig, aber nicht eindeutig macht."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt vor allem aus Namenslexika und Datenbankseiten, also eher aus beschreibender als aus echter öffentlicher Debatte.",
+    "Beliebtheitsaussagen können redaktionell geprägt sein und sollten nicht als unumstößliche Marktmeinung gelesen werden.",
+    "Keine Hinweise auf soziale Stigmatisierung in der vorliegenden Evidenz."
+  ],
+  "short_summary": "Lina wird in Deutschland überwiegend positiv, modern und sehr bekannt wahrgenommen. Die Evidenz spricht vor allem für einen freundlichen, weichen und beliebten Namen.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.95,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "Vorname Lina � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/L/Li/Lina/"
+    },
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Lina: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Lina.html"
+    }
+  ],
+  "style_effect": [
+    "kurz",
+    "weich",
+    "freundlich",
+    "modern",
+    "zeitgemäß",
+    "einfach auszusprechen",
+    "niedrigschwellig"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Sehr hoch: Lina ist in Deutschland gut bekannt und wird in Namenslexika als sehr beliebt beschrieben."
+}

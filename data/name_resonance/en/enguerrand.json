@@ -1,0 +1,58 @@
+{
+  "associations": [
+    "Vorname",
+    "Herkunft",
+    "Bedeutung",
+    "Namenstag",
+    "französisch",
+    "altfranzösisch",
+    "althochdeutsch",
+    "selten",
+    "international"
+  ],
+  "confidence": 0.74,
+  "display_text": "Enguerrand ist in DE ein sehr seltener, französisch geprägter Vorname. Die vorliegende Evidenz zeigt vor allem eine neutrale lexikalische Beschreibung zu Herkunft, Bedeutung und Namenstag; belastbare Hinweise auf breite öffentliche Resonanz fehlen. Der Name wirkt eher markant, historisch und international, kann im Alltag aber erklärungsbedürftig sein.",
+  "evidence_quality": "schwach: eine einzelne, überwiegend lexikalische Webquelle ohne Meinungsvielfalt oder belastbare Resonanzdaten",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Enguerrand",
+  "normalized_name": "enguerrand",
+  "overall_resonance": "Enguerrand wirkt im deutschsprachigen Raum sehr ungewöhnlich und eher exotisch. Die öffentliche Wahrnehmung ist nach der vorliegenden Evidenz vor allem lexikalisch-neutral: ein seltener, international wirkender Vorname mit klarer Herkunfts- und Bedeutungsbeschreibung, aber ohne belastbare Hinweise auf verbreitete positive oder negative Resonanz.",
+  "practical_notes": [
+    "Für die Namenssuche in DE ist Enguerrand eher ein seltener Spezialfall.",
+    "Die Schreibweise und Aussprache könnten im Alltag erklärungsbedürftig sein.",
+    "Der Name eignet sich besonders, wenn ein historisch-französischer und internationaler Klang gewünscht ist."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist schwach und besteht nur aus einer einzelnen lexikalischen Quelle.",
+    "Es gibt keine belastbaren Hinweise auf eine breitere öffentliche Meinung oder auf soziale Bewertungen.",
+    "Etwaige Eindrücke von „ungewöhnlich“ oder „exotisch“ sind Beschreibungen der Namenswirkung, keine objektiven Eigenschaften."
+  ],
+  "short_summary": "Sehr seltener, französisch geprägter Vorname mit neutral-lexikalischer Wahrnehmung; in DE eher exotisch und kaum verbreitet.",
+  "source_count": 1,
+  "sources": [
+    {
+      "confidence": 0.92,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Enguerrand: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Enguerrand.html"
+    }
+  ],
+  "style_effect": [
+    "französisch",
+    "altfranzösisch",
+    "althochdeutsch",
+    "selten",
+    "international",
+    "historisch",
+    "eher vornehm",
+    "markant"
+  ],
+  "usable_evidence_count": 1,
+  "visibility": "Im Raum DE vermutlich sehr geringe Sichtbarkeit. Die Evidenz spricht eher für Bekanntheit in Namenslexika als für eine breite öffentliche Nutzung oder Diskussion."
+}

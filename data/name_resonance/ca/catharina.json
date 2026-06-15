@@ -1,0 +1,62 @@
+{
+  "associations": [
+    "altgriechischer Ursprung",
+    "Bedeutung: die Reine / die Unschuldige / die Ehrliche",
+    "Variante zu Katharina",
+    "Namenstag",
+    "klassische, historische Namenswahrnehmung",
+    "Spitznamen wie Cathi, Cathy, Rina"
+  ],
+  "confidence": 0.92,
+  "display_text": "Catharina wirkt in Deutschland überwiegend neutral bis leicht klassisch-positiv: ein traditionsreicher, eher seltener Vorname mit altgriechischem Ursprung und Bedeutungen wie „die Reine“ oder „die Ehrliche“. Die Schreibweise mit C wird als etwas besondere, formelle Variante von Katharina wahrgenommen. Die Evidenz ist solide für Namenskunde, aber vor allem lexikalisch und kaum von echter Alltagsresonanz geprägt.",
+  "evidence_quality": "gut für Namenskunde, aber begrenzt für echte öffentliche Stimmung; überwiegend lexikalische Webquellen",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Catharina",
+  "normalized_name": "catharina",
+  "overall_resonance": "überwiegend neutral bis leicht klassisch-positiv",
+  "practical_notes": [
+    "Für Suchmaschinen ist 'Catharina' klar als traditionelle Schreibvariante von Katharina einzuordnen.",
+    "Der Name wirkt im deutschen Raum eher klassisch und formal als modern-trendig.",
+    "Die Schreibweise mit 'C' kann als besondere, etwas seltenere Variante wahrgenommen werden.",
+    "Namenstag- und Herkunftshinweise spielen in den Quellen eine sichtbare Rolle."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die öffentliche Resonanz basiert hier fast nur auf Namenslexika und Infoseiten, nicht auf sozialer Alltagsdiskussion.",
+    "Die positiven Konnotationen stammen vor allem aus der Bedeutungsbeschreibung; daraus sollte keine allgemeine Personenbewertung abgeleitet werden.",
+    "Die Wahrnehmung als selten oder klassisch ist quellenabhängig und nicht als harte Allgemeingültigkeit zu verstehen."
+  ],
+  "short_summary": "Catharina wird in den Quellen überwiegend neutral bis leicht positiv als klassischer, traditionsreicher Name mit altgriechischem Ursprung beschrieben. Die Wirkung ist eher elegant und historisch als modern, die Evidenz stammt jedoch fast nur aus Namenslexika.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.99,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Catharina � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/C/Ca/Catharina/"
+    },
+    {
+      "confidence": 0.91,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Catharina: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Catharina.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "namenskundlich",
+    "eher formell",
+    "historisch geprägt",
+    "leicht elegant",
+    "selten bis vertraut-je-nach-Kontext"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "mäßig sichtbar; eher als traditionsreicher, seltener Vorname in Namenslexika präsent als als breites Alltagsphänomen"
+}

@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "latinisierte Form von Isabel bzw. Variante von Elisabeth",
+    "Bedeutungsdeutungen wie „Gott ist Fülle“, „Gott ist Vollkommenheit“ oder „mein Gott ist Vollkommenheit“",
+    "als historisch und in Adelshäusern verbreitet beschrieben",
+    "wiederentdeckt und in Deutschland gut platziert",
+    "Kurzformen wie Isa, Bella, Isi, Ella oder Izzy"
+  ],
+  "confidence": 0.86,
+  "display_text": "Isabella hat in den vorliegenden Quellen eine überwiegend positive Resonanz: klassisch, elegant und gut bekannt in Deutschland. Der Name wird mit historischer Tiefe, klarer Namensbedeutung und geläufigen Kurzformen verbunden. Die Evidenz ist solide, aber vor allem auf Namenslexika gestützt und daher nur begrenzt repräsentativ.",
+  "evidence_quality": "mittel bis gut; direkte Namensquellen mit klarer Namensdiskussion, aber begrenzte Repräsentativität und keine breit angelegte öffentliche Erhebung.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Isabella",
+  "normalized_name": "isabella",
+  "overall_resonance": "Überwiegend positiv und klassisch-elegant wahrgenommen; in den vorliegenden Quellen wird Isabella als schöner, historisch verankerter Vorname mit guter Bekanntheit in Deutschland beschrieben.",
+  "practical_notes": [
+    "Für Suchende wirkt Isabella eher zeitlos als modisch kurzlebig.",
+    "Die internationale Schreibweise und die geläufigen Kurzformen können im Alltag als praktisch wahrgenommen werden.",
+    "Wer einen klassischen, klangvollen Namen sucht, findet hier in der Regel eine positive Grundresonanz."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Datenlage ist begrenzt und stammt überwiegend aus Namenslexika bzw. einer Namensseite; das ist keine repräsentative öffentliche Gesamtumfrage.",
+    "Einzelne Wertungen wie „schöner Name“ spiegeln vor allem redaktionelle oder nutzernahe Einschätzungen wider.",
+    "Keine Hinweise auf eine relevante soziale Stigmatisierung in der vorliegenden Evidenz."
+  ],
+  "short_summary": "Isabella wird in den vorliegenden Quellen überwiegend positiv, klassisch und elegant bewertet; der Name ist in Deutschland bekannt und wirkt eher zeitlos als trendabhängig.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.99,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "Vorname Isabella � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/I/Is/Isabella/"
+    },
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Isabella: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Isabella.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "elegant",
+    "weiblich-klingend",
+    "historisch",
+    "wertig",
+    "international anschlussfähig"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Der Name ist in Deutschland gut sichtbar und bekannt, ohne als stark polarisierend aufzutreten. Die Evidenz deutet eher auf eine etablierte, wiederentdeckte Namenswahl als auf einen kurzfristigen Trend hin."
+}

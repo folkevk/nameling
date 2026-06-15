@@ -1,0 +1,63 @@
+{
+  "associations": [
+    "weiblicher Vorname",
+    "deutsche/englische/französische Schreibform bzw. Variante von Diana",
+    "lateinische Herkunft",
+    "Bedeutung: die wie das Licht Schimmernde / hell Scheinende",
+    "Bezug zur römischen Göttin Diana",
+    "Namenstag 10. Juni",
+    "Namensvarianten und Spitznamen"
+  ],
+  "confidence": 0.83,
+  "display_text": "Diane wird in den vorliegenden Quellen überwiegend positiv bis neutral wahrgenommen: klassisch, weich klingend und mit schöner Bedeutung verbunden. Der Name ist in Deutschland bekannt, aber eher nicht massenhaft präsent. Die Evidenz ist solide für Herkunft und Bedeutung, jedoch kaum durch echte öffentliche Debatten oder Meinungsäußerungen abgesichert.",
+  "evidence_quality": "mittel bis gut; thematisch klar, aber überwiegend lexikalisch statt debattenbasiert",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Diane",
+  "normalized_name": "diane",
+  "overall_resonance": "Überwiegend positiv bis neutral; der Name wird vor allem als klassisch, weich klingend und bedeutungsstark beschrieben.",
+  "practical_notes": [
+    "Wirkt vertraut, aber nicht sehr häufig.",
+    "Eignet sich gut, wenn ein traditioneller Name mit sanfter, heller Anmutung gesucht wird.",
+    "Die internationale Lesbarkeit ist ein Pluspunkt.",
+    "Die Wahrnehmung basiert eher auf Bedeutung und Herkunft als auf breiter öffentlicher Diskussion."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt fast ausschließlich aus Namenslexika und ähnlichen Informationsseiten.",
+    "Es gibt wenig direkte öffentliche Meinungsäußerung oder diskursive Rezeption, daher ist die Einschätzung nur begrenzt repräsentativ.",
+    "Keine belastbaren Hinweise auf gesellschaftliche Stigmatisierung in den vorliegenden Quellen."
+  ],
+  "short_summary": "Diane wird in den vorliegenden Quellen vor allem als klassischer, heller und elegant wirkender Vorname mit Bezug zu Diana beschrieben. Die öffentliche Resonanz erscheint freundlich bis neutral, ist aber nur begrenzt durch direkte Meinungen belegt.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Diane � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/D/Di/Diane/"
+    },
+    {
+      "confidence": 0.92,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Diane: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Diane.html"
+    }
+  ],
+  "style_effect": [
+    "elegant",
+    "klassisch",
+    "weich klingend",
+    "zeitlos",
+    "literarisch anmutend",
+    "leicht international"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland eher bekannt als seltener bis moderat verwendeter Vorname, mit klarer Präsenz in Namenslexika und Suchtreffern, aber ohne starke öffentliche Debatte."
+}

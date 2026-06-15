@@ -1,0 +1,58 @@
+{
+  "associations": [
+    "slawischer Ursprung",
+    "Bedeutung im Umfeld von Licht/Helligkeit",
+    "weiblicher Vorname",
+    "internationaler Klang",
+    "Namenslexikon- und Bedeutungs-Kontext"
+  ],
+  "confidence": 0.76,
+  "display_text": "Svetlana: überwiegend neutral bis leicht positiv wahrgenommen. Der Name wird vor allem als slawisch, weiblich und mit der Bedeutung von Licht/Helligkeit beschrieben. Die öffentliche Resonanz in Deutschland wirkt eher begrenzt; die Evidenz ist überwiegend lexikalisch und daher vorsichtig zu interpretieren.",
+  "evidence_quality": "mittel bis schwach: zwei sachliche Namenslexika, kaum echte öffentliche Diskursbelege",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Svetlana",
+  "normalized_name": "svetlana",
+  "overall_resonance": "Überwiegend neutral bis leicht positiv. Der Name wird in den vorliegenden Quellen vor allem sachlich-namenskundlich beschrieben; eine starke öffentliche Debatte im deutschen Raum ist nicht erkennbar.",
+  "practical_notes": [
+    "Für Suchmaschinen und Namensprofile eignet sich eine kurze Beschreibung als „slawisch, bedeutungsbezogen, hell klingend“.",
+    "Wenn Kontext wichtig ist, sollte man die Quelle als Namenslexikon kennzeichnen und keine breite Meinungsresonanz behaupten.",
+    "Die Schreib- und Klangwirkung kann je nach Umfeld als international wahrgenommen werden."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist schwach und stammt überwiegend aus Namensdatenbanken, nicht aus breiter öffentlicher Diskussion.",
+    "Es liegen keine belastbaren Hinweise auf eine soziale Stigmatisierung oder auf negative Alltagskonnotationen im deutschen Raum vor.",
+    "Aussagen zur Wahrnehmung sollten deshalb vorsichtig gelesen werden und gelten eher als beschreibende Tendenzen als als gesicherte Meinungslage."
+  ],
+  "short_summary": "Svetlana wird in den Quellen vor allem neutral beschrieben, mit einer leicht positiven Licht-Assoziation. Die öffentliche Resonanz im deutschen Raum wirkt eher begrenzt und basiert hauptsächlich auf Namenslexika.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.92,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Svetlana � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/S/Sv/Svetlana/"
+    },
+    {
+      "confidence": 0.84,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Svetlana: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Svetlana.html"
+    }
+  ],
+  "style_effect": [
+    "klingt weich und melodisch",
+    "wirkt international bzw. slawisch geprägt",
+    "assoziiert in den Quellen Licht, Helligkeit und Leuchtkraft",
+    "eher klassisch als modern-experimentell"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Im deutschen Namenskontext bekannt, aber eher selten bis moderat verbreitet. Die öffentliche Sichtbarkeit wirkt begrenzt und stützt sich hier fast nur auf Namenslexika."
+}

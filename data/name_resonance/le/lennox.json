@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "gälisch-schottische Herkunft",
+    "ursprünglich Familien- bzw. Clanname",
+    "Bedeutungen wie „der Ruhige“ oder ein Gebiet am ruhigen Bach",
+    "kurze, kraftvolle Klangwirkung",
+    "Spitznamen wie Lenny oder Lenni"
+  ],
+  "confidence": 0.78,
+  "display_text": "Lennox wirkt in der öffentlichen Wahrnehmung überwiegend positiv: modern, markant und mit klarer gälisch-schottischer Herkunft. Der Name erscheint in Deutschland eher bekannt als selten bis moderat verbreitet, wobei die vorliegende Evidenz vor allem aus Namensportalen stammt.",
+  "evidence_quality": "mittel bis eher begrenzt: zwei klare Namenslexikon-/Namensportalquellen, aber keine breite repräsentative Öffentlichkeitsdatenlage.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Lennox",
+  "normalized_name": "lennox",
+  "overall_resonance": "Überwiegend positiv und modern-wertschätzend, mit Fokus auf Herkunft und Klang. In der vorliegenden Evidenz wird Lennox als eher männlich, teils auch unisex wahrgenommen und als selten bis moderat verbreitet beschrieben.",
+  "practical_notes": [
+    "Wirkt modern und eigenständig, ohne sehr exotisch zu sein.",
+    "Die Schreibweise ist klar, der Klang kann als markant und etwas international empfunden werden.",
+    "Je nach Umfeld kann der Name als ungewöhnlich, aber gut merkbar wahrgenommen werden."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Datenbasis ist klein und stark auf Namensportale beschränkt.",
+    "Aussagen zur Beliebtheit in Deutschland sind nur vorsichtig als Tendenz zu verstehen.",
+    "Keine belastbare Aussage über gesellschaftliche Vorurteile oder typische Trägergruppen ableitbar."
+  ],
+  "short_summary": "Lennox wird in den vorliegenden Quellen überwiegend positiv, modern und markant beschrieben; die öffentliche Rezeption wirkt eher wohlwollend, aber die Evidenz ist begrenzt.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "positive",
+      "source_type": "web",
+      "title": "Vorname Lennox � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/L/Le/Lennox/"
+    },
+    {
+      "confidence": 0.95,
+      "is_name_discussion": true,
+      "sentiment": "positive",
+      "source_type": "web",
+      "title": "&#9655; Vorname Lennox: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Lennox.html"
+    }
+  ],
+  "style_effect": [
+    "modern",
+    "markant",
+    "international klingend",
+    "eher selten",
+    "eher männlich, teils unisex",
+    "etymologisch aufgeladen"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland scheint der Name bekannt, aber nicht massenhaft verbreitet zu sein. Die öffentliche Wahrnehmung wirkt eher präsent durch Namensportale als durch breite Alltagsnutzung; die Evidenzlage ist daher eher begrenzt."
+}

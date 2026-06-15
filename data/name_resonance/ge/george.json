@@ -1,0 +1,59 @@
+{
+  "associations": [
+    "altgriechischer Ursprung",
+    "Bedeutung im Sinn von Bauer/Landarbeiter",
+    "englische, französische und rumänische Form von Georg",
+    "Namenstag am 23. April",
+    "Bezug zu Sankt Georg / Drachentöter",
+    "in Deutschland als Vorname eingeordnet"
+  ],
+  "confidence": 0.9,
+  "display_text": "George wirkt in Deutschland eher klassisch und international. Die öffentliche Rezeption ist überwiegend neutral bis positiv, mit klaren Bezügen zu Herkunft, Bedeutung und Tradition. Der Name ist bekannt, aber nicht besonders häufig.",
+  "evidence_quality": "gut bis moderat; zwei klare namenskundliche Quellen, insgesamt eher solide, aber nicht sehr breit",
+  "generated_at": "2026-06-14T10:47:41Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "George",
+  "normalized_name": "george",
+  "overall_resonance": "Der Vorname George wirkt in der deutschen öffentlichen Wahrnehmung eher klassisch, international und sachlich positiv. Die verfügbaren Hinweise beschreiben ihn vor allem neutral-informativ mit leichten positiven Assoziationen durch Herkunft und Tradition.",
+  "practical_notes": [
+    "Für Suchmaschinen- und Namenskontexte eignet sich George als klar international verständlicher Name.",
+    "Die öffentliche Resonanz ist eher beschreibend als emotional aufgeladen.",
+    "Wenn eine präzise deutsche Wirkung gesucht wird, wird der Name meist als fremdsprachig bzw. international wahrgenommen."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Geschlechtszuordnung wird in einzelnen Quellen unterschiedlich bzw. historisch gemischt beschrieben; das ist eher ein Sprach- und Nutzungsthema als eine feste Eigenschaft des Namens.",
+    "Ein Teil der verfügbaren Einordnung stammt aus Community- oder Lexikonmaterial und ist nicht besonders breit abgesichert."
+  ],
+  "short_summary": "George wird in Deutschland überwiegend neutral bis freundlich-klar wahrgenommen: klassisch, international und mit traditioneller Namensbedeutung.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname George � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/G/Ge/George/"
+    },
+    {
+      "confidence": 0.89,
+      "is_name_discussion": true,
+      "sentiment": "überwiegend positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname George: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,George.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "international",
+    "traditionsbezogen",
+    "namenskundlich klar",
+    "eher nüchtern als modern"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland ist George als Vorname bekannt, aber nicht besonders häufig; die Evidenz deutet auf eine eher moderate Sichtbarkeit hin."
+}

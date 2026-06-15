@@ -1,0 +1,69 @@
+{
+  "associations": [
+    "skandinavische Herkunft",
+    "altnordische Bedeutung",
+    "Unisex-Name",
+    "selten in Deutschland",
+    "namenkundliche Einordnung",
+    "Beliebtheit/Hitliste"
+  ],
+  "confidence": 0.83,
+  "display_text": "Inger: überwiegend neutrale, informativ-namenkundliche Resonanz; selten in Deutschland, skandinavisch/altnordisch eingeordnet, ohne stark erkennbare öffentliche Wertung.",
+  "evidence_quality": "mittel bis schwach: mehrere direkte Namensquellen, aber wenig freie öffentliche Diskussion und kaum breit gestreute Resonanzdaten",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Inger",
+  "normalized_name": "inger",
+  "overall_resonance": "Inger wird in den vorliegenden Quellen vor allem sachlich und namenkundlich eingeordnet. Die öffentliche Resonanz wirkt überwiegend neutral bis informativ, mit Fokus auf Herkunft, Bedeutung, Seltenheit und der skandinavischen/altnordischen Einordnung. Eine ausgeprägte positive oder negative Alltagswahrnehmung in Deutschland ist aus der Evidenz nicht klar erkennbar.",
+  "practical_notes": [
+    "Für Suchende wirkt Inger vor allem als seltener, klar nordisch wahrgenommener Vorname.",
+    "Die Wahrnehmung ist eher beschreibend als emotional; starke Assoziationen sind in den Quellen kaum belegt.",
+    "Falls eine moderne, häufige Namenswirkung gesucht wird, dürfte Inger eher zurückhaltend auffallen."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz zur öffentlichen Resonanz ist eher schwach, weil sie fast nur aus Namenslexika besteht.",
+    "Vereinzelt können gemischte Kommentare vorkommen, sie reichen aber nicht für ein klares Stimmungsbild.",
+    "Keine belastbaren Hinweise auf soziale Stigmatisierung in den Quellen."
+  ],
+  "short_summary": "Inger wird in den Quellen überwiegend neutral und informativ beschrieben: ein seltener, skandinavisch-altnordisch eingeordneter Vorname mit wenig klar erkennbarer öffentlicher Bewertung in Deutschland.",
+  "source_count": 3,
+  "sources": [
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Inger � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/I/In/Inger/"
+    },
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Inger � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/I/In/Inger/"
+    },
+    {
+      "confidence": 0.88,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Inger: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Inger.html"
+    }
+  ],
+  "style_effect": [
+    "skandinavisch",
+    "altnordisch",
+    "informativ",
+    "lexikalisch",
+    "ungewöhnlich",
+    "kurz und prägnant"
+  ],
+  "usable_evidence_count": 3,
+  "visibility": "In Deutschland scheint der Name eher selten zu sein und deshalb öffentlich nicht sehr präsent. Die Quellen behandeln ihn hauptsächlich in Namenslexika und Informationsseiten, nicht als breit diskutierten Alltagstrend."
+}

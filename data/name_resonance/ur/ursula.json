@@ -1,0 +1,62 @@
+{
+  "associations": [
+    "lateinischer Ursprung",
+    "Bedeutung: kleine Bärin",
+    "heilige Ursula",
+    "Namenstag",
+    "historisch in Deutschland beliebt",
+    "heute seltener vergeben",
+    "Spitznamen wie Uschi oder Ulla"
+  ],
+  "confidence": 0.88,
+  "display_text": "Ursula wird meist als klassischer, historischer Vorname wahrgenommen: bekannt, traditionsreich und heute eher selten vergeben. Die vorliegende Evidenz ist überwiegend sachlich-namenskundlich und zeigt keine starke negative öffentliche Resonanz.",
+  "evidence_quality": "mittel bis gut; die Quellen sind klar namenkundlich und thematisch passend, aber nicht repräsentativ für eine breit erhobene öffentliche Meinung.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Ursula",
+  "normalized_name": "ursula",
+  "overall_resonance": "Ursula wird in der vorliegenden Evidenz überwiegend als klassischer, traditioneller und sprachgeschichtlich gut verankerter Vorname wahrgenommen. Die öffentliche Rezeption wirkt eher sachlich-respektvoll als modern-trendbetont; der Name ist heute seltener vergeben, hat aber eine klare historische und kulturelle Bekanntheit.",
+  "practical_notes": [
+    "Der Name wirkt im deutschen Kontext gut verständlich und traditionell.",
+    "Für Suchmaschinen- und Lexikon-Kontexte ist die Bedeutung leicht vermittelbar.",
+    "Die moderne Nutzung scheint eher zurückhaltend, was dem Namen einen seltenen, klassischen Charakter gibt."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt fast ausschließlich aus namenkundlichen bzw. lexikalischen Quellen; die öffentliche Alltagswahrnehmung ist damit nur eingeschränkt abbildbar.",
+    "Es gibt keine belastbare Anzeichen für eine starke negative Stigmatisierung des Namens in der vorliegenden Evidenz.",
+    "Einzelne informelle Kommentare in Quellen sollten nicht als repräsentative Gesamtmeinung verstanden werden."
+  ],
+  "short_summary": "Ursula gilt in Deutschland als klassischer, historisch geprägter Vorname mit sachlich-positiver bis neutraler Resonanz; heute eher selten, aber klar bekannt.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Ursula � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/U/Ur/Ursula/"
+    },
+    {
+      "confidence": 0.95,
+      "is_name_discussion": true,
+      "sentiment": "überwiegend positiv, mit neutralen Informationsanteilen",
+      "source_type": "web",
+      "title": "&#9655; Vorname Ursula: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Ursula.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "traditionell",
+    "historisch",
+    "namenskundlich",
+    "sachlich",
+    "eher zeitlos als trendy"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland ist Ursula als Name bekannt, aber im heutigen Namensgebrauch eher selten. Die Sichtbarkeit entsteht vor allem über Namenslexika, Herkunftsangaben und die historische Einordnung, weniger über aktuelle Modewellen."
+}

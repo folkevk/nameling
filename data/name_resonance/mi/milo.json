@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "slawische und teils lateinische Herkunftszuschreibungen",
+    "Bedeutungen wie „der Liebliche“ oder „der Ruhmreiche“",
+    "kurzer Jungenname",
+    "Beliebtheit in Deutschland",
+    "modern und aufstrebend",
+    "Namenstag-Traditionen",
+    "Spitznamen wie Mo oder Mio"
+  ],
+  "confidence": 0.87,
+  "display_text": "Milo wirkt in Deutschland überwiegend positiv: modern, kurz, freundlich und gut merkbar. Die vorliegenden Quellen zeigen eine klare Tendenz zu Beliebtheit und aufstrebender Wirkung, auch wenn die Evidenz vor allem aus Namenslexika stammt.",
+  "evidence_quality": "mittel bis gut; thematisch passend, aber stark auf wenige Namensseiten konzentriert",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Milo",
+  "normalized_name": "milo",
+  "overall_resonance": "Überwiegend positiv und modern, mit freundlicher, kurzer Klangwirkung. In den vorliegenden Namensquellen wird Milo meist als beliebter, aufstrebender Jungenname mit angenehmem, eher weichem Profil beschrieben.",
+  "practical_notes": [
+    "Für die Namenssuche wirkt Milo unkompliziert, klar und gut merkbar.",
+    "Der Name passt sprachlich gut in den deutschen Kontext und wird meist problemlos eingeordnet.",
+    "Wer eine sehr klassische oder seltene Namenswirkung sucht, sollte beachten, dass Milo eher modern und im Aufwind wirkt."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt fast ausschließlich aus Namenslexika und Statik-/Erklärseiten; das ist für öffentliche Resonanz hilfreich, aber nur begrenzt repräsentativ.",
+    "Wahrnehmungen wie „modern“ oder „lieblich“ sind typische Namensassoziationen und keine objektiven Eigenschaften.",
+    "Keine Hinweise auf soziale Stigmatisierung in den Quellen."
+  ],
+  "short_summary": "Milo wird in Deutschland meist positiv, modern und freundlich wahrgenommen. Die Quellen heben vor allem Kurzform, Beliebtheit und einen angenehmen Klang hervor.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.99,
+      "is_name_discussion": true,
+      "sentiment": "positive",
+      "source_type": "web",
+      "title": "Vorname Milo � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/M/Mi/Milo/"
+    },
+    {
+      "confidence": 0.94,
+      "is_name_discussion": true,
+      "sentiment": "positive",
+      "source_type": "web",
+      "title": "&#9655; Vorname Milo: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Milo.html"
+    }
+  ],
+  "style_effect": [
+    "kurz und eingängig",
+    "modern und zeitgemäß",
+    "freundlich und weich im Klang",
+    "international anschlussfähig",
+    "eher leicht als klassisch wahrgenommen"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland wirkt der Name öffentlich gut sichtbar und bekannt, aber nicht übermäßig häufig. Die Evidenz deutet auf eine solide Präsenz in Namenslexika und Beliebtheitslisten hin."
+}

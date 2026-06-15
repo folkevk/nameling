@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "„die Perle“",
+    "altgriechisch/lateinischer Ursprung",
+    "deutscher Sprachraum",
+    "mittelalterlich und um 1900 häufiger",
+    "heute eher selten",
+    "Kurzformen wie Greta, Grete, Gretchen, Marga, Margot"
+  ],
+  "confidence": 0.81,
+  "display_text": "Margarete wird überwiegend sachlich bis leicht positiv wahrgenommen: klassisch, traditionsreich und mit der Bedeutung „die Perle“ verbunden. Heute ist der Name eher selten, wirkt aber nicht negativ belastet. Die Evidenz ist allerdings begrenzt und stammt vor allem aus Namenslexika.",
+  "evidence_quality": "mittel bis schwach: inhaltlich passende, aber vor allem lexikalische Einzelquellen; öffentliche Resonanz nur indirekt erfasst",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Margarete",
+  "normalized_name": "margarete",
+  "overall_resonance": "Margarete wird in den vorliegenden Quellen überwiegend sachlich bis leicht positiv beschrieben: der Name gilt als traditionell, historisch verankert und mit der Bedeutung „die Perle“ verbunden. Die öffentliche Resonanz wirkt eher klassisch als modern; heute erscheint der Name seltener, ohne dass daraus eine negative Bewertung abgeleitet wird. Die Evidenz ist jedoch schmal und stammt im Wesentlichen aus Namenslexika, daher nur vorsichtig interpretierbar.",
+  "practical_notes": [
+    "Für Suchmaschinen-Nutzer ist Margarete vor allem als klassischer, traditioneller Mädchenname einzuordnen.",
+    "Der Name hat mehrere gebräuchliche Kurzformen, was die Alltagstauglichkeit erhöht.",
+    "Wer einen modernen, häufigen Namen sucht, könnte Margarete als eher selten wahrnehmen."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Datenlage ist dünn und stützt sich vor allem auf zwei portalartige Namensseiten.",
+    "Beliebtheits- und Verbreitungsangaben wirken nur indirekt belegt und teils uneinheitlich.",
+    "Es gibt keine belastbare öffentliche Kontroverse oder soziale Stigmatisierung in der Evidenz."
+  ],
+  "short_summary": "Margarete wirkt als klassischer, historisch geprägter und eher seltener Vorname mit überwiegend positiver, wertschätzender Konnotation.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.92,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Margarete � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/M/Ma/Margarete/"
+    },
+    {
+      "confidence": 0.94,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Margarete: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Margarete.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "traditionell",
+    "historisch",
+    "namenskundlich",
+    "sachlich",
+    "leicht wertschätzend"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Der Name ist im deutschsprachigen Raum bekannt, aber nach den Quellen heute eher selten und vor allem als traditionsreicher, klassischer Vorname präsent."
+}

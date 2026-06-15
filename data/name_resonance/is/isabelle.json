@@ -1,0 +1,63 @@
+{
+  "associations": [
+    "französische Form von Elisabeth",
+    "Bedeutungen wie \"Gott ist Fülle\" bzw. ähnliche religiös geprägte Deutungen",
+    "klassischer Mädchenname",
+    "Namenstag",
+    "Spitznamen wie Isa, Isi oder Bella",
+    "Beliebtheit in Deutschland",
+    "Varianten wie Isabella, Isabell, Isabel"
+  ],
+  "confidence": 0.93,
+  "display_text": "Isabelle wirkt in Deutschland überwiegend klassisch, elegant und international anschlussfähig. Die öffentliche Rezeption ist eher positiv bis neutral; genannt werden vor allem Herkunft, Bedeutung, Namenstag und kurze Formen wie Isa oder Bella.",
+  "evidence_quality": "Stark: zwei einschlägige Namensquellen, beide klar auf den Vornamen bezogen; überwiegend informativ, mit teils subjektivem Zusatzmaterial.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Isabelle",
+  "normalized_name": "isabelle",
+  "overall_resonance": "Überwiegend positiv und klassisch-international wahrgenommen, mit eher neutraler, lexikalischer Grundtonlage.",
+  "practical_notes": [
+    "Für Suchmaschinen- und Namenskontexte ist Isabelle gut anschlussfähig, da Herkunft, Bedeutung und Schreibweise klar erkennbar sind.",
+    "Der Name wirkt eher gepflegt und klassisch als modisch-experimentell.",
+    "Im deutschen Raum ist die Schreibweise verständlich, kann aber gelegentlich mit Isabell/Isabel/Isabella verwechselt werden."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die öffentliche Resonanz wirkt insgesamt positiv, basiert aber vor allem auf Namenslexika und einzelnen subjektiven Kommentaren.",
+    "Beliebtheitsaussagen sollten nicht als exakte Messung der Gesamtmeinung verstanden werden.",
+    "Keine Hinweise auf soziale Stigmatisierung in der vorliegenden Evidenz."
+  ],
+  "short_summary": "Isabelle wird im deutschsprachigen Raum meist als klassisch-eleganter, französisch geprägter Vorname mit positiver Grundwirkung wahrgenommen.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Isabelle � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/I/Is/Isabelle/"
+    },
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Isabelle: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Isabelle.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "elegant",
+    "französisch geprägt",
+    "zeitlos",
+    "international verständlich",
+    "leicht feminin",
+    "namenskundlich solide"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Mittlere bis gute Sichtbarkeit im deutschsprachigen Namenskontext; der Name ist bekannt, aber nicht allgegenwärtig."
+}

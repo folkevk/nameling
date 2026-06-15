@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "moderne deutsche Neubildung",
+    "mögliche Verbindung zu Mai und Lina",
+    "mögliche Koseform von Maria",
+    "schwedische Kurzform von Magdalena",
+    "Namenstag-Angaben in den Quellen",
+    "selten bis moderat verbreitet"
+  ],
+  "confidence": 0.76,
+  "display_text": "Mailin wirkt in den Quellen modern, freundlich und eher selten. Die Resonanz ist leicht positiv, aber die Herkunft und Bedeutung werden unterschiedlich gedeutet und sind nicht ganz sicher belegt.",
+  "evidence_quality": "mittel bis eher begrenzt; zwei namenkundliche Quellen mit überwiegend lexikalischer Darstellung, aber teils unsicherer Etymologie und nur schwacher Abbildung öffentlicher Resonanz.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Mailin",
+  "normalized_name": "mailin",
+  "overall_resonance": "Mailin wird in den vorliegenden Quellen überwiegend leicht positiv und sachlich wahrgenommen. Der Name wirkt modern, freundlich und eher selten bis moderat verbreitet. Die Herkunft und Bedeutung werden teils unterschiedlich erklärt, was die öffentliche Einordnung etwas unscharf macht.",
+  "practical_notes": [
+    "Für die Namenssuche wirkt Mailin modern, weich und eingängig.",
+    "Wer eine klare, eindeutig belegte Namensherkunft sucht, sollte die teils unsicheren Deutungen beachten.",
+    "Die Seltenheit kann als Pluspunkt für Individualität wahrgenommen werden."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Herkunft ist nicht eindeutig belegt; mehrere Deutungen konkurrieren.",
+    "Die öffentliche Resonanz lässt sich nur begrenzt aus Namenslexika und Einzelkommentaren ableiten.",
+    "Positive Eindrücke in den Quellen sind eher leicht und nicht als breite Mehrheitsmeinung zu verstehen."
+  ],
+  "short_summary": "Mailin wird meist leicht positiv, modern und eher selten wahrgenommen; die Herkunft ist jedoch nicht eindeutig belegt.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.95,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "Vorname Mailin � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/M/Ma/Mailin/"
+    },
+    {
+      "confidence": 0.83,
+      "is_name_discussion": true,
+      "sentiment": "eher positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Mailin: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Mailin.html"
+    }
+  ],
+  "style_effect": [
+    "modern",
+    "weich klingend",
+    "jugendlich-freundlich",
+    "namenskundlich interessant",
+    "eher selten als alltäglich"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland scheint Mailin bekannt, aber nicht sehr häufig zu sein. Die Quellen beschreiben den Namen eher als selten bis moderat verbreitet und damit als eher auffällig, ohne stark im Mainstream zu liegen."
+}

@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "friesische und niederdeutsche Kurzform von Gertrud",
+    "Bedeutung im Sinn von Kraft/Stärke und Speer",
+    "weiblicher Vorname",
+    "selten in Deutschland",
+    "historisch bzw. regional verankert",
+    "Namenstag in einigen Quellen genannt"
+  ],
+  "confidence": 0.84,
+  "display_text": "Gesche wirkt öffentlich eher neutral bis leicht positiv: ein seltener, traditioneller und regional geprägter Vorname mit klarer, kraftvoller Bedeutung. Die vorliegende Evidenz ist jedoch vor allem namenskundlich und liefert nur wenige direkte Hinweise auf eine breitere öffentliche Bewertung.",
+  "evidence_quality": "mittel bis schwach: zwei namenskundliche Webquellen mit überwiegend informativem Charakter, kaum direkte öffentliche Bewertungsdaten.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Gesche",
+  "normalized_name": "gesche",
+  "overall_resonance": "Überwiegend neutral bis leicht positiv, vor allem aufgrund der klaren, traditionsreichen Herkunfts- und Bedeutungsangaben. Eine echte öffentliche Meinungsbildung zum Namen selbst ist in den vorliegenden Quellen jedoch nur schwach erkennbar.",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt Gesche eigenständig, traditionell und eher ungewöhnlich.",
+    "Die Wahrnehmung dürfte stark von regionalem oder kulturellem Kontext abhängen.",
+    "Wer einen vertrauten, seltenen und klar weiblichen Namen sucht, findet hier eine bodenständige Option."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz zur öffentlichen Resonanz ist schwach; die Quellen beschreiben vor allem Herkunft und Bedeutung.",
+    "Aus der Seltenheit des Namens sollte keine negative Wertung abgeleitet werden.",
+    "Es liegen keine belastbaren Hinweise auf gesellschaftliche Stigmatisierung oder breite Vorurteile vor."
+  ],
+  "short_summary": "Gesche wird in den Quellen vor allem als seltener, traditionsreicher und regional geprägter Frauenname mit starker Bedeutung beschrieben. Die öffentliche Resonanz wirkt eher neutral bis leicht positiv, ist aber nur schwach direkt belegt.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Gesche � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/G/Ge/Gesche/"
+    },
+    {
+      "confidence": 0.94,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Gesche: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Gesche.html"
+    }
+  ],
+  "style_effect": [
+    "traditionell",
+    "regional",
+    "selten",
+    "namenskundlich",
+    "sachlich",
+    "leicht markant"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Eher gering: Gesche ist ein seltener, regional geprägter Vorname und taucht in den Quellen vor allem als Namenslexikon-Eintrag auf, nicht als breit diskutierter Alltagsname."
+}

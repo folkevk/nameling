@@ -1,0 +1,69 @@
+{
+  "associations": [
+    "Bedeutung: „Sieg des Volkes“",
+    "altgriechische Herkunft, oft über Nikolaus erklärt",
+    "in Deutschland teils als Mädchenname, teils unisex eingeordnet",
+    "Beliebtheit eher niedrig bis moderat",
+    "Namenstag wird genannt, besonders 6. Dezember",
+    "vereinzelt als schön, einzigartig oder markant beschrieben"
+  ],
+  "confidence": 0.79,
+  "display_text": "Nicola wirkt in Deutschland überwiegend neutral bis leicht positiv. Der Name wird vor allem als altgriechisch geprägter Vorname mit der Bedeutung „Sieg des Volkes“ beschrieben. In den Quellen erscheint er eher selten und teils unisex eingeordnet; einzelne Seiten bewerten ihn auch als schön oder markant. Die Evidenz basiert jedoch hauptsächlich auf Namenslexika, nicht auf breiter öffentlicher Debatte.",
+  "evidence_quality": "schwach bis moderat",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Nicola",
+  "normalized_name": "nicola",
+  "overall_resonance": "Überwiegend neutral bis leicht positiv. Der Name wird vor allem sachlich-namenkundlich beschrieben, mit einigen eher positiven Bewertungen in einzelnen Quellen.",
+  "practical_notes": [
+    "Für Suchmaschinen-Texte eignet sich eine sachliche Beschreibung mit Herkunft und Bedeutungsangabe.",
+    "Wenn eine klare Geschlechtszuordnung wichtig ist, sollte der regionale Kontext mitgedacht werden.",
+    "Der Name wirkt eher ungewöhnlich als massenhaft verbreitet, ohne dadurch negativ konnotiert zu sein."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt überwiegend aus Namenslexika und nicht aus einer breiten öffentlichen Diskussion.",
+    "Positive Einschätzungen können aus Einzelkommentaren stammen und sollten nicht verallgemeinert werden.",
+    "Die Einordnung als unisex kann je nach Quelle und Region unterschiedlich ausfallen."
+  ],
+  "short_summary": "Nicola wird in Deutschland überwiegend sachlich und neutral, teils leicht positiv wahrgenommen. Die Quellen betonen Herkunft, Bedeutung und Namenstag; öffentliche Resonanz im engeren Sinn ist nur begrenzt belegt.",
+  "source_count": 3,
+  "sources": [
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Nicola � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/N/Ni/Nicola/"
+    },
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Nicola � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/N/Ni/Nicola/"
+    },
+    {
+      "confidence": 0.89,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Nicola: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Nicola.html"
+    }
+  ],
+  "style_effect": [
+    "informativ",
+    "namenskundlich",
+    "klassisch-historisch",
+    "leicht international",
+    "eher selten wirkend",
+    "teilweise unisex wahrgenommen"
+  ],
+  "usable_evidence_count": 3,
+  "visibility": "Der Name ist in Namenslexika und Vornamensseiten sichtbar, wirkt aber in der öffentlichen Debatte eher wenig breit diskutiert. Die Evidenzlage ist schwach bis moderat, da sie vor allem auf beschreibenden Namensseiten basiert."
+}

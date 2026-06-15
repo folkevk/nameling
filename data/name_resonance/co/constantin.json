@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "lateinischer Ursprung",
+    "Bedeutungen wie 'der Standhafte' oder 'der Beständige'",
+    "historisch/kaiserliche Anmutung",
+    "Namensvariante zu Konstantin",
+    "Namenstag-Bezug",
+    "kurze Koseformen wie Consti, Conny, Tino"
+  ],
+  "confidence": 0.9,
+  "display_text": "Constantin wird im deutschsprachigen Raum überwiegend sachlich bis positiv wahrgenommen: ein klassischer, zeitloser Vorname mit lateinischem Ursprung und Bedeutungen wie 'der Standhafte' oder 'der Beständige'. Er wirkt eher traditionell und etwas formell, zugleich sind Kurzformen wie Consti, Conny oder Tino geläufig. Die vorliegende Evidenz stammt hauptsächlich aus Namenslexika, daher ist die öffentliche Rezeption nur begrenzt direkt ablesbar.",
+  "evidence_quality": "gut für Herkunft, Bedeutung und typische Namensassoziationen; begrenzt für echte öffentliche Meinungsvielfalt",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Constantin",
+  "normalized_name": "constantin",
+  "overall_resonance": "überwiegend positiv bis neutral-sachlich",
+  "practical_notes": [
+    "Der Name wirkt in Deutschland etabliert und traditionell.",
+    "Die Schreibweise mit 'C' kann etwas eleganter oder klassischer wahrgenommen werden als die Variante mit 'K'.",
+    "Die Kurzformen bieten im Alltag flexible, lockerere Ansprechoptionen."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die verfügbare Evidenz stammt vor allem aus Namenslexika und nicht aus breiter öffentlicher Diskussion.",
+    "Positive Wirkungen wie 'zeitlos' oder 'beliebt' sind eher beschreibend als gesellschaftliche Bewertung.",
+    "Keine belastbaren Hinweise auf Stigmatisierung in der vorliegenden Evidenz."
+  ],
+  "short_summary": "Constantin wird in deutschen Namensquellen meist als klassischer, zeitloser und eher positiv konnotierter Vorname beschrieben. Häufig genannt werden lateinischer Ursprung, die Bedeutungen 'standhaft' und 'beständig' sowie historische Bezüge. Die Evidenz ist vor allem lexikalisch und nicht aus breiter öffentlicher Diskussion.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Constantin � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/C/Co/Constantin/"
+    },
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Constantin: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Constantin.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "zeitlos",
+    "sachlich",
+    "eher formell",
+    "namenskundlich aufgeladen"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "im deutschsprachigen Raum gut bekannt und als klassischer Vorname sichtbar"
+}

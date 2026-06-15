@@ -1,0 +1,62 @@
+{
+  "associations": [
+    "althochdeutsche Herkunft",
+    "Bedeutung im Sinn von Ruhm/Strahlen",
+    "weiblicher Vorname",
+    "Namenstage",
+    "Spitznamen wie Robi, Robby, Ro oder Berta",
+    "in Italien vertrauter als in Deutschland"
+  ],
+  "confidence": 0.83,
+  "display_text": "Roberta wirkt in den Quellen überwiegend neutral bis positiv: klassisch, international anschlussfähig und mit einer klaren Bedeutung verbunden. In Deutschland eher selten, dadurch etwas eigenständig, aber nicht exzentrisch. Die Evidenz ist allerdings vor allem lexikalisch und zeigt nur begrenzt echte öffentliche Meinungen.",
+  "evidence_quality": "mittel bis begrenzt: zwei namenskundliche Webquellen, kaum freie öffentliche Meinungsäußerungen, dafür recht klare Angaben zu Herkunft, Bedeutung und Verbreitung.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Roberta",
+  "normalized_name": "roberta",
+  "overall_resonance": "Roberta wird in den vorliegenden Quellen überwiegend neutral bis freundlich-respektvoll beschrieben. Die öffentliche Rezeption wirkt eher sachlich-namenskundlich als meinungsstark; wo Bewertungen anklingen, sind sie eher positiv geprägt.",
+  "practical_notes": [
+    "Für die Namenssuche wirkt Roberta eher klassisch als modisch.",
+    "Der Name hat eine klare, international verständliche Form.",
+    "Durch die Seltenheit in Deutschland kann er auffallen, ohne ausgefallen zu wirken.",
+    "Die Kurzformen bieten im Alltag mehrere lockere Varianten."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt fast ausschließlich aus Namenslexika und nicht aus breiter öffentlicher Diskussion.",
+    "Die Einschätzung zur Resonanz ist daher nur eingeschränkt belastbar.",
+    "Spezifische soziale Vorurteile oder Stigmatisierungen sind in der vorliegenden Evidenz nicht erkennbar."
+  ],
+  "short_summary": "Roberta wird überwiegend neutral bis positiv und eher klassisch-traditionell wahrgenommen. In Deutschland ist der Name eher selten, international jedoch vertrauter.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.95,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Roberta � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/R/Ro/Roberta/"
+    },
+    {
+      "confidence": 0.95,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Roberta: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Roberta.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "eher traditionell",
+    "international anschlussfähig",
+    "weiblich und klar erkennbar",
+    "etwas selten, dadurch eigenständig",
+    "lexikalisch aufgeladen durch die Bedeutung"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland eher selten bis mäßig gebräuchlich und dadurch eher auffällig als alltäglich. International wirkt der Name geläufiger, besonders im englischsprachigen und italienischen Raum."
+}

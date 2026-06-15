@@ -1,0 +1,68 @@
+{
+  "associations": [
+    "französische Form von Emil",
+    "lateinischer Ursprung",
+    "Bedeutung: der Eifrige / der Nacheifernde / der Nachahmende",
+    "männlicher Vorname",
+    "Namenstag am 10. März und 22. Mai",
+    "Spitzname: Emi"
+  ],
+  "confidence": 0.86,
+  "display_text": "Emile wirkt in Deutschland überwiegend neutral bis leicht positiv: ein französisch geprägter, klassisch-eleganter und eher seltener Jungenname. Die Quellen sind vor allem beschreibend; klare öffentliche Kontroversen oder starke Wertungen sind nicht erkennbar.",
+  "evidence_quality": "mittel bis schwach: mehrere beschreibende Quellen, aber wenig direktes Meinungsbild aus der Öffentlichkeit",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Emile",
+  "normalized_name": "emile",
+  "overall_resonance": "Überwiegend neutral bis leicht positiv wahrgenommen; vor allem als sachlicher, französisch geprägter Vorname mit eleganter Note.",
+  "practical_notes": [
+    "Für Suchende wirkt Emile eher stilvoll und international, ohne auffällige Kontroversen.",
+    "Die Schreibweise kann in Deutschland als etwas ungewohnt empfunden werden, ist aber gut nachvollziehbar.",
+    "Die öffentliche Wahrnehmung scheint eher beschreibend als emotional geprägt zu sein."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt überwiegend aus Namenslexika und Datenbanken; echte öffentliche Meinungen sind nur indirekt erkennbar.",
+    "Es gibt keine robuste Grundlage für eine starke positive oder negative Gesamtwertung.",
+    "Einzelne Kommentare sind nicht repräsentativ für die allgemeine Resonanz."
+  ],
+  "short_summary": "Emile wird in Deutschland überwiegend neutral bis leicht positiv als französisch geprägter, eher seltener Jungenname wahrgenommen. Die vorhandene Evidenz ist vor allem lexikalisch und beschreibt Herkunft, Bedeutung und Beliebtheit; starke öffentliche Wertungen sind kaum zu sehen.",
+  "source_count": 3,
+  "sources": [
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Emile � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/E/Em/Emile/"
+    },
+    {
+      "confidence": 0.92,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Emile � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/E/Em/Emile/"
+    },
+    {
+      "confidence": 0.84,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Emile: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Emile.html"
+    }
+  ],
+  "style_effect": [
+    "französisch",
+    "klassisch",
+    "elegant",
+    "informativ",
+    "selten, aber nicht unbekannt"
+  ],
+  "usable_evidence_count": 3,
+  "visibility": "In Deutschland eher selten bis mäßig bekannt, aber in Namensdatenbanken präsent und daher sichtbar, ohne starke öffentliche Debatten."
+}

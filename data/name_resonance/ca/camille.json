@@ -1,0 +1,68 @@
+{
+  "associations": [
+    "französische Form von Camilla/Camillus",
+    "Bedeutungen wie „ehrbar“ oder „frei geboren“",
+    "Unisex-Name, wobei weibliche Verwendung häufiger genannt wird",
+    "in Deutschland gelistet, aber eher selten",
+    "spitznamen- und namenskundlich anschlussfähig"
+  ],
+  "confidence": 0.84,
+  "display_text": "Camille wirkt im deutschen Kontext überwiegend neutral bis freundlich-sachlich, mit klassisch-französischer und eleganter Anmutung. Der Name wird als Unisex-Name beschrieben, ist in Deutschland bekannt, aber eher selten. Die Evidenz ist begrenzt und stammt vor allem aus Namensdatenbanken.",
+  "evidence_quality": "mittel bis schwach: mehrere Quellen, aber überwiegend Namensdatenbanken statt breiter öffentlicher Resonanz",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Camille",
+  "normalized_name": "camille",
+  "overall_resonance": "Überwiegend neutral bis freundlich-sachlich wahrgenommen, mit eher klassisch-französischer Anmutung. In den verfügbaren Quellen wird Camille vor allem als Namensform mit klarer Herkunft, Bedeutung und Unisex-Charakter beschrieben.",
+  "practical_notes": [
+    "Wirkt im deutschen Kontext vertraut, aber nicht alltäglich.",
+    "Passt gut zu einem internationalen oder französisch geprägten Klangbild.",
+    "Die Schreibweise kann in Deutschland gelegentlich als eher französisch gelesen werden."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist begrenzt und stammt im Wesentlichen aus wenigen Namensdatenbanken.",
+    "Es gibt keine belastbare öffentliche Debatte, sondern vor allem lexikalische Beschreibungen.",
+    "Einzelne Nutzerkommentare sind nur eingeschränkt verallgemeinerbar."
+  ],
+  "short_summary": "Camille wird in Deutschland vor allem sachlich, elegant und eher selten wahrgenommen; die Evidenz ist jedoch begrenzt.",
+  "source_count": 3,
+  "sources": [
+    {
+      "confidence": 0.89,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Camille � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/C/Ca/Camille/"
+    },
+    {
+      "confidence": 0.95,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Camille � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/C/Ca/Camille/"
+    },
+    {
+      "confidence": 0.91,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Camille: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Camille.html"
+    }
+  ],
+  "style_effect": [
+    "französisch",
+    "elegant",
+    "klassisch",
+    "zeitlos",
+    "lexikalisch-sachlich",
+    "unisex"
+  ],
+  "usable_evidence_count": 3,
+  "visibility": "In Deutschland bekannt, aber eher selten; die öffentliche Sichtbarkeit wirkt dadurch eher ruhig als stark verbreitet."
+}

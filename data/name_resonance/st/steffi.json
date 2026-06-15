@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "altgriechischer Ursprung über stéphanos: Kranz/Krone",
+    "Bedeutung: die Gekrönte / die Bekränzte",
+    "weiblicher Vorname",
+    "deutschsprachiger Raum",
+    "Kurzform von Stefanie/Stephanie",
+    "Namenstag wird teils angegeben"
+  ],
+  "confidence": 0.9,
+  "display_text": "Steffi gilt in der öffentlichen Namenswahrnehmung überwiegend als neutrale bis freundlich-informative Kurzform von Stefanie/Stephanie. Der Name wird vor allem mit der Bedeutung „die Gekrönte“ bzw. „die Bekränzte“ verbunden und wirkt im deutschsprachigen Raum vertraut, eher alltagssprachlich und als Rufname. Die vorhandene Evidenz ist jedoch begrenzt und stammt vor allem aus zwei Namensportalen.",
+  "evidence_quality": "mittel: zwei einschlägige Namensquellen, überwiegend sachlich, aber begrenzte Breite",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Steffi",
+  "normalized_name": "steffi",
+  "overall_resonance": "überwiegend neutral bis freundlich-informativ",
+  "practical_notes": [
+    "Steffi wirkt kurz, vertraut und unkompliziert.",
+    "Die Wahrnehmung ist eher informativ als markant oder stark trendig.",
+    "Als eigenständiger Rufname geläufig, im formellen Kontext oft als Kurzform gelesen."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenzbasis ist klein und stark auf zwei Namensportale begrenzt.",
+    "Einzelne Wertungen können von Portalton und Nutzerkommentaren beeinflusst sein.",
+    "Keine belastbare Aussage zu sozialer Stigmatisierung erkennbar."
+  ],
+  "short_summary": "Steffi wird öffentlich meist als freundliche, neutrale Kurzform von Stefanie/Stephanie wahrgenommen, mit klassischer Bedeutungszuordnung zu „die Gekrönte/Bekränzte“.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Steffi � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/S/St/Steffi/"
+    },
+    {
+      "confidence": 0.95,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Steffi: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Steffi.html"
+    }
+  ],
+  "style_effect": [
+    "Kurzform von Stefanie/Stephanie",
+    "lexikalisch und alltagssprachlich",
+    "jugendlich-vertraut im Klang",
+    "eher Rufname als formeller Vollname",
+    "seltenere Schreibvarianten werden genannt"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "eher niedrig bis mittel; vor allem als bekannte Kurzform im deutschsprachigen Raum"
+}

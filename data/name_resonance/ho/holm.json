@@ -1,0 +1,58 @@
+{
+  "associations": [
+    "altnordische Herkunft",
+    "Bedeutung: 'die Insel'",
+    "Skandinavien",
+    "selten",
+    "männlicher Vorname",
+    "eindeutig erkennbar"
+  ],
+  "confidence": 0.72,
+  "display_text": "Holm wirkt in der öffentlichen Wahrnehmung eher sachlich bis leicht positiv. Der Name wird als selten, altnordisch und klar erkennbar beschrieben. Die Belege stammen aber vor allem aus Namenslexika, daher ist die breite öffentliche Resonanz nur schwach abgesichert.",
+  "evidence_quality": "Begrenzt: zwei namenskundliche Webquellen mit überwiegend sachlicher Darstellung, aber wenig echte öffentliche Resonanz.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Holm",
+  "normalized_name": "holm",
+  "overall_resonance": "Die öffentliche Resonanz auf den Vornamen Holm wirkt insgesamt sachlich bis leicht positiv, vor allem in Namenslexika und Übersichtstexten. Der Name wird als selten, klar erkennbar und altnordisch eingeordnet; eine breitere öffentliche Bewertung ist jedoch nur schwach belegt.",
+  "practical_notes": [
+    "Für eine Namenssuche eignet sich Holm als kurzer, markanter und traditionsnaher Name.",
+    "Die Seltenheit kann als Vorteil für Einzigartigkeit wirken, zugleich ist der Name im Alltag weniger vertraut."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist schwach und stützt sich überwiegend auf Namenslexika statt auf breite öffentliche Meinungen.",
+    "Einzelne Bewertungen oder Kommentare sind nicht repräsentativ für die Gesamtwahrnehmung."
+  ],
+  "short_summary": "Holm wird meist neutral bis leicht positiv und als seltener, altnordischer Jungenname wahrgenommen; die öffentliche Evidenz ist jedoch begrenzt.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Holm � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/H/Ho/Holm/"
+    },
+    {
+      "confidence": 0.84,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Holm: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Holm.html"
+    }
+  ],
+  "style_effect": [
+    "informativ",
+    "lexikalisch",
+    "namenskundlich",
+    "kurz und prägnant",
+    "eher selten statt modern-populär"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Eher geringe Sichtbarkeit im deutschsprachigen Raum; Holm erscheint vor allem als seltene, namenskundlich behandelte Form und weniger als stark verbreiteter Alltagsname."
+}

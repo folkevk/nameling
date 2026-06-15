@@ -1,0 +1,63 @@
+{
+  "associations": [
+    "Bedeutung: die Edle / die Vornehme / die Feine / die Zarte",
+    "hebräische Herkunft",
+    "weiblicher Vorname",
+    "selten bis mäßig beliebt in Deutschland",
+    "Namenstag wird teils am 28. Juli genannt",
+    "Kurzformen wie Dina, Dini oder Adi werden erwähnt"
+  ],
+  "confidence": 0.86,
+  "display_text": "Adina: überwiegend neutral bis leicht positiv wahrgenommen. Der Name wird meist mit „edel“, „fein“ und „vornehm“ verbunden, hat hebräische Wurzeln und wirkt eher selten, modern und international anschlussfähig. Die Evidenz ist jedoch schmal und stammt vor allem aus Namenslexika.",
+  "evidence_quality": "mittel: klare, aber schmale Evidenzbasis mit zwei überwiegend informativen Quellen; keine breite öffentliche Debatte erkennbar.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Adina",
+  "normalized_name": "adina",
+  "overall_resonance": "Der Vorname Adina wirkt in der vorliegenden deutschsprachigen Evidenz überwiegend neutral bis leicht positiv. Häufig genannt werden eine elegante, feine und vornehme Namensbedeutung sowie ein hebräischer Ursprung. Die Wahrnehmung erscheint eher sachlich-namenskundlich als emotional aufgeladen.",
+  "practical_notes": [
+    "Für eine Namenssuche ist Adina ein klar verständlicher, international anschlussfähiger Name mit positiver Bedeutungsassoziation.",
+    "Wegen der eher geringen Verbreitung kann der Name als individuell und nicht austauschbar wahrgenommen werden.",
+    "Die Gesamtwirkung hängt stark vom Kontext ab, ist aber im Material eher freundlich und unproblematisch."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt nur aus wenigen Namenslexika bzw. Datenbankseiten; eine breite öffentliche Diskussion ist nicht sichtbar.",
+    "Beliebtheitsangaben sind datenbasiert und keine direkte Aussage über gesellschaftliche Wahrnehmung.",
+    "Einzelne Quellen mischen sachliche Namensinfos mit personenbezogenen Kommentaren; diese wurden vorsichtig gewichtet."
+  ],
+  "short_summary": "Adina wird in der vorliegenden Evidenz meist als eleganter, hebräisch geprägter und eher seltener Mädchenname mit leicht positiver Resonanz beschrieben.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.91,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "Vorname Adina � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/A/Ad/Adina/"
+    },
+    {
+      "confidence": 0.84,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Adina: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Adina.html"
+    }
+  ],
+  "style_effect": [
+    "edel",
+    "fein",
+    "zart",
+    "vornehm",
+    "modern",
+    "international verwendbar",
+    "biblisch bzw. hebräisch geprägt",
+    "eher selten als sehr verbreitet"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland wirkt Adina eher selten bis mäßig bekannt und dadurch etwas auffälliger, aber nicht ungebräuchlich. Die öffentliche Sichtbarkeit ist vor allem über Namenslexika und Bedeutungsseiten dokumentiert."
+}

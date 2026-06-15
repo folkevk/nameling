@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "altpersische Herkunft",
+    "Variante von Kaspar",
+    "Bedeutung im Sinn von Schatzverwalter/Beschützer des Schatzes",
+    "Namenstag am 6. Januar und 26. September",
+    "Bezug zu den Heiligen Drei Königen",
+    "mögliche Kurzformen und Spitznamen",
+    "vereinzelt popkulturelle Bezüge"
+  ],
+  "confidence": 0.9,
+  "display_text": "Casper wirkt in Deutschland eher positiv wahrgenommen: klassisch, freundlich und zugleich etwas modern-international. Die verfügbaren Quellen betonen vor allem Herkunft, Bedeutung und Namenstag; klare negative öffentliche Zuschreibungen zeigen sich nicht. Allerdings basiert die Evidenz überwiegend auf Namensdatenbanken, daher ist die öffentliche Resonanz nur indirekt ablesbar.",
+  "evidence_quality": "mittel bis gut, aber vor allem datenbankbasiert und damit nur indirekt als öffentliche Resonanz lesbar",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Casper",
+  "normalized_name": "casper",
+  "overall_resonance": "Eher positiv bis freundlich-klassisch mit moderner, internationaler Wirkung. In den verfügbaren Quellen wird Casper vor allem namenskundlich und wertschätzend beschrieben.",
+  "practical_notes": [
+    "Wirkt vertraut, aber nicht alltäglich.",
+    "Die Schreibweise Casper kann als etwas internationaler oder moderner gelesen werden als Kaspar.",
+    "Für eine Suchmaschine ist die Botschaft eher: bekannt, positiv konnotiert, traditionsnah und zugleich zeitgemäß."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Datenlage ist eher indirekt: öffentliche Resonanz wird vor allem über Namenslexika sichtbar, nicht über freie Alltagsdiskussionen.",
+    "Die Wahrnehmung kann je nach Region und persönlichem Stilempfinden schwanken, ohne dass sich daraus eine klare gesellschaftliche Wertung ableiten lässt."
+  ],
+  "short_summary": "Casper wird in den Quellen überwiegend positiv, klassisch und freundlich-modern dargestellt; die Evidenz ist jedoch vor allem namenskundlich und nicht breit öffentlich diskutiert.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "positive",
+      "source_type": "web",
+      "title": "Vorname Casper � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/C/Ca/Casper/"
+    },
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Casper: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Casper.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "sanft-modern",
+    "international verständlich",
+    "namenskundlich aufgeladen",
+    "leicht markant durch die Schreibweise mit C"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland offenbar bekannt und teils beliebt, aber die Evidenz stammt überwiegend aus Namensdatenbanken und nicht aus einer breiten öffentlichen Debatte."
+}

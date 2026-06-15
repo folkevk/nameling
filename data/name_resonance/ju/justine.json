@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "Bedeutung: die Gerechte / die Ehrliche / die Rechtschaffene",
+    "lateinischer Ursprung",
+    "weibliche Form von Justin/Justus",
+    "Bezug zu Gerechtigkeit bzw. Justitia",
+    "Namenstag wird genannt",
+    "selten bis eher ungebräuchlich im Alltag"
+  ],
+  "confidence": 0.79,
+  "display_text": "Justine wirkt in Deutschland eher neutral bis leicht positiv: klassisch, selten und mit der freundlichen Bedeutungsassoziation „die Gerechte“. Die vorliegende Evidenz ist vor allem informativ (Namenslexika) und zeigt nur schwache echte öffentliche Resonanz; Hinweise auf Aussprache- oder Schreibunsicherheiten sprechen eher für praktische als für negative soziale Effekte.",
+  "evidence_quality": "mittel bis schwach für echte Resonanz, gut für Namensbedeutung und Einordnung; die Quellen sind vor allem Namenslexika und nur begrenzt öffentliche Meinungsdaten.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Justine",
+  "normalized_name": "justine",
+  "overall_resonance": "Eher neutral bis leicht positiv. Der Name Justine wird in der verfügbaren Evidenz vor allem als klassischer, bedeutungstragender Vorname mit positiver Grundassoziation beschrieben, jedoch ohne starke öffentliche Debatten oder breite Resonanz.",
+  "practical_notes": [
+    "Kann als klar, klassisch und seriös wahrgenommen werden.",
+    "Die internationale Form ist ein Vorteil, kann aber in Deutschland gelegentlich zu Unsicherheiten bei Aussprache oder Schreibweise führen.",
+    "Die positive Bedeutungsassoziation ist ein zentrales Merkmal der öffentlichen Beschreibung."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist überwiegend lexikalisch und informativ, nicht Ausdruck breiter öffentlicher Meinungsresonanz.",
+    "Hinweise zu Aussprache oder Schreibweise deuten eher auf praktische Hürden als auf eine negative gesellschaftliche Bewertung.",
+    "Keine belastbaren Anzeichen für Stigmatisierung oder starke Ablehnung in den vorliegenden Quellen."
+  ],
+  "short_summary": "Justine wird in Deutschland meist neutral bis leicht positiv wahrgenommen: klassisch, selten und mit der positiven Bedeutung „die Gerechte“. Die Evidenz ist jedoch vor allem beschreibend und liefert nur schwache Hinweise auf echte öffentliche Resonanz.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Justine � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/J/Ju/Justine/"
+    },
+    {
+      "confidence": 0.84,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Justine: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Justine.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "elegant",
+    "international anschlussfähig",
+    "formal",
+    "traditionsnah",
+    "leicht französisch/lateinisch geprägt"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Im deutschen Kontext eher bekannt, aber nicht sehr häufig. Die Sichtbarkeit wirkt eher lexikalisch und namelexikon-basiert als durch echte öffentliche Diskussionen geprägt."
+}

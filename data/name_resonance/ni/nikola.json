@@ -1,0 +1,69 @@
+{
+  "associations": [
+    "altgriechischer Ursprung",
+    "Bedeutung im Sinn von „Sieg des Volkes“",
+    "Bezug zu Nikolaos/Nikolaus",
+    "Namenstag am 6. Dezember und 10. September",
+    "Unisex- bzw. doppelte Verwendung in verschiedenen Sprachräumen",
+    "slawische und eingedeutschte Schreibweisen"
+  ],
+  "confidence": 0.74,
+  "display_text": "Nikola wirkt insgesamt sachlich-neutral bis leicht positiv: ein klassischer, internationaler Vorname mit altgriechischem Ursprung und klarer namenskundlicher Einordnung. Die vorliegende Evidenz ist jedoch vor allem lexikalisch und kommentarbasiert; für eine breite öffentliche Resonanz ist sie nur begrenzt aussagekräftig. Je nach Region kann Nikola als weiblich oder männlich gelesen werden, was gelegentlich zu Nachfragen führen kann.",
+  "evidence_quality": "Begrenzt bis mittel: drei überwiegend namenskundliche Webquellen, davon teils kommentarbasiert. Gute inhaltliche Übereinstimmung, aber schwache Evidenz für echte öffentliche Resonanz.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Nikola",
+  "normalized_name": "nikola",
+  "overall_resonance": "Überwiegend sachlich-neutral mit leicht positiver Färbung. Nikola wird vor allem als internationaler, historisch geprägter Vorname wahrgenommen; die Quellen heben Bedeutung, Herkunft und Namenstag hervor. Gleichzeitig wirkt die öffentliche Resonanz eher quellengebunden als breit beobachtbar.",
+  "practical_notes": [
+    "Für die Außendarstellung wirkt Nikola etabliert, traditionsnah und international anschlussfähig.",
+    "Je nach Region kann der Name als weiblich oder männlich gelesen werden, was zu Nachfragen führen kann.",
+    "Die Wahrnehmung ist eher nüchtern als modisch; der Name hat einen klaren, klassischen Charakter."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt überwiegend aus Namenslexika und einzelnen Kommentaren; das ist keine breite öffentliche Meinungsbasis.",
+    "Hinweise auf Missverständnisse bei Geschlechtszuordnung oder Aussprache sind beschreibend, keine objektive Wertung.",
+    "Keine belastbaren Hinweise auf gesellschaftliche Stigmatisierung in der vorliegenden Evidenz."
+  ],
+  "short_summary": "Nikola wird in den Quellen überwiegend sachlich und leicht positiv beschrieben: ein klassischer, internationaler Name mit griechischem Ursprung, der teils als Unisex-Name wahrgenommen wird. Die öffentliche Resonanz außerhalb von Namensseiten ist jedoch nur schwach belegt.",
+  "source_count": 3,
+  "sources": [
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Nikola � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/N/Ni/Nikola/"
+    },
+    {
+      "confidence": 0.92,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Nikola � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/N/Ni/Nikola/"
+    },
+    {
+      "confidence": 0.9,
+      "is_name_discussion": true,
+      "sentiment": "positive",
+      "source_type": "web",
+      "title": "&#9655; Vorname Nikola: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Nikola.html"
+    }
+  ],
+  "style_effect": [
+    "informativ",
+    "namenskundlich",
+    "klassisch",
+    "international",
+    "unisex/geschlechtsübergreifend",
+    "teils missverständlich in der Zuordnung"
+  ],
+  "usable_evidence_count": 3,
+  "visibility": "Mittel bis eher gering: In den vorliegenden Quellen wird der Name klar beschrieben und teils positiv eingeordnet, aber die Evidenz für eine breite öffentliche Wahrnehmung außerhalb von Namenslexika und Kommentaren ist begrenzt."
+}

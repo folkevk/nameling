@@ -1,0 +1,58 @@
+{
+  "associations": [
+    "slawisch/russische Herkunft",
+    "Bedeutung: Hoffnung",
+    "Namensvariante Nadia",
+    "Namenstag",
+    "teils auch mit arabischem Bezug und der Bedeutung Morgentau verknüpft"
+  ],
+  "confidence": 0.83,
+  "display_text": "Nadja wirkt in Deutschland überwiegend positiv und neutral: ein vertrauter, klassischer Mädchenname mit slawischer Herkunft, oft mit der Bedeutung „Hoffnung“ verbunden. Die öffentliche Wahrnehmung ist eher zeitlos als trendig; belastbare Hinweise auf Stigmatisierung gibt es in der vorliegenden Evidenz nicht.",
+  "evidence_quality": "mittel bis gut; inhaltlich klare Namensquellen, aber keine breite Community- oder Umfragedatenbasis.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Nadja",
+  "normalized_name": "nadja",
+  "overall_resonance": "Überwiegend positiv bis neutral; Nadja wird öffentlich vor allem als vertrauter, klassisch wirkender weiblicher Vorname wahrgenommen.",
+  "practical_notes": [
+    "Für die öffentliche Wahrnehmung ist Nadja eher ein etablierter, gut verständlicher Vorname.",
+    "Die Schreibvariante Nadia kann je nach Kontext mitschwingen.",
+    "Der Name wirkt eher zeitlos als modisch."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die vorliegende Evidenz stammt vor allem aus Namenslexika und Vornamenseiten, nicht aus breiter öffentlicher Debatte.",
+    "Keine belastbaren Hinweise auf soziale Stigmatisierung in den Daten."
+  ],
+  "short_summary": "Nadja wird in Deutschland überwiegend positiv und neutral wahrgenommen: ein vertrauter, klassischer Mädchenname mit slawischer Herkunft und der häufig genannten Bedeutung Hoffnung.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Nadja � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/N/Na/Nadja/"
+    },
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Nadja: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Nadja.html"
+    }
+  ],
+  "style_effect": [
+    "weiblich",
+    "klassisch",
+    "vertraut",
+    "international anschlussfähig",
+    "etymologisch aufgeladen"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland ist der Name bekannt und präsent, wirkt aber eher nicht aktuell trenddominant."
+}

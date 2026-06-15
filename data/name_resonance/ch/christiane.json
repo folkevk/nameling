@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "weibliche Form von Christian",
+    "christlich",
+    "Anhängerin Christi",
+    "klassischer Vorname",
+    "historisch etabliert",
+    "Namenstag",
+    "seltenere heutige Vergabe"
+  ],
+  "confidence": 0.88,
+  "display_text": "Christiane wirkt in der öffentlichen Wahrnehmung klassisch, christlich geprägt und eher zeitlos. Der Name ist bekannt, heute aber seltener, und die Resonanz ist überwiegend neutral bis positiv.",
+  "evidence_quality": "mittel bis gut; klar namebezogene Quellen, aber teils schwache bzw. meinungsnahe Evidenz",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Christiane",
+  "normalized_name": "christiane",
+  "overall_resonance": "Überwiegend klassisch, klar christlich geprägt und eher zeitlos als modern. In der öffentlichen Wahrnehmung wirkt Christiane sachlich positiv, aber nicht stark trendig.",
+  "practical_notes": [
+    "Für eine Namenssuche eignet sich Christiane gut, wenn ein klassischer und eindeutig weiblicher Name gesucht wird.",
+    "Kurzformen wie Chrissi oder Chris werden in den Quellen als möglich erwähnt.",
+    "Die Schreibweise ist klar und etabliert, der Name kann aber im Alltag etwas formeller wirken."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist vor allem aus Namenslexika und Nutzermeinungen zusammengestellt, also nicht aus einer breiten öffentlichen Debatte.",
+    "Die Einschätzung zur heutigen Wirkung ist vorsichtig zu lesen, da sie nur indirekt aus den Quellen abgeleitet ist."
+  ],
+  "short_summary": "Christiane wird öffentlich meist als klassischer, christlich geprägter und eher selten vergebener Vorname wahrgenommen. Die Resonanz ist überwiegend neutral bis positiv, mit sachlich-traditioneller Wirkung.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Christiane � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/C/Ch/Christiane/"
+    },
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Christiane: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Christiane.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "traditionell",
+    "seriös",
+    "namenskundlich klar",
+    "eher zeitlos",
+    "leicht altmodisch im heutigen Gebrauch"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Eher vertraut als sehr häufig; der Name ist in Deutschland bekannt, heute aber seltener vergeben."
+}

@@ -1,0 +1,64 @@
+{
+  "associations": [
+    "weiblicher Vorname",
+    "Koseform von Wiebe",
+    "niederdeutsche und friesische Kurzform",
+    "althochdeutsche Herkunft",
+    "Bedeutung im Umfeld von 'Kampf/Kämpferin'",
+    "selten",
+    "Namenstag",
+    "natürlich",
+    "schön",
+    "kumpelig"
+  ],
+  "confidence": 0.79,
+  "display_text": "Wibke wirkt in der öffentlichen Wahrnehmung eher selten, regional-traditionell und freundlich-natürlich. Die verfügbare Evidenz deutet auf eine überwiegend neutrale bis leicht positive Resonanz hin, ist aber nur begrenzt belastbar.",
+  "evidence_quality": "mittel bis schwach: klare Namensdiskussion, aber nur wenige und überwiegend lexikalische Quellen; allgemeine Resonanz nur indirekt ableitbar",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Wibke",
+  "normalized_name": "wibke",
+  "overall_resonance": "In der öffentlichen Namenswahrnehmung wirkt Wibke eher selten, regional geprägt und sachlich-traditionell. Die verfügbare Evidenz deutet auf eine überwiegend positive bis neutrale Resonanz hin, mit Fokus auf Herkunft und Bedeutung statt auf starke moderne Trendwirkung.",
+  "practical_notes": [
+    "Gut geeignet, wenn ein seltener und regional traditionell wirkender Name gesucht wird.",
+    "Die Wahrnehmung ist eher erklärungsbedürftig, weil der Name nicht sehr geläufig ist.",
+    "Für eine Suchmaschine sollte die Beschreibung vorsichtig formuliert werden, da die Datenlage klein ist."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz zur allgemeinen öffentlichen Resonanz ist begrenzt und stammt teils aus Namenslexika sowie wenigen Kommentaren.",
+    "Positive Eigenschaften wie 'schön' oder 'natürlich' sind eher punktuelle Eindrücke als belastbare Mehrheitsmeinung.",
+    "Seltenheit sollte nicht mit sozialer Bewertung verwechselt werden."
+  ],
+  "short_summary": "Wibke wird meist als seltener, niederdeutsch-friesisch geprägter und eher traditionell wirkender Vorname wahrgenommen. Die Resonanz ist überwiegend neutral bis leicht positiv, allerdings auf begrenzter Evidenz.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Wibke � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/W/Wi/Wibke/"
+    },
+    {
+      "confidence": 0.91,
+      "is_name_discussion": true,
+      "sentiment": "überwiegend positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Wibke: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Wibke.html"
+    }
+  ],
+  "style_effect": [
+    "niederdeutsch und friesisch wirkend",
+    "traditionell und bodenständig",
+    "kurz, klar und eher markant",
+    "selten und dadurch eigenständig",
+    "freundlich-natürlich assoziiert"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "eher gering"
+}

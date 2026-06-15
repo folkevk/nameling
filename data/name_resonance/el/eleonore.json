@@ -1,0 +1,63 @@
+{
+  "associations": [
+    "weiblicher Vorname",
+    "deutsche und französische Form",
+    "altprovenzalischer bzw. teils unterschiedlich gedeuteter Ursprung",
+    "Bedeutungen wie \"die andere\" oder ähnliche etymologische Deutungen",
+    "Namenstag",
+    "historisch in Europa verbreitet",
+    "klassisch statt modern"
+  ],
+  "confidence": 0.84,
+  "display_text": "Eleonore wird meist als klassischer, historisch geprägter und eher eleganter Vorname wahrgenommen. Die Quellen deuten auf eine eher positive, traditionsnahe Resonanz hin; zugleich ist der Name nicht sehr häufig und die etymologischen Deutungen sind nicht völlig einheitlich.",
+  "evidence_quality": "mittel bis hoch: zwei überwiegend informative Namensquellen mit klarer Namensdiskussion, aber begrenzter Alltagsrepräsentation und teils unsicherer Etymologie.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Eleonore",
+  "normalized_name": "eleonore",
+  "overall_resonance": "Eleonore wird in den vorliegenden Namensquellen überwiegend als klassisch, historisch und eher elegant wahrgenommen. Die öffentliche Rezeption wirkt eher positiv bis neutral, mit Fokus auf Herkunft, Bedeutung und Namensgeschichte. Die Beliebtheit scheint eher gering bis moderat und der Name wirkt nicht modern-trendgetrieben, sondern traditionsnah.",
+  "practical_notes": [
+    "Für eine Namenssuche eignet sich Eleonore besonders, wenn ein klassischer, traditionsreicher Eindruck gewünscht ist.",
+    "Die Schreibweise wirkt in DE vertraut, aber nicht häufig.",
+    "Varianten und Kurzformen können je nach Umfeld unterschiedlich bevorzugt werden."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Etymologie ist in den Quellen nicht ganz einheitlich; mehrere Deutungen stehen nebeneinander.",
+    "Die Evidenz stammt vor allem aus Namensdatenbanken und redaktionellen Namensseiten, nicht aus freier Alltagsdiskussion.",
+    "Zur tatsächlichen gesellschaftlichen Wahrnehmung im Alltag gibt es nur begrenzt belastbare Hinweise."
+  ],
+  "short_summary": "Eleonore wirkt in der öffentlichen Namenswahrnehmung klassisch, historisch und eher elegant, bei eher geringer bis mittlerer Sichtbarkeit.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Eleonore � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/E/El/Eleonore/"
+    },
+    {
+      "confidence": 0.9,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Eleonore: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Eleonore.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "traditionell",
+    "elegant",
+    "historisch",
+    "sprachlich-geprägt",
+    "eher selten",
+    "namenskundlich interessiert"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Der Name ist bekannt, aber nicht allgegenwärtig. In der öffentlichen Wahrnehmung erscheint er eher als seltener, traditioneller Vorname mit kultureller und historischer Tiefe."
+}

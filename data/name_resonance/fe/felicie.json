@@ -1,0 +1,52 @@
+{
+  "associations": [
+    "französischer weiblicher Vorname",
+    "französische Form von Felicitas",
+    "lateinischer Bedeutungsbezug zu Glück/Glückseligkeit/Fruchtbarkeit",
+    "selten bzw. wenig verbreitet wirkend",
+    "namenstypisch eher stil- und herkunftsbezogen als gesellschaftlich diskutiert"
+  ],
+  "confidence": 0.62,
+  "display_text": "Félicie klingt in Deutschland eher selten, französisch und elegant. Die verfügbare Evidenz ist knapp, deutet aber auf eine freundliche, leicht positive Wahrnehmung mit Bezug zu Glück und Glückseligkeit hin. Eine breite öffentliche Diskussion ist nicht erkennbar.",
+  "evidence_quality": "schwach bis mittel: ein klar namenbezogener, aber kurzer und wenig diskursiver Lexikon-Eintrag ohne breite öffentliche Debatte.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Félicie",
+  "normalized_name": "felicie",
+  "overall_resonance": "Eher zart, elegant und positiv konnotiert, aber in der öffentlichen Wahrnehmung nur schwach dokumentiert.",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt Félicie besonders im französischen Kontext stimmig.",
+    "In Deutschland dürfte die Schreibweise mit Akzent als ungewohnt wahrgenommen werden.",
+    "Die öffentliche Resonanz ist eher leise als breit bekannt.",
+    "Der Name eignet sich vor allem für Menschen, die einen seltenen, eleganten Klang suchen."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist schwach und die Diskussionsintensität gering.",
+    "Es liegen keine belastbaren Hinweise auf eine breitere öffentliche Bewertung vor.",
+    "Die positive Bedeutungsassoziation ist sprachlich naheliegend, sollte aber nicht als allgemeine gesellschaftliche Einschätzung überdehnt werden."
+  ],
+  "short_summary": "Félicie wird überwiegend als französisch, selten und elegant wahrgenommen; die öffentliche Resonanz ist freundlich, aber nur schwach belegt.",
+  "source_count": 1,
+  "sources": [
+    {
+      "confidence": 0.91,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Félicie: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,F%C3%A9licie.html"
+    }
+  ],
+  "style_effect": [
+    "französisch klingend",
+    "klassisch und feminin",
+    "fein und weich",
+    "eher exklusiv als alltagsnah",
+    "bildet eine leichte Assoziation zu Glück und Glückseligkeit"
+  ],
+  "usable_evidence_count": 1,
+  "visibility": "In Deutschland wirkt der Name eher selten und wenig präsent; die verfügbare Evidenz ist knapp und stammt vor allem aus einem lexikalischen Eintrag."
+}

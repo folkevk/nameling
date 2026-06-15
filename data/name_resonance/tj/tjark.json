@@ -1,0 +1,62 @@
+{
+  "associations": [
+    "friesische Kurzform von Dietrich",
+    "Bedeutung im Sinn von „Herrscher des Volkes“ / „Mächtiger im Volke“",
+    "männlicher Vorname",
+    "Norddeutschland / Ostfriesland",
+    "traditioneller Namenshintergrund",
+    "Namenstag",
+    "selten und markant"
+  ],
+  "confidence": 0.74,
+  "display_text": "Tjark wirkt in den vorliegenden Quellen eher positiv, traditionell und regional verankert. Der Name wird als seltener, friesisch-norddeutscher Vorname mit klarer Herkunft und bedeutungsstarker Einordnung wahrgenommen. Die Evidenz stammt jedoch fast ausschließlich aus Namenslexika, daher ist die Aussage zur allgemeinen öffentlichen Resonanz vorsichtig zu lesen.",
+  "evidence_quality": "mittel bis gering für allgemeine Resonanz; gut für Herkunft, Bedeutung und lexikalische Einordnung, aber nur eingeschränkt für öffentliche Alltagswahrnehmung.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Tjark",
+  "normalized_name": "tjark",
+  "overall_resonance": "Eher positiv bis neutral mit klarer regionaler und traditioneller Färbung. Der Name wirkt in den vorliegenden Quellen ungewöhnlich, aber wertig und gut eingebettet in die norddeutsche/friesische Namenswelt.",
+  "practical_notes": [
+    "Für Suchmaschinen-Nutzer wirkt der Name klar, traditionell und regional geprägt.",
+    "Die Aussprache und Schreibweise erscheinen in den Quellen unkompliziert, aber der Name ist außerhalb Norddeutschlands weniger geläufig.",
+    "Die positive Resonanz bezieht sich vor allem auf Herkunft, Klang und Besonderheit, nicht auf breite Populärität."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist vor allem lexikalisch und nicht repräsentativ für allgemeine öffentliche Meinung.",
+    "„Selten“ ist hier als Beschreibung der Verbreitung zu verstehen, nicht als Werturteil.",
+    "Keine belastbaren Hinweise auf soziale Stigmatisierung in den vorliegenden Quellen."
+  ],
+  "short_summary": "Tjark wird in den Quellen überwiegend positiv und als seltener, friesisch-norddeutscher Vorname mit traditioneller Bedeutung beschrieben. Für eine breite öffentliche Resonanz ist die Evidenz jedoch begrenzt.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "positive",
+      "source_type": "web",
+      "title": "Vorname Tjark � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/T/Tj/Tjark/"
+    },
+    {
+      "confidence": 0.95,
+      "is_name_discussion": true,
+      "sentiment": "positive",
+      "source_type": "web",
+      "title": "&#9655; Vorname Tjark: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Tjark.html"
+    }
+  ],
+  "style_effect": [
+    "friesisch/norddeutsch",
+    "traditionell",
+    "selten",
+    "ungewöhnlich",
+    "regional verankert",
+    "etymologisch aufgeladen"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland eher selten und nicht breit verbreitet; die öffentliche Wahrnehmung in den Quellen ist daher begrenzt und stammt vor allem aus Namenslexika statt aus allgemeiner Alltagsresonanz."
+}

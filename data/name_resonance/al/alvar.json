@@ -1,0 +1,59 @@
+{
+  "associations": [
+    "altnordische Herkunft",
+    "skandinavisch / schwedisch / isländisch",
+    "Bedeutungsbezüge zu Elfen, Naturgeistern und Kriegern",
+    "männlicher Vorname",
+    "Namenstag",
+    "selten bis moderat verbreitet in Deutschland"
+  ],
+  "confidence": 0.88,
+  "display_text": "Alvar: überwiegend sachlich-neutrale bis leicht positive Resonanz. Der Name wird vor allem als altnordisch-skandinavisch, bedeutungsvoll und eher selten wahrgenommen; breite öffentliche Diskussionen sind in der Evidenz kaum sichtbar.",
+  "evidence_quality": "mittel bis schwach: gute lexikalische Beschreibung des Namens, aber geringe Breite öffentlicher Resonanzdaten",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Alvar",
+  "normalized_name": "alvar",
+  "overall_resonance": "Die öffentliche Wahrnehmung von Alvar wirkt in der vorliegenden Evidenz überwiegend sachlich-neutral bis leicht positiv. Der Name wird vor allem als skandinavisch-altnordischer Vorname mit klarer Bedeutung und Namensgeschichte beschrieben; eine breitere öffentliche Debatte ist kaum erkennbar.",
+  "practical_notes": [
+    "Für Suchende wirkt Alvar klar, international und traditionsnah.",
+    "Die seltenere Verbreitung kann als individuell wahrgenommen werden.",
+    "Im deutschsprachigen Raum dürfte der Name eher erklärt als spontan eingeordnet werden."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist stark auf Namensseiten begrenzt; öffentliche Resonanz außerhalb dieser Quellen bleibt unklar.",
+    "Es gibt keine belastbaren Hinweise auf starke positive oder negative gesellschaftliche Bewertungen.",
+    "Einzelne Kommentare sollten nicht als repräsentative Mehrheitsmeinung gelesen werden."
+  ],
+  "short_summary": "Alvar wird in der verfügbaren deutschsprachigen Evidenz vor allem neutral-informativ beschrieben: skandinavisch, altnordisch, mit klarer Namensbedeutung und eher seltener Verbreitung.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Alvar � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/A/Al/Alvar/"
+    },
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Alvar: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Alvar.html"
+    }
+  ],
+  "style_effect": [
+    "klingt nordisch und eigenständig",
+    "wirkt historisch und sprachlich markant",
+    "hat einen eher seltenen, nicht alltäglichen Eindruck",
+    "wird oft informativ statt emotional eingeordnet"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Eher gering bis moderat sichtbar in deutschsprachigen Namensquellen; die verfügbare Evidenz stammt fast ausschließlich aus Namensdatenbanken und Lexika, nicht aus einer breiten Alltagsdiskussion."
+}

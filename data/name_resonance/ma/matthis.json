@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "Form von Matthias",
+    "hebräische bzw. biblische Herkunft",
+    "Bedeutung: Geschenk Gottes / Gabe Jahwes",
+    "Namenstag am 24. Februar",
+    "seltenere Namensvariante",
+    "teils norddeutsche Verbreitung"
+  ],
+  "confidence": 0.84,
+  "display_text": "Matthis wirkt in der öffentlichen Wahrnehmung meist sachlich und leicht positiv: ein traditioneller, biblisch geprägter und eher seltener Vorname. Die Evidenz dazu ist jedoch begrenzt und stützt sich vor allem auf Namenslexika.",
+  "evidence_quality": "mittel bis schwach: klare Namenslexikon-Hinweise, aber nur wenige Quellen und kaum breit gestützte öffentliche Rezeption",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Matthis",
+  "normalized_name": "matthis",
+  "overall_resonance": "Die öffentliche Wahrnehmung von „Matthis“ wirkt insgesamt sachlich bis leicht positiv. Der Name wird vor allem als Variante von Matthias eingeordnet und mit einer religiös geprägten Bedeutung sowie einem traditionellen Namenstag verbunden. Gleichzeitig scheint er eher selten zu sein, was die Wahrnehmung als eigenständig und moderat ungewöhnlich prägen kann.",
+  "practical_notes": [
+    "Für Suchende wirkt der Name klar, traditionell und gut einordenbar.",
+    "Die Schreibweise Matthis kann von Matthias oder Mathis abweichen und dadurch gelegentlich erklärungsbedürftig sein.",
+    "Wegen der relativen Seltenheit kann der Name als individuell wahrgenommen werden."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist insgesamt schwach bis mittelstark und stützt sich vor allem auf wenige Namenslexikon-Quellen.",
+    "Aussagen zur öffentlichen Resonanz sind daher eher vorsichtig als allgemein repräsentativ zu verstehen.",
+    "Einzelne Kommentare in den Quellen können subjektiv sein und sollten nicht überinterpretiert werden."
+  ],
+  "short_summary": "Matthis wird überwiegend sachlich und leicht positiv wahrgenommen: traditionell, biblisch geprägt und eher selten.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Matthis � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/M/Ma/Matthis/"
+    },
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "gemischt",
+      "source_type": "web",
+      "title": "&#9655; Vorname Matthis: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Matthis.html"
+    }
+  ],
+  "style_effect": [
+    "klingt traditionell und klassisch",
+    "wirkt durch die Schreibweise etwas eigenständig",
+    "wird als informativ und namenskundlich beschrieben",
+    "hat eine eher ruhige, unaufgeregte Anmutung",
+    "kann durch die Seltenheit als markanter wahrgenommen werden"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland offenbar eher bekannt, aber nicht sehr verbreitet. Die Sichtbarkeit ist vor allem in Namenslexika und Vornamensdatenbanken gut dokumentiert; belastbare Hinweise auf eine breitere öffentliche Debatte sind in der vorliegenden Evidenz nicht stark vorhanden."
+}

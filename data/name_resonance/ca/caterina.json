@@ -1,0 +1,62 @@
+{
+  "associations": [
+    "italienische Form von Katharina",
+    "Bedeutung: die Reine / die Unschuldige",
+    "altgriechischer Ursprung",
+    "Namenstag",
+    "internationale Variante",
+    "selten in Deutschland"
+  ],
+  "confidence": 0.73,
+  "display_text": "Caterina wirkt in Deutschland eher selten, klassisch und international. Die Quellen beschreiben den Namen überwiegend sachlich bis leicht positiv, vor allem als italienische Form von Katharina mit der Bedeutung „die Reine / die Unschuldige“. Für eine breite öffentliche Resonanz ist die Evidenz jedoch begrenzt, da sie vor allem aus Namenslexika stammt.",
+  "evidence_quality": "mittel bis schwach für öffentliche Resonanz; gut für Bedeutung, Herkunft und Namensbeschreibung",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Caterina",
+  "normalized_name": "caterina",
+  "overall_resonance": "Caterina wirkt in den vorliegenden Quellen überwiegend sachlich-informativ bis leicht positiv. Der Name wird vor allem als internationale, italienische Form von Katharina beschrieben und mit einer klaren Bedeutung sowie einem eher eleganten, klassischen Klang verbunden. Für Deutschland deutet die Evidenz eher auf Seltenheit als auf breite Alltagsvertrautheit hin.",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt Caterina vertraut, aber nicht alltäglich.",
+    "Der Name dürfte besonders wegen seines internationalen und klassischen Charakters auffallen.",
+    "Bei der Einordnung sollte die geringe Datenbasis für öffentliche Resonanz mitgedacht werden."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt vor allem von Vornamensseiten und nicht von breiter öffentlicher Diskussion.",
+    "Aussagen zur allgemeinen Resonanz in Deutschland sind daher nur vorsichtig ableitbar.",
+    "Einzelne positive Beschreibungen spiegeln eher die Darstellung der Quellen als eine gesicherte Mehrheitsmeinung wider."
+  ],
+  "short_summary": "Caterina wird in den Quellen als klassisch-internationale, eher seltene Form von Katharina mit positiver, sachlicher Namenswirkung beschrieben.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Caterina � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/C/Ca/Caterina/"
+    },
+    {
+      "confidence": 0.91,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Caterina: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Caterina.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "international",
+    "elegant",
+    "traditionell",
+    "eher selten",
+    "sprachlich klar",
+    "namenskundlich geprägt"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland scheint Caterina eher selten und daher nicht stark massenpräsent zu sein. Die öffentliche Wahrnehmung in den Quellen ist vor allem namenskundlich geprägt; belastbare Hinweise auf breite gesellschaftliche Resonanz sind nur indirekt vorhanden."
+}

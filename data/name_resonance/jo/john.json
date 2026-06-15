@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "Form von Johannes",
+    "Bedeutung: Gott ist gnädig / Jahwe ist gnädig",
+    "biblischer Bezug",
+    "englischer Sprachraum",
+    "Namenstagtradition",
+    "beliebter Vorname in Deutschland"
+  ],
+  "confidence": 0.91,
+  "display_text": "John wirkt in Deutschland überwiegend sachlich, klassisch und international. Die vorliegenden Quellen beschreiben den Namen als bekannte englische Form von Johannes mit der Bedeutung „Gott ist gnädig“. Eine kontroverse öffentliche Resonanz ist nicht erkennbar; die Hinweise stammen vor allem aus Namenslexika und Beliebtheitsangaben.",
+  "evidence_quality": "hoch für Bedeutung, Herkunft und Namensgebrauch; mittel für öffentliche Resonanz, da die Quellen überwiegend beschreibend sind.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "John",
+  "normalized_name": "john",
+  "overall_resonance": "Überwiegend sachlich-neutral mit positiver, traditioneller Konnotation; in den vorliegenden Quellen wird der Name vor allem als etablierte Kurz- bzw. englische Form von Johannes beschrieben.",
+  "practical_notes": [
+    "Für viele wirkt John vertraut und international anschlussfähig.",
+    "Die Schreibweise ist kurz und klar, kann aber im deutschsprachigen Kontext bewusst englisch gelesen werden.",
+    "Durch den biblischen Hintergrund hat der Name eine eher klassische als experimentelle Wirkung."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt hauptsächlich aus Namenslexika und nicht aus freier öffentlicher Debatte; die Resonanz ist daher nur indirekt ablesbar.",
+    "Es liegen keine Hinweise auf soziale Stigmatisierung oder starke negative Zuschreibungen vor.",
+    "Beliebtheitsaussagen sollten vorsichtig gelesen werden, da sie nicht im Detail belegt sind."
+  ],
+  "short_summary": "John wird in den Quellen vor allem neutral und informativ dargestellt: als bekannte, kurze englische Form von Johannes mit biblischer Bedeutung und eher zeitloser, internationaler Wirkung.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname John � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/J/Jo/John/"
+    },
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname John: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,John.html"
+    }
+  ],
+  "style_effect": [
+    "kurz und international",
+    "klassisch-biblische Anmutung",
+    "modern durch englische Form",
+    "einfach auszusprechen und zu schreiben",
+    "zeitlos statt stark modisch"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland bekannt und präsent, mit deutlicher Wiedererkennbarkeit; die Evidenz deutet eher auf Lexikon- und Beliebtheitskontext als auf eine kontroverse öffentliche Debatte."
+}

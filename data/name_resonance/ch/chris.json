@@ -1,0 +1,66 @@
+{
+  "associations": [
+    "Kurzform von Christian oder Christoph",
+    "altgriechische Wurzeln über die Langformen",
+    "christlicher Namensbezug",
+    "Namenstag wird in Namenslexika häufig genannt",
+    "eher zeitgemäßer, moderner Klang"
+  ],
+  "confidence": 0.9,
+  "display_text": "Chris wird in Deutschland überwiegend neutral bis positiv wahrgenommen: kurz, modern und international wirkend. Namensquellen beschreiben ihn meist als Kurzform von Christian oder Christoph, teils auch als eigenständig verwendeten Unisex-Namen. Eine besondere Stigmatisierung ist in der vorliegenden Evidenz nicht erkennbar.",
+  "evidence_quality": "mittel bis stark; mehrere Namenslexika mit übereinstimmender, überwiegend neutraler Beschreibung, aber kaum breite öffentliche Debatte",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Chris",
+  "normalized_name": "chris",
+  "overall_resonance": "Der Vorname Chris wird in der öffentlichen Namenswahrnehmung überwiegend neutral bis positiv und vor allem als moderner, international wirkender Kurzname beschrieben.",
+  "practical_notes": [
+    "Für die öffentliche Wahrnehmung zählt bei Chris vor allem die Knappheit und internationale Verständlichkeit.",
+    "Der Name wird in Deutschland häufig als Kurzform mit eigenständigem Gebrauch verstanden.",
+    "Die Evidenzlage ist solide für die Namensbeschreibung, aber nicht für tiefe soziologische Aussagen."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Es gibt keine starke öffentliche Kontroverse oder klare Stigmatisierung in der vorliegenden Evidenz.",
+    "Die Quellen sind vor allem Namenslexika; die Aussage zur Resonanz ist daher eher beschreibend als breitenöffentlich belegt."
+  ],
+  "short_summary": "Chris wirkt in Deutschland modern, kurz und unkompliziert; meist wird der Name als Kurzform von Christian oder Christoph wahrgenommen.",
+  "source_count": 3,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Chris � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/C/Ch/Chris/"
+    },
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Chris � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/C/Ch/Chris/"
+    },
+    {
+      "confidence": 0.95,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Chris: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Chris.html"
+    }
+  ],
+  "style_effect": [
+    "kurz und unkompliziert",
+    "modern und international",
+    "informell, aber geläufig",
+    "namenskundlich oft als Kurzform eingeordnet",
+    "geschlechtsübergreifend verwendbar bzw. teils als Unisex wahrgenommen"
+  ],
+  "usable_evidence_count": 3,
+  "visibility": "Im deutschsprachigen Namenskontext ist Chris bekannt und präsent, allerdings eher als Kurzform oder eigenständig verwendete Kurzform denn als traditioneller Vollname."
+}

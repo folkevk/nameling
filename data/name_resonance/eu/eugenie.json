@@ -1,0 +1,63 @@
+{
+  "associations": [
+    "altgriechischer Ursprung",
+    "Bedeutung: edel geboren / wohlgeboren",
+    "weiblicher Vorname",
+    "selten in Deutschland",
+    "Namenstag",
+    "französische Schreibweise Eugénie",
+    "weibliche Form von Eugen"
+  ],
+  "confidence": 0.89,
+  "display_text": "Eugenie: ein seltener, klassisch-eleganter Vorname mit altgriechischer Herkunft. In den verfügbaren deutschsprachigen Quellen wirkt die öffentliche Rezeption überwiegend neutral und informativ; belastbare breite Diskussionen oder starke Wertungen sind nicht erkennbar.",
+  "evidence_quality": "mittel bis schwach; überwiegend informationsorientierte Einzelquellen, keine breite öffentliche Diskurslage",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Eugenie",
+  "normalized_name": "eugenie",
+  "overall_resonance": "Eugenie wird in den vorliegenden deutschsprachigen Namensquellen überwiegend sachlich-neutral wahrgenommen. Der Name erscheint vor allem als seltener, klassisch-eleganter Vorname mit traditioneller Herkunft, ohne deutlich starke positive oder negative öffentliche Wertung.",
+  "practical_notes": [
+    "Für Suchmaschinen- und Namenskontext eignet sich eine zurückhaltende, beschreibende Einordnung.",
+    "Der Name wirkt eher traditionsbewusst als modern-trendy.",
+    "Wegen der Seltenheit ist die öffentliche Bekanntheit vermutlich gering, ohne dass daraus eine klare Wertung folgt."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist schwach und stammt im Wesentlichen aus zwei Namensportalen.",
+    "Es gibt keine breite öffentliche Debatte oder belastbare Alltagsresonanz in der Quelle.",
+    "Positive oder negative Zusatzassoziationen aus Kommentaren sind nur anekdotisch und nicht verallgemeinerbar."
+  ],
+  "short_summary": "Eugenie wird in den verfügbaren Quellen vor allem als seltener, klassischer und neutral bewerteter Mädchenname mit altgriechischer Herkunft beschrieben.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Eugenie � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/E/Eu/Eugenie/"
+    },
+    {
+      "confidence": 0.92,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Eugenie: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Eugenie.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "elegant",
+    "traditionell",
+    "selten",
+    "namenskundlich",
+    "französisch anmutend",
+    "eher formal"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland wirkt Eugenie eher selten und entsprechend wenig präsent in der breiten öffentlichen Namenswahrnehmung. Die Evidenzlage ist begrenzt und stützt sich vor allem auf einzelne Namensportale."
+}

@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "französische Form von Clara",
+    "lateinischer Ursprung: clarus",
+    "Bedeutungen wie hell, klar, strahlend, leuchtend",
+    "Namenstagtradition",
+    "in den Quellen als beliebter Vorname beschrieben"
+  ],
+  "confidence": 0.91,
+  "display_text": "Claire wirkt in den vorliegenden Quellen überwiegend positiv: elegant, französisch anmutend und mit Bedeutungen wie hell, klar oder strahlend verbunden. Die Evidenz ist gut für eine namenskundliche Einordnung, aber auf Lexikonquellen beschränkt.",
+  "evidence_quality": "Mittel bis gut: zwei einschlägige Namenslexikon-Quellen mit klarer Namensfokussierung, aber keine breite, diskursive Alltagsstichprobe.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Claire",
+  "normalized_name": "claire",
+  "overall_resonance": "Überwiegend positiv und eher elegant-klangvoll wahrgenommen; die vorhandenen Quellen beschreiben Claire vor allem als hell, klar und strahlend konnotierten Namen.",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt Claire meist positiv, stilvoll und international anschlussfähig.",
+    "Die Schreibweise ist im Deutschen gut lesbar, kann aber französisch oder englisch ausgesprochen werden.",
+    "Die öffentliche Rezeption in den Quellen ist eher beschreibend als kontrovers."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz basiert auf nur zwei redaktionellen Namenslexika, nicht auf freier öffentlicher Debatte.",
+    "Beliebtheit ist quellengebunden und sollte nicht als allgemeine gesellschaftliche Mehrheitsmeinung verstanden werden.",
+    "Es gibt keinen Hinweis auf eine soziale Stigmatisierung in den vorliegenden Quellen."
+  ],
+  "short_summary": "Claire wird im deutschen Namenskontext überwiegend positiv, elegant und hell-klar assoziiert. Die Aussagen beruhen jedoch vor allem auf redaktionellen Namenslexika.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "Vorname Claire � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/C/Cl/Claire/"
+    },
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Claire: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Claire.html"
+    }
+  ],
+  "style_effect": [
+    "elegant",
+    "französisch anmutend",
+    "hell/klar",
+    "klassisch",
+    "modern wirksam",
+    "weich und feminin"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Im deutschen Namenskontext ist Claire bekannt und wirkt eher vertraut als seltene Exotik; die Wahrnehmung scheint vor allem lexikalisch und namenskundlich geprägt zu sein."
+}

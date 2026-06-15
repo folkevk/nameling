@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "altirische bzw. irische Herkunft",
+    "Bedeutung im Umfeld von Feuer/Flamme",
+    "anglisierte Form von Aidan",
+    "moderne internationale Verbreitung",
+    "eher selten bis mäßig bekannt",
+    "in Namenslexika als wohlklingend beschrieben"
+  ],
+  "confidence": 0.86,
+  "display_text": "Aiden wirkt in Deutschland überwiegend modern, international und wohlklingend. Die öffentlichen Quellen betonen vor allem die irisch-altirische Herkunft und die Feuer-Bedeutung; eine starke negative Debatte ist nicht erkennbar. Die Evidenz ist jedoch eher namenskundlich als gesellschaftlich breit diskutiert.",
+  "evidence_quality": "mittel bis gut: zwei einschlägige deutschsprachige Namensquellen, überwiegend konsistente Aussagen, aber wenig breit angelegte öffentliche Debatte.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Aiden",
+  "normalized_name": "aiden",
+  "overall_resonance": "Der Vorname Aiden wird in den vorliegenden deutschsprachigen Quellen überwiegend sachlich bis positiv wahrgenommen: modern, international und klanglich ansprechend. Öffentlich steht vor allem Herkunft und Bedeutung im Vordergrund, weniger eine kontroverse Debatte.",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt Aiden in Deutschland modern und international verständlich.",
+    "Die Schreibweise ist klar, die Aussprache kann je nach Umfeld unterschiedlich erwartet werden.",
+    "Wer einen vertrauten, aber nicht alltäglichen Namen sucht, könnte ihn als passend empfinden."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Es gibt kaum Hinweise auf eine starke öffentliche Kontroverse oder negative gesellschaftliche Aufladung.",
+    "Die Evidenz stammt vor allem aus Namensdatenbanken und Lexikonseiten; die Resonanz ist daher eher beschreibend als breit gesellschaftlich diskutiert.",
+    "Bewertungen wie 'schön' oder 'zeitlos' sind eher subjektive Einschätzungen einzelner Quellen."
+  ],
+  "short_summary": "Aiden wird in Deutschland vor allem als moderner, internationaler und klanglich positiver Vorname wahrgenommen, mit Schwerpunkt auf irischer Herkunft und Feuer-Bedeutung.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Aiden � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/A/Ai/Aiden/"
+    },
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Aiden: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Aiden.html"
+    }
+  ],
+  "style_effect": [
+    "modern",
+    "international",
+    "wohlklingend",
+    "zeitgemäß",
+    "namenskundlich klar einordenbar"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland ist der Name sichtbar, aber eher als moderner, internationaler Vorname in Namenslexika und Datenbanken präsent als in breiten öffentlichen Diskussionen."
+}

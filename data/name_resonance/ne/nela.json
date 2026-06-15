@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "Kurzform von Cornelia bzw. anderer -nela-Namen",
+    "lateinisch/römische Herkunft",
+    "Bedeutung: „die aus dem Geschlecht der Cornelier Stammende“",
+    "Mädchenname",
+    "Namenstag wird in den Quellen genannt",
+    "in Deutschland als beliebt oder schön beschrieben"
+  ],
+  "confidence": 0.84,
+  "display_text": "Nela wirkt in den verfügbaren deutschen Namensquellen überwiegend positiv: kurz, weich, modern und freundlich. Die Resonanz ist klar namebezogen, aber vor allem aus Namenslexika ablesbar und daher eher als vorsichtige Tendenz denn als breite öffentliche Mehrheitsmeinung zu verstehen.",
+  "evidence_quality": "mittel: klar namebezogene Quellen, aber begrenzte öffentliche Breite und teils lexikalisch/kommentarbasiert",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Nela",
+  "normalized_name": "nela",
+  "overall_resonance": "Überwiegend positiv und freundlich, mit eher zarter, moderner Wirkung. In den vorliegenden Namensquellen wird Nela meist als schöner, beliebter und gut klingender Mädchenname beschrieben.",
+  "practical_notes": [
+    "Für Suchmaschinen- oder Kurzprofile geeignet, weil der Name sehr knapp, weich und leicht merkbar wirkt.",
+    "Die Quellen deuten auf eine eher positive Namenswahrnehmung hin, ohne starke Kontroversen oder negative Konnotationen.",
+    "Als Resonanzkarte sollte Nela vorsichtig als freundlich-positive Namenswahl beschrieben werden, nicht als eindeutig trenddominant."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt fast ausschließlich aus Namenslexika und nicht aus breiter öffentlicher Wahrnehmung.",
+    "Einzelne positive Bewertungen sind eher redaktionell oder meinungsbasiert, daher nur eingeschränkt verallgemeinerbar.",
+    "Die Seltenheit wird teils erwähnt; daraus lässt sich keine allgemeine soziale Bewertung ableiten."
+  ],
+  "short_summary": "Nela wird in den vorliegenden deutschsprachigen Namensquellen überwiegend positiv, freundlich und modern wahrgenommen. Die Evidenz ist gut namebezogen, aber eher lexikalisch als breit öffentlich.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.92,
+      "is_name_discussion": true,
+      "sentiment": "positive",
+      "source_type": "web",
+      "title": "Vorname Nela � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/N/Ne/Nela/"
+    },
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Nela: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Nela.html"
+    }
+  ],
+  "style_effect": [
+    "kurz und weich",
+    "modern und sympathisch",
+    "leicht und unkompliziert",
+    "weiblich und freundlich",
+    "namenlexikon-typisch positiv gerahmt"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Im deutschen Namenskontext sichtbar, aber eher als moderner Kurzname bzw. eher seltener Vorname; die öffentliche Resonanz wirkt deshalb eher positiv als breit massenmedial geprägt."
+}

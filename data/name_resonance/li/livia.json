@@ -1,0 +1,64 @@
+{
+  "associations": [
+    "lateinische Herkunft",
+    "römischer Bezug",
+    "Bedeutungen rund um Leben/Olive/Blau",
+    "Namenstag",
+    "Beliebtheit in Deutschland",
+    "selten bis nicht alltäglich, aber bekannt",
+    "gute Aussprache in mehreren Sprachen"
+  ],
+  "confidence": 0.89,
+  "display_text": "Livia wirkt in deutschen Namensquellen überwiegend positiv: klangvoll, klassisch-lateinisch und modern-zeitlos. Der Name ist bekannt und präsent, ohne allzu alltäglich zu wirken. Die Evidenz stammt vor allem aus Namenslexika; die öffentliche Resonanz ist daher eher informativ als breit diskutiert.",
+  "evidence_quality": "mittel: zwei klare Namensquellen mit überwiegend informativem, teils positivem Material; jedoch keine breite freie Diskussionslage.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Livia",
+  "normalized_name": "livia",
+  "overall_resonance": "Überwiegend positiv und modern, mit eher informativem als stark emotionalem Echo. Livia wird in Namensquellen meist als klangvoll, lateinisch geprägt und in Deutschland sichtbar bis beliebt beschrieben.",
+  "practical_notes": [
+    "Für eine Suchmaschinenanzeige eignet sich eine Beschreibung wie: „klassischer, klangvoller Mädchenname mit lateinischer Herkunft“.",
+    "Wenn Präzision wichtig ist, besser von „Namensquellen zufolge“ sprechen statt von einer gesicherten Alltagswahrnehmung.",
+    "Im deutschen Raum wirkt der Name vertraut, ohne zu häufig zu sein."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt überwiegend aus Namenslexika und Datenbankseiten, nicht aus breiter freier Diskussion.",
+    "Positivere Formulierungen wie „wunderschön“ sind teilweise subjektiv und kommentarbasiert.",
+    "Mehrere Bedeutungsangaben kursieren parallel; die Deutung ist daher nicht eindeutig.",
+    "Keine Hinweise auf soziale Stigmatisierung erkennbar."
+  ],
+  "short_summary": "Livia wird in deutschen Namensquellen überwiegend positiv, klangvoll und klassisch-lateinisch wahrgenommen; die Evidenz ist eher namenskundlich als gesellschaftlich breit.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.94,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Livia � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/L/Li/Livia/"
+    },
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Livia: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Livia.html"
+    }
+  ],
+  "style_effect": [
+    "klangvoll",
+    "elegant",
+    "klassisch-lateinisch",
+    "modern-zeitlos",
+    "weiblich",
+    "leicht edel",
+    "international gut anschlussfähig"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Im deutschen Namenskontext gut präsent, teils sogar unter den häufigeren Mädchennamen geführt. Die öffentliche Wahrnehmung wirkt deshalb eher vertraut als exotisch."
+}

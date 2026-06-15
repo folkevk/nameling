@@ -1,0 +1,64 @@
+{
+  "associations": [
+    "althochdeutsche bzw. altdeutsche Herkunft",
+    "zweigliedriger Vorname",
+    "Namensbedeutung und Namenstag",
+    "selten in aktuellen Hitlisten",
+    "traditioneller Klang",
+    "teilweise als schön empfunden",
+    "teilweise als altmodisch empfunden"
+  ],
+  "confidence": 0.83,
+  "display_text": "Gerlinde wirkt öffentlich vor allem traditionell, altdeutsch und selten. Die Resonanz ist überwiegend sachlich-informativ, mit einzelnen gemischten Einschätzungen zur Modernität bzw. Altmodischkeit.",
+  "evidence_quality": "mittel bis gut; klare Namensdiskussion, aber die öffentliche Resonanz stützt sich teils auf einzelne Lexikonseiten und Kommentare.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Gerlinde",
+  "normalized_name": "gerlinde",
+  "overall_resonance": "Gerlinde wirkt in der öffentlichen Wahrnehmung vor allem traditionsreich, altdeutsch und deutlich selten. Die Resonanz ist eher sachlich-informativ als emotional, mit vereinzelt gemischten bis leicht kritischen Kommentaren zur Modernitätswirkung.",
+  "practical_notes": [
+    "Für Suchende ist der Name klar verständlich und historisch einordenbar.",
+    "In heutigen Kontexten kann der Klang je nach Umfeld als klassisch oder etwas altmodisch wahrgenommen werden.",
+    "Die Seltenheit kann als individuell wahrgenommen werden."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist insgesamt solide, aber stark von Namenslexika und kommentarbasierten Einschätzungen geprägt.",
+    "Einzelne negative Reaktionen beziehen sich eher auf den Zeitgeschmack als auf den Namen selbst.",
+    "Keine belastbare Aussage zur breiten gesellschaftlichen Wahrnehmung über die genannten Quellen hinaus."
+  ],
+  "short_summary": "Gerlinde wird meist als seltener, traditioneller und altdeutscher Vorname wahrgenommen; die Resonanz ist überwiegend sachlich, mit vereinzelt gemischten Meinungen zum Klang.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Gerlinde � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/G/Ge/Gerlinde/"
+    },
+    {
+      "confidence": 0.92,
+      "is_name_discussion": true,
+      "sentiment": "gemischt",
+      "source_type": "web",
+      "title": "&#9655; Vorname Gerlinde: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Gerlinde.html"
+    }
+  ],
+  "style_effect": [
+    "traditionell",
+    "altdeutsch",
+    "klassisch",
+    "selten",
+    "historisch",
+    "weiblich-klar",
+    "eher ungebräuchlich",
+    "namenslexikalisch"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Der Name ist sichtbar, aber nicht breit verbreitet. In den Quellen wird er eher als seltener, klassischer Vorname mit historischem Charakter behandelt."
+}

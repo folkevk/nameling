@@ -1,0 +1,63 @@
+{
+  "associations": [
+    "latinisierte Form von Karl",
+    "Bedeutung: Mann / Ehemann / Geliebter",
+    "auch gedeutet als der Freie",
+    "altdeutsch",
+    "klassisch",
+    "traditionsreich",
+    "in Deutschland wieder etwas beliebter",
+    "Namenstag am 4. November"
+  ],
+  "confidence": 0.92,
+  "display_text": "Carl wird öffentlich meist als klassisch, traditionsreich und leicht elegant wahrgenommen. Die Quellen beschreiben den Namen überwiegend positiv bis neutral; eine starke negative oder kontroverse Resonanz ist nicht erkennbar. Die Evidenz ist solide, wirkt aber vor allem lexikalisch und weniger wie eine breite öffentliche Debatte.",
+  "evidence_quality": "Gut, aber überwiegend lexikalisch statt diskussionsbasiert. Die Quellen sind konsistent und eher positiv bis neutral, mit wenig Gegenstimmen.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Carl",
+  "normalized_name": "carl",
+  "overall_resonance": "Der Vorname Carl wird in den vorliegenden Quellen überwiegend positiv bis neutral wahrgenommen: klassisch, traditionsnah und mit klarer historischer Einordnung. Die Resonanz wirkt eher ruhig und etabliert als auffällig oder kontrovers.",
+  "practical_notes": [
+    "Für die Namenssuche wirkt Carl seriös, historisch und unkompliziert.",
+    "Die Schreibweise mit C kann als bewusst klassisch oder formell empfunden werden.",
+    "Die Datenlage ist gut genug für eine vorsichtige Einordnung, aber nicht für harte Aussagen über gesellschaftliche Trends."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Es gibt keine belastbaren Hinweise auf eine starke negative öffentliche Konnotation.",
+    "Die Evidenz ist vor allem lexikalisch; echte öffentliche Debatten zum Namen sind kaum sichtbar.",
+    "Wertungen wie 'altmodisch' sind eher stilistische Einordnungen als objektive Aussagen."
+  ],
+  "short_summary": "Carl gilt als klassischer, traditionsreicher Vorname mit überwiegend positiver bis neutraler Resonanz. Die öffentliche Wahrnehmung ist eher sachlich als kontrovers.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "Vorname Carl � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/C/Ca/Carl/"
+    },
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Carl: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Carl.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "traditionell",
+    "kurz und prägnant",
+    "altdeutsch bzw. historisch geprägt",
+    "leicht elegant",
+    "namenskundlich gut anschlussfähig"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Mittel bis hoch: Der Name ist gut dokumentiert und in Namenslexika präsent; die öffentliche Diskussion wirkt jedoch eher informativ als breit emotional."
+}

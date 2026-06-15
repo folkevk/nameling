@@ -1,0 +1,63 @@
+{
+  "associations": [
+    "französischer Vorname",
+    "weiblicher Vorname",
+    "Bedeutung: die Edle / die Vornehme",
+    "Bedeutungsnähe zu Adel- und Edel-Namen",
+    "Namenstag",
+    "Namensvariante mit internationaler Anmutung",
+    "positiv bewerteter Klang"
+  ],
+  "confidence": 0.86,
+  "display_text": "Aline wird in der öffentlichen Wahrnehmung meist positiv gelesen: ein eleganter, weicher und eher vornehm wirkender Mädchenname mit französischer Anmutung. Die Evidenz ist vor allem lexikalisch und kommentarbasiert, daher eher indirekt, aber insgesamt klar freundlich bis neutral-positiv.",
+  "evidence_quality": "mittel bis gut; zwei einschlägige Namensquellen, überwiegend lexikalisch, mit begrenzter direkter Publikumsresonanz",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Aline",
+  "normalized_name": "aline",
+  "overall_resonance": "Aline wird im deutschsprachigen Raum überwiegend als eleganter, eher klassisch-französisch wirkender Mädchenname wahrgenommen. Die öffentliche Rezeption ist insgesamt freundlich bis positiv, vor allem durch Assoziationen wie „edel“, „vornehm“ und „schön klingend“.",
+  "practical_notes": [
+    "Der Name wirkt klar, freundlich und gut aussprechbar.",
+    "Durch die französisch-elegante Anmutung passt Aline gut zu einem modernen, aber nicht modischen Stil.",
+    "Varianten und ähnliche Namen sind im deutschen Umfeld bekannt, was die Einordnung erleichtert.",
+    "Für Suchmaschinen- und Namenskontexte ist die öffentliche Resonanz eher stabil als polarisierend."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt vor allem aus Namenslexika und Kommentaren; das ist nur eine indirekte Annäherung an öffentliche Resonanz.",
+    "Beliebtheits- oder Sympathieaussagen sind daher vorsichtig zu lesen und nicht als allgemeingültig zu verstehen.",
+    "Keine Hinweise auf soziale Stigmatisierung in der vorliegenden Evidenz."
+  ],
+  "short_summary": "Aline gilt öffentlich meist als eleganter, freundlicher und eher vornehm wirkender Mädchenname mit französischer Anmutung.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.92,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Aline � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/A/Al/Aline/"
+    },
+    {
+      "confidence": 0.92,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Aline: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Aline.html"
+    }
+  ],
+  "style_effect": [
+    "elegant",
+    "weich",
+    "klassisch",
+    "international",
+    "sachlich bis charmant",
+    "leicht nostalgisch"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "mittlere Sichtbarkeit; eher bekannt als Lexikon- und Namensklassiker, aber nicht stark dominant im Alltagsgebrauch"
+}

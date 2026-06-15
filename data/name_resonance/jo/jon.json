@@ -1,0 +1,63 @@
+{
+  "associations": [
+    "Variante bzw. Kurzform von John/Johannes",
+    "auch Kurzform von Jonathan, Jonas und Simeon",
+    "biblische und hebräische Herkunft",
+    "Bedeutungen wie „Gott ist gnädig“, „Geschenk Jahwes“ oder „die Taube / der Friedensbringer“",
+    "Namenstag",
+    "skandinavischer und englischsprachiger Raum",
+    "isländische Schreibweise Jón"
+  ],
+  "confidence": 0.95,
+  "display_text": "Jon wird in der öffentlichen Wahrnehmung überwiegend neutral bis leicht positiv gesehen. Der Name wirkt kurz, klar und international vertraut; er wird meist als Variante oder Kurzform von Johann-/Jonas-/Jonathan-Namen mit biblischer Herkunft eingeordnet. In Deutschland gilt Jon eher als seltener Vorname, ohne erkennbare negative Stigmatisierung in der vorliegenden Evidenz.",
+  "evidence_quality": "gut; zwei klare, überwiegend sachliche namenskundliche Webquellen mit hoher Relevanz, teils mit sekundären Kommentarbezügen",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Jon",
+  "normalized_name": "jon",
+  "overall_resonance": "Überwiegend neutral bis leicht positiv; Jon wird vor allem als kurzer, klarer und international vertrauter Vorname wahrgenommen.",
+  "practical_notes": [
+    "Für die Namenssuche wirkt Jon schlicht, modern und leicht merkbar.",
+    "Der Name ist kurz und kann je nach Kontext als eigenständiger Vorname oder als Kurzform verstanden werden.",
+    "In Deutschland dürfte die Vertrautheit vorhanden, die tatsächliche Verbreitung aber eher moderat bis gering sein."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist überwiegend textbasiert und namenkundlich; direkte öffentliche Personenbewertung ist kaum erkennbar.",
+    "Die positive Wirkung („melodisch“, „international“) ist eher eine stilistische Einordnung als ein harter Konsens.",
+    "Keine belastbaren Hinweise auf Stigmatisierung oder negative soziale Konnotationen in der vorliegenden Evidenz."
+  ],
+  "short_summary": "Jon wird öffentlich vor allem sachlich und leicht positiv wahrgenommen: kurz, international, biblisch geprägt und in Deutschland eher selten.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Jon � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/J/Jo/Jon/"
+    },
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Jon: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Jon.html"
+    }
+  ],
+  "style_effect": [
+    "kurz",
+    "klar",
+    "melodisch",
+    "international",
+    "namenskundlich",
+    "sachlich",
+    "biblisch geprägt"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland eher selten, aber durch die knappe Form und die bekannte Namensherkunft gut einordbar."
+}

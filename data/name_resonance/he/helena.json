@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "altgriechische Herkunft",
+    "Bedeutungen wie „die Strahlende“, „die Leuchtende“ oder ähnlich",
+    "griechische Mythologie, insbesondere Helena von Troja",
+    "weiblicher Vorname",
+    "Namenstag",
+    "Beliebtheit in Deutschland",
+    "Spitznamen wie Leni oder Ela"
+  ],
+  "confidence": 0.92,
+  "display_text": "Helena gilt in Deutschland als überwiegend positiv besetzter, klassischer und melodischer Vorname. Er wird vor allem mit griechischer Herkunft, Bedeutungen wie „die Strahlende“ sowie mythologischen Bezügen verbunden. Die Evidenz ist solide, stammt aber hauptsächlich aus Namensportalen und damit eher aus kuratierten Darstellungen als aus breiter öffentlicher Debatte.",
+  "evidence_quality": "Gut, aber begrenzt: zwei eindeutige Namensquellen mit überwiegend positiver, informativ-lexikalischer Darstellung.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Helena",
+  "normalized_name": "helena",
+  "overall_resonance": "Überwiegend positiv und wertschätzend wahrgenommen.",
+  "practical_notes": [
+    "Für viele wirkt Helena vertraut und positiv besetzt.",
+    "Der Name ist gut aussprechbar und im deutschsprachigen Raum etabliert.",
+    "Die Wahrnehmung kann je nach Umfeld als eher klassisch-elegant statt extravagant ausfallen."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt vor allem aus Namensportalen und ist daher eher kuratiert als eine breite öffentliche Debatte.",
+    "Aussagen zur Wirkung beruhen teils auf lexikalischen Einordnungen und nicht auf repräsentativen Umfragen.",
+    "Es liegen keine Hinweise auf soziale Stigmatisierung vor."
+  ],
+  "short_summary": "Helena wird in Deutschland überwiegend positiv, klassisch und klangvoll wahrgenommen, mit starken Bezügen zu Herkunft, Bedeutung und Mythologie.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "positive",
+      "source_type": "web",
+      "title": "Vorname Helena � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/H/He/Helena/"
+    },
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Helena: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Helena.html"
+    }
+  ],
+  "style_effect": [
+    "klingt klassisch und zeitlos",
+    "wird als melodisch und weich beschrieben",
+    "wirkt gebildet und traditionsnah",
+    "hat durch mythologische Bezüge eine elegante, kulturelle Note",
+    "erscheint zugleich modern genug für den Alltag"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Der Name ist in Deutschland gut sichtbar und in Namenslexika sowie Beliebtheitsdarstellungen präsent; die öffentliche Resonanz wirkt eher indirekt über positive Einordnungen als über breite Diskussionen."
+}

@@ -1,0 +1,59 @@
+{
+  "associations": [
+    "althochdeutsche Herkunft",
+    "Bedeutung wie 'der im Norden Glänzende' bzw. 'das Licht des Nordens'",
+    "Namenstag am 6. Juni",
+    "historisch in Deutschland bekannt",
+    "früher deutlich beliebter",
+    "heute eher niedrige Beliebtheit",
+    "Spitznamen wie Norbi oder Nobby"
+  ],
+  "confidence": 0.91,
+  "display_text": "Norbert wirkt in Deutschland eher klassisch und traditionell. Die öffentliche Wahrnehmung ist überwiegend neutral bis leicht positiv, vor allem geprägt von Herkunft, Bedeutung und historischer Bekanntheit. Heute gilt der Name eher als selten und weniger modern. Die Evidenz basiert allerdings überwiegend auf Namenslexika, nicht auf breiter öffentlicher Diskussion.",
+  "evidence_quality": "Gut für Herkunft, Bedeutung und Beliebtheit; schwach für echte öffentliche Resonanz, da fast nur lexikalische Quellen vorliegen.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Norbert",
+  "normalized_name": "norbert",
+  "overall_resonance": "Eher traditionell und historisch geprägt, mit insgesamt neutral bis leicht positivem Eindruck.",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt Norbert klassisch, bodenständig und klar traditionell.",
+    "Wer einen modernen oder trendigen Eindruck sucht, findet hier eher keine starke Passung.",
+    "Die öffentliche Wahrnehmung ist eher beschreibend als emotional aufgeladen."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz besteht fast nur aus Namenslexika und Beschreibungen, nicht aus echter öffentlicher Diskussion.",
+    "Aussagen zur Wirkung sind daher vorsichtig zu lesen und nicht als allgemeingültige Meinungen zu verstehen."
+  ],
+  "short_summary": "Norbert wird öffentlich vor allem als klassischer, traditioneller Vorname mit althochdeutscher Herkunft wahrgenommen; heute eher selten und eher neutral bis leicht positiv konnotiert.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Norbert � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/N/No/Norbert/"
+    },
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Norbert: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Norbert.html"
+    }
+  ],
+  "style_effect": [
+    "altdeutsch/traditionell",
+    "eher klassisch als modern",
+    "lexikalisch und namenskundlich gut verankert",
+    "klanglich solide, unaufgeregt"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Der Name ist in Deutschland bekannt, wirkt heute aber eher selten und nicht besonders modern. In der öffentlichen Namensbeschreibung steht vor allem die klassische Herkunft im Vordergrund."
+}

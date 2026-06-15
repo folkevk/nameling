@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "lateinischer Ursprung",
+    "Bedeutung im Sinn von stark/kräftig/gesund",
+    "weibliche Form von Valentin",
+    "Namenstag",
+    "international verbreitet",
+    "in Deutschland als gebräuchlich beschrieben"
+  ],
+  "confidence": 0.88,
+  "display_text": "Valentina wirkt öffentlich überwiegend positiv, klassisch und international. In den vorliegenden Quellen wird der Name vor allem über Bedeutung, Herkunft und Beliebtheit beschrieben; die Evidenz ist dabei eher sachlich als kontrovers.",
+  "evidence_quality": "mittel bis gut: zwei explizite Namensquellen, überwiegend sachlich-informativ und positiv-beschreibend, aber begrenzte Breite der Evidenz",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Valentina",
+  "normalized_name": "valentina",
+  "overall_resonance": "Valentina wird in den vorliegenden Namensquellen überwiegend positiv und wertschätzend dargestellt. Der Eindruck ist vor allem klassisch, international und klangvoll; die öffentliche Rezeption wirkt eher sachlich-beschreibend als kontrovers.",
+  "practical_notes": [
+    "Für Suchmaschinen- und Namenskontexte ist Valentina ein gut anschlussfähiger, leicht verständlicher Name.",
+    "Die Wirkung ist eher freundlich-klassisch als modern-experimentell.",
+    "Wenn ein eher internationaler und zugleich traditionell wirkender Name gesucht wird, passt Valentina gut."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz basiert nur auf wenigen Namensportalen und damit vor allem auf lexikalischen Beschreibungen.",
+    "Es gibt keine belastbaren Hinweise auf eine besondere gesellschaftliche Stigmatisierung oder auf starke Gegenreaktionen.",
+    "Aussagen zur Beliebtheit sollten als Portalangaben und nicht als vollständiges Bild der öffentlichen Meinung verstanden werden."
+  ],
+  "short_summary": "Valentina wird in den verfügbaren Quellen überwiegend positiv, klassisch und international beschrieben. Die Evidenz ist vor allem sachlich und stammt aus Namensportalen, daher sollte die Einschätzung als vorsichtige Zusammenfassung verstanden werden.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.88,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "Vorname Valentina � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/V/Va/Valentina/"
+    },
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Valentina: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Valentina.html"
+    }
+  ],
+  "style_effect": [
+    "elegant",
+    "international",
+    "klassisch",
+    "weiblich",
+    "klangvoll",
+    "namenskundlich-traditionell"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland scheint der Name bekannt und präsent zu sein, mit wahrnehmbarer Beliebtheit in Namensdatenbanken und Vornamensportalen. Die Evidenz spricht eher für eine gute Sichtbarkeit als für breite öffentliche Debatten."
+}

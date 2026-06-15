@@ -1,0 +1,52 @@
+{
+  "associations": [
+    "französische Kurzform von Remigius",
+    "lateinischer Ursprung",
+    "Deutung als „der Ruderer“",
+    "auch als Bezug zu Heilmittel/Heilkraut/Medizin beschrieben",
+    "Namenstag am 13. Januar und 1. Oktober",
+    "in Deutschland als eher beliebter, aber nicht sehr häufiger Vorname eingeordnet"
+  ],
+  "confidence": 0.89,
+  "display_text": "Remi wirkt in Deutschland eher positiv bis neutral: kurz, modern und französisch anmutend. Die Quellen beschreiben den Namen vor allem namenskundlich, mit lateinischer Herkunft und der Bedeutung „der Ruderer“; zugleich wird er als eher nicht sehr häufig, aber durchaus bekannt eingeordnet.",
+  "evidence_quality": "mittel bis hoch, aber vor allem beschreibende Quellen ohne direkte Publikumsresonanz",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Remi",
+  "normalized_name": "remi",
+  "overall_resonance": "eher positiv bis neutral, mit sachlich-namenskundlicher Prägung",
+  "practical_notes": [
+    "Für Suchende wirkt Remi kurz, international verständlich und stilistisch klar.",
+    "In Deutschland dürfte der Name eher auffallen, ohne exotisch zu wirken.",
+    "Die Schreibweise kann je nach Kontext als französisch gelesen werden."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist überwiegend textquellenbasiert und beschreibt den Namen sachlich; direkte öffentliche Meinungen sind kaum enthalten.",
+    "Es gibt keine klare negative gesellschaftliche Zuschreibung in der vorliegenden Evidenz.",
+    "Beliebtheitsangaben sollten nicht als breites Stimmungsbild missverstanden werden."
+  ],
+  "short_summary": "Remi wird in der vorliegenden Evidenz vor allem sachlich und positiv-kontextuell beschrieben: ein kurzer, französisch wirkender Name mit lateinischer Herkunft und eher seltener bis moderater Verbreitung in Deutschland.",
+  "source_count": 1,
+  "sources": [
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Remi � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/R/Re/Remi/"
+    }
+  ],
+  "style_effect": [
+    "kurz und modern",
+    "französisch wirkend",
+    "klassisch durch die Herleitung aus Remigius",
+    "klingt sachlich und unkompliziert",
+    "eher unaufgeregt als modisch-experimentell"
+  ],
+  "usable_evidence_count": 1,
+  "visibility": "im deutschsprachigen Raum bekannt, aber eher nicht sehr häufig"
+}

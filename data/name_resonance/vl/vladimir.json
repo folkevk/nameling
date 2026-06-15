@@ -1,0 +1,62 @@
+{
+  "associations": [
+    "slawische Herkunft",
+    "Bedeutung in Richtung Herrscher/Frieden",
+    "männlicher Vorname",
+    "Namenstag-Referenzen",
+    "kurze Spitznamen wie Vladi oder Vlad",
+    "in Deutschland eher selten"
+  ],
+  "confidence": 0.78,
+  "display_text": "Vladimir: In Deutschland eher selten bis mittelbekannt, öffentlich vor allem sachlich und leicht positiv wahrgenommen. Der Name wirkt klassisch, klangvoll und international, mit starker slawischer Prägung und einer eher markanten als alltäglichen Präsenz.",
+  "evidence_quality": "mittel bis schwach: überwiegend Namenslexika, kaum diskursive öffentliche Meinungen",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Vladimir",
+  "normalized_name": "vladimir",
+  "overall_resonance": "Vladimir wird in deutschsprachigen Namensquellen überwiegend sachlich und eher positiv beschrieben. Die öffentliche Wahrnehmung wirkt vor allem namenkundlich geprägt: slawische Herkunft, starke Bedeutung und ein klarer, klassisch wirkender Klang. Gleichzeitig ist der Name in Deutschland eher selten bis mittelbekannt, was ihn präsent, aber nicht alltäglich macht.",
+  "practical_notes": [
+    "Für Namenssuche und Erstwirkung wirkt Vladimir klar, international und traditionsnah.",
+    "Die Schreibweise ist eindeutig, die Aussprache kann regional unterschiedlich wahrgenommen werden.",
+    "Wegen der eher seltenen Verwendung in Deutschland kann der Name auffallen, ohne exotisch zu wirken."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist überwiegend lexikalisch und auf wenige Namensquellen beschränkt.",
+    "Es liegen keine belastbaren Hinweise auf breite öffentliche Debatten oder stark geteilte Alltagswahrnehmungen vor.",
+    "Seltenheit kann je nach Kontext als markant oder ungewohnt empfunden werden; das ist jedoch keine feste gesellschaftliche Bewertung."
+  ],
+  "short_summary": "Vladimir wird in deutschen Namensquellen eher positiv, sachlich und als seltener, slawisch geprägter Vorname beschrieben.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Vladimir � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/V/Vl/Vladimir/"
+    },
+    {
+      "confidence": 0.87,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Vladimir: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Vladimir.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "international",
+    "eher markant",
+    "klangvoll",
+    "sachlich",
+    "namentlich stark",
+    "selten, aber bekannt"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland eher selten bis mittelbekannt; dadurch vertraut genug, um erkannt zu werden, aber nicht stark verbreitet."
+}

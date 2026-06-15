@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "Koseform von Elfriede",
+    "Kurz- und Koseform von Euphemia",
+    "Bedeutungen wie „die starke Elfe“ oder „die von gutem Ruf“",
+    "„gutes Omen“ als positive Deutung",
+    "literarische Assoziation durch Effi Briest",
+    "in Deutschland eher selten"
+  ],
+  "confidence": 0.91,
+  "display_text": "Effi wirkt in Deutschland eher selten, kurz und freundlich. Der Name wird meist als Koseform bzw. Kurzform erklärt und mit leicht positiven Bedeutungen wie „starke Elfe“ oder „gutes Omen“ verbunden. Eine bekannte literarische Assoziation ist Effi Briest. Insgesamt erscheint die öffentliche Resonanz eher neutral bis leicht positiv, bei begrenzter Evidenz.",
+  "evidence_quality": "Gut für Herkunft, Bedeutung und Seltenheit; nur begrenzt aussagekräftig für öffentliche Alltagsrezeption",
+  "generated_at": "2026-06-14T10:47:41Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Effi",
+  "normalized_name": "effi",
+  "overall_resonance": "Eher selten, leicht positiv bis neutral wahrgenommen",
+  "practical_notes": [
+    "Für Suchmaschinen sinnvoll als kurzer, eigenständiger Name mit Koseform-Charakter",
+    "Wirkt freundlich und unaufdringlich, ohne stark modisch zu sein",
+    "Die Seltenheit kann als individuell wahrgenommen werden",
+    "Je nach Kontext kann die literarische Referenz mitschwingen"
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenzlage ist begrenzt und stützt sich vor allem auf Namenslexika",
+    "Beliebtheitsaussagen sind eher statistisch als rezeptionsnah",
+    "Die literarische Assoziation kann den Namen mitprägen, sollte aber nicht als alleinige Deutung verstanden werden"
+  ],
+  "short_summary": "Effi wird in Namensquellen meist als seltene, kurze und eher freundliche Koseform beschrieben, mit leicht positiven Bedeutungsdeutungen und einer bekannten literarischen Assoziation.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "Vorname Effi � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/E/Ef/Effi/"
+    },
+    {
+      "confidence": 0.91,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Effi: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Effi.html"
+    }
+  ],
+  "style_effect": [
+    "kurz, weich und vertraut klingend",
+    "wirkt eher als Koseform oder Kurzname",
+    "namenskundlich und leicht literarisch geprägt",
+    "ungewöhnlich, aber nicht stark erklärungsbedürftig"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Niedrig bis mittel: als Name bekannt, aber in Deutschland eher wenig verbreitet"
+}

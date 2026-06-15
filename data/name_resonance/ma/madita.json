@@ -1,0 +1,62 @@
+{
+  "associations": [
+    "Bedeutung: „die Perle“ / „kleine Perle“",
+    "Kurz- und Koseform von Margarete/Margareta",
+    "schwedisch bzw. nordisch geprägt",
+    "Bezug zu Astrid Lindgren und Kinderbuch-Kontext",
+    "weiblicher Vorname",
+    "Deutschland",
+    "Namenstag",
+    "selten"
+  ],
+  "confidence": 0.86,
+  "display_text": "Madita wirkt in der öffentlichen Namenswahrnehmung überwiegend positiv: selten, freundlich, elegant und leicht nordisch bzw. kinderbuchnah. Die Evidenz ist jedoch nur mittelstark und stützt sich vor allem auf Namenslexika.",
+  "evidence_quality": "mittelstark, aber quellenarm; zwei einschlägige Namenslexikon-/Informationsseiten, keine breite öffentliche Debatte",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Madita",
+  "normalized_name": "madita",
+  "overall_resonance": "Überwiegend positiv und freundlich-elegant, mit informativ-neutralem Unterton. Die öffentliche Wahrnehmung von „Madita“ wirkt eher selten, charmant und namenskundlich interessant, aber die Evidenz ist nur mittelstark und vor allem auf Namenslexika gestützt.",
+  "practical_notes": [
+    "Für Suchmaschinen-Nutzer wirkt der Name eher positiv, weich und ungewöhnlich.",
+    "Die Datenlage spricht eher für eine wohlwollende Namensbeschreibung als für kontroverse Debatten.",
+    "Wenn eine sehr breite Alltagsresonanz gesucht wird, ist die Beleglage hier eher dünn."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz basiert fast ausschließlich auf zwei Namenslexikon-Seiten; breite öffentliche Resonanz ist damit nur begrenzt belegbar.",
+    "Positive Stilwahrnehmungen wie „elegant“ oder „schön“ sind Einordnungen der Quellen, keine objektiven Tatsachen.",
+    "Keine Hinweise auf soziale Stigmatisierung in der vorliegenden Evidenz."
+  ],
+  "short_summary": "Madita wird öffentlich meist freundlich und positiv wahrgenommen: selten, elegant und mit Kinderbuch-/Nordland-Assoziationen. Die Aussagekraft ist jedoch begrenzt, da die Evidenz vor allem aus Namenslexika stammt.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.84,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Madita � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/M/Ma/Madita/"
+    },
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "überwiegend positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Madita: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Madita.html"
+    }
+  ],
+  "style_effect": [
+    "selten und ausgefallen",
+    "elegant und weich klingend",
+    "freundlich-kinderbuchnah",
+    "namenskundlich interessant",
+    "leicht skandinavisch bzw. nordisch assoziiert"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Eher moderat sichtbar: Der Name ist in Namensportalen präsent, wirkt aber nicht als besonders breit diskutierter Alltagsname in der öffentlichen Debatte."
+}

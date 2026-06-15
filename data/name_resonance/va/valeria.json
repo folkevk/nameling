@@ -1,0 +1,63 @@
+{
+  "associations": [
+    "lateinischer Ursprung",
+    "Bedeutungen wie stark, kräftig, mächtig oder gesund",
+    "weiblicher Vorname",
+    "Namenstag",
+    "Beliebtheit in Deutschland",
+    "italienische und spanische Form",
+    "spitznamen- und variantenfreundlich"
+  ],
+  "confidence": 0.84,
+  "display_text": "Valeria gilt im deutschsprachigen Raum überwiegend als klassischer, eleganter und international verständlicher Vorname. Die vorliegenden Quellen betonen vor allem die lateinische Herkunft und Bedeutungen wie „stark“ oder „gesund“. Eine breite öffentliche Debatte ist nicht erkennbar; die Evidenz ist eher lexikalisch als gesellschaftlich breit.",
+  "evidence_quality": "mittel bis gut; zwei passende, überwiegend positive Namenslexikon-Quellen, aber nur begrenzte öffentliche Breite.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Valeria",
+  "normalized_name": "valeria",
+  "overall_resonance": "Überwiegend positiv und eher unaufgeregt: Valeria wird in den vorliegenden Quellen als klassischer, international anschlussfähiger Mädchenvorname mit klarer Namensbedeutung und angenehmem Klang dargestellt.",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt Valeria klar, freundlich und gut verständlich.",
+    "Die Datenlage spricht eher für eine solide, positive Grundwahrnehmung als für Hype oder Polarisierung.",
+    "Wer eine sehr alltagsnahe deutsche Kurzform sucht, könnte Varianten oder Spitznamen mitdenken."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist stark auf Namenslexika beschränkt; eine breite öffentliche Meinungslage lässt sich daraus nur eingeschränkt ableiten.",
+    "Positive Zuschreibungen wie 'stark' oder 'gesund' sind Namensdeutungen und keine Aussagen über konkrete Personen.",
+    "Keine Hinweise auf Stigmatisierung oder negative soziale Konnotationen in den Belegen erkennbar."
+  ],
+  "short_summary": "Valeria wird im deutschen Kontext überwiegend positiv, klassisch und international wahrgenommen; die Evidenz ist jedoch vor allem lexikalisch und damit nur begrenzt breit öffentlich.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "Vorname Valeria � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/V/Va/Valeria/"
+    },
+    {
+      "confidence": 0.91,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Valeria: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Valeria.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "elegant",
+    "international",
+    "weich im Klang",
+    "zeitlos",
+    "leicht gehoben",
+    "informativ wahrgenommen"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Im deutschsprachigen Raum wirkt der Name bekannt und präsent, aber die öffentliche Wahrnehmung in den Belegen ist vor allem lexikalisch geprägt und nicht durch breite Diskussionen oder kontroverse Debatten bestimmt."
+}

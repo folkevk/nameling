@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "althochdeutsche Herkunft",
+    "Bedeutung im Umfeld von „Adler“ und „Herrscher“",
+    "mittelalterlich/altdeutsch",
+    "Namenstag",
+    "selten vergeben",
+    "historisch verbreitet",
+    "sprachlich robust und klar"
+  ],
+  "confidence": 0.84,
+  "display_text": "Arnold wird in Deutschland meist als klassischer, traditionsreicher und eher seltener Vorname wahrgenommen. Die verfügbare Evidenz ist vor allem lexikalisch und namenkundlich: Sie zeigt eine sachlich-neutrale bis leicht wertschätzende Rezeption, mit klaren Assoziationen zu althochdeutscher Herkunft, historischer Verankerung und der Bedeutung rund um „Adler“ und „Herrscher“. Als moderner Trendname wirkt Arnold eher nicht, dafür als markanter, gut erkennbare Traditionsname.",
+  "evidence_quality": "mittel: gute Belege für Bedeutung, Herkunft und stilistische Einordnung; begrenzte direkte Belege für tatsächliche öffentliche Wahrnehmung außerhalb von Namensportalen.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Arnold",
+  "normalized_name": "arnold",
+  "overall_resonance": "Arnold wird in der deutschsprachigen Namensumgebung eher als klassischer, traditionsreicher und sachlich-klarer Vorname wahrgenommen. Die vorhandene Evidenz deutet auf eine neutrale bis leicht wertschätzende Rezeption hin, allerdings vor allem in lexikalischen und namenkundlichen Quellen, nicht als breite Alltagsresonanz.",
+  "practical_notes": [
+    "Für Suchmaschinen und Namenslisten ist Arnold gut einordenbar und sofort als traditioneller Männername erkennbar.",
+    "Die seltenere Nutzung kann den Namen markant wirken lassen, ohne zwingend modern zu klingen.",
+    "Der Name ist inhaltlich stark über Bedeutung und Herkunft aufgeladen, weniger über aktuelle Trendwirkung."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt überwiegend aus Namenslexika und redaktionellen Beschreibungen; echte öffentliche Resonanz ist nur begrenzt direkt belegt.",
+    "Beliebtheits- und Häufigkeitsaussagen sollten vorsichtig gelesen werden, da sie teils aus sekundären oder automatisiert wirkenden Daten stammen."
+  ],
+  "short_summary": "Arnold wirkt in Deutschland klassisch, traditionsreich und eher selten. Die öffentliche Rezeption erscheint sachlich bis leicht positiv, vor allem geprägt von Herkunft, Bedeutung und historischer Einordnung.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Arnold � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/A/Ar/Arnold/"
+    },
+    {
+      "confidence": 0.88,
+      "is_name_discussion": true,
+      "sentiment": "überwiegend positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Arnold: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Arnold.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "traditionell",
+    "historisch",
+    "etymologisch klar",
+    "eher formell",
+    "selten statt modisch"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland wirkt der Name eher selten vergeben und daher auffälliger als sehr geläufige Vornamen. Gleichzeitig ist er durch historische und kulturelle Bezüge bekannt, was seine Wiedererkennbarkeit erhöht."
+}

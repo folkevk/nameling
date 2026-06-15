@@ -1,0 +1,63 @@
+{
+  "associations": [
+    "weiblicher Vorname",
+    "deutsche und französische Nebenform von Leopold",
+    "althochdeutsche Herkunft",
+    "Bedeutung: „die Kühne aus dem Volk“ / „die Tapfere aus dem Volk“",
+    "Namenstag am 15. November",
+    "selten in Deutschland",
+    "klassische, traditionelle Namenswirkung",
+    "Spitzname Leo"
+  ],
+  "confidence": 0.78,
+  "display_text": "Leopoldine wirkt in Deutschland eher selten, klassisch und historisch. Der Name wird meist sachlich bis leicht positiv wahrgenommen, vor allem wegen seiner alten, traditionsreichen Anmutung und der Bedeutung „die Tapfere aus dem Volk“. Die Evidenz ist jedoch eher schwach und stützt sich vor allem auf Namenslexika.",
+  "evidence_quality": "mittel bis schwach: vor allem lexikalische Beschreibungen, ergänzt durch wenige Nutzerreaktionen; begrenzte Aussagekraft für breite öffentliche Wahrnehmung.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Leopoldine",
+  "normalized_name": "leopoldine",
+  "overall_resonance": "Eher klassisch, historisch und leicht positiv konnotiert; die öffentliche Wirkung wirkt aber vor allem beschreibend und nicht breit diskutiert.",
+  "practical_notes": [
+    "Wirkt traditionsbewusst und ungewöhnlich, ohne exzentrisch zu sein.",
+    "Kann als bewusst klassischer, historischer Name wahrgenommen werden.",
+    "Die Seltenheit sorgt für Wiedererkennungswert, kann aber auch als altmodisch gelesen werden."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt überwiegend aus Namenslexika und wenigen Community-Kommentaren; echte öffentliche Resonanz ist nur schwach belegbar.",
+    "Die positive Wirkung ergibt sich eher aus der Namensbeschreibung als aus breiter gesellschaftlicher Diskussion.",
+    "Keine belastbaren Hinweise auf Stigmatisierung oder abwertende Konnotationen in der vorliegenden Evidenz."
+  ],
+  "short_summary": "Leopoldine wird in der vorliegenden Evidenz als seltener, klassisch-historischer Mädchenname mit althochdeutscher Herkunft und der Bedeutung „die Tapfere aus dem Volk“ beschrieben. Die Resonanz wirkt überwiegend sachlich bis leicht positiv, ist aber nur schwach öffentlich belegt.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.92,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Leopoldine � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/L/Le/Leopoldine/"
+    },
+    {
+      "confidence": 0.91,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Leopoldine: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Leopoldine.html"
+    }
+  ],
+  "style_effect": [
+    "historisch",
+    "klassisch",
+    "edel",
+    "altmodisch",
+    "sachlich-namenskundlich",
+    "selten"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland eher selten und daher wenig alltagspräsent; der Name fällt durch seine klassische, ältere Anmutung auf."
+}

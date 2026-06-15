@@ -1,0 +1,63 @@
+{
+  "associations": [
+    "die Löwin",
+    "französische Form von Leon/Leo",
+    "altgriechischer und lateinischer Ursprung",
+    "beliebt in Deutschland",
+    "auch in Frankreich geläufig",
+    "stark/kämpferisch konnotiert",
+    "modern und dauerhaft etabliert"
+  ],
+  "confidence": 0.91,
+  "display_text": "Leonie gilt in Deutschland als sehr bekannter, moderner und freundlich konnotierter Vorname. Die Quellen verbinden den Namen vor allem mit „die Löwin“, Stärke und einer dauerhaft beliebten, klangvollen Wirkung. Die Evidenz ist dabei vor allem lexikalisch und damit aussagekräftig für Bedeutung und Namensbild, aber nur begrenzt für breitere öffentliche Meinungen.",
+  "evidence_quality": "Gut für Bedeutung, Herkunft und verbreitete Namenswahrnehmung; begrenzt für echte öffentliche Resonanzbreite, da die Evidenz fast nur aus zwei lexikalischen Quellen besteht.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Leonie",
+  "normalized_name": "leonie",
+  "overall_resonance": "Überwiegend positiv und modern, mit stark etablierter Wahrnehmung im deutschsprachigen Raum. Die öffentliche Rezeption wirkt eher freundlich, klangvoll und namenskundlich aufgeladen als kontrovers.",
+  "practical_notes": [
+    "Für eine Namenssuche eignet sich Leonie als gut verständlicher, bekannter und positiv besetzter Vorname.",
+    "Der Name wird häufig als modern, aber nicht modisch-vergänglich beschrieben.",
+    "Die Bedeutung wird oft mit Stärke und Löwin assoziiert; das ist eine verbreitete Deutung, keine Aussage über Personen."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt vor allem aus Namenslexika bzw. Namensdatenbanken und bildet öffentliche Resonanz nur indirekt ab.",
+    "Die positiven Bedeutungszuschreibungen sind kulturelle Deutungen und keine objektiven Eigenschaften des Namens.",
+    "Keine Hinweise auf soziale Stigmatisierung in den Quellen; falls in anderen Kontexten abweichende Bewertungen vorkommen, wären diese nicht durch die vorliegende Evidenz gedeckt."
+  ],
+  "short_summary": "Leonie wird in den Quellen überwiegend positiv, modern und sehr etabliert beschrieben. Die häufigsten Assoziationen sind Löwin, Stärke und ein klangvoller, beliebter Mädchenname.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "Vorname Leonie � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/L/Le/Leonie/"
+    },
+    {
+      "confidence": 0.94,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Leonie: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Leonie.html"
+    }
+  ],
+  "style_effect": [
+    "modern",
+    "klangvoll",
+    "freundlich",
+    "etabliert",
+    "weiblich",
+    "namenskundlich",
+    "positiv konnotiert"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Hoch: Leonie ist in Deutschland sehr bekannt und breit etabliert. Die vorliegenden Quellen beschreiben den Namen als beliebt, zeitgemäß und dauerhaft präsent."
+}

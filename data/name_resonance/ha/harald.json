@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "germanische bzw. altnordische Herkunft",
+    "Bedeutung im Sinn von Heerführer/Befehlshaber",
+    "historischer Charakter",
+    "Namenstag",
+    "lange Namensgeschichte",
+    "heute in Deutschland selten"
+  ],
+  "confidence": 0.91,
+  "display_text": "Harald wird in Deutschland meist als klassischer, historisch geprägter Vorname wahrgenommen. Die Namenserklärung ist klar und positiv konnotiert (germanisch/altnordisch, Bedeutung im Sinn von Heerführer), zugleich ist der Name heute eher selten und wirkt dadurch eher traditionell als modern.",
+  "evidence_quality": "hoch für Herkunft, Bedeutung und Verbreitung; mittel für allgemeine öffentliche Resonanz, da überwiegend namenskundliche Quellen vorliegen.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Harald",
+  "normalized_name": "harald",
+  "overall_resonance": "Harald wirkt in der öffentlichen Namenswahrnehmung eher traditionell, historisch und sachlich als modern oder trendig. Die verfügbare Evidenz deutet auf eine überwiegend neutrale bis leicht positive Rezeption hin, vor allem wegen der klaren Herkunfts- und Bedeutungsassoziationen.",
+  "practical_notes": [
+    "Für Suchmaschinen- oder Lexikon-Kontexte eignet sich eine kurze, sachliche Einordnung besonders gut.",
+    "Der Name vermittelt eher Tradition als Trend.",
+    "Keine belastbaren Hinweise auf soziale Stigmatisierung in der vorliegenden Evidenz."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt vor allem aus Namenslexika und nicht aus breiter freier Alltagsdiskussion; die öffentliche Resonanz ist daher nur indirekt belegbar.",
+    "Seltenheit kann je nach Kontext als klassisch oder altmodisch wahrgenommen werden, ohne dass das eine feste Bewertung wäre."
+  ],
+  "short_summary": "Harald ist in Deutschland ein bekannter, heute eher seltener Vorname mit traditionell-historischer Wirkung und überwiegend neutral bis leicht positiver Wahrnehmung.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Harald � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/H/Ha/Harald/"
+    },
+    {
+      "confidence": 0.94,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Harald: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Harald.html"
+    }
+  ],
+  "style_effect": [
+    "traditionell",
+    "klassisch",
+    "historisch",
+    "bodenständig",
+    "formal",
+    "eher konservativ",
+    "namenskundlich klar lesbar"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland heute eher selten und dadurch auffällig traditionell; der Name ist gut bekannt, aber kein aktueller Modename."
+}

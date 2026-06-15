@@ -1,0 +1,62 @@
+{
+  "associations": [
+    "französische Schreibform",
+    "bretonische Variante von Anna",
+    "althebräische Herkunft",
+    "Bedeutungen wie Anmut, Gnade, Liebreiz",
+    "weiblicher Vorname",
+    "selten in Deutschland",
+    "Namenstag am 26. Juli"
+  ],
+  "confidence": 0.82,
+  "display_text": "Annick ist in Deutschland eher selten und wirkt in den verfügbaren Quellen elegant, französisch-bretonisch und traditionell verwurzelt. Die öffentliche Resonanz ist überwiegend sachlich bis leicht positiv, basiert aber fast nur auf namenkundlichen Einzelquellen.",
+  "evidence_quality": "Begrenzt: überwiegend lexikalische Quellen, keine breite öffentliche Debatte oder größere Menge an Alltagsstimmen.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Annick",
+  "normalized_name": "annick",
+  "overall_resonance": "Annick wirkt in der verfügbaren Evidenz sachlich, selten und eher elegant als alltäglich. In Deutschland wird der Name als ungewöhnlich wahrgenommen; die vorhandenen Quellen betonen vor allem Herkunft, Bedeutung und die französisch-bretonische Prägung. Eine breitere öffentliche Debatte ist nicht erkennbar.",
+  "practical_notes": [
+    "Für Suchende ist Annick ein klar weiblich wirkender, ungewöhnlicher Name mit französisch-bretonischem Klang.",
+    "Die Seltenheit kann als stilistischer Vorteil wahrgenommen werden, kann aber auch zu Nachfragen bei Schreibweise und Herkunft führen.",
+    "Wenn Kontext wichtig ist, hilft ein kurzer Hinweis auf die Aussprache und die Herkunft."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz basiert fast nur auf zwei namenkundlichen Webseiten; das ist keine breite öffentliche Meinungsbasis.",
+    "Vereinzelte Hinweise auf eine Verwechslung mit einem Männernamen wirken eher wie Einzelfälle als wie ein allgemeines Muster.",
+    "Keine belastbare Aussage zu gesellschaftlicher Wertung außerhalb der genannten Quellen möglich."
+  ],
+  "short_summary": "Annick wird in Deutschland als seltener, französisch-bretonisch geprägter Mädchenname mit positiver, eher eleganter Wirkung wahrgenommen. Die Evidenz ist jedoch begrenzt und vor allem namenkundlich.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Annick � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/A/An/Annick/"
+    },
+    {
+      "confidence": 0.81,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Annick: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Annick.html"
+    }
+  ],
+  "style_effect": [
+    "französisch klingend",
+    "elegant",
+    "international",
+    "traditionell verwurzelt",
+    "selten",
+    "lexikalisch-namenskundlich wahrgenommen"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland eher selten und dadurch auffällig, aber nicht stark verbreitet oder breit diskutiert."
+}

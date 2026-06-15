@@ -1,0 +1,63 @@
+{
+  "associations": [
+    "Blume",
+    "Blüte",
+    "Frühling",
+    "lateinische Herkunft",
+    "italienische Form von Flora",
+    "römische Mythologie",
+    "Namenstag",
+    "selten bis mäßig verbreitet"
+  ],
+  "confidence": 0.78,
+  "display_text": "Florina wirkt in Deutschland überwiegend leicht positiv, blumig und sanft. Der Name wird mit Blume, Blüte, Frühling und lateinischer Herkunft verbunden und eher als selten bis mäßig verbreitet beschrieben. Die öffentliche Resonanz ist damit freundlich, aber nur vorsichtig beurteilbar, da sie vor allem aus einzelnen Namensportalen stammt.",
+  "evidence_quality": "mittel bis schwach: klare Namensdiskussion, aber nur wenige und vor allem lexikalische Quellen; öffentliche Resonanz nur indirekt abbildbar.",
+  "generated_at": "2026-06-14T10:47:41Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Florina",
+  "normalized_name": "florina",
+  "overall_resonance": "Überwiegend leicht positiv und floral geprägt, mit eher sanfter, klassisch-romantischer Wirkung. Die öffentliche Wahrnehmung wirkt insgesamt freundlich, aber nicht breit belegbar, da die Evidenz vor allem aus einzelnen Namenslexika stammt.",
+  "practical_notes": [
+    "Der Name wird meist über seine blumige Bedeutung und die Nähe zu Flora wahrgenommen.",
+    "Wirkt freundlich, weich und eher zeitlos als trendig.",
+    "Kurzformen wie Flo, Flori oder Ina werden vereinzelt genannt."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist begrenzt und basiert vor allem auf einzelnen Namensdatenbanken.",
+    "Kommentare und Lexikontexte können eine leicht positive Tendenz verstärken.",
+    "Aussagen zur öffentlichen Resonanz sind daher nur vorsichtig als Tendenz zu verstehen."
+  ],
+  "short_summary": "Florina wird in Deutschland überwiegend positiv, blumig und sanft wahrgenommen, aber die Evidenz ist eher schmal und stammt vor allem aus Namenslexika.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "Vorname Florina � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/F/Fl/Florina/"
+    },
+    {
+      "confidence": 0.91,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Florina: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Florina.html"
+    }
+  ],
+  "style_effect": [
+    "blumig",
+    "sanft",
+    "elegant",
+    "frühlingshaft",
+    "klassisch-romanisch",
+    "fein und feminin"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Eher selten bis mäßig verbreitet; damit vorhanden, aber nicht massenhaft sichtbar. Die öffentliche Resonanz erscheint eher in Namensportalen als in breiter Alltagspräsenz."
+}

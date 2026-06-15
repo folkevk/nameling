@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "englische bzw. walisische Herkunft",
+    "Bedeutung wie „Sohn des Madoc“ bzw. sinngemäß „der Glückliche/Angenehme“",
+    "selten bis moderat verbreitet",
+    "als moderner Jungenname beschrieben",
+    "auch als Familienname bekannt",
+    "vereinzelt als Name mit kreativer Schreib-/Formvariante erwähnt"
+  ],
+  "confidence": 0.84,
+  "display_text": "Maddox wirkt in Deutschland modern, markant und eher selten. Die öffentliche Resonanz ist überwiegend neutral bis positiv, mit internationalem Klang und klarer, ungewöhnlicher Ausstrahlung. Die Aussagekraft der Evidenz ist dabei nur mittel, da vor allem Namenslexika vorliegen.",
+  "evidence_quality": "mittel: zwei direkte Namensquellen mit sachlicher Beschreibung, aber begrenzter Community-Resonanz und wenig breiter sozialer Rückmeldung",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Maddox",
+  "normalized_name": "maddox",
+  "overall_resonance": "Überwiegend modern, markant und eher positiv-neutral wahrgenommen; in der öffentlichen Namensbeschreibung wirkt Maddox in Deutschland eher selten bis moderat verbreitet.",
+  "practical_notes": [
+    "Für die Namenssuche wirkt Maddox auffällig, modern und international.",
+    "Im deutschen Kontext dürfte der Name eher als ungewöhnlich wahrgenommen werden.",
+    "Die Schreibweise ist klar, aber ungewohnt genug, um Aufmerksamkeit zu erzeugen."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz basiert im Wesentlichen auf zwei Namenslexika/Infoseiten; die öffentliche Resonanz ist daher nur eingeschränkt belastbar.",
+    "Einzelne Erwähnungen wie die Nutzung als Hundename sind randständig und nicht als allgemeine Bewertung zu verstehen.",
+    "Keine Hinweise auf starke Stigmatisierung; vorhandene Eindrücke sind vor allem stilistisch und geschmacksbezogen."
+  ],
+  "short_summary": "Maddox wird in Deutschland vor allem als moderner, markanter und eher seltener Jungenname wahrgenommen. Die öffentliche Resonanz ist überwiegend neutral bis positiv, bei insgesamt begrenzter Evidenz.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Maddox � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/M/Ma/Maddox/"
+    },
+    {
+      "confidence": 0.9,
+      "is_name_discussion": true,
+      "sentiment": "mixed",
+      "source_type": "web",
+      "title": "&#9655; Vorname Maddox: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Maddox.html"
+    }
+  ],
+  "style_effect": [
+    "modern",
+    "klangstark",
+    "ungewöhnlich",
+    "international bzw. anglophon wirkend",
+    "eher jung und trendnah",
+    "maskulin konnotiert"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Der Name ist im deutschsprachigen Raum bekannt, aber kein klassischer Standardname. Die Sichtbarkeit entsteht vor allem über Namenslexika und Beliebtheitsseiten, nicht über breite Community-Debatten."
+}

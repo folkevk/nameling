@@ -1,0 +1,62 @@
+{
+  "associations": [
+    "Bedeutung im Sinn von „der im Land Glänzende“",
+    "althochdeutsche Herkunft",
+    "niederdeutsche Form von Lambrecht/Lamprecht",
+    "Seltenheit in Deutschland",
+    "Namenstag am 9. Februar und 17. September",
+    "Bezug zum heiligen Lambert und zu regionalen Traditionen",
+    "vereinzelt Popkultur-Bezug durch einen Liedtitel"
+  ],
+  "confidence": 0.84,
+  "display_text": "Lambert wirkt in der vorhandenen Evidenz eher positiv, klassisch und traditionsnah. Der Name ist selten, altdeutsch geprägt und wird vor allem über Bedeutung, Herkunft und Namenstag beschrieben. Für eine breite öffentliche Resonanz ist die Datenlage allerdings eher dünn; die Wahrnehmung in Namensportalen ist deutlich stärker als in der allgemeinen Debatte.",
+  "evidence_quality": "Mittel bis schwach für echte öffentliche Resonanz; gut für Namensbedeutung, Herkunft und redaktionelle Beschreibung, aber nur begrenzt für breite Wahrnehmung.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Lambert",
+  "normalized_name": "lambert",
+  "overall_resonance": "Eher positiv und traditionsnah, mit sachlich-neutralem Grundton. Der Name wirkt selten, historisch geprägt und für viele eher speziell als modisch.",
+  "practical_notes": [
+    "Für eine Namenssuche bietet Lambert ein klares, klassisches Profil.",
+    "Wegen der Seltenheit kann der Name auffallen und als charaktervoll wahrgenommen werden.",
+    "Die Schreibweise ist unkompliziert, die Aussprache im Deutschen meist gut nachvollziehbar.",
+    "Wer einen modernen Modenamen sucht, wird Lambert vermutlich als eher traditionell empfinden."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt fast ausschließlich aus Namensdatenbanken und Lexika, nicht aus breiter öffentlicher Diskussion.",
+    "Die positive Einordnung ist daher vorsichtig zu lesen; sie basiert eher auf Beschreibung und vereinzelten Bewertungen als auf belastbarer Markt- oder Meinungsbreite.",
+    "Einige Assoziationen sind kulturell oder redaktionell geprägt und nicht als allgemeine öffentliche Wahrnehmung zu verstehen."
+  ],
+  "short_summary": "Lambert wird überwiegend positiv, aber vor allem traditions- und sachbezogen beschrieben: selten, altdeutsch und klassisch. Belastbare öffentliche Debatten sind kaum sichtbar.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Lambert � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/L/La/Lambert/"
+    },
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "überwiegend positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Lambert: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Lambert.html"
+    }
+  ],
+  "style_effect": [
+    "altdeutsch und traditionsverbunden",
+    "selten und dadurch markant",
+    "eher förmlich als verspielt",
+    "historisch/namenskundlich aufgeladen",
+    "leicht edel oder klassisch wirkend"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Gering bis mittel: In Namensportalen wird Lambert klar beschrieben, in der breiten öffentlichen Debatte wirkt der Name aber wenig präsent."
+}

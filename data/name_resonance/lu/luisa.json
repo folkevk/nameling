@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "weiblicher Vorname",
+    "althochdeutsche Herkunft",
+    "Bedeutung in Richtung „berühmt/ruhmreich“",
+    "„die berühmte Kämpferin“",
+    "Namenstag",
+    "in Deutschland beliebt",
+    "moderne, aber vertraute Wirkung"
+  ],
+  "confidence": 0.88,
+  "display_text": "Luisa wirkt in Deutschland überwiegend positiv: ein vertrauter, moderner und zugleich klassisch wirkender Mädchenname mit klarer Namensgeschichte. Die Evidenz ist jedoch eher moderat und stammt vor allem aus Namenslexika.",
+  "evidence_quality": "moderat: klare Namensdiskussionen, aber überwiegend aus einzelnen Lexikon-/Namensseiten und ohne breite öffentliche Streuung",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Luisa",
+  "normalized_name": "luisa",
+  "overall_resonance": "Luisa wird in den vorliegenden Namensquellen überwiegend positiv und vertraut wahrgenommen: ein etablierter, moderner Mädchenname mit klassischer Herkunft und klarer Namensgeschichte.",
+  "practical_notes": [
+    "Für eine Namenssuche spricht Luisa für einen bekannten, positiv besetzten und leicht einordenbaren Vornamen.",
+    "Die Schreibweise ist klar und im deutschen Kontext gut anschlussfähig.",
+    "Wenn ein seltenerer Eindruck gewünscht ist, wirkt Luisa eher mittelhäufig als sehr außergewöhnlich."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die öffentliche Resonanz stützt sich hier fast nur auf wenige Namenslexikon-Seiten; die Evidenz ist daher moderat und nicht breit gestreut.",
+    "Einzelne Deutungen und Kommentarmotive sollten nicht als allgemeingültige Wahrheit verstanden werden, sondern als typische Namensassoziationen."
+  ],
+  "short_summary": "Luisa wird in den Quellen überwiegend positiv als klassischer, moderner und in Deutschland gut bekannter Mädchenname beschrieben.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "Vorname Luisa � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/L/Lu/Luisa/"
+    },
+    {
+      "confidence": 0.92,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Luisa: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Luisa.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch-modern",
+    "freundlich",
+    "elegant",
+    "etabliert",
+    "namenskundlich klar",
+    "nicht zu ausgefallen"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland wirkt Luisa gut bekannt und sichtbar, ohne als extrem ausgefallen zu gelten. Die Evidenz deutet eher auf breite, freundliche Wiedererkennung als auf starke Kontroversen."
+}

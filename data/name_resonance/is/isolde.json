@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "germanisch/althochdeutscher Ursprung",
+    "keltisch/walisische Bezüge in einigen Darstellungen",
+    "Bedeutung im Umfeld von 'eisern' bzw. 'Eisenkämpferin'",
+    "Tristan und Isolde",
+    "Namenstag",
+    "selten/ungewöhnlich",
+    "in einzelnen Kommentaren als altmodisch oder altbacken beschrieben"
+  ],
+  "confidence": 0.84,
+  "display_text": "Isolde hat in Deutschland eine eher seltene, klassische und literarisch geprägte Resonanz. Der Name wird vor allem mit Herkunft, Bedeutung und dem Tristan-und-Isolde-Stoff verbunden. Einzelne Kommentare nennen ihn altmodisch, andere gerade besonders und elegant; das sind jedoch subjektive Eindrücke, keine allgemeine Bewertung.",
+  "evidence_quality": "gut für Namensbedeutung und Kontext, mittel für breite öffentliche Resonanz; Kommentare nur punktuell belastbar",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Isolde",
+  "normalized_name": "isolde",
+  "overall_resonance": "Isolde wirkt in der öffentlichen Namenswahrnehmung eher klassisch, literarisch und selten. Die Resonanz ist überwiegend sachlich-informativ mit leicht nostalgischer oder traditioneller Färbung.",
+  "practical_notes": [
+    "Für eine Namenssuche ist Isolde besonders durch Klang, Literaturbezug und Seltenheit prägnant.",
+    "Die Wahrnehmung kann je nach Umfeld zwischen klassisch-elegant und traditionsbetont ausfallen."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Einige Wertungen wie 'altmodisch' stammen aus einzelnen Kommentaren und sind keine allgemeingültige Tatsache.",
+    "Die Evidenz zur öffentlichen Resonanz ist solide für Herkunft/Bedeutung, aber nur begrenzt repräsentativ für die Gesamtwahrnehmung."
+  ],
+  "short_summary": "Isolde wird meist als seltener, klassisch-literarisch geprägter Vorname wahrgenommen; einzelne Stimmen empfinden ihn als altmodisch, andere gerade als besonders und eigenständig.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Isolde � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/I/Is/Isolde/"
+    },
+    {
+      "confidence": 0.91,
+      "is_name_discussion": true,
+      "sentiment": "mixed",
+      "source_type": "web",
+      "title": "&#9655; Vorname Isolde: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Isolde.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "literarisch",
+    "traditionsreich",
+    "selten",
+    "eher altsprachlich klingend",
+    "elegant"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland eher selten und daher auffälliger als gängige Vornamen; bekannt vor allem durch die Namensgeschichte und den Bezug zu Tristan und Isolde."
+}

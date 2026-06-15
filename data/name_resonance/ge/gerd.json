@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "Kurzform von Gerhard",
+    "althochdeutsche/deutsche Herkunft",
+    "Bedeutung rund um Speer und Stärke",
+    "männlicher Vorname",
+    "Namenstag",
+    "heute eher selten"
+  ],
+  "confidence": 0.89,
+  "display_text": "Gerd wirkt als klassischer, eher seltener deutscher Vorname überwiegend neutral und leicht positiv konnotiert. Die Quellen betonen vor allem Herkunft, Bedeutung und Namenstag; belastbare Hinweise auf eine breitere öffentliche Bewertung sind jedoch begrenzt.",
+  "evidence_quality": "mittel: zwei klare, namebezogene Quellen mit überwiegend lexikalisch-informativer Ausrichtung; die Aussage über öffentliche Resonanz bleibt wegen der Quellenart vorsichtig.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Gerd",
+  "normalized_name": "gerd",
+  "overall_resonance": "Überwiegend sachlich-neutral, mit leicht positivem Unterton durch die Namensbedeutung. Die vorliegende Evidenz beschreibt vor allem Herkunft, Bedeutung und Namenstag; eine breite öffentliche Bewertung ist daraus nur eingeschränkt ableitbar.",
+  "practical_notes": [
+    "Für Suchmaschinen-Texte passt eine neutrale Beschreibung am besten.",
+    "Der Name wirkt traditionell und verständlich, aber nicht stark modegeprägt.",
+    "Positive Konnotationen ergeben sich eher aus der Bedeutung als aus öffentlicher Diskussion."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt vor allem aus Namenslexika und nicht aus breiter öffentlicher Debatte.",
+    "Daraus lässt sich nur begrenzt auf die tatsächliche soziale Wahrnehmung schließen.",
+    "Keine Hinweise auf eine spezifische Stigmatisierung in den vorliegenden Quellen."
+  ],
+  "short_summary": "Gerd wird in den Quellen vor allem sachlich als klassischer, deutscher Vorname mit altdeutscher Herkunft und der Bedeutung rund um Speer/Stärke beschrieben. Die öffentliche Resonanz wirkt eher neutral bis leicht positiv, ist aber nur schwach direkt belegt.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Gerd � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/G/Ge/Gerd/"
+    },
+    {
+      "confidence": 0.92,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Gerd: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Gerd.html"
+    }
+  ],
+  "style_effect": [
+    "kurz und klar",
+    "klassisch-deutsch",
+    "altdeutsche Anmutung",
+    "etymologisch geprägt",
+    "sachlich/informativ",
+    "eher traditionell als modern"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Eher gering bis moderat: Gerd wirkt als kurzer, klassischer deutscher Vorname bekannt, wird in den Quellen aber vor allem lexikalisch behandelt und nicht als stark trendiger oder stark diskutierter Name."
+}

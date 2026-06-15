@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "gotische Herkunft",
+    "ungarischer und türkischer Sprachraum",
+    "Hunnenkönig",
+    "Bedeutung: „das Väterchen“ / „der kleine Vater“",
+    "Namenstag",
+    "selten bzw. eher ungewöhnlich in Deutschland"
+  ],
+  "confidence": 0.84,
+  "display_text": "Attila: eher seltener, markanter Vorname mit historisch-kultureller Prägung. Die öffentliche Wahrnehmung wirkt überwiegend neutral bis leicht positiv, kann aber durch die Assoziation mit dem Hunnenkönig polarisieren.",
+  "evidence_quality": "mittel: zwei namenskundliche Webquellen mit klarer Name-Referenz, aber begrenzter Breite der öffentlichen Resonanzdaten",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Attila",
+  "normalized_name": "attila",
+  "overall_resonance": "Der Vorname Attila wirkt öffentlich vor allem markant, historisch aufgeladen und eher ungewöhnlich. Insgesamt erscheint die Rezeption überwiegend neutral bis leicht positiv, mit klarer Wiedererkennbarkeit.",
+  "practical_notes": [
+    "Für viele wirkt der Name klangstark und einprägsam.",
+    "Die historische Assoziation dürfte oft mitgedacht werden.",
+    "Wegen der Seltenheit kann der Name als besonders und eigenständig wahrgenommen werden."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die historische Verbindung zu Attila dem Hunnenkönig kann polarisieren.",
+    "Die Quellenlage ist begrenzt und basiert vor allem auf Namensportalen, daher nur mittlere Evidenz.",
+    "Eine direkte gesellschaftliche Stigmatisierung ist aus der Evidenz nicht ersichtlich."
+  ],
+  "short_summary": "Attila wird meist als seltener, historisch geprägter und markanter Vorname wahrgenommen. Die öffentliche Rezeption ist überwiegend neutral bis leicht positiv, bei möglicher Polarisierung durch die Hunnenkönig-Assoziation.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "mixed",
+      "source_type": "web",
+      "title": "Vorname Attila � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/A/At/Attila/"
+    },
+    {
+      "confidence": 0.88,
+      "is_name_discussion": true,
+      "sentiment": "überwiegend positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Attila: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Attila.html"
+    }
+  ],
+  "style_effect": [
+    "kräftig",
+    "historisch",
+    "prägnant",
+    "kulturell aufgeladen",
+    "ungewöhnlich",
+    "männlich-markant"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland eher moderat bis gering verbreitet; der Name fällt auf und ist nicht alltäglich."
+}

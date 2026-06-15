@@ -1,0 +1,59 @@
+{
+  "associations": [
+    "englische bzw. irische Namensform",
+    "Verbindung zu Cäcilie/Cecilius wird genannt",
+    "Bedeutung wird als 'die Blinde' bzw. 'die Einäugige' beschrieben",
+    "Namenstag am 22. November",
+    "selten in Deutschland"
+  ],
+  "confidence": 0.74,
+  "display_text": "Sheila wird in Deutschland meist als seltener, international klingender Vorname mit eher neutral bis leicht positiver Wirkung wahrgenommen. Die verfügbaren Quellen sind überwiegend Namenslexika, daher ist die öffentliche Resonanz nur vorsichtig ableitbar.",
+  "evidence_quality": "mittel bis schwach; hauptsächlich lexikalische Namensseiten, öffentliche Resonanz nur indirekt erkennbar",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Sheila",
+  "normalized_name": "sheila",
+  "overall_resonance": "Überwiegend neutral bis leicht positiv wahrgenommen; die öffentliche Resonanz wirkt vor allem sachlich-namenskundlich und eher selten/ungewöhnlich im deutschen Kontext.",
+  "practical_notes": [
+    "Für eine Namenssuche eignet sich Sheila als klar international lesbarer Vorname.",
+    "Wer einen seltenen, aber dennoch bekannten Klang sucht, könnte den Namen als passend empfinden.",
+    "Die Schreibweise ist unkompliziert, die Aussprache im Deutschen meist intuitiv, aber leicht englisch gefärbt."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt fast ausschließlich aus Namenslexika und nicht aus breiter öffentlicher Alltagsnutzung.",
+    "Die Bedeutungsetymologie wird in den Quellen genannt, sollte aber nicht als sozialer Eindruck missverstanden werden.",
+    "Zur tatsächlichen öffentlichen Resonanz in Deutschland ist die Datenlage eher schwach und nur indirekt ableitbar."
+  ],
+  "short_summary": "Sheila wirkt in Deutschland eher selten, international und leicht positiv bis neutral besetzt. Die verfügbare Evidenz ist jedoch vor allem namenskundlich und erlaubt nur eine vorsichtige Einschätzung.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Sheila � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/S/Sh/Sheila/"
+    },
+    {
+      "confidence": 0.88,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Sheila: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Sheila.html"
+    }
+  ],
+  "style_effect": [
+    "klingt international",
+    "weiblich und weich im Klang",
+    "wirkt vertraut durch englisch/irische Assoziationen",
+    "eher klassisch als modisch",
+    "durch Seltenheit etwas markanter"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland eher selten und dadurch auffälliger als gängige Standardnamen; die Sichtbarkeit in der öffentlichen Namenswahrnehmung ist eher niedrig bis mittel."
+}

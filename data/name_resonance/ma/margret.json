@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "Bedeutung: „die Perle“",
+    "Kurzform von Margarete",
+    "deutschsprachige Variante",
+    "mittelalterlich über die heilige Margareta verbreitet",
+    "heute in Deutschland eher selten",
+    "historisch zeitweise beliebter, besonders in den 1930er bis 1950er Jahren"
+  ],
+  "confidence": 0.9,
+  "display_text": "Margret wirkt in Deutschland überwiegend neutral bis traditionsverbunden: ein klassischer, heute eher seltener Name mit der Bedeutung „die Perle“. Die verfügbare Evidenz ist vor allem lexikalisch und beschreibend, daher nur begrenzt als echtes Stimmungsbild der Öffentlichkeit zu lesen.",
+  "evidence_quality": "Gut für etymologische und lexikalische Einordnung, aber nur begrenzt aussagekräftig für echte öffentliche Resonanz.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Margret",
+  "normalized_name": "margret",
+  "overall_resonance": "Überwiegend neutral bis leicht traditionsverbunden. Der Name wirkt im deutschen Sprachraum bekannt, aber heute eher selten und daher eher klassisch als modern.",
+  "practical_notes": [
+    "Für Suchmaschinen-Nutzer eignet sich die Einordnung als klassischer, seltener Name mit traditioneller Herkunft.",
+    "Die Schreibweise wird als deutsche Form von Margarete verstanden; Varianten und Spitznamen sind dokumentiert.",
+    "Die öffentliche Resonanz ist sachlich und kaum emotional aufgeladen."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt überwiegend aus Namensdatenbanken und ist daher eher beschreibend als ein echtes Stimmungsbild der Öffentlichkeit.",
+    "Beliebtheitsangaben können je nach Quelle variieren.",
+    "Es liegt keine breite öffentliche Kontroverse oder lebhafte Debatte zum Namen vor."
+  ],
+  "short_summary": "Margret wird im deutschen Sprachraum vor allem neutral und traditionsverbunden wahrgenommen: ein klassischer, heute eher seltener Name mit klarer historischer Herkunft.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Margret � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/M/Ma/Margret/"
+    },
+    {
+      "confidence": 0.92,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Margret: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Margret.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "traditionsnah",
+    "lexikalisch",
+    "eher zeitlos als trendy",
+    "leicht altmodisch wahrgenommen"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Mittlere Sichtbarkeit als Namenslexikon-Eintrag, aber geringe aktuelle Alltagspräsenz. Die Evidenz beschreibt vor allem Herkunft, Bedeutung und Beliebtheit, nicht eine starke öffentliche Debatte."
+}

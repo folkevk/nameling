@@ -1,0 +1,63 @@
+{
+  "associations": [
+    "Bedeutung: „die Perle“",
+    "Kurzform von Margarete",
+    "historische Nutzung im frühen bis mittleren 20. Jahrhundert",
+    "heute in DE selten",
+    "Namenstag: 20. Juli",
+    "als besondere Schreibweise wahrgenommen"
+  ],
+  "confidence": 0.82,
+  "display_text": "Margrit hat in Deutschland eine eher seltene, traditionelle und nostalgische Resonanz. Der Name wird meist sachlich beschrieben, mit positiven Assoziationen wie „Perle“, aber auch dem Hinweis, dass die Schreibweise gelegentlich erklärt werden muss. Die Evidenz ist begrenzt und kommt vor allem aus Namenslexika.",
+  "evidence_quality": "mittel bis schwach; überwiegend Namensdatenbanken mit wenigen, teils individuellen Kommentaren",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Margrit",
+  "normalized_name": "margrit",
+  "overall_resonance": "Eher freundlich-sachlich mit nostalgisch-historischer Note. Der Name wird vor allem als alte deutsche Kurzform von Margarete wahrgenommen und wirkt dadurch traditionell, selten und etwas altmodisch.",
+  "practical_notes": [
+    "Durch die Seltenheit kann der Name auffallen und eigenständig wirken.",
+    "Die Schreibweise kann gelegentlich erklärt oder buchstabiert werden müssen.",
+    "Für Suchmaschinen und Namenskontexte ist die historische Einordnung oft der wichtigste Bezugspunkt."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist begrenzt und eher beschreibend als diskussionsbasiert.",
+    "Positive Einschätzungen wie „schön“ stammen teils aus Einzelkommentaren und sind nicht verallgemeinerbar.",
+    "Hinweise auf mögliche Schreib- oder Verwechslungsprobleme sind eher praktische als soziale Kritik."
+  ],
+  "short_summary": "Margrit wirkt in Deutschland selten, traditionell und eher nostalgisch. Die öffentliche Wahrnehmung ist überwiegend sachlich bis leicht positiv, mit einzelnen Hinweisen auf besondere Schreibweise und mögliche Verwechslungen.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Margrit � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/M/Ma/Margrit/"
+    },
+    {
+      "confidence": 0.89,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Margrit: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Margrit.html"
+    }
+  ],
+  "style_effect": [
+    "traditionell",
+    "historisch",
+    "selten",
+    "klassisch",
+    "etwas altmodisch",
+    "namenskundlich",
+    "weiblich",
+    "nostalgisch"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland heute sehr selten und daher öffentlich wenig präsent. Die verfügbare Evidenz stammt überwiegend aus Namenslexika und wenigen Kommentaren, nicht aus einer breiten öffentlichen Debatte."
+}

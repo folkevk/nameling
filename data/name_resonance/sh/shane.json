@@ -1,0 +1,85 @@
+{
+  "associations": [
+    "irische/anglisierte Herkunft",
+    "Bedeutung im Sinne von \"Gott ist gnädig\"",
+    "Variante bzw. Form von Seán/Johannes",
+    "Unisex-Anmutung in einzelnen Quellen",
+    "selten in Deutschland"
+  ],
+  "confidence": 0.78,
+  "display_text": "Shane wirkt in Deutschland überwiegend neutral bis leicht positiv: ein seltener, international klingender Vorname mit irisch/hebräischer Namensdeutung. Die verfügbare Evidenz ist jedoch eher schwach und stammt vor allem aus Namensdatenbanken, nicht aus breiter öffentlicher Diskussion.",
+  "evidence_quality": "mittel bis schwach: überwiegend direkte Namensseiten, kaum echte öffentliche Diskussionsbeiträge; die Aussagen zur Resonanz sollten deshalb vorsichtig gelesen werden.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 1,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Shane",
+  "normalized_name": "shane",
+  "overall_resonance": "Überwiegend neutral bis leicht positiv, mit sachlich-namenskundlicher Wahrnehmung. In der deutschen Evidenz wirkt Shane eher als seltener, international geprägter Vorname ohne starke öffentliche Kontroverse.",
+  "practical_notes": [
+    "Für Suchende wirkt Shane eher modern und international als typisch deutsch.",
+    "Die Wahrnehmung ist vor allem neutral-sachlich; positive Akzente kommen aus Herkunft und Bedeutung.",
+    "Wegen der geringen Verbreitung kann der Name als eher markant oder ungewöhnlich wahrgenommen werden.",
+    "Die Einordnung kann je nach Kontext zwischen Jungenname und Unisex variieren."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz für öffentliche Resonanz in Deutschland ist schwach bis mittel und stammt fast nur aus Namensdatenbanken.",
+    "Es handelt sich eher um beschreibende Namenslexika als um echte öffentliche Diskussion.",
+    "Eine einzelne Quelle nennt eine mögliche ungünstige Laut-/Wortassoziation; dafür gibt es aber keine breite Bestätigung.",
+    "Keine belastbaren Hinweise auf eine klar negative gesellschaftliche Bewertung."
+  ],
+  "short_summary": "Shane wird in Deutschland vor allem neutral bis leicht positiv und eher selten wahrgenommen: international klingend, mit irisch/hebräischer Namensdeutung, aber ohne klare breite öffentliche Kontroverse.",
+  "source_count": 5,
+  "sources": [
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Shane � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/S/Sh/Shane/"
+    },
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Shane � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/S/Sh/Shane/"
+    },
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Shane: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Shane.html"
+    },
+    {
+      "confidence": 0.65,
+      "is_name_discussion": false,
+      "sentiment": "unknown",
+      "source_type": "web",
+      "title": "Shane (Vorname) – Wikipedia",
+      "url": "https://de.wikipedia.org/wiki/Shane_(Vorname)"
+    },
+    {
+      "confidence": 0.81,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Jungenname Shane | Bedeutung, Beliebtheit, Herkunft | Vorname Shane - babyclub.de",
+      "url": "https://www.babyclub.de/service/vornamen/namen/jungenname.shane.html"
+    }
+  ],
+  "style_effect": [
+    "informativ",
+    "lexikalisch",
+    "international/anglophon wirkend",
+    "modern",
+    "selten"
+  ],
+  "usable_evidence_count": 4,
+  "visibility": "Eher geringe Sichtbarkeit in Deutschland; der Name wird in Namensdatenbanken beschrieben und als selten bzw. nicht sehr verbreitet eingeordnet."
+}

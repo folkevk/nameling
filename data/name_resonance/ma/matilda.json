@@ -1,0 +1,59 @@
+{
+  "associations": [
+    "Bedeutung im Umfeld von „starke/mächtige Kämpferin“ bzw. „Heldin“",
+    "althochdeutsche Herkunft",
+    "Beliebtheit und Etablierung in Deutschland",
+    "Namenstag",
+    "Kurzformen und Spitznamen wie Tilda oder Tilla"
+  ],
+  "confidence": 0.84,
+  "display_text": "Matilda hat in den vorliegenden Quellen eine überwiegend positive Resonanz: modern, etabliert und mit einer starken, klassischen Bedeutung verbunden. Die öffentliche Sichtbarkeit ist gut, die Evidenz basiert aber vor allem auf Namenslexika und weniger auf breiter öffentlicher Debatte.",
+  "evidence_quality": "mittel: klare, namenbezogene Quellen mit positiver Tendenz, aber begrenzte Breite der öffentlichen Resonanzdaten",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Matilda",
+  "normalized_name": "matilda",
+  "overall_resonance": "Matilda wird in den vorliegenden Quellen überwiegend positiv und wertschätzend wahrgenommen. Der Name wirkt modern, zugleich etabliert und wird mit Stärke, Eleganz und einer klassischen Herkunft verbunden.",
+  "practical_notes": [
+    "Für eine Namenssuche eignet sich Matilda als klarer, gut verständlicher und in Deutschland anschlussfähiger Name.",
+    "Die Wahrnehmung ist eher positiv als auffällig problematisch.",
+    "Wer einen zeitlosen, aber dennoch modernen Mädchennamen sucht, findet hier eine solide Option."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt überwiegend aus Namenslexika und nicht aus breiter öffentlicher Debatte; die öffentliche Resonanz ist daher nur begrenzt direkt messbar.",
+    "Einzelne Quellen wirken eher beschreibend als gesellschaftlich repräsentativ.",
+    "Keine Hinweise auf nennenswerte Stigmatisierung oder kontroverse Konnotationen in den vorliegenden Quellen."
+  ],
+  "short_summary": "Matilda wird in Deutschland überwiegend positiv als moderner, zugleich etablierter Mädchenname mit starker, klassischer Bedeutung wahrgenommen.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "Vorname Matilda � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/M/Ma/Matilda/"
+    },
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Matilda: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Matilda.html"
+    }
+  ],
+  "style_effect": [
+    "modern und zugleich klassisch",
+    "weiblich, freundlich und klar",
+    "stark/selbstbewusst konnotiert",
+    "namenkundlich etabliert",
+    "leicht verspielte Kurzformen möglich (z. B. Tilda, Tilla)"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland ist Matilda gut auffindbar und im Namenskontext sichtbar, vor allem über Namenslexika und Beliebtheitslisten. Die Evidenz deutet eher auf eine solide, positive Präsenz als auf starke Kontroversen hin."
+}

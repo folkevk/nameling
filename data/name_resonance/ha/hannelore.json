@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "Doppelform aus Hanne und Lore",
+    "deutscher Mädchenname",
+    "hebräische und altprovenzalische/althebräische Namenswurzeln",
+    "früher populär",
+    "heute selten",
+    "Namenstag",
+    "Namenslexikon und Herkunft"
+  ],
+  "confidence": 0.91,
+  "display_text": "Hannelore: klassisch-traditionell, historisch geprägt und heute eher selten vergeben. Die öffentliche Resonanz ist sachlich und namenskundlich, ohne starke negative oder auffällige Konnotationen.",
+  "evidence_quality": "gut: zwei klare namenskundliche Quellen mit hoher inhaltlicher Übereinstimmung, aber wenig direkte Alltagsresonanz",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Hannelore",
+  "normalized_name": "hannelore",
+  "overall_resonance": "Hannelore wird öffentlich vor allem als traditioneller, klassisch-deutscher Mädchenname wahrgenommen. Die verfügbaren Quellen beschreiben ihn sachlich als Doppelform aus Hanne und Lore, mit Bezug zu älteren Namenswurzeln. Insgesamt wirkt der Name eher historisch und selten als modern oder trendig.",
+  "practical_notes": [
+    "Für eine Namenssuche ist Hannelore klar historisch und traditionell einzuordnen.",
+    "Wer einen seltenen, aber gut belegten klassischen Namen sucht, findet hier eine eher konservative Wirkung.",
+    "Die Datenlage ist gut für Herkunft und Einordnung, aber nicht für ein breites Stimmungsbild aus sozialen Medien."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Es gibt keine Hinweise auf starke soziale Stigmatisierung in der vorliegenden Evidenz.",
+    "Die Resonanz stammt überwiegend aus Namenslexika und ist daher eher beschreibend als aus breiter öffentlicher Meinungsbildung."
+  ],
+  "short_summary": "Hannelore wird überwiegend als klassischer, traditioneller und heute eher seltener deutscher Mädchenname wahrgenommen.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Hannelore � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/H/Ha/Hannelore/"
+    },
+    {
+      "confidence": 0.94,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Hannelore: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Hannelore.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "traditionell",
+    "altmodisch im neutralen Sinn",
+    "lexikalisch klar",
+    "historisch verbunden"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Eher bekannt, aber heute deutlich seltener vergeben; die öffentliche Sicht ist vor allem namenskundlich und historisch geprägt."
+}

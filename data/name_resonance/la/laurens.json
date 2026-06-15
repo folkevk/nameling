@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "lateinischer Ursprung",
+    "Form von Laurentius",
+    "Bedeutung: Lorbeer / aus Laurentum",
+    "männlicher Vorname",
+    "Namenstag",
+    "selten bis mäßig beliebt in Deutschland",
+    "eher klassisch als modisch"
+  ],
+  "confidence": 0.84,
+  "display_text": "Laurens wirkt in der öffentlichen Wahrnehmung überwiegend sachlich-positiv: klassisch, eigenständig und mit lateinischer Herkunft. Der Name wird meist mit Lorbeer, Laurentius und einem eher seltenen, aber vertrauten Klang verbunden. Die Evidenz ist jedoch vor allem aus Namenslexika abgeleitet und daher nur begrenzt breit öffentlich.",
+  "evidence_quality": "mittel: klare Namensbezüge, aber überwiegend lexikalische Quellen statt breiter öffentlicher Diskussion",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Laurens",
+  "normalized_name": "laurens",
+  "overall_resonance": "Laurens wirkt in der vorliegenden Evidenz überwiegend sachlich-positiv und namenskundlich anerkannt. Der Name wird vor allem mit lateinischem Ursprung, der Form zu Laurentius und der Bedeutung rund um Lorbeer verbunden. In Deutschland erscheint er eher selten bis mäßig verbreitet, was ihm einen eigenständigen, etwas besonderen Eindruck gibt.",
+  "practical_notes": [
+    "Für die Namenssuche wirkt Laurens klar, traditionell und gleichzeitig nicht alltäglich.",
+    "Die Aussprache und Schreibweise sind unkompliziert, der Name hat aber eine eher zurückhaltende Präsenz.",
+    "Die Gesamtwirkung ist eher kultiviert und unaufgeregt als auffällig."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist vor allem aus Namenslexika zusammengesetzt und damit für öffentliche Resonanz nur eingeschränkt aussagekräftig.",
+    "Ein Teil der positiven Wirkung stammt aus beschreibenden oder kommentarbasierten Einschätzungen, nicht aus breiter Diskussionslage."
+  ],
+  "short_summary": "Laurens wird meist sachlich-positiv beschrieben: klassisch, eigenständig und mit lateinischer Herkunft. In Deutschland ist der Name eher selten bis mäßig verbreitet; die Evidenz ist dafür vor allem lexikalisch und damit begrenzt repräsentativ.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Laurens � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/L/La/Laurens/"
+    },
+    {
+      "confidence": 0.95,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Laurens: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Laurens.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "eigenständig",
+    "international anschlussfähig",
+    "namenskundlich geprägt",
+    "eher selten",
+    "ruhig und sachlich"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Die öffentliche Sichtbarkeit ist eher moderat: Der Name wird in Namenslexika und Bedeutungsseiten behandelt, aber die Evidenz zeigt keine breite Alltagsdiskussion. Daher ist die Resonanz gut beschreibbar, aber nur begrenzt repräsentativ für eine große öffentliche Debatte."
+}

@@ -1,0 +1,62 @@
+{
+  "associations": [
+    "französische Herkunft",
+    "lateinische bzw. aramäische Wurzeln",
+    "Bezug zu Ostern/Pessach",
+    "männlicher Vorname",
+    "Namenstag",
+    "Beliebtheit in Deutschland",
+    "ehemals deutlich populärer",
+    "romanischer Sprachraum"
+  ],
+  "confidence": 0.9,
+  "display_text": "Pascal wirkt in Deutschland überwiegend neutral bis leicht positiv: ein klassischer, international klingender Jungenname mit französisch-lateinischem Hintergrund und Bezug zu Ostern/Pessach. Die Quellen beschreiben ihn vor allem sachlich; vereinzelte Nutzerstimmen sind gemischt, aber nicht repräsentativ.",
+  "evidence_quality": "mittel bis gut; vor allem lexikalische Quellen mit ergänzenden, aber schwächeren Community-Stimmen",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Pascal",
+  "normalized_name": "pascal",
+  "overall_resonance": "überwiegend neutral bis leicht positiv",
+  "practical_notes": [
+    "Für Suchende wirkt Pascal vertraut, traditionsnah und gut einordenbar.",
+    "Die Wahrnehmung ist eher stabil als trendig; Hinweise deuten auf frühere höhere Popularität hin.",
+    "Als Namenskarte sollte der religiös-kulturelle Bezug nur vorsichtig formuliert werden, da er eher etymologisch als alltagsprägend ist."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die stärkste Evidenz ist lexikalisch und beschreibend, nicht eine breite öffentliche Debatte.",
+    "Einzelne Community-Kommentare auf Namensseiten sind nutzergeneriert und nur eingeschränkt repräsentativ.",
+    "Keine belastbaren Hinweise auf eine soziale Stigmatisierung in der vorliegenden Evidenz."
+  ],
+  "short_summary": "Pascal wird in Deutschland überwiegend neutral bis leicht positiv wahrgenommen: ein klassischer, international klingender Jungenname mit französisch-lateinischem Hintergrund und Ostern-Bezug.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Pascal � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/P/Pa/Pascal/"
+    },
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "mixed",
+      "source_type": "web",
+      "title": "&#9655; Vorname Pascal: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Pascal.html"
+    }
+  ],
+  "style_effect": [
+    "französisch geprägt",
+    "klassisch-international",
+    "sachlich",
+    "eher bekannt als modisch",
+    "zeitweise beliebter gewesen"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Pascal ist in Deutschland als klar erkennbarer, etablierter männlicher Vorname bekannt; die öffentliche Wahrnehmung wirkt sachlich und eher namenskundlich als emotional aufgeladen."
+}

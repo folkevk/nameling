@@ -1,0 +1,52 @@
+{
+  "associations": [
+    "Herkunft",
+    "Bedeutung unbekannt",
+    "Namenstag nicht hinterlegt",
+    "russisch",
+    "geografischer Name als Vorname",
+    "selten/Hitliste-Position"
+  ],
+  "confidence": 0.78,
+  "display_text": "Domna wirkt in der öffentlichen Wahrnehmung eher neutral und selten. Der Name erscheint vor allem lexikalisch-informativ, mit wenigen gesicherten Angaben zu Herkunft und Bedeutung.",
+  "evidence_quality": "Schwach bis mittel: eine einschlägige, aber einzelne und teils kontextarme Lexikonquelle mit hoher formaler Evidenz für die Existenz des Namens, jedoch geringer Tiefe zur öffentlichen Resonanz.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Domna",
+  "normalized_name": "domna",
+  "overall_resonance": "Eher neutral bis selten-exotisch; die öffentliche Wahrnehmung wirkt vor allem sachlich-lexikalisch und kaum emotional aufgeladen.",
+  "practical_notes": [
+    "Für Suchmaschinen eher als seltener, ungewöhnlicher Vorname sichtbar.",
+    "Die öffentliche Einordnung wirkt eher beschreibend als wertend.",
+    "Aufgrund der geringen Beleglage ist eine genaue kulturelle oder regionale Deutung nur eingeschränkt möglich."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist schwach und beruht auf einer einzelnen Namenslexikon-Quelle.",
+    "Aussagen zur Wirkung sollten vorsichtig gelesen werden, da sie aus wenigen, teils kontextabhängigen Angaben abgeleitet sind.",
+    "Keine belastbaren Hinweise auf eine verbreitete soziale Bewertung oder Stigmatisierung."
+  ],
+  "short_summary": "Domna wird öffentlich eher als seltener, sachlich gelisteter Vorname wahrgenommen. Die Resonanz ist neutral, mit wenigen gesicherten Angaben zu Herkunft und Bedeutung.",
+  "source_count": 1,
+  "sources": [
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Domna: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Domna.html"
+    }
+  ],
+  "style_effect": [
+    "lexikalisch",
+    "informativ",
+    "selten",
+    "exotisch wirkend",
+    "datenbankartig"
+  ],
+  "usable_evidence_count": 1,
+  "visibility": "Niedrig; der Name erscheint in Namenslexika, aber mit wenig verbreiteter Alltagspräsenz und eher dünner Datenlage."
+}

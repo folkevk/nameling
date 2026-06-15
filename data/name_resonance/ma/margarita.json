@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "Bedeutung: „Perle“",
+    "spanische, slawische und neugriechische Bezüge",
+    "Variante von Margarete",
+    "international verbreitet",
+    "Namenstag",
+    "Kurzformen wie Rita, Marga oder Margo"
+  ],
+  "confidence": 0.8,
+  "display_text": "Margarita wirkt in Deutschland eher selten, aber positiv, klassisch und international. Der Name wird vor allem mit „Perle“, einer traditionellen Herkunft und einer klaren, eleganten Namenswirkung verbunden.",
+  "evidence_quality": "mittel: zwei direkt namenbezogene Webquellen mit überwiegend konsistenter, aber begrenzter öffentlicher Resonanzbeschreibung",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Margarita",
+  "normalized_name": "margarita",
+  "overall_resonance": "Der Vorname Margarita wirkt in der öffentlichen Namenswahrnehmung eher positiv, traditionell und international anschlussfähig. Er wird vor allem mit der Bedeutung „Perle“, einem klaren Herkunftsbezug und einer eher seltenen, aber etablierten Nutzung in Deutschland verbunden.",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt Margarita klangvoll und gut einordenbar.",
+    "Der Name ist in Deutschland eher ungewöhnlich, aber nicht fremd.",
+    "Die Resonanz ist eher sachlich-positiv als trendig oder modisch."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist insgesamt begrenzt und stammt vor allem aus zwei Namenslexika.",
+    "Es gibt keine belastbaren Hinweise auf eine negative gesellschaftliche Stigmatisierung des Namens.",
+    "Aussagen zur Beliebtheit in Deutschland sollten vorsichtig gelesen werden, da sie eher beschreibend als statistisch abgesichert sind."
+  ],
+  "short_summary": "Margarita wird überwiegend positiv, klassisch und international wahrgenommen, mit der Kernassoziation „Perle“ und eher seltener Nutzung in Deutschland.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "Vorname Margarita � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/M/Ma/Margarita/"
+    },
+    {
+      "confidence": 0.89,
+      "is_name_discussion": true,
+      "sentiment": "überwiegend positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Margarita: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Margarita.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "international",
+    "elegant",
+    "traditionell",
+    "selten, aber vertraut",
+    "namenkundlich klar lesbar"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland scheint Margarita eher selten bis moderat sichtbar zu sein. Die öffentliche Wahrnehmung ist vor allem namenkundlich geprägt, nicht durch breite Alltagspräsenz."
+}

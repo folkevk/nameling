@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "Kurzform von Christophorus",
+    "altgriechischer Ursprung",
+    "Bedeutung: Christusträger",
+    "Namenstag",
+    "Verwandtschaft zu Christoph/Christoff/Christophe",
+    "selten in Deutschland"
+  ],
+  "confidence": 0.9,
+  "display_text": "Christof wirkt in Deutschland eher klassisch-traditionell und sachlich, mit leicht positiver Färbung durch die Bedeutung „Christusträger“. Der Name wird als eher selten und rückläufig beschrieben; die Evidenz zur öffentlichen Resonanz ist dabei begrenzt.",
+  "evidence_quality": "Gut für Bedeutung, Herkunft und Einordnung; nur eingeschränkt für echte öffentliche Resonanz, da kaum breit gestreute Meinungsquellen vorliegen.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Christof",
+  "normalized_name": "christof",
+  "overall_resonance": "Überwiegend sachlich-traditionell und eher neutral mit leichter positiver Färbung durch die Bedeutung „Christusträger“. In der öffentlichen Wahrnehmung wirkt der Name in Deutschland eher klassisch als modern und wird als vergleichsweise selten beschrieben.",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt Christof klar verständlich und traditionsnah.",
+    "Die Schreibweise ist etwas seltener als Christoph und kann deshalb als eigenständig und klassisch wahrgenommen werden.",
+    "Geeignet für einen nüchternen, etablierten Namensklang ohne starke Modetrends."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz zur öffentlichen Resonanz ist begrenzt und stammt überwiegend aus Namenslexika und Portalen.",
+    "Positive oder negative Eindrücke sind daher nur vorsichtig zu gewichten.",
+    "Keine belastbaren Hinweise auf soziale Stigmatisierung in den vorliegenden Quellen."
+  ],
+  "short_summary": "Christof wird in Deutschland eher als klassischer, seltener und sachlich-traditioneller Vorname wahrgenommen, mit leicht positiver Note durch die Bedeutung „Christusträger“.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.99,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Christof � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/C/Ch/Christof/"
+    },
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Christof: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Christof.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "traditionell",
+    "sachlich",
+    "eher altvertraut",
+    "leicht positiv durch religiöse Bedeutung"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Eher geringe Sichtbarkeit im heutigen Namensgebrauch; in den Quellen wird Christof als in Deutschland selten und rückläufig erwähnt."
+}

@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "Kurzform von Elisabeth",
+    "hebräischer Ursprung",
+    "Bedeutungen wie \"Gott ist Fülle\" bzw. ähnliche religiöse Deutungen",
+    "französischer und skandinavischer Namensraum",
+    "eher selten in Deutschland",
+    "Namenslexikon- und Bedeutungskontext"
+  ],
+  "confidence": 0.84,
+  "display_text": "Lise wirkt in Deutschland eher selten, ruhig und leicht positiv konnotiert. Die verfügbaren Quellen zeigen vor allem eine sachlich-namenkundliche Wahrnehmung: Kurzform von Elisabeth, mit klassisch-internationalem Klang. Die Evidenz ist allerdings begrenzt, daher ist die öffentliche Resonanz nur vorsichtig zu bewerten.",
+  "evidence_quality": "Begrenzt: überwiegend lexikalische Namensquellen, keine breite öffentliche Meinungsbasis.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Lise",
+  "normalized_name": "lise",
+  "overall_resonance": "In Deutschland wirkt Lise insgesamt eher freundlich, sachlich und leicht positiv, mit einem eher zurückhaltenden, seltenen Klang. Die öffentliche Wahrnehmung in den vorliegenden Quellen ist vor allem namenkundlich geprägt und nicht breit gesellschaftlich belegt.",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt Lise kurz, ruhig und stilvoll.",
+    "Der Name hat eine klare Herkunfts- und Bedeutungsanbindung.",
+    "Wer einen seltenen, aber gut verständlichen Namen sucht, findet hier eine unaufgeregte Option."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist auf wenige Namenslexika und eine einzige Quellenlage beschränkt.",
+    "Die Einschätzung zur öffentlichen Resonanz ist daher nur vorsichtig zu verstehen.",
+    "Einzelne Hinweise wie \"altmodisch\" spiegeln eher subjektive Einordnungen als allgemeine Wahrheiten.",
+    "Keine belastbare breitere Alltagsrezeption erkennbar."
+  ],
+  "short_summary": "Lise wird in den vorliegenden Quellen überwiegend freundlich und sachlich beschrieben, eher selten in Deutschland und mit klassisch-internationaler Anmutung. Die Datenlage ist jedoch begrenzt.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "Vorname Lise � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/L/Li/Lise/"
+    },
+    {
+      "confidence": 0.91,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Lise: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Lise.html"
+    }
+  ],
+  "style_effect": [
+    "kurz und klar",
+    "elegant und eher klassisch",
+    "leicht international (u. a. französisch/skandinavisch eingeordnet)",
+    "zurückhaltend statt modisch",
+    "sachlich-namenkundlich"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Eher gering bis moderat: Lise erscheint in den Quellen als eher seltener Vorname und wird nicht als stark verbreiteter Trendname beschrieben."
+}

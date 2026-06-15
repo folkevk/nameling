@@ -1,0 +1,58 @@
+{
+  "associations": [
+    "italienische Form von Titus",
+    "lateinisch/römische Herkunft",
+    "Bedeutungen wie „der Geehrte“, „der Angesehene“ oder „der Ehrwürdige“",
+    "teils auch Deutung in Richtung „wilde Taube“",
+    "Namenstag",
+    "eher seltene bis mäßige Verbreitung in Deutschland"
+  ],
+  "confidence": 0.86,
+  "display_text": "Tizian wirkt in Deutschland überwiegend positiv-sachlich: ein klangvoller, eher seltener Name mit lateinisch-italienischer Herkunft und Bedeutungen wie „der Geehrte“ oder „der Angesehene“. Die öffentliche Resonanz ist vor allem informativ, nicht kontrovers.",
+  "evidence_quality": "Mittel bis gut: zwei belastbare, vorwiegend namenskundliche Quellen; öffentliche Resonanz nur indirekt sichtbar.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Tizian",
+  "normalized_name": "tizian",
+  "overall_resonance": "Eher positiv-sachlich, mit klarer Namenskundlichkeit und wenig öffentlicher Kontroverse.",
+  "practical_notes": [
+    "Für Suchmaschinen wirkt der Name neutral bis positiv besetzt.",
+    "Der Name wird vor allem über Herkunft und Bedeutung wahrgenommen, weniger über gesellschaftliche Debatten.",
+    "Die Schreibweise ist klar und gut eingängig."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist überwiegend lexikalisch und informativ, keine starke öffentliche Bewertungsdiskussion.",
+    "Einzelne Wahrnehmungen sind nur indirekt ableitbar; sie sollten nicht als allgemeine Meinung verstanden werden."
+  ],
+  "short_summary": "Tizian wird in Deutschland überwiegend sachlich und eher positiv wahrgenommen: ein klangvoller, seltener Name mit lateinisch-italienischer Herkunft und wertiger Bedeutung.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Tizian � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/T/Ti/Tizian/"
+    },
+    {
+      "confidence": 0.94,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Tizian: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Tizian.html"
+    }
+  ],
+  "style_effect": [
+    "klingt modern und zugleich klassisch",
+    "wirkt gebildet und leicht elegant",
+    "hat einen weichen, melodischen Klang",
+    "durch die seltenere Verwendung etwas individuell"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland eher bekannt, aber nicht übermäßig häufig; wirkt dadurch eher markant als alltäglich."
+}

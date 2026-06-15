@@ -1,0 +1,53 @@
+{
+  "associations": [
+    "Kurzform",
+    "unisex",
+    "verselbständigte Kurzform",
+    "diverse Sprachen",
+    "mögliche Herkunft aus Maurice/Morris, Moses, Monika oder Maureen",
+    "Spitzname/Koseform",
+    "kurzer Vorname"
+  ],
+  "confidence": 0.76,
+  "display_text": "„Mo“ wirkt in der öffentlichen Wahrnehmung eher leicht positiv bis neutral: sehr kurz, modern, international und unisex. Die Einordnung stützt sich vor allem auf Namenslexika; für eine breitere öffentliche Debatte gibt es nur begrenzt Evidenz.",
+  "evidence_quality": "Begrenzt bis solide für lexikalische Einordnung; schwächer für echte öffentliche Rezeption, da die Evidenz vor allem aus einem Namenslexikon stammt.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Mo",
+  "normalized_name": "mo",
+  "overall_resonance": "Die öffentliche Resonanz auf den Vornamen „Mo“ wirkt überwiegend leicht positiv bis neutral. Der Name wird vor allem als sehr kurzer, international anschlussfähiger Vorname wahrgenommen, allerdings basiert die verfügbare Evidenz eher auf Namenslexika als auf breiter öffentlicher Diskussion.",
+  "practical_notes": [
+    "Für eine Namenssuche eignet sich „Mo“ als sehr kompakter, international lesbarer Name.",
+    "Die Kürze kann als modern und markant wirken, kann aber auch als Spitzname verstanden werden.",
+    "In deutschsprachigem Kontext erscheint der Name eher selten und dadurch auffällig."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenzlage ist begrenzt; es gibt nur wenige echte öffentliche Diskussionsbeiträge.",
+    "Die Einordnung als Kurzform oder Herkunftsvariante ist plausibel, aber nicht eindeutig.",
+    "Zur sozialen Wahrnehmung lassen sich aus der vorliegenden Quelle nur vorsichtige Aussagen ableiten."
+  ],
+  "short_summary": "„Mo“ wird meist als kurze, internationale und unisex wirkende Namensform wahrgenommen. Die Resonanz ist eher leicht positiv bis neutral, wobei die verfügbare Evidenz zur öffentlichen Diskussion begrenzt ist.",
+  "source_count": 1,
+  "sources": [
+    {
+      "confidence": 0.92,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Mo: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Mo.html"
+    }
+  ],
+  "style_effect": [
+    "sehr kurz und prägnant",
+    "modern und unkompliziert",
+    "international und sprachübergreifend anschlussfähig",
+    "unisex wirkend",
+    "als Kurz- oder Koseform gelesen"
+  ],
+  "usable_evidence_count": 1,
+  "visibility": "Eher gering bis mittel sichtbar: „Mo“ taucht vor allem in Nachschlagewerken und Namenskatalogen auf; belastbare Diskussionsbeiträge zur tatsächlichen Außenwirkung sind nur begrenzt vorhanden."
+}

@@ -1,0 +1,70 @@
+{
+  "associations": [
+    "der Blühende",
+    "der Prächtige",
+    "lateinischer Ursprung",
+    "niederländische Form von Florens/Florian",
+    "Unisex-Name, meist männlich eingeordnet",
+    "Namenstag im Mai",
+    "eher selten in Deutschland"
+  ],
+  "confidence": 0.84,
+  "display_text": "Floris wirkt in der öffentlichen Namenswahrnehmung sachlich bis leicht positiv. Der Name wird vor allem mit „blühend“, „prächtig“ und einem lateinisch-niederländischen Ursprung verbunden. In Deutschland gilt er eher als selten bis moderat bekannt. Die Evidenz ist allerdings vor allem lexikalisch und daher nur begrenzt aussagekräftig.",
+  "evidence_quality": "mittel bis schwach: mehrere Namenslexikon-Quellen, aber kaum echte öffentliche Diskussionsvielfalt oder unabhängige Resonanzdaten.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Floris",
+  "normalized_name": "floris",
+  "overall_resonance": "Die öffentliche Wahrnehmung von „Floris“ wirkt insgesamt sachlich bis leicht positiv. Der Name wird vor allem über Bedeutung, Herkunft und Klang beschrieben, nicht über starke öffentliche Debatten. In Deutschland erscheint er eher selten bis moderat verbreitet.",
+  "practical_notes": [
+    "Der Name vermittelt eher eine ruhige, kultivierte und internationale Anmutung.",
+    "Durch die Seltenheit kann er auffallen, ohne ausgefallen oder schwer verständlich zu wirken.",
+    "Für eine Namenssuche ist besonders die positive Bedeutung hervorzuheben, aber ohne zu starke Versprechen."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz basiert fast nur auf Namenslexika; damit ist die öffentliche Resonanz nur begrenzt belastbar.",
+    "Es gibt keine starke breite Meinungsvielfalt in den Quellen, daher sollten Nuancen vorsichtig gelesen werden.",
+    "Die Einordnung als Unisex-Name ist beschreibend, nicht als gesellschaftliche Wertung zu verstehen."
+  ],
+  "short_summary": "Floris wird überwiegend sachlich bis leicht positiv wahrgenommen: ein seltener, herkunftsbetonter Name mit der Bedeutung „blühend“ bzw. „prächtig“.",
+  "source_count": 3,
+  "sources": [
+    {
+      "confidence": 0.95,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Floris � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/F/Fl/Floris/"
+    },
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Floris � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/F/Fl/Floris/"
+    },
+    {
+      "confidence": 0.89,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Floris: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Floris.html"
+    }
+  ],
+  "style_effect": [
+    "lexikalisch",
+    "herkunftsbezogen",
+    "modern-klar",
+    "leicht elegant",
+    "eher international",
+    "seltenheitsbetont"
+  ],
+  "usable_evidence_count": 3,
+  "visibility": "Eher niedrig bis mittel: Der Name ist in Namenslexika präsent, aber die Evidenz deutet nicht auf breite Alltagsdiskussionen oder starke mediale Sichtbarkeit hin."
+}

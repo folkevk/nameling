@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "Kurzform von Matilda/Mathilda",
+    "althochdeutsche Herkunft",
+    "Bedeutung im Sinn von „die Mächtige“ / „die Kämpferin“",
+    "Namenstag am 14. März",
+    "in Deutschland als modern und beliebt beschrieben",
+    "in Skandinavien ebenfalls verbreitet"
+  ],
+  "confidence": 0.91,
+  "display_text": "Tilda wirkt in den vorliegenden deutschen Quellen überwiegend positiv, modern und freundlich. Der Name wird als Kurzform von Matilda/Mathilda mit althochdeutscher Herkunft und der Bedeutung „die Mächtige“ bzw. „die Kämpferin“ eingeordnet. Öffentlich sichtbar ist Tilda vor allem als beliebter, zeitgemäßer Vorname in Namenslexika; eine breitere gesellschaftliche Debatte ist in der Evidenz nicht erkennbar.",
+  "evidence_quality": "Gut bis sehr gut für Herkunft, Bedeutung und lexikalische Einordnung; begrenzt für echte öffentliche Rezeption, da die Quellen überwiegend Namenslexika statt Diskussionsräume sind.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Tilda",
+  "normalized_name": "tilda",
+  "overall_resonance": "Überwiegend positiv und modern wirkend; Tilda wird in den vorliegenden Quellen als zeitgemäßer, wohlklingender und beliebter Mädchenname beschrieben.",
+  "practical_notes": [
+    "Für Suchmaschinen- und Kurzprofile ist Tilda ein Name mit klar positiver, moderner Konnotation.",
+    "Die Wahrnehmung wirkt eher leicht, freundlich und zugleich traditionsnah durch die althochdeutsche Herleitung.",
+    "Spitznamen und Varianten werden in den Quellen erwähnt, was auf eine flexible Nutzung hinweist."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt vor allem aus Namensdatenbanken und redaktionell aufbereiteten Namenslexika, nicht aus einer breiten öffentlichen Diskussion.",
+    "Beliebtheits- und Stilzuordnungen können je nach Quelle und Zeitraum variieren.",
+    "Keine Hinweise auf eine soziale Stigmatisierung in den vorliegenden Quellen."
+  ],
+  "short_summary": "Tilda wird in den vorliegenden Quellen überwiegend positiv, modern und wohlklingend beschrieben; die Evidenz ist stark für Bedeutung und Herkunft, aber nur begrenzt für echte öffentliche Debatte.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "Vorname Tilda � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/T/Ti/Tilda/"
+    },
+    {
+      "confidence": 0.95,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Tilda: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Tilda.html"
+    }
+  ],
+  "style_effect": [
+    "modern",
+    "elegant",
+    "klar",
+    "freundlich",
+    "namenskundlich verankert",
+    "leicht skandinavisch anmutend"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Im deutschsprachigen Raum offenbar gut sichtbar und bekannt, jedoch eher als Namenslexikon- und Beliebtheitsphänomen als durch breite öffentliche Debatte."
+}

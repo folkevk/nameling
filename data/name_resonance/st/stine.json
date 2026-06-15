@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "Kurzform von Christine/Kristine",
+    "Bedeutung im christlichen Namenskontext",
+    "skandinavisch, niederdeutsch, friesisch",
+    "weiblicher Vorname",
+    "selten bis eher ungewöhnlich in Deutschland",
+    "Namenstag-Tradition",
+    "Variante/Stina als nahe Form"
+  ],
+  "confidence": 0.84,
+  "display_text": "Stine wirkt in Deutschland überwiegend sachlich-neutral bis leicht positiv. Der Name wird vor allem als seltene, nordisch geprägte Kurzform von Christine/Kristine verstanden und mit einer traditionellen, klaren Bedeutung verbunden. Die vorliegende Evidenz ist jedoch vor allem lexikalisch und nur auf wenige Quellen gestützt.",
+  "evidence_quality": "mittel bis gut, aber inhaltlich überwiegend lexikalisch und auf wenige Quellen beschränkt",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Stine",
+  "normalized_name": "stine",
+  "overall_resonance": "Überwiegend sachlich-neutral bis leicht positiv: Der Name wird vor allem als skandinavisch geprägte Kurzform von Christine/Kristine wahrgenommen und mit einer klaren, traditionsnahen Bedeutung verbunden. Öffentliche Resonanz im engeren Sinn ist eher beschreibend als diskutierend.",
+  "practical_notes": [
+    "Für Suchende wirkt der Name vertraut, aber nicht alltäglich.",
+    "Die Schreibweise ist einfach, die Aussprache dürfte im Deutschen meist problemlos sein.",
+    "Der Name vermittelt eher klassische als modische Assoziationen."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist nur auf wenige Namensdatenbank-Seiten gestützt; breite öffentliche Wahrnehmung ist daher nur eingeschränkt belegbar.",
+    "Die meisten Hinweise sind beschreibend und nicht als echte Meinungsäußerungen zu verstehen.",
+    "Keine belastbaren Anzeichen für eine negative gesellschaftliche Stigmatisierung in den Quellen."
+  ],
+  "short_summary": "Stine wird in Deutschland vor allem als seltene, skandinavisch geprägte Kurzform von Christine/Kristine wahrgenommen – sachlich, traditionell und leicht positiv konnotiert.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Stine � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/S/St/Stine/"
+    },
+    {
+      "confidence": 0.89,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Stine: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Stine.html"
+    }
+  ],
+  "style_effect": [
+    "kurz und eingängig",
+    "nordisch-skandinavischer Klang",
+    "klassisch-traditionelle Anmutung",
+    "lexikalisch gut erklärbar",
+    "eher selten und dadurch markant"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Eher gering bis mittel sichtbar; in den vorliegenden Quellen erscheint Stine vor allem in Namenslexika und Datenbanken, nicht in breiter öffentlicher Debatte."
+}

@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "arabische Herkunft",
+    "Bedeutung: Beweis / Nachweis / unwiderlegbarer Beweis",
+    "muslimischer Vorname",
+    "türkische und kurdische Nutzung",
+    "selten in Deutschland",
+    "namenskundlich und informativ"
+  ],
+  "confidence": 0.79,
+  "display_text": "Burhan wirkt in Deutschland eher selten, sachlich-informativ und leicht positiv konnotiert. Die Quellen betonen vor allem die arabische Herkunft und die Bedeutung als „Beweis“ bzw. „Nachweis“. Eine breite öffentliche Debatte ist nicht erkennbar; die Evidenz ist jedoch begrenzt.",
+  "evidence_quality": "Begrenzt bis mittel: zwei spezialisierte Namensquellen, überwiegend sachlich, kaum externe öffentliche Resonanz sichtbar.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Burhan",
+  "normalized_name": "burhan",
+  "overall_resonance": "Burhan wirkt in den vorliegenden Quellen überwiegend sachlich-informativ und leicht positiv. Der Name wird vor allem über Herkunft, Bedeutung und kulturelle Einordnung beschrieben, nicht über kontroverse öffentliche Debatten.",
+  "practical_notes": [
+    "Für eine Namenssuche in Deutschland wirkt Burhan markant und kulturell klar zuordenbar.",
+    "Die öffentliche Wahrnehmung scheint eher von Herkunft und Bedeutung geprägt als von Mode oder Trendstatus.",
+    "Wegen der Seltenheit kann der Name auffallen, ohne negativ besetzt zu sein.",
+    "Die Quellenlage reicht für eine vorsichtige Einordnung, nicht für eine breite gesellschaftliche Bewertung."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist begrenzt und stützt sich vor allem auf zwei Namenslexikon-Quellen.",
+    "Es gibt keine breite öffentliche Debatte oder klar erkennbare gesellschaftliche Stigmatisierung in den vorliegenden Daten.",
+    "Einzelne Zusatzangaben wie Spitznamen oder Namenstag-Infos sind eher lexikalisch als allgemein öffentliche Resonanz."
+  ],
+  "short_summary": "Burhan wird in den verfügbaren Quellen vor allem sachlich erklärt und leicht positiv beschrieben; in Deutschland ist der Name eher selten und öffentlich kaum kontrovers aufgeladen.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.88,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Burhan � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/B/Bu/Burhan/"
+    },
+    {
+      "confidence": 0.92,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Burhan: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Burhan.html"
+    }
+  ],
+  "style_effect": [
+    "klingt klar und markant",
+    "wirkt international und kulturell verankert",
+    "hat einen erklärungsbedürftigen, aber gut nachvollziehbaren Bedeutungsbezug",
+    "erscheint in Namenslexika eher neutral bis freundlich"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland eher selten und daher eher bekannt in namenskundlichen Kontexten als im breiten Alltagsgebrauch."
+}

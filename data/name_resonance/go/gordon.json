@@ -1,0 +1,57 @@
+{
+  "associations": [
+    "keltische bzw. schottische Herkunft",
+    "Bedeutung in der Namensdeutung: großer Hügel / Festung",
+    "Familienname-als-Vorname",
+    "selten in Deutschland",
+    "eher traditionsnah und nüchtern"
+  ],
+  "confidence": 0.82,
+  "display_text": "Gordon wirkt in Deutschland eher selten, klassisch und international. Die öffentliche Resonanz ist überwiegend sachlich bis leicht positiv; der Name wird vor allem mit schottisch-keltischer Herkunft und einer klaren, markanten Klangwirkung verbunden.",
+  "evidence_quality": "mittel bis gut: zwei klare Namenslexikon-Quellen mit überwiegend sachlicher, leicht positiver Tendenz; öffentliche Debatte im engeren Sinn ist jedoch schwach.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Gordon",
+  "normalized_name": "gordon",
+  "overall_resonance": "Eher sachlich-positiv bis neutral: Der Name wirkt im deutschsprachigen Raum vertraut, aber deutlich selten und damit eher markant als alltäglich.",
+  "practical_notes": [
+    "Für Suchmaschinen-Nutzer ist vor allem relevant: selten, international verständlich, klar männlich.",
+    "Die Wahrnehmung dürfte eher von Herkunft und Klang als von aktueller Mode geprägt sein."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist vor allem namenkundlich und nicht stark öffentlich-diskursiv; die Resonanz lässt sich daher nur vorsichtig ableiten.",
+    "Vereinzelt genannte Einzelmeinungen sollten nicht als breite öffentliche Bewertung verstanden werden."
+  ],
+  "short_summary": "Gordon wird im deutschen Raum meist als seltener, klassisch-männlicher und international geprägter Vorname wahrgenommen, mit eher sachlich-positiver als auffälliger Resonanz.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "Vorname Gordon � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/G/Go/Gordon/"
+    },
+    {
+      "confidence": 0.91,
+      "is_name_discussion": true,
+      "sentiment": "mostly positive",
+      "source_type": "web",
+      "title": "&#9655; Vorname Gordon: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Gordon.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch-männlich",
+    "international/englisch-schottisch wirkend",
+    "knapp und markant",
+    "eher seriös als verspielt",
+    "ungewöhnlich, aber gut einordenbar"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Gering bis mittel. In Deutschland wird Gordon vor allem als klassischer, international geprägter Männername wahrgenommen, ist aber nicht sehr verbreitet."
+}

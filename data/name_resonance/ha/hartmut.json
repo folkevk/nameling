@@ -1,0 +1,66 @@
+{
+  "associations": [
+    "Bedeutung: „der Mutige“",
+    "Bedeutung: „von starkem Geist“",
+    "altdeutsche Herkunft",
+    "mittelalterliche Wurzeln",
+    "ehemals häufiger, besonders Mitte des 20. Jahrhunderts",
+    "heute selten",
+    "Schreibvarianten wie Hardmut oder Hartmuth",
+    "Namenstag am 23. Januar"
+  ],
+  "confidence": 0.91,
+  "display_text": "Hartmut wird in Deutschland meist als klassischer, altdeutscher Vorname mit historischer Note wahrgenommen. Die öffentliche Resonanz wirkt sachlich bis leicht positiv, zugleich aber heute eher selten und wenig verbreitet. Das Namensbild ist traditionell, bodenständig und eher ernst als modisch.",
+  "evidence_quality": "mittel: zwei namenskundliche Webquellen mit klarer Namensdiskussion, aber wenig breit gestützte öffentliche Resonanz jenseits von Lexikon-Kontexten.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Hartmut",
+  "normalized_name": "hartmut",
+  "overall_resonance": "Hartmut wird öffentlich vor allem als klassischer, altdeutscher Vorname mit traditioneller und historischer Wirkung wahrgenommen. Die Resonanz ist eher sachlich bis leicht positiv, aber heute nicht besonders präsent.",
+  "practical_notes": [
+    "Für Namenssuchmaschinen eignet sich eine knappe Einordnung als klassischer, seltener deutscher Jungenname.",
+    "Die Schreibweise ist unkompliziert, aber Varianten existieren.",
+    "Die Wirkung ist eher traditionsnah als modern oder modisch.",
+    "Bei der Darstellung sollte der historische Charakter betont werden, ohne den Namen als veraltet abzuwerten."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz zur öffentlichen Resonanz ist begrenzt und stark von Namenslexika geprägt.",
+    "Es gibt keine belastbaren Hinweise auf eine breite aktuelle Trendwahrnehmung.",
+    "Ein mögliches eher traditionelles oder altmodisches Image ist eine Wahrnehmungstendenz, keine feste Eigenschaft."
+  ],
+  "short_summary": "Hartmut wirkt in Deutschland als seltener, klassischer und altdeutsch geprägter Vorname mit traditionell-sachlicher bis leicht positiver Resonanz.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Hartmut � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/H/Ha/Hartmut/"
+    },
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Hartmut: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Hartmut.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "traditionell",
+    "altdeutsch",
+    "historisch",
+    "sachlich",
+    "bodenständig",
+    "eher ernst",
+    "namenskundlich"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Der Name ist in Deutschland eher selten und heute wenig verbreitet. In Namenslexika ist er gut dokumentiert, außerhalb davon wirkt die öffentliche Sichtbarkeit eher begrenzt."
+}

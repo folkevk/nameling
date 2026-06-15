@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "niederländische bzw. französische Namensherkunft",
+    "Kurzform von Marie-Louise / Marielouise",
+    "Koseform von Émilie",
+    "altfranzösische Namensbezüge",
+    "in Deutschland als Vorname geführt",
+    "eher selten, aber positiv auffällig"
+  ],
+  "confidence": 0.82,
+  "display_text": "Milou wird in den vorliegenden deutschsprachigen Quellen eher positiv und modern wahrgenommen: kurz, weich klingend, international anmutend und im deutschen Raum eher selten. Die Evidenz ist allerdings begrenzt und stammt vor allem aus Namenslexika, nicht aus breiter öffentlicher Debatte.",
+  "evidence_quality": "mittel: zwei einschlägige Namenslexikon-Quellen, überwiegend sachlich, mit leicht positiver Tönung; nur begrenzte freie öffentliche Resonanz sichtbar",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Milou",
+  "normalized_name": "milou",
+  "overall_resonance": "Milou wird in den vorliegenden deutschsprachigen Namensquellen überwiegend freundlich und modern wahrgenommen. Die öffentliche Resonanz wirkt leicht positiv, vor allem wegen der Verbindung zu französisch/niederländischer Herkunft, kurzer Klangform und einer als charmant beschriebenen Seltenheit.",
+  "practical_notes": [
+    "Für Suchmaschinen nutzbar als moderner, weicher Mädchenname mit internationalem Klang.",
+    "Geeignet, wenn ein kurzer und unkompliziert aussprechbarer Name gesucht wird.",
+    "Die Wahrnehmung scheint eher neutral bis freundlich als stark polarisierend.",
+    "Da die Quellenlage schmal ist, sollte das Gesamtbild als vorläufig verstanden werden."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist begrenzt und stammt vor allem aus Namenslexika, nicht aus breiter öffentlicher Debatte.",
+    "Einzelne Aussagen zur Beliebtheit sollten vorsichtig gelesen werden, da keine umfassende Meinungsbasis vorliegt.",
+    "Assoziationen mit Figuren oder Spitznamen können in einzelnen Quellen mitspielen und sind nicht als allgemeine Wahrnehmung zu verstehen."
+  ],
+  "short_summary": "Milou wirkt im deutschen Kontext freundlich, modern und eher selten. Die verfügbare Evidenz ist schmal, zeigt aber eine leicht positive, unaufgeregte Namensresonanz.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "Vorname Milou � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/M/Mi/Milou/"
+    },
+    {
+      "confidence": 0.79,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Milou: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Milou.html"
+    }
+  ],
+  "style_effect": [
+    "kurz und weich im Klang",
+    "modern und international wirkend",
+    "eher fein als laut",
+    "kann als elegant und verspielt gelesen werden",
+    "wirkt durch die Kürze gut merkbar"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Im deutschsprachigen Namensraum scheint Milou bekannt, aber nicht massenhaft verbreitet zu sein. Die Sichtbarkeit entsteht vor allem über Namenslexika und Beliebtheitslisten, weniger über breite öffentliche Diskussionen."
+}

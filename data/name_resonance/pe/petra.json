@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "Bedeutung: Stein/Fels/Felsenfeste",
+    "weibliche Form von Peter",
+    "altaramäische und altgriechische Wurzeln",
+    "Namenstag am 31. Mai und 29. Juni",
+    "in Deutschland früher sehr beliebt",
+    "heute seltener"
+  ],
+  "confidence": 0.93,
+  "display_text": "Petra gilt in Deutschland als klassischer, gut bekannter Vorname mit traditioneller Ausstrahlung. Die öffentliche Resonanz ist überwiegend neutral bis leicht positiv; der Name wirkt vertraut, bodenständig und historisch stark verankert, heute aber deutlich seltener als früher.",
+  "evidence_quality": "gut bis sehr gut; überwiegend direkte Namensquellen, teils mit subjektiven Kommentaren",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Petra",
+  "normalized_name": "petra",
+  "overall_resonance": "Petra wird in Deutschland insgesamt eher klassisch, traditionell und klar wahrgenommen. Die öffentliche Rezeption ist überwiegend neutral bis leicht positiv, mit einer starken historischen Verankerung und heute geringerer aktueller Verbreitung.",
+  "practical_notes": [
+    "Für Namenssuchmaschinen eignet sich Petra als verständlicher, bekannter Klassiker mit traditioneller Ausstrahlung.",
+    "Der Name kann je nach Kontext eher älter oder generationstypisch wirken, nicht jedoch negativ oder stigmatisiert.",
+    "Die historische Popularität ist hoch, die aktuelle Nutzung aber geringer."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Einzelne positive Klangurteile stammen aus subjektiven Kommentaren und sind nicht allgemein verbindlich.",
+    "Die Evidenz ist solide, aber teils von Lexikontexten und Nutzerkommentaren geprägt; das Bild ist daher nur vorsichtig zu verallgemeinern."
+  ],
+  "short_summary": "Petra ist ein bekannter, klassischer Mädchenvorname mit starker historischer Verankerung. Öffentlich wird er meist neutral bis leicht positiv als traditionell, klar und vertraut wahrgenommen.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Petra � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/P/Pe/Petra/"
+    },
+    {
+      "confidence": 0.89,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Petra: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Petra.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "traditionell",
+    "bodenständig",
+    "klar und direkt im Klang",
+    "eher zeitlos als modisch",
+    "historisch stark verankert"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Gut bekannt, aber heute deutlich seltener als in früheren Jahrzehnten. Dadurch wirkt der Name vertraut, zugleich etwas generationstypisch und nicht mehr sehr zeitgemäß im Massengebrauch."
+}

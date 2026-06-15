@@ -1,0 +1,59 @@
+{
+  "associations": [
+    "altfriesische bzw. niederländische Koseform von Anna",
+    "Bedeutungen wie „die Begnadete“, „die Anmutige“ oder „die Liebreizende“",
+    "althebräische Wurzeln über Anna",
+    "Namensform mit regional-historischem Charakter",
+    "Namenstag am 26. Juli"
+  ],
+  "confidence": 0.87,
+  "display_text": "Antje wird in den vorliegenden Quellen überwiegend neutral bis leicht positiv wahrgenommen: traditionell, nordisch/friesisch geprägt und eher selten, aber bekannt. Die Namensbedeutungen werden freundlich konnotiert beschrieben; eine breitere öffentliche Debatte ist nicht erkennbar.",
+  "evidence_quality": "Mittel bis eher begrenzt: zwei überwiegend lexikalische Webquellen, keine echte Diskurs- oder Medienlage.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Antje",
+  "normalized_name": "antje",
+  "overall_resonance": "Überwiegend neutral bis leicht positiv, mit eher sachlich-traditioneller Wahrnehmung.",
+  "practical_notes": [
+    "Der Name wirkt vertraut, traditionell und klar weiblich.",
+    "Durch die eher seltene heutige Nutzung kann er als eigenständig, aber nicht aufdringlich wahrgenommen werden.",
+    "Spitznamen-Varianten werden vereinzelt genannt, sind aber nicht Teil einer öffentlichen Hauptwahrnehmung."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz basiert vor allem auf Namenslexika und Portaltexten; eine breite öffentliche Debatte ist nicht erkennbar.",
+    "Aussagen zur Beliebtheit sollten vorsichtig gelesen werden, da sie nur punktuell belegt sind.",
+    "Keine belastbaren Hinweise auf gesellschaftliche Stigmatisierung in der vorliegenden Evidenz."
+  ],
+  "short_summary": "Antje wird in den vorliegenden Quellen sachlich, traditionell und eher freundlich wahrgenommen. Der Name ist bekannt, aber nicht sehr häufig, mit friesisch-niederländischer Prägung und positiven Bedeutungsassoziationen.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.95,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Antje � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/A/An/Antje/"
+    },
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Antje: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Antje.html"
+    }
+  ],
+  "style_effect": [
+    "traditionell",
+    "nordisch/friesisch geprägt",
+    "klassisch und unkompliziert",
+    "eher selten als modisch",
+    "namenskundlich klar einordenbar"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland als Vorname bekannt, aber eher nicht sehr verbreitet; die öffentliche Sichtbarkeit wirkt daher moderat bis gering."
+}

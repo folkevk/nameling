@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "griechische bzw. altgriechische Herkunft",
+    "Bedeutung in Richtung \"Schildhalter\" oder \"der Beschützende\"",
+    "teils als schwedische Form von Aegidius genannt",
+    "teils als bulgarische oder rumänische Nebenform von Elijah beschrieben",
+    "Namenstag in einer Quelle erwähnt",
+    "kurzer Spitzname \"Ili\""
+  ],
+  "confidence": 0.74,
+  "display_text": "Ilian wirkt in den vorliegenden Quellen überwiegend sachlich bis leicht positiv: ein seltener, klangvoller Vorname mit griechisch-herkunftsbezogenen Deutungen. Die öffentliche Resonanz ist aber nur schwach belegt, da vor allem Namenslexika als Quelle vorliegen.",
+  "evidence_quality": "mittel bis schwach; zwei Namenslexikon-Quellen mit überwiegend beschreibender, nur begrenzt öffentlicher Resonanz",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Ilian",
+  "normalized_name": "ilian",
+  "overall_resonance": "Ilian wird in den vorliegenden Quellen überwiegend sachlich bis leicht positiv wahrgenommen. Der Name wirkt für viele eher ungewöhnlich und zugleich klangvoll, mit klaren sprach- und herkunftsbezogenen Bezügen.",
+  "practical_notes": [
+    "Für die Namenssuche wirkt Ilian eher selten und eigenständig.",
+    "Der Name ist leicht aussprechbar und international verständlich genug für einen modernen Eindruck.",
+    "Aufgrund der Seltenheit kann er als markant wahrgenommen werden."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz zur öffentlichen Resonanz ist begrenzt und stammt vor allem aus Namenslexika statt aus breiten öffentlichen Diskussionen.",
+    "Die Einschätzung ist deshalb vorsichtig zu lesen; sie beschreibt vor allem die verfügbare Namensdarstellung, nicht eine belastbare Massenwahrnehmung."
+  ],
+  "short_summary": "Ilian wird in den verfügbaren Quellen sachlich bis leicht positiv beschrieben: selten, klangvoll und mit griechisch-herkunftsbezogenen Deutungen. Die Datenlage zur öffentlichen Wahrnehmung ist jedoch eher schmal.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.84,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Ilian � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/I/Il/Ilian/"
+    },
+    {
+      "confidence": 0.82,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Ilian: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Ilian.html"
+    }
+  ],
+  "style_effect": [
+    "klangvoll",
+    "modern wirkend",
+    "selten",
+    "herkunftsbezogen",
+    "wertig",
+    "international anschlussfähig"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland scheint Ilian selten bis moderat verbreitet zu sein und dadurch eher als besonderer als als alltäglicher Vorname aufzufallen."
+}

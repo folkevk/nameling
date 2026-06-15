@@ -1,0 +1,66 @@
+{
+  "associations": [
+    "althochdeutsche Herkunft",
+    "Bedeutung: „berühmter Herrscher“",
+    "männlicher Vorname",
+    "traditionell",
+    "historisch",
+    "selten bis mäßig verbreitet in Deutschland",
+    "skandinavischer Bezug",
+    "zweigliedriger germanischer Name"
+  ],
+  "confidence": 0.78,
+  "display_text": "Waldemar wirkt in Deutschland eher traditionell, altdeutsch und historisch. Die vorhandenen Quellen sind überwiegend sachlich-informativ und deuten auf eine leicht positive, würdige Wirkung hin, aber die öffentliche Resonanz ist nur schwach belegt. Der Name ist eher selten bis mäßig verbreitet und wird vor allem mit „berühmter Herrscher“, althochdeutscher Herkunft und einem klassischen, markanten Stil verbunden.",
+  "evidence_quality": "mittel bis schwach: überwiegend lexikalische Namensseiten, kaum echte öffentliche Diskussion",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Waldemar",
+  "normalized_name": "waldemar",
+  "overall_resonance": "Waldemar wirkt in der deutschen Wahrnehmung eher traditionell, altdeutsch und historisch geprägt. Die vorhandenen Quellen zeigen vor allem sachlich-informative Beschreibungen mit leicht positiver Grundtönung, aber keine starke öffentliche Diskussion oder eindeutige breite Popularität.",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt Waldemar klassisch und markant.",
+    "Der Name kann je nach Umfeld altmodisch, aber auch distinguiert erscheinen.",
+    "Die Seltenheit kann als Besonderheit wahrgenommen werden.",
+    "Eine harte Bewertung ist auf Basis der vorliegenden Quellen nicht sinnvoll."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist eher schwach für echte öffentliche Resonanz, da beide Quellen vor allem Informationsseiten sind.",
+    "Keine klare Community-Bewertung oder breite soziale Wahrnehmung erkennbar.",
+    "Einzelne positive Formulierungen sollten nicht mit allgemeiner Popularität verwechselt werden."
+  ],
+  "short_summary": "Waldemar wird in Deutschland vor allem als traditioneller, altdeutscher und historisch geprägter Name wahrgenommen; die Resonanz wirkt sachlich bis leicht positiv, aber die Evidenz für echte öffentliche Meinungen ist begrenzt.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Waldemar � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/W/Wa/Waldemar/"
+    },
+    {
+      "confidence": 0.92,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Waldemar: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Waldemar.html"
+    }
+  ],
+  "style_effect": [
+    "traditionell",
+    "altdeutsch",
+    "historisch",
+    "würdig",
+    "klassisch",
+    "etymologisch",
+    "leicht konservativ wirkend",
+    "seltenheitsgeprägt"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Der Name ist in Deutschland eher selten bis mäßig verbreitet und daher eher auffällig als alltagsdominant. Die Sichtbarkeit entsteht vor allem über Namenslexika und etymologische Einordnungen, nicht über eine lebhafte Community-Rezeption."
+}

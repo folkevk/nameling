@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "altnordische bzw. skandinavische Herkunft",
+    "Bezug zu Thor/Donnergott",
+    "Bedeutungselemente wie Bär",
+    "dänische Namensform",
+    "Namenstag",
+    "bekannt, aber nicht übermäßig häufig in Deutschland"
+  ],
+  "confidence": 0.88,
+  "display_text": "Torben: nordisch, klar und traditionell; in Deutschland bekannt, eher selten bis mittelhäufig, mit überwiegend sachlich-positiver Resonanz.",
+  "evidence_quality": "gut: zwei einschlägige Namensquellen mit klarer Diskussion von Herkunft, Bedeutung und Beliebtheit; jedoch keine breite soziologische Erhebung.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Torben",
+  "normalized_name": "torben",
+  "overall_resonance": "Torben wirkt im deutschsprachigen Raum eher klar, nordisch und traditionsnah; die öffentliche Wahrnehmung ist überwiegend sachlich bis positiv, ohne starke Polarisierung.",
+  "practical_notes": [
+    "Gut lesbar und im deutschen Kontext vertraut.",
+    "Wirkt kurz, prägnant und maskulin-nordisch.",
+    "Die Aussprache ist im Deutschen unkompliziert.",
+    "Für Suchmaschinen eignet sich eine Beschreibung mit Herkunft, Bedeutung und Verbreitung als Hauptaspekte."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Quellen sind vor allem Namenslexika und Informationsseiten; die Resonanzbeschreibung stützt sich daher eher auf Namensdeutung und allgemeine Wahrnehmung als auf breite Umfragedaten.",
+    "Einzelne Nutzerkommentare in den Quellen können positiv gefärbt sein und sind nicht als repräsentativ zu werten."
+  ],
+  "short_summary": "Torben wird öffentlich meist als nordischer, klarer und eher positiv wahrgenommener Vorname mit solider Bekanntheit in Deutschland beschrieben.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Torben � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/T/To/Torben/"
+    },
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "mixed",
+      "source_type": "web",
+      "title": "&#9655; Vorname Torben: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Torben.html"
+    }
+  ],
+  "style_effect": [
+    "nordisch",
+    "klar",
+    "bodenständig",
+    "traditionsbewusst",
+    "markant ohne exzentrisch zu wirken"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Der Name ist in Deutschland bekannt, aber nicht allgegenwärtig. Die Evidenz deutet auf eine solide, eher Nischen- als Massenpräsenz hin."
+}

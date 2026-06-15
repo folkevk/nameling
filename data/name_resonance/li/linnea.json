@@ -1,0 +1,59 @@
+{
+  "associations": [
+    "schwedischer Mädchenname",
+    "Moosglöckchen",
+    "botanische Herkunft",
+    "skandinavischer Klang",
+    "Bedeutung im Sinne von zart/sanft/freundlich",
+    "in Deutschland zunehmend geläufig"
+  ],
+  "confidence": 0.83,
+  "display_text": "Linnea wirkt in Deutschland überwiegend positiv: ein zarter, skandinavisch-botanisch geprägter Vorname mit freundlicher Ausstrahlung. Die vorhandene Evidenz ist vor allem namenkundlich und nicht kontrovers.",
+  "evidence_quality": "mittel: mehrere namenkundliche Webquellen, aber keine starke unabhängige öffentliche Diskurslage.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Linnea",
+  "normalized_name": "linnea",
+  "overall_resonance": "Überwiegend positiv und freundlich, mit klar skandinavisch-botanischer Anmutung. Die öffentliche Wahrnehmung wirkt eher wertschätzend als polarisierend.",
+  "practical_notes": [
+    "Gut verständlich und international anschlussfähig im Klang.",
+    "Wird häufig mit Natur- und Skandinavien-Assoziationen verbunden.",
+    "Die Wahrnehmung ist eher positiv-ästhetisch als eindeutig trendgetrieben."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt vor allem aus Namenslexika und beschreibenden Namensseiten, nicht aus einer breiten öffentlichen Debatte.",
+    "Es sind keine belastbaren Hinweise auf Stigmatisierung oder kontroverse gesellschaftliche Zuschreibungen erkennbar."
+  ],
+  "short_summary": "Linnea wird in Deutschland meist freundlich und modern wahrgenommen, mit skandinavisch-botanischem Charakter. Die Evidenz ist eher beschreibend als diskursiv, aber insgesamt klar positiv.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.95,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "Vorname Linnea � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/L/Li/Linnea/"
+    },
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Linnea: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Linnea.html"
+    }
+  ],
+  "style_effect": [
+    "skandinavisch",
+    "zart",
+    "natürlich",
+    "modern-freundlich",
+    "namenskundlich"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland als eher geläufiger, aber nicht massenhaft verbreiteter Mädchenname sichtbar. Die Evidenz deutet auf eine moderate Bekanntheit hin."
+}

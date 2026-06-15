@@ -1,0 +1,58 @@
+{
+  "associations": [
+    "althochdeutsche bzw. altdeutsche Herkunft",
+    "Bedeutung im Umfeld von Speer/Schwert und Kampf bzw. Bedrängnis",
+    "Nibelungenlied",
+    "selten in Deutschland",
+    "klassischer Jungenname"
+  ],
+  "confidence": 0.93,
+  "display_text": "Gernot wird meist als traditioneller, altdeutscher und eher seltener Vorname wahrgenommen. Die öffentliche Resonanz ist überwiegend neutral bis leicht positiv, mit Assoziationen zu Herkunft, historischer Bedeutung und dem Nibelungenlied.",
+  "evidence_quality": "gut; beide Quellen diskutieren eindeutig den Vornamen selbst und liefern konsistente, überwiegend neutrale bis leicht positive Hinweise",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Gernot",
+  "normalized_name": "gernot",
+  "overall_resonance": "Gernot wird öffentlich meist als traditioneller, altdeutscher und eher seltener Vorname wahrgenommen. Die Rezeption ist überwiegend sachlich-neutral bis leicht positiv, mit Fokus auf Herkunft, Bedeutung und literarische Bekanntheit.",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt Gernot solide, historisch und unverwechselbar.",
+    "Durch die Seltenheit kann der Name eigenständig und charakterstark erscheinen.",
+    "Die öffentliche Resonanz basiert hier vor allem auf Namenskunde und nicht auf breiter Alltagsverwendung."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Bedeutungsdeutung kann je nach Quelle leicht variieren; die Herleitung sollte vorsichtig gelesen werden.",
+    "Es gibt keine belastbare Evidenz für soziale Stigmatisierung; die Wahrnehmung ist eher kulturhistorisch als abwertend."
+  ],
+  "short_summary": "Gernot gilt als seltener, altdeutsch geprägter Vorname mit historischer und literarischer Anbindung. Die öffentliche Resonanz ist eher neutral bis leicht positiv.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Gernot � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/G/Ge/Gernot/"
+    },
+    {
+      "confidence": 0.92,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Gernot: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Gernot.html"
+    }
+  ],
+  "style_effect": [
+    "traditionell",
+    "historisch",
+    "namenskundlich",
+    "eher markant",
+    "klassisch-altdeutsch"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "eher gering bis mittel; der Name wirkt bekannt, aber nicht sehr verbreitet"
+}

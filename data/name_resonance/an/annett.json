@@ -1,0 +1,62 @@
+{
+  "associations": [
+    "deutsche Form von Annette",
+    "Koseform/Variante von Anna",
+    "hebräische Herkunft",
+    "Bedeutung: die Begnadete / die Anmutige",
+    "Namenstag",
+    "eher selten in Deutschland",
+    "historisch wahrgenommen"
+  ],
+  "confidence": 0.78,
+  "display_text": "Annett wirkt öffentlich überwiegend sachlich und klassisch: eine eher seltene deutsche Form mit der Bedeutung „die Begnadete“/„die Anmutige“. Die vorhandenen Quellen sind vor allem namenskundlich; eine breite öffentliche Bewertung oder Kontroverse zeigt sich nicht.",
+  "evidence_quality": "mittel bis schwach: klare Namensbeschreibung, aber nur begrenzte Hinweise auf tatsächliche öffentliche Resonanz; überwiegend sachliche Quellen, teils mit gemischten Community-Elementen.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Annett",
+  "normalized_name": "annett",
+  "overall_resonance": "Die öffentliche Resonanz auf „Annett“ wirkt überwiegend sachlich-neutral und namenskundlich geprägt. In der vorhandenen Evidenz wird der Name vor allem als deutsche Variante bzw. Form zu Annette/Anna beschrieben, mit der Bedeutung „die Begnadete“ bzw. „die Anmutige“. Eine breite, deutlich emotionale oder kontroverse öffentliche Diskussion ist in den Quellen nicht erkennbar; die Evidenz für echte öffentliche Resonanz ist insgesamt eher schwach.",
+  "practical_notes": [
+    "Für Suchmaschinen- oder Lexikonanzeigen eignet sich eine kurze, sachliche Einordnung ohne starke Wertung.",
+    "Wenn ein zeitgenössischer Eindruck gewünscht ist, sollte der geringe Diskursumfang klar erwähnt werden.",
+    "Die Schreibweise ist unkompliziert, die Namensform wirkt klassisch und eher traditionell."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt überwiegend aus Namensdatenbanken und Infoseiten, nicht aus breiter öffentlicher Diskussion.",
+    "Die Wahrnehmung als eher selten ist datenbasiert, aber kein Beleg für allgemeine soziale Bewertung.",
+    "Einzelne Community-Kommentare können subjektiv sein und sollten nicht verallgemeinert werden."
+  ],
+  "short_summary": "„Annett“ wird öffentlich vor allem sachlich als traditionelle, eher seltene deutsche Namensform mit freundlicher Bedeutung wahrgenommen. Starke positive oder negative Resonanz ist in der Evidenz nicht zu erkennen.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Annett � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/A/An/Annett/"
+    },
+    {
+      "confidence": 0.87,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Annett: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Annett.html"
+    }
+  ],
+  "style_effect": [
+    "informativ",
+    "lexikalisch",
+    "namenskundlich",
+    "neutral",
+    "traditionell wirkend",
+    "seltenheitsbezogen"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Eher gering bis mittel: Der Name erscheint in Namensdatenbanken und einzelnen Infoseiten, aber nicht mit starkem Diskurs oder breiter aktueller Sichtbarkeit."
+}

@@ -1,0 +1,59 @@
+{
+  "associations": [
+    "häufig als Kurzform von Regina",
+    "Bedeutungsnähe zu „die Königin“ / „die Herrscherin“",
+    "mögliche Wurzeln im Lateinischen, teils auch keltisch genannt",
+    "auch als Kurzform von Luigina, Georgina, Eugenia oder Virginia",
+    "in Deutschland bekannt, aber nicht besonders häufig"
+  ],
+  "confidence": 0.9,
+  "display_text": "Gina ist in Deutschland ein bekannter, eher selten vergebener Mädchenname mit überwiegend neutral bis leicht positiver öffentlicher Resonanz. Häufig wird er als Kurzform von Regina oder ähnlichen Namen erklärt und mit der Bedeutung „die Königin“ verbunden. Der Klang wirkt kurz, klar und zeitlos. Die vorliegende Evidenz ist überwiegend gut, besteht aber vor allem aus lexikalisch-informativen Quellen.",
+  "evidence_quality": "gut bis sehr gut; beide Quellen sind direkt namensbezogen, überwiegend informativ und nur teilweise von Kommentaren begleitet",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Gina",
+  "normalized_name": "gina",
+  "overall_resonance": "überwiegend neutral bis leicht positiv",
+  "practical_notes": [
+    "Für Suchmaschinenkontexte eignet sich eine kurze, sachliche Einordnung am besten.",
+    "Der Name wird meist über Herkunft und Bedeutung erklärt, weniger über modische Trends.",
+    "Die Wahrnehmung wirkt insgesamt neutral bis freundlich, ohne starke Kontroversen."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist vor allem lexikalisch-informativ und nur begrenzt gesellschaftsbezogen.",
+    "Positive Klangurteile stammen teils aus Community-Kommentaren und sollten vorsichtig gelesen werden.",
+    "Keine belastbaren Hinweise auf eine besondere Stigmatisierung oder starke negative Konnotation in der vorliegenden Evidenz."
+  ],
+  "short_summary": "Gina wird in Deutschland meist als bekannter, eher seltener Mädchenname mit neutral bis leicht positiver Resonanz wahrgenommen; oft wird er als Kurzform mit der Bedeutung „die Königin“ beschrieben.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Gina � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/G/Gi/Gina/"
+    },
+    {
+      "confidence": 0.95,
+      "is_name_discussion": true,
+      "sentiment": "positive",
+      "source_type": "web",
+      "title": "&#9655; Vorname Gina: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Gina.html"
+    }
+  ],
+  "style_effect": [
+    "kurz und prägnant",
+    "weiblich und international anschlussfähig",
+    "zeitlos bis leicht klassisch",
+    "freundlich-klar im Klang",
+    "eher unkompliziert und vertraut"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Der Name ist in Deutschland bekannt, wirkt aber eher nicht sehr häufig. Er ist im öffentlichen Namenskontext klar verortet und wird vor allem sachlich über Herkunft, Bedeutung und Klang beschrieben."
+}

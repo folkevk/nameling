@@ -1,0 +1,62 @@
+{
+  "associations": [
+    "althochdeutsche Herkunft",
+    "Bedeutung im Sinn von Ratgeber/Heeresberater",
+    "klassischer Jungenname",
+    "früher häufiger",
+    "heute seltener",
+    "Namenstag",
+    "Spitznamenformen",
+    "gelegentliche Popkultur-Bezüge"
+  ],
+  "confidence": 0.86,
+  "display_text": "Rainer wirkt in Deutschland als klassischer, traditionsnaher Vorname mit althochdeutscher Herkunft. Die öffentliche Wahrnehmung ist eher neutral bis leicht positiv, vor allem sachlich-namenskundlich geprägt. Heute gilt der Name eher als selten und historisch bekannt als als modisch oder trendig.",
+  "evidence_quality": "mittel bis gut; die Quellen sind klar namenskundlich und direkt zum Namen, aber die Resonanz ergibt sich hauptsächlich aus Sachinformationen und wenigen Kommentarhinweisen.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Rainer",
+  "normalized_name": "rainer",
+  "overall_resonance": "Rainer wirkt in der öffentlichen Namenswahrnehmung eher klassisch, traditionsnah und sachlich positiv eingefärbt. Die vorhandenen Quellen beschreiben den Namen vor allem über Herkunft, Bedeutung und frühere Verbreitung; eine stark emotionale oder trendige Resonanz zeigt sich nicht. Heute wird er eher als seltener vergebener, historisch bekannter Vorname wahrgenommen.",
+  "practical_notes": [
+    "Für eine Namenssuche eignet sich Rainer als vertrauter, traditioneller und klar deutscher Vorname.",
+    "Wer einen modernen oder sehr trendigen Klang sucht, wird ihn vermutlich weniger passend finden.",
+    "Die heutige Nutzung wirkt eher selten, was den Namen markant, aber nicht modisch erscheinen lässt."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz zur öffentlichen Resonanz ist begrenzt und stammt überwiegend aus namenskundlichen Seiten, nicht aus breiten Umfragen.",
+    "Positive oder negative Alltagsbilder sollten nicht überinterpretiert werden; die Quellen sind eher informativ als meinungsstark."
+  ],
+  "short_summary": "Rainer wird öffentlich eher als klassischer, traditionsreicher und heute seltener Vorname wahrgenommen. Die Quellen sind überwiegend sachlich und deuten auf eine neutrale bis leicht positive Resonanz hin.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Rainer � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/R/Ra/Rainer/"
+    },
+    {
+      "confidence": 0.94,
+      "is_name_discussion": true,
+      "sentiment": "überwiegend positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Rainer: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Rainer.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "traditionsbewusst",
+    "altdeutsch",
+    "nüchtern",
+    "namenskundlich",
+    "eher zeitlos als modern"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Der Name ist in Deutschland bekannt, aber im heutigen Alltag nicht besonders präsent. Die Sichtbarkeit liegt eher in der historischen und namenskundlichen Einordnung als in aktueller Popularität."
+}

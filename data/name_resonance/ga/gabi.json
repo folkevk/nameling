@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "Kurz- und Koseform von Gabriele/Gabriela",
+    "hebräische Herkunft",
+    "Bedeutung im Umfeld von 'Gott ist mein Held'",
+    "weiblicher Vorname im deutschsprachigen Raum",
+    "Namenstag am 24. März und 29. September"
+  ],
+  "confidence": 0.74,
+  "display_text": "Gabi wirkt öffentlich eher neutral bis leicht positiv: ein kurzer, vertrauter und eher informeller Name, der meist als Koseform von Gabriela/Gabriele gelesen wird. Die Evidenz ist vor allem lexikalisch, daher ist die Resonanz nur vorsichtig zu bewerten.",
+  "evidence_quality": "mittel bis schwach: gute Namensinformationen, aber wenig echte freie Resonanzkommentare; die Quellen sind eher katalogartig als diskussionsbasiert.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Gabi",
+  "normalized_name": "gabi",
+  "overall_resonance": "Eher neutral bis leicht positiv. Der Name Gabi wird öffentlich vor allem als kurze, vertraute Koseform wahrgenommen und weniger als eigenständiger Langname. Die verfügbare Evidenz ist überwiegend lexikalisch und informativ, daher ist die Aussagekraft für echte Alltagsresonanz begrenzt.",
+  "practical_notes": [
+    "Wirkt im Alltag unkompliziert und direkt.",
+    "Kann je nach Kontext eher als informell oder als Rufname verstanden werden.",
+    "Als eigenständige Schreibform kurz und prägnant, aber mit deutlich kosehafter Anmutung."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt vor allem aus Namenslexika und nicht aus spontanen öffentlichen Diskussionen.",
+    "Die Einschätzung zur Resonanz ist deshalb nur vorsichtig belastbar.",
+    "Keine Hinweise auf starke negative öffentliche Stigmatisierung in der vorliegenden Evidenz."
+  ],
+  "short_summary": "Gabi wird im deutschsprachigen Raum meist als vertraute Kurzform von Gabriela/Gabriele verstanden: kurz, freundlich und eher informell. Die öffentliche Wahrnehmung wirkt neutral bis leicht positiv, wobei die Evidenz vor allem aus Namenslexika stammt.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Gabi � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/G/Ga/Gabi/"
+    },
+    {
+      "confidence": 0.92,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Gabi: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Gabi.html"
+    }
+  ],
+  "style_effect": [
+    "kurz",
+    "vertraut",
+    "locker",
+    "umgangssprachlich",
+    "sympathisch",
+    "zeitlos"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Im deutschsprachigen Raum gut bekannt, aber eher als Kurzform oder Spitzname präsent als als formaler Vorname."
+}

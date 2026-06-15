@@ -1,0 +1,70 @@
+{
+  "associations": [
+    "altnordische Herkunft",
+    "Kurzform im nordischen Namensraum",
+    "Bedeutung wird teils mit Donner/Donnergöttin verbunden",
+    "weiblicher Vorname",
+    "selten in Deutschland",
+    "Namenstag 29. März",
+    "Aussprache oft als \"Towe\" beschrieben"
+  ],
+  "confidence": 0.82,
+  "display_text": "Tove wirkt in den verfügbaren Quellen nordisch, kurz und eigenständig. Die Resonanz ist überwiegend neutral bis leicht positiv, aber die Evidenz ist schmal und stammt fast nur aus Namenslexika.",
+  "evidence_quality": "Begrenzt: nur wenige, sehr ähnliche Namenslexikon-Quellen; gute direkte Namensbezüge, aber kaum echte öffentliche Resonanzdaten.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Tove",
+  "normalized_name": "tove",
+  "overall_resonance": "Überwiegend sachlich-positiv bis neutral. In den vorliegenden Namenslexika wird Tove vor allem als nordischer, kurzer und klanglich eigenständiger Vorname beschrieben; eine breite öffentliche Debatte ist daraus nicht erkennbar.",
+  "practical_notes": [
+    "Für die Namenssuche wirkt Tove kurz, eigenständig und skandinavisch geprägt.",
+    "Wer einen seltenen, klar weiblich wahrgenommenen Namen sucht, findet hier eine eher unaufdringliche Option.",
+    "Die Unsicherheit liegt weniger in negativer Resonanz als in der schmalen Datenbasis zur öffentlichen Wahrnehmung."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz basiert fast ausschließlich auf Namenslexika, nicht auf breiter öffentlicher Diskussion.",
+    "Aussagen zu Bedeutung und Herkunft sind namenkundliche Deutungen, keine gesicherten Alltagswahrheiten.",
+    "Aus den Quellen lässt sich keine belastbare Stigmatisierung oder kontroverse öffentliche Wahrnehmung ableiten."
+  ],
+  "short_summary": "Tove wird in den verfügbaren Quellen als seltener, nordisch geprägter und eher positiv-konnotierter Vorname beschrieben; belastbare öffentliche Debatten dazu sind kaum vorhanden.",
+  "source_count": 3,
+  "sources": [
+    {
+      "confidence": 0.95,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "Vorname Tove � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/T/To/Tove/"
+    },
+    {
+      "confidence": 0.92,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Tove � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/T/To/Tove/"
+    },
+    {
+      "confidence": 0.91,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Tove: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Tove.html"
+    }
+  ],
+  "style_effect": [
+    "nordisch-skandinavisch",
+    "kurz und prägnant",
+    "namenskundlich aufgeladen",
+    "eher traditionell als modern",
+    "klanglich markant",
+    "selten, aber nicht unbekannt"
+  ],
+  "usable_evidence_count": 3,
+  "visibility": "Eher geringe bis mittlere Sichtbarkeit in Deutschland: Der Name wird in Namensverzeichnissen geführt und als selten, aber vorhanden beschrieben. Die Evidenz ist jedoch stark auf wenige Lexikonseiten begrenzt."
+}

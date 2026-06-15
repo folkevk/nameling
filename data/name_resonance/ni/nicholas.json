@@ -1,0 +1,59 @@
+{
+  "associations": [
+    "englische Form von Nikolaus",
+    "Bedeutung: Sieg des Volkes",
+    "Namenstag am 6. Dezember",
+    "Namenstag auch teils am 25. September genannt",
+    "Kurzformen wie Nic, Nick, Nico, Nicky",
+    "Verbindung zu einer bekannten europäischen Namensfamilie"
+  ],
+  "confidence": 0.84,
+  "display_text": "Nicholas wirkt im deutschen Sprachraum international, klassisch und eher zeitlos. Die öffentliche Wahrnehmung ist überwiegend neutral mit leicht positiver Tendenz, vor allem wegen der klaren Herkunft als englische Form von Nikolaus und der vertrauten Bedeutung „Sieg des Volkes“. Die Evidenz ist dabei eher namenskundlich als breit gesellschaftlich.",
+  "evidence_quality": "mittel bis gut: klare Namensdiskussionen und Bedeutungsangaben, aber wenig direkte öffentliche Meinungsvielfalt.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Nicholas",
+  "normalized_name": "nicholas",
+  "overall_resonance": "Nicholas wirkt im deutschen Sprachraum als international bekannte, sachlich-positive Namensvariante mit eher klassisch-zeitloser als modischer Ausstrahlung. Die öffentliche Rezeption ist überwiegend informativ und neutral, mit leicht positiver Tendenz durch die klare Herkunft und die vertraute Verbindung zu Nikolaus.",
+  "practical_notes": [
+    "Für eine Namenssuche eignet sich Nicholas als gut verständliche, international anschlussfähige Form.",
+    "Wer einen stärker deutschen Eindruck möchte, findet in Nikolaus die traditionellere Variante.",
+    "Kurzformen sind im Alltag leicht anschlussfähig und tragen zur Vertrautheit bei."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist stark auf Namenslexika und beschreibende Quellen gestützt; echte öffentliche Alltagsresonanz im deutschen Sprachraum ist nur begrenzt sichtbar.",
+    "Die Nähe zu Nikolaus kann je nach Kontext als klassisch oder leicht weihnachtlich wahrgenommen werden, ohne dass daraus eine feste soziale Bewertung folgt."
+  ],
+  "short_summary": "Nicholas wird in Deutschland vor allem als internationale, sachlich-positive Variante von Nikolaus wahrgenommen; die Rezeption ist eher neutral bis leicht positiv, jedoch auf begrenzter Evidenzbasis.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.92,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Nicholas � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/N/Ni/Nicholas/"
+    },
+    {
+      "confidence": 0.91,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Nicholas: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Nicholas.html"
+    }
+  ],
+  "style_effect": [
+    "international",
+    "klassisch",
+    "zeitlos",
+    "sachlich",
+    "eher modern-englisch als traditionell-deutsch"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Der Name ist in Deutschland grundsätzlich bekannt und als Vorname eingeordnet, wirkt aber eher als weniger alltägliche, englisch geprägte Variante von Nikolaus. Die Evidenz zur öffentlichen Wahrnehmung ist begrenzt und stammt vor allem aus Namenslexika, nicht aus breiter Meinungsresonanz."
+}

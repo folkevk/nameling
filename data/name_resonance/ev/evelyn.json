@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "Bedeutungsangaben wie „die Erwünschte“ oder „kleiner Vogel“",
+    "englische bzw. französisch-normnormannische Herkunftsdeutungen",
+    "teilweise auch altsächsisch-germanische Bezüge",
+    "Namenstag",
+    "Beliebtheit als Vorname in Deutschland",
+    "wertschätzende, beschreibende Namensdarstellung"
+  ],
+  "confidence": 0.86,
+  "display_text": "Evelyn wird in den vorliegenden Quellen überwiegend positiv und eher klassisch-elegant wahrgenommen. Der Name gilt als bekannt, freundlich klingend und namenskundlich gut eingeordnet; die öffentliche Rezeption ist vor allem beschreibend und nicht kontrovers.",
+  "evidence_quality": "mittel bis gut: zwei klar auf den Namen bezogene, überwiegend positive Namensquellen; allerdings keine breite Diskussionslage oder unabhängige Meinungsstreuung.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Evelyn",
+  "normalized_name": "evelyn",
+  "overall_resonance": "Überwiegend positiv und eher klassisch-wohlklingend wahrgenommen. In den vorliegenden Quellen wird Evelyn vor allem als traditionsreicher, freundlich klingender Vorname mit klarer Bedeutung und Namensherkunft beschrieben.",
+  "practical_notes": [
+    "Für Suchmaschinen und Namensübersichten eignet sich Evelyn als klar etablierter Mädchenname mit positiver Grundwirkung.",
+    "Der Name wirkt eher klassisch als modisch und ist im deutschsprachigen Raum leicht einzuordnen.",
+    "Die Wahrnehmung ist stärker von Bedeutung und Herkunft geprägt als von kontroversen Assoziationen."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist klein und stark quellengebunden; es handelt sich vor allem um Lexikon- und Namensportale.",
+    "Positive Eindrücke stammen teils aus redaktionellen Beschreibungen und nicht aus breiter öffentlicher Debatte.",
+    "Keine belastbaren Hinweise auf soziale Stigmatisierung in den vorliegenden Quellen."
+  ],
+  "short_summary": "Evelyn wird in Deutschland überwiegend positiv, elegant und zeitlos wahrgenommen. Die verfügbaren Quellen betonen Bedeutung, Herkunft und Namenspopularität, ohne Anzeichen für negative Stigmatisierung.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.95,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "Vorname Evelyn � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/E/Ev/Evelyn/"
+    },
+    {
+      "confidence": 0.95,
+      "is_name_discussion": true,
+      "sentiment": "positive",
+      "source_type": "web",
+      "title": "&#9655; Vorname Evelyn: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Evelyn.html"
+    }
+  ],
+  "style_effect": [
+    "elegant",
+    "zeitlos",
+    "weiblich",
+    "sanft",
+    "international anschlussfähig",
+    "namenskundlich etabliert"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland ist der Name bekannt und präsent, wirkt aber nicht extrem häufig. Die öffentliche Wahrnehmung erscheint eher sprachlich-kulturell als trendgetrieben."
+}

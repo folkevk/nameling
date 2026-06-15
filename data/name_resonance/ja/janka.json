@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "weiblicher Vorname",
+    "Variante von Johanna/Jana",
+    "westslawische bzw. ungarische Koseform",
+    "Bedeutung: Gott ist gnädig / Jahwe ist gnädig",
+    "Namenstag",
+    "selten bis mäßig verbreitet"
+  ],
+  "confidence": 0.83,
+  "display_text": "Janka wird in den vorliegenden Quellen überwiegend neutral bis leicht positiv wahrgenommen. Der Name erscheint eher selten, wirkt aber vertraut und traditionsnah. Die öffentliche Resonanz ist jedoch nur schwach belegt und basiert vor allem auf einzelnen Namensseiten.",
+  "evidence_quality": "Begrenzt bis mittel: klare Namensdiskussion, aber nur wenige Quellen und wenig breite öffentliche Meinungsäußerung.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Janka",
+  "normalized_name": "janka",
+  "overall_resonance": "Die öffentliche Resonanz zu Janka wirkt insgesamt eher neutral bis leicht positiv. Der Name wird vor allem sachlich-namenskundlich behandelt und mit Bedeutung, Herkunft und Namenstag verknüpft. Eine breite, starke öffentliche Meinungsbildung ist in der vorliegenden Evidenz aber nicht erkennbar.",
+  "practical_notes": [
+    "Der Name wirkt vertraut, aber nicht alltäglich.",
+    "Die Schreibweise ist kurz und gut merkbar.",
+    "In Namenskontexten wird Janka meist als eigenständig, aber nah an Johanna/Jana eingeordnet."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz für öffentliche Resonanz ist schwach und stützt sich im Wesentlichen auf einzelne Namensdatenbanken.",
+    "Beliebtheits- oder Rankingangaben sind keine direkte Meinungsäußerung und sollten nicht als allgemeine Bewertung gelesen werden.",
+    "Die vorhandenen Kommentare wirken eher individuell als repräsentativ für eine breite Öffentlichkeit."
+  ],
+  "short_summary": "Janka wird meist sachlich und leicht positiv als seltener, traditionell wirkender Vorname mit biblischer Bedeutung und slawisch/ungarischer Namensnähe beschrieben.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.91,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "Vorname Janka � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/J/Ja/Janka/"
+    },
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "eher neutral bis leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Janka: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Janka.html"
+    }
+  ],
+  "style_effect": [
+    "informativ",
+    "namenskundlich",
+    "traditionell",
+    "leicht ungewöhnlich",
+    "sprachlich klar"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Eher gering bis mäßig sichtbar in deutschsprachigen Namensquellen; der Name erscheint eher als seltene, aber bekannte Variante."
+}

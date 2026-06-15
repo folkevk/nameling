@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "althochdeutsche Herkunft",
+    "Bedeutung in Richtung „Mann der Erde“",
+    "Wortbestandteile wie Erde/Mann, teils auch Heer/Krieger in etymologischen Deutungen",
+    "historisch belegt",
+    "selten in aktuellen Namensvergleichen"
+  ],
+  "confidence": 0.88,
+  "display_text": "Erdmann wirkt in der öffentlichen Wahrnehmung vor allem traditionell, altdeutsch und selten. Die vorliegenden Quellen beschreiben den Namen sachlich über Herkunft und Bedeutung; eine starke aktuelle Trend- oder Diskussionslage zeigt sich nicht.",
+  "evidence_quality": "mittel bis gut für Herkunft und Bedeutung, schwächer für tatsächliche öffentliche Resonanz",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Erdmann",
+  "normalized_name": "erdmann",
+  "overall_resonance": "Die öffentliche Resonanz auf „Erdmann“ wirkt überwiegend sachlich-neutralt bis leicht altdeutsch-historisch geprägt. Der Name wird vor allem als seltener, traditioneller Vorname beschrieben, mit klarer etymologischer Einordnung, aber ohne starke moderne Popularität.",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt „Erdmann“ klar, traditionell und markant.",
+    "Die Seltenheit kann als eigenständig wahrgenommen werden, aber auch als ungewöhnlich.",
+    "Die Quellenlage ist ausreichend für eine vorsichtige Einordnung, nicht für eine harte Popularitätsbewertung."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist stark quellengebunden und stützt sich im Wesentlichen auf wenige Namensdatenbanken.",
+    "Es gibt kaum breite öffentliche Diskussion; die Resonanz spiegelt daher eher lexikalische Beschreibungen als allgemeine Alltagswahrnehmung wider.",
+    "Einzelne Randkommentare sollten nicht als repräsentativ für das Namensbild überinterpretiert werden."
+  ],
+  "short_summary": "„Erdmann“ wird überwiegend neutral, historisch und selten wahrgenommen. Die Quellen betonen vor allem Herkunft und Bedeutung; eine breite moderne Popularität ist nicht erkennbar.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.94,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Erdmann � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/E/Er/Erdmann/"
+    },
+    {
+      "confidence": 0.94,
+      "is_name_discussion": true,
+      "sentiment": "mixed",
+      "source_type": "web",
+      "title": "&#9655; Vorname Erdmann: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Erdmann.html"
+    }
+  ],
+  "style_effect": [
+    "altdeutsch",
+    "historisch",
+    "namenskundlich",
+    "sachlich",
+    "selten",
+    "konservativ-traditionell"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Eher gering: In den vorliegenden Quellen erscheint der Name selten und nicht als aktueller Trendname. Die Wahrnehmung ist daher mehr lexikalisch als diskursiv."
+}

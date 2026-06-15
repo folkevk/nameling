@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "Bedeutung im Sinne von „Herrscherin in/einer Burg“",
+    "althochdeutscher bzw. altdeutscher Ursprung",
+    "Namenstag am 25. Februar",
+    "Bezüge zur heiligen Walburga/Walpurgis-Tradition",
+    "Varianten und Kurzformen wie Wally, Walli oder Burga"
+  ],
+  "confidence": 0.74,
+  "display_text": "Walburga wird überwiegend sachlich und traditionell eingeordnet. Die vorliegenden Quellen betonen den altdeutschen Ursprung, die Bedeutung, den Namenstag und die Seltenheit in Deutschland. Eine breite öffentliche Debatte ist nicht erkennbar; die Evidenz ist eher lexikalisch als sozialer Resonanzdiskurs.",
+  "evidence_quality": "Begrenzt: zwei überwiegend lexikalische Namensquellen, wenig echte öffentliche Diskussion oder Nutzersentiment.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Walburga",
+  "normalized_name": "walburga",
+  "overall_resonance": "Walburga wird in den vorliegenden Quellen vor allem sachlich-traditionell und eher historisch geprägt wahrgenommen. Die öffentliche Rezeption wirkt nicht breit diskutiert, sondern hauptsächlich namenskundlich beschrieben; die Evidenz ist dafür insgesamt eher schwach und auf Lexikon-/Namensseiten konzentriert.",
+  "practical_notes": [
+    "Für Suchmaschinen wirkt der Name klar historisch und eindeutig weiblich.",
+    "Die öffentliche Resonanz scheint eher neutral bis respektvoll-informativ als emotional.",
+    "Wer einen modernen, häufigen Klang sucht, könnte Walburga als sehr traditionell empfinden."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt überwiegend aus Namenslexika und weniger aus öffentlicher Debatte.",
+    "Eine breite soziale Bewertung des Namens lässt sich daraus nur eingeschränkt ableiten.",
+    "Die Seltenheit kann die Wahrnehmung stark prägen, ohne dass daraus eine allgemeine Meinung folgt."
+  ],
+  "short_summary": "Walburga erscheint in den Quellen als sehr seltener, altdeutsch-historisch geprägter Vorname mit neutraler, sachlicher Rezeption.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Walburga � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/W/Wa/Walburga/"
+    },
+    {
+      "confidence": 0.84,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Walburga: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Walburga.html"
+    }
+  ],
+  "style_effect": [
+    "traditionell",
+    "historisch",
+    "altdeutsch",
+    "förmlich",
+    "namenkundlich",
+    "eher ungewöhnlich"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Sehr selten und im Alltag wenig sichtbar; die Quellen betonen vor allem die geringe Verbreitung in Deutschland."
+}

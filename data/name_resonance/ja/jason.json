@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "griechische Herkunft",
+    "Bedeutung: „der Heilende“",
+    "Mythologie",
+    "internationale Verbreitung",
+    "seit den 1990er Jahren in Deutschland bekannt",
+    "Namenstag"
+  ],
+  "confidence": 0.87,
+  "display_text": "Jason hat in Deutschland eine überwiegend neutrale bis positive Resonanz. Der Name wirkt modern, international geprägt und leicht vertraut. In den vorliegenden Quellen steht vor allem die namenskundliche Einordnung im Vordergrund: griechische Herkunft, die Bedeutung „der Heilende“ und eine seit den 1990er Jahren bekannte Verbreitung. Eine soziale Stigmatisierung ist in der Evidenz nicht erkennbar.",
+  "evidence_quality": "gut: zwei einschlägige, namenskundliche Quellen mit klaren Angaben zu Herkunft, Bedeutung und Verbreitung; jedoch kaum echte Meinungs- oder Alltagsresonanz",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Jason",
+  "normalized_name": "jason",
+  "overall_resonance": "überwiegend neutral bis positiv",
+  "practical_notes": [
+    "Für eine Namenssuche erscheint Jason als klarer, leicht verständlicher Vorname mit internationalem Klang.",
+    "In Deutschland wirkt der Name eher modern und vertraut als traditionell.",
+    "Die öffentliche Resonanz in den Quellen ist sachlich und überwiegend wertschätzend, aber nicht euphorisch."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die vorhandene Evidenz ist überwiegend lexikalisch und beschreibt den Namen selbst, nicht die öffentliche Meinung in Alltagssituationen.",
+    "Es gibt keine belastbaren Hinweise auf eine soziale Stigmatisierung oder stark negative Konnotationen.",
+    "Einzelne Zuordnungen wie „amerikanisch“ oder „modern“ sind Stilassoziationen, keine festen Eigenschaften."
+  ],
+  "short_summary": "Jason wird in Deutschland überwiegend neutral bis positiv wahrgenommen: modern, international und leicht vertraut. Die Quellen betonen vor allem Herkunft, Bedeutung und Verbreitung.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Jason � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/J/Ja/Jason/"
+    },
+    {
+      "confidence": 0.95,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Jason: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Jason.html"
+    }
+  ],
+  "style_effect": [
+    "modern",
+    "international geprägt",
+    "jugendlich klingend",
+    "leicht urban",
+    "sachlich vertraut"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "im deutschen Namensraum bekannt, aber eher moderat präsent; wirkt nicht selten, jedoch auch nicht dominant"
+}

@@ -1,0 +1,62 @@
+{
+  "associations": [
+    "Bedeutung: „Perle“",
+    "altgriechisch/lateinischer Ursprung",
+    "Variante von Margarete",
+    "Namenstag am 20. Juli",
+    "Spitznamen wie Greta, Gretchen oder Margit",
+    "historisch und traditionell verankert",
+    "heute in Deutschland weniger häufig"
+  ],
+  "confidence": 0.89,
+  "display_text": "Margaretha wirkt in der öffentlichen Wahrnehmung überwiegend sachlich bis leicht positiv: ein klassischer, historisch verankerter und heute eher seltener Vorname mit der Bedeutung „Perle“. Die Evidenz ist dafür ordentlich, aber vor allem namenskundlich und nicht breit gesellschaftlich diskutiert.",
+  "evidence_quality": "Gut für Bedeutung, Herkunft und stilistische Einordnung; schwächer für echte öffentliche Meinungsresonanz.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Margaretha",
+  "normalized_name": "margaretha",
+  "overall_resonance": "Überwiegend sachlich bis leicht positiv; der Name wirkt klassisch, historisch verankert und eher selten im heutigen deutschen Gebrauch.",
+  "practical_notes": [
+    "Für Suchende, die einen klassischen und traditionsreichen Namen bevorzugen, wirkt Margaretha solide und klar einordbar.",
+    "Durch die Seltenheit kann der Name auffallen, ohne ausgeprägt modern zu wirken.",
+    "Als Resonanzbild eignet sich Margaretha eher für einen ruhigen, historischen Eindruck als für einen trendigen Sound."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt fast nur aus Namenslexika und Profilseiten; öffentliche Debatte oder breitere Alltagsresonanz sind nur eingeschränkt sichtbar.",
+    "Die Einschätzung zur Beliebtheit wirkt eher beschreibend als diskursiv und sollte deshalb vorsichtig gelesen werden."
+  ],
+  "short_summary": "Margaretha wird überwiegend neutral bis leicht positiv wahrgenommen: klassisch, traditionsreich und heute eher selten.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Margaretha � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/M/Ma/Margaretha/"
+    },
+    {
+      "confidence": 0.91,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Margaretha: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Margaretha.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "historisch",
+    "traditionell",
+    "namenskundlich",
+    "eher selten",
+    "leicht feierlich",
+    "altsprachlich geprägt"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Eher gering bis mittel: In der öffentlichen Wahrnehmung erscheint Margaretha vor allem als traditionsreicher, namenskundlich interessanter Name, nicht als stark diskutierter Modename."
+}

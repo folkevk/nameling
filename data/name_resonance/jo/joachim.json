@@ -1,0 +1,62 @@
+{
+  "associations": [
+    "biblische bzw. hebräische Herkunft",
+    "Bedeutung im Sinn von 'JHWH richtet auf'",
+    "Namenstag",
+    "deutsche Namenslexika",
+    "seltenere Vergabe heute",
+    "Kurzformen wie Achim"
+  ],
+  "confidence": 0.84,
+  "display_text": "Joachim: klassischer, biblisch geprägter Vorname mit sachlich-informativer Resonanz; heute eher selten vergeben.",
+  "evidence_quality": "mittel bis schwach: zwei klare Namenslexikon-Quellen, aber kaum freie öffentliche Resonanz oder Alltagsdiskussion",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Joachim",
+  "normalized_name": "joachim",
+  "overall_resonance": "Joachim wirkt in der öffentlichen Namenswahrnehmung überwiegend sachlich, traditionell und eher klassisch als trendig. Die verfügbaren Quellen beschreiben vor allem Herkunft, Bedeutung und Namenstag; eine starke emotionale oder trendbezogene Resonanz ist daraus nicht ableitbar.",
+  "practical_notes": [
+    "Für Suchmaschinen- und Lexikoneinträge eignet sich die Einordnung als klassischer, historisch geprägter Jungenname.",
+    "Wenn eine moderne Wirkung gewünscht ist, kann der Name eher als traditionell statt zeitgeistig wahrgenommen werden.",
+    "Kurzformen wie Achim können die Alltagsverwendung prägen."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt überwiegend aus Namensdatenbanken und nicht aus breiter öffentlicher Diskussion.",
+    "Daher ist die Resonanzkarte nur vorsichtig interpretierbar.",
+    "Keine belastbare Aussage über gesellschaftliche Vorurteile oder modische Bewertung ableitbar."
+  ],
+  "short_summary": "Joachim wird überwiegend als klassischer, biblisch geprägter und heute eher seltener Vorname wahrgenommen. Die belegte Resonanz ist sachlich-informativ, nicht stark emotional.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Joachim � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/J/Jo/Joachim/"
+    },
+    {
+      "confidence": 0.92,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Joachim: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Joachim.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "traditionell",
+    "sachlich",
+    "lexikalisch",
+    "biblisch geprägt",
+    "eher selten",
+    "namenskundlich"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland bekannt, aber heute eher selten vergeben; die öffentliche Sicht ist vor allem lexikalisch und namenskundlich geprägt. Die Evidenz für freie Alltagsresonanz ist schwach."
+}

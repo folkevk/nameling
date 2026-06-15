@@ -1,0 +1,59 @@
+{
+  "associations": [
+    "altnordisch und althochdeutsch",
+    "Kurzform von Radulf/Radolf",
+    "Bedeutung sinngemäß: „Rat des Wolfes“ / „ratgebender Wolf“",
+    "Namenstag am 21. Juni und 7. September",
+    "in Deutschland früher besonders häufig, heute deutlich seltener"
+  ],
+  "confidence": 0.89,
+  "display_text": "Ralf wird meist als klassischer, bodenständiger Vorname wahrgenommen. Die öffentliche Resonanz ist überwiegend neutral bis leicht positiv, vor allem wegen der klaren Herkunft und der traditionellen Namensbedeutung. Heute wirkt der Name eher etwas generationsgebunden, aber weiterhin gut bekannt.",
+  "evidence_quality": "Gut für Bedeutung, Herkunft und grobe Wahrnehmung; begrenzt in der Breite, da hauptsächlich Lexikonquellen vorliegen.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Ralf",
+  "normalized_name": "ralf",
+  "overall_resonance": "Der Vorname Ralf wird öffentlich überwiegend sachlich und klassisch wahrgenommen, mit leicht positiver bis neutraler Resonanz. In den Quellen steht vor allem die Namensbedeutung und Herkunft im Vordergrund; zugleich wird die heutige Nutzung eher als rückläufig beschrieben.",
+  "practical_notes": [
+    "Für Namenssuche und Lexika gut bekannt und eindeutig.",
+    "Wirkt eher traditionsreich als modisch.",
+    "Kann je nach Kontext etwas generationsgebunden erscheinen."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist vor allem auf wenige Namenslexikon-Seiten gestützt.",
+    "Die öffentliche Resonanz ist daher nur vorsichtig als allgemeiner Eindruck zu lesen.",
+    "Keine Hinweise auf eine starke soziale Stigmatisierung in den Quellen."
+  ],
+  "short_summary": "Ralf gilt öffentlich als klassischer, klarer und eher traditioneller Vorname mit neutral bis leicht positiver Resonanz.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Ralf � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/R/Ra/Ralf/"
+    },
+    {
+      "confidence": 0.94,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Ralf: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Ralf.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "bodenständig",
+    "kurz und klar",
+    "namenkundlich geprägt",
+    "eher zeittypisch für ältere Generationen"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Mittel: Der Name ist bekannt und klar einordbar, wirkt aber heute weniger präsent als in früheren Jahrzehnten."
+}

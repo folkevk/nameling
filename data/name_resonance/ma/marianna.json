@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "Doppelform aus Maria und Anna",
+    "hebräisch/biblische Herkunft",
+    "Bedeutungen rund um Anmut und Gnade",
+    "in Deutschland seit dem 18. Jahrhundert belegt",
+    "Namenstag-Bezüge",
+    "Varianten wie Mariana, Marianne, Mariann"
+  ],
+  "confidence": 0.84,
+  "display_text": "Marianna wirkt in Deutschland eher klassisch, sanft und international anschlussfähig. Die öffentliche Rezeption ist überwiegend neutral bis positiv, basiert aber vor allem auf Namenslexika und weniger auf breiter Diskussion. Der Name wird mit Maria und Anna, biblisch/hebräischer Herkunft sowie Varianten wie Mariana oder Marianne verbunden.",
+  "evidence_quality": "mittel: klare Namenslexikon-Evidenz, aber kaum öffentliche Diskussions- oder Reputationsdaten",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Marianna",
+  "normalized_name": "marianna",
+  "overall_resonance": "Eher ruhig, klassisch und international anschlussfähig; die öffentliche Wahrnehmung wirkt vor allem sachlich-namenskundlich und nicht stark polarisiert.",
+  "practical_notes": [
+    "Für die Namenssuche wirkt Marianna vertraut, gut aussprechbar und eher zeitlos als trendig.",
+    "Der Name hat mehrere internationale und deutsche Varianten, was die Wiedererkennbarkeit erhöht.",
+    "In Deutschland scheint er eher selten bis mäßig verbreitet, ohne starke soziale Aufladung."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist begrenzt und stützt sich auf wenige Namenslexikon-Quellen.",
+    "Es liegt keine breite öffentliche Meinungsdiskussion vor, daher nur vorsichtige Einordnung möglich.",
+    "Wirkungen wie 'elegant' oder 'klassisch' sind stilistische Lesarten, keine objektiven Eigenschaften."
+  ],
+  "short_summary": "Marianna wird im deutschsprachigen Raum meist als klassischer, freundlicher und traditionsreicher Vorname wahrgenommen. Die verfügbaren Quellen sind überwiegend lexikalisch und zeigen keine auffällige Kontroverse.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.92,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Marianna � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/M/Ma/Marianna/"
+    },
+    {
+      "confidence": 0.95,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Marianna: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Marianna.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "elegant",
+    "traditionsbewusst",
+    "sanft",
+    "international",
+    "zeitlos"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Im deutschsprachigen Raum bekannt, aber nicht auffällig häufig; die Quellen beschreiben den Namen eher als traditionsreich und lexikalisch gut verankert als als aktuellen Modenamen."
+}

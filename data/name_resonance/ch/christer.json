@@ -1,0 +1,59 @@
+{
+  "associations": [
+    "Kurzform von Christian",
+    "Bedeutung: \"der Christ\" / \"Anhänger Christi\"",
+    "skandinavische bzw. nordische Namensform",
+    "selten in Deutschland",
+    "häufiger in Dänemark und Schweden"
+  ],
+  "confidence": 0.87,
+  "display_text": "Christer ist in den Quellen vor allem als seltene, skandinavische Form von Christian beschrieben. Die öffentliche Resonanz wirkt sachlich-neutral, mit traditionell-religiöser Bedeutung und geringer Bekanntheit in Deutschland.",
+  "evidence_quality": "mittel bis schwach: zwei sachliche Namensquellen, aber keine breite öffentliche Diskussion und nur begrenzter Regionbezug zu Deutschland.",
+  "generated_at": "2026-06-14T10:47:41Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Christer",
+  "normalized_name": "christer",
+  "overall_resonance": "Christer wird in den vorliegenden Quellen überwiegend sachlich-neutral wahrgenommen: als skandinavisch geprägte, seltene Namensform mit klarer religiös-etymologischer Bedeutung. In Deutschland scheint der Name eher ungewöhnlich zu sein, ohne dass sich daraus eine stark positive oder negative öffentliche Wertung ableiten lässt.",
+  "practical_notes": [
+    "Für Suchmaschinen ist eine vorsichtige Einordnung sinnvoll: selten, skandinavisch, neutral bis leicht traditionsbetont.",
+    "Keine belastbaren Hinweise auf eine sozial stigmatisierte Wahrnehmung in Deutschland.",
+    "Wenn Kontext gefragt ist, eignet sich die Erklärung der Bedeutung und Herkunft als stärkster Anker."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist schmal und stützt sich vor allem auf Namenslexika.",
+    "Es gibt keine breite öffentliche Debatte oder Community-Bewertung.",
+    "Die Seltenheit des Namens kann eher zu Unbekanntheit als zu klarer Resonanz führen."
+  ],
+  "short_summary": "Christer wirkt in Deutschland selten, skandinavisch und überwiegend neutral bis sachlich-religiös konnotiert. Eine deutliche öffentliche Wertung ist auf Basis der vorliegenden Quellen nicht erkennbar.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Christer � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/C/Ch/Christer/"
+    },
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Christer: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Christer.html"
+    }
+  ],
+  "style_effect": [
+    "nüchtern",
+    "namenskundlich",
+    "skandinavisch",
+    "traditionell",
+    "ungewöhnlich"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland eher selten und damit öffentlich wenig präsent; die verfügbare Evidenz deutet auf eine geringe Alltagsbekanntheit hin."
+}

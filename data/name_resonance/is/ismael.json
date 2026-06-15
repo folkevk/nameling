@@ -1,0 +1,69 @@
+{
+  "associations": [
+    "hebräische Herkunft",
+    "Bedeutung: Gott erhört / Gott wird erhören",
+    "biblischer Name",
+    "Altes Testament",
+    "Namenstag am 17. Juni",
+    "männlicher Vorname",
+    "selten bis moderat verbreitet in Deutschland"
+  ],
+  "confidence": 0.79,
+  "display_text": "Ismael wirkt in Deutschland vor allem biblisch-traditionell, sachlich und eher leicht positiv besetzt. Die vorhandene Evidenz ist jedoch begrenzt und stammt hauptsächlich aus Namenslexika; eine breite öffentliche Diskussion ist kaum sichtbar.",
+  "evidence_quality": "mittel bis schwach; überwiegend quellengebundene Namensbeschreibungen statt breiter öffentlicher Resonanz",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Ismael",
+  "normalized_name": "ismael",
+  "overall_resonance": "Ismael wird in den vorliegenden Quellen überwiegend sachlich bis leicht positiv wahrgenommen. Der Name erscheint vor allem als biblisch-hebräischer Vorname mit klarer Bedeutung und eher ruhiger, traditionsbezogener Ausstrahlung. Eine breite öffentliche Debatte ist in der Evidenz kaum erkennbar.",
+  "practical_notes": [
+    "Für eine Namenssuche ist Ismael gut verständlich und klar einordbar.",
+    "Der Name wirkt traditionsreich, ohne altmodisch zu erscheinen.",
+    "Die Datenlage zur öffentlichen Rezeption in Deutschland ist begrenzt; die Einschätzung bleibt daher vorsichtig."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt fast ausschließlich von Namens- und Lexikonseiten, also keine breite öffentliche Meinungsvielfalt.",
+    "Positive Einordnungen können redaktionell oder SEO-bedingt überbetont sein.",
+    "Keine Hinweise auf eine soziale Stigmatisierung oder auffällige negative Namenszuschreibungen in der vorliegenden Evidenz."
+  ],
+  "short_summary": "Ismael wird in den Quellen meist sachlich, leicht positiv und biblisch-traditionell beschrieben; in Deutschland scheint der Name eher selten bis moderat verbreitet zu sein.",
+  "source_count": 3,
+  "sources": [
+    {
+      "confidence": 0.9,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Ismael � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/I/Is/Ismael/"
+    },
+    {
+      "confidence": 0.88,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Ismael � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/I/Is/Ismael/"
+    },
+    {
+      "confidence": 0.91,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Ismael: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Ismael.html"
+    }
+  ],
+  "style_effect": [
+    "biblisch-traditionell",
+    "sprachlich klar und international anschlussfähig",
+    "informativ und eher nüchtern",
+    "leicht religiös bzw. spirituell konnotiert",
+    "eher selten als massenhaft verbreitet"
+  ],
+  "usable_evidence_count": 3,
+  "visibility": "In Deutschland wirkt Ismael eher bekannt, aber nicht dominant; die Quellen beschreiben ihn als selten bis moderat verbreitet. Die öffentliche Sichtbarkeit scheint vor allem über Namenslexika und Informationsseiten zu laufen, nicht über starke Alltagsdiskussionen."
+}

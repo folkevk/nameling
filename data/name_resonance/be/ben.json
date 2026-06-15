@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "Kurzform von Benjamin",
+    "Kurzform von Benedikt",
+    "auch mit weiteren traditionellen Langformen verbunden",
+    "hebräische, lateinische und teils althochdeutsche Herleitungen in der Namensdeutung",
+    "Bedeutungen wie „Sohn“ und „der Gesegnete“",
+    "kurzer, populärer Vorname für Jungen in Deutschland",
+    "Namenstage werden in den Quellen genannt"
+  ],
+  "confidence": 0.92,
+  "display_text": "Ben wird in Deutschland meist positiv, modern und sehr bekannt wahrgenommen. Die vorliegenden Quellen sehen den Namen als kurze, beliebte und zeitlose Kurzform mit freundlicher Ausstrahlung. Die Evidenz ist dabei eher namenskundlich als diskussionsbasiert, also solide, aber nicht stark öffentlich meinungsgetrieben.",
+  "evidence_quality": "mittel bis gut; inhaltlich starke Namenskunde, aber nur begrenzt echte öffentliche Diskussionsdaten",
+  "generated_at": "2026-06-12T06:08:03Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Ben",
+  "normalized_name": "ben",
+  "overall_resonance": "Ben wird in der vorliegenden Evidenz überwiegend positiv und modern wahrgenommen. Der Name gilt in Deutschland als sehr bekannt und beliebt, mit einer klaren, kurzen und zeitgemäßen Ausstrahlung. Die öffentliche Resonanz wirkt eher freundlich-beschreibend als kontrovers.",
+  "practical_notes": [
+    "Für Suchmaschinen eignet sich Ben als klarer, leicht merkbarer und gut anschlussfähiger Vorname.",
+    "Die Namenswirkung ist eher schlicht, modern und positiv als ausgefallen.",
+    "Je nach Quelle werden unterschiedliche Herleitungen genannt; das ist bei Kurzformen typisch."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Beleglage zur öffentlichen Resonanz ist eher indirekt, da die Quellen vor allem Namenslexika und Infoseiten sind.",
+    "Beliebtheit und Bedeutungen werden stark betont, aber es gibt nur wenig echte Diskussionsdichte aus öffentlichen Kommentaren.",
+    "Keine Hinweise auf eine negative gesellschaftliche Stigmatisierung in den vorliegenden Quellen."
+  ],
+  "short_summary": "Ben wirkt in Deutschland sehr bekannt, kurz und modern. Die Quellen beschreiben den Namen überwiegend positiv, vor allem als beliebte Kurzform mit klaren Bedeutungen und starker Namenskundlichkeit.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.99,
+      "is_name_discussion": true,
+      "sentiment": "positive",
+      "source_type": "web",
+      "title": "Vorname Ben � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/B/Be/Ben/"
+    },
+    {
+      "confidence": 0.94,
+      "is_name_discussion": true,
+      "sentiment": "positive",
+      "source_type": "web",
+      "title": "&#9655; Vorname Ben: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Ben.html"
+    }
+  ],
+  "style_effect": [
+    "kurz und prägnant",
+    "modern und unkompliziert",
+    "international anschlussfähig",
+    "freundlich und zeitlos",
+    "namenskundlich stark aufgeladen"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "hoch; in deutschen Namenslexika und Übersichtsseiten sehr präsent, mit deutlicher Erwähnung von Beliebtheit und Namensdeutung"
+}

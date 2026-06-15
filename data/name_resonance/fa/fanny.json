@@ -1,0 +1,59 @@
+{
+  "associations": [
+    "weiblicher Vorname",
+    "Kurzform von Franziska/Frances",
+    "Bedeutungsbezüge wie \"die kleine Französin\" bzw. \"die Freie\"",
+    "historische Verwendung in Deutschland",
+    "eher seltene bis moderate Verbreitung",
+    "im Englischen teils problematische oder ungewollte Nebenbedeutung"
+  ],
+  "confidence": 0.9,
+  "display_text": "Fanny wirkt in Deutschland überwiegend klassisch, freundlich und sachlich bekannt. Die öffentliche Einordnung ist meist neutral bis leicht positiv; als Einschränkung gilt vor allem eine mögliche problematische Nebenbedeutung im englischen Sprachraum.",
+  "evidence_quality": "mittel bis gut: zwei klare Namenslexika mit hoher thematischer Passung, überwiegend neutrale bis leicht gemischte Tonlage, aber wenig echte Publikumsresonanz.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Fanny",
+  "normalized_name": "fanny",
+  "overall_resonance": "In Deutschland wird Fanny überwiegend sachlich-neutral bis leicht positiv wahrgenommen: als klassischer, weiblicher Vorname mit klarer etymologischer Einordnung und historischer Nutzung. Gleichzeitig gibt es einen leichten Vorbehalt durch mögliche Missverständnisse oder Nebenassoziationen im englischsprachigen Kontext.",
+  "practical_notes": [
+    "Für den deutschen Alltag wirkt der Name meist unproblematisch und gut verständlich.",
+    "Im internationalen Umfeld kann eine kurze Erläuterung sinnvoll sein, da der Name im Englischen anders wahrgenommen werden kann.",
+    "Die Quellenlage ist solide, aber nicht breit: eher lexikalische als meinungsbasierte Evidenz."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist klar auf Namensbeschreibungen fokussiert und enthält kaum echte öffentliche Meinungen.",
+    "Die negative Nebenassoziation betrifft vor allem den angelsächsischen Raum und ist für Deutschland nur eingeschränkt relevant.",
+    "Keine Hinweise auf soziale Stigmatisierung im deutschen Kontext; wenn überhaupt, handelt es sich um eine kulturabhängige Mehrdeutigkeit."
+  ],
+  "short_summary": "Fanny wird in Deutschland meist neutral bis leicht positiv als klassischer, weiblicher Vorname wahrgenommen. Die Hauptthemen sind Herkunft, Kurzform-Bezug und historische Nutzung; ein leichter Vorbehalt besteht wegen möglicher englischer Nebenassoziationen.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Fanny � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/F/Fa/Fanny/"
+    },
+    {
+      "confidence": 0.94,
+      "is_name_discussion": true,
+      "sentiment": "mixed",
+      "source_type": "web",
+      "title": "&#9655; Vorname Fanny: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Fanny.html"
+    }
+  ],
+  "style_effect": [
+    "klingt kurz, klar und traditionell",
+    "wirkt eher feminin und freundlich",
+    "wird namenkundlich als eigenständiger Vorname und auch als Kurzform eingeordnet",
+    "hat in deutschsprachigen Quellen einen eher informativen, unaufgeregten Klang"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Mittlere Sichtbarkeit: Der Name ist bekannt, aber eher nicht massenhaft verbreitet. Die vorliegende Evidenz deutet auf eine eher seltene bis moderate Nutzung hin."
+}

@@ -1,0 +1,64 @@
+{
+  "associations": [
+    "Veilchen",
+    "lateinische Herkunft",
+    "Bratsche/Viola",
+    "Shakespeare",
+    "Namenstag",
+    "weiblicher Vorname",
+    "eher selten als sehr häufig"
+  ],
+  "confidence": 0.84,
+  "display_text": "Viola wirkt in Deutschland überwiegend klassisch, sanft und kultiviert. Der Name ist bekannt, aber eher dezent sichtbar, und wird meist mit positiven Assoziationen wie Veilchen, lateinischer Herkunft und musikalischen Bezügen verbunden. Die Evidenz stammt vor allem aus Namensseiten, daher ist die Aussage zur öffentlichen Resonanz vorsichtig zu lesen.",
+  "evidence_quality": "gut für Namensbedeutung, Herkunft und typische Assoziationen; eingeschränkt für echte öffentliche Breitenresonanz",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Viola",
+  "normalized_name": "viola",
+  "overall_resonance": "Viola wird in der deutschsprachigen öffentlichen Wahrnehmung überwiegend freundlich, klassisch und kultiviert eingeordnet. Der Name wirkt eher zeitlos als trendig und wird meist mit positiven oder neutralen Assoziationen verbunden.",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt Viola gut verständlich und positiv besetzt.",
+    "Der Name verbindet klassische Herkunft mit einem sanften, musikalischen Klang.",
+    "In Deutschland dürfte er eher als angenehm und stilvoll wahrgenommen werden als als auffällig oder modisch.",
+    "Die Wahrnehmung ist insgesamt stabil und wenig konfliktgeladen."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt vor allem aus informativen Namensseiten, nicht aus breiten öffentlichen Diskussionen.",
+    "Aussagen zur allgemeinen Resonanz sind daher vorsichtig zu lesen und nicht als repräsentative Meinungsumfrage.",
+    "Einzelne kulturelle oder stilistische Zuordnungen sind typische Namensassoziationen, keine festen Eigenschaften."
+  ],
+  "short_summary": "Viola wird in Deutschland meist als klassischer, sanfter und kulturell geprägter Vorname wahrgenommen, mit überwiegend positiver oder neutraler Resonanz.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Viola � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/V/Vi/Viola/"
+    },
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Viola: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Viola.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "elegant",
+    "sanft",
+    "kulturell",
+    "zeitlos",
+    "musikalisch",
+    "naturbezogen"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Der Name ist in Deutschland bekannt und gut einordbar, wirkt aber nicht extrem häufig. Er hat dadurch eine solide, eher dezente Sichtbarkeit."
+}

@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "lateinische Herkunft",
+    "Bedeutung im Sinn von Wald/Waldbewohner",
+    "Namenstag am 31. Dezember",
+    "Bezug zu Silvester/Sylvester in der Tradition",
+    "historisch-päpstliche Assoziation",
+    "Spitznamenformen wie Sly oder Sylly"
+  ],
+  "confidence": 0.83,
+  "display_text": "Sylvester: klassisch, traditionsnah und eher selten. Die öffentliche Resonanz ist überwiegend neutral bis leicht positiv; die Quellenlage ist jedoch begrenzt und vor allem namenskundlich geprägt.",
+  "evidence_quality": "mittel bis gut, aber inhaltlich stark auf wenige Namenslexikon-Seiten begrenzt",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Sylvester",
+  "normalized_name": "sylvester",
+  "overall_resonance": "Sylvester wirkt in Deutschland eher klassisch, traditionsnah und sachlich bekannt, aber insgesamt nicht sehr häufig. Die öffentliche Wahrnehmung ist überwiegend neutral bis leicht positiv, vor allem wegen der historischen und sprachlichen Namensbedeutung.",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt Sylvester markant und traditionsbewusst.",
+    "Der Name ist im deutschen Kontext verständlich, kann aber wegen der Schreibweise leicht mit Silvester verwechselt werden.",
+    "Die Quellenlage ist für eine vorsichtige Einschätzung brauchbar, aber begrenzt."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz basiert fast nur auf einzelnen Namenslexika und nicht auf breiter öffentlicher Diskussion.",
+    "Wahrnehmungen zu 'klassisch' oder 'selten' sind Ableitungen aus Namensseiten, keine repräsentative Umfrage.",
+    "Keine belastbaren Hinweise auf soziale Stigmatisierung in der vorliegenden Evidenz."
+  ],
+  "short_summary": "Sylvester wird in Deutschland meist klassisch und traditionsnah wahrgenommen, mit eher neutraler bis leicht positiver Resonanz. Der Name ist bekannt, aber nicht sehr häufig.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Sylvester � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/S/Sy/Sylvester/"
+    },
+    {
+      "confidence": 0.86,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Sylvester: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Sylvester.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "traditionell",
+    "informativ",
+    "eher selten",
+    "leicht antiquiert im Klang",
+    "namenskundlich aufgeladen"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Eher selten bis mäßig verbreitet; als Name klar erkennbar, aber nicht massenhaft präsent."
+}

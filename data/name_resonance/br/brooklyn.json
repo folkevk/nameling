@@ -1,0 +1,71 @@
+{
+  "associations": [
+    "Brooklyn als Stadtteil in New York",
+    "englische bzw. altenglische Herkunft",
+    "Bedeutung rund um Bach/Bächlein",
+    "moderner Unisex-Name",
+    "internationale Klangwirkung",
+    "seltene Verwendung in Deutschland"
+  ],
+  "confidence": 0.76,
+  "display_text": "Brooklyn wird überwiegend als moderner, international klingender und eher seltener Vorname wahrgenommen. Die Resonanz ist in den vorliegenden Quellen neutral bis leicht positiv, mit Assoziationen zu Brooklyn/New York und einer englischsprachigen Herkunft. Für eine breite öffentliche Meinung ist die Evidenz jedoch begrenzt, da vor allem Namenslexika vorliegen.",
+  "evidence_quality": "mittel bis schwach: überwiegend lexikalische Namensseiten, wenig echte Diskussions- oder Breitenresonanz",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Brooklyn",
+  "normalized_name": "brooklyn",
+  "overall_resonance": "Brooklyn wird in den Quellen überwiegend als moderner, international klingender Vorname wahrgenommen. Die öffentliche Wirkung erscheint eher neutral bis leicht positiv, vor allem wegen des ungewohnten, stilbewussten Klangs und der englischsprachigen Assoziationen. Gleichzeitig ist die Evidenz für eine breite öffentliche Resonanz eher begrenzt, da vor allem Namenslexika und redaktionelle Namensseiten vorliegen.",
+  "practical_notes": [
+    "Für Eltern oder Suchende wirkt der Name besonders geeignet, wenn ein internationaler, moderner und markanter Klang gewünscht ist.",
+    "In Deutschland kann Brooklyn wegen seiner Seltenheit als auffällig wahrgenommen werden.",
+    "Die Namenswirkung kann je nach Umfeld als kreativ oder ungewohnt gelesen werden.",
+    "Da die Quellenlage begrenzt ist, sollte die Einordnung eher als Tendenz denn als allgemeingültiges Urteil verstanden werden."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist nur mittel bis schwach für eine echte öffentliche Gesamtresonanz, da hauptsächlich redaktionelle Namensseiten vorliegen.",
+    "Die wahrgenommene Modernität ist eine Beschreibung der Quellen, keine sichere Aussage über allgemeine gesellschaftliche Bewertung.",
+    "Keine belastbaren Hinweise auf starke Stigmatisierung oder klar negative Massenwahrnehmung in den vorliegenden Quellen."
+  ],
+  "short_summary": "Brooklyn wirkt in Deutschland eher selten, modern und international; die Resonanz ist überwiegend neutral bis leicht positiv, bei begrenzter Evidenz.",
+  "source_count": 3,
+  "sources": [
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Brooklyn � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/B/Br/Brooklyn/"
+    },
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Brooklyn � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/B/Br/Brooklyn/"
+    },
+    {
+      "confidence": 0.89,
+      "is_name_discussion": true,
+      "sentiment": "eher positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Brooklyn: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Brooklyn.html"
+    }
+  ],
+  "style_effect": [
+    "modern",
+    "international",
+    "urban klingend",
+    "ungewöhnlich",
+    "geschlechtsübergreifend einordbar",
+    "trendnah",
+    "englisch geprägt"
+  ],
+  "usable_evidence_count": 3,
+  "visibility": "In Deutschland wirkt Brooklyn eher selten und dadurch auffällig, aber nicht stark etabliert. Die Sichtbarkeit scheint vor allem über Namensportale und Beliebtheitsangaben gegeben zu sein, weniger über breite Alltagsdiskussionen."
+}

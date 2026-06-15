@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "Verkleinerungs- bzw. Koseform von Anna",
+    "hebräische Herkunft",
+    "Bedeutung im Sinne von Begnadung/Gnade",
+    "Namenstag am 26. Juli",
+    "weiblicher Vorname",
+    "teilweise als zeitlos empfunden"
+  ],
+  "confidence": 0.86,
+  "display_text": "Annie wirkt in Deutschland überwiegend positiv, freundlich und eher zeitlos. Der Name wird vor allem als Koseform von Anna mit hebräischer Herkunft und Bedeutungen rund um Gnade/Begnadung beschrieben. Die öffentliche Sichtbarkeit ist eher moderat; belastbare breite Debatten gibt es kaum. Die Einschätzung beruht hauptsächlich auf Vornamenseinträgen und sollte deshalb vorsichtig gelesen werden.",
+  "evidence_quality": "mittel: zwei klare, aber vorwiegend lexikalische und quellengebundene Namenseinträge; wenig unabhängige öffentliche Diskussion",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Annie",
+  "normalized_name": "annie",
+  "overall_resonance": "Überwiegend positiv und eher klassisch-vertraut wahrgenommen, mit starker Namenskundik und wenig öffentlicher Kontroverse.",
+  "practical_notes": [
+    "Für eine Namenssuche spricht Annie eher für einen kurzen, weichen und unkompliziert lesbaren Eindruck.",
+    "Die Form ist im Deutschen verständlich, aber stärker als internationaler bzw. englischsprachig geprägter Name wahrnehmbar.",
+    "Die Datenlage zur öffentlichen Resonanz ist begrenzt; die Einordnung sollte daher vorsichtig gelesen werden."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt fast ausschließlich aus Vornamenseiten und ist daher quellengebunden.",
+    "Es gibt keine belastbare breite öffentliche Debatte, sondern vor allem beschreibende Namenseinträge.",
+    "Positive Zuschreibungen wie ‚liebreizend‘ oder ‚anmutig‘ sind traditionelle Namensdeutungen und nicht als objektive Eigenschaften zu verstehen."
+  ],
+  "short_summary": "Annie wird in den verfügbaren Quellen überwiegend freundlich, klassisch und international anschlussfähig beschrieben. Die Evidenz ist jedoch hauptsächlich aus Vornamenseiten abgeleitet und daher nur begrenzt allgemein belastbar.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.94,
+      "is_name_discussion": true,
+      "sentiment": "positive",
+      "source_type": "web",
+      "title": "Vorname Annie � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/A/An/Annie/"
+    },
+    {
+      "confidence": 0.91,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Annie: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Annie.html"
+    }
+  ],
+  "style_effect": [
+    "informativ",
+    "freundlich",
+    "zeitlos",
+    "kosehaft",
+    "international anschlussfähig",
+    "namenskundlich"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Die öffentliche Sichtbarkeit wirkt in Deutschland moderat: Annie erscheint vor allem als liebevoller, international geläufiger Vorname in Namenslexika und Vornamenseiten, weniger als Gegenstand breiter Debatten."
+}

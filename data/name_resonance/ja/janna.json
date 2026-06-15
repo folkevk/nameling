@@ -1,0 +1,62 @@
+{
+  "associations": [
+    "Kurzform von Johanna oder verwandten Namen",
+    "hebräische Wurzeln",
+    "Bedeutung: \"Gott ist gnädig\"",
+    "teilweise auch als niederdeutsch, skandinavisch oder griechisch eingeordnet",
+    "in einzelnen Quellen mit Beliebtheit in Deutschland verbunden",
+    "manchmal als lebendig oder leicht wirkend beschrieben"
+  ],
+  "confidence": 0.79,
+  "display_text": "Janna wirkt in den verfügbaren Quellen freundlich, leicht und modern. Der Name ist in Deutschland bekannt und wird meist sachlich bis positiv eingeordnet. Die Evidenz zur öffentlichen Resonanz ist jedoch eher begrenzt und stark von Namensportalen geprägt.",
+  "evidence_quality": "mittel bis eher schwach; zwei klare Namenslexikon-Quellen, aber wenig unabhängige Breite und teils kommentarbasiert",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Janna",
+  "normalized_name": "janna",
+  "overall_resonance": "Janna wird in den vorliegenden Namensquellen überwiegend freundlich und sachlich beschrieben. Der Name wirkt eher leicht, modern und vertraut, ohne stark polarisierende öffentliche Deutungen. Die Resonanz ist dabei eher namenkundlich als gesellschaftlich breit belegt.",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt Janna unkompliziert und gut einordenbar.",
+    "Der Name hat mehrere herkunftsbezogene Deutungen, was ihn für Namenskundliche interessant macht.",
+    "Die Wahrnehmung erscheint insgesamt freundlich, aber nicht stark medial aufgeladen."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Datenlage zur öffentlichen Resonanz ist eher schwach und seitenzentriert.",
+    "Einzelne positive Stilbeschreibungen stammen teils aus Nutzerkommentaren und sollten nicht als allgemeingültig verstanden werden.",
+    "Keine Hinweise auf soziale Stigmatisierung in den vorliegenden Quellen."
+  ],
+  "short_summary": "Janna wird in den Quellen überwiegend positiv und sachlich als leichter, freundlicher Vorname beschrieben; die öffentliche Resonanz ist vorhanden, aber nur begrenzt breit belegt.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Janna � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/J/Ja/Janna/"
+    },
+    {
+      "confidence": 0.88,
+      "is_name_discussion": true,
+      "sentiment": "positive",
+      "source_type": "web",
+      "title": "&#9655; Vorname Janna: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Janna.html"
+    }
+  ],
+  "style_effect": [
+    "leicht",
+    "freundlich",
+    "modern",
+    "schwungvoll",
+    "namenkundlich",
+    "klar",
+    "vertraut"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland ist Janna als Vorname bekannt und in Namenslexika gut auffindbar. Die öffentliche Sichtbarkeit scheint vorhanden, aber die Evidenz zur breiten Alltagswahrnehmung ist begrenzt und stark von Namensportalen geprägt."
+}

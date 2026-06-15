@@ -1,0 +1,59 @@
+{
+  "associations": [
+    "skandinavische Variante von Andreas",
+    "altgriechischer Ursprung",
+    "Bedeutung: der Tapfere / der Männliche",
+    "männlicher Vorname",
+    "Namenstag am 30. November",
+    "in Skandinavien verbreiteter als in Deutschland"
+  ],
+  "confidence": 0.89,
+  "display_text": "Anders wirkt in Deutschland überwiegend sachlich-neutral mit leicht positiver Note: ein skandinavisch geprägter, markanter und eher seltener Vorname, der vor allem mit Herkunft, Bedeutung und klassischer Namenskunde verbunden wird.",
+  "evidence_quality": "Gut für Bedeutungs- und Herkunftsangaben, aber nur mittelstark für echte öffentliche Resonanz; die Quellen sind überwiegend lexikalisch und nicht debattenbasiert.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Anders",
+  "normalized_name": "anders",
+  "overall_resonance": "Überwiegend sachlich-neutral mit leicht positiver Konnotation. Der Name wird vor allem als skandinavische Form von Andreas beschrieben und mit Bedeutungen wie „der Tapfere“ bzw. „der Männliche“ verbunden. In der öffentlichen Wahrnehmung wirkt Anders eher ungewöhnlich als alltagspräsent, ohne klare starke Polarisierung.",
+  "practical_notes": [
+    "Für deutsche Ohren wirkt der Name eigenständig und nordisch geprägt.",
+    "Die Aussprache kann je nach Umfeld kurz erklärt werden müssen.",
+    "Durch die klare Form und die bekannte Herkunft ist der Name gut einprägsam."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt fast ausschließlich aus Namenslexika und ist daher nur eingeschränkt repräsentativ für eine breite öffentliche Meinung.",
+    "Einzelne Hinweise auf Aussprache- oder Verwendungsfragen sollten als praktische Wahrnehmung, nicht als allgemeines Urteil verstanden werden."
+  ],
+  "short_summary": "Anders wird in Deutschland meist sachlich-neutral bis leicht positiv wahrgenommen: ein skandinavisch geprägter, klarer und eher seltener Vorname mit traditioneller Bedeutung.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Anders � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/A/An/Anders/"
+    },
+    {
+      "confidence": 0.91,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Anders: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Anders.html"
+    }
+  ],
+  "style_effect": [
+    "skandinavisch",
+    "klassisch-namenskundlich",
+    "kurz und markant",
+    "eher selten bis moderat bekannt",
+    "sachlich-elegant"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland eher bekannt, aber nicht sehr häufig. Die Sichtbarkeit scheint vor allem über Namenslexika und einzelne Kommentierungen zu entstehen, nicht über breite öffentliche Debatten."
+}

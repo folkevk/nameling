@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "alttürkische Herkunft",
+    "Bedeutung wie „der Eiserne“ oder „der eiserne Krieger“",
+    "männlicher Vorname",
+    "eher internationaler Gebrauch",
+    "Beliebtheit/Hitlisten-Kontext in Deutschland",
+    "gelegentlich als klanglich diskutierter Name"
+  ],
+  "confidence": 0.88,
+  "display_text": "Timur: überwiegend neutral bis leicht positiv wahrgenommen, international und markant, mit starker Bedeutung wie „der Eiserne“. Die öffentliche Diskussion ist eher informativ als kontrovers; die Evidenz ist jedoch begrenzt auf wenige Namenslexika.",
+  "evidence_quality": "mittel bis gut, aber inhaltlich begrenzt: klare Namenslexikon-Evidenz, jedoch kaum breite Debatte oder vielfältige öffentliche Stimmen.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Timur",
+  "normalized_name": "timur",
+  "overall_resonance": "Timur wird in den vorliegenden deutschsprachigen Namensquellen überwiegend sachlich und eher positiv bis neutral beschrieben. Der Name wirkt klar international geprägt und ist vor allem über Herkunft, Bedeutung und Beliebtheit konnotiert, weniger über starke emotionale oder soziale Debatten.",
+  "practical_notes": [
+    "Für viele dürfte Timur vor allem wegen seiner klaren Bedeutung und seines internationalen Klangs auffallen.",
+    "Der Name ist gut erklärbar und im Namenskontext meist unproblematisch einzuordnen.",
+    "Wenn eine sehr klassische deutsche Namenswirkung gewünscht ist, kann Timur als eher markant und international wahrgenommen werden."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz basiert fast ausschließlich auf zwei Namenslexikon-Quellen, also auf begrenzter öffentlicher Diskussion.",
+    "Einzelne Rückmeldungen beziehen sich eher auf Klang oder Aussprache als auf den Namen insgesamt.",
+    "Keine belastbaren Hinweise auf soziale Stigmatisierung in den vorliegenden Quellen."
+  ],
+  "short_summary": "Timur wird in den Quellen überwiegend neutral bis leicht positiv beschrieben: international, klanglich markant und mit der Bedeutung „der Eiserne“ verbunden. Die Evidenz ist solide, aber auf wenige Namenslexika begrenzt.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Timur � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/T/Ti/Timur/"
+    },
+    {
+      "confidence": 0.95,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Timur: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Timur.html"
+    }
+  ],
+  "style_effect": [
+    "international",
+    "kräftig",
+    "namenskundlich aufgeladen",
+    "eher modern als klassisch",
+    "neutral bis leicht markant"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Mittlere Sichtbarkeit in Deutschland: Der Name ist bekannt und wird in Namenslexika aktiv beschrieben, wirkt aber nicht als stark massenhaft diskutierter Trendname. Die öffentliche Präsenz erscheint eher informativ als kontrovers."
+}

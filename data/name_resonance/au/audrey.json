@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "englische Form von Adeltrud/Edeltraud",
+    "Bedeutung: die Edle, die Starke / die mächtige Adelige",
+    "altenglische bzw. angelsächsische Wurzeln",
+    "Namenstag am 23. Juni",
+    "St. Audrey / heilige Etheldreda",
+    "Audrey Hepburn als bekannte Namensreferenz"
+  ],
+  "confidence": 0.79,
+  "display_text": "Audrey wirkt in Deutschland eher positiv, edel und international. Die verfügbaren Quellen beschreiben den Namen vor allem als elegante, vornehme Form mit klassisch-englischer Herkunft. Eine breite öffentliche Debatte ist jedoch nicht gut belegt.",
+  "evidence_quality": "mittel: klare Namensbeschreibung, aber geringe Breite der öffentlichen Resonanzdaten",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Audrey",
+  "normalized_name": "audrey",
+  "overall_resonance": "Eher positiv und stilvoll, mit klarer klassisch-englischer Anmutung. In den vorliegenden Quellen wird Audrey vor allem wertschätzend als edel, stark und vornehm beschrieben. Die öffentliche Resonanz wirkt damit freundlich, aber eher lexikalisch als breit gesellschaftlich diskutiert.",
+  "practical_notes": [
+    "Für deutschsprachige Ohren wirkt Audrey eher elegant und international.",
+    "Der Name ist gut verständlich, aber im Alltag nicht sehr häufig.",
+    "Kurzformen werden in den Quellen genannt, sind aber nicht überall etabliert."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt fast ausschließlich aus Namenslexika und nicht aus breiter öffentlicher Diskussion.",
+    "Einzelne Zuordnungen zur Bedeutung sind herkunftsbezogen, aber nicht als allgemeingültige Alltagswahrheit zu verstehen."
+  ],
+  "short_summary": "Audrey wird in den vorliegenden deutschen Quellen überwiegend positiv, elegant und bedeutungsvoll dargestellt. Die Resonanz ist eher lexikalisch als gesellschaftlich breit belegt.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Audrey � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/A/Au/Audrey/"
+    },
+    {
+      "confidence": 0.86,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Audrey: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Audrey.html"
+    }
+  ],
+  "style_effect": [
+    "edel",
+    "vornehm",
+    "klassisch",
+    "international",
+    "weich-klar",
+    "leicht modern"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Mittlere Sichtbarkeit: Der Name ist in deutschen Namenslexika präsent, aber die Evidenz für eine breite öffentliche Debatte oder starke Alltagsresonanz ist begrenzt."
+}

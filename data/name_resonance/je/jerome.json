@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "altgriechischer Ursprung",
+    "Form von Hieronymus",
+    "englische und französische Schreib-/Namensform",
+    "Namenstag am 30. September",
+    "Beliebtheit in Deutschland",
+    "männlicher Vorname"
+  ],
+  "confidence": 0.84,
+  "display_text": "Jerome wirkt in der öffentlichen Wahrnehmung überwiegend neutral bis leicht positiv: ein international klingender, klassisch tradierter Vorname mit altgriechischer Herkunft und Bezug zu Hieronymus. Die Evidenz ist solide für Herkunft und Einordnung, aber eher beschreibend als breit gesellschaftlich diskutiert.",
+  "evidence_quality": "Gut für die lexikalische Einordnung, aber nur begrenzt geeignet als Maß für echte öffentliche Resonanz.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Jerome",
+  "normalized_name": "jerome",
+  "overall_resonance": "Jerome wird im deutschsprachigen Umfeld vor allem sachlich und namenkundlich wahrgenommen: als männlicher Vorname mit altgriechischer Herkunft und als englische bzw. französische Form von Hieronymus. Die öffentliche Resonanz wirkt eher neutral bis leicht positiv, ohne starke Kontroversen oder auffällige Negativassoziationen.",
+  "practical_notes": [
+    "Für die Namenssuche wirkt Jerome international und gut einordbar.",
+    "Die Schreibweise kann je nach Kontext als englisch oder französisch gelesen werden; das kann die Aussprache beeinflussen.",
+    "Als Variantenbezug zu Hieronymus ist der Name kulturell traditionell, zugleich aber modern genug im Klang."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt vor allem aus Namensdatenbanken und Verzeichnissen; sie beschreibt den Namen eher, als dass sie breite öffentliche Meinungen abbildet.",
+    "Kommentare und Einzelmeinungen können subjektiv sein und sind nicht als allgemeingültige Einschätzung zu verstehen.",
+    "Es gibt keine klare Anzeichen für soziale Stigmatisierung oder starke Negativdebatten in der vorliegenden Evidenz."
+  ],
+  "short_summary": "Jerome wird überwiegend neutral bis leicht positiv als internationaler, traditioneller Vorname mit klassischem Ursprung wahrgenommen.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Jerome � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/J/Je/Jerome/"
+    },
+    {
+      "confidence": 0.92,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Jerome: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Jerome.html"
+    }
+  ],
+  "style_effect": [
+    "informativ",
+    "klassisch-international",
+    "lexikalisch",
+    "modern klingend",
+    "namenkundlich"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Mittlere Sichtbarkeit in Namensverzeichnissen und Vornamensportalen; im öffentlichen Diskurs insgesamt eher begrenzt."
+}

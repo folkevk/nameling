@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "altnordische bzw. skandinavische Herkunft",
+    "keltische Deutungen in der Namenskunde",
+    "Bedeutungen wie „die Erhabene“ oder „die Helfende“",
+    "Namenstag",
+    "frühere Popularität in Deutschland",
+    "heute eher selten"
+  ],
+  "confidence": 0.87,
+  "display_text": "Birgit wirkt in der öffentlichen Namensdarstellung klassisch, traditionsnah und eher selten. Die verfügbaren Quellen betonen vor allem Herkunft, Bedeutung, Namenstag und frühere Beliebtheit; eine starke aktuelle Trend- oder Debattenwirkung ist nicht erkennbar.",
+  "evidence_quality": "gut für Namenskunde, aber nur begrenzt geeignet für echte öffentliche Resonanzmessung",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Birgit",
+  "normalized_name": "birgit",
+  "overall_resonance": "Überwiegend sachlich-informativ und historisch geprägt, mit eher klassischer als moderner Wirkung. In der öffentlichen Namensdarstellung erscheint Birgit vor allem als bekannter, älterer Vorname mit traditioneller Einordnung.",
+  "practical_notes": [
+    "Für Suchmaschinen gut als klassischer, vertrauter Vorname einzuordnen.",
+    "Wirkung eher nüchtern, traditionsnah und nicht modisch.",
+    "Wer einen zeitlosen, aber klar historisch verankerten Namen sucht, findet hier eine passende Einordnung."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt überwiegend aus Namenslexika und nicht aus breiter öffentlicher Debatte.",
+    "Daher lässt sich nur vorsichtig von einer öffentlichen Resonanz sprechen.",
+    "Keine belastbare Aussage über soziale Bewertung oder Personenbilder ableitbar."
+  ],
+  "short_summary": "Birgit wird öffentlich vor allem als klassischer, historisch geprägter Vorname wahrgenommen, der heute eher selten ist und sachlich-informativ beschrieben wird.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.95,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Birgit � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/B/Bi/Birgit/"
+    },
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Birgit: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Birgit.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "traditionell",
+    "nordisch/altsprachlich wirkend",
+    "sachlich",
+    "zeitlich eher 70er/80er-assoziiert"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland gut bekannt, heute aber eher selten und stärker mit früherer Beliebtheit verbunden als mit aktueller Trendwirkung."
+}

@@ -1,0 +1,63 @@
+{
+  "associations": [
+    "althochdeutscher Ursprung",
+    "Bedeutung im Sinn von Besitz/Reichtum/Vermögen bzw. der Reiche/Erbe",
+    "mittelalterlich und historisch verbreitet",
+    "kulturelle Referenz: 'Otto Normalverbraucher'",
+    "wiederentdeckter Name",
+    "international gut funktionierend",
+    "Namenstage werden genannt"
+  ],
+  "confidence": 0.82,
+  "display_text": "Otto gilt in Deutschland vor allem als klassischer, traditionsreicher Vorname mit historischer Tiefe. Die Resonanz ist überwiegend positiv bis neutral; vereinzelt wird er als altmodisch wahrgenommen. Insgesamt wirkt der Name bekannt, solide und eher zeitlos als trendig.",
+  "evidence_quality": "mittel: klare Namendiskussion, aber nur zwei webbasierte Quellen und teils subjektive Resonanzangaben.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Otto",
+  "normalized_name": "otto",
+  "overall_resonance": "Der Vorname Otto wird in der vorliegenden Evidenz überwiegend positiv bis neutral wahrgenommen: klassisch, traditionsreich und historisch verankert. Gleichzeitig taucht vereinzelt die Einschätzung auf, der Name wirke altmodisch oder spalte Meinungen. Insgesamt überwiegt aber eine sachlich-wohlwollende Rezeption.",
+  "practical_notes": [
+    "Für Suchende, die einen klassischen und klar deutschen Namen suchen, wirkt Otto solide und vertraut.",
+    "Wer sehr moderne oder trendige Namen bevorzugt, könnte Otto als eher traditionell empfinden.",
+    "Die Quellen deuten auf gute Verständlichkeit und einfache Aussprache hin."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist auf wenige Webquellen beschränkt.",
+    "Einige Bewertungen sind subjektiv und spiegeln öffentliche Eindrücke, nicht messbare Fakten.",
+    "Vereinzelt wird der Name als altmodisch beschrieben; das sollte als Wahrnehmung und nicht als allgemeine Wahrheit verstanden werden."
+  ],
+  "short_summary": "Otto wird öffentlich meist als klassischer, traditionsreicher und historisch geprägter Vorname gesehen; vereinzelt gilt er als altmodisch oder leicht polarisierend.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "positive",
+      "source_type": "web",
+      "title": "Vorname Otto � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/O/Ot/Otto/"
+    },
+    {
+      "confidence": 0.88,
+      "is_name_discussion": true,
+      "sentiment": "mixed",
+      "source_type": "web",
+      "title": "&#9655; Vorname Otto: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Otto.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "traditionsreich",
+    "historisch",
+    "etymologisch positiv konnotiert",
+    "zeitlos",
+    "teils altmodisch wahrgenommen",
+    "vereinzelt polarisierend"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland gut bekannt und klar als traditioneller Vorname einzuordnen; die öffentliche Sichtbarkeit wirkt eher stabil als trendig."
+}

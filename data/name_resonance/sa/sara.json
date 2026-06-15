@@ -1,0 +1,59 @@
+{
+  "associations": [
+    "hebräische Herkunft",
+    "biblisch / Altes Testament",
+    "Bedeutung: Fürstin / Herrin / Prinzessin",
+    "weit verbreitet in Deutschland",
+    "Namenstag",
+    "weiblicher Vorname"
+  ],
+  "confidence": 0.86,
+  "display_text": "Sara wirkt in Deutschland überwiegend positiv: klassisch, zeitlos und gut bekannt. Die Quellen betonen vor allem die biblisch-hebräische Herkunft und die Bedeutung als Fürstin/Herrin/Prinzessin. Die Evidenz ist allerdings hauptsächlich lexikalisch, daher zeigt sie eher die allgemeine Namensbeschreibung als breite öffentliche Diskussion.",
+  "evidence_quality": "mittel bis hoch; überwiegend lexikalische Namensquellen mit klaren Beschreibungen, aber nur begrenzt echte Diskussions- oder Meinungsdaten",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Sara",
+  "normalized_name": "sara",
+  "overall_resonance": "Sara wird in den vorliegenden deutschen Quellen überwiegend positiv und sehr vertraut wahrgenommen. Der Name wirkt klassisch, zeitlos und weit verbreitet; zugleich wird seine biblisch-hebräische Herkunft häufig als wertstiftend erwähnt.",
+  "practical_notes": [
+    "Für eine Namenssuche eignet sich Sara als gut etablierter, leicht verständlicher und in Deutschland bekannter Vorname.",
+    "Die Schreibweise ist kurz und unkompliziert; in der öffentlichen Wahrnehmung wird sie meist klar mit der bekannten Namensform verbunden."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt vor allem aus Namenslexika und beschreibenden Seiten, daher ist die direkte öffentliche Meinungsresonanz nur begrenzt sichtbar.",
+    "Einzelne Nutzerkommentare in den Quellen können subjektiv sein und sollten nicht als allgemeine Mehrheitsmeinung gelesen werden."
+  ],
+  "short_summary": "Sara wird in deutschen Quellen meist freundlich, klassisch und zeitlos beschrieben; die Herkunft und Bedeutung werden oft positiv hervorgehoben, direkte öffentliche Kritik ist kaum sichtbar.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "Vorname Sara � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/S/Sa/Sara/"
+    },
+    {
+      "confidence": 0.94,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Sara: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Sara.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "zeitlos",
+    "einfach",
+    "vertraut",
+    "namenskundlich geprägt",
+    "eher elegant als verspielt"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "hoch"
+}

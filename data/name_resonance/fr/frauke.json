@@ -1,0 +1,59 @@
+{
+  "associations": [
+    "Bedeutung wird häufig mit „die kleine Frau“ bzw. verwandten althochdeutschen Deutungen beschrieben",
+    "friesisch/niederdeutsche Herkunft",
+    "historisch und regional verankert",
+    "selten in Deutschland",
+    "Namenstag wird in Namensquellen genannt"
+  ],
+  "confidence": 0.92,
+  "display_text": "Frauke wirkt öffentlich überwiegend neutral bis leicht positiv: ein seltener, traditionsnaher und regional geprägter Vorname mit friesisch/niederdeutschen Wurzeln. Die Quellen sind vor allem namenkundliche Informationsseiten; die Resonanz ist daher eher sachlich als kontrovers.",
+  "evidence_quality": "hoch für Namensbedeutung, Herkunft und Einordnung; mittel für öffentliche Resonanz, da die Quellen vor allem lexikalisch statt diskursiv sind.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Frauke",
+  "normalized_name": "frauke",
+  "overall_resonance": "Frauke wird öffentlich meist sachlich und eher traditionsnah wahrgenommen, mit leichter positiver Färbung. Der Name gilt als regional geprägt, historisch gewachsen und eher selten; die Resonanz ist insgesamt unaufgeregt und überwiegend informativ statt emotional.",
+  "practical_notes": [
+    "Für Namenssuchmaschinen eignet sich Frauke als klarer, traditionsbetonter Mädchenname mit regionalem Charakter.",
+    "Die kurze Form macht den Namen prägnant und gut merkbar.",
+    "Wegen der Seltenheit wirkt der Name weniger modern-trendhaft, eher individuell."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die vorhandene Evidenz stammt überwiegend aus Namenslexika und Informationsseiten, nicht aus einer breiten öffentlichen Debatte.",
+    "Einzelne Aussagen zur Klangwirkung sind subjektiv und sollten nicht als allgemeingültig verstanden werden.",
+    "Keine klare soziale Stigmatisierung erkennbar; negative Wertungen sind in den Quellen nicht dominant."
+  ],
+  "short_summary": "Frauke wird überwiegend neutral bis leicht positiv als seltener, traditionsnaher und regional geprägter Vorname wahrgenommen.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Frauke � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/F/Fr/Frauke/"
+    },
+    {
+      "confidence": 0.9,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Frauke: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Frauke.html"
+    }
+  ],
+  "style_effect": [
+    "traditionell",
+    "niederdeutsch-friesisch",
+    "kurz und markant",
+    "eher klassisch als modisch",
+    "sachlich-heimatnah"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland eher selten und daher nicht sehr breit im Alltag präsent, aber klar bekannt und als eigenständiger Vorname gut einordenbar."
+}

@@ -1,0 +1,62 @@
+{
+  "associations": [
+    "dänische Koseform von Jan",
+    "Kurzform von Johannes",
+    "Bedeutung: Gott ist gnädig / Jahwe ist gnädig",
+    "in Deutschland seit den 1980er Jahren beliebt",
+    "häufige Schreibweise",
+    "männlicher Vorname",
+    "Namenstag wird teils genannt"
+  ],
+  "confidence": 0.91,
+  "display_text": "Jannik wirkt in Deutschland überwiegend neutral bis leicht positiv: ein vertrauter, moderner Jungenname mit klarer Herkunft und positiver Bedeutung. Die vorliegende Evidenz ist vor allem namenkundlich und daher eher sachlich als meinungsstark.",
+  "evidence_quality": "mittel bis gut: zwei namenskundliche Webquellen mit klarer thematischer Relevanz, aber begrenzter Breite der öffentlichen Meinungsbasis.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Jannik",
+  "normalized_name": "jannik",
+  "overall_resonance": "Überwiegend neutral bis leicht positiv: Jannik wird in den vorliegenden Namensquellen vor allem sachlich als verbreiteter, moderner Jungenname mit klarer Herkunft und positiver Bedeutung beschrieben.",
+  "practical_notes": [
+    "Wirkt im deutschen Kontext unkompliziert und gut einordbar.",
+    "Die Schreibweise ist etabliert und dürfte vielen vertraut sein.",
+    "Für Namenssuchende ist Jannik eher ein moderner Standardname als ein seltenes Sonderformat."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt vor allem aus einzelnen Namenslexika und nicht aus breiter öffentlicher Debatte.",
+    "Es gibt keine belastbaren Hinweise auf eine starke soziale Stigmatisierung oder auffällige Polarisierung.",
+    "Die Resonanzbeschreibung sollte daher als vorsichtige Einordnung verstanden werden, nicht als allgemeingültige Mehrheitsmeinung."
+  ],
+  "short_summary": "Jannik wird öffentlich meist neutral bis leicht positiv wahrgenommen: ein vertrauter, moderner Jungenname mit klarer Bedeutung und guter Bekanntheit in Deutschland.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Jannik � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/J/Ja/Jannik/"
+    },
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Jannik: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Jannik.html"
+    }
+  ],
+  "style_effect": [
+    "informativ",
+    "modern",
+    "jung",
+    "vertraut",
+    "lexikalisch",
+    "namenkundlich"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland gut bekannt und seit den 1980er Jahren sichtbar beliebt; die öffentliche Wahrnehmung wirkt eher vertraut als außergewöhnlich."
+}

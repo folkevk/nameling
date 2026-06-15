@@ -1,0 +1,72 @@
+{
+  "associations": [
+    "Kürze und Klarheit",
+    "unisex",
+    "international",
+    "skandinavisch/nordisch",
+    "chinesische Deutungen werden genannt",
+    "wertvoll / Welle als Bedeutungsbezug",
+    "Bewohner / Sesshafter als Bedeutungsbezug",
+    "selten, aber bekannt"
+  ],
+  "confidence": 0.77,
+  "display_text": "Bo wird in den vorliegenden Quellen überwiegend als kurzer, internationaler und eher positiv wirkender Vorname beschrieben. Er erscheint in Deutschland sichtbar, aber weiterhin eher selten. Die öffentliche Resonanz ist nicht breit belegt, sondern stammt vor allem aus Namensdatenbanken; vereinzelt werden auch gemischte Reaktionen auf die sehr knappe Form erwähnt.",
+  "evidence_quality": "mittel bis begrenzt: direkt namensbezogene Quellen vorhanden, aber vor allem redaktionelle Lexikon- und Datenbankeinträge, keine breite Social-Media- oder Diskussionslage.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Bo",
+  "normalized_name": "bo",
+  "overall_resonance": "Der Vorname Bo wirkt in den vorliegenden deutschsprachigen Namensquellen insgesamt eher positiv bis neutral: kurz, international und markant. Gleichzeitig ist die öffentliche Resonanz nicht sehr breit belegt, sondern vor allem namenskundlich beschrieben.",
+  "practical_notes": [
+    "Für Suchmaschinen und kurze Namenslisten ist Bo sehr leicht einprägsam.",
+    "Die Wirkung hängt stark vom sprachlichen und kulturellen Kontext ab.",
+    "Wer einen ungewöhnlichen, sehr knappen Namen sucht, findet hier eine klare, reduzierte Form.",
+    "Für eine belastbare Aussage zur öffentlichen Meinung ist die Datenlage eher begrenzt."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt überwiegend aus Namensdatenbanken und nicht aus einer freien öffentlichen Debatte.",
+    "Es gibt Hinweise auf gemischte Reaktionen, teils auch Irritation über die Kürze des Namens.",
+    "Herkunfts- und Bedeutungsangaben werden in den Quellen nicht immer einheitlich dargestellt."
+  ],
+  "short_summary": "Bo wird in deutschsprachigen Namensquellen meist als kurz, international und eher positiv wahrgenommen, zugleich aber als selten und teils ungewohnt. Die Evidenz ist begrenzt und vor allem lexikalisch.",
+  "source_count": 3,
+  "sources": [
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "Vorname Bo � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/B/Bo/Bo/"
+    },
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Bo � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/B/Bo/Bo/"
+    },
+    {
+      "confidence": 0.92,
+      "is_name_discussion": true,
+      "sentiment": "eher positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Bo: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Bo.html"
+    }
+  ],
+  "style_effect": [
+    "sehr kurz und prägnant",
+    "modern und unkompliziert",
+    "international anschlussfähig",
+    "unisex lesbar",
+    "skandinavisch bzw. nordisch wirkend",
+    "je nach Kontext auch asiatisch assoziierbar"
+  ],
+  "usable_evidence_count": 3,
+  "visibility": "Eher bekannt als selten: Der Name taucht in Deutschland sichtbar auf, wirkt aber weiterhin ungewöhnlich und nicht massenhaft verbreitet."
+}

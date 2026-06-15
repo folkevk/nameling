@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "männlicher Vorname",
+    "albanische Herkunft",
+    "möglicherweise illlyrische Bezüge",
+    "Bedeutungsangaben uneinheitlich bzw. unsicher",
+    "Namenstag wird in einzelnen Quellen erwähnt",
+    "alternative Schreibweise: Ardijan",
+    "Beliebtheit/Hitlisten"
+  ],
+  "confidence": 0.76,
+  "display_text": "Ardian erscheint in der öffentlichen Rezeption vor allem als seltener, modern wirkender Jungenname mit neutral-informativer Wirkung. In Deutschland ist er eher wenig verbreitet, aber gut verständlich. Herkunft und Bedeutung werden meist mit albanischen bzw. teils illlyrischen Bezügen beschrieben, jedoch nicht einheitlich belegt.",
+  "evidence_quality": "mittel bis schwach; überwiegend lexikalische Webquellen mit nur begrenzter unabhängiger Absicherung",
+  "generated_at": "2026-06-14T10:47:41Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Ardian",
+  "normalized_name": "ardian",
+  "overall_resonance": "Ardian wirkt in der öffentlichen Namenswahrnehmung sachlich, modern und eher selten bis mäßig verbreitet. Der Name wird vor allem als männlicher Vorname mit albanisch bzw. teils illlyrisch beschriebener Herkunft eingeordnet. Die Resonanz ist überwiegend neutral-informativ, ohne starke emotionale Aufladung.",
+  "practical_notes": [
+    "Für die Außendarstellung wirkt der Name klar, kurz und gut merkbar.",
+    "In Deutschland dürfte Ardian eher als ungewöhnlicher, aber verständlicher Vorname wahrgenommen werden.",
+    "Wenn eine Herkunftsangabe genannt wird, sollte sie vorsichtig formuliert werden, da die Quellen uneinheitlich sind."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist schwach bis mittel und stützt sich auf wenige Namenslexikon-Quellen.",
+    "Etymologie und Bedeutungsangaben sind in den Quellen nicht eindeutig geklärt.",
+    "Aus der Datenlage lässt sich keine breite öffentliche Meinung ableiten."
+  ],
+  "short_summary": "Ardian wird meist neutral und informativ beschrieben: ein eher seltener, international wirkender Jungenname mit oft albanisch zugeschriebener Herkunft; die genaue Bedeutung ist in den Quellen nicht sicher geklärt.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Ardian � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/A/Ar/Ardian/"
+    },
+    {
+      "confidence": 0.83,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Ardian: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Ardian.html"
+    }
+  ],
+  "style_effect": [
+    "klingt international",
+    "wirkt klar und knapp",
+    "eher modern als traditionslastig",
+    "namenslexikalisch und nüchtern",
+    "selten bis moderat vertraut"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland scheint Ardian eher wenig bekannt, aber nicht ungewöhnlich auffällig zu sein. Die verfügbare Evidenz deutet auf eine kleine bis mittlere Sichtbarkeit in Namenslexika und Datenbanken hin; belastbare Breitenwahrnehmung ist aus den Quellen nur eingeschränkt ableitbar."
+}

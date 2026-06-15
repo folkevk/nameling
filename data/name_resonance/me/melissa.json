@@ -1,0 +1,62 @@
+{
+  "associations": [
+    "griechischer bzw. altgriechischer Ursprung",
+    "Bedeutung im Umfeld von Biene/Honigbiene",
+    "Honig, Süße, Fleiß als assoziierte Deutungen",
+    "mythologischer Bezug",
+    "weiblicher Vorname",
+    "bekannt in Deutschland",
+    "Spitznamen wie Melli, Mel oder Melly"
+  ],
+  "confidence": 0.95,
+  "display_text": "Melissa gilt in den vorliegenden Namensquellen als bekannter, freundlich und weich wirkender Vorname. Die öffentliche Resonanz ist überwiegend positiv bis neutral: Der Name wird mit griechisch-altgriechischem Ursprung, Biene/Honigbiene, Süße und mythologischen Bezügen verbunden. In Deutschland erscheint Melissa als etablierter Mädchenname mit nachvollziehbarer, unaufgeregter Ausstrahlung; negative oder stigmatisierende Zuschreibungen zeigen die Quellen nicht.",
+  "evidence_quality": "hoch: zwei klare Namensartikel, beide direkt zum Vornamen, mit konsistenter Deutung und überwiegend positiver bis neutraler Tonlage.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Melissa",
+  "normalized_name": "melissa",
+  "overall_resonance": "Der Vorname Melissa wird in den vorliegenden deutschsprachigen Namensquellen überwiegend positiv und wertschätzend beschrieben. Er wirkt vertraut, weich und freundlich, mit klarer namenskundlicher Einordnung statt starker sozialer Aufladung.",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt Melissa freundlich, international verständlich und leicht einzuordnen.",
+    "Der Name ist etabliert und daher eher vertraut als ungewöhnlich.",
+    "Die Kurzformen Melli, Mel und Melly werden in den Quellen ausdrücklich mitgedacht."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die genannten Bedeutungen und Eigenschaften stammen aus Namensdeutungen und sollten nicht als persönliche Eigenschaften von Namensträgerinnen verstanden werden.",
+    "Die Popularitätsangaben beziehen sich auf einzelne Namensquellen und sind kein vollständiges Marktbild für ganz Deutschland.",
+    "Keine belastbaren negativen oder stigmatisierenden öffentlichen Zuschreibungen in den vorliegenden Quellen erkennbar."
+  ],
+  "short_summary": "Melissa wird öffentlich meist freundlich und positiv wahrgenommen: ein bekannter, weiblich wirkender Vorname mit griechisch-mythologischen Deutungen und Assoziationen wie Biene oder Süße.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.99,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Melissa � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/M/Me/Melissa/"
+    },
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Melissa: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Melissa.html"
+    }
+  ],
+  "style_effect": [
+    "weich",
+    "freundlich",
+    "klassisch-modern",
+    "weiblich",
+    "zugänglich",
+    "namenskundlich"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland ist Melissa als bekannter, bereits seit Jahren gebrauchter Mädchenname sichtbar; in den Quellen wird er als populär bzw. zeitweise beliebt beschrieben, ohne dass daraus eine aktuelle Spitzenstellung abgeleitet werden kann."
+}

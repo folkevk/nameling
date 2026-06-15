@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "hebräischer Vorname",
+    "Bedeutung in Richtung „singen“, „jubeln“ oder „froh sein“",
+    "alternative Schreib- bzw. Transkriptionsform von Jaron",
+    "eher selten in Deutschland",
+    "Namenstag wird vereinzelt genannt",
+    "jüdischer bzw. israelischer Kontext"
+  ],
+  "confidence": 0.83,
+  "display_text": "Yaron wirkt in Deutschland eher selten, aber positiv und freundlich. Der Name wird meist als hebräisch beschrieben und mit Bedeutungen wie „singen“ oder „jubeln“ verbunden. Die öffentliche Resonanz ist eher sachlich-informativ als breit diskutiert; belastbare Hinweise auf starke Stigmatisierung gibt es nicht.",
+  "evidence_quality": "mittel bis schwach: überwiegend lexikalische Namensseiten, wenig frei beobachtbare öffentliche Debatte",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Yaron",
+  "normalized_name": "yaron",
+  "overall_resonance": "Eher positiv und freundlich, mit sachlich-informativem Charakter. Yaron wird in den Quellen vor allem als hebräischer Vorname mit positiver Bedeutungsassoziation beschrieben; die öffentliche Resonanz in Deutschland wirkt dabei eher dezent und nicht stark breit diskutiert.",
+  "practical_notes": [
+    "Für Suchmaschinen-Nutzer ist Yaron ein klar einordenbarer, internationaler Name mit positiver Bedeutung.",
+    "Die Schreibweise ist kurz und gut merkbar.",
+    "Wer eine sehr verbreitete deutsche Alltagsform sucht, findet hier eher einen seltenen Namen mit profilierter Herkunft."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz zur öffentlichen Resonanz ist nur schwach bis mittelstark, da vor allem Namensdatenbanken und Lexikonangaben vorliegen.",
+    "Keine belastbare Breite der Alltagswahrnehmung in Deutschland ersichtlich.",
+    "Positive Bedeutungsassoziationen sollten nicht als allgemeine gesellschaftliche Bewertung missverstanden werden."
+  ],
+  "short_summary": "Yaron wird in den verfügbaren Quellen überwiegend positiv und sachlich beschrieben: ein hebräischer, eher seltener Vorname mit musikalisch-freundlicher Bedeutung und internationaler Wirkung. Die öffentliche Resonanz in Deutschland scheint eher zurückhaltend und vor allem informativ geprägt zu sein.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.95,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Yaron � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/Y/Ya/Yaron/"
+    },
+    {
+      "confidence": 0.9,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Yaron: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Yaron.html"
+    }
+  ],
+  "style_effect": [
+    "klingt modern und international",
+    "wirkt weich und melodisch",
+    "hat eine klare, sprachlich markante Form",
+    "wird oft mit hebräischem/jüdisch-israelischem Kontext verbunden",
+    "erscheint eher ungewöhnlich als massenhaft verbreitet"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland eher selten bis mäßig bekannt. Die Sichtbarkeit scheint vor allem über Namenslexika und Bedeutungsseiten zu laufen, weniger über breite öffentliche Debatten."
+}

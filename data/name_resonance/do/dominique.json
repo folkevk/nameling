@@ -1,0 +1,69 @@
+{
+  "associations": [
+    "französischer Vorname",
+    "lateinischer Ursprung",
+    "Bedeutung sinngemäß: 'dem Herrn zugehörig'",
+    "Unisex-Name",
+    "selten in Deutschland",
+    "Namenstag",
+    "Dominikus/Dominique als Namensform"
+  ],
+  "confidence": 0.83,
+  "display_text": "Dominique wirkt in Deutschland eher selten, französisch-lateinisch geprägt und unisex lesbar. Die öffentliche Rezeption ist überwiegend neutral-sachlich; starke negative oder stigmatisierende Konnotationen zeigen die vorliegenden Quellen nicht.",
+  "evidence_quality": "mittel: mehrere thematisch passende Namensquellen, aber überwiegend sekundäre, namenskundliche Web-Einträge mit begrenzter Breite.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Dominique",
+  "normalized_name": "dominique",
+  "overall_resonance": "Dominique wird in den vorliegenden Quellen überwiegend sachlich und neutral beschrieben. Der Name hat ein eher französisch-lateinisches, stilistisch leicht international wirkendes Profil und wird in Deutschland als selten wahrgenommen. Er ist zudem als unisex bzw. geschlechtsneutral einordenbar, was teils als Besonderheit hervorgehoben wird.",
+  "practical_notes": [
+    "Für Suchmaschinen-Nutzer ist Dominique ein klar einordbarer, aber ungewöhnlicher Vorname.",
+    "Wer einen seltenen, international klingenden und geschlechtsneutral lesbaren Namen sucht, findet hier ein passendes Profil.",
+    "Die öffentliche Rezeption wirkt insgesamt eher neutral bis positiv-sachlich, ohne starke Zuspitzung."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist begrenzt und stammt vor allem von namenskundlichen Webseiten.",
+    "Einige Wahrnehmungen zu Geschlechtszuordnung oder Nameindruck sind kommentarbasiert und daher nur als subjektive Eindrücke zu verstehen.",
+    "Keine belastbaren Hinweise auf starke soziale Stigmatisierung in den vorliegenden Quellen."
+  ],
+  "short_summary": "Dominique wird in Deutschland eher selten, aber sachlich bekannt wahrgenommen: französisch-lateinisch geprägt, unisex lesbar und insgesamt neutral bis positiv beschrieben.",
+  "source_count": 3,
+  "sources": [
+    {
+      "confidence": 0.99,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Dominique � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/D/Do/Dominique/"
+    },
+    {
+      "confidence": 0.99,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Dominique � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/D/Do/Dominique/"
+    },
+    {
+      "confidence": 0.95,
+      "is_name_discussion": true,
+      "sentiment": "mixed",
+      "source_type": "web",
+      "title": "&#9655; Vorname Dominique: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Dominique.html"
+    }
+  ],
+  "style_effect": [
+    "französisch geprägt",
+    "international wirkend",
+    "eher elegant und klassisch",
+    "sachlich-neutral",
+    "unisex/geschlechtsneutral lesbar"
+  ],
+  "usable_evidence_count": 3,
+  "visibility": "In Deutschland eher selten und dadurch nicht alltagsdominant, aber als etablierter Vorname klar bekannt."
+}

@@ -1,0 +1,59 @@
+{
+  "associations": [
+    "spanische und portugiesische Form von Michael",
+    "hebräische/biblische Herkunft",
+    "Bedeutung: „Wer ist wie Gott?“",
+    "Namenstage werden genannt",
+    "international verständlich"
+  ],
+  "confidence": 0.9,
+  "display_text": "Miguel wirkt in Deutschland als internationaler, klassischer Vorname mit biblischer Herkunft und leicht positiver Resonanz. Die Quellen sind überwiegend sachlich und nennen vor allem Bedeutung, Herkunft und Beliebtheit; die Evidenzlage ist jedoch eher begrenzt.",
+  "evidence_quality": "mittel bis schwach: nur wenige webbasierte Namensquellen, überwiegend beschreibend und nicht breit öffentlich diskutierend",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Miguel",
+  "normalized_name": "miguel",
+  "overall_resonance": "Miguel wird in den vorliegenden Quellen überwiegend sachlich bis leicht positiv wahrgenommen. Der Name wirkt international, klassisch und klar namenskundlich verankert; die positive Tendenz kommt vor allem über Herkunft, Bedeutung und Beliebtheit zum Ausdruck.",
+  "practical_notes": [
+    "Für die Namenssuche wirkt Miguel vertraut, international und leicht einzuordnen.",
+    "Die Schreibweise ist eindeutig, die Aussprache im Deutschen meist problemlos.",
+    "Als Kurzform/Spitzname werden in Quellen vereinzelt Varianten genannt."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist begrenzt und stützt sich auf wenige Namenslexikon-/Community-Quellen.",
+    "Es gibt keine breite öffentliche Diskussion, daher ist die Einordnung nur vorsichtig belastbar.",
+    "Positive Wirkung ergibt sich eher aus Herkunft und Klang als aus einer gesellschaftlich eindeutig festgelegten Bewertung."
+  ],
+  "short_summary": "Miguel wird in den Quellen als internationaler, klassischer Vorname mit biblischer Herkunft und leicht positiver Resonanz beschrieben; die Evidenz ist jedoch begrenzt.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "Vorname Miguel � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/M/Mi/Miguel/"
+    },
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Miguel: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Miguel.html"
+    }
+  ],
+  "style_effect": [
+    "international",
+    "klassisch",
+    "namenskundlich",
+    "informativ",
+    "eher modern wirkend"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland ist Miguel als Vorname bekannt und wird als eher beliebt bzw. präsent beschrieben, ohne dass sich daraus eine besonders breite öffentliche Debatte ergibt."
+}

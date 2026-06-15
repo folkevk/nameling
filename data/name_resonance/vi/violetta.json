@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "italienische Koseform von Viola",
+    "Veilchen / Blume",
+    "lateinische Herkunft",
+    "literarische und operatische Bezüge",
+    "Namenstag am 3. Mai",
+    "Demut, Bescheidenheit, Treue, Hoffnung"
+  ],
+  "confidence": 0.84,
+  "display_text": "Violetta wirkt im Deutschen überwiegend neutral bis leicht positiv: elegant, weich und etwas romantisch. Die vorhandene Evidenz ist jedoch vor allem lexikalisch; eine breite öffentliche Debatte ist kaum sichtbar.",
+  "evidence_quality": "mittel bis schwach, da überwiegend lexikalische Quellen und kaum unabhängige öffentliche Diskussion",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Violetta",
+  "normalized_name": "violetta",
+  "overall_resonance": "Überwiegend neutral bis leicht positiv, mit sachlich-wohlwollender Namenswirkung.",
+  "practical_notes": [
+    "Für die Namenssuche wirkt Violetta markant, weich und gut merkbar.",
+    "Die Schreibweise ist klar, die Aussprache im Deutschen meist unkompliziert.",
+    "Durch die Seltenheit kann der Name auffallen, ohne ungewöhnlich zu wirken."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt fast ausschließlich aus Namenslexika und Vornamenseiten; die öffentliche Debatte ist daher nur begrenzt belegbar.",
+    "Die wahrgenommenen Eigenschaften sind eher kulturelle Assoziationen als belastbare Aussagen.",
+    "Keine Hinweise auf eine nennenswerte negative Stigmatisierung in der vorliegenden Evidenz."
+  ],
+  "short_summary": "Violetta wird im Deutschen meist freundlich und elegant wahrgenommen. Die vorliegende Evidenz ist vor allem sachlich-lexikalisch und zeigt keine starke positive oder negative öffentliche Debatte.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Violetta � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/V/Vi/Violetta/"
+    },
+    {
+      "confidence": 0.81,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Violetta: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Violetta.html"
+    }
+  ],
+  "style_effect": [
+    "klingt elegant und feminin",
+    "wirkt weich und melodisch",
+    "hat einen leicht klassischen bzw. romantischen Ton",
+    "durch die italienische Form etwas international",
+    "assoziiert mit Blumen- und Naturbildern"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Im deutschsprachigen Raum bekannt, aber eher selten bis moderat gebräuchlich; keine starke öffentliche Kontroverse erkennbar."
+}

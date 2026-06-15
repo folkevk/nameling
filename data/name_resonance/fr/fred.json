@@ -1,0 +1,58 @@
+{
+  "associations": [
+    "Kurzform von Namen wie Friedrich, Alfred, Manfred oder Frederick",
+    "Bedeutungsfelder wie Friede, Schutz, Sicherheit",
+    "althochdeutsche Namensherkunft",
+    "Namenstag",
+    "eher selten bis mäßig vergeben",
+    "Popkultur-Bezug durch den Namen als Figurennamen"
+  ],
+  "confidence": 0.84,
+  "display_text": "Fred wirkt in Deutschland überwiegend sachlich bis leicht positiv: kurz, klassisch und mit freundlichen Bedeutungen wie Friede, Schutz und Sicherheit. Die öffentliche Resonanz ist eher ruhig; belastbare Evidenz außerhalb von Namenslexika ist allerdings begrenzt.",
+  "evidence_quality": "Begrenzt: hauptsächlich zwei Namenslexikon-Quellen, wenig unabhängige öffentliche Diskussion.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Fred",
+  "normalized_name": "fred",
+  "overall_resonance": "Überwiegend sachlich bis leicht positiv. Der Name Fred wird in den verfügbaren Quellen vor allem als kurzer, klassischer Vorname mit freundlichen Bedeutungen wie Friede, Schutz und Sicherheit beschrieben.",
+  "practical_notes": [
+    "Gut geeignet, wenn ein kurzer, vertrauter und klassisch wirkender Name gesucht wird.",
+    "Im deutschen Kontext wirkt Fred unkompliziert und klar, ohne stark modisch oder besonders ausgefallen zu sein."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist stark auf Namenslexika beschränkt und zeigt nur begrenzt freie öffentliche Diskussion.",
+    "Daher ist die Resonanz vorsichtig zu lesen: eher eine beschreibende Namenswahrnehmung als ein breites Meinungsbild."
+  ],
+  "short_summary": "Fred wird in den Quellen als kurzer, klassischer Vorname mit eher positiver, ruhiger Wirkung beschrieben. Die Bedeutung wird meist mit Friede, Schutz und Sicherheit verbunden; die Evidenz ist jedoch begrenzt.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Fred � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/F/Fr/Fred/"
+    },
+    {
+      "confidence": 0.88,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Fred: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Fred.html"
+    }
+  ],
+  "style_effect": [
+    "kurz und prägnant",
+    "klassisch-traditionell",
+    "sachlich",
+    "leicht freundlich im Klang",
+    "eher zeitlos als modisch"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Eher gering bis mittel: In Deutschland wirkt Fred eher bekannt als Namensform, aber nicht stark verbreitet. Die öffentliche Wahrnehmung erscheint daher eher ruhig und unaufgeregt als auffällig."
+}

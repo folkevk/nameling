@@ -1,0 +1,59 @@
+{
+  "associations": [
+    "französische Form von Ludwig",
+    "Bedeutung: „der berühmte Krieger“ / „der berühmte Kämpfer“",
+    "altdeutscher Ursprung",
+    "Namenstag",
+    "Beliebtheit in Deutschland",
+    "Kurzformen wie Lou, Loui oder Lui"
+  ],
+  "confidence": 0.93,
+  "display_text": "Louis: überwiegend positive Resonanz in Deutschland. Der Name gilt als modern und klassisch zugleich, klingt international und wird meist als französische Form von Ludwig mit starker, traditionsreicher Bedeutung beschrieben.",
+  "evidence_quality": "hoch für Namensbedeutung, Herkunft und allgemeine Beliebtheit; begrenzt für echte öffentliche Alltagsresonanz, da vor allem Vornamensseiten vorliegen.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Louis",
+  "normalized_name": "louis",
+  "overall_resonance": "Der Vorname Louis wirkt in der vorliegenden deutschsprachigen Namens-Evidenz überwiegend positiv, modern und zugleich klassisch. Er wird meist als elegante französische Form von Ludwig beschrieben und mit Bedeutung, Herkunft und Namenstag verbunden.",
+  "practical_notes": [
+    "Für eine Namenssuche ist Louis gut geeignet, wenn ein international klingender, aber etablierter Jungenname gesucht wird.",
+    "Die Schreibweise ist einfach, die Aussprache im Deutschen meist intuitiv.",
+    "Je nach Umfeld kann der Name sowohl elegant als auch bodenständig wirken."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt vor allem aus Namenslexika und Vornamensseiten, nicht aus breiter öffentlicher Debatte.",
+    "Die positive Wirkung beschreibt vor allem Namensdarstellungen und Community-Kommentare; das ist subjektiv.",
+    "Keine Hinweise auf soziale Stigmatisierung in den vorliegenden Quellen."
+  ],
+  "short_summary": "Louis wird in den Quellen überwiegend positiv, modern und zugleich traditionsnah dargestellt. Der Name ist in Deutschland bekannt, wirkt international und wird vor allem mit französischer Form, Bedeutung und Beliebtheit verbunden.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "Vorname Louis � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/L/Lo/Louis/"
+    },
+    {
+      "confidence": 0.95,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Louis: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Louis.html"
+    }
+  ],
+  "style_effect": [
+    "modern, aber traditionsnah",
+    "klingt international und gepflegt",
+    "kurz, klar und gut merkbar",
+    "wirkt im Deutschen vertraut, ohne alltäglich zu sein"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland ist Louis als bekannter und gut einordbarer Jungenname sichtbar; die Wahrnehmung in den Quellen ist eher freundlich und namenskundlich als kontrovers."
+}

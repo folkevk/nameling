@@ -1,0 +1,59 @@
+{
+  "associations": [
+    "althebräische bzw. hebräische Herkunft",
+    "Ableitung von Sarah",
+    "Bedeutungen wie „Fürstin“, „Herrin“ oder „Prinzessin“",
+    "als eher seltener bis moderner Mädchenname beschrieben",
+    "Namenstag wird genannt"
+  ],
+  "confidence": 0.72,
+  "display_text": "Sarina wird in den verfügbaren Quellen eher positiv und modern wahrgenommen. Der Name wirkt freundlich, klar und klassisch in der Herkunft, wird aber vor allem in Namenslexika beschrieben – die Evidenz für echte öffentliche Resonanz ist daher begrenzt.",
+  "evidence_quality": "mittel bis schwach: überwiegend lexikalische Quellen, nur begrenzt echte öffentliche Resonanz",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Sarina",
+  "normalized_name": "sarina",
+  "overall_resonance": "Sarina wird in den vorliegenden Quellen insgesamt freundlich und eher positiv wahrgenommen, vor allem als moderner, klarer Mädchenname mit klassischer Herkunft. Die öffentliche Resonanz wirkt jedoch eher beschreibend als breit diskutiert.",
+  "practical_notes": [
+    "Für Suchmaschinen eignet sich Sarina als freundlicher, vertrauter Vorname mit klassischer Namenswurzel.",
+    "Die Wahrnehmung wirkt eher neutral bis positiv und wenig kontrovers.",
+    "Wenn öffentliche Wirkung gemeint ist, sollte man wegen der begrenzten Evidenz vorsichtig formulieren."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz zur öffentlichen Resonanz ist schwach und stark von Namenslexika geprägt.",
+    "Einzelne positive Einordnungen sind nicht als repräsentative Mehrheitsmeinung zu verstehen.",
+    "Keine belastbaren Hinweise auf soziale Stigmatisierung in den vorliegenden Quellen."
+  ],
+  "short_summary": "Sarina wird überwiegend positiv und informativ beschrieben, mit klassisch-hebräischer Herkunft und moderner Anmutung. Die öffentliche Resonanz ist jedoch nur schwach belegt.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Sarina � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/S/Sa/Sarina/"
+    },
+    {
+      "confidence": 0.89,
+      "is_name_discussion": true,
+      "sentiment": "überwiegend positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Sarina: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Sarina.html"
+    }
+  ],
+  "style_effect": [
+    "informativ",
+    "modern",
+    "weich-klingend",
+    "klassisch-angelehnt",
+    "namenskundlich"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Die Sichtbarkeit in den Quellen ist vorhanden, aber begrenzt: Es handelt sich überwiegend um Namenslexika und Informationsseiten, nicht um starke, repräsentative Meinungsbilder."
+}

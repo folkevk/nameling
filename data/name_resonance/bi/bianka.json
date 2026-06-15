@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "Bedeutung: „die Weiße“ / „die Glänzende“",
+    "italienischer bzw. romanischer Ursprung",
+    "eingedeutschte Form von Bianca",
+    "Namenstag am 1. Dezember",
+    "Spitznamen wie Bibi, Bia oder Binka"
+  ],
+  "confidence": 0.74,
+  "display_text": "Bianka wird meist sachlich und eher freundlich wahrgenommen: ein klassischer, vertrauter Vorname mit der Bedeutung „die Weiße“ / „die Glänzende“. In Deutschland ist er bekannt, wirkt aber nicht besonders trendstark. Die Evidenz ist eher begrenzt und stammt vor allem aus Namenslexika.",
+  "evidence_quality": "mittel bis schwach: zwei hauptsächlich lexikalische Quellen, nur begrenzte Anzeichen für echte öffentliche Resonanz",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Bianka",
+  "normalized_name": "bianka",
+  "overall_resonance": "Bianka wird in den vorliegenden Quellen überwiegend sachlich-informativ und eher freundlich wahrgenommen. Der Name wirkt vertraut, klassisch und im deutschsprachigen Raum eingedeutscht, ohne starke Polarisierung.",
+  "practical_notes": [
+    "Für Suchmaschinen- und Kontextanzeige eignet sich eine neutrale, knapp erklärende Beschreibung.",
+    "Die Schreibweise Bianka kann als etwas seltener bzw. individueller als Bianca wirken.",
+    "Die Quellen deuten eher auf Bekanntheit als auf starke Modewahrnehmung hin."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist schwach bis mittel und stammt vor allem aus Namenslexika statt aus breiter öffentlicher Diskussion.",
+    "Einzelne Community-Kommentare sind subjektiv und nicht repräsentativ für die Gesamtwahrnehmung.",
+    "Es gibt keinen Hinweis auf eine soziale Stigmatisierung; positive oder negative Wertungen sollten dennoch vorsichtig formuliert werden."
+  ],
+  "short_summary": "Bianka wirkt im Deutschen eher klassisch, vertraut und sachlich positiv besetzt, bei insgesamt nur moderater Sichtbarkeit. Die Evidenz ist begrenzt und stammt vor allem aus Namenslexika.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.94,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Bianka � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/B/Bi/Bianka/"
+    },
+    {
+      "confidence": 0.87,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Bianka: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Bianka.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "weiblich",
+    "vertraut",
+    "leicht altbekannt",
+    "eher nüchtern als extravagant",
+    "eingedeutschte Schreibweise"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland scheint Bianka bekannt, aber nicht besonders dominant oder trendstark zu sein. Die öffentliche Sichtbarkeit wirkt eher moderat als breit populär."
+}

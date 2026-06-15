@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "weiblicher Vorname",
+    "mögliche Bedeutungen wie Liebe/Wertvoll",
+    "lateinische Herkunftsdeutung",
+    "teilweise auch nordische oder italienische Einordnung",
+    "türkische Bedeutungsassoziation: schwarz",
+    "Namenstag wird genannt",
+    "selten bis moderat vergeben"
+  ],
+  "confidence": 0.83,
+  "display_text": "Kara wirkt in den Quellen freundlich, modern und klar. Der Name ist in Deutschland eher selten bis moderat bekannt und wird überwiegend positiv bzw. neutral beschrieben. Die Herkunftsangaben sind jedoch nicht ganz einheitlich und sollten vorsichtig formuliert werden.",
+  "evidence_quality": "mittel bis schwach: zwei einschlägige Namensquellen, aber begrenzte und teils widersprüchliche Herkunftsdeutungen.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Kara",
+  "normalized_name": "kara",
+  "overall_resonance": "Kara wird in den vorliegenden Namensquellen überwiegend freundlich und sachlich wahrgenommen: Der Name wirkt kurz, klar und modern, mit eher positiver als problematischer Resonanz. In Deutschland scheint er eher selten bis moderat vergeben zu sein.",
+  "practical_notes": [
+    "Für Suchmaschinen und Namensprofile eignet sich eine knappe, klare Beschreibung.",
+    "Die Schreibweise ist einfach und international gut lesbar.",
+    "Wer auf eindeutige Herkunft Wert legt, sollte auf die unterschiedlichen Etymologie-Angaben hinweisen."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenzlage ist begrenzt und stützt sich auf wenige Namensseiten.",
+    "Die Herkunftsangaben sind nicht ganz einheitlich und können je nach Quelle abweichen.",
+    "Einzelne populäre Bedeutungszuordnungen sind eher lexikalische Deutungen als gesicherte etymologische Einigkeit."
+  ],
+  "short_summary": "Kara wird meist positiv, klar und modern beschrieben, ist in Deutschland eher selten bis moderat sichtbar und hat uneinheitliche Herkunftsdeutungen.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Kara � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/K/Ka/Kara/"
+    },
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Kara: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Kara.html"
+    }
+  ],
+  "style_effect": [
+    "kurz und prägnant",
+    "modern und leicht merkbar",
+    "weiblich konnotiert",
+    "international anschlussfähig",
+    "eher elegant als verspielt"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Eher geringe bis mittlere Sichtbarkeit in Deutschland; in Namenslexika präsent, aber kein sehr verbreiteter Alltagsname."
+}

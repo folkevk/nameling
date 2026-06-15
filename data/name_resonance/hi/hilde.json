@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "althochdeutsche Herkunft",
+    "Kurzform von Namen mit Hild- / -hild",
+    "Bedeutung: Kämpferin / Kriegerin / Beschützerin",
+    "historischer Charakter",
+    "Namenstag am 17. September",
+    "wiederentdeckt, aber selten"
+  ],
+  "confidence": 0.89,
+  "display_text": "Hilde: traditioneller, historisch geprägter Vorname mit der Bedeutung „die Kämpferin / die Kriegerin“. In der öffentlichen Wahrnehmung eher selten, eher altmodisch, aber mit klarer und kraftvoller Wirkung.",
+  "evidence_quality": "Gut bis sehr gut: zwei klare Namensquellen mit etymologischen Angaben und leicht bewertenden Resonanzhinweisen; insgesamt aber eher lexikalische als repräsentative Alltagsdaten.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Hilde",
+  "normalized_name": "hilde",
+  "overall_resonance": "Eher traditionell und historisch geprägt, mit überwiegend neutraler bis leicht positiver Resonanz. Der Name wird vor allem über seine althochdeutsche Herkunft und die Bedeutung „die Kämpferin / die Kriegerin“ wahrgenommen; zugleich wirkt er für viele eher altmodisch bzw. selten.",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt Hilde kurz, traditionsreich und markant.",
+    "Die Bedeutung kann als stärkendes, elegantes Traditionssignal gelesen werden.",
+    "Wer einen modernen oder sehr häufigen Namen sucht, könnte Hilde als eher speziell empfinden."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Einordnung als „altmodisch“ ist eine Stilwahrnehmung und kein objektives Urteil.",
+    "Die vorhandene Evidenz bezieht sich auf Namensseiten; sie ist brauchbar, aber nicht gleichbedeutend mit einer breiten Bevölkerungsumfrage."
+  ],
+  "short_summary": "Hilde wird im Deutschen meist als traditioneller, historischer und seltener Vorname wahrgenommen – mit klarer, kraftvoller Bedeutung und eher altmodischer Anmutung.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Hilde � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/H/Hi/Hilde/"
+    },
+    {
+      "confidence": 0.91,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Hilde: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Hilde.html"
+    }
+  ],
+  "style_effect": [
+    "kurz und klar",
+    "traditionell",
+    "historisch",
+    "namenskundlich",
+    "eher altmodisch",
+    "selten",
+    "kraftvolle Bedeutung"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Im deutschsprachigen Raum bekannt, aber heute eher selten und nicht stark verbreitet."
+}

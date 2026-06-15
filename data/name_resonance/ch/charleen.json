@@ -1,0 +1,62 @@
+{
+  "associations": [
+    "englische Variante von Charlene",
+    "Ableitung von Charles/Karl",
+    "Bedeutung in Richtung „die Freie“ bzw. „freie Frau“",
+    "seit den 1970er Jahren im deutschen Sprachraum vergeben",
+    "eher selten bis mäßig verbreitet",
+    "zahlreiche Schreibvarianten",
+    "sachlich-informative Namensdarstellungen"
+  ],
+  "confidence": 0.82,
+  "display_text": "Charleen wirkt in der öffentlichen Wahrnehmung überwiegend sachlich-positiv: ein moderner, englisch geprägter Mädchenname mit klarer Bedeutung und eher seltener bis mäßiger Verbreitung. Die vorhandene Evidenz ist allerdings schwach und basiert vor allem auf Namenslexika statt auf breiter öffentlicher Debatte.",
+  "evidence_quality": "mittel bis schwach: zwei überwiegend informative Namenslexika, kaum echte öffentliche Debatte oder unabhängige Resonanz",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Charleen",
+  "normalized_name": "charleen",
+  "overall_resonance": "Überwiegend sachlich-positiv bis neutral; der Name wirkt vor allem als bekannte, moderne Mädchenname-Variante mit klarer Namensbedeutung und wenig öffentlicher Kontroverse.",
+  "practical_notes": [
+    "Für die Suche nach Namenswirkung eignet sich Charleen als moderner, klar weiblich lesbarer Name.",
+    "Die Schreibweise kann variieren; das kann die Wiedererkennung im Alltag leicht beeinflussen.",
+    "Die Quellenlage spricht eher für Namenskunde als für eine breite öffentliche Diskussion."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz zur öffentlichen Resonanz ist schwach und besteht hauptsächlich aus beschreibenden Namensseiten.",
+    "Die Wahrnehmung kann durch Verzeichnis- und SEO-Sprache mitgeprägt sein.",
+    "Keine belastbaren Hinweise auf eine negative gesellschaftliche Stigmatisierung in den vorliegenden Quellen."
+  ],
+  "short_summary": "Charleen wird in den Quellen überwiegend neutral bis leicht positiv beschrieben: ein moderner, englisch geprägter Mädchenname mit klarer Bedeutung und eher geringer Verbreitung. Die öffentliche Resonanz ist jedoch nur schwach belegt und stammt vor allem aus Namensdatenbanken.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.95,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Charleen � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/C/Ch/Charleen/"
+    },
+    {
+      "confidence": 0.92,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Charleen: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Charleen.html"
+    }
+  ],
+  "style_effect": [
+    "modern",
+    "jugendlich",
+    "englisch geprägt",
+    "weiblich",
+    "namenskundlich klar",
+    "leicht weich klingend"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Im deutschen Sprachraum bekannt, aber eher selten bis mäßig verbreitet. Die öffentliche Sichtbarkeit stammt vor allem aus Namenslexika und Verzeichnissen, nicht aus breiter Debatte."
+}

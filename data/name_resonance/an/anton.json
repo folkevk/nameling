@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "Kurzform von Antonius",
+    "lateinisch/griechische Herkunft",
+    "Bedeutungen wie „der Wertvolle“ oder „der Unverkaufliche“",
+    "Namenstage",
+    "Spitzname Toni",
+    "klassischer deutscher Vorname",
+    "Beliebtheit in Deutschland"
+  ],
+  "confidence": 0.93,
+  "display_text": "Anton wird in Deutschland überwiegend neutral bis leicht positiv wahrgenommen: klassisch, vertraut und aktuell recht beliebt. Die verfügbaren Quellen stammen vor allem aus Namenslexika und beschreiben den Namen als traditionelle, zeitlose Wahl mit klarer Herkunft und bekannten Spitznamen wie Toni.",
+  "evidence_quality": "hoch, aber vorwiegend aus Namenslexika und nicht aus freier Alltagsdiskussion",
+  "generated_at": "2026-06-12T06:08:03Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Anton",
+  "normalized_name": "anton",
+  "overall_resonance": "Anton wird in der verfügbaren deutschen Evidenz überwiegend sachlich-neutral bis leicht positiv wahrgenommen. Der Name wirkt klassisch, vertraut und traditionell, mit klarer alltagsnaher Präsenz.",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt Anton insgesamt sehr solide und leicht zugänglich.",
+    "Die Wahrnehmung ist eher traditionell als extravagant.",
+    "Die vorhandene Evidenz ist gut, aber überwiegend lexikalisch statt dialogisch."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt vor allem aus Namenslexika und nicht aus breiten öffentlichen Diskussionsräumen.",
+    "Einzelne Hinweise auf einen etwas altbackenen Klang sind als subjektive Einordnung zu verstehen, nicht als allgemeines Urteil."
+  ],
+  "short_summary": "Anton gilt in Deutschland als klassischer, gut bekannter und aktuell beliebter Vorname mit überwiegend neutraler bis leicht positiver Resonanz.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Anton � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/A/An/Anton/"
+    },
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Anton: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Anton.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "traditionell",
+    "kurz und prägnant",
+    "vertraut",
+    "zeitlos",
+    "namenskundlich klar einordbar"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland sehr bekannt und sichtbar; laut den Namensquellen aktuell recht beliebt."
+}

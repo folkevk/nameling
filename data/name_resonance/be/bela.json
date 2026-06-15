@@ -1,0 +1,69 @@
+{
+  "associations": [
+    "ungarische bzw. altslawische Herkunft",
+    "Bedeutungen wie „der Edle“ oder „der Weiße“",
+    "Namenstag am 23. April",
+    "in Deutschland teils als beliebt beschrieben",
+    "geschlechtsübergreifend bzw. kontextabhängig verwendet",
+    "teilweise als Kurzform oder Spitznamenname wahrgenommen"
+  ],
+  "confidence": 0.74,
+  "display_text": "Bela wirkt in Deutschland überwiegend sachlich bis leicht positiv: kurz, international und mit positiver Bedeutung verbunden. Die Evidenz ist allerdings begrenzt und stammt fast nur aus Namenslexika.",
+  "evidence_quality": "mittel bis schwach: überwiegend Namenslexika und editorische Seiten, kaum unabhängige öffentliche Diskussion",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Bela",
+  "normalized_name": "bela",
+  "overall_resonance": "Die öffentliche Resonanz zu Bela ist überwiegend sachlich bis leicht positiv. Der Name wird vor allem mit einer klaren Bedeutung, internationaler Herkunft und einer eher modernen, ungewöhnlichen Wirkung verbunden. Gleichzeitig ist die Evidenz begrenzt und stammt fast ausschließlich aus Namenslexika.",
+  "practical_notes": [
+    "Für die Namenssuche eignet sich Bela, wenn ein kurzer, international verständlicher Name mit positiver Bedeutung gesucht wird.",
+    "Wegen der Mehrdeutigkeit bei Herkunft und Geschlecht kann der Name je nach Kontext unterschiedlich eingeordnet werden.",
+    "Die öffentliche Wahrnehmung wirkt eher neutral bis freundlich, nicht stark emotional aufgeladen."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Datenlage ist dünn und stark von einzelnen Namensseiten geprägt.",
+    "Die Angaben zur Verwendung als Jungen- oder Mädchenname sind teils uneinheitlich.",
+    "Beliebtheitsangaben sind nicht gleichbedeutend mit allgemeiner gesellschaftlicher Bewertung."
+  ],
+  "short_summary": "Bela wird im deutschen Raum meist als kurzer, internationaler und eher positiv konnotierter Name wahrgenommen. Die Quellenlage ist jedoch begrenzt und überwiegend lexikalisch.",
+  "source_count": 3,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "Vorname Bela � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/B/Be/Bela/"
+    },
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Bela � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/B/Be/Bela/"
+    },
+    {
+      "confidence": 0.88,
+      "is_name_discussion": true,
+      "sentiment": "eher positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Bela: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Bela.html"
+    }
+  ],
+  "style_effect": [
+    "modern",
+    "international",
+    "kurz und markant",
+    "namenskundlich aufgeladen",
+    "eher freundlich als hart",
+    "ungewöhnlich, aber nicht exotisch"
+  ],
+  "usable_evidence_count": 3,
+  "visibility": "Im deutschsprachigen Raum wirkt Bela bekannt, aber nicht alltäglich. Mehrere Quellen nennen eine gewisse Beliebtheit in Deutschland, zugleich wird der Name als eher selten bzw. regional unterschiedlich verwendet beschrieben."
+}

@@ -1,0 +1,62 @@
+{
+  "associations": [
+    "althochdeutsche/altdeutsche Herkunft",
+    "mittelalterlicher Klang",
+    "Bedeutung mit kämpferischer Deutung",
+    "Seltenheit",
+    "Namenstag",
+    "historisch-adlige bzw. traditionsreiche Konnotation",
+    "mögliche Koseformen wie Gundi oder Kuni"
+  ],
+  "confidence": 0.89,
+  "display_text": "Kunigunde: überwiegend neutral bis leicht positiv, aber klar historisch geprägt. Der Name gilt als sehr selten, altdeutsch und traditionsreich; echte öffentliche Resonanz ist nur schwach belegt.",
+  "evidence_quality": "mittel bis schwach: direkt zum Namen, aber überwiegend beschreibende Quellen mit wenig echter öffentlicher Debatte",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Kunigunde",
+  "normalized_name": "kunigunde",
+  "overall_resonance": "eher neutral bis leicht positiv, aber deutlich von historischen und namenkundlichen Einordnungen geprägt",
+  "practical_notes": [
+    "Der Name wirkt markant, traditionell und sehr selten.",
+    "Er dürfte eher bei Menschen ankommen, die klassische oder historische Namen mögen.",
+    "Für den Alltagsgebrauch kann der Name ungewohnt wirken, zugleich aber eigenständig und einprägsam."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist schwach für echte öffentliche Resonanz und stammt vor allem aus Namensdatenbanken statt aus freier Diskussion.",
+    "Positive historische oder hagiografische Bezüge können die Wahrnehmung leicht aufwerten, ohne dass das eine breite Zustimmung belegt.",
+    "Es gibt keine belastbare Grundlage für eine starke Trend- oder Modebewertung."
+  ],
+  "short_summary": "Kunigunde wird überwiegend sachlich und leicht positiv als sehr seltener, historisch geprägter Vorname mit altdeutscher Herkunft wahrgenommen. Die öffentliche Resonanz ist jedoch nur schwach belegt und basiert vor allem auf Namensseiten, nicht auf breiter Diskussion.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.95,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Kunigunde � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/K/Ku/Kunigunde/"
+    },
+    {
+      "confidence": 0.91,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Kunigunde: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Kunigunde.html"
+    }
+  ],
+  "style_effect": [
+    "historisch",
+    "altdeutsch",
+    "selten",
+    "lexikalisch",
+    "namenskundlich",
+    "traditionell"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "niedrig"
+}

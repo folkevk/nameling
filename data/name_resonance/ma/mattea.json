@@ -1,0 +1,68 @@
+{
+  "associations": [
+    "weiblicher Vorname",
+    "italienische Form",
+    "althebräischer / biblischer Ursprung",
+    "Bedeutung: Geschenk Gottes / Gabe des Herrn",
+    "Namenstag am 24. Februar (teils auch 28. Dezember genannt)",
+    "selten bis mäßig verbreitet in Deutschland"
+  ],
+  "confidence": 0.81,
+  "display_text": "Mattea wirkt öffentlich eher positiv und neutral: ein seltener, weiblicher Name mit italienisch-hebräischer Herkunft und der starken Bedeutung „Geschenk Gottes“. Die Belege stammen jedoch fast nur aus Namenslexika, daher ist die tatsächliche öffentliche Resonanz nur schwach abgesichert.",
+  "evidence_quality": "mittel bis schwach; überwiegend lexikalische Quellen, kaum echte öffentliche Rezeption",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Mattea",
+  "normalized_name": "mattea",
+  "overall_resonance": "Die öffentliche Wahrnehmung von Mattea wirkt insgesamt eher positiv bis neutral. Der Name wird vor allem sachlich als weiblicher Vorname mit italienisch-hebräischer Herkunft beschrieben; die Bedeutung „Geschenk Gottes“ prägt die positive Konnotation. Eine breite öffentliche Debatte ist in den vorliegenden Quellen jedoch nicht erkennbar.",
+  "practical_notes": [
+    "Für die Namenssuche ist Mattea gut geeignet, wenn ein seltener, feminin klingender und international lesbarer Name gewünscht ist.",
+    "Die Quellenlage spricht eher für eine positive Namensbedeutung als für starke gesellschaftliche Assoziationen.",
+    "Die öffentliche Resonanz sollte vorsichtig interpretiert werden, da sie auf begrenzter Evidenz beruht."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt fast ausschließlich aus Namenslexika und nicht aus breiten öffentlichen Diskussionen.",
+    "Aussagen zur Beliebtheit sind nur als grobe Einordnung zu verstehen.",
+    "Keine Hinweise auf soziale Stigmatisierung; eine solche wäre hier auch nicht belegt."
+  ],
+  "short_summary": "Mattea wird in den vorliegenden Quellen überwiegend positiv und sachlich wahrgenommen: ein seltener, weiblicher Name mit italienisch-hebräischer Herkunft und der Bedeutung „Geschenk Gottes“.",
+  "source_count": 3,
+  "sources": [
+    {
+      "confidence": 0.95,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Mattea � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/M/Ma/Mattea/"
+    },
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Mattea � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/M/Ma/Mattea/"
+    },
+    {
+      "confidence": 0.88,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Mattea: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Mattea.html"
+    }
+  ],
+  "style_effect": [
+    "klingt weich und melodisch",
+    "wirkt international bzw. italienisch geprägt",
+    "eher selten, dadurch individuell",
+    "namenskundlich klar und gut einordbar",
+    "durch die Bedeutungszuschreibung religiös-positiv konnotiert"
+  ],
+  "usable_evidence_count": 3,
+  "visibility": "Eher gering bis moderat sichtbar in Namenslexika und Vornamen-Datenbanken; außerhalb davon liegt nur schwache Evidenz vor. Für eine starke öffentliche Resonanz gibt es keine klaren Anzeichen."
+}

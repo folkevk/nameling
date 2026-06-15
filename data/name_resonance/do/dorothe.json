@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "Bedeutung: „Geschenk Gottes“",
+    "altgriechischer Ursprung",
+    "Kurz- bzw. Nebenform von Dorothea/Dorothee",
+    "selten in Deutschland",
+    "Namenstag wird genannt",
+    "Spitznamen wie Doro oder Dori erscheinen in den Quellen"
+  ],
+  "confidence": 0.89,
+  "display_text": "Dorothe wirkt in den Quellen überwiegend sachlich-neutral und eher selten. Der Name wird vor allem namenkundlich eingeordnet: altgriechischer Ursprung, Bedeutung „Geschenk Gottes“, Kurzform von Dorothea/Dorothee. Insgesamt entsteht ein klassisch-traditioneller, leicht nostalgischer Eindruck ohne starke öffentliche Polarisierung.",
+  "evidence_quality": "mittel bis gut; zwei namenkundliche Webquellen mit klarer Bezugnahme auf den Vornamen, aber keine breite Meinungsvielfalt",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Dorothe",
+  "normalized_name": "dorothe",
+  "overall_resonance": "überwiegend sachlich-neutral mit leicht traditionell-nostalgischer Färbung",
+  "practical_notes": [
+    "Für Suchende wirkt der Name eher klassisch und ungewöhnlich als trendig.",
+    "Die Quellen nennen vor allem Bedeutung, Herkunft und Namenstag, weniger moderne Popularität.",
+    "Die öffentliche Rezeption scheint insgesamt unaufgeregt und informativ zu sein."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist nur mittel: Es handelt sich vor allem um Namenslexika und keine breite öffentliche Debatte.",
+    "Einzelne Einschätzungen in den Quellen sind leicht positiv, insgesamt aber ohne starke Wertung.",
+    "Seltenheit kann als stilistisch besonders wirken, ist aber keine Aussage über die tatsächliche soziale Wahrnehmung aller Trägerinnen."
+  ],
+  "short_summary": "Dorothe wird öffentlich vor allem sachlich beschrieben: ein seltener, traditionell wirkender Vorname mit altgriechischem Ursprung und der Bedeutung „Geschenk Gottes“.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.94,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Dorothe � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/D/Do/Dorothe/"
+    },
+    {
+      "confidence": 0.84,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Dorothe: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Dorothe.html"
+    }
+  ],
+  "style_effect": [
+    "lexikalisch",
+    "namenskundlich",
+    "traditionell",
+    "kurz und klanglich klar",
+    "leicht altsprachlich",
+    "seltenheitsbetont"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "eher gering bis mittel; der Name wirkt selten und daher öffentlich wenig präsent"
+}

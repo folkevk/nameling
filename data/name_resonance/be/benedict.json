@@ -1,0 +1,66 @@
+{
+  "associations": [
+    "lateinischer Ursprung",
+    "Bedeutung: „der Gesegnete“",
+    "Namenstag",
+    "historischer Bezug zu Benedikt von Nursia",
+    "christlich-religiöse Assoziationen",
+    "internationale Schreibweise",
+    "Spitznamen wie Ben, Benny, Benni",
+    "mögliche Verwechslungsgefahr bei C/K-Schreibweise"
+  ],
+  "confidence": 0.76,
+  "display_text": "Benedict wirkt in Deutschland überwiegend sachlich-neutral bis leicht positiv: ein klassischer, internationaler und traditionsnaher Vorname mit der Bedeutung „der Gesegnete“. Die Evidenz ist jedoch begrenzt und stammt vor allem aus Namenslexika.",
+  "evidence_quality": "mittel bis schwach; zwei namenskundliche Webquellen, keine breite empirische Öffentlichkeitsmessung",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Benedict",
+  "normalized_name": "benedict",
+  "overall_resonance": "Überwiegend sachlich-neutral mit leicht positivem Unterton. Benedict wird in den Quellen als klassischer, zeitloser und internationaler Vorname mit positiver Bedeutung („der Gesegnete“) beschrieben. Die öffentliche Wahrnehmung wirkt eher traditionell und namenkundlich geprägt als modisch oder polarisierend.",
+  "practical_notes": [
+    "Gut verständlich und in Deutschland ohne problematische Nebenbedeutung.",
+    "Wirkt formal-klasisch und eher traditionsnah als modern-experimentell.",
+    "Die Schreibweise Benedict kann gegenüber Benedikt gelegentlich erklärungsbedürftig sein.",
+    "Kurzformen wie Ben oder Benny sind naheliegend."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist quellengebunden und nicht breit öffentlich-repräsentativ.",
+    "Einige Aussagen beziehen sich eher auf Namenslexikon-Darstellungen als auf echte Alltagsrezeption.",
+    "Hinweise auf Schreibweise und Spitznamen sind eher praktische als reputationsbezogene Aspekte."
+  ],
+  "short_summary": "Benedict wird in Deutschland vor allem als klassischer, internationaler und eher traditionsnaher Jungenname wahrgenommen – sachlich, leicht positiv und ohne auffällige Stigmatisierung.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Benedict � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/B/Be/Benedict/"
+    },
+    {
+      "confidence": 0.82,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Benedict: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Benedict.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "zeitlos",
+    "international",
+    "traditionell",
+    "informativ",
+    "leicht elegant",
+    "religionsnah",
+    "namenskundlich"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Eher mäßige öffentliche Sichtbarkeit in Deutschland; der Name ist bekannt, aber nicht besonders alltagsdominant. Die Evidenz stammt vor allem aus Namenslexika und einer einzelnen Namensseite, daher ist die Aussagekraft begrenzt."
+}

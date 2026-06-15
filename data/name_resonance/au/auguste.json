@@ -1,0 +1,70 @@
+{
+  "associations": [
+    "lateinische Herkunft",
+    "Bedeutung: die Ehrwürdige / die Erhabene",
+    "deutsche Variante von Augusta",
+    "französischer Sprachraum als Nebenform von August",
+    "historischer Vorname",
+    "heute eher selten",
+    "wiederentdeckt",
+    "mit weiblicher Nutzung assoziiert, teils als unisex beschrieben"
+  ],
+  "confidence": 0.77,
+  "display_text": "Auguste wirkt im deutschsprachigen Raum eher klassisch, selten und leicht positiv. Der Name wird vor allem mit „die Ehrwürdige“ bzw. „die Erhabene“ verbunden und als historisch geprägte, wiederentdeckte Form wahrgenommen. Die Evidenz ist allerdings begrenzt, da sie fast nur aus Namenslexika stammt.",
+  "evidence_quality": "Begrenzt: mehrere ähnlich ausgerichtete Namensseiten, aber kaum unabhängige oder diskursive öffentliche Quellen.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Auguste",
+  "normalized_name": "auguste",
+  "overall_resonance": "Im deutschsprachigen Raum wirkt Auguste insgesamt eher traditionell, historisch und leicht positiv konnotiert. Der Name wird vor allem mit Bedeutungen wie „die Ehrwürdige“ oder „die Erhabene“ verbunden und als seltene, wiederentdeckte Form wahrgenommen.",
+  "practical_notes": [
+    "Für Suchende, die einen klassischen und ungewöhnlichen Namen mit historischer Tiefe mögen, kann Auguste gut passen.",
+    "Wer einen modernen, sehr geläufigen Namen sucht, wird Auguste vermutlich als zu selten wahrnehmen.",
+    "Die Wahrnehmung ist eher sachlich-positiv als emotional aufgeladen."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist schwach und stark quellengebunden: überwiegend Namensdatenbanken statt echte öffentliche Debatten.",
+    "Positive Konnotationen stammen vor allem aus Bedeutungsangaben; das ist keine allgemeine Gesellschaftsstimmung.",
+    "Einzelne Angaben zur Nutzung als unisex oder zu Sprachräumen sollten vorsichtig gelesen werden, da die Quellen teils unterschiedlich formulieren."
+  ],
+  "short_summary": "Auguste wird im Deutschen meist als seltener, klassischer und leicht positiv besetzter Vorname mit ehrwürdiger, historischer Wirkung beschrieben.",
+  "source_count": 3,
+  "sources": [
+    {
+      "confidence": 0.92,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "Vorname Auguste � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/A/Au/Auguste/"
+    },
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "Vorname Auguste � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/A/Au/Auguste/"
+    },
+    {
+      "confidence": 0.89,
+      "is_name_discussion": true,
+      "sentiment": "positive",
+      "source_type": "web",
+      "title": "&#9655; Vorname Auguste: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Auguste.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch und altsprachlich",
+    "eher elegant und vornehm",
+    "historisch geprägt",
+    "selten und dadurch markant",
+    "namenskundlich klar einordbar"
+  ],
+  "usable_evidence_count": 3,
+  "visibility": "Eher niedrig bis mittel: Auguste ist bekannt, aber im Alltag offenbar selten und nicht stark präsent. Die verfügbare Evidenz stammt fast nur aus Namenslexika und Vornamensseiten, daher ist die Aussagekraft für echte öffentliche Meinungen begrenzt."
+}

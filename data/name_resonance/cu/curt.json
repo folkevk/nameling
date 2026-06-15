@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "Kurzform von Konrad",
+    "Variante von Kurt",
+    "Bedeutung: der kühne Ratgeber",
+    "im Englischen auch Kurzform von Curtis",
+    "englisch: der Höfliche / der Ritterliche",
+    "niederdeutsche Schreibvariante",
+    "selten bis mäßig verbreitet in Deutschland"
+  ],
+  "confidence": 0.86,
+  "display_text": "Curt wirkt in den Quellen sachlich, klassisch und eher selten. Die öffentliche Resonanz ist neutral und vor allem von Herkunft, Bedeutung und Schreibvariante geprägt; starke Trend- oder Imageeffekte sind kaum sichtbar.",
+  "evidence_quality": "mittel bis schwach: inhaltlich klar, aber vor allem lexikalische Quellen und kaum echte öffentliche Diskussion.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Curt",
+  "normalized_name": "curt",
+  "overall_resonance": "Curt wird in den vorliegenden Quellen überwiegend sachlich und neutral beschrieben. Der Name wirkt eher klassisch-kurz, norddeutsch bzw. altsprachlich geprägt und ist in Deutschland eher selten bis mäßig verbreitet. Die öffentliche Resonanz scheint vor allem namenskundlich interessiert, nicht stark emotional oder trendgetrieben.",
+  "practical_notes": [
+    "Für Suchmaschinen-Nutzer ist Curt vor allem als kurze, klassische Namensform leicht einzuordnen.",
+    "Die Schreibweise mit C wirkt markant und etwas ungewöhnlicher als Kurt.",
+    "Die Quellenlage spricht eher für eine nüchterne, informative Resonanz als für starke Trend- oder Imageeffekte."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt fast ausschließlich aus Namenslexika; echte öffentliche Debatte ist nur schwach erkennbar.",
+    "Einzelne Beschreibungen können Tradition, Herkunft oder Bedeutungsdeutung stärker betonen als tatsächliche Alltagswahrnehmung."
+  ],
+  "short_summary": "Curt wird überwiegend neutral und klassisch wahrgenommen: kurz, markant und eher selten, mit Bezügen zu Konrad/Kurt und einer altsprachlich-namenskundlichen Einordnung.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Curt � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/C/Cu/Curt/"
+    },
+    {
+      "confidence": 0.94,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Curt: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Curt.html"
+    }
+  ],
+  "style_effect": [
+    "kurz und markant",
+    "klassisch-raumhaft",
+    "altsprachlich/namenskundlich",
+    "eher nüchtern als verspielt",
+    "selten bis mäßig verbreitet"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Eher gering bis mittel: als bekannter, aber nicht sehr häufiger Vorname wahrnehmbar."
+}

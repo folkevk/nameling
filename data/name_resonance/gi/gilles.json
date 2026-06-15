@@ -1,0 +1,58 @@
+{
+  "associations": [
+    "französische Kurzform bzw. französische Namensform",
+    "altgriechische Herkunft",
+    "Bedeutung: Schildträger/Schildhalter",
+    "selten in Deutschland",
+    "Namenstag am 1. September"
+  ],
+  "confidence": 0.84,
+  "display_text": "Gilles wirkt in Deutschland eher selten, französisch und international. Die vorhandene Evidenz zeigt vor allem eine sachliche, namenskundliche Rezeption mit neutraler Tendenz; klare starke Wertungen sind nicht erkennbar.",
+  "evidence_quality": "eher schwach bis mittel; überwiegend lexikalische Namensseiten, kaum öffentliche Meinungsäußerungen",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Gilles",
+  "normalized_name": "gilles",
+  "overall_resonance": "Die öffentliche Resonanz zu „Gilles“ wirkt in Deutschland eher ruhig, neutral und vor allem namenskundlich geprägt. Der Name wird meist als französische Form mit internationalem Klang und seltener Verbreitung beschrieben; starke positive oder negative Alltagsassoziationen sind in der vorliegenden Evidenz kaum erkennbar.",
+  "practical_notes": [
+    "Für Suchende wirkt der Name eher klassisch-international als modern oder trendig.",
+    "In Deutschland dürfte die Aussprache und Schreibweise meist verständlich sein, aber der Name bleibt relativ ungewöhnlich.",
+    "Die öffentliche Einordnung ist derzeit eher sachlich als emotional aufgeladen."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist schwach, weil sie überwiegend aus Namenslexika besteht und kaum echte öffentliche Diskussionsdynamik zeigt.",
+    "Aus der Quelle lässt sich keine belastbare gesellschaftliche Wertung ableiten.",
+    "Eine Seltenheitswahrnehmung ist beschrieben, aber nicht gleichzusetzen mit allgemeiner Bekanntheit oder Bewertung."
+  ],
+  "short_summary": "„Gilles“ wird in Deutschland vor allem als seltener, französisch geprägter und neutral wahrgenommener Vorname beschrieben.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Gilles � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/G/Gi/Gilles/"
+    },
+    {
+      "confidence": 0.92,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Gilles: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Gilles.html"
+    }
+  ],
+  "style_effect": [
+    "französisch und international wirkend",
+    "kurz, weich und eher elegant wahrgenommen",
+    "seltenheit kann eigenständig und markant wirken",
+    "namenskundlich statt popkulturell aufgeladen"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland eher selten und dadurch auffälliger als geläufig; die Sichtbarkeit entsteht vor allem über Namenslexika und Bedeutungsseiten, nicht über breite öffentliche Diskussionen."
+}

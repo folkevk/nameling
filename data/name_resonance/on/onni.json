@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "finnischer Jungenname",
+    "Bedeutung: Glück / der Glückliche",
+    "altfinnische Herkunft",
+    "Namenstag",
+    "in Finnland deutlich geläufiger als in Deutschland",
+    "selten bis moderat in Deutschland"
+  ],
+  "confidence": 0.9,
+  "display_text": "Onni wirkt in Deutschland eher selten, aber freundlich und international. Die öffentliche Beschreibung ist vor allem sachlich-informativ; meist werden finnische Herkunft und die positive Bedeutung „der Glückliche“ genannt. Eine breitere öffentliche Debatte ist nicht erkennbar.",
+  "evidence_quality": "mittel bis schwach: zwei einschlägige Namenslexikon-Quellen, aber keine breitere öffentliche Debatten- oder Medienresonanz",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Onni",
+  "normalized_name": "onni",
+  "overall_resonance": "Vorwiegend sachlich-informativ mit leicht positiver Färbung durch die Bedeutung „der Glückliche“. In der öffentlichen Namensbeschreibung wirkt Onni eher freundlich, kurz und international; eine breite gesellschaftliche Debatte ist jedoch nicht erkennbar.",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt Onni kurz, markant und ungewöhnlich, aber nicht sperrig.",
+    "Die Wahrnehmung dürfte in Deutschland eher erklärungsbedürftig sein, weil der Name hier weniger verbreitet ist.",
+    "Die öffentliche Resonanz ist insgesamt eher neutral bis freundlich, nicht polarisiert."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz basiert nur auf Namenslexikon-Quellen und ist damit begrenzt.",
+    "Es gibt keine belastbaren Hinweise auf eine breitere öffentliche Diskussion oder starke gesellschaftliche Zuschreibungen.",
+    "Die positive Bedeutung sollte nicht als Aussage über konkrete Personen verstanden werden."
+  ],
+  "short_summary": "Onni wird öffentlich vor allem sachlich als finnischer, seltener Vorname mit der positiven Bedeutung „der Glückliche“ wahrgenommen. Die Evidenz ist jedoch begrenzt und zeigt keine breite Resonanz außerhalb von Namenslexika.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Onni � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/O/On/Onni/"
+    },
+    {
+      "confidence": 0.9,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Onni: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Onni.html"
+    }
+  ],
+  "style_effect": [
+    "kurz und prägnant",
+    "international wirkend",
+    "namenskundlich",
+    "freundlich-positiv konnotiert",
+    "seltenheitsbedingt eigenständig"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Eher gering bis moderat in Deutschland; die vorliegende Evidenz deutet auf eine eher seltene, aber bekannte Namensform hin. Außerhalb von Namenslexika ist die öffentliche Präsenz offenbar begrenzt."
+}

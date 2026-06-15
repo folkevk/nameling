@@ -1,0 +1,59 @@
+{
+  "associations": [
+    "finnische Kurz- bzw. Formbeziehung zu Jeremias/Jeremia",
+    "hebräische Bedeutung im Sinn von „Gott erhöht“ / „Jahwe erhöht“",
+    "männlicher Vorname",
+    "Namenstag- und Herkunftsbezug",
+    "selten bis mäßig verbreitet in Deutschland"
+  ],
+  "confidence": 0.78,
+  "display_text": "Jarno wirkt in den vorliegenden Quellen überwiegend positiv bis neutral. Der Name wird vor allem sachlich über Herkunft und Bedeutung eingeordnet und als kurz, nordisch geprägt und eher selten wahrgenommen. Eine breite öffentliche Meinung lässt sich daraus nur eingeschränkt ableiten.",
+  "evidence_quality": "mittel bis schwach; klare Namensdiskussion, aber nur wenige Quellen und keine repräsentative öffentliche Meinungsbasis",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Jarno",
+  "normalized_name": "jarno",
+  "overall_resonance": "Jarno wirkt in den vorliegenden Quellen überwiegend positiv bis neutral: Der Name wird vor allem sachlich über Herkunft, Bedeutung und Namenstag eingeordnet und teils als eigenständig, finnisch geprägt und sympathisch wahrgenommen. Eine breitere öffentliche Mehrheitsmeinung lässt sich daraus aber nur eingeschränkt ableiten.",
+  "practical_notes": [
+    "Für Suchmaschinen-Nutzer ist Jarno vor allem als kurzer, klarer und ungewöhnlicher Vorname einzuordnen.",
+    "Der Name dürfte in Deutschland verständlich, aber nicht extrem häufig sein.",
+    "Die Aussprache und Schreibweise wirken unkompliziert, der Klang eher nordisch als klassisch-deutsch."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz basiert nur auf zwei Namensseiten; daraus lässt sich keine belastbare allgemeine Bevölkerungsresonanz ableiten.",
+    "Ein Teil der positiven Wirkung stammt aus redaktionellen Beschreibungen und einzelnen Kommentaren, nicht aus einer repräsentativen Umfrage.",
+    "Mögliche Eigenwerbung oder kuratierte Darstellung der Quellen kann die Wahrnehmung etwas schöner erscheinen lassen als im Alltag üblich."
+  ],
+  "short_summary": "Jarno wird in den verfügbaren Quellen überwiegend freundlich und sachlich beschrieben: ein seltener, nordisch wirkender Jungenname mit positiver Bedeutung und eher unaufdringlicher, moderner Ausstrahlung.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.88,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Jarno � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/J/Ja/Jarno/"
+    },
+    {
+      "confidence": 0.9,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Jarno: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Jarno.html"
+    }
+  ],
+  "style_effect": [
+    "finnisch-nordisch wirkend",
+    "kurz und prägnant",
+    "modern-sachlich",
+    "eigenständig und markant",
+    "eher selten als massenhaft"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Eher selten bis mäßig verbreitet und dadurch nicht stark alltagspräsent; in Namensdatenbanken und Namensseiten jedoch klar auffindbar und besprochen."
+}

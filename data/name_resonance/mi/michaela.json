@@ -1,0 +1,65 @@
+{
+  "associations": [
+    "weiblicher Vorname",
+    "biblische Herkunft",
+    "hebräische Bedeutung",
+    "Form von Michael",
+    "Namenstag",
+    "früher beliebt",
+    "heute seltener",
+    "Kurzformen und Varianten",
+    "Songbezug aus den 1970er Jahren"
+  ],
+  "confidence": 0.89,
+  "display_text": "Michaela wird in den Quellen überwiegend sachlich und leicht positiv beschrieben: ein klassischer, vertrauter und eher traditioneller Vorname mit biblisch-hebrischer Herkunft. Heute wirkt der Name eher seltener als früher, bleibt aber gut bekannt und klar weiblich lesbar.",
+  "evidence_quality": "mittel bis gut: zwei einschlägige Namensquellen mit klarer Namensdiskussion, aber wenig unabhängige öffentliche Resonanz außerhalb von Namenslexika.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Michaela",
+  "normalized_name": "michaela",
+  "overall_resonance": "Michaela wird in der vorhandenen Evidenz überwiegend sachlich und eher positiv-konnotiert wahrgenommen: als klassischer, traditioneller und gut einordenbarer weiblicher Vorname mit biblisch-hebräischer Herkunft. Die öffentliche Rezeption wirkt heute eher ruhig und weniger trendig als früher, aber weiterhin vertraut und etabliert.",
+  "practical_notes": [
+    "Für eine Namenssuche passt Michaela gut, wenn ein klassischer und klar weiblich lesbarer Name gesucht wird.",
+    "Der Name wirkt eher traditionell als trendig.",
+    "Kurzformen und Varianten sind gebräuchlich und können die Wahrnehmung etwas lockern."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt fast nur aus Namensseiten; echte öffentliche Diskussion außerhalb dieser Quellen ist nur schwach belegt.",
+    "Beliebtheits- und Wirkungseindrücke sollten vorsichtig gelesen werden, da sie eher beschreibend als breit diskursiv sind.",
+    "Keine belastbaren Hinweise auf Stigmatisierung in der vorliegenden Evidenz."
+  ],
+  "short_summary": "Michaela wirkt in Deutschland als klassischer, vertrauter und eher traditionell geprägter Vorname mit biblisch-hebräischer Herkunft; heute eher seltener, aber weiterhin gut bekannt.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Michaela � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/M/Mi/Michaela/"
+    },
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Michaela: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Michaela.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "traditionell",
+    "seriös",
+    "vertraut",
+    "zeitlos",
+    "eher wenig modern-modisch",
+    "leicht nostalgisch"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland ist der Name bekannt und leicht wiedererkennbar, wirkt aber nach den Quellen eher nicht mehr stark im aktuellen Trend. Die Sichtbarkeit erscheint vor allem über Namenslexika, Beliebtheitsangaben und Herkunftsseiten gegeben."
+}

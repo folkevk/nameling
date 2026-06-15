@@ -1,0 +1,63 @@
+{
+  "associations": [
+    "nordisch",
+    "norddeutsch",
+    "skandinavisch",
+    "altdeutsch",
+    "kurz",
+    "selten",
+    "traditionell",
+    "Bedeutung: frei / adelig / waghalsig / kühn",
+    "eher sachlich-klassisch"
+  ],
+  "confidence": 0.84,
+  "display_text": "Knut wird meist als kurzer, nordisch geprägter und traditioneller Vorname wahrgenommen. Die Resonanz ist überwiegend neutral bis leicht positiv; der Name gilt als selten, markant und eher klassisch als modern.",
+  "evidence_quality": "mittel: mehrere einschlägige Namensquellen, aber insgesamt begrenzte und teils schwache Web-Evidenz",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Knut",
+  "normalized_name": "knut",
+  "overall_resonance": "Der Vorname Knut wird in den vorliegenden Quellen überwiegend sachlich bis leicht positiv beschrieben: nordisch, kurz, traditionell und mit klarer Namensbedeutung. Die öffentliche Wahrnehmung wirkt eher markant als modisch.",
+  "practical_notes": [
+    "Für eine Namenssuche eignet sich Knut vor allem, wenn ein kurzer, eigenständiger und traditionell-nordischer Klang gewünscht ist.",
+    "Die Seltenheit kann als Plus für Wiedererkennung wirken.",
+    "Die Bedeutung wird in Quellen unterschiedlich, aber ähnlich positiv beziehungsweise kraftvoll beschrieben."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist nur mittelstark, da sie auf wenigen Webquellen basiert.",
+    "Einige Aussagen zur Wirkung sind interpretationsbasiert und nicht als allgemeine Wahrheit zu verstehen.",
+    "Es werden keine belastbaren Hinweise auf soziale Stigmatisierung oder negative Klischees sichtbar."
+  ],
+  "short_summary": "Knut wirkt in der öffentlichen Namenswahrnehmung kurz, nordisch und traditionsnah; selten, eher markant, mit überwiegend neutral bis leicht positiver Resonanz.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Knut � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/K/Kn/Knut/"
+    },
+    {
+      "confidence": 0.91,
+      "is_name_discussion": true,
+      "sentiment": "eher positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Knut: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Knut.html"
+    }
+  ],
+  "style_effect": [
+    "kurz und prägnant",
+    "nordisch/skandinavisch geprägt",
+    "traditionell und etwas altsprachlich",
+    "markant, bodenständig",
+    "selten statt modisch"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland ist Knut eher selten und dadurch auffälliger als häufige Standardnamen. Er ist als bekannter, aber nicht alltäglicher Vorname sichtbar."
+}

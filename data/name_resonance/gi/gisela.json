@@ -1,0 +1,62 @@
+{
+  "associations": [
+    "althochdeutscher/fränkischer Ursprung",
+    "Bedeutung in den Quellen: u. a. „die junge Adelige“ bzw. altdeutsche Bedeutungsdeutung",
+    "historische Namensfigur wie Kaiserin Gisela",
+    "früher in Deutschland verbreiteter",
+    "heute eher selten",
+    "teilweise mit älterer Generation assoziiert",
+    "Spitzform „Gisi“ wird genannt"
+  ],
+  "confidence": 0.93,
+  "display_text": "Gisela gilt als klassischer, historisch geprägter Vorname mit heute eher seltener Nutzung. Die öffentliche Resonanz ist überwiegend sachlich-neutral bis leicht nostalgisch; manchmal wird der Name als traditionell und eher altmodisch wahrgenommen, zugleich aber als freundlich und namenskundlich interessant.",
+  "evidence_quality": "gut: zwei namenskundliche Webquellen mit klarer Namensdiskussion; überwiegend konsistente, aber teils subjektive Einschätzungen",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Gisela",
+  "normalized_name": "gisela",
+  "overall_resonance": "überwiegend traditionell-historisch, eher sachlich bis leicht nostalgisch",
+  "practical_notes": [
+    "Für Suchmaschinen wirkt der Name klar verständlich und kulturell verankert.",
+    "Die öffentliche Resonanz ist eher freundlich-neutral als stark emotional.",
+    "Durch die Seltenheit heute kann der Name als klassisch und eigenständig wahrgenommen werden."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Einige Deutungen und Bewertungen stammen aus Namenslexika und Nutzerkommentaren, daher eher als öffentliche Wahrnehmung denn als objektive Eigenschaft lesen.",
+    "Die Wahrnehmung als „Großmütterchen“-artig ist eine subjektive, nicht allgemeingültige Einschätzung.",
+    "Keine belastbaren Hinweise auf soziale Stigmatisierung in der Evidenz."
+  ],
+  "short_summary": "Gisela wird öffentlich vor allem als klassischer, historisch geprägter und heute eher seltener Vorname wahrgenommen. Die Resonanz ist überwiegend neutral bis leicht nostalgisch; einzelne Quellen verbinden den Namen mit einer älteren, traditionellen Anmutung.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Gisela � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/G/Gi/Gisela/"
+    },
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "mixed",
+      "source_type": "web",
+      "title": "&#9655; Vorname Gisela: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Gisela.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "traditionell",
+    "namenskundlich",
+    "historisch",
+    "leicht nostalgisch",
+    "freundlich, aber nicht besonders modern"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "im deutschsprachigen Raum bekannt, heute eher selten und dadurch weniger präsent als moderne Trendnamen"
+}

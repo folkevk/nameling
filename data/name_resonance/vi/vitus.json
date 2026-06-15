@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "lateinische Herkunft",
+    "Bedeutung oft als „der Lebendige“ bzw. „der Lebensvolle“ angegeben",
+    "mögliche alternative Herleitung im Umfeld von „Wald/Holz“ wird vereinzelt erwähnt",
+    "christlicher Heiliger bzw. Märtyrer",
+    "Namenstag am 15. Juni",
+    "traditioneller, mittelalterlich geprägter Vorname"
+  ],
+  "confidence": 0.84,
+  "display_text": "Vitus wird überwiegend neutral bis leicht positiv wahrgenommen: klassisch, selten und mit christlich-historischem Hintergrund. Die Quellen nennen meist die Bedeutung „der Lebendige“, einen Namenstag am 15. Juni und eine eher geringe Häufigkeit in Deutschland. Da die Evidenz fast nur aus Namenslexika stammt, ist die Einordnung vorsichtig zu lesen.",
+  "evidence_quality": "mittel bis schwach: überwiegend lexikalische Namensquellen, wenig breite öffentliche Resonanzdaten",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Vitus",
+  "normalized_name": "vitus",
+  "overall_resonance": "Vitus wird in den vorliegenden Quellen überwiegend sachlich bis leicht positiv wahrgenommen. Der Name wirkt traditionell, gebräuchlich aus dem kirchlich-historischen Kontext und insgesamt eher selten, aber bekannt.",
+  "practical_notes": [
+    "Für die Suchoberfläche eignet sich eine knappe Einordnung als klassischer, seltener Vorname mit historischem Hintergrund.",
+    "Die Wahrnehmung ist eher neutral bis freundlich, ohne starke aktuelle Trendwirkung.",
+    "Keine sozialen Stigmatisierungen erkennbar, aber die Datenbasis ist klein."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt fast ausschließlich aus Namenslexika und einer einzelnen Namensdatenbank.",
+    "Die Etymologie wird in den Quellen nicht ganz einheitlich dargestellt.",
+    "Aussagen zur öffentlichen Resonanz sind deshalb nur vorsichtig ableitbar."
+  ],
+  "short_summary": "Vitus wirkt als klassischer, seltener und eher positiv konnotierter Vorname mit christlich-historischem Bezug; die Datenlage zur öffentlichen Resonanz ist jedoch begrenzt.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Vitus � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/V/Vi/Vitus/"
+    },
+    {
+      "confidence": 0.94,
+      "is_name_discussion": true,
+      "sentiment": "neutral bis leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Vitus: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Vitus.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "historisch",
+    "kirchlich geprägt",
+    "eher selten",
+    "ruhig und klar",
+    "bildungsnah wirkend"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Eher bekannt, jedoch in Deutschland nicht sehr häufig. Die öffentliche Sichtbarkeit wirkt vor allem lexikalisch und namenkundlich, weniger als moderner Massennamen."
+}

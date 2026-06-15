@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "lateinisch-römische Herkunft",
+    "Bedeutung im Umfeld von Mars/„dem Mars geweiht“",
+    "weibliche Form zu Martin",
+    "Namenstag am 30. Januar und 11. November",
+    "früher in Deutschland sehr beliebt",
+    "heute seltener",
+    "generationsbezogene Nostalgie"
+  ],
+  "confidence": 0.87,
+  "display_text": "Martina wird in Deutschland meist als klassischer, vertrauter und klar weiblicher Vorname wahrgenommen. Die Wirkung ist eher traditionell und leicht nostalgisch; heute ist der Name bekannt, aber nicht mehr besonders häufig. Die verfügbare Evidenz stammt vor allem aus Namenslexika und ist daher gut für Bedeutung und Einordnung, aber nur begrenzt für breite öffentliche Resonanz.",
+  "evidence_quality": "gut für Herkunft, Bedeutung und grobe Wahrnehmung; begrenzt für echte breite Alltagsresonanz",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Martina",
+  "normalized_name": "martina",
+  "overall_resonance": "Martina wird in Deutschland überwiegend als klassischer, vertrauter und klar weiblicher Vorname wahrgenommen. Die öffentliche Rezeption wirkt eher sachlich bis leicht positiv, mit einer spürbaren historischen Einordnung: früher häufiger, heute deutlich seltener.",
+  "practical_notes": [
+    "Für eine öffentliche Namenssuche eignet sich Martina als unproblematisch und gut verständlich.",
+    "Der Name wirkt eher klassisch als modern oder modisch.",
+    "In Deutschland ist die Bekanntheit hoch, die aktuelle Häufigkeit aber eher niedriger als früher."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt fast ausschließlich aus Namenslexika; direkte öffentliche Resonanz ist daher nur begrenzt ablesbar.",
+    "Positive Kommentare auf Namensseiten können Einzelmeinungen sein und sollten nicht verallgemeinert werden."
+  ],
+  "short_summary": "Martina gilt in Deutschland als klassischer, vertrauter Vorname mit traditioneller und leicht nostalgischer Wirkung. Die aktuelle Sichtbarkeit ist eher geringer, die Evidenz zur öffentlichen Resonanz ist aber überwiegend lexikalisch und nur begrenzt breit.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.99,
+      "is_name_discussion": true,
+      "sentiment": "mixed",
+      "source_type": "web",
+      "title": "Vorname Martina � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/M/Ma/Martina/"
+    },
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "neutral bis leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Martina: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Martina.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "traditionell",
+    "zeitlos",
+    "etwas nostalgisch",
+    "namenskundlich klar eingeordnet"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Mittlere bis eher geringe aktuelle Sichtbarkeit im Alltag; der Name ist bekannt, aber nicht mehr besonders trendig."
+}

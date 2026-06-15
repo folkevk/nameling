@@ -1,0 +1,62 @@
+{
+  "associations": [
+    "altnordische Herkunft",
+    "Bedeutung: der junge Mann / der Jüngling / der junge Krieger",
+    "Skandinavien",
+    "Wikinger- bzw. nordische Mythologie-Bezüge",
+    "Beliebtheit in Deutschland",
+    "Namenstag am 4. September",
+    "historische Hochphase in den 1960er- bis 1980er-Jahren"
+  ],
+  "confidence": 0.94,
+  "display_text": "Sven wirkt in Deutschland überwiegend klassisch und sympathisch-sachlich: ein vertrauter, nordisch geprägter Vorname mit klarer Bedeutung und solider Bekanntheit. Die Quellen betonen vor allem Herkunft, Namenstag und die frühere Beliebtheit, nicht aber eine starke aktuelle Trendresonanz.",
+  "evidence_quality": "hoch: zwei klare, namebezogene, lexikalische Quellen mit konsistenter positiver bzw. sachlich-positiver Darstellung.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Sven",
+  "normalized_name": "sven",
+  "overall_resonance": "Überwiegend positiv-sachlich: Sven wird in den Quellen als klassischer, nordisch geprägter Vorname mit klarer Namensbedeutung und solider Bekanntheit in Deutschland beschrieben.",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt Sven vertraut, unkompliziert und gut einordbar.",
+    "Der Name hat eine klare, leicht erklärbare Herkunft und Bedeutung.",
+    "Als eher klassischer Name ist Sven weniger auffällig als neuere Trendnamen."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die vorliegende Evidenz ist vor allem namenkundlich und beschreibend; sie belegt keine starke aktuelle öffentliche Trendresonanz.",
+    "Mögliche historische Altersassoziationen in Deutschland lassen sich aus der Beliebtheitsphase ableiten, sind aber keine feste Eigenschaft des Namens.",
+    "Keine Hinweise auf soziale Stigmatisierung in der Evidenz."
+  ],
+  "short_summary": "Sven ist ein gut bekannter, klassischer nordischer Vorname mit positiver, sachlicher Wahrnehmung und klarer Bedeutung.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "Vorname Sven � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/S/Sv/Sven/"
+    },
+    {
+      "confidence": 0.99,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Sven: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Sven.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "nordisch",
+    "traditionsnah",
+    "eher zeitlos als modisch",
+    "informativ/lexikalisch",
+    "männlich-kurz und klar"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland gut bekannt, mit stärkster historischer Präsenz in den 1960er- bis 1980er-Jahren; heute eher als vertrauter, klassischer Vorname wahrgenommen als als aktueller Trendname."
+}

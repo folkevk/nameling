@@ -1,0 +1,63 @@
+{
+  "associations": [
+    "deutscher Mädchenvorname",
+    "Doppelform aus Anne und Gret/Grete",
+    "Bedeutung: „die anmutige Perle“",
+    "altgriechische und althebräische Herleitung",
+    "Namenstag",
+    "früher häufiger, heute selten",
+    "Spitznamen wie Anne, Greta, Grete, Gretel"
+  ],
+  "confidence": 0.78,
+  "display_text": "Annegret ist ein traditioneller, klar deutsch wirkender Mädchenvorname. In den Quellen erscheint er sachlich bis leicht positiv, vor allem wegen der schönen Bedeutungsdeutung („die anmutige Perle“). Gleichzeitig ist der Name heute eher selten, sodass die öffentliche Resonanz ruhig und wenig auffällig wirkt.",
+  "evidence_quality": "mittel bis schwach: zwei namenskundliche Webquellen, informativ zur Herkunft und Einordnung, aber nur indirekte Hinweise auf öffentliche Resonanz",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Annegret",
+  "normalized_name": "annegret",
+  "overall_resonance": "Eher traditionell und freundlich-sachlich, mit leicht positivem Beiklang durch die Bedeutungsdeutung; die öffentliche Resonanz wirkt insgesamt aber eher ruhig und nicht stark präsent.",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt Annegret klar deutsch, vertraut und traditionell.",
+    "Der Name vermittelt eher Beständigkeit als Modernität.",
+    "Aufgrund der Seltenheit kann er als markant oder zeittypisch älter wahrgenommen werden."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz zur öffentlichen Resonanz ist schwach und stammt vor allem aus Namenslexika.",
+    "Beliebtheit und historische Einordnung sagen nur indirekt etwas über Wahrnehmung aus.",
+    "Einzelne positive Formulierungen in den Quellen sollten nicht als breiter gesellschaftlicher Konsens gelesen werden."
+  ],
+  "short_summary": "Annegret wirkt traditionell, freundlich und eher selten gebraucht. Die öffentliche Rezeption erscheint sachlich bis leicht positiv, ohne starke aktuelle Sichtbarkeit.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.92,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Annegret � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/A/An/Annegret/"
+    },
+    {
+      "confidence": 0.91,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Annegret: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Annegret.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "traditionell",
+    "eher altbekannt",
+    "leicht nostalgisch",
+    "selten",
+    "sachlich",
+    "weich im Klang"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Im deutschsprachigen Raum bekannt, heute jedoch eher selten und damit nicht besonders sichtbar im aktuellen Namensgebrauch."
+}

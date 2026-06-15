@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "Kurzform von Linnea",
+    "Bedeutung „die Neue“",
+    "Moosglöckchen",
+    "schwedische bzw. altschwedische Herkunft",
+    "griechischer Bezug zu „neu“",
+    "weiblicher Vorname",
+    "selten in Deutschland"
+  ],
+  "confidence": 0.78,
+  "display_text": "Nea wirkt in den vorliegenden Quellen kurz, modern und eher positiv besetzt. Der Name wird vor allem als selten beschrieben und mit Bedeutungen wie „die Neue“ sowie schwedischen bzw. griechischen Namensbezügen verbunden. Eine breite öffentliche Diskussion ist nicht erkennbar; die Evidenz ist jedoch begrenzt.",
+  "evidence_quality": "Begrenzt bis mittel: zwei einschlägige Namensquellen, insgesamt sachlich und überwiegend konsistent, aber keine breite öffentliche Diskussion oder viele unabhängige Stimmen.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Nea",
+  "normalized_name": "nea",
+  "overall_resonance": "Nea wird in den vorliegenden deutschsprachigen Namensquellen überwiegend sachlich bis leicht positiv beschrieben. Der Name wirkt kurz, modern und eher selten, mit Assoziationen wie „die Neue“, schwedische Herkunft bzw. Kurzform von Linnea und teils auch griechische Bezüge. Eine breite öffentliche Debatte ist in der Evidenz nicht erkennbar.",
+  "practical_notes": [
+    "Für eine Namenssuche eignet sich Nea als kurzer, international anschlussfähiger Name.",
+    "Die Schreibweise ist simpel, kann aber wegen der Kürze gelegentlich nachgefragt werden.",
+    "Die Bedeutung und Herkunft werden in Quellen unterschiedlich dargestellt; das ist bei der Einordnung zu beachten."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz basiert nur auf wenigen Namenslexikon-Seiten, daher ist die öffentliche Resonanz nur eingeschränkt belastbar.",
+    "Einzelne positive Formulierungen stammen aus redaktionellen oder nutzerbasierten Texten und sollten nicht als allgemeine Mehrheitsmeinung verstanden werden.",
+    "Es gibt keinen Hinweis auf eine gesellschaftliche Stigmatisierung des Namens in der vorliegenden Evidenz."
+  ],
+  "short_summary": "Nea wird in den Quellen als seltener, kurzer und eher positiv konnotierter Mädchenname beschrieben, meist mit Bedeutungen wie „die Neue“ oder Bezügen zu Linnea und schwedischer Herkunft.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Nea � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/N/Ne/Nea/"
+    },
+    {
+      "confidence": 0.88,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Nea: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Nea.html"
+    }
+  ],
+  "style_effect": [
+    "kurz und klar",
+    "modern wirkend",
+    "eher weich und freundlich im Klang",
+    "selten, dadurch individuell",
+    "namenskundlich aufgeladen durch mehrere Herkunftsdeutungen"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Eher selten und in Deutschland nicht sehr verbreitet; dadurch wirkt der Name auffällig, aber nicht stark öffentlich diskutiert."
+}

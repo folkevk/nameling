@@ -1,0 +1,59 @@
+{
+  "associations": [
+    "englischer bzw. altenglischer Vorname",
+    "Bedeutung: Sohn von William / Sohn des Will",
+    "Familienname als Vorname",
+    "in Deutschland seit den 1990er Jahren vergeben",
+    "Namenstag: 10. Oktober"
+  ],
+  "confidence": 0.71,
+  "display_text": "Wilson wirkt in Deutschland eher modern, international und neutral bis leicht positiv. Er ist eher selten bis mäßig verbreitet; die vorliegende Evidenz ist jedoch schwach und besteht vor allem aus sachlichen Namensbeschreibungen.",
+  "evidence_quality": "mittel bis schwach: zwei überwiegend lexikalische Quellen, klare Namenszuordnung, aber wenig echte öffentliche Resonanz",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Wilson",
+  "normalized_name": "wilson",
+  "overall_resonance": "Wilson wirkt in Deutschland eher modern, englisch geprägt und insgesamt neutral bis leicht positiv wahrgenommen. Die öffentliche Rezeption ist jedoch nur schwach belegt, da die vorliegenden Quellen vor allem sachliche Namensbeschreibungen liefern.",
+  "practical_notes": [
+    "Für Suchmaschinen-Nutzung eignet sich Wilson als klar internationaler Name mit kurzer, gut verständlicher Form.",
+    "Die Wahrnehmung dürfte vor allem von der englischen Klangwirkung und der seltenen bis mäßigen Verbreitung geprägt sein.",
+    "Da die öffentliche Meinungsbasis dünn ist, sollte man den Eindruck nicht überbewerten."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt fast ausschließlich aus Namenslexika, nicht aus breiten öffentlichen Debatten.",
+    "Daher ist die Aussage zur Resonanz nur vorsichtig interpretierbar.",
+    "Es liegen keine Hinweise auf starke soziale Stigmatisierung oder problematische Konnotationen vor."
+  ],
+  "short_summary": "Wilson ist in Deutschland ein eher seltener, englisch klingender Vorname mit neutral bis leicht positiver Wirkung. Die Belege sind vor allem beschreibend, daher ist die öffentliche Resonanz nur vorsichtig abschätzbar.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Wilson � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/W/Wi/Wilson/"
+    },
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Wilson: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Wilson.html"
+    }
+  ],
+  "style_effect": [
+    "englisch/altenglisch klingend",
+    "modern und international",
+    "klar männlich gelesen",
+    "eher sachlich als modisch auffällig",
+    "kurz und markant"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Eher selten bis mäßig verbreitet und als Vorname bekannt, aber nicht stark im Alltag präsent. Die Sichtbarkeit in öffentlichen Namensdiskussionen ist gering."
+}

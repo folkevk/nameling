@@ -1,0 +1,63 @@
+{
+  "associations": [
+    "lateinischer Ursprung",
+    "Bedeutung in Richtung sanftmütig, mild oder gnädig",
+    "weiblicher Vorname",
+    "französische Schreibweise Clémentine",
+    "Namenstag am 21. Oktober",
+    "selten bis mäßig selten in Deutschland",
+    "kurze Spitznamen wie Tine, Cleo oder Clemi"
+  ],
+  "confidence": 0.76,
+  "display_text": "Clementine wirkt in Deutschland eher selten, klassisch und freundlich. Die vorhandenen Quellen zeigen überwiegend eine sachlich-positive Wahrnehmung, aber nur wenig direkte öffentliche Debatte.",
+  "evidence_quality": "mittel: gute beschreibende Namensquellen, aber wenig direkte öffentliche Resonanz außerhalb von Lexikon- und Datenbankeinträgen.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Clementine",
+  "normalized_name": "clementine",
+  "overall_resonance": "Die öffentliche Resonanz zu Clementine wirkt in Deutschland überwiegend sachlich und eher positiv, zugleich aber insgesamt eher schwach belegt. Der Name wird vor allem als selten, klassisch und sprachlich markant wahrgenommen.",
+  "practical_notes": [
+    "Für die Namenssuche ist Clementine ein ungewöhnlicher, aber gut einordbarer Name mit klarer historischer und sprachlicher Anmutung.",
+    "Die Schreibweise wirkt im Deutschen auffällig, bleibt aber verständlich und anschlussfähig.",
+    "Kurzformen und Spitznamen können den Namen alltagstauglicher machen."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt überwiegend aus Namenslexika und ähnlichen redaktionellen Seiten; direkte öffentliche Debatte ist nur indirekt erkennbar.",
+    "Die Wahrnehmung als selten oder einzigartig ist eine beschreibende Tendenz, keine allgemeingültige Aussage.",
+    "Keine belastbaren Hinweise auf gesellschaftliche Stigmatisierung in den vorliegenden Quellen."
+  ],
+  "short_summary": "Clementine wird in Deutschland eher selten, klassisch und freundlich-sachlich wahrgenommen. Die öffentliche Resonanz wirkt überwiegend positiv, ist aber nur indirekt und begrenzt belegt.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.83,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Clementine � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/C/Cl/Clementine/"
+    },
+    {
+      "confidence": 0.89,
+      "is_name_discussion": true,
+      "sentiment": "neutral bis leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Clementine: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Clementine.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "elegant",
+    "weich klingend",
+    "sprachlich markant",
+    "selten",
+    "leicht altmodisch",
+    "französisch assoziierbar"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Eher geringe Sichtbarkeit im Alltag; in Namensdatenbanken und Namenslexika präsent, aber ohne starke breite öffentliche Debatte."
+}

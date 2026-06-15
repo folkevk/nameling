@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "lateinischer Ursprung",
+    "Geburt Christi",
+    "Weihnachten",
+    "Wintersonnenwende",
+    "Namenstag",
+    "Namensvarianten",
+    "internationale Variante",
+    "Beliebtheit in Deutschland"
+  ],
+  "confidence": 0.84,
+  "display_text": "Natalia wirkt in Deutschland überwiegend positiv bis neutral: klassisch, international verständlich und mit einer warmen, teils weihnachtlichen Bedeutungsassoziation. Die vorliegende Evidenz ist vor allem sachlich-lexikalisch, daher ist die öffentliche Resonanz nur vorsichtig einzuordnen.",
+  "evidence_quality": "mittel bis schwach: zwei überwiegend sachliche Namensquellen, wenig echte Resonanzdaten, eher lexikalische Beschreibung als öffentliche Meinungsvielfalt.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Natalia",
+  "normalized_name": "natalia",
+  "overall_resonance": "Überwiegend positiv bis neutral-informativ. In der vorliegenden Evidenz wird Natalia vor allem als klassischer, international verständlicher Vorname mit positiver Bedeutungs- und Herkunftsdeutung beschrieben.",
+  "practical_notes": [
+    "Für eine Namenssuche ist Natalia ein gut anschlussfähiger, klassisch wirkender Name mit klarer Herkunftsdeutung.",
+    "Die festliche bzw. winterliche Assoziation kann als stimmig wahrgenommen werden, ist aber nicht für alle relevant.",
+    "Die Schreibweise ist im deutschen Kontext geläufig und leicht einordenbar."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist vor allem beschreibend und stammt aus Namenslexika; sie zeigt eher öffentliche Beschreibung als echte Meinungsresonanz.",
+    "Positive Tendenzen ergeben sich vor allem aus Bedeutungs- und Herkunftsdeutungen, nicht aus belastbaren breiten Meinungsdaten."
+  ],
+  "short_summary": "Natalia wird in Deutschland überwiegend positiv bis neutral wahrgenommen: klassisch, international und mit warmer, teils weihnachtlicher Bedeutungsassoziation. Die Evidenz ist jedoch vor allem beschreibend.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "Vorname Natalia � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/N/Na/Natalia/"
+    },
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Natalia: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Natalia.html"
+    }
+  ],
+  "style_effect": [
+    "klingt klassisch und feminin",
+    "wirkt international und gut anschlussfähig",
+    "hat eine warme, leicht festliche Assoziation",
+    "erscheint eher elegant als modern-experimentell",
+    "wird namenskundlich häufig sachlich beschrieben"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland wirkt der Name bekannt und etabliert, aber nicht als extrem alltagsdominanter Spitzenname. Die Wahrnehmung erscheint eher sachlich-wohlwollend als kontrovers."
+}

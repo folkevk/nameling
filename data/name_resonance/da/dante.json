@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "italienische Kurzform von Durante",
+    "lateinische Herkunft",
+    "Bedeutung: der Ausdauernde",
+    "Dante Alighieri / Weltliteratur",
+    "ungewöhnlich, aber etabliert",
+    "von manchen als schön und einzigartig, von anderen zunächst ungewohnt"
+  ],
+  "confidence": 0.83,
+  "display_text": "Dante wird in Deutschland meist als klangvoll, markant und eher ungewöhnlich wahrgenommen. Der Name hat eine starke italienisch-literarische Ausstrahlung und wirkt insgesamt eher neutral bis leicht positiv. Da die Evidenz vor allem aus Namenslexika stammt, ist die öffentliche Resonanz nur vorsichtig zu bewerten.",
+  "evidence_quality": "mittel bis gut: zwei explizite Namensquellen, aber nur begrenzte externe Resonanz und wenig unabhängige öffentliche Diskussion.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Dante",
+  "normalized_name": "dante",
+  "overall_resonance": "Dante wird in Deutschland insgesamt eher neutral bis leicht positiv wahrgenommen. Der Name wirkt für viele klangvoll, markant und international, zugleich aber nicht alltäglich und daher eher besonders als massenhaft verbreitet.",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt Dante in Deutschland präsent, aber nicht abgenutzt.",
+    "Die starke literarische und italienische Assoziation prägt die Wahrnehmung deutlich.",
+    "Der Name kann modern und charaktervoll wirken, ohne in der Alltagsnutzung zu häufig zu sein."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt überwiegend aus Namensdatenbanken und Namenslexika; echte öffentliche Debatten oder breit angelegte Meinungsdaten sind kaum vorhanden.",
+    "Die positive Tendenz ist daher vorsichtig zu lesen und beschreibt eher die übliche Namenswirkung als eine belastbare Gesamtstimmung."
+  ],
+  "short_summary": "Dante wirkt in Deutschland eher selten, klangvoll und leicht positiv konnotiert, mit starker literarisch-italienischer Prägung. Die Datenlage ist jedoch eher namenskundlich als öffentlich-diskursiv.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.94,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Dante � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/D/Da/Dante/"
+    },
+    {
+      "confidence": 0.95,
+      "is_name_discussion": true,
+      "sentiment": "überwiegend positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Dante: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Dante.html"
+    }
+  ],
+  "style_effect": [
+    "klangvoll",
+    "markant",
+    "international",
+    "literarisch aufgeladen",
+    "eher selten",
+    "moderne, eigenständige Wirkung"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Eher bekannt, aber nicht sehr häufig; dadurch fällt er auf, ohne stark erklärungsbedürftig zu sein."
+}

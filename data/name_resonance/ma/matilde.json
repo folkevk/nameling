@@ -1,0 +1,62 @@
+{
+  "associations": [
+    "Bedeutung: „die starke Kämpferin“ / „die im Kampf Mächtige“",
+    "althochdeutsche Herkunft",
+    "Variante von Mathilde/Mechthild",
+    "seltener als Mathilda und Tilda",
+    "Namenstag wird genannt",
+    "Spitznamen wie Tilde oder Tilly kommen vor"
+  ],
+  "confidence": 0.79,
+  "display_text": "Matilde wirkt in den verfügbaren Quellen traditionell, altdeutsch und eher selten. Die öffentliche Resonanz ist sachlich-neutral bis leicht positiv, vor allem wegen der starken Namensbedeutung und der klassischen Herkunft. Eine breite öffentliche Debatte ist nicht erkennbar; die Evidenz ist begrenzt.",
+  "evidence_quality": "Begrenzt: zwei namenkundliche Webquellen, sachlich und überwiegend neutral bis leicht positiv; keine breite öffentliche Resonanzmessung.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Matilde",
+  "normalized_name": "matilde",
+  "overall_resonance": "Matilde wird in den verfügbaren Quellen überwiegend sachlich-neutral bis leicht positiv beschrieben. Der Name wirkt traditionell, altdeutsch und eher selten, mit einer betonten Bedeutung von Stärke und Kampfesmut. Für Deutschland wird er als gelegentlich vergeben, aber weniger verbreitet als Mathilda oder Tilda eingeordnet.",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt Matilde eher klassisch als modisch.",
+    "Die Schreibweise mit -e am Ende kann als Variante zu Mathilde wahrgenommen werden.",
+    "In Deutschland dürfte der Name eher auffallen, ohne exzentrisch zu wirken."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist schmal und stützt sich nur auf Namenslexika bzw. einzelne Namensseiten.",
+    "Es gibt keine belastbare breite öffentliche Debatte oder repräsentative Wahrnehmungsdaten.",
+    "Positive oder traditionelle Konnotationen stammen vor allem aus der Namensbedeutung, nicht aus einer breiten medialen Resonanz."
+  ],
+  "short_summary": "Matilde wird in Deutschland eher selten, traditionell und leicht positiv wahrgenommen; die Quellen betonen Herkunft, Bedeutung und Varianten, liefern aber nur schmale Evidenz.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Matilde � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/M/Ma/Matilde/"
+    },
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Matilde: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Matilde.html"
+    }
+  ],
+  "style_effect": [
+    "traditionell",
+    "altdeutsch",
+    "klassisch",
+    "selten",
+    "weich im Klang",
+    "namenskundlich auffällig",
+    "leicht elegant"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Eher geringe bis mittlere Sichtbarkeit in Deutschland; die Evidenz deutet auf einen bekannten, aber seltenen Vornamen hin."
+}

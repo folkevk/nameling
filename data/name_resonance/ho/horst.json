@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "altdeutsche Herkunft",
+    "Bedeutung im Umfeld von Wald/Unterholz",
+    "früher in Deutschland verbreitet",
+    "heute selten",
+    "traditioneller Klang",
+    "teilweise Nebenassoziation durch die umgangssprachliche Verwendung von „Vollhorst“"
+  ],
+  "confidence": 0.91,
+  "display_text": "Horst wird meist als traditioneller, altdeutscher und heute eher seltener Vorname wahrgenommen. Die Wirkung ist eher sachlich-nostalgisch; zugleich kann eine umgangssprachliche Nebenassoziation die Rezeption etwas negativ färben.",
+  "evidence_quality": "mittel bis gut; zwei klare Namensquellen, aber insgesamt eher schmale Evidenzbasis und keine breite öffentliche Meinungsstreuung",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Horst",
+  "normalized_name": "horst",
+  "overall_resonance": "Der Vorname Horst wird öffentlich überwiegend als traditionell, altdeutsch und heute eher selten wahrgenommen. Die Resonanz wirkt sachlich bis leicht nostalgisch, mit teils humorvoller oder umgangssprachlicher Nebenfärbung.",
+  "practical_notes": [
+    "Für eine sachliche Namenssuche wirkt Horst klar historisch und markant.",
+    "Wer einen modernen, aktuell häufigen Namen sucht, könnte den Namen als eher generationstypisch oder selten empfinden.",
+    "Die öffentliche Rezeption ist nicht einheitlich negativ, aber durch die umgangssprachliche Nebenbedeutung etwas vorbelastet."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die negative Nebenassoziation ist eine gesellschaftliche Sprachverwendung und keine Eigenschaft des Namens selbst.",
+    "Die Evidenzlage ist begrenzt und stützt sich hier vor allem auf Namenslexika und wenige redaktionelle Quellen.",
+    "Leicht humorvolle oder ironische Konnotationen können im Einzelfall mitschwingen."
+  ],
+  "short_summary": "Horst gilt öffentlich als traditioneller, altdeutscher und heute seltener Vorname mit leicht nostalgischer Wirkung; eine umgangssprachliche negative Nebenassoziation kann die Wahrnehmung etwas belasten.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Horst � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/H/Ho/Horst/"
+    },
+    {
+      "confidence": 0.92,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Horst: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Horst.html"
+    }
+  ],
+  "style_effect": [
+    "kurz und traditionell",
+    "altdeutsch/historisch",
+    "etymologisch geprägt",
+    "teils nostalgisch",
+    "vereinzelt humorvoll oder umgangssprachlich konnotiert"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Historisch in Deutschland bekannt, heute im Alltag deutlich weniger präsent. In der öffentlichen Wahrnehmung ist der Name eher auffällig als zeittypisch."
+}

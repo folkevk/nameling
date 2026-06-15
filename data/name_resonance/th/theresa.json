@@ -1,0 +1,62 @@
+{
+  "associations": [
+    "griechische Herkunft",
+    "Bedeutung: von der Insel Thera stammend",
+    "deutungsnah auch mit Jägerin/Wilde/Erntearbeiterin/Sommer verknüpft",
+    "weiblicher Vorname",
+    "Namenstag am 1. und 15. Oktober",
+    "Varianten wie Teresa, Therese, Theresia",
+    "in Deutschland beliebt bzw. bekannt"
+  ],
+  "confidence": 0.87,
+  "display_text": "Theresa wirkt in der öffentlichen Darstellung klassisch, etabliert und eher positiv. Der Name ist in Deutschland bekannt und wird vor allem sachlich über Herkunft, Bedeutung, Namenstag und Beliebtheit beschrieben.",
+  "evidence_quality": "mittel bis gut: zwei klar namenskundliche, überwiegend sachliche Quellen; Resonanz ist indirekt aus Beschreibungen und Beliebtheitsangaben abgeleitet.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Theresa",
+  "normalized_name": "theresa",
+  "overall_resonance": "Theresa wird in der vorliegenden Evidenz überwiegend sachlich bis leicht positiv wahrgenommen. Der Name wirkt etabliert, klassisch und im deutschsprachigen Raum gut bekannt. Die öffentliche Darstellung fokussiert vor allem Herkunft, Bedeutung, Namenstag und Beliebtheit, nicht auf kontroverse Zuschreibungen.",
+  "practical_notes": [
+    "Für Suchmaschinen wirkt Theresa eher klassisch und positiv anschlussfähig.",
+    "Die Schreibweise ist im Deutschen klar verständlich; Varianten sind verbreitet.",
+    "Wenn ein moderner oder auffälliger Eindruck gesucht wird, könnte der Name als traditionell gelesen werden."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt fast nur aus Namenskatalogen und Infotexten; direkte öffentliche Debatten sind kaum sichtbar.",
+    "Beliebtheit sollte nicht mit allgemeiner Wertung verwechselt werden.",
+    "Keine Hinweise auf soziale Stigmatisierung in der vorliegenden Evidenz."
+  ],
+  "short_summary": "Theresa wird in den verfügbaren Quellen als klassischer, bekannter und eher positiv besetzter Mädchenname beschrieben – mit Fokus auf Herkunft, Bedeutung und Beliebtheit.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.91,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Theresa � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/T/Th/Theresa/"
+    },
+    {
+      "confidence": 0.94,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Theresa: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Theresa.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "zeitlos",
+    "weich klingend",
+    "traditionell",
+    "eher elegant",
+    "namenskundlich gut anschlussfähig"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland gut sichtbar und klar als gebräuchlicher Mädchenname eingeordnet; die Rezeption ist eher informativ als emotional aufgeladen."
+}

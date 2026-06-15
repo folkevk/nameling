@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "französische Herkunft",
+    "altfranzösische Bedeutung",
+    "Beliebtheit in Deutschland",
+    "ehemals häufig um die Jahrtausendwende",
+    "Namenstag",
+    "Vorurteile und Spott als gesellschaftliche Nebenassoziation"
+  ],
+  "confidence": 0.84,
+  "display_text": "Chantal: ein bekannter, französisch geprägter Vorname mit überwiegend neutraler Rezeption. Öffentlich tauchen teils Vorurteile und spöttische Nebenassoziationen auf, die jedoch als gesellschaftliche Zuschreibungen und nicht als Eigenschaft des Namens zu verstehen sind.",
+  "evidence_quality": "mittel: zwei überwiegend namenskundliche Quellen, sachlich und direkt zum Vornamen, aber ohne breite sozialwissenschaftliche oder repräsentative Evidenz",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Chantal",
+  "normalized_name": "chantal",
+  "overall_resonance": "Überwiegend neutral bis leicht gemischt: Chantal wird meist sachlich als französisch geprägter Vorname mit klarer Herkunft und Bedeutung beschrieben, zugleich tauchen in der öffentlichen Wahrnehmung vereinzelt soziale Vorurteile und spöttische Nebenassoziationen auf.",
+  "practical_notes": [
+    "Für Suchmaschinen- und Infotexte eignet sich eine nüchterne Beschreibung mit Herkunft, Bedeutung und Namenstag.",
+    "Bei der Einordnung sollte der Hinweis auf mögliche Stigmatisierung ausdrücklich als Vorurteil formuliert werden.",
+    "Der Name wirkt bekannt und etabliert, aber nicht eindeutig trendig.",
+    "Ein fairer Kurztext sollte sowohl die historische/linguistische Seite als auch die gemischte öffentliche Rezeption erwähnen."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz zur Gesamtresonanz ist nur mittelstark und beruht vor allem auf Namenslexika.",
+    "Negative Konnotationen erscheinen eher als gesellschaftliche Vorurteile als als Eigenschaft des Namens selbst.",
+    "Keine belastbare Aussage über die Wahrnehmung in allen Alters- oder Sozialgruppen möglich."
+  ],
+  "short_summary": "Chantal ist in Deutschland ein bekannter, französisch geprägter Vorname mit meist neutral-sachlicher Resonanz. Daneben gibt es vereinzelt gesellschaftliche Vorurteile und spöttische Nebenassoziationen, die als solche zu kennzeichnen sind.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "mixed",
+      "source_type": "web",
+      "title": "Vorname Chantal � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/C/Ch/Chantal/"
+    },
+    {
+      "confidence": 0.9,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Chantal: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Chantal.html"
+    }
+  ],
+  "style_effect": [
+    "französisch klingend",
+    "weiblich-weich im Klang",
+    "eher klassisch-moderne Wahrnehmung",
+    "namenskundlich klar einordenbar",
+    "öffentlich teils mit Vorurteilen belastet"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Der Name ist in Deutschland gut bekannt und öffentlich präsent, besonders durch seine zeitweise hohe Beliebtheit um die Jahrtausendwende."
+}

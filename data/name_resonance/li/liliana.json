@@ -1,0 +1,59 @@
+{
+  "associations": [
+    "Lilie",
+    "Reinheit",
+    "lateinische bzw. altgriechische und hebräische Bezüge",
+    "Namenstag",
+    "Beliebtheit in Deutschland",
+    "Varianten wie Lili, Lia, Lina"
+  ],
+  "confidence": 0.91,
+  "display_text": "Liliana hat öffentlich eine überwiegend positive Resonanz: Der Name wirkt weich, elegant und klassisch-feminin. In Deutschland ist er bekannt und gut einordenbar, aber nicht extrem häufig. Die Bedeutungen und Herkunftsangaben sind in den Quellen teils unterschiedlich interpretiert, insgesamt aber wertschätzend.",
+  "evidence_quality": "gut: mehrere direkt namenskundliche Quellen mit klarer Bezugnahme auf Bedeutung, Herkunft, Namenstag und Beliebtheit; einzelne Details sind jedoch teils unterschiedlich interpretiert.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Liliana",
+  "normalized_name": "liliana",
+  "overall_resonance": "Liliana wird öffentlich überwiegend freundlich, elegant und klangvoll wahrgenommen. In den vorliegenden Quellen erscheint der Name vor allem als klassischer, feminin wirkender Vorname mit positiven Bedeutungen und eher wertschätzender Namenswirkung.",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt Liliana insgesamt positiv, weich und international verständlich.",
+    "Die Quellenlage ist gut, aber eher namenskundlich als empirisch belastbar; daher sollte die Einordnung als Tendenz gelesen werden.",
+    "Im deutschen Kontext scheint der Name bekannt, aber nicht übermäßig häufig zu sein."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Bedeutungs- und Herkunftsangaben sind teils interpretationsabhängig und werden in den Quellen nicht ganz einheitlich dargestellt.",
+    "Es gibt keine Hinweise auf eine soziale Stigmatisierung des Namens; falls einzelne Bewertungen subjektiv wirken, spiegeln sie eher Namensgeschmack als harte Fakten wider."
+  ],
+  "short_summary": "Liliana wird in den Quellen überwiegend positiv, elegant und klangvoll beschrieben; der Name ist in Deutschland bekannt und wirkt eher klassisch-feminin als auffällig.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Liliana � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/L/Li/Liliana/"
+    },
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "positive",
+      "source_type": "web",
+      "title": "&#9655; Vorname Liliana: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Liliana.html"
+    }
+  ],
+  "style_effect": [
+    "weich und melodisch",
+    "elegant und feminin",
+    "klassisch-romantisch",
+    "namenskundlich aufgeladen",
+    "leicht international wirkend"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland ist Liliana gut auffindbar und als Vorname bekannt, wirkt aber nicht so alltäglich wie sehr häufige Standardnamen. Die Evidenz spricht für eine moderate bis gute öffentliche Sichtbarkeit."
+}

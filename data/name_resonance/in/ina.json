@@ -1,0 +1,59 @@
+{
+  "associations": [
+    "Kurzform bzw. Ableitung von längeren Namen mit -ina-Endung",
+    "teils mit Ines bzw. ähnlichen Formen verbunden",
+    "Bedeutungen wie „die Reine“, „die Heilige“ oder ähnlich tradiert",
+    "Namenstag",
+    "deutschsprachig und auch international verständlich"
+  ],
+  "confidence": 0.9,
+  "display_text": "Ina wirkt in der öffentlichen Wahrnehmung eher freundlich, kurz und vertraut. Der Name ist gut bekannt, leicht einzuordnen und wird meist neutral bis leicht positiv beschrieben. Die Evidenz stammt vor allem aus Namenslexika und allgemeinen Bewertungen, daher ist die Einschätzung vorsichtig zu lesen.",
+  "evidence_quality": "gut für namenkundliche Einordnung, aber nur begrenzt repräsentativ für gesellschaftliche Gesamtwahrnehmung",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Ina",
+  "normalized_name": "ina",
+  "overall_resonance": "Ina wird öffentlich überwiegend als kurzer, vertrauter und eher freundlich wirkender Vorname wahrgenommen. Die verfügbare Evidenz deutet auf eine leicht positive bis neutrale Resonanz hin.",
+  "practical_notes": [
+    "Für die öffentliche Wahrnehmung wirkt Ina eher zugänglich als erklärungsbedürftig.",
+    "Der Name ist kurz, leicht auszusprechen und meist sofort als Vorname erkennbar.",
+    "Wer einen schlichten, zeitlosen und freundlichen Klang sucht, findet hier eine unaufgeregte Option."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz besteht vor allem aus Namenslexika und allgemeinen Beschreibungen, nicht aus breiter repräsentativer Meinungsforschung.",
+    "Einzelne Nutzerbewertungen können gemischt sein und sollten nicht verallgemeinert werden.",
+    "Aus der Resonanz zu Ina lassen sich keine Aussagen über reale Namensträgerinnen ableiten."
+  ],
+  "short_summary": "Ina wird meist als kurzer, freundlicher und eher klassisch-moderner Vorname wahrgenommen, mit überwiegend neutral bis leicht positiver Resonanz.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Ina � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/I/In/Ina/"
+    },
+    {
+      "confidence": 0.92,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Ina: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Ina.html"
+    }
+  ],
+  "style_effect": [
+    "kurz und prägnant",
+    "sanft und vertraut",
+    "klassisch-moderne Anmutung",
+    "lexikalisch gut erklärbar",
+    "eher unkompliziert als extravagant"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Im deutschsprachigen Raum bekannt und gut auffindbar, mit solider Präsenz in Namenslexika und Beliebtheitslisten; keine starke Trend- oder Modeüberhöhung erkennbar."
+}

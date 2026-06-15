@@ -1,0 +1,63 @@
+{
+  "associations": [
+    "Kurzform von Rudolf/Rodolf",
+    "althochdeutsche Herkunft",
+    "Bedeutung: 'ruhmreicher' oder 'ehrenhafter Wolf'",
+    "früher in Deutschland stark beliebt",
+    "heute eher selten",
+    "Namenstag",
+    "öffentliche Diskussion vor allem zu Herkunft und Beliebtheit"
+  ],
+  "confidence": 0.84,
+  "display_text": "Rolf wird überwiegend sachlich und traditionsbezogen wahrgenommen: ein klassischer, klar männlicher Name mit althochdeutscher Herkunft und der Bedeutung in Richtung „ruhmreicher/ehrenhafter Wolf“. In Deutschland war er früher deutlich beliebter, ist heute aber eher selten. Die öffentliche Resonanz wirkt deshalb eher zurückhaltend und namenskundlich als trendig.",
+  "evidence_quality": "mittel bis schwach: zwei klare namenskundliche Quellen, aber nur begrenzte direkte Evidenz zur breiten öffentlichen Rezeption",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Rolf",
+  "normalized_name": "rolf",
+  "overall_resonance": "Rolf wird in der vorliegenden Evidenz überwiegend sachlich und traditionsbezogen wahrgenommen. Der Name wirkt klassisch, klar männlich und etymologisch gut verankert, mit eher historischer als moderner Alltagspräsenz.",
+  "practical_notes": [
+    "Für eine Namenssuche ist Rolf gut als klassischer, traditioneller Name einzuordnen.",
+    "Die Wahrnehmung dürfte stärker von Herkunft und Generationenbezug als von aktuellen Trends geprägt sein.",
+    "Wenn Modernität oder hohe zeitgenössische Sichtbarkeit wichtig sind, dürfte der Name eher zurückhaltend wirken."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz zur öffentlichen Resonanz ist begrenzt und stammt überwiegend aus Namensdatenbanken statt aus breiter öffentlicher Diskussion.",
+    "Einzelne Community- oder Kommentarbezüge sind nur eingeschränkt verallgemeinerbar.",
+    "Keine belastbaren Hinweise auf eine spezifische soziale Stigmatisierung in den vorliegenden Quellen."
+  ],
+  "short_summary": "Rolf wird sachlich, klassisch und traditionsreich wahrgenommen; der Name ist heute in Deutschland eher selten und wirkt eher historisch als modern.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.99,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Rolf � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/R/Ro/Rolf/"
+    },
+    {
+      "confidence": 0.92,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Rolf: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Rolf.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "traditionsreich",
+    "kurz und markant",
+    "männlich-konventionell",
+    "eher älter/retro als modern",
+    "sprachlich klar",
+    "namenskundlich gut anschlussfähig"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland ist der Name laut den Quellen heute eher selten, war aber früher deutlich verbreiteter. Die öffentliche Sichtbarkeit wirkt daher eher niedrig bis moderat und vor allem namenskundlich geprägt."
+}

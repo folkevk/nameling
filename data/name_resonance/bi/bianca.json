@@ -1,0 +1,62 @@
+{
+  "associations": [
+    "Bedeutung wie „die Weiße“ oder „die Glänzende“",
+    "italienisch/romanisch geprägt, teils auch mit althochdeutschen Bezügen beschrieben",
+    "in Deutschland verbreitet",
+    "Beliebtheit besonders in den 1970er/1980er Jahren",
+    "Name wirkt vielen Darstellungen nach schön und melodisch",
+    "Varianten wie Bianka, Blanca oder Blanka"
+  ],
+  "confidence": 0.84,
+  "display_text": "Bianca gilt in Deutschland als vertrauter, melodischer und eher klassischer Mädchenname. Die wenigen vorliegenden Quellen verbinden ihn meist positiv mit Bedeutungen wie „die Weiße“ oder „die Glänzende“ und sehen ihn als bekannt, aber nicht extrem modern. Die Evidenz ist dabei eher schmal und stammt vor allem aus Namenslexika.",
+  "evidence_quality": "mittel bis schwach: wenige, überwiegend lexikalische Quellen mit begrenzter öffentlicher Meinungsvielfalt.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Bianca",
+  "normalized_name": "bianca",
+  "overall_resonance": "Eher positiv und vertraut: Bianca wird in den Quellen als klangvoll, klassisch und gut bekannt beschrieben.",
+  "practical_notes": [
+    "Für Suchende wirkt Bianca in Deutschland als vertrauter, gut aussprechbarer Vorname.",
+    "Der Name hat einen klaren Bedeutungs- und Herkunftsbezug und ist leicht einzuordnen.",
+    "Je nach Generation kann er etwas klassischer oder nostalgisch wirken."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenzbasis ist schmal und besteht vor allem aus Namenslexikon-Seiten, nicht aus breiter öffentlicher Diskussion.",
+    "Positive Klangeindrücke sind eher beschreibend als repräsentativ für alle Meinungen.",
+    "Keine belastbaren Hinweise auf soziale Stigmatisierung in der vorliegenden Evidenz."
+  ],
+  "short_summary": "Bianca wird in Deutschland überwiegend positiv, klangvoll und klassisch wahrgenommen; die Evidenz ist jedoch eher schmal und vor allem lexikalisch.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Bianca � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/B/Bi/Bianca/"
+    },
+    {
+      "confidence": 0.9,
+      "is_name_discussion": true,
+      "sentiment": "mostly positive",
+      "source_type": "web",
+      "title": "&#9655; Vorname Bianca: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Bianca.html"
+    }
+  ],
+  "style_effect": [
+    "klangvoll",
+    "melodisch",
+    "klassisch",
+    "weiblich",
+    "freundlich",
+    "eher zeitlos",
+    "nicht exzentrisch"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland sichtbar und geläufig, mit besonderer Präsenz in früheren Jahrzehnten; heute eher bekannt als aktuell modisch."
+}

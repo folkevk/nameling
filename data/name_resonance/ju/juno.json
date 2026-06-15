@@ -1,0 +1,64 @@
+{
+  "associations": [
+    "römische Mythologie",
+    "Göttin Juno",
+    "lateinische Herkunft",
+    "Monat Juni",
+    "weiblicher Vorname",
+    "ungewöhnlicher Name",
+    "Beliebtheit in Deutschland",
+    "Namenstag"
+  ],
+  "confidence": 0.87,
+  "display_text": "Juno hat in Deutschland eine überwiegend positive, sachlich-wertschätzende Resonanz. Der Name gilt als ungewöhnlich, klangvoll und mythologisch geprägt; meist wird er mit römischer Mythologie, dem Monat Juni und einem weiblichen Vornamen verbunden. Vereinzelt kann es zu Nachfragen kommen, weil Juno auch als ungewöhnlich oder manchmal fälschlich als männlich wahrgenommen wird. Insgesamt wirkt die öffentliche Rezeption eher freundlich als problematisch.",
+  "evidence_quality": "Gut bis stark, aber quellenarm im Sinn öffentlicher Alltagsmeinung: überwiegend Namenslexika und beschreibende Webseiten, kaum direkte Nutzerreaktionen.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Juno",
+  "normalized_name": "juno",
+  "overall_resonance": "Juno wirkt in den vorliegenden Quellen in Deutschland überwiegend positiv bis sachlich-wertschätzend. Der Name wird vor allem als ungewöhnlich, klangvoll und mythologisch aufgeladen beschrieben; gleichzeitig bleibt die öffentliche Wahrnehmung eher informativ als emotional stark polarisiert.",
+  "practical_notes": [
+    "Der Name ist leicht zu merken und gut erklärbar über Mythologie und den Monat Juni.",
+    "Wer einen seltenen, klaren und zugleich kulturell aufgeladenen Namen sucht, findet hier eine passende Option.",
+    "Je nach Umfeld kann es gelegentlich Nachfragen zur Aussprache oder zum Geschlecht des Namens geben."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt vor allem aus Namensportalen und ist daher nur eingeschränkt repräsentativ für die allgemeine öffentliche Meinung.",
+    "Einzelne Hinweise erwähnen, dass Juno gelegentlich für männlich gehalten werden kann; das ist eher ein Wahrnehmungseffekt als ein negativer Befund.",
+    "Keine Hinweise auf soziale Stigmatisierung oder belastete Namensklischees in den vorliegenden Quellen."
+  ],
+  "short_summary": "Juno wird in Deutschland überwiegend freundlich und sachlich wahrgenommen: ungewöhnlich, mythologisch und leicht einprägsam, mit gelegentlicher Verwechslungsgefahr beim Geschlecht.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Juno � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/J/Ju/Juno/"
+    },
+    {
+      "confidence": 0.92,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Juno: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Juno.html"
+    }
+  ],
+  "style_effect": [
+    "mythologisch",
+    "modern-kurz",
+    "klangvoll",
+    "ungewöhnlich",
+    "merkfähig",
+    "eher feminin gelesen",
+    "lexikalisch gut erklärbar"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland gut auffindbar, aber nicht massenhaft verbreitet. Die öffentliche Präsenz erscheint eher im Bereich von Namenslexika, Bedeutungserklärungen und Beliebtheitsseiten als in breiten Alltagsdiskussionen."
+}

@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "Bedeutung und Herkunft",
+    "weiblicher Vorname",
+    "englischer bzw. teils unklarer Ursprung",
+    "schöne/liebevolle Deutungen",
+    "Namenstag",
+    "Beliebtheit in Deutschland",
+    "gelegentliche Popkultur-Bezüge"
+  ],
+  "confidence": 0.84,
+  "display_text": "Belinda wirkt in den vorliegenden deutschen Namensquellen überwiegend freundlich, klassisch und leicht positiv. Der Name wird vor allem über Herkunft, Bedeutung, Namenstag und Beliebtheit beschrieben. Eine starke öffentliche Kontroverse ist nicht erkennbar, die Evidenz ist jedoch eher beschreibend als direkt resonanzbezogen.",
+  "evidence_quality": "mittel: zwei klare, namenbezogene Webquellen mit überwiegend beschreibender, leicht positiver Tonalität; begrenzte direkte Diskussionsresonanz",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Belinda",
+  "normalized_name": "belinda",
+  "overall_resonance": "In den vorliegenden Quellen wirkt Belinda im deutschen Namenskontext überwiegend freundlich, klassisch-lexikalisch und leicht positiv. Der Name wird vor allem über Herkunft, Bedeutung, Namenstag und Beliebtheit beschrieben; eine stark kontroverse öffentliche Debatte ist nicht erkennbar.",
+  "practical_notes": [
+    "Für die öffentliche Wahrnehmung zählt eher ein seriöser, weicher Eindruck als ein modischer Hype.",
+    "Die Datenlage reicht für eine vorsichtige Einordnung, nicht für eine harte Aussage über breite Popularität.",
+    "Im deutschsprachigen Raum wirkt der Name eher vertraut als auffällig."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Quellen sind überwiegend Namenslexika und damit eher beschreibend als spiegelnd für echte öffentliche Meinungen.",
+    "Ein Teil der Herkunftsdeutungen ist nicht eindeutig gesichert.",
+    "Mögliche Kommentare oder Metatexte können die Resonanz leicht positiv verzerren."
+  ],
+  "short_summary": "Belinda wird in den Quellen überwiegend freundlich und klassisch beschrieben, mit leicht positiver, eher sachlicher Resonanz. Die Evidenz ist brauchbar, aber vor allem lexikalisch und nur indirekt öffentlichkeitsnah.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.9,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "Vorname Belinda � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/B/Be/Belinda/"
+    },
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Belinda: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Belinda.html"
+    }
+  ],
+  "style_effect": [
+    "weich und klangvoll",
+    "eher klassisch als trendig",
+    "lexikalisch gut einordenbar",
+    "freundlich-positiv konnotiert",
+    "teils seltenheitsbezogen"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Mittel: Der Name ist in Namenslexika und Namensdatenbanken sichtbar, aber die Evidenz für echte öffentliche Diskussion oder breite Alltagsresonanz ist begrenzt."
+}

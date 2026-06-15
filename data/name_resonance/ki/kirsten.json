@@ -1,0 +1,68 @@
+{
+  "associations": [
+    "dänische und norwegische Form von Christina/Kristine",
+    "niederdeutsche Variante von Christian",
+    "christlicher Bedeutungsbezug",
+    "besonders in den 1960er/1970er Jahren in Deutschland verbreitet",
+    "heute eher selten",
+    "Namenstag wird genannt"
+  ],
+  "confidence": 0.87,
+  "display_text": "Kirsten: überwiegend neutral bis leicht klassisch positiv. Der Name wirkt traditionell, nordisch und historisch christlich geprägt; in Deutschland war er vor allem in den 1960er/1970er Jahren verbreitet und ist heute eher selten. Einzelne kommentierte Quellen zeigen kritische Stimmen, insgesamt ist die Rezeption aber eher sachlich als polarisiert.",
+  "evidence_quality": "mittel bis gut: mehrere namenskundliche Quellen, teils mit Kommentaren; öffentliches Meinungsbild nur eingeschränkt belastbar.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Kirsten",
+  "normalized_name": "kirsten",
+  "overall_resonance": "Überwiegend neutral bis leicht klassisch positiv, mit vereinzelten kritischen Stimmen in kommentarbasierten Quellen.",
+  "practical_notes": [
+    "Für Suchmaschinen-Nutzer:innen wirkt Kirsten sachlich, klassisch und vertraut.",
+    "Der Name klingt eher traditionell als modisch.",
+    "Aufgrund der historischen Häufigkeit kann er generationsbezogen wahrgenommen werden.",
+    "Die öffentliche Rezeption ist nicht stark polarisiert, eher gemischt mit leicht nostalgischem Unterton."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Ein Teil der positiven oder negativen Wirkung stammt aus Kommentaren und kann die Wahrnehmung verzerren.",
+    "Die Datenlage ist eher namenskundlich als öffentlich-diskursiv; echte Meinungsbreite ist nur begrenzt sichtbar.",
+    "Keine belastbare Stigmatisierung erkennbar, aber einzelne Kommentare fallen deutlich negativ aus."
+  ],
+  "short_summary": "Kirsten wird meist neutral bis klassisch positiv wahrgenommen, mit nordisch-christlichem Namenshintergrund. Heute gilt der Name eher als selten und traditionell; einzelne kommentierte Quellen zeigen auch kritische Stimmen.",
+  "source_count": 3,
+  "sources": [
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Kirsten � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/K/Ki/Kirsten/"
+    },
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Kirsten � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/K/Ki/Kirsten/"
+    },
+    {
+      "confidence": 0.88,
+      "is_name_discussion": true,
+      "sentiment": "gemischt",
+      "source_type": "web",
+      "title": "&#9655; Vorname Kirsten: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Kirsten.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "nordisch/mitteleuropäisch",
+    "informativ-namenskundlich",
+    "eher zeitlos als modern"
+  ],
+  "usable_evidence_count": 3,
+  "visibility": "Mittlere Sichtbarkeit: Der Name ist klar bekannt, wirkt aber heute eher selten und nicht besonders trendig."
+}

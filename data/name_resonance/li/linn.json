@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "mögliche Bedeutungen wie mild, sanft oder freundlich",
+    "teils althochdeutsche Herleitung",
+    "alternative Deutungen wie helles Licht, helle Sonne, kleiner Wasserfall oder See",
+    "Kurzform-Charakter",
+    "Namenstag",
+    "weiblicher Vorname"
+  ],
+  "confidence": 0.88,
+  "display_text": "Linn wirkt in der öffentlichen Namenswahrnehmung überwiegend freundlich und schlicht. Die verfügbaren Quellen beschreiben den Namen als kurzen, weiblich konnotierten Vornamen mit teils sanften oder hellen Bedeutungszuordnungen. Insgesamt ist die Resonanz eher positiv-neutral, allerdings stützt sich die Evidenz vor allem auf wenige Namenslexikon-Quellen.",
+  "evidence_quality": "mittel bis gut; zwei passende Namensquellen mit klarer Namensdiskussion, aber geringe Breite der Evidenz.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Linn",
+  "normalized_name": "linn",
+  "overall_resonance": "Der Vorname Linn wird in den vorliegenden deutschsprachigen Namensquellen überwiegend sachlich bis positiv beschrieben: kurz, schlicht und eher modern wirkend, mit teils sanften oder hellen Bedeutungszuordnungen. Die öffentliche Wahrnehmung wirkt insgesamt freundlich, ohne erkennbare starke Kontroversen.",
+  "practical_notes": [
+    "Für Suchmaschinenanfragen wirkt Linn kompakt, freundlich und gut merkbar.",
+    "Die Resonanz ist eher positiv-neutral; negative öffentliche Zuschreibungen sind in der vorliegenden Evidenz nicht sichtbar.",
+    "Als kurzer Name kann Linn je nach Kontext modern, zart oder schlicht wirken."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz basiert nur auf zwei Namenslexikon-Seiten, also auf einer begrenzten öffentlichen Datenbasis.",
+    "Mehrere Bedeutungsangaben sind etymologisch teils unsicher oder als mögliche Deutungen formuliert.",
+    "Es liegt keine breite freie Debatte vor, sondern vor allem lexikalisch-informative Darstellung."
+  ],
+  "short_summary": "Linn wird öffentlich meist freundlich, schlicht und modern wahrgenommen; die Quellen nennen sanfte oder helle Bedeutungen, bei insgesamt begrenzter Evidenz.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Linn � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/L/Li/Linn/"
+    },
+    {
+      "confidence": 0.95,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Linn: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Linn.html"
+    }
+  ],
+  "style_effect": [
+    "kurz und prägnant",
+    "schlicht und modern",
+    "weiblich konnotiert",
+    "eher sanft/hell assoziiert",
+    "namenskundlich klar einordenbar"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland wirkt Linn als eher bekannter, aber nicht massenhaft verbreiteter Vorname; die Quellen ordnen ihn als relativ beliebt bzw. bemerkenswert kurz und eigenständig ein."
+}

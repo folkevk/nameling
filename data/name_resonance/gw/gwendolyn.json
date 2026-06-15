@@ -1,0 +1,63 @@
+{
+  "associations": [
+    "walisisch/altwalisisch",
+    "keltische Namensherkunft",
+    "Bedeutung im Bereich „weißer Kreis“ / „leuchtender Ring“",
+    "walisische Sagen und mythische Kontexte",
+    "weiblicher Vorname",
+    "Namenstag",
+    "Spitznamen wie Gwen oder Wendy",
+    "selten bis mäßig gebräuchlich in Deutschland"
+  ],
+  "confidence": 0.88,
+  "display_text": "Gwendolyn hat im deutschen Namensraum eine überwiegend positive Resonanz: klangvoll, keltisch-walisisch geprägt und eher selten. Der Name wirkt traditionell-elegant und ist durch Namenslexika gut belegt, auch wenn einzelne Bedeutungsdeutungen je nach Quelle leicht variieren.",
+  "evidence_quality": "hoch: zwei klare Namenslexika mit direkter Namensdiskussion, überwiegend konsistente Angaben zu Herkunft, Bedeutung und Klangwirkung; nur leichte Interpretationsspielräume bei der Bedeutungsdeutung.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Gwendolyn",
+  "normalized_name": "gwendolyn",
+  "overall_resonance": "Überwiegend positiv und kulturell aufgeladen; Gwendolyn wirkt im deutschen Sprachraum eher selten, aber vertraut genug, um als klangvoller, traditionell wirkender Mädchenname wahrgenommen zu werden.",
+  "practical_notes": [
+    "Der Name ist gut aussprechbar, aber im Alltag eher auffällig wegen seiner Seltenheit.",
+    "Kurzformen und Spitznamen können die Nutzung erleichtern.",
+    "Für Suchmaschinen und Namensportale ist der Name gut dokumentiert und leicht einordenbar."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Deutungen zur Bedeutung sind teils interpretativ und je nach Quelle leicht unterschiedlich.",
+    "Die Wahrnehmung als „edel“ oder „märchenhaft“ ist eine Stilassoziation, keine objektive Eigenschaft des Namens.",
+    "Zur tatsächlichen Alltagsnutzung in Deutschland liegt hier nur begrenzt Evidenz vor."
+  ],
+  "short_summary": "Gwendolyn wird im deutschen Namenskontext überwiegend positiv, klangvoll und keltisch-walisisch geprägt wahrgenommen. Der Name ist eher selten, aber gut dokumentiert und wirkt traditionell-elegant.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Gwendolyn � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/G/Gw/Gwendolyn/"
+    },
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Gwendolyn: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Gwendolyn.html"
+    }
+  ],
+  "style_effect": [
+    "elegant",
+    "keltisch-walisisch",
+    "literarisch-märchenhaft",
+    "klassisch-altsprachlich",
+    "weich im Klang",
+    "selten, aber nicht exotisch"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Die öffentliche Sichtbarkeit ist eher niedrig bis mäßig, da der Name in Deutschland nicht sehr häufig ist. In Namensportalen wird er jedoch klar erkannt und regelmäßig mit Herkunft, Bedeutung und Varianten erklärt."
+}

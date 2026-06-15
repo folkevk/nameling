@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "Variante von Emily/Emilie",
+    "lateinischer Ursprung",
+    "Bedeutungen wie 'die Eifrige' oder 'die Fleißige'",
+    "Beliebtheit in Deutschland",
+    "Namenstag",
+    "Spitz- und Kosenamen"
+  ],
+  "confidence": 0.87,
+  "display_text": "Emely wirkt in der öffentlichen Wahrnehmung überwiegend modern, freundlich und weiblich. Der Name wird vor allem als Variante von Emily/Emilie mit lateinischem Ursprung beschrieben. Die Quellenlage ist eher begrenzt und besteht hauptsächlich aus Namenslexika, daher ist die Einordnung vorsichtig zu lesen.",
+  "evidence_quality": "mittel: zwei überwiegend informativ-lexikalische Webquellen, keine breite Diskussionslage",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Emely",
+  "normalized_name": "emely",
+  "overall_resonance": "Emely wird öffentlich meist als moderner, weiblicher Vorname mit freundlicher, eher positiver Wirkung beschrieben. Die Wahrnehmung ist vor allem lexikalisch und namenskundlich geprägt, nicht durch starke Kontroversen.",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt Emely unkompliziert, vertraut und gut einordbar.",
+    "Die Schreibweise kann als Variante von Emily oder Emilie wahrgenommen werden.",
+    "Es gibt keine klaren Hinweise auf eine stark negative oder stigmatisierende öffentliche Rezeption."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist eher schwach bis mittel, da vor allem Namenslexika vorliegen und keine echte breite öffentliche Debatte erkennbar ist.",
+    "Bewertungen zur Beliebtheit sind keine Aussage über soziale Wertung von Personen.",
+    "Einzelne subjektive Kommentare können die Wahrnehmung leicht positiv färben."
+  ],
+  "short_summary": "Emely wird überwiegend freundlich und modern wahrgenommen, mit klassisch-namenskundlichen Bezügen und eher positiver Grundtönung. Die Quellenlage ist jedoch eher lexikalisch als diskursiv.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.83,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Emely � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/E/Em/Emely/"
+    },
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "eher positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Emely: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Emely.html"
+    }
+  ],
+  "style_effect": [
+    "modern",
+    "weiblich",
+    "freundlich",
+    "weicher Klang",
+    "international anmutend",
+    "namenskundlich vertraut"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Mittel: Der Name erscheint in mehreren Namenslexika und Informationsseiten, aber die Evidenz wirkt insgesamt eher begrenzt und nicht auf breite öffentliche Diskussionen gestützt."
+}

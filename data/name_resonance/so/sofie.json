@@ -1,0 +1,70 @@
+{
+  "associations": [
+    "Bedeutung: Weisheit",
+    "griechische Herkunft",
+    "Form von Sophia",
+    "weiblicher Vorname",
+    "in Deutschland verbreitet",
+    "beliebt bzw. häufig genutzt",
+    "Namenstag",
+    "moderne, bekannte Schreibweise"
+  ],
+  "confidence": 0.82,
+  "display_text": "Sofie wirkt in den verfügbaren Quellen überwiegend positiv und vertraut. Der Name wird vor allem als klassisch-modern, weich klingend und in Deutschland gut bekannt beschrieben. Die Evidenz ist eher informativ als diskursiv, daher ist die öffentliche Resonanz nur vorsichtig ableitbar.",
+  "evidence_quality": "mittel; mehrere einschlägige Namensquellen, aber wenig direkte öffentliche Diskussion",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Sofie",
+  "normalized_name": "sofie",
+  "overall_resonance": "Überwiegend positiv bis neutral; der Name wird in den Quellen vor allem sachlich und namenkundlich beschrieben, mit eher günstigen Assoziationen zur Bedeutung und Verbreitung.",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt Sofie in Deutschland vertraut, gut verständlich und unkompliziert.",
+    "Die Schreibweise wird teils als Variante von Sophie wahrgenommen, was je nach Kontext eine kleine Varianz bei der Erwartung erzeugen kann.",
+    "Insgesamt spricht die Evidenz eher für einen positiven, unauffälligen und zeitgemäßen Eindruck."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Quellen sind überwiegend Namenslexika und Beliebtheitsseiten, also eher informativ als diskursiv.",
+    "Direkte öffentliche Meinungen sind nur begrenzt enthalten; die Resonanz wird daher vor allem indirekt über Beliebtheit und Beschreibung abgeleitet.",
+    "Die Einschätzung sollte nicht als allgemeine gesellschaftliche Bewertung aller Trägerinnen des Namens verstanden werden."
+  ],
+  "short_summary": "Sofie wird öffentlich meist freundlich, sachlich und bekannt wahrgenommen. Die Quellen betonen Bedeutung, Herkunft und Verbreitung; echte Meinungsäußerungen sind aber nur indirekt erkennbar.",
+  "source_count": 3,
+  "sources": [
+    {
+      "confidence": 0.86,
+      "is_name_discussion": true,
+      "sentiment": "positive",
+      "source_type": "web",
+      "title": "Vorname Sofie � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/S/So/Sofie/"
+    },
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Sofie � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/S/So/Sofie/"
+    },
+    {
+      "confidence": 0.94,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Sofie: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Sofie.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch und modern zugleich",
+    "weich klingend",
+    "international anschlussfähig",
+    "eher vertraut als ausgefallen",
+    "namenskundlich positiv gerahmt"
+  ],
+  "usable_evidence_count": 3,
+  "visibility": "Im deutschsprachigen Raum sichtbar und bekannt, vor allem in Namensdatenbanken und Lexikontexten; die Evidenz für echte öffentliche Meinungsbildung ist eher schwach bis mittel."
+}

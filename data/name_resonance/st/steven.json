@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "englische bzw. niederländische Form von Stefan/Stephan",
+    "altgriechischer Ursprung",
+    "Bedeutung: der Gekrönte / der Sieger",
+    "christlicher Bezug über den heiligen Stephanus",
+    "Namenstag",
+    "Spitznamen wie Steve oder Stevie"
+  ],
+  "confidence": 0.89,
+  "display_text": "Steven wirkt in der öffentlichen Wahrnehmung überwiegend sachlich und leicht positiv: bekannt, international anschlussfähig und mit klassischer Namensbedeutung verbunden.",
+  "evidence_quality": "gut für Namenskunde, mittel für öffentliche Resonanz",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Steven",
+  "normalized_name": "steven",
+  "overall_resonance": "Steven wird in der öffentlichen Namenswahrnehmung überwiegend sachlich und leicht positiv beschrieben. Der Name wirkt vertraut, international anschlussfähig und wird meist über Herkunft, Bedeutung und Varianten eingeordnet.",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt Steven klar verständlich und international gut nutzbar.",
+    "Die Schreibweise ist im Deutschen bekannt, kann aber gelegentlich als anglisch wahrgenommen werden.",
+    "Als Resonanzkarte eignet sich eine nüchterne Einordnung mit leicht positivem Ton am besten."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die vorliegende Evidenz ist gut für Herkunft und Bedeutung, aber nur begrenzt belastbar für breitere gesellschaftliche Wertungen.",
+    "Positive Nuancen stammen teils aus Namenslexika und einzelnen Kommentaren; daraus lässt sich keine allgemeine Meinungsmehrheit ableiten.",
+    "Keine Hinweise auf besondere soziale Stigmatisierung in der vorliegenden Evidenz."
+  ],
+  "short_summary": "Steven wird in Deutschland vor allem sachlich und leicht positiv wahrgenommen: ein bekannter, internationaler Name mit klassischer Herkunft und klarer Bedeutung.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.99,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Steven � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/S/St/Steven/"
+    },
+    {
+      "confidence": 0.94,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Steven: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Steven.html"
+    }
+  ],
+  "style_effect": [
+    "informativ",
+    "klassisch-modern",
+    "international",
+    "namenskundlich neutral",
+    "leicht freundlich"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland bekannt, aber eher nicht als extrem häufiger Spitzenname präsent; die Sichtbarkeit entsteht vor allem durch die Nähe zu Stefan/Stephan und die internationale Schreibweise."
+}

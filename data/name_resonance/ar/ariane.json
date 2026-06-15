@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "weiblicher Vorname",
+    "altgriechische und lateinische Herkunft",
+    "griechische Mythologie",
+    "Bedeutung mit Ehrwürdigkeit bzw. Reinheit",
+    "Namenstag",
+    "Beliebtheit in Deutschland",
+    "Varianten wie Ariana, Arianne, Arianna"
+  ],
+  "confidence": 0.9,
+  "display_text": "Ariane gilt in Deutschland als klassischer, eleganter und etablierter Vorname mit eher sachlich-positive Wahrnehmung. Die Quellen betonen Herkunft, Bedeutung und Namenstag; eine breite soziale Stigmatisierung ist nicht erkennbar.",
+  "evidence_quality": "stark, aber überwiegend lexikalisch und nicht community-basiert",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Ariane",
+  "normalized_name": "ariane",
+  "overall_resonance": "Ariane wirkt in der deutschsprachigen Wahrnehmung eher klassisch, etabliert und kultiviert. Der Name wird vor allem sachlich-namenskundlich beschrieben, mit leicht positivem Unterton durch seine historische und mythologische Einordnung.",
+  "practical_notes": [
+    "Für Suchende wirkt Ariane vertraut, seriös und gut anschlussfähig im deutschen Sprachraum.",
+    "Der Name hat eher einen literarisch-klassischen Charakter als einen modernen Trendklang."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt vor allem aus Namenslexika und beschreibt den Namen selbst, nicht breite Alltagsresonanz.",
+    "Einzelne Bedeutungsdeutungen können je nach Quelle variieren; sie sollten daher nicht als eindeutige Wahrheit gelesen werden."
+  ],
+  "short_summary": "Ariane wird in Deutschland vor allem als klassischer, eleganter und gut etablierter Mädchenname wahrgenommen.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Ariane � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/A/Ar/Ariane/"
+    },
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "neutral-positive",
+      "source_type": "web",
+      "title": "&#9655; Vorname Ariane: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Ariane.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "elegant",
+    "zeitlos",
+    "gebildet",
+    "harmonisch",
+    "etabliert"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland ist Ariane bekannt, aber nicht übermäßig häufig. Die öffentliche Sichtbarkeit erscheint eher stabil als trendgetrieben, mit klarer Einordnung als traditioneller Mädchenname."
+}

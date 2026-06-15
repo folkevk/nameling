@@ -1,0 +1,62 @@
+{
+  "associations": [
+    "lateinischer Ursprung",
+    "römisch",
+    "Mars",
+    "klassischer Vorname",
+    "Namenstag",
+    "Beliebtheit in Deutschland",
+    "traditionell"
+  ],
+  "confidence": 0.88,
+  "display_text": "Marcus wirkt in den verfügbaren Quellen klassisch, historisch und eher seriös. Die Resonanz ist überwiegend neutral bis positiv, aber die Datenlage ist schwach, weil sie vor allem aus Namenslexika stammt.",
+  "evidence_quality": "mittel bis schwach: mehrere einschlägige Namensquellen, aber kaum echte öffentliche Diskussionen oder breite Resonanzdaten.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Marcus",
+  "normalized_name": "marcus",
+  "overall_resonance": "Marcus wird in den vorliegenden Quellen überwiegend als klassischer, historisch geprägter und sachlich wahrgenommener Vorname dargestellt. Die öffentliche Resonanz wirkt eher neutral bis positiv, allerdings basiert die Evidenz vor allem auf Namenslexika und nicht auf breiten Diskussionen.",
+  "practical_notes": [
+    "Für die Namenssuche wirkt Marcus vertraut und gut einordbar.",
+    "Die Schreibweise mit -us kann etwas formeller oder traditionsbetonter wahrgenommen werden.",
+    "Im deutschen Kontext ist der Name eher bekannt als auffällig."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz für echte öffentliche Resonanz ist schwach, da sie überwiegend aus Namensdatenbanken stammt.",
+    "Es liegen kaum unabhängige Meinungsäußerungen oder community-basierte Eindrücke vor.",
+    "Assoziationen wie 'klassisch' oder 'seriös' sind beschreibende Tendenzen, keine gesicherten Eigenschaften."
+  ],
+  "short_summary": "Marcus wird meist als klassischer, historisch-lateinischer Vorname mit neutral bis positiver Wirkung beschrieben; die Evidenz für öffentliche Resonanz ist jedoch begrenzt.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Marcus � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/M/Ma/Marcus/"
+    },
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Marcus: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Marcus.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "historisch",
+    "lateinisch-römisch",
+    "informativ",
+    "seriös",
+    "zeitlos"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "mittel"
+}

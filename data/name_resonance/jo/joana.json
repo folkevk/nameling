@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "Form von Johanna",
+    "hebräische Herkunft",
+    "Bedeutung: 'JHWH ist gnädig' / 'Jahwe ist gnädig'",
+    "katalanische und portugiesische Namensform",
+    "Namenstag",
+    "bekannt und etabliert",
+    "in Namenslisten als beliebt beschrieben"
+  ],
+  "confidence": 0.78,
+  "display_text": "Joana wirkt in den Quellen freundlich, vertraut und positiv besetzt. Der Name gilt als bekannt und etabliert, mit klarer Herkunft und der Bedeutung 'Jahwe ist gnädig'. Die Evidenz ist allerdings vor allem aus Namensdatenbanken abgeleitet, daher nur begrenzt repräsentativ.",
+  "evidence_quality": "mittel bis schwach: überwiegend beschreibende Namensdatenbanken, kaum echte Diskussions- oder Meinungsdaten",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Joana",
+  "normalized_name": "joana",
+  "overall_resonance": "Joana wird in den verfügbaren Quellen überwiegend positiv bis neutral-informativ wahrgenommen. Der Name gilt als bekannt, etabliert und in Deutschland offenbar gut anschlussfähig, ohne starke Kontroversen oder auffällige negative Konnotationen.",
+  "practical_notes": [
+    "Für die öffentliche Wirkung scheint Joana unkompliziert, freundlich und gut aussprechbar.",
+    "Der Name wirkt international, bleibt im Deutschen aber klar lesbar und vertraut.",
+    "Die Wahrnehmung basiert vor allem auf lexikalischen Angaben zu Herkunft, Bedeutung und Beliebtheit."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist schwach bis mittelstark und stammt vor allem aus Namensdatenbanken mit redaktionellem Charakter.",
+    "Die Aussagen beziehen sich auf Namensbeschreibungen, nicht auf breite öffentliche Debatten.",
+    "Es gibt keine belastbaren Hinweise auf Stigmatisierung oder negative soziale Aufladung in den vorliegenden Quellen."
+  ],
+  "short_summary": "Joana wird überwiegend freundlich und neutral wahrgenommen: bekannt, etabliert und mit positiver Bedeutung verbunden. Die Evidenz ist jedoch vor allem beschreibend, nicht breit öffentlich diskutiert.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.91,
+      "is_name_discussion": true,
+      "sentiment": "positive",
+      "source_type": "web",
+      "title": "Vorname Joana � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/J/Jo/Joana/"
+    },
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Joana: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Joana.html"
+    }
+  ],
+  "style_effect": [
+    "weich",
+    "klingt freundlich",
+    "modern, aber nicht modisch-übertrieben",
+    "international anschlussfähig",
+    "eher klassisch durch die Nähe zu Johanna"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Eher gut sichtbar und verständlich im deutschsprachigen Raum; die Quellen beschreiben Joana als geläufigen Vornamen mit klarer Herkunft und nachvollziehbarer Bedeutung."
+}

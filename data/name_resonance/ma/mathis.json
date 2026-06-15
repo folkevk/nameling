@@ -1,0 +1,62 @@
+{
+  "associations": [
+    "Variante von Matthias/Mathias",
+    "Bedeutung: „Geschenk Gottes“",
+    "biblischer Ursprung",
+    "deutsche und französische Form",
+    "Namenstag am 24. Februar",
+    "im deutschen Sprachraum verbreitet",
+    "auch Varianten wie Matthis oder Mattis"
+  ],
+  "confidence": 0.88,
+  "display_text": "Mathis gilt in Deutschland als gut bekannter, eher positiv und klassisch-modern wahrgenommener Vorname. Die Quellen verbinden ihn vor allem mit der Bedeutung „Geschenk Gottes“, biblischem Ursprung und einer soliden Verbreitung im deutschen Sprachraum. Hinweise auf Stigmatisierung oder starke Kontroversen finden sich nicht; die Evidenz ist jedoch vor allem lexikalisch und nicht repräsentativ für die Gesamtbevölkerung.",
+  "evidence_quality": "mittel bis gut: zwei klare, namensbezogene Lexikonquellen; jedoch keine breite repräsentative Umfrage oder Medienauswertung.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Mathis",
+  "normalized_name": "mathis",
+  "overall_resonance": "Überwiegend positiv und sachlich-namenskundlich wahrgenommen; die öffentliche Einordnung wirkt eher klassisch, vertraut und unauffällig populär als auffällig oder kontrovers.",
+  "practical_notes": [
+    "Für Suchmaschinen-Nutzung eignet sich eine neutrale Kurzbeschreibung gut.",
+    "Der Name wirkt traditionsnah und zugleich modern genug für den heutigen Gebrauch.",
+    "Die Resonanz ist eher stabil als trendgetrieben.",
+    "Aussprache und Schreibweise sind im deutschen Raum weitgehend unkompliziert."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die vorliegende Evidenz besteht fast nur aus Namenslexika; das sagt mehr über Herkunft und Gebrauch als über echte Alltagswahrnehmung.",
+    "Positive Wirkung hängt hier vor allem an der Bedeutungsdeutung und der lexikalischen Darstellung, nicht an breiter Meinungsforschung.",
+    "Keine Hinweise auf soziale Stigmatisierung oder negative öffentliche Stereotype in den Quellen."
+  ],
+  "short_summary": "Mathis wird öffentlich überwiegend positiv, vertraut und klassisch-modern wahrgenommen. Die Quellen betonen vor allem Herkunft, Bedeutung und Verbreitung; belastbare Hinweise auf negative Konnotationen gibt es nicht.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Mathis � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/M/Ma/Mathis/"
+    },
+    {
+      "confidence": 0.94,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Mathis: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Mathis.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch-modern",
+    "eher freundlich im Klang",
+    "kurz und klar",
+    "namenskundlich positiv besetzt",
+    "leicht populär, ohne modisch-extrem zu wirken"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland gut bekannt und sichtbar, mit dokumentierter Beliebtheit in Namensverzeichnissen und Listen; die Evidenz spricht für eine solide, aber nicht polarisierende Präsenz."
+}

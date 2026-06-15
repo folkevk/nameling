@@ -1,0 +1,65 @@
+{
+  "associations": [
+    "Bedeutung: Weisheit",
+    "Bezug zu Sophia",
+    "mögliche Deutung: Träumerin",
+    "deutschsprachiger Raum",
+    "Skandinavien",
+    "historisch beliebt in den 1970er-Jahren",
+    "heute eher selten",
+    "Namenstag",
+    "Varianten wie Sonia, Sonya, Szonja",
+    "Spitznamen wie Sunny, Sonni, Soni"
+  ],
+  "confidence": 0.82,
+  "display_text": "Sonja wirkt in der öffentlichen Wahrnehmung meist positiv bis neutral: ein klassischer, vertrauter Name mit Bedeutungen wie „Weisheit“, der in Deutschland besonders in früheren Jahrzehnten verbreitet war und heute eher seltener vorkommt. Die Evidenz ist solide für Herkunft und Bedeutung, aber begrenzt für aktuelle freie öffentliche Resonanz.",
+  "evidence_quality": "mittel: zwei klare Namenslexikon-Quellen, aber nur begrenzte öffentliche Resonanz und wenige frei diskutierende Stimmen.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Sonja",
+  "normalized_name": "sonja",
+  "overall_resonance": "Die öffentliche Resonanz auf „Sonja“ wirkt insgesamt eher positiv bis neutral. Der Name wird vor allem sachlich-namenskundlich beschrieben und mit Bedeutungen wie „Weisheit“ oder einer Ableitung zu „Sophia“ verbunden. In Deutschland gilt er als bekannt, aber heute eher seltener und erinnert teils an die stärkere Nutzung in den 1970er-Jahren.",
+  "practical_notes": [
+    "Für Namenssuche und Lexikonzwecke ist die Informationslage gut.",
+    "Die Außenwirkung ist eher vertraut als auffällig.",
+    "Wer einen zeitlos bekannten, aber nicht übermäßig häufigen Namen sucht, findet hier einen passenden Eindruck."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt überwiegend aus Namenslexika und wenigen Kommentarbereichen; eine breite freie öffentliche Debatte ist nicht sichtbar.",
+    "Einzelne Einschätzungen zu ‚altmodisch‘ oder ‚ungewohnt‘ sind subjektiv und nicht als allgemeingültig zu verstehen.",
+    "Die Datenlage zur aktuellen gesellschaftlichen Wahrnehmung ist eher begrenzt."
+  ],
+  "short_summary": "Sonja wird meist positiv bis neutral wahrgenommen: klassisch, vertraut und mit Bedeutungen wie Weisheit verbunden, heute jedoch eher seltener als früher.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "Vorname Sonja � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/S/So/Sonja/"
+    },
+    {
+      "confidence": 0.84,
+      "is_name_discussion": true,
+      "sentiment": "mostly positive",
+      "source_type": "web",
+      "title": "&#9655; Vorname Sonja: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Sonja.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "zeittypisch",
+    "weich klingend",
+    "traditionell",
+    "etwas generationstypisch",
+    "namenskundlich aufgeladen"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Mittlere Bekanntheit im deutschsprachigen Raum; aktuell eher zurückhaltende, nicht dominante Präsenz."
+}

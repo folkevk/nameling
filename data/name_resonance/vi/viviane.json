@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "lateinisch bzw. etruskisch eingeordnet",
+    "Bedeutungsassoziationen: lebendig, fröhlich, lebhaft",
+    "Artussage / Nimue / Avalon",
+    "französisch-deutsch wahrgenommen",
+    "selten und dadurch markant",
+    "teilweise Unsicherheit bei Aussprache oder Schreibweise"
+  ],
+  "confidence": 0.71,
+  "display_text": "Viviane wirkt in Deutschland eher positiv bis neutral: klassisch, international und eher selten, mit freundlichen Bedeutungsassoziationen wie „lebendig“ und „fröhlich“. Die Quellenlage ist allerdings schwach und beruht vor allem auf Namensdatenbanken; einzelne Hinweise betreffen mögliche Ausspracheunsicherheiten.",
+  "evidence_quality": "mittel bis schwach: zwei vorwiegend lexikalische Namensquellen, wenig echte öffentliche Diskussionsdaten, insgesamt eher beschreibend als meinungsstark",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Viviane",
+  "normalized_name": "viviane",
+  "overall_resonance": "Viviane wirkt in den vorliegenden Namensquellen insgesamt eher positiv bis neutral: Der Name wird vor allem mit Bedeutungen wie „lebendig“, „fröhlich“ und „lebhaft“ verbunden. Die öffentliche Resonanz erscheint eher sachlich-wohlwollend als kontrovers.",
+  "practical_notes": [
+    "Für Suchmaschinen-Nutzer ist wichtig: Viviane wird meist freundlich und klassisch wahrgenommen.",
+    "Der Name ist weniger alltäglich, was ihn besonderer macht, aber auch zu Rückfragen bei Schreibweise oder Aussprache führen kann.",
+    "Die Quellenlage ist begrenzt; das Bild ist daher vorsichtig zu lesen."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt vor allem aus Namensdatenbanken, nicht aus breiten öffentlichen Diskussionen.",
+    "Einzelne Rückmeldungen nennen mögliche Ausspracheprobleme oder gelegentlich Hänseleien; das wirkt eher als mögliche Begleiterscheinung bei selteneren Namen als als allgemeiner Befund.",
+    "Keine belastbare Aussage über gesellschaftliche Stigmatisierung erkennbar."
+  ],
+  "short_summary": "Viviane wird in den Quellen überwiegend positiv bis neutral beschrieben: ein klassisch wirkender, eher seltener Name mit den Assoziationen lebendig, fröhlich und lebhaft. Öffentliche Rezeption ist vorhanden, aber die Evidenz dafür ist begrenzt.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.88,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Viviane � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/V/Vi/Viviane/"
+    },
+    {
+      "confidence": 0.72,
+      "is_name_discussion": true,
+      "sentiment": "eher positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Viviane: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Viviane.html"
+    }
+  ],
+  "style_effect": [
+    "elegant",
+    "international",
+    "traditionell",
+    "klingt lebendig",
+    "eher selten",
+    "leicht klassisch"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland eher bekannt, aber nicht sehr häufig; in den Quellen wird Viviane als eher seltener und dadurch etwas auffälliger Name beschrieben. Die Evidenz für echte öffentliche Meinung ist insgesamt begrenzt."
+}

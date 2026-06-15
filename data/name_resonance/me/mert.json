@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "türkischer Jungenname",
+    "persische/altpersische Herkunft",
+    "Bedeutungen wie tapfer, aufrichtig, mutig",
+    "kurzer männlicher Vorname",
+    "Beliebtheit in Deutschland",
+    "Spitznamen wie Merti oder Merto"
+  ],
+  "confidence": 0.84,
+  "display_text": "Mert wirkt in Deutschland überwiegend neutral bis leicht positiv: ein kurzer, klarer, türkisch geprägter Jungenname mit Bedeutungen wie tapfer oder aufrichtig. Die Evidenz stammt vor allem aus Namenslexika, daher ist die öffentliche Resonanz nur eingeschränkt abgesichert.",
+  "evidence_quality": "mittel: überwiegend beschreibende Namensseiten, wenig öffentliche Debatte, nur begrenzt community-basiert",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Mert",
+  "normalized_name": "mert",
+  "overall_resonance": "Überwiegend neutral bis leicht positiv: Der Name Mert wird in den Quellen vor allem als kurzer, klarer türkischer Jungenname mit positiver Bedeutungszuordnung beschrieben (z. B. tapfer, aufrichtig, mutig).",
+  "practical_notes": [
+    "Für Suchmaschinen eignet sich Mert als klarer, leicht merkbarer Vorname.",
+    "Die wahrgenommene Wirkung hängt stark vom Umfeld und vom individuellen Kontext ab.",
+    "Wegen der eher lexikalischen Quellenlage ist die öffentliche Resonanz nur eingeschränkt belastbar."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz basiert vor allem auf Namenslexika und einzelnen Community-Kommentaren; ein breiter öffentlicher Diskurs ist kaum erkennbar.",
+    "Aussagen zu Wirkung oder Beliebtheit sollten deshalb vorsichtig gelesen werden.",
+    "Es gibt keinen klaren Hinweis auf soziale Stigmatisierung in den Quellen."
+  ],
+  "short_summary": "Mert wird in Deutschland meist neutral bis leicht positiv wahrgenommen: kurz, männlich, türkisch geprägt und mit Eigenschaften wie tapfer oder aufrichtig verbunden. Die Quellenlage ist allerdings vor allem lexikalisch und nur begrenzt öffentlich diskutierend.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Mert � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/M/Me/Mert/"
+    },
+    {
+      "confidence": 0.88,
+      "is_name_discussion": true,
+      "sentiment": "mixed",
+      "source_type": "web",
+      "title": "&#9655; Vorname Mert: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Mert.html"
+    }
+  ],
+  "style_effect": [
+    "kurz und prägnant",
+    "modern und direkt",
+    "international bzw. türkisch geprägt",
+    "namenskundlich klar",
+    "eher sachlich als verspielt"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Im deutschen Namenskontext ist Mert sichtbar und bekannt, wirkt aber eher als moderner, klar zuordenbarer Vorname aus dem türkischsprachigen Umfeld als als breit diskutierter Mode- oder Debattenname."
+}

@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "altnordische Herkunft",
+    "schwedische Kurzform",
+    "Thor/Donnergott",
+    "Bedeutung in Richtung Donner und Bär",
+    "Namenstag",
+    "selten bis mäßig verbreitet in Deutschland"
+  ],
+  "confidence": 0.83,
+  "display_text": "Thorben wirkt in der öffentlichen Namenswahrnehmung überwiegend neutral bis leicht positiv: nordisch, markant und eher selten, mit klarer altnordischer Herkunft. Die Evidenz stammt vor allem aus Namenslexika, daher ist die Resonanz nur begrenzt direkt öffentlich belegt.",
+  "evidence_quality": "mittel bis gut; inhaltlich klare Namensquellen, aber wenig echte öffentliche Diskussion außerhalb von Lexikonseiten.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Thorben",
+  "normalized_name": "thorben",
+  "overall_resonance": "Überwiegend neutral bis leicht positiv; der Name wirkt in der öffentlichen Namensbeschreibung nordisch, markant und vertraut, ohne starke Polarisierung.",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt Thorben klar, eigenständig und gut einordbar.",
+    "Der Name ist im deutschen Kontext verständlich, aber nicht sehr häufig.",
+    "Spitznamen und Kurzformen können die Wirkung etwas weicher machen."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz kommt überwiegend aus Namensdatenbanken und ist daher eher beschreibend als diskursiv.",
+    "Es gibt nur begrenzte echte öffentliche Debatte oder Alltagsresonanz in den Quellen.",
+    "Positive Eindrücke sollten nicht als allgemeingültige Meinung über alle Träger des Namens verstanden werden."
+  ],
+  "short_summary": "Thorben wird öffentlich meist neutral bis freundlich wahrgenommen: ein nordisch geprägter, markanter und eher seltener Vorname mit klarer Herkunft.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Thorben � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/T/Th/Thorben/"
+    },
+    {
+      "confidence": 0.91,
+      "is_name_discussion": true,
+      "sentiment": "mostly positive",
+      "source_type": "web",
+      "title": "&#9655; Vorname Thorben: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Thorben.html"
+    }
+  ],
+  "style_effect": [
+    "nordisch-altnordisch",
+    "markant und klar",
+    "etwas traditionell-männlich",
+    "informativ statt modisch",
+    "selten, aber nicht exotisch"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Im deutschsprachigen Raum ist Thorben bekannt, aber eher selten bis mäßig verbreitet. Die vorhandenen Hinweise stammen vor allem aus Namenslexika, daher ist die öffentliche Resonanz nur begrenzt direkt belegbar."
+}

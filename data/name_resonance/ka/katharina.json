@@ -1,0 +1,62 @@
+{
+  "associations": [
+    "altgriechische Herkunft",
+    "Bedeutung in Richtung „die Reine“ / „die Unschuldige“",
+    "lange Verbreitung im deutschsprachigen Raum",
+    "Namenstag",
+    "Beliebtheit in Deutschland",
+    "viele Kurzformen und Varianten",
+    "Bezug zur heiligen Katharina von Alexandrien"
+  ],
+  "confidence": 0.87,
+  "display_text": "Katharina wirkt in der öffentlichen Wahrnehmung überwiegend positiv, klassisch und zeitlos. Der Name ist im deutschsprachigen Raum gut bekannt, historisch verankert und wird vor allem mit seiner traditionellen, namenskundlichen Bedeutung verbunden.",
+  "evidence_quality": "mittel bis gut; zwei einschlägige, überwiegend informative Namensquellen mit klarer Namensdiskussion, aber keine breite Social-Media- oder Forenlage",
+  "generated_at": "2026-06-12T06:08:03Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Katharina",
+  "normalized_name": "katharina",
+  "overall_resonance": "Katharina wird im deutschsprachigen Raum überwiegend sachlich bis positiv wahrgenommen. Der Name wirkt etabliert, traditionell und kulturell gut verankert; in den vorliegenden Quellen stehen Bedeutung, Herkunft und historische Kontinuität klar im Vordergrund.",
+  "practical_notes": [
+    "Für die öffentliche Wahrnehmung ist der Name gut anschlussfähig und leicht verständlich.",
+    "Die Wirkung ist eher klassisch als modisch-zeitgeistig.",
+    "Kurzformen und Varianten können je nach Umfeld die Wirkung etwas lockern."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt vor allem aus zwei Namenslexikon-/Infoseiten; sie zeigt eher Nachschlagewerk-Resonanz als breite öffentliche Debatte.",
+    "Keine belastbaren Hinweise auf eine negative gesellschaftliche Stigmatisierung in den Quellen.",
+    "Einzelne positive Kommentare sollten nicht als allgemeine Mehrheitsmeinung überinterpretiert werden."
+  ],
+  "short_summary": "Katharina wird meist positiv und klassisch wahrgenommen: ein traditionsreicher, etablierter Vorname mit klarer historischer und kultureller Verankerung.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.92,
+      "is_name_discussion": true,
+      "sentiment": "positive",
+      "source_type": "web",
+      "title": "Vorname Katharina � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/K/Ka/Katharina/"
+    },
+    {
+      "confidence": 0.91,
+      "is_name_discussion": true,
+      "sentiment": "positive",
+      "source_type": "web",
+      "title": "&#9655; Vorname Katharina: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Katharina.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "traditionsreich",
+    "serios",
+    "namenskundlich bekannt",
+    "leicht elegant",
+    "zeitlos"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "hoch"
+}

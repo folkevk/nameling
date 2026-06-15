@@ -1,0 +1,64 @@
+{
+  "associations": [
+    "altgriechischer Ursprung",
+    "Bedeutung im Sinn von Bauer/Landarbeiter",
+    "Heiliger Georg",
+    "Drachentöter-Legende",
+    "Namenstag",
+    "bekannt, aber nicht sehr häufig",
+    "in Deutschland zuletzt eher rückläufige Beliebtheit",
+    "Varianten und Verwandtschaftsformen wie George, Jörg, Jörn, Jürgen"
+  ],
+  "confidence": 0.84,
+  "display_text": "Georg gilt öffentlich als klassischer, traditionsreicher Vorname mit klarer historischer und namenskundlicher Prägung. Die Resonanz wirkt überwiegend positiv-neutral: bekannt, seriös und zeitlos, aber derzeit nicht besonders trendstark. In Deutschland wird der Name eher als etabliert und nicht sehr häufig beschrieben.",
+  "evidence_quality": "mittel: zwei einschlägige Namensquellen mit klarer Diskussion des Vornamens, aber begrenzter Breite an öffentlicher Rezeption",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Georg",
+  "normalized_name": "georg",
+  "overall_resonance": "Georg wird öffentlich meist als klassischer, traditionsreicher und klar verankerter Vorname wahrgenommen. Die Rezeption wirkt eher positiv bis neutral, mit starkem Fokus auf Herkunft, Bedeutung und historischem Bezug. Als sehr moderner Trendname erscheint er derzeit weniger; in Deutschland wird er eher als bekannt, aber nicht allzu häufig beschrieben.",
+  "practical_notes": [
+    "Für eine Namenssuche ist Georg leicht verständlich und kulturell gut anschlussfähig.",
+    "Der Name wirkt formal, seriös und traditionsbewusst.",
+    "Wer einen seltenen, aber vertrauten Namen sucht, findet hier eine passende Option.",
+    "Die Wahrnehmung ist eher klassisch als verspielt oder modern-experimentell."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Quellen sind überwiegend Namensdatenbanken und lexikalische Beschreibungen; echte öffentliche Meinungsdiskussionen sind nur begrenzt sichtbar.",
+    "Einzelne positive Eindrücke können aus Nutzerkommentaren stammen und sind daher nur vorsichtig zu gewichten.",
+    "Keine Hinweise auf eine spezifische gesellschaftliche Stigmatisierung des Namens in der vorliegenden Evidenz."
+  ],
+  "short_summary": "Georg wird überwiegend als klassischer, traditionsreicher Vorname mit historisch-religiösem Bezug wahrgenommen. Die öffentliche Resonanz ist eher positiv-neutral, bei nur mäßiger aktueller Sichtbarkeit.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.99,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Georg � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/G/Ge/Georg/"
+    },
+    {
+      "confidence": 0.91,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Georg: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Georg.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "traditionsreich",
+    "historisch",
+    "bodenständig",
+    "namenskundlich geprägt",
+    "eher zeitlos als trendy"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Mittlere Sichtbarkeit: Der Name ist gut bekannt und leicht einzuordnen, steht aber nicht im Zentrum aktueller Beliebtheitstrends. In der öffentlichen Wahrnehmung wirkt er eher etabliert als modisch."
+}

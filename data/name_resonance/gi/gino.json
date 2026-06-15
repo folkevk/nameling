@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "italienische Koseform oder Kurzform",
+    "Namenskundlich als männlicher Vorname eingeordnet",
+    "sachliche Diskussion von Herkunft und Bedeutung",
+    "Beliebtheit bzw. Häufigkeit in Deutschland",
+    "Namenstag",
+    "selten bis nicht sehr häufig wahrgenommen"
+  ],
+  "confidence": 0.82,
+  "display_text": "Gino wirkt im Deutschen überwiegend freundlich-neutral: ein kurzer, italienisch geprägter Vorname mit sachlich beschriebener Herkunft und eher geringer, aber vorhandener Bekanntheit. Die öffentliche Evidenz ist vor allem lexikalisch und daher nur begrenzt aussagekräftig.",
+  "evidence_quality": "mittel: zwei einschlägige Namensportale, aber überwiegend lexikalische statt breitöffentliche Evidenz",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Gino",
+  "normalized_name": "gino",
+  "overall_resonance": "Gino wird in der verfügbaren Evidenz überwiegend sachlich bis freundlich wahrgenommen. Der Name wirkt im deutschsprachigen Raum eher als italienisch geprägte, kurze und klangige Form, mit leicht positiver bis neutraler öffentlicher Resonanz.",
+  "practical_notes": [
+    "Für Suchmaschinen und Kurzporträts eignet sich eine neutrale Beschreibung als italienisch wirkender, kurzer Vorname.",
+    "Wenn Kontext wichtig ist, sollte die Herkunft als mögliche Kurz- oder Koseform vorsichtig formuliert werden, da unterschiedliche Deutungen genannt werden.",
+    "Die Resonanz lässt sich eher als freundlich-neutral denn als auffällig trendstark beschreiben."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz basiert überwiegend auf Namenslexikon- und Portaltexten; echte öffentliche Debatten sind nur indirekt ablesbar.",
+    "Positive oder negative Alltagskonnotationen sind aus der vorliegenden Evidenz nur eingeschränkt belastbar.",
+    "Keine belastbaren Hinweise auf gesellschaftliche Stigmatisierung in der vorliegenden Evidenz."
+  ],
+  "short_summary": "Gino wird in der verfügbaren Evidenz meist neutral bis positiv und als kurzer, italienisch wirkender Vorname wahrgenommen. Die Datenlage ist ordentlich, aber eher portalbasiert als breit öffentlich.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Gino � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/G/Gi/Gino/"
+    },
+    {
+      "confidence": 0.9,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Gino: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Gino.html"
+    }
+  ],
+  "style_effect": [
+    "kurz und prägnant",
+    "italienisch-angehaucht",
+    "modern bis klassisch",
+    "weich klingend",
+    "eher unkompliziert und markant"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland ist der Name bekannt, aber eher nicht stark verbreitet. Die öffentliche Sichtbarkeit scheint vor allem über Namenslexika, Bedeutungsseiten und Beliebtheitslisten zu laufen; breite Alltagsdiskussionen sind in der Evidenz kaum erkennbar."
+}

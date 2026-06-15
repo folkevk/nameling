@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "Rose / Rosenbild",
+    "Rosemarie / Rosalinde als mögliche Herleitung",
+    "Kurz- und Koseform",
+    "Beliebtheit",
+    "Namenslexikon und Bedeutung",
+    "Namenstag",
+    "moderne, unkomplizierte Wirkung"
+  ],
+  "confidence": 0.9,
+  "display_text": "Romy hat in Deutschland eine überwiegend positive, freundliche Resonanz. Der Name wird meist als kurz, modern und weiblich wahrgenommen und in Namenslexika mit Rosen-Bezügen, Kurzform-Charakter und Beliebtheit verbunden. Die Evidenz ist solide, aber vor allem beschreibend und nicht aus einer breiten öffentlichen Debatte.",
+  "evidence_quality": "Gut für eine vorsichtige Namensresonanz: zwei klare Namenslexikon-Quellen mit überwiegend positiver, beschreibender Darstellung; keine echte öffentliche Debatte.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Romy",
+  "normalized_name": "romy",
+  "overall_resonance": "Überwiegend positiv und freundlich, mit eher sachlich-lexikalischer als kontroverser öffentlicher Resonanz.",
+  "practical_notes": [
+    "Für Suchmaschinen und Namensverzeichnisse ist Romy gut etabliert und leicht auffindbar.",
+    "Der Name wirkt kurz, klar und international verständlich, im deutschen Kontext aber weiterhin vertraut.",
+    "Die Resonanz ist eher wohlwollend und unaufgeregt, ohne starke Polarisierung."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Herleitungen sind teils gemischt und nicht eindeutig; verschiedene Namenslexika nennen unterschiedliche Deutungen.",
+    "Die Evidenz stammt vor allem aus Namensportalen, nicht aus einer breiten Meinungsdiskussion.",
+    "Aussagen zur Wirkung sind daher als typische Namensassoziationen zu verstehen, nicht als objektive Eigenschaften."
+  ],
+  "short_summary": "Romy wird in deutschen Namensquellen überwiegend positiv, modern und freundlich beschrieben. Die öffentliche Resonanz ist eher wohlwollend als kontrovers, basiert aber vor allem auf Namenslexika.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "Vorname Romy � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/R/Ro/Romy/"
+    },
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Romy: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Romy.html"
+    }
+  ],
+  "style_effect": [
+    "kurz, modern und eingängig",
+    "weiblich wahrgenommen",
+    "alltagsnah und gut merkbar",
+    "mit leicht nostalgisch-romantischer Note",
+    "in Namenskontexten oft als schlichte Kose- oder Kurzform eingeordnet"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Hoch in Namenslexika und Vornamensportalen, im öffentlichen Diskurs aber eher als Name mit beschreibender als meinungsstarker Präsenz."
+}

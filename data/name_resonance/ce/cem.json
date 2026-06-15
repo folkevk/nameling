@@ -1,0 +1,58 @@
+{
+  "associations": [
+    "türkische Form bzw. türkisch geprägter Jungenname",
+    "verknüpft mit Herkunftsangaben aus dem persisch/iranischen Namensraum",
+    "Bedeutungsangaben wie „der Zwilling“ bzw. teils abweichende Deutungen in Quellen",
+    "Beliebtheit in Deutschland",
+    "gelegentlich mit Spitznamenformen assoziiert"
+  ],
+  "confidence": 0.77,
+  "display_text": "Cem: überwiegend neutral bis positiv wahrgenommen, gut bekannt in Deutschland, aber die öffentliche Resonanz ist nur schwach belegt und basiert vor allem auf Namenslexika.",
+  "evidence_quality": "mittel bis schwach: zwei überwiegend lexikalische Quellen, wenig echte öffentliche Debatte oder Nutzersprache",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Cem",
+  "normalized_name": "cem",
+  "overall_resonance": "Der Vorname Cem wirkt in der vorliegenden Evidenz überwiegend sachlich, modern und klar als türkisch geprägter Jungenname verortet. Öffentliche Resonanz ist eher positiv bis neutral, aber die Datenlage ist begrenzt und stammt vor allem aus Namenslexika statt aus breiter öffentlicher Diskussion.",
+  "practical_notes": [
+    "Für Suchmaschinen-Nutzende ist Cem ein gut etablierter, kurzer und klar erkennbarer Vorname.",
+    "Die Wahrnehmung wirkt eher neutral bis positiv, ohne starke Kontroversen in der vorliegenden Evidenz.",
+    "Bei der Einordnung sollte man die lexikalische Herkunftsangabe nicht als eindeutige öffentliche Mehrheitsmeinung verstehen."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz für öffentliche Resonanz ist schwach, weil sie überwiegend aus beschreibenden Namensdatenbanken stammt.",
+    "Beliebtheitsangaben sind eher Indizien als harte Messwerte.",
+    "Unterschiedliche Quellen nennen teils verschiedene Herkunfts- und Bedeutungsdeutungen; das ist bei Namenslexika nicht ungewöhnlich."
+  ],
+  "short_summary": "Cem wird in den Quellen überwiegend neutral bis positiv und als bekannter türkisch geprägter Jungenname beschrieben; die Evidenz zur öffentlichen Resonanz ist jedoch eher schwach und vor allem lexikalisch.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.88,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Cem � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/C/Ce/Cem/"
+    },
+    {
+      "confidence": 0.88,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Cem: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Cem.html"
+    }
+  ],
+  "style_effect": [
+    "kurz und prägnant",
+    "international bzw. interkulturell lesbar",
+    "modern ohne auffällige Exotik",
+    "namenskundlich klar einordenbar"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland ist Cem bekannt und sichtbar, vor allem in Namensverzeichnissen und Beliebtheitslisten. Die öffentliche Breitenresonanz wirkt vorhanden, aber nicht stark durch Diskurs belegt."
+}

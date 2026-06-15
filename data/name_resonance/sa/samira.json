@@ -1,0 +1,62 @@
+{
+  "associations": [
+    "arabische Herkunft",
+    "auch mit Sanskrit-Bezügen genannt",
+    "weiblicher Vorname",
+    "Bedeutungshinweise zu Abend/Nacht oder Morgenstern je nach Quelle",
+    "Deutschland",
+    "Beliebtheit bzw. häufige Listung in Namensdatenbanken"
+  ],
+  "confidence": 0.82,
+  "display_text": "Samira wird in den vorliegenden Quellen überwiegend positiv und neutral wahrgenommen: als klangvoller, moderner, international geprägter Mädchenname, der in Deutschland bekannt ist. Die Aussagen zur Beliebtheit und Bedeutung stammen jedoch vor allem aus Namenslexika; die direkte öffentliche Resonanz ist daher nur begrenzt belegt.",
+  "evidence_quality": "mittel: zwei passende Namensquellen, aber überwiegend lexikalisch/sekundär und nur begrenzt direktes Publikumsfeedback",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Samira",
+  "normalized_name": "samira",
+  "overall_resonance": "Samira wird in den vorliegenden deutschsprachigen Quellen überwiegend als klangvoller, weiblicher Vorname mit internationaler bzw. arabischer Prägung beschrieben. Die öffentliche Rezeption wirkt eher positiv bis neutral; starke Gegenreaktionen oder belastbare Hinweise auf Stigmatisierung sind in der Evidenz nicht erkennbar.",
+  "practical_notes": [
+    "Für eine Suchmaschine eignet sich eine neutrale bis positive Kurzbeschreibung.",
+    "Am besten den Namen als international geprägten, in Deutschland bekannten Mädchennamen darstellen.",
+    "Keine überstarken Aussagen zur Beliebtheit machen, da die Datenlage dafür nur indirekt ist."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz zur tatsächlichen öffentlichen Meinung ist begrenzt und stützt sich vor allem auf Namenslexika statt auf breite Diskussionen.",
+    "Bedeutungsangaben variieren je nach Quelle; sie sollten daher vorsichtig formuliert werden.",
+    "Keine Hinweise auf gesellschaftliche Stigmatisierung in den vorliegenden Quellen erkennbar."
+  ],
+  "short_summary": "Samira wirkt in deutschen Namensquellen überwiegend positiv und klangvoll, mit international-arabischer Prägung. Die echte öffentliche Resonanz ist aber nur indirekt belegt.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.99,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Samira � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/S/Sa/Samira/"
+    },
+    {
+      "confidence": 0.89,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Samira: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Samira.html"
+    }
+  ],
+  "style_effect": [
+    "klangvoll",
+    "modern",
+    "international",
+    "weiblich",
+    "eher weich und elegant wirkend",
+    "namenskundlich aufgeladen",
+    "gut verständlich im deutschen Kontext"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Der Name ist in Namenslexika und Babyvornamen-Portalen klar sichtbar und wird in Deutschland als geläufiger Vorname geführt. Die konkrete öffentliche Resonanz ist jedoch nur indirekt belegt, da die Quellen vor allem namenskundlich und weniger diskussionsbasiert sind."
+}

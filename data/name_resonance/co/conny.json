@@ -1,0 +1,72 @@
+{
+  "associations": [
+    "Kurzform/Koseform",
+    "Unisex-Name",
+    "Cornelia",
+    "Constanze",
+    "Cornelius",
+    "Conrad",
+    "lateinischer Ursprung",
+    "althochdeutscher Ursprung",
+    "selten in Deutschland",
+    "Namenstag"
+  ],
+  "confidence": 0.74,
+  "display_text": "Conny: überwiegend neutral und vertraut, als Kurz- bzw. Koseform bekannt, in Deutschland eher selten. Die öffentliche Resonanz ist nach den vorliegenden Quellen vor allem namenkundlich und nicht stark trend- oder meinungsgeprägt.",
+  "evidence_quality": "Begrenzt: mehrere konsistente Namensseiten, aber kaum echte öffentliche Meinungs- oder Diskursdaten.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Conny",
+  "normalized_name": "conny",
+  "overall_resonance": "Conny wirkt in den vorliegenden Quellen vor allem sachlich-informativ und eher vertraut als modisch. Der Name wird als Kurz- bzw. Koseform mit klaren Namensbezügen beschrieben, zugleich aber in Deutschland eher als selten eingeordnet. Eine breite öffentliche Meinungsresonanz ist aus der Evidenz nur eingeschränkt ableitbar.",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt Conny unkompliziert, freundlich und alltagstauglich.",
+    "Der Name kann je nach Kontext eher als Spitzname oder als eigenständiger Vorname wahrgenommen werden.",
+    "Da die Quellen den Namen als eher selten beschreiben, ist die Wirkung eher individuell als massenhaft verbreitet."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz für öffentliche Resonanz ist schwach und stammt fast ausschließlich aus Namenslexika bzw. Namensseiten.",
+    "Es lassen sich daraus keine belastbaren Aussagen über gesellschaftliche Vorurteile oder aktuelle Trenddeutungen ableiten."
+  ],
+  "short_summary": "Conny wird überwiegend neutral und informativ wahrgenommen: als vertraute Kurzform mit klaren Namensbezügen, in Deutschland eher selten.",
+  "source_count": 3,
+  "sources": [
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Conny � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/C/Co/Conny/"
+    },
+    {
+      "confidence": 0.92,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Conny � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/C/Co/Conny/"
+    },
+    {
+      "confidence": 0.94,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Conny: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Conny.html"
+    }
+  ],
+  "style_effect": [
+    "informativ",
+    "namenskundlich",
+    "lexikalisch",
+    "neutral",
+    "vertraut",
+    "kurz und umgangssprachlich"
+  ],
+  "usable_evidence_count": 3,
+  "visibility": "Eher gering bis mittel: Der Name ist bekannt, aber in den Quellen wird er nicht als besonders häufig oder trendstark dargestellt. Die öffentliche Wahrnehmung wirkt daher eher randständig und namenkundlich als stark popkulturell geprägt."
+}

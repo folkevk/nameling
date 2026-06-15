@@ -1,0 +1,58 @@
+{
+  "associations": [
+    "germanische Herkunft bzw. althochdeutsche Wurzeln",
+    "Bedeutung im Sinn von Rat/Ratgeber und Wolf",
+    "spanische, italienische und portugiesische Namensform",
+    "bekannt, aber nicht sehr häufig in Deutschland",
+    "Namenstag wird in den Quellen genannt"
+  ],
+  "confidence": 0.88,
+  "display_text": "Raul wirkt in Deutschland überwiegend neutral bis leicht positiv: ein bekannter, eher seltener Jungenname mit internationalem Klang und klarer namenskundlicher Herkunft. Die verfügbare Evidenz ist jedoch vor allem lexikalisch und zeigt kaum breite öffentliche Diskussion.",
+  "evidence_quality": "Mittel bis gut, aber thematisch eng: belastbare Namenslexikon-Informationen, jedoch kaum echte öffentliche Diskussion oder breite Meinungsvielfalt.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Raul",
+  "normalized_name": "raul",
+  "overall_resonance": "Überwiegend neutral bis leicht positiv. Der Name Raul wird in den vorliegenden Quellen vor allem sachlich als international gebräuchlicher Jungenname mit klarer Herkunft und Bedeutung dargestellt. Eine starke öffentliche Debatte ist nicht erkennbar.",
+  "practical_notes": [
+    "Für die öffentliche Wahrnehmung wirkt Raul eher unkompliziert, international und traditionsnah.",
+    "Der Name ist gut aussprechbar und im deutschsprachigen Raum nachvollziehbar, ohne stark alltäglich zu sein.",
+    "Die vorliegende Datenlage spricht eher für eine sachlich-positive als für eine polarisierende Wirkung."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt fast ausschließlich aus Namenslexika und Steckbriefseiten, nicht aus breiter öffentlicher Resonanz.",
+    "Wertungen sind daher nur vorsichtig ableitbar.",
+    "Keine Hinweise auf eine relevante soziale Stigmatisierung in den Quellen."
+  ],
+  "short_summary": "Raul wird in den Quellen überwiegend neutral bis leicht positiv als internationaler, traditionsreicher Jungenname mit klarer Herkunft und Bedeutung beschrieben.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.94,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Raul � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/R/Ra/Raul/"
+    },
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Raul: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Raul.html"
+    }
+  ],
+  "style_effect": [
+    "informativ",
+    "klassisch-international",
+    "namenskundlich",
+    "kurz und gut merkbar"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Mittel: Der Name ist in Deutschland bekannt, wirkt aber eher selten als massenhaft verbreitet. Die Sichtbarkeit entsteht vor allem durch Namenslexika und nicht durch intensive öffentliche Diskussion."
+}

@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "französische Form von Matthias",
+    "hebräische/biblische Herkunft",
+    "Bedeutung: „Geschenk Gottes“ bzw. „Gabe Jahwes“",
+    "eher selten in Deutschland",
+    "Namenstag wird in den Quellen genannt",
+    "kurze Spitznamen wie Mathi oder Mats werden erwähnt"
+  ],
+  "confidence": 0.72,
+  "display_text": "Mathieu klingt in Deutschland eher selten, französisch und klassisch. Die öffentliche Resonanz wirkt überwiegend neutral bis leicht positiv, basiert aber vor allem auf Namenslexika statt auf breiter Diskussion.",
+  "evidence_quality": "mittel bis schwach: inhaltlich gute Namensbeschreibungen, aber kaum echte öffentliche Debatten oder große Resonanzdaten.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Mathieu",
+  "normalized_name": "mathieu",
+  "overall_resonance": "Die öffentliche Resonanz auf „Mathieu“ in Deutschland wirkt eher positiv bis neutral und zugleich eher nüchtern-informativ. Der Name wird vor allem als französische Form von Matthias wahrgenommen und mit einer klassischen, internationalen Note verbunden. Zugleich deutet die Evidenz darauf hin, dass der Name in Deutschland eher selten ist.",
+  "practical_notes": [
+    "Der Name wirkt in Deutschland eher international als deutsch-traditionell.",
+    "Durch die Seltenheit kann er als markant und individuell wahrgenommen werden.",
+    "Die französische Schreibweise kann zu Nachfragen zur Aussprache führen.",
+    "Für eine Namenssuchmaschine ist eine neutrale bis leicht positive Einordnung angemessen."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist schmal und stammt fast nur aus Namenslexika, nicht aus breiten öffentlichen Diskussionen.",
+    "Die Einschätzung zur Resonanz ist daher vorsichtig zu lesen und eher beschreibend als repräsentativ.",
+    "Keine Hinweise auf eine soziale Stigmatisierung in der vorliegenden Evidenz."
+  ],
+  "short_summary": "„Mathieu“ wird in Deutschland eher selten, international und klassisch wahrgenommen; die Resonanz wirkt überwiegend neutral bis leicht positiv, basiert aber vor allem auf lexikalischen Quellen.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.94,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Mathieu � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/M/Ma/Mathieu/"
+    },
+    {
+      "confidence": 0.88,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Mathieu: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Mathieu.html"
+    }
+  ],
+  "style_effect": [
+    "französisch und international klingend",
+    "klassisch-biblische Anmutung",
+    "modern-elegant, aber zurückhaltend",
+    "namenskundlich gut einordnbar",
+    "selten, daher eher auffällig als Mainstream"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Eher geringe bis mittlere Sichtbarkeit in Deutschland; bekannt, aber nicht sehr verbreitet."
+}

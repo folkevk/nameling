@@ -1,0 +1,63 @@
+{
+  "associations": [
+    "lateinische bzw. römische Herkunft",
+    "Bedeutungsdeutungen wie „die Blinde“ und teils „die Himmlische“",
+    "heilige Cecilia",
+    "Namenstag am 22. November",
+    "Kirchenmusik bzw. Musikpatronin",
+    "weiblicher Vorname",
+    "Beliebtheit in Deutschland",
+    "Spitznamen wie Ceci, Cici, Lia"
+  ],
+  "confidence": 0.83,
+  "display_text": "Cecilia wirkt in Deutschland überwiegend positiv, klassisch und elegant. Der Name ist kulturell gut verankert, wird mit lateinischer Herkunft, dem Namenstag am 22. November und der heiligen Cecilia verbunden und hat eine leichte Musik-Assoziation. Die Quellenlage ist allerdings eher schmal und vor allem namenskundlich geprägt.",
+  "evidence_quality": "mittel: klare Namensdiskussion, aber nur wenige, überwiegend textbasierte Quellen mit begrenzter Breite.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Cecilia",
+  "normalized_name": "cecilia",
+  "overall_resonance": "Überwiegend positiv bis neutral-informativ. Cecilia wird in den vorliegenden deutschsprachigen Namensquellen als klassischer, klangvoller und kulturell gut verankerter Vorname beschrieben, mit klaren Bezügen zu Herkunft, Bedeutung und Namenstag.",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt Cecilia in Deutschland eher hochwertig, klassisch und leicht festlich.",
+    "Der Name ist gut erklärbar und bietet mehrere bekannte Kurzformen.",
+    "Die kulturellen und religiösen Bezüge können je nach Kontext als Pluspunkt oder als eher traditionell wahrgenommen werden."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt nur aus zwei Namenslexikon-/Infoseiten; die öffentliche Wahrnehmung ist damit nur eingeschränkt abgesichert.",
+    "Die Bedeutungen werden teils unterschiedlich oder historisch umgedeutet dargestellt; solche Deutungen sollten nicht als einzige Wahrheit gelesen werden.",
+    "Keine Hinweise auf soziale Stigmatisierung oder problematische Namensvorurteile in der vorliegenden Evidenz."
+  ],
+  "short_summary": "Cecilia wird im deutschen Namenskontext meist positiv und sachlich wahrgenommen: klassisch, klangvoll und mit starker kultureller sowie musikalischer Assoziation. Die Evidenz ist jedoch begrenzt und stammt vor allem aus Namenslexika.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "Vorname Cecilia � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/C/Ce/Cecilia/"
+    },
+    {
+      "confidence": 0.95,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Cecilia: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Cecilia.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "elegant",
+    "weiblich",
+    "international anschlussfähig",
+    "namenskundlich aufgeladen",
+    "leicht musikalisch assoziiert"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Im deutschsprachigen Namenskontext sichtbar und etabliert, allerdings eher als sachlich recherchierter Vorname als als stark trendiger Mainstream-Name."
+}

@@ -1,0 +1,58 @@
+{
+  "associations": [
+    "„Melodie“",
+    "Musik und Gesang",
+    "englischer weiblicher Vorname",
+    "modernes Namensbild",
+    "positive, klangbezogene Wirkung"
+  ],
+  "confidence": 0.79,
+  "display_text": "Melody wirkt in Deutschland überwiegend positiv: musikalisch, modern und international. Die Evidenz ist eher begrenzt, deutet aber auf eine freundliche, klangbetonte Namenswirkung hin.",
+  "evidence_quality": "mittel: zwei überwiegend namenskundliche Quellen mit positiven, aber teils gemischten und nicht rein repräsentativen Hinweisen.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Melody",
+  "normalized_name": "melody",
+  "overall_resonance": "Überwiegend positiv und modern; der Name wird vor allem mit Musik, Leichtigkeit und einer freundlichen, internationalen Wirkung verbunden.",
+  "practical_notes": [
+    "Gut geeignet, wenn ein klar internationaler und klangbetonter Name gewünscht ist.",
+    "Die Schreibweise ist einfach, die Aussprache kann je nach Kontext unterschiedlich betont werden.",
+    "Die Wahrnehmung dürfte eher ungewöhnlich als alltäglich sein."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist nur begrenzt belastbar und stammt vor allem aus Namenslexika mit teils gemischten Inhalten.",
+    "Es gibt Hinweise auf positive Kommentare und kulturelle Referenzen, diese sind aber nicht gleichzusetzen mit einer breiten öffentlichen Meinung in Deutschland."
+  ],
+  "short_summary": "Melody wird in Deutschland meist positiv, modern und musikalisch wahrgenommen. Die Evidenz ist jedoch begrenzt und eher lexikalisch als repräsentativ.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.95,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "Vorname Melody � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/M/Me/Melody/"
+    },
+    {
+      "confidence": 0.9,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Melody: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Melody.html"
+    }
+  ],
+  "style_effect": [
+    "musikalisch",
+    "modern",
+    "englisch/international",
+    "weich und melodisch klingend",
+    "jung und freundlich wirkend"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland ist Melody als eher moderner, auffälliger Vorname wahrnehmbar, aber nicht als klassischer Standardname. Die öffentliche Rezeption wirkt eher Nischen- als Alltagsname."
+}

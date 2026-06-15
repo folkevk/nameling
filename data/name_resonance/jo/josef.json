@@ -1,0 +1,65 @@
+{
+  "associations": [
+    "hebräischer Ursprung",
+    "Bedeutung: \"Gott möge hinzufügen\"",
+    "biblischer Name",
+    "christliche/katholische Tradition",
+    "Namenstag",
+    "klassischer Vorname",
+    "historisch beliebt",
+    "Deutschland",
+    "Bayern",
+    "Sepp",
+    "Jupp"
+  ],
+  "confidence": 0.93,
+  "display_text": "Josef wird in Deutschland meist als klassischer, biblisch geprägter und traditionsreicher Vorname wahrgenommen. Die verfügbare Evidenz ist vor allem lexikalisch und zeigt eine eher positive, sachliche Resonanz ohne Hinweise auf Stigmatisierung.",
+  "evidence_quality": "gut für die Namensbedeutung und traditionelle Einordnung, aber begrenzt für echte öffentliche Breitenresonanz außerhalb von Namensportalen",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Josef",
+  "normalized_name": "josef",
+  "overall_resonance": "Josef wird in Deutschland überwiegend als klassischer, traditionsreicher und eher positiv besetzter Vorname wahrgenommen. Die öffentliche Rezeption wirkt sachlich bis warm, mit klaren Bezügen zu biblischer Herkunft, christlicher Tradition und regionaler Verankerung.",
+  "practical_notes": [
+    "Für eine Suchmaschine eignet sich die Einordnung als klassischer, traditionsreicher Jungenname.",
+    "Spitznamen und regionale Kurzformen können die Wahrnehmung im Alltag mitprägen.",
+    "Keine belastbaren Hinweise auf negative Stigmatisierung in der vorliegenden Evidenz."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt fast ausschließlich aus Namenslexika und Portalen, also eher aus beschreibender als aus breiter öffentlicher Meinungsbildung.",
+    "Die Wahrnehmung ist stark traditionsbezogen; daraus sollte nicht auf allgemeine gesellschaftliche Bewertungen einzelner Träger geschlossen werden."
+  ],
+  "short_summary": "Josef gilt in Deutschland als klassischer, biblisch geprägter und eher positiv konnotierter Vorname mit traditioneller Ausstrahlung.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "positive",
+      "source_type": "web",
+      "title": "Vorname Josef � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/J/Jo/Josef/"
+    },
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Josef: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Josef.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "traditionell",
+    "biblisch",
+    "historisch",
+    "bodenständig",
+    "regional verankert"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Gut erkennbar und bekannt, aber eher als traditioneller Name als als moderner Trendname. In Namensportalen erscheint er regelmäßig und wird vor allem lexikalisch-historisch eingeordnet."
+}

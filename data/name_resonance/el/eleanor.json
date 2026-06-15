@@ -1,0 +1,63 @@
+{
+  "associations": [
+    "englische Variante von Eleonore",
+    "altfranzösisch/altgermanische Namenswurzeln",
+    "Bedeutungsdeutungen wie \"die Barmherzige\" oder \"die Mitfühlende\"",
+    "auch als \"erhaben\" oder \"edel\" beschrieben",
+    "mehrsprachig und international anschlussfähig",
+    "Spitznamen-Optionen wie Elli, Ellie oder Nora"
+  ],
+  "confidence": 0.78,
+  "display_text": "Eleanor wirkt in den Quellen überwiegend positiv: elegant, klassisch und international. In Deutschland ist der Name eher selten und dadurch etwas besonderer; die Evidenz ist aber vor allem lexikalisch und nur eingeschränkt ein direktes Bild öffentlicher Breitenresonanz.",
+  "evidence_quality": "mittel bis eingeschränkt: zwei klare Namensdiskussionen, aber überwiegend sekundäre, lexikalische Quellen mit nur begrenzter öffentlicher Breitenresonanz.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Eleanor",
+  "normalized_name": "eleanor",
+  "overall_resonance": "Überwiegend positiv und eher elegant-international wahrgenommen, in Deutschland zugleich noch vergleichsweise selten bzw. nicht sehr alltäglich. Die vorhandene Evidenz ist überwiegend namenskundlich und damit nur eingeschränkt ein Abbild öffentlicher Breitenresonanz.",
+  "practical_notes": [
+    "Für Deutschland wirkt Eleanor eher stilvoll und etwas besonderer als sehr häufig.",
+    "Die Schreibweise ist klar, aber die Aussprache kann je nach Umfeld kurz erklärt werden müssen.",
+    "Die Namenswirkung ist eher klassisch als modisch; dadurch relativ zeitlos.",
+    "Durch internationale Verwendbarkeit ist der Name in mehrsprachigen Kontexten gut anschlussfähig."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt vor allem aus Namenslexika und weniger aus breiter öffentlicher Debatte; die Aussagekraft für echte Alltagsresonanz ist daher begrenzt.",
+    "Einige Deutungen und Stilurteile sind quellenabhängig und teils subjektiv.",
+    "Beliebtheits- und Bekanntheitsangaben sollten vorsichtig gelesen werden, da sie nicht durch belastbare Marktdaten belegt sind."
+  ],
+  "short_summary": "Eleanor wird in den vorliegenden Quellen überwiegend positiv, elegant und international wahrgenommen; in Deutschland gilt der Name eher als selten und leicht besonders.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.94,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Eleanor � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/E/El/Eleanor/"
+    },
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "positive",
+      "source_type": "web",
+      "title": "&#9655; Vorname Eleanor: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Eleanor.html"
+    }
+  ],
+  "style_effect": [
+    "elegant",
+    "klassisch",
+    "edel",
+    "international",
+    "zeitlos",
+    "namenskundlich geprägt",
+    "leicht selten wirkend"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Mittlere Sichtbarkeit: bekannt, aber nicht massenhaft verbreitet; in deutschen Namenskontexten eher auffällig als völlig geläufig."
+}

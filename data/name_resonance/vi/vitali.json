@@ -1,0 +1,62 @@
+{
+  "associations": [
+    "lateinischer Ursprung",
+    "russische/ukrainische Form von Vitalis",
+    "lebendig",
+    "Leben spendend",
+    "kräftig",
+    "der Gesunde",
+    "Namenstag",
+    "selten bis moderat verwendet"
+  ],
+  "confidence": 0.82,
+  "display_text": "Vitali wirkt in Deutschland überwiegend sachlich und leicht positiv. Der Name wird vor allem mit „lebendig“, „Leben spendend“ und „kräftig“ verbunden und gilt eher als selten bis moderat verbreitet. Die Evidenz stammt hauptsächlich aus Namenslexika, daher ist die öffentliche Resonanz nur vorsichtig zu bewerten.",
+  "evidence_quality": "mittel bis eher schwach: die Quellen sind einschlägige Namensseiten mit klarer Namensdiskussion, aber nur begrenzter Breite der öffentlichen Rezeption.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Vitali",
+  "normalized_name": "vitali",
+  "overall_resonance": "Überwiegend sachlich bis leicht positiv. Der Name wird in den Quellen vor allem namenskundlich beschrieben und mit Bedeutungen wie „lebendig“, „Leben spendend“ und „kräftig“ verbunden. Für den deutschen Kontext erscheint Vitali eher selten bis moderat verwendet, ohne klare Hinweise auf starke öffentliche Polarisierung.",
+  "practical_notes": [
+    "Wirkt klar, international verständlich und eher traditionsnah.",
+    "Durch die seltenere Verwendung kann der Name auffallen, ohne exzentrisch zu wirken.",
+    "Die Bedeutung ist in den Quellen klar positiv konnotiert, sollte aber nicht als allgemeine Eigenschaft von Namensträgern missverstanden werden."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist begrenzt und stammt überwiegend aus Namensdatenbanken.",
+    "Öffentliche Resonanz lässt sich daher nur vorsichtig ableiten.",
+    "Keine belastbaren Hinweise auf Stigmatisierung oder negative gesellschaftliche Zuschreibungen in den vorliegenden Quellen."
+  ],
+  "short_summary": "Vitali wird in Deutschland überwiegend sachlich und leicht positiv wahrgenommen, mit Bedeutungen rund um Leben und Vitalität; der Name ist eher selten bis moderat verbreitet.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Vitali � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/V/Vi/Vitali/"
+    },
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "eher positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Vitali: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Vitali.html"
+    }
+  ],
+  "style_effect": [
+    "informativ",
+    "klassisch-sachlich",
+    "leicht markant",
+    "namenskundlich",
+    "eher selten als sehr verbreitet"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland eher bekannt, aber nicht häufig. Die Wahrnehmung wirkt vor allem durch Namenslexika und Vornamensseiten geprägt; belastbare Hinweise auf breite Alltagsresonanz sind nur eingeschränkt vorhanden."
+}

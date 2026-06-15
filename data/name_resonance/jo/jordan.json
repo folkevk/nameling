@@ -1,0 +1,70 @@
+{
+  "associations": [
+    "Fluss Jordan",
+    "biblischer Bezug",
+    "hebräische Herkunft",
+    "Bedeutung: der/die Herabsteigende",
+    "Unisex-Name",
+    "international verbreitet",
+    "in Deutschland bekannt"
+  ],
+  "confidence": 0.88,
+  "display_text": "Jordan wird in Deutschland überwiegend sachlich bis leicht positiv wahrgenommen: international, bekannt und mit biblisch-hebräischer Prägung. Die Quellen zeichnen den Namen als modernen, klaren Unisex-Namen mit guter Wiedererkennbarkeit. Da die Evidenz vor allem aus Namenslexika stammt, ist die öffentliche Resonanz nur indirekt ableitbar.",
+  "evidence_quality": "mittel bis gut: mehrere klare Namenslexikon-Quellen, aber nur indirekte Rückschlüsse auf öffentliche Resonanz",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Jordan",
+  "normalized_name": "jordan",
+  "overall_resonance": "Jordan wird in den vorliegenden deutschsprachigen Namensquellen überwiegend sachlich bis leicht positiv dargestellt: als internationaler, biblisch/hebräisch geprägter Unisex-Name mit klarer Bedeutung und Wiedererkennungswert. Die öffentliche Rezeption wirkt eher informativ als emotional, mit tendenziell moderner, unkomplizierter Ausstrahlung.",
+  "practical_notes": [
+    "Für Suchmaschinen eignet sich Jordan als gut verständlicher, international anschlussfähiger Vorname.",
+    "Der Name wirkt in Deutschland vertraut, ohne stark festgelegt zu sein.",
+    "Je nach Kontext kann Jordan eher modern-neutral oder biblisch-traditionell gelesen werden."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt überwiegend aus Namenslexika und ist daher nur begrenzt als echte öffentliche Meinungsresonanz zu werten.",
+    "Einzelne Stilzuschreibungen sind eher Ableitungen aus Herkunft und Nutzung als direkt geäußerte Bewertungen.",
+    "Keine Hinweise auf eine starke soziale Stigmatisierung in den vorliegenden Quellen."
+  ],
+  "short_summary": "Jordan wirkt im deutschsprachigen Raum bekannt, international und leicht positiv wahrgenommen, vor allem als biblisch-hebräischer Unisex-Name. Die Evidenz ist solide, aber überwiegend lexikalisch statt meinungsbasiert.",
+  "source_count": 3,
+  "sources": [
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Jordan � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/J/Jo/Jordan/"
+    },
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Jordan � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/J/Jo/Jordan/"
+    },
+    {
+      "confidence": 0.92,
+      "is_name_discussion": true,
+      "sentiment": "eher positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Jordan: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Jordan.html"
+    }
+  ],
+  "style_effect": [
+    "international und zeitgemäß",
+    "neutral bis freundlich",
+    "klar, kurz und einprägsam",
+    "biblisch-traditionell mit modernem Klang",
+    "Unisex-Assoziation",
+    "eher sachlich als extravagant"
+  ],
+  "usable_evidence_count": 3,
+  "visibility": "Im deutschen Raum bekannt und gut auffindbar, aber nicht extrem häufig. Die Quellen deuten auf solide, eher breite Wahrnehmung in Namenslexika hin; belastbare freie Meinungsäußerungen sind jedoch nur eingeschränkt vorhanden."
+}

@@ -1,0 +1,62 @@
+{
+  "associations": [
+    "weiblicher Vorname",
+    "altnordische Herkunft",
+    "Bedeutungsdeutungen wie „ewig junge Frau“",
+    "mögliche Deutungen wie „junge Kriegerin“ oder „Jungfrau“",
+    "Bezug zu Sven",
+    "niederdeutsche/friesische Namensform",
+    "Beliebtheit in Deutschland",
+    "Namenstag in einigen Quellen"
+  ],
+  "confidence": 0.82,
+  "display_text": "Svenja: überwiegend neutral bis leicht positiv wahrgenommen. Ein etablierter weiblicher Vorname mit nordischer Prägung, freundlich und vertraut wirkend; die Evidenz ist vor allem lexikalisch und damit nur begrenzt als öffentliche Meinungslage belastbar.",
+  "evidence_quality": "mittel: mehrere klare Namenslexikon-Quellen, aber wenig direkte öffentliche Meinungsäußerung",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Svenja",
+  "normalized_name": "svenja",
+  "overall_resonance": "Svenja wird in der verfügbaren Evidenz überwiegend sachlich und eher positiv wahrgenommen: als weiblicher Vorname mit nordischer bzw. niederdeutsch-friesischer Prägung, der als vertraut und etabliert beschrieben wird. Die öffentliche Rezeption wirkt eher informativ als emotional.",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt Svenja klar weiblich und gut einordenbar.",
+    "Der Name hat eine vertraute, bodenständige Wirkung mit nordischem Einschlag.",
+    "Die Quellenlage spricht eher für einen etablierten Namen als für einen stark polarisierenden."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist überwiegend lexikalisch und damit nur bedingt ein Maß für echte öffentliche Meinung.",
+    "Mehrere Bedeutungsangaben variieren je nach Quelle; die Herkunftsdeutung ist daher nicht eindeutig.",
+    "Keine Hinweise auf soziale Stigmatisierung in der vorliegenden Evidenz."
+  ],
+  "short_summary": "Svenja wird in den verfügbaren Quellen überwiegend neutral bis leicht positiv beschrieben: ein etablierter, weiblicher Vorname mit nordischer Prägung und vertrauter, freundlicher Wirkung.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Svenja � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/S/Sv/Svenja/"
+    },
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Svenja: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Svenja.html"
+    }
+  ],
+  "style_effect": [
+    "weich und freundlich",
+    "modern-traditionell",
+    "nordisch geprägt",
+    "kurz und eingängig",
+    "seriös statt verspielt"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland gut bekannt und sichtbar, mit klarer Namenszuordnung und solider Präsenz in Namenslexika und Beliebtheitskontexten. Die Evidenz zur öffentlichen Resonanz ist jedoch vor allem beschreibend, nicht meinungsstark."
+}

@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "althochdeutsche bzw. altdeutsche Herkunft",
+    "Bedeutung: „Mann des Volkes“ / „Volksmann“",
+    "Namenstag am 16. Januar",
+    "Schreibvariante: Tilmann",
+    "selten bis moderat verbreitet"
+  ],
+  "confidence": 0.84,
+  "display_text": "Tillmann wird meist sachlich-neutral bis leicht positiv eingeordnet: ein klassisch-altdeutscher, traditionsnaher Name mit der Bedeutung „Mann des Volkes“. Die öffentliche Evidenz ist allerdings begrenzt und stammt vor allem aus Namenslexika; außerhalb davon ist keine starke Resonanz erkennbar.",
+  "evidence_quality": "mittel bis schwach: mehrere einschlägige Namensquellen, aber wenig echte öffentliche Diskussion und kaum unabhängige Resonanzdaten",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Tillmann",
+  "normalized_name": "tillmann",
+  "overall_resonance": "Der Vorname Tillmann wird in den vorliegenden Quellen überwiegend sachlich-neutral und leicht positiv beschrieben. Er wirkt traditionsnah, altdeutsch geprägt und insgesamt eher selten bis moderat verbreitet. Eine breite öffentliche Debatte oder starke emotionale Aufladung ist in der Evidenz nicht erkennbar.",
+  "practical_notes": [
+    "Für eine Namenssuchmaschine eignet sich eine kurze, traditionelle und nüchterne Beschreibung.",
+    "Der Name kann als klassisch und historisch verankert wahrgenommen werden.",
+    "Wegen der begrenzten Evidenz sollte keine starke Aussage zur aktuellen Popularität gemacht werden."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt fast ausschließlich aus Namenslexika und ist daher nur eingeschränkt geeignet, echte öffentliche Wahrnehmung abzubilden.",
+    "Einzelne positive Einschätzungen sind eher beschreibend als repräsentativ.",
+    "Keine Hinweise auf eine relevante Stigmatisierung oder negative gesellschaftliche Bewertung in der vorliegenden Evidenz."
+  ],
+  "short_summary": "Tillmann wird überwiegend neutral bis leicht positiv, traditionsnah und eher selten wahrgenommen; die öffentliche Evidenz ist jedoch begrenzt und stammt vor allem aus Namenslexika.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.95,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Tillmann � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/T/Ti/Tillmann/"
+    },
+    {
+      "confidence": 0.87,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Tillmann: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Tillmann.html"
+    }
+  ],
+  "style_effect": [
+    "informativ",
+    "namenskundlich",
+    "traditionsbezogen",
+    "eher klassisch",
+    "sachlich",
+    "leicht positiv konnotiert"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Die Sichtbarkeit des Namens erscheint vor allem in Namenslexika und Vornamensportalen; belastbare Hinweise auf eine breitere öffentliche Resonanz außerhalb solcher Namensseiten sind schwach."
+}

@@ -1,0 +1,58 @@
+{
+  "associations": [
+    "lateinischer Ursprung",
+    "Bedeutung: der Wiedergeborene",
+    "italienische, spanische und portugiesische Namensform von Renatus",
+    "Namenstag am 6. Oktober",
+    "selten bis mäßig verbreitet in Deutschland"
+  ],
+  "confidence": 0.86,
+  "display_text": "Renato wird im deutschen Raum überwiegend neutral wahrgenommen: klassisch, leicht italienisch/südeuropäisch und eher selten. Die vorliegende Evidenz ist vor allem namenskundlich, daher ist die öffentliche Alltagsresonanz nur eingeschränkt belegt.",
+  "evidence_quality": "mittel bis schwach für öffentliche Resonanz; gut für Herkunft und Namensbedeutung, aber nur indirekt für tatsächliche Wahrnehmung in Deutschland",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Renato",
+  "normalized_name": "renato",
+  "overall_resonance": "Im deutschen Raum wirkt Renato überwiegend sachlich-neutral und eher leicht exotisch als stark etabliert. Die verfügbare Evidenz deutet auf einen vor allem namenskundlichen, unaufgeregten Eindruck hin; eine breite Alltagsresonanz in DE ist jedoch nur indirekt belegt.",
+  "practical_notes": [
+    "Für Suchmaschinen und Namenslexika lässt sich Renato gut als internationaler, klassisch wirkender Vorname einordnen.",
+    "Die Aussprache und Schreibweise sind im Deutschen meist gut handhabbar.",
+    "Wer einen seltenen, aber dennoch vertraut klingenden Namen sucht, findet hier eine eher unaufgeregte Option."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt fast ausschließlich aus Namensdatenbanken und ist damit nur begrenzt aussagekräftig für echte öffentliche Alltagswahrnehmung in DE.",
+    "Keine belastbaren Hinweise auf starke positive oder negative soziale Bewertung in der vorliegenden Evidenz.",
+    "Mögliche Exotik-Wirkung ist eine vorsichtige Einordnung, keine feste gesellschaftliche Zuschreibung."
+  ],
+  "short_summary": "Renato wirkt in Deutschland sachlich-neutral, leicht südeuropäisch geprägt und eher selten. Die Evidenz ist überwiegend lexikalisch und belegt vor allem Herkunft, Bedeutung und Verbreitung, weniger die echte Alltagsresonanz.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Renato � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/R/Re/Renato/"
+    },
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Renato: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Renato.html"
+    }
+  ],
+  "style_effect": [
+    "klingt italienisch bzw. südeuropäisch geprägt",
+    "wirkt klassisch und zugleich etwas ungewöhnlich im deutschen Alltag",
+    "wird eher als formeller Vorname mit klarer Herkunft wahrgenommen",
+    "die Kurzformen/Kosenamen können das Bild etwas lockern"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland eher selten bis mäßig verbreitet und dadurch moderat sichtbar, aber nicht allgegenwärtig."
+}

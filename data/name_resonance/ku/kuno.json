@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "althochdeutsche Herkunft",
+    "Kurzform von Konrad",
+    "Bedeutung: kühner Ratgeber",
+    "selten vergeben",
+    "historisch / mittelalterlich gebräuchlich",
+    "kurz und prägnant",
+    "Namenstag 19. Mai"
+  ],
+  "confidence": 0.8,
+  "display_text": "Kuno wirkt in der öffentlichen Wahrnehmung eher sachlich bis leicht positiv. Der Name gilt als selten, kurz und traditionsreich, mit althochdeutscher Herkunft und der Bedeutung „kühner Ratgeber“. Die Evidenz ist jedoch begrenzt, da sie vor allem aus Namenslexika stammt.",
+  "evidence_quality": "mittel bis schwach; überwiegend lexikalische Namensseiten, kaum echte öffentliche Diskussionsdaten",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Kuno",
+  "normalized_name": "kuno",
+  "overall_resonance": "Die öffentliche Resonanz auf Kuno wirkt eher sachlich bis leicht positiv. Der Name wird vor allem als selten, kurz und traditionsreich beschrieben, mit klarer althochdeutscher Herkunft und der Bedeutung „kühner Ratgeber“.",
+  "practical_notes": [
+    "Für eine Namenssuche passt Kuno gut, wenn ein kurzer, ungewöhnlicher und traditionsreicher Name gesucht wird.",
+    "Die seltene Verwendung kann als Pluspunkt für Eigenständigkeit wirken, kann aber auch als ungewohnt empfunden werden.",
+    "Die Belege sprechen eher für eine informierte, neutrale bis leicht positive Namenswahrnehmung als für starke Popularität."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz zur öffentlichen Resonanz ist schwach, da sie fast nur aus Namenslexikon-Seiten besteht.",
+    "Es gibt nur wenige Hinweise auf organische Diskussionen oder breite Alltagswahrnehmung.",
+    "Die Wirkung „altmodisch“ ist eine naheliegende Assoziation, aber keine harte общеentliche Bewertung."
+  ],
+  "short_summary": "Kuno wird überwiegend sachlich, mit leicht positiver Tendenz wahrgenommen: kurz, selten, traditionsreich und historisch verankert.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Kuno � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/K/Ku/Kuno/"
+    },
+    {
+      "confidence": 0.91,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Kuno: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Kuno.html"
+    }
+  ],
+  "style_effect": [
+    "kurz und markant",
+    "historisch-traditionell",
+    "selten und ungewöhnlich",
+    "namenskundlich klar einordenbar",
+    "leicht altmodisch bzw. mittelalterlich anmutend"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "eher gering"
+}

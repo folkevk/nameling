@@ -1,0 +1,58 @@
+{
+  "associations": [
+    "Variante von Madeleine/Magdalena",
+    "Herkunft aus dem biblischen bzw. hebräischen Namensumfeld",
+    "Bedeutung: aus Magdala stammend",
+    "deutscher Vorname bzw. deutsch gebräuchliche Form",
+    "Namenstag",
+    "seltenere Namenswahl"
+  ],
+  "confidence": 0.77,
+  "display_text": "Madlen: überwiegend neutral bis leicht positiv wahrgenommen, klassisch und vertraut im Klang, eher selten und vor allem namenskundlich eingeordnet.",
+  "evidence_quality": "Mittel bis eher schwach für öffentliche Resonanz: gute Namenslexikon-Evidenz, aber wenig direkte Breitenwahrnehmung.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Madlen",
+  "normalized_name": "madlen",
+  "overall_resonance": "Madlen wirkt in der öffentlichen Namenswahrnehmung überwiegend neutral bis leicht positiv: Der Name wird vor allem als weibliche, deutsch gebrauchte Variante mit klarer Herkunft und angenehmem, vertrautem Klang beschrieben. Eine breite gesellschaftliche Debatte oder starke emotionale Aufladung ist in der vorliegenden Evidenz nicht erkennbar.",
+  "practical_notes": [
+    "Für Suchmaschinen- und Namenskontext eignet sich die Einordnung als vertraute, traditionelle und eher seltene weibliche Form.",
+    "Keine Hinweise auf starke Stigmatisierung oder auffällige negative Stereotype in der vorliegenden Evidenz."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist überwiegend lexikalisch und stammt aus Namenslexika, nicht aus breiter öffentlicher Meinungsbildung.",
+    "Daher ist die öffentliche Resonanz nur vorsichtig ableitbar und eher als Nameneindruck denn als gesellschaftlicher Konsens zu verstehen."
+  ],
+  "short_summary": "Madlen wird meist als weiblicher, deutsch gebräuchlicher Vorname mit klassischer Herkunft und eher seltener Alltagspräsenz wahrgenommen; die Tendenz ist neutral bis leicht positiv.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Madlen � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/M/Ma/Madlen/"
+    },
+    {
+      "confidence": 0.92,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Madlen: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Madlen.html"
+    }
+  ],
+  "style_effect": [
+    "weiblich",
+    "klassisch-namenskundlich",
+    "vertraut",
+    "eher selten",
+    "klar und unkompliziert"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Eher mittlere bis geringe Alltagspräsenz; in den Quellen erscheint Madlen als eher seltener Vorname und nicht als stark dominanter Trendname."
+}

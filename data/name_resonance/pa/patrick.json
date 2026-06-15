@@ -1,0 +1,58 @@
+{
+  "associations": [
+    "lateinischer Ursprung (Patricius)",
+    "Bedeutung: „der Edle“ / „der Adlige“",
+    "irischer Bezug über Saint Patrick",
+    "bekannter Namenstag am 17. März",
+    "klassischer Vorname mit langer Nutzung in Deutschland"
+  ],
+  "confidence": 0.81,
+  "display_text": "Patrick gilt in Deutschland als klassischer, gut bekannter Vorname mit eher positiver, edler Assoziation. Die Quellen sind vor allem beschreibend, daher ist die öffentliche Resonanz nur vorsichtig zu bewerten.",
+  "evidence_quality": "mittel: zwei klare namenskundliche Quellen, aber wenig direkte Resonanz- oder Meinungsdaten",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Patrick",
+  "normalized_name": "patrick",
+  "overall_resonance": "Patrick wirkt im deutschsprachigen Raum insgesamt klassisch, vertraut und eher positiv konnotiert. Die öffentlichen Beschreibungen betonen vor allem die Bedeutung „der Edle“ / „der Adlige“, die lange Nutzung und den klaren, etablierten Klang. Die Evidenz ist allerdings überwiegend beschreibend und namenskundlich, nicht stark meinungsbasiert.",
+  "practical_notes": [
+    "Für eine Namenssuche eignet sich Patrick als klar verständlicher, traditioneller Name mit internationalem Bezug.",
+    "Wer einen eher modernen oder seltenen Namen sucht, könnte Patrick als zu etabliert wahrnehmen; dafür gibt es aber keine eindeutige negative öffentliche Bewertung."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die vorliegenden Quellen sind vor allem Namenslexika und beschreibende Seiten; daraus lässt sich nur begrenzt eine echte öffentliche Meinung ableiten.",
+    "Keine belastbaren Hinweise auf Stigmatisierung oder stark negative Konnotationen in der Evidenz."
+  ],
+  "short_summary": "Patrick wird in Deutschland meist als klassischer, vertrauter und positiv klingender Vorname wahrgenommen, mit der Bedeutung „der Edle“.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.99,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Patrick � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/P/Pa/Patrick/"
+    },
+    {
+      "confidence": 0.92,
+      "is_name_discussion": true,
+      "sentiment": "positive",
+      "source_type": "web",
+      "title": "&#9655; Vorname Patrick: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Patrick.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "vertraut",
+    "sachlich",
+    "etabliert",
+    "zeitlos",
+    "leicht international lesbar"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland gut bekannt und seit Jahrzehnten gebräuchlich; dadurch hohe Wiedererkennbarkeit, aber kein stark trendiger oder ungewöhnlicher Eindruck."
+}

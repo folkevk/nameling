@@ -1,0 +1,63 @@
+{
+  "associations": [
+    "Ehre",
+    "Ansehen",
+    "ehrenhaft",
+    "stark",
+    "fest entschlossen",
+    "altdeutsche Herkunft",
+    "historisch verbreitet",
+    "Namenstag 8. Januar"
+  ],
+  "confidence": 0.84,
+  "display_text": "Erhard wirkt in der öffentlichen Wahrnehmung vor allem traditionell, altdeutsch und selten. Der Name wird meist mit Ehre, Ansehen und einer würdevollen, eher klassischen Ausstrahlung verbunden. Die Evidenz ist solide, aber vor allem lexikalisch und daher nur begrenzt repräsentativ.",
+  "evidence_quality": "mittel bis gut: zwei einschlägige Namenslexika mit klarer Namensdiskussion, aber keine breite repräsentative Datengrundlage.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Erhard",
+  "normalized_name": "erhard",
+  "overall_resonance": "Der Vorname Erhard wird in der vorliegenden Evidenz überwiegend traditionell, wertschätzend und historisch verankert wahrgenommen. Er wirkt eher altdeutsch und selten als modern oder trendig.",
+  "practical_notes": [
+    "Für eine Namenssuche dürfte Erhard vor allem bei Menschen ankommen, die klassische und bedeutungsbetonte Vornamen mögen.",
+    "Klanglich und stilistisch wirkt der Name eher konservativ als modern.",
+    "Die genannten Spitznamen und Bewertungen stammen aus Namensportalen und sollten als mögliche, nicht als feste Nutzung verstanden werden."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenzbasis ist begrenzt und besteht vor allem aus einzelnen Namenslexika; das Bild ist daher nur vorsichtig zu verallgemeinern.",
+    "Die Seltenheit des Namens kann als traditionell oder altmodisch gelesen werden, das ist jedoch eine Einordnung und keine allgemeingültige Bewertung."
+  ],
+  "short_summary": "Erhard wird überwiegend als seltener, altdeutscher und traditioneller Vorname mit positiver Bedeutungsassoziation wahrgenommen.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.99,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Erhard � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/E/Er/Erhard/"
+    },
+    {
+      "confidence": 0.86,
+      "is_name_discussion": true,
+      "sentiment": "überwiegend positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Erhard: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Erhard.html"
+    }
+  ],
+  "style_effect": [
+    "traditionell",
+    "altdeutsch",
+    "würdevoll",
+    "formal",
+    "historisch",
+    "selten",
+    "männlich-klar"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Im deutschen Namenskontext ist Erhard sichtbar, aber klar selten. Die öffentliche Rezeption scheint vor allem über Namenslexika und Bedeutungsseiten zu laufen, weniger über eine breite Alltagsnutzung."
+}

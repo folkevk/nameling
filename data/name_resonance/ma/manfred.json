@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "althochdeutsche Herkunft",
+    "Bedeutung im Sinn von Frieden/Schutz bzw. friedlicher Mann",
+    "früher in Deutschland verbreiteter",
+    "heute eher selten",
+    "Namenstag am 28. Januar",
+    "Kurzformen wie Manni, Fred oder Fredi"
+  ],
+  "confidence": 0.84,
+  "display_text": "Manfred wirkt in der öffentlichen Wahrnehmung vor allem traditionell, klassisch und sachlich. Der Name hat althochdeutsche Wurzeln, wird mit Frieden/Schutz assoziiert und heute eher selten vergeben. Die vorliegende Evidenz ist jedoch überwiegend lexikalisch, nicht meinungsbasiert; eine starke soziale Stigmatisierung ist nicht erkennbar.",
+  "evidence_quality": "Eher gut für Herkunft, Bedeutung und Gebrauch, aber schwach bis mittelstark für echte öffentliche Resonanz; vor allem Namenslexikon-Einträge statt Meinungsdiskussionen.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Manfred",
+  "normalized_name": "manfred",
+  "overall_resonance": "Überwiegend sachlich-informativ mit traditioneller, leicht nostalgischer Anmutung. Die öffentliche Wahrnehmung wirkt eher nüchtern als emotional; klare Hinweise auf starke Stigmatisierung gibt es in der vorliegenden Evidenz nicht.",
+  "practical_notes": [
+    "Gut geeignet, wenn ein klassischer und klar verständlicher Name gesucht wird.",
+    "Die Wirkung kann je nach Kontext eher traditionell als modern erscheinen.",
+    "Für eine öffentliche Resonanzkarte sollte die seltenere heutige Vergabe mitgenannt werden."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist überwiegend lexikalisch und nicht auf breite öffentliche Meinungsdiskussionen gestützt.",
+    "Es gibt keine belastbaren Hinweise auf eine starke negative gesellschaftliche Zuschreibung; mögliche Altersassoziationen sind eher zeittypisch als abwertend.",
+    "Eine harte Bewertung wäre wegen der Quellenlage nicht gerechtfertigt."
+  ],
+  "short_summary": "Manfred wird öffentlich vor allem als traditioneller, sachlich wahrgenommener Vorname mit althochdeutscher Herkunft und eher seltener heutiger Vergabe beschrieben.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Manfred � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/M/Ma/Manfred/"
+    },
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Manfred: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Manfred.html"
+    }
+  ],
+  "style_effect": [
+    "traditionell",
+    "klassisch",
+    "älter wirkend",
+    "nüchtern",
+    "namenskundlich",
+    "leicht nostalgisch"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Mittlere Bekanntheit in Deutschland, heute eher selten vergeben. Der Name ist daher präsent, aber nicht stark trend- oder modegeprägt."
+}

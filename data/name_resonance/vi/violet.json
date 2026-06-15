@@ -1,0 +1,62 @@
+{
+  "associations": [
+    "„das Veilchen“",
+    "lateinische Herkunft",
+    "englische bzw. französische Form",
+    "Pflanzen- und Farbassoziation",
+    "Shakespeare-Bezug",
+    "eher ungewöhnlich, aber gut verständlich"
+  ],
+  "confidence": 0.83,
+  "display_text": "Violet wirkt in Deutschland eher selten, modern und klangvoll. Die vorliegenden Quellen verbinden den Namen meist mit „Veilchen“, internationaler Herkunft und einer leicht ausgefallenen, positiven Wirkung. Die Evidenz ist allerdings begrenzt und basiert vor allem auf Namenslexika.",
+  "evidence_quality": "mittel bis schwach: plausible, aber überwiegend lexikalische Einträge statt breit gestreuter öffentlicher Resonanz",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Violet",
+  "normalized_name": "violet",
+  "overall_resonance": "Der Name Violet wird in den vorliegenden Quellen überwiegend als modern, klangvoll und eher positiv wahrgenommen. Die öffentliche Rezeption wirkt sachlich bis leicht wertschätzend, mit Fokus auf Bedeutung und Namenswirkung statt auf kontroverse Debatten.",
+  "practical_notes": [
+    "Für Deutschland wirkt Violet international und markant, ohne stark polarisierend zu sein.",
+    "Der Name dürfte vor allem wegen seiner Bedeutung und seines klangvollen, femininen Eindrucks auffallen.",
+    "Die Einschätzung sollte vorsichtig gelesen werden, da belastbare Umfragedaten zur öffentlichen Wahrnehmung fehlen."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt im Wesentlichen aus wenigen Namenslexikon-Quellen; eine breite öffentliche Resonanz ist damit nur eingeschränkt belegbar.",
+    "Positive Eindrücke wie „schön“ oder „ausgefallen“ sind eher beschreibend als repräsentativ für die Gesamtbevölkerung.",
+    "Keine Hinweise auf soziale Stigmatisierung in den vorliegenden Quellen."
+  ],
+  "short_summary": "Violet wird in den Quellen überwiegend positiv und als modern-eleganter, eher seltener Name beschrieben. Die Belege sind jedoch begrenzt und stammen vor allem aus Namenslexika.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Violet � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/V/Vi/Violet/"
+    },
+    {
+      "confidence": 0.94,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Violet: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Violet.html"
+    }
+  ],
+  "style_effect": [
+    "modern",
+    "elegant",
+    "weich im Klang",
+    "leicht international",
+    "pflanzlich-naturbezogen",
+    "selten bis individuell",
+    "leicht ausgefallen"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland eher selten bis moderat bekannt; die Sichtbarkeit wirkt vor allem durch Namenslexika und Bedeutungseinträge geprägt, nicht durch breite öffentliche Diskussion."
+}

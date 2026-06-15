@@ -1,0 +1,63 @@
+{
+  "associations": [
+    "altnordisch",
+    "deutsch",
+    "norwegisch",
+    "Thor",
+    "Donner",
+    "Elf",
+    "männlicher Vorname",
+    "selten",
+    "traditionsbezogen"
+  ],
+  "confidence": 0.82,
+  "display_text": "Thoralf wirkt in der öffentlichen Wahrnehmung meist sachlich-neutral bis leicht positiv. Der Name ist eher selten und wird vor allem mit altnordischer Herkunft, Thor-Bezug und einer markanten, traditionsnahen Ausstrahlung verbunden.",
+  "evidence_quality": "Mäßig: zwei einschlägige Namenslexika, überwiegend neutrale bis leicht positive Tonalität, aber keine breite empirische Resonanzbasis.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Thoralf",
+  "normalized_name": "thoralf",
+  "overall_resonance": "Thoralf wirkt in der öffentlichen Namenswahrnehmung überwiegend sachlich-neutral mit leicht positivem Unterton. Der Name wird vor allem über seine altnordische Herkunft, die Verbindung zu Thor und die seltene, markante Klangform wahrgenommen.",
+  "practical_notes": [
+    "Für die öffentliche Wahrnehmung ist die Aussprache und Schreibweise vermutlich gut nachvollziehbar, der Name bleibt aber ungewöhnlich.",
+    "Wer einen nordisch geprägten, markanten und eher seltenen Vornamen sucht, könnte Thoralf passend finden.",
+    "In offiziellen Namenskontexten wirkt der Name eher klassisch als modern.",
+    "Die Wirkung kann je nach Umfeld zwischen traditionsreich und etwas speziell schwanken."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist schwach bis moderat und stammt überwiegend aus Namenslexika bzw. Namensdatenbanken mit redaktionellem Fokus.",
+    "Die Resonanzbeschreibung beruht auf der Namensdarstellung, nicht auf belastbaren breiten Umfragedaten.",
+    "Es gibt keine klaren Hinweise auf soziale Stigmatisierung; falls der Name als altmodisch empfunden wird, ist das eher eine Stilfrage als ein Vorurteil."
+  ],
+  "short_summary": "Thoralf wird überwiegend neutral bis leicht positiv wahrgenommen: ein seltener, nordisch geprägter Vorname mit traditionsnaher, markanter Wirkung.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.94,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Thoralf � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/T/Th/Thoralf/"
+    },
+    {
+      "confidence": 0.88,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Thoralf: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Thoralf.html"
+    }
+  ],
+  "style_effect": [
+    "klingt nordisch und traditionsnah",
+    "wirkt markant und eigenständig",
+    "hat eine eher ernst-sachliche, nicht modische Anmutung",
+    "durch die Thor-Bezugsebene leicht kraftvoll im Klang"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Eher gering bis mittel: Thoralf ist kein sehr häufiger Vorname und wird in Namensdatenbanken eher als selten oder außerhalb der Top-Liste beschrieben."
+}

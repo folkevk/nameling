@@ -1,0 +1,72 @@
+{
+  "associations": [
+    "Unisex-Vorname",
+    "Kurzform",
+    "mehrere Herkunftsquellen",
+    "unterschiedliche Bedeutungen je nach Deutung",
+    "international gebräuchlich",
+    "in Deutschland relativ verbreitet",
+    "Beliebtheit/Ranking",
+    "Namenstag"
+  ],
+  "confidence": 0.89,
+  "display_text": "Kim wird in den verfügbaren deutschsprachigen Quellen überwiegend sachlich und leicht positiv beschrieben: ein kurzer, international gebräuchlicher Unisex-Vorname mit mehreren möglichen Bedeutungen und Herkünften. In Deutschland gilt er als relativ verbreitet. Die Evidenz stammt jedoch vor allem aus Namenslexika, nicht aus breiter öffentlicher Diskussion.",
+  "evidence_quality": "mittel bis gut: klare Namensbeschreibungen mit hoher inhaltlicher Passung, aber wenig echte öffentliche Diskursresonanz",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Kim",
+  "normalized_name": "kim",
+  "overall_resonance": "Kim wird in den vorliegenden deutschsprachigen Quellen überwiegend sachlich und eher positiv-nüchtern wahrgenommen: als kurzer, international gebräuchlicher Unisex-Vorname mit mehreren möglichen Herkunfts- und Bedeutungsdeutungen.",
+  "practical_notes": [
+    "Für Suchmaschinen eignet sich Kim als kompakter, gut merkbarer Name.",
+    "Die Wirkung ist meist sachlich, modern und unkompliziert.",
+    "Als Unisex-Name ist er in der Wahrnehmung flexibel einsetzbar.",
+    "Die Popularität wirkt stabil genug, um bekannt zu sein, ohne stark polarisierend zu erscheinen."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt fast ausschließlich aus Namensdatenbanken und Lexikonseiten; das ist nur eingeschränkt öffentliche Resonanz.",
+    "Es sind keine breiten, kontroversen Meinungen oder Community-Debatten sichtbar.",
+    "Mehrere Herkunftsdeutungen können je nach Quelle variieren und sollten nicht als eindeutig gelten."
+  ],
+  "short_summary": "Kim wirkt in den Quellen als kurzer, internationaler Unisex-Name mit mehreren möglichen Herleitungen, eher sachlich und leicht positiv konnotiert.",
+  "source_count": 3,
+  "sources": [
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Kim � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/K/Ki/Kim/"
+    },
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "Vorname Kim � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/K/Ki/Kim/"
+    },
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Kim: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Kim.html"
+    }
+  ],
+  "style_effect": [
+    "kurz und prägnant",
+    "international wirkend",
+    "modern-praktisch",
+    "neutral bis leicht positiv",
+    "lexikalisch gut einordbar",
+    "unisex/offen in der Geschlechtszuordnung"
+  ],
+  "usable_evidence_count": 3,
+  "visibility": "In Deutschland wirkt der Name sichtbar und relativ verbreitet, vor allem in Namensverzeichnissen und Beliebtheitskontexten. Die Evidenz zeigt aber eher redaktionelle Namenskunde als echte öffentliche Debatte."
+}

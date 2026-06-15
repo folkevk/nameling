@@ -1,0 +1,59 @@
+{
+  "associations": [
+    "altgriechische Herkunft",
+    "Bedeutung im Umfeld von „Mädchen“/„Jungfrau“",
+    "Schreibvariante von Corinna",
+    "Namenstag am 22. Oktober",
+    "seltene, eher zurückhaltende Nutzung in Deutschland"
+  ],
+  "confidence": 0.72,
+  "display_text": "Corina wirkt in Deutschland eher selten, klassisch und unaufdringlich. Die vorliegenden Quellen beschreiben den Namen vor allem sachlich: mit altgriechischer Herkunft, dem Bedeutungsumfeld „Mädchen/Jungfrau“ und einem leicht traditionellen, ruhigen Klang. Eine starke öffentliche Wertung ist nicht erkennbar.",
+  "evidence_quality": "mittel bis schwach; hauptsächlich namenskundliche, beschreibende Webquellen mit begrenzter öffentlicher Resonanz",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Corina",
+  "normalized_name": "corina",
+  "overall_resonance": "Überwiegend sachlich-neutral mit leicht positiver Note. Der Name wird vor allem als klassisch-etymologisch interessant wahrgenommen; die öffentliche Resonanz wirkt insgesamt unauffällig und eher wohlwollend, ohne starke Trend- oder Prestigewirkung.",
+  "practical_notes": [
+    "Für Suchmaschinen-Nutzer wirkt der Name verständlich, klassisch und unproblematisch.",
+    "Die Schreibweise ist bekannt, aber weniger häufig als Corinna.",
+    "Wer einen seltenen, eher traditionellen Namen sucht, könnte Corina passend finden."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist insgesamt eher schwach und überwiegend beschreibend statt klar bewertend.",
+    "Positive Wirkung ergibt sich vor allem aus Lexikon- und Namensdeutungen, nicht aus breiter öffentlicher Meinungsbildung.",
+    "Keine belastbaren Hinweise auf soziale Stigmatisierung in den vorliegenden Quellen."
+  ],
+  "short_summary": "Corina wird in den Quellen vor allem als seltener, klassisch-altgriechisch geprägter Vorname beschrieben; die öffentliche Resonanz ist eher neutral bis leicht positiv.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Corina � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/C/Co/Corina/"
+    },
+    {
+      "confidence": 0.9,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Corina: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Corina.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "weich klingend",
+    "eher zeitlos als modisch",
+    "namenskundlich auffällig",
+    "leicht nostalgische Anmutung"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland eher selten und nicht sehr präsent. Laut den vorliegenden Quellen war der Name vor allem in früheren Jahrzehnten, insbesondere in den 1960er Jahren, etwas verbreiteter."
+}

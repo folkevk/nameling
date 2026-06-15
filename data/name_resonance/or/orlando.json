@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "italienische/spanische Form von Roland",
+    "althochdeutsche Herkunft",
+    "Bedeutung im Feld von Ruhm und Heimat/Land",
+    "selten bis moderat vergeben in Deutschland",
+    "Namenstag",
+    "literarische Verbindung zu Shakespeare",
+    "Spitznamen wie Orli oder Lando"
+  ],
+  "confidence": 0.78,
+  "display_text": "Orlando wirkt in Deutschland eher selten, klangvoll und international. Die vorliegenden Quellen deuten auf eine leicht positive, vor allem namenkundlich geprägte Wahrnehmung hin: italienisch/spanische Form von Roland, mit Bezügen zu Ruhm, Heimat und literarischer Tradition. Die Evidenz ist allerdings begrenzt und stammt vor allem aus Vornamensseiten.",
+  "evidence_quality": "mittel bis schwach: zwei eindeutig namenkundliche Webquellen, aber keine breite diskursive oder statistisch robuste öffentliche Resonanzanalyse.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Orlando",
+  "normalized_name": "orlando",
+  "overall_resonance": "Die öffentliche Resonanz auf den Vornamen Orlando wirkt in den vorliegenden Quellen überwiegend sachlich bis leicht positiv. Der Name wird vor allem mit italienisch/spanischer Färbung, althochdeutscher Herkunft und einer Bedeutung rund um Ruhm verbunden. Gleichzeitig ist die Evidenz eher schmal und basiert hauptsächlich auf Namenslexika statt auf breiter öffentlicher Diskussion.",
+  "practical_notes": [
+    "Der Name kann in Deutschland als markant, aber gut verständlich wahrgenommen werden.",
+    "Durch die internationale Form wirkt Orlando eher eigenständig als sehr häufig.",
+    "Die vorhandenen Quellen betonen Bedeutung und Herkunft stärker als mögliche soziale Bewertungen."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt fast ausschließlich aus einzelnen Vornamensseiten und nicht aus breiter öffentlicher Debatte.",
+    "Aussagen zur Resonanz sollten daher als vorsichtige Tendenz gelesen werden, nicht als repräsentatives Stimmungsbild.",
+    "Einzelne nutzergenerierte Inhalte sind nicht zuverlässig als allgemeine Wahrnehmung zu werten."
+  ],
+  "short_summary": "Orlando wird in den Quellen überwiegend freundlich-sachlich, klangvoll und international wahrgenommen, bei zugleich geringer bis mittlerer Verbreitung in Deutschland.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "Vorname Orlando � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/O/Or/Orlando/"
+    },
+    {
+      "confidence": 0.9,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Orlando: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Orlando.html"
+    }
+  ],
+  "style_effect": [
+    "klangvoll",
+    "international",
+    "klassisch-literarisch",
+    "leicht exotisch",
+    "namenkundlich geprägt"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland eher selten bis moderat sichtbar; der Name ist bekannt, aber nicht alltagsdominant."
+}

@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "lateinische Herkunft",
+    "Bedeutung im Umfeld von Licht und Leuchten",
+    "deutsche und französische Nebenform von Lucie/Lucia",
+    "Namenstag-Bezüge",
+    "Koseformen wie Lu, Lou, Lulu"
+  ],
+  "confidence": 0.76,
+  "display_text": "Luzie wirkt öffentlich überwiegend positiv: hell, weich und freundlich. Der Name wird meist mit Licht und Leuchten verbunden. Für eine breite Aussage ist die Datenlage aber eher begrenzt, weil vor allem Namenslexika und keine breite Meinungsbasis vorliegen.",
+  "evidence_quality": "schwach bis mittel; überwiegend lexikalische Namensquellen mit positiver Grundtönung, aber wenig breite öffentliche Resonanzdaten",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Luzie",
+  "normalized_name": "luzie",
+  "overall_resonance": "Überwiegend positiv und freundlich-leicht; der Name wird vor allem mit Licht, Helligkeit und einer sanften, kindlichen Wirkung verbunden. Die öffentliche Resonanz wirkt eher angenehm als stark polarisiert.",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt Luzie kurz, freundlich und gut merkbar.",
+    "Der Name hat eine klare, positive Licht-Assoziation.",
+    "Die Schreibweise ist eher ungewöhnlich genug, um eigenständig zu wirken, aber dennoch vertraut."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt fast nur aus zwei Namensseiten; das ist keine breite öffentliche Meinungsbasis.",
+    "Beliebtheitsaussagen wirken datenbasiert, sind hier aber nur eingeschränkt überprüfbar.",
+    "Popkultur- und Kommentarbezüge sollten nicht als allgemeingültige Namenswirkung überinterpretiert werden."
+  ],
+  "short_summary": "Luzie wird überwiegend freundlich und hell wahrgenommen, mit starken Licht-Assoziationen. Die Evidenz ist jedoch begrenzt und stammt vor allem aus Namensdatenbanken.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.92,
+      "is_name_discussion": true,
+      "sentiment": "positive",
+      "source_type": "web",
+      "title": "Vorname Luzie � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/L/Lu/Luzie/"
+    },
+    {
+      "confidence": 0.88,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Luzie: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Luzie.html"
+    }
+  ],
+  "style_effect": [
+    "hell",
+    "weich",
+    "lieblich",
+    "modern-traditionell",
+    "kosehaft",
+    "freundlich"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Mäßige Sichtbarkeit in Namenslexika und Vornamensdatenbanken; für eine belastbare Aussage zur allgemeinen öffentlichen Wahrnehmung ist die Evidenz jedoch eher schmal."
+}

@@ -1,0 +1,59 @@
+{
+  "associations": [
+    "Variante von Elisabeth bzw. Isabel/Isabelle",
+    "hebräische Wurzeln und religiöse Bedeutungen wie „Gott ist Fülle“",
+    "in Deutschland seit den 1980er Jahren etabliert",
+    "Namenslexikon-Kontext mit Namenstagen und Koseformen",
+    "eher vertraut als auffällig"
+  ],
+  "confidence": 0.86,
+  "display_text": "Isabell wird in den vorliegenden Quellen als etablierter, eher positiv wahrgenommener Vorname beschrieben. Er wirkt klassisch, elegant und vertraut; die Angaben beziehen sich vor allem auf Herkunft, Bedeutung und Beliebtheit. Eine echte öffentliche Debatte ist kaum erkennbar, daher bleibt die Einordnung vorsichtig und quellengebunden.",
+  "evidence_quality": "mittel bis gut für Herkunft, Schreibweise und allgemeine Einordnung; schwach für echte öffentliche Resonanz, da fast nur lexikalische Einzelseiten vorliegen.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Isabell",
+  "normalized_name": "isabell",
+  "overall_resonance": "Isabell wirkt in den vorliegenden Quellen als etablierter, eher positiv und sachlich wahrgenommener Vorname mit klassisch-eleganter Anmutung. Die öffentliche Resonanz erscheint überwiegend informativ und wohlwollend, nicht kontrovers.",
+  "practical_notes": [
+    "Für eine Namenssuche kann Isabell als klassischer, gut anschlussfähiger Mädchenvorname beschrieben werden.",
+    "Die Schreibvariante ist im deutschsprachigen Raum verständlich und bekannt.",
+    "Wenn gewünscht, kann man die Wahrnehmung je nach Schreibweise Isabell/Isabelle/Isabel leicht anders einordnen."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt fast ausschließlich aus Namensdatenbanken und Lexikonseiten.",
+    "Es gibt kaum Anzeichen für eine echte öffentliche Meinungsvielfalt oder kontroverse Debatte.",
+    "Beliebtheitsangaben sind Rankingdaten und keine direkte Publikumsstimmung."
+  ],
+  "short_summary": "Isabell ist in Deutschland ein bekannter, klassisch wirkender Vorname mit überwiegend positiver, sachlicher Namensresonanz. Die Evidenz ist jedoch vor allem lexikalisch und nicht auf breite öffentliche Diskussion gestützt.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Isabell � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/I/Is/Isabell/"
+    },
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Isabell: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Isabell.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "elegant",
+    "weich klingend",
+    "modern etabliert",
+    "namenskundlich klar einordenbar"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Der Name ist in Deutschland bekannt und seit Jahrzehnten gebräuchlich; die Sichtbarkeit ergibt sich vor allem aus Namenslexika und Beliebtheitsangaben, nicht aus einer breiten öffentlichen Debatte."
+}

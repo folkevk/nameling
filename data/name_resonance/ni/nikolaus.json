@@ -1,0 +1,63 @@
+{
+  "associations": [
+    "Bedeutung: „Sieg des Volkes“",
+    "altgriechischer Ursprung",
+    "heiliger Nikolaus von Myra",
+    "Nikolaustag am 6. Dezember",
+    "klassischer, historischer Vorname",
+    "Kurzformen wie Klaus, Niko, Niki, Nik",
+    "Varianten wie Niklas, Nico, Nils, Klaas"
+  ],
+  "confidence": 0.78,
+  "display_text": "Nikolaus wirkt in Deutschland überwiegend klassisch, traditionsreich und historisch geprägt. Der Name ist bekannt, aber heute eher selten, weshalb die öffentliche Resonanz eher neutral bis leicht positiv ausfällt. Die stärksten Assoziationen sind der heilige Nikolaus, der 6. Dezember und die Bedeutung „Sieg des Volkes“. Die Evidenz ist allerdings vor allem namenskundlich und damit nur begrenzt repräsentativ für breite Alltagsmeinungen.",
+  "evidence_quality": "mittel bis schwach: zwei überwiegend namenskundliche Webquellen, wenig unabhängige öffentliche Resonanz, kaum breitere Meinungsvielfalt",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Nikolaus",
+  "normalized_name": "nikolaus",
+  "overall_resonance": "Überwiegend sachlich-traditionell und eher positiv konnotiert, aber insgesamt mit schwacher bis mittlerer öffentlicher Resonanzlage, weil die Evidenz vor allem aus Namenslexika stammt.",
+  "practical_notes": [
+    "Für Suchmaschinen- und Namenskontext gut geeignet, wenn ein klassischer, traditionsreicher Eindruck gewünscht ist.",
+    "Wegen der Seltenheit wirkt der Name eher markant als modisch.",
+    "Die stärkste öffentliche Verbindung ist der Namenstag bzw. der Nikolaus-Traditionskontext."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die vorliegende Evidenz ist stark lexikalisch geprägt und zeigt eher Namenswissen als breite öffentliche Meinung.",
+    "Einige Quellen wirken SEO- oder redaktionsnah, daher nur begrenzt belastbar für echte Alltagsresonanz.",
+    "Die Einschätzung sollte nicht als Aussage über Träger des Namens verstanden werden."
+  ],
+  "short_summary": "Nikolaus wird in Deutschland vor allem als klassischer, traditionsreicher und historisch geprägter Vorname wahrgenommen. Die Resonanz ist eher positiv oder neutral, aber die Evidenz ist begrenzt und stark lexikalisch.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Nikolaus � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/N/Ni/Nikolaus/"
+    },
+    {
+      "confidence": 0.88,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Nikolaus: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Nikolaus.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "traditionell",
+    "historisch",
+    "namenskundlich",
+    "sakral/traditionsbezogen",
+    "eher formell",
+    "seltenheitsgeprägt"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland bekannt, jedoch heute eher selten vergeben und deshalb nicht stark alltagspräsent. Die öffentliche Wahrnehmung wirkt vor allem über Tradition, Namenstag und religiös-historische Bezüge geprägt."
+}

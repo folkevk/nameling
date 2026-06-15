@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "hebräische/aramäische Herkunft",
+    "biblischer Bezug",
+    "Bedeutungen wie 'Meeresstern' oder 'Gottesgeschenk'",
+    "Namenstag",
+    "Varianten wie Mirjam, Mariam, Myriam",
+    "Beliebtheit in Deutschland"
+  ],
+  "confidence": 0.89,
+  "display_text": "Miriam wirkt in der öffentlichen Wahrnehmung überwiegend klassisch, wohlklingend und traditionsreich. Die vorhandene Evidenz ist vor allem sachlich-lexikalisch und zeigt keine auffälligen negativen Konnotationen.",
+  "evidence_quality": "Gut für eine vorsichtige Namensbeschreibung, aber begrenzt auf lexikalische und redaktionelle Quellen; wenig direkte Alltagsmeinung.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Miriam",
+  "normalized_name": "miriam",
+  "overall_resonance": "Überwiegend positiv bis neutral; der Name wird vor allem sachlich und traditionsnah wahrgenommen.",
+  "practical_notes": [
+    "Für Suchende wirkt der Name vertraut, klassisch und unaufgeregt.",
+    "Die öffentliche Rezeption scheint eher über Herkunft und Bedeutung als über modische Assoziationen zu laufen.",
+    "Als Kurzprofil eignet sich: bekannt, zeitlos, traditionsreich."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt fast ausschließlich aus Namenslexika und nicht aus breiter öffentlicher Meinungsforschung.",
+    "Positive Eindrücke können durch redaktionell gepflegte Namensseiten verstärkt sein.",
+    "Keine belastbaren Hinweise auf soziale Stigmatisierung in der vorliegenden Evidenz."
+  ],
+  "short_summary": "Miriam wird öffentlich meist als klassischer, wohlklingender und traditionsreicher Vorname wahrgenommen. Die verfügbare Evidenz ist vor allem lexikalisch und überwiegend positiv bis neutral.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Miriam � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/M/Mi/Miriam/"
+    },
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Miriam: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Miriam.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "wohlklingend",
+    "traditionell",
+    "biblisch geprägt",
+    "informativ",
+    "seriös"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Relativ bekannt und gut auffindbar in Namenslexika; keine starke aktuelle Trend-Dominanz, aber stabile Präsenz."
+}

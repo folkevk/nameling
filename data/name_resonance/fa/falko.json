@@ -1,0 +1,65 @@
+{
+  "associations": [
+    "Falke",
+    "germanisch",
+    "althochdeutsch",
+    "Krieger",
+    "Mut",
+    "Gewandtheit",
+    "mittelalterlich",
+    "selten",
+    "Beliebtheit",
+    "Namenstag"
+  ],
+  "confidence": 0.79,
+  "display_text": "Falko wirkt in den vorhandenen Quellen überwiegend sachlich bis leicht positiv: ein seltener, markanter Name mit Assoziationen zu Falke, Mut und Gewandtheit. Die öffentliche Resonanz ist aber nur vorsichtig bewertbar, da die Evidenz vor allem aus Namenslexika stammt.",
+  "evidence_quality": "Begrenzt: zwei überwiegend namenskundliche Webquellen, wenig echte öffentliche Diskussion, daher nur vorsichtige Ableitung möglich.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Falko",
+  "normalized_name": "falko",
+  "overall_resonance": "Der Vorname Falko wird in den vorliegenden Namensquellen überwiegend sachlich bis leicht positiv dargestellt. Er wird vor allem mit Falke, germanischer/althochdeutscher Herkunft, Mut und Gewandtheit verbunden. Insgesamt wirkt der Name eher markant und traditionell-klassisch, aber die Evidenz zur öffentlichen Rezeption ist begrenzt.",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt Falko klar, kraftvoll und gut merkbar.",
+    "Die Seltenheit kann den Namen eigenständig machen, kann aber auch dazu führen, dass er weniger vertraut wirkt.",
+    "Die Quellenlage legt eher eine positive bis neutrale Namenswahrnehmung nahe, ohne breite öffentliche Debatte."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt fast ausschließlich aus Namenslexika und ist daher eher beschreibend als diskursiv.",
+    "Es gibt nur wenige Quellen; die öffentliche Resonanz ist deshalb nur vorsichtig einschätzbar.",
+    "Assoziationen wie Mut oder Krieger sind typische Namensdeutungen und nicht als gesellschaftliche Tatsachen zu verstehen."
+  ],
+  "short_summary": "Falko wird in den verfügbaren Quellen eher positiv und traditionsnah beschrieben, mit starken Assoziationen zu Falke, Mut und Gewandtheit; die Evidenz zur öffentlichen Resonanz ist jedoch schwach.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.86,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "Vorname Falko � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/F/Fa/Falko/"
+    },
+    {
+      "confidence": 0.94,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Falko: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Falko.html"
+    }
+  ],
+  "style_effect": [
+    "markant",
+    "klassisch-traditionell",
+    "namenskundlich aufgeladen",
+    "kräftig und kurz",
+    "eher selten",
+    "leicht historisch/mittelalterlich wirkend"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Eher selten und damit nicht sehr breit sichtbar; in den Quellen erscheint Falko als namenskundlich bekannt, aber nicht als stark alltagspräsenter Name."
+}

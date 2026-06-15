@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "weiblicher Vorname",
+    "spanische Form von Ramon",
+    "Ableitung von Raimund",
+    "Bedeutungsfeld Rat und Schutz",
+    "Namenstag",
+    "Namenslexikon/Etimologie",
+    "Beliebtheit in Deutschland"
+  ],
+  "confidence": 0.83,
+  "display_text": "Ramona wird in den vorliegenden Quellen überwiegend freundlich und sachlich eingeordnet: ein klassischer, klar weiblicher Name mit positiver Bedeutungsnähe zu Rat und Schutz. Die Evidenz ist brauchbar, aber vor allem namenskundlich und nicht als breite Meinungsumfrage zu verstehen.",
+  "evidence_quality": "mittel bis gut: zwei einschlägige Namensquellen mit direkter Namensdiskussion, aber keine breitere öffentliche Meinungsbasis.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Ramona",
+  "normalized_name": "ramona",
+  "overall_resonance": "Ramona wird in den vorliegenden deutschsprachigen Namensquellen überwiegend sachlich bis freundlich wahrgenommen. Der Name wirkt klassisch-weiblich, gut einordbar und etymologisch klar erklärt; eine starke soziale Stigmatisierung ist in der Evidenz nicht erkennbar.",
+  "practical_notes": [
+    "Für die Namenssuche eignet sich Ramona als klar verständlicher, etablierter Vorname.",
+    "Die Quellen betonen vor allem Herkunft und Bedeutung; das kann den Namen für Suchende attraktiv machen.",
+    "Wenn ein besonders moderner oder ausgefallener Eindruck gewünscht ist, wirkt Ramona eher klassisch als experimentell."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt fast ausschließlich aus Namensportalen; das sagt mehr über Namensbeschreibung als über breite Alltagswahrnehmung.",
+    "Keine belastbaren Hinweise auf gesellschaftliche Abwertung oder problematische Stereotype in den Quellen.",
+    "Aussagen zur Beliebtheit sollten vorsichtig gelesen werden, da sie nicht auf einer breiten Meinungsumfrage beruhen."
+  ],
+  "short_summary": "Ramona wird in den Quellen überwiegend freundlich und sachlich bewertet: ein klassischer, klar weiblicher Name mit positiver Bedeutungsnähe zu Rat und Schutz.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Ramona � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/R/Ra/Ramona/"
+    },
+    {
+      "confidence": 0.92,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Ramona: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Ramona.html"
+    }
+  ],
+  "style_effect": [
+    "weiblich und klar erkennbar",
+    "klassisch-lexikalische Anmutung",
+    "etwas traditionell, aber nicht altmodisch im negativen Sinn",
+    "informativ über Herkunft und Bedeutung anschlussfähig",
+    "klingt freundlich und unkompliziert"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland ist der Name bekannt und öffentlich präsent, vor allem in Namenslexika und Bedeutungsseiten. Die allgemeine Wahrnehmung scheint eher stabil als trendig zu sein."
+}

@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "nordischer bzw. skandinavischer Klang",
+    "germanischer Ursprung",
+    "Kurzformbezüge zu Arnold oder Arnulf",
+    "Bedeutungsbezüge wie 'Adler'",
+    "etabliert, aber nicht übermäßig häufig",
+    "leicht wiederentdeckt"
+  ],
+  "confidence": 0.76,
+  "display_text": "Arne wirkt im deutschen Kontext sachlich, klassisch und nordisch geprägt. Die vorliegenden Quellen zeigen eher positive, beschreibende Resonanz, aber nur eine begrenzte Evidenzbasis für die öffentliche Wahrnehmung.",
+  "evidence_quality": "mittel bis schwach: zwei namenkundliche Webquellen, überwiegend beschreibend, keine breite Sozial- oder Diskursbasis.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Arne",
+  "normalized_name": "arne",
+  "overall_resonance": "Der Vorname Arne wird in den vorliegenden Quellen überwiegend sachlich bis positiv dargestellt. Er wirkt im deutschen Kontext bekannt, nordisch geprägt und eher klassisch als modisch. Eine starke öffentliche Polarisierung ist aus der Evidenz nicht erkennbar.",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt Arne klar, kurz und traditionsnah.",
+    "Die Wirkung ist eher nüchtern als verspielt oder extravagant.",
+    "Im deutschen Umfeld dürfte der Name vertraut, aber nicht austauschbar wirken."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt vor allem aus namenkundlichen Webquellen mit redaktionellem Charakter.",
+    "Aussagen zur öffentlichen Resonanz sind daher nur vorsichtig belastbar.",
+    "Eine breitere soziale Wahrnehmung lässt sich aus den vorliegenden Quellen nur eingeschränkt ableiten."
+  ],
+  "short_summary": "Arne wird überwiegend positiv und sachlich als nordisch geprägter, klassischer Vorname wahrgenommen; die Evidenz zur öffentlichen Resonanz ist jedoch begrenzt.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.88,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "Vorname Arne � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/A/Ar/Arne/"
+    },
+    {
+      "confidence": 0.87,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Arne: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Arne.html"
+    }
+  ],
+  "style_effect": [
+    "nordisch",
+    "norddeutsch",
+    "klassisch-kurz",
+    "sachlich",
+    "namenkundlich",
+    "leicht traditionsbezogen"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Im deutschsprachigen Raum offenbar gut einordbar und mit solider, aber eher spezifischer Bekanntheit. Die Sichtbarkeit scheint vorhanden, jedoch nicht von massenhafter Alltagspräsenz dominiert. Die Evidenzlage ist insgesamt begrenzt."
+}

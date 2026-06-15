@@ -1,0 +1,68 @@
+{
+  "associations": [
+    "Kurz- und Koseform von Anton oder Antonia",
+    "lateinische Herkunft",
+    "Bedeutung: Bezug zu den Antoniern",
+    "unisex bzw. geschlechtsübergreifend verwendbar",
+    "im Deutschen teils eher für Jungen, teils auch für Mädchen gelistet",
+    "bekannt und gebräuchlich",
+    "Namenstag in mehreren Quellen genannt"
+  ],
+  "confidence": 0.93,
+  "display_text": "Toni wirkt in der öffentlichen Namenswahrnehmung überwiegend positiv und unaufgeregt. Der Name gilt als kurz, vertraut und flexibel nutzbar, oft mit Bezug zu Anton oder Antonia. Hinweise auf Kontroversen oder Stigmatisierung finden sich in der vorliegenden Evidenz nicht.",
+  "evidence_quality": "mittel bis gut: mehrere einschlägige Namensquellen mit klarer Namensdiskussion, jedoch überwiegend redaktionelle Datenbank-/Lexikonquellen statt breiter öffentlicher Debatte.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Toni",
+  "normalized_name": "toni",
+  "overall_resonance": "Überwiegend positiv bis neutral: Toni wird in den vorliegenden Quellen vor allem als vertrauter, kurzer und flexibel nutzbarer Vorname wahrgenommen.",
+  "practical_notes": [
+    "Für die Namenssuche wirkt Toni unkompliziert, freundlich und gut einprägsam.",
+    "Die Wahrnehmung kann je nach Kontext als eigenständiger Vorname oder als Kurzform gelesen werden.",
+    "Die Quellenlage ist solide, aber thematisch eher beschreibend als diskursiv."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt überwiegend aus Namensdatenbanken und Lexikonseiten; eine breite unabhängige öffentliche Debatte ist nicht erkennbar.",
+    "Es gibt keine klaren Hinweise auf negative Stigmatisierung oder Kontroversen in den vorliegenden Auszügen."
+  ],
+  "short_summary": "Toni wird in den Quellen meist positiv oder neutral beschrieben: kurz, bekannt, flexibel und als Kurzform von Anton/Antonia gut verankert.",
+  "source_count": 3,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "Vorname Toni � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/T/To/Toni/"
+    },
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "Vorname Toni � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/T/To/Toni/"
+    },
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Toni: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Toni.html"
+    }
+  ],
+  "style_effect": [
+    "kurz und prägnant",
+    "informell-vertraut",
+    "klassisch durch Anton/Antonia-Anbindung",
+    "modern durch die unisex nutzbare Form",
+    "umgangssprachlich auch als Koseform lesbar"
+  ],
+  "usable_evidence_count": 3,
+  "visibility": "Im deutschsprachigen Raum gut bekannt und sichtbar, mit Einträgen in Namenslexika und auf Beliebtheitsseiten; die öffentliche Wahrnehmung wirkt eher sachlich als kontrovers."
+}

@@ -1,0 +1,59 @@
+{
+  "associations": [
+    "flämische bzw. niederländische Form mit althochdeutscher Wurzel",
+    "Bedeutungsfeld rund um \"lieber Freund\" / \"Freund\"",
+    "Namenstag am 12. November",
+    "Bezug zu Livinus von Gent",
+    "selten, aber in Deutschland bekannt"
+  ],
+  "confidence": 0.91,
+  "display_text": "Lieven wirkt überwiegend freundlich, traditionell und eher selten. Die vorliegende Evidenz ordnet den Namen altdeutsch/flämisch ein und verbindet ihn mit der Bedeutung \"lieber Freund\"; eine breite öffentliche Diskussion ist jedoch kaum sichtbar.",
+  "evidence_quality": "Mittel: zwei klare, aber vorwiegend lexikalische Webquellen; kaum echte öffentliche Resonanz oder Kommentarlage.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Lieven",
+  "normalized_name": "lieven",
+  "overall_resonance": "Überwiegend positiv-beschreibend, aber die öffentliche Wahrnehmung wirkt insgesamt eher lexikalisch als breit diskutiert. Der Name wird vor allem mit Freundlichkeit, altdeutscher/flämischer Herkunft und einer eher seltenen, regionalen Verbreitung in Deutschland verbunden.",
+  "practical_notes": [
+    "Für Suchmaschinen eignet sich eine neutrale Einordnung als seltener, traditionell klingender Vorname.",
+    "Die Wahrnehmung ist eher sachlich-positiv als emotional aufgeladen.",
+    "Wenn Kontext gewünscht ist, kann die etymologische Bedeutung besonders hervorstechen."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist stark von Namenslexika geprägt; echte öffentliche Diskussion oder soziale Bewertung ist kaum nachweisbar.",
+    "Beliebtheits- und Verbreitungsangaben wirken redaktionell und sollten vorsichtig gelesen werden.",
+    "Keine belastbaren Hinweise auf negative Stigmatisierung oder klare Trendwirkung in der vorliegenden Evidenz."
+  ],
+  "short_summary": "Lieven wird überwiegend freundlich und traditionsnah wahrgenommen, mit altdeutscher/flämischer Herkunft und der Bedeutung eines \"liebenden Freundes\". In Deutschland ist der Name eher selten und vor allem namenkundlich statt öffentlich breit diskutiert.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Lieven � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/L/Li/Lieven/"
+    },
+    {
+      "confidence": 0.94,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Lieven: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Lieven.html"
+    }
+  ],
+  "style_effect": [
+    "traditionell",
+    "nordisch/flämisch wirkend",
+    "freundlich in der Klangassoziation",
+    "eher ungewöhnlich statt trendig",
+    "namenkundlich klar einordenbar"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Eher gering bis moderat in Deutschland; in den vorliegenden Quellen wird Lieven als selten, aber präsent beschrieben. Eine breite öffentliche Diskussion ist nicht erkennbar."
+}

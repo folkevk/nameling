@@ -1,0 +1,62 @@
+{
+  "associations": [
+    "Bedeutung im Sinne von „entschlossene Beschützerin“",
+    "weibliche Form zu Wilhelm",
+    "althochdeutsche Herkunft",
+    "historisch verbreitet",
+    "heute eher selten",
+    "teilweise als wiederentdeckt beschrieben",
+    "klassischer, traditioneller Klang"
+  ],
+  "confidence": 0.9,
+  "display_text": "Wilhelmine: ein klassischer, historischer und eher seltener Vorname mit traditioneller, leicht positiver Ausstrahlung.",
+  "evidence_quality": "mittel bis gut; zwei direkte Namensquellen mit weitgehend übereinstimmender, überwiegend sachlicher Einordnung, aber keine breite soziale Stichprobe.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Wilhelmine",
+  "normalized_name": "wilhelmine",
+  "overall_resonance": "Wilhelmine wirkt öffentlich überwiegend traditionell, historisch und eher selten, mit einer leicht positiven bis neutralen Resonanz.",
+  "practical_notes": [
+    "Für Suchende dürfte der Name als traditionsreich und unverwechselbar wahrgenommen werden.",
+    "Die seltene Verwendung kann ihn besonders markant wirken lassen.",
+    "Der Name hat eher einen historischen als einen modisch-trendigen Eindruck."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt vor allem aus Namensdatenbanken und redaktionellen Namensseiten, nicht aus einer breiten öffentlichen Debatte.",
+    "Einzelne Bewertungen können durch Kommentare oder redaktionelle Einordnungen geprägt sein und sind daher nur vorsichtig zu verallgemeinern."
+  ],
+  "short_summary": "Wilhelmine wird meist als klassischer, historischer und seltener Mädchenname mit eher neutral bis positivem Image beschrieben.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.95,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Wilhelmine � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/W/Wi/Wilhelmine/"
+    },
+    {
+      "confidence": 0.94,
+      "is_name_discussion": true,
+      "sentiment": "mixed",
+      "source_type": "web",
+      "title": "&#9655; Vorname Wilhelmine: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Wilhelmine.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "altdeutsch",
+    "historisch",
+    "würdig",
+    "selten",
+    "leicht nostalgisch",
+    "wiederentdeckt"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland ist der Name eher wenig gebräuchlich und dadurch auffälliger als viele moderne Namen; zugleich ist er durch Namenslexika und historische Bezüge gut erkennbar."
+}

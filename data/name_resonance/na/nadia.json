@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "Hoffnung / die Hoffnungsvolle",
+    "Morgentau",
+    "großzügig, zart",
+    "arabische und altslawische Herkunftsbezüge",
+    "weiblicher Vorname",
+    "Schreibvarianten und Kurzformen"
+  ],
+  "confidence": 0.87,
+  "display_text": "Nadia gilt in Deutschland als eher positiv besetzter, weicher und international wirkender Vorname. Die Quellen heben vor allem Bedeutungen wie Hoffnung, Morgentau und zarte bzw. großzügige Konnotationen hervor. Eine Stigmatisierung ist in der vorliegenden Evidenz nicht erkennbar; die Wahrnehmung ist vor allem sachlich und namenskundlich geprägt.",
+  "evidence_quality": "mittel bis gut: direkt namenskundliche Quellen mit klarer, aber eher lexikalischer als diskursiver Evidenz.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Nadia",
+  "normalized_name": "nadia",
+  "overall_resonance": "Überwiegend positiv und sachlich-informativ wahrgenommen; der Name wirkt international, weich und vertraut, ohne starke Kontroversen.",
+  "practical_notes": [
+    "Für Suchmaschinen-Nutzung eignet sich eine knappe Beschreibung als internationaler, weicher und positiv besetzter Mädchenname.",
+    "Die Bedeutung wird in den Quellen teils unterschiedlich angegeben; die Gemeinsamkeit ist insgesamt eine eher positive, hoffnungsvolle Konnotation.",
+    "Bei der Darstellung sollte die Herkunft als mehrdeutig beziehungsweise mehrsprachig beschrieben werden."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Es gibt keinen Hinweis auf eine öffentliche Stigmatisierung des Namens in der vorliegenden Evidenz.",
+    "Die Quellen sind vor allem Namensseiten; die Resonanz ist daher eher beschreibend als von echter öffentlicher Debatte getragen.",
+    "Beliebtheitsangaben sollten vorsichtig gelesen werden, da keine breiten Meinungsdaten vorliegen."
+  ],
+  "short_summary": "Nadia wird in Deutschland überwiegend freundlich, weich und international wahrgenommen; die verfügbaren Quellen betonen vor allem positive Bedeutungen, Herkunftsbezüge und die eher sachliche Namensbeschreibung.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Nadia � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/N/Na/Nadia/"
+    },
+    {
+      "confidence": 0.91,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Nadia: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Nadia.html"
+    }
+  ],
+  "style_effect": [
+    "weich und melodisch",
+    "international und modern",
+    "zugleich klassisch-vertraut",
+    "informativ geprägt",
+    "eher elegant als auffällig"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland ist Nadia als bekannter, aber eher nicht allzu häufiger Vorname präsent. Die öffentliche Wahrnehmung erscheint vor allem über Namenslexika und Bedeutungseinträge geprägt, weniger über breite Diskussionen."
+}

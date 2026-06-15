@@ -1,0 +1,63 @@
+{
+  "associations": [
+    "Weisheit",
+    "die Weise / die Wissende",
+    "altgriechischer Ursprung",
+    "klassischer Mädchenname",
+    "sehr beliebt in Deutschland",
+    "Namenstag",
+    "viele Spitznamen/Kosenamen",
+    "geschmackvoll",
+    "zeitlos"
+  ],
+  "confidence": 0.96,
+  "display_text": "Sophia wirkt in Deutschland überwiegend positiv und sehr etabliert: klassisch, zeitlos und mit Assoziationen wie Weisheit, griechischer Herkunft und hoher Beliebtheit. Einzelne Kommentare können subjektiv gemischt sein, ändern aber das insgesamt wertschätzende Bild kaum.",
+  "evidence_quality": "hoch; zwei klare Namensquellen mit übereinstimmender, überwiegend positiver Einordnung und hoher Relevanz für den Vornamen selbst.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Sophia",
+  "normalized_name": "sophia",
+  "overall_resonance": "Überwiegend positiv und klassisch-zeitlos wahrgenommen. Sophia wird in den Quellen vor allem mit Weisheit, griechischer Herkunft und hoher Beliebtheit in Deutschland verbunden.",
+  "practical_notes": [
+    "Für eine öffentliche Namenssuche wirkt Sophia stark etabliert und positiv besetzt.",
+    "Der Name wird oft als vertraut, klassisch und leicht einzuordnen beschrieben.",
+    "Durch die sehr hohe Verbreitung kann er als eher populär als ungewöhnlich wirken."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Einzelne Nutzerkommentare können gemischt oder subjektiv ausfallen; diese sollten nicht als allgemeine Mehrheitsmeinung gelesen werden.",
+    "Die positive Wahrnehmung beruht hier vor allem auf Namenslexikon- und Beliebtheitsquellen, nicht auf breit angelegter Meinungsforschung."
+  ],
+  "short_summary": "Sophia wird in Deutschland überwiegend positiv, klassisch und zeitlos wahrgenommen – mit starken Assoziationen zu Weisheit, griechischer Herkunft und hoher Beliebtheit.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "Vorname Sophia � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/S/So/Sophia/"
+    },
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "mostly positive",
+      "source_type": "web",
+      "title": "&#9655; Vorname Sophia: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Sophia.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "zeitlos",
+    "elegant",
+    "namenskundlich geprägt",
+    "allgemein populär",
+    "wertschätzend"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Sehr hoch in Deutschland; der Name erscheint in Namenslexika und Popularitätskontexten deutlich präsent."
+}

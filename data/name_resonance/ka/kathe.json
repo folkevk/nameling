@@ -1,0 +1,51 @@
+{
+  "associations": [
+    "deutsche Koseform von Katharina",
+    "mögliche Schreibvariante von Köthe",
+    "Bedeutung: die Reine / die Unschuldige",
+    "altgriechischer Ursprung",
+    "selten in Deutschland"
+  ],
+  "confidence": 0.84,
+  "display_text": "Kathe wirkt in Deutschland eher selten, neutral und traditionell. Öffentliches Echo ist kaum sichtbar; die verfügbare Evidenz ist vor allem namenskundlich und beschreibt den Namen als Kurzform von Katharina mit altgriechischem Ursprung.",
+  "evidence_quality": "mittel bis schwach; überwiegend beschreibende Namensdatenbank, kaum öffentliche Meinungsvielfalt sichtbar",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Kathe",
+  "normalized_name": "kathe",
+  "overall_resonance": "Eher neutral bis sanft traditionell; der Name wirkt vor allem als seltene, historische bzw. namenskundlich eingeordnete Form.",
+  "practical_notes": [
+    "Für Suchmaschinen und Namensprofile eignet sich die Einordnung als seltene, traditionelle Kurzform.",
+    "Die Schreibweise kann als ungewöhnlich wahrgenommen werden, was zu Nachfragen führen kann.",
+    "Eine klare historische bzw. etymologische Einordnung ist eher verfügbar als gesellschaftliche Bewertung."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenzbasis ist schwach und stammt im Wesentlichen aus einer Namensdatenbankseite.",
+    "Es gibt keine erkennbare öffentliche Debatte oder breit dokumentierte Alltagsresonanz.",
+    "Aussagen zur Wirkung bleiben daher vorsichtig und beschreibend."
+  ],
+  "short_summary": "Kathe wird in der verfügbaren Evidenz als seltene, neutral wirkende und eher traditionell anmutende Form von Katharina beschrieben.",
+  "source_count": 1,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Kathe � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/K/Ka/Kathe/"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "kürzer und schlicht",
+    "altmodisch im Ton",
+    "namenskundlich geprägt",
+    "wenig alltagspräsent"
+  ],
+  "usable_evidence_count": 1,
+  "visibility": "Niedrig bis sehr niedrig in Deutschland; in der Evidenz wird Kathe als selten beschrieben."
+}

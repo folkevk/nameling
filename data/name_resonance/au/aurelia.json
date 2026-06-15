@@ -1,0 +1,65 @@
+{
+  "associations": [
+    "Gold",
+    "golden",
+    "lateinischer Ursprung",
+    "römisch-antiker Bezug",
+    "Namenstag",
+    "Beliebtheit in Deutschland",
+    "klassisch",
+    "elegant",
+    "zeitlos"
+  ],
+  "confidence": 0.88,
+  "display_text": "Aurelia wirkt in deutschen Namensquellen überwiegend positiv: klassisch, elegant, klangvoll und mit der Assoziation „golden“. Die Quellenlage ist allerdings begrenzt und fast nur auf Namenslexika gestützt.",
+  "evidence_quality": "gut für eine vorsichtige Namensresonanz, aber thematisch eng und stark auf wenige redaktionelle Namensquellen gestützt",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Aurelia",
+  "normalized_name": "aurelia",
+  "overall_resonance": "Aurelia wird in den vorliegenden deutschsprachigen Namensquellen überwiegend positiv und eher elegant wahrgenommen. Der Name wird häufig mit „golden“, klassisch, klangvoll und zeitlos verbunden. Die öffentliche Rezeption wirkt dabei eher namenslexikalisch als kontrovers.",
+  "practical_notes": [
+    "Für eine Namenssuche spricht Aurelia eher Nutzer an, die einen klassischen, femininen und edel klingenden Namen suchen.",
+    "Die öffentliche Resonanz wirkt freundlich und wertschätzend, aber nicht besonders meinungsstark oder kontrovers.",
+    "Wegen der schmalen Quellenlage sollte die Aussage zur Beliebtheit vorsichtig gelesen werden."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt fast ausschließlich aus Namensdatenbanken und lexikalischen Beschreibungen mit tendenziell positivem Rahmen.",
+    "Die Herkunfts- und Bedeutungsangaben können je nach Quelle etymologisch unterschiedlich ausgelegt sein.",
+    "Es gibt keine belastbaren Hinweise auf eine negative soziale Stigmatisierung; solche Bewertungen wären hier nicht ableitbar."
+  ],
+  "short_summary": "Aurelia wird in den verfügbaren deutschen Namensquellen überwiegend positiv, klassisch und klangvoll beschrieben; die Evidenz ist jedoch schmal und vor allem lexikalisch geprägt.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "Vorname Aurelia � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/A/Au/Aurelia/"
+    },
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "positive",
+      "source_type": "web",
+      "title": "&#9655; Vorname Aurelia: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Aurelia.html"
+    }
+  ],
+  "style_effect": [
+    "elegant",
+    "klassisch",
+    "klangvoll",
+    "zeitlos",
+    "edel",
+    "weiblich",
+    "namenskundlich verankert"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Im deutschen Namensumfeld scheint Aurelia gut sichtbar, aber nicht massenhaft verbreitet zu sein. Die Quellen deuten auf eine gewisse Beliebtheit hin, ohne dass daraus eine breite Mainstream-Prägung abgeleitet werden sollte."
+}

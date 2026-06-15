@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "Kurzform von Henriette",
+    "deutsch bzw. französisch geprägt",
+    "Bedeutung: Hausherrin / Herrscherin der Heimat",
+    "altdeutsch und traditionsnah",
+    "in Deutschland bekannt und verbreitet"
+  ],
+  "confidence": 0.9,
+  "display_text": "Jette wird in Deutschland überwiegend positiv wahrgenommen: kurz, freundlich und traditionsnah. Die Quellen beschreiben den Namen vor allem als Kurzform von Henriette mit deutsch-französischer Prägung und einer eher klassischen Bedeutung. Einzelne kritische Randstimmen gibt es, sie sind aber nicht dominant.",
+  "evidence_quality": "mittel bis gut; überwiegend lexikalische Quellen mit etwas Nutzerresonanz",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Jette",
+  "normalized_name": "jette",
+  "overall_resonance": "Überwiegend positiv und freundlich; der Name wird vor allem als kurz, vertraut und traditionell wahrgenommen.",
+  "practical_notes": [
+    "Der Name ist kurz, leicht auszusprechen und gut merkbar.",
+    "Er wirkt eher warm und vertraut als extravagant.",
+    "Durch die klare historische Herkunft hat er einen stabilen, klassischen Eindruck.",
+    "Als Vorname ist Jette in Deutschland gut anschlussfähig."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt vor allem aus Namenslexika und nicht aus breiter öffentlicher Debatte.",
+    "Einzelne Randkommentare wirken leicht kritisch, dominieren aber nicht das Gesamtbild.",
+    "Es gibt keine belastbaren Hinweise auf starke gesellschaftliche Stigmatisierung."
+  ],
+  "short_summary": "Jette wird öffentlich meist positiv, kurz und traditionell wahrgenommen; die verfügbaren Quellen betonen Herkunft, Bedeutung und Verbreitung, ohne starke Kontroversen.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "Vorname Jette � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/J/Je/Jette/"
+    },
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "überwiegend positiv, mit einzelnen negativen Randaspekten",
+      "source_type": "web",
+      "title": "&#9655; Vorname Jette: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Jette.html"
+    }
+  ],
+  "style_effect": [
+    "kurz und prägnant",
+    "lieblich und bodenständig",
+    "traditionell mit moderner Kürze",
+    "weiblich und klar erkennbar",
+    "namenskundlich gut etabliert"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland sichtbar und gut anschlussfähig, mit eher lexikalischer als kontroverser öffentlicher Präsenz."
+}

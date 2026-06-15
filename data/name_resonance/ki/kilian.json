@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "keltisch/altirisch",
+    "Bedeutung im Sinn von Kämpfer/Krieger",
+    "Bezug zum heiligen Kilian",
+    "Namenstag am 8. Juli",
+    "in Deutschland beliebt bzw. gut bekannt",
+    "männlicher Vorname",
+    "Spitznamen wie Kili oder Kiki"
+  ],
+  "confidence": 0.92,
+  "display_text": "Kilian wird überwiegend neutral bis leicht positiv wahrgenommen: ein bekannter, modern-etablierter Jungenname mit keltisch-altirischer Herkunft, der oft mit ‚Kämpfer/Krieger‘, dem heiligen Kilian und dem Namenstag am 8. Juli verbunden wird.",
+  "evidence_quality": "gut: zwei einschlägige Namenslexika, beide direkt zum Vornamen, überwiegend konsistente Angaben",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Kilian",
+  "normalized_name": "kilian",
+  "overall_resonance": "Kilian wirkt in der öffentlichen Wahrnehmung überwiegend sachlich, traditionell und zugleich modern-etabliert. Der Name wird meist neutral bis leicht positiv beschrieben, vor allem wegen seiner klaren Herkunft, der bekannten Bedeutung und der guten Verankerung in Deutschland.",
+  "practical_notes": [
+    "Für Suchmaschinen eignet sich eine kurze Einordnung als bekannter, positiv bis neutral wahrgenommener Vorname.",
+    "Die Aussprache und Schreibweise wirken unkompliziert.",
+    "Der Name verbindet traditionelle Herkunft mit einem zeitgemäßen Eindruck."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt im Wesentlichen aus Namenslexika und nicht aus einer breiten öffentlichen Debatte.",
+    "Beliebtheitsaussagen sind eher beschreibend als kontrovers; starke Gegenbewertungen sind in der vorliegenden Evidenz nicht erkennbar.",
+    "Keine Hinweise auf soziale Stigmatisierung in der Quelle."
+  ],
+  "short_summary": "Kilian wird öffentlich meist als bekannter, moderner und zugleich traditionsreicher Jungenname wahrgenommen – neutral bis leicht positiv, ohne erkennbare Kontroverse.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Kilian � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/K/Ki/Kilian/"
+    },
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "neutral bis leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Kilian: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Kilian.html"
+    }
+  ],
+  "style_effect": [
+    "informativ",
+    "kulturell-historisch",
+    "modern-etabliert",
+    "klassisch mit jugendlicher Wirkung",
+    "klar und vertraut"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "hoch"
+}

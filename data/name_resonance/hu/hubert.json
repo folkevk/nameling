@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "althochdeutsche Herkunft",
+    "Bedeutung: durch Verstand glänzend",
+    "Namenstag",
+    "Heiliger Hubert / Schutzpatron der Jäger",
+    "eher seltene Verbreitung in Deutschland",
+    "Kurzformen wie Hubi oder Hubsi"
+  ],
+  "confidence": 0.82,
+  "display_text": "Hubert wirkt öffentlich eher traditionell und leicht positiv: ein klassischer, heute seltener Vorname mit altdeutscher Herkunft und klaren namenskundlichen Assoziationen. Die Evidenz ist solide, aber vor allem aus Namensseiten abgeleitet.",
+  "evidence_quality": "mittelstark; zwei namenskundliche Webquellen mit klarer Namensdiskussion, aber begrenzter breiter Publikumsresonanz",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Hubert",
+  "normalized_name": "hubert",
+  "overall_resonance": "Hubert wird in den vorliegenden Quellen überwiegend sachlich bis leicht positiv beschrieben. Die öffentliche Wahrnehmung wirkt eher traditionell, namenskundlich und wenig polarisiert; zugleich ist der Name heute in Deutschland eher selten.",
+  "practical_notes": [
+    "Für Suchende wirkt Hubert seriös, traditionell und leicht antiquiert, aber klar verständlich.",
+    "Der Name kann durch seine historische und religiöse Einordnung zusätzliche kulturelle Tiefe haben.",
+    "Wegen der heutigen Seltenheit kann er auf viele Menschen markant oder ungewöhnlich wirken."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt vor allem aus Namensdatenbanken und ist daher nur mittelstark als Maß für echte öffentliche Resonanz.",
+    "Es gibt keine Hinweise auf starke Polarisierung oder bekannte Stigmatisierung, aber auch keine breite Social-Media-Resonanz.",
+    "Die positive Tönung ist eher informativ als emotional; sie sollte nicht überinterpretiert werden."
+  ],
+  "short_summary": "Hubert wird meist sachlich und leicht positiv wahrgenommen: ein traditioneller, heute eher seltener Vorname mit klassischer Herkunft und klaren kulturellen Assoziationen.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "Vorname Hubert � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/H/Hu/Hubert/"
+    },
+    {
+      "confidence": 0.9,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Hubert: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Hubert.html"
+    }
+  ],
+  "style_effect": [
+    "traditionell",
+    "klassisch-altdeutsch",
+    "sachlich",
+    "namenskundlich",
+    "eher selten",
+    "leicht nostalgisch"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Mittlere Sichtbarkeit: Der Name ist bekannt und klar einordbar, taucht aber eher in Namensdatenbanken und erklärenden Beiträgen auf als in breiter öffentlicher Debatte."
+}

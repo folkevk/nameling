@@ -1,0 +1,68 @@
+{
+  "associations": [
+    "spanischer weiblicher Vorname",
+    "Bedeutung: Trost / die Tröstende",
+    "katholischer Bezug",
+    "selten in Deutschland",
+    "Namenstag: 26. April",
+    "gelegentlich mit ungewohnter Schreib- und Klangwahrnehmung im Deutschen verbunden"
+  ],
+  "confidence": 0.81,
+  "display_text": "Consuelo ist in Deutschland eher selten und wird überwiegend sachlich-neutral wahrgenommen. Der Name gilt als spanischer weiblicher Vorname mit der Bedeutung „Trost“ bzw. „die Tröstende“ und wird vor allem in Namenslexika beschrieben. Eine breite öffentliche Debatte ist in der vorliegenden Evidenz nicht erkennbar.",
+  "evidence_quality": "schwach bis mittel: mehrere namenskundliche Webquellen, aber keine belastbare öffentliche Diskussionsresonanz",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Consuelo",
+  "normalized_name": "consuelo",
+  "overall_resonance": "Die öffentliche Wahrnehmung von Consuelo in Deutschland wirkt überwiegend sachlich-neutral und eher namenskundlich als emotional aufgeladen. Der Name wird vor allem als spanischer weiblicher Vorname mit der Bedeutung „Trost“ bzw. „die Tröstende“ beschrieben. Eine breite öffentliche Debatte ist nicht erkennbar; die Evidenzlage ist schwach bis mittel, weil sie hauptsächlich aus wenigen Namenslexikon-Quellen stammt.",
+  "practical_notes": [
+    "Für Suchmaschinen- oder Lexikon-Kontexte eignet sich eine knappe, sachliche Beschreibung am besten.",
+    "Die seltene Verwendung in Deutschland sollte vorsichtig formuliert werden, ohne daraus soziale Bewertungen abzuleiten.",
+    "Die Bedeutung des Namens liefert den stärksten positiven Anker in der Darstellung."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz für öffentliche Resonanz in Deutschland ist begrenzt und stützt sich vor allem auf Namenslexikon-Quellen.",
+    "Es gibt keine klare breite Meinungsvielfalt oder echte öffentliche Kontroverse in den vorliegenden Quellen.",
+    "Subjektive Wahrnehmungen zum Klang sollten nicht als allgemeingültig verstanden werden."
+  ],
+  "short_summary": "Consuelo wird in Deutschland vor allem neutral und namenskundlich wahrgenommen: ein seltener spanischer Mädchenname mit der Bedeutung „Trost“.",
+  "source_count": 3,
+  "sources": [
+    {
+      "confidence": 0.78,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Consuelo � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/C/Co/Consuelo/"
+    },
+    {
+      "confidence": 0.94,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Consuelo � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/C/Co/Consuelo/"
+    },
+    {
+      "confidence": 0.9,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Consuelo: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Consuelo.html"
+    }
+  ],
+  "style_effect": [
+    "informativ",
+    "namenskundlich",
+    "neutral-beschreibend",
+    "leicht positiv über die Bedeutung",
+    "teils ungewohnt im deutschen Klangbild"
+  ],
+  "usable_evidence_count": 3,
+  "visibility": "In Deutschland eher selten und dadurch wenig sichtbar; die Resonanz ist vor allem in Namensdatenbanken und lexikalischen Einträgen dokumentiert, nicht in breiten öffentlichen Diskussionen."
+}

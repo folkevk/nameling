@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "russische Koseform von Maria",
+    "deutsche Schreibweise von Masha",
+    "Bedeutungsbezüge wie „die Geliebte“",
+    "Namenstag-Angaben in Namenslexika",
+    "bekannt durch „Mascha und der Bär“",
+    "als eher seltener, aber nicht unbekannter Vorname beschrieben"
+  ],
+  "confidence": 0.92,
+  "display_text": "Mascha hat in Deutschland eine überwiegend freundliche, weich klingende und leicht positive öffentliche Wahrnehmung. Der Name ist bekannt, aber nicht sehr häufig, und wird meist als russische Koseform von Maria bzw. als deutsche Schreibweise von Masha eingeordnet. Mögliche Popkultur-Bezüge können die Wahrnehmung mitprägen, ohne den Namen selbst negativ zu besetzen.",
+  "evidence_quality": "hoch; zwei einschlägige Namenslexika mit klarer Namensdiskussion und überwiegend konsistenter, leicht positiver Einordnung",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Mascha",
+  "normalized_name": "mascha",
+  "overall_resonance": "Im deutschsprachigen Raum wirkt Mascha überwiegend freundlich, weich und modern-vertraut, mit leicht positiver öffentlicher Resonanz. Der Name wird vor allem als russische Koseform von Maria wahrgenommen und ist dadurch sprachlich klar einordenbar.",
+  "practical_notes": [
+    "Der Name ist kurz, gut aussprechbar und in Deutschland grundsätzlich bekannt.",
+    "Die Schreibweise kann als Variante von Masha verstanden werden, was den internationalen Bezug unterstreicht.",
+    "Je nach Kontext kann der Name jugendlich-frisch oder vertraut-kosehaft wirken.",
+    "Für offizielle oder internationale Nutzung ist die klare, einfache Schreibweise ein Vorteil."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Popkultur-Assoziation mit „Mascha und der Bär“ kann die Wahrnehmung prägen, ohne den Namen selbst abzuwerten.",
+    "Einzelne Quellen sind teils nutzerbasiert; Aussagen zu Seltenheit oder Wirkung sollten deshalb vorsichtig gelesen werden.",
+    "Keine belastbaren Hinweise auf soziale Stigmatisierung in der vorliegenden Evidenz."
+  ],
+  "short_summary": "Mascha wird in Deutschland meist als freundlicher, international klingender und leicht positiver Vorname wahrgenommen – bekannt, aber nicht sehr häufig.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.94,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "Vorname Mascha � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/M/Ma/Mascha/"
+    },
+    {
+      "confidence": 0.92,
+      "is_name_discussion": true,
+      "sentiment": "eher positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Mascha: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Mascha.html"
+    }
+  ],
+  "style_effect": [
+    "weich und melodisch",
+    "kosehaft und nahbar",
+    "international bzw. osteuropäisch geprägt",
+    "modern-vertraut",
+    "kurz und prägnant"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Mittlere Sichtbarkeit in Deutschland; bekannt, aber nicht extrem häufig. Dadurch ist der Name eher vertraut als allgegenwärtig."
+}

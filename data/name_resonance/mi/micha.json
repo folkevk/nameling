@@ -1,0 +1,62 @@
+{
+  "associations": [
+    "Kurzform von Michael",
+    "auch mit Michaja bzw. Michaela verbunden",
+    "biblischer Kontext",
+    "hebräische Herkunft",
+    "Bedeutung: 'Wer ist wie Gott?'",
+    "Namenstag",
+    "Rufname/Koseform",
+    "deutschsprachige Verwendung",
+    "selten als eigenständiger Vorname"
+  ],
+  "confidence": 0.83,
+  "display_text": "Micha wirkt in Deutschland überwiegend neutral bis leicht positiv: ein kurzer, biblisch geprägter Name, der meist als Kurzform von Michael verstanden wird. Die vorhandene Evidenz ist jedoch eher schwach und stammt vor allem aus Namenslexika, nicht aus breiter öffentlicher Diskussion.",
+  "evidence_quality": "mittel bis schwach; überwiegend lexikalische Namensquellen, kaum echte öffentliche Meinungsäußerungen",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Micha",
+  "normalized_name": "micha",
+  "overall_resonance": "Überwiegend neutral bis leicht positiv, vor allem sachlich-namenskundlich geprägt.",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt Micha schlicht, kurz und vertraut-biblisch.",
+    "Die öffentliche Rezeption scheint eher beschreibend als bewertend zu sein.",
+    "Als eigenständiger Vorname kann er in Deutschland etwas ungewöhnlich wirken, bleibt aber gut verständlich."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist schwach bis mittel, weil sie fast nur aus redaktionellen Namenslexika stammt und keine breite öffentliche Diskussion abbildet.",
+    "Es gibt keine belastbaren Hinweise auf starke soziale Zuschreibungen oder Stigmatisierung; falls jemand den Namen als ungewohnt wahrnimmt, ist das eher eine Frage der Seltenheit als eines negativen Images."
+  ],
+  "short_summary": "Micha wird in den Quellen vor allem neutral und namenskundlich beschrieben: kurz, biblisch, eher selten als eigenständiger Vorname.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Micha � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/M/Mi/Micha/"
+    },
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Micha: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Micha.html"
+    }
+  ],
+  "style_effect": [
+    "kurz und eingängig",
+    "biblisch-namenskundlich",
+    "als Kurzform/Koseform wahrgenommen",
+    "geschlechtsneutral lesbar",
+    "eher informell als sehr klassisch"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Eher bekannt, aber als eigenständiger Vorname in Deutschland eher selten und deshalb nicht sehr präsent."
+}

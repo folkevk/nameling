@@ -1,0 +1,62 @@
+{
+  "associations": [
+    "arabische Herkunft",
+    "teils auch altgriechische bzw. sanskritische Herleitungen in Namenslexika",
+    "Bedeutungen wie Königin/Prinzessin oder vollkommene Schönheit",
+    "weiblicher Vorname",
+    "kurz und gut merkbar",
+    "Beliebtheit bzw. Präsenz in deutschen Namenslisten"
+  ],
+  "confidence": 0.87,
+  "display_text": "Rania wird in Deutschland meist als klangvoller, eleganter und eher positiv besetzter Vorname wahrgenommen. Die vorhandene Evidenz ist vor allem aus Namenslexika und Beliebtheitslisten abgeleitet, daher vorsichtig zu interpretieren.",
+  "evidence_quality": "mittel bis schwach: überwiegend zwei Namenslexika, kaum unabhängige öffentliche Diskussion, insgesamt aber konsistente Tendenz zu neutral bis positiv.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Rania",
+  "normalized_name": "rania",
+  "overall_resonance": "Der Vorname Rania wirkt in der öffentlichen Namenswahrnehmung überwiegend freundlich, elegant und eher positiv konnotiert. Die verfügbare Evidenz ist jedoch vor allem lexikalisch-namenskundlich und nicht als breite öffentliche Debatte zu verstehen.",
+  "practical_notes": [
+    "Für eine Namenssuche eignet sich Rania als klar weiblich wahrgenommener, klangvoller und international anschlussfähiger Name.",
+    "Die Schreibweise ist kurz und gut einprägsam, die Aussprache im Deutschen wirkt meist unkompliziert.",
+    "Die öffentliche Wahrnehmung ist eher sachlich-informativ als emotional aufgeladen."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist stark von wenigen Namenslexikon-Seiten geprägt; eine breite öffentliche Resonanz lässt sich daraus nur eingeschränkt ableiten.",
+    "Einzelne Bedeutungs- und Herkunftsangaben variieren je nach Quelle; diese sollten nicht als eindeutig gesichert dargestellt werden.",
+    "Keine Hinweise auf eine negative gesellschaftliche Stigmatisierung des Namens in der vorliegenden Evidenz."
+  ],
+  "short_summary": "Rania wird in Deutschland überwiegend als eleganter, international wirkender Mädchenname mit positiver Bedeutung wahrgenommen; die Evidenz ist jedoch vor allem lexikalisch und nicht breit öffentlich diskutiert.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Rania � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/R/Ra/Rania/"
+    },
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Rania: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Rania.html"
+    }
+  ],
+  "style_effect": [
+    "klangvoll",
+    "weich",
+    "international",
+    "elegant",
+    "modern-klassisch",
+    "exotisch wahrgenommen",
+    "namenskundlich aufgeladen"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland scheint Rania als bekannter, aber eher nicht massenhaft verbreiteter Vorname wahrgenommen zu werden. Die Sichtbarkeit entsteht vor allem über Namenslexika und Beliebtheitslisten, weniger über kontroverse öffentliche Diskussionen."
+}

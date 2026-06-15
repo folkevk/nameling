@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "Frühlingsmonat Mai",
+    "Göttin Maia",
+    "Kurzform-/Variante von May oder Maj",
+    "teilweise als Kurzform von Maria eingeordnet",
+    "Bedeutungen rund um Frühblüte, Tanz oder Geboren-im-Mai",
+    "selten und dadurch besonders",
+    "Namenslexikon- und Beliebtheitskontext"
+  ],
+  "confidence": 0.79,
+  "display_text": "Mai wirkt im deutschen Raum überwiegend positiv, kurz und ungewöhnlich. Der Name ist vor allem durch Namenslexika gut belegt und wird mit Frühlingsmonat, Maia sowie teils Maria- oder May/Maj-Bezügen verbunden. Eine breite öffentliche Debatte ist kaum erkennbar, daher ist die Evidenz eher begrenzt als repräsentativ.",
+  "evidence_quality": "Mittel bis eher schwach für öffentliche Rezeption: gute namenskundliche Hinweise, aber kaum unabhängige, breite Alltagsresonanz.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Mai",
+  "normalized_name": "mai",
+  "overall_resonance": "Überwiegend positiv bis freundlich-sachlich, mit starker Lexikon- und Namenskundeverankerung. Der Name wirkt kurz, markant und eher ungewöhnlich, ohne klar negative öffentliche Konnotationen.",
+  "practical_notes": [
+    "Für die öffentliche Wahrnehmung ist vor allem die Kürze und Seltenheit prägend.",
+    "In Deutschland dürfte der Name eher als ungewöhnlich und markant auffallen als als sehr verbreitet.",
+    "Die positive Einordnung beruht vor allem auf sachlichen Namensquellen, nicht auf einer breiten Diskussionslage."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist begrenzt und stammt fast ausschließlich aus Namenslexika; eine breite öffentliche Rezeption ist daraus nur eingeschränkt ableitbar.",
+    "Mehrdeutige Herkunfts- und Bedeutungszuordnungen hängen stark vom Sprachraum ab.",
+    "Der Monatsbezug kann je nach Kontext als charmant oder als etwas erklärungsbedürftig wahrgenommen werden."
+  ],
+  "short_summary": "Mai wird im deutschen Namenskontext überwiegend freundlich und sachlich wahrgenommen: kurz, selten, mit Monats- und Frühlingsbezug. Die Evidenz ist jedoch vor allem lexikalisch und nur begrenzt öffentlich breit.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.94,
+      "is_name_discussion": true,
+      "sentiment": "positive",
+      "source_type": "web",
+      "title": "Vorname Mai � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/M/Ma/Mai/"
+    },
+    {
+      "confidence": 0.84,
+      "is_name_discussion": true,
+      "sentiment": "eher positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Mai: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Mai.html"
+    }
+  ],
+  "style_effect": [
+    "kurz und einprägsam",
+    "modern und leicht exotisch wirkend",
+    "zugleich sachlich-namenskundlich aufgeladen",
+    "je nach Kontext als weiblich, teils auch unisex-nah lesbar",
+    "durch den Monatsbezug freundlich und hell assoziierbar"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Eher geringe bis mittlere Sichtbarkeit im deutschsprachigen Raum; die Wahrnehmung scheint vor allem über Namensdatenbanken und einzelne Namenslexika geprägt zu sein, nicht über breite öffentliche Debatten."
+}

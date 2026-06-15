@@ -1,0 +1,64 @@
+{
+  "associations": [
+    "altnordische Herkunft",
+    "Bedeutung im Sinne von Schutz/Hut",
+    "früher deutlich häufiger",
+    "heute selten in Deutschland",
+    "Namenstag (je nach Quelle angegeben)",
+    "teils als altmodisch beschrieben",
+    "teils als wohlklingend wahrgenommen"
+  ],
+  "confidence": 0.94,
+  "display_text": "Ingeborg ist ein klassischer, heute seltener Vorname mit nordischer Herkunft. Öffentlich wirkt er eher traditionell und historisch; der Klang wird teils als wohlklingend, teils als altmodisch beschrieben. Insgesamt ist die Resonanz eher neutral bis leicht positiv.",
+  "evidence_quality": "hoch: zwei direkte namenkundliche Quellen mit klaren Angaben zu Herkunft, Bedeutung, Seltenheit und öffentlichen Wertungen; die wertenden Teile sind jedoch teilweise anekdotisch.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Ingeborg",
+  "normalized_name": "ingeborg",
+  "overall_resonance": "Der Name Ingeborg wird in der öffentlichen Namenswahrnehmung überwiegend als traditionell, historisch und klar weiblich wahrgenommen. Die Rezeption wirkt eher nüchtern-informativ als trendig; gelegentlich wird der Name als altmodisch beschrieben, zugleich aber auch als wohlklingend und bedeutungsvoll.",
+  "practical_notes": [
+    "Für Suchmaschinen-Nutzung eignet sich eine kurze Einordnung als klassischer, seltener Vorname mit nordischer Herkunft.",
+    "Ingeborg wirkt sprachlich klar und traditionsnah, aber nicht modern-trendig.",
+    "Die öffentliche Rezeption ist insgesamt gemischt bis neutral, mit leicht positiver Wertung durch Bedeutung und Klang.",
+    "Wegen der Seltenheit heute kann der Name stärker als bewusst gewählt und traditionell empfunden werden."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Einschätzungen zu Klang und Stil stammen teilweise aus Einzelmeinungen und sind daher nur vorsichtig zu gewichten.",
+    "„Altmodisch“ ist hier eine Stilbeschreibung, keine objektive Qualitätsaussage.",
+    "Es gibt keine belastbaren Hinweise auf soziale Stigmatisierung; die Wahrnehmung ist eher historisch als abwertend."
+  ],
+  "short_summary": "Ingeborg wird meist als klassischer, seltener und historisch geprägter Vorname mit nordischer Herkunft wahrgenommen; der Klang wird teils als wohlklingend, teils als altmodisch beschrieben.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Ingeborg � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/I/In/Ingeborg/"
+    },
+    {
+      "confidence": 0.94,
+      "is_name_discussion": true,
+      "sentiment": "gemischt",
+      "source_type": "web",
+      "title": "&#9655; Vorname Ingeborg: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Ingeborg.html"
+    }
+  ],
+  "style_effect": [
+    "traditionell",
+    "klassisch",
+    "historisch",
+    "nordisch geprägt",
+    "formal",
+    "eher selten",
+    "nüchtern bis würdevoll"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland ist Ingeborg heute eher selten und wirkt deshalb auffällig historisch. Der Name ist vielen vor allem als klassischer Vorname aus früheren Generationen bekannt."
+}

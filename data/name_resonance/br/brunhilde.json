@@ -1,0 +1,63 @@
+{
+  "associations": [
+    "Nibelungensage",
+    "Walküre",
+    "Richard Wagner / Der Ring des Nibelungen",
+    "althochdeutsche Herkunft",
+    "Kampf / Schutzsymbolik",
+    "alter deutscher Mädchenname",
+    "Seltenheit in Deutschland"
+  ],
+  "confidence": 0.83,
+  "display_text": "Brunhilde wirkt in der verfügbaren Evidenz vor allem traditionell, historisch und mythologisch geprägt. Der Name ist in Deutschland selten und eher altdeutsch besetzt; die Resonanz erscheint insgesamt sachlich bis leicht positiv, aber auf schmaler Quellenbasis.",
+  "evidence_quality": "Begrenzt: zwei überwiegend namenskundliche Webquellen, sachlich bis leicht positiv, aber keine breite öffentliche Resonanz messbar.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Brunhilde",
+  "normalized_name": "brunhilde",
+  "overall_resonance": "In der verfügbaren Evidenz wirkt „Brunhilde“ überwiegend sachlich-historisch und eher leicht positiv konnotiert, vor allem durch die Verbindung zu Tradition, Mythologie und alter deutscher Namenskultur. Gleichzeitig ist der Name heute in Deutschland selten und eher ungebräuchlich, was die öffentliche Präsenz begrenzt.",
+  "practical_notes": [
+    "Für Suchmaschinen eignet sich der Name vor allem als traditionsreich, klangvoll und historisch verankert beschrieben zu werden.",
+    "Die Seltenheit kann je nach Kontext als Besonderheit oder als altmodisch wahrgenommen werden.",
+    "Eine klare öffentliche Mehrheitsmeinung ist aus der Evidenz nicht ableitbar."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist schmal und stützt sich vor allem auf Namensdatenbanken, nicht auf breite öffentliche Debatten.",
+    "Die kulturellen Assoziationen stammen aus Namenskunde und Mythologie und sollten nicht als allgemeine gesellschaftliche Bewertung verstanden werden.",
+    "Es gibt keine klare Hinweise auf starke positive oder negative öffentliche Kampagnen zum Namen."
+  ],
+  "short_summary": "Brunhilde wird überwiegend als seltener, traditioneller und historisch-mythologisch geprägter Vorname wahrgenommen. Die öffentliche Resonanz wirkt eher sachlich bis leicht positiv, bei insgesamt schwacher Evidenz.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Brunhilde � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/B/Br/Brunhilde/"
+    },
+    {
+      "confidence": 0.91,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Brunhilde: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Brunhilde.html"
+    }
+  ],
+  "style_effect": [
+    "traditionell",
+    "historisch",
+    "mythologisch",
+    "altertümlich",
+    "namenskundlich",
+    "selten",
+    "klassisch-deutsch"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Gering bis mittel: Der Name ist bekannt, aber im Alltag wenig verbreitet und in der öffentlichen Wahrnehmung eher von Namenskunde als von aktueller Nutzung geprägt."
+}

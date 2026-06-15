@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "hebräische Herkunft",
+    "biblische Tradition",
+    "latinisierte Form von Jeremia",
+    "Bedeutung im Sinn von Gottes Erhöhung / Gott ist erhaben",
+    "Namenstag",
+    "seltenere Namenswahl in Deutschland"
+  ],
+  "confidence": 0.9,
+  "display_text": "Jeremias wirkt öffentlich überwiegend positiv: traditionell, biblisch und bedeutungsvoll. In Deutschland ist der Name eher selten, aber gut bekannt und sprachlich markant. Die positive Resonanz basiert vor allem auf Namenslexika und einzelnen Nutzermeinungen.",
+  "evidence_quality": "gut: zwei klare Namenslexikon-Quellen mit überwiegend positiver Tendenz; dennoch eher beschreibende als repräsentative Evidenz.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Jeremias",
+  "normalized_name": "jeremias",
+  "overall_resonance": "Überwiegend positiv und eher klassisch-biblisch geprägt. Jeremias wird öffentlich meist als traditionsreicher, bedeutungsvoller Vorname wahrgenommen.",
+  "practical_notes": [
+    "Wirkt in Deutschland eher ungewöhnlich als mainstream, bleibt aber gut verständlich.",
+    "Die Länge und der biblische Klang geben dem Namen einen ernsthaften, traditionellen Eindruck.",
+    "Kurzformen oder Spitznamen werden auf einigen Seiten erwähnt, sind aber nicht einheitlich."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die positive Wahrnehmung stammt vor allem aus Namenslexika und einzelnen Nutzerkommentaren; das ist keine breite Bevölkerungsumfrage.",
+    "Hinweise auf Attraktivität oder Schönheit sind subjektiv und nicht als objektive Bewertung zu verstehen."
+  ],
+  "short_summary": "Jeremias wird in Deutschland meist positiv, traditionell und biblisch konnotiert wahrgenommen – ein seltener, aber gut verständlicher Vorname mit klassischer Wirkung.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "Vorname Jeremias � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/J/Je/Jeremias/"
+    },
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Jeremias: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Jeremias.html"
+    }
+  ],
+  "style_effect": [
+    "biblisch",
+    "traditionell",
+    "wertig",
+    "sprachlich markant",
+    "leicht feierlich",
+    "selten, aber vertraut"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Im deutschen Namenskontext gut auffindbar, aber nicht alltäglich; eher bekannt als häufig."
+}

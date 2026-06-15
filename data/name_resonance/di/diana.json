@@ -1,0 +1,69 @@
+{
+  "associations": [
+    "römische Mythologie",
+    "Göttin der Jagd",
+    "Mond und Licht",
+    "Natur",
+    "lateinische Herkunft",
+    "Bedeutung im Sinn von Leuchten/Glanz",
+    "Namenstag",
+    "Beliebtheit in Deutschland"
+  ],
+  "confidence": 0.92,
+  "display_text": "Diana wirkt in Deutschland überwiegend positiv, klassisch und elegant. Öffentliche Quellen verbinden den Namen vor allem mit römischer Mythologie, Licht, Mond und Natur. Die Evidenz ist solide, aber überwiegend lexikalisch-informativ und daher eher beschreibend als stimmungsstark.",
+  "evidence_quality": "Gut, aber überwiegend sekundär und lexikalisch. Die Quellen sprechen direkt über den Namen und seine Bedeutung; echte breitere Publikumsresonanz ist nur indirekt ablesbar.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Diana",
+  "normalized_name": "diana",
+  "overall_resonance": "Überwiegend positiv mit klar informativ-sachlicher Prägung. Der Name wird öffentlich meist mit mythologischen und sprachlichen Assoziationen verbunden, etwa mit Licht, Mond, Jagd und Natur. Eine starke emotionale Aufladung ist in der Evidenz nicht zu sehen; die Resonanz wirkt eher freundlich und klassisch.",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt Diana zeitlos, bekannt und international gut einordenbar.",
+    "Der Name trägt eine eher klassische, würdige Anmutung und ist wenig erklärungsbedürftig.",
+    "Spitznamen und Kurzformen kommen vor, sind aber für die öffentliche Grundwahrnehmung nachrangig."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt fast ausschließlich aus Namenslexika und Informationsseiten, nicht aus Meinungsforen; die Resonanz ist daher eher beschreibend als stimmungsgetrieben.",
+    "Mythologische Bezüge sind positiv oder neutral konnotiert, sollten aber nicht als allgemeingültige Bedeutung des Namens missverstanden werden."
+  ],
+  "short_summary": "Diana wird im deutschsprachigen Raum meist positiv und klassisch wahrgenommen, mit starken Bezügen zu Mythologie, Licht und Natur. Die Quellenlage ist solide, aber vor allem informativ statt meinungsbasiert.",
+  "source_count": 3,
+  "sources": [
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "Vorname Diana � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/D/Di/Diana/"
+    },
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Diana � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/D/Di/Diana/"
+    },
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Diana: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Diana.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "elegant",
+    "kulturhistorisch",
+    "sachlich-informativ",
+    "leicht poetisch durch Licht-/Mond-Assoziationen"
+  ],
+  "usable_evidence_count": 3,
+  "visibility": "Im deutschsprachigen Raum ist Diana gut bekannt und als Vorname sichtbar, vor allem durch Namenslexika und Einträge zu Herkunft, Bedeutung und Beliebtheit. Die öffentliche Wahrnehmung scheint eher stabil als trendgetrieben."
+}

@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "Kurzform von Daniel bzw. Daniela",
+    "Bedeutung: \"Gott richtet\" / \"Gott sei mein Richter\"",
+    "hebräische bzw. altaramäische Herkunft",
+    "Unisex-Verwendung",
+    "Namenstag",
+    "eher internationaler Klang"
+  ],
+  "confidence": 0.78,
+  "display_text": "Danny: überwiegend neutral bis leicht positiv. Bekannt, kurz und international klingend, oft als Kurzform von Daniel/Daniela verstanden. Die verfügbare Evidenz ist solide für Bedeutung und Herkunft, aber begrenzt für eine breite öffentliche Meinungslage.",
+  "evidence_quality": "mittel bis gut; zwei direkte Namenslexikon-Quellen mit klaren Angaben, aber kaum breit angelegte öffentliche Meinungsdaten.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Danny",
+  "normalized_name": "danny",
+  "overall_resonance": "Überwiegend neutral bis leicht positiv wahrgenommen; vor allem als vertrauter, international wirkender Kurzname mit klarer Bedeutung.",
+  "practical_notes": [
+    "Für Suchmaschinen und Namensportale wirkt Danny meist unkompliziert und leicht verständlich.",
+    "Die Kurzform-Optik kann Nähe und Modernität vermitteln.",
+    "Wer einen formelleren Eindruck möchte, wählt oft die Langform Daniel als Alternative."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die öffentliche Evidenz ist vor allem aus Namenslexika abgeleitet; belastbare allgemeine Meinungsdaten sind begrenzt.",
+    "Die Wirkung kann je nach Umfeld als eher locker oder umgangssprachlich verstanden werden, ohne dass das negativ sein muss.",
+    "Keine Hinweise auf eine gesellschaftliche Stigmatisierung wie bei stark vorbelasteten Namen."
+  ],
+  "short_summary": "Danny wird in Deutschland meist neutral bis leicht positiv wahrgenommen: ein bekannter, kurzer und international klingender Name mit klarer biblisch-hebräischer Bedeutung.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Danny � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/D/Da/Danny/"
+    },
+    {
+      "confidence": 0.95,
+      "is_name_discussion": true,
+      "sentiment": "eher positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Danny: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Danny.html"
+    }
+  ],
+  "style_effect": [
+    "kurz und direkt",
+    "international/englisch klingend",
+    "informell, modern wirkend",
+    "als Kurz- oder Koseform wahrgenommen",
+    "klar lexikalisch anschlussfähig durch bekannte Bedeutung"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland bekannt und gut auffindbar, aber eher kein besonders seltener oder stark trendiger Vorname."
+}

@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "Kurzform von Johanna bzw. auch von Hanna",
+    "hebräische Herkunft",
+    "Bedeutung: \"Gott ist gnädig\" / \"Gott ist gütig\"",
+    "Namenstag",
+    "Spitznamen wie Hanni oder Hannchen",
+    "eher traditioneller Eindruck"
+  ],
+  "confidence": 0.84,
+  "display_text": "Hanne wird überwiegend sachlich bis leicht positiv wahrgenommen: ein kurzer, traditioneller und vertrauter Vorname mit hebräischer Herkunft und der Bedeutung \"Gott ist gnädig\". Die Evidenz ist vor allem namenskundlich, daher ist die Bewertung vorsichtig zu lesen.",
+  "evidence_quality": "mittel bis eher schwach: zwei namenskundliche Webquellen mit überwiegend beschreibender, wenig kontroverser Evidenz",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Hanne",
+  "normalized_name": "hanne",
+  "overall_resonance": "Hanne wird in den vorliegenden Quellen überwiegend sachlich bis leicht positiv beschrieben. Der Name wirkt im deutschsprachigen Raum eher traditionell, vertraut und klar weiblich; die Resonanz speist sich vor allem aus Namensbedeutung, Herkunft und Namenskundik, nicht aus breiter öffentlicher Debatte.",
+  "practical_notes": [
+    "Für eine Namenssuche eignet sich Hanne als kurze, klare und gut verständliche Form.",
+    "Der Name wird in den Quellen meist neutral bis freundlich eingeordnet.",
+    "Die Beliebtheit scheint vorhanden, aber nicht massenhaft dominant zu sein."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist begrenzt und stammt vor allem aus Namenslexika, nicht aus einer breiten öffentlichen Debatte.",
+    "Positive oder negative Nuancen sind daher nur vorsichtig zu bewerten.",
+    "Es gibt keine belastbaren Hinweise auf eine gesellschaftliche Stigmatisierung des Namens in den Quellen."
+  ],
+  "short_summary": "Hanne wirkt in den Quellen traditionell, klar und freundlich; die öffentliche Resonanz ist eher sachlich bis leicht positiv, basiert aber vor allem auf Namenslexikon-Einträgen.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Hanne � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/H/Ha/Hanne/"
+    },
+    {
+      "confidence": 0.81,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Hanne: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Hanne.html"
+    }
+  ],
+  "style_effect": [
+    "kurz und eingängig",
+    "traditionell",
+    "vertraut",
+    "klassisch-weiblich",
+    "norddeutsch bzw. bodenständig wirkend",
+    "namenskundlich klar einordenbar"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Eher bekannte, aber nicht stark verbreitete Namensform in Deutschland; in den Quellen wird Hanne als lexikalisch gut auffindbarer, eher traditionell eingeordneter Vorname mit Namenslexikon-Präsenz dargestellt."
+}

@@ -1,0 +1,70 @@
+{
+  "associations": [
+    "Bote/Engel",
+    "altgriechische und lateinische Herkunft",
+    "Unisex-Name",
+    "selten in Deutschland",
+    "international gebräuchlich",
+    "Namenstag",
+    "spanischer Sprachraum"
+  ],
+  "confidence": 0.82,
+  "display_text": "Angel: In Deutschland eher selten, international bekannt und meist neutral bis leicht positiv wahrgenommen. Im Vordergrund stehen die Bedeutungen \"Engel\" bzw. \"Bote\" sowie die sprachübergreifende, teils unterschiedliche Verwendung.",
+  "evidence_quality": "Begrenzt bis mittel: wenige, vorwiegend lexikalische Quellen; gute Namensbeschreibung, aber keine breite öffentliche Resonanzmessung.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Angel",
+  "normalized_name": "angel",
+  "overall_resonance": "Die öffentliche Resonanz zu \"Angel\" in Deutschland wirkt überwiegend sachlich-neugierig mit leicht positiver Färbung. Der Name wird vor allem über Bedeutung, Herkunft und internationale Einordnung wahrgenommen; klare Ablehnung ist in der vorliegenden Evidenz nicht erkennbar.",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt Angel klar verständlich und leicht einzuordnen, besonders über die Bedeutung 'Engel/Bote'.",
+    "Die Seltenheit in Deutschland kann den Namen markant machen, aber auch ungewohnt wirken.",
+    "Die öffentliche Beschreibung ist vor allem neutral-informativ; starke Trend- oder Imageaussagen wären hier nicht belastbar."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist stark auf Namenslexika begrenzt; daraus lässt sich keine breite gesellschaftliche Stimmung ableiten.",
+    "Die Wahrnehmung kann je nach Sprachraum variieren, da \"Angel\" im Deutschen, Englischen und Spanischen unterschiedlich gelesen wird.",
+    "Mögliche Verwechslung mit dem englischen Wort \"angel\" kann die Assoziation beeinflussen, ohne etwas über den Namen selbst auszusagen."
+  ],
+  "short_summary": "Angel wird in Deutschland vor allem als seltener, internationaler Unisex-Name mit positiver Bedeutung wahrgenommen; die Quellenlage ist eher klein und überwiegend neutral-informativ.",
+  "source_count": 3,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Angel � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/A/An/Angel/"
+    },
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Angel � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/A/An/Angel/"
+    },
+    {
+      "confidence": 0.9,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Angel: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Angel.html"
+    }
+  ],
+  "style_effect": [
+    "informativ",
+    "lexikalisch",
+    "international",
+    "leicht modern",
+    "namenskundlich",
+    "neutral bis leicht positiv"
+  ],
+  "usable_evidence_count": 3,
+  "visibility": "Eher geringe bis moderate Sichtbarkeit in Deutschland; in den Quellen wird Angel als selten bzw. nicht stark verbreitet beschrieben."
+}

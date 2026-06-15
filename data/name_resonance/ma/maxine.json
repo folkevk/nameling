@@ -1,0 +1,58 @@
+{
+  "associations": [
+    "lateinische Herkunft",
+    "Bedeutung in Richtung „die Größte“",
+    "weibliche Form zu Max/Maxima",
+    "selten bis moderat verbreitet in Deutschland",
+    "namenskundlich und informativ besetzt"
+  ],
+  "confidence": 0.82,
+  "display_text": "Maxine wirkt in Deutschland überwiegend neutral bis leicht positiv: ein seltener, weiblicher Vorname mit lateinischer Herkunft und der Bedeutung in Richtung „die Größte“. Die vorhandene Evidenz ist allerdings schmal und stammt vor allem aus Namenslexika, nicht aus einer breiten öffentlichen Debatte.",
+  "evidence_quality": "mittel bis schwach; zwei hauptsächlich lexikalische Webquellen, wenig breite öffentliche Resonanz",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Maxine",
+  "normalized_name": "maxine",
+  "overall_resonance": "Überwiegend neutral bis leicht positiv; der Name wirkt in der vorhandenen Evidenz vor allem sachlich-namenskundlich und nicht öffentlich umstritten.",
+  "practical_notes": [
+    "Für eine Namenssuche ist Maxine gut nachvollziehbar und leicht einordenbar.",
+    "Der Name wirkt eher modern-klassisch als trendgebunden.",
+    "Die seltenere Verbreitung kann als Vorteil für Individualität empfunden werden."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist schmal und stammt im Wesentlichen aus Namenslexika statt aus breiter öffentlicher Debatte.",
+    "Keine belastbaren Hinweise auf soziale Stigmatisierung oder starke negative Konnotationen.",
+    "Öffentliche Wahrnehmung kann regional oder altersabhängig variieren."
+  ],
+  "short_summary": "Maxine wird in der vorliegenden Evidenz meist neutral bis leicht positiv beschrieben: ein seltener, weiblicher Name mit lateinischer Herkunft und der Bedeutung in Richtung „die Größte“.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Maxine � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/M/Ma/Maxine/"
+    },
+    {
+      "confidence": 0.84,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Maxine: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Maxine.html"
+    }
+  ],
+  "style_effect": [
+    "klingt modern und dennoch klassisch anschlussfähig",
+    "wirkt weiblich und international verständlich",
+    "kann durch die Nähe zu Max/Maxima als vertraut wahrgenommen werden",
+    "durch die eher seltene Nutzung auch leicht eigenständig und markant"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland eher selten bis moderat verbreitet und dadurch eher auffällig als alltäglich."
+}

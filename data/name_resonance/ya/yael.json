@@ -1,0 +1,68 @@
+{
+  "associations": [
+    "hebräische Herkunft",
+    "biblischer Bezug",
+    "Bedeutung im Umfeld von Steinbock/Bergziege",
+    "Unisex-Name",
+    "namenskundlich und lexikalisch präsent",
+    "in Deutschland eher bekannt, aber nicht sehr häufig"
+  ],
+  "confidence": 0.84,
+  "display_text": "Yael wirkt in der öffentlichen Wahrnehmung meist neutral bis positiv: hebräisch-biblisch, modern und als Unisex-Name bekannt. In Deutschland ist der Name eher geläufig als selten, aber keine Massenerscheinung. Die Evidenz ist vor allem lexikalisch und daher nur begrenzt als echte öffentliche Diskussionsresonanz belastbar.",
+  "evidence_quality": "mittel bis gut: mehrere einschlägige Namenslexikon-Quellen, aber wenig unabhängige öffentliche Diskussionsbelege",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Yael",
+  "normalized_name": "yael",
+  "overall_resonance": "Yael wird in der öffentlichen Namenswahrnehmung eher sachlich und überwiegend positiv bis neutral beschrieben. Der Name gilt als hebräisch-biblisch geprägt, modern wirkend und als Unisex-Name bekannt. In Deutschland scheint er eher geläufig, aber nicht sehr häufig zu sein.",
+  "practical_notes": [
+    "Für eine Namenssuche lässt sich Yael als international, kurz und modern einordnen.",
+    "Die Wirkung kann je nach Umfeld als eher neutral, elegant oder markant wahrgenommen werden.",
+    "Als Unisex-Name kann Yael je nach Region unterschiedlich gelesen werden."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt fast ausschließlich aus Namensdatenbanken und Lexikonseiten; echte öffentliche Diskussionsresonanz ist nur begrenzt belegbar.",
+    "Aussagen zur Häufigkeit sind vorsichtig zu lesen, da sie auf wenigen Quellen beruhen.",
+    "Keine belastbaren Hinweise auf Stigmatisierung oder negative gesellschaftliche Zuschreibungen in der vorliegenden Evidenz."
+  ],
+  "short_summary": "Yael wird in Deutschland überwiegend neutral bis positiv und als hebräisch-biblischer Unisex-Name wahrgenommen; sichtbar, aber nicht sehr häufig.",
+  "source_count": 3,
+  "sources": [
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Yael � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/Y/Ya/Yael/"
+    },
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Yael � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/Y/Ya/Yael/"
+    },
+    {
+      "confidence": 0.92,
+      "is_name_discussion": true,
+      "sentiment": "mostly positive",
+      "source_type": "web",
+      "title": "&#9655; Vorname Yael: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Yael.html"
+    }
+  ],
+  "style_effect": [
+    "hebräisch-biblisch",
+    "modern und klar",
+    "informativ statt verspielt",
+    "geschlechtsneutral bzw. unisex wahrgenommen",
+    "eher selten bis moderat bekannt"
+  ],
+  "usable_evidence_count": 3,
+  "visibility": "In Deutschland ist Yael sichtbar, jedoch kein Massenname. Die vorhandene Evidenz deutet auf Bekanntheit in Namenslexika und Ranglisten hin, nicht auf breite gesellschaftliche Diskussion."
+}

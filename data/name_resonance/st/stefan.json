@@ -1,0 +1,59 @@
+{
+  "associations": [
+    "altgriechische Herkunft über Stephanos",
+    "Bedeutung im Sinn von „der Gekrönte“ bzw. „der Bekränzte“",
+    "Namenstag wird häufig erwähnt",
+    "früher in Deutschland sehr populär",
+    "heute eher moderat bis seltener",
+    "kurz und klar aussprechbar"
+  ],
+  "confidence": 0.93,
+  "display_text": "Stefan wird in Deutschland meist als klassischer, vertrauter Vorname wahrgenommen: traditionsreich, klar und eher zeitlos. Die öffentliche Resonanz ist überwiegend positiv bis neutral; häufig genannt werden Herkunft, Bedeutung und Namenstag. Heute wirkt der Name eher solide als modisch.",
+  "evidence_quality": "hoch: mehrere namenkundliche Quellen mit konsistenter Aussage zu Bedeutung, Herkunft, Beliebtheit und Namenstag; öffentliche Resonanz vor allem indirekt aus Namensportalen ableitbar.",
+  "generated_at": "2026-06-12T06:08:03Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Stefan",
+  "normalized_name": "stefan",
+  "overall_resonance": "Stefan wirkt im deutschsprachigen Raum als klassischer, gut vertrauter Vorname mit eher positiver bis neutraler öffentlicher Resonanz. Die Wahrnehmung ist vor allem namenkundlich geprägt: Herkunft, Bedeutung und Namenstag werden häufig genannt; zugleich gilt der Name heute eher nicht mehr als Trendname, sondern als solide, bekannte Wahl.",
+  "practical_notes": [
+    "Für Suchende wirkt der Name traditionsbewusst und unkompliziert.",
+    "Die Quellenlage ist stark, aber überwiegend auf Namensseiten beschränkt; direkte öffentliche Debatten außerhalb dieser Kontexte sind nicht belegt."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Es gibt keine belastbaren Hinweise auf eine besondere Stigmatisierung des Namens in den vorliegenden Quellen.",
+    "Einzelne positive Eindrücke stammen aus namensbezogenen Nutzerkommentaren und sind daher subjektiv."
+  ],
+  "short_summary": "Stefan ist ein klassischer, in Deutschland gut bekannter Vorname mit eher positiver bis neutraler Resonanz. Er wird mit traditioneller Herkunft, klarer Bedeutung und einem eher zeitlosen, unaufgeregten Eindruck verbunden.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.99,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Stefan � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/S/St/Stefan/"
+    },
+    {
+      "confidence": 0.94,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Stefan: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Stefan.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "bodenständig",
+    "vertraut",
+    "zeitlos",
+    "informell gut anschlussfähig",
+    "eher traditionell als modisch"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland gut bekannt und leicht einzuordnen, mit historisch deutlich höherer Popularität als heute. Die öffentliche Sichtbarkeit ist eher moderat als auffällig."
+}

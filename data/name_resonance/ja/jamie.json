@@ -1,0 +1,68 @@
+{
+  "associations": [
+    "schottische Koseform von James",
+    "Variante bzw. Form von Jakob/James",
+    "Bedeutung in der Tradition: 'Gott möge schützen' bzw. verwandte Deutungen",
+    "im deutschen Raum als Vorname präsent",
+    "als Unisex-Name wahrgenommen",
+    "teilweise mit Beliebtheit und Namenstag verknüpft"
+  ],
+  "confidence": 0.94,
+  "display_text": "Jamie: überwiegend neutrale bis positive öffentliche Resonanz. Der Name gilt als modern, international und häufig als Unisex-Vorname; im deutschen Raum ist er bekannt und wird vor allem sachlich über Herkunft, Bedeutung und Beliebtheit beschrieben.",
+  "evidence_quality": "hoch: mehrere direkte, namensbezogene Lexikonquellen mit konsistenter Einordnung zu Herkunft, Bedeutung, Unisex-Charakter und Beliebtheit in Deutschland.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Jamie",
+  "normalized_name": "jamie",
+  "overall_resonance": "Eher positiv-neutrale öffentliche Resonanz: Jamie wird in den Quellen vor allem als internationaler, moderner und unisex verwendeter Vorname beschrieben.",
+  "practical_notes": [
+    "Für Suchmaschinen sinnvoll als internationaler, moderner Vorname einzuordnen.",
+    "Die öffentliche Wahrnehmung wirkt eher beschreibend als emotional aufgeladen.",
+    "Da der Name für beide Geschlechter genutzt wird, kann die Einordnung je nach Quelle variieren."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Es gibt Hinweise auf einzelne positive Nutzerkommentare, diese sind aber nicht repräsentativ für die Gesamteinschätzung.",
+    "Keine belastbaren Hinweise auf eine gesellschaftliche Stigmatisierung in der vorliegenden Evidenz."
+  ],
+  "short_summary": "Jamie wird öffentlich meist als moderner, internationaler und unisex verwendeter Vorname wahrgenommen; die Resonanz wirkt überwiegend neutral bis positiv.",
+  "source_count": 3,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Jamie � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/J/Ja/Jamie/"
+    },
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Jamie � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/J/Ja/Jamie/"
+    },
+    {
+      "confidence": 0.95,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Jamie: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Jamie.html"
+    }
+  ],
+  "style_effect": [
+    "modern",
+    "international",
+    "weich klingend",
+    "jugendlich",
+    "unisex",
+    "lexikalisch klar"
+  ],
+  "usable_evidence_count": 3,
+  "visibility": "Der Name ist im deutschsprachigen Raum sichtbar und bekannt, ohne dass die Evidenz auf starke Polarisierung hindeutet."
+}

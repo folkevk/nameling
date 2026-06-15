@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "Bedeutungen wie „die Reine“",
+    "nordische bzw. altgriechische Herleitung",
+    "mögliche Koseform-Bezüge zu Katharina/Katja",
+    "Namenstag",
+    "Beliebtheit in Deutschland",
+    "vereinzelt auch Deutungen wie „das Meer“ oder „die Freude“"
+  ],
+  "confidence": 0.83,
+  "display_text": "Kaja wirkt im deutschsprachigen Raum überwiegend positiv, weich und namenskundlich interessant. Der Name wird vor allem mit Bedeutungen wie „die Reine“ sowie mit nordischen bzw. altgriechischen Herleitungen verbunden. Gleichzeitig ist die Quellenlage eher schmal: Die öffentliche Rezeption basiert vor allem auf Namenslexika, nicht auf breiter Diskussion.",
+  "evidence_quality": "mittel bis begrenzt: zwei inhaltlich ähnliche Namenslexika mit überwiegend positiver, beschreibender Darstellung; keine breite Debatte oder größere Vielfalt an Quellen.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Kaja",
+  "normalized_name": "kaja",
+  "overall_resonance": "Überwiegend positiv und freundlich, mit klar informativ-namenskundlicher Prägung. Der Name wird vor allem über Bedeutungen, Herkunft und Namenstag wahrgenommen.",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt Kaja insgesamt unkompliziert, positiv besetzt und gut merkbar.",
+    "Die Schreibweise ist kurz und klar, was die Wiedererkennbarkeit unterstützt.",
+    "Wer eine eindeutige Etymologie sucht, sollte beachten, dass mehrere Deutungen nebeneinander genannt werden."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Herkunfts- und Bedeutungsangaben sind mehrdeutig und teils unterschiedlich erklärt.",
+    "Die Evidenz ist schmal und basiert hauptsächlich auf Namenslexika, nicht auf breiter öffentlicher Diskussion.",
+    "Aus der vorhandenen Quelle lässt sich keine belastbare soziale Wertung ableiten."
+  ],
+  "short_summary": "Kaja wird öffentlich meist freundlich und positiv als kurzer, klarer Vorname mit schöner Bedeutungs- und Herkunftsdeutung wahrgenommen. Die verfügbare Evidenz ist jedoch begrenzt und vor allem lexikalisch.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "Vorname Kaja � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/K/Ka/Kaja/"
+    },
+    {
+      "confidence": 0.88,
+      "is_name_discussion": true,
+      "sentiment": "positive",
+      "source_type": "web",
+      "title": "&#9655; Vorname Kaja: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Kaja.html"
+    }
+  ],
+  "style_effect": [
+    "informativ",
+    "namenskundlich",
+    "leicht modern",
+    "kurz und einprägsam",
+    "eher weich klingend"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Im deutschsprachigen Namenskontext gut auffindbar, aber die öffentliche Evidenz ist begrenzt und stützt sich vor allem auf wenige Vornamen-Infoseiten."
+}

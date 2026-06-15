@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "Kurzform von Margarete/Margareta",
+    "auch als schweizerische Kurzform von Emerentia beschrieben",
+    "Bedeutungen wie „die Perle“ sowie „die Würdige“/„die Verdienstvolle“",
+    "altgriechische und lateinische Herkunftsbezüge",
+    "Namenstag",
+    "eher seltener Vorname"
+  ],
+  "confidence": 0.79,
+  "display_text": "Meret wirkt in den vorliegenden Quellen sachlich, freundlich und eher positiv. Der Name ist selten, aber gut einordbar, mit namenskundlichen Bezügen zu Margarete/Margareta sowie Deutungen wie „die Perle“ oder „die Würdige“. Die Evidenz ist allerdings begrenzt und stammt vor allem aus einzelnen Namenslexika.",
+  "evidence_quality": "begrenzt; vor allem einzelne Namenslexikon-Seiten, kaum breit gestützte öffentliche Debatte",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Meret",
+  "normalized_name": "meret",
+  "overall_resonance": "Meret wird in den vorliegenden Quellen insgesamt sachlich, eher positiv bis neutral wahrgenommen. Der Name erscheint als eher seltener, aber klar einordbarer Vorname mit namenkundlicher Tradition.",
+  "practical_notes": [
+    "Für Suchmaschinen ist Meret ein eher unproblematischer, klar geschlechtszuordenbarer Vorname im deutschsprachigen Raum.",
+    "Der Name wirkt freundlich, eigenständig und nicht stark modisch.",
+    "Aufgrund der Seltenheit kann er als besonders, aber nicht exotisch wahrgenommen werden."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist schwach und stützt sich überwiegend auf einzelne Namensdatenbanken.",
+    "Es gibt keine breite öffentliche Diskussion, daher sind Aussagen zur allgemeinen Wahrnehmung nur vorsichtig möglich.",
+    "Die genannten Bedeutungen und Herleitungen sind namenkundliche Deutungen, keine objektiven Eigenschaften."
+  ],
+  "short_summary": "Meret wird in den vorhandenen Quellen überwiegend neutral bis leicht positiv beschrieben: ein seltener, traditionell hergeleiteter Vorname mit freundlicher, klarer Wirkung.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Meret � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/M/Me/Meret/"
+    },
+    {
+      "confidence": 0.82,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Meret: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Meret.html"
+    }
+  ],
+  "style_effect": [
+    "kurz, klar und prägnant",
+    "namenskundlich-traditionell",
+    "eher modern im Klang, aber mit klassischer Herkunft",
+    "selten bis mäßig verbreitet",
+    "neutral bis leicht positiv konnotiert"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Die öffentliche Sichtbarkeit wirkt eher begrenzt: Es finden sich vor allem Namenslexika und einzelne Einträge, aber keine breit gestreute Debatte oder starke Alltagspräsenz in den Quellen."
+}

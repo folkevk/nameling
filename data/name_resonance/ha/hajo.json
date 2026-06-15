@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "friesische Form von Hagen",
+    "althochdeutsche Wurzeln",
+    "Kurzformbezug zu Hans-Joachim bzw. Hagen",
+    "Namenstag",
+    "selten bis mäßig verbreitet",
+    "klanglich teils als markant wahrgenommen"
+  ],
+  "confidence": 0.89,
+  "display_text": "Hajo wirkt in der öffentlichen Wahrnehmung überwiegend neutral bis leicht positiv: kurz, friesisch geprägt und eher selten, mit sachlich-lexikalischer als emotionaler Resonanz.",
+  "evidence_quality": "mittel bis hoch, aber thematisch begrenzt: gute Namenskunde, kaum echte breite öffentliche Debatte.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Hajo",
+  "normalized_name": "hajo",
+  "overall_resonance": "Überwiegend neutral bis leicht positiv; der Name wird vor allem sachlich-etymologisch wahrgenommen, mit einzelnen subjektiven Klangurteilen.",
+  "practical_notes": [
+    "Für Suchende wirkt Hajo eher vertraut-norddeutsch als modern-trendig.",
+    "Der Name hat einen klaren, kurzen Klang und eine gut beschreibbare Herkunft.",
+    "Aufgrund der Seltenheit kann er auffallen, ohne extravagant zu wirken."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt fast ausschließlich aus Namenslexika und einer einzelnen Namensdatenbank; öffentliche Alltagsresonanz ist nur schwach abgebildet.",
+    "Die wenigen Kommentare sind subjektiv und sollten nicht als allgemeingültige Bewertung verstanden werden."
+  ],
+  "short_summary": "Hajo wird öffentlich meist sachlich und eher positiv-neutral wahrgenommen: ein kurzer, friesisch geprägter und seltener Vorname mit klarer Herkunft.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Hajo � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/H/Ha/Hajo/"
+    },
+    {
+      "confidence": 0.87,
+      "is_name_discussion": true,
+      "sentiment": "mixed",
+      "source_type": "web",
+      "title": "&#9655; Vorname Hajo: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Hajo.html"
+    }
+  ],
+  "style_effect": [
+    "kurz",
+    "friesisch",
+    "traditionell",
+    "eigenständig",
+    "namenskundlich",
+    "leicht altmodisch"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Eher gering bis mäßig sichtbar in Deutschland, meist als seltener Vorname in Namenslexika und Datenbanken erwähnt."
+}

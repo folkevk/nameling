@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "Christin / Anhängerin Christi",
+    "skandinavische Variante bzw. Verwandtschaft zu Christine/Kristin",
+    "weiblicher Vorname",
+    "selten im deutschen Sprachraum",
+    "Namenstag wird genannt",
+    "kurze Koseformen werden teils erwähnt"
+  ],
+  "confidence": 0.77,
+  "display_text": "Kirstin wirkt in der öffentlichen Wahrnehmung eher sachlich-positiv: ein seltener, klassisch einzuordnender Vorname mit christlicher Bedeutung. Die vorhandene Evidenz stammt vor allem aus Namenslexika und einzelnen Nutzerhinweisen, daher ist die Aussagekraft begrenzt.",
+  "evidence_quality": "Begrenzt: vor allem einzelne Namensdatenbanken und vereinzelte Kommentarhinweise, keine breite öffentliche Debatte.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Kirstin",
+  "normalized_name": "kirstin",
+  "overall_resonance": "Die öffentliche Resonanz auf „Kirstin“ wirkt eher sachlich-positiv bis neutral. Der Name wird vor allem als seltener, klassisch einordenbarer Vorname mit christlicher Namensbedeutung und skandinavisch bzw. namenskundlich beschriebener Herkunft wahrgenommen. Die Evidenz ist jedoch begrenzt, da sie hauptsächlich aus einzelnen Namenslexikon-Seiten stammt.",
+  "practical_notes": [
+    "Für die Namenssuche erscheint Kirstin gut verständlich und klar als weiblicher Vorname einordenbar.",
+    "Wer einen seltenen, eher traditionellen Namen sucht, findet hier eine passende Option.",
+    "Je nach Umfeld kann die Schreibweise mit Kristin/Kerstin verwechselt werden; das wird in den Quellen vereinzelt angedeutet."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Datenlage ist schwach bis mittel und beruht überwiegend auf wenigen Namenslexikon-Seiten.",
+    "Bewertungen aus Nutzerkommentaren sind anekdotisch und nicht repräsentativ.",
+    "Einzelne Hinweise zu Aussprache oder Schreibweise können die Wahrnehmung leicht beeinflussen, sind aber keine belastbare Gesamtmeinung."
+  ],
+  "short_summary": "Kirstin wird überwiegend sachlich und leicht positiv wahrgenommen: ein seltener, klassisch wirkender Vorname mit christlicher Bedeutung. Die Evidenz ist allerdings nur begrenzt belastbar.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Kirstin � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/K/Ki/Kirstin/"
+    },
+    {
+      "confidence": 0.83,
+      "is_name_discussion": true,
+      "sentiment": "überwiegend positiv mit vereinzelter negativer Rückmeldung",
+      "source_type": "web",
+      "title": "&#9655; Vorname Kirstin: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Kirstin.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "namenskundlich",
+    "eher zeitlos",
+    "sachlich",
+    "selten",
+    "leicht traditionell"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Eher geringe bis mittlere Sichtbarkeit im deutschen Sprachraum; in den Quellen wird Kirstin als eher seltener Vorname beschrieben."
+}

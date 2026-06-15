@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "ungarische Koseform von Josef/Joseph",
+    "eingedeutschte Schreibform",
+    "hebräische Herkunft über Josef",
+    "Bedeutung: „Gott fügt hinzu“",
+    "Namenstag",
+    "selten bis mäßig vergeben"
+  ],
+  "confidence": 0.86,
+  "display_text": "Joschka wirkt in Deutschland eher selten, eigenständig und leicht verspielt. Die Quellen zeigen vor allem eine sachlich-lexikalische Wahrnehmung: als eingedeutschte, ungarisch geprägte Koseform von Josef mit der Bedeutung „Gott fügt hinzu“. Eine breite öffentliche Debatte oder Stigmatisierung ist nicht erkennbar.",
+  "evidence_quality": "gut für Herkunft, Bedeutung und Gebrauchsintensität; schwächer für echte öffentliche Meinungsresonanz, da fast nur lexikalische Quellen vorliegen.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Joschka",
+  "normalized_name": "joschka",
+  "overall_resonance": "Joschka wirkt im öffentlichen Namensbild in Deutschland eher eigenständig, selten bis mäßig vergeben und klar als eingedeutschte bzw. verkleinernde Form wahrnehmbar. Die verfügbaren Quellen beschreiben den Namen vor allem sachlich-lexikalisch; eine breite emotionale oder kontroverse öffentliche Debatte ist daraus nicht erkennbar.",
+  "practical_notes": [
+    "Für Suchmaschinen ist eine kurze Einordnung sinnvoll: vertraut, aber selten.",
+    "Die Schreibweise fällt auf und kann als bewusst individuell gelesen werden.",
+    "Wegen der Koseform kann der Name informell oder sympathisch wirken, je nach Kontext."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt überwiegend aus Namenslexika und nicht aus freier öffentlicher Debatte.",
+    "Daher ist die öffentliche Resonanz nur eingeschränkt direkt messbar.",
+    "Es liegen keine belastbaren Hinweise auf eine gesellschaftliche Stigmatisierung vor."
+  ],
+  "short_summary": "Joschka ist ein eher seltener, eingedeutschter Koseformen-Name mit sachlich positiver, unauffälliger Rezeption. Öffentlich wirkt er vertraut, aber markant und nicht stark verbreitet.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Joschka � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/J/Jo/Joschka/"
+    },
+    {
+      "confidence": 0.94,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Joschka: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Joschka.html"
+    }
+  ],
+  "style_effect": [
+    "klingt vertraut, aber ungewöhnlich",
+    "wirkt informell und leicht verspielt",
+    "hat einen klaren Koseform-Charakter",
+    "wird als deutsch angepasste Form wahrgenommen",
+    "erscheint eher markant als nüchtern"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Eher geringe bis mittlere Sichtbarkeit im Namensgebrauch; bekannt genug für Namenslexika, aber nicht stark verbreitet."
+}

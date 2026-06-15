@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "althebräische Herkunft",
+    "biblischer Vorname",
+    "Bedeutung: die Fesselnde / die Betörende",
+    "Variante von Rebecca",
+    "Namenstag",
+    "traditioneller Mädchenname"
+  ],
+  "confidence": 0.84,
+  "display_text": "Rebekka wird im Deutschen meist als klassischer, biblisch geprägter Vorname wahrgenommen. Die vorliegenden Quellen beschreiben den Namen überwiegend sachlich bis leicht positiv; im Vordergrund stehen Herkunft, Bedeutung und die traditionelle Schreibvariante. Belastbare Hinweise auf starke gesellschaftliche Vorurteile oder auffällige negative Resonanz gibt es nicht.",
+  "evidence_quality": "mittel bis gut, aber überwiegend lexikalisch statt meinungsbasiert",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Rebekka",
+  "normalized_name": "rebekka",
+  "overall_resonance": "Rebekka wird in den vorliegenden Quellen überwiegend sachlich bis leicht positiv wahrgenommen. Der Name wirkt klassisch, traditionsnah und biblisch geprägt, mit einer klaren, etablierten Namensgeschichte. Öffentliche Diskussionen dazu drehen sich vor allem um Herkunft, Bedeutung und Schreibvarianten, weniger um emotional aufgeladene Bewertungen.",
+  "practical_notes": [
+    "Für Suchmaschinen- und Namensprofile eignet sich Rebekka als klassischer, gut verständlicher Vorname.",
+    "Die Schreibweise mit 'k' ist eine bekannte Variante zu Rebecca und kann als bewusst traditionelle Form wahrgenommen werden.",
+    "Die Quellenlage reicht für eine vorsichtige Einordnung, aber nicht für eine starke Aussage über öffentliche Trendmeinungen."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt überwiegend aus Namenslexika, nicht aus breiter öffentlicher Resonanz.",
+    "Positive oder neutrale Töne beziehen sich vor allem auf Bedeutung und Herkunft, nicht auf allgemeine gesellschaftliche Bewertung.",
+    "Keine Hinweise auf eine Stigmatisierung oder negative soziale Konnotation in den vorliegenden Quellen."
+  ],
+  "short_summary": "Rebekka wird vor allem als klassischer, biblisch geprägter und leicht positiv konnotierter Mädchenname wahrgenommen. Die öffentliche Resonanz wirkt sachlich und traditionell, bei begrenzter Evidenz für breite Meinungsbilder.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Rebekka � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/R/Re/Rebekka/"
+    },
+    {
+      "confidence": 0.88,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Rebekka: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Rebekka.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "traditionsbewusst",
+    "biblisch",
+    "eher zeitlos als modisch",
+    "sprachlich klar",
+    "weiblich und etabliert"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Im deutschsprachigen Raum ist Rebekka bekannt und als Vorname gut einordbar, wirkt aber eher klassisch als auffällig modern. Die Sichtbarkeit in den Quellen ist vor allem lexikalisch; belastbare Hinweise auf breite öffentliche Meinungen sind nur begrenzt vorhanden."
+}

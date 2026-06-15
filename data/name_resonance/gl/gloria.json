@@ -1,0 +1,62 @@
+{
+  "associations": [
+    "Ruhm",
+    "Ehre",
+    "Glanz/Glorie",
+    "lateinische Herkunft",
+    "christliche Bezüge",
+    "römische Mythologie",
+    "weiblicher Vorname",
+    "in Deutschland eher selten"
+  ],
+  "confidence": 0.8,
+  "display_text": "Gloria wird überwiegend positiv wahrgenommen: klangvoll, würdevoll und mit Bedeutungen wie Ruhm, Ehre und Glanz verbunden. In Deutschland ist der Name eher selten, die Evidenz dafür stammt allerdings vor allem aus Namenslexika.",
+  "evidence_quality": "mittel: zwei klar namensbezogene, überwiegend positive Lexikonquellen; aber keine breite öffentliche Meinungsbasis.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Gloria",
+  "normalized_name": "gloria",
+  "overall_resonance": "Gloria wird in den vorliegenden Namensquellen überwiegend positiv und klangvoll wahrgenommen: Der Name verbindet sich mit Bedeutungen wie Ruhm, Ehre und Glanz. In Deutschland wirkt er eher selten als geläufig, aber nicht negativ besetzt.",
+  "practical_notes": [
+    "Für Suchmaschinen und Namensportale wird Gloria meist verständlich und positiv eingeordnet.",
+    "Die Seltenheit in Deutschland kann den Namen auffälliger machen, ohne dass daraus eine soziale Stigmatisierung ableitbar wäre.",
+    "Die Bedeutung ist transparent und trägt stark zur positiven Wahrnehmung bei."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt fast nur aus Namenslexika und ist daher nur begrenzt aussagekräftig für allgemeine öffentliche Resonanz.",
+    "Wirkungen wie 'schön' oder 'klangvoll' sind subjektiv und nicht als allgemeiner Konsens zu verstehen."
+  ],
+  "short_summary": "Gloria wirkt in Deutschland eher selten, aber klar positiv konnotiert, klangvoll und würdevoll mit Bedeutungen rund um Ruhm und Ehre.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.94,
+      "is_name_discussion": true,
+      "sentiment": "mostly positive",
+      "source_type": "web",
+      "title": "Vorname Gloria � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/G/Gl/Gloria/"
+    },
+    {
+      "confidence": 0.95,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Gloria: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Gloria.html"
+    }
+  ],
+  "style_effect": [
+    "klangvoll",
+    "elegant",
+    "klassisch-lateinisch",
+    "würdevoll",
+    "eher selten",
+    "leicht feierlich"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Eher geringe Alltagspräsenz in Deutschland, dafür gut erkennbar und durch die klare Bedeutung leicht einzuordnen."
+}

@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "Dakota / indigene Herkunftsbezüge",
+    "Nordamerika",
+    "Unisex-Vorname",
+    "Beliebtheit in Deutschland",
+    "1990er-Jahre-Namensmode",
+    "seltener bis moderat verbreitet"
+  ],
+  "confidence": 0.82,
+  "display_text": "Cheyenne wirkt in Deutschland als auffälliger, moderner und klangvoller Vorname mit nordamerikanischen Bezügen. Die öffentliche Resonanz ist überwiegend neutral bis leicht positiv; belastbare Hinweise auf stärkere Stigmatisierung gibt es nicht. Die Quellenlage ist jedoch begrenzt und vor allem lexikalisch.",
+  "evidence_quality": "mittel; die vorhandene Evidenz ist überwiegend lexikalisch und informativ, aber nur auf wenige Quellen beschränkt.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Cheyenne",
+  "normalized_name": "cheyenne",
+  "overall_resonance": "Cheyenne wirkt in der öffentlichen Wahrnehmung meist als auffälliger, moderner und klangvoller Vorname mit deutlichem internationalen bzw. nordamerikanischen Bezug. Die Rezeption ist eher neutral bis leicht positiv, wobei die Einordnung als seltener bis moderat verbreiteter Name in Deutschland häufig erwähnt wird.",
+  "practical_notes": [
+    "Der Name ist gut erkennbar und bleibt im Gedächtnis.",
+    "Durch die ungewohnte Schreibweise kann es gelegentlich zu Nachfragen zur Herkunft oder Aussprache kommen.",
+    "Für eine öffentliche Namenskarte sollte die kulturelle Herkunft respektvoll und ohne Zuschreibungen dargestellt werden."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenzbasis ist begrenzt und stützt sich vor allem auf Namenslexika und Listing-Seiten.",
+    "Einzelne Herkunfts- und Bedeutungsangaben sind nicht vollständig einheitlich.",
+    "Es gibt keine belastbaren Hinweise auf breite gesellschaftliche Debatten oder negative Stigmatisierung des Namens."
+  ],
+  "short_summary": "Cheyenne wird in Deutschland meist als moderner, auffälliger und eher seltener Vorname mit nordamerikanischen Bezügen wahrgenommen. Die Resonanz ist überwiegend neutral bis leicht positiv, bei begrenzter Evidenzlage.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Cheyenne � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/C/Ch/Cheyenne/"
+    },
+    {
+      "confidence": 0.78,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Cheyenne: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Cheyenne.html"
+    }
+  ],
+  "style_effect": [
+    "klangvoll",
+    "modern",
+    "auffällig",
+    "international wirkend",
+    "zeittypisch",
+    "weiblich oder unisex wahrgenommen"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland ist der Name bekannt, aber nicht alltäglich. Er fällt durch seine Schreibweise und den fremdsprachig wirkenden Klang auf; die öffentliche Sichtbarkeit scheint eher durch Namenslexika und Vornamensseiten als durch breite Debatten geprägt zu sein."
+}

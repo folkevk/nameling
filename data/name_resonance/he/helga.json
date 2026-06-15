@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "altnordische Herkunft",
+    "Bedeutungen wie „die Heilige“, „die Gesunde“ oder „die Unversehrte“",
+    "früher in Deutschland sehr beliebt",
+    "heute eher selten",
+    "Namenstag wird in Namensquellen erwähnt"
+  ],
+  "confidence": 0.94,
+  "display_text": "Helga wird in der Öffentlichkeit meist als klassischer, traditionsreicher Vorname wahrgenommen. Die Quellen beschreiben den Namen sachlich bis leicht positiv, mit Bedeutungen wie „die Heilige“ oder „die Gesunde“. Heute ist Helga in Deutschland eher selten, wodurch er als vertraut, aber zugleich etwas altmodisch und markant erscheint.",
+  "evidence_quality": "hoch für Bedeutung, Herkunft und historische Einordnung; mittel für die öffentliche Resonanz insgesamt, da die Quellen vor allem Namenslexika und einzelne Kommentarstimmen sind.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Helga",
+  "normalized_name": "helga",
+  "overall_resonance": "Helga wird öffentlich meist als klassischer, historisch verankerter Vorname wahrgenommen. Die Resonanz ist eher sachlich-neutral bis leicht positiv, mit starker Assoziation zu traditioneller Herkunft und klarer Namensbedeutung; zugleich gilt der Name heute eher als selten und dadurch etwas aus der Zeit gefallen.",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt Helga vertraut, traditionsnah und eindeutig weiblich.",
+    "Der Name kann je nach Kontext als eher klassisch oder generationstypisch wahrgenommen werden.",
+    "Wegen der heutigen Seltenheit kann er zugleich individuell und markant wirken."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist überwiegend lexikalisch und beschreibend; sie bildet keine breite Alltagsstimmung direkt ab.",
+    "Einzelkommentare und Foreneindrücke können die Wahrnehmung leicht verzerren.",
+    "Es gibt keinen belastbaren Hinweis auf gesellschaftliche Stigmatisierung des Namens in der vorliegenden Evidenz."
+  ],
+  "short_summary": "Helga ist ein klassischer, historisch bekannter Vorname mit klarer Herkunft und positiver Bedeutungsaufladung; heute wirkt er eher selten und traditionell als modern.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.99,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Helga � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/H/He/Helga/"
+    },
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "gemischt",
+      "source_type": "web",
+      "title": "&#9655; Vorname Helga: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Helga.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "traditionell",
+    "älter wirkend",
+    "klar und unkompliziert",
+    "namenskundlich aufgeladen",
+    "selten, aber gut bekannt"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland ist Helga als Name bekannt, aber aktuell eher selten vergeben. Die öffentliche Sichtbarkeit kommt vor allem über Namenskunde, historische Einordnung und Namenslexika zustande, weniger über moderne Popularität."
+}

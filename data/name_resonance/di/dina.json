@@ -1,0 +1,62 @@
+{
+  "associations": [
+    "hebräischer Ursprung",
+    "Bedeutung: die Richterin / die Gerechte",
+    "arabische Deutung: die Gläubige / Religiöse",
+    "biblischer Bezug",
+    "Namenstag",
+    "weiblicher Vorname",
+    "selten in Deutschland"
+  ],
+  "confidence": 0.92,
+  "display_text": "Dina wirkt in Deutschland überwiegend positiv, klassisch und traditionsnah. Öffentliche Quellen heben vor allem die kurze, gut aussprechbare Form sowie den hebräisch-biblischen Hintergrund hervor; der Name gilt eher als selten und sachlich-informativ eingeordnet.",
+  "evidence_quality": "Gut, aber auf wenige namenkundliche Webquellen beschränkt; daher belastbar in der Einordnung, aber nicht als breites Stimmungsbild.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Dina",
+  "normalized_name": "dina",
+  "overall_resonance": "Überwiegend positiv und traditionsnah, mit sachlich-informativer Wahrnehmung. Der Name wird vor allem über Bedeutung, Herkunft und biblisch-hebräischen Hintergrund eingeordnet.",
+  "practical_notes": [
+    "Für die öffentliche Wirkung zählt bei Dina vor allem die einfache Aussprache und die klare, kurze Form.",
+    "Der Name wirkt eher klassisch als modern und wird meist sachlich oder traditionell eingeordnet.",
+    "Als Suchname ist Dina gut auffindbar, aber nicht stark massenhaft verbreitet."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt vor allem aus Namenslexika und einzelnen Quellen, nicht aus breiter öffentlicher Diskussion.",
+    "Aussagen zu Bedeutung und Herkunft sind namenkundliche Deutungen, keine objektiven Eigenschaften des Namens.",
+    "Keine Hinweise auf soziale Stigmatisierung in der vorliegenden Evidenz."
+  ],
+  "short_summary": "Dina wird in Deutschland überwiegend positiv, klassisch und traditionsnah wahrgenommen. Die öffentlichen Quellen betonen vor allem die kurze Form, den hebräisch-biblischen Hintergrund und die eher seltene Verwendung.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Dina � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/D/Di/Dina/"
+    },
+    {
+      "confidence": 0.91,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Dina: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Dina.html"
+    }
+  ],
+  "style_effect": [
+    "kurz und gut aussprechbar",
+    "klassisch-biblisch",
+    "traditionsnah",
+    "eher selten",
+    "klar und nüchtern",
+    "informativ"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland ist Dina als eher seltener, aber gut bekannter Vorname sichtbar; die Wahrnehmung wirkt eher lexikalisch als trendgetrieben."
+}

@@ -1,0 +1,71 @@
+{
+  "associations": [
+    "weiblicher Vorname",
+    "Kurzform bzw. Variante anderer Namen",
+    "biblisch/hebräische Einordnung über Lea",
+    "Bedeutungsangaben wie „die Ermüdete“ oder „die Wildkuh“",
+    "seit längerem vergeben",
+    "stark gestiegene Popularität in Deutschland",
+    "Namenstag",
+    "Top-Listen-/Hitlisten-Kontext"
+  ],
+  "confidence": 0.88,
+  "display_text": "Lia wirkt in den vorliegenden Quellen überwiegend positiv, modern und sehr beliebt. Der Name wird als kurz, weich und etabliert beschrieben. Die Evidenz stammt jedoch hauptsächlich aus Namenslexika, daher ist die öffentliche Resonanz nur indirekt erfasst.",
+  "evidence_quality": "mittel bis gut; inhaltlich konsistent, aber überwiegend lexikalische und redaktionelle Quellen statt freier öffentlicher Meinungsäußerungen",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Lia",
+  "normalized_name": "lia",
+  "overall_resonance": "Überwiegend positiv und modern wirkend. Lia wird in den vorliegenden Quellen als kurzer, weicher und sehr beliebter Vorname beschrieben, ohne starke kontroverse oder negative öffentliche Muster.",
+  "practical_notes": [
+    "Für die öffentliche Wahrnehmung wirkt Lia insgesamt unkompliziert, freundlich und gut anschlussfähig.",
+    "Der Name erscheint in Deutschland klar etabliert und wenig erklärungsbedürftig.",
+    "Die Datenlage ist für eine vorsichtige Einordnung ausreichend, aber nicht für eine tiefgehende Meinungsanalyse der Öffentlichkeit."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt fast nur aus Vornamenslexika und Beliebtheitsseiten, nicht aus breiter öffentlicher Diskussion.",
+    "Bewertungen wie „süß“ oder „beliebt“ sind eher redaktionell bzw. beschreibend als echte Resonanz aus einer großen Debatte.",
+    "Bedeutungszuordnungen können je nach Quelle variieren und sollten nicht als einzig gültige Lesart verstanden werden."
+  ],
+  "short_summary": "Lia wird in den Quellen überwiegend positiv, modern und sehr beliebt dargestellt. Die Resonanz ist klar freundlich, beruht aber vor allem auf Namenslexika und Beliebtheitsangaben.",
+  "source_count": 3,
+  "sources": [
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "Vorname Lia � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/L/Li/Lia/"
+    },
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "Vorname Lia � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/L/Li/Lia/"
+    },
+    {
+      "confidence": 0.86,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Lia: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Lia.html"
+    }
+  ],
+  "style_effect": [
+    "kurz und leicht merkbar",
+    "sanft und freundlich im Klang",
+    "modern und zeitgemäß",
+    "eher klassisch-biblisch eingeordnet",
+    "häufig als eigenständiger Vorname wahrgenommen",
+    "wirkt in der Darstellung eher beliebt als ungewöhnlich"
+  ],
+  "usable_evidence_count": 3,
+  "visibility": "Hoch sichtbar in Namenslexika und Beliebkeitslisten; die öffentliche Debatte selbst ist aber eher indirekt erfasst, da die Evidenz vor allem aus redaktionellen Namensseiten stammt."
+}

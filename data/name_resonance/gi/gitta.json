@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "Kurzform von Brigitta/Brigitte",
+    "keltisch/altirische Herkunft",
+    "Bedeutung: die Erhabene / die Hohe / die Göttliche",
+    "Namenstag wird genannt",
+    "selten in Deutschland"
+  ],
+  "confidence": 0.79,
+  "display_text": "Gitta wirkt in den verfügbaren Quellen kurz, traditionell und selten. Die Resonanz ist eher neutral bis leicht positiv; die Evidenz ist jedoch vor allem lexikalisch und damit begrenzt.",
+  "evidence_quality": "mittel bis gut: klare Namensquellen, aber begrenzte und überwiegend lexikalische Evidenz ohne breite öffentliche Diskussionslage.",
+  "generated_at": "2026-06-14T10:47:41Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Gitta",
+  "normalized_name": "gitta",
+  "overall_resonance": "Gitta wird in den vorliegenden Namensquellen eher zurückhaltend bis leicht positiv beschrieben: als kurze, traditionelle und seltene Form mit klassischer Herkunft und klarer Bedeutung.",
+  "practical_notes": [
+    "Für Suchende wirkt Gitta klar, knapp und traditionsnah.",
+    "Der Name ist gut verständlich und im deutschsprachigen Raum bekannt, aber nicht häufig.",
+    "Aufgrund der Seltenheit kann er als markant, aber auch etwas ungewöhnlich wahrgenommen werden."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt überwiegend aus Namenslexika und nicht aus einer breiten Meinungsbasis.",
+    "Die positive oder neutrale Wirkung ist daher nur vorsichtig ableitbar.",
+    "Gemischte Einzelmeinungen können die Gesamtwahrnehmung etwas beeinflussen, sind aber nicht repräsentativ."
+  ],
+  "short_summary": "Gitta wird als seltener, traditioneller und eher leicht positiv konnotierter Vorname mit klassischer Herkunft wahrgenommen.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Gitta � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/G/Gi/Gitta/"
+    },
+    {
+      "confidence": 0.86,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Gitta: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Gitta.html"
+    }
+  ],
+  "style_effect": [
+    "kurz",
+    "traditionell",
+    "klassisch",
+    "selten",
+    "eher nüchtern",
+    "leicht altmodisch",
+    "namenskundlich aufgeladen"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland wirkt der Name eher selten und dadurch auffällig, aber nicht stark verbreitet. Die öffentliche Wahrnehmung in den Quellen ist vor allem lexikalisch und nicht von breiter Alltagsdiskussion geprägt."
+}

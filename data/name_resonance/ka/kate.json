@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "Kurzform von Katharina/Katherine",
+    "Bedeutung: die Reine / die Unschuldige",
+    "englischsprachiger bzw. internationaler Eindruck",
+    "gelegentlich in Deutschland vergeben",
+    "inhaltlich eher freundlich bis neutral bewertet"
+  ],
+  "confidence": 0.88,
+  "display_text": "Kate wirkt in Deutschland eher modern, kurz und international verständlich. Die vorhandenen Quellen beschreiben den Namen sachlich bis positiv, vor allem als Kurzform von Katharina/Katherine mit der Bedeutung „die Reine / die Unschuldige“. Die Evidenz ist jedoch begrenzt und stammt vor allem aus Namensdatenbanken.",
+  "evidence_quality": "mittel bis gut: klare namenskundliche Aussagen, aber nur einseitige und kleine Quellenbasis",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Kate",
+  "normalized_name": "kate",
+  "overall_resonance": "Der Vorname Kate wirkt in der öffentlichen Namenswahrnehmung insgesamt eher positiv und sachlich-modern. In den vorliegenden Quellen wird er vor allem als kurze, international verständliche Form von Katharina/Katherine beschrieben, mit einer eher eleganten und klaren Ausstrahlung.",
+  "practical_notes": [
+    "Für Suchmaschinen-Nutzer ist Kate leicht einzuordnen und schnell verständlich.",
+    "Der Name kann als eigenständig, aber auch als Kurzform wahrgenommen werden.",
+    "Die Wirkung kann je nach Umfeld etwas internationaler oder englischer erscheinen als klassisch deutsch."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz basiert nur auf zwei überwiegend namenskundlichen Webquellen; die öffentliche Resonanz ist daher nur begrenzt abgesichert.",
+    "Positive Eindrücke stammen teils aus allgemeinen Beschreibungen und vereinzelten Kommentarhinweisen, nicht aus breiter Meinungsstreuung.",
+    "Keine erkennbare Kontroverse oder Stigmatisierung in den Daten."
+  ],
+  "short_summary": "Kate wird meist als kurze, elegante und international verständliche Form von Katharina/Katherine wahrgenommen; die öffentliche Resonanz ist eher positiv, aber auf begrenzte Evidenz gestützt.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.92,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Kate � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/K/Ka/Kate/"
+    },
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Kate: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Kate.html"
+    }
+  ],
+  "style_effect": [
+    "kurz",
+    "international verständlich",
+    "elegant",
+    "modern",
+    "klar",
+    "namenskundlich vertraut"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland gelegentlich vergeben und in Namensdatenbanken sichtbar, aber nicht als sehr verbreiteter Standardname. Die öffentliche Präsenz ist eher moderat als dominant."
+}

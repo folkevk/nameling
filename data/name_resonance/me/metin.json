@@ -1,0 +1,58 @@
+{
+  "associations": [
+    "türkischer männlicher Vorname",
+    "arabische Herkunft wird genannt",
+    "Bedeutung wie „der Standhafte“ oder „der Feste“",
+    "Namenslexikon/namenskundliche Einordnung",
+    "teilweise mit positiven Attributen wie „schön“ oder „geheimnisvoll“ beschrieben"
+  ],
+  "confidence": 0.79,
+  "display_text": "Metin wirkt in der öffentlichen Namenswahrnehmung überwiegend neutral bis leicht positiv: bekannt, aber nicht sehr häufig, mit klarer Herkunfts- und Bedeutungszuschreibung. Die Quellen sind vor allem Namenslexika, daher ist die Evidenz eher begrenzt als breit öffentlich diskutiert.",
+  "evidence_quality": "mittel bis schwach: zwei passende Namensquellen, aber wenig freie öffentliche Diskussion und nur begrenzte Breite der Evidenz",
+  "generated_at": "2026-06-14T10:47:41Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Metin",
+  "normalized_name": "metin",
+  "overall_resonance": "Metin wird in den vorliegenden deutschsprachigen Namensquellen überwiegend sachlich bis leicht positiv dargestellt. Die öffentliche Resonanz wirkt eher neutral-informativ als emotional, mit klaren Bezügen zu Herkunft, Bedeutung und Gebrauch.",
+  "practical_notes": [
+    "Für eine Namenssuche eignet sich Metin als kurzer, gut merkbarer Vorname mit klarer Herkunfts- und Bedeutungszuordnung.",
+    "Die Wirkung ist eher modern-international als traditionell deutsch.",
+    "Da der Name nicht sehr häufig beschrieben wird, kann er als eher eigenständig wahrgenommen werden."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt fast ausschließlich aus Namensdatenbanken und Namenslexika, also aus redaktionell eingeordneten Quellen statt aus breiter öffentlicher Debatte.",
+    "Einzelne positive Formulierungen beruhen auf subjektiven Kommentaren und sollten nicht als allgemeine Mehrheitsmeinung verstanden werden.",
+    "Die Datenlage zur tatsächlichen öffentlichen Resonanz in Deutschland ist begrenzt."
+  ],
+  "short_summary": "Metin wird in deutschen Namensquellen überwiegend neutral bis leicht positiv beschrieben, vor allem als türkisch geprägter, standhaft wirkender Vorname mit klarer Bedeutung.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Metin � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/M/Me/Metin/"
+    },
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "eher positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Metin: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Metin.html"
+    }
+  ],
+  "style_effect": [
+    "klingt klar und markant",
+    "wirkt international und zugleich vertraut",
+    "hat einen sachlich-starken, standhaften Eindruck",
+    "wird oft in namenskundlichen Kontexten erklärt statt kulturell bewertet"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland bekannt, aber eher nicht sehr häufig. Die Wahrnehmung ist damit eher präsent als geläufig."
+}

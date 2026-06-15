@@ -1,0 +1,63 @@
+{
+  "associations": [
+    "hebräische Herkunft",
+    "biblische Bedeutung",
+    "\"Gott mit uns\"",
+    "Altes Testament",
+    "Namenstag",
+    "männlicher Vorname",
+    "traditionelle Namenswahl"
+  ],
+  "confidence": 0.86,
+  "display_text": "Immanuel wird in den vorliegenden Quellen überwiegend positiv, klassisch und biblisch-traditionell eingeordnet. Der Name wirkt würdevoll und wohlklingend, mit klarer religiöser Bedeutung. Die Evidenz ist solide, stammt aber vor allem aus Namenslexika und weniger aus einer breiten öffentlichen Debatte.",
+  "evidence_quality": "mittel bis gut; klare Namensquellen, aber wenig echte öffentliche Debattenresonanz",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Immanuel",
+  "normalized_name": "immanuel",
+  "overall_resonance": "Eher positiv und klassisch-traditionell, mit deutlich religiös-biblischer Prägung. In der vorliegenden Evidenz wirkt der Name sachlich respektiert und eher wohlklingend als kontrovers.",
+  "practical_notes": [
+    "Für Suchende wirkt der Name eher ernst, traditionsbewusst und bedeutungsvoll.",
+    "Die Schreibweise ist bekannt, aber nicht alltäglich.",
+    "In Deutschland dürfte der Name eher als klassisch-religiöse Wahl wahrgenommen werden als als modischer Trendname."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt überwiegend aus Namenslexika und nicht aus einer breiten öffentlichen Debatte.",
+    "Positive Wirkung ergibt sich vor allem aus Bedeutung und Einordnung, nicht aus vielen unabhängigen Stimmen.",
+    "Keine belastbare Aussage zu allgemeiner Alltagswahrnehmung oder sozialer Bewertung über die Quellen hinaus."
+  ],
+  "short_summary": "Immanuel wird in den vorliegenden Quellen überwiegend positiv, klassisch und biblisch-traditionell eingeordnet; die öffentliche Sichtbarkeit wirkt eher sachlich als breit diskutiert.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Immanuel � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/I/Im/Immanuel/"
+    },
+    {
+      "confidence": 0.86,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Immanuel: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Immanuel.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "traditionell",
+    "biblisch-religiös",
+    "würdevoll",
+    "wohlklingend",
+    "sachlich",
+    "namenskundlich"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Im deutschen Namenskontext sichtbar, aber eher selten bis moderat verbreitet. Die öffentliche Präsenz wirkt vor allem lexikalisch/namenskundlich, nicht als breit diskutierter Trendname."
+}

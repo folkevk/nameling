@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "lateinischer Ursprung",
+    "Bedeutung oft als „der Kleine“ oder „der Jüngere“ beschrieben",
+    "biblische/Heiligen-Bezüge",
+    "weit verbreitet in Deutschland",
+    "international verständlich",
+    "kurzer männlicher Vorname",
+    "traditionell, aber nicht altmodisch"
+  ],
+  "confidence": 0.95,
+  "display_text": "Paul wird öffentlich meist als klassischer, zeitloser und in Deutschland sehr verbreiteter Vorname wahrgenommen. Die vorliegende Evidenz beschreibt ihn überwiegend positiv und sachlich, mit Assoziationen wie lateinischer Herkunft, „der Kleine“ bzw. „der Jüngere“, biblischen Bezügen und internationaler Verständlichkeit. Die Datengrundlage ist allerdings vor allem lexikalisch, daher ist die Aussage zur öffentlichen Rezeption vorsichtig zu lesen.",
+  "evidence_quality": "hoch für Namensbedeutung und gebräuchliche Einordnung, aber begrenzt für echte öffentliche Meinung, da vor allem lexikalische Quellen vorliegen.",
+  "generated_at": "2026-06-12T06:08:03Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Paul",
+  "normalized_name": "paul",
+  "overall_resonance": "Überwiegend positiv und sehr etabliert; der Name wirkt klassisch, zeitlos und unkompliziert.",
+  "practical_notes": [
+    "Für Suchmaschinen und Alltagskontext meist sehr gut anschlussfähig.",
+    "Wirkt seriös, vertraut und wenig erklärungsbedürftig.",
+    "Keine klare soziale Stigmatisierung in der Evidenz erkennbar."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt vor allem aus Namenslexika und Ratgeberseiten, nicht aus breiter öffentlicher Debatte.",
+    "Positive Wirkung kann auch durch den redaktionellen Fokus der Quellen verstärkt sein."
+  ],
+  "short_summary": "Paul wird in der vorliegenden Evidenz als sehr bekannter, klassischer und positiv konnotierter Vorname beschrieben.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "positive",
+      "source_type": "web",
+      "title": "Vorname Paul � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/P/Pa/Paul/"
+    },
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Paul: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Paul.html"
+    }
+  ],
+  "style_effect": [
+    "kurz und klar",
+    "klassisch-traditionell",
+    "zeitlos",
+    "international leicht verständlich",
+    "freundlich-neutral",
+    "namenskundlich vertraut"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland sehr bekannt und verbreitet; öffentlich meist als geläufiger, traditioneller Vorname wahrgenommen."
+}

@@ -1,0 +1,59 @@
+{
+  "associations": [
+    "altdeutscher bzw. germanischer Jungenname",
+    "Bedeutung mit Bezug auf 'Wolf' und 'Ing'",
+    "Namenstag am 21. Dezember",
+    "regional in Deutschland bekannt, aber nicht häufig",
+    "wirkt eher klassisch als modern"
+  ],
+  "confidence": 0.83,
+  "display_text": "Ingolf ist in Deutschland eher selten und wirkt traditionell, altgermanisch und markant. Die öffentliche Resonanz ist überwiegend neutral bis leicht positiv, getragen von Herkunft, Bedeutung und dem klassischen Klang. Die Aussagekraft der Quellen ist dabei begrenzt, da sie vor allem aus Namenslexika stammt.",
+  "evidence_quality": "mittel bis gut, aber thematisch eng begrenzt: zwei überwiegend namenskundliche Webquellen, kaum unabhängige Breite",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Ingolf",
+  "normalized_name": "ingolf",
+  "overall_resonance": "Ingolf wirkt in den vorliegenden Quellen überwiegend sachlich-traditionell und eher selten als heutiger Vorname. Die öffentliche Rezeption ist meist neutral bis leicht positiv, vor allem wegen der altgermanischen Herkunft und der klaren Namensbedeutung.",
+  "practical_notes": [
+    "Für Namenssuchmaschinen ist eine kurze Einordnung als seltener, traditioneller germanischer Vorname sinnvoll.",
+    "Die Herkunfts- und Bedeutungsangabe ist ein prägender Teil der Wahrnehmung.",
+    "Wenn Modernität gewünscht ist, könnte Ingolf eher als bewusst klassischer Name wirken."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz basiert fast ausschließlich auf wenigen Namenslexika; die öffentliche Wahrnehmung kann je nach Region und Generation abweichen.",
+    "Beliebtheits- und Verbreitungsangaben sind nur grob belastbar und sollten nicht als harte Statistik verstanden werden.",
+    "Es gibt keinen Hinweis auf eine gesellschaftliche Stigmatisierung des Namens in den Quellen."
+  ],
+  "short_summary": "Ingolf wird öffentlich meist als seltener, traditioneller und sprachlich klarer Vorname wahrgenommen; die Resonanz ist eher neutral bis leicht positiv.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Ingolf � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/I/In/Ingolf/"
+    },
+    {
+      "confidence": 0.74,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Ingolf: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Ingolf.html"
+    }
+  ],
+  "style_effect": [
+    "altdeutsch/germanisch",
+    "traditionell",
+    "lexikalisch-namenskundlich",
+    "eher selten",
+    "klar und markant"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland eher wenig verbreitet und dadurch auffällig, aber nicht stark präsent im Alltag. Die Quellenlage deutet auf einen bekannten, jedoch selten gewählten Vornamen hin."
+}

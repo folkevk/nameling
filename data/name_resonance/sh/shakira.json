@@ -1,0 +1,59 @@
+{
+  "associations": [
+    "arabische Herkunft",
+    "Bedeutung oft als „die Dankbare“ bzw. „die Wertschätzende“ beschrieben",
+    "selten bis mäßig verbreitet in Deutschland",
+    "Namensvarianten wie Schakira oder Shakura",
+    "Spitznamen wie Shaki oder Kira"
+  ],
+  "confidence": 0.74,
+  "display_text": "Shakira wirkt in Deutschland eher selten, klangvoll und markant. Die öffentliche Wahrnehmung ist leicht positiv bis neutral, stützt sich aber vor allem auf Namenslexika und bietet nur wenig breite Diskussionslage. Häufig genannt werden arabische Herkunft und Bedeutungen wie „die Dankbare“.",
+  "evidence_quality": "Begrenzt bis mittel: zwei überwiegend lexikalische Quellen, wenig unabhängige öffentliche Diskussion, insgesamt nur schwach belastbare Resonanzdaten.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Shakira",
+  "normalized_name": "shakira",
+  "overall_resonance": "Eher leicht positiv bis neutral; der Name wird vor allem über Herkunft und Bedeutung wahrgenommen, nicht über breite öffentliche Debatte.",
+  "practical_notes": [
+    "Für eine Namenssuchmaschine ist eine knappe Einordnung sinnvoll: eher selten, klanglich markant, kulturell klar verortet.",
+    "Keine starke soziale Stigmatisierung erkennbar.",
+    "Die öffentliche Rezeption wirkt eher durch Lexikon- und Herkunftsinfos als durch kontroverse Diskussion geprägt."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenzlage ist begrenzt; die öffentliche Resonanz ist daher nur vorsichtig zu bewerten.",
+    "Ein Teil der Wahrnehmung kann durch bekannte Popkultur-Assoziationen mitgeprägt sein, ohne dass dies die Namensbedeutung selbst beschreibt.",
+    "Es gibt keine belastbare breite Datengrundlage für ein starkes Stimmungsbild."
+  ],
+  "short_summary": "Shakira wird in Deutschland eher selten und mit leicht positiv-neutraler Tendenz wahrgenommen. Der Name wirkt markant, feminin und klangvoll; die öffentliche Resonanz ist jedoch nur schwach belegt.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.95,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Shakira � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/S/Sh/Shakira/"
+    },
+    {
+      "confidence": 0.83,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Shakira: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Shakira.html"
+    }
+  ],
+  "style_effect": [
+    "klingt exotisch und markant",
+    "wirkt modern und feminin",
+    "wird mit arabischer Herkunft verbunden",
+    "hat eine eher weiche, melodische Anmutung",
+    "durch seine Seltenheit auffällig statt alltäglich"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland eher niedrig bis mäßig sichtbar. Die verfügbare Evidenz ist schmal und stammt überwiegend aus Namenslexika statt aus breiter öffentlicher Diskussion."
+}

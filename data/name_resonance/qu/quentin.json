@@ -1,0 +1,58 @@
+{
+  "associations": [
+    "lateinischer Ursprung",
+    "Bedeutung: „der Fünfte“",
+    "französische und englische Form von Quintus",
+    "Namenstag am 31. Oktober",
+    "in Deutschland selten, aber bekannt"
+  ],
+  "confidence": 0.87,
+  "display_text": "Quentin wirkt in Deutschland überwiegend neutral bis leicht positiv: bekannt, eher selten und sprachlich klar französisch/lateinisch geprägt. Die vorliegenden Quellen zeigen vor allem eine sachliche, namenskundliche Rezeption mit wenigen, leicht positiven Tendenzen. Die Evidenz ist jedoch begrenzt und stammt hauptsächlich aus Namenslexikon-Seiten.",
+  "evidence_quality": "mittel bis schwach; hauptsächlich lexikalische Namensseiten, kaum freie öffentliche Diskussion",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Quentin",
+  "normalized_name": "quentin",
+  "overall_resonance": "überwiegend neutral bis leicht positiv",
+  "practical_notes": [
+    "Für eine Namenssuche in Deutschland wirkt Quentin vertraut, aber nicht alltäglich.",
+    "Die Wahrnehmung ist eher sprachlich-historisch als emotional aufgeladen.",
+    "Die vorhandenen Quellen deuten auf eine neutrale bis leicht sympathische Rezeption hin, ohne starke Ausschläge."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist begrenzt und stammt fast nur aus Namenslexikon-Seiten.",
+    "Es gibt wenig belastbare Anzeichen für eine breite öffentliche Meinungsbildung außerhalb von Namensportalen.",
+    "Keine Hinweise auf starke Stigmatisierung oder klare Negativassoziationen in der vorliegenden Evidenz."
+  ],
+  "short_summary": "Quentin wird im deutschen Namenskontext überwiegend neutral bis leicht positiv wahrgenommen: bekannt, selten und mit klarer lateinisch-französischer Herkunft. Die öffentliche Resonanz wirkt sachlich; die Evidenzlage ist jedoch begrenzt.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Quentin � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/Q/Qu/Quentin/"
+    },
+    {
+      "confidence": 0.94,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Quentin: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Quentin.html"
+    }
+  ],
+  "style_effect": [
+    "klingt französisch/englisch geprägt",
+    "wirkt modern und zugleich etabliert",
+    "assoziiert mit namenskundlicher Sachlichkeit",
+    "kurz, klar und gut merkbar"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "im deutschsprachigen Namenskontext eher bekannt, aber nicht sehr häufig; öffentliche Präsenz wirkt sachlich und unaufgeregt"
+}

@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "Form von Karl",
+    "Bedeutung: freier Mann",
+    "englische und französische Namensform",
+    "historisch verankert",
+    "in Deutschland eher selten",
+    "Namenstag",
+    "Kurzformen wie Charlie, Charly oder Chuck"
+  ],
+  "confidence": 0.9,
+  "display_text": "Charles: klassisch, international und historisch verankert; in Deutschland eher selten, aber klar positiv bis neutral eingeordnet.",
+  "evidence_quality": "hoch für Namensbedeutung und Einordnung, mittel für öffentliche Resonanz in Deutschland",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Charles",
+  "normalized_name": "charles",
+  "overall_resonance": "Charles wirkt in der verfügbaren deutschen Namens-Evidenz klassisch, traditionsnah und eher sachlich bis leicht positiv besetzt. Der Name wird vor allem als englische bzw. französische Form von Karl beschrieben und mit Bedeutungen wie „freier Mann“ verbunden. In Deutschland erscheint er eher selten, aber historisch gut verankert.",
+  "practical_notes": [
+    "Für eine Namenssuche ist Charles eine klar verständliche, internationale und traditionsreiche Wahl.",
+    "Die Wahrnehmung dürfte eher neutral bis positiv sein, ohne starke modische oder problematische Konnotationen.",
+    "Wegen der Seltenheit in Deutschland kann der Name als bewusst gewählt und etwas besonderer wirken."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt überwiegend aus Namenslexikon-Seiten und beschreibt den Namen selbst, nicht eine breite öffentliche Debatte.",
+    "Aussagen zur Beliebtheit in Deutschland sind eher deskriptiv als diskursiv und sollten vorsichtig gelesen werden."
+  ],
+  "short_summary": "Charles wird in den vorliegenden deutschen Quellen als klassischer, internationaler und historisch verankerter Vorname mit eher seltener Verbreitung in Deutschland beschrieben.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Charles � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/C/Ch/Charles/"
+    },
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Charles: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Charles.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "international",
+    "historisch",
+    "eher vornehm/gediegen",
+    "namenskundlich eindeutig",
+    "kurz und markant"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Eher niedrige bis mittlere Sichtbarkeit in DE: bekannt und klar einordenbar, aber nicht besonders verbreitet."
+}

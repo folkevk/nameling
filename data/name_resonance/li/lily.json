@@ -1,0 +1,62 @@
+{
+  "associations": [
+    "Lilie",
+    "Blume",
+    "Reinheit",
+    "englische Namensform",
+    "Kurzform/Variante von Liliane oder Elisabeth",
+    "Namenstag",
+    "in Deutschland bekannt"
+  ],
+  "confidence": 0.93,
+  "display_text": "Lily wirkt im deutschen Raum überwiegend positiv: ein kurzer, moderner und blumiger Name mit internationalem Klang. Die öffentliche Resonanz ist meist freundlich und sachlich, mit Assoziationen wie Lilie, Reinheit und Namensvarianten aus dem englischen bzw. klassischen Namensumfeld.",
+  "evidence_quality": "Stark: zwei spezialisierte Namensquellen mit klarer Namensdiskussion, Bedeutungs- und Herkunftsangaben sowie ergänzenden Bewertungen.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Lily",
+  "normalized_name": "lily",
+  "overall_resonance": "Überwiegend positiv und freundlich, mit sachlich-neutraler Grundtönung.",
+  "practical_notes": [
+    "Für deutschsprachige Kontexte gut verständlich und leicht aussprechbar.",
+    "Wirkt eher modern und international als traditionell-deutsch.",
+    "Die Schreibweise ist kurz, klar und visuell markant."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die positiven Eindrücke stammen teilweise aus Nutzerkommentaren und sind daher subjektiv.",
+    "Beliebtheit und Wirkung können je nach Generation und Umfeld unterschiedlich wahrgenommen werden."
+  ],
+  "short_summary": "Lily wird im deutschen Namenskontext meist freundlich, modern und blumig wahrgenommen; die öffentliche Rezeption ist überwiegend positiv und sachlich.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Lily � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/L/Li/Lily/"
+    },
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Lily: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Lily.html"
+    }
+  ],
+  "style_effect": [
+    "weich",
+    "blumig",
+    "international",
+    "modern",
+    "kurz und eingängig",
+    "leicht verspielt",
+    "weiblich konnotiert"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Mittel bis hoch: Der Name ist in deutschen Namensportalen klar präsent und gut auffindbar."
+}

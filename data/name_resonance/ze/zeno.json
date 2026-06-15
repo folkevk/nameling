@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "altgriechischer Ursprung",
+    "Geschenk des Zeus / Geschenk Gottes",
+    "Kurzform bzw. Variante von Zenon oder Zenodotos",
+    "Namenstag am 12. April",
+    "historisch und klassisch",
+    "eher seltener Vorname"
+  ],
+  "confidence": 0.9,
+  "display_text": "Zeno wirkt in den Quellen überwiegend neutral bis leicht positiv: klassisch, historisch und mit angenehmen Bedeutungen verbunden. Die öffentliche Sichtbarkeit ist eher gering bis moderat, und die Evidenz stützt sich vor allem auf Namenslexika statt auf breite Diskussionen.",
+  "evidence_quality": "mittel bis eher schwach: inhaltlich klare Namensbeschreibungen, aber nur begrenzte und quellenarme öffentliche Resonanz.",
+  "generated_at": "2026-06-14T10:47:41Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Zeno",
+  "normalized_name": "zeno",
+  "overall_resonance": "Der Name Zeno wird in den vorliegenden Quellen überwiegend neutral bis leicht positiv wahrgenommen. Er wirkt klassisch, namenskundlich interessant und durch die genannten Bedeutungen eher wertig als auffällig; eine breite öffentliche Diskussion ist jedoch nicht erkennbar.",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt Zeno klar, markant und traditionsnah.",
+    "Der Name ist kurz, gut merkbar und international anschlussfähig.",
+    "Wer einen seltenen, aber klassischen Namen sucht, könnte ihn als passend empfinden."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz basiert fast ausschließlich auf Namenslexika bzw. einer einzelnen dominanten Datenquelle.",
+    "Beliebtheitsangaben sind nur vorsichtig zu interpretieren und regional unterschiedlich.",
+    "Es gibt keine belastbare breite öffentliche Resonanz, sondern vor allem beschreibende Namensinformationen."
+  ],
+  "short_summary": "Zeno wird überwiegend neutral bis leicht positiv und klassisch wahrgenommen; die Evidenz ist jedoch schmal und stammt vor allem aus Namensdatenbanken.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.95,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "Vorname Zeno � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/Z/Ze/Zeno/"
+    },
+    {
+      "confidence": 0.92,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Zeno: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Zeno.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "historisch",
+    "eher selten bis moderat gebräuchlich",
+    "kurz und prägnant",
+    "gebildet-namenskundlich",
+    "leicht positiv konnotiert"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Eher gering bis moderat sichtbar: Zeno erscheint in Namenslexika und Vornamensdatenbanken, aber die Evidenz wirkt nicht breit gestützt. Die Angaben zur Beliebtheit können je nach Region und Zeitraum schwanken."
+}

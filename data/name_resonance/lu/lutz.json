@@ -1,0 +1,59 @@
+{
+  "associations": [
+    "Kurzform von Ludwig",
+    "althochdeutsche Herkunft",
+    "Bedeutung: „der berühmte Krieger“",
+    "klassischer deutscher Jungenname",
+    "historisch bekannter als aktuell trendig"
+  ],
+  "confidence": 0.76,
+  "display_text": "Lutz wird in der öffentlichen Wahrnehmung meist als klassischer, kurzer und traditionell-deutscher Vorname gesehen. Die vorhandene Evidenz ist eher schwach und vor allem beschreibend, deutet aber auf eine sachlich-positive, zeitlose Wirkung hin.",
+  "evidence_quality": "mittel bis schwach: überwiegend lexikalische Quellen, wenig unabhängige öffentliche Resonanz",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Lutz",
+  "normalized_name": "lutz",
+  "overall_resonance": "Der Vorname Lutz wirkt in der öffentlichen Namenswahrnehmung eher klassisch, deutsch und sachlich-positiv, ohne starke emotionale Aufladung. Er wird vor allem als traditionelle Kurzform mit klarer Herkunft wahrgenommen.",
+  "practical_notes": [
+    "Für Suchmaschinenleser lässt sich Lutz am besten als traditioneller, kompakter Vorname mit klarer deutscher Herkunft zusammenfassen.",
+    "Die Wirkung ist eher nüchtern und vertraut als verspielt oder modern.",
+    "Keine belastbaren Hinweise auf soziale Stigmatisierung in der vorliegenden Evidenz."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz zur öffentlichen Resonanz ist schwach und überwiegend beschreibend.",
+    "Es liegen vor allem Namenslexika und Selbstdarstellungen von Namensseiten vor, keine breite unabhängige Debatte.",
+    "Einzelne Kommentare sind nur eingeschränkt verallgemeinerbar."
+  ],
+  "short_summary": "Lutz wird öffentlich meist als klassischer, kurzer und traditionell-deutscher Jungenname wahrgenommen; die Datenlage ist sachlich, aber nicht sehr breit.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.91,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Lutz � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/L/Lu/Lutz/"
+    },
+    {
+      "confidence": 0.74,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Lutz: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Lutz.html"
+    }
+  ],
+  "style_effect": [
+    "kurz und markant",
+    "klassisch-deutsch",
+    "traditionell",
+    "sachlich",
+    "eher zeitlos als modisch"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Mittel: Der Name ist bekannt und gut dokumentiert, aber die verfügbare öffentliche Resonanz basiert überwiegend auf Namensdatenbanken und wenigen, begrenzt aussagekräftigen Kommentaren."
+}

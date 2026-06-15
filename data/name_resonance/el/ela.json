@@ -1,0 +1,59 @@
+{
+  "associations": [
+    "Kurzform von Namen mit El- / -ela",
+    "althebräische bzw. türkische Herleitung in Quellen",
+    "Bedeutungen wie „die Göttliche“ oder „Haselnussbraune“",
+    "selten bis zeitweise beliebt",
+    "modern, weich und unkompliziert"
+  ],
+  "confidence": 0.84,
+  "display_text": "Ela wirkt in den verfügbaren Quellen kurz, modern und eher sanft. Die öffentliche Resonanz ist überwiegend neutral bis leicht positiv, allerdings stützt sie sich vor allem auf Namenslexika und weniger auf breite öffentliche Diskussion.",
+  "evidence_quality": "mittel bis eher schwach: wenige, überwiegend beschreibende Quellen; kaum echte öffentliche Diskussion.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Ela",
+  "normalized_name": "ela",
+  "overall_resonance": "Überwiegend neutral bis leicht positiv. Ela wird öffentlich vor allem als kurzer, moderner und eher sanfter Vorname wahrgenommen; die verfügbare Evidenz ist jedoch überwiegend lexikalisch und nicht breit aus öffentlicher Diskussion gewonnen.",
+  "practical_notes": [
+    "Für Suchmaschinen wirkt Ela meist positiv besetzt durch Kürze und klare Klangform.",
+    "Die Mehrdeutigkeit der Herkunft kann je nach Kontext als Pluspunkt oder als Unsicherheit erscheinen.",
+    "Keine Hinweise auf ausgeprägte negative Stigmatisierung in der vorliegenden Evidenz."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt vor allem aus Namenslexika und Datenbanken, nicht aus breiter öffentlicher Debatte.",
+    "Die Herkunfts- und Bedeutungsangaben sind teils gemischt und können je nach Quelle variieren.",
+    "Daraus lassen sich keine belastbaren Aussagen über soziale Wahrnehmung im Alltag ableiten."
+  ],
+  "short_summary": "Ela wird meist als kurzer, moderner und eher freundlich wirkender Vorname beschrieben. Die öffentliche Resonanz ist insgesamt neutral bis leicht positiv, aber die Evidenz ist begrenzt und vor allem lexikalisch.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.95,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Ela � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/E/El/Ela/"
+    },
+    {
+      "confidence": 0.88,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Ela: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Ela.html"
+    }
+  ],
+  "style_effect": [
+    "kurz und prägnant",
+    "modern und schlicht",
+    "weiblich gelesen",
+    "teils international bzw. türkisch anschlussfähig",
+    "namenskundlich interessant durch mehrere Herkunftsdeutungen"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Eher gut sichtbar in Namenslexika und Vornamensdatenbanken, aber mit begrenzter Breite an frei diskutierter öffentlicher Resonanz."
+}

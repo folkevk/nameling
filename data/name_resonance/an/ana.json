@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "Kurzform von Anna",
+    "althebräische Herkunft",
+    "Bedeutung: „die Begnadete“ / „Gott ist gnädig“",
+    "weiblicher Vorname",
+    "in Deutschland als beliebt beschrieben",
+    "Namenstag am 26. Juli",
+    "verbreitet im spanischen, portugiesischen, kroatischen und serbischen Sprachraum"
+  ],
+  "confidence": 0.84,
+  "display_text": "Ana wirkt in Deutschland überwiegend neutral bis leicht positiv. Der Name wird vor allem als kurze Form von Anna mit althebräischer Herkunft und der Bedeutung „die Begnadete“ / „Gott ist gnädig“ beschrieben. Öffentliche Resonanz ist eher sachlich als kontrovers; die Evidenz beruht hauptsächlich auf Namenslexika und Beliebtheitsangaben.",
+  "evidence_quality": "mittel bis schwach: zwei Namensquellen, überwiegend lexikalisch/informativ, nur wenig echte öffentliche Diskussionsresonanz.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Ana",
+  "normalized_name": "ana",
+  "overall_resonance": "Überwiegend neutral bis leicht positiv; der Name wird vor allem sachlich über Herkunft, Bedeutung und Beliebtheit wahrgenommen.",
+  "practical_notes": [
+    "Für Suchmaschinen wirkt der Name klar, vertraut und international verständlich.",
+    "Wer eine reine deutsche Form sucht, nimmt Ana oft als kurze Variante von Anna wahr.",
+    "Die Datenlage spricht eher für sachliche Bekanntheit als für starke polarisierende Reaktionen."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist begrenzt: Öffentliche Resonanz wird hier hauptsächlich indirekt über Namensdatenbanken und vereinzelte Kommentare abgebildet.",
+    "Subjektive Aussagen zur Schreibweise sind nicht als allgemeingültige Bewertung zu verstehen."
+  ],
+  "short_summary": "Ana wird in Deutschland vor allem als kurze, international verständliche Form von Anna wahrgenommen: sachlich, bekannt und leicht positiv konnotiert, ohne starke öffentliche Kontroversen.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.94,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Ana � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/A/An/Ana/"
+    },
+    {
+      "confidence": 0.92,
+      "is_name_discussion": true,
+      "sentiment": "slightly positive",
+      "source_type": "web",
+      "title": "&#9655; Vorname Ana: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Ana.html"
+    }
+  ],
+  "style_effect": [
+    "kurz und klar",
+    "international/mehrsprachig anschlussfähig",
+    "klassisch durch Nähe zu Anna",
+    "selten als eigenständige Kurzform hervorgehoben",
+    "klanglich von manchen als angenehm wahrgenommen"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland als bekannter, eher kurzer Mädchenname sichtbar; öffentliche Diskussionen sind jedoch begrenzt und stützen sich vor allem auf Namenslexika und Beliebtheitsangaben."
+}

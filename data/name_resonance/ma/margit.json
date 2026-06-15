@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "Bedeutung: „die Perle“",
+    "Kurzform bzw. Variante von Margarete",
+    "deutsche, skandinavische und ungarische Verwendung",
+    "Namenstag am 20. Juli",
+    "selten in Deutschland",
+    "eher historisch wahrgenommen"
+  ],
+  "confidence": 0.79,
+  "display_text": "Margit: klassisch, selten und eher historisch geprägt. Die öffentliche Resonanz ist überwiegend neutral bis leicht positiv; namenskundlich wird der Name mit „die Perle“ und als Form von Margarete verbunden.",
+  "evidence_quality": "mittel bis gut; zwei einschlägige Namensquellen, aber teils source-spezifisch und teilweise mit Nutzerkommentaren gemischt",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Margit",
+  "normalized_name": "margit",
+  "overall_resonance": "Der Vorname Margit wirkt im deutschsprachigen Raum eher klassisch, zurückhaltend und deutlich selten. Die öffentliche Wahrnehmung ist überwiegend sachlich bis leicht positiv, mit stark namenskundlichem Bezug.",
+  "practical_notes": [
+    "Für eine Namenssuche ist Margit gut als klassischer, ungewöhnlicher Name einzuordnen.",
+    "Die Wahrnehmung dürfte je nach Generation unterschiedlich ausfallen; in Deutschland ist der Name weniger gebräuchlich.",
+    "Die Quellenlage ist solide genug für eine vorsichtige Einordnung, aber nicht für breite Meinungswerte."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt überwiegend aus namenskundlichen Webseiten und ist damit eher beschreibend als repräsentativ für die Allgemeinbevölkerung.",
+    "Einzelne Angaben mischen Datensammlungen und Nutzerkommentare; die Tendenz ist deshalb nur vorsichtig zu interpretieren.",
+    "Keine Hinweise auf gesellschaftliche Stigmatisierung erkennbar."
+  ],
+  "short_summary": "Margit wird in Deutschland eher als seltener, klassisch-historischer Vorname mit neutral bis leicht positiver Resonanz wahrgenommen.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Margit � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/M/Ma/Margit/"
+    },
+    {
+      "confidence": 0.9,
+      "is_name_discussion": true,
+      "sentiment": "mostly positive",
+      "source_type": "web",
+      "title": "&#9655; Vorname Margit: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Margit.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "traditionell",
+    "retro",
+    "nüchtern",
+    "namenskundlich",
+    "selten"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland laut den vorliegenden Quellen selten und eher historisch verbreitet; dadurch wirkt der Name eher vertraut aus älteren Generationen als aktuell sehr präsent."
+}

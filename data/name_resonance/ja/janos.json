@@ -1,0 +1,50 @@
+{
+  "associations": [
+    "Ungarische Form von Johannes",
+    "Bedeutung: 'Jahwe ist gnädig' / 'Jahwe ist gütig'",
+    "Bezug zu religiös-biblischen Namenstraditionen",
+    "Namenstag wird genannt, allerdings in der Quelle nicht ganz einheitlich",
+    "Spitznamen und Kurzformen wie Jani, Jan oder Jánoska werden erwähnt"
+  ],
+  "confidence": 0.68,
+  "display_text": "János wird überwiegend sachlich und leicht positiv wahrgenommen: ein klassisch-ungarischer Vorname mit religiös-etymologischer Bedeutung, klarer kultureller Färbung und eher seltener Sichtbarkeit im Deutschen.",
+  "evidence_quality": "eher schwach bis mittel: eine informative, namenkundliche Webquelle mit klarer Lemma-Behandlung, aber nur begrenzter Breite und teils uneinheitlichen Nutzerhinweisen.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "János",
+  "normalized_name": "janos",
+  "overall_resonance": "János wird in der vorliegenden Evidenz vor allem sachlich, sprachlich und etymologisch eingeordnet. Die öffentliche Resonanz wirkt eher neutral bis leicht positiv, mit Fokus auf Herkunft, Bedeutung und Namensvarianten.",
+  "practical_notes": [
+    "Für deutschsprachige Nutzer dürfte der Name als ungarisch und traditionell wahrgenommen werden.",
+    "Die Akzentsetzung kann im Alltag zu Schreib- oder Ausspracheunsicherheit führen.",
+    "Für eine Namenssuche ist János eher ein kulturell markanter, aber insgesamt seriös wirkender Vorname."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist nur schwach bis mittel belastbar und stützt sich auf eine einzelne Namenslexikon-Quelle.",
+    "Einige Hinweise im Quellentext wirken uneinheitlich oder usergeneriert, daher vorsichtig interpretieren.",
+    "Keine belastbaren Hinweise auf soziale Stigmatisierung; solche Effekte sollten hier nicht angenommen werden."
+  ],
+  "short_summary": "János wirkt im Deutschen als ungarisch geprägter, klassischer und eher neutral bis leicht positiv besetzter Vorname mit starker etymologischer Einordnung.",
+  "source_count": 1,
+  "sources": [
+    {
+      "confidence": 0.91,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname János: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,J%C3%A1nos.html"
+    }
+  ],
+  "style_effect": [
+    "klingt traditionsnah",
+    "wirkt kulturell spezifisch",
+    "hat einen formellen, eher klassischen Eindruck",
+    "ist durch die Schreibweise mit Akzent markant"
+  ],
+  "usable_evidence_count": 1,
+  "visibility": "Im deutschsprachigen Raum eher klar als ungarische Namensform erkennbar, aber nicht sehr häufig. Die Sichtbarkeit wirkt dadurch präsent, jedoch eher niche- als alltagsdominiert."
+}

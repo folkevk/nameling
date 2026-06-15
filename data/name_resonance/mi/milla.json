@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "weiblicher Vorname",
+    "Kurzform bzw. Variante von längeren Namen wie Camilla",
+    "auch mit Ludmilla in Verbindung gebracht",
+    "slawische und lateinische Wurzeln werden genannt",
+    "Bedeutungen wie 'die Ehrbare' oder 'die vom Volk Geliebte' erscheinen in Quellen",
+    "als modern und populär beschrieben",
+    "Namenstag wird in einigen Quellen erwähnt"
+  ],
+  "confidence": 0.91,
+  "display_text": "Milla wird in deutschen Namensquellen überwiegend positiv beschrieben: modern, weich klingend und freundlich. Die Belege stammen vor allem aus Namenslexika; eine breite öffentliche Kontroverse ist nicht erkennbar. Einzelne Hinweise betreffen eher Verwechslungsgefahr mit ähnlichen Namen als echte Kritik.",
+  "evidence_quality": "moderat: vor allem lexikalische Namensseiten, wenig breite Diskussionsbasis, insgesamt aber konsistente positive bis neutrale Beschreibung",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Milla",
+  "normalized_name": "milla",
+  "overall_resonance": "überwiegend positiv, mit einzelnen neutralen bis leicht kritischen Hinweisen",
+  "practical_notes": [
+    "Für Suchende wirkt der Name meist klar, freundlich und zeitgemäß.",
+    "Die Kurzform kann je nach Kontext als eigenständiger Name oder als Ableitung verstanden werden.",
+    "Die Schreibweise ist einfach, die Aussprache im Deutschen meist intuitiv."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist begrenzt und stammt vor allem aus zwei Namenslexikon-Quellen, nicht aus breiter öffentlicher Diskussion.",
+    "Einzelne Hinweise auf Verwechslungsgefahr mit 'Mila' sind eher praktisch als kritisch.",
+    "Keine belastbaren Hinweise auf starke soziale Stigmatisierung erkennbar."
+  ],
+  "short_summary": "Milla wird im deutschen Namenskontext überwiegend positiv, modern und freundlich wahrgenommen. Die Quellen sind allerdings vor allem Namenslexika, daher ist die öffentliche Debatte dazu eher schmal.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "positive",
+      "source_type": "web",
+      "title": "Vorname Milla � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/M/Mi/Milla/"
+    },
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "mixed",
+      "source_type": "web",
+      "title": "&#9655; Vorname Milla: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Milla.html"
+    }
+  ],
+  "style_effect": [
+    "modern",
+    "weich klingend",
+    "kurz und einprägsam",
+    "namenskundlich etabliert",
+    "eher freundlich wahrgenommen"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Der Name ist im deutschsprachigen Raum gut auffindbar und wird vor allem in Namenslexika und Ratgeberseiten besprochen; die öffentliche Rezeption wirkt eher informativ als kontrovers."
+}

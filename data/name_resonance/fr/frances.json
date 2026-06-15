@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "englische Form von Franziska",
+    "altfranzösische/altitalienische Namensherkunft",
+    "Bedeutung: die kleine Französin / die Freie",
+    "weiblicher Vorname",
+    "Namenstag",
+    "in Deutschland eher als ungewohnter, aber verständlicher Name beschrieben"
+  ],
+  "confidence": 0.72,
+  "display_text": "Frances wirkt in Deutschland eher sachlich bis leicht positiv: ein weiblicher, international klingender und eher seltener Vorname. Die Evidenz ist allerdings begrenzt, da vor allem Lexikon- und Infotexte vorliegen.",
+  "evidence_quality": "mittel bis schwach: zwei überwiegend namenskundliche Quellen, wenig echte Community-Rezeption",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Frances",
+  "normalized_name": "frances",
+  "overall_resonance": "Frances wird in den vorliegenden Quellen eher sachlich bis leicht positiv wahrgenommen. In Deutschland erscheint der Name als klar weiblich, eher klassisch-international und nicht stark alltäglich, ohne dass sich eine breite öffentliche Debatte oder deutliche Polarisierung zeigt.",
+  "practical_notes": [
+    "Für Suchmaschinen-Nutzer wirkt Frances vertraut, international und schlicht.",
+    "Die Schreibweise ist im Deutschen verständlich, kann aber gelegentlich als englisch wahrgenommen werden.",
+    "Kurzformen wie Fran oder Franny werden vereinzelt genannt.",
+    "Wenn eine dezente, nicht zu häufige Namenswahl gesucht wird, passt Frances gut in das beschriebene Profil."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist schwach bis mittelstark, weil überwiegend Lexikon- und Infotexte vorliegen und kaum echte öffentliche Diskussionen.",
+    "Es gibt keine Hinweise auf soziale Stigmatisierung oder klare negative Zuschreibungen in den Quellen.",
+    "Eine allgemeine Beliebtheit lässt sich daraus nur vorsichtig ableiten; die Quellen spiegeln vor allem Beschreibung, nicht breite Meinungen wider."
+  ],
+  "short_summary": "Frances wird in den Quellen als weiblicher, international wirkender Vorname mit eher sachlich bis leicht positiver Wahrnehmung beschrieben; die öffentliche Resonanz ist jedoch nur begrenzt belegt.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Frances � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/F/Fr/Frances/"
+    },
+    {
+      "confidence": 0.86,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Frances: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Frances.html"
+    }
+  ],
+  "style_effect": [
+    "international",
+    "klassisch-elegant",
+    "informativ",
+    "eher selten",
+    "kurz und klar"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Eher gering bis mittel: Der Name taucht vor allem in Namenslexika und Informationsseiten auf. Die öffentliche Resonanz ist dadurch nur begrenzt und nicht sehr community-getrieben belegt."
+}

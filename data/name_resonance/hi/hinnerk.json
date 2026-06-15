@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "niederdeutsche und friesische Form von Heinrich",
+    "Bedeutung: „der Hausherr“ / „der Herr im Haus“",
+    "althochdeutsche Herkunft",
+    "Jungenname",
+    "Namenstag",
+    "selten bis mäßig bekannt"
+  ],
+  "confidence": 0.9,
+  "display_text": "Hinnerk wirkt in der öffentlichen Rezeption vor allem sachlich-traditionell: ein seltener, norddeutsch-friesischer Jungenname, der als Form von Heinrich mit der Bedeutung „der Hausherr“ verbunden wird. Die Quellenlage ist eher lexikalisch als meinungsbasiert, daher ist die Resonanz vorsichtig als neutral bis leicht positiv im Sinn von klar, bodenständig und regional einzuordnen.",
+  "evidence_quality": "mittel: zwei überwiegend lexikalische Webquellen, sachlich-informativ, aber keine breite Repräsentation öffentlicher Meinungen.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Hinnerk",
+  "normalized_name": "hinnerk",
+  "overall_resonance": "Überwiegend sachlich-neutral mit leicht traditionell-regionaler Note. Hinnerk wird öffentlich vor allem als norddeutsche, friesische Form von Heinrich wahrgenommen und eher als seltener, aber klar einordnungsfähiger Jungenname beschrieben.",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt Hinnerk klar regional und traditionsnah.",
+    "Die Schreib- und Klangform ist markant und eher ungewöhnlich, dadurch gut wiedererkennbar.",
+    "Die öffentliche Rezeption ist eher beschreibend als bewertend."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist begrenzt und stammt überwiegend aus Namenslexika, nicht aus breit angelegten Meinungsdaten.",
+    "Keine belastbaren Hinweise auf soziale Stigmatisierung oder starke negative Konnotationen in der vorliegenden Evidenz."
+  ],
+  "short_summary": "Hinnerk wird in der öffentlichen Wahrnehmung vor allem als seltener, norddeutsch-friesischer Jungenname mit traditioneller Herkunft und klarer Bedeutung gesehen.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Hinnerk � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/H/Hi/Hinnerk/"
+    },
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Hinnerk: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Hinnerk.html"
+    }
+  ],
+  "style_effect": [
+    "niederdeutsch/regional",
+    "traditionell",
+    "bodenständig",
+    "eher selten",
+    "klar etymologisch einordenbar",
+    "leicht altmodisch im Klang"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland eher gering bis mäßig bekannt; der Name wirkt nicht alltäglich, ist aber als regionale/niederdeutsche Namensform erkennbar. Die öffentliche Sicht ist vor allem informativ statt meinungsstark."
+}

@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "griechische Form von Johannes",
+    "biblischer/christlicher Bezug",
+    "Bedeutung: Gott ist gnädig",
+    "moderne bzw. alternative Schreibweise",
+    "selten bis außergewöhnlich beschrieben",
+    "Namenstag wird genannt"
+  ],
+  "confidence": 0.89,
+  "display_text": "Yannis wirkt in der verfügbaren Evidenz neutral bis leicht positiv: ein griechisch geprägter, biblisch assoziierter Vorname mit der Bedeutung „Gott ist gnädig“. Er wird eher als modern und international wahrgenommen. Die Datenlage ist vor allem lexikalisch, daher ist die öffentliche Resonanz nur eingeschränkt belastbar.",
+  "evidence_quality": "mittel: zwei überwiegend lexikalische Quellen, wenig echte öffentliche Kontroverse, aber konsistente Angaben zu Herkunft, Bedeutung und Grundton",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Yannis",
+  "normalized_name": "yannis",
+  "overall_resonance": "Yannis wird in der verfügbaren Evidenz überwiegend neutral bis leicht positiv wahrgenommen. Der Name erscheint vor allem als griechische Form von Johannes mit biblisch-christlichem Bezug und der Bedeutung „Gott ist gnädig“. Öffentliche Reaktionen sind eher beschreibend als kontrovers.",
+  "practical_notes": [
+    "Für Suchmaschinen- und Lexikoneinträge eignet sich eine neutrale Beschreibung mit Herkunft, Bedeutung und Varianten.",
+    "Wenn der Name eingeordnet wird, ist ein Hinweis auf die griechische Herkunft und die Nähe zu Johannes am hilfreichsten.",
+    "Die Wahrnehmung ist insgesamt freundlich, aber nicht stark diskursiv geprägt."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz basiert überwiegend auf Namenslexika und ist daher nur begrenzt repräsentativ für eine echte öffentliche Debatte.",
+    "Aussagen zur Beliebtheit sollten nicht mit gesellschaftlicher Bewertung verwechselt werden.",
+    "Keine belastbaren Hinweise auf Stigmatisierung oder negative Stereotype in der vorliegenden Evidenz."
+  ],
+  "short_summary": "Yannis wird meist neutral bis leicht positiv beschrieben: griechisch, biblisch geprägt und als modern wirkende Variante bekannt. Die Evidenz ist vor allem lexikalisch und daher nur begrenzt öffentlich-diskursiv.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Yannis � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/Y/Ya/Yannis/"
+    },
+    {
+      "confidence": 0.88,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Yannis: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Yannis.html"
+    }
+  ],
+  "style_effect": [
+    "klingt modern und international",
+    "wirkt zugleich traditionsnah durch den biblischen Bezug",
+    "wird als griechisch und eher markant wahrgenommen",
+    "erscheint als alternative Schreibweise zu Jannis",
+    "vermittelt einen weichen, zugleich klaren Klang"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Eher gut sichtbar in Namenslexika und Vornamensdatenbanken, aber mit begrenzter echter öffentlicher Debatte. Die Resonanz stützt sich hauptsächlich auf Namensseiten und vereinzelte Kommentare, nicht auf breite gesellschaftliche Diskussionen."
+}

@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "weibliche Form von Heinrich/Henrik",
+    "althochdeutsche Herkunft",
+    "Bedeutung im Sinn von „Herrin des Hauses“ / „Herrscherin der Heimat“",
+    "Namenstag",
+    "niederdeutsche und skandinavische Variante",
+    "Spitznamen wie Rike, Henny oder Henni"
+  ],
+  "confidence": 0.74,
+  "display_text": "Henrike wirkt in Deutschland überwiegend sachlich-neutral bis leicht positiv: ein klassischer, altdeutscher und eher seltener Vorname mit traditioneller Ausstrahlung. Die öffentliche Evidenz ist jedoch begrenzt und stammt vor allem aus Namenslexika.",
+  "evidence_quality": "mittel bis schwach: klare Namensbeschreibungen, aber wenig direkte Evidenz zur öffentlichen Resonanz",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Henrike",
+  "normalized_name": "henrike",
+  "overall_resonance": "Überwiegend sachlich-neutral mit leicht traditionell-positiver Färbung. Der Name wird vor allem als altdeutsche, eher seltene weibliche Form von Heinrich/Henrik beschrieben.",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt Henrike vertraut, traditionell und dennoch ungewöhnlich genug, um aufzufallen.",
+    "Der Name hat mehrere kurze Koseformen, was ihn alltagstauglich machen kann.",
+    "Wenn eine sehr moderne oder sehr häufige Wirkung gewünscht ist, könnte Henrike etwas klassischer wirken."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die verfügbare Evidenz stammt vor allem aus Namenslexika und Datenbanken, nicht aus breiter öffentlicher Debatte.",
+    "Beliebtheitsangaben sind aggregiert und sollten nur vorsichtig interpretiert werden.",
+    "Es gibt keine belastbaren Hinweise auf soziale Stigmatisierung oder starke Kontroversen rund um den Namen."
+  ],
+  "short_summary": "Henrike wird in den Quellen vor allem als seltener, altdeutscher und sachlich positiv wirkender Mädchenname beschrieben. Die Resonanz wirkt eher klassisch als trendig.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Henrike � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/H/He/Henrike/"
+    },
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Henrike: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Henrike.html"
+    }
+  ],
+  "style_effect": [
+    "traditionell",
+    "klassisch-altdeutsch",
+    "eher selten",
+    "sachlich",
+    "namenskundlich",
+    "leicht bodenständig"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland eher selten und dadurch auffälliger als sehr häufige Vornamen; die öffentliche Sichtbarkeit wirkt eher namenkundlich als diskursiv. Die Evidenz zur tatsächlichen öffentlichen Rezeption ist begrenzt."
+}

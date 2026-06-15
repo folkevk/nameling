@@ -1,0 +1,62 @@
+{
+  "associations": [
+    "altenglische Herkunft",
+    "Bedeutungserklärungen rund um Dorf/Georg/Bauer je nach Quelle",
+    "Orts- und Familiennamenbezug in England",
+    "seltene Verwendung in Deutschland",
+    "männlicher Vorname",
+    "Varianten/ähnliche Formen wie Yorck, Yorick, Jork",
+    "namenslexikalische, kulturhistorische Einordnung"
+  ],
+  "confidence": 0.84,
+  "display_text": "York ist in den verfügbaren Quellen vor allem als seltener, markanter und historisch geprägter Vorname sichtbar. Die öffentliche Resonanz wirkt überwiegend sachlich bis eher positiv-neugierig, mit starken lexikalischen und etymologischen Bezügen. Eine breite Alltagsbewertung ist kaum belegt, daher sollte der Name eher als ungewöhnlich als klar positiv oder negativ eingeordnet werden.",
+  "evidence_quality": "mittel bis gut; klar namebezogene Quellen, aber wenig unabhängige Community-Resonanz",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "York",
+  "normalized_name": "york",
+  "overall_resonance": "York wird in den verfügbaren Quellen überwiegend sachlich und eher positiv bis neugierig dargestellt. Der Name wirkt selten, markant und etymologisch interessant, ohne starke einheitliche Alltagsbewertung.",
+  "practical_notes": [
+    "Für Suchmaschinennutzer lässt sich York als seltener, prägnanter Vorname mit historisch-etymologischer Tiefe zusammenfassen.",
+    "Die Wahrnehmung dürfte eher von Seltenheit und Klang als von festen sozialen Assoziationen geprägt sein.",
+    "Je nach Umfeld kann der Name ungewöhnlich wirken, ohne dass daraus eine eindeutige Wertung folgt."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist stark lexikonbasiert; freie öffentliche Alltagsresonanz ist nur begrenzt sichtbar.",
+    "Einzelne Bedeutungsangaben unterscheiden sich je nach Quelle, daher sollte keine einzige Herleitung als allein verbindlich dargestellt werden.",
+    "Die positive Tendenz ist eher eine vorsichtige Gesamteinordnung als ein breiter Konsens."
+  ],
+  "short_summary": "York wird öffentlich meist sachlich, selten und eher positiv-neugierig wahrgenommen; der Name fällt vor allem durch seine ungewöhnliche, historisch-etymologische Prägung auf.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname York � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/Y/Yo/York/"
+    },
+    {
+      "confidence": 0.91,
+      "is_name_discussion": true,
+      "sentiment": "eher positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname York: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,York.html"
+    }
+  ],
+  "style_effect": [
+    "selten",
+    "markant",
+    "historisch/etymologisch",
+    "nordisch/altenglisch konnotiert",
+    "eher sachlich als emotional",
+    "ungewöhnlich, aber nicht klar negativ"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland eher selten und dadurch auffällig; öffentlich ist der Name vor allem in Namenslexika und Bedeutungskontexten präsent, weniger in breiten Community-Diskussionen."
+}

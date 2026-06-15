@@ -1,0 +1,59 @@
+{
+  "associations": [
+    "lateinischer Ursprung",
+    "Variante von Claudia",
+    "römisch/klassisch wirkender Name",
+    "Bedeutung und Namenstag",
+    "seltenere Verwendung in Deutschland"
+  ],
+  "confidence": 0.83,
+  "display_text": "Klaudia wird in Deutschland meist neutral und klassisch wahrgenommen. Die Schreibweise mit K gilt als weniger verbreitete Variante von Claudia und wirkt eher markant als kontrovers. Die Evidenz ist begrenzt und basiert vor allem auf Namenslexikon-Quellen.",
+  "evidence_quality": "mittel bis schwach: zwei sachliche Namenslexikon-Quellen, keine breite öffentliche Diskussionslage erkennbar",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Klaudia",
+  "normalized_name": "klaudia",
+  "overall_resonance": "Klaudia wirkt in der öffentlichen Wahrnehmung eher sachlich-traditionell und leicht selten, ohne starke emotionale Aufladung.",
+  "practical_notes": [
+    "Für eine Namenssuche ist Klaudia gut als klassische, aber etwas weniger häufige Alternative zu Claudia einzuordnen.",
+    "Die Schreibweise mit K kann als markant, aber weiterhin klar lesbar und vertraut wahrgenommen werden.",
+    "Die Quellenlage spricht eher für neutrale, lexikalische Rezeption als für starke soziale Zuschreibungen."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist begrenzt und stützt sich vor allem auf zwei Namenslexikon-Seiten.",
+    "Es gibt keinen belastbaren Hinweis auf breite öffentliche Debatten oder starke Trendwahrnehmungen.",
+    "Ein möglicher Eindruck von „ungewöhnlicher“ Schreibweise ist eher eine Frage der Häufigkeit als eine Wertung."
+  ],
+  "short_summary": "Klaudia wird in Deutschland überwiegend neutral, klassisch und eher selten wahrgenommen; die Schreibweise mit K wirkt markant, aber nicht auffällig kontrovers.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Klaudia � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/K/Kl/Klaudia/"
+    },
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Klaudia: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Klaudia.html"
+    }
+  ],
+  "style_effect": [
+    "informativ",
+    "klassisch",
+    "namenskundlich",
+    "leicht traditionell",
+    "seltenere Schreibweise mit K"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland eher bekannt, aber weniger gebräuchlich als die Schreibweise Claudia; die öffentliche Sichtbarkeit scheint daher moderat bis eher gering."
+}

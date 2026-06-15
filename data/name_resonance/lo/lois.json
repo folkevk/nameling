@@ -1,0 +1,68 @@
+{
+  "associations": [
+    "Unisex-Vorname",
+    "altgriechische und althochdeutsche Herkunftsdeutungen",
+    "biblischer Bezug",
+    "Bedeutungen wie „die Bessere“, „der ganz Weise“ oder „berühmte/r Krieger/in“",
+    "selten bis moderat verbreitet in Deutschland",
+    "Namenstag am 21. Juni"
+  ],
+  "confidence": 0.84,
+  "display_text": "Lois wirkt in Deutschland eher selten, aber klar und traditionsnah: Die Quellen beschreiben den Namen neutral bis leicht positiv, mit Unisex-Charakter und mehreren historischen Herkunfts- und Bedeutungsdeutungen. Eine breite gesellschaftliche Resonanz ist jedoch nur indirekt belegt.",
+  "evidence_quality": "mittel bis eher schwach für öffentliche Breitenresonanz; gut für namenkundliche Einordnung, aber nur begrenzt für allgemeine Markt- oder Alltagswahrnehmung.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Lois",
+  "normalized_name": "lois",
+  "overall_resonance": "Die öffentliche Wahrnehmung von Lois wirkt insgesamt neutral bis leicht positiv: Der Name wird vor allem sachlich als seltener, geschlechtsübergreifender Vorname mit tradierten Herkunfts- und Bedeutungsdeutungen beschrieben. Die Resonanz ist eher namenkundlich als alltagskulturell geprägt; belastbare Hinweise auf breite gesellschaftliche Trends sind nur begrenzt vorhanden.",
+  "practical_notes": [
+    "Für Suchende eignet sich Lois als kurzer, markanter und historisch aufgeladener Name.",
+    "Die Unisex-Verwendung kann je nach Umfeld unterschiedlich wahrgenommen werden.",
+    "Wer Wert auf eindeutige Schreibweise und Aussprache legt, sollte mögliche Rückfragen im Deutschen mitbedenken."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt überwiegend aus Namenslexika und ist daher nur indirekt aussagekräftig für öffentliche Resonanz.",
+    "Herkunft und Bedeutung werden in den Quellen nicht einheitlich dargestellt; die Deutungen sind teils mehrdeutig.",
+    "Einzelne Hinweise zur Aussprache oder zur Geschlechtszuordnung wirken eher wie Randmeinungen als wie breite gesellschaftliche Bewertung."
+  ],
+  "short_summary": "Lois wird in den Quellen überwiegend neutral bis leicht positiv und als seltener, geschlechtsübergreifender Name mit traditioneller Herkunft beschrieben.",
+  "source_count": 3,
+  "sources": [
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Lois � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/L/Lo/Lois/"
+    },
+    {
+      "confidence": 0.88,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Lois � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/L/Lo/Lois/"
+    },
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "mixed",
+      "source_type": "web",
+      "title": "&#9655; Vorname Lois: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Lois.html"
+    }
+  ],
+  "style_effect": [
+    "lexikalisch",
+    "historisch-traditionell",
+    "sachlich",
+    "seltenheitsbetont",
+    "unisex-orientiert"
+  ],
+  "usable_evidence_count": 3,
+  "visibility": "Eher gering bis moderat sichtbar in Deutschland; in den Quellen wird Lois als selten bis moderat verbreitet beschrieben. Die öffentliche Aufmerksamkeit scheint vor allem über Namenslexika und Datenbanken zu laufen, nicht über starke mediale Präsenz."
+}

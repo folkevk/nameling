@@ -1,0 +1,64 @@
+{
+  "associations": [
+    "französische Form von Magdalena",
+    "biblischer bzw. hebräischer Ursprung",
+    "Bedeutung: „die aus Magdala Stammende“",
+    "mögliche Deutung: „die Erhabene“",
+    "Namenstag",
+    "Spitznamen wie Maddy oder Maddie",
+    "in Deutschland bekannt und etabliert"
+  ],
+  "confidence": 0.86,
+  "display_text": "Madeleine wird in Deutschland überwiegend positiv und als klassisch-elegant wahrgenommen. Die verfügbaren Quellen betonen vor allem Herkunft, Bedeutung und die französische Form von Magdalena. Die Evidenz ist dabei eher namenskundlich als breit öffentlich-diskursiv, daher sollte die Resonanz vorsichtig interpretiert werden.",
+  "evidence_quality": "mittel: gute namenskundliche Abdeckung, aber nur begrenzte direkte öffentliche Meinungsäußerung",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Madeleine",
+  "normalized_name": "madeleine",
+  "overall_resonance": "Überwiegend positiv und sachlich-informativ. In der verfügbaren Evidenz erscheint Madeleine als klassischer, französisch geprägter Vorname mit klarer kultureller und sprachlicher Einordnung; die öffentliche Wahrnehmung wirkt eher wertschätzend als kontrovers.",
+  "practical_notes": [
+    "Für Suchmaschinen und Namenskontexte wirkt Madeleine eher klassisch als modern-experimentell.",
+    "Der Name wird meist mit französischer Eleganz und einer traditionellen Herkunft verbunden.",
+    "Kurzformen und Varianten können die persönliche Wahrnehmung je nach Umfeld leicht verändern."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz zur öffentlichen Resonanz ist begrenzt und stammt überwiegend aus Namensportalen.",
+    "Positive Bewertungen in einzelnen Quellen sollten nicht als allgemeine Meinung aller Sprecherinnen und Sprecher verstanden werden.",
+    "Keine Hinweise auf gesellschaftliche Stigmatisierung in der vorliegenden Evidenz."
+  ],
+  "short_summary": "Madeleine wird im deutschsprachigen Raum überwiegend positiv, klassisch und elegant wahrgenommen; die Evidenz ist vor allem namenskundlich und weniger breit öffentlich diskutierend.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Madeleine � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/M/Ma/Madeleine/"
+    },
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Madeleine: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Madeleine.html"
+    }
+  ],
+  "style_effect": [
+    "elegant",
+    "klassisch",
+    "französisch",
+    "weiblich",
+    "zeitlos",
+    "namenskundlich",
+    "freundlich",
+    "etwas gehoben"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Mittlere Sichtbarkeit im deutschsprachigen Namenskontext. Der Name ist bekannt und in Namenslexika gut präsent, aber die Evidenz zur öffentlichen Resonanz stammt vor allem aus Namensdatenbanken und nicht aus breiter freier Diskussion."
+}

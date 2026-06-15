@@ -1,0 +1,63 @@
+{
+  "associations": [
+    "althochdeutsche Herkunft",
+    "Kurzform von Ernestine bzw. Ernesta",
+    "Bedeutung: die Ernste / die Entschlossene",
+    "früher deutlich verbreiteter",
+    "heute eher historisch",
+    "teilweise durch „Klein Erna“ kulturell vorbelastet",
+    "vereinzelt wieder etwas positiver wahrgenommen"
+  ],
+  "confidence": 0.84,
+  "display_text": "Erna wirkt in Deutschland eher traditionell und historisch. Der Name ist heute selten, klar und schlicht, mit der Bedeutung „die Ernste / die Entschlossene“. Die öffentliche Wahrnehmung ist gemischt: eher altmodisch, teils kulturell vorgeprägt, zuletzt aber nicht nur negativ, sondern auch wieder etwas neutraler bis positiver gelesen.",
+  "evidence_quality": "mittel bis schwach: zwei namenslexikalische Quellen mit ähnlichen Aussagen, aber wenig direkte aktuelle öffentliche Diskussion.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Erna",
+  "normalized_name": "erna",
+  "overall_resonance": "Eher traditionell und historisch geprägt, mit gemischter öffentlicher Wahrnehmung. Der Name wirkt im deutschsprachigen Raum heute selten und altmodisch, wird aber zugleich als klar, schlicht und in seiner Bedeutung als „die Ernste / die Entschlossene“ verständlich beschrieben.",
+  "practical_notes": [
+    "Für eine nüchterne, traditionelle Namenswirkung gut geeignet.",
+    "Wer einen modernen oder trendigen Eindruck sucht, wird den Namen eher als altmodisch empfinden.",
+    "In kurzen Vorstellungszusammenhängen wirkt Erna prägnant und leicht merkbar.",
+    "Die Bedeutung ist klar und lässt sich gut erklären."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz zur aktuellen öffentlichen Resonanz ist eher schwach und stützt sich vor allem auf Namenslexika statt auf breite Diskussionen.",
+    "Die historische negative Konnotation durch „Klein Erna“ ist eine kulturelle Assoziation, kein allgemeingültiges Urteil über den Namen.",
+    "Mögliche Alter- oder Modeassoziationen sind gesellschaftliche Wahrnehmungen und keine objektiven Eigenschaften des Namens."
+  ],
+  "short_summary": "Erna wird in Deutschland vor allem als klassischer, historisch geprägter Mädchenname wahrgenommen. Die Resonanz ist gemischt: sachlich und traditionsnah, teils mit altmodischen oder kulturell vorbelasteten Assoziationen.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.94,
+      "is_name_discussion": true,
+      "sentiment": "mixed",
+      "source_type": "web",
+      "title": "Vorname Erna � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/E/Er/Erna/"
+    },
+    {
+      "confidence": 0.86,
+      "is_name_discussion": true,
+      "sentiment": "mixed",
+      "source_type": "web",
+      "title": "&#9655; Vorname Erna: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Erna.html"
+    }
+  ],
+  "style_effect": [
+    "kurz und klar",
+    "klassisch-traditionell",
+    "historisch geerdet",
+    "eher altmodisch als modern",
+    "sachlich im Klang",
+    "leicht ernst wirkend"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Die Sichtbarkeit ist eher gering: Erna ist kein moderner Trendname und wird heute deutlich seltener vergeben als früher. In der öffentlichen Wahrnehmung steht daher mehr die historische Einordnung als eine aktuelle breite Debatte im Vordergrund."
+}

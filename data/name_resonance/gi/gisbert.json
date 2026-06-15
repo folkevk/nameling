@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "männlicher Vorname",
+    "altdeutsche Herkunft",
+    "selten in Deutschland",
+    "Namenstag",
+    "Namensdeutung und Herkunft",
+    "Spitznamen wie Gisi, Gismo oder Giso"
+  ],
+  "confidence": 0.92,
+  "display_text": "Gisbert wirkt öffentlich vor allem traditionell und selten: ein altdeutsch-historischer Jungenname mit neutraler, leicht altmodischer Resonanz. Die Evidenz ist vor allem lexikalisch und insgesamt begrenzt.",
+  "evidence_quality": "Mittel bis schwach: zwei einschlägige Namenslexikon-Quellen, aber keine breite öffentliche Rezeption oder Diskussionsbasis.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Gisbert",
+  "normalized_name": "gisbert",
+  "overall_resonance": "Gisbert wird öffentlich vor allem sachlich-lexikalisch wahrgenommen: als männlicher, altdeutsch wirkender und eher seltener Vorname mit historischer Namensdeutung. Die Resonanz ist überwiegend neutral bis leicht nostalgisch/altmodisch, ohne starke positive oder negative Debatte.",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt Gisbert eher traditionell und ungewöhnlich.",
+    "Der Name kann als klar historisch und markant wahrgenommen werden.",
+    "Wenn moderne oder häufige Namen gesucht werden, fällt Gisbert eher aus dem üblichen Rahmen."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Datenbasis ist schwach und stützt sich vor allem auf Namenslexikon-Seiten.",
+    "Einzelne Angaben zur Bedeutung können je nach Quelle variieren.",
+    "Es gibt keine belastbare öffentliche Debatte, daher sollte keine starke Stimmung unterstellt werden."
+  ],
+  "short_summary": "Gisbert wird meist als seltener, altdeutsch-historischer Jungenname mit neutraler, leicht altmodischer Wirkung beschrieben.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.95,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Gisbert � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/G/Gi/Gisbert/"
+    },
+    {
+      "confidence": 0.94,
+      "is_name_discussion": true,
+      "sentiment": "mixed",
+      "source_type": "web",
+      "title": "&#9655; Vorname Gisbert: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Gisbert.html"
+    }
+  ],
+  "style_effect": [
+    "altdeutsch",
+    "historisch",
+    "lexikalisch",
+    "selten",
+    "etwas veraltet wirkend",
+    "namenkundlich"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Niedrig bis mittel: Der Name erscheint in Namenslexika und wird dort erklärt, aber es gibt keine breite öffentliche Diskussion. Die Evidenzlage ist begrenzt und basiert hauptsächlich auf zwei Namensseiten."
+}

@@ -1,0 +1,62 @@
+{
+  "associations": [
+    "altnordische Herkunft",
+    "Bedeutung: die Kämpferin / die Kämpferische",
+    "weiblicher Vorname",
+    "selten in Deutschland",
+    "skandinavische Verbreitung",
+    "Namenstag am 21. Februar",
+    "Spitznamen wie Guni oder Gundi"
+  ],
+  "confidence": 0.82,
+  "display_text": "Gunhild wirkt in den verfügbaren Quellen traditionell, altnordisch und eher selten. Die öffentliche Rezeption ist überwiegend neutral bis leicht positiv, vor allem wegen Herkunft, Bedeutung und Namenstag. Eine breite Alltagsresonanz in Deutschland ist aus der Evidenz jedoch nur eingeschränkt erkennbar.",
+  "evidence_quality": "mittel bis gut, aber vor allem lexikalisch und nur begrenzt öffentlich-rezeptiv",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Gunhild",
+  "normalized_name": "gunhild",
+  "overall_resonance": "Gunhild wird in den vorliegenden Quellen überwiegend nüchtern bis leicht positiv beschrieben: als seltener, traditionell-altnordischer Vorname mit klarer Bedeutung und Namenstag. Eine breite öffentliche Debatte oder stark ausgeprägte Alltagsresonanz in Deutschland ist aus der Evidenz nicht erkennbar.",
+  "practical_notes": [
+    "Der Name wirkt traditionell und markant, aber nicht modern-mainstream.",
+    "Die Aussprache und Schreibweise sind klar, die Seltenheit kann ihn jedoch auffälliger machen.",
+    "Für Namenssuchende, die einen historischen und ungewöhnlichen Vornamen suchen, kann Gunhild passend wirken."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist begrenzt und stammt vor allem aus Namenslexika; sie bildet öffentliche Resonanz nur eingeschränkt ab.",
+    "Die Einschätzungen sind eher beschreibend als meinungsstark, daher ist die Rezeption nur vorsichtig ableitbar.",
+    "Sichtbarkeit oder Beliebtheit in der Allgemeinbevölkerung lässt sich aus diesen Quellen nicht belastbar quantifizieren."
+  ],
+  "short_summary": "Gunhild wird als seltener, altnordischer und traditioneller Mädchenname mit positiver Bedeutungsassoziation beschrieben; breite öffentliche Resonanz in Deutschland ist kaum belegt.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Gunhild � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/G/Gu/Gunhild/"
+    },
+    {
+      "confidence": 0.91,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Gunhild: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Gunhild.html"
+    }
+  ],
+  "style_effect": [
+    "traditionell",
+    "altnordisch",
+    "selten",
+    "ausgefallen",
+    "namenskundlich",
+    "klassisch-antik klingend"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Eher gering in Deutschland; die Hinweise stammen fast nur aus Namenslexika und nicht aus breit gestreuten öffentlichen Meinungen."
+}

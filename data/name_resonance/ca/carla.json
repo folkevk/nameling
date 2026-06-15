@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "die Freie",
+    "die Helle",
+    "die Strahlende",
+    "weibliche Form von Karl",
+    "althochdeutsche bzw. lateinische Herleitung",
+    "Namenstag",
+    "Beliebtheit in Deutschland",
+    "international verbreitet"
+  ],
+  "confidence": 0.83,
+  "display_text": "Carla wirkt in der öffentlichen Wahrnehmung überwiegend positiv und klassisch. Der Name wird als etabliert, international verbreitet und mit Bedeutungen wie „die Freie“ verknüpft. Die Evidenz ist dabei eher namenskundlich als meinungsbasiert, also vorsichtig zu lesen.",
+  "evidence_quality": "mittel bis gut; inhaltlich klare Namensquellen, aber nur wenig direkte öffentliche Meinungsresonanz",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Carla",
+  "normalized_name": "carla",
+  "overall_resonance": "Überwiegend positiv bis neutral. Carla wird in den vorliegenden Quellen vor allem als etablierter, klassischer und international gebräuchlicher Vorname dargestellt.",
+  "practical_notes": [
+    "Für Suchende wirkt Carla vertraut, unkompliziert und gut anschlussfähig im deutschen Sprachraum.",
+    "Die Quellen betonen vor allem Herkunft und Bedeutung, nicht kontroverse Zuschreibungen.",
+    "Die Datenlage spricht eher für eine positive Grundwahrnehmung als für starke emotionale Aufladung."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz für echte öffentliche Bewertung ist begrenzt; die Quellen sind überwiegend Lexikon- und Informationsseiten.",
+    "Es liegen keine klaren Hinweise auf Stigmatisierung oder negative gesellschaftliche Konnotationen vor."
+  ],
+  "short_summary": "Carla wird in den verfügbaren Quellen meist freundlich und klassisch eingeordnet. Die öffentliche Resonanz wirkt eher positiv, ist aber vor allem durch Namenslexika belegt und nur begrenzt durch direkte Bewertungen.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.99,
+      "is_name_discussion": true,
+      "sentiment": "positive",
+      "source_type": "web",
+      "title": "Vorname Carla � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/C/Ca/Carla/"
+    },
+    {
+      "confidence": 0.91,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Carla: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Carla.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "etabliert",
+    "international verständlich",
+    "namenskundlich positiv gerahmt",
+    "modern-traditionell"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Gut sichtbar in Namenslexika und Vorname-Portalen; die öffentliche Resonanz ist eher indirekt über Bedeutung, Herkunft und Beliebtheit erkennbar als über echte Meinungsäußerungen."
+}

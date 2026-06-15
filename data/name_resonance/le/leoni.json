@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "weiblicher Vorname",
+    "Bedeutung: die Löwin",
+    "altgriechische und lateinische Herkunft",
+    "Variante bzw. Formenkreis um Leonie/Leona",
+    "weibliche Form zu Leon/Leo",
+    "Namenstag-Kontext",
+    "in Deutschland verbreitet"
+  ],
+  "confidence": 0.88,
+  "display_text": "Leoni wirkt in der öffentlichen Wahrnehmung überwiegend neutral bis leicht positiv. Der Name ist als weiblicher Vorname bekannt, wird mit der Bedeutung „die Löwin“ verbunden und hat eine klare altgriechisch-lateinische Namensgeschichte. Insgesamt erscheint er modern, freundlich und vertraut, ohne starke negative Konnotationen.",
+  "evidence_quality": "gut, mit einer starken und einer mittelstarken, namenbezogenen Quelle; insgesamt ausreichend belastbar für eine vorsichtige Zusammenfassung.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Leoni",
+  "normalized_name": "leoni",
+  "overall_resonance": "Überwiegend neutral bis leicht positiv. Der Name wird vor allem als weiblicher Vorname mit klarer, traditionell wirkender Namensbedeutung wahrgenommen; die öffentliche Diskussion ist eher namenskundlich als emotional geprägt.",
+  "practical_notes": [
+    "Für die Namenssuche wirkt Leoni unkompliziert, bekannt und gut aussprechbar.",
+    "Die Schreibweise ist kurz und eindeutig, kann aber mit Leonie verwechselt werden.",
+    "Die Bedeutung ist in der öffentlichen Darstellung meist positiv besetzt, ohne überladen zu wirken."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Es gibt keine starke negative Stigmatisierung in der vorliegenden Evidenz.",
+    "Die zweite Quelle ist nur mittelstark belastbar, da sie teilweise aus Navigations- und Metaelementen besteht.",
+    "Beliebtheit und Verbreitung können regional und zeitlich schwanken."
+  ],
+  "short_summary": "Leoni wird in Deutschland meist neutral bis leicht positiv wahrgenommen: ein bekannter, weiblicher Vorname mit der Bedeutung „die Löwin“, klarer Herkunft und moderner, zugleich vertrauter Wirkung.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Leoni � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/L/Le/Leoni/"
+    },
+    {
+      "confidence": 0.66,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Leoni: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Leoni.html"
+    }
+  ],
+  "style_effect": [
+    "klanglich weich und modern",
+    "gleichzeitig vertraut und etabliert",
+    "kurz, klar und leicht merkbar",
+    "wirkt durch die Löwin-Bedeutung kräftig und symbolisch",
+    "eher sachlich-klassisch als extravagant"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland gut sichtbar und bekannt; die Evidenz beschreibt den Namen als verbreitet und in Beliebtheitskontexten präsent."
+}

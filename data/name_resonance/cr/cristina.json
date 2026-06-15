@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "Bedeutung im christlichen Namensumfeld: „die Christin“ / „Anhängerin Christi“",
+    "italienische, spanische, portugiesische und rumänische Namensform",
+    "Verbindung zu Christina / Christine",
+    "Namenstag wird genannt",
+    "Spitznamen wie Cris oder Tina werden erwähnt",
+    "im deutschen Kontext eher selten bis mäßig bekannt"
+  ],
+  "confidence": 0.9,
+  "display_text": "Cristina wirkt in Deutschland überwiegend sachlich-neutral bis leicht positiv. Der Name wird vor allem als internationale Variante von Christina verstanden, mit klassischer, eleganter und gut anschlussfähiger Wirkung. Hinweise auf negative öffentliche Stigmatisierung gibt es in der vorliegenden Evidenz nicht.",
+  "evidence_quality": "Gut: zwei klare Namensquellen mit direkter Beschreibung von Bedeutung, Herkunft und üblicher Einordnung; die Datenlage zur breiten öffentlichen Resonanz bleibt jedoch indirekt.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Cristina",
+  "normalized_name": "cristina",
+  "overall_resonance": "Überwiegend sachlich-neutrale bis leicht positive öffentliche Wahrnehmung. Cristina wird in deutschsprachigen Namensquellen vor allem als klare, international gebräuchliche Form von Christina beschrieben.",
+  "practical_notes": [
+    "Für Suchende wirkt der Name gut verständlich und international anschlussfähig.",
+    "Die Schreibweise mit -a statt -h kann als eigenständige, mediterran geprägte Variante wahrgenommen werden.",
+    "Keine belastbaren Hinweise auf Stigmatisierung oder stark polarisierende Assoziationen in der vorliegenden Evidenz."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz bezieht sich vor allem auf Namenslexika und weniger auf breite Alltagsresonanz.",
+    "Mögliche Meinungen aus Kommentaren sind nur begrenzt aussagekräftig für die öffentliche Wahrnehmung insgesamt."
+  ],
+  "short_summary": "Cristina wird im deutschsprachigen Raum meist neutral bis leicht positiv wahrgenommen: international, klassisch und klar als Variante von Christina erkennbar.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Cristina � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/C/Cr/Cristina/"
+    },
+    {
+      "confidence": 0.92,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Cristina: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Cristina.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "international",
+    "elegant",
+    "verständlich",
+    "namenskundlich",
+    "eher modern im Klang"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Im deutschsprachigen Raum eher bekannt, aber nicht alltäglich; die Wahrnehmung wirkt eher namenskundlich als emotional aufgeladen."
+}

@@ -1,0 +1,64 @@
+{
+  "associations": [
+    "Loreley-/Rhein-Legende",
+    "Wasserfrau / Sage",
+    "rauschender Fels",
+    "altgermanische und keltische Bezüge",
+    "geografisch inspirierter Vorname",
+    "englische Schreibvariante Lorelai",
+    "Spitznamen wie Lori, Lore, Lorli"
+  ],
+  "confidence": 0.87,
+  "display_text": "Lorelei wird in Deutschland meist als seltener, klangvoller und literarisch-mythologisch geprägter Mädchenname wahrgenommen. Die verfügbare Evidenz deutet auf eine eher positive, wertschätzende Resonanz hin, mit starken Assoziationen zur Loreley-Sage und einem poetischen Namensbild.",
+  "evidence_quality": "mittel bis gut: zwei klare namenskundliche Webquellen, überwiegend direkt zum Vornamen; jedoch keine breitere empirische Alltagsstudie zur Rezeption.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Lorelei",
+  "normalized_name": "lorelei",
+  "overall_resonance": "Lorelei wird in Deutschland überwiegend als klangvoller, literarisch und mythologisch geprägter Mädchenname wahrgenommen. Die öffentliche Darstellung ist eher positiv bis neutral: auffällig, selten und mit klarer kultureller Assoziation zur Loreley-Sage.",
+  "practical_notes": [
+    "Für die öffentliche Wahrnehmung ist vor allem der mythologische und poetische Klang prägend.",
+    "Die Schreibweise Lorelei ist im Deutschen verständlich, aber nicht alltagsüblich.",
+    "Wer einen seltenen, markanten Vornamen sucht, findet hier einen Namen mit klarer kultureller Geschichte.",
+    "Die Namenswirkung ist stark durch die Loreley-Assoziation geprägt."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt vor allem aus Namenslexika und ist daher begrenzt belastbar für eine breite Alltagsrezeption.",
+    "Ein möglicher exotischer oder ungewöhnlicher Eindruck ist eher eine Stilwirkung als ein gesellschaftliches Vorurteil.",
+    "Keine Hinweise auf eine belastbare negative Stigmatisierung in der vorliegenden Evidenz."
+  ],
+  "short_summary": "Lorelei gilt in Deutschland als seltener, klangvoller und mythologisch aufgeladener Mädchenname mit eher positiver, wertschätzender Resonanz.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.99,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Lorelei � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/L/Lo/Lorelei/"
+    },
+    {
+      "confidence": 0.91,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Lorelei: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Lorelei.html"
+    }
+  ],
+  "style_effect": [
+    "klangvoll",
+    "elegant",
+    "märchenhaft",
+    "literarisch-mythologisch",
+    "selten",
+    "weiblich",
+    "international anschlussfähig"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Eher gering bis moderat: Der Name ist bekannt, wirkt aber nicht massenhaft verbreitet. In den verfügbaren Namensquellen wird er als selten bis mäßig verbreitet beschrieben."
+}

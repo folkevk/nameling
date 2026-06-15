@@ -1,0 +1,69 @@
+{
+  "associations": [
+    "Kurzform/Koseform",
+    "mögliche Verbindung zu Johannes/Johanna",
+    "hebräische Herkunft",
+    "Bedeutung in Richtung \"Gott ist gnädig\"",
+    "selten in Deutschland",
+    "Namenstag",
+    "eigenständig oder als Kurzname nutzbar"
+  ],
+  "confidence": 0.78,
+  "display_text": "Jo wird in den vorliegenden Quellen vor allem als kurze, unisex nutzbare Namensform mit hebräischer Herkunft beschrieben. Die öffentliche Rezeption wirkt überwiegend neutral bis leicht positiv, aber eher schwach sichtbar, da die Evidenz hauptsächlich aus Namenslexika besteht.",
+  "evidence_quality": "mittel bis schwach: mehrere übereinstimmende Namensseiten, aber kaum direkte öffentliche Meinungsäußerungen oder breite Diskussionsresonanz.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Jo",
+  "normalized_name": "jo",
+  "overall_resonance": "Überwiegend neutral bis leicht positiv, aber mit schwacher öffentlicher Evidenz. \"Jo\" wird vor allem sachlich als kurze, unisex nutzbare Namensform wahrgenommen.",
+  "practical_notes": [
+    "Für Suchmaschinen- und Lexikontexte eignet sich die Einordnung als kurze, neutrale, unisex verwendbare Namensform.",
+    "Bei der Bewertung sollte man zwischen Namensbedeutung und tatsächlicher öffentlicher Wahrnehmung unterscheiden.",
+    "Keine Aussagen über Trägerinnen oder Träger ableiten."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist vor allem aus Namenslexika und Informationsseiten gewonnen; echte öffentliche Resonanz ist nur schwach sichtbar.",
+    "Keine belastbaren Hinweise auf starke positive oder negative Massenwahrnehmung.",
+    "Wenn überhaupt, wirkt der Name eher unauffällig als polarisierend."
+  ],
+  "short_summary": "Jo wirkt in Deutschland eher selten, kurz und neutral bis leicht positiv wahrgenommen. Die vorhandene Evidenz ist jedoch vor allem lexikalisch und damit nur begrenzt aussagekräftig.",
+  "source_count": 3,
+  "sources": [
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Jo � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/J/Jo/Jo/"
+    },
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Jo � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/J/Jo/Jo/"
+    },
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Jo: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Jo.html"
+    }
+  ],
+  "style_effect": [
+    "sehr kurz und prägnant",
+    "informell bis modern",
+    "unisex/genderneutral lesbar",
+    "wirkt eher als Kurz- oder Koseform",
+    "sachlich und unaufgeregt"
+  ],
+  "usable_evidence_count": 3,
+  "visibility": "Eher geringe Sichtbarkeit in Deutschland; in den vorliegenden Quellen erscheint der Name hauptsächlich als lexikalischer Eintrag und weniger als Gegenstand breiter öffentlicher Diskussion."
+}

@@ -1,0 +1,59 @@
+{
+  "associations": [
+    "weiblicher Vorname",
+    "skandinavische Form von Christin",
+    "Bedeutung: Anhängerin Christi / christliche Frau",
+    "Variante von Christine/Kristine",
+    "früher in Deutschland beliebter, heute seltener"
+  ],
+  "confidence": 0.86,
+  "display_text": "Kristin wirkt in den Quellen freundlich-neutral, klassisch und skandinavisch geprägt. Der Name ist bekannt, aber die Evidenz zur öffentlichen Rezeption ist eher schwach, da vor allem Namenslexika statt echte Meinungsäußerungen vorliegen.",
+  "evidence_quality": "mittel bis schwach für öffentliche Resonanz, gut für Namensbedeutung und Herkunft",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Kristin",
+  "normalized_name": "kristin",
+  "overall_resonance": "Kristin wird in der vorliegenden Evidenz überwiegend sachlich und eher freundlich-neutral beschrieben. Der Name wirkt vertraut, klassisch und als moderne bzw. skandinavisch geprägte Form von Christin/Christine bekannt. Eine starke öffentliche Meinungsbildung ist jedoch nicht erkennbar; die Resonanz stützt sich vor allem auf Namenslexika statt auf echte Diskussionen.",
+  "practical_notes": [
+    "Für eine Namenssuche lässt sich Kristin als vertrauter, unkomplizierter und eher zeitloser Vorname einordnen.",
+    "Die Schreibweise wirkt klar und etabliert, mit mehreren naheliegenden Koseformen.",
+    "Da die Quellen vor allem beschreibend sind, sollte man keine starke Imageaussage daraus ableiten."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist überwiegend lexikalisch; echte öffentliche Resonanz ist nur eingeschränkt ableitbar.",
+    "Keine belastbaren Hinweise auf starke negative oder positive Stigmatisierung in den Quellen.",
+    "Einzelne musikalische oder Spitznamen-Bezüge sind eher beiläufig und nicht repräsentativ."
+  ],
+  "short_summary": "Kristin wird meist neutral bis leicht positiv als klassischer, skandinavisch geprägter Vorname wahrgenommen. Die Quellen sind jedoch überwiegend informativ, daher ist die öffentliche Resonanz nur begrenzt belegbar.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Kristin � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/K/Kr/Kristin/"
+    },
+    {
+      "confidence": 0.81,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Kristin: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Kristin.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "modern-kurz",
+    "skandinavisch geprägt",
+    "sachlich",
+    "alltagsnah"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Eher mittel bis gering: Der Name ist bekannt, aber in den Quellen steht die Namensbeschreibung deutlich stärker im Vordergrund als öffentliche Bewertung oder breite aktuelle Diskussion."
+}

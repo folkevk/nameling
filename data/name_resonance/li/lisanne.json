@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "Herkunft und Bedeutung werden in Namensquellen betont",
+    "als weiblicher Vorname im deutschen Sprachraum verortet",
+    "teils mit hebräischen Bedeutungsdeutungen verbunden",
+    "Doppelform aus Lisa und Anne wird erwähnt",
+    "Namenstag-Angaben finden sich in den Quellen",
+    "selten bis mäßig verbreitet beschrieben"
+  ],
+  "confidence": 0.8,
+  "display_text": "Lisanne wird überwiegend freundlich und sachlich-positiv wahrgenommen. In den Quellen erscheint der Name als eher selten bis mäßig verbreitet, mit klaren Bezügen zu Herkunft, Bedeutung und Namenstag. Die Evidenz ist jedoch vor allem namenskundlich und nicht breit öffentlich diskutiert.",
+  "evidence_quality": "mittel bis schwach; inhaltlich klare Namensbeschreibungen, aber nur indirekte Resonanz-Evidenz",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Lisanne",
+  "normalized_name": "lisanne",
+  "overall_resonance": "Überwiegend freundlich und sachlich-positiv, mit einer eher ruhigen, unaufgeregten öffentlichen Wahrnehmung.",
+  "practical_notes": [
+    "Für Suchmaschinen- und Namenskontexte wirkt Lisanne klar, zugänglich und leicht positiv konnotiert.",
+    "Die geringe bis mittlere Häufigkeit kann als individuell wahrgenommen werden.",
+    "Die Quellenlage reicht gut für eine vorsichtige Einordnung, aber nicht für eine harte Popularitätsaussage."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt fast ausschließlich aus Namensdatenbanken und einzelnen Namensseiten, nicht aus breiter öffentlicher Meinungsdiskussion.",
+    "Aussagen zur Resonanz sind daher nur indirekt ableitbar.",
+    "Seltenheitsangaben sind quellenabhängig und nicht als exakte Statistik zu verstehen."
+  ],
+  "short_summary": "Lisanne wird in den vorliegenden Quellen freundlich, sachlich und eher positiv beschrieben. Der Name gilt als eher selten bis mäßig verbreitet und wirkt dadurch individuell, ohne starke öffentliche Kontroversen.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.95,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Lisanne � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/L/Li/Lisanne/"
+    },
+    {
+      "confidence": 0.89,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Lisanne: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Lisanne.html"
+    }
+  ],
+  "style_effect": [
+    "weiblich und klassisch-modern wirkend",
+    "sanft, freundlich und angenehm klingend",
+    "leicht elegant durch die Doppelform-Anmutung",
+    "namenskundlich gut anschlussfähig durch klare Herkunfts- und Bedeutungsangaben",
+    "durch die Seltenheit etwas individuell statt allgegenwärtig"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Im deutschsprachigen Raum bekannt, aber eher nicht sehr häufig; die öffentliche Sichtbarkeit wirkt daher moderat bis eher gering."
+}

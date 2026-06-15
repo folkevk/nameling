@@ -1,0 +1,66 @@
+{
+  "associations": [
+    "altdeutsch",
+    "willensstark",
+    "Beschützer",
+    "entschlossener Verteidiger",
+    "mittelalterlich/historisch",
+    "klassischer Jungenname",
+    "Tradition",
+    "Namenstag",
+    "Kurzformen wie Willi, Willy, Wim, William",
+    "früher sehr beliebt",
+    "heute teils wieder im Trend"
+  ],
+  "confidence": 0.93,
+  "display_text": "Wilhelm wird in den verfügbaren Quellen überwiegend positiv und traditionell wahrgenommen: klassisch, historisch und würdevoll. Der Name wirkt eher seriös als modern, gilt aber als gut bekannt und teils wieder im Aufwind. Typische Assoziationen sind Willensstärke, Schutz und die lange deutsche Namenstradition.",
+  "evidence_quality": "mittel bis gut: zwei einschlägige Namensseiten mit klarer Diskussion des Vornamens, aber keine repräsentative Umfrage oder breitere öffentliche Erhebung.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Wilhelm",
+  "normalized_name": "wilhelm",
+  "overall_resonance": "Wilhelm wird in den Quellen überwiegend traditionell, positiv und wertschätzend wahrgenommen. Der Name wirkt klassisch, historisch und eher würdevoll als modern-verspielt.",
+  "practical_notes": [
+    "Für Suchende, die einen etablierten, traditionellen Vornamen mit klarer deutscher Verankerung suchen, ist Wilhelm gut anschlussfähig.",
+    "Die geläufigen Kose- und Kurzformen können den Namen alltagstauglicher und weicher wirken lassen.",
+    "Der Name kann je nach Umfeld eher altmodisch als modern klingen, was aber auch als stilvolle Klassik wahrgenommen werden kann."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz basiert vor allem auf Namenslexika und Beschreibungen des Namens selbst, nicht auf breiter öffentlicher Meinungsforschung.",
+    "Einzelne Formulierungen stammen aus subjektiven Kommentaren; sie sollten als Eindrücke, nicht als Fakten verstanden werden."
+  ],
+  "short_summary": "Wilhelm gilt öffentlich vor allem als klassischer, traditionsreicher und positiv besetzter Vorname mit historischer Tiefe und leichtem Comeback.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "Vorname Wilhelm � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/W/Wi/Wilhelm/"
+    },
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Wilhelm: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Wilhelm.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "historisch",
+    "traditionell",
+    "würdevoll",
+    "konservativ im Stil",
+    "eher stark als niedlich",
+    "mit offizieller, seriöser Anmutung"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Im deutschsprachigen Raum klar bekannt, aber heute eher seltener als in früheren Generationen; zugleich wird eine leichte Wiederbelebung bzw. ein kleiner Trend erwähnt."
+}

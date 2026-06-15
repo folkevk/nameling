@@ -1,0 +1,63 @@
+{
+  "associations": [
+    "lateinischer Ursprung",
+    "römisch",
+    "Julius Caesar bzw. römische Antike",
+    "klassischer Jungenname",
+    "zeitlos",
+    "beliebt in Deutschland",
+    "Namenstag",
+    "Spitznamen wie Juli oder Jules"
+  ],
+  "confidence": 0.92,
+  "display_text": "Julius wirkt in Deutschland überwiegend positiv: ein klassischer, zeitloser und gut bekannter Vorname mit römisch-lateinischer, traditionsreicher Anmutung.",
+  "evidence_quality": "Gut bis sehr gut: zwei namebezogene, inhaltlich passende Quellen mit hoher Relevanz; Tonfall überwiegend indirekt aus redaktioneller Beschreibung abgeleitet.",
+  "generated_at": "2026-06-12T06:08:03Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Julius",
+  "normalized_name": "julius",
+  "overall_resonance": "Überwiegend positiv und wertschätzend, mit klar klassisch-traditioneller Ausstrahlung.",
+  "practical_notes": [
+    "Für Namenssuchende wirkt Julius meist vertraut, elegant und traditionsnah.",
+    "Der Name ist leicht einzuordnen und im deutschsprachigen Raum gut anschlussfähig.",
+    "Kurzformen sind möglich, die Hauptform bleibt jedoch klar und markant."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die vorliegenden Quellen sind vor allem redaktionell-lexikalisch und spiegeln keine direkten öffentlichen Meinungen wider.",
+    "Eine mögliche positive Tendenz kann aus der beschreibenden Herkunfts- und Beliebtheitsdarstellung stammen.",
+    "Keine Hinweise auf soziale Stigmatisierung in der Evidenz."
+  ],
+  "short_summary": "Julius wird in Deutschland meist als klassischer, zeitloser und sehr bekannter Vorname mit positiver, traditionsreicher Ausstrahlung wahrgenommen.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "positive",
+      "source_type": "web",
+      "title": "Vorname Julius � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/J/Ju/Julius/"
+    },
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Julius: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Julius.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "zeitlos",
+    "gebildet/namenkundlich",
+    "römisch-lateinisch",
+    "traditionell, aber nicht altmodisch",
+    "seriös und vertraut"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Sehr hoch: Julius ist in Deutschland gut bekannt und als Vorname breit geläufig."
+}

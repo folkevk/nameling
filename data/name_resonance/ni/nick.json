@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "Kurzform von Nikolaus/Nicholas",
+    "Bedeutung: „Sieg des Volkes“",
+    "englischsprachiger bzw. internationaler Klang",
+    "seit Ende des 20. Jahrhunderts auch in Deutschland vergeben",
+    "kurz und klangvoll",
+    "Namenstag wird genannt (je nach Quelle 6. Dezember bzw. 10. September)"
+  ],
+  "confidence": 0.76,
+  "display_text": "Nick gilt in den vorliegenden Quellen als kurzer, klangvoller und international vertrauter Vorname mit positiver, eher neutral-beschreibender Resonanz. Die Evidenz ist jedoch begrenzt und stammt vor allem aus Namenslexika.",
+  "evidence_quality": "mittel bis schwach: zwei ähnliche Namenslexika, überwiegend positiv-beschreibend, aber nur eingeschränkte Breitenresonanz",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Nick",
+  "normalized_name": "nick",
+  "overall_resonance": "Der Vorname Nick wird in den vorliegenden Quellen überwiegend positiv und beschreibend wahrgenommen: kurz, klangvoll, international vertraut und als Kurzform von Nikolaus/Nicholas mit der Bedeutung „Sieg des Volkes“ eingeordnet. Die öffentliche Breitenresonanz wirkt eher freundlich-neutral als kontrovers.",
+  "practical_notes": [
+    "Für Suchende wirkt Nick als einfacher, moderner und gut merkbarer Vorname.",
+    "Der Name ist in Deutschland bekannt und ohne starke negative Konnotationen in den Quellen.",
+    "Die Aussagekraft zur öffentlichen Wahrnehmung ist vorsichtig zu lesen, da die Datenlage schmal ist."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist begrenzt und stammt vor allem aus redaktionellen Namensseiten.",
+    "Es zeigt sich eher eine gepflegte Namensbeschreibung als eine breite öffentliche Meinungslandschaft.",
+    "Widersprüche bei einzelnen Details wie dem Namenstag sind möglich."
+  ],
+  "short_summary": "Nick wird meist als kurzer, klangvoller und international vertrauter Vorname beschrieben; die Quellenlage ist positiv, aber nicht sehr breit.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.95,
+      "is_name_discussion": true,
+      "sentiment": "positive",
+      "source_type": "web",
+      "title": "Vorname Nick � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/N/Ni/Nick/"
+    },
+    {
+      "confidence": 0.89,
+      "is_name_discussion": true,
+      "sentiment": "positive",
+      "source_type": "web",
+      "title": "&#9655; Vorname Nick: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Nick.html"
+    }
+  ],
+  "style_effect": [
+    "kurz und prägnant",
+    "modern und unkompliziert",
+    "international anschlussfähig",
+    "vertraut statt ausgefallen",
+    "positiv-beschreibend"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Mittlere Sichtbarkeit: Der Name ist bekannt und gut einordenbar, aber die Evidenz stammt vor allem aus zwei Namenslexika; eine breite öffentliche Debatte ist nicht erkennbar."
+}

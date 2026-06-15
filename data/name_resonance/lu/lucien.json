@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "französische Form von Lucianus bzw. Lucius",
+    "lateinischer Ursprung",
+    "Bedeutungsfeld rund um Licht, Leuchten und Tagesbeginn",
+    "französischsprachige Klangwirkung",
+    "in Deutschland eher selten",
+    "wirkt eher edel als modern-trendhaft"
+  ],
+  "confidence": 0.75,
+  "display_text": "Lucien wirkt in Deutschland eher selten, elegant und klassisch. Die vorhandene Evidenz zeigt eine überwiegend positive, aber eher stille Resonanz – mit Assoziationen zu Licht, französischem Klang und lateinischem Ursprung. Da die Quellenlage begrenzt ist, ist das Ergebnis vorsichtig zu lesen.",
+  "evidence_quality": "mittel bis schwach; überwiegend redaktionelle Namenslexikon-Quellen, wenig echte öffentliche Diskussionsbreite",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Lucien",
+  "normalized_name": "lucien",
+  "overall_resonance": "Eher positiv bis neutral, mit einem leicht eleganten und klassischen Eindruck. Die öffentliche Wahrnehmung wirkt vor allem namenkundlich geprägt und nicht stark kontrovers.",
+  "practical_notes": [
+    "Für eine Namenssuche ist Lucien vor allem interessant, wenn ein seltener, klangvoller und international wirkender Name gesucht wird.",
+    "Die Schreibweise und Aussprache können im deutschen Alltag gelegentlich erklärt werden müssen.",
+    "Die öffentliche Resonanz wirkt freundlich, aber eher still als breit diskutiert."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist schwach bis mittel, da sie vor allem aus einzelnen Namenslexikon-Seiten besteht.",
+    "Es gibt kaum Hinweise auf eine breite öffentliche Debatte oder stark ausgeprägte Alltagsassoziationen.",
+    "Positive Eindrücke sollten nicht als allgemeingültig verstanden werden, sondern als vorsichtige Tendenz."
+  ],
+  "short_summary": "Lucien wird in den vorhandenen Quellen überwiegend freundlich, elegant und klassisch wahrgenommen. In Deutschland ist der Name eher selten; die Evidenz ist jedoch begrenzt und vor allem lexikalisch statt breit öffentlich.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Lucien � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/L/Lu/Lucien/"
+    },
+    {
+      "confidence": 0.84,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Lucien: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Lucien.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "elegant",
+    "französisch klingend",
+    "selten",
+    "leuchtend/hell assoziiert",
+    "kultiviert wirkend"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland eher selten bis mäßig verbreitet; dadurch wirkt der Name auffälliger und weniger alltagsgeläufig. Die Evidenzlage ist insgesamt begrenzt und basiert vor allem auf Namenslexika."
+}

@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "altenglische Herkunft",
+    "Bedeutung: Hüter des Besitzes",
+    "englischer/männlicher Vorname",
+    "Kurzformen wie Ed, Eddie, Eddy, Ted",
+    "Namenstag",
+    "internationale Verbreitung",
+    "historische englische Könige"
+  ],
+  "confidence": 0.89,
+  "display_text": "Edward hat im deutschsprachigen Raum eine überwiegend neutrale bis leicht positive Resonanz. Der Name wirkt klassisch, international und traditionsbewusst, ohne stark modern oder trendig zu erscheinen. Die vorliegenden Quellen sind vor allem Namenslexika und beschreiben Herkunft, Bedeutung, Namenstag und Kurzformen; die Bewertung ist daher eher informativ als gesellschaftlich-emotional. Eine negative Stigmatisierung ist in den Quellen nicht erkennbar.",
+  "evidence_quality": "gut: zwei einschlägige Namensquellen mit klarer Diskussion des Vornamens; Tonalität überwiegend neutral, eher informativ als emotional.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Edward",
+  "normalized_name": "edward",
+  "overall_resonance": "Überwiegend neutral bis leicht klassisch-positiv: Edward wirkt im deutschsprachigen Raum vor allem als traditionsreicher, international verständlicher Vorname.",
+  "practical_notes": [
+    "Für deutschsprachige Kontexte gut verständlich und einfach einzuordnen.",
+    "Wirkt formell und eher klassisch als modern-trendig.",
+    "Die Kurzformen machen den Namen alltagstauglich und flexibler."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt überwiegend aus Namenslexika und Profilseiten; das ist für Herkunft und Gebrauch brauchbar, aber kein direkter Stimmungsindikator aus der Allgemeinbevölkerung.",
+    "Keine belastbaren Hinweise auf eine negative gesellschaftliche Stigmatisierung des Namens in den vorliegenden Quellen."
+  ],
+  "short_summary": "Edward wird in Deutschland vor allem als klassischer, internationaler und sachlich positiver Vorname wahrgenommen.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.95,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Edward � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/E/Ed/Edward/"
+    },
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Edward: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Edward.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "elegant",
+    "international",
+    "traditionsbewusst",
+    "sachlich",
+    "historisch anschlussfähig"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Der Name ist bekannt, aber in Deutschland eher nicht alltäglich; er taucht vor allem in Namenslexika und Beliebtheitsübersichten auf."
+}

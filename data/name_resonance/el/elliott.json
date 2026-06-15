@@ -1,0 +1,62 @@
+{
+  "associations": [
+    "englischsprachiger Vorname",
+    "biblisch-hebräische Deutung: 'mein Gott ist Jahwe'",
+    "Ableitung/Verwandtschaft zu Elias bzw. Familienname als Vorname",
+    "männlicher Vorname",
+    "Namenstag",
+    "selten bis mäßig verbreitet in Deutschland"
+  ],
+  "confidence": 0.82,
+  "display_text": "Elliott wirkt in Deutschland eher positiv-neutral: international, klangvoll und vergleichsweise selten. Die Quellen liefern vor allem namenskundliche Informationen; für eine breite öffentliche Bewertung ist die Evidenz nur indirekt.",
+  "evidence_quality": "mittel bis schwach für breite öffentliche Resonanz; gut für Namensbedeutung und lexikalische Einordnung",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Elliott",
+  "normalized_name": "elliott",
+  "overall_resonance": "Elliott wird in den vorliegenden deutschsprachigen Namensquellen überwiegend freundlich und informativ wahrgenommen. Die öffentliche Resonanz wirkt eher positiv-neutral: Der Name wird als international, klangvoll und vergleichsweise selten beschrieben, ohne starke Kontroversen.",
+  "practical_notes": [
+    "Für deutschsprachige Ohren wirkt Elliott meist vertraut, aber nicht alltäglich.",
+    "Die Schreibweise mit -tt kann im Vergleich zu Varianten wie Eliot oder Eliott als markanter empfunden werden.",
+    "Der Name eignet sich gut, wenn ein international lesbarer und zugleich eher seltener Vorname gewünscht ist."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt überwiegend aus Namensdatenbanken, nicht aus einer breiten öffentlichen Debatte.",
+    "Beliebtheits- und Trendhinweise sollten nicht mit einer allgemein messbaren gesellschaftlichen Wertung verwechselt werden.",
+    "Einzelmeinungen aus Kommentarbereichen sind für die öffentliche Resonanz nur eingeschränkt belastbar."
+  ],
+  "short_summary": "Elliott wird in den verfügbaren Quellen überwiegend positiv-sachlich beschrieben: international, klangvoll und eher selten. Für eine breite öffentliche Resonanz in Deutschland ist die Evidenz jedoch begrenzt.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "Vorname Elliott � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/E/El/Elliott/"
+    },
+    {
+      "confidence": 0.9,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Elliott: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Elliott.html"
+    }
+  ],
+  "style_effect": [
+    "international",
+    "modern",
+    "klangvoll",
+    "eher weich im Klang",
+    "leicht anglophon",
+    "namenskundlich auffällig",
+    "selten, aber nicht ungewöhnlich"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland eher selten bis mäßig präsent; sichtbar vor allem in Namenslexika und Beliebtheitsübersichten. Die Evidenz zur breiten öffentlichen Wahrnehmung ist begrenzt und eher indirekt."
+}

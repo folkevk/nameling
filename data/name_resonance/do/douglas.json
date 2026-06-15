@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "englisch-schottischer Jungenname",
+    "altschottische/gälische Herkunft",
+    "Bedeutung in Richtung \"dunkler Fluss\" bzw. \"dunkles Wasser\"",
+    "selten in Deutschland",
+    "teilweise Wahrnehmung als Familienname",
+    "mögliche Verwechslung mit der Marke Douglas"
+  ],
+  "confidence": 0.83,
+  "display_text": "Douglas wirkt in Deutschland eher selten und international. Die vorhandenen Quellen beschreiben den Namen sachlich und überwiegend neutral bis leicht positiv; auffällig sind die englisch-schottische Herkunft und eine mögliche Markenassoziation. Eine breite öffentliche Rezeption ist wegen der schmalen Evidenz nur eingeschränkt belegbar.",
+  "evidence_quality": "Begrenzt: überwiegend lexikalische Quellen, kaum öffentlich sichtbare Meinungsvielfalt oder Alltagsrezeption.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Douglas",
+  "normalized_name": "douglas",
+  "overall_resonance": "Douglas wirkt in der deutschen öffentlichen Namenswahrnehmung eher sachlich, selten und leicht international. Die verfügbaren Hinweise sind überwiegend neutral bis leicht positiv, aber die Evidenz ist schmal und stammt vor allem aus Namenslexika.",
+  "practical_notes": [
+    "Für Suchende ist Douglas gut als internationaler, historisch verankerter Name einzuordnen.",
+    "Wer einen sehr alltäglichen deutschen Vornamen sucht, könnte ihn als eher selten empfinden.",
+    "Die Aussprache und Schreibweise sind unkompliziert, die Seltenheit macht den Namen jedoch auffälliger.",
+    "Die vorhandenen Quellen liefern vor allem sachliche Namensbeschreibung, keine belastbare breite Meinungslandschaft."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist auf wenige Namenslexikon-Seiten beschränkt; eine breite öffentliche Debatte ist nicht erkennbar.",
+    "Eine Markenassoziation kann in Deutschland vorkommen und die Wahrnehmung beeinflussen.",
+    "Ein mögliches Hänselrisiko wird vereinzelt genannt, ist aber nicht als allgemeine gesellschaftliche Bewertung zu verstehen."
+  ],
+  "short_summary": "Douglas wird in Deutschland meist sachlich, selten und international wahrgenommen; die Hinweise sind eher neutral bis leicht positiv, aber die Evidenz ist begrenzt.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Douglas � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/D/Do/Douglas/"
+    },
+    {
+      "confidence": 0.89,
+      "is_name_discussion": true,
+      "sentiment": "mixed",
+      "source_type": "web",
+      "title": "&#9655; Vorname Douglas: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Douglas.html"
+    }
+  ],
+  "style_effect": [
+    "klingt englisch-schottisch",
+    "wirkt klassisch-international",
+    "eher markant als modisch",
+    "namenskundlich gut erklärbar",
+    "in Deutschland wenig alltäglich"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland eher geringe Sichtbarkeit als Vorname; er wird als ungewohnt und selten beschrieben."
+}

@@ -1,0 +1,62 @@
+{
+  "associations": [
+    "lateinische Herkunft",
+    "Bedeutung: „der Rabe“",
+    "Bezug zu Korbinian von Freising / heilig",
+    "bayerische und österreichische Verbreitung",
+    "deutscher bzw. altdeutscher Traditionsname",
+    "selten bis mittelhäufig",
+    "Namenstag",
+    "Koseformen wie Korbi oder Kobi"
+  ],
+  "confidence": 0.91,
+  "display_text": "Korbinian wirkt in den verfügbaren Quellen überwiegend positiv: ein traditionsreicher, eher seltener Vorname mit bayerisch/süddeutscher Prägung und historisch-religiösem Bezug. Die öffentliche Rezeption erscheint vor allem beschreibend und namenskundlich, nicht kontrovers.",
+  "evidence_quality": "Gut für etymologische und namenskundliche Einordnung, aber begrenzt für echte öffentliche Resonanz im Sinne breiter Alltagswahrnehmung.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Korbinian",
+  "normalized_name": "korbinian",
+  "overall_resonance": "Überwiegend positiv und traditionsnah, mit klarer regionaler Verankerung in Süddeutschland/ Bayern; insgesamt eher selten, aber als eigenständiger, klassischer Vorname wahrgenommen.",
+  "practical_notes": [
+    "Für Suchmaschinen-Nutzer wirkt der Name eher klassisch als modern.",
+    "Die Seltenheit kann als Vorteil wahrgenommen werden, wenn ein individueller und traditionsreicher Name gesucht wird.",
+    "Kurzformen und Spitznamen sind möglich, werden aber nicht überall gleich selbstverständlich genutzt."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt fast ausschließlich aus Namenslexika und Babynamen-Seiten, also eher aus beschreibenden Quellen als aus breiter öffentlicher Debatte.",
+    "Die positive Wirkung ergibt sich vor allem aus der Namensbeschreibung; eine kontroverse gesellschaftliche Wahrnehmung ist nicht erkennbar.",
+    "Regionale Zuordnungen wie 'bayerisch' sind Tendenzen aus den Quellen und keine harte Regel."
+  ],
+  "short_summary": "Korbinian wird in den Quellen überwiegend positiv, traditionsreich und regional-süddeutsch verortet beschrieben. Der Name gilt als eher selten, klanglich markant und historisch aufgeladen, ohne erkennbare starke Stigmatisierung.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.94,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "Vorname Korbinian � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/K/Ko/Korbinian/"
+    },
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Korbinian: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Korbinian.html"
+    }
+  ],
+  "style_effect": [
+    "klingt traditionell und historisch",
+    "wirkt markant und eigenständig",
+    "hat eine eher bodenständige, süddeutsche Färbung",
+    "kann durch die Länge und Seltenheit auffallen",
+    "wird oft als namenskundlich interessant beschrieben"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Mittlere Sichtbarkeit: bekannt, aber nicht alltäglich. In der öffentlichen Namensbeschreibung erscheint Korbinian eher als besonderer, traditionsreicher Name mit regionalem Schwerpunkt."
+}

@@ -1,0 +1,62 @@
+{
+  "associations": [
+    "Bedeutung im Sinne von Kämpferin/Kriegerin",
+    "mittelalterlich und historisch",
+    "weiblicher Vorname mit alter Herkunft",
+    "selten in Deutschland",
+    "eher klassisch als modern"
+  ],
+  "confidence": 0.9,
+  "display_text": "Hedwig wird in der öffentlichen Namensbeschreibung überwiegend als seltener, altdeutscher und historisch geprägter Vorname wahrgenommen. Die Resonanz ist eher sachlich bis leicht positiv, vor allem wegen der starken, traditionellen Bedeutung und der klassischen Wirkung des Namens.",
+  "evidence_quality": "mittel bis gut; zwei inhaltlich passende Namensquellen, aber überwiegend lexikalisch statt diskursiv",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Hedwig",
+  "normalized_name": "hedwig",
+  "overall_resonance": "Hedwig wirkt in der öffentlichen Namensbeschreibung überwiegend traditionell, historisch und eher selten. Die Wahrnehmung ist meist sachlich bis leicht positiv, vor allem wegen der alten Herkunft und der starken Bedeutung des Namens.",
+  "practical_notes": [
+    "Für eine Namenssuche eignet sich Hedwig vor allem, wenn ein traditioneller, klar historischer Name mit starker Bedeutung gewünscht ist.",
+    "Wer einen sehr modernen oder häufigen Namen sucht, wird Hedwig eher als ungewöhnlich wahrnehmen.",
+    "Die Seltenheit kann als charaktervoll wirken, zugleich aber für manche ungewohnt erscheinen."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt vor allem aus zwei Namenslexikon-/Namensdatenbank-Quellen, also aus beschreibenden Katalogeinträgen und nicht aus einer breiten öffentlichen Debatte.",
+    "Die positiven Eindrücke beziehen sich vor allem auf Herkunft, Bedeutung und Klangwirkung; das ist keine allgemeine gesellschaftliche Mehrheitsmeinung.",
+    "Es gibt keine belastbaren Hinweise auf eine starke soziale Stigmatisierung in der vorliegenden Evidenz."
+  ],
+  "short_summary": "Hedwig wird meist als seltener, altdeutscher und historisch geprägter Vorname wahrgenommen, mit eher sachlich-positiver Resonanz.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Hedwig � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/H/He/Hedwig/"
+    },
+    {
+      "confidence": 0.92,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Hedwig: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Hedwig.html"
+    }
+  ],
+  "style_effect": [
+    "altdeutsch",
+    "historisch",
+    "klassisch",
+    "selten",
+    "traditionell",
+    "bodenständig",
+    "elegant",
+    "namenskundlich"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland eher geringe Alltagspräsenz; der Name ist bekannt, aber nicht sehr verbreitet und fällt dadurch eher als klassisch-altdeutsch auf."
+}

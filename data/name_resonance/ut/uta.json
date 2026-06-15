@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "althochdeutsche Herkunft",
+    "Bedeutung im Sinn von 'die Reiche' / 'Besitzende' / 'Erbin'",
+    "historisch-kulturelle Einordnung",
+    "Namenstag",
+    "seltene Nutzung in Deutschland",
+    "Verbindung zu traditionellen Kurz- und Nebenformen"
+  ],
+  "confidence": 0.84,
+  "display_text": "Uta wirkt in Deutschland überwiegend neutral bis leicht positiv: ein seltener, altdeutsch geprägter Vorname mit traditioneller Ausstrahlung. Die verfügbare Evidenz ist jedoch begrenzt und stammt vor allem aus Namenslexika.",
+  "evidence_quality": "Begrenzt: überwiegend lexikalische, namenskundliche Quellen; wenig bis keine breite öffentliche Debatte sichtbar.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Uta",
+  "normalized_name": "uta",
+  "overall_resonance": "Überwiegend neutral bis leicht positiv. Uta wird in den vorliegenden Quellen vor allem sachlich als alter, traditionsreicher und heute eher seltener Vorname beschrieben. Die öffentliche Wahrnehmung wirkt eher namenskundlich als emotional aufgeladen.",
+  "practical_notes": [
+    "Wirkt klassisch, schlicht und traditionsnah.",
+    "Durch die Kürze leicht merkbar und gut aussprechbar.",
+    "Eher geeignet, wenn ein seltener, historisch geprägter Name gewünscht ist.",
+    "Keine deutlichen negativen Konnotationen in der vorliegenden Evidenz erkennbar."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist schwach bis mittel, da sie im Wesentlichen aus zwei Namenslexikon-Seiten besteht.",
+    "Es gibt keine belastbare breite öffentliche Resonanz außerhalb von Lexikon- und Bedeutungsdarstellungen.",
+    "Seltenheit kann als Besonderheit wahrgenommen werden, ist aber kein allgemeingültiges Urteil über den Namen."
+  ],
+  "short_summary": "Uta ist in Deutschland ein seltener, traditionsreicher Vorname mit sachlich bis leicht positiv wirkender Resonanz. Die Quellen betonen vor allem Herkunft, Bedeutung und historischen Charakter.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Uta � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/U/Ut/Uta/"
+    },
+    {
+      "confidence": 0.88,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Uta: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Uta.html"
+    }
+  ],
+  "style_effect": [
+    "kurz und klar",
+    "altdeutsch/traditionsbezogen",
+    "faktenorientiert",
+    "eher klassisch als modern",
+    "seltenheitsbedingt auffällig, aber unaufdringlich"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland eher gering sichtbar und nicht sehr verbreitet. Der Name erscheint vor allem in Namenslexika und etymologischen Einordnungen, nicht in breiter öffentlicher Debatte."
+}

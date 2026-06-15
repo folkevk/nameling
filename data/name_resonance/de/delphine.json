@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "französische weibliche Form",
+    "altgriechische Herkunft",
+    "Bedeutung: aus Delphi stammend",
+    "Namenstag am 26. November",
+    "selten in Deutschland",
+    "Varianten wie Delphina, Delfine, Delfina, Delphi, Delphia"
+  ],
+  "confidence": 0.86,
+  "display_text": "Delphine: eher seltener, elegant-französischer Vorname mit klassisch-lexikalischer Wirkung. In Deutschland wenig verbreitet, in den vorliegenden Quellen sachlich bis freundlich bewertet.",
+  "evidence_quality": "gut, aber überwiegend aus Namenslexika und Informationsseiten; geringe Breite öffentlicher Debatte",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Delphine",
+  "normalized_name": "delphine",
+  "overall_resonance": "Delphine wirkt im deutschsprachigen Raum eher elegant, klassisch und deutlich französisch geprägt. Die öffentliche Wahrnehmung in den vorliegenden Quellen ist überwiegend sachlich bis freundlich, mit einem leicht exklusiven Seltenheitscharakter in Deutschland.",
+  "practical_notes": [
+    "Der Name dürfte im deutschen Umfeld auffallen und eher als außergewöhnlich wahrgenommen werden.",
+    "Die Schreibweise und Aussprache können erklärungsbedürftig sein, da der Name im Alltag nicht sehr verbreitet ist.",
+    "Für Suchmaschinen und Namensportale wird Delphine meist über Herkunft, Bedeutung und Varianten eingeordnet."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist vor allem lexikalisch-informativ und keine breite öffentliche Debatte; die Einschätzung bleibt daher vorsichtig.",
+    "Aus der Seltenheit in Deutschland sollte kein sozialer Wert abgeleitet werden."
+  ],
+  "short_summary": "Delphine wird in Deutschland eher selten, elegant und französisch geprägt wahrgenommen. Die vorhandenen Quellen sind überwiegend sachlich-informativ und zeigen keine negative öffentliche Stigmatisierung.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.99,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Delphine � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/D/De/Delphine/"
+    },
+    {
+      "confidence": 0.95,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Delphine: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Delphine.html"
+    }
+  ],
+  "style_effect": [
+    "elegant",
+    "französisch",
+    "klassisch",
+    "selten",
+    "namkundlich",
+    "leicht kultiviert"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Eher geringe Sichtbarkeit in Deutschland; der Name ist bekannt, aber nicht alltagsdominant und wirkt deshalb eher ungewöhnlich als häufig."
+}

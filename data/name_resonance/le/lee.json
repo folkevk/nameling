@@ -1,0 +1,68 @@
+{
+  "associations": [
+    "Unisex-Vorname",
+    "altenglische Herkunft",
+    "Wiese/Waldlichtung als Bedeutung",
+    "kurzer internationaler Name",
+    "selten in Deutschland",
+    "Namenstag wird in Lexika genannt"
+  ],
+  "confidence": 0.81,
+  "display_text": "Lee wirkt in Deutschland eher selten, kurz und international. Die verfügbaren Quellen beschreiben den Namen überwiegend neutral bis leicht positiv; starke öffentliche Kontroversen sind nicht erkennbar, aber die Evidenz stammt vor allem aus Namenslexika.",
+  "evidence_quality": "mittel bis gut; inhaltlich klar, aber überwiegend lexikalische statt diskursiver Evidenz",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Lee",
+  "normalized_name": "lee",
+  "overall_resonance": "Eher neutral bis leicht positiv. Der Name Lee wird in den verfügbaren Quellen vor allem sachlich beschrieben und kaum kontrovers bewertet.",
+  "practical_notes": [
+    "Für die Namenssuche ist Lee vor allem wegen der Kürze und internationalen Lesbarkeit interessant.",
+    "Wer einen seltenen, schlichten Namen sucht, findet hier einen eher unaufgeregten Eindruck.",
+    "Die Wahrnehmung kann je nach Kontext eher als Vorname oder auch als englisch klingender Kurzname gelesen werden."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt überwiegend aus Namenslexika und Datenbankseiten, nicht aus echter öffentlicher Diskussion.",
+    "Daher ist die öffentliche Resonanz nur vorsichtig ableitbar.",
+    "Keine belastbaren Hinweise auf starke positive oder negative soziale Wertungen in den Quellen."
+  ],
+  "short_summary": "Lee wird in Deutschland eher selten genannt und insgesamt neutral bis leicht positiv wahrgenommen. Der Name wirkt kurz, international und unaufgeregt.",
+  "source_count": 3,
+  "sources": [
+    {
+      "confidence": 0.95,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Lee � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/L/Le/Lee/"
+    },
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Lee � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/L/Le/Lee/"
+    },
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Lee: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Lee.html"
+    }
+  ],
+  "style_effect": [
+    "sehr kurz und prägnant",
+    "international/englisch wirkend",
+    "Unisex wahrnehmbar",
+    "lexikalisch-datenbasiert statt emotional",
+    "modern und schlicht"
+  ],
+  "usable_evidence_count": 3,
+  "visibility": "In Deutschland wirkt Lee eher selten und damit nicht besonders alltagspräsent; öffentlich auffällig ist der Name eher durch seine Kürze und internationale Wirkung als durch starke Meinungen."
+}

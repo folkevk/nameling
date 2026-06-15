@@ -1,0 +1,68 @@
+{
+  "associations": [
+    "Bedeutung: „lebendig“, „lebhaft“, „munter“",
+    "lateinisch/etruskische Herkunft",
+    "Artussage bzw. Vivianus-Bezug",
+    "Namenstag",
+    "Aussprache- und Spitznamenhinweise",
+    "in Deutschland eher für Mädchen verwendet, teils als Unisex geführt"
+  ],
+  "confidence": 0.92,
+  "display_text": "Vivien wirkt öffentlich überwiegend sachlich-neutral bis leicht positiv. Der Name wird meist mit „lebendig“ und „lebensfroh“ verbunden, gilt in Deutschland als bekannt und wird eher weiblich, teils auch als Unisex-Name beschrieben. Die vorliegende Evidenz ist solide, stammt aber vor allem aus Namensportalen.",
+  "evidence_quality": "gut: mehrere unabhängige Namensportale, konsistente Angaben zu Herkunft, Bedeutung und Nutzung; allerdings überwiegend katalogartige Sekundärquellen statt öffentlicher Debatten.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Vivien",
+  "normalized_name": "vivien",
+  "overall_resonance": "Überwiegend sachlich-neutral mit leicht positiver Konnotation. In den Quellen wird Vivien vor allem als klangvoller Vorname mit der Bedeutung „lebendig“ bzw. „lebensfroh“ beschrieben; die öffentliche Rezeption wirkt daher eher freundlich und informativ als kontrovers.",
+  "practical_notes": [
+    "Für Suchmaschinen- oder Profiltexte eignet sich eine knappe, positive und sachliche Beschreibung.",
+    "Wenn Geschlechtsspezifik erwähnt wird, am besten vorsichtig formulieren: in Deutschland meist weiblich verwendet, teils als Unisex-Name beschrieben.",
+    "Die Schreibweise Vivien ist im deutschsprachigen Raum bekannt und gut anschlussfähig."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt fast ausschließlich von Namensportalen und ist daher eher beschreibend als breit gesellschaftlich dokumentiert.",
+    "Beliebtheits- und Häufigkeitsaussagen sollten als Portalangaben verstanden werden, nicht als harte Gesamtrepräsentation der Öffentlichkeit.",
+    "Keine Hinweise auf eine soziale Stigmatisierung in den vorliegenden Quellen."
+  ],
+  "short_summary": "Vivien wird in Deutschland überwiegend sachlich und leicht positiv wahrgenommen: ein klangvoller Name mit der Bedeutung „lebendig“/„lebensfroh“, meist weiblich verwendet, teils als Unisex-Name beschrieben.",
+  "source_count": 3,
+  "sources": [
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Vivien � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/V/Vi/Vivien/"
+    },
+    {
+      "confidence": 0.95,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Vivien � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/V/Vi/Vivien/"
+    },
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Vivien: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Vivien.html"
+    }
+  ],
+  "style_effect": [
+    "klangvoll und weich",
+    "modern, aber etabliert",
+    "namenskundlich/informativ",
+    "leicht feminin wahrgenommen, obwohl teils als Unisex beschrieben",
+    "positiv aufgeladene Bedeutungsassoziation"
+  ],
+  "usable_evidence_count": 3,
+  "visibility": "In Deutschland ist der Name bekannt und öffentlich gut dokumentiert, vor allem auf Namensportalen und in Namenskundeverzeichnissen. Die Darstellung wirkt eher daten- und lexikonbasiert als diskussionsgetrieben."
+}

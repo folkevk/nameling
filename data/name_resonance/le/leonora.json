@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "Kurzform bzw. Variante von Eleonora",
+    "mögliche Bedeutungsbezüge wie Licht oder Fremdheit je nach Quelle",
+    "weiblicher Vorname",
+    "Namenstag",
+    "selten bis moderat gebräuchlich in Deutschland",
+    "Spitznamen wie Nora oder Lora"
+  ],
+  "confidence": 0.88,
+  "display_text": "Leonora: überwiegend positive, klassische und elegante Resonanz. In Deutschland eher selten bis moderat gebräuchlich, sachlich gut dokumentiert, aber mit begrenzter direkter Meinungs-Evidenz.",
+  "evidence_quality": "gut für lexikalische Einordnung, begrenzt für echte öffentliche Meinungsbilder",
+  "generated_at": "2026-06-13T22:17:22Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Leonora",
+  "normalized_name": "leonora",
+  "overall_resonance": "Leonora wirkt in der öffentlichen Wahrnehmung überwiegend positiv, stilvoll und eher klassisch-elegant. Der Name wird vor allem sachlich-informativ beschrieben, ohne auffällige Kontroversen oder negative öffentliche Zuschreibungen.",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt Leonora angenehm, vertraut und zugleich nicht zu häufig.",
+    "Die Wahrnehmung dürfte stärker von Klang und klassisch-zeitloser Wirkung geprägt sein als von aktuellen Trends.",
+    "Wegen der Seltenheit kann der Name als individuell, aber nicht exotisch erscheinen."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt fast ausschließlich aus Namenslexika und Datenseiten, nicht aus breiten Meinungsdiskussionen.",
+    "Die öffentliche Rezeption ist daher nur eingeschränkt aus direkten Nutzermeinungen ableitbar.",
+    "Keine Hinweise auf soziale Stigmatisierung oder kontroverse negative Konnotationen in der vorliegenden Evidenz."
+  ],
+  "short_summary": "Leonora wird in Deutschland überwiegend positiv, klassisch und elegant wahrgenommen; der Name ist eher selten bis moderat verbreitet und in den Quellen vor allem sachlich beschrieben.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.94,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "Vorname Leonora � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/L/Le/Leonora/"
+    },
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Leonora: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Leonora.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch-elegant",
+    "weich und melodisch",
+    "eher selten als alltäglich",
+    "literarisch anmutend",
+    "seriös und gepflegt"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland ist Leonora bekannt, aber eher selten bis moderat gebräuchlich. Dadurch ist der Name wahrnehmbar, wirkt aber nicht massenhaft verbreitet."
+}

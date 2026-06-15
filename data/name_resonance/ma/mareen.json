@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "weiblicher Vorname",
+    "lateinisch/römische Herkunft in den Quellen",
+    "Bedeutung: „vom Meer kommend“ / „zum Meer gehörig“",
+    "Nebenform bzw. Variante von Maria, Maren oder Marina",
+    "Namenstag",
+    "eher seltener Vorname in Deutschland"
+  ],
+  "confidence": 0.88,
+  "display_text": "Mareen wirkt im öffentlichen Namensbild überwiegend neutral bis freundlich: ein eher seltener, klassisch-weiblicher Vorname mit maritimen Assoziationen („Meer“) und sachlich-namenskundlicher Prägung. Breite öffentliche Diskussionen sind in der Evidenz nicht erkennbar.",
+  "evidence_quality": "mittel bis gut, aber inhaltlich eng begrenzt auf namenskundliche Webquellen",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Mareen",
+  "normalized_name": "mareen",
+  "overall_resonance": "Mareen wird in den vorliegenden Quellen überwiegend sachlich und positiv-neutral beschrieben. Der Name wirkt im öffentlichen Namenskontext eher klassisch-weiblich, vertraut und leicht maritim durch die zugeschriebene Nähe zu „Meer“/„am Meer“. Eine breite gesellschaftliche Debatte oder starke emotionale Aufladung ist in der Evidenz nicht erkennbar.",
+  "practical_notes": [
+    "Für die Namenssuche eignet sich Mareen als vertraut klingender, aber nicht übernutzter Name.",
+    "Die öffentliche Wahrnehmung wirkt eher neutral bis freundlich.",
+    "Die maritime Deutung ist ein wiederkehrendes Motiv in den Quellen, sollte aber nicht als einzige sichere Herkunft gelesen werden."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist stark auf Namenslexika und Datenbankseiten begrenzt.",
+    "Es gibt kaum unabhängige öffentliche Resonanz außerhalb redaktioneller Namensbeschreibungen.",
+    "Die Bedeutungsangaben variieren leicht je nach Quelle; daher vorsichtig als zugeschriebene Deutungen lesen."
+  ],
+  "short_summary": "Mareen wird in den Quellen überwiegend neutral bis freundlich und eher selten verwendet beschrieben, mit maritimen Bedeutungsassoziationen und klassisch-weiblichem Klang.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Mareen � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/M/Ma/Mareen/"
+    },
+    {
+      "confidence": 0.92,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Mareen: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Mareen.html"
+    }
+  ],
+  "style_effect": [
+    "weich und feminin",
+    "klanglich ruhig und freundlich",
+    "leicht maritim assoziiert",
+    "traditionell-namenskundlich",
+    "sachlich-bekannt statt trendig"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Im deutschen Namenskontext scheint Mareen bekannt, aber eher nicht massenhaft verbreitet zu sein. Die Quellen sprechen von Beliebtheit/Häufigkeit und beschreiben den Namen als eher selten bzw. nicht dominant im Gebrauch."
+}

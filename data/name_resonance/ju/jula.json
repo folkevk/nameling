@@ -1,0 +1,62 @@
+{
+  "associations": [
+    "Kurzform von Julia",
+    "lateinischer Ursprung",
+    "römische Bezüge",
+    "Monat Juli",
+    "Namenstag",
+    "selten bzw. wenig verbreitet",
+    "Verwechslungsnähe zu Julia und Jule"
+  ],
+  "confidence": 0.84,
+  "display_text": "Jula wird meist als kurzer, moderner und eher seltener Mädchenname wahrgenommen. Die öffentliche Resonanz ist sachlich-positiv bis neutral; häufig genannt werden der Bezug zu Julia, der lateinische Ursprung und mögliche Verwechslungen mit ähnlichen Namen.",
+  "evidence_quality": "mittel bis gut; klar namebezogene Quellen, aber überwiegend lexikalisch/portalbasiert und wenig community- oder alltagsnah.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Jula",
+  "normalized_name": "jula",
+  "overall_resonance": "Überwiegend sachlich-positiv bis neutral. Jula wird öffentlich meist als moderner, kurzer und eher seltener Mädchenname wahrgenommen, oft im Umfeld von Julia genannt.",
+  "practical_notes": [
+    "Wirkt kurz, freundlich und gut merkbar.",
+    "Kann als eigenständiger Name wahrgenommen werden, wird aber oft als Variante oder Kurzform von Julia erklärt.",
+    "Für Suchmaschinen und Namenslexika ist die Datenlage klarer als für echte Community-Rezeption."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die öffentliche Evidenz stammt vor allem aus Namensportalen, nicht aus breiten Alltagsdiskussionen.",
+    "Hinweise auf Beliebtheit oder Seltenheit sind eher portalbasiert und sollten nicht überinterpretiert werden.",
+    "Mögliche Verwechslungen mit Julia oder Jule sind ein wiederkehrender Punkt."
+  ],
+  "short_summary": "Jula wirkt öffentlich überwiegend freundlich, modern und eher selten. Die Rezeption ist sachlich-positiv, mit häufigem Bezug zu Julia und gelegentlichen Hinweisen auf Verwechslungen.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "Vorname Jula � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/J/Ju/Jula/"
+    },
+    {
+      "confidence": 0.92,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Jula: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Jula.html"
+    }
+  ],
+  "style_effect": [
+    "kurz und klar",
+    "modern wirkend",
+    "weiblich und freundlich",
+    "leicht elegant",
+    "namenskundlich anschlussfähig",
+    "selten bis moderat verbreitet"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Mittlere Sichtbarkeit in Namensportalen; insgesamt eher Nischenname als Massenname."
+}

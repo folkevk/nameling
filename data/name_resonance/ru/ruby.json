@@ -1,0 +1,65 @@
+{
+  "associations": [
+    "Rubin",
+    "Edelstein",
+    "rot",
+    "englische Herkunft",
+    "lateinischer Ursprung",
+    "weiblicher Vorname",
+    "Juli/Geburtsstein",
+    "Namenstag",
+    "schön",
+    "frech"
+  ],
+  "confidence": 0.9,
+  "display_text": "Ruby wirkt in Deutschland überwiegend positiv: edel, modern und international. Der Name wird meist mit Rubin, Rot und einem weiblich-weichen Klang verbunden. Die Evidenz ist aber vor allem namenskundlich und nicht breit öffentlich diskutiert.",
+  "evidence_quality": "mittel bis gut; klar namensbezogene Quellen, aber begrenzte Breite und wenig unabhängige öffentliche Rezeption",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Ruby",
+  "normalized_name": "ruby",
+  "overall_resonance": "überwiegend positiv, mit klarer Tendenz zu edel, freundlich und international; in der vorliegenden Evidenz eher beschreibend als kontrovers",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt Ruby in Deutschland eher modern und international",
+    "Die Bedeutung ist für viele Nutzer leicht verständlich und positiv besetzt",
+    "Da der Name vergleichsweise markant klingt, kann er auffallen, bleibt aber gut einprägsam",
+    "Die Wahrnehmung scheint vor allem von der Edelstein- und Farbassoziation getragen zu werden"
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt fast ausschließlich aus Namensseiten, nicht aus einer breiten öffentlichen Diskussion",
+    "Einzelne positive Kommentare können die Gesamtwirkung stärker wirken lassen, als sie in der Öffentlichkeit tatsächlich ist",
+    "Keine belastbaren Hinweise auf starke negative Stigmatisierung oder kontroverse Debatten in der vorliegenden Evidenz"
+  ],
+  "short_summary": "Ruby wird in der vorliegenden Evidenz überwiegend positiv und stilvoll wahrgenommen, vor allem wegen der Assoziation mit Rubin, Rot und einem internationalen Klang. Die Datenlage ist jedoch vor allem auf Namenslexika beschränkt.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "Vorname Ruby � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/R/Ru/Ruby/"
+    },
+    {
+      "confidence": 0.94,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Ruby: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Ruby.html"
+    }
+  ],
+  "style_effect": [
+    "edel und glanzvoll durch die Edelstein-Assoziation",
+    "weich und modern durch den kurzen, englisch wirkenden Klang",
+    "auffällig, aber nicht extrem ausgefallen",
+    "leicht verspielt bzw. charmant in einzelnen Beschreibungen",
+    "namenskundlich häufig mit Rubin/rot verknüpft"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "mittlere Sichtbarkeit in deutschen Namenslexika und Baby-Namensseiten, aber keine breite öffentliche Debatte erkennbar"
+}

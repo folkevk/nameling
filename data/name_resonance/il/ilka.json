@@ -1,0 +1,59 @@
+{
+  "associations": [
+    "Bedeutungshinweise wie „die Strahlende“ oder „die Glänzende“",
+    "altgriechisch/ungarische Herleitung über Ilona bzw. Helena",
+    "selten in Deutschland",
+    "Namenstag wird erwähnt",
+    "lexikalisch-informative, eher neutrale bis positive Beschreibung"
+  ],
+  "confidence": 0.63,
+  "display_text": "Ilka wird meist als seltener, freundlich klingender Name mit positiver Bedeutung wahrgenommen. Die Quellen verbinden ihn mit „strahlend“ oder „glänzend“. Für die öffentliche Resonanz gibt es aber nur begrenzte Evidenz, da vor allem Namenslexika vorliegen.",
+  "evidence_quality": "mittel bis schwach: zwei namenskundliche Webquellen, überwiegend beschreibend und nur begrenzt repräsentativ für öffentliche Resonanz",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Ilka",
+  "normalized_name": "ilka",
+  "overall_resonance": "Die öffentliche Wahrnehmung von „Ilka“ wirkt insgesamt eher positiv und sachlich: Der Name wird vor allem mit „strahlend“, „glänzend“ oder „leuchtend“ verbunden und klingt kurz, freundlich und klar. Gleichzeitig ist die Evidenz zur öffentlichen Resonanz eher schwach, da die vorliegenden Quellen überwiegend namenskundliche Lexikonseiten sind und keine breite offene Diskussion abbilden.",
+  "practical_notes": [
+    "Für eine Namenssuche ist Ilka ein kurzer, gut merkbarer Name mit positiver Bedeutungsnähe.",
+    "Die Seltenheit kann als Plus für Eigenständigkeit wahrgenommen werden.",
+    "Die Resonanzbeschreibung sollte vorsichtig gelesen werden, da sie nicht auf einer großen Community-Stichprobe beruht."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Datenlage ist begrenzt und basiert vor allem auf Namenslexika.",
+    "Es gibt kaum Hinweise auf eine breite öffentliche Debatte oder starke Alltagsresonanz.",
+    "Mögliche persönliche Kommentare in den Quellen sollten nicht als allgemeine Meinung über den Namen gelesen werden."
+  ],
+  "short_summary": "Ilka wirkt in der öffentlichen Wahrnehmung eher positiv, freundlich und selten; die Belege sind jedoch vor allem lexikalisch und daher nur eingeschränkt aussagekräftig.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.9,
+      "is_name_discussion": true,
+      "sentiment": "eher positiv",
+      "source_type": "web",
+      "title": "Vorname Ilka � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/I/Il/Ilka/"
+    },
+    {
+      "confidence": 0.87,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Ilka: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Ilka.html"
+    }
+  ],
+  "style_effect": [
+    "kurz und prägnant",
+    "freundlich und weich im Klang",
+    "klar und klassisch wirkend",
+    "selten, dadurch eigenständig",
+    "leicht traditionell, nicht trendbetont"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland wirkt Ilka eher selten und dadurch nicht stark modisch oder alltagsdominant. Der Name ist sichtbar, aber nicht häufig präsent."
+}

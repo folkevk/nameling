@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "häufig als Kurzform von Andreas",
+    "teils auch Koseform von Andrea",
+    "altgriechischer Ursprung",
+    "Bedeutung im Umfeld von „tapfer“ / „männlich“ / „mannhaft“",
+    "Namenstag am 30. November",
+    "eher selten bis mäßig verbreitet in Deutschland"
+  ],
+  "confidence": 0.79,
+  "display_text": "Andi wirkt in Deutschland eher neutral bis leicht positiv: ein kurzer, vertrauter Name, meist als Kurz- oder Koseform von Andreas bzw. Andrea verstanden. Die Evidenz dafür ist jedoch nur mittel bis schwach und stützt sich vor allem auf wenige Namenslexikon-Seiten.",
+  "evidence_quality": "mittel bis schwach; wenige webbasierte Namenslexika, teils mit subjektiven Nutzerkommentaren",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Andi",
+  "normalized_name": "andi",
+  "overall_resonance": "Eher neutral bis leicht positiv wahrgenommen. Andi wird vor allem als kurze, unkomplizierte Namensform mit vertrauter Wirkung beschrieben.",
+  "practical_notes": [
+    "Für eine öffentliche Wahrnehmung zählt bei Andi vor allem die Nähe zu bekannten Grundnamen wie Andreas oder Andrea.",
+    "Der Name wird eher als freundlich und unkompliziert gelesen als als formal oder distanziert.",
+    "Wegen der Kürze kann Andi je nach Kontext eher Spitzname als Vollform wirken.",
+    "In Deutschland dürfte der Name verständlich sein, aber nicht stark massenhaft auftreten."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenzlage ist schwach bis mittel, da sie im Wesentlichen auf wenigen Namenslexikon-Seiten beruht.",
+    "Positive Eindrücke stammen teilweise aus subjektiven Nutzerreaktionen und sind nur begrenzt repräsentativ.",
+    "Die Bedeutung und Herkunft werden in Quellen ähnlich dargestellt, sollten aber nicht als umfassendes Stimmungsbild missverstanden werden."
+  ],
+  "short_summary": "Andi wird öffentlich meist neutral bis leicht positiv wahrgenommen: kurz, vertraut und unkompliziert, mit der typischen Einordnung als Kurz- oder Koseform.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.95,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Andi � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/A/An/Andi/"
+    },
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Andi: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Andi.html"
+    }
+  ],
+  "style_effect": [
+    "kurz und direkt",
+    "locker und vertraut",
+    "jugendlich bzw. umgangssprachlich",
+    "als Kose- oder Kurzform gelesen",
+    "informativ statt ausgefallen"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Der Name wirkt in Deutschland bekannt, aber eher nicht sehr häufig; die öffentliche Sichtbarkeit scheint dadurch eher moderat zu sein."
+}

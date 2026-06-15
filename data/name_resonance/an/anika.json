@@ -1,0 +1,62 @@
+{
+  "associations": [
+    "Koseform von Anna",
+    "hebräischer Ursprung in den Quellen",
+    "Bedeutungsfelder wie Anmut, Liebreiz, Gnade",
+    "Mädchenname",
+    "Namenstagangaben",
+    "Beliebtheit in Deutschland",
+    "niederdeutsche/niederländische/nordische Einordnung in den Quellen"
+  ],
+  "confidence": 0.79,
+  "display_text": "Anika wird in den vorliegenden Quellen überwiegend als freundlicher, klassischer und sachlich vertrauter Mädchenname beschrieben. Die Resonanz wirkt eher positiv bis neutral, vor allem wegen der Bedeutungsfelder wie Anmut, Gnade und Liebreiz. Gleichzeitig ist die Evidenz begrenzt und stammt vor allem aus Namenslexika, daher ist das Bild vorsichtig zu lesen.",
+  "evidence_quality": "eher schwach bis mittel: zwei webbasierte Namensseiten, überwiegend sachlich-informativ, ohne breite öffentliche Debatte oder große Streuung der Perspektiven.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Anika",
+  "normalized_name": "anika",
+  "overall_resonance": "Anika wirkt in den vorliegenden Quellen überwiegend sachlich, freundlich und vertraut. Der Name wird vor allem als Mädchenname mit klassischer, eher zeitloser Anmutung beschrieben; die öffentliche Resonanz erscheint insgesamt eher positiv bis neutral. Die Evidenz ist jedoch begrenzt und vor allem namenskundlich statt breit gesellschaftlich.",
+  "practical_notes": [
+    "Für Suchmaschinen- oder Namenskontexte ist Anika meist leicht einzuordnen und unproblematisch.",
+    "Der Name wirkt eher zeitlos als modisch und eher freundlich als streng.",
+    "Die Schreibweise ist klar und im deutschsprachigen Raum gut lesbar."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenzbasis ist schmal und überwiegend lexikalisch; daraus lässt sich keine breite gesellschaftliche Bewertung ableiten.",
+    "Einzelne Quellen nennen mögliche Verbindungen zu bekanntem Namensträgerinnenbezug oder Popkultur, das ist aber nicht als allgemeine Wahrnehmung zu verallgemeinern."
+  ],
+  "short_summary": "Anika wird in den Quellen überwiegend freundlich, klassisch und sachlich wahrgenommen; die Evidenz ist aber begrenzt und vor allem namenskundlich.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.95,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Anika � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/A/An/Anika/"
+    },
+    {
+      "confidence": 0.94,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Anika: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Anika.html"
+    }
+  ],
+  "style_effect": [
+    "freundlich",
+    "klassisch",
+    "weich im Klang",
+    "alltagsnah",
+    "zeitlos",
+    "informativ",
+    "leicht international anschlussfähig"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Im deutschsprachigen Raum bekannt und verständlich, aber nicht auffällig dominant. Die Wahrnehmung scheint eher aus Namenslexika, Bedeutungsangaben und Beliebtheitsdiskussionen zu kommen als aus starker öffentlicher Debatte."
+}

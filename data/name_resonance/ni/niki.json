@@ -1,0 +1,69 @@
+{
+  "associations": [
+    "Kurz- und Koseform",
+    "unisex",
+    "altgriechische Herkunft",
+    "Bedeutung: Sieg des Volkes",
+    "Namenstag am 6. Dezember",
+    "selten bis mäßig verbreitet",
+    "Beliebtheit in Deutschland wird genannt"
+  ],
+  "confidence": 0.82,
+  "display_text": "Niki wirkt im deutschsprachigen Raum eher neutral bis leicht positiv: kurz, modern, unisex und mit griechischer Namensbedeutung verbunden. Die Quellenlage ist vor allem namenskundlich, daher nur eingeschränkt aussagekräftig für die öffentliche Resonanz.",
+  "evidence_quality": "mittel bis schwach für öffentliche Resonanz, gut für namenskundliche Einordnung",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Niki",
+  "normalized_name": "niki",
+  "overall_resonance": "Niki wird in den verfügbaren Namensquellen überwiegend neutral bis leicht positiv dargestellt. Der Name erscheint vor allem als kurze, informelle und unisex verwendbare Form mit klassisch-griechischer Bedeutung. Eine starke öffentliche Bewertung lässt sich daraus nicht ableiten.",
+  "practical_notes": [
+    "Für die Suche wirkt Niki unkompliziert, kurz und leicht merkbar.",
+    "Der Name kann je nach Kontext als Spitzname, Kurzform oder eigenständiger Vorname gelesen werden.",
+    "Wegen der Unisex-Wirkung kann die Geschlechtszuordnung ohne Zusatzkontext offen bleiben."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz basiert fast ausschließlich auf Namensportalen und ist daher nur eingeschränkt geeignet, echte öffentliche Resonanz abzubilden.",
+    "Beliebtheitsangaben können je nach Jahr und Quelle schwanken.",
+    "Es gibt keinen Hinweis auf eine soziale Stigmatisierung des Namens in den vorliegenden Quellen."
+  ],
+  "short_summary": "Niki wird in den Quellen sachlich, eher freundlich und als kurze unisex-Kurzform mit griechischer Herkunft beschrieben. Für eine echte öffentliche Resonanz ist die Evidenz jedoch begrenzt.",
+  "source_count": 3,
+  "sources": [
+    {
+      "confidence": 0.92,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Niki � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/N/Ni/Niki/"
+    },
+    {
+      "confidence": 0.94,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "Vorname Niki � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/N/Ni/Niki/"
+    },
+    {
+      "confidence": 0.9,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Niki: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Niki.html"
+    }
+  ],
+  "style_effect": [
+    "kurz und modern",
+    "informell bzw. kosenamig",
+    "unisex/genderneutral wahrnehmbar",
+    "namenskundlich klar einordenbar",
+    "leicht freundlich bis sachlich"
+  ],
+  "usable_evidence_count": 3,
+  "visibility": "Im deutschsprachigen Namensumfeld ist Niki als bekannter, aber eher nicht großflächig dominanter Vorname sichtbar. Die Quellen verweisen auf vorhandene Beliebtheit bzw. Nennung in Hitlisten, ohne ein eindeutig auffälliges Trendbild zu zeigen."
+}

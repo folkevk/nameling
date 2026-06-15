@@ -1,0 +1,59 @@
+{
+  "associations": [
+    "Koseform von Elisabeth oder Eleonore",
+    "auch als Variante zu Elli/Elisa/Elke genannt",
+    "Bedeutungsbezüge wie 'Gott ist Fülle' oder ähnliche Herkunftsdeutungen",
+    "Namenstag wird genannt",
+    "in Namenslexika als bekannt und beliebt beschrieben"
+  ],
+  "confidence": 0.89,
+  "display_text": "Elly wirkt in der öffentlichen Wahrnehmung überwiegend positiv: kurz, freundlich und klassisch-feminin. In den vorliegenden Quellen steht vor allem die Bedeutung und Herkunft des Namens im Mittelpunkt; die Evidenz ist gut, aber eher lexikalisch als breit gesellschaftlich.",
+  "evidence_quality": "Gut für eine vorsichtige Namensbeschreibung, aber inhaltlich vor allem auf wenige lexikalische Webquellen gestützt; öffentliche Breitenresonanz nur eingeschränkt messbar.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Elly",
+  "normalized_name": "elly",
+  "overall_resonance": "Überwiegend positiv und freundlich-informativ; der Name wird vor allem als kurze, vertraute Kose- oder Kurzform wahrgenommen.",
+  "practical_notes": [
+    "Für Suchende wirkt Elly unkompliziert, freundlich und leicht merkbar.",
+    "Die Schreibweise ist kurz, klar und in Deutschland gut lesbar.",
+    "Die öffentliche Wahrnehmung scheint stärker von Bedeutung/Herkunft als von Trends geprägt zu sein."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt fast ausschließlich aus Namenslexika und einer begrenzten Zahl von Quellen.",
+    "Beliebtheits- und Sympathieeindrücke sind eher informationsgetrieben als durch breite Alltagsresonanz belegt.",
+    "Keine belastbaren Hinweise auf soziale Stigmatisierung erkennbar."
+  ],
+  "short_summary": "Elly wird in Deutschland vor allem positiv, freundlich und als kurze, klassische Koseform wahrgenommen. Die Quellen betonen Herkunft, Bedeutung und Beliebtheit; breite Alltagsresonanz ist jedoch nur begrenzt belegt.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "Vorname Elly � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/E/El/Elly/"
+    },
+    {
+      "confidence": 0.84,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Elly: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Elly.html"
+    }
+  ],
+  "style_effect": [
+    "kurz und eingängig",
+    "lieblich/kosehaft",
+    "klassisch-feminin",
+    "zeitlos statt modisch-extrem",
+    "informativ mit Fokus auf Herkunft und Bedeutung"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Im deutschsprachigen Raum sichtbar, aber eher als klassischer, weniger alltäglicher Mädchenvorname mit Lexikon- und Namensdatenbank-Präsenz."
+}

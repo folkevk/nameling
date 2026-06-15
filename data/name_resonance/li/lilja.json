@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "Lilie",
+    "Reinheit",
+    "Blumen- und Naturbezug",
+    "färöische, finnische, isländische und schwedische Namensform",
+    "kurzer, klanglicher Vorname"
+  ],
+  "confidence": 0.84,
+  "display_text": "Lilja wirkt in den verfügbaren Quellen freundlich, weich und naturverbunden. Der Name wird meist mit „Lilie“ und Reinheit assoziiert und als skandinavische Namensform beschrieben. In Deutschland scheint er eher selten bis mäßig bekannt zu sein. Die Evidenz ist jedoch begrenzt, da sie vor allem aus Namenslexika stammt und wenig echte öffentliche Diskussion enthält.",
+  "evidence_quality": "mittel bis schwach: mehrere einschlägige Namensquellen, aber wenig echte öffentliche Resonanz oder unabhängige Meinungen.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Lilja",
+  "normalized_name": "lilja",
+  "overall_resonance": "Überwiegend freundlich und unaufgeregt: Lilja wird in den verfügbaren Namensquellen meist als naturverbunden, weich klingend und eher positiv konnotiert beschrieben. Die öffentliche Resonanz wirkt dabei eher zurückhaltend als breit diskutiert.",
+  "practical_notes": [
+    "Für eine Namenssuche spricht der Name durch seinen klaren, freundlichen Klang.",
+    "Die Schreibweise ist kurz und einprägsam.",
+    "Wer einen seltenen, aber gut verständlichen Namen sucht, findet hier eine passende Option."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt vor allem aus Namenslexika und Datenbankseiten, nicht aus breiter öffentlicher Diskussion.",
+    "Die positiven Einordnungen sind eher beschreibend als eindeutig wertend.",
+    "Aussagen zur Wahrnehmung in Deutschland sollten vorsichtig gelesen werden, da keine starke Meinungsbasis vorliegt."
+  ],
+  "short_summary": "Lilja wird in den Quellen meist positiv und naturbezogen dargestellt; in Deutschland ist der Name eher selten bis mäßig bekannt, bei insgesamt schwacher öffentlicher Diskussion.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.95,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Lilja � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/L/Li/Lilja/"
+    },
+    {
+      "confidence": 0.9,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Lilja: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Lilja.html"
+    }
+  ],
+  "style_effect": [
+    "weich",
+    "zart",
+    "naturnah",
+    "elegant",
+    "modern-skandinavisch",
+    "hell und feminin"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland wirkt der Name eher selten bis mäßig bekannt und ist damit präsent, aber nicht alltäglich. Die Sichtbarkeit in den Quellen ist vorhanden, die öffentliche Diskussion selbst jedoch eher schwach."
+}

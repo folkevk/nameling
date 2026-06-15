@@ -1,0 +1,59 @@
+{
+  "associations": [
+    "altfranzösische Herkunft",
+    "Bedeutung im Umfeld von Chantal/Chantalle oft mit Felsblock, Mauerstein oder Eckstein verknüpft",
+    "Nebenform von Chantal",
+    "Namenstag am 12. Dezember",
+    "Schreibvarianten wie Chantale, Chantall, Chantalee, Chantel, Chantell, Chantelle"
+  ],
+  "confidence": 0.78,
+  "display_text": "Chantalle: seltene, französisch geprägte Nebenform von Chantal. Die Wahrnehmung ist insgesamt eher sachlich-neutral, teils mit gemischten Meinungen zu Klang und Schreibweise.",
+  "evidence_quality": "mittel: gute namenkundliche Basis, aber begrenzte öffentliche Resonanzdaten und teilweise kommentarbasiert",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Chantalle",
+  "normalized_name": "chantalle",
+  "overall_resonance": "eher sachlich-informativ mit leicht gemischter öffentlicher Wahrnehmung",
+  "practical_notes": [
+    "Für eine Namenssuche eignet sich eine kurze Einordnung als seltene, französisch geprägte Variante von Chantal.",
+    "Die Schreibweise kann als auffällig oder variantenreich wahrgenommen werden.",
+    "Die öffentliche Darstellung wirkt eher neutral bis leicht ambivalent, nicht stark polarisiert."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz zur öffentlichen Resonanz ist nur teilweise belastbar, da ein Teil aus lexikalischen Quellen und ein Teil aus nutzergenerierten Kommentaren stammt.",
+    "Mögliche Wertungen zur Klang- oder Schreibweise sind subjektiv und nicht als allgemeine Mehrheitsmeinung zu verstehen.",
+    "Keine belastbare Stigmatisierung erkennbar; falls einzelne Vorurteile existieren, wären sie als gesellschaftliche Einzelmeinungen zu behandeln."
+  ],
+  "short_summary": "Chantalle wird in Deutschland vor allem als seltene, französisch geprägte Nebenform von Chantal wahrgenommen. Die öffentliche Resonanz wirkt insgesamt sachlich und eher neutral, mit einzelnen subjektiven Bewertungen zu Klang und Schreibweise.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.95,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Chantalle � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/C/Ch/Chantalle/"
+    },
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "mixed",
+      "source_type": "web",
+      "title": "&#9655; Vorname Chantalle: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Chantalle.html"
+    }
+  ],
+  "style_effect": [
+    "französisch klingend",
+    "weiblich konnotiert",
+    "modern wirkend",
+    "seltenheitsbedingt auffällig",
+    "teils als Schreibvariante von Chantal wahrgenommen"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "in Deutschland eher bekannt, aber insgesamt eher selten"
+}

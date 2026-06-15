@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "biblischer Ursprung",
+    "Form von Elias",
+    "Bedeutung: \"mein Gott ist Jahwe\"",
+    "Namenstag",
+    "Beliebtheit in Deutschland",
+    "griechisch/hebräische Namensspuren"
+  ],
+  "confidence": 0.86,
+  "display_text": "Ilias wirkt im deutschsprachigen Raum überwiegend positiv bis neutral: ein vertrauter, biblisch geprägter Vorname mit moderner, international anschlussfähiger Note. Die verfügbaren Quellen sind vor allem Namenslexika, daher ist die Aussage zur öffentlichen Resonanz vorsichtig zu lesen.",
+  "evidence_quality": "Mittel bis schwach: mehrere konsistente Lexikonquellen, aber wenig echte öffentliche Diskussion oder unabhängige Alltagsresonanz.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Ilias",
+  "normalized_name": "ilias",
+  "overall_resonance": "Überwiegend positiv bis neutral, mit sachlich-informativem Namensimage.",
+  "practical_notes": [
+    "Gut verständlich und leicht aussprechbar im deutschen Sprachraum.",
+    "Wirkt vertraut, ohne ungewöhnlich zu sein.",
+    "Durch die biblische und internationale Herkunft flexibel einsetzbar.",
+    "Kurze Koseformen sind möglich, werden aber nicht überall gleich verwendet."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stützt sich fast ausschließlich auf Namenslexika und Portalseiten, nicht auf breite öffentliche Debatten.",
+    "Die Wahrnehmung kann regional und altersabhängig variieren.",
+    "Positive Deutungen wie \"Sonnenschein\" erscheinen eher als Namensdeutung als als gesicherte Alltagsassoziation."
+  ],
+  "short_summary": "Ilias wird im deutschsprachigen Raum überwiegend positiv und neutral wahrgenommen: ein vertrauter, biblisch geprägter Vorname mit moderner, internationaler Note. Die öffentliche Evidenz ist jedoch vor allem lexikalisch und nicht stark debattenbasiert.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Ilias � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/I/Il/Ilias/"
+    },
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Ilias: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Ilias.html"
+    }
+  ],
+  "style_effect": [
+    "sachlich",
+    "namenskundlich",
+    "klassisch-biblisch",
+    "international anschlussfähig",
+    "modern und vertraut wirkend"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Der Name ist im deutschsprachigen Raum sichtbar und bekannt, vor allem über Namenslexika und Portale. Die öffentliche Rezeption wirkt eher beschreibend als diskutierend, daher ist die Evidenz für echte Alltagsresonanz begrenzt."
+}

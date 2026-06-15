@@ -1,0 +1,62 @@
+{
+  "associations": [
+    "weiblicher Vorname",
+    "türkisch",
+    "arabisch",
+    "Bedeutung und Herkunft",
+    "Sibylla",
+    "Wasserfontäne / Brunnen",
+    "Prophetin",
+    "Fruchtbarkeit/Kybele",
+    "Namenstag"
+  ],
+  "confidence": 0.84,
+  "display_text": "Sibel wird in den vorliegenden Namensquellen überwiegend positiv bis neutral wahrgenommen: als klangvoller, weiblicher Vorname mit türkisch-arabischer Herkunft. Die Datenlage ist eher lexikalisch und daher nur begrenzt aussagekräftig für eine breite öffentliche Debatte.",
+  "evidence_quality": "mittel: mehrere Namensdatenbanken mit klarer Beschreibung, aber nur begrenzte Aussagekraft für echte öffentliche Resonanz",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Sibel",
+  "normalized_name": "sibel",
+  "overall_resonance": "Für Sibel zeigt die verfügbare Evidenz eine eher positive, vor allem sachlich-namenskundliche Resonanz. Der Name wird in deutschen Namensquellen meist als weiblicher Vorname mit türkisch-arabischen Bezügen beschrieben und häufig als klangvoll oder schön eingeordnet. Die öffentliche Wahrnehmung wirkt dabei eher informativ als kontrovers.",
+  "practical_notes": [
+    "Für Suchmaschinen-Texte eignet sich eine vorsichtige Formulierung wie: ‚Sibel wird häufig als klangvoller, weiblicher Vorname mit türkisch-arabischer Prägung beschrieben.‘",
+    "Wenn eine neutrale Darstellung gewünscht ist, den Fokus auf Herkunft, Klang und Namenstag legen statt auf Wertungen.",
+    "Keine Verallgemeinerung aus einzelnen Kommentaren ableiten."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt überwiegend aus Namenslexika und nicht aus einer breiten öffentlichen Diskussion.",
+    "Positive Klangurteile können aus redaktionellen Beschreibungen stammen und sind nicht automatisch ein repräsentatives Meinungsbild.",
+    "Es liegen keine Hinweise auf starke soziale Stigmatisierung vor, aber auch keine belastbare Breitenmessung der Wahrnehmung."
+  ],
+  "short_summary": "Sibel wird in deutschen Namensquellen meist positiv oder neutral beschrieben: klangvoll, weiblich und mit türkisch-arabischer Herkunft. Die Evidenz ist jedoch eher lexikalisch als breit öffentlich.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Sibel � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/S/Si/Sibel/"
+    },
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "überwiegend positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Sibel: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Sibel.html"
+    }
+  ],
+  "style_effect": [
+    "klingt weich und melodisch",
+    "wirkt modern, zugleich kulturell verankert",
+    "wird in Quellen häufig als wohlklingend beschrieben",
+    "eher sachlich-informativ als auffällig oder polarisierend"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Mittlere Sichtbarkeit: Der Name ist in Namensdatenbanken präsent und wird dort regelmäßig erklärt, aber die Evidenz bildet keine breite öffentliche Debatte ab. Die Aussagen zur Resonanz sind daher nur vorsichtig zu gewichten."
+}

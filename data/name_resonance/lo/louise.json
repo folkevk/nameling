@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "französische Form von Louis",
+    "weibliche Form von Ludwig",
+    "Bedeutung: „berühmte Kriegerin“ / „berühmte Kämpferin“",
+    "auch als „Beschützerin“ beschrieben",
+    "Namenstag wird genannt",
+    "häufig mit Koseformen wie Lou oder Lulu verbunden"
+  ],
+  "confidence": 0.88,
+  "display_text": "Louise gilt in Deutschland als klassischer, eleganter und international verständlicher Mädchenname. Die vorliegenden Quellen beschreiben ihn überwiegend positiv, mit Bedeutungen wie „berühmte Kämpferin“ und Verweisen auf die französische Form von Louis. Die Evidenz ist jedoch nur mittelstark, da sie vor allem aus zwei Namenslexika stammt.",
+  "evidence_quality": "mittel bis gut; zwei klar namenskundliche Quellen, aber keine breite öffentliche Diskussionslage",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Louise",
+  "normalized_name": "louise",
+  "overall_resonance": "Louise wird in den vorliegenden Quellen überwiegend positiv und klassisch wahrgenommen. Der Name wirkt traditionell, elegant und zugleich international anschlussfähig; Hinweise auf eine besondere öffentliche Kontroverse gibt es nicht.",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt Louise seriös, klassisch und gut verständlich.",
+    "Der Name funktioniert im deutschen Sprachraum und zugleich international recht gut.",
+    "Die Wahrnehmung ist eher traditionell als trendig, aber nicht altmodisch."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist nur mittelstark, da sie im Wesentlichen aus zwei Namenslexikon-/Namensdatenbank-Quellen besteht.",
+    "Es gibt keine belastbaren Hinweise auf gesellschaftliche Stigmatisierung oder eine kontroverse öffentliche Debatte zum Namen.",
+    "Beliebtheitsangaben können je nach Quelle und Zeitpunkt variieren."
+  ],
+  "short_summary": "Louise wird in Deutschland überwiegend positiv, klassisch und elegant wahrgenommen; die Evidenz ist solide, aber auf wenige Namensquellen beschränkt.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "Vorname Louise � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/L/Lo/Louise/"
+    },
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Louise: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Louise.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "elegant",
+    "zeitlos",
+    "international",
+    "namenskundlich vertraut",
+    "eher fein als laut"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland sichtbar und etabliert, aber eher als klassischer als als sehr häufiger Vorname. Die Quellen deuten auf eine solide, sachliche Bekanntheit mit moderater Beliebtheit hin."
+}

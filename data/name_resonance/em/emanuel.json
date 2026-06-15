@@ -1,0 +1,65 @@
+{
+  "associations": [
+    "hebräische Herkunft",
+    "Bedeutung: „Gott mit uns“ bzw. „Gott sei mit uns“",
+    "biblischer Bezug",
+    "griechisch-lateinische Variante von Immanuel",
+    "Namenstag",
+    "Deutschland",
+    "klassischer Jungenname",
+    "Beliebtheit",
+    "vergleichsweise häufig in Griechenland und im spanischen Sprachraum"
+  ],
+  "confidence": 0.97,
+  "display_text": "Emanuel: klassischer, biblisch geprägter Vorname mit der Bedeutung „Gott mit uns“. In Deutschland bekannt, aber nicht sehr häufig; die öffentliche Resonanz wirkt überwiegend neutral bis leicht positiv und traditionsbewusst.",
+  "evidence_quality": "hoch: zwei klare, namebezogene und inhaltlich passende Quellen mit konsistenter Bedeutungs-, Herkunfts- und Beliebtheitsbeschreibung.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Emanuel",
+  "normalized_name": "emanuel",
+  "overall_resonance": "Emanuel wird in der öffentlichen Namenswahrnehmung überwiegend als klassisch, traditionsreich und positiv-sachlich beschrieben. Die Resonanz ist eher neutral bis leicht positiv, mit klarer religiös-historischer Prägung.",
+  "practical_notes": [
+    "Wirkt in formellen wie privaten Kontexten gut anschlussfähig.",
+    "Für Suchende, die einen traditionellen und zugleich vertrauten Namen bevorzugen, ist Emanuel eine naheliegende Option.",
+    "Die Wahrnehmung ist eher klassisch als modisch."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Keine soziale Stigmatisierung erkennbar; die Quellen sind vor allem namenkundlich und nicht bewertend.",
+    "Die positive Wirkung ergibt sich eher aus Bedeutung und Tradition als aus modernem Trendcharakter.",
+    "Die Angaben zur Beliebtheit sind beschreibend und sollten nicht als allgemeine gesellschaftliche Wertung verstanden werden."
+  ],
+  "short_summary": "Emanuel wird in Deutschland meist als klassischer, biblisch geprägter und seriös wirkender Vorname wahrgenommen – eher neutral bis leicht positiv, mit solider Tradition und moderater Bekanntheit.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.99,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Emanuel � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/E/Em/Emanuel/"
+    },
+    {
+      "confidence": 0.99,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Emanuel: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Emanuel.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "traditionsbewusst",
+    "biblisch geprägt",
+    "sachlich-informativ",
+    "seriös",
+    "zeitlos",
+    "eher international anschlussfähig"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland bekannt und gebräuchlich, aber nicht extrem häufig; die Verbreitung wird eher als stabil bis abnehmend beschrieben."
+}

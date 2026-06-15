@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "lateinischer Ursprung",
+    "Bedeutung im Sinn von 'die Wiedergeborene'",
+    "französische bzw. englische Form",
+    "weiblicher Vorname",
+    "selten im deutschsprachigen Raum",
+    "Namenstag",
+    "Verwechslungsgefahr mit der männlichen Schreibweise als Randthema"
+  ],
+  "confidence": 0.86,
+  "display_text": "Renee gilt im deutschsprachigen Raum als seltener, international anmutender Vorname mit eher elegantem Klang. Die öffentliche Resonanz ist überwiegend neutral bis leicht positiv; zugleich ist die Evidenz begrenzt und vor allem auf Namensportale gestützt.",
+  "evidence_quality": "mittel bis schwach: wenige, überwiegend redaktionelle Namensquellen mit etwas Community-Bezug",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Renee",
+  "normalized_name": "renee",
+  "overall_resonance": "Renee wird im deutschsprachigen Raum überwiegend sachlich-neutral bis leicht positiv wahrgenommen. Der Name wirkt bekannt, aber eher selten und dadurch etwas ungewöhnlich.",
+  "practical_notes": [
+    "Für Suchende wirkt Renee eher stilvoll und international als massenhaft verbreitet.",
+    "Die Schreibweise kann in Deutschland gelegentlich erklärungsbedürftig sein.",
+    "Als öffentlicher Eindruck überwiegt eine neutrale bis freundlich-positiv gefärbte Resonanz."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt nur aus zwei Namensseiten und ist damit begrenzt.",
+    "Beliebtheitsaussagen sind zeitabhängig und regional unterschiedlich.",
+    "Einige Hinweise stammen aus Kommentaren und sollten nur vorsichtig gewertet werden."
+  ],
+  "short_summary": "Renee wird in Deutschland als seltener, internationaler und eher elegant wirkender Vorname beschrieben. Die öffentliche Resonanz ist überwiegend neutral bis leicht positiv, bei begrenzter Evidenz.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Renee � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/R/Re/Renee/"
+    },
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Renee: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Renee.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch-französisch anmutend",
+    "international verständlich",
+    "elegant und weich im Klang",
+    "eher selten als modisch",
+    "lexikalisch und namenskundlich aufgeladen"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Eher geringe Sichtbarkeit in Deutschland; in Namensportalen wird Renee als selten bis ungewöhnlich beschrieben."
+}

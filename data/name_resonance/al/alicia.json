@@ -1,0 +1,59 @@
+{
+  "associations": [
+    "die Vornehme / die Adelige / die Edle",
+    "spanische bzw. englische Form von Alice",
+    "althochdeutsche Wurzeln über Adelheid",
+    "Namenstag",
+    "Spitznamen wie Alice, Lissy, Ally"
+  ],
+  "confidence": 0.89,
+  "display_text": "Alicia wird in den verfügbaren Quellen überwiegend positiv beschrieben: klangvoll, modern und mit edler Bedeutung. In Deutschland scheint der Name bekannt und beliebt, aber nicht extrem dominant zu sein. Die Evidenz ist allerdings vor allem lexikalisch und stammt aus wenigen Namensportalen, daher ist die öffentliche Resonanz nur vorsichtig zu bewerten.",
+  "evidence_quality": "mittel bis gut; inhaltlich klar, aber hauptsächlich aus wenigen Namensportalen statt aus breiter öffentlicher Diskussion",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Alicia",
+  "normalized_name": "alicia",
+  "overall_resonance": "Alicia wird in der verfügbaren deutschsprachigen Evidenz überwiegend positiv und sachlich beschrieben. Der Name wirkt modern, klangvoll und zugleich traditionsnah, mit klaren Bezügen zu edler Bedeutung und internationaler Verwendbarkeit.",
+  "practical_notes": [
+    "Für Suchmaschinen wirkt der Name positiv, vertraut und leicht zugänglich.",
+    "Die Schreibweise ist international geläufig und in Deutschland gut verständlich.",
+    "Der Name hat eher einen eleganten als einen ausgefallenen Eindruck."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist begrenzt und stützt sich fast nur auf Namenslexika bzw. Portaltexte.",
+    "Es gibt kaum echte gesellschaftliche Diskussion oder kontroverse Resonanz zum Namen.",
+    "Beliebtheitsaussagen sollten vorsichtig gelesen werden, da sie nicht aus einer breiten Datenbasis stammen."
+  ],
+  "short_summary": "Alicia wird in Deutschland überwiegend positiv, elegant und international wahrgenommen; die Evidenz ist jedoch eher lexikalisch als gesellschaftlich breit.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.92,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "Vorname Alicia � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/A/Al/Alicia/"
+    },
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Alicia: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Alicia.html"
+    }
+  ],
+  "style_effect": [
+    "modern und international",
+    "weich-klingend",
+    "elegant/edel konnotiert",
+    "klar weiblich wahrgenommen",
+    "informativ-lexikalische Wirkung"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland offenbar gut bekannt und beliebt, aber nicht als absoluter Spitzenname belegt. Die vorhandenen Quellen zeigen vor allem eine lexikalische und namenskundliche Wahrnehmung, weniger eine breite öffentliche Debatte."
+}

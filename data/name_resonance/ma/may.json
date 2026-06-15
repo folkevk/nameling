@@ -1,0 +1,62 @@
+{
+  "associations": [
+    "englische Herkunft",
+    "Monat Mai",
+    "römische Göttin Maia",
+    "Kurzform von Mary",
+    "Kurzform von Margaret",
+    "weiblicher Vorname",
+    "selten, aber in Deutschland vergeben"
+  ],
+  "confidence": 0.86,
+  "display_text": "May wirkt in den verfügbaren Quellen kurz, international und eher selten. Die öffentliche Wahrnehmung ist überwiegend neutral bis leicht positiv, mit Bezügen zu englischer Herkunft, dem Monat Mai und der römischen Göttin Maia. Die Evidenz ist allerdings begrenzt und stammt vor allem aus Namenslexika.",
+  "evidence_quality": "mittel: zwei namenskundliche Webquellen mit klarer Namensdiskussion, aber nur begrenzte öffentliche Kommentierung und wenig breite Resonanzdaten.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "May",
+  "normalized_name": "may",
+  "overall_resonance": "May wird in den verfügbaren Quellen überwiegend sachlich und eher positiv bis neutral wahrgenommen. Der Name wirkt international, kurz und ungewohnt, in Deutschland aber bekannt genug, um als vergebener Vorname aufzutauchen. Die öffentliche Resonanz ist insgesamt eher leise als stark trendprägend.",
+  "practical_notes": [
+    "Für eine Namenssuche ist May ein kurzer, international verständlicher Name mit klarer Herkunfts- und Bedeutungsassoziation.",
+    "Die Seltenheit kann als individuell wahrgenommen werden, bedeutet aber nicht automatisch besondere Bewertung.",
+    "Wenn eine sehr eindeutige Alltagspräsenz gesucht wird, ist zu beachten, dass der Name in Deutschland eher selten vergeben wird."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz zur öffentlichen Resonanz ist begrenzt und stammt überwiegend aus Namenslexika.",
+    "Vereinzelt genannte Eindrücke zu Schreibweise und Aussprache sollten nicht verallgemeinert werden.",
+    "Es gibt keinen Hinweis auf eine starke gesellschaftliche Stigmatisierung des Namens in den vorliegenden Quellen."
+  ],
+  "short_summary": "May wird als seltener, international klingender Vorname sachlich bis eher positiv beschrieben; die Quellen betonen Herkunft, Bedeutung und Seltenheit, ohne starke Kontroversen.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname May � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/M/Ma/May/"
+    },
+    {
+      "confidence": 0.86,
+      "is_name_discussion": true,
+      "sentiment": "mixed",
+      "source_type": "web",
+      "title": "&#9655; Vorname May: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,May.html"
+    }
+  ],
+  "style_effect": [
+    "kurz und klar",
+    "international klingend",
+    "modern-zeitlos",
+    "selten/ungewöhnlich",
+    "weich und zurückhaltend wirkend",
+    "lexikalisch gut einordbar"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Eher niedrig bis moderat: Der Name wird beschrieben, diskutiert aber nicht breit oder kontrovers. Die Evidenz stammt vor allem aus Namenslexika und nur wenig aus Nutzerkommentaren, daher ist die öffentliche Resonanz nur begrenzt belastbar."
+}

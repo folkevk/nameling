@@ -1,0 +1,63 @@
+{
+  "associations": [
+    "Beschützer des Friedens",
+    "Friede",
+    "Schutz",
+    "Sicherheit",
+    "altdeutsche Herkunft",
+    "traditioneller Jungenname",
+    "selten",
+    "früher beliebter"
+  ],
+  "confidence": 0.87,
+  "display_text": "Friedhelm wird überwiegend als traditioneller, seltener deutscher Jungenname mit positiver Bedeutung („Beschützer des Friedens“) wahrgenommen. Die Resonanz wirkt sachlich-wertschätzend und leicht nostalgisch, nicht trendig. Die Evidenz ist jedoch nur mittelstark, da sie vor allem aus Namenslexika stammt.",
+  "evidence_quality": "mittel",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Friedhelm",
+  "normalized_name": "friedhelm",
+  "overall_resonance": "Friedhelm wird in der verfügbaren Evidenz überwiegend als traditioneller, alter deutscher Jungenname mit positiver Bedeutungsnähe wahrgenommen: „Beschützer des Friedens“, mit Assoziationen wie Friede, Schutz und Sicherheit. Die öffentliche Resonanz wirkt eher sachlich-wertschätzend als modisch oder trendig. Gleichzeitig wird der Name heute als selten beschrieben, wodurch er eher nostalgisch als zeitgemäß populär erscheint.",
+  "practical_notes": [
+    "Für Namenssuchende dürfte Friedhelm vor allem durch seine klare Bedeutung und historische Tiefe auffallen.",
+    "Wer einen seltenen, klassischen und inhaltlich positiv konnotierten Namen sucht, könnte ihn passend finden.",
+    "Im modernen Alltag kann der Name wegen seiner Seltenheit und seines älteren Klangbildes als eher markant wahrgenommen werden."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist nur mittelstark und stammt vor allem aus redaktionellen Namensseiten, nicht aus breiter öffentlicher Meinungsforschung.",
+    "Einige Angaben spiegeln eher Namenskunde und Kommentarbereiche wider als eine belastbare Gesamtwahrnehmung.",
+    "Die Einordnung als traditionell oder nostalgisch ist eine Tendenz, keine feste Eigenschaft des Namens."
+  ],
+  "short_summary": "Friedhelm wirkt öffentlich eher traditionell, selten und positiv bedeutungsnah; die Evidenz ist aber vor allem lexikalisch und daher nur mittelstark.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Friedhelm � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/F/Fr/Friedhelm/"
+    },
+    {
+      "confidence": 0.84,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Friedhelm: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Friedhelm.html"
+    }
+  ],
+  "style_effect": [
+    "traditionell",
+    "altdeutsch",
+    "etymologisch klar",
+    "leicht nostalgisch",
+    "sachlich",
+    "eher selten"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Der Name ist im deutschsprachigen Raum bekannt, aber aktuell eher wenig verbreitet. Die öffentliche Sichtbarkeit wirkt daher begrenzt und vor allem über Namenslexika und Namenskundeseiten präsent."
+}

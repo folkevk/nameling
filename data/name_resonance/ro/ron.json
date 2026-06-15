@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "Kurzform von Ronald",
+    "hebräische Deutung: Freude, Gesang",
+    "altnordische Deutung: Rat, Herrscher",
+    "relativ bekannt in Deutschland",
+    "selten bis moderat verbreitet",
+    "Harry-Potter-Bezug als Nebenaspekt"
+  ],
+  "confidence": 0.83,
+  "display_text": "Ron gilt in den vorliegenden Quellen als kurzer, bekannter und eher modern-zeitloser Vorname. Die öffentliche Wahrnehmung ist überwiegend neutral bis leicht positiv; genannt werden vor allem Herkunft, Bedeutungen und ein dezenter Popkultur-Bezug. Die Evidenz ist dabei eher beschreibend als diskursiv.",
+  "evidence_quality": "mittel: zwei einschlägige Namensquellen mit überwiegend beschreibender, leicht positiver Tendenz; wenig echte öffentliche Debatte",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Ron",
+  "normalized_name": "ron",
+  "overall_resonance": "Der Vorname Ron wirkt in der vorliegenden deutschsprachigen Namens-Evidenz überwiegend bekannt, kurz und eher modern-zeitlos. Die öffentliche Rezeption ist insgesamt freundlich bis neutral, mit leicht positiver Tendenz durch Bedeutungs- und Herkunftsangaben.",
+  "practical_notes": [
+    "Für Suchmaschinen eignet sich Ron als kurzer, klarer und gut merkbarer Vorname.",
+    "Die Wirkung ist eher sachlich-modern als verspielt oder traditionell.",
+    "Da die Quellen überwiegend beschreibend sind, ist die öffentliche Resonanz nur begrenzt direkt messbar."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt vor allem aus Namenslexika und beschreibenden Namensseiten, nicht aus breiter öffentlicher Debatte.",
+    "Einzelne Zuordnungen wie Bedeutungen oder Stilwirkungen sind interpretativ und nicht als harte Fakten zu lesen.",
+    "Der Popkultur-Bezug ist vorhanden, aber eher randständig und sollte nicht übergewichtet werden."
+  ],
+  "short_summary": "Ron wird in der verfügbaren Namens-Evidenz als kurzer, bekannter und eher modern-zeitlos wirkender Vorname beschrieben, mit insgesamt neutral bis leicht positiver Resonanz.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.95,
+      "is_name_discussion": true,
+      "sentiment": "positive",
+      "source_type": "web",
+      "title": "Vorname Ron � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/R/Ro/Ron/"
+    },
+    {
+      "confidence": 0.91,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Ron: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Ron.html"
+    }
+  ],
+  "style_effect": [
+    "kurz und prägnant",
+    "modern-zeitlos",
+    "einfach und klar",
+    "informativ statt ausgeprägt emotional",
+    "durch die Kürze markant",
+    "teilweise mit Popkultur-Anklang"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland scheint Ron als Vorname relativ bekannt zu sein, ohne sehr stark dominiert zu wirken. Die Wahrnehmung ist eher nüchtern-namenskundlich als diskursiv oder kontrovers."
+}

@@ -1,0 +1,65 @@
+{
+  "associations": [
+    "altdeutsch",
+    "edel",
+    "vornehm",
+    "klassisch",
+    "historisch",
+    "selten",
+    "Namenstag",
+    "weiblicher Vorname",
+    "mittelalterliche Tradition",
+    "Heidi als Kurzform/Verwandtschaft"
+  ],
+  "confidence": 0.93,
+  "display_text": "Adelheid wird meist als klassisch, historisch und vornehm wahrgenommen. Der Name wirkt altdeutsch, traditionell und eher selten. Die öffentliche Resonanz ist insgesamt wertschätzend, aber deutlich stärker von Namenskunde als von moderner Alltagsnutzung geprägt.",
+  "evidence_quality": "gut: zwei klare, namenskundliche Quellen mit hoher Übereinstimmung; öffentliche Alltagsresonanz nur indirekt erschließbar",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Adelheid",
+  "normalized_name": "adelheid",
+  "overall_resonance": "Adelheid wird öffentlich meist als klassisch, historisch und eher vornehm wahrgenommen; der Name wirkt traditionell und sprachlich klar altdeutsch geprägt.",
+  "practical_notes": [
+    "Der Name hat eine deutliche historische und formelle Ausstrahlung.",
+    "Im heutigen Alltag wirkt Adelheid eher selten und daher markant.",
+    "Für ein modernes oder trendiges Namensbild ist die Resonanz eher zurückhaltend."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Wahrnehmung ist stark von Namenslexika und etymologischen Beschreibungen geprägt; daraus lässt sich nur begrenzt eine breite Alltagswahrnehmung ableiten.",
+    "Einzelne wertende Formulierungen in Quellen sollten nicht als allgemeine öffentliche Meinung über Personen mit diesem Namen verstanden werden."
+  ],
+  "short_summary": "Adelheid gilt überwiegend als klassischer, historisch geprägter und eher vornehmer Vorname mit seltener, traditioneller Wirkung.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.99,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Adelheid � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/A/Ad/Adelheid/"
+    },
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Adelheid: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Adelheid.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "traditionell",
+    "historisch",
+    "edel/vornehm",
+    "selten",
+    "namenskundlich",
+    "eher konservativ als modern"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "mittel bis niedrig"
+}

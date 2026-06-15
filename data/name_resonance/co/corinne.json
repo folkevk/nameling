@@ -1,0 +1,62 @@
+{
+  "associations": [
+    "französische Form von Corinna",
+    "altgriechischer Ursprung",
+    "Bedeutung: das Mädchen / die Jungfrau",
+    "Namenstag am 22. Oktober",
+    "in Deutschland selten",
+    "Spitznamen und Varianten werden erwähnt",
+    "historisch-literarischer Bezug"
+  ],
+  "confidence": 0.77,
+  "display_text": "Corinne wirkt in den vorliegenden Quellen klassisch, französisch geprägt und eher selten. Die öffentliche Resonanz ist überwiegend sachlich-informativ mit leicht positiver Tendenz, aber nur schwach breit belegt.",
+  "evidence_quality": "mittel bis schwach: gute inhaltliche Passung zum Namen, aber geringe Breite der öffentlichen Resonanz und überwiegend lexikalische Quellen.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Corinne",
+  "normalized_name": "corinne",
+  "overall_resonance": "Die öffentliche Wahrnehmung von „Corinne“ wirkt in den vorliegenden deutschsprachigen Namensquellen überwiegend sachlich-informativ bis leicht positiv. Der Name wird vor allem als französische Form mit griechischem Ursprung, klarer Bedeutung und klassischem Klang beschrieben; eine breite öffentliche Debatte ist jedoch kaum erkennbar.",
+  "practical_notes": [
+    "Für eine Namenssuche eignet sich die kurze Einordnung: klassisch, französisch klingend, selten.",
+    "Die Schreib- und Aussprachewirkung kann je nach Region als etwas ungewohnt empfunden werden, ohne dass dies negativ sein muss.",
+    "Die Quellen betonen eher Herkunft und Bedeutung als emotionale oder soziale Wertungen."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist source-spezifisch und stammt vor allem aus Namenslexika; daraus lässt sich nur begrenzt eine allgemeine öffentliche Resonanz ableiten.",
+    "Es gibt keine starke breit angelegte Diskussion, daher sollte die Einordnung als vorsichtig und nicht als repräsentative Gesamtwahrnehmung gelesen werden.",
+    "Einzelne Kommentare sind nicht ausreichend, um eine stabile öffentliche Bewertung abzuleiten."
+  ],
+  "short_summary": "Corinne wird in den verfügbaren deutschen Namensquellen meist als klassisch-französischer, seltener Vorname mit klarer Herkunft und Bedeutung beschrieben; die Resonanz wirkt eher sachlich bis leicht positiv.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Corinne � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/C/Co/Corinne/"
+    },
+    {
+      "confidence": 0.78,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Corinne: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Corinne.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "elegant",
+    "französisch geprägt",
+    "namenskundlich",
+    "eher selten",
+    "ruhig und sachlich wahrgenommen"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland eher selten und daher weniger alltagspräsent; die Sichtbarkeit entsteht vor allem über Namenslexika und Einträge zu Herkunft, Bedeutung und Beliebtheit, nicht über eine starke öffentliche Diskussion."
+}

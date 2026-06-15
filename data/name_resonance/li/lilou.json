@@ -1,0 +1,63 @@
+{
+  "associations": [
+    "französischer Ursprung",
+    "weiblicher Vorname",
+    "Kurzform/Koseform",
+    "moderne Namenswahl",
+    "möglicher Bezug zu Lilie",
+    "Bedeutungsbezüge wie „Gott ist Fülle“ bzw. „berühmte Kriegerin\"",
+    "Namenslexikon- und Beliebtheitskontext"
+  ],
+  "confidence": 0.82,
+  "display_text": "Lilou wirkt in Deutschland überwiegend positiv, modern und französisch-elegant. Die vorhandenen Quellen beschreiben den Namen als weiblich, kurz, melodisch und teils als Koseform; er erscheint eher beliebt und stilvoll als alltäglich. Die Evidenz ist jedoch schmal und stammt fast nur aus Namenslexika, daher ist die öffentliche Resonanz nur vorsichtig einzuordnen.",
+  "evidence_quality": "mittel: klare Namensdiskussion, aber stark auf wenige, namenskundliche Webquellen beschränkt",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Lilou",
+  "normalized_name": "lilou",
+  "overall_resonance": "Überwiegend positiv und modern wirkend, mit starkem französischem Klang und klarer Namenslexikon-Prägung. In der vorliegenden Evidenz wird Lilou vor allem als weiblicher, aktuell beliebter und eher liebevoll-kreativ wahrgenommener Vorname beschrieben.",
+  "practical_notes": [
+    "Für Suchmaschinen-Nutzer wirkt Lilou wie ein moderner, stilvoller Mädchenname mit französischem Flair.",
+    "Die Schreibweise ist kurz und merkfähig, kann aber außerhalb des französischen Kontexts erklärungsbedürftig sein.",
+    "Die Resonanz scheint eher freundlich und trendig als klassisch-traditionell."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist einseitig und besteht fast nur aus Namenslexika; daraus lässt sich nur eingeschränkt eine allgemeine öffentliche Meinung ableiten.",
+    "Positive Eindrücke können teilweise aus Herkunfts- und Bedeutungsangaben statt aus echter Alltagsresonanz stammen.",
+    "Keine belastbaren Hinweise auf Stigmatisierung oder negative soziale Zuschreibungen in der vorliegenden Evidenz."
+  ],
+  "short_summary": "Lilou wird in der vorliegenden Evidenz überwiegend positiv, modern und französisch geprägt dargestellt. Die öffentliche Resonanz wirkt freundlich und stilbewusst, ist aber wegen der schmalen Quellenlage nur vorsichtig zu beurteilen.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.95,
+      "is_name_discussion": true,
+      "sentiment": "positive",
+      "source_type": "web",
+      "title": "Vorname Lilou � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/L/Li/Lilou/"
+    },
+    {
+      "confidence": 0.91,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Lilou: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Lilou.html"
+    }
+  ],
+  "style_effect": [
+    "französisch",
+    "modern",
+    "weich und melodisch",
+    "kurz und eingängig",
+    "koseformartig",
+    "eher verspielt als streng",
+    "namenskundlich aufgeladen"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland wirkt der Name gut erkennbar und im Namensumfeld präsent, aber nicht als extrem häufig. Die öffentliche Wahrnehmung dürfte daher eher vertraut-auffällig als alltäglich sein."
+}

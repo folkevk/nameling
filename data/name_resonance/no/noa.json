@@ -1,0 +1,72 @@
+{
+  "associations": [
+    "hebräische Herkunft",
+    "biblischer Bezug",
+    "Bedeutung je nach Deutung: \"die Bewegende\" / \"die Ruhe Bringende\"",
+    "modern",
+    "international verwendbar",
+    "Beliebtheit in Deutschland",
+    "Unisex-Charakter",
+    "Aussprache nahe bei Noah"
+  ],
+  "confidence": 0.84,
+  "display_text": "Noa gilt in den vorliegenden Quellen als moderner, kurzer und international gut verwendbarer Name mit hebräischem bzw. biblischem Bezug. Die Resonanz ist überwiegend positiv bis sachlich, und in Deutschland wird der Name als beliebt beschrieben. Die Aussagekraft ist aber begrenzt, da die Evidenz vor allem aus Namenslexika stammt.",
+  "evidence_quality": "mittel bis gut, aber auf wenige lexikalische Quellen beschränkt",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Noa",
+  "normalized_name": "noa",
+  "overall_resonance": "Die öffentliche Rezeption von Noa in den vorliegenden Quellen ist überwiegend sachlich bis leicht positiv. Der Name wird vor allem als modern, kurz, international verwendbar und mit hebräischem bzw. biblischem Bezug beschrieben. In Deutschland wird er zudem als beliebt eingeordnet. Die Evidenz ist jedoch auf Namenslexikon-Seiten beschränkt, also eher informativ als breit öffentlich diskutiert.",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt Noa unkompliziert, modern und international.",
+    "Die Wahrnehmung ist eher beschreibend als kontrovers.",
+    "Wenn gewünscht, kann man die weibliche oder unisex Lesart im Kontext zusätzlich klären."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Datenlage ist begrenzt und stammt fast nur aus einzelnen Namenslexikon-Seiten.",
+    "Bedeutung und Herkunft können je nach Sprachkontext unterschiedlich dargestellt werden.",
+    "Die Nähe zu Noah kann zu Verwechslungen führen, ohne dass dies selbst eine negative Wertung ist."
+  ],
+  "short_summary": "Noa wird überwiegend positiv und modern wahrgenommen, vor allem als kurzer, internationaler Name mit hebräischem Bezug. Die Evidenz ist jedoch hauptsächlich lexikalisch und nicht breit öffentlich diskutiert.",
+  "source_count": 3,
+  "sources": [
+    {
+      "confidence": 0.94,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Noa � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/N/No/Noa/"
+    },
+    {
+      "confidence": 0.95,
+      "is_name_discussion": true,
+      "sentiment": "mostly neutral-positive",
+      "source_type": "web",
+      "title": "Vorname Noa � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/N/No/Noa/"
+    },
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "überwiegend positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Noa: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Noa.html"
+    }
+  ],
+  "style_effect": [
+    "modern",
+    "kurz",
+    "international",
+    "namenskundlich",
+    "sachlich",
+    "leicht positiv",
+    "unisex-nah"
+  ],
+  "usable_evidence_count": 3,
+  "visibility": "Hoch in Namenslexika und Suchkontexten, aber keine belastbare freie Debatte erkennbar."
+}

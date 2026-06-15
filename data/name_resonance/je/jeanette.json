@@ -1,0 +1,62 @@
+{
+  "associations": [
+    "weiblicher Vorname",
+    "französische Schreibvariante",
+    "Koseform von Jeanne bzw. Form von Johanna",
+    "hebräische Herkunft",
+    "Bedeutung: Gott ist gnädig",
+    "selten in Deutschland",
+    "Namenstag",
+    "Spitznamen wie Netti, Jeany, Jette"
+  ],
+  "confidence": 0.83,
+  "display_text": "Jeanette wird überwiegend sachlich bis leicht positiv wahrgenommen: ein klassisch-französisch wirkender, seltener Mädchenname mit der Bedeutung „Gott ist gnädig“. Die Evidenz stammt fast nur aus Namenslexika, daher ist die öffentliche Resonanz nur begrenzt belastbar.",
+  "evidence_quality": "mittel bis eher schwach; vor allem lexikalische Quellen, wenig echte öffentliche Resonanz sichtbar",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Jeanette",
+  "normalized_name": "jeanette",
+  "overall_resonance": "Jeanette wird in der vorliegenden Evidenz überwiegend sachlich bis leicht positiv wahrgenommen. Der Name erscheint als französisch geprägte, weibliche Form mit klarer Bedeutung und wird eher namenskundlich beschrieben als emotional bewertet.",
+  "practical_notes": [
+    "Für eine Namenssuche ist Jeanette gut anschlussfähig, wenn ein klassisch-französischer Klang gewünscht ist.",
+    "Die Schreibweise wirkt vertraut, aber nicht sehr häufig.",
+    "Varianten und Kurzformen sind vorhanden und können die Nutzung im Alltag vereinfachen."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist stark auf Namenslexika konzentriert und bildet keine breite öffentliche Debatte ab.",
+    "Es sind keine deutlichen negativen oder stark positiven Reaktionen erkennbar.",
+    "Aussagen zur Wirkung bleiben deshalb vorsichtig und dürfen nicht als allgemeingültig verstanden werden."
+  ],
+  "short_summary": "Jeanette wirkt in Deutschland eher selten, klassisch und leicht positiv konnotiert, mit klarer namenskundlicher Einordnung und wenig sichtbarer öffentlicher Debatte.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Jeanette � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/J/Je/Jeanette/"
+    },
+    {
+      "confidence": 0.91,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Jeanette: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Jeanette.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "französisch geprägt",
+    "eher elegant",
+    "lexikalisch bekannt",
+    "seltenheitsbetont"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland wirkt Jeanette eher selten und nicht breit im Alltagsgebrauch sichtbar. Die verfügbare Evidenz stammt vor allem aus Namenslexika, daher ist die öffentliche Resonanz nur eingeschränkt belastbar."
+}

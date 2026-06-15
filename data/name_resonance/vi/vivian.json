@@ -1,0 +1,70 @@
+{
+  "associations": [
+    "lebendig",
+    "lebensfroh",
+    "schön",
+    "lateinischer bzw. etruskischer Ursprung",
+    "Unisex-Name",
+    "international gebräuchlich",
+    "Namenslexikon-Charakter",
+    "Namenstag"
+  ],
+  "confidence": 0.87,
+  "display_text": "Vivian: überwiegend positiv, modern und international wirkend. Der Name wird meist mit „lebendig“ und „lebensfroh“ verbunden; in Deutschland bekannt, aber nicht sehr häufig.",
+  "evidence_quality": "mittel bis gut: mehrere unabhängige Namenslexika, überwiegend konsistente Aussagen, aber keine breite öffentliche Debattenlage.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Vivian",
+  "normalized_name": "vivian",
+  "overall_resonance": "Vivian wird in den verfügbaren Quellen überwiegend sachlich bis positiv beschrieben. Der Name gilt als modern, international verständlich und wird mit Bedeutungen wie „lebendig“, „lebensfroh“ oder „schön“ verbunden. Insgesamt wirkt die öffentliche Wahrnehmung eher freundlich und unaufgeregt.",
+  "practical_notes": [
+    "Für Namenssuche und Alltagsgebrauch wirkt Vivian vertraut und gut anschlussfähig.",
+    "Die Schreibweise ist klar und international anschlussfähig.",
+    "Je nach Kontext kann Vivian als weiblich oder als Unisex-Name verstanden werden."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt vor allem aus Namensdatenbanken und Lexikonseiten; das ist brauchbar, aber keine breite repräsentative Öffentlichkeit.",
+    "Keine klare Stigmatisierung oder kontroverse Debatte erkennbar.",
+    "Einige Bewertungen basieren auf Kommentaren und sind daher nur eingeschränkt verallgemeinerbar."
+  ],
+  "short_summary": "Vivian wird öffentlich meist positiv und modern wahrgenommen, mit Bedeutungen rund um Lebendigkeit und einem eher internationalen, zeitlosen Eindruck.",
+  "source_count": 3,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Vivian � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/V/Vi/Vivian/"
+    },
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Vivian � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/V/Vi/Vivian/"
+    },
+    {
+      "confidence": 0.92,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Vivian: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Vivian.html"
+    }
+  ],
+  "style_effect": [
+    "modern",
+    "international",
+    "eher weich klingend",
+    "namenskundlich positiv aufgeladen",
+    "teilweise als Unisex-Name wahrgenommen"
+  ],
+  "usable_evidence_count": 3,
+  "visibility": "In Deutschland ist Vivian bekannt, aber nach den Quellen nicht extrem häufig. Die Wahrnehmung wirkt daher eher präsent als selten, ohne starke öffentliche Kontroversen."
+}

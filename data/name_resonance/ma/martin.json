@@ -1,0 +1,63 @@
+{
+  "associations": [
+    "lateinischer Ursprung",
+    "Bezug zu Mars",
+    "Heiliger Martin",
+    "Martinstag",
+    "Martin Luther",
+    "lange Namensgeschichte",
+    "früher sehr beliebt in Deutschland",
+    "heute eher mittel bis mäßig häufig"
+  ],
+  "confidence": 0.96,
+  "display_text": "Martin wird in Deutschland meist als klassischer, traditionsreicher und gut vertrauter Vorname wahrgenommen. Die öffentliche Resonanz ist überwiegend positiv bis neutral, mit starken historischen und namenskundlichen Bezügen. Heute wirkt der Name eher zeitlos als modisch und ist im Alltag klar und unkompliziert einzuordnen.",
+  "evidence_quality": "hoch",
+  "generated_at": "2026-06-12T06:08:03Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Martin",
+  "normalized_name": "martin",
+  "overall_resonance": "Überwiegend positiv und traditionsreich wahrgenommen, mit eher sachlich-neutralem Ton.",
+  "practical_notes": [
+    "Wirkt vertraut und unkompliziert.",
+    "Passt gut in einen klassischen, deutschsprachigen Kontext.",
+    "Eher zeitlos als modisch.",
+    "Durch die hohe Bekanntheit wenig erklärungsbedürftig."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die genannten Bedeutungen und historischen Bezüge sind Namensdeutungen, keine Eigenschaften von Namensträgern.",
+    "Es liegen keine Hinweise auf soziale Stigmatisierung oder abwertende öffentliche Muster vor."
+  ],
+  "short_summary": "Martin gilt in Deutschland als klassischer, gut bekannter Vorname mit positiver, traditioneller und eher sachlicher Resonanz.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "Vorname Martin � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/M/Ma/Martin/"
+    },
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Martin: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Martin.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "traditionsbetont",
+    "sachlich",
+    "namenskundlich",
+    "zeitlos",
+    "solide"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland sehr bekannt und öffentlich gut verankert; der Name ist historisch stark präsent und im Alltag leicht einzuordnen."
+}

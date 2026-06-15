@@ -1,0 +1,58 @@
+{
+  "associations": [
+    "spanische Kurz- oder Koseform von Franziskus / Francesco",
+    "Bedeutung: der kleine Franzose bzw. der Freie / freie Mann",
+    "Namenstag: 4. Oktober",
+    "eher selten bis moderat in Deutschland",
+    "knappes, freundliches Klangbild"
+  ],
+  "confidence": 0.82,
+  "display_text": "Paco wirkt in der vorhandenen Evidenz sachlich bis leicht positiv: kurz, international und spanisch geprägt, in Deutschland eher selten. Die Datenlage ist vor allem lexikalisch, daher ist die öffentliche Alltagsresonanz nur eingeschränkt belegbar.",
+  "evidence_quality": "mittel bis eher schwach: inhaltlich klare Namensquellen, aber kaum breite öffentliche Diskussion oder unabhängige Alltagsbelege",
+  "generated_at": "2026-06-14T10:47:41Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Paco",
+  "normalized_name": "paco",
+  "overall_resonance": "Paco wird in der vorliegenden Evidenz überwiegend sachlich bis leicht positiv wahrgenommen: als kurzer, international klingender Name mit klarer Herkunfts- und Bedeutungszuschreibung. In Deutschland wirkt er eher selten bis moderat verbreitet und fällt dadurch eher als markanter, unkomplizierter Vorname auf.",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt Paco klar, kurz und leicht merkbar.",
+    "Der Name kann als international und informell gelesen werden, zugleich aber auch als eigenständig statt nur als Spitzname.",
+    "Aufgrund der Seltenheit in Deutschland dürfte er auffallen, ohne dass daraus automatisch eine besondere soziale Bewertung folgt."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist begrenzt und stammt fast nur aus Namensdatenbanken; eine breite öffentliche Alltagsresonanz ist daraus nur eingeschränkt ableitbar.",
+    "Einige Hinweise beziehen sich eher auf lexikalische Beschreibung als auf echte öffentliche Diskussion."
+  ],
+  "short_summary": "Paco wird meist sachlich bis leicht positiv beschrieben: kurz, international und spanisch geprägt, in Deutschland eher selten. Die Evidenz ist jedoch vor allem lexikalisch und deshalb nur begrenzt repräsentativ.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Paco � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/P/Pa/Paco/"
+    },
+    {
+      "confidence": 0.89,
+      "is_name_discussion": true,
+      "sentiment": "eher positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Paco: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Paco.html"
+    }
+  ],
+  "style_effect": [
+    "kurz und prägnant",
+    "international bzw. spanisch geprägt",
+    "umgangsnah als Kurz- oder Koseform",
+    "modern und direkt klingend",
+    "eher selten, dadurch auffälliger"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Eher geringe bis mittlere Sichtbarkeit in Deutschland; die verfügbare Evidenz stammt vor allem aus Namenslexika und nicht aus breiter Alltags- oder Medienresonanz."
+}

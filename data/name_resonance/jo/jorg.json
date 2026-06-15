@@ -1,0 +1,52 @@
+{
+  "associations": [
+    "Nebenform von Jörg",
+    "Kurzform von Georg",
+    "altgriechische Herkunft",
+    "Bedeutung mit Bezug zu Erde/Arbeit",
+    "seltener Vorname in Deutschland",
+    "Namenstag am 23. April"
+  ],
+  "confidence": 0.64,
+  "display_text": "Jorg wirkt in Deutschland eher selten, traditionell und sachlich-neutral. Die vorhandene Evidenz ist schwach und vor allem namenskundlich: genannt werden eine Nähe zu Jörg/Georg, eine altgriechische Herkunft sowie der Eindruck eines ungewöhnlichen, wenig verbreiteten Vornamens.",
+  "evidence_quality": "schwach bis mittel; nur eine sachliche, namenskundliche Webquelle ohne echte Diskussionsvielfalt.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Jorg",
+  "normalized_name": "jorg",
+  "overall_resonance": "Überwiegend sachlich-neutral mit eher traditionellsprachlicher, seltenen und leicht altertümlichen Anmutung.",
+  "practical_notes": [
+    "Für Suchmaschinen eignet sich die Einordnung als seltene, traditionelle Namensform.",
+    "Die Schreibweise kann als Variante von Jörg missverstanden werden; das kann kurze Rückfragen auslösen.",
+    "Ohne breitere Datenlage sollte keine starke soziale oder stilistische Zuschreibung gemacht werden."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist schwach und basiert hier nur auf einer einzelnen, eher lexikalischen Quelle.",
+    "Es gibt keine belastbare diskursive Bewertung oder breite öffentliche Rezeption in den vorliegenden Daten.",
+    "Eine mögliche Wahrnehmung als seltene oder ungewohnte Schreibweise sollte nicht mit negativer Bewertung verwechselt werden."
+  ],
+  "short_summary": "Jorg wird in den verfügbaren Daten vor allem als seltene, sachlich wahrgenommene Nebenform von Jörg bzw. Kurzform von Georg beschrieben.",
+  "source_count": 1,
+  "sources": [
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Jorg � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/J/Jo/Jorg/"
+    }
+  ],
+  "style_effect": [
+    "kurz und knapp",
+    "klassisch-traditionell",
+    "ungewöhnlich/selten",
+    "leicht altertümlich",
+    "regional bzw. Varianten-nah zu Jörg/Georg"
+  ],
+  "usable_evidence_count": 1,
+  "visibility": "In Deutschland offenbar selten und daher wenig alltagspräsent; die öffentliche Wahrnehmung wirkt vor allem namenskundlich statt sozial aufgeladen."
+}

@@ -1,0 +1,62 @@
+{
+  "associations": [
+    "„die Einzigartige“",
+    "irische/gälische Herkunft",
+    "keltisch-finnische Namensbezüge",
+    "Mythologie und Feenkönigin-Motiv",
+    "Namenstag",
+    "selten/außergewöhnlich"
+  ],
+  "confidence": 0.81,
+  "display_text": "Oona wirkt in Deutschland eher selten und eigenständig, mit überwiegend positiver, leicht besonderer Ausstrahlung. Die verfügbaren Quellen betonen vor allem Bedeutung, Herkunft und Seltenheit; die öffentliche Rezeption ist daher eher namenskundlich dokumentiert als breit belegt.",
+  "evidence_quality": "mittel bis gut: zwei einschlägige Namensquellen, aber keine breit angelegte öffentliche Erhebung",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Oona",
+  "normalized_name": "oona",
+  "overall_resonance": "In Deutschland wirkt Oona überwiegend selten, eigenständig und eher positiv konnotiert. Die öffentliche Wahrnehmung in den Quellen ist vor allem namenskundlich geprägt und betont die besondere, ungewöhnliche Wirkung des Namens.",
+  "practical_notes": [
+    "Für Suchende dürfte Oona als besonderer, klar weiblich wahrgenommener Vorname erscheinen.",
+    "Die Schreibweise ist kurz, aber ungewohnt genug, dass gelegentlich Rückfragen zur Herkunft oder Aussprache möglich sind.",
+    "Die Quellenlage spricht eher für eine wertschätzende als für eine kontroverse Rezeption."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist begrenzt und stammt vor allem aus Namenslexika, nicht aus breiter öffentlicher Meinungsforschung.",
+    "Die positiven Bedeutungen sollten nicht mit einer allgemeinen gesellschaftlichen Bewertung verwechselt werden.",
+    "Keine Hinweise auf Stigmatisierung oder negative soziale Konnotationen in den vorliegenden Quellen."
+  ],
+  "short_summary": "Oona wird in Deutschland eher selten, besonders und überwiegend positiv wahrgenommen; die Evidenz ist vor allem lexikalisch und daher nur begrenzt repräsentativ.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "slightly positive",
+      "source_type": "web",
+      "title": "Vorname Oona � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/O/Oo/Oona/"
+    },
+    {
+      "confidence": 0.92,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Oona: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Oona.html"
+    }
+  ],
+  "style_effect": [
+    "selten",
+    "eigenständig",
+    "elegant",
+    "weiblich",
+    "keltisch-irisch geprägt",
+    "kurz und markant",
+    "leicht modern wirkend"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Der Name ist laut den Quellen eher selten bis moderat bekannt und fällt durch seine Kürze und Ungewöhnlichkeit auf. Dadurch ist er eher auffällig als alltäglich."
+}

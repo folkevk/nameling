@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "lateinische Herkunft",
+    "Form von Silvius",
+    "Bedeutung im Umfeld von Wald/Waldbewohner",
+    "italienisch geprägter Klang",
+    "selten in Deutschland",
+    "Namenstag wird genannt",
+    "vereinzelt Song-/Liedbezug"
+  ],
+  "confidence": 0.84,
+  "display_text": "Silvio hat in Deutschland eine eher seltene, sachlich-klassische Ausstrahlung. Die vorliegenden Quellen beschreiben den Namen überwiegend neutral bis leicht positiv, mit mediterranem Klang, lateinischer Herkunft und der Bedeutung im Umfeld von Wald/Waldbewohner. Die Evidenz ist jedoch eher begrenzt und stammt vor allem aus Namensseiten.",
+  "evidence_quality": "mittel bis schwach: mehrere namenskundliche Quellen, aber wenig direkte öffentliche Diskussion und nur begrenzte Resonanzdaten.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Silvio",
+  "normalized_name": "silvio",
+  "overall_resonance": "Silvio wirkt im deutschen Kontext eher sachlich-klassisch und leicht mediterran; die öffentliche Wahrnehmung in den vorliegenden Quellen ist überwiegend neutral bis leicht positiv, aber nicht stark ausgeprägt.",
+  "practical_notes": [
+    "Für Suchmaschinenleser lässt sich der Name am besten als selten, klangvoll und traditionsnah beschreiben.",
+    "Die Schreibvariante Sylvio kann als relevante Näheform auftauchen.",
+    "Die öffentliche Einordnung ist eher informativ als emotional gefärbt."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist begrenzt und stammt überwiegend von Namenslexika statt von breit angelegter öffentlicher Resonanz.",
+    "Einzelne positive oder neutrale Eindrücke sollten nicht als allgemeine Mehrheitsmeinung verstanden werden.",
+    "Keine Hinweise auf eine klare soziale Stigmatisierung in den Quellen."
+  ],
+  "short_summary": "Silvio wird in den Quellen vor allem als seltener, italienisch/lateinisch geprägter Jungenname mit Wald-Bedeutung beschrieben; die Resonanz ist eher neutral bis leicht positiv.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Silvio � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/S/Si/Silvio/"
+    },
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "mixed",
+      "source_type": "web",
+      "title": "&#9655; Vorname Silvio: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Silvio.html"
+    }
+  ],
+  "style_effect": [
+    "klingt weich und melodisch",
+    "wirkt mediterran/italienisch geprägt",
+    "eher klassisch als modern",
+    "assoziiert mit Natur- und Waldbedeutung",
+    "selten und dadurch etwas markant"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Der Name ist in Deutschland eher selten und daher nicht sehr breit präsent. Die vorhandene Evidenz stammt vor allem aus Namensseiten mit erklärendem Charakter, nicht aus einer großen freien Debatte."
+}

@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "Kurz- und Koseform von Philippa",
+    "Bedeutung im Umfeld von 'Pferdefreundin'",
+    "altgriechische Herkunft",
+    "weiblicher Vorname",
+    "selten bis gelegentlich beliebt in Deutschland je nach Zeitraum",
+    "Namenstag am 3. Mai und 16. Oktober"
+  ],
+  "confidence": 0.78,
+  "display_text": "Pippa wirkt in Deutschland eher selten, modern und freundlich-neutral. Die Quellen betonen vor allem Herkunft, Bedeutung und Namenstag; vereinzelt wird auf mögliche Mehrdeutigkeiten im Ausland hingewiesen. Die Evidenz ist eher lexikalisch als breit öffentlich diskutiert.",
+  "evidence_quality": "mittel bis schwach: zwei inhaltlich passende, aber vor allem lexikalische Quellen; kein breiter öffentlicher Diskurs",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Pippa",
+  "normalized_name": "pippa",
+  "overall_resonance": "Pippa wird in den vorliegenden Quellen überwiegend als kurzer, moderner und eher ungewöhnlicher Mädchenname wahrgenommen. Die öffentliche Rezeption ist vor allem sachlich-informativ: Herkunft, Bedeutung und Namenstag stehen im Vordergrund. Insgesamt eher freundlich bis neutral, mit vereinzelten Hinweisen auf mögliche Mehrdeutigkeiten im Ausland.",
+  "practical_notes": [
+    "Für deutsche Ohren wirkt der Name meist unkompliziert und freundlich.",
+    "Durch die Kürze hat er einen hohen Wiedererkennungswert.",
+    "Wer internationale Nutzung mitdenkt, sollte mögliche Bedeutungsunterschiede im Ausland prüfen.",
+    "Die Schreibweise ist einfach, die Herkunft wird in den Quellen klar als Koseform erklärt."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt vor allem aus Namenslexika und Beliebtheitsseiten; das ist als öffentliche Resonanz nur eingeschränkt belastbar.",
+    "Es gibt einen Hinweis auf mögliche problematische oder missverständliche umgangssprachliche Bedeutungen in anderen Ländern; das sollte vorsichtig eingeordnet werden.",
+    "Keine belastbaren Hinweise auf soziale Stigmatisierung in Deutschland in den vorliegenden Quellen."
+  ],
+  "short_summary": "Pippa wird in Deutschland eher selten, modern und freundlich-neutral wahrgenommen; die Quellen betonen Herkunft und Bedeutung, weisen aber vereinzelt auf mögliche Mehrdeutigkeiten im Ausland hin.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.94,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Pippa � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/P/Pi/Pippa/"
+    },
+    {
+      "confidence": 0.9,
+      "is_name_discussion": true,
+      "sentiment": "mixed",
+      "source_type": "web",
+      "title": "&#9655; Vorname Pippa: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Pippa.html"
+    }
+  ],
+  "style_effect": [
+    "kurz und eingängig",
+    "modern-kosehaft",
+    "eher verspielt als formal",
+    "ungewöhnlich, aber gut merkbar",
+    "lexikalisch klar durch die Verbindung zu Philippa"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland wirkt der Name eher selten und dadurch auffälliger. Er ist bekannt genug, um verstanden zu werden, bleibt aber im Alltag nicht sehr häufig."
+}

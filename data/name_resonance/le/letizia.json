@@ -1,0 +1,59 @@
+{
+  "associations": [
+    "Freude",
+    "Fröhlichkeit",
+    "die Glückliche",
+    "italienische Form von Laetitia",
+    "lateinischer Ursprung",
+    "Namenstag",
+    "weiblicher Vorname",
+    "Beliebtheit in Deutschland"
+  ],
+  "confidence": 0.87,
+  "display_text": "Letizia wird in Deutschland überwiegend positiv wahrgenommen: klangvoll, feminin und mit freundlichen Bedeutungen wie „Freude“ oder „die Glückliche“. Die Quellen deuten auf eine gewisse Bekanntheit hin, ohne den Namen als sehr häufig einzuordnen. Die Evidenz ist solide, aber vor allem namenkundlich und daher vorsichtig zu lesen.",
+  "evidence_quality": "mittelstark",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Letizia",
+  "normalized_name": "letizia",
+  "overall_resonance": "Der Vorname Letizia wird öffentlich überwiegend positiv und leicht elegant wahrgenommen. In den vorliegenden Namensquellen stehen Bedeutung und Herkunft im Vordergrund, mit Assoziationen zu Freude, Fröhlichkeit und einer lateinisch-italienischen Tradition.",
+  "practical_notes": [
+    "Für eine Namenssuche eignet sich Letizia gut, wenn ein klangvoller, international verständlicher Mädchenname gesucht wird.",
+    "Die positive Bedeutungsaufladung kann die Wahrnehmung zusätzlich freundlich und wertig wirken lassen."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist nur mittelstark und stammt überwiegend aus Namenslexika; die Einschätzung der öffentlichen Rezeption bleibt daher vorsichtig.",
+    "Einzelne nutzergenerierte oder kommentarnahe Elemente in den Quellen sollten nicht überinterpretiert werden."
+  ],
+  "short_summary": "Letizia wird in den verfügbaren Quellen meist positiv, klangvoll und elegant beschrieben; die Rezeption ist vor allem durch Bedeutungen wie Freude und Fröhlichkeit geprägt.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "positive",
+      "source_type": "web",
+      "title": "Vorname Letizia � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/L/Le/Letizia/"
+    },
+    {
+      "confidence": 0.91,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Letizia: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Letizia.html"
+    }
+  ],
+  "style_effect": [
+    "klingt feminin und melodisch",
+    "wirkt international bzw. italienisch geprägt",
+    "wird oft mit positiver Bedeutung verbunden",
+    "erscheint eher klassisch-edel als modern-frech"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland wirkt der Name eher bekannt als sehr häufig; die Quellen verweisen auf eine gewisse Beliebtheit, ohne ihn als Massennamen darzustellen."
+}

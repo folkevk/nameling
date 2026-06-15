@@ -1,0 +1,63 @@
+{
+  "associations": [
+    "Friede / friedlich",
+    "alte deutsche Namensform",
+    "männlicher Vorname",
+    "historisch gewachsen",
+    "selten im heutigen Gebrauch",
+    "Namenstag",
+    "Namensbedeutung und Herkunft"
+  ],
+  "confidence": 0.86,
+  "display_text": "Friedemann: eher positiv wahrgenommener, seltener und traditionsreicher deutscher Vorname mit der Assoziation von Friede und Friedlichkeit. Die öffentliche Sicht ist vor allem namenskundlich geprägt und nicht stark emotional oder kontrovers.",
+  "evidence_quality": "mittel: zwei einschlägige Namensquellen mit überwiegend sachlicher, leicht positiver Tonalität; begrenzte Breite und keine repräsentative öffentliche Debatte",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Friedemann",
+  "normalized_name": "friedemann",
+  "overall_resonance": "Eher positiv und traditionsbewusst, mit sachlich-namenskundlicher Wahrnehmung. Der Name wirkt im öffentlichen Material vor allem durch seine Bedeutung und Herkunft sympathisch, zugleich aber insgesamt eher selten und altdeutsch geprägt.",
+  "practical_notes": [
+    "Für Suchmaschinen eignet sich eine Einordnung als klassischer, seltener deutscher Vorname mit friedlicher Bedeutung.",
+    "Der Name wirkt eher traditionell als modern oder trendig.",
+    "Vorsicht bei starken Aussagen zur Popularität, da die Datenlage begrenzt ist."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt vor allem aus zwei Namenslexika; eine breite öffentliche Diskussion ist nicht erkennbar.",
+    "Positiv klingende Deutungen beruhen auf Namensbedeutung und redaktionellen Beschreibungen, nicht auf repräsentativen Meinungsdaten.",
+    "Wahrnehmungen können je nach Generation und Umfeld variieren."
+  ],
+  "short_summary": "Friedemann wird öffentlich vor allem als seltener, altdeutscher und inhaltlich positiv besetzter Vorname wahrgenommen. Die Rezeption ist eher ruhig und sachlich als breit diskutiert.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.92,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "Vorname Friedemann � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/F/Fr/Friedemann/"
+    },
+    {
+      "confidence": 0.95,
+      "is_name_discussion": true,
+      "sentiment": "positive",
+      "source_type": "web",
+      "title": "&#9655; Vorname Friedemann: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Friedemann.html"
+    }
+  ],
+  "style_effect": [
+    "altdeutsch",
+    "traditionsreich",
+    "ruhig",
+    "würdig",
+    "etymologisch geprägt",
+    "eher selten",
+    "sachlich-positiv"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Mittlere bis geringe Sichtbarkeit in Deutschland; der Name ist bekannt, aber heute nicht sehr verbreitet und tritt eher in Namenslexika als in breiten öffentlichen Debatten auf."
+}

@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "„der Löwenstarke“ / „mutig wie ein Löwe“",
+    "althochdeutsche Herkunft",
+    "mittelalterlich tradiert",
+    "Namenstag im November, u. a. 6. November",
+    "Schutzpatron der Pferde und des Viehs",
+    "Kurzformen wie Leo oder Leon",
+    "eher klassisch als modern"
+  ],
+  "confidence": 0.87,
+  "display_text": "Leonhard gilt in der öffentlichen Wahrnehmung überwiegend als klassischer, traditionsreicher Vorname mit positiver, würdiger Ausstrahlung. Die Namensbedeutung („der Löwenstarke“) sowie die historische Herkunft prägen das Bild; auffällige Kontroversen oder negative Stigmatisierungen zeigen sich in der vorliegenden Evidenz nicht.",
+  "evidence_quality": "Gut für eine vorsichtige Namensresonanz: zwei klare, namenkundliche Webquellen mit überwiegend konsistenter, positiver bis neutraler Tonalität. Die Evidenz ist jedoch thematisch eng und nicht als repräsentative Meinungsumfrage zu verstehen.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Leonhard",
+  "normalized_name": "leonhard",
+  "overall_resonance": "Überwiegend positiv und traditionsnah. Leonhard wird öffentlich meist als klassischer, historisch verwurzelter Vorname mit starker, wertschätzender Bedeutung wahrgenommen.",
+  "practical_notes": [
+    "Wirkt in der öffentlichen Wahrnehmung eher seriös und traditionsbewusst.",
+    "Für eine Namenssuche eignet sich die Kurzform Leo als bekannter, modernerer Anklang.",
+    "Die Schreibweise Leonhard vermittelt eher den vollständigen, klassischen Eindruck."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Keine belastbaren Hinweise auf eine öffentliche Kontroverse oder Stigmatisierung in der vorliegenden Evidenz.",
+    "Die Einordnung beruht vor allem auf namenkundlichen Informationsseiten; die Evidenz ist daher eher beschreibend als breit gesellschaftlich repräsentativ."
+  ],
+  "short_summary": "Leonhard wird öffentlich meist als klassischer, traditionsreicher und positiv besetzter Vorname wahrgenommen, mit der Bedeutung von Stärke und Mut.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "Vorname Leonhard � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/L/Le/Leonhard/"
+    },
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Leonhard: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Leonhard.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "traditionell",
+    "würdig",
+    "sachlich",
+    "namenskundlich",
+    "historisch"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland bekannt, aber eher moderat verbreitet; besonders im süddeutschen Raum und in Österreich/Bayern häufiger als im allgemeinen Alltag präsent."
+}

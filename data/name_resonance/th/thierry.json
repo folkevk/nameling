@@ -1,0 +1,58 @@
+{
+  "associations": [
+    "französische Form von Theodoric",
+    "germanisch-gotische Herkunft",
+    "Bedeutung: Herrscher des Volkes",
+    "Namenstag",
+    "selten bis mäßig verbreitet in Deutschland"
+  ],
+  "confidence": 0.92,
+  "display_text": "Thierry wirkt in Deutschland klassisch, französisch und eher selten. Die öffentliche Resonanz ist überwiegend neutral bis leicht positiv, basiert aber vor allem auf Namenslexika und weniger auf breiter Alltagsnutzung.",
+  "evidence_quality": "gut für Bedeutung, Herkunft und grobe Einordnung; begrenzt für echte Alltagsresonanz",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Thierry",
+  "normalized_name": "thierry",
+  "overall_resonance": "Thierry wirkt in der deutschen Namenswahrnehmung sachlich-elegant und klar französisch geprägt, mit klassisch-traditioneller Anmutung. Die öffentliche Resonanz ist eher ruhig als auffällig; der Name erscheint in Namenslexika meist neutral bis leicht positiv bewertet.",
+  "practical_notes": [
+    "Der Name ist gut erkennbar, aber in Deutschland nicht alltäglich.",
+    "Die französische Schreibweise und Klangfarbe prägen den Eindruck stark.",
+    "Für eine Suchmaschine lässt sich der Name am ehesten als klassisch, international und eher selten zusammenfassen."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt fast ausschließlich aus Namenslexika; breite öffentliche Wahrnehmung ist nur begrenzt sichtbar.",
+    "Positive Einschätzungen in Kommentaren sind subjektiv und nicht repräsentativ für die Gesamtbevölkerung."
+  ],
+  "short_summary": "Thierry wird in Deutschland vor allem als seltener, französisch geprägter und klassisch wirkender Vorname wahrgenommen – sachlich neutral bis leicht positiv, mit vor allem lexikalischer statt breiter öffentlicher Resonanz.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Thierry � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/T/Th/Thierry/"
+    },
+    {
+      "confidence": 0.9,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Thierry: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Thierry.html"
+    }
+  ],
+  "style_effect": [
+    "französisch klingend",
+    "klassisch-traditionell",
+    "eher distinguiert",
+    "lexikalisch bekannt",
+    "zeitlos statt modern"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland eher selten bis mäßig verbreitet, daher im Alltag nicht sehr häufig anzutreffen. Die Sichtbarkeit in der öffentlichen Diskussion ist vorhanden, aber vor allem in Namensportalen und weniger in breiter Alltagsresonanz."
+}

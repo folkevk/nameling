@@ -1,0 +1,62 @@
+{
+  "associations": [
+    "Doppelform aus Rose und Marie/Rosa und Marie",
+    "klassischer deutscher Vorname",
+    "ältere bzw. historisch stärker verbreitete Namensform",
+    "heute eher selten",
+    "Namenstag",
+    "teilweise kultureller Liedbezug"
+  ],
+  "confidence": 0.86,
+  "display_text": "Rosemarie wird überwiegend neutral bis leicht positiv eingeordnet: klassisch, traditionsreich, deutsch geprägt und heute eher selten. Die verfügbare Evidenz ist vor allem namenskundlich, daher ist die Einschätzung vorsichtig zu lesen.",
+  "evidence_quality": "Gut für Herkunft, Bedeutung und Einordnung der Namensform; schwächer für echte öffentliche Resonanz, da die Quellen vor allem lexikalische Namensbeschreibungen sind.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Rosemarie",
+  "normalized_name": "rosemarie",
+  "overall_resonance": "Der Vorname Rosemarie wird in der verfügbaren Evidenz überwiegend neutral bis leicht positiv wahrgenommen: klassisch, traditionsreich und klar deutsch geprägt, zugleich heute eher selten. Die öffentliche Beschreibung ist vor allem namenskundlich und informativ, nicht diskussionsstark.",
+  "practical_notes": [
+    "Für eine Namenssuche eignet sich Rosemarie besonders, wenn ein klassischer, traditioneller Klang gewünscht ist.",
+    "Der Name wirkt eher vertraut und historisch als modern oder trendig.",
+    "Die Schreibweise ist eindeutig und gut lesbar.",
+    "Aufgrund der geringeren heutigen Verbreitung kann der Name auffallen, ohne ungewohnt zu wirken."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt fast ausschließlich aus Namensdatenbanken und redaktionellen Beschreibungstexten.",
+    "Es gibt keine belastbare öffentliche Debatte oder breitere soziale Resonanz in den Quellen.",
+    "Aussagen zur Wahrnehmung sollten daher als vorsichtige Einordnung und nicht als allgemeingültiges Urteil gelesen werden."
+  ],
+  "short_summary": "Rosemarie gilt als klassischer, traditionsreicher und eher seltener deutscher Vorname mit neutral bis leicht positiver Wahrnehmung.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Rosemarie � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/R/Ro/Rosemarie/"
+    },
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Rosemarie: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Rosemarie.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "traditionsreich",
+    "deutsch geprägt",
+    "historisch etabliert",
+    "eher selten",
+    "namenskundlich aufgeladen"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Eher gering bis mittel: Der Name ist bekannt, wirkt aber heute nicht mehr sehr verbreitet und erscheint in den Quellen eher als historisch etablierter Vorname als als aktueller Trendname."
+}

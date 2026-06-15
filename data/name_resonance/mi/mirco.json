@@ -1,0 +1,59 @@
+{
+  "associations": [
+    "italienische Schreibvariante von Mirko",
+    "slawischer Ursprung bzw. Kurzform-Bezüge",
+    "Bedeutungen wie „der Friedliche“ oder „der Ruhmreiche“",
+    "seit den 1960er Jahren im deutschen Sprachraum bekannt",
+    "männlicher Vorname",
+    "eher selten bis mittelmäßig verbreitet"
+  ],
+  "confidence": 0.79,
+  "display_text": "Mirco wird in Deutschland meist neutral bis leicht positiv wahrgenommen. Der Name gilt als bekannt, aber eher selten, und wird vor allem mit einer vertrauten, kurzen und sachlichen Wirkung verbunden. Die vorliegende Evidenz ist begrenzt und basiert hauptsächlich auf Namenslexikon-Seiten.",
+  "evidence_quality": "Begrenzt: zwei Namenslexikon-/Infoquellen, kaum öffentliche Diskussion, keine breite Kommentarlage.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Mirco",
+  "normalized_name": "mirco",
+  "overall_resonance": "Überwiegend neutral bis leicht positiv: Mirco wird öffentlich vor allem als seltener, vertrauter Jungenvorname wahrgenommen, ohne starke polarisierende Signale.",
+  "practical_notes": [
+    "Für die öffentliche Resonanz ist eher ein sachlich-freundlicher Eindruck als ein starkes Image zu erwarten.",
+    "Die Schreibweise mit 'c' kann als besondere Variante gegenüber 'Mirko' auffallen.",
+    "Für Suchmaschinen-Nutzer ist wichtig: Es gibt keine Hinweise auf eine ausgeprägte soziale Stigmatisierung des Namens in der vorliegenden Evidenz."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist schwach bis mittel: Es liegen vor allem Namenslexikon-Seiten und wenige Kommentare vor.",
+    "Keine breite öffentliche Debatte erkennbar; die Wahrnehmung basiert eher auf Beschreibungen als auf repräsentativen Meinungen.",
+    "Einzelne positive Einschätzungen sollten nicht als allgemeingültig verstanden werden."
+  ],
+  "short_summary": "Mirco wirkt in der öffentlichen Wahrnehmung eher neutral bis leicht positiv: bekannt, aber nicht häufig, mit freundlicher und klarer Namensanmutung.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.82,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Mirco � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/M/Mi/Mirco/"
+    },
+    {
+      "confidence": 0.82,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Mirco: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Mirco.html"
+    }
+  ],
+  "style_effect": [
+    "klingt kurz und kantig",
+    "wirkt vertraut, aber nicht alltäglich",
+    "wird oft als Namensvariante mit italienisch/slawischer Anmutung beschrieben",
+    "eher lexikalisch als emotional aufgeladen"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland bekannt, aber eher selten bis mittelmäßig verbreitet; die öffentliche Sichtbarkeit wirkt daher eher moderat."
+}

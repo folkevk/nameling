@@ -1,0 +1,62 @@
+{
+  "associations": [
+    "lateinische bzw. römische Herkunft",
+    "Bedeutung im Sinn von „die Kleine“ / „die Jüngere“",
+    "weibliche Form von Paul",
+    "Namenstag am 9. Juli",
+    "in Deutschland bekannt und beliebt",
+    "Varianten wie Paolina oder Pavlina"
+  ],
+  "confidence": 0.86,
+  "display_text": "Paulina wirkt in der vorliegenden Evidenz bekannt, klassisch und freundlich besetzt. Die Quellen nennen lateinische Herkunft, die Bedeutung „die Kleine“/„die Jüngere“ sowie eine gute Sichtbarkeit in Deutschland. Auffällige negative oder stigmatisierende Konnotationen zeigen sich nicht; die Datenlage ist jedoch vor allem lexikalisch und daher nur bedingt ein Bild der allgemeinen öffentlichen Wahrnehmung.",
+  "evidence_quality": "mittel bis gut: zwei direkte, namebezogene Quellen mit klaren Angaben zu Herkunft, Bedeutung und Beliebtheit; jedoch vor allem lexikalische Evidenz, keine breite öffentliche Diskurslage.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Paulina",
+  "normalized_name": "paulina",
+  "overall_resonance": "Paulina wird in der vorliegenden Evidenz überwiegend freundlich und wertschätzend dargestellt. Der Name wirkt bekannt, klassisch und eher positiv besetzt, ohne auffällige starke Kontroversen. Die öffentliche Rezeption in diesen Quellen ist vor allem namenskundlich und populätsbezogen, also eher informativ als kontrovers.",
+  "practical_notes": [
+    "Für eine Namenssuche eignet sich Paulina als klar verständlicher, international anschlussfähiger Vorname.",
+    "Der Name wirkt vertraut und seriös, ohne stark modisch zu sein.",
+    "Die Aussprache und Schreibweise sind im deutschen Kontext unkompliziert.",
+    "Wenn gewünscht, kann man den Namen als traditionelle, sanft klingende Variante im Umfeld von Paula/Paul einordnen."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt vor allem aus Namenslexika und ähnlichen Datenbanken; das sagt mehr über Namensbedeutung und Popularität als über breite öffentliche Alltagsresonanz.",
+    "Keine Hinweise auf Stigmatisierung oder negative kulturelle Konnotationen in den vorliegenden Quellen.",
+    "Die positive Tönung sollte nicht als Beweis für allgemeine gesellschaftliche Bewertung überinterpretiert werden."
+  ],
+  "short_summary": "Paulina wird in den Quellen überwiegend positiv, klassisch und freundlich beschrieben; die Evidenz ist solide, aber vor allem lexikalisch und nicht als breite gesellschaftliche Resonanz zu verstehen.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Paulina � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/P/Pa/Paulina/"
+    },
+    {
+      "confidence": 0.91,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Paulina: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Paulina.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "weich/freundlich",
+    "elegant",
+    "traditionsnah",
+    "leicht modern anschlussfähig",
+    "namenskundlich neutral bis positiv"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland gut bekannt und sichtbar; die Quellen verweisen auf Beliebtheit, Namenstag und gängige Namenslexika. Die Evidenz spricht eher für eine solide, etablierte Präsenz als für eine aktuell stark trendige oder polarisierende Wahrnehmung."
+}

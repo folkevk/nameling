@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "lateinische Herkunft",
+    "Kurzform bzw. Variante von Crescentia oder Vincenta",
+    "Bedeutungsfelder wie \"die Wachsende\", \"die Aufblühende\" oder \"die Siegreiche\"",
+    "selten in Deutschland",
+    "Opernbezug: Richard Wagners \"Der fliegende Holländer\""
+  ],
+  "confidence": 0.74,
+  "display_text": "Senta wirkt in Deutschland eher selten und stilistisch traditionell. Die verfügbaren Quellen zeigen eine neutrale bis leicht positive Wahrnehmung, vor allem wegen der Bedeutungen und des klassischen Klangbilds. Die Evidenz zur öffentlichen Rezeption ist allerdings begrenzt und stammt überwiegend aus Namenslexika.",
+  "evidence_quality": "eher schwach für öffentliche Resonanz, aber solide für Herkunfts- und Bedeutungsangaben; hauptsächlich lexikalische Quellen",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Senta",
+  "normalized_name": "senta",
+  "overall_resonance": "Eher neutral bis leicht positiv, mit klarer Tendenz zu namenskundlich-traditioneller Wahrnehmung. Die verfügbare Evidenz beschreibt Senta vor allem als seltenen, klassisch wirkenden Vornamen mit positiver Bedeutungs- und Herkunftsdeutung.",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt Senta kurz, eigenständig und gut merkbar.",
+    "Der Name kann als eher selten und dadurch individuell wahrgenommen werden.",
+    "Die Quellen deuten auf eine positive Bedeutungsnähe, ohne dass daraus eine starke öffentliche Popularität folgt."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz zur öffentlichen Rezeption ist schwach und basiert vor allem auf Namenslexika statt auf breiter Alltagsnutzung.",
+    "Ein möglicher kultureller Stil- oder Opernbezug ist eher eine Assoziation als eine allgemeine Wahrnehmung.",
+    "Keine belastbare Aussage über gesellschaftliche Vorurteile oder Trendwahrnehmung ableitbar."
+  ],
+  "short_summary": "Senta wird in den vorliegenden Quellen überwiegend neutral bis leicht positiv beschrieben: als seltener, traditionell klingender Vorname mit positiver Herkunfts- und Bedeutungsdeutung. Für eine breite öffentliche Resonanz gibt es jedoch nur schwache Evidenz.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Senta � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/S/Se/Senta/"
+    },
+    {
+      "confidence": 0.88,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Senta: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Senta.html"
+    }
+  ],
+  "style_effect": [
+    "namenskundlich",
+    "traditionell",
+    "selten",
+    "klassisch",
+    "leicht elegant",
+    "literarisch/opernaffin"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland wirkt der Name eher wenig verbreitet und dadurch auffällig, aber nicht stark im öffentlichen Alltag präsent. Die öffentliche Wahrnehmung ist nach den vorliegenden Quellen eher lexikalisch als breit gesellschaftlich dokumentiert."
+}

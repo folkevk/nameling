@@ -1,0 +1,59 @@
+{
+  "associations": [
+    "Kurzform von Eleonora oder Honora",
+    "auch als Variante zu Nura beschrieben",
+    "Bedeutungen wie „die Geehrte“, „die Fremde“ oder „das Licht“ werden genannt",
+    "häufig und in Deutschland beliebt",
+    "Namenstag- und Bedeutungsbezüge prägen die öffentliche Wahrnehmung"
+  ],
+  "confidence": 0.92,
+  "display_text": "Nora wird im deutschsprachigen Raum überwiegend als freundlicher, moderner und sehr bekannter Vorname wahrgenommen. Die öffentliche Rezeption ist eher positiv bis neutral-informativ. Häufig genannt werden Bezüge zu Eleonora/Honora sowie Bedeutungen wie „die Geehrte“, „die Fremde“ oder „das Licht“. Die Evidenz ist solide, aber auf wenige Namenslexika begrenzt.",
+  "evidence_quality": "gut, aber auf wenige webbasierte Namenslexika beschränkt",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Nora",
+  "normalized_name": "nora",
+  "overall_resonance": "Nora wird im deutschsprachigen Raum überwiegend freundlich, modern und sehr bekannt wahrgenommen. Die öffentliche Rezeption ist vor allem neutral-beschreibend bis positiv, mit starken Bezügen zu Herkunft, Bedeutung und Beliebtheit.",
+  "practical_notes": [
+    "Für Suchmaschinen und Namensportale ist Nora ein sehr gut anschlussfähiger Name.",
+    "Der Name wirkt im Deutschen leicht verständlich und etabliert.",
+    "Aufgrund der hohen Bekanntheit ist die Wahrnehmung eher breit als kontrovers."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt nur aus wenigen, namenlexikalischen Webseiten und ist daher begrenzt.",
+    "Die genannten Bedeutungen sind herkunftsbezogene Deutungen, keine eindeutige feste Wahrheit.",
+    "Keine belastbaren Hinweise auf soziale Stigmatisierung erkennbar."
+  ],
+  "short_summary": "Nora gilt im Deutschen als sehr bekannter, freundlicher und eher positiv besetzter Vorname mit klaren Bedeutungs- und Herkunftsbezügen.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Nora � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/N/No/Nora/"
+    },
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "eher positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Nora: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Nora.html"
+    }
+  ],
+  "style_effect": [
+    "kurz und eingängig",
+    "zeitlos-moderner Klang",
+    "leicht, freundlich und klar",
+    "namenslexikalisch gut anschlussfähig",
+    "sowohl schlicht als auch elegant lesbar"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "hoch"
+}

@@ -1,0 +1,63 @@
+{
+  "associations": [
+    "nordisch",
+    "skandinavisch",
+    "altnordische Herkunft",
+    "Bedeutung: die Kleine / die Kurze",
+    "estnisch: die Blume",
+    "selten",
+    "ausgefallen",
+    "weiblicher Vorname"
+  ],
+  "confidence": 0.73,
+  "display_text": "Lille wirkt in den verfügbaren Quellen freundlich, kurz und nordisch-skandinavisch geprägt. Der Name wird eher als selten, ausgefallen und sanft wahrgenommen. Die Evidenz dafür ist aber nur begrenzt, da vor allem Namenslexika und indirekte Hinweise vorliegen.",
+  "evidence_quality": "mittel bis schwach: klar namenskundliche Quellen, aber nur indirekte Hinweise auf öffentliche Wahrnehmung und wenig echte Resonanzdaten.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Lille",
+  "normalized_name": "lille",
+  "overall_resonance": "Der Vorname Lille wirkt in den verfügbaren Quellen insgesamt eher freundlich, leicht und stilistisch nordisch-skandinavisch geprägt. Die öffentliche Rezeption ist dabei vor allem sachlich-beschreibend bis wohlwollend; eine starke, breit belegte Meinungsbildung ist aber nicht erkennbar.",
+  "practical_notes": [
+    "Für Suchende mit Vorliebe für kurze, ungewöhnliche und nordisch wirkende Namen dürfte Lille attraktiv erscheinen.",
+    "Wer einen sehr etablierten oder häufigen Namen sucht, könnte Lille eher als speziell oder selten wahrnehmen.",
+    "Die Aussprache und Schreibweise sind kurz und eingängig, was den Namen merkbar macht."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist schwach bis mittelstark und stammt vor allem aus Namenslexika statt aus breiter öffentlicher Diskussion.",
+    "Beliebtheits- oder Rankingangaben sollten vorsichtig gelesen werden, da sie nicht automatisch öffentliche Akzeptanz belegen.",
+    "Einzelne Kommentarbezüge sind für die allgemeine Namenswahrnehmung nur eingeschränkt aussagekräftig."
+  ],
+  "short_summary": "Lille wird überwiegend als kurzer, nordisch wirkender und eher seltener Vorname mit freundlicher, leichter Anmutung beschrieben. Die Evidenz für öffentliche Resonanz ist jedoch begrenzt.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Lille � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/L/Li/Lille/"
+    },
+    {
+      "confidence": 0.84,
+      "is_name_discussion": true,
+      "sentiment": "überwiegend positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Lille: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Lille.html"
+    }
+  ],
+  "style_effect": [
+    "kurz und markant",
+    "nordisch/skandinavisch konnotiert",
+    "weiblich lesbar",
+    "selten bzw. ausgefallen wirkend",
+    "sanft und eher modern",
+    "klingt eher verspielt als streng"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Eher gering bis mittel: Der Name erscheint in Namenslexika und auf Bedeutung-/Beliebtheitsseiten, aber die Evidenz für echte öffentliche Resonanz ist begrenzt und teilweise nur indirekt."
+}

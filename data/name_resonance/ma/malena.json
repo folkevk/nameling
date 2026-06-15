@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "Kurzform von Magdalena",
+    "Bedeutung: aus Magdala stammend",
+    "mögliche Deutung: die Erhabene",
+    "im Kroatischen auch: die Kleine",
+    "schwedische/spanische Namensnähe",
+    "selten bis eher ungewöhnlich"
+  ],
+  "confidence": 0.84,
+  "display_text": "Malena wird in Deutschland überwiegend positiv-neutral wahrgenommen: ein weicher, moderner und eher seltener Vorname mit klarer Namenskunde und wenig öffentlicher Kontroverse.",
+  "evidence_quality": "mittel: zwei überwiegend informative Webquellen, klare Namensdiskussion, aber wenig breite öffentliche Debatte und teils gemischte redaktionelle/lexikalische Evidenz.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Malena",
+  "normalized_name": "malena",
+  "overall_resonance": "Malena wird in der vorliegenden Evidenz überwiegend freundlich und unaufgeregt wahrgenommen: als klanglich angenehmer, moderner Mädchenname mit klarer Namenskunde und eher seltenem bis mittlerem Bekanntheitsgrad in Deutschland. Die öffentliche Darstellung ist vor allem informativ statt kontrovers.",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt Malena unkompliziert, freundlich und gut anschlussfähig.",
+    "Der Name lässt sich international relativ gut verstehen und aussprechen, kann aber je nach Umfeld unterschiedlich eingeordnet werden.",
+    "Die Wahrnehmung hängt vermutlich stärker von persönlichem Klangempfinden ab als von festen sozialen Zuschreibungen."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist relativ schmal und stark von Namensdatenbanken geprägt.",
+    "Es zeigt sich keine belastbare öffentliche Kontroverse; daher sollten Eindrücke nicht überinterpretiert werden.",
+    "Beliebtheitsangaben wirken eher beschreibend als repräsentativ für eine breite gesellschaftliche Meinung."
+  ],
+  "short_summary": "Malena wirkt in Deutschland als freundlicher, moderner und eher seltenerer Vorname mit klarer Herkunft und positiv-neutraler öffentlicher Resonanz.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Malena � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/M/Ma/Malena/"
+    },
+    {
+      "confidence": 0.88,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Malena: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Malena.html"
+    }
+  ],
+  "style_effect": [
+    "weich und melodisch",
+    "modern, aber nicht modisch-überdreht",
+    "namenskundlich klar einordenbar",
+    "eher individuell als häufig",
+    "leicht international wirkend"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland offenbar bekannt, aber nicht massenhaft verbreitet; die Quellen betonen eher Namenserklärung und Beliebtheit als eine breite öffentliche Debatte."
+}

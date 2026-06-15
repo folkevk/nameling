@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "französischer weiblicher Vorname",
+    "Bedeutung in den Quellen sinngemäß: die Reiche / die sehr Wohlhabende / freier Besitz",
+    "gotische bzw. westgotische Herkunft wird genannt",
+    "Namenstag: 22. Oktober",
+    "in Deutschland als eher besondere Namenswahl beschrieben"
+  ],
+  "confidence": 0.77,
+  "display_text": "Elodie klingt in den verfügbaren Quellen überwiegend elegant, französisch und besonders. In Deutschland scheint der Name eher selten bis moderat sichtbar zu sein. Die öffentliche Resonanz ist freundlich, aber die Evidenz ist vor allem lexikalisch und daher nur eingeschränkt aussagekräftig.",
+  "evidence_quality": "begrenzt: zwei vorwiegend lexikalische Webquellen, keine starke soziale Diskussionslage",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Elodie",
+  "normalized_name": "elodie",
+  "overall_resonance": "Elodie wird in der vorliegenden Evidenz überwiegend freundlich und ästhetisch wahrgenommen: Der Name wirkt klangvoll, elegant und eher besonders als alltäglich. Die öffentliche Resonanz ist jedoch nur vorsichtig belastbar, da die Quellen vor allem lexikalische Namensseiten sind und keine breite Diskussion im eigentlichen Sinn zeigen.",
+  "practical_notes": [
+    "Für eine Namenssuche in Deutschland wirkt Elodie eher stilvoll und unauffällig positiv.",
+    "Wer einen seltenen, französisch klingenden Namen sucht, findet hier eine passende, eher elegante Option.",
+    "Die Einschätzung sollte vorsichtig gelesen werden, da sie auf begrenzter Quellenbasis beruht."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist schwach bis mittel: Es handelt sich überwiegend um Namensdatenbanken, nicht um breite öffentliche Debatten oder Alltagsresonanz.",
+    "Einige positive Klangurteile sind redaktionell geprägt und sollten nicht als allgemeingültige Mehrheitsmeinung verstanden werden.",
+    "Keine Hinweise auf soziale Stigmatisierung in den Quellen."
+  ],
+  "short_summary": "Elodie wird in den Quellen meist als klangvoll, elegant und besonders beschrieben. In Deutschland wirkt der Name eher selten bis moderat sichtbar; die Evidenz ist dafür aber nur begrenzt belastbar.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.94,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Elodie � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/E/El/Elodie/"
+    },
+    {
+      "confidence": 0.9,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Elodie: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Elodie.html"
+    }
+  ],
+  "style_effect": [
+    "klangvoll",
+    "elegant",
+    "französisch geprägt",
+    "fein und feminin",
+    "außergewöhnlich, aber nicht sperrig",
+    "eher modern-zeitlos als streng traditionell"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Eher geringe bis mittlere öffentliche Sichtbarkeit in Deutschland; der Name erscheint in Namenslexika und wird dort als bekannt, aber nicht stark verbreitet beschrieben."
+}

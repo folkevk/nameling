@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "dänische und norwegische Kurzform von Katharina/Katrine",
+    "Bedeutung: die Reine / die Unschuldige",
+    "skandinavischer Klang",
+    "selten in Deutschland",
+    "Namenstag: 25. November"
+  ],
+  "confidence": 0.78,
+  "display_text": "Trine wirkt in Deutschland selten, skandinavisch und eher leicht positiv konnotiert. Die Quellen betonen vor allem Herkunft und Bedeutung; eine breite öffentliche Bewertung ist nur schwach erkennbar.",
+  "evidence_quality": "mittel bis schwach; überwiegend sachliche Namensquellen mit begrenzter öffentlicher Meinungsbasis",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Trine",
+  "normalized_name": "trine",
+  "overall_resonance": "Die öffentliche Wahrnehmung von Trine in Deutschland wirkt eher leicht positiv bis neutral, vor allem geprägt durch die skandinavische Herkunft und die Bedeutung des Namens. Eine breite, eigenständige öffentliche Resonanz ist jedoch nur schwach belegt.",
+  "practical_notes": [
+    "Für eine Namenssuche kann Trine als ungewöhnlich, nordisch und klanglich schlicht beschrieben werden.",
+    "Die Wahrnehmung dürfte stark von der persönlichen Vorliebe für skandinavische Namen abhängen.",
+    "Wegen der Seltenheit ist eher mit Wiedererkennung als mit Massenverbreitung zu rechnen."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz für eine echte öffentliche Resonanz in Deutschland ist schwach und überwiegend quellenbasiert.",
+    "Einzelne positive Kommentare sind anekdotisch und nicht repräsentativ.",
+    "Es gibt keinen belastbaren Hinweis auf eine starke gesellschaftliche Bewertung in die eine oder andere Richtung."
+  ],
+  "short_summary": "Trine wird in Deutschland selten verwendet und eher freundlich-neutral wahrgenommen, mit skandinavischer Prägung und positiver Bedeutungsassoziation. Die öffentliche Resonanz ist aber nur schwach belegt.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.89,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "Vorname Trine � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/T/Tr/Trine/"
+    },
+    {
+      "confidence": 0.84,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Trine: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Trine.html"
+    }
+  ],
+  "style_effect": [
+    "skandinavisch",
+    "kurz und klar",
+    "namenskundlich",
+    "selten",
+    "eher freundlich wahrgenommen",
+    "neutral bis leicht positiv"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland ist Trine offenbar selten und eher vereinzelt sichtbar. Die vorhandenen Hinweise stammen vor allem aus Namenslexika und wenigen Kommentaren, nicht aus einer breiten öffentlichen Diskussion."
+}

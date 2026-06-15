@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "niederdeutsche Form von Detlef",
+    "althochdeutsche Herkunft",
+    "Bedeutung im Sinn von \"Sohn des Volkes\" bzw. \"der im Volk Lebende\"",
+    "männlicher Vorname",
+    "in Deutschland selten",
+    "früher verbreiteter, heute deutlich seltener",
+    "Namenstag am 23. November"
+  ],
+  "confidence": 0.77,
+  "display_text": "Detlev wirkt in Deutschland klassisch und traditionsnah, zugleich aber deutlich selten. Die öffentliche Wahrnehmung ist überwiegend neutral bis leicht positiv; belastbare Hinweise auf starke Vorlieben oder Ablehnung sind in der vorliegenden Evidenz nicht erkennbar.",
+  "evidence_quality": "mittel: gute lexikalische Angaben zur Herkunft und Einordnung, aber nur schwache bis begrenzte direkte Evidenz zur öffentlichen Resonanz.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Detlev",
+  "normalized_name": "detlev",
+  "overall_resonance": "Eher klassisch, sachlich und heute selten; die öffentliche Wahrnehmung wirkt überwiegend neutral bis leicht positiv.",
+  "practical_notes": [
+    "Für Suchmaschinen wirkt der Name eher traditionsnah als trendig.",
+    "Die Seltenheit kann ihn markant machen, ohne stark polarisierend zu erscheinen.",
+    "Kurzformen wie Detti oder Dedi werden in Quellen erwähnt, sind aber nicht allgemein festgelegt."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz zur öffentlichen Resonanz ist begrenzt und stammt vor allem aus Namenslexika; daraus lässt sich nur vorsichtig auf die Wahrnehmung schließen.",
+    "Einzelne Community-Stimmen sind nicht repräsentativ für die allgemeine Rezeption."
+  ],
+  "short_summary": "Detlev wird öffentlich meist als klassischer, seltener und eher traditionsnaher Männername wahrgenommen.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Detlev � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/D/De/Detlev/"
+    },
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "überwiegend positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Detlev: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Detlev.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "niederdeutsch/althochdeutsch geprägt",
+    "bodenständig",
+    "altbekannt, aber selten",
+    "sprachlich eher nüchtern als modern"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland ist der Name deutlich weniger gebräuchlich und daher eher auffällig als alltagsüblich."
+}

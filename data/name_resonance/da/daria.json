@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "weiblicher Vorname",
+    "altpersische und teils griechische Herkunft",
+    "Bedeutungen wie 'die Mächtige' oder 'Inhaberin des Guten'",
+    "teils auch Deutungen wie 'Geschenk' oder 'Meer/Ozean' in Namensquellen",
+    "Namenstag",
+    "Spitznamen wie Dara, Ria oder Dasha",
+    "seltene bis zunehmend vergebene Nutzung in Deutschland"
+  ],
+  "confidence": 0.9,
+  "display_text": "Daria wirkt in Deutschland überwiegend freundlich, klangvoll und international. Der Name wird eher selten vergeben, ist aber gut bekannt und vor allem namenskundlich positiv oder neutral konnotiert.",
+  "evidence_quality": "mittel bis gut: zwei thematisch passende, klar namensbezogene Webquellen; überwiegend lexikalisch und redaktionell, kaum echte Alltagsdiskussion.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Daria",
+  "normalized_name": "daria",
+  "overall_resonance": "Daria wird in der öffentlichen Namenswahrnehmung in Deutschland überwiegend sachlich bis freundlich beschrieben: ein klangvoller, weiblicher Vorname mit klarer namenskundlicher Einordnung, eher seltener bis moderat bekannter Nutzung und meist positiver oder neutraler Resonanz.",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt Daria freundlich, feminin und international verständlich.",
+    "Die Quellen nennen mehrere Herkunfts- und Bedeutungsvarianten; diese sollten eher als namenskundliche Deutungen denn als gesicherte Einzelwahrheit gelesen werden.",
+    "Die Schreibweise ist unkompliziert und im deutschen Sprachraum gut lesbar."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt fast vollständig aus Namenslexika und redaktionellen Beschreibungen; das ist informativ, aber nur begrenzt ein Abbild breiter Alltagswahrnehmung.",
+    "Es gibt keine belastbaren Hinweise auf soziale Stigmatisierung im Material; eine solche wäre hier nicht anzunehmen."
+  ],
+  "short_summary": "Daria wird in Deutschland meist positiv oder neutral wahrgenommen: ein klangvoller, weiblicher und eher seltener Vorname mit internationaler Anmutung und mehreren namenskundlichen Bedeutungen.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Daria � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/D/Da/Daria/"
+    },
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Daria: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Daria.html"
+    }
+  ],
+  "style_effect": [
+    "klangvoll",
+    "elegant",
+    "international wirkend",
+    "klassisch-romantisch",
+    "sachlich-namenskundlich"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland eher selten, aber bekannt; in Namenslexika und Vornamensportalen gut auffindbar."
+}

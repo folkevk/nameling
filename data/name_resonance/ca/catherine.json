@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "altgriechische Herkunft über Katharina",
+    "Bedeutung: „die Reine“ / „die Unschuldige“",
+    "englische und französische Namensform",
+    "Kurzformen wie Cathy, Kate oder Katie",
+    "Namenstag",
+    "im Deutschen eher ungewöhnlich"
+  ],
+  "confidence": 0.82,
+  "display_text": "Catherine wirkt im deutschsprachigen Raum eher selten, klassisch und international. Die öffentliche Wahrnehmung ist überwiegend neutral bis leicht positiv; die Evidenz stammt vor allem aus Namenslexika und ist daher nur begrenzt aussagekräftig für breite öffentliche Resonanz.",
+  "evidence_quality": "mittel bis schwach für öffentliche Resonanz, gut für Namensbeschreibung",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Catherine",
+  "normalized_name": "catherine",
+  "overall_resonance": "Der Vorname Catherine wird im deutschsprachigen Raum überwiegend sachlich-neutrale bis leicht positive assoziiert. Er wirkt international, klassisch und elegant, ist aber eher selten.",
+  "practical_notes": [
+    "Für deutsche Ohren klar verständlich, aber weniger alltäglich als Katharina.",
+    "Wirkt eher international als traditionell-deutsch.",
+    "Die Schreibweise kann im Alltag gelegentlich erklärt oder buchstabiert werden müssen."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist vor allem lexikalisch und datenbankbasiert; echte öffentliche Meinungsdiskussion ist nur schwach erkennbar.",
+    "Die positive Wirkung ergibt sich eher aus Namensbedeutung und Stilmerkmalen als aus breiter sozialer Resonanz."
+  ],
+  "short_summary": "Catherine wird in Deutschland eher selten, aber stilvoll und international wahrgenommen. Die verfügbare Evidenz ist überwiegend beschreibend statt diskussionsbasiert.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.95,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Catherine � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/C/Ca/Catherine/"
+    },
+    {
+      "confidence": 0.91,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Catherine: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Catherine.html"
+    }
+  ],
+  "style_effect": [
+    "international",
+    "klassisch",
+    "elegant",
+    "weiblich",
+    "namenskundlich",
+    "eher selten"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Eher geringe Sichtbarkeit in Deutschland; der Name ist bekannt, aber nicht stark verbreitet."
+}

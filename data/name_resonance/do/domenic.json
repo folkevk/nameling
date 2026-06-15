@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "lateinische Herkunft",
+    "Bedeutung: „der zum Herrn Gehörende“",
+    "Bezug zu Domenico/Dominik",
+    "kirchlich-katholische Konnotation",
+    "Namenstag am 8. August",
+    "im deutschsprachigen Raum häufiger in den Formen Dominik/Domenik",
+    "seltene bis mäßige Verbreitung in Deutschland"
+  ],
+  "confidence": 0.77,
+  "display_text": "Domenic wird öffentlich vor allem neutral bis leicht positiv wahrgenommen: ein seltenerer, traditionsnaher Vorname mit lateinisch-kirchlichem Bezug. Die Evidenz ist allerdings eher schwach und stammt vor allem aus Namenslexika, nicht aus breiter öffentlicher Diskussion.",
+  "evidence_quality": "eher schwach bis mittel; vor allem lexikalische Namensquellen, kaum direkte öffentliche Resonanz",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Domenic",
+  "normalized_name": "domenic",
+  "overall_resonance": "Die öffentliche Wahrnehmung von „Domenic“ wirkt überwiegend neutral bis leicht positiv. Der Name wird vor allem sachlich über Herkunft, Bedeutung und Namensgeschichte eingeordnet; eine starke eigenständige öffentliche Resonanz ist in der vorliegenden Evidenz nicht erkennbar.",
+  "practical_notes": [
+    "Für eine Namenssuche ist „Domenic“ gut verständlich und klar einordenbar.",
+    "Die Schreibweise kann im Alltag erklärungsbedürftig sein, weil verwandte Formen geläufiger sind.",
+    "Der Name vermittelt eher eine traditionelle als eine moderne oder trendige Wirkung."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt überwiegend aus Namenslexika und einer einzelnen thematischen Quelle.",
+    "Es gibt kaum direkte öffentliche Meinungsäußerungen oder Diskussionsresonanz zum Namen.",
+    "Die Wahrnehmung sollte daher nur vorsichtig als Tendenz und nicht als breit belegtes Urteil gelesen werden."
+  ],
+  "short_summary": "Neutral bis leicht positiv wahrgenommener, eher seltener Vorname mit lateinisch-kirchlichem Hintergrund und etwas erklärungsbedürftiger Schreibweise.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.92,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Domenic � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/D/Do/Domenic/"
+    },
+    {
+      "confidence": 0.89,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Domenic: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Domenic.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch-lateinisch",
+    "kirchlich/katholisch konnotiert",
+    "sprachlich vertraut, aber nicht sehr häufig",
+    "leicht formell und traditionsnah",
+    "durch die Schreibweise etwas individuell"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland eher selten bis mäßig verbreitet und damit eher bekannt als alltäglich. Die Schreibweise wirkt etwas markanter und wird laut Quellen gelegentlich buchstabiert."
+}

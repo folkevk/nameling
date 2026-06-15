@@ -1,0 +1,64 @@
+{
+  "associations": [
+    "altnordisch",
+    "altsächsisch",
+    "Kurzform",
+    "Bedeutung: der Wolf",
+    "skandinavisch",
+    "selten",
+    "Namenstag",
+    "deutsch/skandinavisch"
+  ],
+  "confidence": 0.76,
+  "display_text": "Ulf wirkt in der öffentlichen Wahrnehmung überwiegend sachlich bis leicht positiv: kurz, nordisch geprägt, selten und mit der Bedeutung „der Wolf“. Die vorliegende Evidenz ist vor allem lexikalisch und nur begrenzt repräsentativ, daher eher als vorsichtige Tendenz zu lesen.",
+  "evidence_quality": "Begrenzt: überwiegend lexikalische Quellen, dazu wenige subjektive Nutzerkommentare. Für eine öffentliche Resonanzkarte ist die Grundlage brauchbar, aber nicht repräsentativ.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Ulf",
+  "normalized_name": "ulf",
+  "overall_resonance": "Die öffentliche Wahrnehmung von „Ulf“ wirkt überwiegend sachlich bis leicht positiv. Der Name wird vor allem als kurze, altnordisch/skandinavisch geprägte Form mit der Bedeutung „der Wolf“ beschrieben. Eine starke emotionale oder gesellschaftliche Aufladung ist in der vorliegenden Evidenz nicht erkennbar.",
+  "practical_notes": [
+    "Für Suchende wirkt der Name kurz, markant und traditionell-nordisch.",
+    "Die Resonanz basiert eher auf Bedeutung und Herkunft als auf breiter öffentlicher Popularität.",
+    "Wenn eine moderne, sehr häufige Namenswirkung gewünscht ist, passt Ulf eher weniger; als kompakter Klassiker mit klarer Herkunft eher gut."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist schwach bis mittelstark und stammt vor allem aus Namenslexika mit begrenzten Kommentaren.",
+    "Es gibt keine belastbaren Hinweise auf breitere öffentliche Stigmatisierung oder besonders starke Trendwahrnehmung.",
+    "Seltenheit kann als stilistisches Merkmal wahrgenommen werden, ist aber keine Bewertung der Trägerinnen und Träger."
+  ],
+  "short_summary": "Ulf wird meist sachlich und leicht positiv wahrgenommen: kurz, nordisch, selten und mit der Bedeutung „der Wolf“. Die Evidenz ist jedoch eher begrenzt.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Ulf � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/U/Ul/Ulf/"
+    },
+    {
+      "confidence": 0.87,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Ulf: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Ulf.html"
+    }
+  ],
+  "style_effect": [
+    "kurz",
+    "klar",
+    "nordisch",
+    "traditionsnah",
+    "maskulin",
+    "namenskundlich geprägt",
+    "eher selten"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Eher selten und dadurch auffällig, aber nicht stark massenpräsent. In Deutschland scheint der Name eher bekannt als verbreitet zu sein."
+}

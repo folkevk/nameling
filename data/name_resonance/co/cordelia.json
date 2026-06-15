@@ -1,0 +1,62 @@
+{
+  "associations": [
+    "lateinischer Ursprung",
+    "mögliche Deutungen wie „Herzchen“ oder „die Herzliche“",
+    "möglicherweise „die Spätgeborene“",
+    "Shakespeare / König Lear",
+    "selten und ungewöhnlich",
+    "romantische bzw. schöne Klangwirkung"
+  ],
+  "confidence": 0.78,
+  "display_text": "Cordelia wird in Deutschland meist als seltener, klassisch-literarischer und elegant klingender Vorname wahrgenommen. Die öffentliche Resonanz ist eher positiv, aber die Evidenz ist begrenzt und teils kommentargetrieben.",
+  "evidence_quality": "mittel bis schwach; gute inhaltliche Passung zum Namen, aber geringe Quellzahl und teils kommentargetriebene Bewertung",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Cordelia",
+  "normalized_name": "cordelia",
+  "overall_resonance": "Cordelia wird im deutschen Namensraum überwiegend als klassisch-literarischer, eleganter und eher seltener Vorname wahrgenommen. Die öffentliche Rezeption ist vorsichtig positiv, mit starkem Fokus auf Klang, Herkunft und literarische Assoziationen.",
+  "practical_notes": [
+    "Der Name wirkt in Deutschland auffällig, aber nicht problematisch.",
+    "Wer einen seltenen, traditionsreichen und literarisch geprägten Namen sucht, findet hier eine passende Wahrnehmung.",
+    "Für eine belastbare Aussage zur tatsächlichen Verbreitung wären zusätzliche statistische Quellen sinnvoll."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist begrenzt und stützt sich stark auf wenige Namensseiten.",
+    "Einige Bedeutungsangaben sind unsicher formuliert und sollten nicht als gesichert gelten.",
+    "Positive Klangurteile stammen teils aus Nutzerkommentaren und sind keine allgemeingültige Mehrheitsmeinung."
+  ],
+  "short_summary": "Cordelia gilt in Deutschland als seltener, klassisch-literarischer und eher positiv besetzter Vorname mit elegantem Klang. Die Resonanz ist freundlich, aber die Evidenzlage ist begrenzt.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "Vorname Cordelia � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/C/Co/Cordelia/"
+    },
+    {
+      "confidence": 0.9,
+      "is_name_discussion": true,
+      "sentiment": "eher positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Cordelia: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Cordelia.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "literarisch",
+    "elegant",
+    "romantisch",
+    "selten",
+    "namenskundlich",
+    "weich klingend"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Eher gering bis moderat sichtbar: Der Name ist in Deutschland gelistet, wirkt aber deutlich ungewöhnlich und nicht alltäglich. Die vorhandene Evidenz stammt vor allem aus Namenslexika und einzelnen kommentarbasierten Quellen, daher ist die öffentliche Resonanz nur eingeschränkt belastbar."
+}

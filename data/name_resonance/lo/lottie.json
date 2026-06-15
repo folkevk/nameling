@@ -1,0 +1,52 @@
+{
+  "associations": [
+    "Koseform von Charlotte",
+    "Bedeutung: „die Freie“",
+    "althochdeutsche Wurzeln über Charlotte",
+    "in Deutschland eher selten",
+    "Varianten wie Lotte, Lotta oder Lotti sind geläufiger",
+    "Namenstag am 17. Juli"
+  ],
+  "confidence": 0.83,
+  "display_text": "Lottie wirkt in Deutschland eher sachlich-neutral und leicht charmant. Der Name erscheint vor allem als seltene, englische Koseform von Charlotte; die öffentliche Resonanz ist jedoch schwach belegt und basiert hier nur auf einer Namensdatenbank.",
+  "evidence_quality": "Schwach bis mittel: inhaltlich klare Namensquelle, aber nur eine einzelne, eher lexikalische Evidenz für Deutschland.",
+  "generated_at": "2026-06-14T10:47:41Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Lottie",
+  "normalized_name": "lottie",
+  "overall_resonance": "Eher sachlich-neutral und leicht charmant, aber in der öffentlichen Wahrnehmung in Deutschland nur schwach sichtbar.",
+  "practical_notes": [
+    "Für Suchmaschinen ist Lottie vor allem als Namensform und Koseform relevant.",
+    "Die Wirkung wird eher als freundlich, leicht nostalgisch und international lesbar wahrgenommen.",
+    "Im deutschen Kontext dürfte der Name wegen seiner Seltenheit eher auffallen als alltäglich sein."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenzlage ist schwach; es gibt nur eine Quelle mit Namenslexikon-Charakter.",
+    "Beliebtheitsaussagen können je nach Datenbank widersprüchlich sein.",
+    "Keine belastbaren Hinweise auf starke öffentliche Trends oder klare gesellschaftliche Zuschreibungen."
+  ],
+  "short_summary": "Lottie wird in Deutschland vor allem als seltene, sachlich besprochene englische Koseform von Charlotte wahrgenommen – freundlich, weich und eher unauffällig in der öffentlichen Resonanz.",
+  "source_count": 1,
+  "sources": [
+    {
+      "confidence": 0.91,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Lottie � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/L/Lo/Lottie/"
+    }
+  ],
+  "style_effect": [
+    "weiblich und weich klingend",
+    "englisch wirkende Koseform",
+    "kurz, freundlich und leicht verspielt",
+    "namenskundlich statt modisch geprägt",
+    "eher selten in Deutschland"
+  ],
+  "usable_evidence_count": 1,
+  "visibility": "Gering; die verfügbare Evidenz stammt aus einer einzelnen Namensdatenbank und zeigt eher lexikalisches Interesse als breite öffentliche Diskussion."
+}

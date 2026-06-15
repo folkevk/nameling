@@ -1,0 +1,63 @@
+{
+  "associations": [
+    "griechischer Ursprung",
+    "Bedeutungen wie 'zähmen', 'bezwingen' oder 'beherrschen'",
+    "männlicher Vorname",
+    "christlicher Namensbezug",
+    "Namenspatron/Namenstag",
+    "in Deutschland bekannt",
+    "regelmäßig vergeben",
+    "leicht rückläufige Beliebtheit"
+  ],
+  "confidence": 0.84,
+  "display_text": "Damian: in Deutschland ein bekannter, klassisch wirkender Vorname mit eher positiver, sachlich-ruhiger Resonanz. Die Quellen betonen Herkunft, Bedeutung und Namenstag; breite Alltagsstimmen sind nur schwach belegt.",
+  "evidence_quality": "mittel: gute namenskundliche Beschreibung, aber nur geringe direkte Alltagsresonanz",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Damian",
+  "normalized_name": "damian",
+  "overall_resonance": "Damian wirkt in der öffentlichen Namenswahrnehmung in Deutschland überwiegend klassisch, bekannt und eher positiv besetzt, ohne starke Kontroversen. Die vorhandene Evidenz ist aber vor allem namenskundlich und nicht als breite Alltagsmeinung zu verstehen.",
+  "practical_notes": [
+    "Für Suchmaschinen und Namensportale eignet sich Damian als klar verständlicher, traditionell wirkender Name mit positiv-neutraler Grundwirkung.",
+    "Die Wahrnehmung ist eher sachlich und kulturhistorisch geprägt als stark emotional oder trendgetrieben.",
+    "Kurzformen wie Dami oder Damo werden vereinzelt genannt, sind aber nicht zentral für die öffentliche Resonanz."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt fast ausschließlich aus Namenslexika; echte öffentliche Debatten oder breite Meinungsbilder sind nur schwach belegt.",
+    "Beliebtheitsaussagen sollten vorsichtig gelesen werden, da sie eher beschreibend als repräsentativ sind.",
+    "Keine belastbaren Hinweise auf soziale Stigmatisierung in der vorliegenden Evidenz."
+  ],
+  "short_summary": "Damian wird in Deutschland überwiegend als klassischer, bekannter und eher positiv konnotierter Vorname wahrgenommen. Die Evidenz ist vor allem lexikalisch und daher nur eingeschränkt als öffentliche Meinungslage zu werten.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.94,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Damian � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/D/Da/Damian/"
+    },
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "eher positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Damian: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Damian.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "etabliert",
+    "leicht modern",
+    "eher markant im Klang",
+    "international anschlussfähig",
+    "informativ statt modisch"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Der Name ist in Deutschland bekannt und regelmäßig vergeben, mit eher etablierter als trendiger Wirkung. In den Quellen wird er als geläufig, aber nicht extrem dominant beschrieben."
+}

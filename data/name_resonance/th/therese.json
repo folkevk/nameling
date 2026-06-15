@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "altgriechischer Ursprung",
+    "Nebenform von Theresa",
+    "Namenstag",
+    "selten vergeben in Deutschland",
+    "Spitznamen wie Resi oder Tessi",
+    "sachliche Namenslexikon-Kontexte"
+  ],
+  "confidence": 0.86,
+  "display_text": "Therese wirkt in der öffentlichen Wahrnehmung überwiegend neutral bis leicht positiv: klassisch, traditionell und eher selten. Die vorliegenden Quellen sind allerdings vor allem Namenslexika und damit nur begrenzt aussagekräftig für echte öffentliche Resonanz.",
+  "evidence_quality": "mittel",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Therese",
+  "normalized_name": "therese",
+  "overall_resonance": "Überwiegend neutral bis leicht positiv. Therese wird in den Quellen vor allem als klassischer, eher seltener Vorname mit traditioneller Wirkung dargestellt.",
+  "practical_notes": [
+    "Für Suchmaschinen wirkt der Name eher klassisch und unaufgeregt.",
+    "Die öffentliche Wahrnehmung erscheint stabil, aber nicht trendig oder besonders medial aufgeladen.",
+    "Als seltenerer Vorname kann Therese als individuell und traditionell wahrgenommen werden."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist insgesamt eher beschreibend als diskussionsbezogen; daraus lässt sich nur vorsichtig auf öffentliche Resonanz schließen.",
+    "Angaben zu Beliebtheit und Einordnung stammen aus Namensdatenbanken und können redaktionell geprägt sein.",
+    "Keine belastbaren Hinweise auf starke positive oder negative gesellschaftliche Stigmatisierung."
+  ],
+  "short_summary": "Therese wird öffentlich eher als klassischer, seltener und sachlich positiv konnotierter Vorname wahrgenommen. Die Quellen sind jedoch überwiegend informativ statt meinungsstark.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.86,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "Vorname Therese � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/T/Th/Therese/"
+    },
+    {
+      "confidence": 0.95,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Therese: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Therese.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "traditionell",
+    "namenskundlich",
+    "eher selten",
+    "ruhig und sachlich",
+    "leicht altmodisch, aber nicht negativ"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Eher niedrig bis mittel; der Name ist bekannt, wirkt im öffentlichen Diskurs aber nicht besonders präsent."
+}

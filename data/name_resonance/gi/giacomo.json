@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "italienische Variante von Jakob/Jakobus",
+    "althebräische Herkunft",
+    "Bedeutung in Richtung „Gott schütze“ bzw. „der Fersenhalter“",
+    "männlicher Vorname",
+    "Namenstag",
+    "in Deutschland eher selten wahrgenommen",
+    "teilweise als poetisch klingend beschrieben"
+  ],
+  "confidence": 0.77,
+  "display_text": "Giacomo wird in Deutschland meist als italienische Form von Jakob wahrgenommen: klangvoll, traditionell und eher selten. Die verfügbare Evidenz ist begrenzt und stammt vor allem aus Namensdatenbanken; einzelne Kommentare sind subjektiv und nicht repräsentativ.",
+  "evidence_quality": "mittel bis schwach: zwei Namenslexikon-/Datenbankquellen, aber keine breite öffentliche Diskussionslage; einige Wertungen stammen aus Einzelkommentaren.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Giacomo",
+  "normalized_name": "giacomo",
+  "overall_resonance": "Giacomo wird im deutschen Raum überwiegend als italienisch geprägter, klangvoller und namenskundlich klar verortbarer Vorname wahrgenommen. Die öffentliche Resonanz wirkt eher sachlich-informativ als breit emotional; vereinzelt gibt es positive Klangassoziationen, aber auch einzelne kritische Kommentare, die stark von Einzelfällen geprägt sind.",
+  "practical_notes": [
+    "Für Suchmaschinen eignet sich eine neutrale Beschreibung als italienische Form von Jakob mit klarem Herkunftsbezug.",
+    "Wenn Kontext wichtig ist, sollte die seltenere und stärker mediterran wirkende Klangfarbe erwähnt werden.",
+    "Keine überstarke soziale Bewertung ableiten; die vorhandene Resonanz ist eher informativ als gesellschaftlich polarisiert."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz basiert vor allem auf wenigen Namensdatenbank-Quellen und einzelnen Nutzerkommentaren.",
+    "Aussagen wie „zu italienisch“ oder „arrogant“ sind subjektive Einzelmeinungen und nicht als allgemeingültig zu verstehen.",
+    "Zur tatsächlichen Alltagswahrnehmung in Deutschland ist die Datenlage begrenzt."
+  ],
+  "short_summary": "Giacomo wirkt in DE vor allem italienisch, klangvoll und namenskundlich klar einordenbar; die öffentliche Resonanz ist eher sachlich und auf wenige Quellen gestützt.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.94,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Giacomo � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/G/Gi/Giacomo/"
+    },
+    {
+      "confidence": 0.72,
+      "is_name_discussion": true,
+      "sentiment": "mixed",
+      "source_type": "web",
+      "title": "&#9655; Vorname Giacomo: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Giacomo.html"
+    }
+  ],
+  "style_effect": [
+    "italienisch",
+    "klangvoll",
+    "klassisch-lexikalisch",
+    "eher markant als alltäglich",
+    "namenskundlich etabliert"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Die Sichtbarkeit in DE scheint eher gering bis moderat und vor allem in Namenslexika, Vornamendatenbanken und Kommentaren präsent. Eine breite öffentliche Diskussion ist in der vorliegenden Evidenz nicht erkennbar."
+}

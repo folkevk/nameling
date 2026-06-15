@@ -1,0 +1,62 @@
+{
+  "associations": [
+    "altgriechische Herkunft",
+    "Bedeutung: „die Reine“",
+    "Variante von Katharina",
+    "Namenstag",
+    "skandinavische und slawische Schreibweise",
+    "Beliebtheit in Deutschland",
+    "Koseformen und Spitznamen"
+  ],
+  "confidence": 0.77,
+  "display_text": "Katarina wirkt im Deutschen klassisch, vertraut und leicht positiv besetzt. Die Quellen betonen vor allem Herkunft, Bedeutung und die Nähe zu Katharina; belastbare Hinweise auf eine breite öffentliche Debatte gibt es aber kaum.",
+  "evidence_quality": "mittel bis schwach: zwei sachliche Namenslexikon-Quellen, keine echte öffentliche Debatte",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Katarina",
+  "normalized_name": "katarina",
+  "overall_resonance": "Katarina wird in den vorliegenden Quellen überwiegend sachlich und eher positiv-konnotiert dargestellt. Der Name wirkt klassisch, international anschlussfähig und durch die Verbindung zu Katharina vertraut. Eine breite öffentliche Debatte ist jedoch nicht erkennbar; die Evidenz stammt vor allem aus Namenslexika.",
+  "practical_notes": [
+    "Für Suchmaschinen und Namensprofile eignet sich die Einordnung als klassisch und international verständlich.",
+    "Wenn eine präzisere Publikumswahrnehmung gewünscht ist, wären zusätzliche Quellen wie Umfragen oder Social-Media-Daten nötig.",
+    "Die Schreibweise kann als Variante von Katharina erklärt werden, ohne sie als minderwertig zu markieren."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist begrenzt und basiert vor allem auf zwei Namenslexikon-Seiten.",
+    "Es gibt kaum freie öffentliche Diskussion oder belastbare Alltagsresonanzdaten.",
+    "Positive Tendenzen sollten nicht mit breiter gesellschaftlicher Zustimmung verwechselt werden."
+  ],
+  "short_summary": "Katarina wird eher klassisch und leicht positiv wahrgenommen, vor allem wegen Herkunft, Bedeutung und Variantencharakter. Die Evidenz ist jedoch begrenzt und überwiegend lexikalisch.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Katarina � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/K/Ka/Katarina/"
+    },
+    {
+      "confidence": 0.86,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Katarina: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Katarina.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "international",
+    "namenskundlich",
+    "elegant",
+    "traditionell",
+    "neutral bis leicht positiv"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Im deutschsprachigen Raum als geläufige, aber nicht extrem dominante Namensvariante sichtbar. Die Wahrnehmung scheint eher informativ als meinungsstark zu sein."
+}

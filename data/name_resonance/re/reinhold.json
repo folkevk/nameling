@@ -1,0 +1,62 @@
+{
+  "associations": [
+    "althochdeutsche Herkunft",
+    "Bedeutung mit Rat/Beschluss und Herrschaft",
+    "alter deutscher Vorname",
+    "historisch verbreitet",
+    "heute selten",
+    "Namenstag",
+    "namenskundlich interessant"
+  ],
+  "confidence": 0.9,
+  "display_text": "Reinhold wirkt in der öffentlichen Wahrnehmung vor allem traditionell, altdeutsch und historisch. Der Name ist heute eher selten, wird aber meist sachlich bis leicht positiv mit Herkunft, Bedeutung und Namenstag verbunden.",
+  "evidence_quality": "Gut bis mittel: Zwei direkte Namensquellen mit klaren Angaben zu Herkunft, Bedeutung und Beliebtheit; die Gesamtresonanz ist dennoch nur indirekt ableitbar, da auch subjektive Kommentare enthalten sind.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Reinhold",
+  "normalized_name": "reinhold",
+  "overall_resonance": "Reinhold wird in den vorliegenden Quellen überwiegend als traditioneller, altdeutscher und historisch geprägter Vorname dargestellt. Die öffentliche Wahrnehmung wirkt eher sachlich bis leicht positiv, mit Assoziationen zu Herkunft, Bedeutung und Namenstag; gleichzeitig gilt der Name heute als eher selten und damit nicht besonders modern im Alltagsgebrauch.",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt Reinhold eher klassisch als zeitgemäß.",
+    "Der Name kann auf manche Personen traditionsbewusst oder markant wirken.",
+    "Wegen der Seltenheit heute kann er als eigenständig und unverwechselbar wahrgenommen werden."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die positive Tendenz stammt teils aus subjektiven Einzelbewertungen in den Quellen und ist daher nur vorsichtig zu gewichten.",
+    "Es gibt keine belastbare Evidenz für eine gesellschaftliche Stigmatisierung des Namens in den bereitgestellten Quellen."
+  ],
+  "short_summary": "Reinhold wird meist als traditioneller, altdeutscher und heute seltener Vorname wahrgenommen – eher klassisch und historisch als modern.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.99,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Reinhold � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/R/Re/Reinhold/"
+    },
+    {
+      "confidence": 0.9,
+      "is_name_discussion": true,
+      "sentiment": "positive",
+      "source_type": "web",
+      "title": "&#9655; Vorname Reinhold: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Reinhold.html"
+    }
+  ],
+  "style_effect": [
+    "traditionell",
+    "altdeutsch",
+    "lexikalisch",
+    "faktenbasiert",
+    "historisch",
+    "selten",
+    "klassisch"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Eher gering bis mittel: Der Name ist bekannt, aber im heutigen Sprachgebrauch deutlich seltener und wirkt deshalb vor allem traditionell oder historisch."
+}

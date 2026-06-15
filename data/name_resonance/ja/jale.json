@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "türkische und persische Herkunftsdeutungen",
+    "friesische Einordnung",
+    "Tau / Tautropfen / Morgentau",
+    "Naturbezug",
+    "fröhlich und ausgelassen als Deutung",
+    "selten bis moderat verbreitet"
+  ],
+  "confidence": 0.76,
+  "display_text": "Jale wird in den vorliegenden Quellen überwiegend neutral bis leicht positiv wahrgenommen: kurz, modern und mit Naturbezügen wie Tau oder Morgentau verbunden. Die öffentliche Resonanz ist jedoch nur schwach belegt und beruht vor allem auf einzelnen Namenslexika.",
+  "evidence_quality": "Schwach bis mittel: wenige Quellen, überwiegend namenkundliche Websites, kaum unabhängige Breitenresonanz.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Jale",
+  "normalized_name": "jale",
+  "overall_resonance": "In den vorliegenden Quellen wirkt Jale in Deutschland überwiegend sachlich bis leicht positiv wahrgenommen. Der Name wird vor allem als klanglich kurz, modern und mit Natur- bzw. Bedeutungsbezügen beschrieben. Die öffentliche Resonanz ist jedoch nur schwach belegt und stützt sich im Wesentlichen auf wenige Namenslexika.",
+  "practical_notes": [
+    "Für Suchende wirkt der Name insgesamt unkompliziert und positiv konnotiert.",
+    "Wer auf eindeutige Aussprache oder sehr hohe Bekanntheit Wert legt, sollte die eher seltene Verbreitung mitbedenken.",
+    "Die Namensdeutungen variieren je nach Quelle; die Bedeutung sollte nicht als eindeutig feststehend verstanden werden."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt fast ausschließlich aus einzelnen Namensdatenbanken und ist daher nicht breit repräsentativ.",
+    "Einige Angaben sind lexikalisch oder redaktionell geprägt und sollten nicht als allgemeine öffentliche Meinung verstanden werden.",
+    "Aussagen zu Beliebtheit und Wirkung sind vorsichtig zu lesen, da echte Breitenresonanz nur begrenzt sichtbar ist."
+  ],
+  "short_summary": "Jale wird in den Quellen als kurzer, moderner und eher freundlich konnotierter Name mit Natur- und Herkunftsbezügen beschrieben. Die öffentliche Resonanz scheint eher positiv bis neutral, ist aber nur schwach belegt.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.87,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Jale � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/J/Ja/Jale/"
+    },
+    {
+      "confidence": 0.89,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Jale: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Jale.html"
+    }
+  ],
+  "style_effect": [
+    "kurz und prägnant",
+    "modern wirkend",
+    "weich im Klang",
+    "namenskundlich aufgeladen",
+    "mit Naturassoziationen",
+    "eher freundlich als streng"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Eher selten bis moderat verbreitet; öffentlich bekannt, aber nicht stark präsent. Die Evidenz zur tatsächlichen Alltagswahrnehmung ist begrenzt."
+}

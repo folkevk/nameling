@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "Kurzform von Elizabeth/Elisabeth",
+    "hebräische Herkunft",
+    "Bedeutung im Sinne von Gottes Fülle bzw. Gottes Vollkommenheit",
+    "weiblicher Vorname",
+    "selten auch als originelle Schreibweise von Elisabeth",
+    "Namenstage werden genannt"
+  ],
+  "confidence": 0.87,
+  "display_text": "Liz: überwiegend positiv bis neutral wahrgenommen – kurz, modern und klar als Kurzform von Elizabeth erkennbar. Die Quellen betonen vor allem Herkunft, Bedeutung und Namenstage; echte öffentliche Meinungen sind nur begrenzt belegt.",
+  "evidence_quality": "mittel bis gut: klare namenkundliche Quellen, aber nur eingeschränkt öffentliche Diskussions- oder Alltagsresonanz.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Liz",
+  "normalized_name": "liz",
+  "overall_resonance": "Überwiegend positiv bis neutral; Liz wirkt in den vorliegenden Namensquellen als kurzer, moderner und eher freundlicher Vorname mit klarer Herkunft als Kurzform von Elizabeth.",
+  "practical_notes": [
+    "Für deutschsprachige Eltern wirkt Liz eher modern und unkompliziert.",
+    "Durch die Kürze kann der Name direkt, markant und leicht merkbar erscheinen.",
+    "Wer eine klassische Langform bevorzugt, könnte Liz als Kurzform wahrnehmen.",
+    "Die Schreibweise ist einfach, kann aber je nach Kontext auch als Spitzname gelesen werden."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist für die Namensbedeutung solide, für echte öffentliche Resonanz aber begrenzt, da vor allem Lexikonquellen vorliegen.",
+    "Einzelne positive Bewertungen sind subjektiv und nicht repräsentativ für die Gesamtwahrnehmung.",
+    "Keine Hinweise auf eine soziale Stigmatisierung in den vorliegenden Quellen."
+  ],
+  "short_summary": "Liz wird in den Quellen überwiegend positiv und sachlich wahrgenommen: kurz, modern, weiblich und als Kurzform von Elizabeth mit hebräischem Ursprung.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Liz � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/L/Li/Liz/"
+    },
+    {
+      "confidence": 0.92,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Liz: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Liz.html"
+    }
+  ],
+  "style_effect": [
+    "kurz und prägnant",
+    "modern wirkend",
+    "international anschlussfähig",
+    "freundlich-klar",
+    "eher als Kurzform als Vollform wahrgenommen"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Eher gut sichtbar in deutschsprachigen Namenslexika, aber die öffentliche Resonanz basiert hier vor allem auf Nachschlagequellen und nicht auf breiten freien Meinungsäußerungen."
+}

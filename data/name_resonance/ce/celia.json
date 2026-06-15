@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "„die Himmlische“",
+    "lateinische Herkunft",
+    "Kurzform-/Bezug zu Cäcilia",
+    "Namenstag",
+    "in Deutschland eher außergewöhnlich",
+    "Spitzname Lia"
+  ],
+  "confidence": 0.84,
+  "display_text": "Celia wirkt in Deutschland überwiegend positiv, freundlich und klangvoll. Der Name wird vor allem mit „die Himmlische“, lateinischer Herkunft und einer eher seltenen, aber etablierten Nutzung verbunden. Die vorliegende Evidenz ist allerdings begrenzt und stammt hauptsächlich aus Namenslexika statt aus breiter öffentlicher Diskussion.",
+  "evidence_quality": "mittel bis begrenzt: zwei webbasierte Namensseiten, beide mit überwiegend positiver/neutraler Tonlage, aber ohne breite externe Debatte.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Celia",
+  "normalized_name": "celia",
+  "overall_resonance": "Überwiegend positiv bis neutral. Celia wird in den vorliegenden Quellen als klangvoller, eher moderner Vorname mit freundlicher Ausstrahlung beschrieben; die öffentliche Rezeption wirkt dabei vor allem informativ und leicht wertschätzend.",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt Celia gut anschlussfähig, freundlich und relativ unproblematisch.",
+    "Die Schreibweise ist kurz und international gut lesbar.",
+    "In Deutschland dürfte der Name eher als selten bis moderat bekannt wahrgenommen werden."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist begrenzt und stützt sich auf wenige, vor allem lexikalische bzw. kommerzielle Namensseiten.",
+    "Es gibt keine erkennbare breite öffentliche Kontroverse oder starke Gegenstimme.",
+    "Bewertungen wirken eher aus Namenslexika und Kommentaren abgeleitet als aus unabhängiger öffentlicher Diskussion."
+  ],
+  "short_summary": "Celia wird öffentlich meist positiv und als klangvoller, eher seltener Vorname wahrgenommen; die Evidenz ist jedoch nicht breit, sondern vor allem namenkundlich geprägt.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "Vorname Celia � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/C/Ce/Celia/"
+    },
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Celia: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Celia.html"
+    }
+  ],
+  "style_effect": [
+    "klangvoll",
+    "leicht elegant",
+    "modern",
+    "freundlich",
+    "namenkundlich vertraut",
+    "eher außergewöhnlich"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Eher bekannte, aber in Deutschland nicht sehr häufige Namenswahl; die Sichtbarkeit ist vorhanden, jedoch ohne breite öffentliche Debatte."
+}

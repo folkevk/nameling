@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "germanische bzw. gotische Herkunft",
+    "Bedeutung in Richtung „der im Volk Berühmte“ bzw. „der Geachtete“",
+    "männlicher Vorname",
+    "Namenstag",
+    "selten in Deutschland",
+    "klassischer deutscher Jungenname"
+  ],
+  "confidence": 0.88,
+  "display_text": "Dietmar wird überwiegend neutral bis leicht positiv wahrgenommen: ein seltener, traditioneller und klassisch-deutscher Vorname mit starker lexikalischer Herkunfts- und Bedeutungsassoziation.",
+  "evidence_quality": "mittel: klare Namensdiskussion, aber überwiegend lexikalisch-informativ und nicht aus freier öffentlicher Diskussion",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Dietmar",
+  "normalized_name": "dietmar",
+  "overall_resonance": "Dietmar wird öffentlich vor allem als traditioneller, altdeutscher und sachlich-konservativ wirkender Vorname wahrgenommen. Die Resonanz ist überwiegend neutral bis leicht positiv, mit Fokus auf Bedeutung, Herkunft und Namenstag.",
+  "practical_notes": [
+    "Als Namenseindruck wirkt Dietmar eher traditionell und bodenständig.",
+    "Die Seltenheit kann ihn markant machen, ohne stark modern zu wirken.",
+    "Für eine öffentliche Suchmaschine sollte die Einordnung vorsichtig bleiben und die Datenlage genannt werden."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt fast nur aus Namenslexika und Beliebtheitsseiten, nicht aus breiter öffentlicher Debatte.",
+    "Daher ist die Einschätzung zur Resonanz eher beschreibend als gesellschaftlich repräsentativ.",
+    "Keine belastbaren Hinweise auf Stigmatisierung in der vorliegenden Evidenz."
+  ],
+  "short_summary": "Dietmar gilt als seltener, traditioneller und eher klassisch wirkender Vorname mit neutral bis leicht positiver Resonanz.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Dietmar � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/D/Di/Dietmar/"
+    },
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Dietmar: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Dietmar.html"
+    }
+  ],
+  "style_effect": [
+    "traditionell",
+    "altdeutsch",
+    "nüchtern-informativ",
+    "wertig",
+    "eher klassisch als modisch"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland eher selten und dadurch nicht sehr präsent im aktuellen Sprachgebrauch. In Namensdatenbanken und Nachschlagequellen ist der Name aber klar verankert."
+}

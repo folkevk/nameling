@@ -1,0 +1,62 @@
+{
+  "associations": [
+    "Frühling",
+    "Monat April",
+    "Öffnen / Aufblühen",
+    "lateinische Herkunft (aperire)",
+    "weiblicher Vorname",
+    "selten bis mäßig verbreitet in Deutschland",
+    "Namenslexikon / etymologische Einordnung"
+  ],
+  "confidence": 0.88,
+  "display_text": "April wirkt in Deutschland eher selten, frisch und leicht poetisch. Die öffentliche Resonanz ist überwiegend neutral bis leicht positiv, geprägt von Frühlings-, Monats- und Aufblüh-Assoziationen.",
+  "evidence_quality": "gut bis mittelgut; mehrere Namenslexika mit klarer Namensbezugnahme, aber keine breite repräsentative Meinungsbasis",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "April",
+  "normalized_name": "april",
+  "overall_resonance": "Der Vorname April wird in der deutschen Namensöffentlichkeit überwiegend sachlich-neutral und leicht positiv wahrgenommen. Die stärkste Resonanz kommt von Frühlings- und Aufblüh-Assoziationen sowie der klaren Monatsnamen-Herkunft; insgesamt wirkt der Name eher ungewöhnlich als etabliert.",
+  "practical_notes": [
+    "Für die Namenssuche wirkt April modern, weich und sprachlich leicht zugänglich.",
+    "Durch die Seltenheit kann der Name merkbar sein, ohne exzentrisch zu wirken.",
+    "Der Name ist im Deutschen gut verständlich, aber als Vorname weniger alltäglich als klassische Standardnamen."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Es gibt keine belastbaren Hinweise auf eine starke soziale Stigmatisierung des Namens.",
+    "Die Evidenz ist insgesamt solide, aber überwiegend auf Namenslexika und wenige Webquellen gestützt; sehr breite öffentliche Meinungen sind daraus nur begrenzt ableitbar.",
+    "Die positiven Bedeutungsassoziationen sind plausibel, sollten aber nicht als allgemeingültige Bewertung aller Trägerinnen und Träger verstanden werden."
+  ],
+  "short_summary": "April wird in Deutschland eher selten genutzt und meist neutral bis leicht positiv gelesen, vor allem wegen der Frühlings- und Aufblüh-Assoziationen.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname April � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/A/Ap/April/"
+    },
+    {
+      "confidence": 0.92,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname April: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,April.html"
+    }
+  ],
+  "style_effect": [
+    "frisch",
+    "modern-klar",
+    "leicht poetisch",
+    "naturbezogen",
+    "international wirkend",
+    "ungewöhnlich"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland eher selten bis mäßig verbreitet und daher vergleichsweise auffällig, ohne stark polarisierend zu sein."
+}

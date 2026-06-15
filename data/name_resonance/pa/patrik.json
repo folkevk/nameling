@@ -1,0 +1,59 @@
+{
+  "associations": [
+    "Form von Patrick/Patricius",
+    "lateinischer Ursprung",
+    "Bedeutung: der Edle / der Vornehme",
+    "Namenstag am 17. März",
+    "Skandinavische und slawische Namensform"
+  ],
+  "confidence": 0.79,
+  "display_text": "Patrik wirkt in den verfügbaren Quellen überwiegend neutral bis leicht positiv: klassisch, sachlich und mit der Bedeutung „der Edle / der Vornehme“ verbunden. In Deutschland scheint der Name eher selten bis moderat verbreitet zu sein; die Evidenz zur öffentlichen Resonanz ist jedoch begrenzt und stammt vor allem aus Namenslexika.",
+  "evidence_quality": "mittel bis schwach: zwei redaktionelle Namensquellen, kaum freie öffentliche Debatte, daher vorsichtige Interpretation nötig.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Patrik",
+  "normalized_name": "patrik",
+  "overall_resonance": "Patrik wird in den vorliegenden Quellen überwiegend neutral bis leicht positiv wahrgenommen. Die öffentliche Diskussion wirkt vor allem namenkundlich-sachlich: Der Name wird als skandinavische bzw. slawische Form von Patrick beschrieben, mit der Bedeutung „der Edle / der Vornehme“.",
+  "practical_notes": [
+    "Für Suchmaschinen und Namensportale wirkt Patrik eher vertraut, aber nicht übermäßig häufig.",
+    "Die Schreibweise mit k kann als Variante von Patrick wahrgenommen werden.",
+    "Kurzformen wie Pat oder Ricky werden in einzelnen Quellen genannt, sind aber nicht zentral für die Gesamtwirkung."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist schwach für echte öffentliche Resonanz, da sie fast nur aus Namensdatenbanken besteht.",
+    "Aussagen zur Wirkung beruhen auf der beschriebenen Namensbedeutung und nicht auf breiter gesellschaftlicher Debatte.",
+    "Keine belastbaren Hinweise auf Stigmatisierung oder negative öffentliche Konnotationen in den Quellen."
+  ],
+  "short_summary": "Patrik wird in den Quellen sachlich und leicht positiv beschrieben, mit Fokus auf Herkunft, Bedeutung und Namenstag. Die öffentliche Sichtbarkeit in Deutschland wirkt eher gering bis moderat; belastbare freie Resonanzdaten sind kaum vorhanden.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.94,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Patrik � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/P/Pa/Patrik/"
+    },
+    {
+      "confidence": 0.92,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Patrik: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Patrik.html"
+    }
+  ],
+  "style_effect": [
+    "sachlich",
+    "klassisch",
+    "international anschlussfähig",
+    "leicht vornehm konnotiert",
+    "klar und zeitlos"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland scheint Patrik eher selten bis moderat verbreitet zu sein; die Sichtbarkeit in der öffentlichen Debatte ist eher gering. Die Evidenz bezieht sich vor allem auf Namenslexika und nicht auf breite freie Alltagsdiskussion."
+}

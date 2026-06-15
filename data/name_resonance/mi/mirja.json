@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "finnische Form bzw. Variante von Maria/Miriam/Mirjam",
+    "biblischer bzw. traditioneller Namensbezug",
+    "Namenstag",
+    "selten bis außergewöhnlich",
+    "Aussprache- und Schreibhinweise",
+    "Spitznamen wie Miri oder Mimi"
+  ],
+  "confidence": 0.78,
+  "display_text": "Mirja wirkt in öffentlichen Namensquellen eher freundlich, klar und traditionell-nordisch. Im deutschsprachigen Raum ist der Name eher selten bis mäßig verbreitet; die Evidenz ist vor allem namenskundlich und nur indirekt auf öffentliche Resonanz bezogen.",
+  "evidence_quality": "mittel bis schwach: mehrere namenskundliche Quellen, aber wenig direkte öffentliche Resonanz und nur indirekte Hinweise auf Wahrnehmung.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Mirja",
+  "normalized_name": "mirja",
+  "overall_resonance": "Eher freundlich und sachlich-wohlwollend, insgesamt aber mit begrenzter öffentlicher Resonanz. Mirja wirkt im deutschsprachigen Raum eher selten bis mäßig verbreitet und wird vor allem namenskundlich eingeordnet.",
+  "practical_notes": [
+    "Für Suchmaschinen sollte der Name als eher selten, aber bekannt beschrieben werden.",
+    "Der Eindruck ist überwiegend neutral bis leicht positiv, ohne starke Polarisierung.",
+    "Besonders geeignet ist eine kurze Einordnung über Herkunft, Klang und Seltenheit."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt überwiegend aus Namenslexika und Community-nahen Datenbanken, nicht aus breit angelegter öffentlicher Debatte.",
+    "Aussagen zur Wirkung beruhen eher auf Namensbeschreibung als auf direkter gesellschaftlicher Resonanz.",
+    "Die Bedeutung und Herkunft werden je nach Quelle unterschiedlich beschrieben; daher nur vorsichtig formulieren."
+  ],
+  "short_summary": "Mirja wird im deutschsprachigen Raum meist freundlich und sachlich wahrgenommen, eher selten und mit nordisch-finnischem Namenscharakter.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Mirja � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/M/Mi/Mirja/"
+    },
+    {
+      "confidence": 0.84,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Mirja: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Mirja.html"
+    }
+  ],
+  "style_effect": [
+    "klingt nordisch-finnisch",
+    "wirkt eher selten und eigenständig",
+    "hat einen weichen, klaren Klang",
+    "wird oft als Namensvariante mit traditionellem Bezug beschrieben",
+    "wirkt eher informativ als modisch"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Die Sichtbarkeit in öffentlichen Namensquellen ist vorhanden, aber eher indirekt: Es gibt vor allem Lexikon- und Namensdatenbankeinträge, keine starke breite Diskussionslage."
+}

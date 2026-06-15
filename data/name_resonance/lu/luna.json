@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "Mond",
+    "lateinische Herkunft",
+    "römische Mythologie",
+    "weiblicher Vorname",
+    "internationaler Klang",
+    "Beliebtheit in Deutschland",
+    "Namenstag 14. September"
+  ],
+  "confidence": 0.9,
+  "display_text": "Luna wirkt in DE überwiegend positiv: modern, weich klingend und stark mit Mond, lateinischer Herkunft und römischer Mythologie verbunden. Die öffentliche Sichtbarkeit ist gut, die Evidenz zur breiten Resonanz stammt jedoch vor allem aus Namenslexika und Kommentaren, also eher aus namenskundlichen als aus repräsentativen Quellen.",
+  "evidence_quality": "gut für Namensbedeutung und typische Assoziationen, eingeschränkt für echte öffentliche Breitenresonanz",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Luna",
+  "normalized_name": "luna",
+  "overall_resonance": "überwiegend positiv und modern, mit klarer Namens- und Bedeutungsaura",
+  "practical_notes": [
+    "Der Name wirkt im deutschsprachigen Raum gut bekannt und leicht einzuordnen.",
+    "Die Assoziationen sind überwiegend positiv und kultursprachlich klar nachvollziehbar.",
+    "Für eine öffentliche Resonanzkarte ist die Evidenz solide, aber eher bibliografisch/lexikalisch als sozial breit erhoben."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die öffentliche Resonanz ist vor allem über Namenslexika und deren Kommentare belegt; das ist keine breite repräsentative Meinungsbasis.",
+    "Einzelne Bewertungen auf den Seiten sind subjektiv und sollten nicht als allgemeingültig verstanden werden."
+  ],
+  "short_summary": "Luna wird im deutschsprachigen Raum überwiegend positiv wahrgenommen: Der Name gilt als modern, weich klingend und mit klaren Assoziationen zu Mond, lateinischer Herkunft und römischer Mythologie verbunden. Die öffentliche Evidenz ist sichtbar, stammt aber vor allem aus Namenslexika und deren Kommentaren.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "Vorname Luna � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/L/Lu/Luna/"
+    },
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Luna: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Luna.html"
+    }
+  ],
+  "style_effect": [
+    "weich und melodisch",
+    "kurz, international verständlich",
+    "naturnah durch Mond-Assoziation",
+    "modern-populär",
+    "mythologisch aufgeladen"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "hoch in namenskundlichen und populären Vornamensquellen; öffentliche Resonanz gut sichtbar, aber vor allem aus lexikalischen bzw. seiteninternen Quellen ablesbar"
+}

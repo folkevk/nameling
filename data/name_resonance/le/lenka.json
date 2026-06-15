@@ -1,0 +1,59 @@
+{
+  "associations": [
+    "slawische Kurz- oder Koseform",
+    "Bezug zu Helena/Jelena oder Magdalena",
+    "Bedeutungen wie „die Leuchtende“ oder „die Strahlende“",
+    "tschechisch/polnisch geprägt",
+    "in Deutschland eher selten, aber bekannt"
+  ],
+  "confidence": 0.83,
+  "display_text": "Lenka gilt im deutschen Raum als klangvoll, slawisch geprägt und eher selten. Die Rezeption ist überwiegend sachlich-positiv und vor allem über Herkunft und Bedeutung beschrieben. Hinweise auf mögliche Verständnisschwierigkeiten oder einzelne negative Deutungen sind nur begrenzt belegt und nicht allgemein verallgemeinerbar.",
+  "evidence_quality": "mittel bis gut; klare Namensbelege, aber starke Abhängigkeit von wenigen lexikalischen Quellen und wenig breite öffentliche Diskussion.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Lenka",
+  "normalized_name": "lenka",
+  "overall_resonance": "Lenka wirkt im deutschsprachigen Raum überwiegend freundlich, klar und eher ungewöhnlich, mit einer sachlich-positiven Namenswahrnehmung. Die öffentliche Rezeption ist vor allem namenskundlich geprägt und weniger durch breite Alltagsdiskussionen.",
+  "practical_notes": [
+    "Für eine Namenssuche ist Lenka gut einordenbar: Herkunft und Bedeutung sind leicht erklärbar.",
+    "Der Name dürfte in Deutschland eher als international und etwas ungewöhnlich wahrgenommen werden.",
+    "Wenn gewünscht, kann man die Schreibweise und Aussprache kurz mit erklären, um Missverständnisse zu vermeiden."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Einzelne Quellen nennen mögliche Aussprache- oder Buchstabierprobleme in Deutschland.",
+    "Hinweise auf negative Konnotationen stammen teils aus Kommentaren und sind nicht als allgemeine Tatsache zu verstehen.",
+    "Die Evidenz basiert überwiegend auf Namenslexika; breite gesellschaftliche Resonanz ist nur begrenzt belegt."
+  ],
+  "short_summary": "Lenka wird in Deutschland meist als klangvoller, slawisch geprägter und eher seltener Vorname mit positiver Herkunftsassoziation wahrgenommen; öffentliche Resonanz ist vorhanden, aber nicht sehr breit.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.9,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Lenka � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/L/Le/Lenka/"
+    },
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "mixed",
+      "source_type": "web",
+      "title": "&#9655; Vorname Lenka: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Lenka.html"
+    }
+  ],
+  "style_effect": [
+    "kurz und klangvoll",
+    "slawisch geprägt",
+    "eher modern wirkend, obwohl traditionell herleitbar",
+    "sachlich-positiver Eindruck",
+    "leicht international, aber im Deutschen erklärungsbedürftig"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland bekannt, aber nicht stark verbreitet; die Sichtbarkeit entsteht vor allem über Namenslexika und Herkunftsseiten. Öffentliche Debatten außerhalb solcher Quellen scheinen eher schwach ausgeprägt."
+}

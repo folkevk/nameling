@@ -1,0 +1,72 @@
+{
+  "associations": [
+    "englische Herkunft",
+    "ursprünglich Familienname/Ortsbezug",
+    "Unisex-Name",
+    "heute meist weiblich verwendet",
+    "Bedeutung: \"Sohn der Maud\"",
+    "moderne Namenswahl",
+    "Beliebtheit in Deutschland",
+    "Spitznamen wie Maddy oder Maddie"
+  ],
+  "confidence": 0.88,
+  "display_text": "Madison gilt in Deutschland als moderner, internationaler und eher anglisiert wirkender Vorname. Die öffentliche Resonanz ist überwiegend neutral bis freundlich. Der Name wird meist mit einer zeitgemäßen, unisex-nahen, heute aber eher weiblichen Verwendung verbunden. Die Evidenz ist solide, stammt jedoch größtenteils aus sachlichen Namensseiten statt aus breiter öffentlicher Debatte.",
+  "evidence_quality": "gut: mehrere klare, namebezogene Quellen; überwiegend neutral-sachlich, mit einzelnen positiven Kommentaren",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Madison",
+  "normalized_name": "madison",
+  "overall_resonance": "Madison wird in Deutschland meist als moderner, international wirkender Vorname wahrgenommen. Die öffentliche Resonanz ist überwiegend neutral bis freundlich und eher beschreibend als emotional aufgeladen.",
+  "practical_notes": [
+    "Für eine Namenssuche ist Madison gut einordbar: international, unkompliziert lesbar und stilistisch modern.",
+    "Die Wahrnehmung kann je nach Umfeld als eher englisch-amerikanisch wirken.",
+    "Da der Name in Deutschland nicht traditionell-deutsch geprägt ist, kann er als bewusst modische Wahl verstanden werden."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz besteht überwiegend aus Namenslexika und Beschreibungsseiten, also eher sachlicher als öffentlicher Meinungsbildung.",
+    "Es zeigt sich keine klare Stigmatisierung oder negative gesellschaftliche Zuschreibung.",
+    "Einzelne positive Anklänge wirken eher anekdotisch und sollten nicht als allgemeine Mehrheitsmeinung gelesen werden."
+  ],
+  "short_summary": "Madison wird in Deutschland vor allem als moderner, englisch geprägter und international wirkender Vorname wahrgenommen; die Resonanz ist überwiegend neutral bis freundlich.",
+  "source_count": 3,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Madison � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/M/Ma/Madison/"
+    },
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Madison � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/M/Ma/Madison/"
+    },
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Madison: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Madison.html"
+    }
+  ],
+  "style_effect": [
+    "modern",
+    "international",
+    "anglisiert",
+    "frisch",
+    "weiblich häufiger, aber grundsätzlich unisex",
+    "lexikalisch klar",
+    "eher modisch als klassisch"
+  ],
+  "usable_evidence_count": 3,
+  "visibility": "Der Name ist sichtbar und bekannt, aber nicht massenhaft verbreitet. In der Wahrnehmung steht er eher für einen anglisierten, zeitgemäßen Stil als für eine stark traditionelle Namenswahl."
+}

@@ -1,0 +1,62 @@
+{
+  "associations": [
+    "spanische Koseform von José",
+    "Variante von Josef",
+    "hebräischer Ursprung",
+    "Bedeutung: „Gott möge hinzufügen“ / „Gott fügt hinzu“",
+    "männlicher Vorname",
+    "regelmäßig vergeben in Deutschland",
+    "bekannt",
+    "Namenstag erwähnt",
+    "teils als frech oder popkulturell anschlussfähig beschrieben"
+  ],
+  "confidence": 0.86,
+  "display_text": "Pepe wirkt in der vorliegenden Evidenz überwiegend positiv: kurz, einprägsam und freundlich. Der Name wird als regelmäßig vergeben und alltagsnah beschrieben, die öffentliche Resonanz ist aber nur begrenzt belegt und stützt sich vor allem auf Namenslexika.",
+  "evidence_quality": "schwach bis moderat: klare Namensdiskussion, aber hauptsächlich aus einzelnen Lexikonquellen mit begrenzter öffentlicher Resonanz.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Pepe",
+  "normalized_name": "pepe",
+  "overall_resonance": "Überwiegend positiv und freundlich wahrgenommen, mit einem kurzen, einprägsamen Klang. Die öffentliche Rezeption wirkt eher alltagsnah als förmlich.",
+  "practical_notes": [
+    "Für Suchmaschinen und Namenskontexte wird Pepe meist als kompakt, modern und unkompliziert beschrieben.",
+    "Die Wahrnehmung ist eher positiv, ohne starke Kontroversen oder klare Stigmatisierung in der vorliegenden Evidenz."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist eher begrenzt und basiert vor allem auf Namenslexikon-Seiten.",
+    "Beschreibungen wie „frech“ oder ähnliche Wirkungen sind subjektiv und nicht als allgemeingültig zu verstehen."
+  ],
+  "short_summary": "Pepe wird in der vorliegenden Evidenz überwiegend positiv, kurz und freundlich beschrieben. Die Rezeption wirkt alltagsnah und einprägsam, allerdings auf begrenzter Quellenbasis.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "positive",
+      "source_type": "web",
+      "title": "Vorname Pepe � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/P/Pe/Pepe/"
+    },
+    {
+      "confidence": 0.9,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Pepe: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Pepe.html"
+    }
+  ],
+  "style_effect": [
+    "kurz",
+    "einprägsam",
+    "locker",
+    "zeitlos wirkend",
+    "informell-freundlich",
+    "sprachlich markant"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland bekannt und regelmäßig vergeben; die Sichtbarkeit ist vorhanden, aber die Evidenz stammt vor allem aus Namenslexika und nicht aus breiter öffentlicher Debatte."
+}

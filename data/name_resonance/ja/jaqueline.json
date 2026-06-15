@@ -1,0 +1,59 @@
+{
+  "associations": [
+    "Bedeutung im Sinn von „Gott beschützt“",
+    "althebräische Wurzeln, über französische Form vermittelt",
+    "Beliebtheit/Verbreitung in Deutschland",
+    "Namenstag",
+    "Varianten und alternative Schreibweisen"
+  ],
+  "confidence": 0.84,
+  "display_text": "Jaqueline wirkt in der verfügbaren Evidenz überwiegend sachlich-neutral und leicht positiv. Der Name erscheint vor allem in Namenslexika und Verzeichnissen mit Angaben zu Herkunft, Bedeutung, Namenstag und Verbreitung in Deutschland. Eine starke öffentliche Debatte oder klare gesellschaftliche Wertung ist nicht erkennbar; die Datenlage dazu ist eher schwach.",
+  "evidence_quality": "mittel bis schwach; vor allem verzeichnis- und lexikonbasierte Quellen, wenig direkte öffentliche Meinungsäußerung",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Jaqueline",
+  "normalized_name": "jaqueline",
+  "overall_resonance": "Überwiegend sachlich-neutral mit leicht positiver, informativ-lexikalischer Färbung. Die öffentliche Wahrnehmung in den verfügbaren Quellen wirkt vor allem namenskundlich und weniger emotional oder kontrovers.",
+  "practical_notes": [
+    "Für eine Namenssuche ist Jaqueline gut auffindbar und klar einordenbar.",
+    "Die Schreibweise wirkt in den Quellen als gängige, aber nicht unmissverständliche Variante mit mehreren Alternativformen.",
+    "Wer eine strenge Aussage zur aktuellen gesellschaftlichen Resonanz sucht, sollte die Datenlage als dünn einordnen."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist begrenzt und stammt überwiegend aus Namensdatenbanken, nicht aus breiter öffentlicher Meinungsbildung.",
+    "Positive oder negative Personenbilder lassen sich daraus nicht verlässlich ableiten.",
+    "Einzelne Nutzerkommentare sind vorhanden, aber zu schwach, um daraus eine klare allgemeine Tendenz abzuleiten."
+  ],
+  "short_summary": "Jaqueline wird in den verfügbaren Quellen überwiegend neutral und informativ dargestellt, mit leicht positiver Färbung durch Namensbedeutung und Verbreitung. Eine echte breite öffentliche Resonanz ist nur schwach belegt.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.95,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Jaqueline � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/J/Ja/Jaqueline/"
+    },
+    {
+      "confidence": 0.88,
+      "is_name_discussion": true,
+      "sentiment": "mixed",
+      "source_type": "web",
+      "title": "&#9655; Vorname Jaqueline: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Jaqueline.html"
+    }
+  ],
+  "style_effect": [
+    "lexikalisch",
+    "informativ",
+    "namenskundlich",
+    "neutral bis leicht positiv",
+    "community-/verzeichnisbasiert"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Der Name ist in deutschen Namensverzeichnissen und Diskussionen sichtbar, wirkt dort aber eher als gelisteter, erklärter Vorname als als stark öffentlich diskutierter Trendname."
+}

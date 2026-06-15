@@ -1,0 +1,67 @@
+{
+  "associations": [
+    "Bedeutung: „das Leben“ / „der Lebendige“",
+    "italienische bzw. spanische Form von Vitus bzw. Veit",
+    "lateinischer Bezug zu vita",
+    "Namenstag: 15. Juni",
+    "in Deutschland als Vorname bekannt, aber eher nicht extrem häufig"
+  ],
+  "confidence": 0.82,
+  "display_text": "Vito wirkt in der öffentlichen Rezeption überwiegend positiv und neutral: kurz, international und etymologisch attraktiv. Die Quellen beschreiben vor allem Bedeutung, Herkunft und Namenstag; belastbare Hinweise auf breite Debatten gibt es kaum.",
+  "evidence_quality": "mittel bis schwach: mehrere konsistente, aber vor allem lexikalische Quellen; kaum unabhängige öffentliche Resonanz",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Vito",
+  "normalized_name": "vito",
+  "overall_resonance": "Überwiegend positiv bis neutral: Der Name Vito wird in den vorliegenden Quellen vor allem als klangvoll, international und namenkundlich interessant beschrieben. Die öffentliche Rezeption wirkt eher sachlich-wertschätzend als kontrovers.",
+  "practical_notes": [
+    "Für eine Namenssuche lässt sich Vito als unkomplizierter, international verständlicher Vorname einordnen.",
+    "Die Schreibweise ist kurz und gut merkbar.",
+    "Die Quellen deuten auf eher positive oder neutrale Assoziationen hin, ohne starke Polarisierung."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist begrenzt und stammt fast nur aus Namensseiten; das ist eher beschreibend als eine echte öffentliche Debatte.",
+    "Es liegen keine Hinweise auf breite negative oder positive Social-Media-Reaktionen vor.",
+    "Die Wahrnehmung kann je nach Region und Umfeld unterschiedlich sein."
+  ],
+  "short_summary": "Vito wird in den Quellen überwiegend positiv und sachlich beschrieben: ein kurzer, internationaler Vorname mit der Bedeutung „das Leben“, in Deutschland eher bekannt als häufig diskutiert.",
+  "source_count": 3,
+  "sources": [
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "Vorname Vito � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/V/Vi/Vito/"
+    },
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Vito � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/V/Vi/Vito/"
+    },
+    {
+      "confidence": 0.91,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Vito: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Vito.html"
+    }
+  ],
+  "style_effect": [
+    "kurz und prägnant",
+    "international/mediterran wirkend",
+    "klassisch-etymologisch aufgeladen",
+    "eher selten als sehr häufig wahrgenommen",
+    "freundlich und klar im Klang"
+  ],
+  "usable_evidence_count": 3,
+  "visibility": "Eher gering bis mittel: In den Quellen erscheint Vito als geläufiger, aber nicht massenhaft diskutierter Vorname in Deutschland. Die Evidenz stammt fast ausschließlich aus Namenslexika und nicht aus breiten öffentlichen Debatten."
+}

@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "biblische Herkunft",
+    "Bedeutung im Sinn von \"Gott ist gnädig\"",
+    "friesisch/niederdeutsch/niederländische Namensform",
+    "Kurzform bzw. Variante von Johannes",
+    "Namenstag",
+    "solide, sachliche Namenseinordnung"
+  ],
+  "confidence": 0.79,
+  "display_text": "Jannes wirkt in Deutschland überwiegend neutral bis leicht positiv: klassisch, norddeutsch/friesisch und biblisch geprägt. Die verfügbare Evidenz stammt vor allem aus Namenslexika und Elternportalen, daher ist die echte öffentliche Resonanz nur eingeschränkt belegt.",
+  "evidence_quality": "Mittel bis schwach: zwei namenskundliche Webquellen, überwiegend beschreibend; nur begrenzte Hinweise auf öffentliche Resonanz.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Jannes",
+  "normalized_name": "jannes",
+  "overall_resonance": "Überwiegend neutral bis leicht positiv, mit klar namenskundlicher statt diskursiver öffentlicher Wahrnehmung.",
+  "practical_notes": [
+    "Für eine Namenssuche ist Jannes gut einordbar und leicht erklärbar.",
+    "Der Name wirkt eher vertraut und traditionsgebunden als auffällig.",
+    "Im deutschen Kontext dürfte er vor allem als norddeutsch/friesisch wahrgenommen werden.",
+    "Die Schreibweise ist klar, kann aber in der Einordnung mit Jannis oder Johannes verknüpft werden."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist schwach für echte öffentliche Resonanz, da sie überwiegend aus Namensdatenbanken besteht.",
+    "Es liegen kaum frei geäußerte Meinungen oder kontroverse Bewertungen vor.",
+    "Die positive Tönung kommt vor allem aus beschreibenden Namensportalen, nicht aus einer breiten öffentlichen Diskussion."
+  ],
+  "short_summary": "Jannes wird im deutschsprachigen Raum meist sachlich, traditionsnah und leicht positiv wahrgenommen. Die öffentliche Evidenz ist jedoch eher namenskundlich als meinungsbasiert.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Jannes � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/J/Ja/Jannes/"
+    },
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Jannes: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Jannes.html"
+    }
+  ],
+  "style_effect": [
+    "klingt klassisch und traditionsnah",
+    "wirkt norddeutsch bzw. friesisch/niederdeutsch geprägt",
+    "assoziiert mit biblischer Namensherkunft",
+    "eher informativ als modisch",
+    "durch die Kurzform nahe bei Johannes/Jannis anschlussfähig"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Mittlere Sichtbarkeit im deutschsprachigen Namenskontext; die vorhandene Evidenz stammt vor allem aus Namenslexika und Elternportalen, nicht aus breiten öffentlichen Debatten."
+}

@@ -1,0 +1,62 @@
+{
+  "associations": [
+    "Kurzform von Jolanda",
+    "altgriechische Herkunft",
+    "Veilchen / Veilchenblüte",
+    "violette Blume",
+    "Namenstag-Hinweise",
+    "selten bis moderat verbreitet",
+    "positiv bis freundlich wirkende Namenswahrnehmung"
+  ],
+  "confidence": 0.76,
+  "display_text": "Jola wirkt in den verfügbaren Quellen freundlich, selten und leicht poetisch. Der Name wird vor allem sachlich beschrieben, mit Bezügen zu Jolanda, altgriechischer Herkunft und der Veilchen-Symbolik. Insgesamt eher positive bis neutrale Resonanz, aber auf schmaler Evidenzbasis.",
+  "evidence_quality": "mittel bis schwach: klare Namensbezogenheit, aber überwiegend beschreibende Lexikonquellen statt breiter öffentlicher Diskussion.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Jola",
+  "normalized_name": "jola",
+  "overall_resonance": "Jola wird in den vorliegenden Quellen überwiegend freundlich und sachlich wahrgenommen. Der Name wirkt selten, modern-kurz und eher zart/poetisch konnotiert. Die öffentliche Resonanz ist insgesamt positiv bis neutral, basiert aber vor allem auf Namenslexikon-Einträgen und wenigen kommentierenden Hinweisen.",
+  "practical_notes": [
+    "Der Name ist kurz, leicht merkbar und wirkt im deutschen Sprachraum unauffällig bis eigenständig.",
+    "Durch die Seltenheit kann Jola als individuell wahrgenommen werden.",
+    "Die Aussprache dürfte im Deutschen meist unkompliziert sein.",
+    "Die Quellen deuten eher auf eine freundliche Namenswirkung als auf starke soziale Vorurteile hin."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist nur begrenzt belastbar, da sie fast ausschließlich aus lexikonartigen Namensseiten besteht.",
+    "Es gibt keine breite, unabhängige Diskussionslage zur öffentlichen Rezeption des Namens.",
+    "Positive Töne stammen teilweise aus Nutzerkommentaren und sollten nicht überinterpretiert werden."
+  ],
+  "short_summary": "Jola wird meist freundlich, selten und eher poetisch-naturnah wahrgenommen. Die belegte Resonanz ist überwiegend positiv bis neutral, aber die Datenlage ist begrenzt.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Jola � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/J/Jo/Jola/"
+    },
+    {
+      "confidence": 0.92,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Jola: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Jola.html"
+    }
+  ],
+  "style_effect": [
+    "kurz und prägnant",
+    "weich und klanglich leicht",
+    "eher feminin",
+    "poetisch-naturnah durch Blumenbezüge",
+    "selten und dadurch eigenständig"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland eher selten bis moderat bekannt; dadurch wirkt der Name nicht alltäglich, ist aber grundsätzlich nachvollziehbar und gut aussprechbar."
+}

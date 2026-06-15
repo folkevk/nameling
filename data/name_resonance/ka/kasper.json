@@ -1,0 +1,62 @@
+{
+  "associations": [
+    "biblische bzw. traditionsbezogene Herkunft",
+    "altpersische Wortbedeutung",
+    "Schatz",
+    "Schatzmeister",
+    "Namenstag",
+    "Heilige Drei Könige",
+    "selten bis moderat verbreitet",
+    "Spitznamen/Kosenamen"
+  ],
+  "confidence": 0.86,
+  "display_text": "Kasper wirkt in der öffentlichen Wahrnehmung überwiegend sachlich-neutrali bis leicht positiv: ein traditionsnaher, eher seltener Vorname mit klaren Herkunfts- und Bedeutungsbezügen. Die vorhandene Evidenz ist jedoch begrenzt und stammt vor allem aus Namensdatenbanken.",
+  "evidence_quality": "mittel bis schwach; überwiegend lexikalische Namensquellen mit geringer öffentlicher Debattenbreite",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Kasper",
+  "normalized_name": "kasper",
+  "overall_resonance": "Überwiegend sachlich-neutral mit leicht positiver Färbung. Der Name wird vor allem namenkundlich beschrieben und mit Herkunft, Bedeutung, Namenstag und traditionellem Klang verbunden. Die öffentliche Wahrnehmung wirkt eher informativ als emotional, bei einzelnen Quellen auch mit vereinzelten Wortspiel- oder Kosenamen-Assoziationen.",
+  "practical_notes": [
+    "Für Suchmaschinen- und Kurzprofile eignet sich eine Formulierung wie: klassisch, traditionsreich und eher selten verwendet.",
+    "Die Resonanz sollte vorsichtig als sachlich bis leicht positiv beschrieben werden, nicht als stark trendig oder eindeutig modern.",
+    "Bei Kontexten mit Namensdeutung sind Herkunft und Bedeutungsbezüge für die Wahrnehmung wichtiger als emotionale Bewertungen."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist begrenzt und stammt fast ausschließlich aus Namensdatenbanken statt aus breiter öffentlicher Diskussion.",
+    "Einzelne Hinweise auf Wortspiele sind eher Randphänomene und sollten nicht überbewertet werden.",
+    "Keine belastbaren Hinweise auf gesellschaftliche Stigmatisierung in den vorliegenden Quellen."
+  ],
+  "short_summary": "Kasper wird im Deutschen vor allem sachlich und traditionsnah wahrgenommen, mit Herkunfts-, Bedeutungs- und Namenstagsbezug sowie eher seltener bis mittlerer Verbreitung.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.9,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Kasper � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/K/Ka/Kasper/"
+    },
+    {
+      "confidence": 0.94,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Kasper: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Kasper.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch und traditionsnah",
+    "nüchtern-informativ",
+    "leicht altmodisch bzw. historisch anmutend",
+    "durch Herkunftserklärungen kulturell aufgeladen",
+    "vereinzelt Anlass für Wortspiele oder Kosenamen"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Im deutschsprachigen Raum bekannt, aber eher selten bis moderat verbreitet. Die Sichtbarkeit entsteht vor allem durch Namensdatenbanken und erklärende Namensseiten, nicht durch eine breite öffentliche Debatte."
+}

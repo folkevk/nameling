@@ -1,0 +1,59 @@
+{
+  "associations": [
+    "keltische bzw. bretonische Herkunft",
+    "Bedeutung oft als „der kleine Fels“ beschrieben",
+    "internationale Verbreitung",
+    "in Deutschland eher selten",
+    "Namenstag wird in den Quellen genannt"
+  ],
+  "confidence": 0.74,
+  "display_text": "Alan wirkt in den vorliegenden Quellen sachlich bis leicht positiv: ein kurzer, international verständlicher Vorname mit keltisch/bretonischer Einordnung und der Bedeutung „der kleine Fels“. In Deutschland erscheint er eher selten, aber präsent. Die Evidenz zur öffentlichen Wahrnehmung ist allerdings begrenzt und stammt vor allem aus Namenslexika.",
+  "evidence_quality": "mittel bis schwach: zwei redaktionelle Namenslexika mit überwiegend sachlicher, leicht positiver Tonalität; kaum freie öffentliche Diskussion.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Alan",
+  "normalized_name": "alan",
+  "overall_resonance": "Alan wird in den vorliegenden Namensquellen überwiegend sachlich und eher positiv wahrgenommen. Der Name wirkt kurz, international anschlussfähig und namenskundlich gut erklärbar; belastbare Hinweise auf eine breitere öffentliche Debatte in Deutschland sind jedoch schwach.",
+  "practical_notes": [
+    "Für eine Namenssuchmaschine eignet sich eine knappe Einordnung als sachlich, international und eher positiv konnotiert.",
+    "Die Aussagekraft zur tatsächlichen öffentlichen Wahrnehmung in DE ist eingeschränkt.",
+    "Am besten als selten, aber gut verständlich und unaufdringlich beschreiben."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz zur öffentlichen Resonanz ist begrenzt und stammt vor allem aus Namensdatenbanken, nicht aus breiter öffentlicher Diskussion.",
+    "Es gibt keine belastbaren Hinweise auf eine soziale Stigmatisierung; solche Deutungen wären hier nicht gerechtfertigt.",
+    "Beliebtheitsangaben sind quellenabhängig und sollten vorsichtig gelesen werden."
+  ],
+  "short_summary": "Alan wird in den Quellen sachlich bis leicht positiv beschrieben: kurz, international und in Deutschland eher selten. Die öffentliche Resonanz ist aber nur indirekt belegt.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Alan � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/A/Al/Alan/"
+    },
+    {
+      "confidence": 0.87,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Alan: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Alan.html"
+    }
+  ],
+  "style_effect": [
+    "kurz und klar",
+    "international klingend",
+    "sachlich-klassisch",
+    "lexikalisch gut erklärbar",
+    "eher modern-zeitlos als ausgefallen"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland eher selten, aber als Vorname präsent. Die Sichtbarkeit in den Quellen entsteht vor allem über Namenslexika und weniger über öffentliche Diskussionen oder breite Alltagsresonanz."
+}

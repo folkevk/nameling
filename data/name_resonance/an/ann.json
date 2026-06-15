@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "althebräische Herkunft",
+    "Bedeutung wie „die Begnadete“ / „die Anmutige“ / „die Liebreizende“",
+    "Kurzform bzw. Variante von Anna/Anne",
+    "Namenstag am 26. Juli",
+    "in Deutschland als bekannter, aber eher schlichter Vorname eingeordnet"
+  ],
+  "confidence": 0.83,
+  "display_text": "Ann wirkt in Deutschland eher klassisch, kurz und unaufdringlich. In den vorliegenden Quellen dominiert eine sachlich-positive, namenskundliche Einordnung mit Bezügen zu Herkunft, Bedeutung und Namenstag; eine breite öffentliche Diskussion ist kaum erkennbar.",
+  "evidence_quality": "mittel bis schwach für öffentliche Resonanz; gut für namenskundliche Einordnung, aber wenig alltagsnahe Diskussion",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Ann",
+  "normalized_name": "ann",
+  "overall_resonance": "Ann wirkt in der vorliegenden Evidenz als sehr kurzer, klassischer und eher sachlich-positiv konnotierter Vorname. Öffentliche Resonanz zeigt sich vor allem in lexikalischen Namensseiten, nicht in breiter Alltagsdiskussion.",
+  "practical_notes": [
+    "Für Suchmaschinen-Text eignet sich eine knappe, neutrale Beschreibung.",
+    "Der Name wird eher über Herkunft, Bedeutung und Kürze wahrgenommen als über Trends oder starke Image-Effekte.",
+    "Im deutschen Kontext wirkt Ann eher vertraut und unaufdringlich."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz zur öffentlichen Resonanz ist begrenzt und stammt überwiegend aus Namenslexika.",
+    "Es gibt kaum Hinweise auf breite, lebensnahe Diskussionen oder starke gesellschaftliche Zuschreibungen.",
+    "Positive Assoziationen sind vor allem namenskundlich begründet und nicht als allgemeine soziale Wahrnehmung zu verstehen."
+  ],
+  "short_summary": "Ann wird in den Quellen vor allem als kurzer, klassischer und leicht positiv besetzter Vorname beschrieben. Die öffentliche Resonanz erscheint eher sachlich und zurückhaltend.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.99,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Ann � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/A/An/Ann/"
+    },
+    {
+      "confidence": 0.9,
+      "is_name_discussion": true,
+      "sentiment": "eher positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Ann: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Ann.html"
+    }
+  ],
+  "style_effect": [
+    "kurz",
+    "klassisch",
+    "einfach",
+    "traditionell",
+    "lexikalisch",
+    "zeitlos",
+    "eher sachlich als modisch"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Eher gering bis mittel: Der Name wird gefunden und erklärt, aber die öffentliche Wahrnehmung wirkt in den Quellen vor allem datenbasiert und nicht stark diskursiv."
+}

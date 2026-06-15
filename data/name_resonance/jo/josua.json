@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "hebräischer Ursprung",
+    "Bedeutung im Sinn von Hilfe/Rettung/Heil",
+    "biblische Tradition",
+    "Namenstag",
+    "deutschsprachige Nutzung",
+    "Variante zu Joshua/Jeschua"
+  ],
+  "confidence": 0.82,
+  "display_text": "Josua wirkt in der öffentlichen Wahrnehmung überwiegend positiv, traditionell und biblisch geprägt. Der Name ist in Deutschland bekannt, aber eher nicht massenhaft präsent. Die verfügbare Evidenz ist jedoch begrenzt und stammt vor allem aus Namenslexika.",
+  "evidence_quality": "mittel bis कमजोर: direkte Namenslexikon-Evidenz vorhanden, aber auf wenige Quellen begrenzt und überwiegend beschreibend statt diskursiv.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Josua",
+  "normalized_name": "josua",
+  "overall_resonance": "Josua wird öffentlich überwiegend sachlich-positiv wahrgenommen: als biblisch-hebräischer Vorname mit traditioneller, eher ruhiger Wirkung und klarer religiöser Bedeutung. Die Rezeption wirkt insgesamt freundlich, aber nicht stark massenmedial aufgeladen.",
+  "practical_notes": [
+    "Für Suchmaschinen und Namenslisten eignet sich Josua gut, weil Herkunft und Bedeutung klar und leicht vermittelbar sind.",
+    "Der Name wirkt eher traditionell und religiös geprägt als modisch.",
+    "Wenn eine sehr breite, zeitgenössische Popkultur-Anmutung gesucht wird, ist Josua dafür eher weniger typisch."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist nur aus wenigen Namenslexikon-Quellen abgeleitet und damit begrenzt belastbar.",
+    "Die öffentliche Resonanz erscheint eher aus beschreibenden Namenseinträgen als aus breiter Alltagsnutzung oder großen Diskursen gewonnen.",
+    "Zur tatsächlichen Bekanntheit im Alltag lassen sich aus den vorliegenden Quellen nur vorsichtige Aussagen machen."
+  ],
+  "short_summary": "Josua wird in Deutschland überwiegend positiv, traditionell und biblisch konnotiert wahrgenommen; die öffentliche Resonanz ist eher sachlich und die Evidenz begrenzt.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "positive",
+      "source_type": "web",
+      "title": "Vorname Josua � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/J/Jo/Josua/"
+    },
+    {
+      "confidence": 0.9,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Josua: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Josua.html"
+    }
+  ],
+  "style_effect": [
+    "biblisch",
+    "traditionell",
+    "klassisch-sachlich",
+    "freundlich",
+    "selten bis moderat gebräuchlich",
+    "namenskundlich klar lesbar"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland ist der Name bekannt, aber eher nicht allgegenwärtig. Die Evidenz deutet auf eine moderate Sichtbarkeit mit eher lexikalischer als breiter popkultureller Präsenz hin."
+}

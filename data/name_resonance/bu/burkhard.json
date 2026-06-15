@@ -1,0 +1,62 @@
+{
+  "associations": [
+    "althochdeutsche Herkunft",
+    "Bedeutung: \"der starke Schutz\" / \"der starke Beschützer\"",
+    "männlicher Vorname",
+    "historisch verbreitet, heute eher selten",
+    "Namenstag 14. Oktober, teils auch 18. Mai",
+    "Verwendung in Namenslexika und Herkunftsseiten"
+  ],
+  "confidence": 0.82,
+  "display_text": "Burkhard wirkt im öffentlichen Namensbild klassisch, traditionell und eher selten. Die Resonanz ist überwiegend sachlich mit leicht positiver Note durch die Bedeutung \"der starke Beschützer\".",
+  "evidence_quality": "moderat; gute lexikalische Namensevidenz, aber nur schwache Hinweise auf echte öffentliche Resonanz außerhalb von Namensdatenbanken",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Burkhard",
+  "normalized_name": "burkhard",
+  "overall_resonance": "Überwiegend sachlich-traditionell mit leicht positiver Konnotation. Der Name wirkt im öffentlichen Namenskontext eher klassisch als modisch und wird vor allem über Herkunft, Bedeutung und Namenstag wahrgenommen.",
+  "practical_notes": [
+    "Für Suchmaschinen eignet sich eine kurze Einordnung als klassischer, seltener deutscher Männername mit starker Schutz-Bedeutung.",
+    "Die Wahrnehmung ist eher nüchtern als modern, kann aber durch die historische Herkunft als solide und charaktervoll gelesen werden.",
+    "Bei öffentlichen Kurzprofilen sollte die Seltenheit neutral formuliert werden, ohne Abwertung."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist begrenzt und stammt vor allem aus Namenslexika, nicht aus einer breiten öffentlichen Debatte.",
+    "Positive Wirkung ergibt sich hauptsächlich aus der Bedeutung und Tradition; das ist keine allgemeine gesellschaftliche Bewertung.",
+    "Keine belastbaren Hinweise auf aktuelle Trend- oder Image-Diskussionen im öffentlichen Raum."
+  ],
+  "short_summary": "Burkhard wird öffentlich vor allem als klassischer, altdeutscher und heute eher seltener Vorname wahrgenommen. Die Resonanz ist sachlich bis leicht positiv, geprägt von der Bedeutung als \"starker Beschützer\".",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Burkhard � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/B/Bu/Burkhard/"
+    },
+    {
+      "confidence": 0.83,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Burkhard: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Burkhard.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "traditionell",
+    "altdeutsch",
+    "sachlich",
+    "namenskundlich",
+    "eher selten",
+    "leicht würdevoll"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Eher geringe heutige Sichtbarkeit im Vergleich zu modernen Vornamen; in Namenslexika und Bedeutungsseiten klar präsent, im breiteren öffentlichen Diskurs aber nur schwach belegt."
+}

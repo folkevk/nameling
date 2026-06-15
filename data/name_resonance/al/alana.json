@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "keltische bzw. altirische/bretonische Herkunft",
+    "Bedeutungen wie „der kleine Fels“ oder in freien Deutungen „kleines/liebes/schönes Kind“",
+    "weiblicher Vorname",
+    "moderne, teils aus dem englischen Raum vermittelte Form",
+    "Spitzname Lana",
+    "Namenstag in einzelnen Quellen genannt"
+  ],
+  "confidence": 0.81,
+  "display_text": "Alana wird in den vorliegenden Quellen meist positiv, modern und weich klingend eingeordnet. Der Name wirkt im deutschen Raum eher bekannt als stark verbreitet und ist vor allem namenkundlich gut anschlussfähig. Die Aussagekraft ist begrenzt, da die Evidenz hauptsächlich aus wenigen Namenslexika stammt.",
+  "evidence_quality": "mittel bis begrenzt: zwei Namenslexika, klare Namensbezüge, aber wenig breite öffentliche Diskussionsbasis",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Alana",
+  "normalized_name": "alana",
+  "overall_resonance": "Alana wird in den vorliegenden deutschsprachigen Namensquellen überwiegend freundlich und modern wahrgenommen. Die Rezeption wirkt eher positiv als kontrovers, vor allem durch Assoziationen mit klanglicher Weichheit, internationaler Verwendbarkeit und einer gepflegt-namenkundlichen Einordnung. Die Evidenz ist jedoch begrenzt und stützt sich vor allem auf wenige Namenslexika.",
+  "practical_notes": [
+    "Für Suchmaschinen lässt sich Alana als internationaler, sanft klingender Mädchenname mit eher positiver Grundwirkung beschreiben.",
+    "Die Wahrnehmung dürfte stärker von Klang und moderner Anmutung als von traditioneller Bekanntheit geprägt sein.",
+    "Wenn gewünscht, kann eine Einordnung nach Beliebtheit, Herkunft oder Klang separat ausgearbeitet werden."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenzbasis ist klein und vor allem lexikalisch; daraus lässt sich nur vorsichtig auf öffentliche Rezeption schließen.",
+    "Einzelne positive Beschreibungen können redaktionell geprägt sein und müssen nicht die breite Wahrnehmung abbilden.",
+    "Keine belastbaren Hinweise auf soziale Stigmatisierung oder negative Stereotype in den vorliegenden Quellen."
+  ],
+  "short_summary": "Alana wirkt im deutschen Raum freundlich, modern und eher positiv besetzt, bei jedoch begrenzter Evidenzbasis.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Alana � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/A/Al/Alana/"
+    },
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Alana: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Alana.html"
+    }
+  ],
+  "style_effect": [
+    "modern",
+    "weich klingend",
+    "international",
+    "freundlich",
+    "elegant",
+    "namenkundlich neutral"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Im deutschen Sprachraum wirkt Alana bekannt, aber nicht sehr häufig. Die Sichtbarkeit scheint eher moderat zu sein: präsent in Namensverzeichnissen und Hitlisten, jedoch ohne starke öffentliche Debatte oder breite kulturelle Aufladung."
+}

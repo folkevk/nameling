@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "Kurzform von Johannes",
+    "niederdeutsch",
+    "friesisch",
+    "biblischer Ursprung",
+    "Bedeutung: Gott ist gnädig",
+    "Namenstag",
+    "Namenslexikon/Hitlisten",
+    "eher selten bis teils verbreitet je nach Quelle"
+  ],
+  "confidence": 0.88,
+  "display_text": "Jann gilt in der öffentlichen Namenswahrnehmung als kurzer, traditioneller und eher sachlich wirkender Vorname. Die Quellen nennen vor allem die Herkunft als Kurzform von Johannes sowie norddeutsche und friesische Bezüge. Insgesamt ist die Resonanz eher neutral bis leicht positiv; belastbare Hinweise auf starke Stigmatisierung gibt es nicht.",
+  "evidence_quality": "mittel bis gut; zwei passende Namensquellen, überwiegend informativ, mit begrenztem Anteil an Nutzerkommentaren.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Jann",
+  "normalized_name": "jann",
+  "overall_resonance": "Überwiegend sachlich bis leicht positiv. Der Vorname wird vor allem als kurze, traditionelle Form mit regionalen Bezügen beschrieben; die öffentliche Wahrnehmung wirkt eher neutral-informativ als stark emotional.",
+  "practical_notes": [
+    "Für Suchmaschinen und Namensprofile ist Jann gut erklärbar und leicht einzuordnen.",
+    "Der Name wirkt kurz, klar und traditionell, ohne starke modische Überladung.",
+    "Je nach Region kann er vertrauter oder ungewohnter wirken."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist hauptsächlich lexikalisch; die Resonanz basiert also eher auf Namensbeschreibungen als auf breiter öffentlicher Diskussion.",
+    "Einzelne positive Nutzerkommentare sind vorhanden, aber nicht stark genug für eine eindeutige positive Gesamtwertung."
+  ],
+  "short_summary": "Jann wird öffentlich vor allem sachlich und leicht positiv wahrgenommen: ein kurzer, traditioneller Name mit norddeutschen und friesischen Bezügen.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Jann � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/J/Ja/Jann/"
+    },
+    {
+      "confidence": 0.88,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Jann: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Jann.html"
+    }
+  ],
+  "style_effect": [
+    "kurz und prägnant",
+    "traditionell",
+    "regional norddeutsch/friesisch geprägt",
+    "namenskundlich klar einordenbar",
+    "unkompliziert und nüchtern wirkend"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Mittlere Sichtbarkeit: Der Name taucht in Namenslexika und Vornamendatenbanken auf, wirkt aber nicht massenhaft präsent. Je nach Statistik wird er als eher selten bis moderat verbreitet eingeordnet."
+}

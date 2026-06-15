@@ -1,0 +1,59 @@
+{
+  "associations": [
+    "arabische Herkunft",
+    "Bedeutung: der Erhabene / der Hohe / der Edle",
+    "historisch und statistisch gut etabliert in Deutschland",
+    "bekannt und verbreitet",
+    "kurzer Jungenname",
+    "Namenstag am 16. Mai"
+  ],
+  "confidence": 0.87,
+  "display_text": "Ali: überwiegend positiv und etabliert. Der Name wirkt kurz, international und traditionell zugleich; häufig genannt werden die Bedeutungen „der Erhabene“, „der Hohe“ oder „der Edle“. Die Evidenz ist solide, aber vor allem aus Namenslexika abgeleitet.",
+  "evidence_quality": "gut, aber überwiegend indirekt: zwei klare Namenslexikon-/Namensinformationsquellen mit positiver bis leicht positiver Tonalität; öffentliche Resonanz wird nicht breit empirisch gemessen.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Ali",
+  "normalized_name": "ali",
+  "overall_resonance": "Überwiegend positiv und etabliert; der Name wird meist mit einer klaren, wertschätzenden Bedeutung und kurzer, internationaler Form verbunden.",
+  "practical_notes": [
+    "Für Suchmaschinen und Namensübersichten ist Ali ein klar verständlicher, leicht einprägsamer Name.",
+    "Die Wahrnehmung ist überwiegend neutral bis positiv, besonders wegen der starken Bedeutungsassoziationen.",
+    "Keine belastbaren Hinweise auf eine allgemeine soziale Stigmatisierung in der vorliegenden Evidenz."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Einschätzung beruht vor allem auf Namenslexika und Informationsseiten; direkte Messungen öffentlicher Alltagswahrnehmung sind begrenzt.",
+    "Religiös-historische Bezüge können je nach Kontext unterschiedlich gelesen werden, ohne dass daraus eine einheitliche Bewertung folgt."
+  ],
+  "short_summary": "Ali wird in Deutschland meist positiv, bekannt und gut etabliert wahrgenommen – kurz, international und mit starker Bedeutungsassoziation.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "Vorname Ali � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/A/Al/Ali/"
+    },
+    {
+      "confidence": 0.9,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Ali: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Ali.html"
+    }
+  ],
+  "style_effect": [
+    "kurz und prägnant",
+    "international anschlussfähig",
+    "traditionell, aber modern wirkend",
+    "klare Bedeutungsassoziation",
+    "eher markant als verspielt"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland bekannt und gut auffindbar, mit vorhandener historischer und statistischer Verankerung; die öffentliche Wahrnehmung ist eher sachlich-informativ als kontrovers."
+}

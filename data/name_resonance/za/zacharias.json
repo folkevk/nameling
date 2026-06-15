@@ -1,0 +1,65 @@
+{
+  "associations": [
+    "hebräische Herkunft",
+    "griechische Transkription",
+    "Bedeutung: „Gott hat sich erinnert“",
+    "Altes und Neues Testament",
+    "Namenstag",
+    "selten im deutschsprachigen Raum",
+    "traditioneller Klang",
+    "Spitznamen wie Zachi oder Zack"
+  ],
+  "confidence": 0.88,
+  "display_text": "Zacharias: klassisch-biblischer, eher seltener Vorname mit würdevoller und traditionsreicher Wirkung. Die Quellen beschreiben ihn überwiegend neutral bis positiv; belastbare öffentliche Debatten oder negative Stigmatisierungen sind nicht erkennbar.",
+  "evidence_quality": "mittel bis gut; zwei einschlägige Namensquellen, aber keine breite öffentliche Diskussionslage",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Zacharias",
+  "normalized_name": "zacharias",
+  "overall_resonance": "Zacharias wird in den verfügbaren Namensquellen überwiegend als klassisch-traditionell, biblisch geprägt und sachlich positiv wahrgenommen. Die öffentliche Resonanz wirkt eher respektvoll und traditionsbezogen als modisch oder auffällig.",
+  "practical_notes": [
+    "Wirkt formell und historisch, weniger modern oder trendig.",
+    "Kann durch die biblische Prägung stark traditionsbewusste Assoziationen auslösen.",
+    "Kurzformen können den Namen im Alltag lockern.",
+    "Für eine Suchmaschine eignet sich die Einordnung als klassischer, seltener Vorname."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt überwiegend aus Namenslexika und Beschreibungsseiten, nicht aus einer breiten öffentlichen Debatte.",
+    "Die Einschätzung ist daher eher eine dokumentierte Namenswahrnehmung als ein Messwert gesellschaftlicher Meinung.",
+    "Keine Hinweise auf eine negative soziale Stigmatisierung in den vorliegenden Quellen."
+  ],
+  "short_summary": "Zacharias wird in den Quellen als seltener, klassisch-biblischer und eher positiv bzw. neutral konnotierter Vorname beschrieben.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Zacharias � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/Z/Za/Zacharias/"
+    },
+    {
+      "confidence": 0.92,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Zacharias: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Zacharias.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "traditionell",
+    "biblisch",
+    "formal",
+    "namenskundlich",
+    "eher selten",
+    "eher würdevoll"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Im deutschsprachigen Raum eher selten bis moderat verbreitet und dadurch gut erkennbar, aber nicht massenhaft geläufig."
+}

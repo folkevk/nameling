@@ -1,0 +1,52 @@
+{
+  "associations": [
+    "oft als Kurzform von Adrian beschrieben",
+    "lateinische Herkunft",
+    "Bezug zu Hadria bzw. der Adria",
+    "männlicher Vorname",
+    "selten in Deutschland",
+    "Namenstag"
+  ],
+  "confidence": 0.83,
+  "display_text": "Aad wird in Deutschland eher selten verwendet und öffentlich meist neutral bis sachlich wahrgenommen. Der Name wirkt kurz, ungewöhnlich und ist laut Quelle oft als Kurzform von Adrian mit lateinischer Herkunft beschrieben. Die Evidenz ist jedoch nur einseitig und damit begrenzt belastbar.",
+  "evidence_quality": "mittel bis schwach: klare, aber einseitige Evidenz aus nur einer Quelle; gute inhaltliche Plausibilität, begrenzte öffentliche Breite.",
+  "generated_at": "2026-06-14T10:47:41Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Aad",
+  "normalized_name": "aad",
+  "overall_resonance": "Der Vorname Aad wirkt in der öffentlichen Wahrnehmung eher neutral, sachlich und sehr selten. Die Resonanz ist vor allem lexikalisch-informativ, nicht stark emotional geprägt.",
+  "practical_notes": [
+    "Für Namenssuchende ist Aad vor allem wegen seiner Kürze und Seltenheit auffällig.",
+    "Die Bedeutung und Herkunft werden in der Quelle klar, aber knapp erklärt.",
+    "Im deutschen Kontext dürfte der Name eher als ungewohnt wahrgenommen werden."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz basiert nur auf einer einzelnen Namenslexikon-Quelle.",
+    "Die öffentliche Resonanz ist daher nur eingeschränkt belastbar.",
+    "Aus der Seltenheit allein lässt sich keine soziale Bewertung ableiten."
+  ],
+  "short_summary": "Aad ist ein sehr seltener, eher neutral wahrgenommener männlicher Vorname mit kurzer, sachlicher Wirkung und lexikalischer Herkunftsdeutung.",
+  "source_count": 1,
+  "sources": [
+    {
+      "confidence": 0.95,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Aad � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/A/Aa/Aad/"
+    }
+  ],
+  "style_effect": [
+    "kurz und knapp",
+    "neutral-beschreibend",
+    "ungewöhnlich/selten",
+    "klassisch-lexikalisch",
+    "männlich wahrgenommen"
+  ],
+  "usable_evidence_count": 1,
+  "visibility": "In Deutschland scheint der Name wenig verbreitet und damit eher eine Nischenwahl zu sein. Die öffentliche Sichtbarkeit ist entsprechend gering."
+}

@@ -1,0 +1,69 @@
+{
+  "associations": [
+    "Kurzform von Ulrich",
+    "Kurzform von Ulrike",
+    "althochdeutsche Herkunft",
+    "Bedeutung im Sinne von Erbe/Reichtum bzw. Macht/Herrschaft",
+    "Unisex-Verwendung",
+    "eher selten in Deutschland",
+    "Namenstag"
+  ],
+  "confidence": 0.78,
+  "display_text": "Uli wirkt in den vorliegenden Quellen überwiegend sachlich-neutral bis leicht positiv. Der Name ist kurz, vertraut und vor allem als Kurzform von Ulrich oder Ulrike bekannt. Er gilt in Deutschland eher als selten; die verfügbare Evidenz stammt jedoch hauptsächlich aus Namensdatenbanken und Statistikseiten, also mit begrenzter öffentlicher Resonanz.",
+  "evidence_quality": "mittel bis schwach: klare Namenslexikon-Evidenz, aber wenig echte öffentliche Diskussionsresonanz",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Uli",
+  "normalized_name": "uli",
+  "overall_resonance": "Überwiegend sachlich-neutral bis leicht positiv: Uli wird vor allem als kurzer, vertrauter Name wahrgenommen, mit klarer namenkundlicher Einordnung. In der öffentlichen Namensbeschreibung wirkt er eher unkompliziert und wenig polarisiert.",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt Uli unkompliziert, knapp und vertraut.",
+    "Als Kurzname kann er je nach Kontext eher informell als vollständig wirken.",
+    "Die Wahrnehmung ist wahrscheinlich stärker von der Einordnung als Kurzform geprägt als von einem ausgeprägten Image."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist schwach im Sinne öffentlicher Resonanz: Sie basiert fast nur auf Namensdatenbanken und einzelnen Nutzerhinweisen.",
+    "Die Beliebtheits- und Rangangaben sollten vorsichtig gelesen werden, da sie quellenabhängig sind.",
+    "Es gibt keine belastbaren Hinweise auf eine starke gesellschaftliche Stigmatisierung oder auf breite positive Trendwahrnehmung."
+  ],
+  "short_summary": "Uli wird meist neutral und freundlich-kurz wahrgenommen, ist eher selten und vor allem als Kurzform von Ulrich oder Ulrike bekannt.",
+  "source_count": 3,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Uli � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/U/Ul/Uli/"
+    },
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Uli � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/U/Ul/Uli/"
+    },
+    {
+      "confidence": 0.9,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Uli: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Uli.html"
+    }
+  ],
+  "style_effect": [
+    "kurz und bündig",
+    "umgangssprachlich-vertraut",
+    "namentlich klar, aber nicht sehr dominant",
+    "lexikalisch geprägt",
+    "eher zeitlos als modisch"
+  ],
+  "usable_evidence_count": 3,
+  "visibility": "Eher geringe bis mittlere Sichtbarkeit in Deutschland; in den vorliegenden Quellen wird Uli als eher selten beschrieben. Die verfügbare Evidenz stammt vor allem aus Namenslexika und Statistikseiten, nicht aus breiter öffentlicher Debatte."
+}

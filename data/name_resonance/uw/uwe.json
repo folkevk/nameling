@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "altfriesische bzw. althochdeutsche Herkunft",
+    "Bedeutungen wie „der Tatkräftige“ oder „der Besitzer“",
+    "klassischer deutscher Jungenname",
+    "früher häufiger, heute seltener",
+    "Namensbezug mit historischen und lexikalischen Informationen",
+    "Namenstag wird in den Quellen genannt"
+  ],
+  "confidence": 0.83,
+  "display_text": "Uwe wirkt in den verfügbaren Quellen klassisch, traditionell und eher nüchtern mit leicht positivem Ton. Der Name ist bekannt, aber heute seltener, und die Evidenz basiert vor allem auf Namenslexika statt auf breiter öffentlicher Resonanz.",
+  "evidence_quality": "mittel bis schwach: zwei einschlägige, aber stark ähnliche Nachschlagequellen; kaum breite öffentliche Resonanzdaten",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Uwe",
+  "normalized_name": "uwe",
+  "overall_resonance": "Uwe wird in den vorliegenden Quellen überwiegend sachlich-informativ und leicht positiv beschrieben. Der Name erscheint als klassischer, traditioneller deutscher Jungenname mit historischer Verankerung, heute aber deutlich seltener. Die öffentliche Rezeption wirkt eher nüchtern als trendig.",
+  "practical_notes": [
+    "Für eine Namenssuche ist Uwe ein klar lesbarer, vertrauter und traditionsreicher Name.",
+    "Wer einen eher klassischen und unaufgeregten Eindruck sucht, findet hier einen passenden Namen.",
+    "Eine moderne Trendwahrnehmung lässt sich aus der Evidenz nicht ableiten."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist schmal und stützt sich fast nur auf Namenslexika bzw. einzelne Infoseiten.",
+    "Daher beschreibt die Karte eher die lexikalische und allgemeine Wahrnehmung als eine breite öffentliche Meinungslage."
+  ],
+  "short_summary": "Uwe wird überwiegend als klassischer, traditioneller und sachlich konnotierter deutscher Vorname wahrgenommen; die Quellenlage ist jedoch begrenzt und vor allem lexikalisch.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.95,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Uwe � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/U/Uw/Uwe/"
+    },
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "eher positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Uwe: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Uwe.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "traditionell",
+    "bodenständig",
+    "historisch",
+    "nüchtern",
+    "namenskundlich"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland bekannt, aber nicht mehr sehr häufig im aktuellen Namensgebrauch. Die Sichtbarkeit scheint vor allem über Namenslexika und Nachschlagequellen zu laufen, weniger über breite öffentliche Debatten."
+}

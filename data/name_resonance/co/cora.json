@@ -1,0 +1,58 @@
+{
+  "associations": [
+    "altgriechische Herkunft",
+    "Kurzform von Corinna, Cordula, Cordelia oder Cornelia",
+    "Bedeutungsbezüge wie „das Mädchen“ oder „die Herzige/Herzliche“",
+    "griechische Mythologie (Kore/Persephone)",
+    "Namenstag",
+    "in Deutschland als bekannt bzw. teils beliebt eingeordnet"
+  ],
+  "confidence": 0.87,
+  "display_text": "Cora wirkt in den verfügbaren Quellen überwiegend positiv: kurz, vertraut, klanglich angenehm und mit herzlichen bzw. altgriechischen Bedeutungsbezügen verbunden. Die öffentliche Resonanz erscheint eher informativ als kontrovers, ist aber nur indirekt belegt.",
+  "evidence_quality": "mittel bis gut; überwiegend namenskundliche Informationsquellen, kaum echte öffentliche Debatte oder breite Meinungsäußerungen.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Cora",
+  "normalized_name": "cora",
+  "overall_resonance": "Überwiegend positiv und sachlich-informativ; Cora wird meist als vertraut, kurz und klanglich angenehm beschrieben, ohne starke kontroverse Konnotationen.",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt Cora unkompliziert, freundlich und gut merkbar.",
+    "Die Quellenlage spricht eher für eine positive Grundwahrnehmung als für eine stark polarisierende öffentliche Debatte."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz zur öffentlichen Resonanz ist nur indirekt, da vor allem Namenslexika und Informationsseiten vorliegen.",
+    "Einzelne positive Wertungen wie „schön“ sind subjektiv und nicht als allgemeingültig zu verstehen."
+  ],
+  "short_summary": "Cora wird in den Quellen vor allem positiv, freundlich und klassisch-kurz wahrgenommen. Die Evidenz ist eher informativ als diskussionsbasiert.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Cora � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/C/Co/Cora/"
+    },
+    {
+      "confidence": 0.94,
+      "is_name_discussion": true,
+      "sentiment": "positive",
+      "source_type": "web",
+      "title": "&#9655; Vorname Cora: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Cora.html"
+    }
+  ],
+  "style_effect": [
+    "kurz und eingängig",
+    "klassisch-moderner Klang",
+    "leicht herzliche Assoziation",
+    "informativ-lexikalische Wahrnehmung",
+    "eher unaufgeregte, freundliche Wirkung"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Die öffentliche Sichtbarkeit ist vorhanden, aber eher namenskundlich als diskussionsstark: Die Hinweise stammen vor allem aus Vornamen-Verzeichnissen und lexikalischen Beschreibungen."
+}

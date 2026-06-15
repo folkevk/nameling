@@ -1,0 +1,58 @@
+{
+  "associations": [
+    "finnische Form bzw. Variante von Daria",
+    "altpersische Herkunft wird genannt",
+    "Bedeutungsfelder wie \"die Beschützende\" oder \"Inhaberin des Guten\"",
+    "Namenstag wird in den Quellen erwähnt",
+    "selten bis mäßig beliebt in Deutschland"
+  ],
+  "confidence": 0.83,
+  "display_text": "Tarja ist in Deutschland eher selten und wird meist neutral bis leicht positiv wahrgenommen. Der Name wirkt klar, nordisch und eigenständig; die vorliegende Evidenz stammt vor allem aus Namenslexika und ist daher eher begrenzt.",
+  "evidence_quality": "mittel bis gut; die Quellen sind direkt zum Namen, aber in Zahl und Breite begrenzt.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Tarja",
+  "normalized_name": "tarja",
+  "overall_resonance": "Tarja wirkt in Deutschland eher selten und sachlich-namenskundlich wahrgenommen, mit leicht positiver, eigenständiger Note. Die öffentliche Rezeption in den vorliegenden Quellen ist überwiegend neutral und informativ.",
+  "practical_notes": [
+    "Gut geeignet, wenn ein seltener und klar klingender Name gesucht wird.",
+    "Die Aussprache wirkt für deutschsprachige Umfelder meist unkompliziert.",
+    "Wer einen sehr geläufigen Namen sucht, dürfte Tarja eher als markant wahrnehmen."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist schmal und stützt sich vor allem auf Namenslexika, nicht auf breite öffentliche Diskurse.",
+    "Beliebtheitsangaben sollten vorsichtig gelesen werden, da sie je nach Quelle und Jahr variieren können.",
+    "Es gibt keinen Hinweis auf eine soziale Stigmatisierung des Namens in den vorliegenden Quellen."
+  ],
+  "short_summary": "Tarja wird in Deutschland überwiegend neutral und informativ beschrieben, mit seltener Verwendung und einer leicht positiven, eigenständigen Ausstrahlung.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Tarja � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/T/Ta/Tarja/"
+    },
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Tarja: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Tarja.html"
+    }
+  ],
+  "style_effect": [
+    "klingt nordisch und klar",
+    "wirkt ungewöhnlich, aber nicht sperrig",
+    "hat einen modernen, zugleich traditionellen Eindruck",
+    "erscheint in der Namenswahrnehmung eher ruhig und unaufgeregt"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Eher geringe Bekanntheit; in Namenslexika wird Tarja als selten bis mäßig beliebt eingeordnet."
+}

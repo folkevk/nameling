@@ -1,0 +1,63 @@
+{
+  "associations": [
+    "Doppelname bzw. zusammengesetzter Namenscharakter",
+    "deutsche Namenskultur",
+    "historische Herkunft",
+    "Namenstag",
+    "Kurzformen/Koseformen",
+    "früher verbreiteter, heute seltener Vorname"
+  ],
+  "confidence": 0.83,
+  "display_text": "Liselotte wird meist als klassischer, traditioneller und deutsch geprägter Vorname wahrgenommen. Die öffentliche Resonanz ist eher positiv und wertschätzend, zugleich wirkt der Name heute eher selten und leicht altmodisch. Die Evidenz ist jedoch begrenzt und stammt vor allem aus einzelnen Namensseiten.",
+  "evidence_quality": "mittel bis gut, aber auf wenige, namensbezogene Webquellen begrenzt",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Liselotte",
+  "normalized_name": "liselotte",
+  "overall_resonance": "Liselotte wird öffentlich überwiegend als klassischer, traditioneller und klar deutsch wahrgenommener Vorname mit historischem Klang beschrieben. Die Resonanz wirkt eher wertschätzend als kritisch, zugleich aber auch leicht altmodisch und selten.",
+  "practical_notes": [
+    "Für Suchmaschinen eignet sich die Einordnung als klassischer deutscher Mädchenname mit historischem Charakter.",
+    "Wenn mehr öffentliche Resonanz gesucht wird, wäre zusätzliche Evidenz aus Foren, Social Media oder Namensumfragen hilfreich.",
+    "Die Datenlage reicht für eine vorsichtige Beschreibung, aber nicht für eine harte Popularitäts- oder Imagebewertung."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt nur aus einzelnen Namensseiten und nicht aus einer breiten öffentlichen Debatte.",
+    "Einschätzungen zur Wirkung beruhen vor allem auf lexikalischen Beschreibungen und Community-Nähe, nicht auf repräsentativen Umfragen.",
+    "Die Wahrnehmung als 'traditionell' oder 'altmodisch' ist eine öffentliche Tendenz, keine feste Eigenschaft des Namens."
+  ],
+  "short_summary": "Liselotte wirkt in der öffentlichen Wahrnehmung klassisch, traditionell und deutsch geprägt. Der Name wird meist wertschätzend beschrieben, gilt aber heute eher als selten und leicht altmodisch.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.95,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Liselotte � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/L/Li/Liselotte/"
+    },
+    {
+      "confidence": 0.86,
+      "is_name_discussion": true,
+      "sentiment": "mostly positive",
+      "source_type": "web",
+      "title": "&#9655; Vorname Liselotte: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Liselotte.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "traditionell",
+    "historisch",
+    "deutsch geprägt",
+    "lexikalisch klar",
+    "eher selten",
+    "leicht altmodisch",
+    "wertschätzend"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Eher geringe heutige Alltagspräsenz in Deutschland; der Name ist bekannt, aber nicht sehr häufig und fällt dadurch eher als traditionell-markant auf."
+}

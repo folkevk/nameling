@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "Kurzform von Heinrich",
+    "althochdeutsche Herkunft",
+    "männlicher Vorname",
+    "niederdeutsch und friesisch",
+    "Bedeutung im Umfeld von 'Herrscher' / 'Hausherr'",
+    "Beliebtheitsschwerpunkt in den 1960er/1970er Jahren",
+    "heute eher selten"
+  ],
+  "confidence": 0.89,
+  "display_text": "Heiko wirkt in Deutschland überwiegend sachlich-neutral bis leicht positiv: ein traditioneller, norddeutsch/friesisch geprägter Männername, der heute eher selten ist und vor allem mit klassischer Herkunft und früherer Popularität verbunden wird.",
+  "evidence_quality": "Gut für Herkunft, Bedeutung und historische Beliebtheit; schwächer für aktuelle öffentliche Resonanz, da überwiegend lexikalische Quellen vorliegen.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Heiko",
+  "normalized_name": "heiko",
+  "overall_resonance": "Überwiegend sachlich-neutral mit leichter positiver Namenswirkung. Heiko wird in der verfügbaren Evidenz vor allem als traditioneller, deutschsprachiger Männername mit klarer Herkunft beschrieben; öffentliche Kontroversen sind nicht erkennbar.",
+  "practical_notes": [
+    "Für eine Namenssuche in Deutschland wirkt Heiko vertraut und gut einordenbar.",
+    "Der Name vermittelt eher klassische als trendige Assoziationen.",
+    "Da die heutige Vergabe seltener ist, kann er individuell und unverwechselbar wirken."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt fast ausschließlich aus Namenslexika und ist daher eher beschreibend als diskursiv.",
+    "Es gibt keine breite öffentliche Debatte oder klar messbare soziale Bewertung des Namens in der vorliegenden Evidenz.",
+    "Die Wahrnehmung als 'altmodisch' ergibt sich eher aus der Popularitätsgeschichte als aus aktueller öffentlicher Kritik."
+  ],
+  "short_summary": "Heiko ist ein traditioneller deutscher Männername mit norddeutsch-friesischer Prägung, heute eher selten und öffentlich überwiegend neutral bis leicht positiv wahrgenommen.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Heiko � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/H/He/Heiko/"
+    },
+    {
+      "confidence": 0.91,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Heiko: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Heiko.html"
+    }
+  ],
+  "style_effect": [
+    "kurz und klar",
+    "traditionell",
+    "bodenständig",
+    "norddeutsch/friesisch geprägt",
+    "eher retro als modisch"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Mittlere bis eher geringe heutige Sichtbarkeit in Deutschland: Der Name ist bekannt, wirkt aber laut den Quellen eher wie ein früher populärer Vorname, der heute seltener vergeben wird."
+}

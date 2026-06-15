@@ -1,0 +1,69 @@
+{
+  "associations": [
+    "Unisex-Name",
+    "finnische Kurzform von Joachim/Joakim",
+    "japanische Herkunft und Bedeutungszuordnungen",
+    "selten bis eher ungewöhnlich",
+    "kurz und leicht merkbar",
+    "Beliebtheit in Deutschland",
+    "Namenstag"
+  ],
+  "confidence": 0.76,
+  "display_text": "Kimi wirkt in den vorliegenden Quellen überwiegend sachlich-neutral bis leicht positiv. Der Name wird als kurz, modern und international anschlussfähig beschrieben, zugleich aber je nach Sprachraum unterschiedlich hergeleitet. Die Evidenz ist eher schwach, da vor allem Namensdatenbanken vorliegen und keine breite öffentliche Debatte.",
+  "evidence_quality": "eher schwach bis mittel: mehrere informative Namensseiten, aber kaum echte öffentliche Diskussion oder breitere Meinungsvielfalt.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Kimi",
+  "normalized_name": "kimi",
+  "overall_resonance": "Die öffentliche Wahrnehmung von Kimi wirkt in den vorliegenden Quellen überwiegend sachlich-neutral bis leicht positiv. Der Name wird vor allem als kurzer, moderner und international anschlussfähiger Vorname beschrieben. Die Evidenz bezieht sich jedoch hauptsächlich auf Namensdatenbanken und nicht auf echte öffentliche Debatten, daher ist die Aussagekraft für eine breite Rezeption begrenzt.",
+  "practical_notes": [
+    "Für eine Namenssuche eignet sich Kimi als kurzer, moderner und international verständlicher Name.",
+    "Die Wirkung kann je nach Kontext eher neutral-sachlich als markant sein.",
+    "Bei der Einordnung sollte man die unterschiedliche Herkunftsdeutung je nach Kulturraum mitdenken."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist schwach für echte öffentliche Resonanz, da vor allem Namensportale statt Meinungsquellen vorliegen.",
+    "Herkunft und Bedeutung sind je nach Sprachraum mehrdeutig; das sollte nicht als eindeutig gelten.",
+    "Keine belastbaren Hinweise auf Stigmatisierung in den Quellen."
+  ],
+  "short_summary": "Kimi wird überwiegend neutral bis leicht positiv und als kurzer, moderner Unisex-Name mit internationaler Anmutung wahrgenommen; die Beleglage ist jedoch begrenzt und vor allem datenbankbasiert.",
+  "source_count": 3,
+  "sources": [
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Kimi � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/K/Ki/Kimi/"
+    },
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Kimi � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/K/Ki/Kimi/"
+    },
+    {
+      "confidence": 0.89,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Kimi: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Kimi.html"
+    }
+  ],
+  "style_effect": [
+    "kurz und prägnant",
+    "modern wirkend",
+    "international einsetzbar",
+    "lexikalisch/sachlich wahrgenommen",
+    "eher unaufgeregt als polarisierend"
+  ],
+  "usable_evidence_count": 3,
+  "visibility": "Mittlere Sichtbarkeit in deutschsprachigen Namensverzeichnissen; die belegte öffentliche Resonanz ist eher indirekt als breit diskursiv. Insgesamt erscheint Kimi als bekannt, aber nicht stark alltagspräsent."
+}

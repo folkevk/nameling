@@ -1,0 +1,59 @@
+{
+  "associations": [
+    "altgriechischer Ursprung über Andreas",
+    "spanische Form bzw. Variante von Andreas",
+    "Bedeutungen wie „der Tapfere“ und „der Mannhafte“",
+    "seltene, eher ungewöhnliche Namenswirkung in Deutschland",
+    "Namenstage werden genannt"
+  ],
+  "confidence": 0.83,
+  "display_text": "Andres wird meist neutral bis leicht positiv eingeordnet: selten in Deutschland, klassisch, international anschlussfähig und mit Bedeutungen wie „tapfer“ oder „mannhaft“. Die öffentliche Resonanz ist auf Basis der vorliegenden Quellen nur schwach belegbar und stammt vor allem aus Namenslexika.",
+  "evidence_quality": "mittel bis schwach: zwei namenskundliche Webquellen mit direkter Namensbehandlung, aber kaum echte öffentliche Resonanzdaten",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Andres",
+  "normalized_name": "andres",
+  "overall_resonance": "Überwiegend neutral bis leicht positiv: Der Name Andres wird in den verfügbaren Namenslexika meist sachlich beschrieben, mit angenehmen Bedeutungen wie „tapfer“ oder „mannhaft“. Eine breitere öffentliche Diskussion ist aus der Evidenz jedoch nur schwach ableitbar.",
+  "practical_notes": [
+    "Wirkt vertraut, aber nicht alltäglich.",
+    "Kann je nach Umfeld als international oder mediterran gelesen werden.",
+    "Für Suchmaschinen und Namenskontexte ist die Bedeutung klar und positiv konnotiert."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz basiert fast ausschließlich auf Namenslexika; echte öffentliche Resonanz ist nur indirekt erkennbar.",
+    "Keine belastbaren Hinweise auf Stigmatisierung oder klare Trends in der Alltagswahrnehmung.",
+    "Einzelne Beschreibungen von Bedeutung und Herkunft sollten nicht als allgemeine gesellschaftliche Bewertung verstanden werden."
+  ],
+  "short_summary": "Andres wird überwiegend neutral bis leicht positiv wahrgenommen. Der Name wirkt selten, klassisch und international; die Evidenz stammt jedoch fast nur aus Namenslexika.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.94,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Andres � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/A/An/Andres/"
+    },
+    {
+      "confidence": 0.92,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Andres: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Andres.html"
+    }
+  ],
+  "style_effect": [
+    "sachlich",
+    "klassisch",
+    "kurz und klar",
+    "international anschlussfähig",
+    "leicht traditionsbezogen"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland eher selten und dadurch im Alltag wahrscheinlich auffällig, aber nicht stark verbreitet. Die öffentliche Sichtbarkeit wirkt eher gering und stammt vor allem aus Namensdatenbanken."
+}

@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "Bedeutung: „die Sächsin“",
+    "althochdeutsche bzw. altgermanische Herleitung",
+    "weiblicher Vorname",
+    "niederländische Entlehnung",
+    "Namenstag: 10. Juli",
+    "namenskundlich gut dokumentiert"
+  ],
+  "confidence": 0.78,
+  "display_text": "Saskia: ein in Deutschland bekannter, klar weiblicher Vorname mit sachlich bis leicht positivem Klang. Die verfügbare Evidenz ist vor allem namenskundlich und daher nur begrenzt als breite öffentliche Stimmung interpretierbar.",
+  "evidence_quality": "mittel: überwiegend lexikalische Quellen, wenig echte Diskussionsbreite",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Saskia",
+  "normalized_name": "saskia",
+  "overall_resonance": "Saskia wird in der verfügbaren Evidenz überwiegend sachlich bis leicht positiv wahrgenommen. Der Name wirkt vertraut, klar weiblich und namenskundlich gut verankert, ohne starke Polarisierung.",
+  "practical_notes": [
+    "Für eine Namenssuche ist Saskia ein gut verständlicher, etablierter Vorname.",
+    "Die Wirkung ist eher freundlich-sachlich als auffällig-exzentrisch.",
+    "Die Schreibweise ist eindeutig und im deutschsprachigen Raum gut bekannt."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenzlage ist eher schwach bis mittelstark und stammt vor allem aus Namenslexika.",
+    "Es liegen keine belastbaren Hinweise auf eine breite soziale Stigmatisierung vor.",
+    "Einzelne Kommentare oder Beispiele sollten nicht als allgemeine öffentliche Meinung gewertet werden."
+  ],
+  "short_summary": "Saskia wirkt in Deutschland als bekannter, klar weiblicher Vorname mit sachlich-positiver Resonanz und stabiler, eher klassisch-moderner Ausstrahlung.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.99,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Saskia � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/S/Sa/Saskia/"
+    },
+    {
+      "confidence": 0.92,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Saskia: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Saskia.html"
+    }
+  ],
+  "style_effect": [
+    "sachlich",
+    "weiblich",
+    "klassisch-modern",
+    "klar",
+    "vertraut",
+    "niederländisch/altgermanisch assoziiert"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland bekannt und geläufig, mit eher solider als trendiger Präsenz. Die öffentliche Wahrnehmung ist vor allem durch lexikalische Namensseiten geprägt, nicht durch breite Diskussionsdaten."
+}

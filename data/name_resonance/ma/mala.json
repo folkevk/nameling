@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "Sanskrit-Ursprung",
+    "Kranz / Girlande / Halskette",
+    "Gebetskette mit 108 Perlen",
+    "indische bzw. südasiatische Namensassoziationen",
+    "Hinduismus und Buddhismus",
+    "selten bis mäßig gebräuchlich in Deutschland"
+  ],
+  "confidence": 0.76,
+  "display_text": "Mala wirkt in Deutschland eher selten, aber positiv und klar bedeutungsbezogen. Die verfügbaren Quellen beschreiben den Namen vor allem sachlich: mit Sanskrit-Ursprung, Bezug zu Kranz/Girlande bzw. Gebetskette und einer insgesamt freundlichen, unaufgeregten Wahrnehmung. Eine breite öffentliche Debatte ist kaum sichtbar, daher ist die Evidenz begrenzt.",
+  "evidence_quality": "mittel bis schwach; hauptsächlich lexikalische Namenseinträge ohne breite öffentliche Debatte",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Mala",
+  "normalized_name": "mala",
+  "overall_resonance": "Eher freundlich und sachlich-informativ wahrgenommen, mit klarer kulturell-sprachlicher Prägung. In den vorliegenden Quellen wirkt der Name nicht kontrovers, sondern vor allem bedeutungsbezogen und international anschlussfähig.",
+  "practical_notes": [
+    "Für Suchmaschinen wirkt der Name gut merkbar und eindeutig.",
+    "Die Wahrnehmung scheint eher positiv-neutral als wertend zu sein.",
+    "Wer einen seltenen, sanft klingenden und kulturell aufgeladenen Namen sucht, findet hier eine passende, aber nicht massenhaft verbreitete Option."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist schwach bis mittelstark, da sie fast nur auf Namenslexika beruht.",
+    "Es gibt keine sichtbar belastbare öffentliche Kommentar- oder Diskussionsresonanz.",
+    "Einzelne kulturelle Zuordnungen sollten als mögliche Herkunfts- und Bedeutungsangaben verstanden werden, nicht als feste Wahrheit für alle Verwendungen des Namens."
+  ],
+  "short_summary": "Mala wird in den verfügbaren Quellen vor allem sachlich und freundlich beschrieben: ein seltener bis moderat gebräuchlicher Name mit Sanskrit-Bezug und Bedeutungen rund um Kranz, Girlande oder Gebetskette.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Mala � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/M/Ma/Mala/"
+    },
+    {
+      "confidence": 0.94,
+      "is_name_discussion": true,
+      "sentiment": "mostly positive",
+      "source_type": "web",
+      "title": "&#9655; Vorname Mala: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Mala.html"
+    }
+  ],
+  "style_effect": [
+    "weich",
+    "kurz",
+    "klingt international",
+    "kulturell geprägt",
+    "ungewöhnlich, aber nicht sperrig",
+    "lexikalisch aufgeladen"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Eher gering bis mäßig sichtbar in Deutschland; der Name erscheint eher als seltener bis moderat gebräuchlicher Vorname und wird vor allem in Namenslexika behandelt, nicht in breiter öffentlicher Debatte."
+}

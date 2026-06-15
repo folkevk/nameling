@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "althochdeutsche bzw. germanische Herkunft",
+    "Bedeutung im Sinn von „Herr im Haus“ / „Hausherr“",
+    "historisch stark verbreitet",
+    "heute eher selten als Babyname",
+    "klassischer Traditionsname",
+    "Namenstag",
+    "Kurzformen und Spitznamen"
+  ],
+  "confidence": 0.86,
+  "display_text": "Heinrich wirkt in der öffentlichen Wahrnehmung überwiegend klassisch und traditionsreich. Der Name ist historisch stark verankert, heute aber eher selten als Babyname. Die Resonanz ist insgesamt sachlich-neutral bis leicht positiv, mit Fokus auf Herkunft, Bedeutung und Namenstag.",
+  "evidence_quality": "mittel bis gut: klare Namensseiten mit direkter Beschreibung, aber begrenzte Breite öffentlicher Resonanz und teils seitenbasierte statt repräsentative Hinweise.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Heinrich",
+  "normalized_name": "heinrich",
+  "overall_resonance": "Heinrich wird in den vorliegenden Quellen überwiegend als klassischer, traditionsreicher und historisch geprägter Vorname beschrieben. Die öffentliche Resonanz wirkt sachlich-neutral bis leicht positiv, mit Fokus auf Herkunft, Bedeutung und Namenstag; zugleich wird der Name heute als eher selten für Babys eingeordnet.",
+  "practical_notes": [
+    "Für Suchende wirkt Heinrich eher vertraut, traditionsbewusst und zeitlos als modisch.",
+    "Der Name kann je nach Kontext als würdevoll oder altmodisch erscheinen; die Wahrnehmung ist stark generations- und situationsabhängig."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt vor allem aus namenkundlichen Webseiten und ist daher eher beschreibend als ein direkter Spiegel breiter öffentlicher Meinungen.",
+    "Einzelne positive oder ablehnende Kommentare auf Seitenebene sollten nicht als allgemeine Mehrheitsmeinung verstanden werden."
+  ],
+  "short_summary": "Heinrich wird meist als klassischer, historischer und eher seltener Vorname wahrgenommen – sachlich, traditionsreich und mit klarer altdeutscher Herkunft.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Heinrich � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/H/He/Heinrich/"
+    },
+    {
+      "confidence": 0.88,
+      "is_name_discussion": true,
+      "sentiment": "mixed",
+      "source_type": "web",
+      "title": "&#9655; Vorname Heinrich: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Heinrich.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "traditionsreich",
+    "historisch",
+    "altdeutsch",
+    "namenkundlich",
+    "sachlich",
+    "eher ernst als verspielt"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Im deutschsprachigen Raum klar bekannt, aber als Vorname heute nicht sehr präsent; eher historisch und traditionell wahrgenommen als modern-aktuell."
+}

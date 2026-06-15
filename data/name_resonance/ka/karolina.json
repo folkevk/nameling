@@ -1,0 +1,63 @@
+{
+  "associations": [
+    "weiblicher Vorname",
+    "deutsche Variante bzw. südslawische Schreibweise",
+    "Bedeutung: die Freie / die Geliebte",
+    "althochdeutsch/germanisch als Herkunftsbezug in den Quellen",
+    "Namenstag",
+    "Beliebtheit in Deutschland",
+    "melodischer Klang",
+    "mehrsprachig verständlich"
+  ],
+  "confidence": 0.88,
+  "display_text": "Karolina wirkt im deutschen Sprachraum überwiegend neutral bis leicht positiv: ein klassischer, melodischer und international verständlicher Mädchenname mit klarer Herkunft und traditioneller Namenswirkung. Die breite Alltagsresonanz ist nur mittelstark belegt, die namenskundliche Einordnung aber deutlich.",
+  "evidence_quality": "hoch für Bedeutung, Herkunft und Einordnung; mittel für öffentliche Resonanz im Alltag, da die Quellen überwiegend Namenslexika mit begrenzten Kommentaren sind.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Karolina",
+  "normalized_name": "karolina",
+  "overall_resonance": "Karolina wird in den vorliegenden deutschsprachigen Namensquellen überwiegend neutral bis leicht positiv wahrgenommen: als klassischer, melodischer und international verständlicher Mädchenname mit klarer Namensbedeutung und erkennbarer Traditionslinie.",
+  "practical_notes": [
+    "Für die Namenssuche wirkt Karolina zeitlos und klar feminin.",
+    "Die Schreibweise kann regional als Variante von Karoline oder Carolina verstanden werden.",
+    "Wenn eine sehr häufige Alltagsform gesucht wird, ist Karolina eher eine bewusst gewählte, etwas markantere Variante."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenzlage ist solide, aber vor allem namenskundlich; direkte breite Alltagsresonanz ist nur mittelstark belegt.",
+    "Ein Teil der positiven Wirkung stammt aus Einträgen und Nutzerkommentaren und sollte daher vorsichtig gewertet werden."
+  ],
+  "short_summary": "Karolina wird im Deutschen meist neutral bis leicht positiv wahrgenommen: klassisch, melodisch und international verständlich, mit solider namenskundlicher Tradition.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.99,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Karolina � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/K/Ka/Karolina/"
+    },
+    {
+      "confidence": 0.92,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Karolina: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Karolina.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "weiblich",
+    "melodisch",
+    "international anschlussfähig",
+    "traditionsnah",
+    "eher elegant als modisch",
+    "seltene bis mittlere Schreibvariante im Vergleich zu Carolina/Karoline"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Im deutschen Namenskontext ist Karolina bekannt, aber eher kein Massenname; die öffentliche Sicht wirkt eher namenskundlich als trendgetrieben."
+}

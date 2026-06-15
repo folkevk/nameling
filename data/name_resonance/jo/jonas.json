@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "Taube",
+    "Frieden",
+    "biblischer Ursprung",
+    "Prophet Jona",
+    "hebräische Herkunft",
+    "Namenstag",
+    "Beliebtheit in Deutschland"
+  ],
+  "confidence": 0.96,
+  "display_text": "Jonas wird in Deutschland meist als beliebter, freundlicher und modern-klassischer Jungenname wahrgenommen. Die öffentliche Resonanz ist überwiegend positiv, mit Bezügen zu Frieden, Taube und biblischer Herkunft.",
+  "evidence_quality": "Gut bis sehr gut: zwei klare namenskundliche Quellen, beide mit direkter Behandlung des Vornamens und konsistent positiver Grundtendenz.",
+  "generated_at": "2026-06-12T06:08:03Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Jonas",
+  "normalized_name": "jonas",
+  "overall_resonance": "Der Vorname Jonas wird in der vorliegenden Evidenz überwiegend positiv und sehr bekannt wahrgenommen. Er gilt als moderner, beliebter Jungenname mit freundlichen, friedensbezogenen und biblischen Assoziationen.",
+  "practical_notes": [
+    "Der Name ist leicht verständlich, bekannt und ohne starke soziale Stigmatisierung belegt.",
+    "Die Resonanz wirkt insgesamt stabil positiv, mit Schwerpunkt auf Herkunft, Bedeutung und Popularität."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt vor allem aus Namensportalen und ist damit eher beschreibend als repräsentativ für die Gesamtöffentlichkeit.",
+    "Vereinzelt enthalten die Quellen Nutzerkommentare; daraus sollte kein allgemeines Urteil abgeleitet werden."
+  ],
+  "short_summary": "Jonas ist in Deutschland ein sehr bekannter und überwiegend positiv konnotierter Vorname mit friedlichen und biblischen Assoziationen.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.99,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "Vorname Jonas � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/J/Jo/Jonas/"
+    },
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Jonas: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Jonas.html"
+    }
+  ],
+  "style_effect": [
+    "freundlich",
+    "modern",
+    "zeitgemäß",
+    "klassisch-biblisch",
+    "sympathisch",
+    "beliebt"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland sehr hohe Sichtbarkeit; der Name wird in Namenslexika und Beliebtheitsübersichten häufig aufgeführt und als etabliert beschrieben."
+}

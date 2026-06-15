@@ -1,0 +1,62 @@
+{
+  "associations": [
+    "Tulpe",
+    "türkische Herkunft",
+    "persische Herkunft",
+    "Koseform oder Kurzform",
+    "eigenständiger Vorname",
+    "selten bis moderat vergeben",
+    "deutschsprachig gut aussprechbar"
+  ],
+  "confidence": 0.82,
+  "display_text": "Lale hat eine eher positive, leichte Resonanz: Der Name wird meist mit Tulpe, türkisch/persischen Bezügen und einem weichen, modernen Klang verbunden. In Deutschland wirkt er selten, aber gut verständlich und eher markant als alltäglich.",
+  "evidence_quality": "mittel bis gut: zwei klar namensbezogene Quellen, überwiegend lexikalisch und teils mit Nutzerkommentaren; insgesamt eher konsistent, aber nicht breit empirisch abgesichert.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Lale",
+  "normalized_name": "lale",
+  "overall_resonance": "Der Vorname Lale wirkt in der öffentlichen Wahrnehmung eher freundlich, leicht und klangvoll. In den vorliegenden Namensquellen wird er meist mit positiven oder neutralen Bedeutungen verbunden, vor allem mit der Tulpe sowie mit türkischen und teils persischen Bezügen. Insgesamt erscheint der Name in Deutschland eher selten bis moderat vergeben und dadurch eher markant als alltäglich.",
+  "practical_notes": [
+    "Für die Namenssuche wirkt Lale freundlich, kurz und einprägsam.",
+    "Durch die Seltenheit bleibt der Name unverwechselbar, ohne schwer aussprechbar zu sein.",
+    "Wer einen klaren, internationalen und zugleich besonderen Namen sucht, findet hier eine eher unaufdringliche Option."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Herkunftsangaben sind in den Quellen nicht immer einheitlich und sollten daher als mögliche, nicht als einzige Deutung verstanden werden.",
+    "Die öffentliche Resonanz basiert hier vor allem auf Namensseiten; breitere empirische Daten zur Wahrnehmung in Deutschland liegen in der Evidenz nicht vor.",
+    "Positive Assoziationen wie Tulpe oder Klangcharakter sind gebräuchliche Namensdeutungen, keine objektiven Eigenschaften des Namens."
+  ],
+  "short_summary": "Lale wird in Namensquellen meist positiv, weich und blumig wahrgenommen; der Name wirkt selten, gut aussprechbar und international anschlussfähig.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Lale � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/L/La/Lale/"
+    },
+    {
+      "confidence": 0.86,
+      "is_name_discussion": true,
+      "sentiment": "überwiegend positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Lale: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Lale.html"
+    }
+  ],
+  "style_effect": [
+    "kurz und prägnant",
+    "weich und melodisch",
+    "modern wirkend",
+    "international anschlussfähig",
+    "eher selten als häufig",
+    "leicht exotisch konnotiert"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Im deutschsprachigen Raum ist Lale bekannt, aber kein Massennamen. Die Sichtbarkeit wirkt vor allem über Namenslexika und Herkunftsdebatten gegeben; belastbare Aussagen zur Alltagswahrnehmung sind nur begrenzt vorhanden."
+}

@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "Bedeutung: „die Freie“",
+    "weibliche Form von Karl",
+    "deutschsprachiger Raum",
+    "skandinavische und slawische Länder",
+    "Namenstag",
+    "wiederentdeckt",
+    "regelmäßig vergeben",
+    "Beliebtheit in Deutschland"
+  ],
+  "confidence": 0.86,
+  "display_text": "Karla hat im deutschsprachigen Raum eine eher freundliche, sachlich-positive Resonanz. Die verfügbaren Quellen beschreiben den Namen als klassisch, bekannt und wiederentdeckt; öffentliche Kontroversen sind nicht ersichtlich.",
+  "evidence_quality": "mittel: zwei klare Namensquellen, aber wenig echte öffentliche Diskussion",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Karla",
+  "normalized_name": "karla",
+  "overall_resonance": "Karla wirkt im deutschsprachigen Raum insgesamt freundlich, sachlich und eher positiv besetzt. Die vorhandene Evidenz beschreibt den Namen vor allem als etabliert, wiederentdeckt und regelmäßig vergeben; öffentliche Kontroversen sind in den Auszügen nicht erkennbar.",
+  "practical_notes": [
+    "Für eine Namenssuche in Deutschland ist Karla gut einordbar und leicht verständlich.",
+    "Die Quellen deuten eher auf eine nüchtern-positive Wahrnehmung als auf starke Mode- oder Imageeffekte hin.",
+    "Aufgrund der begrenzten Evidenz sollte die öffentliche Resonanz nur vorsichtig bewertet werden."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt fast ausschließlich aus Vornamens- und Namenslexikonseiten; echte öffentliche Meinungsdiskussionen sind kaum belegt.",
+    "Die positive Einordnung beruht auf beschreibenden Quellen, nicht auf einer großen Menge unabhängiger Diskussionsbeiträge."
+  ],
+  "short_summary": "Karla wird in den verfügbaren Quellen überwiegend sachlich bis leicht positiv beschrieben: ein klassischer, im deutschen Sprachraum bekannter Name mit der Bedeutung „die Freie“, der regelmäßig vergeben wird.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "Vorname Karla � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/K/Ka/Karla/"
+    },
+    {
+      "confidence": 0.94,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Karla: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Karla.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch und deutschsprachig",
+    "kurz, klar und gut aussprechbar",
+    "eher zeitlos als modisch",
+    "leicht modern durch die wiederentdeckte Nutzung",
+    "namenskundlich positiv gerahmt"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Mittlere Sichtbarkeit in Deutschland: Der Name ist bekannt, kommt regelmäßig vor und wird in Namenslexika sowie auf Vornamenseiten behandelt. Eine breite öffentliche Debatte ist jedoch nicht belegt."
+}

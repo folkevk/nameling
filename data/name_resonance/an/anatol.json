@@ -1,0 +1,62 @@
+{
+  "associations": [
+    "altgriechische Herkunft",
+    "Sonnenaufgang/Morgenland",
+    "männlicher Vorname",
+    "selten in Deutschland",
+    "griechisch geprägt",
+    "Namenstag",
+    "Anatolien"
+  ],
+  "confidence": 0.83,
+  "display_text": "Anatol wirkt in Deutschland selten, klassisch und leicht positiv. Die verfügbaren Quellen beschreiben den Namen vor allem sachlich als griechisch geprägt, mit Bedeutungen rund um Sonnenaufgang/Morgenland. Eine breite öffentliche Resonanz ist kaum sichtbar; die Einschätzung beruht überwiegend auf Namenslexika.",
+  "evidence_quality": "mittel bis schwach: überwiegend namenskundliche/lexikalische Quellen, nur indirekte Hinweise auf öffentliche Resonanz",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Anatol",
+  "normalized_name": "anatol",
+  "overall_resonance": "Der Vorname Anatol wirkt in der verfügbaren Evidenz eher selten, sachlich und leicht positiv-resonant. Er wird vor allem als klassisch-lexikalischer Name mit griechischer Herkunft, der Bedeutung rund um „Sonnenaufgang/Morgenland“ und einem eher ungewohnten Klang beschrieben. Eine breite öffentliche Diskussion ist jedoch kaum erkennbar.",
+  "practical_notes": [
+    "Für Suchende, die einen seltenen und traditionsnahen Namen suchen, kann Anatol gut passen.",
+    "Die Aussprache und Schreibweise wirken unkompliziert, der Name ist aber im deutschen Alltag eher ungewohnt.",
+    "Die Wahrnehmung dürfte je nach Umfeld stärker über Seltenheit als über Modetrends geprägt sein."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist schmal und stark von Namensdatenbanken geprägt.",
+    "Die positive Tönung stammt vor allem aus informativen Quellen, nicht aus breiter öffentlicher Resonanz.",
+    "Keine belastbaren Hinweise auf soziale Stigmatisierung oder negative Stereotype in der vorliegenden Evidenz."
+  ],
+  "short_summary": "Anatol ist in Deutschland eher selten und wird überwiegend sachlich bis leicht positiv wahrgenommen – klassisch, griechisch geprägt und ungewöhnlich im Klang.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Anatol � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/A/An/Anatol/"
+    },
+    {
+      "confidence": 0.88,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Anatol: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Anatol.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "selten",
+    "bildungssprachlich wirkend",
+    "historisch/namenskundlich",
+    "eher ruhig und ernst",
+    "leicht markant durch die Seltenheit"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland scheint Anatol wenig verbreitet und dadurch eher auffällig als alltäglich zu sein. Die öffentliche Sichtbarkeit ist in der vorliegenden Evidenz begrenzt; die Wahrnehmung entsteht vor allem über Namenslexika und Eintragsseiten, nicht über breite Alltagsdiskussionen."
+}

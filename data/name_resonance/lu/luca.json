@@ -1,0 +1,68 @@
+{
+  "associations": [
+    "italienische Form von Lukas",
+    "altgriechisch/lateinischer Ursprung",
+    "Bedeutungsfeld Licht / der/die Leuchtende",
+    "unisex bzw. geschlechtsneutral beschrieben",
+    "sehr beliebt in Deutschland",
+    "kurzer, international verständlicher Name"
+  ],
+  "confidence": 0.9,
+  "display_text": "Luca wird in den Quellen überwiegend neutral bis positiv bewertet. Der Name gilt als sehr bekannt, modern und international; häufig werden die Bedeutungen rund um „Licht“ sowie die Einordnung als unisex bzw. geschlechtsneutral genannt. Hinweise auf Kontroversen oder Stigmatisierung finden sich in der vorliegenden Evidenz nicht.",
+  "evidence_quality": "gut für Namensbeschreibung, schwach bis mittel für öffentliche Resonanz im engeren Sinn",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Luca",
+  "normalized_name": "luca",
+  "overall_resonance": "Luca wird in den vorliegenden Quellen überwiegend neutral bis positiv beschrieben. Der Name wirkt modern, international und sehr bekannt; seine Beliebtheit wird in Deutschland mehrfach hervorgehoben. Die öffentliche Rezeption erscheint dabei eher beschreibend als kontrovers.",
+  "practical_notes": [
+    "Für Suchmaschinen und Namensportale wirkt Luca als etablierter, gut anschlussfähiger Vorname.",
+    "Die Wahrnehmung kann je nach Region oder Kontext als männlich, weiblich oder unisex ausfallen.",
+    "Die Quellen legen eher eine hohe Bekanntheit als eine polarisierende Debatte nahe."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt vor allem aus Namenslexika und ist daher nur indirekt ein Maß für echte öffentliche Meinungsresonanz.",
+    "Keine starke Kontroverse oder Stigmatisierung in der vorliegenden Evidenz erkennbar."
+  ],
+  "short_summary": "Luca ist in Deutschland sehr bekannt und wird meist neutral bis positiv wahrgenommen: modern, international und mit Licht-Bedeutung verbunden.",
+  "source_count": 3,
+  "sources": [
+    {
+      "confidence": 0.91,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Luca � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/L/Lu/Luca/"
+    },
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "Vorname Luca � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/L/Lu/Luca/"
+    },
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "eher positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Luca: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Luca.html"
+    }
+  ],
+  "style_effect": [
+    "kurz",
+    "international",
+    "zeitgemäß",
+    "geschlechtsneutral wahrgenommen",
+    "namenskundlich klar",
+    "positiv konnotiert durch Licht-Bedeutungen"
+  ],
+  "usable_evidence_count": 3,
+  "visibility": "hoch"
+}

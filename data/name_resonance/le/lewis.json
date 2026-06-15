@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "männlicher Vorname",
+    "Variante von Louis/Ludwig",
+    "althochdeutsche Wurzeln",
+    "Bedeutung wie „berühmter“ oder „ruhmreicher Kämpfer“",
+    "Namenstag",
+    "Beliebtheit in Deutschland",
+    "englischsprachig wirkend, aber im deutschen Kontext etabliert"
+  ],
+  "confidence": 0.88,
+  "display_text": "Lewis wird in Deutschland meist sachlich-neutral bis leicht positiv wahrgenommen. Der Name gilt als international, klassisch und gut verständlich, mit Herkunftsbezug zu Louis/Ludwig und Bedeutungen rund um einen „berühmten“ oder „ruhmreichen Kämpfer“. Die Evidenz ist jedoch vor allem lexikalisch; echte öffentliche Debatte ist kaum sichtbar.",
+  "evidence_quality": "mittel bis gut: zwei klare Namensquellen mit hoher inhaltlicher Passung, aber wenig echte Diskussions- oder Stimmungsvielfalt.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Lewis",
+  "normalized_name": "lewis",
+  "overall_resonance": "Der Vorname Lewis wird in der deutschen Öffentlichkeit überwiegend sachlich-neutral bis leicht positiv wahrgenommen. Die vorhandenen Quellen behandeln ihn vor allem als internationalen, historisch gut verankerten Namen mit klarer Bedeutung und Herkunft.",
+  "practical_notes": [
+    "Lewis ist in Deutschland verständlich, international anschlussfähig und gut aussprechbar.",
+    "Die Wahrnehmung dürfte stark von der englischen Schreibweise geprägt sein, ohne ungewöhnlich zu wirken.",
+    "Für die Namenssuche eignet sich Lewis als moderner Klassiker mit traditionsnaher Herkunft."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt fast ausschließlich aus Namenslexika und Beliebtheitsseiten; das ist informativ, aber nur begrenzt echte öffentliche Meinungsresonanz.",
+    "Es zeigen sich kaum wertende Aussagen, daher ist eine starke positive oder negative Einordnung nicht belastbar."
+  ],
+  "short_summary": "Lewis wirkt in Deutschland sachlich-neutral bis leicht positiv: ein internationaler, historisch verankerter Jungenname mit klarer Bedeutung und guter Bekanntheit.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Lewis � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/L/Le/Lewis/"
+    },
+    {
+      "confidence": 0.91,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Lewis: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Lewis.html"
+    }
+  ],
+  "style_effect": [
+    "international und modern",
+    "klassisch-historisch im Hintergrund",
+    "klar, kurz und gut merkbar",
+    "leicht edel durch Bedeutungsassoziationen",
+    "in Deutschland vor allem als bekannte Namensvariante eingeordnet"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Mittlere Sichtbarkeit im deutschsprachigen Namenskontext, vor allem durch Namenslexika und Beliebtheitslisten; die öffentliche Resonanz wirkt eher beschreibend als diskutierend."
+}

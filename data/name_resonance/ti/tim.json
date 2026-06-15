@@ -1,0 +1,59 @@
+{
+  "associations": [
+    "Kurzform von Timotheus bzw. Timothy",
+    "teils auch als Kurzform von Dietmar geführt",
+    "Bedeutungen wie „der Gottesfürchtige“, „der Ehrende“ oder „der im Volk Berühmte“",
+    "niederdeutsch bzw. friesisch eingeordnet",
+    "Namenstag im Januar",
+    "lange Phase hoher Beliebtheit in Deutschland"
+  ],
+  "confidence": 0.9,
+  "display_text": "Tim: In den Quellen wirkt der Name sehr bekannt, kurz und modern. Die öffentliche Resonanz ist überwiegend neutral bis leicht positiv; starke Wertungen oder Stigmatisierung zeigen die vorliegenden Namensquellen nicht.",
+  "evidence_quality": "Gut für Namensbedeutung, Herkunft und Popularität; begrenzt für echte öffentliche Resonanz, da hauptsächlich lexikalische Namensquellen vorliegen.",
+  "generated_at": "2026-06-12T06:08:03Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Tim",
+  "normalized_name": "tim",
+  "overall_resonance": "Tim wird in den vorliegenden Quellen überwiegend neutral bis leicht positiv wahrgenommen: als kurzer, moderner und in Deutschland sehr geläufiger Vorname mit klarer namenskundlicher Einordnung.",
+  "practical_notes": [
+    "Für Such- und Alltagskontexte wirkt Tim klar, knapp und leicht merkbar.",
+    "Der Name wird eher als zeitlos-modern denn als extravagant beschrieben.",
+    "Die Quellen deuten auf breite Bekanntheit und unkomplizierte Lesbarkeit hin."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt vor allem aus Namensseiten und ist daher eher indirekt für öffentliche Meinungsresonanz.",
+    "Es gibt keine belastbaren Hinweise auf Stigmatisierung in den vorliegenden Quellen.",
+    "Beliebtheitsangaben beschreiben Nutzung und Bekanntheit, nicht zwingend persönliche Wertung."
+  ],
+  "short_summary": "Tim gilt in Deutschland als sehr bekannter, kurzer und modern wirkender Vorname mit neutral bis leicht positiver öffentlicher Resonanz.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.95,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Tim � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/T/Ti/Tim/"
+    },
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Tim: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Tim.html"
+    }
+  ],
+  "style_effect": [
+    "kurz und unkompliziert",
+    "modern wirkend",
+    "sachlich-vertraut",
+    "klassisch ohne altmodisch zu wirken"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Hoch; der Name ist in Deutschland sehr bekannt und über längere Zeit populär beschrieben."
+}

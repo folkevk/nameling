@@ -1,0 +1,62 @@
+{
+  "associations": [
+    "altirisch/gälisch",
+    "irische Mythologie und Sage",
+    "Bedeutung: der Helle / der Weiße / der Blonde",
+    "männlicher Vorname",
+    "selten bis mäßig verbreitet in Deutschland",
+    "im deutschen Sprachraum oft weniger geläufig als Finn",
+    "Schreibvarianten wie Fjonn, Fijon, Fhionn werden genannt"
+  ],
+  "confidence": 0.86,
+  "display_text": "Fionn wird im öffentlichen Namensgebrauch überwiegend positiv und sachlich bewertet. Der Name wirkt kurz, hell und irisch-gälisch geprägt, mit Bedeutungen wie „der Helle“, „der Weiße“ oder „der Blonde“. In Deutschland erscheint er eher selten bis mäßig verbreitet und etwas ungewöhnlicher als Finn, aber nicht negativ konnotiert. Die Evidenz ist allerdings schmal und stützt sich vor allem auf Namenslexika.",
+  "evidence_quality": "mittel: zwei einschlägige Namenslexikon-Quellen, inhaltlich konsistent, aber insgesamt schmale Datenbasis",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Fionn",
+  "normalized_name": "fionn",
+  "overall_resonance": "Überwiegend positiv und sachlich-informativ, mit eher seltenem bis moderat vertrautem Eindruck im deutschen Sprachraum.",
+  "practical_notes": [
+    "Für Suchmaschinen-Nutzer wirkt der Name knapp, markant und gut einprägsam.",
+    "Die Herkunftsangaben deuten auf eine starke kulturelle Bindung an das Irische/Gälische hin.",
+    "Im deutschen Alltag könnte die Aussprache oder Schreibweise gelegentlich erklärt werden müssen.",
+    "Wer einen seltenen, aber nicht exotisch wirkenden Namen sucht, könnte Fionn als passende Wahl empfinden."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz basiert auf wenigen Namenslexikon-Seiten, daher ist die Einordnung nur vorsichtig belastbar.",
+    "Beliebtheitsangaben können von den jeweiligen Portalen und ihrer Datengrundlage beeinflusst sein.",
+    "Es gibt keine klare belastbare öffentliche Stigmatisierung; die Wahrnehmung ist eher neutral bis positiv beschrieben."
+  ],
+  "short_summary": "Fionn wird öffentlich meist freundlich, sachlich und mit irisch-gälischer Herkunft wahrgenommen; der Name gilt in Deutschland eher als selten, klanglich klar und eigenständig.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.94,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Fionn � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/F/Fi/Fionn/"
+    },
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Fionn: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Fionn.html"
+    }
+  ],
+  "style_effect": [
+    "klingt kurz und klar",
+    "wirkt international bzw. irisch geprägt",
+    "hat eine weiche, helle Klangwirkung",
+    "erscheint eher stilvoll und eigenständig als modisch",
+    "wird oft als klassisch-gälisch eingeordnet"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Der Name ist in Deutschland bekannt, aber nicht besonders häufig; in Namensportalen wird er eher als besondere, nicht alltägliche Wahl beschrieben."
+}

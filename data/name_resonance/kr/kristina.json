@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "Bedeutung im Umfeld von „Christin“ bzw. „Anhängerin Christi“",
+    "altgriechisch/lateinisch geprägte Namensgeschichte",
+    "weibliche Form von Christian/Christina-nahe Variante",
+    "Namenstag",
+    "im deutschen Sprachraum verbreitet",
+    "teilweise auch als modern, aber nicht modisch stark zugespitzt beschrieben"
+  ],
+  "confidence": 0.87,
+  "display_text": "Kristina wirkt im Deutschen als klassischer, vertrauter und eher positiv wahrgenommener Vorname. Die Quellen beschreiben den Namen vor allem sachlich: bekannt, weiblich, traditionsnah und mit religiös-historischer Bedeutung. Eine starke soziale Stigmatisierung ist nicht erkennbar; die öffentliche Resonanz lässt sich aber nur indirekt aus Namensseiten ableiten.",
+  "evidence_quality": "mittel bis gut; zwei einschlägige Namensquellen mit überwiegend sachlicher Beschreibung, aber begrenzter direkter Publikumsresonanz.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Kristina",
+  "normalized_name": "kristina",
+  "overall_resonance": "Kristina wird in den vorliegenden Quellen überwiegend sachlich, vertraut und eher positiv wahrgenommen. Der Name wirkt als etablierte, klassisch weibliche Namensform mit klarer religiös-historischer Bedeutung.",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt Kristina unkompliziert, bekannt und gut einordenbar.",
+    "Die Schreibweise mit K wird oft als klare Variante zu Christina wahrgenommen.",
+    "Der Name eignet sich für Menschen, die einen klassischen, aber nicht seltenen Vornamen suchen."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt fast ausschließlich aus Namensseiten; öffentliche Resonanz ist daher nur indirekt ablesbar.",
+    "Ein Teil der Bewertungen beruht auf nutzerbasierten Kommentaren und kann subjektiv sein.",
+    "Es gibt keine belastbare Grundlage für Aussagen über typische Eigenschaften von Namensträgerinnen."
+  ],
+  "short_summary": "Kristina gilt als vertrauter, klassischer und eher positiv besetzter Vorname mit klarer Herkunft und guter Bekanntheit im deutschen Sprachraum.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Kristina � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/K/Kr/Kristina/"
+    },
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "mixed",
+      "source_type": "web",
+      "title": "&#9655; Vorname Kristina: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Kristina.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "zeitlos",
+    "sprachlich klar",
+    "sachlich",
+    "vertraut",
+    "eher traditionell"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Im deutschen Sprachraum gut bekannt und verbreitet; die Sichtbarkeit ist eher stabil als trendgetrieben."
+}

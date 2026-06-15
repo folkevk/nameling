@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "weiblicher Vorname",
+    "Kurzform bzw. Variante von Marlene/Marleen",
+    "Bezug zu Maria Magdalena wird genannt",
+    "mögliche Bedeutungen wie 'die Geliebte' oder 'die Erhabene'",
+    "Namenstag am 22. Juli",
+    "Beliebtheit in Deutschland",
+    "gelegentlich Hinweise auf Aussprache oder Verwechslungen"
+  ],
+  "confidence": 0.82,
+  "display_text": "Marlen wirkt insgesamt überwiegend neutral bis leicht positiv: ein vertrauter, klassisch weiblich wahrgenommener Name, der meist als Variante von Marlene/Marleen eingeordnet wird. Die Quellen nennen Herkunft, Bedeutung und Namenstag, während kritische Hinweise eher vereinzelt und vor allem auf Aussprache oder Verwechslungen bezogen sind. Die Evidenz ist jedoch begrenzt und vor allem namenkundlich, nicht breit öffentlich repräsentativ.",
+  "evidence_quality": "mittel bis eher schwach für öffentliche Resonanz, gut für namenkundliche Einordnung",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Marlen",
+  "normalized_name": "marlen",
+  "overall_resonance": "überwiegend neutral bis leicht positiv",
+  "practical_notes": [
+    "Für die Namenssuche wirkt Marlen vertraut und gut einordenbar.",
+    "Der Name wird meist sachlich beschrieben, mit leicht positiver Färbung durch Beliebtheits- und Namensbedeutungsangaben.",
+    "Als Schreib- und Klangvariante steht Marlen nah bei Marlene/Marleen, was die Einordnung erleichtert."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt nur aus zwei vorwiegend namenkundlichen Quellen; die öffentliche Resonanz ist daher nur begrenzt belastbar.",
+    "Einige Bedeutungsangaben sind interpretativ und nicht eindeutig gesichert.",
+    "Community-Hinweise zu Aussprache und Verwechslungen sind eher anekdotisch als repräsentativ."
+  ],
+  "short_summary": "Marlen wird in den vorliegenden Quellen überwiegend sachlich und leicht positiv beschrieben, meist als weiblicher Vorname bzw. Variante von Marlene/Marleen. Hinweise auf Aussprache oder Verwechslungen kommen vor, wirken aber nur vereinzelt.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Marlen � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/M/Ma/Marlen/"
+    },
+    {
+      "confidence": 0.92,
+      "is_name_discussion": true,
+      "sentiment": "mixed",
+      "source_type": "web",
+      "title": "&#9655; Vorname Marlen: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Marlen.html"
+    }
+  ],
+  "style_effect": [
+    "sachlich-informativ",
+    "klassisch-weiblich wahrgenommen",
+    "modern, aber nicht trendig",
+    "kurz und prägnant",
+    "teils als Variante von Marlene/Marleen eingeordnet"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "mittlere Sichtbarkeit in namenkundlichen Verzeichnissen und Nutzerkommentaren"
+}

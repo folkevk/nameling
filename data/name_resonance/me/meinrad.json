@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "alter deutscher bzw. altgermanischer Vorname",
+    "Bedeutung in Richtung Kraft und Rat",
+    "klassisch und historisch bekannt",
+    "selten in Deutschland",
+    "Namenstag",
+    "heiliger Meinrad"
+  ],
+  "confidence": 0.88,
+  "display_text": "Meinrad wirkt in der öffentlichen Wahrnehmung überwiegend sachlich-neutral bis leicht positiv: ein seltener, traditioneller und historisch geprägter Vorname. Die verfügbare Evidenz stammt vor allem aus Namenslexika, daher ist echte breite Alltagsresonanz nur eingeschränkt sichtbar.",
+  "evidence_quality": "Mittel: Die Quellen sind inhaltlich passend und relativ konsistent, aber sie liefern vor allem lexikalische Informationen statt breiter öffentlicher Resonanz.",
+  "generated_at": "2026-06-14T10:47:41Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Meinrad",
+  "normalized_name": "meinrad",
+  "overall_resonance": "Überwiegend sachlich-neutral bis leicht positiv. Der Name Meinrad wird in den Quellen vor allem als traditionell, historisch verankert und selten beschrieben.",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt Meinrad eher markant und traditionsbetont als modern oder trendig.",
+    "Die Quellenlage ist solide für Herkunft und Einordnung, aber schwach für tatsächliche öffentliche Meinung.",
+    "Wenn ein seltener, historischer Name gesucht wird, passt Meinrad gut; für ein möglichst geläufiges Namenbild eher weniger."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt fast ausschließlich aus Namensdatenbanken und Lexikonseiten; echte breite Alltags- oder Community-Resonanz ist kaum sichtbar.",
+    "Die Bewertung als klassisch oder traditionsreich ist eine häufige Namensdeutung, aber keine allgemeingültige soziale Tatsache.",
+    "Aufgrund der geringen Verbreitung kann der Name je nach Umfeld als ungewöhnlich wahrgenommen werden."
+  ],
+  "short_summary": "Meinrad wird öffentlich meist als seltener, traditioneller und historisch verankerter Vorname wahrgenommen, mit insgesamt neutral bis leicht positiver Tonlage.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.89,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Meinrad � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/M/Me/Meinrad/"
+    },
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Meinrad: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Meinrad.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "traditionell",
+    "historisch",
+    "selten",
+    "altdeutsch",
+    "lexikalisch"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Niedrig bis mittel: Der Name ist im öffentlichen Sprachgebrauch eher wenig präsent und taucht vor allem in Namenslexika und Datenbanken auf."
+}

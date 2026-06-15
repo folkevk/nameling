@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "italienische Form von Leonhard",
+    "Bedeutung im Sinne von löwenstark / mutig wie ein Löwe",
+    "Kurzform bzw. Spitzname: Leo",
+    "Namenstag wird in den Quellen mehrfach genannt",
+    "in Deutschland als bekannt und beliebt beschrieben",
+    "im italienischen Sprachraum weit verbreitet"
+  ],
+  "confidence": 0.84,
+  "display_text": "Leonardo wirkt in Deutschland überwiegend positiv: klassisch, international und klangvoll. Die verfügbaren Namensquellen verbinden den Namen mit der Bedeutung „löwenstark“ und beschreiben ihn als bekannt und beliebt. Die Evidenz ist dabei eher mittelstark, da sie vor allem aus Namenslexika stammt.",
+  "evidence_quality": "mittel: mehrere einschlägige Namensseiten mit überwiegend konsistenter, positiver Darstellung; allerdings keine breitere empirische Repräsentation.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Leonardo",
+  "normalized_name": "leonardo",
+  "overall_resonance": "Überwiegend positiv und international-klingend. Leonardo wird in den vorliegenden Namensquellen vor allem als klassischer, italienisch geprägter Jungenname mit starker, freundlicher Bedeutung dargestellt.",
+  "practical_notes": [
+    "Gut geeignet für Menschen, die einen bekannten, international verständlichen Namen suchen.",
+    "Die Schreibweise ist klar und im Deutschen leicht lesbar.",
+    "Der Name wirkt eher klassisch und hochwertig als modisch-experimentell."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt vor allem aus Namenslexika; das ist nützlich, aber nur begrenzt repräsentativ für die tatsächliche öffentliche Wahrnehmung.",
+    "Beliebtheitsaussagen sollten vorsichtig gelesen werden, da sie je nach Quelle und Zeitpunkt schwanken können.",
+    "Keine Hinweise auf eine negative soziale Stigmatisierung in den vorliegenden Quellen."
+  ],
+  "short_summary": "Leonardo wird in den Quellen als klassischer, internationaler und positiv besetzter Vorname beschrieben, mit italienischem Klang und der Bedeutung von Stärke bzw. Löwenmut.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "Vorname Leonardo � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/L/Le/Leonardo/"
+    },
+    {
+      "confidence": 0.92,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Leonardo: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Leonardo.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "international",
+    "melodisch",
+    "elegant",
+    "lebendig",
+    "zeitlos"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland sichtbar und gut bekannt; die Quellen beschreiben den Namen als beliebt bzw. verbreitet, ohne dass daraus auf eine eindeutige Trendwahrheit geschlossen werden sollte."
+}

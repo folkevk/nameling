@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "Bedeutung oft mit „Gott ist gnädig“ bzw. „Jahwe ist gnädig“ verknüpft",
+    "mögliche Herkunft als Koseform von Jan oder János",
+    "teils als Variante/Anklang an Johannes eingeordnet",
+    "in manchen Quellen auch mit Alejandro/Alexander in Verbindung gebracht",
+    "wird als eher besonders und nicht alltäglich beschrieben"
+  ],
+  "confidence": 0.84,
+  "display_text": "Jano wirkt in den verfügbaren Quellen überwiegend positiv bis neutral: ein kurzer, moderner und international anmutender Vorname, der als klangvoll und eher selten beschrieben wird. Die zugeschriebene Bedeutung wird häufig mit „Gott ist gnädig“ verbunden. Die Evidenz ist jedoch nur mittelstark, da sie vor allem aus Namenslexika stammt und kaum öffentliche Debatten abbildet.",
+  "evidence_quality": "mittel: zwei einschlägige Namenslexika, aber kaum echte öffentliche Diskussion oder unabhängige Breitenwahrnehmung",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Jano",
+  "normalized_name": "jano",
+  "overall_resonance": "Überwiegend positiv bis neutral: Der Name wirkt kurz, modern, international und wird in den vorliegenden Namenslexika als klangvoll und eher selten beschrieben.",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt Jano unkompliziert, zeitgemäß und international gut aussprechbar.",
+    "Die Schreibweise ist kurz und eingängig, kann aber regional unterschiedlich ausgesprochen werden.",
+    "Wenn Wichtigkeit von Klassik/Namenshistorie relevant ist, wird Jano eher als moderne Kurzform wahrgenommen."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt überwiegend aus Namensdatenbanken, nicht aus einer breiten öffentlichen Debatte.",
+    "Es gibt keine belastbaren Hinweise auf eine kontroverse oder stigmatisierende gesellschaftliche Bewertung des Namens.",
+    "Aussagen zu Beliebtheit und Klang sind eher Eindrücke als harte Messwerte."
+  ],
+  "short_summary": "Jano wird in den Quellen meist positiv oder neutral bewertet: kurz, klangvoll, eher selten und mit einer Bedeutung rund um „Gott ist gnädig“.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Jano � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/J/Ja/Jano/"
+    },
+    {
+      "confidence": 0.84,
+      "is_name_discussion": true,
+      "sentiment": "überwiegend positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Jano: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Jano.html"
+    }
+  ],
+  "style_effect": [
+    "kurz und prägnant",
+    "modern wirkend",
+    "international lesbar",
+    "klangvoll",
+    "eher selten",
+    "sachlich-lexikalisch",
+    "jung wirkend"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland scheint Jano bekannt, aber nicht extrem häufig zu sein; die öffentliche Wahrnehmung in den Quellen ist eher nüchtern-namenkundlich als breit diskutiert."
+}

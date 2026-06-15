@@ -1,0 +1,64 @@
+{
+  "associations": [
+    "weiblicher Vorname",
+    "kurze Form",
+    "mehrsprachige Herkunftsdeutungen",
+    "Bedeutung wird oft mit Helligkeit, Schönheit oder Ziel/Absicht verbunden",
+    "Namenslexikon statt öffentlicher Debatte",
+    "eher freundlich als ausgefallen"
+  ],
+  "confidence": 0.84,
+  "display_text": "Nia wirkt in Deutschland modern, kurz und freundlich. Die vorliegenden Quellen zeigen überwiegend eine positive bis neutrale Wahrnehmung, betonen aber vor allem Bedeutung und Herkunft statt echter öffentlicher Debatte. Die Evidenz ist daher eher schwach bis mittel und sollte vorsichtig gelesen werden.",
+  "evidence_quality": "mittel bis schwach: gute lexikalische Quellen, aber wenig unabhängige öffentliche Resonanzdaten",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Nia",
+  "normalized_name": "nia",
+  "overall_resonance": "In Deutschland wirkt Nia insgesamt modern, kurz und freundlich; die öffentliche Rezeption ist überwiegend sachlich bis positiv, aber die belastbare Evidenz ist eher lexikalisch als breit gesellschaftlich.",
+  "practical_notes": [
+    "Für die Namenssuche ist Nia gut lesbar und leicht aussprechbar.",
+    "Die Wirkung ist eher modern und schlicht als traditionell.",
+    "Die Quellen betonen vor allem Bedeutung und Herkunft, weniger echte Alltagsresonanz.",
+    "Als kurzer Name hat Nia eine klare, eingängige Präsenz."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt fast ausschließlich aus Namensdatenbanken und nicht aus einer breiten öffentlichen Diskussion.",
+    "Mehrere Herkunfts- und Bedeutungsdeutungen kursieren parallel; das macht die Zuordnung uneindeutig.",
+    "Für Deutschland liegen hier keine starken unabhängigen Resonanzdaten vor.",
+    "Keine Hinweise auf soziale Stigmatisierung in den Quellen."
+  ],
+  "short_summary": "Nia wird in Deutschland vor allem als kurzer, moderner und freundlich wirkender Vorname wahrgenommen; die verfügbare Evidenz ist jedoch überwiegend namenskundlich und nicht breit gesellschaftlich.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.94,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Nia � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/N/Ni/Nia/"
+    },
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Nia: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Nia.html"
+    }
+  ],
+  "style_effect": [
+    "kurz",
+    "modern",
+    "weich klingend",
+    "einfach zu merken",
+    "international anschlussfähig",
+    "lexikalisch aufgeladen",
+    "zeitgemäß"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Der Name ist bekannt, aber nicht massenhaft verbreitet. In den vorliegenden Quellen erscheint er eher als vertrauter, moderner Vorname mit moderater Sichtbarkeit."
+}

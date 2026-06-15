@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "spanische und portugiesische Form von Peter",
+    "Bedeutung: der Fels / der Stein",
+    "Namenstag: 29. Juni und teils 9. Dezember bzw. 9. September je nach Quelle",
+    "im deutschen Raum bekannt, aber eher selten",
+    "weit verbreitet im spanischen und portugiesischen Sprachraum"
+  ],
+  "confidence": 0.89,
+  "display_text": "Pedro wird in Deutschland meist als internationaler, vor allem spanisch-portugiesischer Vorname wahrgenommen. Die Resonanz wirkt überwiegend sachlich bis leicht positiv. Der Name ist bekannt, aber eher selten und daher individuell. Die Evidenz ist vor allem lexikalisch und nur begrenzt als echte öffentliche Debatte interpretierbar.",
+  "evidence_quality": "mittel bis gut, aber überwiegend lexikalisch-informativ statt debattenbasiert",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Pedro",
+  "normalized_name": "pedro",
+  "overall_resonance": "Pedro wird im deutschen Raum eher als klar internationaler, vor allem spanisch- und portugiesischsprachiger Vorname wahrgenommen. Die öffentliche Rezeption wirkt überwiegend sachlich bis leicht positiv, mit wenig emotionaler Debatte. Der Name ist bekannt, aber in Deutschland eher selten.",
+  "practical_notes": [
+    "Für Suchmaschinen-Nutzer wirkt Pedro eindeutig und gut einordenbar.",
+    "Der Name hat eine starke internationale Lesbarkeit und ist im Deutschen verständlich.",
+    "Die Schreibweise ist einfach, die Aussprache kann regional leicht variieren.",
+    "Aufgrund der Seltenheit in Deutschland kann der Name als individuell wahrgenommen werden."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt vor allem aus Namenslexika und nicht aus breiter öffentlicher Debatte.",
+    "Daher ist die Aussage zur Resonanz nur vorsichtig interpretierbar.",
+    "Es gibt keinen klaren Hinweis auf negative soziale Stigmatisierung in der vorliegenden Evidenz."
+  ],
+  "short_summary": "Pedro ist in Deutschland ein seltener, aber bekannter internationaler Vorname mit überwiegend sachlich-positiver Wahrnehmung. Die vorhandene Evidenz ist solide, zeigt aber vor allem Namensbeschreibung statt öffentlicher Diskussion.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Pedro � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/P/Pe/Pedro/"
+    },
+    {
+      "confidence": 0.92,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Pedro: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Pedro.html"
+    }
+  ],
+  "style_effect": [
+    "international",
+    "kulturell klar verortet",
+    "klassisch-biblisch geprägt",
+    "freundlich-neutral",
+    "eher markant als häufig"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "mittel"
+}

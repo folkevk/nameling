@@ -1,0 +1,62 @@
+{
+  "associations": [
+    "Glück/Glückseligkeit",
+    "lateinische Herkunft",
+    "Koseform von Felicitas/Felizitas",
+    "Koseform von Fiona",
+    "die Fee / das Magische",
+    "Namenstag",
+    "selten und schön"
+  ],
+  "confidence": 0.89,
+  "display_text": "Fee wirkt in Deutschland überwiegend positiv: ein kurzer, seltener und klanglich weicher Name mit Assoziationen zu Glück, Magie und Koseform. Zu beachten ist die leichte Mehrdeutigkeit durch das alltägliche Wort „Fee“.",
+  "evidence_quality": "gut, aber begrenzt: zwei einschlägige Namensquellen, teilweise kommentarbasiert und mit leichter Mehrdeutigkeit im Wortgebrauch",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Fee",
+  "normalized_name": "fee",
+  "overall_resonance": "Überwiegend positiv und freundlich; der Name wird vor allem als kurz, selten und klanglich eigenständig wahrgenommen. Gleichzeitig kann die Alltagsbedeutung von „Fee“ zu einer leichten Mehrdeutigkeit führen.",
+  "practical_notes": [
+    "Für Namenssuche und Einordnung wirkt der Name klar positiv und leicht zugänglich.",
+    "Wer Eindeutigkeit im Alltag wichtig findet, sollte die mögliche Wortassoziation mitdenken.",
+    "Aufgrund der Kürze bleibt der Name sehr einprägsam, aber auch erklärungsbedürftig in manchen Kontexten."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Wortbedeutung „Fee“ als Fantasiewesen kann im Alltag als Doppeldeutigkeit mitklingen.",
+    "Ein Teil der positiven Resonanz stammt aus lexikalischen Beschreibungen und Kommentaren; sie ist daher nicht gleichmäßig belastbar.",
+    "Die Evidenz ist insgesamt gut, aber nicht umfangreich; keine breite gesellschaftliche Debatte erkennbar."
+  ],
+  "short_summary": "Fee wird in der öffentlichen Wahrnehmung meist freundlich, selten und märchenhaft-eigenständig beschrieben. Die Evidenz ist solide, aber nicht sehr breit; die Doppeldeutigkeit zum allgemeinen Wort bleibt ein kleiner Hinweis.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Fee � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/F/Fe/Fee/"
+    },
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Fee: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Fee.html"
+    }
+  ],
+  "style_effect": [
+    "kurz und prägnant",
+    "weich und verspielt",
+    "märchenhaft/magisch assoziiert",
+    "selten und markant",
+    "modern-ungewöhnlich",
+    "als Koseform lesbar"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland wirkt Fee eher ungewöhnlich und dadurch auffällig, aber gut merkbar. Die öffentliche Sicht ist vor allem namenskundlich geprägt, nicht durch breite Alltagsverwendung."
+}

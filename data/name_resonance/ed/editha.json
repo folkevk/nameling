@@ -1,0 +1,62 @@
+{
+  "associations": [
+    "altenglische bzw. latinisierte Herkunft",
+    "Bedeutung mit Bezug zu Besitz/Vermögen und Kampf",
+    "Variante zu Edith",
+    "selten bzw. wenig verbreitet",
+    "historisch vor allem in Deutschland und Österreich",
+    "Namenstag",
+    "teils als schön, einzigartig und besonders beschrieben"
+  ],
+  "confidence": 0.84,
+  "display_text": "Editha wirkt öffentlich eher selten, klassisch und historisch verankert. Die verfügbare Evidenz zeigt eine neutrale bis leicht positive Resonanz: Der Name wird vor allem namenskundlich beschrieben und teils als schön oder besonders empfunden. Die Datenbasis ist allerdings klein, daher nur vorsichtig bewerten.",
+  "evidence_quality": "mittel bis schwach: wenige Quellen, überwiegend lexikalische Beschreibungen, nur begrenzte direkte öffentliche Diskussion",
+  "generated_at": "2026-06-14T10:47:41Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Editha",
+  "normalized_name": "editha",
+  "overall_resonance": "Editha wird öffentlich eher selten und vor allem namenskundlich wahrgenommen. Die verfügbare Evidenz zeichnet ein neutrales bis leicht positives Bild: Der Name gilt als traditionell, historisch verankert und etwas besonders, ohne starke breite Popkultur-Präsenz.",
+  "practical_notes": [
+    "Für Namenssuchmaschinen lässt sich Editha als klassisch, selten und traditionell einordnen.",
+    "Die Schreibweise wirkt formell und etwas antiquiert; das kann je nach Kontext als elegant oder altmodisch gelesen werden.",
+    "Wenn eine moderne, häufige Wahrnehmung gesucht wird, ist Editha vermutlich weniger präsent als kürzere Varianten wie Edith."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist schmal und stützt sich im Wesentlichen auf wenige Namenslexikon-Seiten.",
+    "Ein Teil der positiven Wertungen stammt aus Nutzerkommentaren und ist nicht als allgemeine Mehrheitsmeinung zu verstehen.",
+    "Die Resonanz wirkt eher beschreibend als öffentlich kontrovers oder breit diskutiert."
+  ],
+  "short_summary": "Editha wird selten verwendet und vor allem als historischer, klassischer Name mit leicht positiver, besonderer Wirkung wahrgenommen.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Editha � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/E/Ed/Editha/"
+    },
+    {
+      "confidence": 0.78,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Editha: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Editha.html"
+    }
+  ],
+  "style_effect": [
+    "traditionell",
+    "historisch",
+    "selten",
+    "namenskundlich",
+    "leicht individuell",
+    "eher klassisch als modern"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Geringe bis mittlere Sichtbarkeit; der Name taucht vor allem in Vornamenslexika und vereinzelten Kommentaren auf, nicht in einer breiten öffentlichen Debatte."
+}

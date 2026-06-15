@@ -1,0 +1,59 @@
+{
+  "associations": [
+    "Bedeutung rund um „Löwe“ bzw. „kleiner Löwe“",
+    "portugiesische und spanische Form von Lionel",
+    "sprachliche Bezüge zu altgriechischen und lateinischen Wurzeln",
+    "seltenere, markante Namenswahl",
+    "Namenslexika nennen Varianten und Namenstag"
+  ],
+  "confidence": 0.77,
+  "display_text": "Leonel wird in der vorliegenden Evidenz überwiegend freundlich-neutral wahrgenommen. Der Name gilt als international klingend, eher selten und wird vor allem mit der Bedeutung „Löwe“ bzw. „kleiner Löwe“ verbunden. Öffentliche Diskussionen sind nur begrenzt sichtbar; die verfügbare Evidenz stammt hauptsächlich aus Namenslexika.",
+  "evidence_quality": "Begrenzt: zwei überwiegend lexikalische Webquellen, wenig echte öffentliche Diskussion, insgesamt eher deskriptive als meinungsstarke Evidenz.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Leonel",
+  "normalized_name": "leonel",
+  "overall_resonance": "Eher freundlich-neutrale öffentliche Wahrnehmung mit leicht positivem Einschlag; vor allem als klangvoller, international geprägter Vorname beschrieben.",
+  "practical_notes": [
+    "Für Suchmaschinen eher als Herkunfts- und Bedeutungsname präsent als über Debatten oder starke Trends.",
+    "Die Wirkung wird meist über Klang, Herkunft und Bedeutung vermittelt.",
+    "In Deutschland scheint der Name bekannt, aber nicht massenhaft verbreitet zu sein."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist schwach und besteht fast nur aus Namenslexika.",
+    "Direkte öffentliche Meinungen sind nur vereinzelt sichtbar.",
+    "Beliebtheitsangaben sind eher beschreibend als echte Resonanz im Alltag."
+  ],
+  "short_summary": "Leonel wird in der vorliegenden Evidenz überwiegend neutral bis leicht positiv beschrieben: international klingend, selten und mit der starken Löwen-Bedeutung verbunden. Die öffentliche Resonanz ist eher informativ als diskussionsgeladen.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.95,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Leonel � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/L/Le/Leonel/"
+    },
+    {
+      "confidence": 0.86,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Leonel: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Leonel.html"
+    }
+  ],
+  "style_effect": [
+    "klingt modern und weich",
+    "wirkt international und spanisch/portugiesisch geprägt",
+    "hat eine starke, symbolische Löwen-Assoziation",
+    "wird als eher selten und dadurch auffälliger wahrgenommen",
+    "überwiegend informativ statt emotional bewertet"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Mittlere Sichtbarkeit in Namenslexika und Vorname-Portalen, aber nur begrenzte direkte öffentliche Diskussion in der vorliegenden Evidenz."
+}

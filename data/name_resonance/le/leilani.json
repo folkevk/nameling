@@ -1,0 +1,64 @@
+{
+  "associations": [
+    "hawaiianisch",
+    "Blumen",
+    "Himmel",
+    "himmlische Blume",
+    "Himmelskind",
+    "weiblicher Vorname",
+    "Spitznamen wie Lei/Lani",
+    "selten bis bekannt in Deutschland"
+  ],
+  "confidence": 0.91,
+  "display_text": "Leilani wirkt in der öffentlichen Wahrnehmung überwiegend positiv: melodisch, sanft und eher selten, mit hawaiianischer Herkunft sowie starken Blumen- und Himmelsbildern. In deutschen Namensquellen erscheint der Name als freundlich und exotisch anmutend, ohne erkennbare negative Stigmatisierung.",
+  "evidence_quality": "mittel bis gut; inhaltlich klare Namensdiskussion, aber insgesamt nur wenige Quellen und keine breite Medien- oder Alltagsbeobachtung.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Leilani",
+  "normalized_name": "leilani",
+  "overall_resonance": "Überwiegend positiv und weich-klanglich; der Name wird in den Quellen vor allem mit hawaiianischer Herkunft, Natur- und Himmelsbildern sowie einer freundlichen, exotisch anmutenden Wirkung verbunden.",
+  "practical_notes": [
+    "Für eine Namenssuche eignet sich Leilani besonders, wenn ein klangvoller, international anmutender Name mit positiver Natur- und Himmelsassoziation gesucht wird.",
+    "Die Schreibweise ist klar und etabliert; kurze Spitznamen wie Lei oder Lani werden ebenfalls genannt.",
+    "In Deutschland dürfte der Name eher auffallen als ein Alltagsname, ohne dass die Quellen eine negative gesellschaftliche Bewertung erkennen lassen."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz basiert nur auf wenigen Namenslexikon- und Vornamensseiten.",
+    "Beliebtheitsaussagen sind quellenabhängig und sollten nicht als exakte Statistik gelesen werden.",
+    "Einzelne Formulierungen können redaktionell oder nutzerkommentarbasiert sein und sind daher nur begrenzt verallgemeinerbar."
+  ],
+  "short_summary": "Leilani wird öffentlich überwiegend positiv wahrgenommen: ein melodischer, eher seltener Mädchenname mit hawaiianischer Herkunft und starken Blumen- und Himmelsassoziationen.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "positive",
+      "source_type": "web",
+      "title": "Vorname Leilani � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/L/Le/Leilani/"
+    },
+    {
+      "confidence": 0.92,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Leilani: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Leilani.html"
+    }
+  ],
+  "style_effect": [
+    "exotisch",
+    "melodisch",
+    "weiblich",
+    "sanft",
+    "naturbezogen",
+    "modern-klingend",
+    "eher selten"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Im deutschsprachigen Raum wirkt Leilani eher selten, aber bekannt genug, um in Namenslexika und Vornamensseiten aufgeführt zu werden; die öffentliche Wahrnehmung scheint klar beschreibend und meist wertschätzend."
+}

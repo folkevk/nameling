@@ -1,0 +1,62 @@
+{
+  "associations": [
+    "altfranzösischer Ursprung",
+    "Bedeutung: „der König“",
+    "englischer/französischer Vorname",
+    "selten in Deutschland",
+    "in einzelnen Quellen etwas zunehmende Bekanntheit",
+    "Varianten wie LeRoy, Leroi, Leeroy",
+    "teils Popkultur-/Songbezug"
+  ],
+  "confidence": 0.86,
+  "display_text": "Leroy: eher seltener, international wirkender Vorname mit altfranzösischem Ursprung und der Bedeutung „der König“. In Deutschland wird er als bekannt, aber nicht alltäglich beschrieben; die öffentliche Resonanz wirkt überwiegend sachlich bis leicht positiv.",
+  "evidence_quality": "gut: zwei einschlägige Namensquellen, überwiegend sachlich und direkt auf den Vornamen bezogen; öffentliche Resonanz wird jedoch nur indirekt abgebildet.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Leroy",
+  "normalized_name": "leroy",
+  "overall_resonance": "Leroy wirkt in der öffentlichen Namenswahrnehmung überwiegend sachlich und leicht positiv-konnotiert. Der Name wird meist mit altfranzösischem bzw. englischem Ursprung, der Bedeutung „der König“ und einem eher markanten, internationalen Klang verbunden. In Deutschland gilt er als eher selten, wird aber teils als inzwischen etwas bekannter wahrgenommen.",
+  "practical_notes": [
+    "Für Suchmaschinen-Nutzung eignet sich die Einordnung als seltener, international klingender Vorname mit königlicher Bedeutungsassoziation.",
+    "Wer einen ungewöhnlichen, aber gut erklärbaren Namen sucht, findet bei Leroy eine klare Herkunfts- und Bedeutungsseite.",
+    "Die Aussprache und Schreibweise sind meist unkompliziert, Varianten können jedoch je nach Kontext vorkommen."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist insgesamt solide, aber sie stammt vor allem aus Namensportalen; das bildet eher die beschriebene Namenswahrnehmung als eine breite öffentliche Meinung ab.",
+    "Einzelne positive oder stilistische Eindrücke sollten nicht als allgemeingültig verstanden werden.",
+    "Keine Hinweise auf starke soziale Stigmatisierung in der vorliegenden Evidenz."
+  ],
+  "short_summary": "Leroy wird in Deutschland eher selten, aber klar verständlich wahrgenommen: international klingend, mit der Bedeutung „der König“ und insgesamt leicht positiv-sachlicher Resonanz.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Leroy � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/L/Le/Leroy/"
+    },
+    {
+      "confidence": 0.94,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Leroy: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Leroy.html"
+    }
+  ],
+  "style_effect": [
+    "markant",
+    "international",
+    "namenskundlich aufgeladen",
+    "modern-ungewöhnlich",
+    "kurz und einprägsam",
+    "leicht kraftvoll im Klang"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland eher geringe bis mittlere Sichtbarkeit: bekannt, aber nicht alltäglich. Die Quellen deuten auf eine vor allem namenskundliche und belesene Wahrnehmung hin, weniger auf eine breite Alltagspräsenz."
+}

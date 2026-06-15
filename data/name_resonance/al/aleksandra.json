@@ -1,0 +1,62 @@
+{
+  "associations": [
+    "slawische Form von Alexandra",
+    "griechische Herkunft",
+    "Bedeutung: Beschützerin / Verteidigerin",
+    "weiblicher Vorname",
+    "Namenstag",
+    "bekannt in slawischsprachigen Ländern",
+    "mehrere gebräuchliche Kurzformen wie Aleks oder Sasha"
+  ],
+  "confidence": 0.74,
+  "display_text": "Aleksandra wirkt in Deutschland überwiegend klassisch, international und wertschätzend. Der Name wird vor allem als slawische Form von Alexandra mit der Bedeutung „Beschützerin“ oder „Verteidigerin“ beschrieben. Die Sichtbarkeit scheint eher moderat zu sein: bekannt, aber nicht übermäßig häufig. Die vorliegende Evidenz ist jedoch begrenzt und stammt hauptsächlich aus Namensseiten, sodass die öffentliche Resonanz nur vorsichtig beschrieben werden kann.",
+  "evidence_quality": "mittel bis eher schwach: zwei webbasierte Namensquellen, inhaltlich passend, aber nur indirekte Hinweise auf öffentliche Resonanz.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Aleksandra",
+  "normalized_name": "aleksandra",
+  "overall_resonance": "Aleksandra wirkt im deutschen Kontext überwiegend klar, klassisch und eher wertschätzend. Die öffentliche Wahrnehmung in den vorliegenden Quellen ist vor allem namenskundlich: Der Name wird als slawische bzw. griechisch geprägte Form von Alexandra beschrieben und mit Bedeutungen wie „Beschützerin“ oder „Verteidigerin“ verbunden.",
+  "practical_notes": [
+    "Für eine Namenssuche eignet sich Aleksandra als international verständliche, aber dennoch etwas eigenständigere Variante von Alexandra.",
+    "Die Schreibweise mit ‚k‘ kann als slawisch geprägt wahrgenommen werden.",
+    "Kurzformen und Varianten sind verbreitet, was den Namen im Alltag flexibel macht."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist begrenzt und stützt sich nur auf wenige Namensseiten; daraus lässt sich keine belastbare allgemeine Mehrheitsmeinung ableiten.",
+    "Beliebtheitshinweise sind indirekt und sollten nicht mit einer gesicherten öffentlichen Stimmung verwechselt werden.",
+    "Es gibt keine klare soziale Stigmatisierung in den Quellen; auffällige Wertungen sind hier nicht erkennbar."
+  ],
+  "short_summary": "Aleksandra wird im Deutschen meist als klassisch, international und positiv-konnotiert wahrgenommen, mit slawisch-griechischer Herkunft und der Bedeutung „Beschützerin/Verteidigerin“.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.91,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Aleksandra � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/A/Al/Aleksandra/"
+    },
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "positive",
+      "source_type": "web",
+      "title": "&#9655; Vorname Aleksandra: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Aleksandra.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "international",
+    "elegant",
+    "kulturell markiert",
+    "klar und wohlklingend",
+    "eher formell als verspielt"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Der Name ist bekannt, aber eher nicht extrem häufig. In den Quellen wird er als in Deutschland vorkommend beschrieben, zugleich besonders vertraut in slawischsprachigen Ländern."
+}

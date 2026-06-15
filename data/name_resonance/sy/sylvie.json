@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "französische Form von Silvia/Sylvia",
+    "lateinischer Ursprung",
+    "Bedeutung in Richtung 'Wald' / 'aus dem Wald stammend'",
+    "weiblicher Vorname",
+    "im deutschsprachigen Raum geläufig",
+    "eher moderate Verbreitung in Deutschland",
+    "teils als besonders oder individuell wahrgenommen"
+  ],
+  "confidence": 0.86,
+  "display_text": "Sylvie wirkt überwiegend positiv: ein weicher, elegant-französischer Vorname, der im deutschsprachigen Raum bekannt, aber eher nicht sehr häufig ist. Die vorliegenden Quellen sprechen für eine freundliche, leicht besondere Wirkung; belastbare Aussagen zur breiten öffentlichen Meinung sind jedoch nur begrenzt möglich.",
+  "evidence_quality": "gut bis mittel; die Angaben zu Herkunft, Bedeutung und Verbreitung sind direkt namebezogen, die Resonanz selbst ist aber nur indirekt aus Lexikon- und Kommentarseiten ableitbar.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Sylvie",
+  "normalized_name": "sylvie",
+  "overall_resonance": "Überwiegend positiv und eher leicht elegant-französisch geprägt; im deutschsprachigen Raum wirkt der Name eher bekannt als sehr häufig.",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt Sylvie freundlich, klar und unaufgeregt elegant.",
+    "Wer einen vertrauten, aber nicht sehr häufigen Namen sucht, könnte ihn passend finden.",
+    "Die französische Anmutung kann je nach Umfeld als Stilmerkmal wahrgenommen werden."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Quellen sind vor allem Namenslexika; das ist für Herkunft und Bedeutung brauchbar, aber keine breite Umfrage zur öffentlichen Meinung.",
+    "Einige Angaben beruhen auf Community-Kommentaren und sind daher eher anekdotisch als allgemein belastbar."
+  ],
+  "short_summary": "Sylvie wird überwiegend freundlich und elegant wahrgenommen, mit französischer Note und eher moderater Verbreitung in Deutschland.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Sylvie � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/S/Sy/Sylvie/"
+    },
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Sylvie: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Sylvie.html"
+    }
+  ],
+  "style_effect": [
+    "französisch klingend",
+    "elegant",
+    "weich und feminin",
+    "leicht klassisch",
+    "eher selten wirkend als massenhaft verbreitet"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Der Name ist in Deutschland vorhanden, aber laut den vorliegenden Quellen eher moderat verbreitet und dadurch nicht allzu alltäglich."
+}

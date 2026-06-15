@@ -1,0 +1,59 @@
+{
+  "associations": [
+    "Bedeutung im christlichen Kontext („die Christin“, „Anhängerin Christi“ / „die christliche Frau“)",
+    "lateinische und altgriechische Herkunft",
+    "weibliche Form von Christian",
+    "historisch populär in Deutschland",
+    "Namensstag(e) in mehreren Kalendertraditionen",
+    "gängige Kurzformen wie Tine, Chrissi, Chris, Tina"
+  ],
+  "confidence": 0.88,
+  "display_text": "Christine gilt öffentlich als klassischer, traditioneller Vorname mit klarer christlich-lateinischer Namensbedeutung. In Deutschland war er besonders in den 1960er bis 1980er Jahren sehr beliebt und wirkt heute eher vertraut und zeitlos als modern. Die Quellenlage ist solide für Bedeutung und Herkunft, für heutige gesellschaftliche Resonanz aber eher begrenzt.",
+  "evidence_quality": "gut für Bedeutung, Herkunft und historische Beliebtheit; mittel für öffentliche Resonanz im heutigen Alltagsgebrauch, da die Quellen überwiegend lexikalisch sind.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Christine",
+  "normalized_name": "christine",
+  "overall_resonance": "Christine wird in den vorliegenden Quellen überwiegend als klassischer, historisch gut verankerter Vorname mit neutral bis leicht positiver öffentlicher Resonanz dargestellt.",
+  "practical_notes": [
+    "Für Namenssuche und Einordnung eignet sich Christine als gut verständlicher, klassischer Vorname mit starker Tradition.",
+    "Der Name wirkt eher seriös und vertraut als modisch oder experimentell.",
+    "Die verfügbare Evidenz spricht eher für Bekanntheit und historische Beliebtheit als für aktuelle Hype-Dynamik."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz zur öffentlichen Resonanz ist insgesamt eher lexikalisch als gesellschaftsanalytisch; Aussagen über breite heutige Wahrnehmung sind daher vorsichtig zu lesen.",
+    "Einzelne Kommentarhinweise auf Namensseiten können persönliche Meinungen enthalten und sind nur schwach belastbar."
+  ],
+  "short_summary": "Christine ist ein klassischer, in Deutschland lang etablierter Vorname mit neutral bis leicht positiver Resonanz. Die Quellen betonen Herkunft, Bedeutung und frühere Beliebtheit; aktuelle gesellschaftliche Wahrnehmung wird nur indirekt sichtbar.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Christine � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/C/Ch/Christine/"
+    },
+    {
+      "confidence": 0.91,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Christine: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Christine.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "zeitlos",
+    "traditionell",
+    "namenskundlich klar einordbar",
+    "leicht altbekannt"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Der Name ist in Deutschland klar bekannt und war besonders in den 1960er bis 1980er Jahren sehr populär; heute wirkt er eher traditionell als trendig."
+}

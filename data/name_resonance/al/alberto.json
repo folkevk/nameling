@@ -1,0 +1,57 @@
+{
+  "associations": [
+    "italienische, spanische und portugiesische Namensform von Albert",
+    "Bedeutungsnähe zu „edel“, „vornehm“, „strahlend“",
+    "Namenstag am 15. November",
+    "Kurzformen wie Albi, Berto oder Beto"
+  ],
+  "confidence": 0.74,
+  "display_text": "Alberto wirkt in den vorliegenden Quellen eher positiv bis neutral: klassisch, international und mit der Bedeutung „edel/vornehm/strahlend“. Im deutschsprachigen Raum wird der Name eher als selten bis moderat präsent beschrieben. Die Evidenz ist dabei begrenzt, da sie überwiegend aus Namenslexika stammt und nur indirekte Hinweise auf die öffentliche Wahrnehmung liefert.",
+  "evidence_quality": "mittel bis schwach: überwiegend namenskundliche Datenbankquellen, nur indirekte Hinweise auf öffentliche Wahrnehmung",
+  "generated_at": "2026-06-14T10:47:41Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Alberto",
+  "normalized_name": "alberto",
+  "overall_resonance": "eher positiv bis neutral",
+  "practical_notes": [
+    "Als Vorname in Deutschland eher nicht alltäglich, aber gut einordenbar.",
+    "Wirkt international verständlich und zugleich traditionsnah.",
+    "Für eine Suchmaschine sollte die Seltenheit im deutschen Raum vorsichtig formuliert werden."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist schwach für eine echte öffentliche Breitenresonanz in Deutschland, da hauptsächlich Namenslexika vorliegen.",
+    "Einzelne Kommentare deuten auf gemischte Klangbewertungen hin; das ist eher subjektiv als repräsentativ.",
+    "Keine belastbaren Hinweise auf soziale Stigmatisierung in den vorliegenden Quellen."
+  ],
+  "short_summary": "Alberto wird in den Quellen meist neutral bis positiv beschrieben: klassisch, international und mit der Bedeutung „edel/vornehm/strahlend“. Für Deutschland wird der Name eher als selten bis moderat präsent dargestellt; die öffentliche Resonanz lässt sich wegen der vorliegenden Lexikonquellen nur vorsichtig beurteilen.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.94,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Alberto � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/A/Al/Alberto/"
+    },
+    {
+      "confidence": 0.92,
+      "is_name_discussion": true,
+      "sentiment": "mixed",
+      "source_type": "web",
+      "title": "&#9655; Vorname Alberto: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Alberto.html"
+    }
+  ],
+  "style_effect": [
+    "klingt klassisch und international",
+    "wirkt durch die Endung -o etwas südländisch",
+    "assoziiert mit traditionellen Namensformen",
+    "im Alltag eher selten als modisch wahrgenommen"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "im deutschsprachigen Raum eher selten, aber bekannt"
+}

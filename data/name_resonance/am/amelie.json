@@ -1,0 +1,63 @@
+{
+  "associations": [
+    "Bedeutungen wie „die Tüchtige“, „die Fleißige“ oder „die Tapfere“",
+    "französische Schreibweise bzw. Formnähe zu Amélie",
+    "germanischer/gotischer bzw. altnordischer Herkunftsbezug",
+    "beliebt in Deutschland",
+    "moderner Mädchenname",
+    "Namenstag",
+    "teilweise als schön klingend beschrieben",
+    "vereinzelt Hinweis auf mögliche Schreibfehler"
+  ],
+  "confidence": 0.86,
+  "display_text": "Amelie hat in Deutschland überwiegend eine positive, moderne und freundliche Resonanz. Der Name wird häufig mit schöner Klangwirkung, Beliebtheit und Bedeutungen wie „die Fleißige“ oder „die Tüchtige“ verbunden. Die Evidenz ist ordentlich, stammt aber größtenteils aus Namenslexika und ist daher eher beschreibend als gesellschaftlich breit gemessen.",
+  "evidence_quality": "mittel bis gut; inhaltlich stimmige, aber überwiegend sekundäre Namenslexikon-Evidenz mit nur begrenzter Alltags- oder Medienresonanz.",
+  "generated_at": "2026-06-12T06:08:03Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Amelie",
+  "normalized_name": "amelie",
+  "overall_resonance": "Amelie wird in der deutschsprachigen Namensrezeption überwiegend positiv bis wertschätzend wahrgenommen. Der Name gilt als modern, klangschön und vertraut, mit klaren Bezügen zu Bedeutung, Herkunft und Beliebtheit. Die vorhandene Evidenz ist recht stark, besteht aber vor allem aus Namenslexika und informativen Beschreibungen, also nur eingeschränkt aus echter Alltagsresonanz.",
+  "practical_notes": [
+    "Für die öffentliche Wahrnehmung wirkt Amelie meist freundlich, positiv und unkompliziert.",
+    "Der Name ist bekannt genug, um ohne Erklärung verstanden zu werden, und gleichzeitig nicht austauschbar.",
+    "Die Schreibweise kann gelegentlich zu Verwechslungen mit ähnlichen Formen wie Amélie oder Amalia führen."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Datenlage ist vor allem lexikalisch und nicht breit sozial repräsentativ.",
+    "Einzelne Quellen erwähnen eine mögliche Verwechslung oder falsche Schreibweise; das ist eher ein praktischer Hinweis als ein negatives Urteil.",
+    "Eine medizinische Nebenbedeutung kann als seltene Mehrdeutigkeit vorkommen, prägt aber die Namenswahrnehmung nicht wesentlich."
+  ],
+  "short_summary": "Amelie wird in Deutschland meist positiv, modern und klangschön wahrgenommen; die Evidenz ist solide, aber vor allem lexikalisch geprägt.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "positive",
+      "source_type": "web",
+      "title": "Vorname Amelie � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/A/Am/Amelie/"
+    },
+    {
+      "confidence": 0.87,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Amelie: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Amelie.html"
+    }
+  ],
+  "style_effect": [
+    "modern",
+    "weiblich",
+    "weich und freundlich klingend",
+    "klassisch-moderne Mischung",
+    "namenskundlich aufgeladen",
+    "leicht populär, aber nicht beliebig"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland ist Amelie gut sichtbar und bekannt; der Name wirkt etabliert und zugleich zeitgemäß."
+}

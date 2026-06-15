@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "hebräischer Ursprung",
+    "„Gott hat erhört“",
+    "biblische Tradition",
+    "Namenstag",
+    "in Deutschland bekannt und etabliert",
+    "mögliches Kurzform-Potenzial wie Sam oder Samu"
+  ],
+  "confidence": 0.87,
+  "display_text": "Samuel wirkt in der öffentlichen Wahrnehmung überwiegend positiv: klassisch, biblisch und zeitlos. Die Evidenz ist jedoch vor allem aus Namensportalen abgeleitet, daher ist die Resonanz eher vorsichtig als breit öffentlich belegt.",
+  "evidence_quality": "mittel: mehrere namenkundliche Quellen, aber wenig direkte öffentliche Meinungsäußerung",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Samuel",
+  "normalized_name": "samuel",
+  "overall_resonance": "Samuel wird in der verfügbaren Evidenz überwiegend positiv und traditionsbewusst wahrgenommen: klassisch, biblisch und klar verständlich. Die öffentliche Resonanz wirkt eher stabil als modisch; belastbare Hinweise auf breite Alltagsdiskussionen sind jedoch begrenzt.",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt Samuel vertraut, gut aussprechbar und kulturübergreifend anschlussfähig.",
+    "Der Name vermittelt eher Beständigkeit als Trendigkeit.",
+    "Durch die biblische Verankerung ist Samuel in vielen Kontexten leicht einzuordnen."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt vor allem aus Namenslexika und -portalen, nicht aus breiten Nutzerdiskussionen.",
+    "Positive Eindrücke sind vorhanden, sollten aber nicht als allgemeingültige öffentliche Meinung überinterpretiert werden."
+  ],
+  "short_summary": "Samuel wird überwiegend positiv, klassisch und biblisch wahrgenommen; die Evidenz ist eher namenkundlich als meinungsbasiert.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.91,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Samuel � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/S/Sa/Samuel/"
+    },
+    {
+      "confidence": 0.95,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Samuel: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Samuel.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "biblisch",
+    "seriös",
+    "warm",
+    "zeitlos",
+    "kurz und international anschlussfähig"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "hoch"
+}

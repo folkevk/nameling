@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "Schmetterlinge und Leichtigkeit",
+    "Bedeutungen wie „die Erscheinende“ oder „Königin der Schmetterlinge“",
+    "griechische bzw. literarische Herkunftshypothesen",
+    "Beliebtheit in Deutschland",
+    "Spitznamen wie Vani, Nessi oder Vany"
+  ],
+  "confidence": 0.9,
+  "display_text": "Vanessa wirkt in der öffentlichen Wahrnehmung überwiegend positiv, modern und klangvoll. Der Name wird häufig mit Schmetterlings- und Leichtigkeitsassoziationen verbunden; die genaue Herkunft bleibt dabei unsicher. Die Evidenz stammt vor allem aus Namenslexika, daher ist die Einschätzung vorsichtig zu lesen.",
+  "evidence_quality": "Gut für namenskundliche Einordnung, aber begrenzt für breite öffentliche Resonanz; die Quellen sind überwiegend lexikalisch und SEO-nah.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Vanessa",
+  "normalized_name": "vanessa",
+  "overall_resonance": "Überwiegend positiv und sachlich-informativ, mit einer eher freundlichen, modernen Ausstrahlung. Die öffentliche Wahrnehmung des Namens wird vor allem über Bedeutung, Herkunft und Beliebtheit beschrieben; eine eindeutige Herkunft ist jedoch nicht gesichert.",
+  "practical_notes": [
+    "Für die Namenssuche wirkt Vanessa vertraut, klangvoll und leicht zugänglich.",
+    "Der Name ist gut verständlich und im deutschsprachigen Raum etabliert.",
+    "Falls eine streng historisch gesicherte Namensdeutung wichtig ist, sollte die etymologische Unsicherheit mitgedacht werden."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Herkunft des Namens ist nicht eindeutig geklärt; mehrere Hypothesen werden nebeneinander genannt.",
+    "Die Evidenz basiert vor allem auf Namenslexika und ist daher eher beschreibend als eine direkte Messung öffentlicher Meinung.",
+    "Positive Bedeutungsassoziationen sind in den Quellen stark vertreten, sollten aber nicht als allgemeingültige Wirkung auf alle Trägerinnen des Namens verstanden werden."
+  ],
+  "short_summary": "Vanessa wird im Deutschen meist freundlich, modern und klangvoll wahrgenommen. Die Namensquellen betonen vor allem positive Bedeutungen und Schmetterlingsassoziationen, auch wenn die genaue Herkunft nicht eindeutig belegt ist.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Vanessa � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/V/Va/Vanessa/"
+    },
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Vanessa: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Vanessa.html"
+    }
+  ],
+  "style_effect": [
+    "modern",
+    "weiblich",
+    "melodisch",
+    "international anschlussfähig",
+    "namenskundlich aufgeladen",
+    "leicht verspielt durch Schmetterlingsassoziationen"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Mittel bis hoch: Der Name ist im deutschsprachigen Raum bekannt und in Namenslexika sowie Übersichtsseiten gut präsent. Die vorliegende Evidenz stammt allerdings überwiegend aus namenskundlichen Quellen, nicht aus breiter öffentlicher Diskussion."
+}

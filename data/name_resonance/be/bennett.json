@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "englische Kurzform von Benedikt/Benedict",
+    "Bedeutung: „der Gesegnete“",
+    "lateinischer Ursprung",
+    "in Deutschland seit der Jahrtausendwende gebräuchlicher",
+    "eher selten, aber bekannt",
+    "von Nutzern teils als besonderer oder schöner Name beschrieben"
+  ],
+  "confidence": 0.9,
+  "display_text": "Bennett wirkt in Deutschland überwiegend modern, international und positiv besetzt. Der Name wird meist sachlich bis wohlwollend wahrgenommen, ist aber eher selten. Die Evidenz stammt vor allem aus Namenslexika und wenigen Nutzerkommentaren, daher ist die breite öffentliche Rezeption nur begrenzt belegbar.",
+  "evidence_quality": "mittel bis gut: mehrere namenskundliche Quellen, aber wenig breitere öffentliche Diskussion oder unabhängige Alltagsbelege.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Bennett",
+  "normalized_name": "bennett",
+  "overall_resonance": "Überwiegend positiv bis sachlich-neutral; der Name wird meist als modern, international und wohlklingend wahrgenommen.",
+  "practical_notes": [
+    "Für eine deutschsprachige Umgebung wirkt Bennett eher modern und international.",
+    "Die Schreibweise ist klar, kann aber im Alltag gelegentlich als englisch wahrgenommen werden.",
+    "Als eher seltener Name hat er Wiedererkennungswert, ohne stark ungewöhnlich zu sein."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz basiert vor allem auf Namenslexika und einzelnen Kommentaren; eine breite öffentliche Rezeption ist nur begrenzt belegbar.",
+    "Positive Bewertungen sind teils subjektiv und nicht als allgemeingültig zu verstehen."
+  ],
+  "short_summary": "Bennett wird in Deutschland meist als moderner, internationaler und eher positiver Vorname beschrieben, allerdings noch mit begrenzter öffentlicher Sichtbarkeit.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Bennett � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/B/Be/Bennett/"
+    },
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Bennett: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Bennett.html"
+    }
+  ],
+  "style_effect": [
+    "modern",
+    "international",
+    "sachlich",
+    "eher markant",
+    "kurze, klare Form",
+    "leicht elegant"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland bekannt, aber eher selten; in Namensportalen und Lexika sichtbar, ohne starke breite öffentliche Debatte."
+}

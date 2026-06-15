@@ -1,0 +1,59 @@
+{
+  "associations": [
+    "altnordische/altschwedische Herkunft",
+    "Bedeutung im Sinne von \"Speerkämpfer\" bzw. \"Kämpfer von der Insel\"",
+    "skandinavischer Bezug",
+    "deutscher Namensgebrauch",
+    "Namenstag",
+    "eher seltene heutige Vergabe"
+  ],
+  "confidence": 0.91,
+  "display_text": "Holger: ein klassischer, altnordisch geprägter Jungenname mit klarer Bedeutung und sachlich-neutraler bis leicht positiver Resonanz. Die Quellen ordnen ihn als bekannt, aber heute eher selten vergeben ein.",
+  "evidence_quality": "hoch für Namensbedeutung, Herkunft und lexikalische Einordnung; begrenzt für gesellschaftliche Resonanz außerhalb von Namensportalen",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Holger",
+  "normalized_name": "holger",
+  "overall_resonance": "Überwiegend sachlich-neutral bis leicht positiv; der Name wirkt im öffentlichen Namenskontext bekannt, aber eher klassisch und heute weniger häufig vergeben.",
+  "practical_notes": [
+    "Für Suchmaschinen-Text gut geeignet als klassischer, nordisch geprägter Jungenname.",
+    "Die Quellen deuten eher auf Bekanntheit als auf starke Trendigkeit hin.",
+    "Wer eine moderne, sehr häufige Wirkung sucht, könnte den Namen als eher zurückhaltend wahrnehmen."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die vorliegende Evidenz stammt vor allem aus Namenslexika und ist daher stark für Herkunft und Bedeutung, aber nur begrenzt für breitere öffentliche Wahrnehmung außerhalb von Namensseiten.",
+    "Keine Hinweise auf eine klare negative Stigmatisierung in den Quellen."
+  ],
+  "short_summary": "Holger wird in den Quellen als klassischer, altnordisch geprägter Jungenname mit klarer Bedeutung und neutraler, leicht positiver Resonanz beschrieben; aktuell eher selten vergeben.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.94,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Holger � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/H/Ho/Holger/"
+    },
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Holger: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Holger.html"
+    }
+  ],
+  "style_effect": [
+    "lexikalisch",
+    "klassisch",
+    "nordisch geprägt",
+    "informativ",
+    "zeitlos-älter wirkend"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Im deutschen Sprachraum gut einordbar und historisch präsent, aktuell laut den Quellen eher selten in der Vergabe."
+}

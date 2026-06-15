@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "Kurzform von Theresa/Therese",
+    "altgriechischer Ursprung",
+    "oberdeutsch und österreichisch geprägt",
+    "selten in Deutschland",
+    "Namenstag wird genannt",
+    "mögliche regionale Aussprachehinweise"
+  ],
+  "confidence": 0.83,
+  "display_text": "Theres wird meist neutral bis leicht positiv eingeordnet: ein seltener, kurz und traditionell wirkender Vorname mit regionalem Bezug (oberdeutsch/österreichisch). Die öffentliche Sicht ist eher sachlich als emotional, die Evidenz dazu ist jedoch nur begrenzt stark.",
+  "evidence_quality": "mittel bis schwach: zwei einschlägige Namenslexikon-Seiten, teils mit gemischten redaktionellen und kommentarbasierten Angaben",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Theres",
+  "normalized_name": "theres",
+  "overall_resonance": "Überwiegend neutral bis leicht positiv. Theres wirkt wie ein seltener, traditionell klingender Name mit klarer namenkundlicher Einordnung, aber ohne breite öffentliche Sichtbarkeit in Deutschland.",
+  "practical_notes": [
+    "Für eine Namenssuche ist Theres vor allem als kurze, traditionelle Variante mit regionalem Klang interessant.",
+    "Wer einen bekannten und häufigen Namen sucht, findet hier eher eine seltene Option.",
+    "Die öffentliche Wahrnehmung wirkt sachlich und unaufgeregt, nicht auffällig negativ oder stark trendig."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist nur schwach bis mittelstark, da im Wesentlichen zwei Namenslexikon-Quellen vorliegen.",
+    "Ein Teil der etymologischen Deutungen ist nicht ganz einheitlich; Kommentare und redaktionelle Angaben sollten vorsichtig gelesen werden.",
+    "Aus der Seltenheit des Namens lässt sich keine soziale Wertung ableiten."
+  ],
+  "short_summary": "Theres wird öffentlich eher neutral bis leicht positiv wahrgenommen: ein seltener, traditionell-regionaler Vorname mit kurzer Form und namenkundlichem Hintergrund.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.86,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Theres � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/T/Th/Theres/"
+    },
+    {
+      "confidence": 0.9,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Theres: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Theres.html"
+    }
+  ],
+  "style_effect": [
+    "kurz und schlicht",
+    "traditionell",
+    "regional verankert",
+    "selten",
+    "namenkundlich klar",
+    "leicht altmodisch, aber nicht negativ besetzt"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Eher gering: Die Quellen beschreiben den Namen als selten bzw. ungewöhnlich in Deutschland, mit regionalen Bezügen vor allem zu oberdeutschem bzw. österreichischem Sprachraum."
+}

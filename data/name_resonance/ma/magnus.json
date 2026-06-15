@@ -1,0 +1,62 @@
+{
+  "associations": [
+    "„der Große“ / „der Bedeutende“",
+    "lateinischer Ursprung",
+    "römisch-historische Anmutung",
+    "kirchlich-historische Bezüge, z. B. Magnus von Füssen",
+    "skandinavische Verbreitung",
+    "in Deutschland als beliebter bzw. bekannter Vorname beschrieben",
+    "Namenstage und Namenslexika prägen die öffentliche Wahrnehmung"
+  ],
+  "confidence": 0.88,
+  "display_text": "Magnus wirkt im Deutschen überwiegend klassisch, würdevoll und positiv. Der Name ist gut bekannt, aber eher zeitlos als trendy; seine Resonanz speist sich vor allem aus der Bedeutung „der Große“ und den historischen Bezügen.",
+  "evidence_quality": "Gut für Bedeutungs-, Herkunfts- und Stilassoziationen; nur eingeschränkt stark für echte öffentliche Resonanz, da die Quellen überwiegend Namenslexika sind.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Magnus",
+  "normalized_name": "magnus",
+  "overall_resonance": "Überwiegend positiv und klassisch-gehoben, mit klarer historischer und sprachlicher Prägung.",
+  "practical_notes": [
+    "Für Suchmaschinen- und Lexikon-Kontexte wirkt der Name sehr anschlussfähig und klar einordenbar.",
+    "Die Bedeutung des Namens ist ein zentraler Resonanzfaktor.",
+    "Kurzformen wie Maggi, Mags oder Magni können den Eindruck etwas lockern.",
+    "Für eine öffentliche Namenskarte ist die Tonalität insgesamt freundlich bis respektvoll."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist vor allem lexikalisch; die öffentliche Resonanz ist daher nur begrenzt direkt messbar.",
+    "Einzelne Kommentare und Einträge sind nicht repräsentativ für die Gesamtwahrnehmung.",
+    "Es gibt keine Hinweise auf eine soziale Stigmatisierung des Namens in der vorliegenden Evidenz."
+  ],
+  "short_summary": "Magnus wird im deutschsprachigen Raum meist als klassischer, würdevoller und positiv besetzter Name wahrgenommen. Die öffentliche Rezeption ist vor allem durch die Bedeutung „der Große“ sowie durch historische und lateinisch-skandinavische Bezüge geprägt.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Magnus � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/M/Ma/Magnus/"
+    },
+    {
+      "confidence": 0.91,
+      "is_name_discussion": true,
+      "sentiment": "eher positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Magnus: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Magnus.html"
+    }
+  ],
+  "style_effect": [
+    "klingt würdevoll und stark",
+    "wirkt traditionsbewusst und gebildet",
+    "hat einen historischen, teils lateinisch-römischen Klang",
+    "erscheint eher zeitlos als jugendlich-verspielt",
+    "kann durch Kurzformen leicht moderner wirken"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland bekannt und gut wiedererkennbar, aber eher kein modischer Trendname. Die Wahrnehmung wirkt vor allem durch Bedeutung und Tradition getragen."
+}

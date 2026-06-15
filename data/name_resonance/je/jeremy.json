@@ -1,0 +1,63 @@
+{
+  "associations": [
+    "englische Namensform",
+    "französische Form",
+    "althebräische Herkunft",
+    "Bedeutung: „Gott erhöht“ / „Jahwe erhöht“",
+    "Namenstag",
+    "Jungenname",
+    "Beliebtheit in Deutschland",
+    "informative Namenslexika"
+  ],
+  "confidence": 0.88,
+  "display_text": "Jeremy: überwiegend sachlich bis leicht positiv wahrgenommen. Der Name wirkt international, modern und ist namenkundlich gut verankert. Sichtbare öffentliche Diskussionen sind jedoch eher knapp; die Evidenz stammt vor allem aus Namenslexika und Beliebtheitsseiten.",
+  "evidence_quality": "Gut für Namensbedeutung und lexikalische Einordnung, mittel für öffentliche Resonanz; kaum echte Community-Diskussion sichtbar.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Jeremy",
+  "normalized_name": "jeremy",
+  "overall_resonance": "Überwiegend sachlich bis leicht positiv. Jeremy wird im deutschsprachigen Umfeld vor allem als internationaler, moderner Jungenname wahrgenommen, mit klarer Herkunfts- und Bedeutungszuordnung. Öffentliche Bewertungen sind eher informativ als kontrovers.",
+  "practical_notes": [
+    "Für Suchmaschinen eignet sich Jeremy als international verständlicher Vorname mit religiös-biblischer Bedeutungsbasis.",
+    "Die Wahrnehmung wirkt eher neutral bis freundlich.",
+    "Im deutschen Kontext ist der Name bekannt, aber nicht stark traditionell-deutsch geprägt."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt vor allem aus Namensseiten, nicht aus breiter öffentlicher Diskussion.",
+    "Eine klare gesellschaftliche Stigmatisierung ist in den Daten nicht erkennbar.",
+    "Positive Wertungen sind vorhanden, aber nicht als allgemeiner Konsens belegbar."
+  ],
+  "short_summary": "Jeremy wird im Deutschen meist als moderner, internationaler Jungenname mit neutral bis leicht positiver Wirkung gesehen. Die Quellen betonen vor allem Herkunft, Bedeutung und Beliebtheit, nicht kontroverse öffentliche Bewertungen.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Jeremy � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/J/Je/Jeremy/"
+    },
+    {
+      "confidence": 0.94,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Jeremy: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Jeremy.html"
+    }
+  ],
+  "style_effect": [
+    "international",
+    "modern",
+    "lexikalisch gut verankert",
+    "eher weich klingend",
+    "zeitgemäß",
+    "bekannt, aber nicht überdominant"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Mittel: Der Name ist in Namenslexika und Beliebtheitslisten präsent, aber die sichtbare öffentliche Diskussion ist begrenzt."
+}

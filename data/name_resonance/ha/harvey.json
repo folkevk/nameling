@@ -1,0 +1,59 @@
+{
+  "associations": [
+    "keltische bzw. bretonische Herkunft",
+    "englischer männlicher Vorname",
+    "Bedeutung im Sinne von 'des Kampfes würdig'",
+    "wohlklingend",
+    "sympathisch",
+    "selten bis moderat verbreitet in Deutschland"
+  ],
+  "confidence": 0.78,
+  "display_text": "Harvey wirkt in Deutschland eher selten bis moderat verbreitet und wird überwiegend positiv-sachlich wahrgenommen. Der Name hat eine international/keltisch geprägte Anmutung, klingt wohlklingend und eher klassisch-modern. Die Evidenz ist allerdings begrenzt und basiert vor allem auf Namenslexika, nicht auf breiter öffentlicher Resonanz.",
+  "evidence_quality": "Begrenzt bis mittel: zwei Namenslexikon-/Namensartikel mit überwiegend neutraler bis positiver Tonlage, aber kaum unabhängige öffentliche Breite.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Harvey",
+  "normalized_name": "harvey",
+  "overall_resonance": "Harvey wird in der vorliegenden Evidenz überwiegend sachlich bis positiv wahrgenommen. Der Name wirkt international, eher selten bis moderat verbreitet und wird mit keltisch/bretonischer bzw. englischer Herkunft verbunden. Die öffentliche Resonanz ist insgesamt freundlich, aber nicht breit belegt.",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt Harvey zugänglich und international verständlich.",
+    "Die Schreibweise ist einfach, die Aussprache kann im deutschen Alltag gelegentlich erklärt werden müssen.",
+    "Wegen der eher begrenzten Verbreitung kann der Name als markant wahrgenommen werden, ohne exzentrisch zu wirken."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist stark auf Namenslexika und einzelne Kommentare begrenzt; daraus lässt sich keine breite öffentliche Meinung ableiten.",
+    "Positive Einschätzungen sind subjektiv und nicht repräsentativ für alle Wahrnehmungen.",
+    "Es liegen keine Hinweise auf eine soziale Stigmatisierung vor; trotzdem sollte die Wirkung je nach Umfeld unterschiedlich sein."
+  ],
+  "short_summary": "Harvey wird in der verfügbaren Evidenz als seltener bis moderat verbreiteter, international klingender Jungenname mit überwiegend positiver und sachlicher Resonanz beschrieben.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Harvey � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/H/Ha/Harvey/"
+    },
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Harvey: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Harvey.html"
+    }
+  ],
+  "style_effect": [
+    "klingt international",
+    "wirkt modern und zugleich klassisch",
+    "eher weich und wohlklingend",
+    "assoziiert mit lexikalischer, leicht eleganter Wirkung"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland offenbar eher selten bis moderat verbreitet; die verfügbare Evidenz zeigt vor allem Namenslexikon- und Ranking-Kontexte, also keine starke Alltagspräsenz."
+}

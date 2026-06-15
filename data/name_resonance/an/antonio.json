@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "italienische und spanische Namensform von Anton/Antonius",
+    "lateinisch/römische Herkunft",
+    "Bedeutungen wie „der Wertvolle“ und „der Unschätzbare“",
+    "Namenstage und kirchlich-traditioneller Bezug",
+    "bekannt über Namenslexika und Beliebtheitsangaben in Deutschland"
+  ],
+  "confidence": 0.88,
+  "display_text": "Antonio: klassisch, international und überwiegend positiv wahrgenommen. Die verfügbaren Quellen beschreiben den Namen vor allem als romanische Form von Anton/Antonius mit Bedeutungen wie „der Wertvolle“ oder „der Unschätzbare“. In Deutschland wirkt er eher bekannt als auffällig; belastbare Hinweise auf Stigma oder kontroverse Rezeption liegen nicht vor.",
+  "evidence_quality": "mittel bis gut: zwei klar namenskundliche, neutrale Quellen; öffentliche Resonanz nur indirekt über Lexikon- und Beliebtheitsangaben belegt",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Antonio",
+  "normalized_name": "antonio",
+  "overall_resonance": "Antonio wird in den vorliegenden Quellen überwiegend sachlich, positiv und kultursprachlich verankert beschrieben. Der Name wirkt in Deutschland eher bekannt als ausgefallen und ist vor allem über seine romanische Herkunft und klassische Namensbedeutung präsent. Eine starke öffentliche Debatte ist aus der Evidenz nicht ersichtlich.",
+  "practical_notes": [
+    "Für eine Namenssuche ist Antonio gut nachvollziehbar und leicht einzuordnen.",
+    "Der Name eignet sich für Menschen, die einen klassischen, internationalen Klang suchen.",
+    "In Deutschland dürfte er eher vertraut als ungewöhnlich wirken.",
+    "Die Kurzformen Toni, Tonio und Nino sind relevante Alltagsvarianten."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz zur öffentlichen Resonanz ist begrenzt und stammt überwiegend aus Namensdatenbanken statt aus Diskussionen oder Umfragen.",
+    "Beliebtheitsangaben zeigen Verbreitung, ersetzen aber keine direkte Wahrnehmung in der Öffentlichkeit.",
+    "Keine belastbaren Hinweise auf Stigma oder problematische Assoziationen in der vorliegenden Evidenz."
+  ],
+  "short_summary": "Antonio wirkt in Deutschland klassisch, international und überwiegend positiv besetzt. Die Quellen zeigen vor allem Herkunft, Bedeutung und Verbreitung; eine starke öffentliche Debatte ist nicht erkennbar.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Antonio � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/A/An/Antonio/"
+    },
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Antonio: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Antonio.html"
+    }
+  ],
+  "style_effect": [
+    "klingt klassisch und international",
+    "wirkt romanisch/mediterran geprägt",
+    "hat eine etablierte, eher zeitlose Anmutung",
+    "erscheint in Namenslexika informativ und positiv besetzt",
+    "Kurzformen wie Toni oder Tonio verstärken die Nähe und Alltagstauglichkeit"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "mittel: klar erkennbar und verbreitet, aber nicht als besonders auffälliger oder stark diskutierter Name belegt"
+}

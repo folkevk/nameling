@@ -1,0 +1,64 @@
+{
+  "associations": [
+    "irisch-gälischer Ursprung",
+    "altirische Namensherkunft",
+    "Bedeutung: der/die Weise",
+    "Bedeutung: der/die Willensstarke",
+    "Unisex-Verwendung",
+    "kurze Schreibweise",
+    "internationaler Vorname",
+    "in Deutschland relativ bekannt"
+  ],
+  "confidence": 0.82,
+  "display_text": "Quinn wird in Deutschland meist als moderner, international klingender und klarer Vorname wahrgenommen. Die verfügbaren Quellen beschreiben ihn überwiegend neutral bis positiv und ordnen ihn häufig als Unisex-Name mit irisch-gälischer Herkunft ein. Die Evidenz ist dabei eher lexikalisch als breit öffentlich.",
+  "evidence_quality": "mittel bis gut: zwei direkte, namenbezogene Lexikonquellen mit konsistenten Herkunfts- und Bedeutungsangaben; jedoch nur begrenzte Hinweise auf breite öffentliche Wahrnehmung außerhalb solcher Portale.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Quinn",
+  "normalized_name": "quinn",
+  "overall_resonance": "Quinn wirkt im deutschsprachigen Raum eher modern, international und stilneutral mit positiver bis neutraler Grundresonanz. Der Name wird vor allem als kurzer, klarer und klanglich markanter Vorname wahrgenommen.",
+  "practical_notes": [
+    "Für die Namenssuche wirkt Quinn unkompliziert und gut merkbar.",
+    "Der Name kann in Deutschland als modern und international gelesen werden.",
+    "Die Schreibweise ist kurz und daher sprachlich leicht zugänglich.",
+    "Je nach Umfeld kann Quinn als eher neutraler Unisex-Name verstanden werden."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenzlage ist begrenzt und stützt sich vor allem auf Namenslexika statt auf breite öffentliche Meinungsdaten.",
+    "Die Einordnung als männlich, weiblich oder Unisex kann je nach Quelle und Kontext variieren.",
+    "Es gibt keinen klaren Hinweis auf gesellschaftliche Stigmatisierung; eine solche sollte hier auch nicht angenommen werden."
+  ],
+  "short_summary": "Quinn hat in Deutschland eine eher positive, moderne und internationale Ausstrahlung. Die Quellen beschreiben den Namen als kurz, markant und häufig als Unisex-Name mit irisch-gälischer Herkunft; die öffentliche Resonanz wirkt insgesamt neutral bis wertschätzend, aber die Datenbasis ist eher schmal.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.99,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Quinn � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/Q/Qu/Quinn/"
+    },
+    {
+      "confidence": 0.91,
+      "is_name_discussion": true,
+      "sentiment": "eher positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Quinn: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Quinn.html"
+    }
+  ],
+  "style_effect": [
+    "kurz und prägnant",
+    "international klingend",
+    "modern",
+    "klarer, weicher Klang",
+    "eher zeitgemäß als traditionell",
+    "als Unisex-Name wahrgenommen"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland ist Quinn als Vorname sichtbar und in Namenslexika sowie Datenportalen präsent; die öffentliche Rezeption wirkt aber eher fachlich-namenskundlich als breit kulturell aufgeladen."
+}

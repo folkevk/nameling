@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "lateinische Herkunft",
+    "Bedeutung im Feld von ehrwürdig/erhaben/heilig",
+    "traditionelle Namensgeschichte seit dem Mittelalter in Deutschland",
+    "Bezug zum Lied „O du lieber Augustin“",
+    "männlicher Vorname",
+    "selten, aber gebräuchlich"
+  ],
+  "confidence": 0.83,
+  "display_text": "Augustin wirkt im Deutschen klassisch, würdevoll und traditionsreich. Der Name wird überwiegend positiv wahrgenommen, vor allem wegen seiner lateinischen Herkunft und der Bedeutung im Bereich \"ehrwürdig\"/\"erhaben\". Er ist eher selten, aber klar bekannt. Die öffentliche Evidenz ist allerdings begrenzt und stammt fast nur aus Namenslexika.",
+  "evidence_quality": "mittel bis gut; klare namenkundliche Beschreibungen, aber geringe Breite der öffentlichen Evidenz",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Augustin",
+  "normalized_name": "augustin",
+  "overall_resonance": "Überwiegend positiv und traditionsbewusst, mit eher klassisch-erhabener Wirkung. Der Name wirkt im Deutschen vertraut, aber nicht alltäglich, und wird vor allem über seine lateinische Herkunft und die Bedeutungselemente \"ehrwürdig\", \"erhaben\" und \"heilig\" wahrgenommen.",
+  "practical_notes": [
+    "Für Suchmaschinen wirkt Augustin eher edel und traditionsreich als trendig.",
+    "Der Name hat eine klare historische Verankerung und eine gut erkennbare Bedeutungsebene.",
+    "Als Kurzform-/Spitznamensbasis können je nach Umfeld verschiedene Varianten mitgedacht werden, die Hauptform bleibt jedoch eigenständig."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt fast nur von zwei Namenslexikon-Seiten; öffentliche Resonanz außerhalb dieser Quellen ist daher nur begrenzt abgesichert.",
+    "Beliebtheits- und Stilwahrnehmungen können durch die Auswahl der Quellen leicht verzerrt sein.",
+    "Keine belastbaren Hinweise auf negative soziale Stigmatisierung in der vorliegenden Evidenz."
+  ],
+  "short_summary": "Augustin wird in den vorliegenden Quellen vor allem als klassischer, seltener und wertig wirkender Jungenname mit lateinischer Herkunft beschrieben. Die Resonanz ist eher positiv und traditionsorientiert, allerdings basiert sie überwiegend auf Namenslexikon-Evidenz.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "positive",
+      "source_type": "web",
+      "title": "Vorname Augustin � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/A/Au/Augustin/"
+    },
+    {
+      "confidence": 0.92,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Augustin: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Augustin.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "würdevoll",
+    "traditionell",
+    "gebildet",
+    "sanft altsprachlich",
+    "eher selten als häufig"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Eher selten bis wenig gebräuchlich, aber klar bekannt. In den vorliegenden Quellen erscheint Augustin nicht als Massenname, sondern als traditioneller, markanter Vorname mit begrenzter Alltagspräsenz."
+}

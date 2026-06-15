@@ -1,0 +1,63 @@
+{
+  "associations": [
+    "weiblicher Vorname",
+    "deutsche bzw. althochdeutsch-germanische Herkunft",
+    "Bedeutung im Umfeld von „frei“ / „die Freie“ bzw. „Fränkin“",
+    "Namensvariante zu Franca",
+    "Beliebtheit in Deutschland",
+    "eher modern, teils seltener werdend",
+    "Namenstag (in einer Quelle genannt)"
+  ],
+  "confidence": 0.84,
+  "display_text": "Franka wird überwiegend positiv bis neutral beschrieben: ein klarer, moderner weiblicher Vorname mit deutscher bzw. althochdeutsch-germanischer Einordnung. Die verfügbare Evidenz ist jedoch begrenzt und stammt vor allem aus Namenslexika, nicht aus breiter öffentlicher Debatte.",
+  "evidence_quality": "mittel bis schwach: zwei webbasierte Namensquellen, beide informativ-lexikalisch; kaum unabhängige öffentliche Diskussionsbelege",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Franka",
+  "normalized_name": "franka",
+  "overall_resonance": "Franka wirkt in der verfügbaren öffentlichen Namens-Evidenz überwiegend positiv bis sachlich-neutral: Der Name wird vor allem als moderner, klar weiblicher Vorname mit deutscher bzw. althochdeutsch-germanischer Einordnung beschrieben.",
+  "practical_notes": [
+    "Für eine Namenssuche eignet sich Franka als kurzer, klarer und gut merkbarer Vorname.",
+    "Die Wirkung wird eher freundlich, modern und unkompliziert beschrieben.",
+    "Wenn eine sehr verbreitete Alltagsbekanntheit gesucht wird, wirkt Franka eher moderat präsent als massenhaft verbreitet."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist schwach bis mittelstark und stammt fast ausschließlich aus Namenslexika statt aus freier öffentlicher Debatte.",
+    "Einzelne Nutzerkommentare können die Wahrnehmung verzerren; sie sollten nur als Hinweis, nicht als allgemeine Meinung verstanden werden.",
+    "Die Angaben zur Bedeutung und Herkunft sind lexikalische Zuschreibungen und keine gesicherten Aussagen über tatsächliche Namenswahrnehmung bei allen Sprechern."
+  ],
+  "short_summary": "Franka wird in den vorliegenden Quellen überwiegend positiv und sachlich wahrgenommen: ein moderner, weiblicher Vorname mit deutscher bzw. germanischer Einordnung und eher moderater Häufigkeit.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Franka � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/F/Fr/Franka/"
+    },
+    {
+      "confidence": 0.86,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Franka: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Franka.html"
+    }
+  ],
+  "style_effect": [
+    "klar",
+    "modern",
+    "weiblich",
+    "namenskundlich",
+    "leicht traditionell",
+    "zugänglich",
+    "freundlich"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Im deutschsprachigen Raum ist der Name bekannt, aber eher nicht extrem häufig; die Sichtbarkeit erscheint eher stabil bis moderat und wird in Namensdatenbanken als präsent, teils auch etwas seltener, dargestellt."
+}

@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "italienische Form von Julian",
+    "lateinischer Ursprung",
+    "aus dem Geschlecht der Julier stammend",
+    "dem Jupiter geweiht",
+    "Namenstag",
+    "in Deutschland eher selten bis mäßig verbreitet"
+  ],
+  "confidence": 0.86,
+  "display_text": "Giuliano wirkt im deutschen Raum eher positiv bis neutral: ein italienisch klingender, klassisch hergeleiteter Name mit elegantem, warmem Eindruck. Er ist bekannt, aber eher selten bis mäßig verbreitet. Die öffentliche Evidenz ist jedoch begrenzt und stammt überwiegend aus Namenslexika, nicht aus breiter Debatte.",
+  "evidence_quality": "mittel bis schwach: mehrere Namensdatenbanken, aber kaum unabhängige öffentliche Resonanz",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Giuliano",
+  "normalized_name": "giuliano",
+  "overall_resonance": "Eher positiv bis neutral",
+  "practical_notes": [
+    "Als Vorname gut verständlich und international anschlussfähig",
+    "durch die italienische Form etwas markanter als Julian",
+    "wirkt eher freundlich als streng",
+    "keine belastbaren Hinweise auf soziale Stigmatisierung"
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die öffentliche Evidenz ist dünn und stammt fast nur aus Namenslexika",
+    "wenig unabhängige Diskussion in der Öffentlichkeit erkennbar",
+    "positive Eindrücke können durch einzelne Bewertungsseiten leicht überzeichnet sein"
+  ],
+  "short_summary": "Giuliano wird im deutschen Raum vor allem als italienisch-klingende, klassisch hergeleitete Form von Julian wahrgenommen. Die Resonanz ist überwiegend positiv bis neutral, wirkt eher elegant und selten, aber die Evidenz ist begrenzt und vor allem lexikalisch.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.94,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Giuliano � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/G/Gi/Giuliano/"
+    },
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Giuliano: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Giuliano.html"
+    }
+  ],
+  "style_effect": [
+    "klingt italienisch und melodisch",
+    "wirkt klassisch-europäisch",
+    "hat einen leicht eleganten und warmen Ton",
+    "durch die Herkunftsangaben eher namenskundlich als modisch aufgeladen"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Im deutschsprachigen Raum bekannt, aber eher selten bis mäßig verbreitet"
+}

@@ -1,0 +1,59 @@
+{
+  "associations": [
+    "französische Form von Nikolaus",
+    "Bedeutung: „Sieg des Volkes“",
+    "altgriechischer Ursprung",
+    "Namenstag am 6. Dezember sowie teils weitere Namenstage",
+    "in Deutschland eher beliebt, aber nicht extrem häufig"
+  ],
+  "confidence": 0.88,
+  "display_text": "Nicolas wirkt öffentlich überwiegend klassisch, international und leicht positiv. Der Name wird sachlich beschrieben, mit Herkunft aus dem Französischen/Altgriechischen und der Bedeutung „Sieg des Volkes“. In Deutschland ist er bekannt und eher beliebt, aber nicht extrem häufig. Die Evidenz ist dabei vor allem lexikalisch; eine breite gesellschaftliche Debatte ist nicht erkennbar.",
+  "evidence_quality": "mittel bis gut; zwei einschlägige Namenslexikon-Quellen, aber keine breite öffentliche Debatte oder Umfragedaten.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Nicolas",
+  "normalized_name": "nicolas",
+  "overall_resonance": "Nicolas wird öffentlich überwiegend sachlich und leicht positiv wahrgenommen: als klassischer, international anschlussfähiger Vorname mit klarer Herkunft und positiver Bedeutung. Die Resonanz wirkt eher informativ als emotional aufgeladen.",
+  "practical_notes": [
+    "Für Suchende wirkt der Name vertraut, gut verständlich und international verwendbar.",
+    "Die Schreibweise mit -s am Ende kann als französisch oder stilvoll wahrgenommen werden.",
+    "Keine Hinweise auf nennenswerte Stigmatisierung in der vorliegenden Evidenz."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stützt sich auf wenige Namenslexikon-Seiten; eine breite öffentliche Meinungsbasis ist nicht erkennbar.",
+    "Die Einschätzung ist daher eher beschreibend als gesellschaftlich repräsentativ."
+  ],
+  "short_summary": "Nicolas gilt in der öffentlichen Wahrnehmung als klassischer, internationaler Vorname mit positiver Bedeutung und eher sachlich-neutraler, leicht positiver Resonanz.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.95,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Nicolas � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/N/Ni/Nicolas/"
+    },
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Nicolas: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Nicolas.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "international",
+    "sachlich",
+    "zeitlos",
+    "namenskundlich geprägt",
+    "leicht elegant"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland bekannt und eher beliebt, aber nicht extrem häufig. Die öffentliche Präsenz ist vorhanden, jedoch ohne starke Kontroversen oder breite Debatten."
+}

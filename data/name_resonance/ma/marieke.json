@@ -1,0 +1,63 @@
+{
+  "associations": [
+    "Koseform bzw. Variante von Maria",
+    "friesisch",
+    "niederländisch",
+    "niederdeutsch",
+    "weiblicher Vorname",
+    "Namenstag",
+    "Seltenheit in Deutschland",
+    "Meeresperle / Geliebte / Wohlgenährte (je nach Quelle)",
+    "Liedtitel/ კულტureller Bezug zu 'Marieke'"
+  ],
+  "confidence": 0.84,
+  "display_text": "Marieke: überwiegend freundliche, sachlich-informative Resonanz; ein eher seltener, klangweicher Vorname mit friesisch/niederländischer Prägung und Bezug zu Maria.",
+  "evidence_quality": "mittel: zwei klare Namenslexikon-Quellen, überwiegend sachlich; öffentliche Resonanz nur indirekt ableitbar, daher vorsichtig zu interpretieren.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Marieke",
+  "normalized_name": "marieke",
+  "overall_resonance": "Marieke wirkt in den vorliegenden Quellen überwiegend sachlich-informativ und eher freundlich als belastet. Der Name wird vor allem als weiblicher Vorname mit friesisch/niederländischer bzw. niederdeutscher Prägung beschrieben; die öffentliche Wahrnehmung scheint eher von Herkunft, Klang und Namenskunde als von kontroversen Debatten geprägt zu sein.",
+  "practical_notes": [
+    "Für Suchmaschinen eignet sich die Einordnung als seltener, traditionsnaher Mädchenname mit nordischer/niederländischer Prägung.",
+    "Die Schreibweise ist klar und meist eindeutig lesbar.",
+    "Je nach Region kann der Name als ungewöhnlicher, aber vertrauter Variantenname von Maria wahrgenommen werden."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt überwiegend aus Namenslexika; das ist gut für Herkunft und Einordnung, aber nur bedingt für echte öffentliche Stimmung.",
+    "Einzelne Community-Kommentare sind nicht verallgemeinerbar.",
+    "Keine Hinweise auf starke Stigmatisierung oder negative Namensklischees in den Quellen."
+  ],
+  "short_summary": "Marieke wird in den Quellen vor allem als seltener, klangweicher und traditionsnaher weiblicher Vorname mit friesisch/niederländischer Herkunft beschrieben.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Marieke � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/M/Ma/Marieke/"
+    },
+    {
+      "confidence": 0.88,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Marieke: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Marieke.html"
+    }
+  ],
+  "style_effect": [
+    "weich und melodisch",
+    "klassisch mit nordisch-niederländischer Färbung",
+    "sachlich-bildungsnah",
+    "eher selten als massenhaft",
+    "leicht modern durch kurze, klare Form"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Im deutschsprachigen Raum ist Marieke bekannt, aber eher nicht sehr häufig. Die Sichtbarkeit entsteht vor allem über Namenslexika, Herkunftsangaben und einzelne kulturelle Bezüge, nicht über starke breite Alltagspräsenz."
+}

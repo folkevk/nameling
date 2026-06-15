@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "weiblicher Vorname",
+    "griechisch-lateinische Herkunft",
+    "Bedeutung: Bote/Abgesandte/Engel",
+    "klassischer Vorname",
+    "historisch früher häufiger, heute seltener",
+    "Namenstag",
+    "Kurzformen wie Angie",
+    "in Deutschland um 1960 besonders beliebt"
+  ],
+  "confidence": 0.89,
+  "display_text": "Angela wirkt in der öffentlichen Namenswahrnehmung überwiegend neutral bis leicht positiv. Der Name gilt als klassisch, traditionsreich und klar verständlich, mit starken Assoziationen zu „Engel“, „Botin“ und einer eher zeitlosen, seriösen Wirkung. Die Evidenz stammt vor allem aus Namenslexika; eine breite öffentliche Debatte ist nur schwach erkennbar.",
+  "evidence_quality": "mittel bis schwach; klare Namensdiskussion, aber überwiegend lexikalische Quellen statt breiter öffentlicher Resonanz",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Angela",
+  "normalized_name": "angela",
+  "overall_resonance": "Überwiegend neutral bis leicht positiv; Angela wird vor allem als klassischer, traditionsreicher Vorname mit klarer Bedeutung wahrgenommen. Die öffentliche Rezeption wirkt eher informativ als kontrovers.",
+  "practical_notes": [
+    "Für die Namenssuche wirkt Angela vertraut, klar und traditionell.",
+    "Der Name ist gut erklärbar und international anschlussfähig, mit mehreren etablierten Kurzformen.",
+    "Die Wahrnehmung kann je nach Generation unterschiedlich sein, da der Name historisch stärker verbreitet war."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist begrenzt und stammt vor allem aus Namenslexika, nicht aus einer breiten öffentlichen Diskussion.",
+    "Positive Klang- oder Stilwirkungen sind eher aus Beschreibungen abgeleitet als aus repräsentativen Umfragen."
+  ],
+  "short_summary": "Angela wird meist neutral bis freundlich bewertet: ein klassischer, traditionsreicher Vorname mit der häufig genannten Bedeutung rund um Engel/Botin. Die Quellenlage ist eher beschreibend als diskussionsstark.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Angela � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/A/An/Angela/"
+    },
+    {
+      "confidence": 0.92,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Angela: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Angela.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "traditionsreich",
+    "informativ",
+    "eher zeitlos",
+    "leicht religiös/engelhaft konnotiert"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Mittlere Sichtbarkeit in Namenslexika und Vornamensseiten; die Evidenz spricht eher für Namenswissen als für breite öffentliche Debatte."
+}

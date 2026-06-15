@@ -1,0 +1,64 @@
+{
+  "associations": [
+    "friesischer Vorname",
+    "niederdeutsche/altfriesische Herkunft",
+    "Koseform",
+    "Bedeutungsnähe zu Liebe/Liebchen",
+    "weiblicher Vorname",
+    "regional wahrgenommen",
+    "selten bis mäßig verbreitet",
+    "Namenstag am 28. September"
+  ],
+  "confidence": 0.84,
+  "display_text": "Levke wirkt öffentlich überwiegend freundlich, sachlich und regional-friesisch geprägt. Der Name wird vor allem mit einer liebevollen Bedeutung und seltener, traditioneller Herkunft verbunden; die Evidenz ist dabei eher begrenzt als breit repräsentativ.",
+  "evidence_quality": "mittel: zwei namenskundliche Webquellen, überwiegend lexikalisch/kommentarbasiert; begrenzte öffentliche Breite, aber konsistente Aussagen zu Herkunft und Tonalität",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Levke",
+  "normalized_name": "levke",
+  "overall_resonance": "Überwiegend sachlich bis leicht positiv, mit klarer regionaler und namenskundlicher Prägung. Der Name wird vor allem als friesisch/niederdeutsch wahrgenommen und mit einer freundlichen, liebevollen Bedeutung verbunden. Die öffentliche Rezeption wirkt eher selten- und traditionsbezogen als breit mainstreamig.",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt Levke freundlich, klar und ungewöhnlich genug, ohne exotisch zu erscheinen.",
+    "Die regionale Prägung kann als charaktervoll wahrgenommen werden, ist aber außerhalb Norddeutschlands möglicherweise weniger vertraut.",
+    "Die Schreibweise ist kurz und eindeutig; Varianten wie Levge oder Lefke kommen vereinzelt vor.",
+    "Die Quellen sprechen vor allem über Bedeutung und Herkunft, nicht über eine breite soziale Bewertung."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz basiert auf wenigen Webquellen und ist daher nur eingeschränkt repräsentativ für die breite Öffentlichkeit.",
+    "Einzelne Kommentare können abweichende oder negative Geschmackseindrücke enthalten; daraus lässt sich keine allgemeine Bewertung ableiten.",
+    "Keine Hinweise auf eine gesellschaftliche Stigmatisierung wie bei manchen anderen Vornamenkontexten erkennbar."
+  ],
+  "short_summary": "Levke wird in den Quellen meist als friesisch/niederdeutscher Mädchenname mit liebevoller Bedeutung beschrieben. Die Resonanz ist überwiegend freundlich und sachlich, bei eher regionaler Bekanntheit.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.95,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Levke � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/L/Le/Levke/"
+    },
+    {
+      "confidence": 0.87,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Levke: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Levke.html"
+    }
+  ],
+  "style_effect": [
+    "friesisch-regional",
+    "traditionsbewusst",
+    "lieblich",
+    "freundlich",
+    "kurz und markant",
+    "selten bis mäßig verbreitet"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland eher regional bekannt und nicht sehr häufig; die Sichtbarkeit ist vorhanden, aber begrenzt. Die Evidenz deutet auf eine kleine bis mittlere Bekanntheit hin, ohne starke Massenpräsenz."
+}

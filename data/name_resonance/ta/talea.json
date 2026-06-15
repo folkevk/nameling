@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "friesisch/niederländisch wirkende Namensverortung",
+    "althochdeutsche Herkunftsdeutungen",
+    "Bedeutung in Richtung \"die Edle\" / \"die Vornehme\"",
+    "Kurzform-Bezug zu Adelheid",
+    "weiblicher Vorname",
+    "Namenstag-Bezug"
+  ],
+  "confidence": 0.73,
+  "display_text": "Talea wirkt in Deutschland eher selten, klangvoll und modern-elegant. Die vorliegenden Quellen deuten auf eine positive bis neutrale Wahrnehmung hin, mit Assoziationen zu \"edel\" bzw. \"vornehm\". Die Evidenz ist jedoch vor allem namenkundlich und damit nur eingeschränkt repräsentativ für die breite öffentliche Resonanz.",
+  "evidence_quality": "mittel bis schwach: klare Namensbeschreibung vorhanden, aber wenig direkte öffentliche Diskussions- oder Meinungs-Evidenz.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Talea",
+  "normalized_name": "talea",
+  "overall_resonance": "Talea wird öffentlich eher ruhig, positiv-neutral und modern wahrgenommen. Der Name wirkt in den vorliegenden Quellen klangvoll, eher selten und leicht elegant; zugleich ist die Evidenz zur breiten öffentlichen Resonanz begrenzt, da vor allem Namenslexika und Katalogtexte vorliegen.",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt Talea angenehm, weich und ungewöhnlich, ohne schwer verständliche Schreibweise.",
+    "Die Seltenheit kann als Pluspunkt wahrgenommen werden, kann aber auch zu gelegentlichem Erklärungsbedarf führen.",
+    "Die öffentliche Rezeption erscheint insgesamt eher freundlich als kontrovers."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt überwiegend aus Namensdatenbanken statt aus echter öffentlicher Diskussion.",
+    "Positive Einschätzungen sind teilweise redaktionell oder nutzergeneriert und daher nur eingeschränkt verallgemeinerbar.",
+    "Aus den Quellen lässt sich keine belastbare gesellschaftliche Stigmatisierung ableiten."
+  ],
+  "short_summary": "Talea wird überwiegend als seltener, klangvoller und eher edel wirkender Mädchenname wahrgenommen. Die öffentliche Resonanz erscheint positiv-neutral, ist aber nur begrenzt direkt belegt.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.91,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Talea � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/T/Ta/Talea/"
+    },
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Talea: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Talea.html"
+    }
+  ],
+  "style_effect": [
+    "klangvoll",
+    "modern",
+    "selten",
+    "elegant",
+    "eher vornehm",
+    "freundlich-neutral"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland eher bekannt, aber nicht massenhaft verbreitet. Die Quellen deuten auf gewisse Vertrautheit und eine nachvollziehbare Namenspräsenz hin, ohne starke Mainstream-Dominanz."
+}

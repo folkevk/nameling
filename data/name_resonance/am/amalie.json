@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "Bedeutungen wie „die Tüchtige“, „die Tapfere“ oder „die Fleißige“",
+    "althochdeutsche bzw. gotische Namensherkunft",
+    "historischer und traditioneller Vorname",
+    "Namenstag am 8. und teils 10. Juli",
+    "Verbindung zu älteren Namens- und Adelskontexten",
+    "Nähe zu Varianten wie Amalia oder Amelie"
+  ],
+  "confidence": 0.87,
+  "display_text": "Amalie wird in den vorliegenden Quellen überwiegend positiv, klassisch und traditionsnah beschrieben. Der Name wirkt historisch, elegant und eher selten, mit Bedeutungen wie „die Tüchtige“ oder „die Tapfere“. Eine breite öffentliche Debatte ist nicht erkennbar; die Evidenz stammt vor allem aus Namenslexika.",
+  "evidence_quality": "mittel bis gut: direkte Namensquellen mit klarer inhaltlicher Relevanz, aber wenig echte öffentliche Diskussionsbreite",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Amalie",
+  "normalized_name": "amalie",
+  "overall_resonance": "Amalie wirkt in der öffentlichen Namenswahrnehmung überwiegend positiv, traditionell und eher klassisch als trendig. Die vorliegende Evidenz betont vor allem die Bedeutung, Herkunft und den historischen Klang des Namens; eine breite öffentliche Debatte ist daraus nicht erkennbar.",
+  "practical_notes": [
+    "Für Suchmaschinen-Nutzer vermittelt Amalie meist einen freundlichen, traditionellen Eindruck.",
+    "Der Name wird eher als klassisch und historisch wahrgenommen als als modern oder modisch.",
+    "Eine deutliche Negativeinschätzung ist in der vorliegenden Evidenz nicht zu erkennen."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt fast nur aus Namenslexika und Vornamenseiten, daher ist die Aussagekraft für echte öffentliche Meinung begrenzt.",
+    "Beliebtheitsangaben können je nach Quelle schwanken.",
+    "Es zeigt sich keine klare gesellschaftliche Kontroverse oder Stigmatisierung des Namens."
+  ],
+  "short_summary": "Amalie wird überwiegend positiv, klassisch und traditionsnah wahrgenommen. Die Evidenz spricht vor allem für einen historischen, bedeutungsstarken Namen ohne erkennbare Kontroverse.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.95,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "Vorname Amalie � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/A/Am/Amalie/"
+    },
+    {
+      "confidence": 0.84,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Amalie: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Amalie.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch und historisch",
+    "elegant und sanft",
+    "traditionsbewusst",
+    "eher selten als alltagsdominant",
+    "klar deutschsprachig anschlussfähig"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland eher bekannt, aber nicht massenhaft verbreitet. Die Resonanz scheint vor allem aus Namenslexika und Beschreibungen zu stammen, weniger aus kontroversen öffentlichen Diskussionen."
+}

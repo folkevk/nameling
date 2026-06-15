@@ -1,0 +1,57 @@
+{
+  "associations": [
+    "Bedeutung im Umfeld von Wandalen/Vandalen bzw. Wenden",
+    "althochdeutsche Herkunft, teils auch slawisch/polnisch eingeordnet",
+    "Namenstag am 14. Juli",
+    "Varianten und Kurzformen wie Vanda, Wandi oder Wanni"
+  ],
+  "confidence": 0.85,
+  "display_text": "Wanda wirkt in deutschen Namensquellen überwiegend neutral bis leicht positiv: ein klassischer, historisch geprägter und markanter Vorname mit eher mittlerer Bekanntheit. Die Evidenz ist allerdings vor allem lexikalisch und daher begrenzt.",
+  "evidence_quality": "mittel bis gut, aber thematisch eng; die Belege sind klar namenskundlich, jedoch fast ausschließlich aus Lexikonquellen und ohne echte Meinungsvielfalt.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Wanda",
+  "normalized_name": "wanda",
+  "overall_resonance": "Wanda wird in den vorliegenden deutschen Namensquellen überwiegend sachlich und eher positiv-neutral beschrieben. Der Name wirkt bekannt, traditionell und etymologisch interessant, ohne dass sich in der Evidenz eine klare öffentliche Kontroverse zeigt.",
+  "practical_notes": [
+    "Für eine Namenssuche ist Wanda gut einordenbar und verständlich.",
+    "Der Name hat einen klaren historischen Klang und wirkt eher ungewöhnlich als massenhaft.",
+    "Aufgrund der begrenzten Quellenlage sollte die Einordnung als vorsichtig und vorläufig gelesen werden."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist stark auf Namenslexika beschränkt; eine breitere öffentliche Debatte ist nicht erkennbar.",
+    "Einzelne Herkunftsangaben sind teilweise unsicher oder nur als Möglichkeit formuliert.",
+    "Es liegen keine Hinweise auf eine gesellschaftliche Stigmatisierung des Namens vor."
+  ],
+  "short_summary": "Wanda wird in deutschen Namensquellen überwiegend neutral bis leicht positiv dargestellt: ein klassischer, historisch geprägter Name mit markantem Klang und eher mittlerer Bekanntheit.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Wanda � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/W/Wa/Wanda/"
+    },
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Wanda: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Wanda.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch und historisch",
+    "leicht eigenständig und markant",
+    "namenskundlich interessant",
+    "eher seriös als verspielt"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland ist Wanda als Vorname offenbar vorhanden und eher bekannt, aber nicht dominant; die Quellen deuten auf eine mittlere Sichtbarkeit hin."
+}

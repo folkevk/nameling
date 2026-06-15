@@ -1,0 +1,59 @@
+{
+  "associations": [
+    "deutsche und französische Form von Sibylla",
+    "altgriechischer Ursprung",
+    "Bedeutung: Seherin / Wahrsagerin / Prophetin",
+    "Namenstag am 9. Oktober",
+    "eher selten, historisch bekannt"
+  ],
+  "confidence": 0.79,
+  "display_text": "Sibylle wirkt in Deutschland klassisch, historisch und eher selten. Die Quellen beschreiben den Namen sachlich mit neutral bis leicht positiver Resonanz; belastbare Daten zur aktuellen öffentlichen Wahrnehmung sind jedoch begrenzt.",
+  "evidence_quality": "eher schwach bis mittel: zwei überwiegend lexikalische Webquellen, gute Namensbezüge, aber wenig echte öffentliche Resonanzdaten",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Sibylle",
+  "normalized_name": "sibylle",
+  "overall_resonance": "Sibylle wird in den vorliegenden Quellen überwiegend sachlich und eher klassisch wahrgenommen. Der Name wirkt kulturell und historisch aufgeladen, aber nicht stark trendig; die öffentliche Resonanz erscheint insgesamt neutral bis leicht positiv.",
+  "practical_notes": [
+    "Für eine Namenssuche ist Sibylle ein klarer, traditioneller Name mit nachvollziehbarer Herkunft.",
+    "Die Schreibweise ist etabliert, aber der Name wirkt heute eher ungewöhnlich als modisch.",
+    "Wenn moderne Trendwirkung gesucht wird, dürfte Sibylle weniger passend sein als aktuellere Namen."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz zur aktuellen öffentlichen Resonanz ist schwach und basiert vor allem auf Namensdatenbanken.",
+    "Wahrnehmungen aus Kommentaren oder Seitenkontexten sollten nicht als allgemeine Mehrheitsmeinung gelesen werden.",
+    "Keine Hinweise auf soziale Stigmatisierung in den Quellen."
+  ],
+  "short_summary": "Sibylle wird meist als klassisch, selten und historisch geprägt wahrgenommen; die verfügbare Evidenz ist sachlich, aber begrenzt.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Sibylle � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/S/Si/Sibylle/"
+    },
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Sibylle: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Sibylle.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "eher formell",
+    "gebildet/namenskundlich",
+    "historisch",
+    "leicht feierlich"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland ist Sibylle heute eher selten und dadurch nicht sehr präsent im alltäglichen Namensgebrauch. Die Sichtbarkeit entsteht vor allem über Namenslexika und Bedeutungsseiten, nicht über starke aktuelle öffentliche Debatten."
+}

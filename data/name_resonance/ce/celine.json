@@ -1,0 +1,52 @@
+{
+  "associations": [
+    "französische Namensform",
+    "lateinischer Ursprung",
+    "Bedeutung in Richtung \"Himmel\" / \"die Himmlische\"",
+    "weiblicher Vorname",
+    "Namenstag am 21. Oktober",
+    "kulturelle Bekanntheit durch Popkultur und Prominenz"
+  ],
+  "confidence": 0.86,
+  "display_text": "Céline wirkt in Deutschland überwiegend positiv: elegant, weich klingend und französisch geprägt. Der Name ist bekannt, aber nicht übermäßig häufig, und wird oft mit der Bedeutung \"die Himmlische\" bzw. \"Himmel\" verbunden. Die Evidenz ist insgesamt gut, aber teils gemischt, daher sollte die Einordnung vorsichtig gelesen werden.",
+  "evidence_quality": "mittel bis gut; klare Namens- und Bedeutungsquelle, aber teilweise durch UGC-Kommentare gemischt",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Céline",
+  "normalized_name": "celine",
+  "overall_resonance": "überwiegend positiv und klangvoll wahrgenommen, mit eher eleganter, französisch geprägter Ausstrahlung",
+  "practical_notes": [
+    "Für eine öffentliche Namenskarte eignet sich Céline als freundlich, stilvoll und international verständlich.",
+    "Die Schreibweise mit Akzent kann im Alltag manchmal zu Nachfragen führen.",
+    "Durch die französische Form wirkt der Name in Deutschland eher besonders als neutral-alltäglich."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist insgesamt solide, aber in Teilen gemischt aus Lexikon- und Kommentarquelle.",
+    "Einzelne Nutzerkommentare sind nicht als allgemeingültige Mehrheitsmeinung zu verstehen.",
+    "Zur tatsächlichen Verbreitung oder Alterszuordnung in Deutschland lässt sich aus dieser Quelle nur vorsichtig schließen."
+  ],
+  "short_summary": "Céline wird im Deutschen meist als eleganter, französisch klingender Mädchenname mit positiver, himmlischer Bedeutungsassoziation wahrgenommen.",
+  "source_count": 1,
+  "sources": [
+    {
+      "confidence": 0.91,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Céline: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,C%C3%A9line.html"
+    }
+  ],
+  "style_effect": [
+    "französisch",
+    "elegant",
+    "weich im Klang",
+    "modern, aber nicht trendig-aufdringlich",
+    "leicht poetisch durch die Bedeutungsassoziation"
+  ],
+  "usable_evidence_count": 1,
+  "visibility": "im deutschsprachigen Raum gut bekannt, aber nicht allgegenwärtig; wirkt eher vertraut als massenhaft verbreitet"
+}

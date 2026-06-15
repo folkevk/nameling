@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "Kurzform von Benedikt",
+    "Bedeutung: 'der Gesegnete'",
+    "schwedisch/dänische Namensform",
+    "lateinische Herkunft",
+    "selten in Deutschland",
+    "Namenstag",
+    "nordisch-sachlicher Klang"
+  ],
+  "confidence": 0.78,
+  "display_text": "Bengt wirkt in Deutschland eher selten, skandinavisch und markant. Die Quellen zeigen eine überwiegend neutrale bis positive Wahrnehmung; einzelne positive Kommentare sind aber subjektiv und nicht repräsentativ.",
+  "evidence_quality": "mittel",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Bengt",
+  "normalized_name": "bengt",
+  "overall_resonance": "Bengt wird in den vorliegenden Quellen überwiegend neutral bis positiv beschrieben. Der Name wirkt klar skandinavisch, eher selten und dadurch auffällig, ohne dass sich daraus eine starke gesellschaftliche Wertung ableiten lässt.",
+  "practical_notes": [
+    "Für eine Namenssuche ist Bengt eine gute Wahl, wenn ein kurzer, nordisch wirkender und eher ungewöhnlicher Name gesucht wird.",
+    "Die Seltenheit kann als Vorteil für Individualität wahrgenommen werden, kann aber auch erklärungsbedürftig sein.",
+    "Im deutschen Kontext wirkt der Name verständlich, aber nicht alltäglich."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz zur öffentlichen Resonanz ist insgesamt nur mittelstark und stammt vor allem aus Namenslexika plus einzelnen Kommentaren.",
+    "Einzelne positive Wertungen wie 'cool' oder 'locker' sind subjektiv und nicht repräsentativ.",
+    "Keine belastbaren Hinweise auf Stigmatisierung oder negative gesellschaftliche Konnotationen in den Quellen."
+  ],
+  "short_summary": "Bengt wird in den Quellen als seltener, skandinavisch geprägter Vorname mit neutral bis positiver Wirkung beschrieben. Die öffentliche Resonanz wirkt eher freundlich und markant als breit bekannt.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Bengt � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/B/Be/Bengt/"
+    },
+    {
+      "confidence": 0.9,
+      "is_name_discussion": true,
+      "sentiment": "überwiegend positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Bengt: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Bengt.html"
+    }
+  ],
+  "style_effect": [
+    "skandinavisch",
+    "kurz und markant",
+    "klassisch-historisch",
+    "selten und dadurch auffällig",
+    "eher sachlich als verspielt"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland eher selten und deshalb eher bekannt als besonderer oder nordisch geprägter Vorname. Die öffentliche Sichtbarkeit wirkt insgesamt begrenzt."
+}

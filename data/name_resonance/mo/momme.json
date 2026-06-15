@@ -1,0 +1,58 @@
+{
+  "associations": [
+    "friesische und niederdeutsche Kurzform",
+    "männlicher Vorname",
+    "Norddeutschland/Schleswig-Holstein",
+    "Bedeutungen wie „glänzender Geist“ oder „strahlender Wille“",
+    "ungewöhnlich, aber nicht stark negativ besetzt"
+  ],
+  "confidence": 0.83,
+  "display_text": "Momme wirkt öffentlich vor allem selten, norddeutsch und traditionell. Die vorhandenen Quellen beschreiben den Namen überwiegend sachlich bis freundlich, mit einer leicht positiven Note und klarer regionaler Zuordnung.",
+  "evidence_quality": "mittel: klare Namenslexikon-Belege, aber nur begrenzte und kaum breit gestützte öffentliche Resonanz",
+  "generated_at": "2026-06-14T10:47:41Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Momme",
+  "normalized_name": "momme",
+  "overall_resonance": "Momme wird öffentlich eher sachlich bis freundlich wahrgenommen: als seltener, norddeutsch/friesisch geprägter Jungenname mit klarer regionaler Färbung und eher traditionell-lexikalischer Wirkung.",
+  "practical_notes": [
+    "Für Namenssuchende wirkt Momme kurz, markant und regional geprägt.",
+    "Die Bedeutung wird in den Quellen positiv bzw. wertschätzend beschrieben, sollte aber als lexikalische Deutung und nicht als gesicherte historische Tatsache verstanden werden."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt überwiegend aus wenigen Namenslexikon-Quellen; eine breite öffentliche Debatte ist nicht belegt.",
+    "Die Wahrnehmung als „ungewöhnlich“ beschreibt die Häufigkeit, nicht eine negative Bewertung."
+  ],
+  "short_summary": "Momme wird als seltener, norddeutsch-friesischer Jungenname mit eher positiver, sachlicher Resonanz beschrieben. Die öffentliche Sichtbarkeit ist begrenzt, die Quellenlage aber klar genug für eine vorsichtige Einordnung.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.94,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Momme � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/M/Mo/Momme/"
+    },
+    {
+      "confidence": 0.91,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Momme: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Momme.html"
+    }
+  ],
+  "style_effect": [
+    "selten",
+    "regional-norddeutsch",
+    "traditionell",
+    "einprägsam",
+    "leicht ungewöhnlich",
+    "sprachlich klar"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland wirkt der Name eher selten und regional verortet, besonders mit Bezug zu Norddeutschland und Schleswig-Holstein. Die öffentliche Sichtbarkeit scheint deshalb begrenzt, aber eindeutig als eigenständiger Vorname vorhanden."
+}

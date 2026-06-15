@@ -1,0 +1,64 @@
+{
+  "associations": [
+    "Kurzform/Koseform von John, Jon oder Jonathan",
+    "englisch bzw. international geprägt",
+    "Bedeutung im Umfeld von Johannes: 'Gott ist gnädig' / 'Geschenk Jahwes'",
+    "eher besonders statt alltäglich",
+    "in Namenslexika häufig als eigenständige Schreibweise geführt",
+    "teilweise popkulturelle oder umgangssprachliche Wirkung"
+  ],
+  "confidence": 0.82,
+  "display_text": "Jonny: überwiegend freundlich und locker wahrgenommen, eher als internationale Kurzform denn als klassischer Traditionsname. Die Quellen deuten auf eine meist positive, aber stilistisch informelle Wirkung hin.",
+  "evidence_quality": "mittel bis gut: zwei namenskundliche Webquellen mit klarer Direktbezugnahme auf den Vornamen; öffentliche Breitenresonanz nur indirekt erschließbar.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Jonny",
+  "normalized_name": "jonny",
+  "overall_resonance": "Jonny wirkt in der öffentlichen Namenswahrnehmung überwiegend als lockere, international anmutende Kurz- bzw. Koseform mit freundlicher, eher ungezwungener Ausstrahlung. Die Rezeption ist insgesamt eher positiv bis neutral; die Quellen betonen vor allem Herkunft, Bedeutung und die Einordnung als Kurzform.",
+  "practical_notes": [
+    "Für Suchmaschinenleser gut als kurze, klare Namensform einzuordnen.",
+    "Wer einen traditionellen oder formellen Klang sucht, könnte Jonny als lockerer empfinden.",
+    "Wer eine freundliche, unkomplizierte und moderne Kurzform mag, nimmt den Namen eher positiv wahr.",
+    "Die Schreibweise 'Jonny' wirkt eigenständig, aber deutlich als Kurzform lesbar."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die öffentliche Resonanz basiert hier vor allem auf Namenslexika und Einordnungen zur Herkunft; belastbare breite Meinungsdaten sind nicht enthalten.",
+    "Einzelne positive Kommentare oder Erwähnungen sind anekdotisch und nicht repräsentativ für die Gesamtwahrnehmung.",
+    "Es gibt keine klare Evidenz für eine Stigmatisierung; falls jemand den Namen als zu informell empfindet, wäre das eher eine Stilfrage als ein festes Vorurteil."
+  ],
+  "short_summary": "Jonny wird meist als freundliche, internationale Kurzform mit lockerer, moderner Wirkung wahrgenommen; insgesamt eher positiv, aber nicht stark klassisch.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Jonny � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/J/Jo/Jonny/"
+    },
+    {
+      "confidence": 0.84,
+      "is_name_discussion": true,
+      "sentiment": "mostly positive",
+      "source_type": "web",
+      "title": "&#9655; Vorname Jonny: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Jonny.html"
+    }
+  ],
+  "style_effect": [
+    "locker",
+    "jugendlich",
+    "freundlich",
+    "informell",
+    "international",
+    "kurz und prägnant",
+    "umgangssprachlich wirkend",
+    "weniger traditionell als die Langform"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland ist der Name bekannt, aber eher nicht klassisch-zeitlos, sondern als markanter, etwas seltenerer Vorname mit klarer Kurzform- und Spitznamen-Anmutung sichtbar."
+}

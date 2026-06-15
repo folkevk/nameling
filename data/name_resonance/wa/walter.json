@@ -1,0 +1,64 @@
+{
+  "associations": [
+    "althochdeutsche Herkunft",
+    "Bedeutung in Richtung Herrscher/Heerführer",
+    "altdeutscher Jungenname",
+    "mittelalterlich bzw. traditionsreich",
+    "historisch weit verbreitet",
+    "Namenstag",
+    "frühe Beliebtheit im 20. Jahrhundert"
+  ],
+  "confidence": 0.91,
+  "display_text": "Walter wird in Deutschland meist als klassischer, traditionsreicher und historisch geprägter Vorname wahrgenommen. Die Resonanz ist überwiegend neutral bis leicht positiv; aktuell wirkt der Name eher traditionell als trendig. Die öffentliche Evidenz ist stark für Herkunft und Bedeutung, aber vor allem lexikalisch statt meinungsbasiert.",
+  "evidence_quality": "hoch für Herkunft, Bedeutung und traditionelle Einordnung; mittel für öffentliche Resonanz, da die Quellen vor allem lexikalisch und redaktionell sind.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Walter",
+  "normalized_name": "walter",
+  "overall_resonance": "Walter wird öffentlich vor allem als klassischer, traditionsreicher und klar historisch verankerter Vorname wahrgenommen. Die Resonanz ist überwiegend neutral bis leicht positiv: sachlich, bekannt und mit starker Namenskunde-Prägung.",
+  "practical_notes": [
+    "Für Suchmaschinenkontext eignet sich Walter als etablierter, gut erklärbarer Vorname mit klarer Herkunft.",
+    "Der Name kann je nach Kontext eher traditionell als modern klingen.",
+    "Die öffentliche Wahrnehmung ist eher stabil als trendgetrieben."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt überwiegend aus Namenslexika und redaktionellen Beschreibungen, nicht aus breiter öffentlicher Meinungsforschung.",
+    "Einige Assoziationen spiegeln historische Namensdeutungen wider und sollten nicht als Eigenschaften von Namensträgern verstanden werden.",
+    "Es gibt keine klare Stigmatisierung, aber der Name wirkt heute eher klassisch als zeitgemäß."
+  ],
+  "short_summary": "Walter gilt in Deutschland als klassischer, traditionsreicher Vorname mit altdeutscher Herkunft und neutral bis leicht positiver Wahrnehmung.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Walter � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/W/Wa/Walter/"
+    },
+    {
+      "confidence": 0.95,
+      "is_name_discussion": true,
+      "sentiment": "mixed",
+      "source_type": "web",
+      "title": "&#9655; Vorname Walter: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Walter.html"
+    }
+  ],
+  "style_effect": [
+    "traditionell",
+    "altdeutsch",
+    "klassisch",
+    "seriös",
+    "historisch",
+    "namenskundlich",
+    "sachlich",
+    "eher generationsälter"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland gut bekannt, aber eher generationsgebunden und heute weniger modern wirkend. Die Sichtbarkeit ist vor allem historisch und lexikalisch geprägt, weniger durch aktuelle Trenddynamik."
+}

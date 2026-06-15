@@ -1,0 +1,63 @@
+{
+  "associations": [
+    "spanische und portugiesische Form von Philipp",
+    "Bedeutung: der Pferdefreund",
+    "Namenstag",
+    "internationaler Vorname im deutschen Kontext",
+    "selten in Deutschland",
+    "historisch und lexikalisch gut einordenbar",
+    "Spitznamen wie Fili, Flip, Feli oder Pepe"
+  ],
+  "confidence": 0.93,
+  "display_text": "Felipe wirkt in Deutschland überwiegend sachlich bis leicht positiv: ein seltener, international klingender Vorname mit klarer Herkunft und Bedeutung. Die öffentliche Rezeption ist vor allem informativ und namenskundlich, nicht auffällig stigmatisiert.",
+  "evidence_quality": "gut bis sehr gut; zwei einschlägige Namensquellen, überwiegend neutral-informativ, allerdings keine breitere Meinungs- oder Medienlage",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Felipe",
+  "normalized_name": "felipe",
+  "overall_resonance": "Felipe wird im deutschen Namenskontext überwiegend sachlich und leicht positiv wahrgenommen: als international klingende, spanisch-portugiesische Form von Philipp mit klarer Bedeutung und etablierter Namenskundlichkeit. Die öffentliche Resonanz wirkt eher informativ als trendig, mit dem Hinweis, dass der Name in Deutschland сравнително selten ist.",
+  "practical_notes": [
+    "Für eine deutsche Namensumgebung wirkt Felipe international und eigenständig.",
+    "Die Aussprache und Schreibweise sind meist unkompliziert, können aber bei Menschen mit rein deutschsprachigem Umfeld gelegentlich nachgefragt werden.",
+    "Durch die Seltenheit kann der Name als besonders und merkfähig wahrgenommen werden.",
+    "Die Quellen nennen einen Namenstag am 3. Mai."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Datenlage ist gut, aber größtenteils auf Namenslexika und aggregierte Namensdatenbanken gestützt.",
+    "Aussagen zur Wirkung sind vorsichtig zu lesen, da sie von regionalem Umfeld und persönlicher Wahrnehmung abhängen.",
+    "Keine belastbaren Hinweise auf eine negative gesellschaftliche Stigmatisierung in der vorliegenden Evidenz."
+  ],
+  "short_summary": "Felipe wird in Deutschland meist als seltener, internationaler und freundlich-klarer Vorname wahrgenommen, ohne starke negative oder stark trendige Konnotation.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Felipe � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/F/Fe/Felipe/"
+    },
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Felipe: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Felipe.html"
+    }
+  ],
+  "style_effect": [
+    "international",
+    "warm-klingend",
+    "klassisch mit mediterranem Flair",
+    "namenskundlich klar einordbar",
+    "eher selten als modisch",
+    "klingt vertraut, aber nicht alltäglich"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland eher selten und dadurch auffällig, aber nicht unbekannt. Die Sichtbarkeit ist vor allem in Namenslexika und Vornamensdatenbanken gut belegt; außerhalb davon wirkt Felipe eher als internationaler, markanter Vorname."
+}

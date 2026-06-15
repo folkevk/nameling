@@ -1,0 +1,63 @@
+{
+  "associations": [
+    "Koseform von Mary/Maria",
+    "englischsprachiger Vorname",
+    "historisch als Rufname bzw. Spitzname verwendet",
+    "in Deutschland eher selten",
+    "niedlich/lieblich wahrgenommen",
+    "teilweise auch als Variante zu Margarethe erwähnt",
+    "Namenslexikon- und Herkunftskontext"
+  ],
+  "confidence": 0.84,
+  "display_text": "Molly wirkt in Deutschland eher selten, aber freundlich und international. Die vorliegende Evidenz beschreibt den Namen vor allem als Koseform von Maria/Mary mit weichem, niedlichem Klang. Eine breite öffentliche Debatte ist nicht erkennbar; die Datenlage ist jedoch begrenzt und stammt fast nur aus Namenslexika.",
+  "evidence_quality": "mittel bis schwach: klare Namenslexikon-Belege, aber kaum freie öffentliche Rezeption oder Diskurs",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Molly",
+  "normalized_name": "molly",
+  "overall_resonance": "Der Vorname Molly wirkt in der vorliegenden deutschen Namens-Evidenz eher freundlich und sachlich-positiv, zugleich aber klar als eher seltener und vor allem anglophoner Name. Insgesamt ist die öffentliche Resonanz vorsichtig positiv, ohne starke Breitenwirkung oder kontroverse Debatte.",
+  "practical_notes": [
+    "Für die Namenswahl spricht die kurze, weiche und internationale Wirkung.",
+    "Wer einen sehr verbreiteten deutschen Alltagsnamen sucht, könnte Molly als eher ungewöhnlich empfinden.",
+    "Der Name ist gut verständlich, aber in Deutschland vermutlich eher auffällig als klassisch.",
+    "Die Datenlage zur öffentlichen Rezeption ist begrenzt; die Zusammenfassung bleibt daher vorsichtig."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt fast ausschließlich aus Namenslexika, nicht aus einer breiten öffentlichen Debatte.",
+    "Die Herkunftsangaben sind teilweise gemischt oder nicht ganz eindeutig.",
+    "Aus der vorhandenen Evidenz lassen sich keine belastbaren Aussagen über gesellschaftliche Stigmatisierung ableiten."
+  ],
+  "short_summary": "Molly wird in der vorliegenden Evidenz überwiegend freundlich und sachlich wahrgenommen, vor allem als englischsprachige, weiche Koseform mit eher seltener Verbreitung in Deutschland.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Molly � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/M/Mo/Molly/"
+    },
+    {
+      "confidence": 0.9,
+      "is_name_discussion": true,
+      "sentiment": "mostly positive",
+      "source_type": "web",
+      "title": "&#9655; Vorname Molly: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Molly.html"
+    }
+  ],
+  "style_effect": [
+    "weiblich und weich im Klang",
+    "kurz, eingängig und leicht merkbar",
+    "wirkt englischsprachig bzw. international",
+    "oft als Koseform von Maria/Mary eingeordnet",
+    "eher niedlich/lieblich als förmlich",
+    "namenskundlich interessant durch mehrere Herkunftsdeutungen"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland scheint Molly eher wenig verbreitet zu sein und taucht vor allem in Namenslexika und Herkunftsseiten auf. Eine breite öffentliche Diskussion ist in der Evidenz nicht erkennbar."
+}

@@ -1,0 +1,63 @@
+{
+  "associations": [
+    "biblischer Bezug",
+    "altgriechische Herkunft",
+    "Bedeutung: Fels/Stein",
+    "klassischer deutscher Jungenname",
+    "lange Bekanntheit in Deutschland",
+    "früher besonders verbreitet",
+    "international verständlich"
+  ],
+  "confidence": 0.93,
+  "display_text": "Peter: ein klassischer, sehr bekannter Vorname mit überwiegend neutral bis positivem Image. Häufig genannt werden die Bedeutung „Fels/Stein“, der biblische Bezug und die lange Verbreitung in Deutschland. Die Evidenz ist stark, stammt aber vor allem aus Namenslexika und ist daher eher beschreibend als diskursiv.",
+  "evidence_quality": "hoch, aber überwiegend lexikalisch und indirekt; wenig echte Diskurs-Evidenz",
+  "generated_at": "2026-06-12T06:08:03Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Peter",
+  "normalized_name": "peter",
+  "overall_resonance": "Im deutschen Sprachraum wirkt Peter als sehr etablierter, klassischer und überwiegend neutral bis positiv wahrgenommener Vorname. Die öffentliche Rezeption ist vor allem sachlich-namenskundlich geprägt: Der Name wird häufig mit biblischer Herkunft, der Bedeutung „Fels/Stein“ und langer Verbreitung verbunden.",
+  "practical_notes": [
+    "Für eine Namenssuche ist Peter ein sehr klarer, gut einordenbarer Traditionsname.",
+    "Er vermittelt eher Verlässlichkeit und Bekanntheit als Trendigkeit.",
+    "Die Schreib- und Ausspracheform ist im Deutschen unproblematisch und international geläufig."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt überwiegend aus Namenslexika und Informationsseiten, nicht aus breiter öffentlicher Debatte.",
+    "Aussagen zur Wirkung sind daher eher indirekt aus Bedeutung, Gebrauch und Beliebtheit abgeleitet.",
+    "Keine Hinweise auf eine relevante negative Stigmatisierung in der vorliegenden Evidenz."
+  ],
+  "short_summary": "Peter wird in Deutschland meist als klassischer, vertrauter und sachlich positiv besetzter Vorname wahrgenommen, mit starker traditioneller und biblischer Konnotation.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.99,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Peter � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/P/Pe/Peter/"
+    },
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Peter: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Peter.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "traditionell",
+    "seriös",
+    "zeitlos",
+    "informativ",
+    "namenkundlich",
+    "eher bodenständig als modisch"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "hoch"
+}

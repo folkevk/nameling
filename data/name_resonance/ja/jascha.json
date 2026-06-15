@@ -1,0 +1,71 @@
+{
+  "associations": [
+    "Koseform bzw. Form von Jakob/Jaakow",
+    "hebräische Wurzeln",
+    "slawische bzw. russische Form",
+    "Unisex-/genderneutrale Verwendung",
+    "selten in Deutschland, aber etabliert",
+    "Namenstag",
+    "Varianten wie Jasha, Yascha, Yasha"
+  ],
+  "confidence": 0.79,
+  "display_text": "Jascha wird öffentlich meist neutral und sachlich eingeordnet: ein seltener, aber etablierter Name mit Bezügen zu Jakob, slawischen Formen und teils unisexnaher Verwendung. Die verfügbare Evidenz stammt vor allem aus Namenslexika, daher ist die Aussagekraft zur Alltagsresonanz begrenzt.",
+  "evidence_quality": "mittel bis schwach: inhaltlich passende Namensquellen vorhanden, aber wenig echte öffentliche Resonanz außerhalb von Namensportalen.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Jascha",
+  "normalized_name": "jascha",
+  "overall_resonance": "Jascha wird in den vorliegenden Quellen überwiegend sachlich-informativ und eher neutral wahrgenommen. Der Name ist in Deutschland bekannt, aber eher selten und wirkt nicht stark emotional aufgeladen. Häufig genannt werden Herkunft, Bedeutung und die Einordnung als (auch) unisex bzw. gendernah verwendbarer Name.",
+  "practical_notes": [
+    "Für eine Namenssuche ist Jascha ein klar verständlicher, kurzer und markanter Name.",
+    "Die Wahrnehmung wirkt eher freundlich-neutral als polarisiert.",
+    "Wer einen seltenen, kulturgeschichtlich verorteten Namen sucht, findet hier passende Assoziationen.",
+    "Wenn Eindeutigkeit wichtig ist, sollte die mögliche unisex Verwendung mitgedacht werden."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt fast ausschließlich aus Namenslexika bzw. Informationsseiten; öffentliche Alltagsresonanz ist daraus nur eingeschränkt ableitbar.",
+    "Es gibt keine belastbaren Hinweise auf starke positive oder negative gesellschaftliche Wertung.",
+    "Aussagen zur Beliebtheit sollten vorsichtig gelesen werden, da sie auf Quellen mit begrenzter Kontexttiefe beruhen."
+  ],
+  "short_summary": "Jascha wirkt in der öffentlichen Darstellung überwiegend neutral, sachlich und eher selten, mit klaren Bezügen zu Jakob, slawischen Formen und einer unisexnahen Verwendung.",
+  "source_count": 3,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Jascha � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/J/Ja/Jascha/"
+    },
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Jascha � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/J/Ja/Jascha/"
+    },
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Jascha: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Jascha.html"
+    }
+  ],
+  "style_effect": [
+    "sachlich",
+    "namenskundlich",
+    "lexikalisch",
+    "leicht international/slawisch geprägt",
+    "modern-kurz",
+    "selten, aber etabliert"
+  ],
+  "usable_evidence_count": 3,
+  "visibility": "Eher gering bis mittel: Der Name ist in Namenslexika präsent und dadurch öffentlich auffindbar, aber nicht stark verbreitet oder auffällig im Alltag."
+}

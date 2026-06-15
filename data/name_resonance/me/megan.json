@@ -1,0 +1,63 @@
+{
+  "associations": [
+    "walisische Koseform von Margaret / Margarete",
+    "Bedeutung: die Perle",
+    "englischsprachiger Raum",
+    "Namenstag 20. Juli",
+    "in Deutschland eher selten",
+    "schön klingend (in einzelnen Kommentaren)",
+    "gelegentlich Hinweise auf unterschiedliche Aussprache"
+  ],
+  "confidence": 0.84,
+  "display_text": "Megan wirkt in Deutschland eher selten, modern und leicht international. Die Quellen beschreiben den Namen überwiegend neutral bis positiv, mit der Bedeutung „die Perle“ und einem walisisch-englischen Hintergrund. Eine starke öffentliche Debatte ist nicht erkennbar; die Evidenz ist jedoch begrenzt und beruht vor allem auf Namenslexika.",
+  "evidence_quality": "Begrenzt: zwei namenskundliche Webquellen, überwiegend lexikalisch und teilweise kommentarbasiert; keine breite Diskussionslage sichtbar.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Megan",
+  "normalized_name": "megan",
+  "overall_resonance": "Überwiegend neutral bis leicht positiv. Megan wird in den vorliegenden Quellen vor allem als moderner, englisch-walisischer Vorname mit positiver Bedeutung beschrieben; eine breite öffentliche Debatte ist in der Evidenz nicht erkennbar.",
+  "practical_notes": [
+    "Für Suchende in Deutschland wirkt Megan vertraut, aber nicht alltäglich.",
+    "Der Name ist international gut einordenbar und wird meist mit englisch/walisischem Hintergrund verbunden.",
+    "Falls eine eindeutige deutsche Aussprache wichtig ist, kann es zu Rückfragen kommen."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist schmal und stützt sich im Wesentlichen auf Namenslexika mit einzelnen Kommentaren.",
+    "Mögliche Aussagen zur Wirkung beruhen eher auf Beschreibung und Anekdoten als auf breiter öffentlicher Wahrnehmung.",
+    "Keine belastbaren Hinweise auf Stigmatisierung im Datensatz erkennbar."
+  ],
+  "short_summary": "Megan wird in den vorliegenden Quellen als seltener, moderner und eher positiv wahrgenommener Vorname mit walisisch-englischem Hintergrund beschrieben.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Megan � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/M/Me/Megan/"
+    },
+    {
+      "confidence": 0.92,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Megan: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Megan.html"
+    }
+  ],
+  "style_effect": [
+    "modern",
+    "international",
+    "weiblich",
+    "weich klingend",
+    "eher selten",
+    "namenskundlich etabliert",
+    "positiv konnotiert durch Bedeutungsdeutung"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland wirkt der Name eher selten und dadurch auffälliger, aber nicht belastet. Die verfügbare Evidenz deutet eher auf namenskundliche Erwähnungen als auf eine starke öffentliche Resonanz hin."
+}

@@ -1,0 +1,59 @@
+{
+  "associations": [
+    "Kurzform von Ronald",
+    "altnordische bzw. altgermanische Namensbezüge",
+    "Bedeutungsfelder wie „ratgebender Herrscher“",
+    "teils als männlicher Vorname, in einzelnen Quellen auch unisex beschrieben",
+    "bekannte Beliebtheit in früheren Jahrzehnten in Deutschland"
+  ],
+  "confidence": 0.84,
+  "display_text": "Ronny wirkt in der öffentlichen Wahrnehmung überwiegend neutral bis leicht positiv: ein vertrauter, historisch in Deutschland gut sichtbarer Vorname mit klassischer Kurzform- und Herkunftsdeutung. Die Evidenz ist solide, aber eher beschreibend als meinungsstark.",
+  "evidence_quality": "mittel bis gut: zwei sachliche Namenslexika mit hoher Relevanz, aber nur begrenzt echte öffentliche Resonanzdaten; daher eher beschreibend als meinungsstark.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Ronny",
+  "normalized_name": "ronny",
+  "overall_resonance": "Überwiegend neutral bis leicht positiv: Ronny wird öffentlich vor allem als etablierter Vorname mit klarer Namenskundlichkeit wahrgenommen, ohne starke emotionale Aufladung.",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt Ronny unkompliziert, vertraut und klar aussprechbar.",
+    "Der Name hat einen eher zeittypischen Charakter und kann nostalgisch wirken.",
+    "Die Evidenzlage ist ordentlich, aber für feine Imageaussagen begrenzt; die Gesamtwirkung sollte vorsichtig formuliert werden."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Hinweise auf Geschlechtszuordnung sind in den Quellen nicht völlig einheitlich; die öffentliche Wahrnehmung ist aber überwiegend männlich geprägt.",
+    "Einzelne Aussagen zu Resonanz aus Kommentaren sind nur schwach belastbar und sollten nicht überbewertet werden.",
+    "Keine belastbaren Hinweise auf starke Stigmatisierung; falls einzelne Vorurteile existieren, sind sie in der vorliegenden Evidenz nicht ausreichend belegt."
+  ],
+  "short_summary": "Ronny wird in Deutschland meist neutral bis leicht positiv wahrgenommen: ein vertrauter, historisch gut verankerter Vorname mit klassischer Kurzform- und Herkunftsdeutung.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Ronny � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/R/Ro/Ronny/"
+    },
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Ronny: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Ronny.html"
+    }
+  ],
+  "style_effect": [
+    "informativ",
+    "alltagsnah",
+    "eher unkompliziert",
+    "klassisch-vertraut",
+    "teils als Kurzform wahrgenommen"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Im deutschsprachigen Raum bekannt, mit besonderer historischer Präsenz in Deutschland, vor allem in den 1970er/1980er Jahren und teils in der DDR; heute eher als vertrauter, nicht mehr hochaktueller Name sichtbar."
+}

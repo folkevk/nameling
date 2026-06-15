@@ -1,0 +1,62 @@
+{
+  "associations": [
+    "weiblicher Vorname",
+    "Koseform bzw. Kurzform im englischen Sprachraum",
+    "Nähe zu Maria/Mary bzw. Molly in manchen Herleitungen",
+    "selten in Deutschland",
+    "freundlich und unkompliziert im Klang",
+    "gelegentlich mit englischsprachigen oder popkulturellen Kontexten verbunden"
+  ],
+  "confidence": 0.89,
+  "display_text": "Polly wirkt in Deutschland freundlich, kurz und etwas englisch geprägt. Der Name ist eher selten, aber gut verständlich und meist sachlich bis positiv besetzt. Einige Herkunftsangaben sind nicht ganz eindeutig, daher sollte man etymologische Deutungen vorsichtig lesen.",
+  "evidence_quality": "Gut: Beide Quellen diskutieren direkt den Vornamen, seine Herkunft, Klangwirkung und Beliebtheit; die Bewertung der Rezeption ist dadurch solide, auch wenn etymologische Details teils unsicher sind.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Polly",
+  "normalized_name": "polly",
+  "overall_resonance": "Überwiegend freundlich-sachlich mit leicht positiver Tendenz; der Name wirkt im deutschen Kontext eher selten und dadurch auffällig, aber nicht stark polarisiert.",
+  "practical_notes": [
+    "Für deutschsprachige Ohren gut aussprechbar und leicht merkbar.",
+    "Durch die Seltenheit kann der Name individuell und markant wirken.",
+    "Die kurze Form vermittelt eher einen freundlichen, lockeren Eindruck.",
+    "Als international anschlussfähiger Name kann Polly je nach Umfeld englisch geprägt wahrgenommen werden."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Einzelne Bedeutungsherleitungen sind uneinheitlich oder unsicher; solche etymologischen Aussagen sollten vorsichtig gelesen werden.",
+    "Die Nebenbedeutung als Papageienbezeichnung im Englischen ist nur kontextuell und nicht als Namensurteil zu verstehen.",
+    "Es gibt keine belastbaren Hinweise auf eine starke soziale Stigmatisierung; wenn überhaupt, ist die Wahrnehmung eher von Seltenheit als von Vorurteilen geprägt."
+  ],
+  "short_summary": "Polly wird im deutschsprachigen Raum meist freundlich und leicht verspielt wahrgenommen, gilt aber als eher seltener Vorname. Die öffentliche Rezeption ist überwiegend sachlich bis positiv, ohne klare Hinweise auf starke Vorurteile.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Polly � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/P/Po/Polly/"
+    },
+    {
+      "confidence": 0.94,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Polly: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Polly.html"
+    }
+  ],
+  "style_effect": [
+    "kurz",
+    "weich klingend",
+    "englisch geprägt",
+    "jugendlich-frisch",
+    "kosenameartig",
+    "leicht verspielt"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Gering bis mittel: Polly ist in Deutschland eher ungewöhnlich und daher nicht allgegenwärtig, aber als Vorname klar verständlich."
+}

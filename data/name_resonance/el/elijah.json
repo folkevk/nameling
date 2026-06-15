@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "Bibel / biblischer Ursprung",
+    "hebräische Bedeutung: „mein Gott ist Jahwe“",
+    "englische Form von Elias / Elia",
+    "Namenstag",
+    "moderne internationale Namenswirkung",
+    "in Deutschland selten bis zunehmend"
+  ],
+  "confidence": 0.83,
+  "display_text": "Elijah wirkt in Deutschland überwiegend positiv und sachlich-informativ: ein biblischer, international klingender Jungenname, der eher selten, aber zunehmend bekannt ist. Die Quellen betonen Bedeutung, Herkunft und Namenstag; eine starke gesellschaftliche Stigmatisierung ist nicht ersichtlich.",
+  "evidence_quality": "gut für Namensbedeutung und Einordnung, aber nur mittelstark für öffentliche Resonanz, da vor allem einzelne Namenslexika vorliegen",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Elijah",
+  "normalized_name": "elijah",
+  "overall_resonance": "Elijah wird in Deutschland überwiegend positiv und sachlich-informativ wahrgenommen. Der Name gilt als biblisch geprägter Jungenname mit klarer Herkunft und angenehmem, modern-englischem Klang. In den Quellen wird er als eher selten, aber zunehmend präsent beschrieben.",
+  "practical_notes": [
+    "Für deutschsprachige Leser meist gut verständlich und leicht einzuordnen.",
+    "Wirkt zugleich traditionell und modern, was die öffentliche Wahrnehmung freundlich prägt.",
+    "Die Schreibweise ist international bekannt, die Aussprache kann je nach Region unterschiedlich betont werden."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt nur aus wenigen Namensseiten; die öffentliche Resonanz ist daher nur eingeschränkt belegbar.",
+    "Die Einschätzung beschreibt den Namen, nicht Personen mit diesem Namen.",
+    "Seltenheit kann je nach Umfeld als besonders oder ungewohnt wirken, ohne dass daraus eine allgemeine Wertung folgt."
+  ],
+  "short_summary": "Elijah wird in Deutschland meist positiv, biblisch und modern-international wahrgenommen; der Name ist bekannt, aber noch eher selten.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Elijah � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/E/El/Elijah/"
+    },
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Elijah: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Elijah.html"
+    }
+  ],
+  "style_effect": [
+    "biblisch-traditionell",
+    "modern-international",
+    "weich und klangvoll",
+    "namenskundlich positiv besetzt",
+    "eher selten, aber vertraut"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "mittlere Sichtbarkeit; in Namenslexika gut auffindbar, im Alltag eher noch nicht sehr häufig"
+}

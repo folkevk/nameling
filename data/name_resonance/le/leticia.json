@@ -1,0 +1,58 @@
+{
+  "associations": [
+    "lateinische Herkunft",
+    "Bedeutung: Freude / Fröhlichkeit",
+    "spanische und portugiesische Form von Laetitia",
+    "Namenstag am 5. Juli",
+    "bekannt, aber nicht sehr häufig in Deutschland"
+  ],
+  "confidence": 0.84,
+  "display_text": "Leticia wirkt in Deutschland überwiegend freundlich-sachlich und leicht positiv. Der Name ist bekannt, aber nicht sehr häufig, und wird vor allem mit ‚Freude‘, ‚Fröhlichkeit‘ sowie einer lateinisch-romanischen Herkunft verbunden. Die öffentliche Evidenz ist eher lexikalisch als gesellschaftlich breit, daher ist das Bild vorsichtig zu lesen.",
+  "evidence_quality": "mittel bis gut; überwiegend lexikalische Quellen, aber klare und übereinstimmende Angaben zur Bedeutung, Herkunft und allgemeinen Bekanntheit.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Leticia",
+  "normalized_name": "leticia",
+  "overall_resonance": "Überwiegend freundlich-sachlich und leicht positiv, vor allem durch die Bedeutung und die klassische, lateinische Herkunft; insgesamt eher unauffällig im öffentlichen Bild.",
+  "practical_notes": [
+    "Für die öffentliche Wahrnehmung ist vor allem die positive Bedeutungsseite relevant.",
+    "Der Name dürfte in Deutschland gut verständlich sein und wirkt eher vertraut als exotisch.",
+    "Die Aussagekraft der Quellen ist moderat bis hoch, aber nicht breit gesellschaftlich abgesichert."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist begrenzt und basiert vor allem auf Namenslexika statt auf breiter öffentlicher Meinungsvielfalt.",
+    "Es gibt keine Hinweise auf eine nennenswerte Kontroverse oder soziale Stigmatisierung im Material."
+  ],
+  "short_summary": "Leticia wird öffentlich meist freundlich, klassisch und leicht international wahrgenommen; die Quellen betonen vor allem die Bedeutung ‚Freude‘ und die lateinisch-romanische Herkunft.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.95,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Leticia � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/L/Le/Leticia/"
+    },
+    {
+      "confidence": 0.88,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Leticia: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Leticia.html"
+    }
+  ],
+  "style_effect": [
+    "klingt weich und melodisch",
+    "wirkt international und romanisch",
+    "hat einen eher klassischen, eleganten Eindruck",
+    "assoziiert häufig Freude und Fröhlichkeit",
+    "erscheint eher zeitlos als trendig"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland wirkt der Name bekannt, aber nicht extrem häufig. Die öffentliche Präsenz erscheint eher lexikalisch als gesellschaftlich diskutiert."
+}

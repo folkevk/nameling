@@ -1,0 +1,69 @@
+{
+  "associations": [
+    "hebräischer Ursprung",
+    "Kurzform von Elisabeth",
+    "biblischer Bezug",
+    "Bedeutungen wie \"Gott ist Fülle\" bzw. \"mein Gott schwört\"",
+    "Beliebtheit in Deutschland",
+    "Namenstag-Angaben",
+    "teils als weiblich, vereinzelt auch als unisex beschrieben"
+  ],
+  "confidence": 0.84,
+  "display_text": "Elisa wirkt in den verfügbaren Quellen überwiegend freundlich, klassisch und leicht positiv besetzt. Der Name wird als hebräisch-biblisch eingeordnet und in Deutschland als bekannt und beliebt beschrieben. Da die Evidenz vor allem aus Namensdatenbanken stammt, ist die Aussage zur echten öffentlichen Resonanz vorsichtig zu lesen.",
+  "evidence_quality": "mittel bis schwach: gute namenskundliche Beschreibung, aber nur begrenzte direkte Evidenz zur öffentlichen Resonanz.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Elisa",
+  "normalized_name": "elisa",
+  "overall_resonance": "Der Vorname Elisa wird in den vorliegenden Quellen überwiegend sachlich, freundlich und leicht positiv beschrieben. Die öffentliche Resonanz wirkt eher unaufgeregt und namenskundlich als kontrovers.",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt Elisa vertraut, elegant und gut anschlussfähig.",
+    "Der Name hat einen klaren, kulturell bekannten Hintergrund und ist in Deutschland präsent.",
+    "Wenn eine rein öffentliche Resonanz gemeint ist, sollte man die Evidenz als eher schwach bis mittel einordnen."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Quellen sind überwiegend Namenslexika und zeigen eher Beschreibung als freie öffentliche Meinung.",
+    "Daraus lässt sich keine starke gesellschaftliche Bewertung ableiten.",
+    "Angaben zu Unisex-Nutzung wirken in den Quellen randständig und sollten nicht überinterpretiert werden."
+  ],
+  "short_summary": "Elisa wird überwiegend positiv und sachlich wahrgenommen: klassisch, klangvoll und in Deutschland bekannt. Die Quellen sind jedoch vor allem Namensportale, daher ist die Aussage zur öffentlichen Resonanz nur vorsichtig zu verstehen.",
+  "source_count": 3,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Elisa � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/E/El/Elisa/"
+    },
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Elisa � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/E/El/Elisa/"
+    },
+    {
+      "confidence": 0.94,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Elisa: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Elisa.html"
+    }
+  ],
+  "style_effect": [
+    "klangvoll und weich",
+    "klassisch-biblisch",
+    "modern und zugleich vertraut",
+    "eher elegant als auffällig",
+    "neutral bis leicht positiv besetzt"
+  ],
+  "usable_evidence_count": 3,
+  "visibility": "Mittlere Sichtbarkeit: Elisa erscheint in Namensdatenbanken und Vorname-Portalen als bekannter, in Deutschland geläufiger Vorname. Die Evidenz zur echten öffentlichen Wahrnehmung außerhalb dieser lexikalischen Quellen ist jedoch begrenzt."
+}

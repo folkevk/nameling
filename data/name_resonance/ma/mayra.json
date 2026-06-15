@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "Bedeutungen wie „die Wunderbare“ oder „die Bezaubernde“",
+    "lateinische, gälische, altirische oder griechische Herleitungen werden genannt",
+    "teils als spanisch oder irisch eingeordnet",
+    "Namenstag wird in Lexikonquellen erwähnt",
+    "in einzelnen Quellen als selten oder ungewöhnlich beschrieben",
+    "insgesamt positive, beschreibende Namenswirkung"
+  ],
+  "confidence": 0.74,
+  "display_text": "Mayra wirkt im deutschen Kontext überwiegend freundlich, modern und klangvoll. Die vorhandenen Quellen betonen vor allem positive Bedeutungen wie „die Wunderbare“ oder „die Bezaubernde“ sowie eine teils internationale Herkunft. Gleichzeitig ist die Evidenz für echte öffentliche Resonanz begrenzt, da vor allem Namenslexika und Beschreibungstexte vorliegen. Insgesamt: eher positiv, aber sachlich und nicht stark polarisiert.",
+  "evidence_quality": "mittel bis schwach; vor allem lexikalische Quellen, wenig direkte öffentliche Meinungsäußerung",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Mayra",
+  "normalized_name": "mayra",
+  "overall_resonance": "Überwiegend freundlich und leicht positiv, aber eher sachlich als klar öffentlich bewertet. Die vorhandene Evidenz zeigt vor allem Namenslexikon- und Beschreibungstexte, keine starke breite Diskussionslage.",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt Mayra freundlich, modern und klangvoll.",
+    "Die Schreibweise ist klar, die internationale Anmutung kann als Pluspunkt empfunden werden.",
+    "Wer Eindeutigkeit bei Herkunft und Bedeutung sucht, sollte mit mehreren möglichen Deutungen rechnen."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist schwach für eine echte öffentliche Resonanz, da vor allem Namensdatenbanken und Lexikontexte vorliegen.",
+    "Die Herkunfts- und Bedeutungsangaben sind teils uneinheitlich und sollten vorsichtig gelesen werden.",
+    "Es gibt keine belastbare Grundlage für starke Aussagen über gesellschaftliche Vorurteile oder klare Trendwahrnehmung."
+  ],
+  "short_summary": "Mayra wird im Deutschen meist freundlich und leicht positiv wahrgenommen, mit modernem, klangvollem Eindruck. Die Quellen sind jedoch eher Namenslexika als echte Publikumsstimmen, daher ist die öffentliche Resonanz nur begrenzt belegbar.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.92,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Mayra � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/M/Ma/Mayra/"
+    },
+    {
+      "confidence": 0.92,
+      "is_name_discussion": true,
+      "sentiment": "gemischt bis leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Mayra: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Mayra.html"
+    }
+  ],
+  "style_effect": [
+    "weich",
+    "klingend",
+    "modern",
+    "international wirkend",
+    "eher feminin",
+    "leicht exotisch, aber vertraut"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Mittlere Sichtbarkeit: Mayra wird in deutschen Namensportalen als bekannt und teils beliebt beschrieben, wirkt aber insgesamt eher als moderner, nicht alltäglicher Vorname."
+}

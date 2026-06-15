@@ -1,0 +1,58 @@
+{
+  "associations": [
+    "Kurzform von Matthias bzw. Matthew",
+    "hebräischer Ursprung",
+    "Bedeutung: Gabe Gottes / Geschenk Gottes",
+    "biblischer Bezug",
+    "vergleichsweise selten im deutschsprachigen Raum"
+  ],
+  "confidence": 0.77,
+  "display_text": "Matt hat im deutschsprachigen Raum eine eher seltene, kurze und international wirkende Ausstrahlung. In der vorliegenden Evidenz wird der Name vor allem sachlich als Kurzform von Matthias oder Matthew mit hebräischer Bedeutung beschrieben; die Resonanz ist daher eher neutral bis leicht positiv, aber nur schwach öffentlich belegt.",
+  "evidence_quality": "Eher schwach bis mittel: zwei spezialisierte Namensseiten, überwiegend lexikalische und statistische Angaben, nur begrenzt echte öffentliche Resonanz.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Matt",
+  "normalized_name": "matt",
+  "overall_resonance": "Matt wirkt im deutschsprachigen Raum eher wie eine kurze, internationale Kurzform mit sachlich-neutraler bis leicht positiver Anmutung. Die öffentliche Resonanz in der vorliegenden Evidenz ist jedoch schwach und stammt vor allem aus Namenslexika statt aus breiter Diskussion.",
+  "practical_notes": [
+    "Als kurzer Vorname ist Matt leicht aussprechbar und international verständlich.",
+    "Im deutschen Alltag kann der Name wegen seiner Kürze und englischen Anmutung auffallen.",
+    "Die Wahrnehmung dürfte je nach Umfeld stärker als Kurzform denn als vollwertiger Traditionsname gelesen werden."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenzlage ist begrenzt und überwiegend beschreibend, nicht durch breite öffentliche Meinungsäußerungen gestützt.",
+    "Eine positive Färbung aus Namenslexika sollte nicht mit allgemeiner gesellschaftlicher Zustimmung verwechselt werden."
+  ],
+  "short_summary": "Matt wird im Deutschen als seltene, kurze und international wirkende Kurzform wahrgenommen, mit neutral bis leicht positiver Anmutung. Die Evidenz ist aber überwiegend beschreibend und nur begrenzt öffentlich-rezeptiv.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Matt � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/M/Ma/Matt/"
+    },
+    {
+      "confidence": 0.87,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Matt: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Matt.html"
+    }
+  ],
+  "style_effect": [
+    "kurz und knapp",
+    "international/englisch wirkend",
+    "modern und unkompliziert",
+    "lexikalisch-beschreibend",
+    "eher sachlich als verspielt"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Im öffentlichen deutschen Namenskontext eher selten und daher vergleichsweise wenig präsent. Die Wahrnehmung scheint stärker über Herkunft und Bedeutung als über eine große Alltagsnutzung geprägt zu sein."
+}

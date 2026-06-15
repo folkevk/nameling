@@ -1,0 +1,52 @@
+{
+  "associations": [
+    "französische Form von Veronika",
+    "altgriechische Herkunft",
+    "Bedeutung: die Siegbringende / Siegbringerin",
+    "weiblicher Vorname",
+    "in Deutschland selten",
+    "Namenstag am 4. Februar und 9. Juli"
+  ],
+  "confidence": 0.89,
+  "display_text": "Veronique wirkt in Deutschland vor allem selten, französisch und elegant. Öffentlich belegt sind vor allem Herkunft, Bedeutung und geringe Verbreitung; Hinweise auf negative Konnotationen gibt es nicht.",
+  "evidence_quality": "hoch für Herkunft, Bedeutung und Seltenheit; begrenzt für öffentliche Alltagswahrnehmung, da überwiegend lexikalische Evidenz vorliegt.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Veronique",
+  "normalized_name": "veronique",
+  "overall_resonance": "Überwiegend neutral bis leicht elegant-französisch geprägt. In der öffentlichen Namensbeschreibung erscheint Veronique vor allem als seltene, stilistisch markante Variante mit klarer französischer Anmutung.",
+  "practical_notes": [
+    "Gut geeignet, wenn ein französisch klingender und ungewöhnlicher Name gewünscht ist.",
+    "Die Schreibweise kann in Deutschland gelegentlich zu Rückfragen führen, da die Form seltener ist.",
+    "Für eine einfache Einordnung ist die Nähe zu Veronika hilfreich."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt im Wesentlichen aus einer Namensdatenbank und nicht aus einer breiten öffentlichen Diskussion.",
+    "Es liegen keine belastbaren Hinweise auf soziale Stigmatisierung oder negative Namensurteile vor.",
+    "Aussagen zur Wahrnehmung sollten als vorsichtige Tendenzen verstanden werden, nicht als allgemeingültige Wahrheiten."
+  ],
+  "short_summary": "Veronique wird in Deutschland als seltener, französisch wirkender Mädchenname mit klassischer Herkunft und positiver Bedeutungsassoziation beschrieben.",
+  "source_count": 1,
+  "sources": [
+    {
+      "confidence": 0.95,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Veronique � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/V/Ve/Veronique/"
+    }
+  ],
+  "style_effect": [
+    "französisch",
+    "elegant",
+    "klassisch",
+    "selten",
+    "sprachlich markant"
+  ],
+  "usable_evidence_count": 1,
+  "visibility": "In Deutschland eher geringe Sichtbarkeit und seltene Verwendung; der Name fällt daher mehr durch Klang und Schreibweise auf als durch breite Vertrautheit."
+}

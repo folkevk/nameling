@@ -1,0 +1,59 @@
+{
+  "associations": [
+    "französische Nebenform von Monika",
+    "Bedeutungsdeutungen wie „die Einzige“ oder „die Einzigartige“",
+    "Namenstag am 27. August",
+    "weiblicher Vorname",
+    "in Deutschland eher selten, aber bekannt",
+    "mögliche Kurzformen wie Moni oder Mona"
+  ],
+  "confidence": 0.83,
+  "display_text": "Monique gilt in Deutschland als eher seltener, aber gut bekannter Vorname mit französischem Klang. Die öffentliche Wahrnehmung ist überwiegend neutral bis leicht elegant und nostalgisch. Auffällige negative Stigmatisierungen zeigen die Quellen nicht.",
+  "evidence_quality": "mittel bis gut: zwei einschlägige Namensquellen, beide sachlich und direkt zum Vornamen Monique; die Gesamtevidenz bleibt jedoch schmal und quellenarm.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Monique",
+  "normalized_name": "monique",
+  "overall_resonance": "Monique wird in der öffentlichen Namenswahrnehmung in Deutschland eher als seltener, aber gut bekannter Vorname mit französischem Klang beschrieben. Die Wirkung ist überwiegend sachlich bis leicht elegant/nostalgisch; die Quellen betonen vor allem Herkunft, Bedeutung und den ungefähren Gebrauch, nicht kontroverse Assoziationen.",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt Monique vertraut, klar feminin und international geprägt.",
+    "Der Name kann je nach Kontext leicht älter oder stilvoll-französisch wirken.",
+    "Da er nicht sehr häufig ist, fällt er eher auf als viele Standardnamen."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz basiert nur auf wenigen Namenslexika und ist damit keine breite Abbildung der tatsächlichen öffentlichen Wahrnehmung.",
+    "Die Bedeutungsetymologien werden in den Quellen teils unterschiedlich angegeben; das sollte als Deutung, nicht als gesicherte Einzelfestlegung gelesen werden."
+  ],
+  "short_summary": "Monique wirkt in Deutschland eher selten, aber bekannt; die Resonanz ist überwiegend neutral bis leicht elegant/nostalgisch mit französischer Anmutung.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.92,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Monique � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/M/Mo/Monique/"
+    },
+    {
+      "confidence": 0.88,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Monique: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Monique.html"
+    }
+  ],
+  "style_effect": [
+    "französisch anmutend",
+    "elegant",
+    "leicht nostalgisch",
+    "klassisch-sachlich",
+    "selten, aber vertraut"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Eher selten vergeben, aber als Vorname klar bekannt und problemlos einordenbar. Die öffentliche Sichtbarkeit wirkt vor allem lexikalisch-namenskundlich, nicht stark popkulturell oder trendgetrieben."
+}

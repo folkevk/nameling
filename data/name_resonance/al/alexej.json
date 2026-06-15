@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "altgriechische Herkunft",
+    "Bedeutung im Sinn von Beschützer/Verteidiger",
+    "russische bzw. osteuropäische Form",
+    "Varianten wie Alexei, Alexios, Alexis",
+    "Namenstag",
+    "seriös und traditionsnah"
+  ],
+  "confidence": 0.84,
+  "display_text": "Alexej wird überwiegend sachlich bis leicht positiv wahrgenommen: ein klassisch wirkender, international/slawisch geprägter Vorname mit der geläufigen Deutung als Beschützer/Verteidiger. Die Evidenz ist allerdings schwach, da sie fast nur aus Namenslexika stammt; zur breiten öffentlichen Resonanz lässt sich daher nur vorsichtig urteilen.",
+  "evidence_quality": "mittel bis schwach: zwei primär lexikalische Quellen, kaum breite öffentliche Diskussionsdaten",
+  "generated_at": "2026-06-14T10:47:41Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Alexej",
+  "normalized_name": "alexej",
+  "overall_resonance": "Alexej wird in den vorliegenden Quellen überwiegend sachlich bis leicht positiv wahrgenommen: als traditionsreicher, klar eingeordneter Vorname mit guter lexikalischer Präsenz. Öffentliche Breite ist jedoch nur schwach belegt, da die Evidenz vor allem aus Namenslexika stammt.",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt Alexej verständlich und klar verortet.",
+    "Die Schreibweise ist im Deutschen gut lesbar, aber seltener als Alexei oder Alexander.",
+    "Der Name eignet sich eher für ein klassisch-internationales Profil als für einen modischen Trendnamen."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt fast ausschließlich aus Namenslexika, daher ist die Aussagekraft zur tatsächlichen öffentlichen Resonanz begrenzt.",
+    "Mögliche regionale oder kulturelle Assoziationen sollten nicht verallgemeinert werden.",
+    "Keine belastbaren Hinweise auf Stigmatisierung oder negative öffentliche Stereotype in der vorliegenden Evidenz."
+  ],
+  "short_summary": "Alexej wirkt im deutschen Kontext traditionsreich, sachlich und leicht positiv besetzt, vor allem durch Herkunft und Bedeutung. Die Datenlage zur öffentlichen Resonanz ist jedoch begrenzt.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Alexej � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/A/Al/Alexej/"
+    },
+    {
+      "confidence": 0.94,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Alexej: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Alexej.html"
+    }
+  ],
+  "style_effect": [
+    "sachlich",
+    "klassisch",
+    "international/slawisch geprägt",
+    "lexikalisch gut erklärbar",
+    "eher formell als modern"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Im deutschen Namenskontext eher bekannt, aber nicht sehr breit alltagspräsent. Die verfügbare Evidenz spricht vor allem für eine dokumentierte, nicht für eine stark diskutierte öffentliche Wahrnehmung."
+}

@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "Bedeutung im Umfeld von „Jahwe ist gütig / gnädig“",
+    "althebräische Herkunft, vermittelt über Englisch/Altfranzösisch",
+    "Verwandtschaft zu Janet, Jeannette, Johanna und Johannes",
+    "Namenstag wird genannt",
+    "Seltenheit und Einzigartigkeit werden erwähnt"
+  ],
+  "confidence": 0.72,
+  "display_text": "Janette wird als seltener, klassisch wirkender Vorname mit leicht positiver und individueller Ausstrahlung beschrieben. In Deutschland gilt der Name eher als ungewöhnlich, ohne starke öffentliche Polarisierung. Die verfügbare Evidenz ist allerdings schmal und vor allem lexikalisch, daher nur vorsichtig zu bewerten.",
+  "evidence_quality": "mittel bis schwach: zwei überwiegend lexikalische Quellen, wenig echte öffentliche Resonanz, eher beschreibende als diskursive Evidenz",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Janette",
+  "normalized_name": "janette",
+  "overall_resonance": "Janette wirkt in der verfügbaren Evidenz eher selten, sachlich und leicht positiv konnotiert. Öffentliche Beschreibungen betonen vor allem die klassische Namensherkunft, die Bedeutung und den eher individuellen Charakter des Namens. Die Grundlage ist jedoch schmal, daher ist die Einordnung nur vorsichtig belastbar.",
+  "practical_notes": [
+    "Für eine Namenssuche liefert Janette einen klaren, vertrauten Klang mit besonderer Note.",
+    "Wer einen seltenen, aber gut einordenbaren Namen sucht, könnte ihn als passend wahrnehmen.",
+    "Die Aussagekraft zur öffentlichen Wahrnehmung ist begrenzt, weil nur wenige Quellen vorliegen."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz basiert überwiegend auf einzelnen Namenslexika und wenigen Kommentaren.",
+    "Es gibt keine breite öffentliche Meinungsdiskussion; die Resonanz ist daher eher beschreibend als repräsentativ.",
+    "Positive Zuschreibungen wie „individuell“ oder „besonders“ sind als Eindrücke zu verstehen, nicht als allgemeingültige Fakten."
+  ],
+  "short_summary": "Janette wird in den Quellen als seltener, klassisch wirkender Vorname mit leicht positiver, individueller Ausstrahlung beschrieben. Die Evidenz ist jedoch begrenzt und vor allem lexikalisch.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Janette � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/J/Ja/Janette/"
+    },
+    {
+      "confidence": 0.79,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Janette: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Janette.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "namenskundlich",
+    "eher elegant",
+    "individuell",
+    "seltener Klang",
+    "leicht zeitlos"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland wird Janette als eher seltener Vorname beschrieben. Dadurch hat der Name eine gewisse Besonderheit und fällt eher auf, ohne als stark verbreitet zu gelten."
+}

@@ -1,0 +1,59 @@
+{
+  "associations": [
+    "altnordische bzw. skandinavische Herkunft",
+    "dänische und norwegische Kurzform, oft mit Olaf verbunden",
+    "Bedeutungen wie Erbe, Nachkomme oder edel",
+    "Verbreitung in Deutschland",
+    "Namenstag- und Namenskunde-Kontext"
+  ],
+  "confidence": 0.86,
+  "display_text": "Ole wirkt in der öffentlichen Namenswahrnehmung meist freundlich, nordisch und zeitlos. Der Name ist in Deutschland bekannt, eher kurz und klar, und wird in den Quellen überwiegend positiv beschrieben. Die Einschätzung stützt sich jedoch vor allem auf Namenslexika, nicht auf breite Umfragedaten.",
+  "evidence_quality": "gut, aber überwiegend lexikalisch und nicht breit öffentlich empirisch abgesichert",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Ole",
+  "normalized_name": "ole",
+  "overall_resonance": "Der Vorname Ole wird in der öffentlichen Namenswahrnehmung überwiegend positiv und unkompliziert aufgenommen. Er wirkt kurz, nordisch und vertraut, mit einer eher zeitlosen als modischen Ausstrahlung.",
+  "practical_notes": [
+    "Für Suchmaschinen- oder Namensprofile eignet sich die Beschreibung als kurz, skandinavisch und zeitlos.",
+    "Die Wahrnehmung ist eher sachlich-positiv als emotional aufgeladen.",
+    "Als Name ist Ole in Deutschland gut anschlussfähig und leicht auszusprechen."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt hauptsächlich aus Namenslexika; echte öffentliche Meinungsdaten sind begrenzt.",
+    "Die positive Einordnung bezieht sich auf die Namensbeschreibung, nicht auf belastbare Umfragewerte.",
+    "Keine Hinweise auf soziale Stigmatisierung in der vorliegenden Evidenz."
+  ],
+  "short_summary": "Ole wird in Deutschland meist positiv, kurz und skandinavisch wahrgenommen. Die verfügbare Evidenz ist solide, aber vor allem lexikalisch geprägt.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "positive",
+      "source_type": "web",
+      "title": "Vorname Ole � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/O/Ol/Ole/"
+    },
+    {
+      "confidence": 0.94,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Ole: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Ole.html"
+    }
+  ],
+  "style_effect": [
+    "kurz und prägnant",
+    "skandinavisch-nordisch",
+    "zeitlos statt trendig",
+    "freundlich und bodenständig wirkend",
+    "eher informell und modern-klar"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Im deutschen Sprachraum gut bekannt und präsent, aber nicht extrem häufig. Die Wahrnehmung ist vor allem durch Namenslexika und Herkunftsbeschreibungen geprägt."
+}

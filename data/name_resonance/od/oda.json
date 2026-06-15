@@ -1,0 +1,63 @@
+{
+  "associations": [
+    "althochdeutsche Herkunft",
+    "Bedeutung rund um Besitz/Reichtum/Erbe",
+    "Kurzform bzw. Verwandtschaft zu Od-/Ot-Namen",
+    "Namenstag",
+    "historische/lexikalische Einordnung",
+    "selten, aber etabliert",
+    "ähnliche Formen wie Oda/Uda/Uota, Ute, Uta, Odette"
+  ],
+  "confidence": 0.86,
+  "display_text": "Oda wirkt in der öffentlichen Wahrnehmung eher positiv, klassisch und historisch. Der Name wird vor allem als alter deutscher Vorname mit Bedeutungen rund um Besitz, Reichtum oder Erbe beschrieben. Er ist eher selten, aber etabliert. Die Evidenz ist dabei begrenzt und stammt vor allem aus Namenslexika; eine breite öffentliche Debatte ist nicht erkennbar.",
+  "evidence_quality": "mittel bis schwach: zwei redaktionelle Namensquellen mit klaren Angaben zu Bedeutung, Herkunft und Seltenheit; wenig echte öffentliche Debatte sichtbar.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Oda",
+  "normalized_name": "oda",
+  "overall_resonance": "Eher positiv und sachlich-klassisch, mit leicht nostalgischem Unterton. Die öffentliche Wahrnehmung wirkt vor allem namenskundlich geprägt: Der Name wird als altdeutsch, selten und historisch verankert beschrieben.",
+  "practical_notes": [
+    "Für Suchmaschinen-Nutzer wirkt Oda kurz, traditionsreich und ungewöhnlich, aber gut einordbar.",
+    "Der Name kann je nach Umfeld als altmodisch oder bewusst klassisch wahrgenommen werden.",
+    "Die öffentliche Resonanz ist eher ruhig als kontrovers."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenzlage ist begrenzt und basiert vor allem auf Namenslexika, nicht auf einer breiten öffentlichen Diskussion.",
+    "Einzelne Kommentare sind eher anekdotisch und nicht repräsentativ.",
+    "Keine klare negative Stigmatisierung erkennbar; keine Aussagen über Namensträgerinnen ableitbar."
+  ],
+  "short_summary": "Oda wird öffentlich meist als alter, seltener und klassisch wirkender Vorname wahrgenommen. Die Resonanz ist überwiegend positiv-sachlich, aber die Evidenz zur breiten öffentlichen Meinung ist eher begrenzt.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Oda � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/O/Od/Oda/"
+    },
+    {
+      "confidence": 0.9,
+      "is_name_discussion": true,
+      "sentiment": "eher positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Oda: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Oda.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "historisch",
+    "kurz und klar",
+    "leicht altmodisch",
+    "namenskundlich",
+    "selten",
+    "weiblich gelesen, je nach Kontext"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Eher gering bis mittel: Oda ist im deutschsprachigen Raum bekannt, aber nicht sehr verbreitet. Die vorhandene Evidenz spricht mehr über Herkunft und Bedeutung als über eine breite öffentliche Debatte."
+}

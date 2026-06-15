@@ -1,0 +1,62 @@
+{
+  "associations": [
+    "altirische Herkunft",
+    "schottisch/englische Wurzeln",
+    "Bedeutung: kleine Höhle",
+    "Vorname für Jungen",
+    "teils unisex wahrgenommen",
+    "Popkultur-Bezüge",
+    "beliebter bzw. geläufiger moderner Vorname"
+  ],
+  "confidence": 0.78,
+  "display_text": "Logan wird in Deutschland meist als moderner, international klingender Vorname wahrgenommen. Die öffentliche Resonanz ist überwiegend sachlich-neutral mit leicht positiver Tendenz. Quellen nennen vor allem altirische bzw. schottisch-englische Wurzeln und die Bedeutung „kleine Höhle“. Die Evidenz ist jedoch begrenzt und stammt vor allem aus Namensportalen, nicht aus einer breiten öffentlichen Debatte.",
+  "evidence_quality": "mittel bis schwach: zwei namenskundliche Webquellen mit Mischanteil aus Lexikon, Statistik und Kommentaren; keine breite öffentliche Diskussionslage.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Logan",
+  "normalized_name": "logan",
+  "overall_resonance": "Überwiegend sachlich-neutral mit leicht positiver Tendenz. Der Name wird in den Quellen vor allem informativ beschrieben; die öffentliche Resonanz wirkt eher modern und international, ohne starke Polarisierung.",
+  "practical_notes": [
+    "Für Suchmaschinen und Namensprofile eignet sich eine kurze Einordnung mit Herkunft und Bedeutung.",
+    "Im deutschen Kontext wirkt der Name vertraut, aber nicht traditionell deutsch.",
+    "Die Wahrnehmung sollte vorsichtig formuliert werden, da die Datenbasis klein ist."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist begrenzt und stammt vor allem von zwei Namensseiten, nicht von einer breiten öffentlichen Debatte.",
+    "Einzelne positive oder neutrale Kommentare sind nicht repräsentativ für die Gesamtwahrnehmung.",
+    "Keine belastbaren Hinweise auf soziale Stigmatisierung in der vorliegenden Evidenz."
+  ],
+  "short_summary": "Logan wirkt in Deutschland modern, international und überwiegend neutral bis leicht positiv rezipiert. Die Quellen betonen vor allem Herkunft, Bedeutung und aktuelle Beliebtheit, bei begrenzter Evidenzbasis.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.94,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Logan � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/L/Lo/Logan/"
+    },
+    {
+      "confidence": 0.9,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Logan: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Logan.html"
+    }
+  ],
+  "style_effect": [
+    "modern",
+    "international",
+    "klar",
+    "jugendlich wirkend",
+    "weicher Klang",
+    "englisch-schottisch geprägt"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland sichtbar, aber eher als moderner, nicht klassisch deutscher Vorname wahrgenommen. Die Wahrnehmung scheint vor allem über Namensportale und einzelne Kommentare vermittelt zu sein."
+}

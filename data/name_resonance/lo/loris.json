@@ -1,0 +1,69 @@
+{
+  "associations": [
+    "männlicher Vorname",
+    "lateinische Herkunft",
+    "Koseform von Lorenzo",
+    "Bezug zu Laurentius bzw. Lorbeer",
+    "in Deutschland eher bekannt, aber nicht sehr häufig",
+    "Namenstag am 10. August",
+    "Verbreitung auch in Italien, Schweiz und Deutschland"
+  ],
+  "confidence": 0.87,
+  "display_text": "Loris wirkt in der öffentlichen Wahrnehmung eher sachlich bis leicht positiv: ein kurzer, international klingender Vorname mit lateinisch-italienischen Bezügen. In Deutschland ist er eher bekannt als häufig. Die Evidenz ist jedoch begrenzt und stammt vor allem aus Namensquellen.",
+  "evidence_quality": "mittel bis schwach: mehrere einschlägige Namensquellen, aber kaum unabhängige öffentliche Resonanz oder breitere Diskussionen belegt.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Loris",
+  "normalized_name": "loris",
+  "overall_resonance": "Die öffentliche Wahrnehmung von „Loris“ wirkt in den vorliegenden Quellen überwiegend sachlich bis leicht positiv. Der Name wird vor allem namenskundlich beschrieben, mit Bezügen zu lateinischer Herkunft, Lorbeer/Laurentius und teils als kurze, internationale Form eingeordnet.",
+  "practical_notes": [
+    "Für eine Namenssuche eignet sich Loris als kurzer, international verständlicher Vorname.",
+    "Die Wirkung wird in den Quellen eher freundlich-sachlich als auffällig oder kontrovers beschrieben.",
+    "Wer eine klare historische Einordnung sucht, findet Hinweise auf lateinische bzw. italienische und schweizerische Bezüge."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist begrenzt und stammt vor allem aus Namensdatenbanken.",
+    "Es gibt kaum direkte öffentliche Debattenresonanz; die Einschätzung beruht überwiegend auf beschreibenden Quellen.",
+    "Beliebtheitsangaben sollten vorsichtig gelesen werden, da sie je nach Quelle und Zeitraum variieren."
+  ],
+  "short_summary": "Loris wird in den Quellen überwiegend sachlich und leicht positiv beschrieben: kurz, international und mit lateinisch-italienischen Bezügen. In Deutschland eher bekannt als häufig, bei insgesamt begrenzter Evidenz zur öffentlichen Wahrnehmung.",
+  "source_count": 3,
+  "sources": [
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "Vorname Loris � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/L/Lo/Loris/"
+    },
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Loris � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/L/Lo/Loris/"
+    },
+    {
+      "confidence": 0.87,
+      "is_name_discussion": true,
+      "sentiment": "mixed",
+      "source_type": "web",
+      "title": "&#9655; Vorname Loris: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Loris.html"
+    }
+  ],
+  "style_effect": [
+    "kurz und international",
+    "informativ und namenskundlich",
+    "modern wirkend",
+    "eher neutral bis freundlich",
+    "selten, aber nicht unbekannt"
+  ],
+  "usable_evidence_count": 3,
+  "visibility": "In Deutschland ist Loris eher bekannt als sehr häufig; die Quellen deuten auf moderate Sichtbarkeit hin, ohne breite öffentliche Debatte oder klare Kontroverse."
+}

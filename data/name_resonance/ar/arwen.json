@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "walisisch / keltisch",
+    "altwalisische Herkunft",
+    "Bedeutungen wie 'edle Dame' / 'Edelfrau' / 'edle Freundin'",
+    "'Herr der Ringe'",
+    "selten und ungewöhnlich",
+    "deutsche Aussprache grundsätzlich möglich"
+  ],
+  "confidence": 0.77,
+  "display_text": "Arwen wirkt in Deutschland selten, literarisch und leicht märchenhaft. Der Name wird meist positiv mit keltischer Herkunft, 'Edelfrau'-Bedeutungen und 'Herr der Ringe' verbunden. Eine breite öffentliche Debatte dazu ist in den Quellen allerdings nicht erkennbar.",
+  "evidence_quality": "Begrenzt: zwei namenskundliche Webquellen, überwiegend informativ und positiv, aber keine breite öffentliche Meinungsbasis.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Arwen",
+  "normalized_name": "arwen",
+  "overall_resonance": "In Deutschland wirkt Arwen als seltener, literarisch geprägter Vorname mit eher freundlicher bis wertschätzender Resonanz. Die öffentliche Wahrnehmung ist vor allem durch Herkunft, Bedeutung und die Verbindung zu 'Herr der Ringe' geprägt.",
+  "practical_notes": [
+    "Für eine Namenssuchmaschine lässt sich Arwen als markant, selten und positiv konnotiert zusammenfassen.",
+    "Die Wahrnehmung dürfte stark von der literarischen Bekanntheit des Namens abhängen.",
+    "Als international klingender Name kann Arwen in Deutschland als ungewöhnlich, aber gut merkbar erscheinen."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist schwach und basiert überwiegend auf einzelnen Namensdatenbanken mit SEO-Charakter.",
+    "Es gibt keine belastbare breite öffentliche Resonanz in den Quellen, nur namenkundliche Einordnungen.",
+    "Kulturelle Assoziationen wie 'Herr der Ringe' sind prägend, aber nicht automatisch für alle Trägerinnen und Träger relevant."
+  ],
+  "short_summary": "Arwen ist in Deutschland ein seltener, literarisch und keltisch geprägter Vorname mit eher positiver, wertschätzender Wahrnehmung. Die Evidenz ist jedoch vor allem lexikalisch und nicht breit öffentlich.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.84,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "Vorname Arwen � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/A/Ar/Arwen/"
+    },
+    {
+      "confidence": 0.89,
+      "is_name_discussion": true,
+      "sentiment": "mostly positive",
+      "source_type": "web",
+      "title": "&#9655; Vorname Arwen: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Arwen.html"
+    }
+  ],
+  "style_effect": [
+    "klingt modern und zugleich märchenhaft",
+    "wirkt kultur- und literaturbezogen",
+    "selten, dadurch individuell und auffällig",
+    "eher weich und feminin in der Wahrnehmung",
+    "durch die Herkunft oft als namenkundlich interessant gelesen"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Eher gering bis moderat: Der Name ist bekannt, aber nicht breit verbreitet. Die vorliegende Evidenz stammt vor allem aus Namenslexika und nicht aus einer breiten öffentlichen Debatte, daher ist die Aussagekraft begrenzt."
+}

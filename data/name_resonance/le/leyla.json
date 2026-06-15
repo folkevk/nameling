@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "arabischer und türkischer Sprach-/Kulturraum",
+    "Bedeutungen wie „die schöne Nacht“ bzw. „die nächtliche“",
+    "Varianten wie Laila, Layla, Leila",
+    "Beliebtheit in Deutschland",
+    "Namenstag am 1. Januar",
+    "vereinzelt musikalische/songbezogene Assoziationen",
+    "Flieder/Violett als Farbassoziation"
+  ],
+  "confidence": 0.87,
+  "display_text": "Leyla wirkt in den vorliegenden Quellen überwiegend positiv: ein klangvoller, beliebter Vorname mit poetischen Bedeutungen wie „die schöne Nacht“. Die Wahrnehmung ist vor allem namenskundlich geprägt und nicht von öffentlicher Kontroverse.",
+  "evidence_quality": "Gut für eine namenkundliche Einordnung, aber begrenzt in der Breite: zwei relevante Namensseiten, keine breit angelegte öffentliche Debatte.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Leyla",
+  "normalized_name": "leyla",
+  "overall_resonance": "Überwiegend positiv und namenskundlich-sachlich: Leyla wird in den vorliegenden Quellen als klangvoller, beliebter Vorname mit klarer Bedeutungs- und Herkunftsdeutung dargestellt.",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt Leyla in den Quellen freundlich, vertraut und ästhetisch aufgeladen.",
+    "Die Schreibweise ist geläufig, zugleich gibt es mehrere nahe Varianten.",
+    "Die öffentliche Rezeption erscheint eher wertschätzend als kontrovers."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt fast ausschließlich aus Namenslexika; das ist hilfreich, aber kein breiter Stimmungsquerschnitt.",
+    "Positive Bedeutungsassoziationen können die Wahrnehmung prägen, sind aber keine allgemeingültige öffentliche Meinung.",
+    "Keine Hinweise auf soziale Stigmatisierung in der vorliegenden Evidenz."
+  ],
+  "short_summary": "Leyla wird in den vorliegenden Quellen überwiegend positiv, klangvoll und beliebt wahrgenommen, mit starken Nacht- und Schönheitsassoziationen.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.95,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Leyla � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/L/Le/Leyla/"
+    },
+    {
+      "confidence": 0.94,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Leyla: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Leyla.html"
+    }
+  ],
+  "style_effect": [
+    "klangvoll",
+    "modern bis zeitlos",
+    "poetisch durch Nacht-Assoziationen",
+    "namenskundlich informiert",
+    "leicht international"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Im deutschsprachigen Raum sichtbar und bekannt; die Evidenz verweist auf Beliebtheit, jedoch vor allem in Namenslexika und nicht auf eine breite öffentliche Debatte."
+}

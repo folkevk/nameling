@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "gälischer bzw. bretonisch-keltischer Ursprung",
+    "Bedeutung im Sinn von „glänzendes/strahlendes Meer“",
+    "weiblicher Vorname",
+    "eher selten in Deutschland",
+    "Namenslexikon- und Herkunftskontext",
+    "Namenstag",
+    "vereinzelt Hinweise auf Verwechslungs- oder Aussprachethemen"
+  ],
+  "confidence": 0.79,
+  "display_text": "Muriel wirkt im deutschsprachigen Raum eher selten, aber sachlich bis leicht positiv besetzt. Der Name wird vor allem mit keltischer Herkunft, der Bedeutung „glänzendes/strahlendes Meer“ und einem weichen, eleganten Klang verbunden. Hinweise auf öffentliche Rezeption sind nur begrenzt vorhanden; die Evidenz stammt überwiegend aus Namenslexika, daher ist die Einordnung vorsichtig zu lesen.",
+  "evidence_quality": "mittel: zwei einschlägige Namenslexika, überwiegend sachlich; öffentliche Rezeption nur indirekt aus Bedeutungs- und Kommentarspuren ableitbar",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Muriel",
+  "normalized_name": "muriel",
+  "overall_resonance": "Muriel wird in der vorliegenden Evidenz überwiegend sachlich bis leicht positiv wahrgenommen. Der Name wirkt im deutschsprachigen Raum eher selten, aber etabliert und wird vor allem über Herkunft, Bedeutung und Klang beschrieben.",
+  "practical_notes": [
+    "Für deutsche Ohren wirkt Muriel eher ungewöhnlich, aber gut nachvollziehbar.",
+    "Die Herkunfts- und Bedeutungsangaben tragen stark zur positiven Grundwirkung bei.",
+    "Wegen der Seltenheit kann der Name auffallen, ohne stark erklärungsbedürftig zu sein."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist relativ schmal und besteht vor allem aus Namenslexika und Kommentaren.",
+    "Aussagen zur öffentlichen Rezeption sind daher nur vorsichtig ableitbar.",
+    "Verwechslungsnotizen aus Kommentaren sind eher Einzelfälle als ein belastbarer Trend."
+  ],
+  "short_summary": "Muriel wird in Deutschland eher selten, aber freundlich und klanglich angenehm wahrgenommen; die verfügbare Evidenz ist vor allem lexikalisch und nur begrenzt öffentlich-rezeptionsbezogen.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Muriel � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/M/Mu/Muriel/"
+    },
+    {
+      "confidence": 0.91,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Muriel: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Muriel.html"
+    }
+  ],
+  "style_effect": [
+    "eher weich und elegant",
+    "keltisch/gälisch anmutend",
+    "eher modern-zeitlos als modisch",
+    "durch die Bedeutung positiv aufgeladen",
+    "selten, dadurch markanter Eindruck"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "eher gering bis mittel: in Deutschland selten, aber in Namenslexika präsent und klar auffindbar"
+}

@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "ungarische, tschechische und slowakische Namensform",
+    "lateinischer Ursprung",
+    "Bezug zu Tibur/Tivoli",
+    "Namenstag",
+    "historisch verwendet",
+    "international verständlich"
+  ],
+  "confidence": 0.82,
+  "display_text": "Tibor ist in Deutschland eher selten, wirkt aber klar, international und sachlich-neutral. Die vorliegenden Quellen sind vor allem namenskundlich und zeigen gute Angaben zu Herkunft und Bedeutung, aber nur begrenzte direkte Evidenz zur öffentlichen Resonanz.",
+  "evidence_quality": "mittel bis gut: gute lexikalische Angaben zu Herkunft, Bedeutung und Verwendung; nur schwache direkte Evidenz zur öffentlichen Resonanz in Deutschland.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Tibor",
+  "normalized_name": "tibor",
+  "overall_resonance": "Tibor wirkt im deutschsprachigen Raum eher selten, aber klar und international anschlussfähig. Die öffentliche Wahrnehmung in den vorliegenden Quellen ist überwiegend sachlich-neutral und stark namenskundlich geprägt, nicht von kontroversen oder stark emotionalen Zuschreibungen.",
+  "practical_notes": [
+    "Für eine Namenssuche erscheint Tibor als seltener, aber gut aussprechbarer Vorname.",
+    "Die Wirkung ist eher eigenständig und etwas international als alltagsgewöhnlich.",
+    "Die Quellenlage ist solide zur Herkunft, aber schwächer zur tatsächlichen öffentlichen Resonanz."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt vor allem aus Namenslexika und Portaltexten; sie beschreibt den Namen, zeigt aber nur begrenzt echte öffentliche Meinung.",
+    "Es gibt kaum diskursive Hinweise auf eine starke gesellschaftliche Bewertung in Deutschland.",
+    "Keine Hinweise auf soziale Stigmatisierung in den vorliegenden Quellen."
+  ],
+  "short_summary": "Tibor ist in Deutschland eher selten, wirkt aber klar, international und sachlich positiv-neutral. Die Quellen liefern gute Herkunftsinformationen, aber nur begrenzte Hinweise auf die öffentliche Resonanz.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.92,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Tibor � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/T/Ti/Tibor/"
+    },
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Tibor: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Tibor.html"
+    }
+  ],
+  "style_effect": [
+    "kurz und prägnant",
+    "international klingend",
+    "traditionsnah",
+    "eher markant als weich",
+    "namenskundlich aufgeladen",
+    "selten, aber gut einordbar"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland dürfte der Name bekannt, aber nicht sehr verbreitet sein. Die Evidenz spricht eher für eine kleine bis moderate Präsenz als für breite Alltagsverbreitung."
+}

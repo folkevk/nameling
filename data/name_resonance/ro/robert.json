@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "althochdeutscher bzw. historischer Ursprung",
+    "Bedeutung rund um Ruhm, Glanz und Bekanntheit",
+    "klassischer Jungenname",
+    "lange Tradition in Deutschland",
+    "eher etablierte als modische Wirkung",
+    "aktuell etwas rückläufige Popularität",
+    "Namenstag als zusätzliche kulturelle Einordnung"
+  ],
+  "confidence": 0.91,
+  "display_text": "Robert wirkt in Deutschland klassisch, traditionsreich und gut bekannt. Die Quellen ordnen den Namen vor allem historisch und bedeutungsbezogen ein; die öffentliche Wirkung erscheint eher seriös als modisch. Es gibt in der vorliegenden Evidenz keine Hinweise auf stärkere negative Zuschreibungen.",
+  "evidence_quality": "hoch für Namenskunde und Beliebtheitsbeschreibung, mittel für echte öffentliche Resonanz",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Robert",
+  "normalized_name": "robert",
+  "overall_resonance": "Der Vorname Robert wirkt in der öffentlichen Wahrnehmung in Deutschland klassisch, traditionsreich und sachlich positiv gerahmt. Die vorhandenen Quellen beschreiben ihn vor allem namenskundlich: mit althochdeutscher Herkunft, der Bedeutung rund um Ruhm/Glanz und einer langen Nutzungsgeschichte. Es gibt keine Hinweise auf starke Kontroversen; die aktuelle Beliebtheit wird eher als rückläufig, aber weiterhin etabliert dargestellt.",
+  "practical_notes": [
+    "Für Namenssuche und formelle Kontexte wirkt Robert sehr vertraut und unproblematisch.",
+    "Der Name vermittelt eher Tradition als Trend.",
+    "Die Aussagekraft der Evidenz ist gut, aber sie beschreibt vor allem Herkunft und Beliebtheit, weniger tatsächliche öffentliche Meinungen."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Quellen sind überwiegend lexikalisch-informativ und nicht meinungsstark; das Bild der öffentlichen Resonanz ist daher nur begrenzt direkt aus Alltagsurteilen ableitbar.",
+    "Keine belastbaren Hinweise auf negative gesellschaftliche Zuschreibungen in der vorliegenden Evidenz."
+  ],
+  "short_summary": "Robert ist in Deutschland ein klassischer, traditionsreicher und sachlich positiv wahrgenommener Vorname mit vertrauter Wirkung und rückläufiger, aber weiterhin stabiler Bekanntheit.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Robert � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/R/Ro/Robert/"
+    },
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Robert: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Robert.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "traditionell",
+    "seriös",
+    "zeitlos",
+    "namenskundlich",
+    "eher konservativ im Stil"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Hoch bekannt und gut einordenbar; der Name ist in Deutschland breit verständlich und kulturell vertraut."
+}

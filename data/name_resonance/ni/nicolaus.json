@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "altgriechische Herkunft",
+    "deutsche bzw. griechische Schreibform von Nikolaus",
+    "Bedeutung: „Sieg des Volkes“",
+    "Namenstag am 6. Dezember",
+    "Bezug zu Sankt Nikolaus",
+    "in Deutschland eher selten"
+  ],
+  "confidence": 0.85,
+  "display_text": "Nicolaus wird überwiegend neutral und informativ wahrgenommen. Die Quellen beschreiben den Namen als seltene, klassische Schreibform von Nikolaus mit altgriechischer Herkunft und der Bedeutung „Sieg des Volkes“. Insgesamt wirkt er traditionsnah, historisch und eher formell als modern.",
+  "evidence_quality": "Mittlere bis schwächere Evidenz: zwei überwiegend lexikalische Quellen, wenig echte öffentliche Diskussion, aber konsistente Angaben zu Herkunft, Bedeutung und Seltenheit.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Nicolaus",
+  "normalized_name": "nicolaus",
+  "overall_resonance": "Überwiegend neutral-informativ mit leicht klassisch-traditioneller Wirkung. In den vorliegenden Namensquellen wird Nicolaus vor allem sachlich als seltene, ältere Schreibform von Nikolaus beschrieben.",
+  "practical_notes": [
+    "Für Suchmaschinen-Nutzer wirkt der Name eher traditionsbewusst als modern.",
+    "Die Schreibweise Nicolaus kann als seltene, etwas gehobene Variante wahrgenommen werden.",
+    "Wenn eine zeitgemäße, häufigere Form gesucht wird, ist Nikolaus die naheliegende Vergleichsform."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt im Wesentlichen aus Namenslexika und nicht aus einer breiten öffentlichen Debatte.",
+    "Beliebtheitsangaben beschreiben eher Verbreitung als echte Resonanz im sozialen Sinn.",
+    "Die öffentliche Wahrnehmung dürfte daher nur vorsichtig aus den verfügbaren Quellen abgeleitet werden."
+  ],
+  "short_summary": "Nicolaus wird in den Quellen sachlich und neutral als seltene, klassische Schreibform von Nikolaus beschrieben. Der Name wirkt traditionsnah, historisch und eher formell.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Nicolaus � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/N/Ni/Nicolaus/"
+    },
+    {
+      "confidence": 0.89,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Nicolaus: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Nicolaus.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "historisch",
+    "gelehrt",
+    "eher formell",
+    "traditionsnah",
+    "selten"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Eher gering bis mittel: Der Name wirkt bekannt, aber in Deutschland laut den Quellen eher selten und nicht stark verbreitet."
+}

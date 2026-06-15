@@ -1,0 +1,68 @@
+{
+  "associations": [
+    "Kurz- und Koseform von Marie-Louise",
+    "französisch bzw. belgisch geprägt",
+    "Bedeutungsbezüge über die Namenselemente Marie und Louise",
+    "in den Quellen als beliebt beschrieben",
+    "teilweise als genderneutral/unisex eingeordnet"
+  ],
+  "confidence": 0.86,
+  "display_text": "Malou wird in den vorliegenden Quellen überwiegend positiv wahrgenommen: weich klingend, modern und einprägsam. Der Name wird meist als Kurz- und Koseform von Marie-Louise beschrieben, teils auch als unisex eingeordnet. Die Datenlage ist jedoch vor allem lexikalisch; eine breite öffentliche Debatte ist kaum sichtbar.",
+  "evidence_quality": "mittel bis gut, aber überwiegend aus Namenslexika und datenbankartigen Quellen; öffentliche Breitenresonanz nur eingeschränkt belegbar",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Malou",
+  "normalized_name": "malou",
+  "overall_resonance": "Malou wird in den vorliegenden Quellen überwiegend positiv und freundlich wahrgenommen. Der Name erscheint als weich klingend, modern und gleichzeitig klar als Vorname einordenbar. Die Darstellung ist aber vor allem lexikalisch-informativ; eine breite öffentliche Debatte ist in der Evidenz kaum erkennbar.",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt Malou modern, kurz und gut merkbar.",
+    "Die Bedeutung wird meist über Marie-Louise hergeleitet; das kann für Interessierte relevant sein.",
+    "Wenn eine eindeutig breite Alltagsresonanz gesucht wird, ist die Datenlage hier nur begrenzt aussagekräftig."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt fast ausschließlich aus Namensdatenbanken und Lexikonseiten, nicht aus einer breiten öffentlichen Meinungslandschaft.",
+    "Positive Eindrücke wie 'schön' oder 'besonders' sind eher redaktionelle Einschätzungen als ein verlässliches Stimmungsbild der Allgemeinheit.",
+    "Eine mögliche Einordnung als Unisex-Name ist quellenabhängig und nicht in allen Kontexten gleich stark."
+  ],
+  "short_summary": "Malou wird überwiegend positiv als weicher, moderner und gut klingender Vorname beschrieben. Die Evidenz ist solide für Bedeutung und Einordnung, aber nur begrenzt für echte öffentliche Meinungsvielfalt.",
+  "source_count": 3,
+  "sources": [
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "positive",
+      "source_type": "web",
+      "title": "Vorname Malou � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/M/Ma/Malou/"
+    },
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "positive",
+      "source_type": "web",
+      "title": "Vorname Malou � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/M/Ma/Malou/"
+    },
+    {
+      "confidence": 0.92,
+      "is_name_discussion": true,
+      "sentiment": "positive",
+      "source_type": "web",
+      "title": "&#9655; Vorname Malou: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Malou.html"
+    }
+  ],
+  "style_effect": [
+    "weich",
+    "modern",
+    "kurz und einprägsam",
+    "freundlich klingend",
+    "international anschlussfähig",
+    "eher feminin, teils auch unisex eingeordnet"
+  ],
+  "usable_evidence_count": 3,
+  "visibility": "Im deutschsprachigen Raum scheint Malou bekannt und teils beliebt zu sein, jedoch eher als Name aus Namenslexika und Vornamensseiten als aus intensiver öffentlicher Diskussion. Die Sichtbarkeit wirkt damit vorhanden, aber nicht stark meinungsgeprägt."
+}

@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "Kurzform von Wilhelm oder Willibald",
+    "auch als englische Koseform von William anschlussfähig",
+    "Bedeutungsfelder wie Wille, Entschlossenheit und Schutz",
+    "klassischer, traditioneller Vorname",
+    "heute in Deutschland eher selten"
+  ],
+  "confidence": 0.89,
+  "display_text": "Willy wird überwiegend neutral bis leicht positiv wahrgenommen: klassisch, historisch verankert und eher selten in Deutschland. Die Quellen betonen vor allem die Kurzform- und Bedeutungsassoziationen, nicht eine starke moderne Trendwirkung.",
+  "evidence_quality": "mittel: zwei klare, thematisch passende Namensquellen, aber primär Portal-Evidenz und keine breite öffentliche Meinungsumfrage.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Willy",
+  "normalized_name": "willy",
+  "overall_resonance": "Der Vorname Willy wird in deutschsprachigen Namensquellen überwiegend sachlich und eher freundlich wahrgenommen. Er wirkt traditionell, klassisch und deutlich als Kurz- oder Koseform mit historischer Verankerung. Die öffentliche Resonanz ist eher neutral bis leicht positiv, aber nicht besonders stark oder modern trendig.",
+  "practical_notes": [
+    "Für eine Namenssuche eignet sich Willy, wenn ein kurzer, traditioneller und gut verständlicher Name gesucht wird.",
+    "Der Name kann je nach Kontext eher klassisch oder etwas altmodisch wirken.",
+    "Die Wahrnehmung hängt stark davon ab, ob die Kurzform bewusst als eigenständiger Vorname oder als vertraute Abkürzung gelesen wird."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz basiert vor allem auf Vornamen-Portalen und ist daher nur begrenzt repräsentativ für die gesamte öffentliche Meinung.",
+    "Beliebtheits- und Wirkungsangaben sind portalabhängig und nicht als harte Bevölkerungsstatistik zu verstehen.",
+    "Es gibt keine belastbare Hinweise auf eine klare soziale Stigmatisierung in den vorliegenden Quellen."
+  ],
+  "short_summary": "Willy gilt in den Quellen als klassischer, historisch geprägter und eher seltener Vorname mit neutral bis leicht positiver Resonanz.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.95,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Willy � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/W/Wi/Willy/"
+    },
+    {
+      "confidence": 0.87,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Willy: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Willy.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "historisch verankert",
+    "kurz und direkt",
+    "umgangssprachlich-nah durch Koseform-Charakter",
+    "eher altbekannt als modern",
+    "leicht vertraut, ohne stark modischen Eindruck"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland ist Willy eher bekannt als geläufig. In den vorliegenden Quellen wird er als heute eher selten beschrieben, aber weiterhin klar einzuordnen und verständlich."
+}

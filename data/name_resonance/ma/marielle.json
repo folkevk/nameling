@@ -1,0 +1,58 @@
+{
+  "associations": [
+    "französische Koseform von Maria bzw. Marie",
+    "mögliche Bezüge zu Maria als Namensstamm",
+    "seltene Verwendung in Deutschland",
+    "historisch stärker im französischen Raum verortet",
+    "Namenstag wird in den Quellen genannt"
+  ],
+  "confidence": 0.86,
+  "display_text": "Marielle wird überwiegend neutral bis leicht positiv wahrgenommen: ein klangvoller, eher seltener und französisch geprägter Vorname. Die Evidenz stammt vor allem aus Namenslexika, daher ist die öffentliche Resonanz nur eingeschränkt belegbar.",
+  "evidence_quality": "mittel bis gut für Herkunft und Namensbeschreibung, schwach für echte öffentliche Resonanz im weiteren Sinn",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Marielle",
+  "normalized_name": "marielle",
+  "overall_resonance": "Marielle wird in den vorliegenden Quellen überwiegend neutral bis leicht positiv dargestellt: als klangvoller, eher seltener Mädchenname mit französisch geprägter Herkunftsassoziation. Die öffentliche Rezeption wirkt dabei eher sachlich-namenskundlich als breit diskutiert.",
+  "practical_notes": [
+    "Für eine Suchmaschine eignet sich eine Formulierung wie: 'eher seltener, klangvoller und neutral bis leicht positiv wahrgenommener Vorname'.",
+    "Wenn Kontext wichtig ist, sollte erwähnt werden, dass die Wahrnehmung vor allem aus Namenslexika stammt und nicht aus breiter Social-Media-Resonanz."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist auf wenige Namenslexikon-Seiten beschränkt und bildet keine breite öffentliche Debatte ab.",
+    "Bedeutung und Herleitung werden teils unterschiedlich oder vorsichtig beschrieben.",
+    "Es gibt keine belastbaren Hinweise auf eine gesellschaftliche Stigmatisierung des Namens in den Quellen."
+  ],
+  "short_summary": "Marielle wirkt in den Quellen freundlich, klangvoll und eher selten; die Resonanz ist neutral bis leicht positiv, aber die Datenlage ist vor allem lexikalisch und nicht breit öffentlich.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Marielle � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/M/Ma/Marielle/"
+    },
+    {
+      "confidence": 0.84,
+      "is_name_discussion": true,
+      "sentiment": "eher positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Marielle: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Marielle.html"
+    }
+  ],
+  "style_effect": [
+    "weich und feminin",
+    "französisch bzw. international wirkend",
+    "elegant und eher zeitlos",
+    "selten, dadurch etwas besonders",
+    "namenskundlich klar einordenbar"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland wirkt der Name eher wenig verbreitet und daher nicht stark öffentlich aufgeladen. Die Evidenz deutet eher auf eine ruhige, zurückhaltende Wahrnehmung als auf breite Popularität oder Kontroversen hin."
+}

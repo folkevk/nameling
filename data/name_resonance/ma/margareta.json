@@ -1,0 +1,63 @@
+{
+  "associations": [
+    "Bedeutung: „die Perle“",
+    "altgriechisch/lateinische Herkunft",
+    "deutsche, nordische und slawische Formvarianten",
+    "Namenstag am 20. Juli",
+    "verwandte Formen: Margarete, Margaretha, Margarethe, Margret",
+    "Spitznamen wie Greta oder Marga"
+  ],
+  "confidence": 0.84,
+  "display_text": "Margareta wirkt in der verfügbaren Evidenz klassisch, traditionell und eher selten. Die Wahrnehmung ist überwiegend neutral und sachlich, mit starken Bezügen zu Herkunft, Bedeutung („die Perle“) und Namensvarianten. Die öffentliche Resonanz ist allerdings nur mäßig gut belegt und vor allem aus Namensquellen abgeleitet.",
+  "evidence_quality": "mittel: überwiegend informative Namensquellen, öffentliche Meinungsdaten nur indirekt und begrenzt",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Margareta",
+  "normalized_name": "margareta",
+  "overall_resonance": "Margareta wird in der verfügbaren Evidenz überwiegend als klassischer, traditioneller und eher seltener Vorname mit sachlich-neutraler Wahrnehmung beschrieben.",
+  "practical_notes": [
+    "Für Suchmaschinen-Nutzer wirkt der Name gepflegt, traditionell und klar historisch verankert.",
+    "Die Schreibweise ist markant, mit mehreren nahe verwandten Varianten.",
+    "Die Resonanz ist eher ruhig als modisch oder auffällig.",
+    "Als öffentliche Einschätzung sollte das Ergebnis vorsichtig gelesen werden, weil die Evidenz begrenzt ist."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz zur öffentlichen Resonanz ist eher quellengebunden und nicht besonders breit; viele Aussagen stammen aus Namenslexika statt aus spontaner Öffentlichkeit.",
+    "Es liegen keine Hinweise auf starke negative Stigmatisierung oder klare Trends vor.",
+    "Häufigkeit und Wahrnehmung können regional und generationsabhängig unterschiedlich ausfallen."
+  ],
+  "short_summary": "Margareta gilt als klassischer, traditioneller und eher seltener Vorname mit neutral-sachlicher Resonanz.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.99,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Margareta � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/M/Ma/Margareta/"
+    },
+    {
+      "confidence": 0.94,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Margareta: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Margareta.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "historisch",
+    "elegant",
+    "traditionell",
+    "selten",
+    "formal",
+    "namenskundlich"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Im deutschsprachigen Raum bekannt, aber heute nicht sehr häufig; die öffentliche Sichtbarkeit wirkt daher eher zurückhaltend und vor allem namenskundlich geprägt."
+}

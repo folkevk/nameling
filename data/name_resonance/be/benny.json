@@ -1,0 +1,62 @@
+{
+  "associations": [
+    "Koseform von Benjamin",
+    "Kurzform von Ben-/Benjamin-Namen",
+    "hebräische Herkunft",
+    "Bedeutungen wie 'Sohn des Glücks' oder 'der Gesegnete'",
+    "männlicher Vorname",
+    "Namenstag",
+    "moderate Verbreitung in Deutschland"
+  ],
+  "confidence": 0.76,
+  "display_text": "Benny wirkt in Deutschland eher vertraut, locker und leicht positiv. Die Quellen beschreiben den Namen vor allem als Kurz- bzw. Koseform mit hebräischer Herkunft und Bedeutungen wie „der Gesegnete“ oder „Sohn des Glücks“. Eine starke öffentliche Meinungsbildung ist in der Evidenz jedoch nicht klar sichtbar; die Datenlage bleibt vor allem lexikalisch und indirekt.",
+  "evidence_quality": "Begrenzt bis mittel: zwei vornamebezogene Quellen, überwiegend lexikalisch-informativ, mit nur indirekten Hinweisen auf Resonanz.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Benny",
+  "normalized_name": "benny",
+  "overall_resonance": "Benny wird in den verfügbaren Quellen überwiegend neutral bis leicht positiv wahrgenommen. Der Name erscheint vor allem als vertraute Kurz- bzw. Koseform und wird sachlich mit Herkunft, Bedeutung und Beliebtheit beschrieben. Eine echte öffentliche Debatte oder starke Meinungslage ist in der Evidenz nur schwach erkennbar.",
+  "practical_notes": [
+    "Wirkt eher informell als sehr klassisch.",
+    "Kann als vollständiger Vorname oder als Kurzform verstanden werden.",
+    "Für eine öffentliche Resonanzkarte sollte die Einordnung vorsichtig bleiben: sachlich, leicht positiv, aber mit begrenzter Datenlage."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt überwiegend aus Namenslexika und Datenbankseiten; daraus lässt sich öffentliche Meinung nur eingeschränkt ableiten.",
+    "Einzelne positive Einschätzungen können durch die Art der Quelle verzerrt sein.",
+    "Keine belastbaren Hinweise auf starke Stigmatisierung oder problematische Nebenbedeutungen in der vorliegenden Evidenz."
+  ],
+  "short_summary": "Benny wird in den Quellen vor allem sachlich und leicht positiv beschrieben: ein vertrauter, kurzer Vorname mit Koseform-Charakter und klarer Namensherkunft. Die öffentliche Resonanz ist erkennbar, aber nur schwach und vor allem indirekt belegt.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.92,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Benny � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/B/Be/Benny/"
+    },
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Benny: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Benny.html"
+    }
+  ],
+  "style_effect": [
+    "vertraut",
+    "locker",
+    "kurz und eingängig",
+    "jugendlich-dynamisch",
+    "umgangssprachlich als Spitzname lesbar",
+    "international anschlussfähig"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Mittlere Sichtbarkeit in namenskundlichen und vornamebezogenen Portalen; die öffentliche Resonanz ist eher indirekt als direkt messbar."
+}

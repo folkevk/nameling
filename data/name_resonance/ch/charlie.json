@@ -1,0 +1,72 @@
+{
+  "associations": [
+    "Koseform von Charles bzw. Charlotte/Charline",
+    "englischsprachiger Ursprung",
+    "Bedeutung: „der/die Freie“",
+    "Unisex-Vorname",
+    "international verwendbar",
+    "seit einigen Jahren auch in Deutschland vergeben",
+    "Beliebtheit bzw. Nutzung in Deutschland",
+    "Namenstag"
+  ],
+  "confidence": 0.84,
+  "display_text": "Charlie wirkt in Deutschland überwiegend modern, international und freundlich-neutral. Der Name wird meist als Unisex-Name bzw. Koseform mit englischem Ursprung beschrieben. Die verfügbare Evidenz ist vor allem aus Namensportalen und daher eher beschreibend als eine echte öffentliche Debatte.",
+  "evidence_quality": "mittel bis gut: mehrere übereinstimmende, aber vor allem lexikalisch-redaktionelle Quellen; geringe Tiefe öffentlicher Diskurs-Evidenz",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Charlie",
+  "normalized_name": "charlie",
+  "overall_resonance": "Charlie wird in Deutschland überwiegend sachlich bis freundlich wahrgenommen: als internationaler, kurzer und moderner Unisex-Name bzw. Koseform mit englischsprachigem Ursprung. Die verfügbare Evidenz ist vor allem namenkundlich und beschreibend; eine breite öffentliche Debatte ist nur schwach erkennbar.",
+  "practical_notes": [
+    "Für eine Namenssuche in Deutschland wirkt Charlie modern und unkompliziert.",
+    "Als Unisex-Name kann er je nach Kontext als geschlechtsübergreifend verstanden werden.",
+    "Die Schreibweise ist international leicht erkennbar und im Alltag einfach.",
+    "Wer eine klar traditionell-deutsche Wirkung sucht, könnte Charlie als eher modern und anglophon empfinden."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt überwiegend aus Namensdatenbanken und redaktionellen Vorname-Portalen, nicht aus einer breiten öffentlichen Debatte.",
+    "Einzelne Hinweise zu Standesamt- oder Anerkennungsfragen sind anekdotisch und nicht als allgemeine Regel zu verstehen.",
+    "Die Resonanz wirkt eher beschreibend als wertend; starke positive oder negative gesellschaftliche Urteile sind daraus nicht ableitbar."
+  ],
+  "short_summary": "Charlie wird in Deutschland meist als kurzer, moderner und internationaler Unisex-Name wahrgenommen; die Evidenz ist überwiegend sachlich-beschreibend und nicht stark diskursiv.",
+  "source_count": 3,
+  "sources": [
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Charlie � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/C/Ch/Charlie/"
+    },
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Charlie � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/C/Ch/Charlie/"
+    },
+    {
+      "confidence": 0.92,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Charlie: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Charlie.html"
+    }
+  ],
+  "style_effect": [
+    "kurz und eingängig",
+    "international und zeitgemäß",
+    "unisex beziehungsweise geschlechtsübergreifend anschlussfähig",
+    "koseform- und spitznamennah",
+    "informell, freundlich wirkend",
+    "eher modern als traditionell"
+  ],
+  "usable_evidence_count": 3,
+  "visibility": "Eher gut sichtbar in Namensdatenbanken und Vorname-Portalen, aber mit begrenzter Evidenz für eine starke öffentliche Meinungsbildung außerhalb dieser Quellen."
+}

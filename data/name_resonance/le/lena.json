@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "Kurzform von Magdalena oder Helena",
+    "griechisch bzw. altgriechisch eingeordnet",
+    "mögliche Bedeutungen wie „die Leuchtende“ oder „die Strahlende“",
+    "teilweise auch mit weiteren Bedeutungsangaben wie „die Schöne“ oder „die Erhabene“ verknüpft",
+    "sehr beliebt in Deutschland",
+    "weiblicher Vorname",
+    "bekannt und etabliert"
+  ],
+  "confidence": 0.96,
+  "display_text": "Lena ist in Deutschland ein sehr bekannter und meist positiv wahrgenommener Mädchenname. Er wirkt kurz, vertraut und freundlich; häufig wird er als Kurzform von Magdalena oder Helena beschrieben, mit Bedeutungen wie „die Leuchtende“ oder „die Strahlende“. Die Herkunftsdeutungen sind nicht ganz einheitlich, insgesamt ist die öffentliche Resonanz aber klar überwiegend positiv.",
+  "evidence_quality": "Gut bis sehr gut: zwei einschlägige Namensquellen mit klarer Namensdiskussion und hoher inhaltlicher Übereinstimmung; die Aussagen zur Beliebtheit und Bedeutung sind jedoch vor allem lexikalisch-deskriptiv.",
+  "generated_at": "2026-06-12T06:08:03Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Lena",
+  "normalized_name": "lena",
+  "overall_resonance": "Der Vorname Lena wird in der vorliegenden Evidenz überwiegend positiv und sehr etabliert wahrgenommen. Er gilt als kurzer, vertrauter und in Deutschland sehr bekannter Mädchenname mit klarer namenskundlicher Einordnung.",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt Lena unkompliziert, vertraut und leicht verständlich.",
+    "Die öffentliche Rezeption ist eher stabil als kontrovers.",
+    "Wer eine eindeutige etymologische Zuordnung sucht, sollte die Quellenlage wegen mehrerer Herkunftsdeutungen vorsichtig lesen."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Bedeutungsangaben variieren je nach Quelle; sie sollten daher als mögliche Deutungen und nicht als feste Wahrheit gelesen werden.",
+    "Die Evidenz stammt vor allem aus Namenslexika und ist damit eher beschreibend als sozialwissenschaftlich belastbar.",
+    "Keine Hinweise auf eine soziale Stigmatisierung des Namens in der vorliegenden Evidenz."
+  ],
+  "short_summary": "Lena wird in Deutschland als sehr bekannter, beliebter und freundlich wirkender Vorname wahrgenommen. Die Quellen deuten ihn meist als Kurzform mit mehreren möglichen Bedeutungen; die genaue Herkunft ist nicht ganz einheitlich belegt.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Lena � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/L/Le/Lena/"
+    },
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "mostly positive",
+      "source_type": "web",
+      "title": "&#9655; Vorname Lena: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Lena.html"
+    }
+  ],
+  "style_effect": [
+    "kurz und eingängig",
+    "modern, aber etabliert",
+    "freundlich und weich im Klang",
+    "namenskundlich klar anschlussfähig",
+    "alltagsnah und unkompliziert"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Sehr hoch in Deutschland; Lena wird als sehr beliebter und weithin bekannter Vorname beschrieben."
+}

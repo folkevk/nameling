@@ -1,0 +1,59 @@
+{
+  "associations": [
+    "Bedeutung wird häufig mit „Geschenk Gottes“ verbunden",
+    "als Ableitung von Dora/Dorothea/Dorothy beschrieben",
+    "teilweise wird auch eine irische/englische Herleitung genannt",
+    "Namensstag wird in einigen Quellen erwähnt",
+    "wirkt auf viele eher vertraut als extravagant"
+  ],
+  "confidence": 0.84,
+  "display_text": "Doreen wirkt in Deutschland eher positiv und neutral: ein klassischer, freundlicher und seltener Mädchenname. In den Quellen wird er meist mit „Geschenk Gottes“ verbunden; die Herkunft wird teils als englische Ableitung von Dorothea/Dorothy, teils auch anders beschrieben. Die öffentliche Evidenz ist überwiegend lexikalisch und für Popularitätsaussagen nur begrenzt belastbar.",
+  "evidence_quality": "mittel bis gut für Namensbedeutung und allgemeine Einordnung, aber begrenzt für Popularitäts- und Resonanzaussagen.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Doreen",
+  "normalized_name": "doreen",
+  "overall_resonance": "Eher positiv bis neutral; Doreen wird öffentlich vor allem als klassischer, eher seltener Mädchenname mit freundlicher, vertrauter Wirkung beschrieben.",
+  "practical_notes": [
+    "Für Suchmaschinen-Nutzung eignet sich die Kurzbeschreibung „klassischer, seltener Frauenvorname mit freundlicher Wirkung“.",
+    "Die Wahrnehmung ist eher unaufgeregt und wenig polarisierend.",
+    "Wegen der Seltenheit kann der Name individuell und markant wirken, ohne sehr ausgefallen zu sein."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Herkunftsangaben sind nicht ganz einheitlich und werden in den Quellen teilweise unterschiedlich dargestellt.",
+    "Aussagen zur Beliebtheit stützen sich teils nur auf lexikalische Einträge oder einzelne Kommentare und sind daher nur vorsichtig zu gewichten.",
+    "Keine belastbare öffentliche Diskussionslage, sondern vor allem Namenslexikon-Evidenz."
+  ],
+  "short_summary": "Doreen wird in der öffentlichen Namensbeschreibung meist freundlich, klassisch und eher selten wahrgenommen; die Bedeutung wird oft mit „Geschenk Gottes“ verbunden.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Doreen � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/D/Do/Doreen/"
+    },
+    {
+      "confidence": 0.95,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Doreen: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Doreen.html"
+    }
+  ],
+  "style_effect": [
+    "weiblich",
+    "klassisch-moderne Anmutung",
+    "freundlich und weich im Klang",
+    "eher selten",
+    "namenskundlich gut einordenbar"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland eher selten und dadurch nicht besonders alltagspräsent, aber klar als Vorname bekannt."
+}

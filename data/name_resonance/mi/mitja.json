@@ -1,0 +1,59 @@
+{
+  "associations": [
+    "männlicher Vorname",
+    "slawische Kurz- bzw. Koseform von Dimitri/Demetrius",
+    "altgriechische Namensherkunft",
+    "Bezug zu Demeter und der Bedeutung 'Mutter Erde'",
+    "seltenere Namenswahl in Deutschland",
+    "Namenstag wird in Namenslexika genannt"
+  ],
+  "confidence": 0.72,
+  "display_text": "Mitja wirkt in Deutschland eher selten, freundlich und sachlich. Die öffentliche Wahrnehmung ist vor allem namenskundlich geprägt; belastbare Hinweise auf breitere Resonanz sind begrenzt. Keine klare Stigmatisierung erkennbar.",
+  "evidence_quality": "Begrenzte Evidenz: zwei überwiegend beschreibende Vornamensseiten mit wenigen, nur teilweise verwertbaren Kommentaren. Gute Hinweise zur Herkunft und Einordnung, aber nur schwache Aussagekraft zur breiten öffentlichen Resonanz.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Mitja",
+  "normalized_name": "mitja",
+  "overall_resonance": "Mitja wirkt in der verfügbaren deutschen Namensevidenz insgesamt eher freundlich, sachlich und markant, ohne starke Polarisierung. Die öffentliche Wahrnehmung ist vor allem lexikalisch-namenskundlich geprägt; belastbare Hinweise auf breitere Alltagsresonanz sind jedoch begrenzt.",
+  "practical_notes": [
+    "Für Suchmaschinen wirkt Mitja eher positiv-neutral als belastet.",
+    "Die Seltenheit kann als modern und eigenständig wahrgenommen werden, ohne starken Mainstream-Charakter.",
+    "Da der Name in Deutschland nicht sehr verbreitet ist, kann die Schreib- und Aussprachewirkung je nach Umfeld kurz erklärt werden müssen."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist schwach bis mäßig und stammt fast nur aus Namenslexika statt aus breiter öffentlicher Diskussion.",
+    "Einzelne Community-Kommentare sind nur eingeschränkt aussagekräftig, da sie teils auf konkrete Personen statt auf den Namen selbst zielen.",
+    "Aus den Quellen lässt sich keine klare gesellschaftliche Stigmatisierung ableiten."
+  ],
+  "short_summary": "Mitja wird in der verfügbaren deutschen Evidenz eher freundlich, sachlich und selten wahrgenommen. Die Quellen sind vor allem beschreibende Namenslexika; eine breitere öffentliche Debatte oder Stigmatisierung zeigt sich nicht.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.91,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Mitja � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/M/Mi/Mitja/"
+    },
+    {
+      "confidence": 0.86,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Mitja: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Mitja.html"
+    }
+  ],
+  "style_effect": [
+    "klingt kurz und prägnant",
+    "wirkt international und zugleich slawisch geprägt",
+    "hat einen informativen, unaufgeregten Eindruck",
+    "durch die Seltenheit leicht eigenständig"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Eher selten und dadurch auffällig, aber nicht breit massenpräsent. In den gefundenen Quellen wird der Name vor allem erklärt und eingeordnet, nicht kontrovers diskutiert."
+}

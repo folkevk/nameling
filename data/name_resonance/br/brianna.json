@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "keltisch-irische Herkunft",
+    "mögliche Bedeutung: „die Edle“, „die Erhabene“, teils auch „die Starke“",
+    "weibliche Form von Brian",
+    "englischsprachiger Raum",
+    "moderne Verbreitung",
+    "Namenstag am 1. November"
+  ],
+  "confidence": 0.9,
+  "display_text": "Brianna wird in Deutschland meist als moderner, internationaler und klangvoller Mädchenname wahrgenommen. Der Name ist vor allem mit keltisch-irischer Herkunft, möglichen Bedeutungen wie „die Edle“ oder „die Erhabene“ und einer eher positiven, neutralen Resonanz verbunden.",
+  "evidence_quality": "mittel bis gut; zwei passende Namenslexikon-Quellen, aber keine breite empirische Basis",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Brianna",
+  "normalized_name": "brianna",
+  "overall_resonance": "Brianna wirkt im deutschen Namenskontext modern, international und eher positiv-neutral. Der Name wird vor allem als weiblich, klangvoll und im englischsprachigen bzw. keltisch-irischen Umfeld verortet beschrieben.",
+  "practical_notes": [
+    "Der Name ist gut verständlich, international anschlussfähig und klar weiblich codiert.",
+    "Die Schreibweise ist etabliert, kann aber im deutschen Umfeld als eher importiert wahrgenommen werden.",
+    "Für eine Suchmaschine eignet sich Brianna als modern-klingender Vorname mit positiver, neutraler Grundwahrnehmung."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt nur aus wenigen Namenslexika und ist daher begrenzt.",
+    "Beliebtheits- und Herkunftsangaben können je nach Quelle leicht variieren.",
+    "Es gibt keinen Hinweis auf eine soziale Stigmatisierung des Namens in der vorliegenden Evidenz."
+  ],
+  "short_summary": "Brianna wird in Deutschland überwiegend als moderner, internationaler und klangvoller Mädchenname wahrgenommen, mit keltisch-irischen Assoziationen und eher positiver, neutraler Resonanz.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Brianna � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/B/Br/Brianna/"
+    },
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Brianna: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Brianna.html"
+    }
+  ],
+  "style_effect": [
+    "modern",
+    "international",
+    "weiblich",
+    "klangvoll",
+    "eher edel wirkend",
+    "namenskundlich auffällig"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland eher bekannt, aber nicht extrem häufig; die öffentliche Wahrnehmung ist vor allem namenskundlich geprägt und weniger alltagsstark besetzt."
+}

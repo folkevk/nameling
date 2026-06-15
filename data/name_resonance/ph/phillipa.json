@@ -1,0 +1,51 @@
+{
+  "associations": [
+    "englische Variante von Philippa",
+    "weibliche Form von Phillip",
+    "Bedeutung: Pferdefreundin",
+    "altgriechischer Ursprung über Philippos",
+    "in Deutschland selten"
+  ],
+  "confidence": 0.78,
+  "display_text": "Phillipa: eher seltener, international klingender Vorname; in Deutschland vor allem namenskundlich bekannt, ohne starke öffentliche Wertung.",
+  "evidence_quality": "mittel bis schwach: gut für Herkunft und Einordnung, schwach für tatsächliche öffentliche Resonanz",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Phillipa",
+  "normalized_name": "phillipa",
+  "overall_resonance": "Eher sachlich-neutral mit leicht seltenem, internationalen Klang. Die öffentliche Wahrnehmung wirkt vor allem namenskundlich geprägt, nicht durch starke Alltagsdebatten.",
+  "practical_notes": [
+    "Für Suchmaschinen-Nutzung eignet sich eine nüchterne Beschreibung statt einer Wertung.",
+    "Der Name ist verständlich herleitbar, aber im deutschen Alltag nicht sehr geläufig.",
+    "Die Schreibweise mit doppeltem 'p' kann als ungewöhnlich wahrgenommen werden."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt vor allem aus einer Namensdatenbank; echte öffentliche Meinungsäußerungen sind kaum belegt.",
+    "Eine soziale Bewertung des Namens ist aus der Quelle nicht ableitbar.",
+    "Seltenheit kann als besondere, aber nicht automatisch positive oder negative Eigenschaft wahrgenommen werden."
+  ],
+  "short_summary": "Phillipa wird in Deutschland vor allem als seltener, englisch geprägter Vorname mit klassischer Herkunft wahrgenommen. Die öffentliche Rezeption wirkt eher neutral und informationsbasiert als diskursiv.",
+  "source_count": 1,
+  "sources": [
+    {
+      "confidence": 0.91,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Phillipa � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/P/Ph/Phillipa/"
+    }
+  ],
+  "style_effect": [
+    "klassisch-klingend",
+    "international anmutend",
+    "selten",
+    "formal",
+    "namenskundlich auffällig"
+  ],
+  "usable_evidence_count": 1,
+  "visibility": "In Deutschland eher selten und dadurch wenig breit etabliert; die Sichtbarkeit entsteht vor allem über Namenslexika und Bedeutungsseiten."
+}

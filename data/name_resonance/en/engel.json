@@ -1,0 +1,71 @@
+{
+  "associations": [
+    "Bote / Gesandte",
+    "Engel als religiös-symbolische Figur",
+    "deutsche bzw. althochdeutsche Herleitung",
+    "weiblicher Vorname in den Quellen",
+    "selten in Deutschland",
+    "historische Herleitung über die Angeln",
+    "Alltagswort mit Namensfunktion"
+  ],
+  "confidence": 0.86,
+  "display_text": "Engel wirkt in der öffentlichen Wahrnehmung vor allem selten, markant und stark namenskundlich geprägt. Die Quellen beschreiben den Namen überwiegend neutral: mit Bedeutungen rund um „Bote/Gesandte“ sowie einer religiös-symbolischen Assoziation. Echte Meinungsresonanz ist kaum sichtbar; die Evidenz basiert vor allem auf Namenslexika und Herkunftsangaben.",
+  "evidence_quality": "Gut für Bedeutung, Herkunft und Seltenheit; schwach für echte öffentliche Resonanz im Meinungs-Sinn.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Engel",
+  "normalized_name": "engel",
+  "overall_resonance": "Überwiegend neutral-sachlich, mit einer klaren namenskundlichen und teils religiösen bzw. symbolischen Aufladung. Öffentliche Meinungen oder starke emotionale Reaktionen sind in der Evidenz kaum sichtbar.",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt Engel klanglich klar, ungewöhnlich und semantisch stark besetzt.",
+    "Wer Neutralität oder Alltäglichkeit sucht, wird den Namen vermutlich als markant wahrnehmen.",
+    "Wegen der Seltenheit gibt es wenig belastbare Hinweise auf breite gesellschaftliche Trends oder Stigmatisierung."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt fast nur aus Namensdatenbanken; echte öffentliche Meinungsresonanz ist nur indirekt erkennbar.",
+    "Es besteht Mehrdeutigkeit zwischen dem Vornamen und dem allgemeinen Wort 'Engel'.",
+    "Die Einordnung als weiblich wirkt quellenabhängig und sollte nicht als absolute Regel verstanden werden."
+  ],
+  "short_summary": "Engel wird in den Quellen vor allem sachlich erklärt: selten, markant und stark symbolisch/religiös konnotiert. Die öffentliche Rezeption wirkt eher neutral als bewertet.",
+  "source_count": 3,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Engel � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/E/En/Engel/"
+    },
+    {
+      "confidence": 0.89,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Engel � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/E/En/Engel/"
+    },
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Engel: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Engel.html"
+    }
+  ],
+  "style_effect": [
+    "informativ",
+    "namenskundlich",
+    "lexikalisch",
+    "historisch",
+    "symbolisch",
+    "religiös konnotiert",
+    "selten/ungewöhnlich"
+  ],
+  "usable_evidence_count": 3,
+  "visibility": "Sehr selten und dadurch eher auffällig als verbreitet; die Sichtbarkeit entsteht vor allem durch Namenslexika und Bedeutungseinträge, nicht durch breite Alltagsnutzung oder öffentliche Diskussion."
+}

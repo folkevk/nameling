@@ -1,0 +1,59 @@
+{
+  "associations": [
+    "deutsche bzw. germanische Namensherkunft",
+    "Bedeutungsdeutungen wie frei, stark oder geliebt",
+    "Formbezug zu Carla bzw. weibliche Form von Karl",
+    "Namenstag",
+    "Spitznamen wie Caro oder Lina",
+    "bekannt, aber tendenziell rückläufig in der Popularität"
+  ],
+  "confidence": 0.81,
+  "display_text": "Carolin gilt in deutschen Namensquellen als klassischer, freundlich wirkender und vertrauter Vorname. Die öffentliche Wahrnehmung ist eher sachlich-positiv; zugleich ist die Evidenz vor allem lexikalisch, sodass Aussagen zur breiten gesellschaftlichen Resonanz nur vorsichtig getroffen werden sollten.",
+  "evidence_quality": "mittel: klare Namensdiskussionen, aber überwiegend lexikalische Quellen und nur begrenzte Alltagsresonanz",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Carolin",
+  "normalized_name": "carolin",
+  "overall_resonance": "Carolin wird in deutschen Namensquellen überwiegend freundlich und klassisch wahrgenommen. Der Name wirkt vertraut, weiblich und eher zeitlos; zugleich wird er heute teils als etwas weniger häufig beschrieben als früher.",
+  "practical_notes": [
+    "Für Suchmaschinen- und Namenskontexte ist Carolin ein klar einordenbarer, unproblematischer Vorname.",
+    "Der Name eignet sich gut für eine sachliche, positive Kurzbeschreibung ohne starke modische Zuschreibungen."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenzlage ist eher schmal und stammt vor allem aus Namenslexika, daher nur vorsichtige Aussagen zur öffentlichen Wahrnehmung.",
+    "Eine breitere gesellschaftliche Resonanz außerhalb von Namensseiten ist aus den Quellen nur begrenzt ableitbar."
+  ],
+  "short_summary": "Carolin wird in deutschen Namensquellen als klassischer, freundlicher und vertrauter Vorname beschrieben, dessen öffentliche Sichtbarkeit eher über Namenslexika als über breite Debatten entsteht.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Carolin � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/C/Ca/Carolin/"
+    },
+    {
+      "confidence": 0.92,
+      "is_name_discussion": true,
+      "sentiment": "positive",
+      "source_type": "web",
+      "title": "&#9655; Vorname Carolin: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Carolin.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "weiblich",
+    "vertraut",
+    "zeitlos",
+    "leicht traditionell",
+    "namenskundlich gut anschlussfähig"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Im deutschsprachigen Raum ist der Name gut bekannt und in Namenslexika sichtbar, die öffentliche Debatte darüber wirkt aber eher begrenzt. Die vorliegende Evidenz stützt vor allem eine lexikalische, nicht eine breite gesellschaftliche Resonanz."
+}

@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "biblischer und religiöser Bezug",
+    "Erzengel Michael",
+    "hebräischer Ursprung",
+    "Schutz und Stärke",
+    "Namenstradition",
+    "hohe Verbreitung in Deutschland"
+  ],
+  "confidence": 0.94,
+  "display_text": "Michael wird in Deutschland meist als klassisch, vertraut und zeitlos wahrgenommen. Die öffentliche Resonanz ist überwiegend neutral bis positiv; der Name ist stark mit biblischem Ursprung, Erzengel Michael und hoher Bekanntheit verbunden. Die Evidenz ist solide, stammt aber vor allem aus Namenslexika und nicht aus freier Meinungsdiskussion.",
+  "evidence_quality": "hoch für Bedeutung, Herkunft und traditionelle Einordnung; mittel für öffentliche Resonanz, da die Quellen überwiegend lexikalisch sind.",
+  "generated_at": "2026-06-12T06:08:03Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Michael",
+  "normalized_name": "michael",
+  "overall_resonance": "Michael wirkt in Deutschland als sehr klassischer, vertrauter und breit anschlussfähiger Vorname mit überwiegend neutral bis positiv aufgerufener öffentlicher Wahrnehmung.",
+  "practical_notes": [
+    "Für eine Namenssuche eignet sich Michael als klarer, etablierter Standardname.",
+    "Die Kurzformen Michi, Micha oder Mike sowie die internationale Anschlussfähigkeit können die Alltagswahrnehmung prägen.",
+    "Wer einen zeitlosen und weithin verständlichen Namen sucht, findet hier eine sehr unauffällige Wahl."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt vor allem aus Namenslexika und Infoseiten, nicht aus freier öffentlicher Meinungsdiskussion.",
+    "Beliebtheit und kulturelle Wirkung werden eher beschreibend als direkt bewertet.",
+    "Keine belastbare soziale Stigmatisierung erkennbar; der Name wird eher als etabliert und klassisch wahrgenommen."
+  ],
+  "short_summary": "Michael ist in Deutschland ein sehr bekannter, klassischer Vorname mit biblischer Prägung und eher neutral bis positivem öffentlichen Klang.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Michael � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/M/Mi/Michael/"
+    },
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Michael: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Michael.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "zeitlos",
+    "seriös",
+    "vertraut",
+    "international verständlich",
+    "traditionsnah"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Sehr hoch: Der Name ist bekannt, traditionell und in Deutschland seit langem präsent."
+}

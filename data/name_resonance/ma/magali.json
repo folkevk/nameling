@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "provenzalische Form von Margarete",
+    "Bedeutung: Perle",
+    "französischer bzw. provenzalischer Sprachraum",
+    "weiblicher Vorname",
+    "selten in Deutschland",
+    "Namenstag wird in einzelnen Quellen genannt"
+  ],
+  "confidence": 0.72,
+  "display_text": "Magali wirkt in Deutschland eher selten, französisch/provenzalisch und angenehm klingend. Die vorliegenden Quellen zeigen eine leicht positive, aber vor allem sachliche Rezeption; echte breite öffentliche Resonanz ist kaum erkennbar.",
+  "evidence_quality": "Eher schwach bis mittel: zwei ähnliche Namenslexikon-Quellen, wenig echte öffentliche Resonanz, kaum unabhängige Diskussion.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Magali",
+  "normalized_name": "magali",
+  "overall_resonance": "Magali wird in den vorliegenden Quellen eher freundlich und sachlich wahrgenommen, mit leicht positiver Tendenz. Der Name wirkt im deutschsprachigen Raum eher selten und dadurch auffällig, aber die öffentliche Resonanz ist insgesamt dünn und vor allem lexikonartig geprägt.",
+  "practical_notes": [
+    "Für eine Namenssuche ist Magali vor allem wegen Klang, Herkunft und Bedeutung interessant.",
+    "Im deutschen Umfeld dürfte der Name eher als ungewöhnlich und markant wahrgenommen werden.",
+    "Die Quellenlage spricht eher für eine ruhige, sachliche Rezeption als für starke Kontroversen."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist schwach und stützt sich vor allem auf einzelne Namenslexika, nicht auf breite öffentliche Debatte.",
+    "Kommentar- oder Redaktionsstimmen sind nicht als allgemeine Meinung der Öffentlichkeit zu werten.",
+    "Die wahrgenommene Positivität kann teilweise aus der beschreibenden, redaktionellen Darstellung der Quellen stammen."
+  ],
+  "short_summary": "Magali wird in den verfügbaren Quellen eher positiv, elegant und selten beschrieben, allerdings auf schmaler Evidenzbasis.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Magali � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/M/Ma/Magali/"
+    },
+    {
+      "confidence": 0.77,
+      "is_name_discussion": true,
+      "sentiment": "mostly positive",
+      "source_type": "web",
+      "title": "&#9655; Vorname Magali: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Magali.html"
+    }
+  ],
+  "style_effect": [
+    "französisch/provenzalisch klingend",
+    "elegant und weich im Lautbild",
+    "eher selten und dadurch eigenständig",
+    "klassisch-zeitlos durch die Herleitung von Margarete",
+    "namenskundlich interessant statt massenhaft verbreitet"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Niedrig bis mittel: In Deutschland wird Magali als seltener Vorname beschrieben; breite öffentliche Diskussionen oder eine starke Alltagspräsenz sind in der Evidenz nicht erkennbar."
+}

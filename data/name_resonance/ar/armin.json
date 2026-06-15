@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "altgermanische bzw. germanische Herkunft",
+    "Bedeutungen wie „der Große“, „der Gewaltige“, „der Allumfassende“",
+    "mögliche Deutungen wie „tapferer Krieger“ oder „Beschützer“",
+    "Namenstag am 2. Juni",
+    "lange Nutzung in Deutschland",
+    "teils auch als historisch gebildeter, sachlicher Vorname wahrgenommen"
+  ],
+  "confidence": 0.84,
+  "display_text": "Armin wird meist als traditionell, bekannt und leicht positiv wahrgenommen. Der Name ist historisch gut verankert und mit starken Bedeutungen wie „der Starke“ oder „der Beschützer“ verbunden. Eine auffällige öffentliche Kontroverse zeigt sich in der vorliegenden Evidenz nicht.",
+  "evidence_quality": "mittel: zwei klar namensbezogene Webquellen, überwiegend beschreibend und nicht kontrovers; öffentliche Breitenresonanz ist jedoch nur begrenzt belegt.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Armin",
+  "normalized_name": "armin",
+  "overall_resonance": "Armin wird in den vorliegenden Quellen überwiegend sachlich bis leicht positiv wahrgenommen. Der Name wirkt etabliert, traditionell und namenkundlich gut verankert, mit mehreren positiv besetzten Bedeutungsdeutungen.",
+  "practical_notes": [
+    "Für die Einordnung sollte man den Namen als traditionell und eher positiv konnotiert beschreiben.",
+    "Die Wirkung hängt stark vom Kontext ab: eher klassisch als modern-experimentell.",
+    "Wenn eine sehr breite Social-Media- oder Medienresonanz erwartet wird, ist die Datenlage dafür derzeit dünn."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt überwiegend aus Namenslexikon- und Datenbankseiten; das ist informativ, aber nur begrenzt breit öffentlich.",
+    "Etymologische Deutungen sind teils unterschiedlich und nicht in allen Details gesichert.",
+    "Es gibt keine Hinweise auf eine starke soziale Stigmatisierung oder kontroverse Debatte um den Namen in der vorliegenden Evidenz."
+  ],
+  "short_summary": "Armin wirkt im deutschsprachigen Raum als etablierter, traditioneller Vorname mit überwiegend leicht positiver und sachlicher Resonanz. Die Quellen betonen Herkunft, Bedeutung und Namenstag; eine breite kontroverse Debatte ist nicht erkennbar.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.88,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "Vorname Armin � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/A/Ar/Armin/"
+    },
+    {
+      "confidence": 0.95,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Armin: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Armin.html"
+    }
+  ],
+  "style_effect": [
+    "traditionell",
+    "klassisch",
+    "bodenständig",
+    "namenskundlich klar",
+    "leicht markant"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Im deutschsprachigen Raum ist Armin bekannt und historisch präsent, aber keine stark trendgetriebene oder breit diskutierte Namenswelle erkennbar. Die öffentliche Sichtbarkeit wirkt eher konstant als auffällig."
+}

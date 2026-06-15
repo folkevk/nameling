@@ -1,0 +1,59 @@
+{
+  "associations": [
+    "Bedeutungszuordnungen wie „Gottesgeschenk“, „fruchtbar“ oder „die Funkelnde / die Schimmernde“",
+    "mögliche Bezüge zu hebräischen, griechischen oder arabischen Herleitungen",
+    "Varianten und Nähe zu Maria, Maire, Meira oder Mayra",
+    "Namenstag wird in einigen Quellen erwähnt",
+    "teils wahrgenommene irische Verbindung",
+    "vereinzelt Hinweise auf Ausspracheunsicherheit oder Verwechslung mit Maria"
+  ],
+  "confidence": 0.73,
+  "display_text": "Maira wird öffentlich meist neutral bis leicht positiv wahrgenommen: ein moderner, klangvoller Vorname mit weichen Assoziationen. Die Quellen nennen unterschiedliche Bedeutungen und Herkünfte, etwa Bezüge zu Maria/Maire sowie Varianten wie Meira oder Mayra. Vereinzelt gibt es Hinweise auf Ausspracheunsicherheit oder Verwechslungen mit Maria; insgesamt ist die Evidenz aber eher begrenzt und vor allem lexikalisch geprägt.",
+  "evidence_quality": "mittel bis schwach; vorwiegend lexikalische Namensseiten mit begrenzter Breite, teils gemischten Nutzerkommentaren und unterschiedlichen Herkunftsangaben",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Maira",
+  "normalized_name": "maira",
+  "overall_resonance": "Maira wird öffentlich überwiegend neutral bis leicht positiv wahrgenommen. In den verfügbaren Namensquellen erscheint der Name vor allem als moderner, klangvoller Vorname mit mehreren möglichen Herkunfts- und Bedeutungszuordnungen. Die Resonanz ist dabei eher beschreibend als emotional wertend.",
+  "practical_notes": [
+    "Für die öffentliche Wahrnehmung ist Maira eher unauffällig und freundlich konnotiert.",
+    "Die Schreibweise ist relativ klar, kann aber gelegentlich mit Maria verwechselt werden.",
+    "Wenn eine eindeutige Herleitung wichtig ist, sollte man auf die je nach Quelle unterschiedliche etymologische Einordnung achten."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist begrenzt und stützt sich im Wesentlichen auf wenige Namenslexikon-Seiten.",
+    "Einige Angaben zu Herkunft und Bedeutung variieren zwischen den Quellen.",
+    "Kommentare zu Aussprache und Verwechslungen sind eher subjektive Eindrücke als belastbare Gesamtbewertung."
+  ],
+  "short_summary": "Maira wirkt in den Quellen modern, weich und eher positiv-neutral. Die Bedeutungen und Herkünfte werden unterschiedlich angegeben, weshalb die Evidenz nur vorsichtig zu lesen ist.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Maira � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/M/Ma/Maira/"
+    },
+    {
+      "confidence": 0.88,
+      "is_name_discussion": true,
+      "sentiment": "mixed",
+      "source_type": "web",
+      "title": "&#9655; Vorname Maira: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Maira.html"
+    }
+  ],
+  "style_effect": [
+    "klingt weich und freundlich",
+    "wirkt modern und zugleich namenskundlich anschlussfähig",
+    "steht in Quellen teils als Variante zu Maria/Maire",
+    "kann je nach Umfeld als selten bis bekannt wahrgenommen werden"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "mittlere Sichtbarkeit"
+}

@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "Kurzform von Felicia/Felicitas",
+    "Bedeutung: die Glückliche / die Glückselige / die Helfende",
+    "altgriechische und lateinische Herkunft",
+    "im deutschen Sprachraum vergeben",
+    "selten",
+    "schön",
+    "liebevoll"
+  ],
+  "confidence": 0.84,
+  "display_text": "Felia wirkt in den vorliegenden Quellen freundlich, modern und eher selten. Der Name wird meist positiv beschrieben, vor allem mit den Bedeutungen „die Glückliche“ oder „die Helfende“. Die öffentliche Resonanz ist aber nur schwach belegbar, da die Hinweise hauptsächlich aus Namenslexika stammen.",
+  "evidence_quality": "mittel bis schwach: mehrere konsistente Namenslexikon-Quellen, aber wenig unabhängige öffentliche Resonanzdaten",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Felia",
+  "normalized_name": "felia",
+  "overall_resonance": "Eher positiv und freundlich, mit klarer Namenslexikon-Wirkung. Felia wird in den vorliegenden Quellen vor allem als seltener, schöner und wohlklingender Vorname beschrieben.",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt Felia freundlich, feminin und unkompliziert.",
+    "Die Quellen deuten auf einen eher seltenen Namen im deutschen Sprachraum hin.",
+    "Eine belastbare Aussage zur tatsächlichen Alltagsresonanz ist wegen der dünnen Evidenz nur eingeschränkt möglich."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt überwiegend aus Namenslexika und Datenbankseiten, nicht aus breiter öffentlicher Diskussion.",
+    "Positive Formulierungen können redaktionell geprägt sein und müssen nicht die gesamte Wahrnehmung abbilden."
+  ],
+  "short_summary": "Felia wird überwiegend positiv, freundlich und als seltener Vorname wahrgenommen. Die Evidenz ist jedoch vor allem lexikalisch und daher nur eingeschränkt repräsentativ für breite öffentliche Resonanz.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Felia � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/F/Fe/Felia/"
+    },
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Felia: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Felia.html"
+    }
+  ],
+  "style_effect": [
+    "weich",
+    "modern-kurz",
+    "selten",
+    "freundlich",
+    "namenskundlich",
+    "leicht elegant"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Die öffentliche Sichtbarkeit wirkt eher gering bis mittel: Der Name taucht in Namensdatenbanken und Lexikonseiten auf, aber die Evidenz für breite, unabhängige Alltagsresonanz ist begrenzt."
+}

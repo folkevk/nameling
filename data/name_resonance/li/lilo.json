@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "Kurzform von Liselotte/Lieselotte",
+    "eigenständiger Vorname",
+    "weiblicher Rufname",
+    "deutschsprachige Verwendung",
+    "Namenstag",
+    "vereinzelt auch als androgyn/unisex wahrgenommen",
+    "teils mit hawaiianischer Notiz erwähnt"
+  ],
+  "confidence": 0.84,
+  "display_text": "Lilo wirkt in der vorliegenden Evidenz überwiegend sachlich-neutral und leicht positiv: ein kurzer, vertrauter Vorname, der oft als Kurzform, teils aber auch als eigenständiger Name beschrieben wird. Die öffentliche Datenbasis ist jedoch klein und vor allem lexikalisch geprägt.",
+  "evidence_quality": "mittel bis schwach: zwei überwiegend sachliche Namensquellen, davon nur begrenzt öffentliche Reaktionsdaten; insgesamt eher lexikalische als breit öffentliche Evidenz.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Lilo",
+  "normalized_name": "lilo",
+  "overall_resonance": "Überwiegend sachlich-neutral mit leicht positiver Tendenz. In den vorliegenden Quellen wird Lilo vor allem als vertrauter, kurzer Vorname bzw. als Kurzform mit eigenständiger Verwendung beschrieben.",
+  "practical_notes": [
+    "Für Suchmaschinen wirkt der Name freundlich, unkompliziert und gut merkbar.",
+    "Die Wahrnehmung erscheint eher positiv-neutral als kontrovers.",
+    "Bei der Einordnung sollte man zwischen lexikalischer Beschreibung und echter öffentlicher Resonanz unterscheiden."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist schmal und stark von einzelnen Namenslexika geprägt.",
+    "Einige Eindrücke stammen aus redaktionellen Texten oder vereinzelten Kommentaren und sind nicht repräsentativ.",
+    "Es gibt keine belastbaren Hinweise auf eine ausgeprägte gesellschaftliche Debatte oder klare Mehrheitsmeinung."
+  ],
+  "short_summary": "Lilo wird in den Quellen vor allem als kurzer, vertrauter Vorname bzw. Kurzform mit eigenständiger Nutzung beschrieben. Die Resonanz ist überwiegend neutral, mit leicht positiver Färbung, aber die Evidenz ist begrenzt.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Lilo � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/L/Li/Lilo/"
+    },
+    {
+      "confidence": 0.88,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Lilo: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Lilo.html"
+    }
+  ],
+  "style_effect": [
+    "kurz und eingängig",
+    "freundlich und vertraut",
+    "lexikalisch aufgeladen",
+    "leicht verspielt",
+    "modern wirkend, ohne stark modische Zuspitzung"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland sichtbar und gebräuchlich, aber die öffentliche Resonanzbasis wirkt eher klein und vor allem lexikalisch geprägt. Es gibt nur begrenzte Hinweise auf breitere, alltägliche Diskussionen."
+}

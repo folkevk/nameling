@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "lateinischer bzw. römischer Ursprung",
+    "italienische und spanische Namensprägung",
+    "Bedeutung wird teils als 'die Bohnenzüchterin' oder 'die Edle' angegeben",
+    "Namenslexikon-Kontext",
+    "Namenstag wird genannt",
+    "seit den 1960er Jahren in Deutschland bekannt"
+  ],
+  "confidence": 0.84,
+  "display_text": "Fabiola wirkt in Deutschland eher selten, international und elegant. Die verfügbaren Quellen beschreiben den Namen überwiegend sachlich bis positiv, allerdings fast nur aus Namenslexika und damit ohne breite öffentliche Debatte.",
+  "evidence_quality": "mittel: zwei überwiegend namenkundliche Webquellen, sachlich bis positiv, aber keine breite öffentliche Meinungsbasis",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Fabiola",
+  "normalized_name": "fabiola",
+  "overall_resonance": "Eher positiv bis neutral: Fabiola wird in deutschsprachigen Namenslexika meist sachlich, teils wohlwollend beschrieben. Der Name wirkt für viele als selten, klangvoll und international geprägt.",
+  "practical_notes": [
+    "Für die Namenssuche eignet sich Fabiola vor allem, wenn ein seltener, international verständlicher Mädchenname gesucht wird.",
+    "Der Name wirkt eher elegant und traditionell als modern-modisch.",
+    "Die öffentliche Wahrnehmung scheint insgesamt unauffällig positiv, aber nicht stark trendgetrieben."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt fast ausschließlich aus Namenslexika und Kommentarseiten; eine breite öffentliche Debatte ist nicht erkennbar.",
+    "Beliebtheits- und Wirkungseindrücke sind daher eher orientierend als repräsentativ.",
+    "Keine belastbaren Hinweise auf negative gesellschaftliche Stigmatisierung in den vorliegenden Quellen."
+  ],
+  "short_summary": "Fabiola wird im deutschsprachigen Raum meist als seltener, klangvoller und eher elegant wirkender Vorname wahrgenommen. Die vorhandenen Quellen sind überwiegend sachlich bis positiv, beruhen aber vor allem auf Namenslexika.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Fabiola � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/F/Fa/Fabiola/"
+    },
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "mostly positive",
+      "source_type": "web",
+      "title": "&#9655; Vorname Fabiola: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Fabiola.html"
+    }
+  ],
+  "style_effect": [
+    "elegant",
+    "klassisch-romisch",
+    "international",
+    "seltener Klang",
+    "weich und melodisch",
+    "etwas feierlich"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland bekannt, aber eher selten bis mittel bekannt; dadurch auffällig ohne sehr verbreitet zu sein."
+}

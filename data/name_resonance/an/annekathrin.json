@@ -1,0 +1,63 @@
+{
+  "associations": [
+    "Doppelform aus Anne und Kathrin",
+    "Bedeutungsbezüge wie „anmutig“ und „rein“",
+    "weiblicher Vorname",
+    "deutschsprachiger Raum",
+    "seltene Schreibweise mit „th“",
+    "Beliebtheit eher in früheren Jahrzehnten bzw. in den 1990er Jahren erwähnt",
+    "Spitznamen und Kurzformen werden vereinzelt genannt"
+  ],
+  "confidence": 0.9,
+  "display_text": "Annekathrin wirkt öffentlich eher positiv, klassisch und selten. Der Name wird vor allem als deutsche Doppelform aus Anne und Kathrin mit Bedeutungsbezügen wie „anmutig“ und „rein“ beschrieben. Die Evidenz ist allerdings überwiegend portalbasiert, daher ist die breite öffentliche Resonanz nur begrenzt belastbar.",
+  "evidence_quality": "mittel: inhaltlich klar, aber überwiegend portalbasierte Namenslexikon-Evidenz ohne breite öffentliche Diskurslage",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Annekathrin",
+  "normalized_name": "annekathrin",
+  "overall_resonance": "Eher positiv und sachlich-informativ, mit einer leichten nostalgisch-traditionellen Note. Der Name wird in den Quellen vor allem als seltene deutsche Doppelform wahrgenommen.",
+  "practical_notes": [
+    "Für die Namenssuche wirkt Annekathrin eigenständig, klassisch und klar deutsch.",
+    "Die seltene Form kann als markant wahrgenommen werden, ohne ungewöhnlich schwer aussprechbar zu sein.",
+    "Wer einen vertrauten, aber nicht häufigen Doppelnamen sucht, findet hier eine passende Option."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt vor allem aus Namenslexika und Portaltexten; die öffentliche Resonanz ist daher nur begrenzt belastbar.",
+    "Beliebtheits- und Bedeutungsangaben sind eher portaltypisch und sollten vorsichtig gelesen werden.",
+    "Keine Hinweise auf eine soziale Stigmatisierung des Namens in der vorliegenden Evidenz."
+  ],
+  "short_summary": "Annekathrin wird überwiegend positiv, klassisch und selten wahrgenommen; die öffentliche Resonanz ist eher sachlich-informativ als trendig.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Annekathrin � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/A/An/Annekathrin/"
+    },
+    {
+      "confidence": 0.95,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Annekathrin: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Annekathrin.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "traditionell",
+    "selten",
+    "deutschsprachig",
+    "eher formell",
+    "leicht altmodisch",
+    "namenskundlich auffällig"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Im deutschsprachigen Raum bekannt, aber eher selten und nicht sehr alltagspräsent. Die öffentliche Sichtbarkeit wirkt daher begrenzt und stärker namenkundlich als breitenpopulär."
+}

@@ -1,0 +1,59 @@
+{
+  "associations": [
+    "Bedeutungen wie „die Begnadete“, „die Anmutige“ oder „die Liebreizende“",
+    "hebräische Herkunft bzw. traditionelle Namensgeschichte",
+    "christliche Bezüge",
+    "hohe Beliebtheit in Deutschland",
+    "kurz, klar und international verständlich"
+  ],
+  "confidence": 0.96,
+  "display_text": "Anna wirkt in der öffentlichen Namensbeschreibung sehr positiv: klassisch, beliebt, traditionsreich und mit freundlichen Bedeutungsassoziationen wie „die Begnadete“ oder „die Anmutige“. Auffällige negative Zuschreibungen finden sich in der vorliegenden Evidenz nicht.",
+  "evidence_quality": "hoch: zwei klar namensbezogene, konsistente Quellen mit übereinstimmend positiver, beschreibender Tonalität; jedoch eher lexikalisch als meinungsbasiert.",
+  "generated_at": "2026-06-12T06:08:03Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Anna",
+  "normalized_name": "anna",
+  "overall_resonance": "Anna wird in der vorliegenden Evidenz überwiegend positiv und sehr klassisch wahrgenommen. Der Name gilt als traditionsreich, bekannt und in Deutschland sehr beliebt, ohne auffällige problematische Konnotationen in den Quellen.",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt Anna sehr unproblematisch, etabliert und leicht zugänglich.",
+    "Der Name ist in Alltag, Schule und Beruf gut aussprechbar und international meist problemlos verständlich."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz basiert fast ausschließlich auf Namenslexika und Bedeutungsseiten, nicht auf breiter öffentlicher Meinungsforschung.",
+    "Beliebtheit und Tradition können je nach Generation unterschiedlich wahrgenommen werden; die Quellen beschreiben vor allem einen etablierten Standardnamen."
+  ],
+  "short_summary": "Anna wird in den Quellen als sehr beliebter, klassischer und positiv konnotierter Name beschrieben.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "Vorname Anna � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/A/An/Anna/"
+    },
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Anna: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Anna.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "zeitlos",
+    "traditionell",
+    "sanft",
+    "elegant",
+    "vertraut",
+    "international anschlussfähig"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Sehr hoch: Anna ist ein extrem geläufiger und breit erkannter Vorname im deutschsprachigen Raum."
+}

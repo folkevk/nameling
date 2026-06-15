@@ -1,0 +1,59 @@
+{
+  "associations": [
+    "Bedeutungszuschreibungen wie „von edlem Wesen“ oder „die Edle“",
+    "althochdeutsche bzw. über Alice/Alice-Formen genannte Herkunft",
+    "Namensstag-Nennungen",
+    "Beliebtheit in Deutschland",
+    "teils auch Koseformen und Spitznamen"
+  ],
+  "confidence": 0.78,
+  "display_text": "Alisa wirkt in den vorliegenden Quellen überwiegend positiv: freundlich, klangvoll und mit einer edlen Bedeutungszuschreibung. Der Name ist im deutschen Namenskontext bekannt und gut verwendbar, die Evidenz ist aber eher begrenzt.",
+  "evidence_quality": "mittel: wenige, aber klar namensbezogene und überwiegend positive Quellen mit lexikalischem Charakter",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Alisa",
+  "normalized_name": "alisa",
+  "overall_resonance": "Überwiegend positiv und sachlich-wohlwollend. Der Name wird in den vorliegenden Namensquellen meist mit einer edlen, freundlichen und klanglich angenehmen Wirkung verbunden.",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt Alisa insgesamt freundlich, etabliert und leicht zugänglich.",
+    "Der Name ist international anschlussfähig und im Deutschen gut aussprechbar.",
+    "Die öffentliche Resonanz erscheint eher positiv als polarisiert."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt nur aus wenigen Namensseiten; das Bild ist daher nicht besonders breit abgesichert.",
+    "Bedeutungs- und Herkunftsangaben können je nach Quelle variieren und sollten nicht als einzige Wahrheit verstanden werden.",
+    "Einzelne Community-Kommentare sind nur als Stimmungsindikator nutzbar, nicht als allgemeingültige Aussage."
+  ],
+  "short_summary": "Alisa wird in den vorliegenden deutschen Namensquellen überwiegend positiv wahrgenommen: freundlich, klangvoll und mit einer edlen Bedeutung assoziiert. Die Evidenz ist jedoch begrenzt und basiert vor allem auf wenigen Namenslexika.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.95,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "Vorname Alisa � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/A/Al/Alisa/"
+    },
+    {
+      "confidence": 0.95,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Alisa: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Alisa.html"
+    }
+  ],
+  "style_effect": [
+    "klingt weich und harmonisch",
+    "wirkt klassisch-moderner als viele Kurzformen",
+    "wird häufig mit „edel“ und „freundlich“ assoziiert",
+    "eher unkompliziert und vertraut im Schriftbild",
+    "in Namenslisten und Lexika positiv besetzt"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Im deutschsprachigen Namenskontext gut auffindbar und bekannt, mit wahrnehmbarer, aber nicht überdominanter Präsenz. Die Quellen verweisen auch auf Beliebtheit und Namensverwendung in Deutschland."
+}

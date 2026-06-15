@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "Kurzform von Magdalena",
+    "mögliche schwedische oder englische Herkunft",
+    "Bedeutung: „die aus Magdala Stammende“",
+    "teilweise auch Deutung als „die Erhabene“",
+    "in Deutschland als beliebt/bekannt beschrieben",
+    "Verbindung zu Astrid Lindgrens Kinderbuchfigur"
+  ],
+  "confidence": 0.84,
+  "display_text": "Malin wirkt in Deutschland überwiegend neutral bis leicht positiv: ein kurzer, moderner und freundlich klingender Vorname, der als bekannt und teils beliebt beschrieben wird. Die Herkunft ist allerdings nicht eindeutig und wird unterschiedlich gedeutet. Die verfügbare Evidenz stammt vor allem aus Namenslexika, daher ist die Einordnung vorsichtig zu lesen.",
+  "evidence_quality": "gut für eine vorsichtige Namensbeschreibung, aber inhaltlich schmal: zwei überwiegend lexikalische Webquellen, kaum unabhängige Breite.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Malin",
+  "normalized_name": "malin",
+  "overall_resonance": "Überwiegend neutral bis leicht positiv: Malin wird in den verfügbaren Namenslexika als etablierter, moderner und eher freundlicher Vorname beschrieben. In Deutschland wird er als bekannt und teils beliebt eingeordnet, bei zugleich klarer Mehrdeutigkeit der Herkunft.",
+  "practical_notes": [
+    "Für Suchmaschinen wirkt der Name meist angenehm, modern und unaufgeregt.",
+    "Die Wahrnehmung dürfte je nach Kontext zwischen weiblich und unisex schwanken.",
+    "Wegen der mehrdeutigen Herkunft kann der Name in Nachfragen kurz erklärungsbedürftig sein."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Herkunft und Bedeutung sind nicht eindeutig; verschiedene Deutungen kursieren.",
+    "Die Evidenz stammt fast ausschließlich aus Namenslexika, daher ist die öffentliche Rezeption nur begrenzt abgesichert.",
+    "Die positive Einordnung durch Beliebtheit sollte vorsichtig gelesen werden, da sie nicht zwingend allgemeine gesellschaftliche Wahrnehmung abbildet."
+  ],
+  "short_summary": "Malin wird in Deutschland meist als moderner, freundlich klingender Vorname mit eher neutral bis leicht positiver Resonanz wahrgenommen; die Herkunft ist jedoch mehrdeutig und die Evidenz vor allem lexikalisch.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Malin � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/M/Ma/Malin/"
+    },
+    {
+      "confidence": 0.91,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Malin: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Malin.html"
+    }
+  ],
+  "style_effect": [
+    "kurz und weich im Klang",
+    "modern und unkompliziert wirkend",
+    "international anschlussfähig",
+    "je nach Einordnung eher weiblich, teils auch unisex",
+    "namenslexikalisch als sachlich und zeitgemäß beschrieben"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Mittlere Sichtbarkeit in Deutschland; der Name ist offenbar präsent und geläufig, aber nicht als Extremfall mit sehr starker öffentlicher Debatte auffällig."
+}

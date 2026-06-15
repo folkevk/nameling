@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "Bedeutungen wie „die Freie“, „die Tüchtige“, teils auch „die Geliebte“",
+    "germanisch/althochdeutsche Herkunft",
+    "weibliche Form bzw. Verwandtschaft zu Karl",
+    "Nebenformen und Varianten wie Karolin, Karolina, Caroline, Carolin, Carolina",
+    "Spitznamen wie Karo oder Line",
+    "Namenstag und familiäre, traditionelle Verwendung"
+  ],
+  "confidence": 0.9,
+  "display_text": "Karoline wird meist als klassischer, traditionsreicher Vorname wahrgenommen. Die Quellen deuten auf eine eher freundlich-positive, zeitlose Resonanz hin, vor allem über Bedeutung, Herkunft und Namensgeschichte. Eine breite öffentliche Diskussion ist in der Evidenz kaum sichtbar.",
+  "evidence_quality": "mittel bis gut: zwei überwiegend lexikalische Quellen, klare Namensbeschreibung, aber nur schwache direkte Hinweise auf öffentliche Resonanz",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Karoline",
+  "normalized_name": "karoline",
+  "overall_resonance": "Karoline wird in den vorliegenden Quellen überwiegend sachlich bis positiv dargestellt: als traditionsreicher, klassischer Vorname mit klarer Bedeutung und langer Namensgeschichte. Die öffentliche Wahrnehmung wirkt eher freundlich und zeitlos als modisch oder auffällig.",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt Karoline solide, vertraut und wenig erklärungsbedürftig.",
+    "Der Name vermittelt eher klassische als moderne Assoziationen.",
+    "Die Schreibvariante ist etabliert, aber nicht die häufigste Form im Vergleich zu Karolin oder Caroline."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz besteht fast ausschließlich aus Namenslexika; direkte öffentliche Debatten oder breite Alltagsresonanz sind nur indirekt erkennbar.",
+    "Aussagen zur Beliebtheit sollten vorsichtig gelesen werden, da sie eher auf Namensdaten als auf echte soziale Wahrnehmung zurückgehen."
+  ],
+  "short_summary": "Karoline wirkt in Deutschland klassisch, traditionell und freundlich positiv konnotiert, mit starker lexikalischer und historischer Verankerung.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.94,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Karoline � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/K/Ka/Karoline/"
+    },
+    {
+      "confidence": 0.94,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Karoline: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Karoline.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "traditionell",
+    "eher zeitlos",
+    "sachlich-elegant",
+    "namenskundlich aufgeladen",
+    "freundlich klingend"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland ist der Name bekannt, aber eher klassisch und nicht als besonders trendiger Spitzenname präsent. Die Resonanz erscheint vor allem über Namenslexika und Bedeutungsangaben sichtbar, weniger über breite öffentliche Diskussion."
+}

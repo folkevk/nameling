@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "skandinavische Form von Peter",
+    "niederländische Form von Peter",
+    "Bedeutung: der Fels / Stein",
+    "biblische Ableitung über Petrus",
+    "nordisch, niederdeutsch, niederländisch geprägt",
+    "selten bis moderat verbreitet"
+  ],
+  "confidence": 0.83,
+  "display_text": "Peer wird überwiegend sachlich-neutral wahrgenommen, mit leicht positiver, klassisch-nordischer Ausstrahlung. Die Namensquellen ordnen ihn als Form von Peter/Petrus ein und verbinden ihn mit der Bedeutung „der Fels“. Eine breite öffentliche Debatte ist in den vorliegenden Daten jedoch kaum sichtbar.",
+  "evidence_quality": "mittel bis schwach: zwei überwiegend namenskundliche Webquellen, kaum echte öffentliche Diskussionsbreite",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Peer",
+  "normalized_name": "peer",
+  "overall_resonance": "Überwiegend sachlich-neutral mit leicht positiver Namenswirkung. In den vorliegenden Quellen wird Peer vor allem als nordische bzw. niederländische Form von Peter/Petrus beschrieben, verbunden mit der Bedeutung „der Fels“.",
+  "practical_notes": [
+    "Für Suchmaschinen gut lesbar, weil Bedeutung und Herkunft klar und kurz vermittelbar sind.",
+    "Die knappe Form macht den Namen einprägsam.",
+    "Eher sachlich als emotional aufgeladen; dadurch wenig Risiko für missverständliche Deutungen.",
+    "Bei der Einordnung sollte auf die historische Namensform verwiesen werden, nicht auf soziale Zuschreibungen."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist einseitig und stammt vor allem aus Namensdatenbanken statt aus freier öffentlicher Diskussion.",
+    "Die öffentliche Resonanz lässt sich daher nur vorsichtig als Tendenz beschreiben, nicht als breite Meinungslage.",
+    "Vereinzelte Nutzerkommentare können die Gesamtwirkung leicht positiv färben, sind aber nicht belastbar genug für starke Aussagen."
+  ],
+  "short_summary": "Peer wirkt in der öffentlichen Einordnung sachlich, kurz und klassisch-nordisch; die Quellen betonen vor allem die Herkunft als Form von Peter/Petrus und die Bedeutung „der Fels“.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Peer � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/P/Pe/Peer/"
+    },
+    {
+      "confidence": 0.9,
+      "is_name_discussion": true,
+      "sentiment": "eher positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Peer: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Peer.html"
+    }
+  ],
+  "style_effect": [
+    "kurz und markant",
+    "klassisch-nordisch",
+    "namenskundlich klar einordenbar",
+    "modern-nüchtern statt verspielt",
+    "leicht eigenständig durch die kurze Form"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Eher bekannt, aber nicht sehr häufig; in Deutschland als Vorname eingeordnet und eher selten bis moderat verbreitet."
+}

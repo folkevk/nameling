@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "norwegische und schwedische Form",
+    "altnordischer Ursprung",
+    "Bedeutung häufig als Kessel oder Helm erklärt",
+    "Norddeutschland",
+    "bekannt, aber selten",
+    "Jungenname",
+    "Namenstag 27. September"
+  ],
+  "confidence": 0.91,
+  "display_text": "Kjell: in Deutschland eher seltener, nordisch geprägter Jungenname mit klarer, markanter und überwiegend sachlich bis leicht positiver Resonanz.",
+  "evidence_quality": "gut bis sehr gut; mehrere namenskundliche Quellen, überwiegend neutral, teils mit leicht positiver Tendenz",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Kjell",
+  "normalized_name": "kjell",
+  "overall_resonance": "Kjell wirkt in der öffentlichen Wahrnehmung überwiegend nordisch, markant und eher selten; die Rezeption ist sachlich bis leicht positiv.",
+  "practical_notes": [
+    "Für Suchmaschinen geeignet, da der Name klar erklärt und meist ohne starke Wertung beschrieben wird.",
+    "Die kurze, klare Form kann als eigenständig und international anschlussfähig wahrgenommen werden.",
+    "Im deutschen Kontext dürfte die Seltenheit ein wichtiges Merkmal der Außenwirkung sein."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Bedeutungsangaben sind namenkundlich und nicht als wörtliche Deutung im Alltag zu verstehen.",
+    "Die Quellenlage ist gut, enthält aber teils redaktionelle Texte und einzelne Nutzerkommentare.",
+    "Keine Hinweise auf eine starke soziale Stigmatisierung; die Wahrnehmung bleibt überwiegend neutral bis positiv."
+  ],
+  "short_summary": "Kjell wird in Deutschland als seltener, nordisch geprägter Jungenname mit sachlich bis leicht positiver Resonanz wahrgenommen.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Kjell � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/K/Kj/Kjell/"
+    },
+    {
+      "confidence": 0.91,
+      "is_name_discussion": true,
+      "sentiment": "eher positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Kjell: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Kjell.html"
+    }
+  ],
+  "style_effect": [
+    "nordisch",
+    "markant",
+    "kurz und prägnant",
+    "modern wirkend, aber traditionell verankert",
+    "eher selten"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland ist der Name bekannt, aber nicht sehr verbreitet. In den Quellen wird er eher als ungewöhnlicher Jungenname mit norddeutscher/Nord- und Skandinavien-assoziierter Wirkung beschrieben."
+}

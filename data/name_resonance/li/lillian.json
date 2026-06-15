@@ -1,0 +1,66 @@
+{
+  "associations": [
+    "Lilie",
+    "englische Herkunft",
+    "althebräische Herkunft",
+    "Reinheit",
+    "Unschuld",
+    "Schönheit",
+    "weiblicher Vorname",
+    "international",
+    "selten bis eher selten",
+    "Namenstag"
+  ],
+  "confidence": 0.84,
+  "display_text": "Lillian wird in Deutschland überwiegend positiv und als klassisch-international wahrgenommen. Der Name wirkt elegant, weich und eher selten; häufig genannte Assoziationen sind Lilie, Schönheit und Reinheit. Die Evidenz ist solide, aber vor allem lexikalisch und nicht als direkte Markt- oder Meinungsumfrage zu verstehen.",
+  "evidence_quality": "mittel bis gut: zwei klare Namensseiten mit überwiegend positiver, beschreibender Resonanz; keine belastbaren Hinweise auf negative öffentliche Stigmatisierung.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Lillian",
+  "normalized_name": "lillian",
+  "overall_resonance": "Lillian wirkt in der öffentlichen Namenswahrnehmung überwiegend positiv bis freundlich-klassisch. Der Name wird vor allem mit Lilie, Reinheit, Schönheit und internationaler, englisch geprägter Herkunft verbunden.",
+  "practical_notes": [
+    "Für Suchmaschinen wirkt der Name meist positiv, klar und leicht anschlussfähig.",
+    "Spitznamen wie Lilli, Lilly oder Lily können die wahrgenommene Nähe und Weichheit verstärken.",
+    "Wer einen internationalen, aber nicht zu alltäglichen Vornamen sucht, findet hier einen passend besetzten Namen."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt überwiegend aus Namenslexika und Informationsseiten; das ist brauchbar, aber keine direkte Messung der öffentlichen Meinung.",
+    "Einzelne Nutzerkommentare sind vorhanden, werden hier aber nur vorsichtig gewichtet.",
+    "Die Beschreibungen zu Bedeutung und Herkunft sollten nicht als allgemeingültige Eigenschaften von Trägerinnen des Namens verstanden werden."
+  ],
+  "short_summary": "Lillian wird in Deutschland eher positiv, klassisch und international wahrgenommen. Der Name ist eher selten, klingt weich und elegant und wird häufig mit Lilie und schöner Symbolik verbunden.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "positive",
+      "source_type": "web",
+      "title": "Vorname Lillian � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/L/Li/Lillian/"
+    },
+    {
+      "confidence": 0.9,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Lillian: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Lillian.html"
+    }
+  ],
+  "style_effect": [
+    "elegant",
+    "klassisch",
+    "international",
+    "weich klingend",
+    "zeitlos",
+    "eher feminin",
+    "literarisch anmutend"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland ist Lillian eher bekannt, aber nicht extrem häufig; die Wahrnehmung ist dadurch eher angenehm-vertraut als massenhaft verbreitet."
+}

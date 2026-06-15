@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "lateinische Herkunft",
+    "mögliche Bezüge zu italienischer oder französischer Schreibtradition",
+    "Bedeutungsdeutungen wie 'die aus dem Geschlecht der Laelier Stammende'",
+    "alternative Deutung als 'redselig/plaudernd' wird erwähnt, ist aber unsicher",
+    "vereinzelt mit 'Lilie' oder 'die Leuchtende' assoziiert",
+    "selten bis mäßig beliebt in Deutschland"
+  ],
+  "confidence": 0.84,
+  "display_text": "Lelia wirkt in Deutschland eher selten, weich und klassisch. Die öffentliche Resonanz ist überwiegend neutral bis leicht positiv; meist stehen Herkunft, Klang und mögliche Bedeutungen im Vordergrund. Die Evidenz ist jedoch begrenzt und beruht vor allem auf Namenslexika.",
+  "evidence_quality": "mittel bis gut; überwiegend lexikalische Namensseiten, aber wenig breit gestreute öffentliche Diskussionsquellen",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Lelia",
+  "normalized_name": "lelia",
+  "overall_resonance": "Lelia wird im deutschsprachigen Raum überwiegend sachlich, leicht positiv und eher als seltener, klangvoller Vorname wahrgenommen. Die öffentliche Resonanz wirkt vor allem namenskundlich-interessiert statt meinungsstark.",
+  "practical_notes": [
+    "Für Suchende wirkt der Name eher eigenständig und selten.",
+    "Die Aussprache und Schreibweise erscheinen im Deutschen unkompliziert.",
+    "Der Name dürfte vor allem wegen Klang und Herkunftsbezug gewählt werden, weniger wegen aktueller Popularität."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist begrenzt und stützt sich im Wesentlichen auf zwei Namenslexika.",
+    "Einige Bedeutungsableitungen sind unsicher und sollten nicht als gesichert gelten.",
+    "Es gibt keine breite öffentliche Debatte oder starke gesellschaftliche Konnotationen erkennbar."
+  ],
+  "short_summary": "Lelia wird in Deutschland überwiegend neutral bis leicht positiv wahrgenommen: ein seltener, weicher und klassisch wirkender Vorname mit vor allem namenskundlicher Resonanz.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.92,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Lelia � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/L/Le/Lelia/"
+    },
+    {
+      "confidence": 0.91,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Lelia: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Lelia.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch-lateinisch",
+    "weich und melodisch",
+    "selten/ungewöhnlich",
+    "namenskundlich aufgeladen",
+    "eher elegant als modern-markant"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Eher geringe bis mittlere Sichtbarkeit in Deutschland; der Name wirkt ungewöhnlich und nicht breit diskutiert."
+}

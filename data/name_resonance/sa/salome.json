@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "biblischer Ursprung",
+    "althebräische Herkunft",
+    "Bedeutung: Frieden / friedliebend",
+    "weiblicher Vorname",
+    "Namenstag am 22. Oktober",
+    "seltene bis mittelhäufige Verwendung in Deutschland"
+  ],
+  "confidence": 0.82,
+  "display_text": "Salome wird überwiegend positiv und sachlich wahrgenommen: klassisch, biblisch geprägt und mit der freundlichen Bedeutung „die Friedliche“. In Deutschland wirkt der Name eher selten bis mittelhäufig und dadurch eigenständig, ohne Hinweise auf eine negative Stigmatisierung.",
+  "evidence_quality": "mittel bis gut: zwei einschlägige Namensquellen mit klarer Bedeutung, Herkunft und Einordnung zur Verwendung in Deutschland; die öffentliche Resonanz ist jedoch nur indirekt erfasst.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Salome",
+  "normalized_name": "salome",
+  "overall_resonance": "Salome wird in den vorliegenden Quellen überwiegend freundlich und sachlich wahrgenommen: ein biblisch und althebräisch geprägter Vorname mit der häufig genannten Bedeutung „die Friedliche“ bzw. „Friedliebende“. In Deutschland wirkt der Name eher selten bis mittelhäufig und dadurch eigenständig, ohne stark polarisierend zu erscheinen.",
+  "practical_notes": [
+    "Für die Namenssuche wirkt Salome traditionsbewusst und zugleich ungewöhnlich genug, um herauszustechen.",
+    "Die Bedeutungsassoziation ist positiv und ruhig, was den Gesamteindruck freundlich abrundet.",
+    "Im deutschen Kontext dürfte der Name eher als markant und stilvoll als als modisch-alltäglich gelten."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt vor allem von Namensportalen; das zeigt vor allem die beschriebene Namensbedeutung und weniger eine breite öffentliche Meinung.",
+    "Eine echte gesellschaftliche Mehrheitswahrnehmung lässt sich daraus nur begrenzt ableiten.",
+    "Es gibt keine Hinweise auf eine negative Stigmatisierung in den vorliegenden Quellen."
+  ],
+  "short_summary": "Salome wirkt in Deutschland freundlich, klassisch und eher selten, mit biblisch-hebräischem Hintergrund und der positiven Bedeutung „die Friedliche“.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "Vorname Salome � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/S/Sa/Salome/"
+    },
+    {
+      "confidence": 0.91,
+      "is_name_discussion": true,
+      "sentiment": "überwiegend positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Salome: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Salome.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "biblich geprägt",
+    "elegant",
+    "sanft",
+    "eher selten",
+    "kulturell traditionsreich"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Eher gering bis mittel: Der Name ist bekannt, aber nicht allgegenwärtig. Die öffentliche Präsenz in den Quellen ist vor allem lexikalisch-informativ und nicht von breiter Alltagsresonanz geprägt."
+}

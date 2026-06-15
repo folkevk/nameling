@@ -1,0 +1,63 @@
+{
+  "associations": [
+    "lateinische Herkunft",
+    "Laurentius",
+    "Lorbeer",
+    "Lorbeerkranz",
+    "Namenstag",
+    "klassisch",
+    "altdeutsch",
+    "bekannt in Deutschland",
+    "bekannt in Bayern"
+  ],
+  "confidence": 0.9,
+  "display_text": "Lorenz: ein klassischer, traditionsreicher Jungenname mit lateinischer Herkunft. In den vorliegenden Quellen wirkt die öffentliche Resonanz überwiegend positiv, eher zeitlos als modern, mit Bezügen zu Lorbeer, Laurentius und Namenstag.",
+  "evidence_quality": "mittel bis gut: zwei einschlägige Namensquellen mit klarer Namensdiskussion, aber begrenzte Breite und keine echte Community-Debatte.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Lorenz",
+  "normalized_name": "lorenz",
+  "overall_resonance": "Lorenz wird in den vorliegenden Quellen überwiegend positiv und klassisch wahrgenommen: als traditionsreicher, männlicher Vorname mit klarer historischer und sprachlicher Verankerung. Die öffentliche Darstellung wirkt eher wertschätzend als trendgetrieben.",
+  "practical_notes": [
+    "Für Namenssuchmaschinen lässt sich Lorenz knapp als klassischer, traditionsreicher Jungenname mit lateinischem Ursprung beschreiben.",
+    "Die häufigsten Bezüge sind Lorbeer, Laurentius und der Namenstag.",
+    "Der Name wirkt eher seriös und vertraut als modern-experimentell."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz basiert vor allem auf wenigen Namensseiten und nicht auf breiter öffentlicher Diskussion.",
+    "Die Wirkung als 'beliebt' sollte als quellenabhängige Einordnung verstanden werden, nicht als allgemeingültige Marktanalyse.",
+    "Keine Hinweise auf soziale Stigmatisierung in der vorliegenden Evidenz."
+  ],
+  "short_summary": "Lorenz wird öffentlich meist positiv, klassisch und traditionsnah wahrgenommen, mit Bezügen zu lateinischer Herkunft, Lorbeer und Namenstag.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "Vorname Lorenz � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/L/Lo/Lorenz/"
+    },
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Lorenz: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Lorenz.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "traditionsbewusst",
+    "lexikalisch-geerdet",
+    "wertschätzend",
+    "eher zeitlos als auffällig"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Im deutschsprachigen Raum, besonders in Deutschland und teils Bayern, ist der Name sichtbar und bekannt, aber nicht als sehr moderner Modename präsentiert."
+}

@@ -1,0 +1,62 @@
+{
+  "associations": [
+    "altnordische Herkunft",
+    "Bedeutung im Umfeld von Krieger/Kämpfer",
+    "Nähe zu Gunter/Günther",
+    "nordische bzw. germanische Anmutung",
+    "eher seltene, besondere Namenswahl",
+    "Namenstag in Namenslexika"
+  ],
+  "confidence": 0.86,
+  "display_text": "Gunnar wirkt im deutschsprachigen Raum meist nordisch, traditionsnah und markant. Die Resonanz ist eher positiv bis neutral; der Name gilt als bekannt, aber eher selten. Viele Quellen verbinden ihn mit altnordischer Herkunft und der Bedeutung im Umfeld von „Krieger“ oder „Kämpfer“. Die Evidenz ist allerdings begrenzt und stammt vor allem aus Namenslexika.",
+  "evidence_quality": "mittel: zwei thematisch passende Namensquellen mit konsistenter, überwiegend neutral bis positiv konnotierter Darstellung; keine breite Social-Media- oder Bevölkerungsbasis",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Gunnar",
+  "normalized_name": "gunnar",
+  "overall_resonance": "Gunnar wird öffentlich meist als nordisch, traditionsnah und markant wahrgenommen; die Wirkung ist eher positiv bis neutral. Der Name ist im deutschsprachigen Raum bekannt, aber eher selten, was ihn für viele als eigenständig und charaktervoll erscheinen lässt.",
+  "practical_notes": [
+    "Für Suchende wirkt Gunnar meist klar verständlich und unkompliziert aussprechbar.",
+    "Der Name trägt eine starke historische und nordische Note.",
+    "Durch die Seltenheit kann der Name auffallen, ohne exzentrisch zu wirken.",
+    "Im deutschen Sprachraum ist die Schreib- und Klangform etabliert."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenzlage ist begrenzt und stützt sich vor allem auf Namenslexika und einzelne Web-Auszüge.",
+    "Seltenheits- und Stilwirkungen sind Wahrnehmungen, keine festen Eigenschaften des Namens.",
+    "Kommentare bzw. personenbezogene Bezüge in der Quelle sind für eine allgemeine Namensresonanz nur eingeschränkt aussagekräftig."
+  ],
+  "short_summary": "Gunnar wird im Deutschen überwiegend als seltener, nordisch geprägter und traditioneller Vorname mit eher positiver, markanter Wirkung wahrgenommen.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Gunnar � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/G/Gu/Gunnar/"
+    },
+    {
+      "confidence": 0.92,
+      "is_name_discussion": true,
+      "sentiment": "überwiegend positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Gunnar: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Gunnar.html"
+    }
+  ],
+  "style_effect": [
+    "nordisch",
+    "traditionell",
+    "markant",
+    "eigenständig",
+    "selten",
+    "klassisch-kräftig"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "eher gering bis mittel; im DE-Kontext ist Gunnar bekannt, aber kein sehr häufiger Vorname"
+}

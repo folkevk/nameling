@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "altgriechischer Ursprung",
+    "Bedeutung: Weisheit / die Weise / die Wissende",
+    "Variante von Sophia",
+    "klassischer Mädchenname",
+    "lange und regelmäßige Beliebtheit in Deutschland",
+    "häufig auch als Zweitname oder im Doppelname verwendet",
+    "Namenstag am 15. Mai"
+  ],
+  "confidence": 0.94,
+  "display_text": "Sophie: Ein in Deutschland sehr bekannter, klassischer und positiv besetzter Vorname mit der Bedeutung „die Weise“ bzw. „Weisheit“. Die verfügbare Evidenz beschreibt den Namen vor allem als zeitlos, etabliert und beliebt.",
+  "evidence_quality": "Gut, aber inhaltlich auf wenige Namenslexikon-Quellen begrenzt. Die Tendenz ist konsistent positiv, jedoch eher beschreibend als diskursiv.",
+  "generated_at": "2026-06-12T06:08:03Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Sophie",
+  "normalized_name": "sophie",
+  "overall_resonance": "Der Vorname Sophie wird in der verfügbaren Evidenz überwiegend sehr positiv und wertschätzend beschrieben. Er gilt als klassisch, langjährig etabliert und in Deutschland sehr beliebt.",
+  "practical_notes": [
+    "Für die Namenssuche wirkt Sophie in Deutschland sehr anschlussfähig, vertraut und positiv besetzt.",
+    "Der Name vermittelt eher klassische als experimentelle Wirkung.",
+    "Als Suchergebnis kann man ihn gut als etablierten, populären und stilistisch eher zeitlosen Namen zusammenfassen."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenzbasis ist relativ schmal und vor allem lexikalisch; sie beschreibt den Namen eher als sie eine breite öffentliche Meinung abbildet.",
+    "Keine Hinweise auf eine negative gesellschaftliche Stigmatisierung in den vorliegenden Quellen."
+  ],
+  "short_summary": "Sophie wird in Deutschland überwiegend als klassischer, sehr beliebter und positiv konnotierter Mädchenname wahrgenommen.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "Vorname Sophie � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/S/So/Sophie/"
+    },
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Sophie: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Sophie.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "zeitlos",
+    "elegant",
+    "vertraut",
+    "eher feminin-traditionell",
+    "positive, wertschätzende Konnotation"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Hoch: Der Name ist im deutschsprachigen Raum sehr bekannt und gut verankert. Die vorliegende Evidenz stammt allerdings vor allem aus Namenslexika, nicht aus einer breiten öffentlichen Debatte."
+}

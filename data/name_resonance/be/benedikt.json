@@ -1,0 +1,64 @@
+{
+  "associations": [
+    "lateinische Herkunft",
+    "Bedeutung: „der Gesegnete“",
+    "christlicher Bezug",
+    "Heiliger Benedikt von Nursia",
+    "Benediktinerorden",
+    "Namenstag",
+    "Kurzform Ben",
+    "beliebt bzw. etabliert in Deutschland"
+  ],
+  "confidence": 0.91,
+  "display_text": "Benedikt wirkt in Deutschland überwiegend positiv, klassisch und traditionsnah. Der Name wird vor allem mit der lateinischen Bedeutung „der Gesegnete“, christlichem/historischem Hintergrund und einer zeitlosen, seriösen Wirkung verbunden.",
+  "evidence_quality": "Gut für Bedeutungs-, Herkunfts- und Stilwahrnehmung; begrenzt für echte breite öffentliche Debatte.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Benedikt",
+  "normalized_name": "benedikt",
+  "overall_resonance": "Überwiegend positiv und traditionsnah wahrgenommen. Der Name wirkt in Deutschland klassisch, bekannt und eher zeitlos als modisch.",
+  "practical_notes": [
+    "Für Suchende wirkt der Name gut verständlich und kulturell verankert.",
+    "Die Kurzform Ben wird als naheliegend wahrgenommen.",
+    "Insgesamt eher ein Name mit ruhiger, würdevoller Ausstrahlung als mit auffälligem Trendcharakter."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt überwiegend von Vornamenseiten mit redaktionellem Fokus; freie öffentliche Debatte ist nur begrenzt sichtbar.",
+    "Einzelne Nutzerkommentare können subjektiv sein und sind nicht als allgemeine Mehrheitsmeinung zu lesen."
+  ],
+  "short_summary": "Benedikt wird in Deutschland überwiegend positiv, klassisch und traditionsnah wahrgenommen. Die verfügbare Evidenz betont vor allem Herkunft, Bedeutung und den christlich-historischen Kontext.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "Vorname Benedikt � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/B/Be/Benedikt/"
+    },
+    {
+      "confidence": 0.88,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Benedikt: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Benedikt.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "traditionell",
+    "seriös",
+    "historisch",
+    "zeitlos",
+    "international anschlussfähig",
+    "kurz und klar",
+    "leicht religiös geprägt"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Gute Sichtbarkeit in Namenslexika und Vornamenseiten; die öffentliche Resonanz ist vor allem beschreibend statt debattierend."
+}

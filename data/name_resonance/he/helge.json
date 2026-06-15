@@ -1,0 +1,71 @@
+{
+  "associations": [
+    "altnordische Herkunft",
+    "Bedeutung meist als „der Heilige“ oder „der Gesunde“ angegeben",
+    "nordische Mythologie",
+    "Unisex-Name",
+    "in Deutschland eher selten",
+    "norddeutsch/skandinavisch geprägt",
+    "Namenstag",
+    "namenskundliche, lexikalische Einordnung"
+  ],
+  "confidence": 0.83,
+  "display_text": "Helge wirkt in den Quellen vor allem sachlich, nordisch und eher selten. Die Wahrnehmung ist überwiegend neutral bis leicht positiv, aber die Evidenz basiert fast nur auf Namenslexika statt auf breiter öffentlicher Diskussion.",
+  "evidence_quality": "mittel bis schwach: mehrere klare Namensquellen, aber kaum freie öffentliche Meinungen oder kontroverse Diskussionen",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Helge",
+  "normalized_name": "helge",
+  "overall_resonance": "Die öffentliche Wahrnehmung von „Helge“ wirkt überwiegend sachlich-neutral bis leicht positiv. In den vorliegenden Quellen steht vor allem die Namenskunde im Vordergrund: Herkunft, Bedeutung, Namenstag und regionale Verbreitung. Als selten wahrgenommener, nordisch geprägter Vorname mit Unisex-Charakter kann er als eher eigenständig und traditionell erscheinen. Die Evidenz für echte freie öffentliche Diskussion ist jedoch begrenzt.",
+  "practical_notes": [
+    "Für eine Namenssuche eignet sich die Einordnung als selten, nordisch und traditionell.",
+    "Wer einen klaren, ungewöhnlichen und eher sachlich wirkenden Namen sucht, könnte ihn passend finden.",
+    "Aufgrund der geringen öffentlichen Diskussionslage sind starke soziale Zuschreibungen nicht ableitbar."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt fast ausschließlich aus Namenslexika und Portalseiten, nicht aus breiter öffentlicher Diskussion.",
+    "Die Resonanz ist daher nur eingeschränkt als echte Meinungslandschaft interpretierbar.",
+    "Beliebtheitsangaben können je nach Quelle unterschiedlich ausfallen."
+  ],
+  "short_summary": "„Helge“ wird überwiegend neutral bis leicht positiv wahrgenommen: nordisch, selten und traditionell, mit wenig echter öffentlicher Debatte in der Evidenz.",
+  "source_count": 3,
+  "sources": [
+    {
+      "confidence": 0.9,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "Vorname Helge � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/H/He/Helge/"
+    },
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Helge � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/H/He/Helge/"
+    },
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "mixed",
+      "source_type": "web",
+      "title": "&#9655; Vorname Helge: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Helge.html"
+    }
+  ],
+  "style_effect": [
+    "nordisch-altnordisch geprägt",
+    "traditionell und eher zeitlos",
+    "sachlich-informativ",
+    "selten und dadurch markant",
+    "teils Unisex wahrgenommen",
+    "regional norddeutsch mitgedacht"
+  ],
+  "usable_evidence_count": 3,
+  "visibility": "Eher gering bis mittel: Der Name ist bekannt, aber in Deutschland offenbar nicht sehr häufig und wird in den Quellen vor allem lexikalisch beschrieben statt breit diskutiert."
+}

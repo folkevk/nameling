@@ -1,0 +1,63 @@
+{
+  "associations": [
+    "weiblicher Vorname",
+    "altgriechische und lateinische Herkunft",
+    "Bedeutung: „die Fremde“",
+    "Namenstag am 4. Dezember",
+    "historisch beliebt in Deutschland",
+    "heute eher selten vergeben",
+    "Kurzformen wie Babs, Babsi, Bärbel, Bärbl",
+    "als klangvoll und schön beschrieben"
+  ],
+  "confidence": 0.91,
+  "display_text": "Barbara wirkt in Deutschland klassisch, vertraut und traditionsreich. Die öffentliche Wahrnehmung ist überwiegend neutral bis leicht positiv; der Name ist bekannt, historisch verankert und heute eher seltener im Gebrauch.",
+  "evidence_quality": "hoch; zwei einschlägige Namensquellen, überwiegend sachlich und direkt auf den Vornamen bezogen",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Barbara",
+  "normalized_name": "barbara",
+  "overall_resonance": "Barbara wird in der öffentlichen Namenswahrnehmung meist als klassisch, bekannt und traditionsreich beschrieben. Die Resonanz ist überwiegend neutral bis leicht positiv: Der Name wirkt etabliert, in Deutschland historisch gut verankert und heute eher seltener vergeben.",
+  "practical_notes": [
+    "Für die Suche nach einem vertrauten, klassisch wirkenden Mädchennamen ist Barbara gut einordenbar.",
+    "Der Name ist bekannt, aber nicht stark modisch geprägt; dadurch wirkt er eher zeitlos als modern.",
+    "Kurzformen und traditionelle Koseformen sind im deutschsprachigen Raum gut anschlussfähig."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die positiven Klangeinschätzungen stammen aus Namenslexika und Kommentaren und sollten als öffentliche Wahrnehmung, nicht als objektive Eigenschaft verstanden werden.",
+    "Keine Hinweise auf eine spezifische soziale Stigmatisierung in der vorliegenden Evidenz.",
+    "Die Datenlage ist insgesamt solide, aber vor allem lexikalisch und beschreibend, nicht breit empirisch."
+  ],
+  "short_summary": "Barbara wird in Deutschland vor allem als klassischer, traditionsreicher und gut bekannter Vorname wahrgenommen; die öffentliche Resonanz ist überwiegend neutral bis leicht positiv.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.99,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Barbara � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/B/Ba/Barbara/"
+    },
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Barbara: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Barbara.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "traditionell",
+    "seriös",
+    "zeitlos",
+    "eher formal",
+    "klanglich klar"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Hohe Bekanntheit, aber im aktuellen Gebrauch eher zurückhaltende Sichtbarkeit. In Deutschland ist Barbara vor allem als vertrauter, traditioneller Vorname präsent, weniger als trendiger Mode-name."
+}

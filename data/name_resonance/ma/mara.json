@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "Bedeutungen wie „die Bittere“, „die Bittersüße“ oder „das Meer“",
+    "möglicher Bezug zu Maria oder Tamara",
+    "hebräischer und gälischer Ursprung in den Quellen",
+    "Namenstag",
+    "weiblicher Kurzname",
+    "aktuell beliebt in Deutschland",
+    "schön, liebenswürdig und etabliert"
+  ],
+  "confidence": 0.82,
+  "display_text": "Mara wirkt in Deutschland überwiegend positiv, modern und vertraut. Die Quellen beschreiben den Namen als kurz, schön klingend und aktuell beliebt. Die Evidenz ist dabei eher lexikalisch als breit öffentlich, daher vorsichtig zu lesen.",
+  "evidence_quality": "mittel bis gut; zwei thematisch passende Namensquellen, aber überwiegend lexikalisch statt breit öffentlich-rezeptiv",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Mara",
+  "normalized_name": "mara",
+  "overall_resonance": "Überwiegend positiv und modern wahrgenommen; der Name wirkt in der öffentlichen Namensbeschreibung freundlich, kurz und etabliert. Die Quellen betonen vor allem Herkunft, Bedeutung und seine aktuelle Beliebtheit in Deutschland.",
+  "practical_notes": [
+    "Für Suchmaschinen-Nutzer wirkt Mara meist unkompliziert, modern und gut anschlussfähig.",
+    "Die kurze Form ist leicht zu merken und im deutschsprachigen Raum gut verständlich.",
+    "Wenn Herkunft oder Bedeutung wichtig sind, lohnt ein Hinweis darauf, dass mehrere Deutungen kursieren."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz besteht vor allem aus redaktionellen Namenslexika, nicht aus breiter öffentlicher Umfrage oder Social-Media-Auswertung.",
+    "Positive Zuschreibungen wie „schön“ oder „liebenswürdig“ sind Quelleinschätzungen und keine objektiven Fakten.",
+    "Die Bedeutungsangaben variieren je nach Herkunftserklärung; das sollte nicht als eindeutig eine einzige Bedeutung verstanden werden."
+  ],
+  "short_summary": "Mara wird in den vorliegenden Quellen überwiegend positiv, modern und beliebt beschrieben. Die öffentliche Rezeption wirkt freundlich und etabliert, wobei die Evidenz vor allem aus Namenslexika stammt.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "positive",
+      "source_type": "web",
+      "title": "Vorname Mara � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/M/Ma/Mara/"
+    },
+    {
+      "confidence": 0.86,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Mara: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Mara.html"
+    }
+  ],
+  "style_effect": [
+    "kurz und klar",
+    "modern, aber nicht modisch-überladen",
+    "freundlich und weich im Klang",
+    "klassisch genug, um vertraut zu wirken",
+    "namenskundlich interessant durch mehrere Herkunftsdeutungen"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Hoch: Mara wird in Deutschland als gebräuchlicher und derzeit populärer Vorname dargestellt."
+}

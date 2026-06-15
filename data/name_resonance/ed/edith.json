@@ -1,0 +1,66 @@
+{
+  "associations": [
+    "altenglischer Ursprung",
+    "Bedeutung im Sinne von Besitz/Erbgut und Kampf",
+    "wohlhabende Kämpferin",
+    "historische und religiöse Bezüge",
+    "heilige Edith von Wilton",
+    "Edith Stein",
+    "klassischer Mädchenname",
+    "früher beliebter Name in Deutschland",
+    "Spitznamen wie Edi, Dita oder Eddi"
+  ],
+  "confidence": 0.88,
+  "display_text": "Edith wirkt in Deutschland als klassischer, traditionsreicher und eher seltener Vorname. Die öffentliche Resonanz ist überwiegend sachlich bis leicht positiv, mit starken historischen und namenskundlichen Bezügen. Weil die Evidenz vor allem aus Lexikonquellen stammt, ist die Einordnung vorsichtig zu verstehen.",
+  "evidence_quality": "mittel bis gut, aber hauptsächlich lexikalisch und beschreibend; nur wenig echte öffentliche Meinungsäußerung",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Edith",
+  "normalized_name": "edith",
+  "overall_resonance": "Überwiegend sachlich-positiv und klassisch geprägt; der Name wirkt im öffentlichen Namensbild eher traditionsreich als trendig.",
+  "practical_notes": [
+    "Der Name ist gut einordbar und leicht verständlich.",
+    "Für Menschen, die einen klassischen, historischen Namen suchen, wirkt Edith passend.",
+    "Durch die heutige Seltenheit kann der Name als eher eigenständig wahrgenommen werden.",
+    "Kurzformen sind im Gebrauch möglich, aber nicht einheitlich."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist begrenzt und stammt vor allem aus Namenslexika und Beschreibungen, nicht aus einer breiten Meinungsdiskussion.",
+    "Positive oder negative Wirkungen sind daher nur vorsichtig ableitbar.",
+    "Keine belastbaren Hinweise auf soziale Stigmatisierung in den vorliegenden Quellen."
+  ],
+  "short_summary": "Edith wird öffentlich meist als klassischer, traditionsreicher und eher seltener Vorname wahrgenommen. Die Resonanz ist überwiegend sachlich bis leicht positiv, mit historischen und namenskundlichen Assoziationen.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Edith � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/E/Ed/Edith/"
+    },
+    {
+      "confidence": 0.94,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Edith: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Edith.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "traditionsreich",
+    "historisch",
+    "eher selten",
+    "seriös",
+    "namenskundlich klar",
+    "leicht altmodisch im modernen Trendkontext"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland bekannt, aber heute eher selten vergeben. Dadurch wirkt Edith vertraut, ohne sehr häufig zu sein."
+}

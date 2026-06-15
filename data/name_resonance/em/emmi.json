@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "Kurz- bzw. Koseform von Emma",
+    "auch als Kurzform von Emilie oder Emmanuelle genannt",
+    "germanische/althochdeutsche Herkunft",
+    "Bedeutungen wie „die Allumfassende“, „gewaltig“, „erhaben“, „groß“",
+    "weiblicher Vorname",
+    "in Deutschland wiederentdeckt und beliebt"
+  ],
+  "confidence": 0.91,
+  "display_text": "Emmi wirkt in den verfügbaren Quellen überwiegend freundlich und positiv besetzt. Der Name wird als kurze, sanfte und moderne Kurz- bzw. Koseform mit traditioneller Herkunft beschrieben. Die Evidenz ist solide, aber eher informativ als breit diskursiv.",
+  "evidence_quality": "Gut, aber vor allem informativ-lexikalisch statt diskursiv; die Quellen sind klar namensbezogen, liefern jedoch nur begrenzt echte öffentliche Debattenstimmen.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Emmi",
+  "normalized_name": "emmi",
+  "overall_resonance": "Emmi wird in den vorliegenden Quellen überwiegend positiv und freundlich wahrgenommen. Der Name wirkt kurz, weich und vertraut; zugleich wird er namenskundlich als deutsche Kurz- bzw. Koseform mit traditioneller Herkunft beschrieben. Die öffentliche Rezeption scheint aktuell eher wohlwollend und modern-anschlussfähig zu sein.",
+  "practical_notes": [
+    "Für Namenssuchende wirkt Emmi unkompliziert, modern und gut merkbar.",
+    "Die Kürze des Namens kann ihn im Alltag besonders zugänglich machen.",
+    "Wer historische Tiefe sucht, findet in der hergeleiteten Herkunft zusätzliche Deutungsebenen."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Quellen sind überwiegend lexikalisch und beschreibend; daraus lässt sich nur begrenzt eine breite öffentliche Meinung ableiten.",
+    "Keine belastbaren Hinweise auf negative gesellschaftliche Stigmatisierung in der vorliegenden Evidenz.",
+    "Beliebtheitsaussagen sollten als aktuelle Tendenzen und nicht als allgemeingültige Wahrheit verstanden werden."
+  ],
+  "short_summary": "Emmi wird überwiegend freundlich, modern und leicht positiv rezipiert; die Quellen betonen Herkunft, Kurzform-Charakter und aktuelle Beliebtheit.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "positive",
+      "source_type": "web",
+      "title": "Vorname Emmi � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/E/Em/Emmi/"
+    },
+    {
+      "confidence": 0.94,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Emmi: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Emmi.html"
+    }
+  ],
+  "style_effect": [
+    "kurz und einprägsam",
+    "sanft und freundlich",
+    "modern, aber mit traditionellem Klang",
+    "kosehaft bzw. vertraut",
+    "namenskundlich gut anschlussfähig"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Mittel bis gut sichtbar, vor allem in Namenslexika und Vornamensportalen; die Evidenz wirkt informativ und weniger wie eine breite kontroverse Debatte."
+}

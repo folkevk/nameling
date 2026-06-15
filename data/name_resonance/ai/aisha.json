@@ -1,0 +1,63 @@
+{
+  "associations": [
+    "arabischer Vorname",
+    "Bedeutung: die Lebendige / die Lebenslustige",
+    "weiblicher Vorname",
+    "muslimischer Kontext",
+    "Namensvarianten wie Aysha oder Ayesha",
+    "Beliebtheit in Deutschland",
+    "historisch-religiöse Bekanntheit",
+    "vereinzelte Popkultur-Bezüge"
+  ],
+  "confidence": 0.91,
+  "display_text": "Aisha wirkt in Deutschland überwiegend positiv-neutral: ein internationaler, weiblicher Name mit arabischer Herkunft und der Bedeutung „die Lebendige“. Die öffentliche Wahrnehmung ist vor allem sachlich, namenskundlich und kulturell geprägt; negative Stigmatisierung zeigt das vorliegende Material nicht.",
+  "evidence_quality": "gut: überwiegend direkte Namensquellen mit hoher Passung, ergänzt durch einzelne kommentierende Elemente; öffentliche Resonanz ist jedoch nur mittelbar ablesbar.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Aisha",
+  "normalized_name": "aisha",
+  "overall_resonance": "Aisha wirkt im deutschen Namenskontext überwiegend positiv-neutral und klar verankert als internationaler, weiblicher Vorname mit arabischer Herkunft. Die öffentliche Wahrnehmung dreht sich vor allem um Bedeutung, Klang und kulturelle Einordnung; die Resonanz ist eher sachlich als emotional aufgeladen.",
+  "practical_notes": [
+    "Für Namenssuche und Kurzprofile ist die Evidenz gut geeignet, da mehrere Namensquellen übereinstimmend ähnliche Kerndaten liefern.",
+    "Die Resonanzbeschreibung sollte vorsichtig bleiben, weil die meisten Aussagen aus Namenslexika und nicht aus breiter Alltagsbeobachtung stammen.",
+    "Keine belastbaren Hinweise auf soziale Abwertung im Material."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Es gibt keine starke negative Stigmatisierung in der vorliegenden Evidenz.",
+    "Einige Nebenassoziationen stammen aus wenigen Kommentaren und sollten nicht übergewichtet werden.",
+    "Die kulturelle Einordnung kann je nach Publikum unterschiedlich wahrgenommen werden."
+  ],
+  "short_summary": "Aisha wird in Deutschland meist als schöner, internationaler Mädchenname mit arabischer Herkunft und der Bedeutung „die Lebendige“ wahrgenommen; die öffentliche Rezeption ist überwiegend sachlich-positiv und kulturell geprägt.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Aisha � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/A/Ai/Aisha/"
+    },
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "mixed",
+      "source_type": "web",
+      "title": "&#9655; Vorname Aisha: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Aisha.html"
+    }
+  ],
+  "style_effect": [
+    "weiblich",
+    "weich und melodisch",
+    "international",
+    "modern-traditionell zugleich",
+    "klar namenskundlich",
+    "eher elegant als verspielt"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Im deutschsprachigen Raum ist der Name bekannt, aber nicht so allgegenwärtig wie sehr häufige Klassiker. Die Sichtbarkeit entsteht vor allem über Namenslexika, Bedeutungserklärungen und vereinzelt Popkultur- oder Religionsbezüge."
+}

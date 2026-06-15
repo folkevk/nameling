@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "Kurzform von Margarete/Margaret",
+    "Bedeutung: „die Perle“",
+    "altgriechisch/englische Namenslinie",
+    "in Deutschland eher selten",
+    "in den 1960er/1970er Jahren populärer",
+    "alternative Schreibweisen: Peggi, Peggie"
+  ],
+  "confidence": 0.77,
+  "display_text": "Peggy wirkt in Deutschland eher selten und leicht nostalgisch. Der Name wird überwiegend neutral beschrieben, meist als Kurzform von Margarete/Margaret mit der Bedeutung „die Perle“. Die Evidenz ist jedoch begrenzt und stammt vor allem aus Namenslexika.",
+  "evidence_quality": "Begrenzt: zwei überwiegend lexikalische Einzelquellen mit klarer Namensdiskussion, aber wenig direkte öffentliche Resonanz oder breitere Kontextdaten.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Peggy",
+  "normalized_name": "peggy",
+  "overall_resonance": "Peggy wirkt in der verfügbaren Evidenz eher sachlich-neutral bis leicht nostalgisch. Der Name wird vor allem als Kurz- bzw. Koseform von Margarete/Margaret mit der Bedeutung „die Perle“ beschrieben. Für Deutschland wird er als eher selten, aber historisch bekannt erwähnt.",
+  "practical_notes": [
+    "Für eine Namenssuche eignet sich Peggy als kurzer, eingängiger und klar weiblich lesbarer Vorname.",
+    "Die historische Bekanntheit kann einen leicht retro-nostalgischen Eindruck erzeugen.",
+    "Im deutschsprachigen Raum dürfte der Name eher auffallen als ein häufiger Alltagsname."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist schwach bis mittelstark und basiert vor allem auf zwei Namenslexika, nicht auf breiter öffentlicher Meinungsbildung.",
+    "Mögliche Wahrnehmungen als „altmodisch“ sind eher eine historische Einordnung als eine belastbare heutige Mehrheitsmeinung.",
+    "Keine belastbaren Hinweise auf starke soziale Stigmatisierung in den vorliegenden Quellen."
+  ],
+  "short_summary": "Peggy wird in den Quellen als seltener, klassisch-nostalgisch wirkender Mädchenname beschrieben, meist als Kurzform von Margarete/Margaret mit der Bedeutung „die Perle“.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.95,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Peggy � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/P/Pe/Peggy/"
+    },
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Peggy: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Peggy.html"
+    }
+  ],
+  "style_effect": [
+    "weiblich",
+    "kurz und markant",
+    "eher klassisch-nostalgisch",
+    "umgangssprachlich vertraut",
+    "namenskundlich klar einordenbar"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Eher geringe Alltagspräsenz in Deutschland; in Namenslexika und historischen Einordnungen sichtbar, aber keine starke aktuelle Breitenwirkung erkennbar."
+}

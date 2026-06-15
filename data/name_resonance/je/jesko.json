@@ -1,0 +1,59 @@
+{
+  "associations": [
+    "slawischer bzw. altslawischer Ursprung",
+    "Kurzform von Jaroslav oder Jaromir",
+    "Bedeutungen wie 'der Friedfertige' sowie teils 'mutig' oder 'stolz'",
+    "männlicher Vorname",
+    "Namenstag am 24. Juni",
+    "selten bis mäßig verbreitet in Deutschland"
+  ],
+  "confidence": 0.86,
+  "display_text": "Jesko wirkt in den vorliegenden Quellen überwiegend neutral bis leicht positiv. Der Name wird als selten, kurz und klanglich markant beschrieben und mit Bedeutungen wie „der Friedfertige“ oder teils „mutig/stolz“ verbunden. Die öffentliche Resonanz basiert hier aber vor allem auf Namensseiten und wenigen Kommentaren, nicht auf breiter Debatte.",
+  "evidence_quality": "mittel bis schwach; hauptsächlich Namenslexika und vereinzelte Kommentar-Eindrücke, kaum breite öffentliche Rückmeldung",
+  "generated_at": "2026-06-13T22:17:22Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Jesko",
+  "normalized_name": "jesko",
+  "overall_resonance": "Überwiegend neutral bis leicht positiv. Jesko wird in den vorliegenden Quellen vor allem als seltener, klanglich markanter Jungenname mit positiver oder zumindest freundlicher Bedeutungszuschreibung beschrieben.",
+  "practical_notes": [
+    "Für Suchende wirkt Jesko eher modern-seltsam als massenhaft gebräuchlich.",
+    "Die Seltenheit kann als positiv oder auffällig wahrgenommen werden, je nach persönlichem Geschmack.",
+    "Eine klare gesellschaftliche Stigmatisierung ist in den Quellen nicht erkennbar."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist schwach bis mittel: Es liegen vor allem einzelne Namensdatenbank-Einträge und wenige Kommentare vor.",
+    "Die Resonanz ergibt sich hauptsächlich aus lexikalischen Beschreibungen, nicht aus einer breiten öffentlichen Meinungsbildung."
+  ],
+  "short_summary": "Jesko wird meist neutral bis leicht positiv wahrgenommen: ein seltener, markanter Jungenname mit freundlicher bzw. positiver Bedeutungszuschreibung.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.89,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "Vorname Jesko � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/J/Je/Jesko/"
+    },
+    {
+      "confidence": 0.9,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Jesko: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Jesko.html"
+    }
+  ],
+  "style_effect": [
+    "kurz und prägnant",
+    "ungewöhnlich und einprägsam",
+    "namenskundlich aufgeladen",
+    "eher freundlich als hart",
+    "durch Seltenheit etwas auffällig"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland eher selten bis mäßig verbreitet und dadurch öffentlich weniger präsent als häufigere Vornamen. Die Wahrnehmung basiert hier eher auf Namenslexika und wenigen Kommentaren als auf breiter öffentlicher Debatte."
+}

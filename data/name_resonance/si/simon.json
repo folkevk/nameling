@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "Bedeutung: „Gott hat gehört“ bzw. „der Erhörte“",
+    "biblisch/hebräischer Ursprung",
+    "namenskundlich stark etabliert",
+    "seit dem Mittelalter bekannt",
+    "in Deutschland als beliebter Vorname beschrieben",
+    "oft als einfach auszusprechen und klangvoll charakterisiert"
+  ],
+  "confidence": 0.95,
+  "display_text": "Simon wirkt öffentlich vor allem klassisch, vertraut und positiv. Der Name wird in Deutschland meist mit biblischem Ursprung, der Bedeutung „Gott hat gehört“ bzw. „der Erhörte“ sowie mit einer langen, etablierten Namensgeschichte verbunden.",
+  "evidence_quality": "hoch: zwei klare, thematisch passende Namensquellen mit übereinstimmend positiver und namenskundlicher Einordnung",
+  "generated_at": "2026-06-12T06:08:03Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Simon",
+  "normalized_name": "simon",
+  "overall_resonance": "Der Vorname Simon wird in der öffentlichen Wahrnehmung in Deutschland überwiegend positiv und klassisch eingeordnet. Er gilt als vertraut, zeitlos und klar verankert in der Namens- und Kulturgeschichte.",
+  "practical_notes": [
+    "Für Suchende wirkt Simon meist vertraut, seriös und wenig erklärungsbedürftig.",
+    "Die Wahrnehmung ist eher traditionell als modern-experimentell.",
+    "Die Belege sind konsistent positiv, daher ist die Gesamtbewertung relativ robust."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die vorliegende Evidenz stammt vor allem aus Namenslexika und Bewertungsseiten; sie bildet die öffentliche Namenswahrnehmung, aber keine breite Bevölkerungsumfrage ab.",
+    "Es gibt keine Hinweise auf eine starke Stigmatisierung oder negative soziale Aufladung des Namens in der vorliegenden Evidenz."
+  ],
+  "short_summary": "Simon wird in Deutschland überwiegend als klassischer, biblisch geprägter und positiv besetzter Vorname wahrgenommen.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "Vorname Simon � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/S/Si/Simon/"
+    },
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Simon: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Simon.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "zeitlos",
+    "biblisch geprägt",
+    "klar und unkompliziert",
+    "positiv konnotiert",
+    "traditionell, aber alltagstauglich"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Hohe Sichtbarkeit im deutschsprachigen Namenskontext; der Name ist bekannt, häufig besprochen und in Namenslexika gut vertreten."
+}

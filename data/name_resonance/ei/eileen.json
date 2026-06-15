@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "anglisierte Form mit irisch wirkender Herkunft",
+    "mögliche Deutungen wie „die Ersehnte“, „die Starke“, „das Licht“, „die Helle“ oder „die Strahlende“",
+    "im deutschsprachigen Raum gebräuchlich",
+    "namenskundlich oft mit Klang, Herkunft und Bedeutung verbunden",
+    "teilweise auch mit Namenstags-/Spitznamen- und Popkulturbezügen"
+  ],
+  "confidence": 0.83,
+  "display_text": "Eileen wirkt im deutschen Raum freundlich, modern und international. Die Quellen betonen vor allem Herkunft und mögliche Bedeutungen; belastbare Hinweise auf eine starke öffentliche Stigmatisierung gibt es nicht. Die Evidenz ist solide, aber eher namenskundlich als breit gesellschaftlich.",
+  "evidence_quality": "mittel: mehrere namenskundliche Quellen, aber kaum breite, unabhängige öffentliche Resonanzdaten",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Eileen",
+  "normalized_name": "eileen",
+  "overall_resonance": "Eileen wird im deutschen Namensumfeld überwiegend als moderner, international klingender Mädchenname wahrgenommen. Die vorhandenen Quellen beschreiben ihn vor allem namenskundlich und eher positiv-neutral, mit Fokus auf Herkunft, Bedeutung und Beliebtheit. Die öffentliche Rezeption wirkt damit freundlich, aber nicht durch besonders breite Alltagsresonanz belegt.",
+  "practical_notes": [
+    "Für eine Suchmaschine eignet sich die Einordnung als internationaler, moderner Mädchenname mit irisch/englisch geprägter Wahrnehmung.",
+    "Wenn eine knappe Beschreibung gebraucht wird: freundlich, weich, zeitgemäß und eher positiv-neutral.",
+    "Beliebtheit und Verbreitung sollten vorsichtig formuliert werden, da die Quellenlage begrenzt ist."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist überwiegend aus einzelnen Namenslexika zusammengesetzt; breite öffentliche Resonanz ist daher nur eingeschränkt belegbar.",
+    "Bedeutungsangaben variieren je nach Quelle; sie sollten als mögliche Deutungen, nicht als gesicherte Einheitsbedeutung verstanden werden.",
+    "Keine belastbaren Hinweise auf soziale Stigmatisierung in den vorliegenden Quellen."
+  ],
+  "short_summary": "Eileen wird in Deutschland meist als moderner, international klingender Mädchenname mit überwiegend positiver, neutraler Wahrnehmung beschrieben.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Eileen � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/E/Ei/Eileen/"
+    },
+    {
+      "confidence": 0.91,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Eileen: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Eileen.html"
+    }
+  ],
+  "style_effect": [
+    "modern",
+    "international",
+    "weich im Klang",
+    "leicht elegant",
+    "namenskundlich aufgeladen",
+    "zeitgemäß, aber nicht modisch-überzeichnet"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Im deutschsprachigen Raum bekannt und vorhanden, aber eher kein extrem dominanter oder stark traditionsgebundener Name. Die Sichtbarkeit ergibt sich vor allem aus Namenslexika und Beliebtheitsangaben, nicht aus breiter öffentlicher Debatte."
+}

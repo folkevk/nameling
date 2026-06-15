@@ -1,0 +1,63 @@
+{
+  "associations": [
+    "lateinische Herkunft",
+    "italienische Form bzw. italienisch anmutende Schreibweise",
+    "Bedeutung im Umfeld von Wald/Waldbewohnerin",
+    "Natur- und Waldassoziationen",
+    "Waldfee/Fantasy-Anklang",
+    "weiblicher Vorname",
+    "Namenstag",
+    "Schreibvariante Sylvana"
+  ],
+  "confidence": 0.74,
+  "display_text": "Silvana wirkt im deutschsprachigen Raum eher ruhig, klassisch und naturnah. Die Quellen beschreiben den Namen vor allem sachlich mit positiven, weichen und leicht märchenhaften Assoziationen. Für eine echte öffentliche Resonanz ist die Evidenz jedoch begrenzt, da sie überwiegend aus Namenslexika stammt.",
+  "evidence_quality": "mittel bis schwach; hauptsächlich namenskundliche Lexikonquellen, kaum direkte soziale Resonanzdaten",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Silvana",
+  "normalized_name": "silvana",
+  "overall_resonance": "Silvana wird in den vorliegenden Quellen überwiegend sachlich, leicht positiv und eher elegant/naturnah wahrgenommen. Die öffentliche Resonanz wirkt vor allem namenskundlich geprägt, nicht stark emotional oder kontrovers.",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt Silvana freundlich, etabliert und gut verständlich.",
+    "Der Name ist gut aussprechbar und international anschlussfähig.",
+    "Die Datenlage zur öffentlichen Rezeption ist eher schwach bis mittel, da vor allem lexikalische Quellen vorliegen.",
+    "Für eine belastbare Trend- oder Imagebewertung wären zusätzliche, alltagsnähere Quellen nötig."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt vor allem aus Namenslexika und ist daher nur eingeschränkt ein Bild der tatsächlichen Alltagswahrnehmung.",
+    "Es gibt keine belastbaren Hinweise auf starke soziale Stigmatisierung oder negative öffentliche Konnotationen.",
+    "Fantasy- oder Elfen-Assoziationen sind eher stilistische Nebenwirkungen als gesicherte gesellschaftliche Zuschreibungen."
+  ],
+  "short_summary": "Silvana wird in den Quellen überwiegend als sachlich positiver, weiblicher Vorname mit Natur- und Waldbezug beschrieben. Die öffentliche Resonanz wirkt eher ruhig, klassisch und leicht elegant, bei begrenzter Evidenz aus vor allem lexikalischen Seiten.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Silvana � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/S/Si/Silvana/"
+    },
+    {
+      "confidence": 0.94,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Silvana: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Silvana.html"
+    }
+  ],
+  "style_effect": [
+    "klingt weich und melodisch",
+    "wirkt klassisch-europäisch",
+    "hat eine naturnahe, waldbezogene Assoziation",
+    "kann leicht an Italienisch/Latein erinnern",
+    "wirkt eher ruhig, feminin und etwas märchenhaft"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Im deutschsprachigen Raum ist der Name bekannt und klar als weiblicher Vorname eingeordnet, wirkt aber eher nicht als aktuell sehr trenddominanter Name. Die Sichtbarkeit scheint solide, jedoch nicht sehr laut im öffentlichen Diskurs."
+}

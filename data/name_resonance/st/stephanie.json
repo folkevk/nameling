@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "Bedeutung: die Gekrönte / die Bekrönte",
+    "altgriechische Herkunft über Stephanus bzw. stephanos",
+    "Varianten: Stefanie, Stéphanie",
+    "Kurzformen: Stephi, Stephie, Steffi",
+    "Namenstag",
+    "Beliebtheit in Deutschland besonders in den 1970er- und 1980er-Jahren"
+  ],
+  "confidence": 0.9,
+  "display_text": "Stephanie: überwiegend neutral bis positiv wahrgenommen; klassischer, bekannter Vorname mit klarer Bedeutung („die Gekrönte“) und guter öffentlicher Vertrautheit.",
+  "evidence_quality": "gut: zwei einschlägige Namenslexika, insgesamt klare und namensbezogene Evidenz; ein Teil der Kommentare ist jedoch nur eingeschränkt verallgemeinerbar.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Stephanie",
+  "normalized_name": "stephanie",
+  "overall_resonance": "Stephanie wird öffentlich überwiegend neutral bis positiv wahrgenommen, vor allem als klassischer, gut etablierter Vorname mit klarer Herkunft und bekannter Bedeutung. Die Rezeption ist eher namenskundlich als emotional aufgeladen.",
+  "practical_notes": [
+    "Für die Namenssuche wirkt Stephanie vertraut und leicht einordenbar.",
+    "Der Name hat eine starke klassische Lesbarkeit und ist im deutschen Sprachraum gut bekannt.",
+    "Je nach Kontext können die Kurzformen einen lockeren, alltagsnahen Eindruck erzeugen."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Einzelne Webkommentare können persönliche Eindrücke enthalten; daraus lässt sich keine allgemeine Bewertung von Trägerinnen ableiten.",
+    "Keine Hinweise auf eine belastete oder stigmatisierte Namenswahrnehmung in der vorliegenden Evidenz."
+  ],
+  "short_summary": "Stephanie wird meist als klassischer, vertrauter Mädchenname mit positiver, sachlicher Resonanz wahrgenommen. Die öffentliche Rezeption ist überwiegend neutral bis freundlich und stark von Herkunft, Bedeutung und Bekanntheit geprägt.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.99,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Stephanie � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/S/St/Stephanie/"
+    },
+    {
+      "confidence": 0.95,
+      "is_name_discussion": true,
+      "sentiment": "mixed",
+      "source_type": "web",
+      "title": "&#9655; Vorname Stephanie: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Stephanie.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "zeitlos",
+    "formal",
+    "bekannt",
+    "sprachlich transparent",
+    "weiblich klar markiert"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "hoch"
+}

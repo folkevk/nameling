@@ -1,0 +1,62 @@
+{
+  "associations": [
+    "Doppelform aus Karl und Heinz",
+    "deutsche Herkunft",
+    "Bedeutungselemente wie 'freier Mann' und 'Hausherr'",
+    "Namenstradition des 20. Jahrhunderts",
+    "selten in Deutschland",
+    "Spitznamen wie Kalle, Heinzi, Charly, Kalli"
+  ],
+  "confidence": 0.91,
+  "display_text": "Karlheinz gilt in der öffentlichen Wahrnehmung als traditioneller, eher seltener und altmodischer Vorname mit klar deutschem, historischem Klang.",
+  "evidence_quality": "mittel bis gut: Die Quellen beschreiben Herkunft, Struktur, Beliebtheit und Stilwirkung des Namens direkt, aber überwiegend aus Lexikon- und Portalperspektive.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Karlheinz",
+  "normalized_name": "karlheinz",
+  "overall_resonance": "Karlheinz wirkt in der öffentlichen Namenswahrnehmung vor allem traditionell, altdeutsch und deutlich generationenprägbar. Der Name wird eher als selten und historisch verankert beschrieben als als modern oder aktuell trendig.",
+  "practical_notes": [
+    "Für Suchende ist Karlheinz ein klar klassischer, traditioneller Name mit starkem deutschem Klang.",
+    "Wer moderne oder sehr häufige Namen sucht, wird Karlheinz vermutlich als wenig zeitgenössisch wahrnehmen.",
+    "Die Doppelform kann je nach Umfeld als markant und historisch empfunden werden."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Einordnung als 'altmodisch' ist eine öffentliche Namenswahrnehmung und keine Aussage über einzelne Personen.",
+    "Die Evidenz stammt überwiegend aus Namenslexika und Portaltexten; sie bildet Resonanz nur indirekt ab.",
+    "Keine belastbaren Hinweise auf soziale Stigmatisierung in der vorliegenden Evidenz."
+  ],
+  "short_summary": "Karlheinz wird öffentlich meist als traditionell, selten und eher altmodisch wahrgenommen; der Name hat einen klar deutschen, historischen Charakter.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.92,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Karlheinz � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/K/Ka/Karlheinz/"
+    },
+    {
+      "confidence": 0.95,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Karlheinz: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Karlheinz.html"
+    }
+  ],
+  "style_effect": [
+    "traditionell",
+    "altdeutsch",
+    "klassisch",
+    "historisch",
+    "eher selten",
+    "formal",
+    "generationstypisch"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Eher gering bis mittel: Der Name ist bekannt, aber in aktuellen Beliebtheitslisten offenbar kaum präsent und wird häufig als selten bzw. altmodisch eingeordnet."
+}

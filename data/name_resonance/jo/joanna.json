@@ -1,0 +1,62 @@
+{
+  "associations": [
+    "hebräische Herkunft",
+    "Bedeutung: Gott ist gnädig / Gott ist gütig",
+    "Variante von Johanna/Johannes",
+    "Namenstag",
+    "bekannt, aber eher selten in Deutschland",
+    "Aussprache und Schreibweise können mit Johanna verwechselt werden"
+  ],
+  "confidence": 0.87,
+  "display_text": "Joanna wirkt in Deutschland sachlich-neutral bis leicht positiv: bekannt, eher selten und international-klangvoll. Der Name wird meist mit der Bedeutung „Gott ist gnädig“ verbunden; gelegentlich kann es zu Verwechslungen mit Johanna kommen.",
+  "evidence_quality": "mittel bis gut: mehrere klare Namenslexikon-Quellen, aber nur begrenzte echte öffentliche Meinungsäußerungen",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Joanna",
+  "normalized_name": "joanna",
+  "overall_resonance": "Joanna wird in der öffentlichen Namenswahrnehmung in Deutschland eher sachlich-neutral bis leicht positiv beschrieben. Der Name ist bekannt, aber nicht sehr häufig, und wirkt für viele als klassische, internationale Variante mit klarer Bedeutung. Einzelne Hinweise auf Aussprache- oder Verwechslungsfragen mit Johanna kommen vor, dominieren die Wahrnehmung aber nicht.",
+  "practical_notes": [
+    "Für Suchmaschinen- oder Namenskontexte ist Joanna gut einordenbar und leicht erklärbar.",
+    "Wer einen internationalen, aber nicht zu häufigen Namen sucht, findet hier eine eher ruhige Option.",
+    "In Deutschland kann eine kurze Korrektur zu Johanna vorkommen, wenn der Name nur gelesen oder gehört wird."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist überwiegend lexikalisch und damit nur begrenzt ein direkter Maßstab für echte öffentliche Resonanz.",
+    "Einzelne Kommentare betreffen eher Aussprache und Spitznamen als eine Bewertung des Namens selbst.",
+    "Keine Hinweise auf soziale Stigmatisierung erkennbar."
+  ],
+  "short_summary": "Joanna wird in Deutschland meist sachlich-neutral bis leicht positiv wahrgenommen: bekannt, eher selten, klassisch-international. Etwas Verwechslungsgefahr mit Johanna ist möglich.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Joanna � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/J/Jo/Joanna/"
+    },
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "überwiegend positiv, mit etwas neutraler Sachinformation und vereinzelten irritierten Alltagskommentaren",
+      "source_type": "web",
+      "title": "&#9655; Vorname Joanna: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Joanna.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "international",
+    "weiblich",
+    "eher elegant",
+    "zeitlos",
+    "klar erkennbar",
+    "leicht vertraut, aber nicht alltäglich"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland sichtbar und verständlich, jedoch kein sehr verbreiteter Vorname. Die öffentliche Präsenz wirkt eher lexikalisch-namenskundlich als durch starke Alltagsresonanz geprägt."
+}

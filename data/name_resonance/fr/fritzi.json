@@ -1,0 +1,72 @@
+{
+  "associations": [
+    "Kurz- und Koseform von Friederike bzw. Friedrich/Frieda",
+    "weibliche Form von Fritz",
+    "althochdeutsche Herkunft",
+    "Bedeutungsfelder wie Frieden, Schutz oder Macht je nach Quelle",
+    "Mädchenname",
+    "seltenere, aber etablierte Namensverwendung in Deutschland",
+    "teils auch als Männername erwähnt"
+  ],
+  "confidence": 0.91,
+  "display_text": "Fritzi wirkt überwiegend freundlich, kurz und traditionell-deutsch. In den vorliegenden Quellen wird der Name vor allem namenkundlich beschrieben: als Kose- oder Kurzform mit alter Herkunft und Bedeutungsfeldern rund um Frieden, Schutz oder Macht. Die öffentliche Resonanz erscheint eher sachlich bis leicht positiv, allerdings basiert die Evidenz fast nur auf Namenslexika und nicht auf breiter Alltagsdiskussion.",
+  "evidence_quality": "hoch für namenkundliche Grunddaten, mittel für öffentliche Resonanz im engeren Sinn",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Fritzi",
+  "normalized_name": "fritzi",
+  "overall_resonance": "Überwiegend sachlich-neutrale bis leicht positive Namenswirkung. Fritzi wird in den Quellen vor allem als Kurz- und Koseform mit traditionell-deutscher Herkunft beschrieben; die öffentliche Wahrnehmung wirkt eher namenkundlich als emotional aufgeladen.",
+  "practical_notes": [
+    "Für eine Namenssuche ist Fritzi gut als kurzer, sympathischer und traditionell klingender Name einordenbar.",
+    "Wegen der Koseform kann der Name je nach Kontext als verspielt oder jugendlich wirken.",
+    "Die Nutzung erscheint in den Quellen eher selten, aber klar verständlich und etabliert.",
+    "Wenn eine formellere Wirkung gewünscht ist, wird Fritzi häufig als Spitzname-ähnlich wahrgenommen."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt fast ausschließlich aus Namenslexika und nicht aus einer breiten öffentlichen Debatte.",
+    "Einzelne Angaben wirken quellenabhängig oder redaktionell; daraus sollte keine zu starke Aussage über tatsächliche Alltagswahrnehmung abgeleitet werden.",
+    "Keine belastbaren Hinweise auf Stigmatisierung oder negative gesellschaftliche Zuschreibungen in den vorliegenden Quellen."
+  ],
+  "short_summary": "Fritzi wird in den Quellen vor allem als freundliche, kurze und traditionell-deutsche Koseform beschrieben. Die öffentliche Resonanz wirkt sachlich und eher positiv, aber die Evidenz zeigt vor allem lexikalische Beschreibung statt breite gesellschaftliche Diskussion.",
+  "source_count": 3,
+  "sources": [
+    {
+      "confidence": 0.99,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Fritzi � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/F/Fr/Fritzi/"
+    },
+    {
+      "confidence": 0.92,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Fritzi � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/F/Fr/Fritzi/"
+    },
+    {
+      "confidence": 0.9,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Fritzi: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Fritzi.html"
+    }
+  ],
+  "style_effect": [
+    "freundlich",
+    "verspielt-kurz",
+    "kosehaft",
+    "traditionell",
+    "klassisch-deutsch",
+    "leicht nostalgisch",
+    "informativ statt markant"
+  ],
+  "usable_evidence_count": 3,
+  "visibility": "Der Name erscheint in deutschsprachigen Namenslexika und ist dort gut dokumentiert, wirkt aber eher selten bzw. nicht breit alltagspräsent. Die Evidenz deutet auf eine bekannte, aber keine stark dominierende öffentliche Präsenz hin."
+}

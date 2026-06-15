@@ -1,0 +1,59 @@
+{
+  "associations": [
+    "arabischer weiblicher Vorname",
+    "Bedeutungsbezüge wie „die den Geliebten Betrachtende“ oder „die Schöne / die Augenweide“",
+    "Varianten wie Rania und Ranja",
+    "eher seltene Namensverwendung in Deutschland",
+    "sachlich-lexikalische Einordnung in Namensdatenbanken"
+  ],
+  "confidence": 0.86,
+  "display_text": "Ranya wirkt in Deutschland eher selten, aber freundlich und international. Die vorhandenen Quellen beschreiben den Namen überwiegend neutral bis positiv; eine breitere öffentliche Debatte ist nicht erkennbar. Die Aussagekraft ist begrenzt, da die Evidenz hauptsächlich aus Namenslexika stammt.",
+  "evidence_quality": "mittel bis schwach: zwei verwandte Namenslexika, keine unabhängige öffentliche Debatte",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Ranya",
+  "normalized_name": "ranya",
+  "overall_resonance": "Ranya wird in den vorliegenden deutschsprachigen Namensquellen überwiegend sachlich bis freundlich aufgenommen. Der Name wirkt auf öffentlichen Namensseiten eher ungewöhnlich und eher selten, aber nicht negativ konnotiert.",
+  "practical_notes": [
+    "Für eine Namenssuche ist die öffentliche Resonanz insgesamt eher positiv-neutral.",
+    "Der Name kann in Deutschland als auffällig, aber gut einordenbar wahrgenommen werden.",
+    "Eine starke Stigmatisierung ist in den Quellen nicht erkennbar.",
+    "Die Wirkung hängt stärker vom Umfeld und der individuellen Wahrnehmung ab als von breiter Medienresonanz."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist schwach, da sie fast nur aus zwei Namensdatenbank-Quellen besteht.",
+    "Es gibt keine erkennbare breite öffentliche Diskussion oder belastbare Meinungsvielfalt.",
+    "Beliebtheitsangaben sind statistische Einordnungen und keine direkten Stimmungswerte."
+  ],
+  "short_summary": "Ranya wird in den vorliegenden Quellen überwiegend neutral bis positiv beschrieben, als seltener arabischer Mädchenname mit weicher, moderner Wirkung. Die Evidenz ist jedoch begrenzt und vor allem lexikalisch.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Ranya � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/R/Ra/Ranya/"
+    },
+    {
+      "confidence": 0.9,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Ranya: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Ranya.html"
+    }
+  ],
+  "style_effect": [
+    "klingt weich und feminin",
+    "wirkt modern und zugleich international",
+    "wird namenskundlich meist kurz und informativ beschrieben",
+    "durch die Seltenheit eher individuell als alltäglich"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland scheint Ranya eher selten bis moderat sichtbar zu sein. Die öffentliche Präsenz entsteht vor allem über Namenslexika und Datenbanken, nicht über eine breite Debatte oder starke Alltagsresonanz."
+}

@@ -1,0 +1,59 @@
+{
+  "associations": [
+    "altgriechischer Ursprung",
+    "Bedeutung: „die Siegbringende“",
+    "Variante zu Veronika",
+    "internationale Schreib- und Sprachform",
+    "Namenstag",
+    "eher selten bis moderat in Deutschland"
+  ],
+  "confidence": 0.72,
+  "display_text": "Veronica wirkt in Deutschland überwiegend neutral bis leicht positiv: ein klassischer, international verständlicher Name mit der Bedeutung „die Siegbringende“. Er scheint eher selten bis mäßig verbreitet zu sein. Die Evidenz ist jedoch begrenzt und stammt vor allem aus Namenslexika.",
+  "evidence_quality": "Begrenzt: überwiegend lexikalische Namensquellen, keine breitere öffentliche Diskurslage.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Veronica",
+  "normalized_name": "veronica",
+  "overall_resonance": "Überwiegend neutral bis leicht positiv; der Name wirkt im deutschsprachigen Raum eher sachlich-klassisch als trendig und ist als international verständliche Namensform bekannt.",
+  "practical_notes": [
+    "Für Suchende ist Veronica eine gut erkennbare, international verständliche Form.",
+    "Im deutschen Kontext kann der Name neben Veronika als etwas seltener und stilistisch etwas internationaler wirken.",
+    "Die Wahrnehmung scheint eher über Herkunft und Bedeutung als über aktuelle Mode geprägt zu sein."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz zur öffentlichen Wahrnehmung ist schwach und basiert überwiegend auf wenigen Namenslexikon-Seiten.",
+    "Beliebtheitsangaben sollten nicht mit allgemeiner gesellschaftlicher Bewertung verwechselt werden.",
+    "Es liegen keine Hinweise auf eine spezifische Stigmatisierung des Namens vor."
+  ],
+  "short_summary": "Veronica wird in Deutschland eher neutral bis leicht positiv wahrgenommen: international, klassisch und eher selten bis mäßig verbreitet. Die Datenlage ist dünn, daher nur vorsichtige Einordnung.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Veronica � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/V/Ve/Veronica/"
+    },
+    {
+      "confidence": 0.92,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Veronica: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Veronica.html"
+    }
+  ],
+  "style_effect": [
+    "klingt international und historisch eingebettet",
+    "wirkt eher formell und klassisch",
+    "hat eine klare, weiche Klangstruktur",
+    "wird oft als Namensvariante mit vertrauter, aber nicht sehr häufiger Wirkung wahrgenommen"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland scheint Veronica eher selten bis mäßig verbreitet zu sein. Die verfügbare Evidenz ist jedoch begrenzt und stammt vor allem aus Namenslexika, daher ist die öffentliche Resonanz nur vorsichtig einzuordnen."
+}

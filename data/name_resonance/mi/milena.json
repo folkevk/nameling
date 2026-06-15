@@ -1,0 +1,59 @@
+{
+  "associations": [
+    "Bedeutungen wie freundlich, lieb, gütig oder gnädig",
+    "altslawische bzw. tschechische Herkunft",
+    "weiblicher Vorname",
+    "in Deutschland bekannt und beliebt",
+    "Namenstag wird in Namensquellen genannt",
+    "Spitznamen wie Mila oder Mili"
+  ],
+  "confidence": 0.87,
+  "display_text": "Milena wirkt in Deutschland überwiegend freundlich, weich und positiv besetzt. Der Name ist bekannt, seit den 1990er-Jahren populärer und wird vor allem mit Bedeutungen wie „die Freundliche“ oder „die Gütige“ verbunden. Die Evidenz stammt hauptsächlich aus Namenslexika; eine breitere öffentliche Debatte ist nicht erkennbar.",
+  "evidence_quality": "mittel bis gut; klare, direkte Namensquellen mit überwiegend positiver Tonalität, aber wenig breite öffentliche Diskussionsbasis",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Milena",
+  "normalized_name": "milena",
+  "overall_resonance": "Milena wird in den verfügbaren deutschsprachigen Namensquellen überwiegend freundlich und positiv wahrgenommen. Der Name wirkt weich, angenehm und eher elegant als auffällig, mit klarer Namenskundik rund um Bedeutung und Herkunft.",
+  "practical_notes": [
+    "Für die öffentliche Namenswahrnehmung wirkt Milena unkompliziert, positiv und gut anschlussfähig.",
+    "Der Name ist leicht aussprechbar und im deutschen Kontext vertraut.",
+    "Die Quellenlage spricht eher für eine gepflegte Namenswahrnehmung als für starke Trends oder Kontroversen."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt fast ausschließlich aus Namenslexika und ähnlichen Informationsseiten; eine breite öffentliche Debatte ist nicht erkennbar.",
+    "Es gibt keine klaren Hinweise auf soziale Stigmatisierung oder problematische Nebenbedeutungen in der vorliegenden Evidenz."
+  ],
+  "short_summary": "Milena wird in Deutschland meist freundlich, sanft und positiv wahrgenommen. Die Quellenlage ist solide, aber vor allem lexikalisch; eine breite öffentliche Kontroverse ist nicht sichtbar.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "Vorname Milena � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/M/Mi/Milena/"
+    },
+    {
+      "confidence": 0.91,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Milena: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Milena.html"
+    }
+  ],
+  "style_effect": [
+    "weich und sanft im Klang",
+    "freundlich und sympathisch konnotiert",
+    "modern, aber nicht modisch-überladen",
+    "etwas klassisch durch die altslawische Herkunft",
+    "alltagstauglich und gut verständlich im deutschen Sprachraum"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland als bekannter und seit den 1990er-Jahren populärer Mädchenname sichtbar; die öffentliche Wahrnehmung erscheint eher stabil als kontrovers."
+}

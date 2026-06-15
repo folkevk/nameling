@@ -1,0 +1,63 @@
+{
+  "associations": [
+    "lateinische Herkunft",
+    "Bedeutung: der Stern",
+    "latinisierte Form von Estelle",
+    "italienische bzw. internationale Anmutung",
+    "Wunschname",
+    "eher selten",
+    "positiv besetzte Licht- und Helligkeitsassoziation"
+  ],
+  "confidence": 0.88,
+  "display_text": "Estella wirkt in der verfügbaren deutschen Evidenz freundlich-neutral bis leicht positiv: ein seltener, klangvoller Vorname mit der Bedeutung 'der Stern'. Breitere öffentliche Resonanzdaten fehlen jedoch, daher ist die Einordnung vorsichtig zu lesen.",
+  "evidence_quality": "mittel bis eher schwach für öffentliche Resonanz, da vor allem lexikalische Quellen und nur wenige unabhängige Belege vorliegen.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Estella",
+  "normalized_name": "estella",
+  "overall_resonance": "Estella wird in der verfügbaren deutschen Evidenz überwiegend positiv bis neutral wahrgenommen: als klangvoller, eher seltener Vorname mit klarer, freundlicher Stern-Assoziation. Die öffentliche Resonanz wirkt sachlich-wohlwollend, aber die Datenlage ist begrenzt und stark von Namenslexika geprägt.",
+  "practical_notes": [
+    "Für Suchmaschinen-Nutzung eignet sich eine vorsichtige Beschreibung als 'eher selten, klangvoll und mit Stern-Bedeutung'.",
+    "Im deutschen Kontext wirkt der Name bekannt, aber nicht alltäglich.",
+    "Die Resonanz lässt sich derzeit am besten als freundlich-neutral mit leichter positiver Tendenz zusammenfassen."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz basiert vor allem auf einzelnen Namensportalen; das ist keine breite öffentliche Meinungsbasis.",
+    "Positive Aussagen wie 'schön' oder 'Wunschname' spiegeln eher Seiteninhalte und vereinzelte Einschätzungen als gesicherte Mehrheitsmeinung.",
+    "Keine Hinweise auf soziale Stigmatisierung oder negative Stereotype in der vorliegenden Evidenz."
+  ],
+  "short_summary": "Estella wird in Deutschland meist als seltener, eleganter Vorname mit positiver Stern-Assoziation beschrieben; die öffentliche Resonanz wirkt freundlich-neutral, aber die Evidenz ist begrenzt.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Estella � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/E/Es/Estella/"
+    },
+    {
+      "confidence": 0.91,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Estella: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Estella.html"
+    }
+  ],
+  "style_effect": [
+    "klangvoll",
+    "elegant",
+    "weich",
+    "gehoben",
+    "klassisch-mediterran wirkend",
+    "selten",
+    "namenslexikalisch gut erklärbar"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland eher selten bis moderat verbreitet und dadurch auffälliger als sehr häufige Namen, ohne auf eine breite, kontroverse öffentliche Debatte hinzuweisen."
+}

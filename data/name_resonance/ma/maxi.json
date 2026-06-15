@@ -1,0 +1,69 @@
+{
+  "associations": [
+    "Kurzform von Maximilian oder Maximiliane",
+    "lateinischer Ursprung",
+    "Bedeutung: die/der Größte",
+    "Unisex-Name",
+    "Namenstag wird teils angegeben",
+    "im deutschsprachigen Raum bekannt",
+    "häufig als Kose- oder Spitzname verstanden"
+  ],
+  "confidence": 0.89,
+  "display_text": "Maxi wirkt überwiegend neutral bis leicht positiv: bekannt, kurz, modern und als Unisex-Kurzform gut einordenbar. Die Quellenlage ist eher schwach bis mittel, da vor allem Namenslexika vorliegen und keine breite öffentliche Debatte.",
+  "evidence_quality": "mittel: mehrere namenskundliche Quellen, aber wenig unabhängige öffentliche Diskussion",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Maxi",
+  "normalized_name": "maxi",
+  "overall_resonance": "Überwiegend neutral bis leicht positiv. Maxi wird in den vorliegenden Quellen vor allem sachlich als kurzer, moderner und unisex nutzbarer Vorname beschrieben.",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt Maxi unkompliziert, vertraut und leicht verständlich.",
+    "Die Kurzform kann je nach Kontext eher locker als offiziell klingen.",
+    "Als Unisex-Name kann er je nach Region unterschiedlich gelesen werden."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist begrenzt und stammt vor allem aus Namenslexika, nicht aus breiter öffentlicher Debatte.",
+    "Einzelne Kommentare oder Beliebtheitsangaben sind nicht repräsentativ für die Gesamtwahrnehmung.",
+    "Keine belastbaren Hinweise auf soziale Stigmatisierung in den Quellen."
+  ],
+  "short_summary": "Maxi wird in den Quellen meist neutral und leicht positiv wahrgenommen: als bekannte, kurze Unisex-Kurzform mit klarer Herkunft und eingängiger Wirkung. Die öffentliche Evidenz ist jedoch eher lexikalisch als diskursiv.",
+  "source_count": 3,
+  "sources": [
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Maxi � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/M/Ma/Maxi/"
+    },
+    {
+      "confidence": 0.99,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Maxi � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/M/Ma/Maxi/"
+    },
+    {
+      "confidence": 0.92,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Maxi: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Maxi.html"
+    }
+  ],
+  "style_effect": [
+    "kurz und eingängig",
+    "informell bis modern wirkend",
+    "als Kose- oder Kurzform wahrgenommen",
+    "geschlechtsübergreifend nutzbar",
+    "namenskundlich klar einordenbar"
+  ],
+  "usable_evidence_count": 3,
+  "visibility": "Im deutschsprachigen Raum bekannt, aber eher als Namenslexikon-Eintrag und weniger als stark öffentlich diskutierter Name sichtbar."
+}

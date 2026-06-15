@@ -1,0 +1,62 @@
+{
+  "associations": [
+    "Bedeutung: „der Ruhmglänzende“ / „der ruhmreich Glänzende“",
+    "althochdeutsche Herkunft",
+    "historische Nähe zu Rupertus, Robert und Ruprecht",
+    "Namenstag am 24. September",
+    "selten bis mäßig verbreitet in Deutschland",
+    "von manchen als klassisch oder altmodisch wahrgenommen"
+  ],
+  "confidence": 0.86,
+  "display_text": "Rupert: eher klassisch, selten und leicht altmodisch wirkend; die Resonanz ist überwiegend neutral bis leicht positiv, mit starker Verbindung zu Herkunft und Bedeutung.",
+  "evidence_quality": "mittel: zwei einschlägige Namensquellen, aber keine breite empirische Resonanzmessung; Aussagen beruhen überwiegend auf lexikalischen Beschreibungen und Kommentaren",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Rupert",
+  "normalized_name": "rupert",
+  "overall_resonance": "Die öffentliche Resonanz auf Rupert wirkt insgesamt eher klassisch, sachlich und leicht positiv-konnotiert. Der Name wird vor allem über Herkunft, Bedeutung und Namenskunde wahrgenommen; zugleich gilt er in Deutschland eher als selten bis mäßig verbreitet und dadurch etwas eigenständig. Einzelne Einschätzungen beschreiben ihn auch als altmodisch oder besonders, insgesamt überwiegt aber eine neutral-informative Wahrnehmung.",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt Rupert traditionell und charakterstark, ohne stark polarisiert zu sein.",
+    "Wer einen seltenen, klassischen Namen sucht, findet hier eine eher ruhige, unaufgeregte Option.",
+    "Die Wirkung kann je nach Umfeld etwas altmodisch erscheinen, aber nicht zwingend negativ."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist begrenzt und stammt überwiegend aus Namenslexika sowie einzelnen Kommentaren.",
+    "Öffentliche Resonanz lässt sich daher nur indirekt ableiten.",
+    "Subjektive Einzelmeinungen können die Wahrnehmung verzerren."
+  ],
+  "short_summary": "Rupert wird in Deutschland meist als klassischer, seltener und leicht altmodisch wirkender Name mit positiver Bedeutungsassoziation wahrgenommen.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Rupert � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/R/Ru/Rupert/"
+    },
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "mixed",
+      "source_type": "web",
+      "title": "&#9655; Vorname Rupert: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Rupert.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "traditionell",
+    "altdeutsch",
+    "eher selten",
+    "würdig",
+    "leicht markant",
+    "namenskundlich aufgeladen"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland eher gering bis mittel sichtbar; der Name ist bekannt, aber nicht häufig. Die öffentliche Wahrnehmung scheint vor allem über Namenslexika und Kommentarseiten zu entstehen, nicht über breite Alltagspräsenz."
+}

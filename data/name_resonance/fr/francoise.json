@@ -1,0 +1,52 @@
+{
+  "associations": [
+    "französische Form von Franziska",
+    "kleine Französin",
+    "französischer bzw. italienisch-französischer Namenshintergrund",
+    "Namenstag am 9. März",
+    "seltene, internationale Wirkung"
+  ],
+  "confidence": 0.79,
+  "display_text": "Françoise wirkt in Deutschland vor allem französisch, elegant und eher selten. Die öffentliche Resonanz ist überwiegend neutral und basiert hier nur auf begrenzter Evidenz aus einem Namenslexikon.",
+  "evidence_quality": "Begrenzt: überwiegend ein Namenslexikon-Eintrag mit neutraler Beschreibung; wenig direkte öffentliche Resonanz sichtbar.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Françoise",
+  "normalized_name": "francoise",
+  "overall_resonance": "Françoise wirkt in Deutschland eher als klar französisch geprägter, internationaler Vorname mit zurückhaltender, überwiegend neutraler öffentlicher Resonanz. Der Name fällt vor allem durch seine Herkunft und seine fremdsprachige Ausstrahlung auf, nicht durch breite Alltagsverwendung.",
+  "practical_notes": [
+    "Für eine Namenssuche ist die wichtigste Wirkung eher: französisch, elegant und ungewöhnlich.",
+    "In Deutschland dürfte der Name häufig erklärungsbedürftig sein, vor allem wegen Schreibweise und Aussprache.",
+    "Die öffentliche Resonanz scheint eher informativ als emotional zu sein."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist schwach und stammt vor allem aus einem Namenslexikon, nicht aus breiter öffentlicher Meinungsbildung.",
+    "Einzelne beschreibende Einträge oder Kommentare sind keine belastbare Grundlage für eine allgemeine gesellschaftliche Bewertung.",
+    "Die wahrgenommene Seltenheit kann in Deutschland eher als besondere Stilmarke wirken, sollte aber nicht als allgemeine Zustimmung oder Ablehnung verstanden werden."
+  ],
+  "short_summary": "Françoise wird in Deutschland vor allem als seltener, französisch geprägter und elegant wirkender Vorname wahrgenommen; die verfügbare Evidenz ist jedoch eher schwach und überwiegend neutral.",
+  "source_count": 1,
+  "sources": [
+    {
+      "confidence": 0.79,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Françoise: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Fran%C3%A7oise.html"
+    }
+  ],
+  "style_effect": [
+    "elegant",
+    "international",
+    "französisch",
+    "klassisch",
+    "kultiviert",
+    "selten"
+  ],
+  "usable_evidence_count": 1,
+  "visibility": "Eher selten und in Deutschland wenig alltäglich; dadurch meist auffällig, aber nicht stark verbreitet."
+}

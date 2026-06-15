@@ -1,0 +1,63 @@
+{
+  "associations": [
+    "althochdeutsche Herkunft",
+    "Umzäunung/Einfriedung",
+    "Heger/Beschützer",
+    "Nibelungenlied",
+    "Hagen von Tronje",
+    "männlicher Vorname",
+    "selten vergeben",
+    "früher relativ bekannt",
+    "Namenstag am 14. Mai"
+  ],
+  "confidence": 0.92,
+  "display_text": "Hagen wird in Deutschland überwiegend als klassischer, traditionsreicher Jungenname mit altdeutscher Herkunft wahrgenommen. Die öffentliche Resonanz ist eher sachlich bis leicht positiv, geprägt von Bedeutungen wie „Heger/Beschützer“ sowie kulturellen Bezügen zum Nibelungenlied. Heute ist der Name eher selten, wirkt dadurch markant und eigenständig, aber nicht modern-trendig.",
+  "evidence_quality": "hoch für Namensbedeutung und Einordnung, mittel für öffentliche Resonanz im engeren Sinn",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Hagen",
+  "normalized_name": "hagen",
+  "overall_resonance": "Hagen wirkt in der öffentlichen Namenswahrnehmung überwiegend klassisch, sachlich und traditionsnah. Die Resonanz ist eher beschreibend als emotional, mit leicht positiver Färbung durch die kulturellen und historischen Bezüge.",
+  "practical_notes": [
+    "Für Suchende ist Hagen gut einordenbar und klar verständlich.",
+    "Der Name kann als traditionsreich und eigenständig wahrgenommen werden, ohne stark verspielt zu wirken.",
+    "Wegen der Seltenheit heute kann er etwas ungewöhnlich, aber nicht unverständlich wirken."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt vor allem aus Namenslexika und Beliebtheitsseiten, nicht aus breiter öffentlicher Diskussion.",
+    "Die kulturelle Figur Hagen von Tronje prägt die Wahrnehmung mit, sagt aber nichts über Träger des Namens aus."
+  ],
+  "short_summary": "Hagen wird meist als klassischer, altertümlich geprägter Jungenname mit historisch-literarischen Bezügen wahrgenommen; heute eher selten, aber klar und markant.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Hagen � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/H/Ha/Hagen/"
+    },
+    {
+      "confidence": 0.95,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Hagen: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Hagen.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "altdeutsch",
+    "markant",
+    "traditionsbezogen",
+    "nüchtern",
+    "leicht kantig"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland eher bekannt, aber heute eher selten vergeben. Dadurch wirkt der Name präsent, ohne stark modisch zu sein."
+}

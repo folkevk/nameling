@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "althochdeutsche bzw. altdeutsche Herkunft",
+    "mögliche Deutung als „edler Freund“",
+    "mögliche Deutung als „Freund der Elfen“",
+    "Nebenform von Adalwin",
+    "selten, aber in Deutschland vergeben",
+    "Namenstag am 26. Mai"
+  ],
+  "confidence": 0.82,
+  "display_text": "Alwin hat in der öffentlichen Rezeption eine eher neutrale bis positive, traditionell geprägte Wirkung. Der Name wird meist als altdeutsch, edel und selten beschrieben. Eine breite öffentliche Debatte ist nicht erkennbar; die Evidenz stammt vor allem aus Namenslexika.",
+  "evidence_quality": "Eher schwach bis mittel: zwei quellengebundene Namenslexika, keine breite öffentliche Diskussion.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Alwin",
+  "normalized_name": "alwin",
+  "overall_resonance": "Überwiegend neutral bis positiv, mit eher traditionell-sachlicher Wahrnehmung.",
+  "practical_notes": [
+    "Für Suchmaschinen wirkt der Name klar, klassisch und gut einordenbar.",
+    "Die Seltenheit kann als individuell und traditionell wahrgenommen werden.",
+    "Der Name ist leicht historisch gefärbt, ohne stark modern oder trendig zu wirken."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist schmal und stützt sich vor allem auf Namenslexika.",
+    "Es gibt keine belastbare breite öffentliche Meinungslage.",
+    "Positiv klingende Deutungen sind namenskundliche Interpretationen, keine objektiven Eigenschaften des Namens."
+  ],
+  "short_summary": "Alwin wird überwiegend sachlich und leicht positiv wahrgenommen: traditionell, altdeutsch und eher selten, ohne auffällige negative Resonanz.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.91,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Alwin � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/A/Al/Alwin/"
+    },
+    {
+      "confidence": 0.94,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Alwin: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Alwin.html"
+    }
+  ],
+  "style_effect": [
+    "altdeutsch/traditionell",
+    "edel und vornehm konnotiert",
+    "sachlich-informativ",
+    "selten und eher klassisch",
+    "namenskundlich etabliert"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Die öffentliche Sichtbarkeit wirkt eher gering bis moderat: Alwin wird in Namenslexika und Informationsseiten behandelt, aber es ist keine breite Debatte oder starke Massenresonanz erkennbar."
+}

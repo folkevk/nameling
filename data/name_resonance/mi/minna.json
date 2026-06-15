@@ -1,0 +1,72 @@
+{
+  "associations": [
+    "Kurzform von Wilhelmina bzw. Wilhelmine",
+    "Bedeutung im Umfeld von 'willensstark' und 'Beschützerin'",
+    "Bezug zu 'minne' / Liebe",
+    "altdeutsche Herkunft",
+    "klassisch und historisch etabliert",
+    "wiederentdeckt"
+  ],
+  "confidence": 0.89,
+  "display_text": "Minna gilt öffentlich meist als klassischer, historischer und eher positiv klingender Vorname. Er wird mit altdeutscher Herkunft, Wiederentdeckung und Bedeutungen rund um 'Liebe' bzw. 'willensstarke Beschützerin' verbunden. Die Evidenz ist solide, aber überwiegend aus Namenslexika und einzelnen Kommentaren gewonnen.",
+  "evidence_quality": "mittel bis gut; mehrere direkte Namensquellen, aber wenig Vielfalt und kaum unabhängige Diskussionsbreite",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Minna",
+  "normalized_name": "minna",
+  "overall_resonance": "Minna wirkt in der öffentlichen Namenswahrnehmung überwiegend klassisch, historisch und eher positiv besetzt. Der Name wird vor allem als traditionsreich, wiederentdeckt und klanglich angenehm beschrieben. Die vorhandene Evidenz ist dabei insgesamt ordentlich, aber stark von einzelnen Namenslexikon-Seiten geprägt.",
+  "practical_notes": [
+    "Für Suchmaschinen ist eine knappe Einordnung als klassischer, wiederentdeckter Vorname mit historischer Note passend.",
+    "Die Wahrnehmung ist eher freundlich-neutral bis leicht positiv, ohne starke gesellschaftliche Stigmatisierung.",
+    "Wegen der eher seltenen Nutzung wirkt der Name charaktervoll und traditionell, aber nicht modern-modisch dominiert."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz basiert vor allem auf wenigen Namenslexikon-Seiten; eine breite unabhängige Diskussionslage ist nicht erkennbar.",
+    "Einige positive Wertungen wie 'schön' oder 'süß' stammen aus subjektiven Kommentaren und sollten nicht als allgemeiner Konsens verstanden werden.",
+    "Beliebtheitsaussagen sind quellengebunden und nicht unabhängig verifiziert."
+  ],
+  "short_summary": "Minna wird meist als klassischer, historischer und eher freundlich konnotierter Vorname wahrgenommen, mit Anklängen an Wiederentdeckung und Wohlklang. Die Datenlage ist brauchbar, aber stark lexikonbasiert.",
+  "source_count": 3,
+  "sources": [
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Minna � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/M/Mi/Minna/"
+    },
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Minna � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/M/Mi/Minna/"
+    },
+    {
+      "confidence": 0.86,
+      "is_name_discussion": true,
+      "sentiment": "positive",
+      "source_type": "web",
+      "title": "&#9655; Vorname Minna: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Minna.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "historisch",
+    "altdeutsch",
+    "wohlklingend",
+    "süß",
+    "frech",
+    "selten bis eher ungewöhnlich",
+    "wiederentdeckt",
+    "lexikalisch und namenkundlich geprägt"
+  ],
+  "usable_evidence_count": 3,
+  "visibility": "Im deutschsprachigen Raum ist Minna bekannt, aber eher kein sehr häufiger Alltagsname. Er taucht vor allem in namenkundlichen Quellen und Beliebtheitsübersichten auf, was auf eine eher moderate Sichtbarkeit hindeutet."
+}

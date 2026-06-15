@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "althochdeutsche Herkunft",
+    "Form von Giselbert",
+    "Bedeutungen wie 'glänzender Spross' oder 'edler Nachkomme'",
+    "glänzend/strahlend",
+    "klassisch-traditionell",
+    "Namenstag",
+    "selten in Deutschland"
+  ],
+  "confidence": 0.84,
+  "display_text": "Gilbert wirkt in Deutschland eher selten, klassisch und traditionsnah. Die vorliegende Evidenz beschreibt den Namen überwiegend positiv, vor allem mit Hinweisen auf althochdeutsche Herkunft, Bedeutung und Namenstag. Eine breite öffentliche Debatte ist jedoch nicht erkennbar.",
+  "evidence_quality": "Gut für Herkunft, Bedeutung und grobe Tendenz; schwächer für echte öffentliche Meinungsbreite.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Gilbert",
+  "normalized_name": "gilbert",
+  "overall_resonance": "Überwiegend positiv, aber eher leise und beschreibend als breit öffentlich diskutiert.",
+  "practical_notes": [
+    "Für Suchmaschinenleser wirkt der Name eher seriös, traditionsnah und ungewöhnlich.",
+    "Die Seltenheit kann als besonders wahrgenommen werden, ohne exotisch zu wirken.",
+    "Die Resonanz ist eher fachlich-lexikalisch als emotional-viral."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt vor allem aus Namenslexika und einzelnen Kommentarbereichen, nicht aus einer breiten öffentlichen Debatte.",
+    "Positive Tendenzen sind vorhanden, aber nicht repräsentativ belegbar.",
+    "Keine belastbaren Hinweise auf starke Stigmatisierung oder kontroverse Nebenbedeutungen in der vorliegenden Evidenz."
+  ],
+  "short_summary": "Gilbert wird in den Quellen als seltener, klassisch-historischer Vorname mit althochdeutscher Herkunft beschrieben. Die Resonanz ist insgesamt eher positiv und traditionsnah, aber die Evidenz ist vor allem lexikalisch und nur begrenzt öffentlich-diskursiv.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Gilbert � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/G/Gi/Gilbert/"
+    },
+    {
+      "confidence": 0.9,
+      "is_name_discussion": true,
+      "sentiment": "überwiegend positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Gilbert: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Gilbert.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch-historisch",
+    "traditionell",
+    "eher elegant",
+    "namenskundlich aufgeladen",
+    "selten und markant ohne laut zu wirken"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland wirkt Gilbert selten und wenig verbreitet; die öffentliche Wahrnehmung ist daher eher nischenhaft als alltagspräsent."
+}

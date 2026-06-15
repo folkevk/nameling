@@ -1,0 +1,72 @@
+{
+  "associations": [
+    "friesisch",
+    "niederdeutsch",
+    "althochdeutsch",
+    "Ostfriesland",
+    "mittelalterlich",
+    "Kurzform älterer germanischer Namen",
+    "Bedeutung mit Stärke/Schwertkämpfer",
+    "klassisch-ornamental statt modern-experimentell"
+  ],
+  "confidence": 0.78,
+  "display_text": "Enno wird in den vorliegenden Quellen überwiegend positiv gesehen: kurz, traditionell und norddeutsch/friesisch geprägt, mit einer kraftvollen Bedeutungsdeutung. Der Name wirkt eher selten als alltäglich. Die Evidenz ist jedoch begrenzt und stammt vor allem aus Namenslexika.",
+  "evidence_quality": "mittel bis eher begrenzt: mehrere ähnliche Namenslexikon-Quellen, aber keine breite, unabhängige öffentliche Meinungsbasis.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Enno",
+  "normalized_name": "enno",
+  "overall_resonance": "Die öffentliche Resonanz zu „Enno“ in der vorliegenden Evidenz ist überwiegend positiv bis wertschätzend. Der Name wird vor allem als kurz, klangvoll und traditionell wahrgenommen und mit friesisch/niederdeutscher Herkunft sowie einer kraftvollen Bedeutungsdeutung verbunden. Eine deutlich negative oder stigmatisierende Wahrnehmung zeigt sich in den Quellen nicht.",
+  "practical_notes": [
+    "Für eine Namenssuche eignet sich Enno gut, wenn ein kurzer, traditioneller und regional gefärbter Jungenname gesucht wird.",
+    "Der Name wirkt eher selten als alltäglich, aber grundsätzlich gut verständlich.",
+    "Die öffentliche Wahrnehmung in den Quellen ist eher freundlich als kontrovers.",
+    "Wegen der begrenzten Datenlage sollte die Einschätzung als Tendenz, nicht als gesichertes Stimmungsbild gelesen werden."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist begrenzt und stammt fast nur aus Namenslexika bzw. portalfokussierten Seiten.",
+    "Bewertungen wie „schöner alter Vorname“ sind subjektiv und nicht repräsentativ.",
+    "Die Angaben zur Herkunft und Bedeutung können je nach Quelle leicht variieren.",
+    "Aus den Daten lässt sich keine belastbare Aussage über die allgemeine Gesamtmeinung in der Bevölkerung ableiten."
+  ],
+  "short_summary": "Enno wird öffentlich überwiegend positiv wahrgenommen: kurz, traditionell, norddeutsch/friesisch geprägt und mit einer kraftvollen Namensbedeutung verbunden. Die Evidenz ist jedoch vor allem lexikalisch und daher nur eingeschränkt repräsentativ.",
+  "source_count": 3,
+  "sources": [
+    {
+      "confidence": 0.78,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "Vorname Enno � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/E/En/Enno/"
+    },
+    {
+      "confidence": 0.95,
+      "is_name_discussion": true,
+      "sentiment": "positive",
+      "source_type": "web",
+      "title": "Vorname Enno � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/E/En/Enno/"
+    },
+    {
+      "confidence": 0.87,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Enno: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Enno.html"
+    }
+  ],
+  "style_effect": [
+    "kurz und prägnant",
+    "traditionell und norddeutsch wirkend",
+    "etymologisch aufgeladen",
+    "kraftvoll durch Bedeutungsdeutungen wie „Schwertstarke“",
+    "selten, aber nicht fremd wirkend"
+  ],
+  "usable_evidence_count": 3,
+  "visibility": "Die Sichtbarkeit wirkt in Deutschland eher moderat: Enno erscheint als bekannter, aber nicht massenhaft verbreiteter Vorname mit regionalen Bezügen, besonders norddeutsch/friesisch. In den Quellen wird der Name teils als wieder beliebt oder angenehm selten beschrieben."
+}

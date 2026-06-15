@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "arabischer Herkunft",
+    "Bedeutung: der Auserwählte",
+    "muslimischer Vorname",
+    "türkische Schreib- und Gebrauchstradition",
+    "in Deutschland vergleichsweise verbreitet",
+    "Namenslexikon-Kontext",
+    "gelegentlich mit dem Spitznamen Musti/Musti verbunden"
+  ],
+  "confidence": 0.85,
+  "display_text": "Mustafa: in Deutschland ein bekannter, traditionell wirkender Vorname mit arabischer Herkunft und der Bedeutung „der Auserwählte“. Die öffentliche Rezeption ist überwiegend sachlich bis positiv, bei insgesamt begrenzter Evidenz für eine breite Debatte.",
+  "evidence_quality": "mittel; klar namenskundliche Quellen, aber nur begrenzte direkte Evidenz zur öffentlichen Resonanz",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Mustafa",
+  "normalized_name": "mustafa",
+  "overall_resonance": "Der Vorname Mustafa wird in deutschen Namensquellen überwiegend sachlich bis positiv beschrieben. Die öffentliche Wahrnehmung wirkt vor allem namenskundlich geprägt: Herkunft, Bedeutung und kultureller Kontext stehen im Vordergrund, nicht kontroverse Debatten.",
+  "practical_notes": [
+    "Für Suchmaschinen-Nutzer ist die Kurzinfo meist: arabisch, bedeutungsbezogen und in Deutschland bekannt.",
+    "Die Resonanz ist eher informativ als emotional.",
+    "Wenn ein sozialer Kontext mitgemeint ist, sollte das vorsichtig und neutral formuliert werden."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt vor allem aus Namenslexika, nicht aus einer breiten öffentlichen Debatte.",
+    "Es gibt kaum belastbare Hinweise auf starke gesellschaftliche Kontroversen oder klare Trenddebatten.",
+    "Kulturelle oder religiöse Assoziationen sollten nicht als Eigenschaften aller Namensträger verstanden werden."
+  ],
+  "short_summary": "Mustafa wird in Deutschland meist sachlich bis positiv wahrgenommen: ein bekannter, traditionell und religiös-kulturell geprägter Vorname mit der Bedeutung „der Auserwählte“.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Mustafa � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/M/Mu/Mustafa/"
+    },
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Mustafa: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Mustafa.html"
+    }
+  ],
+  "style_effect": [
+    "klingt traditionell",
+    "wirkt klassisch und klar",
+    "stark religiös-kulturell mitgeprägt",
+    "namenskundlich gut einordbar",
+    "eher ernst als verspielt"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland ist der Name bekannt und vergleichsweise geläufig, vor allem durch seine verbreitete Nutzung in mehrsprachigen und muslimisch geprägten Kontexten. Die öffentliche Sichtbarkeit ist daher vorhanden, aber die Evidenz zur breiten gesellschaftlichen Resonanz ist eher indirekt."
+}

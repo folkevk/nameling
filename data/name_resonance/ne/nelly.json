@@ -1,0 +1,63 @@
+{
+  "associations": [
+    "Kurzform von Cornelia",
+    "Kurzform von Petronella",
+    "mögliche Verbindung zu Eleonore",
+    "mögliche Verbindung zu Helena",
+    "weiblicher Vorname",
+    "klassisch",
+    "wiederentdeckt",
+    "eher selten",
+    "Namenstag"
+  ],
+  "confidence": 0.82,
+  "display_text": "Nelly wirkt öffentlich überwiegend freundlich und positiv: ein kurzer, vertrauter Mädchenname mit klassischer Herkunft und moderner, wiederentdeckter Ausstrahlung. In den vorliegenden Quellen erscheint er bekannt, aber eher nicht übermäßig häufig. Die Evidenz ist solide, jedoch vor allem lexikalisch.",
+  "evidence_quality": "mittel: zwei direkte, namenbezogene Webquellen mit klaren Angaben zu Herkunft, Bedeutung und Beliebtheit; insgesamt aber eher lexikalische als breit empirische Evidenz.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Nelly",
+  "normalized_name": "nelly",
+  "overall_resonance": "Nelly wird in der deutschsprachigen Namensöffentlichkeit überwiegend freundlich und leicht positiv wahrgenommen: als vertrauter, weiblicher Vorname mit klassischer Herkunft und zugleich wiederentdeckter, moderner Wirkung. Die verfügbare Evidenz ist überwiegend namenkundlich und eher begrenzt, aber konsistent.",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt Nelly unkompliziert, freundlich und gut merkbar.",
+    "Der Name ist kurz und alltagstauglich, mit klarer Schreibweise und guter Aussprache im Deutschen.",
+    "Je nach Kontext kann Nelly sowohl verspielt als auch klassisch wirken."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die öffentliche Einordnung basiert vor allem auf Namenslexika und Ratgeberseiten, nicht auf breit angelegten Umfragen.",
+    "Aussagen zur Beliebtheit oder Wirkung sind nur als allgemeine Tendenzen zu verstehen, nicht als feste Eigenschaft des Namens.",
+    "Keine belastbare Evidenz für soziale Stigmatisierung in den vorliegenden Quellen."
+  ],
+  "short_summary": "Nelly wird in Deutschland meist als freundlicher, klassischer und zugleich wiederentdeckter Mädchenname wahrgenommen. Die Quellenlage ist ordentlich, aber eher lexikalisch als umfangreich empirisch.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Nelly � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/N/Ne/Nelly/"
+    },
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Nelly: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Nelly.html"
+    }
+  ],
+  "style_effect": [
+    "kurz und eingängig",
+    "sanft und freundlich",
+    "klassisch mit moderner Note",
+    "eher vertraut als streng formell",
+    "leicht nostalgisch bzw. wiederentdeckt"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Der Name ist in Deutschland bekannt und präsent, wirkt aber nicht übermäßig häufig. Er erscheint in Namenslexika und Beliebtheitsübersichten als geläufig genug für Wiedererkennung, zugleich eher nicht als sehr massenhaft."
+}

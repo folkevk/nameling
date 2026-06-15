@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "Kurzform von Katharina",
+    "altgriechische Herkunft",
+    "Bedeutung: „die Reine“ / „die Unschuldige“ bzw. „die Aufrichtige“",
+    "in Deutschland bekannt und verbreitet",
+    "besonders in den 1970er/1980er Jahren populärer",
+    "heute eher weniger im Trend",
+    "häufige Variante: Katrin"
+  ],
+  "confidence": 0.84,
+  "display_text": "Kathrin wirkt in den verfügbaren Quellen klassisch, deutsch geprägt und eher positiv-neutral. Der Name wird vor allem mit der Bedeutung „die Reine“ verbunden und gilt als bekannt, traditionell und unaufgeregt. Die Evidenz ist jedoch überwiegend lexikalisch und zeigt nur wenig echte öffentliche Diskussion.",
+  "evidence_quality": "mittel bis schwach: überwiegend Lexikon- und Namensseiten, kaum freie öffentliche Diskussion",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Kathrin",
+  "normalized_name": "kathrin",
+  "overall_resonance": "Die öffentliche Resonanz zu „Kathrin“ wirkt insgesamt eher positiv bis neutral: ein klassisch deutscher Vorname mit klarer Herkunft, bekannter Bedeutung und solider, eher unaufgeregter Wahrnehmung. In den vorliegenden Quellen steht weniger persönliche Diskussion als vielmehr namenskundliche Information im Vordergrund.",
+  "practical_notes": [
+    "Für die Namenssuche vermittelt „Kathrin“ einen vertrauten, seriösen und etablierten Eindruck.",
+    "Die Schreibweise wirkt etwas klassischer als modernere Kurzformen.",
+    "Wenn Aktualität oder Trendigkeit wichtig sind, wird der Name eher als traditionsbewusst als als angesagt wahrgenommen."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz besteht fast nur aus Namenslexika und Serviceseiten; echte öffentliche Diskussion ist nur schwach abgebildet.",
+    "Die Einschätzung „eher positiv“ ist deshalb vorsichtig zu verstehen und eher eine Tendenz als ein breiter Konsens.",
+    "Keine Hinweise auf soziale Stigmatisierung in den vorliegenden Quellen."
+  ],
+  "short_summary": "Kathrin wird überwiegend klassisch, freundlich und unaufgeregt wahrgenommen, mit klarer deutscher Verankerung und eher zeitloser als moderner Wirkung.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Kathrin � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/K/Ka/Kathrin/"
+    },
+    {
+      "confidence": 0.89,
+      "is_name_discussion": true,
+      "sentiment": "eher positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Kathrin: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Kathrin.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "traditionell",
+    "deutsch geprägt",
+    "informativ",
+    "zeitlos, aber heute weniger modisch als in früheren Jahrzehnten"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "mittel"
+}

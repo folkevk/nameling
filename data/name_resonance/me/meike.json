@@ -1,0 +1,68 @@
+{
+  "associations": [
+    "weiblicher Vorname",
+    "nordfriesische bzw. niederdeutsch-friesische Koseform von Maria",
+    "mögliche Bezüge zu Mirjam",
+    "Bedeutungen wie „die Geliebte“ oder „Gottesgeschenk“",
+    "Namenstag",
+    "Beliebtheit in Deutschland"
+  ],
+  "confidence": 0.83,
+  "display_text": "Meike wirkt überwiegend freundlich, traditionell und alltagsnah. Der Name wird vor allem als norddeutsch-friesische Form von Maria beschrieben und ist im deutschen Raum bekannt, ohne stark auffällig zu sein. Die verfügbare Evidenz ist jedoch eher lexikalisch als meinungsbasiert, daher ist die öffentliche Rezeption nur vorsichtig ableitbar.",
+  "evidence_quality": "mittel bis schwach für öffentliche Rezeption, stark für Namensbeschreibung",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Meike",
+  "normalized_name": "meike",
+  "overall_resonance": "Der Vorname Meike wirkt in der vorliegenden Evidenz überwiegend sachlich, vertraut und eher positiv konnotiert. Er wird vor allem als norddeutsch-friesisch geprägter Mädchenname mit klassischer Herkunft beschrieben.",
+  "practical_notes": [
+    "Für eine Namenssuche eignet sich Meike als kurzer, gut verständlicher und regional etwas geprägter Vorname.",
+    "Die Wirkung ist eher bodenständig als extravagant.",
+    "Wer einen seltenen, aber nicht ungewöhnlichen Namen sucht, findet hier eine passende Option."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt überwiegend aus Namensdatenbanken und ist daher eher beschreibend als ein direkter Beleg für öffentliche Meinung.",
+    "Mehrdeutige etymologische Deutungen sind in den Quellen vorhanden und sollten nicht als gesichert verstanden werden.",
+    "Leichte Positivität in einzelnen Texten ist nicht gleichzusetzen mit breiter gesellschaftlicher Zustimmung."
+  ],
+  "short_summary": "Meike wird überwiegend als freundlicher, traditionell-norddeutscher Mädchenname mit sachlich positiver Grundwirkung beschrieben; die öffentliche Resonanz ist aber nur indirekt belegt.",
+  "source_count": 3,
+  "sources": [
+    {
+      "confidence": 0.95,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Meike � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/M/Me/Meike/"
+    },
+    {
+      "confidence": 0.99,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Meike � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/M/Me/Meike/"
+    },
+    {
+      "confidence": 0.89,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Meike: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Meike.html"
+    }
+  ],
+  "style_effect": [
+    "kurz und klar",
+    "traditionell/norddeutsch",
+    "freundlich und alltagsnah",
+    "leicht klassisch-nostalgisch",
+    "informativ statt auffällig"
+  ],
+  "usable_evidence_count": 3,
+  "visibility": "Im deutschen Raum bekannt, besonders in norddeutschen bzw. friesischen Zusammenhängen; die allgemeine öffentliche Resonanz ist jedoch nur indirekt belegt, da die Quellen vor allem Namenslexika sind."
+}

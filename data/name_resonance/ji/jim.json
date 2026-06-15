@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "Kurzform von James",
+    "Variante bzw. Bezug zu Jakob",
+    "englischer Sprachraum",
+    "international verständlich",
+    "in Deutschland eher selten",
+    "bekannt aus \"Jim Knopf\"",
+    "klassischer männlicher Vorname"
+  ],
+  "confidence": 0.78,
+  "display_text": "Jim wird in der öffentlichen Wahrnehmung meist als kurzer, internationaler und in Deutschland eher seltener Jungenname beschrieben. Die Resonanz ist überwiegend sachlich-neutral mit leicht positiver Tendenz, vor allem wegen der einfachen Form und der bekannten Herkunftsbezüge.",
+  "evidence_quality": "mittel bis schwach; zwei überwiegend informative Quellen, teils redaktionell und teils mit begrenzter repräsentativer Aussagekraft",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Jim",
+  "normalized_name": "jim",
+  "overall_resonance": "Überwiegend sachlich-neutral bis leicht positiv. Der Name wird in den Quellen vor allem als kurze, internationale und im Deutschen eher seltene Form wahrgenommen.",
+  "practical_notes": [
+    "Für eine Namenssuche in Deutschland wirkt Jim unkompliziert, kurz und gut merkbar.",
+    "Die internationale Lesbarkeit ist ein Pluspunkt, die Seltenheit kann aber auch als auffällig empfunden werden.",
+    "Die Quellenlage spricht eher für eine nüchterne bis freundliche Wahrnehmung als für starke emotionale Assoziationen."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist insgesamt eher redaktionell und nur begrenzt repräsentativ für die öffentliche Meinung.",
+    "Ein Teil der positiven Eindrücke stammt aus lexikalischen Beschreibungen und Nutzerkommentaren, daher nur vorsichtig gewichten."
+  ],
+  "short_summary": "Jim wirkt in Deutschland eher selten, kurz und international; die öffentliche Rezeption ist sachlich-neutral bis leicht positiv.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Jim � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/J/Ji/Jim/"
+    },
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "eher positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Jim: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Jim.html"
+    }
+  ],
+  "style_effect": [
+    "kurz und prägnant",
+    "international/englisch geprägt",
+    "klassisch-männlich",
+    "modern, aber nicht modisch stark gebunden",
+    "leicht markant durch die Kürze"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Eher niedrig bis mittel: In Deutschland ist Jim bekannt, aber nicht sehr verbreitet."
+}

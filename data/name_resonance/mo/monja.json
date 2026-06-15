@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "weiblicher Vorname",
+    "russische Koseform bzw. mögliche Herkunftsbezüge zu Marija/Maria/Mirjam",
+    "althebräische Deutungen",
+    "Bedeutungen wie „die Ungezähmte“ oder „die Geliebte“",
+    "selten in Deutschland",
+    "Namensvariante",
+    "Namenstag"
+  ],
+  "confidence": 0.79,
+  "display_text": "Monja wirkt in Deutschland eher selten und insgesamt neutral bis leicht positiv. Die verfügbaren Quellen beschreiben den Namen vor allem sachlich-namenskundlich, mit möglichen Bezügen zu Maria/Mirjam und Bedeutungen wie „die Ungezähmte“ oder „die Geliebte“. Eine breitere öffentliche Resonanz ist nur begrenzt belegt; außerdem kann die Gleichung mit dem spanischen Wort „monja“ (Nonne) zu Mehrdeutigkeiten führen.",
+  "evidence_quality": "Begrenzt bis mittel: zwei namenskundliche Webquellen, überwiegend sachlich-informativ, aber nur wenig direkte Evidenz zur breiteren öffentlichen Wahrnehmung.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Monja",
+  "normalized_name": "monja",
+  "overall_resonance": "Eher neutral bis leicht positiv, mit klar begrenzter öffentlicher Sichtbarkeit in Deutschland.",
+  "practical_notes": [
+    "Für Suchende ist Monja ein eher seltener, klar weiblich gelesener Vorname.",
+    "Der Name kann durch seine Kürze und Klangform als markant wahrgenommen werden.",
+    "Bei internationalem Kontext sollte die mögliche Verwechslung mit dem spanischen Wort beachtet werden."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz zur öffentlichen Resonanz ist schwach und stammt überwiegend aus Lexikonseiten.",
+    "Die Wortgleichheit mit dem spanischen Wort „monja“ (Nonne) kann zu Mehrdeutigkeiten führen.",
+    "Etwaige Bedeutungsangaben sind nicht einheitlich und sollten vorsichtig gelesen werden."
+  ],
+  "short_summary": "Monja wird in den verfügbaren Quellen überwiegend sachlich und leicht positiv beschrieben, bleibt in Deutschland aber eher selten und öffentlich wenig verbreitet. Die Resonanz ist daher eher neutral bis freundlich, bei begrenzter Evidenz.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Monja � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/M/Mo/Monja/"
+    },
+    {
+      "confidence": 0.91,
+      "is_name_discussion": true,
+      "sentiment": "mostly positive",
+      "source_type": "web",
+      "title": "&#9655; Vorname Monja: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Monja.html"
+    }
+  ],
+  "style_effect": [
+    "klingt kurz, weich und ungewöhnlich",
+    "wirkt namenskundlich interessant",
+    "durch die Seltenheit eher eigenständig als alltäglich",
+    "kann je nach Kontext als modern oder altbekannt gelesen werden"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Der Vorname wirkt eher selten und damit im öffentlichen Gebrauch nicht sehr breit verankert. Die vorhandenen Quellen sind vor allem Namenslexika; belastbare Hinweise auf eine starke allgemeine Außenwahrnehmung sind daher nur eingeschränkt vorhanden."
+}

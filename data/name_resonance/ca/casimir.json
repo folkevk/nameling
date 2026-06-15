@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "Friedensstifter oder Friedensverkünder",
+    "altslawische bzw. altpolnische Herkunft",
+    "seltener Jungenname",
+    "Namenstag am 4. März",
+    "Kurzformen wie Casi oder Casim"
+  ],
+  "confidence": 0.78,
+  "display_text": "Casimir gilt in Deutschland als seltener, traditionsreicher und eher positiv wahrgenommener Jungenname. Die vorhandenen Quellen beschreiben ihn vor allem sachlich und leicht wohlwollend, die Evidenz ist aber schmal.",
+  "evidence_quality": "mittel bis schwach; wenige Quellen, überwiegend lexikalisch-informativ, kaum unabhängige öffentliche Resonanz",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Casimir",
+  "normalized_name": "casimir",
+  "overall_resonance": "Casimir wirkt in der öffentlichen Namenswahrnehmung eher traditionsreich, ruhig und leicht distinguiert. In den vorliegenden Quellen wird der Name vor allem sachlich-positiv beschrieben, allerdings auf schmaler Evidenzbasis.",
+  "practical_notes": [
+    "Der Name fällt in Deutschland eher auf und kann als markant wahrgenommen werden.",
+    "Für Suchmaschinen und Namensportale erscheint Casimir eher positiv-neutral als kontrovers.",
+    "Wer einen seltenen, historischen Klang sucht, findet hier eine passende Option."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist dünn und stammt überwiegend aus Namenslexika statt aus breiter öffentlicher Debatte.",
+    "Bedeutungsangaben variieren je nach Quelle; teils werden unterschiedliche etymologische Deutungen genannt.",
+    "Aus der Seltenheit des Namens lässt sich keine gesellschaftliche Bewertung ableiten."
+  ],
+  "short_summary": "Casimir wird in den verfügbaren Quellen überwiegend als seltener, traditionsreicher und eher positiv konnotierter Name beschrieben. Die öffentliche Resonanz ist jedoch nur schwach belegt.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Casimir � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/C/Ca/Casimir/"
+    },
+    {
+      "confidence": 0.88,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Casimir: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Casimir.html"
+    }
+  ],
+  "style_effect": [
+    "traditionell",
+    "klassisch-altslawisch",
+    "bildungsnah",
+    "eher ungewöhnlich",
+    "leicht vornehm",
+    "klingt historisch"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland eher selten und wenig verbreitet. Dadurch wirkt der Name eher auffällig als alltäglich, ohne dass sich daraus eine klar negative oder positive Massenwahrnehmung ableiten lässt."
+}

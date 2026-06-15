@@ -1,0 +1,68 @@
+{
+  "associations": [
+    "türkische Form bzw. türkisch geprägte Namensform",
+    "arabische Herkunftsbezüge",
+    "Bedeutung: Engel",
+    "Bedeutung: Bote/Botin",
+    "Unisex-Nutzung",
+    "in Deutschland als Name bekannt und teils relativ beliebt"
+  ],
+  "confidence": 0.84,
+  "display_text": "Melek wirkt in der vorliegenden Evidenz überwiegend neutral bis leicht positiv. Der Name wird vor allem mit der Bedeutung „Engel“ und mit türkisch/arabischen Herkunftsbezügen verbunden. Die öffentliche Resonanz erscheint eher lexikalisch als kontrovers; belastbare Hinweise auf Stigmatisierung oder starke Negativwahrnehmung sind nicht erkennbar. Die Aussagekraft ist jedoch begrenzt, da die Evidenz fast nur aus Namensportalen stammt.",
+  "evidence_quality": "Mittel bis begrenzt: mehrere einschlägige Namensseiten, aber wenig echte öffentliche Diskurs- oder Meinungsvielfalt.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Melek",
+  "normalized_name": "melek",
+  "overall_resonance": "Überwiegend neutral bis leicht positiv. In den vorliegenden Quellen wird Melek vor allem als Namenslexikon-Eintrag mit einer positiv konnotierten Bedeutung („Engel“, teils auch „Bote/Botin“) beschrieben. Eine breitere öffentliche Debatte ist in der Evidenz kaum sichtbar.",
+  "practical_notes": [
+    "Für eine Namenssuche ist Melek ein klarer, kurzer und gut merkbarer Name mit positiver Bedeutung.",
+    "Die Wahrnehmung dürfte stark von der Herkunfts- und Bedeutungsassoziation geprägt sein.",
+    "Wenn du eine klare gesellschaftliche Trendbewertung suchst, ist die Datenlage hier eher dünn."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz basiert fast ausschließlich auf Namenslexikon-Quellen; öffentliche Alltagsresonanz ist nur begrenzt belegbar.",
+    "Keine belastbaren Hinweise auf negative Stigmatisierung in der vorliegenden Evidenz.",
+    "Einige Angaben mischen Namensbeschreibung mit Personen- oder Kommentarbezügen; diese sind für die öffentliche Resonanz nur eingeschränkt aussagekräftig."
+  ],
+  "short_summary": "Melek wird in den Quellen vor allem sachlich erklärt und meist positiv über die Bedeutung „Engel“ wahrgenommen; eine breitere öffentliche Debatte ist kaum sichtbar.",
+  "source_count": 3,
+  "sources": [
+    {
+      "confidence": 0.92,
+      "is_name_discussion": true,
+      "sentiment": "positive",
+      "source_type": "web",
+      "title": "Vorname Melek � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/M/Me/Melek/"
+    },
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "Vorname Melek � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/M/Me/Melek/"
+    },
+    {
+      "confidence": 0.84,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Melek: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Melek.html"
+    }
+  ],
+  "style_effect": [
+    "klanglich weich und kurz",
+    "stark bedeutungsbezogen",
+    "international bzw. mehrsprachig anschlussfähig",
+    "modern-informativ wirkend",
+    "durch die Engels-Bedeutung positiv besetzt"
+  ],
+  "usable_evidence_count": 3,
+  "visibility": "Mittel: Der Name ist in Namensportalen klar präsent, aber die öffentliche Resonanz wirkt eher lexikalisch als diskursiv; belastbare Hinweise auf eine größere Meinungsdebatte sind schwach."
+}

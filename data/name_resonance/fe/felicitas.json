@@ -1,0 +1,62 @@
+{
+  "associations": [
+    "lateinischer Ursprung",
+    "die Glückliche / die Glückselige",
+    "Wunschname",
+    "römische Mythologie",
+    "Göttin des Glücks",
+    "christliche Heilige",
+    "Namenstag",
+    "selten, aber bekannt"
+  ],
+  "confidence": 0.95,
+  "display_text": "Felicitas wirkt in Deutschland überwiegend positiv und klassisch: ein traditionsreicher, eher seltener Name mit der starken Bedeutung „die Glückliche / die Glückselige“. Vereinzelt wird die Aussprache als etwas hart beschrieben, insgesamt überwiegt aber eine wertschätzende, elegante Resonanz.",
+  "evidence_quality": "hoch: zwei klar namenskundliche, überwiegend übereinstimmende Webquellen mit direkter Aussage zu Herkunft, Bedeutung, Namenstag und Wahrnehmung in Deutschland.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Felicitas",
+  "normalized_name": "felicitas",
+  "overall_resonance": "Überwiegend positiv und traditionsnah; der Name wird in Deutschland vor allem mit Glück, Glückseligkeit und einer klassischen, lateinischen Herkunft verbunden. Die öffentliche Wahrnehmung wirkt eher wertschätzend als neutral, mit einem leichten Hinweis auf gelegentlich als etwas hart empfundene Aussprache.",
+  "practical_notes": [
+    "Gut geeignet, wenn ein klassischer und bedeutungsvoller Name mit positiver Symbolik gesucht wird.",
+    "Die Schreibweise wirkt klar und etabliert.",
+    "Durch die Seltenheit kann der Name eigenständig und markant wirken."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Quellen deuten vereinzelt darauf hin, dass die Aussprache im Deutschen als etwas hart empfunden werden kann; das ist jedoch eher ein Stil- als ein Qualitätsproblem.",
+    "Keine belastbaren Hinweise auf soziale Stigmatisierung in der vorliegenden Evidenz."
+  ],
+  "short_summary": "Felicitas wird öffentlich überwiegend positiv wahrgenommen: klassisch, selten und stark mit Glück und Glückseligkeit verbunden.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.99,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Felicitas � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/F/Fe/Felicitas/"
+    },
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Felicitas: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Felicitas.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "elegant",
+    "traditionsreich",
+    "gebildet/namenslexikalisch",
+    "positiv konnotiert",
+    "leicht feierlich"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland bekannt, aber eher selten bis moderat verbreitet; dadurch auffällig, ohne massenhaft gebräuchlich zu sein."
+}

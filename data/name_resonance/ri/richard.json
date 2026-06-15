@@ -1,0 +1,62 @@
+{
+  "associations": [
+    "althochdeutsche Herkunft",
+    "Bedeutung im Sinn von Stärke und Macht",
+    "klassischer Jungenname",
+    "historische Nutzung",
+    "Namenstag",
+    "Spitznamen wie Richi oder Rick",
+    "in Deutschland bekannt"
+  ],
+  "confidence": 0.96,
+  "display_text": "Richard wirkt in der öffentlichen Wahrnehmung klassisch, traditionsreich und würdevoll. Der Name wird mit Stärke, Macht und historischer Herkunft verbunden und ist in Deutschland gut bekannt, eher zeitlos als trendig.",
+  "evidence_quality": "stark; zwei direkte, namenskundliche Quellen mit konsistenter Bedeutung und Einordnung",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Richard",
+  "normalized_name": "richard",
+  "overall_resonance": "Richard wird in der öffentlichen Namenswahrnehmung überwiegend als klassischer, traditionsreicher und eher würdevoller Jungenname gesehen. Die Resonanz ist sachlich-positiv, mit stark historisch geprägten Bedeutungen wie „starker Herrscher“ oder „der Mächtige“.",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt Richard solide und gut etabliert.",
+    "Die öffentliche Wahrnehmung ist eher traditionell als verspielt oder modern.",
+    "Kurzformen und Varianten können die Nutzung im Alltag lockern."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die zugeschriebenen Eigenschaften sind Namensassoziationen, keine Aussagen über Personen mit diesem Namen.",
+    "Es gibt keine Hinweise auf eine soziale Stigmatisierung in der vorliegenden Evidenz."
+  ],
+  "short_summary": "Richard gilt in Deutschland als klassischer, traditionsreicher Jungenname mit starker, historischer Bedeutung und eher sachlich-positiver Resonanz.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Richard � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/R/Ri/Richard/"
+    },
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Richard: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Richard.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "traditionsreich",
+    "würdevoll",
+    "historisch",
+    "stark",
+    "seriös",
+    "eher zeitlos als modisch"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland bekannt und gut einordenbar, aber nicht als moderner Trendname im Vordergrund. Eher ein vertrauter, klassischer Name mit beständiger Präsenz."
+}

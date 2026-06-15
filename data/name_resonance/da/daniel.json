@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "hebräisch-aramäische Herkunft",
+    "biblischer Vorname",
+    "Bedeutung in Richtung „Gott ist mein Richter“ / „Gott richtet“",
+    "lange Tradition im deutschen Sprachraum",
+    "ein Name mit anhaltender Bekanntheit",
+    "sachlich und unkompliziert wahrgenommen"
+  ],
+  "confidence": 0.96,
+  "display_text": "Daniel: klassisch, biblisch geprägt und in Deutschland seit Langem gut bekannt. Die öffentliche Resonanz wirkt überwiegend neutral bis positiv, mit einem zeitlosen und vertrauten Eindruck.",
+  "evidence_quality": "hoch: beide Quellen diskutieren ausdrücklich den Vornamen, seine Herkunft, Bedeutung und Beliebtheit in Deutschland.",
+  "generated_at": "2026-06-12T06:08:03Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Daniel",
+  "normalized_name": "daniel",
+  "overall_resonance": "Der Vorname Daniel wirkt im deutschsprachigen Raum sehr vertraut, klassisch und dauerhaft etabliert. Die öffentliche Wahrnehmung ist überwiegend positiv bis neutral geprägt, mit einem sachlichen, zeitlosen Namensprofil.",
+  "practical_notes": [
+    "Daniel ist ein sehr etablierter Name mit klarer, leicht verständlicher Schreibweise.",
+    "Der Name funktioniert im deutschen Alltag gut und ist auch international meist problemlos erkennbar.",
+    "Die Wirkung ist eher klassisch als modisch, eher vertraut als auffällig."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Es gibt in den vorliegenden Quellen keine Hinweise auf eine negative soziale Stigmatisierung des Namens.",
+    "Beliebtheit kann je nach Generation unterschiedlich wahrgenommen werden; das ist eher ein Zeittrend als ein Qualitätsurteil."
+  ],
+  "short_summary": "Daniel ist in Deutschland ein klassischer, biblisch geprägter und sehr bekannter Vorname mit überwiegend neutraler bis positiver öffentlicher Resonanz.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Daniel � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/D/Da/Daniel/"
+    },
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Daniel: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Daniel.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "biblisch",
+    "zeitlos",
+    "seriös",
+    "vertraut",
+    "eher international anschlussfähig"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland ist Daniel gut bekannt und langfristig regelmäßig vergeben; die öffentliche Sichtbarkeit ist entsprechend hoch."
+}

@@ -1,0 +1,59 @@
+{
+  "associations": [
+    "niederdeutsche bzw. nordische Form von Friedrich",
+    "Bedeutung: der Friedensreiche / friedlicher Herrscher",
+    "deutschsprachiger Jungenvorname",
+    "Namenstag am 18. Juli, teils auch 19. April",
+    "als vertraut, aber nicht übertrieben modern oder modisch beschrieben"
+  ],
+  "confidence": 0.94,
+  "display_text": "Frederik wird in Deutschland meist als klassischer, zeitloser Jungenname wahrgenommen. Die Bedeutung wird häufig mit „der Friedensreiche“ bzw. „friedlicher Herrscher“ verbunden. Die öffentliche Rezeption wirkt überwiegend sachlich-positiv, ohne auffällige negative Konnotationen; der Name ist bekannt, aber eher moderat verbreitet.",
+  "evidence_quality": "hoch; zwei klare Namenslexikon-Quellen mit konsistenter, überwiegend sachlich-positiver Beschreibung",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Frederik",
+  "normalized_name": "frederik",
+  "overall_resonance": "Frederik wird im deutschsprachigen Raum überwiegend als klassischer, sachlich-zeitloser Jungenname wahrgenommen, mit eher freundlicher und unaufgeregter Ausstrahlung.",
+  "practical_notes": [
+    "Für Suchmaschinen und Namensratgeber ist Frederik leicht erklärbar und kulturell gut verankert.",
+    "Die Schreibweise wirkt etwas formeller bzw. klassischer als die Variante Friedrich.",
+    "Spitznamen und Kurzformen sind gebräuchlich, was den Namen alltagsnah macht."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Wahrnehmung basiert vor allem auf Namenslexika und Datenbankeinträgen, nicht auf breiter sozialer Diskussionslage.",
+    "Keine Hinweise auf negative oder stigmatisierende öffentliche Konnotationen in der vorliegenden Evidenz."
+  ],
+  "short_summary": "Frederik gilt in Deutschland als klassischer, zeitloser Jungenname mit friedlicher Bedeutungsassoziation und eher moderater Bekanntheit.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Frederik � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/F/Fr/Frederik/"
+    },
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Frederik: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Frederik.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "zeitlos",
+    "freundlich",
+    "sachlich",
+    "eher nordisch geprägt",
+    "lexikalisch gut erklärbar"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland bekannt, aber nicht extrem häufig; die öffentliche Wahrnehmung wirkt eher moderat und namenskundlich klar einordenbar."
+}

@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "altfranzösisch/provenzalische und teils weiter hergeleitete Herkunftsdeutungen",
+    "Bedeutungen wie 'die andere Aenor', 'die Barmherzige' oder 'Gott ist mein Licht'",
+    "mittelalterlich/adlig wirkende Assoziation",
+    "Namenstag",
+    "selten bis nicht sehr häufig in Deutschland",
+    "Varianten und Spitznamen"
+  ],
+  "confidence": 0.78,
+  "display_text": "Eleonora wirkt in der öffentlichen Namenswahrnehmung überwiegend klassisch, elegant und informativ besetzt. In den Quellen dominiert eine positive bis neutrale Resonanz mit Herkunfts-, Bedeutungs- und Namenstagsbezügen. Einzelne Stimmen empfinden den Klang als etwas lang oder sperrig, doch eine breite kritische Debatte ist nicht erkennbar. Die Evidenz ist begrenzt und stützt sich vor allem auf Namenslexika und wenige Kommentarbeiträge.",
+  "evidence_quality": "mittel bis schwach: zwei webbasierte Namensquellen, überwiegend lexikalisch-informativ, mit begrenzter öffentlicher Debatte und einzelnen Nutzerkommentaren.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Eleonora",
+  "normalized_name": "eleonora",
+  "overall_resonance": "Überwiegend positiv bis neutral-informativ, mit einzelnen gemischten bis kritischen Klangurteilen. Die öffentliche Wahrnehmung wirkt vor allem namenkundlich und beschreibend, nicht stark polarisiert.",
+  "practical_notes": [
+    "Für Suchmaschinen-Nutzer wirkt der Name meist vertraut, hochwertig und klassisch.",
+    "Je nach Person und Umfeld kann die Länge des Namens als etwas formell oder ausladend wahrgenommen werden.",
+    "In Deutschland scheint Eleonora eher selten zu sein, was den Namen markant, aber nicht alltagsdominant macht."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz basiert im Wesentlichen auf zwei Namensseiten; das ist keine breite öffentliche Meinungsbasis.",
+    "Ein Teil der negativen Klangurteile stammt aus Kommentarbereichen und sollte nicht als allgemeine Mehrheitsmeinung gelesen werden.",
+    "Definitionen und Deutungen sind teils unterschiedlich und nicht immer einheitlich."
+  ],
+  "short_summary": "Eleonora wird in den verfügbaren Quellen überwiegend positiv und klassisch wahrgenommen, mit starker Fokusierung auf Herkunft, Bedeutung und Namenstag. Die Resonanz ist eher ruhig und informativ, bei einzelnen gemischten Einschätzungen zum Klang.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "Vorname Eleonora � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/E/El/Eleonora/"
+    },
+    {
+      "confidence": 0.9,
+      "is_name_discussion": true,
+      "sentiment": "mixed",
+      "source_type": "web",
+      "title": "&#9655; Vorname Eleonora: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Eleonora.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "elegant",
+    "traditionsbewusst",
+    "wohlklingend für viele",
+    "teils als etwas lang oder sperrig empfunden"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Eher gering bis mittel: Der Name wird in Namenslexika und Vornamensseiten behandelt, aber die Evidenz zeigt keine breite öffentliche Debatte."
+}

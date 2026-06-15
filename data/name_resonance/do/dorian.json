@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "griechische Herkunft",
+    "mögliche Bedeutung: der Dorer / Geschenk",
+    "eher männlich, teils unisex wahrgenommen",
+    "Namenstag am 19. September",
+    "in Deutschland bekannt, aber nicht sehr häufig",
+    "literarische Assoziation: Dorian Gray"
+  ],
+  "confidence": 0.83,
+  "display_text": "Dorian wirkt in Deutschland bekannt, aber nicht allzu häufig. Die vorliegenden Quellen zeichnen ein überwiegend leicht positives, informatives Bild: griechische Herkunft, klare Namensbedeutung, Namenstag und eine markante literarische Assoziation. Eine breite öffentliche Debatte ist in der Evidenz nicht erkennbar.",
+  "evidence_quality": "mittel bis gering: zwei relevante, aber im Wesentlichen lexikalische Webquellen; öffentliche Resonanz nur indirekt erfasst",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Dorian",
+  "normalized_name": "dorian",
+  "overall_resonance": "Überwiegend leicht positiv bis neutral-informativ. Der Name wirkt in den vorliegenden Quellen bekannt, freundlich und nicht stark polarisiert, ohne dass sich daraus eine breite öffentliche Debatte ableiten lässt.",
+  "practical_notes": [
+    "Gut geeignet, wenn ein Name gesucht wird, der vertraut klingt, aber nicht alltäglich ist.",
+    "Wirkt eher stilvoll und international als streng traditionell.",
+    "Die Aussprache und Schreibweise sind im deutschsprachigen Raum meist unkompliziert."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt fast ausschließlich aus Namenslexika und ist daher nur bedingt ein Maß für echte öffentliche Resonanz.",
+    "Die literarische Assoziation kann den Namen für manche attraktiver, für andere leicht ambivalent wirken lassen.",
+    "Keine belastbaren Hinweise auf starke soziale Stigmatisierung oder negative kollektive Zuschreibungen in der vorliegenden Evidenz."
+  ],
+  "short_summary": "Dorian wird in den Quellen als bekannter, eher seltener und überwiegend positiv bzw. neutral wahrgenommener Vorname beschrieben.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "Vorname Dorian � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/D/Do/Dorian/"
+    },
+    {
+      "confidence": 0.91,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Dorian: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Dorian.html"
+    }
+  ],
+  "style_effect": [
+    "lexikalisch und klar",
+    "modern, aber nicht trenddominant",
+    "leicht elegant und international anschlussfähig",
+    "eher sanft als hart",
+    "durch die literarische Assoziation Dorian Gray auch etwas markanter"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Mittlere Sichtbarkeit in Deutschland: bekannt, aber eher nicht sehr häufig. Die öffentliche Wahrnehmung scheint vor allem über Namenslexika und Herkunftsseiten vermittelt zu werden."
+}

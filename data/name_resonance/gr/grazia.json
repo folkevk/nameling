@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "lateinische Herkunft",
+    "italienische Form",
+    "Anmut",
+    "Gnade",
+    "Namenstag",
+    "selten/ungewöhnlich",
+    "regional unterschiedlich bekannt"
+  ],
+  "confidence": 0.84,
+  "display_text": "Grazia wirkt in Deutschland eher selten, elegant und mediterran. Die öffentliche Resonanz ist überwiegend neutral bis freundlich, mit gelegentlichen Hinweisen darauf, dass der Name ungewohnt oder erklärungsbedürftig sein kann.",
+  "evidence_quality": "Gut für eine vorsichtige Namensbeschreibung, aber begrenzt in Breite und Tiefe; die vorliegende Evidenz ist vor allem lexikalisch und nicht von einer großen öffentlichen Debatte getragen.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Grazia",
+  "normalized_name": "grazia",
+  "overall_resonance": "Grazia wird in Deutschland vor allem als seltener, elegant klingender Vorname mit italienisch-lateinischer Prägung wahrgenommen. Die öffentliche Resonanz wirkt überwiegend neutral bis freundlich-informativ; vereinzelt wird der Name als ungewohnt oder schwer einzuordnen beschrieben.",
+  "practical_notes": [
+    "Für viele wirkt Grazia klanglich feminin, edel und eher international.",
+    "Die Seltenheit kann als Besonderheit wahrgenommen werden, kann aber auch zu Nachfragen führen.",
+    "In Deutschland ist der Name eher erklärungsbedürftig als massenhaft vertraut."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist begrenzt und stammt überwiegend aus Namensdatenbanken statt aus breiter öffentlicher Debatte.",
+    "Einzelne Kommentare erwähnen mögliche Schreib- oder Merkhürden; das sind subjektive Einschätzungen, keine allgemeine Bewertung.",
+    "Keine belastbaren Hinweise auf soziale Stigmatisierung oder einen negativen Namensdiskurs in der vorliegenden Evidenz."
+  ],
+  "short_summary": "Grazia wird in Deutschland meist als seltener, elegant-mediterran klingender Mädchenname mit positiver, überwiegend neutraler Resonanz beschrieben.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Grazia � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/G/Gr/Grazia/"
+    },
+    {
+      "confidence": 0.92,
+      "is_name_discussion": true,
+      "sentiment": "mixed",
+      "source_type": "web",
+      "title": "&#9655; Vorname Grazia: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Grazia.html"
+    }
+  ],
+  "style_effect": [
+    "elegant",
+    "klassisch-mediterran",
+    "weich im Klang",
+    "selten und auffällig",
+    "namenskundlich klar zuordenbar"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Eher gering bis mittel: Der Name ist bekannt, aber nicht breit verbreitet und taucht vor allem in Namenslexika und Beschreibungen auf, nicht in großer öffentlicher Diskussion."
+}

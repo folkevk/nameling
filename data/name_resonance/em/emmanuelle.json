@@ -1,0 +1,62 @@
+{
+  "associations": [
+    "französische Form von Emmanuel/Immanuel",
+    "Bedeutung: Gott ist mit uns / Gott sei mit uns",
+    "althebräische Herkunft",
+    "weiblicher Vorname",
+    "Namenstag",
+    "Kurzformen wie Manuela, Emma, Manu"
+  ],
+  "confidence": 0.79,
+  "display_text": "Emmanuelle wirkt in Deutschland eher elegant, französisch und selten. Die öffentliche Resonanz ist überwiegend neutral bis leicht positiv und vor allem namenskundlich geprägt: bekannt über Herkunft, Bedeutung und Namenstag, aber nicht stark medial oder sozial aufgeladen.",
+  "evidence_quality": "mittel bis schwach; vor allem lexikalische Namensseiten, kaum direkte öffentliche Diskurse.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Emmanuelle",
+  "normalized_name": "emmanuelle",
+  "overall_resonance": "Emmanuelle wirkt im deutschen Kontext überwiegend sachlich-lexikalisch und eher elegant-französisch geprägt. Die öffentliche Wahrnehmung ist laut vorliegender Evidenz nicht stark emotional, sondern vor allem über Herkunft, Bedeutung und Namensform bestimmt; eine breite oder stark auffällige Resonanz ist nicht erkennbar.",
+  "practical_notes": [
+    "Der Name wird eher als international-französische Variante wahrgenommen.",
+    "Für die Alltagssprache sind Kurzformen wie Emma oder Manu plausibel, sofern gewünscht.",
+    "Die Schreibweise kann als formell und etwas lang empfunden werden; das ist eher ein Stilmerkmal als ein Nachteil.",
+    "In Deutschland dürfte der Name eher auffallen als ein sehr häufiger Standardname, ohne klar negativ oder positiv besetzt zu sein."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenzlage ist schmal und stützt sich im Wesentlichen auf zwei Namenslexika.",
+    "Öffentliche Resonanz im engeren Sinn ist nur indirekt über Beschreibungen und Beliebtheitshinweise ableitbar.",
+    "Einzelne Nutzerkommentare sind nur eingeschränkt belastbar und sollten nicht überbewertet werden."
+  ],
+  "short_summary": "Emmanuelle wird in Deutschland eher als elegante, französische und seltenere Namensform wahrgenommen. Die Resonanz ist sachlich-neutral bis leicht positiv, mit Fokus auf Herkunft und Bedeutung.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Emmanuelle � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/E/Em/Emmanuelle/"
+    },
+    {
+      "confidence": 0.83,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Emmanuelle: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Emmanuelle.html"
+    }
+  ],
+  "style_effect": [
+    "französisch",
+    "klassisch",
+    "elegant",
+    "eher selten",
+    "namenskundlich aufgeladen",
+    "zeitlos statt modisch"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Eher gering bis mäßig sichtbar in Deutschland; der Name scheint bekannt, aber nicht besonders häufig zu sein. Die Evidenz deutet auf eine eher nischige, klar als französische Form wahrnehmbare Namenswahl hin."
+}

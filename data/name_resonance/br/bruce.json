@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "altfranzösische bzw. schottische Herkunft",
+    "Familienname als Ursprung",
+    "Bedeutungsangaben wie 'der aus dem Dickicht / aus dem Gestrüpp' bzw. teils unterschiedlich tradiert",
+    "schottisch-englischer Klang",
+    "selten bis mäßig verbreitet in Deutschland",
+    "Bekanntheit über öffentliche Namensträger und Popkultur wird erwähnt, ohne bewertet zu werden"
+  ],
+  "confidence": 0.79,
+  "display_text": "Bruce wird in der vorliegenden Evidenz überwiegend neutral bis leicht positiv wahrgenommen: ein seltener, angloamerikanisch klingender Vorname mit markanter Wirkung. Die Datenlage ist jedoch eher namenkundlich als meinungsbasiert, daher nur vorsichtig interpretierbar.",
+  "evidence_quality": "mittel bis schwach: zwei namenkundliche Webquellen, aber keine robuste Meinungs- oder Diskussionsbasis",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Bruce",
+  "normalized_name": "bruce",
+  "overall_resonance": "Überwiegend neutral bis leicht positiv, mit klar namenkundlichem statt gesellschaftlich kontroversem Profil. In der vorliegenden Evidenz wird Bruce vor allem sachlich beschrieben; öffentliche Meinungen sind nur indirekt erkennbar.",
+  "practical_notes": [
+    "Gut geeignet, wenn ein kurzer, international klingender Name gewünscht ist.",
+    "In Deutschland wirkt der Name eher ungewöhnlich und damit einprägsam.",
+    "Die Wahrnehmung dürfte stärker von Klang und Assoziationen als von Häufigkeit geprägt sein."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist schwach für echte öffentliche Resonanz im Sinne von Meinungsbildern, da vor allem Namensdatenbanken vorliegen.",
+    "Es gibt keine belastbaren Hinweise auf eine negative soziale Stigmatisierung im Material.",
+    "Beliebtheits- oder Bekanntheitsangaben sollten nicht als allgemeine Zustimmung der Öffentlichkeit überinterpretiert werden."
+  ],
+  "short_summary": "Bruce wirkt in Deutschland eher selten, angloamerikanisch und sachlich-klassisch; die öffentliche Rezeption erscheint überwiegend neutral mit leichter positiver Färbung, basiert aber nur auf begrenzter namenkundlicher Evidenz.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.87,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Bruce � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/B/Br/Bruce/"
+    },
+    {
+      "confidence": 0.91,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Bruce: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Bruce.html"
+    }
+  ],
+  "style_effect": [
+    "angloamerikanisch wirkend",
+    "markant und kurz",
+    "eher sachlich als verspielt",
+    "international lesbar",
+    "namenskundlich aufgeladen"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland eher selten bis mäßig bekannt und dadurch auffällig, aber nicht stark verbreitet. Die Sichtbarkeit wirkt eher über Namenslexika und Popkultur-Bezüge als über breite Meinungsdiskussionen."
+}

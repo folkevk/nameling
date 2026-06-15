@@ -1,0 +1,69 @@
+{
+  "associations": [
+    "Bedeutung: „die Blühende“",
+    "lateinischer Ursprung",
+    "Bezug zu Florenz/Firenze",
+    "englische und französische Namensform",
+    "überwiegend weiblich, teils unisex",
+    "Namenstag erwähnt",
+    "selten und dadurch etwas besonders wirkend"
+  ],
+  "confidence": 0.78,
+  "display_text": "Florence wirkt in Deutschland eher selten, elegant und international. Die vorliegenden Quellen beschreiben den Namen überwiegend neutral bis leicht positiv, mit Assoziationen wie „die Blühende“, lateinischer Ursprung und Bezug zu Florenz/Firenze. Da die Evidenz vor allem aus Namenslexika stammt, ist die öffentliche Resonanz nur eingeschränkt abbildbar.",
+  "evidence_quality": "mittel bis gut; mehrere direkte Namenslexika, aber nur begrenzte öffentliche Diskussionsbreite",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Florence",
+  "normalized_name": "florence",
+  "overall_resonance": "Florence wirkt im deutschen Namenskontext insgesamt eher freundlich, elegant und leicht international; die öffentliche Wahrnehmung in den vorliegenden Quellen ist überwiegend neutral bis leicht positiv.",
+  "practical_notes": [
+    "Für eine Namenssuche erscheint Florence als klangvoll, international verständlich und eher selten.",
+    "Die Seltenheit kann als Pluspunkt für Individualität wirken, je nach Umfeld aber auch als ungewohnter empfunden werden.",
+    "Die Quellen deuten auf überwiegend positive oder neutrale Beschreibungen hin, ohne stark polarisierende öffentliche Debatte."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Datenlage ist eher lexikalisch als breit öffentlich; daraus lässt sich nur vorsichtig auf die Rezeption schließen.",
+    "Die Einschätzung „elegant“ oder „international“ ist eine typische Namensassoziation und keine objektive Eigenschaft.",
+    "Keine Hinweise auf eine gesellschaftliche Stigmatisierung des Namens in den Quellen."
+  ],
+  "short_summary": "Florence wird in den vorliegenden Quellen meist neutral bis leicht positiv beschrieben: ein seltener, eleganter und international wirkender Vorname mit der Assoziation „die Blühende“.",
+  "source_count": 3,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Florence � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/F/Fl/Florence/"
+    },
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Florence � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/F/Fl/Florence/"
+    },
+    {
+      "confidence": 0.91,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Florence: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Florence.html"
+    }
+  ],
+  "style_effect": [
+    "elegant",
+    "international",
+    "klassisch-feminin",
+    "modern-leicht-distanziert",
+    "selten/ungewöhnlich wahrgenommen"
+  ],
+  "usable_evidence_count": 3,
+  "visibility": "Der Name ist in Deutschland bekannt, aber eher nicht sehr häufig. Die Evidenz stammt vor allem aus Namenslexika und einer begrenzten Zahl von Diskussionsseiten, daher ist die öffentliche Breite nur eingeschränkt sichtbar."
+}

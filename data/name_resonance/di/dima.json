@@ -1,0 +1,68 @@
+{
+  "associations": [
+    "arabische Herkunft",
+    "altgriechische Herkunft",
+    "Bedeutungen wie Demeter zugehörig / sanfter Dauerregen",
+    "Unisex-Name",
+    "Namenstag",
+    "selten bis mäßig verbreitet in Deutschland",
+    "internationaler Eindruck"
+  ],
+  "confidence": 0.82,
+  "display_text": "Dima wirkt in Deutschland eher selten, international und neutral bis leicht positiv. Die Quellen betonen vor allem Herkunft, Bedeutungen und die Unisex-Nutzung; eine breite öffentliche Meinungsresonanz ist nur schwach belegt.",
+  "evidence_quality": "mittel: mehrere namenskundliche Quellen mit klarer Namensbezugnahme, aber nur schwache direkte Belege für öffentliche Alltagsresonanz",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Dima",
+  "normalized_name": "dima",
+  "overall_resonance": "Überwiegend neutral bis leicht positiv. In den vorliegenden Namensseiten wird Dima vor allem sachlich beschrieben; die wenigen wertenden Hinweise wirken eher freundlich und international geprägt als kontrovers.",
+  "practical_notes": [
+    "Für die Suchmaschine am besten als seltener, internationaler Vorname mit neutraler bis freundlicher Wirkung darstellen.",
+    "Wenn Kontext wichtig ist, kann die unisex Lesart erwähnt werden.",
+    "Keine starke soziale Stigmatisierung erkennbar; dennoch ist die öffentliche Resonanz insgesamt eher indirekt belegt."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz für echte öffentliche Meinungsresonanz ist begrenzt; vieles sind Namenslexikon-Angaben statt breite Alltagswahrnehmung.",
+    "Mögliche Herkunfts- und Bedeutungszuordnungen werden in Quellen unterschiedlich dargestellt; das sollte nicht als gesicherte Einzelerklärung gelesen werden."
+  ],
+  "short_summary": "Dima wird in den Quellen überwiegend neutral bis leicht positiv beschrieben: ein seltener, international wirkender Unisex-Name mit etymologischen Bezügen und geringer bis mittlerer Sichtbarkeit in Deutschland.",
+  "source_count": 3,
+  "sources": [
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Dima � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/D/Di/Dima/"
+    },
+    {
+      "confidence": 0.91,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Dima � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/D/Di/Dima/"
+    },
+    {
+      "confidence": 0.84,
+      "is_name_discussion": true,
+      "sentiment": "positive",
+      "source_type": "web",
+      "title": "&#9655; Vorname Dima: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Dima.html"
+    }
+  ],
+  "style_effect": [
+    "kurz und international",
+    "sachlich-informativ",
+    "leicht exotisch bzw. ungewöhnlich im deutschen Kontext",
+    "unisex wahrgenommen",
+    "namenskundlich und etymologisch aufgeladen"
+  ],
+  "usable_evidence_count": 3,
+  "visibility": "Eher geringe bis mittlere öffentliche Sichtbarkeit in Deutschland. Der Name wird genannt und erklärt, wirkt aber nicht stark verbreitet; die Evidenz stammt überwiegend aus Namensdatenbanken und Lexikonseiten, nicht aus breiter öffentlicher Diskussion."
+}

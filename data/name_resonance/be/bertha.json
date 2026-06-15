@@ -1,0 +1,65 @@
+{
+  "associations": [
+    "althochdeutsche Herkunft",
+    "Bedeutung: die Strahlende / die Glänzende",
+    "weiblicher Vorname",
+    "historisch überliefert",
+    "selten",
+    "traditionell",
+    "Namenstag",
+    "Variante von Berta"
+  ],
+  "confidence": 0.84,
+  "display_text": "Bertha wird in den vorliegenden Quellen vor allem als klassischer, historischer und eher seltener Vorname beschrieben. Die Resonanz ist sachlich und leicht positiv, besonders wegen der Bedeutungen „die Strahlende“ und „die Glänzende“. Eine klare moderne Trendwirkung ist nicht erkennbar.",
+  "evidence_quality": "mittel bis gut: Die Quellen beschreiben den Namen selbst recht klar, aber echte öffentliche Meinungsdaten sind nur indirekt vorhanden.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Bertha",
+  "normalized_name": "bertha",
+  "overall_resonance": "Bertha wirkt in den vorliegenden Quellen überwiegend klassisch, historisch und eher selten. Die öffentliche Rezeption ist sachlich bis leicht positiv geprägt, vor allem durch Bedeutungen wie „die Strahlende“ oder „die Glänzende“. Eine starke zeitgenössische Popularität ist in der Evidenz nicht erkennbar.",
+  "practical_notes": [
+    "Für eine Namenssuche vermittelt Bertha einen alten, klaren und traditionsreichen Eindruck.",
+    "Der Name kann bewusst als klassisch und ungewöhnlich zugleich wahrgenommen werden.",
+    "Die Resonanz ist eher von Bedeutung und Herkunft als von moderner Trendwirkung geprägt."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist vor allem aus Namenslexika und Informationsseiten zusammengesetzt; daraus lässt sich nur begrenzt eine echte öffentliche Alltagsrezeption ableiten.",
+    "Es gibt keine belastbaren Hinweise auf negative Stigmatisierung in den vorliegenden Quellen.",
+    "Aussagen zur Beliebtheit sollten vorsichtig gelesen werden, da sie eher beschreibend als meinungsbasiert sind."
+  ],
+  "short_summary": "Bertha wird überwiegend als klassischer, historischer und eher seltener Vorname mit leicht positiver Bedeutung wahrgenommen.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Bertha � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/B/Be/Bertha/"
+    },
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Bertha: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Bertha.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "traditionell",
+    "historisch",
+    "selten",
+    "altdeutsch",
+    "eher elegant",
+    "sachlich",
+    "namenskundlich geprägt"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Eher gering bis moderat sichtbar; der Name erscheint vor allem in namenskundlichen und lexikalischen Kontexten, nicht als aktuell besonders trendiger Vorname in Deutschland."
+}

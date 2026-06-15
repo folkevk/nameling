@@ -1,0 +1,63 @@
+{
+  "associations": [
+    "Bedeutung in Richtung Sieg und Schutz/Beschützer",
+    "althochdeutsche bzw. altdeutsche Herkunft",
+    "selten in Deutschland",
+    "historisch und etymologisch eingeordnet",
+    "Varianten wie Siegmund oder Sigismund",
+    "Kurzformen wie Sigi oder Siggi"
+  ],
+  "confidence": 0.87,
+  "display_text": "Sigmund: eher seltener, historisch geprägter Vorname mit positiver Bedeutung (Sieg/Schutz). Die öffentliche Wahrnehmung ist überwiegend neutral und vor allem namenkundlich, nicht kontrovers.",
+  "evidence_quality": "mittel: direkte Namenseinträge mit klaren Herkunfts- und Bedeutungsangaben, aber nur wenige Quellen und keine breite Diskussionslage.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Sigmund",
+  "normalized_name": "sigmund",
+  "overall_resonance": "Der Vorname Sigmund wird öffentlich vor allem sachlich-namenkundlich wahrgenommen: als seltener, historisch geprägter deutscher Name mit altdeutschen Wurzeln und positiver Bedeutungsnähe zu „Sieg“ und „Schutz“. Eine breite moderne Alltagsresonanz ist kaum sichtbar.",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt Sigmund eher selten, traditionsbewusst und charakterstark als modern oder trendig.",
+    "Die positive Bedeutungsnähe zu „Sieg“ und „Schutz“ kann den Namen für manche attraktiv machen.",
+    "Wer einen vertrauteren Klang sucht, könnte auch Varianten wie Siegmund in Betracht ziehen.",
+    "Als öffentliche Resonanzkarte ist der Name derzeit eher beschreibend als emotional aufgeladen."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist schmal und stammt nur aus zwei Namensdatenbank-Seiten; daraus lässt sich nur eine vorsichtige Tendenz ableiten.",
+    "Es gibt keine erkennbare breite öffentliche Debatte zum Namen selbst, daher sind starke Aussagen zur gesellschaftlichen Wahrnehmung nicht belastbar.",
+    "Assoziationen mit historischen oder literarischen Bezügen sind möglich, sollten aber nicht als allgemeine Namenswirkung überdehnt werden."
+  ],
+  "short_summary": "Sigmund wird in Deutschland vor allem als seltener, historischer und etymologisch positiv besetzter Vorname wahrgenommen. Die öffentliche Resonanz ist überwiegend neutral-beschreibend.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.95,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Sigmund � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/S/Si/Sigmund/"
+    },
+    {
+      "confidence": 0.92,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Sigmund: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Sigmund.html"
+    }
+  ],
+  "style_effect": [
+    "altdeutsch",
+    "historisch",
+    "namenkundlich",
+    "eher traditionell",
+    "selten",
+    "formal",
+    "klassisch-bildungsnah"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Eher geringe Sichtbarkeit im heutigen deutschen Namensgebrauch; der Name erscheint vor allem in Namensdatenbanken und erklärenden Einträgen, nicht in breiten öffentlichen Debatten."
+}

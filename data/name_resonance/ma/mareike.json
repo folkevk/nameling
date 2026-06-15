@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "niederdeutsche/friesische Koseform von Maria",
+    "Bedeutungsfelder wie 'die Geliebte' oder 'die Geschenkte'",
+    "Herkunft mit Bezug zu Maria/Mirjam",
+    "historische Beliebtheit in Deutschland, besonders in den 1960er/1970er Jahren",
+    "heute eher selten",
+    "Namensvariante mit Bezug zu Marijke"
+  ],
+  "confidence": 0.86,
+  "display_text": "Mareike: überwiegend sachlich-positiv und traditionell, heute eher selten, historisch in Deutschland besonders in den 1960er/1970er Jahren geläufig.",
+  "evidence_quality": "mittel bis eher gering; zwei einschlägige Namenslexikon-Quellen, aber keine breite öffentliche Diskussionslage",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Mareike",
+  "normalized_name": "mareike",
+  "overall_resonance": "Mareike wirkt in der öffentlichen Namensdarstellung überwiegend sachlich, freundlich und leicht positiv eingefärbt. Der Name wird vor allem als niederdeutsche bzw. friesische Koseform von Maria beschrieben; die Rezeption betont Herkunft, Bedeutung und traditionelle Verankerung eher als modische Wirkung.",
+  "practical_notes": [
+    "Für Suchende wirkt Mareike gut verständlich und klar einordbar.",
+    "Der Name trägt eher eine traditionelle als eine moderne Mode-Assoziation.",
+    "Die verfügbare Evidenz spricht eher für eine neutrale bis leicht positive Wahrnehmung als für starke gesellschaftliche Bewertungen."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz basiert im Wesentlichen auf Namenslexika und nicht auf breiter öffentlicher Meinungsvielfalt.",
+    "Die öffentliche Resonanz ist daher nur eingeschränkt belastbar.",
+    "Bedeutungsangaben werden in den Quellen teils unterschiedlich bzw. vorsichtig formuliert."
+  ],
+  "short_summary": "Mareike wird öffentlich vor allem sachlich und leicht positiv als traditionelle, heute eher seltene niederdeutsche/friesische Form von Maria wahrgenommen.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Mareike � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/M/Ma/Mareike/"
+    },
+    {
+      "confidence": 0.91,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Mareike: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Mareike.html"
+    }
+  ],
+  "style_effect": [
+    "sachlich-informativ",
+    "namenskundlich-traditionell",
+    "leicht warm/positiv",
+    "etwas nostalgisch",
+    "regional-historisch verankert"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland ist der Name heute eher selten, war aber historisch besonders in den 1960er- und 1970er-Jahren verbreiteter. Dadurch hat Mareike eher einen vertrauten, zeittypischen Charakter als eine aktuelle Trendwirkung."
+}

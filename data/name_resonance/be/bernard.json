@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "Bedeutungshinweise wie „der Bärenstarke“ oder „stark wie ein Bär“",
+    "althochdeutsche Wurzeln bzw. Form von Bernhard",
+    "englische/französische/niederländische Namensform",
+    "Namenstag",
+    "seltenheit als Namensmerkmal"
+  ],
+  "confidence": 0.87,
+  "display_text": "Bernard gilt in Deutschland als seltener, klassisch wirkender Vorname mit sachlich-neutraler Resonanz. Die verfügbaren Quellen heben vor allem Herkunft, Bedeutung („der Bärenstarke“) und internationale Varianten hervor; die Evidenz für eine breite öffentliche Wahrnehmung ist jedoch begrenzt.",
+  "evidence_quality": "mittel bis schwach: zwei überwiegend lexikalische Webquellen, wenig breite öffentliche Diskussionsbasis",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Bernard",
+  "normalized_name": "bernard",
+  "overall_resonance": "Bernard wirkt in der öffentlichen Namenswahrnehmung eher sachlich, klassisch und selten. Die vorhandenen Quellen beschreiben den Namen vor allem über Herkunft, Bedeutung und Schreib-/Aussprachevarianten; eine breite emotionale oder stark trendbezogene Resonanz ist in der Evidenz kaum sichtbar.",
+  "practical_notes": [
+    "Für die Suche wirkt Bernard eher vertraut, aber nicht modisch.",
+    "Die Schreibform mit d am Ende kann als internationale Variante wahrgenommen werden.",
+    "Wer einen traditionellen und nüchternen Namen sucht, findet hier eher einen zurückhaltenden Eindruck als einen auffälligen Trendnamen."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz für öffentliche Resonanz ist begrenzt und stützt sich im Wesentlichen auf zwei Namenslexika.",
+    "Positive oder negative Alltagskonnotationen lassen sich daraus nur vorsichtig ableiten.",
+    "Es gibt keinen belastbaren Hinweis auf eine gesellschaftliche Stigmatisierung des Namens in den vorliegenden Quellen."
+  ],
+  "short_summary": "Bernard wird in Deutschland eher selten, klassisch und sachlich wahrgenommen. Die Quellen betonen vor allem Bedeutung, Herkunft und Varianten; eine starke öffentliche Meinungsbildung ist nicht erkennbar.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.94,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Bernard � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/B/Be/Bernard/"
+    },
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Bernard: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Bernard.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "traditionell",
+    "lexikalisch",
+    "ruhig",
+    "eher formal",
+    "selten",
+    "international anschlussfähig durch Varianten"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland heute eher selten und damit wenig alltagspräsent; historisch bekannt, aber nicht stark verbreitet."
+}

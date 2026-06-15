@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "deutschsprachiger Raum",
+    "weiblicher Vorname",
+    "mögliche Verbindung zu Maria und Elisabeth",
+    "mögliche Bedeutung im Sinn von 'die Geliebte' oder 'Gott ist Vollkommenheit'",
+    "selten bis moderat verbreitet",
+    "Beliebtheit eher historisch als aktuell"
+  ],
+  "confidence": 0.78,
+  "display_text": "Marlis wirkt in der öffentlichen Wahrnehmung eher ruhig und leicht positiv: ein klassischer, deutschsprachiger Mädchenname mit eher seltener Verbreitung. Die verfügbaren Quellen sind jedoch vor allem Namensdatenbanken, daher ist die Evidenz für breite öffentliche Resonanz begrenzt.",
+  "evidence_quality": "Begrenzt: überwiegend lexikalische Namensquellen, kaum direkte öffentliche Diskussion oder breites Stimmungsbild.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Marlis",
+  "normalized_name": "marlis",
+  "overall_resonance": "Die öffentliche Wahrnehmung von „Marlis“ wirkt insgesamt eher ruhig, sachlich und leicht positiv. Der Name wird vor allem als klassischer, deutschsprachiger Frauenname mit älterer Verbreitung wahrgenommen; eine starke, breite Meinungsbildung ist in den vorliegenden Quellen aber nur schwach sichtbar.",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt Marlis vertraut und unkompliziert, ohne aufdringlich zu sein.",
+    "Der Name vermittelt eher Tradition als Modernität.",
+    "Wer einen seltenen, aber gut lesbaren Vornamen sucht, könnte Marlis als solide Option wahrnehmen."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz für echte öffentliche Resonanz ist schwach, da vor allem Namensdatenbanken und beschreibende Seiten vorliegen.",
+    "Es gibt kaum direkte Meinungsvielfalt oder breite Diskussionen zum Namen.",
+    "Die genannten Bedeutungen und Herleitungen können je nach Quelle variieren und sollten als Deutungen, nicht als eindeutige Fakten gelesen werden."
+  ],
+  "short_summary": "Marlis wird eher sachlich bis leicht positiv wahrgenommen: klassisch, deutschsprachig und eher selten, mit schwacher Evidenz für echte öffentliche Resonanz.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Marlis � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/M/Ma/Marlis/"
+    },
+    {
+      "confidence": 0.88,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Marlis: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Marlis.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "freundlich",
+    "traditionell",
+    "weiblich",
+    "zurückhaltend",
+    "leicht altmodisch im positiven Sinn"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Eher gering bis mittel: Der Name scheint bekannt, aber nicht sehr häufig präsent zu sein. In den Quellen wird er als selten bis moderat verbreitet beschrieben, mit einem Popularitätsschwerpunkt in der Mitte des 20. Jahrhunderts."
+}

@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "italienische Form von Paula",
+    "lateinische Herkunft",
+    "Bedeutung: die Kleine / die Jüngere",
+    "Namenstag am 26. Januar und teils 11. Juni",
+    "weiblicher Vorname",
+    "selten/ungewöhnlich wirkend",
+    "teilweise Aussprachefragen im Deutschen"
+  ],
+  "confidence": 0.89,
+  "display_text": "Paola wirkt in Deutschland überwiegend positiv: ein eleganter, italienisch klingender Vorname mit weicher Ausstrahlung. Er ist eher selten und dadurch etwas besonders, kann aber im Deutschen gelegentlich Nachfragen zur Aussprache auslösen. Die Evidenz ist vor allem lexikalisch und nur begrenzt breit öffentlich belegt.",
+  "evidence_quality": "mittel bis gut, aber überwiegend lexikalische Quellen mit begrenzter öffentlicher Breite",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Paola",
+  "normalized_name": "paola",
+  "overall_resonance": "Eher positiv und stilvoll, mit einem leicht exotischen bzw. italienischen Flair. Die öffentliche Wahrnehmung wirkt insgesamt freundlich, aber nicht breit aus einer freien Debatte belegt.",
+  "practical_notes": [
+    "Gut geeignet, wenn ein klangvoller, international verständlicher Mädchenname gesucht wird.",
+    "Im Deutschen kann die Aussprache gelegentlich nachgefragt werden.",
+    "Die Schreibweise ist klar und meist intuitiv lesbar."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt vor allem aus Namenslexika und kommentierten Einträgen, nicht aus einer breiten öffentlichen Debatte.",
+    "Einzelne Kommentare sind anekdotisch und nicht repräsentativ.",
+    "Die wahrgenommene Seltenheit kann je nach Region unterschiedlich ausfallen."
+  ],
+  "short_summary": "Paola wird in Deutschland überwiegend freundlich und elegant wahrgenommen, mit italienischem Klang und leicht seltener Wirkung. Die Hinweise sprechen eher für eine positive, stilvolle Resonanz als für starke Kontroversen.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Paola � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/P/Pa/Paola/"
+    },
+    {
+      "confidence": 0.9,
+      "is_name_discussion": true,
+      "sentiment": "überwiegend positiv, mit einzelnen negativen Erfahrungsberichten",
+      "source_type": "web",
+      "title": "&#9655; Vorname Paola: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Paola.html"
+    }
+  ],
+  "style_effect": [
+    "italienisch klingend",
+    "elegant",
+    "weich und melodisch",
+    "modern, aber klassisch anschlussfähig",
+    "leicht ungewöhnlich im deutschen Kontext"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Mittel: Der Name ist in Deutschland bekannt und auffindbar, wirkt aber eher seltener als sehr alltäglich."
+}

@@ -1,0 +1,73 @@
+{
+  "associations": [
+    "biblische Herkunft",
+    "aramäische Wurzeln",
+    "Bedeutung: Herrin/Gebieterin",
+    "Hausherrin",
+    "Marta von Bethanien",
+    "Heilige",
+    "Namenstag",
+    "langjährig in Deutschland belegt",
+    "heute moderat stabilisiert"
+  ],
+  "confidence": 0.84,
+  "display_text": "Marta wirkt im Deutschen klassisch, biblisch geprägt und eher positiv konnotiert. Die Quellen sind überwiegend namenkundlich und zeigen keine breite Kontroverse, sondern vor allem sachliche Beschreibungen zu Herkunft, Bedeutung und historischer Verankerung. Die Evidenz ist eher schwach bis moderat und daher vorsichtig zu lesen.",
+  "evidence_quality": "Schwach bis moderat: drei überwiegend lexikalische Quellen, klare Namensbezüge, aber wenig echte öffentliche Diskussions- oder Meinungsdaten.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Marta",
+  "normalized_name": "marta",
+  "overall_resonance": "Marta wirkt im deutschsprachigen Raum überwiegend klassisch, sachlich und eher positiv konnotiert. Die verfügbaren Quellen zeigen vor allem namenkundliche Beschreibungen mit Bezügen zu biblischer Herkunft, Bedeutung und historischer Verankerung. Eine breite öffentliche Debatte ist nicht erkennbar; die Evidenz ist eher indirekt und portalbasiert als durch echte Alltagsresonanz belegt.",
+  "practical_notes": [
+    "Für eine Namenssuche ist Marta ein gut verständlicher, klassischer Vorname mit internationaler Nutzbarkeit.",
+    "Die Wahrnehmung wirkt eher zeitlos als trendy.",
+    "Wenn öffentliche Resonanz gesucht wird, sollte berücksichtigt werden, dass die Datenlage hier eher schwach bis moderat ist."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt überwiegend aus Namensportalen und beschreibt den Namen redaktionell; das ist nur eingeschränkt ein Bild öffentlicher Meinung.",
+    "Keine Hinweise auf starke Stigmatisierung oder kontroverse Debatten in den vorliegenden Quellen.",
+    "Positive Tendenzen ergeben sich eher aus Beschreibung und Beliebtheitsangaben als aus direkter Nutzerresonanz."
+  ],
+  "short_summary": "Marta wird in den vorliegenden Quellen als klassischer, biblisch geprägter und eher positiv wahrgenommener Vorname beschrieben. Die Evidenz ist vor allem redaktionell und daher nur eingeschränkt aussagekräftig für echte öffentliche Resonanz.",
+  "source_count": 3,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "Vorname Marta � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/M/Ma/Marta/"
+    },
+    {
+      "confidence": 0.91,
+      "is_name_discussion": true,
+      "sentiment": "positive",
+      "source_type": "web",
+      "title": "Vorname Marta � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/M/Ma/Marta/"
+    },
+    {
+      "confidence": 0.91,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Marta: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Marta.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "traditionell",
+    "zeitlos",
+    "kurz und klar",
+    "historisch verankert",
+    "international verständlich",
+    "eher sachlich als modisch"
+  ],
+  "usable_evidence_count": 3,
+  "visibility": "Im deutschen Raum bekannt, aber nicht stark trendgetrieben. Eher ein etablierter, traditioneller Name mit moderater Sichtbarkeit."
+}

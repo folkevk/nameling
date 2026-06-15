@@ -1,0 +1,62 @@
+{
+  "associations": [
+    "althochdeutsche Herkunft",
+    "Bedeutung im Sinn von „reicher/mächtiger Erbe“",
+    "mittelalterliche Verbreitung",
+    "Namenstag",
+    "Kurzformen wie Uli und Ulli",
+    "historisch-kirchliche Assoziation durch den heiligen Ulrich"
+  ],
+  "confidence": 0.86,
+  "display_text": "Ulrich wirkt öffentlich meist klassisch, traditionell und namenkundlich geprägt. Der Name ist bekannt, heute aber eher selten und wird vor allem mit althochdeutscher Herkunft, historischer Verbreitung und einer sachlich positiven, leicht altertümlichen Anmutung verbunden.",
+  "evidence_quality": "mittel bis gut: klare namenkundliche Quellen, aber wenig direkte öffentliche Diskussions-Evidenz",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Ulrich",
+  "normalized_name": "ulrich",
+  "overall_resonance": "Überwiegend traditionell und sachlich positiv, mit klarer historischer bzw. namenkundlicher Prägung. Die öffentliche Wahrnehmung wirkt eher klassisch als modern, aber nicht negativ.",
+  "practical_notes": [
+    "Für Suchende ist Ulrich ein klar traditioneller Männername mit gut belegbarer Herkunft.",
+    "Die Kurzformen Uli und Ulli wirken deutlich informeller und zugänglicher.",
+    "Als seltener heutiger Vorname kann Ulrich je nach Kontext eher formal oder nostalgisch wirken."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt fast ausschließlich aus Namenslexika und redaktionellen Namensseiten.",
+    "Es gibt nur begrenzt öffentliche Diskussionsdaten, daher ist die Resonanz nur vorsichtig zu bewerten.",
+    "Beliebtheit und Stilwirkung können je nach Generation und Umfeld unterschiedlich wahrgenommen werden."
+  ],
+  "short_summary": "Ulrich wird in Deutschland überwiegend als klassischer, traditionsreicher und eher selten vergebener Vorname wahrgenommen.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Ulrich � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/U/Ul/Ulrich/"
+    },
+    {
+      "confidence": 0.83,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Ulrich: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Ulrich.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "traditionell",
+    "historisch",
+    "namenskundlich",
+    "sachlich",
+    "leicht altertümlich",
+    "eher selten"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Der Name ist in Deutschland bekannt, heute aber eher selten vergeben. In der öffentlichen Wahrnehmung erscheint er vor allem als traditioneller, altsprachlich geprägter Vorname."
+}

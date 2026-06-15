@@ -1,0 +1,62 @@
+{
+  "associations": [
+    "skandinavisch/nordisch",
+    "Kurz- oder Koseform von Birgit",
+    "Deutung als „die Erhabene“ oder „die Helfende“",
+    "Namenstag",
+    "selten bis bekannt, aber nicht häufig",
+    "Aussprache- und Schreibvarianten werden vereinzelt thematisiert"
+  ],
+  "confidence": 0.78,
+  "display_text": "Berit wirkt in den Quellen sachlich, nordisch und eher selten. Der Name wird meist neutral bis leicht positiv eingeordnet; eine breite öffentliche Debatte ist nicht erkennbar. Die Evidenz stammt vor allem aus Namenslexika, daher ist die Aussagekraft für die allgemeine Resonanz begrenzt.",
+  "evidence_quality": "mittel bis schwach: gute namenkundliche Hinweise, aber nur begrenzte echte Resonanzdaten aus der Öffentlichkeit.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Berit",
+  "normalized_name": "berit",
+  "overall_resonance": "Berit wird in den vorliegenden Quellen überwiegend sachlich und eher positiv-neutral beschrieben. Der Name wirkt im deutschsprachigen Raum bekannt, aber eher selten, mit einer klaren skandinavisch-nordischen Prägung. Eine starke öffentliche Debatte oder breite gesellschaftliche Wertung ist in der Evidenz nicht erkennbar.",
+  "practical_notes": [
+    "Für Suchende wirkt Berit eher vertraut, aber nicht alltäglich.",
+    "Der Name vermittelt in den Quellen einen sachlich-klassischen, nordisch geprägten Eindruck.",
+    "Wenn öffentliche Wirkung wichtig ist, sollte man bedenken, dass die Datenlage zur realen Alltagsrezeption dünn ist."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist begrenzt und stammt vor allem aus Namensdatenbanken, nicht aus einer breiten öffentlichen Meinungsdiskussion.",
+    "Einzelne Kommentare können die Wahrnehmung verzerren; daraus lässt sich keine allgemeine gesellschaftliche Meinung ableiten.",
+    "Es gibt keinen Hinweis auf eine starke Stigmatisierung des Namens in den Quellen."
+  ],
+  "short_summary": "Berit wird meist sachlich, nordisch und eher selten wahrgenommen; die vorhandene Evidenz ist überwiegend lexikalisch und nur begrenzt öffentlich-diskursiv.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Berit � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/B/Be/Berit/"
+    },
+    {
+      "confidence": 0.79,
+      "is_name_discussion": true,
+      "sentiment": "mixed",
+      "source_type": "web",
+      "title": "&#9655; Vorname Berit: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Berit.html"
+    }
+  ],
+  "style_effect": [
+    "kurz",
+    "klar",
+    "nordisch",
+    "traditionell",
+    "eigenständig",
+    "eher selten",
+    "namenskundlich geprägt"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Eher gering bis mittel: Der Name taucht in Namenslexika und vereinzelt in Kommentaren auf, scheint in Deutschland aber nicht alltagsdominant zu sein."
+}

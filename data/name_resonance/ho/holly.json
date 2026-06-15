@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "Stechpalme / Christdorn",
+    "immergrün",
+    "Glücksbringer-Symbolik",
+    "Weihnachtszeit",
+    "englische Herkunft",
+    "weiblicher Vorname",
+    "selten bis eher ungewöhnlich in Deutschland"
+  ],
+  "confidence": 0.83,
+  "display_text": "Holly wirkt öffentlich vor allem sachlich, freundlich und leicht positiv: ein englisch geprägter Vorname mit Stechpalmen-, Natur- und Weihnachtsassoziationen. In Deutschland eher selten, aber gut verständlich; einzelne Quellen nennen die Schreibweise als gelegentlich ungewohnt.",
+  "evidence_quality": "mittel bis gut; die Quellen behandeln den Namen direkt, enthalten aber teilweise kommentarbasiertes und damit subjektives Material.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Holly",
+  "normalized_name": "holly",
+  "overall_resonance": "Überwiegend sachlich bis leicht positiv. Holly wird in der öffentlichen Wahrnehmung vor allem als englisch wirkender Vorname mit klarer Natur- und Weihnachtssymbolik beschrieben; einzelne Quellen nennen ihn als eher selten und teils schwer zu schreiben, ohne dass daraus eine starke negative Bewertung entsteht.",
+  "practical_notes": [
+    "Für Namenssuchmaschinen wirkt Holly klar, freundlich und gut merkbar.",
+    "Die internationale Schreibweise kann im deutschsprachigen Alltag gelegentlich erklärt werden müssen.",
+    "Durch die Weihnachts- und Naturassoziationen ist der Name thematisch deutlich geprägt."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Einige Einschätzungen stammen aus Nutzerkommentaren und sind daher subjektiv.",
+    "Die Aussagen zur Beliebtheit und Schreibbarkeit sind nur vorsichtig zu gewichten.",
+    "Keine Hinweise auf soziale Stigmatisierung in der Evidenz."
+  ],
+  "short_summary": "Holly wird in Deutschland überwiegend als freundlicher, englisch geprägter Vorname mit Natur- und Weihnachtsbezug wahrgenommen. Die Resonanz ist eher positiv, bei einzelnen Hinweisen auf Seltenheit oder Schreibunsicherheit.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Holly � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/H/Ho/Holly/"
+    },
+    {
+      "confidence": 0.89,
+      "is_name_discussion": true,
+      "sentiment": "gemischt",
+      "source_type": "web",
+      "title": "&#9655; Vorname Holly: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Holly.html"
+    }
+  ],
+  "style_effect": [
+    "englisch und international wirkend",
+    "naturnah durch die Stechpalmen-Assoziation",
+    "weihnachtlich bzw. saisonal aufgeladen",
+    "modern-leichter Klang",
+    "sachlich-informativ wahrgenommen"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland eher bekannt, aber nicht stark verbreitet; die Sichtbarkeit wird meist über Namensseiten und Bedeutungseinträge geprägt."
+}

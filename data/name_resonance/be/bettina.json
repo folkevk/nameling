@@ -1,0 +1,63 @@
+{
+  "associations": [
+    "Koseform von Elisabeth",
+    "hebräischer/biblischer Ursprung",
+    "Bedeutung: Gott ist Fülle / Gott ist Vollkommenheit",
+    "in Deutschland besonders in den 1960er/1970er Jahren verbreitet",
+    "heute deutlich seltener",
+    "Kurzformen wie Betti oder Betty",
+    "Nebenformen wie Betina oder Bettine"
+  ],
+  "confidence": 0.84,
+  "display_text": "Bettina ist ein klassischer, gut bekannter Vorname mit traditioneller Wirkung. Die Quellen deuten auf eine stärkere Verbreitung in den 1960er/1970er Jahren hin; heute ist der Name seltener und wirkt dadurch eher etwas retro als trendig.",
+  "evidence_quality": "Mittel bis gut: Die Quellen sind klar namensbezogen und liefern solide Informationen zu Herkunft, Bedeutung und Popularität, aber nur begrenzte direkte öffentliche Resonanz.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Bettina",
+  "normalized_name": "bettina",
+  "overall_resonance": "Überwiegend klassisch und vertraut, mit eher traditioneller als moderner Wirkung. Die vorliegende Evidenz beschreibt Bettina als etablierten deutschen Vornamen, der heute seltener vergeben wird und daher etwas retro bzw. generationstypisch wirken kann.",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt Bettina unkompliziert, klar und gut aussprechbar.",
+    "Der Name transportiert eher klassische als moderne Assoziationen.",
+    "Durch die historische Häufigkeit kann er bei vielen Menschen vertraut klingen, ohne aktuell sehr häufig zu sein."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt fast ausschließlich aus Namenslexika; ein breites öffentliches Meinungsbild ist daraus nur indirekt ableitbar.",
+    "Es gibt keine belastbaren Hinweise auf starke positive oder negative gesellschaftliche Zuschreibungen zum Namen selbst.",
+    "Falls der Name als altmodisch empfunden wird, ist das eher eine zeitbezogene Wahrnehmung als eine feste Bewertung."
+  ],
+  "short_summary": "Bettina wird in Deutschland als klassischer, vertrauter Vorname wahrgenommen, der heute eher seltener und leicht retro wirkt.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Bettina � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/B/Be/Bettina/"
+    },
+    {
+      "confidence": 0.92,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Bettina: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Bettina.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "traditionell",
+    "vertraut",
+    "eher generationstypisch",
+    "leicht retro",
+    "seriös",
+    "weiblich-klar"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Im deutschsprachigen Raum ist der Name gut bekannt, aber laut den Quellen nicht mehr besonders häufig im aktuellen Gebrauch. Die öffentliche Sichtbarkeit wirkt daher eher solide und historisch geprägt als trendig."
+}

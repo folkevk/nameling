@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "hebräische Herkunft",
+    "Bedeutung: „Seht den Sohn!“",
+    "Variante von Ruben",
+    "biblischer Bezug",
+    "seit den 1970er Jahren im deutschen Namensgebrauch",
+    "selten bis moderat verbreitet"
+  ],
+  "confidence": 0.86,
+  "display_text": "Rouven wirkt in der öffentlichen Namenswahrnehmung überwiegend neutral bis leicht positiv. Der Name wird meist als moderne Variante mit hebräischer Herkunft und der Bedeutung „Seht den Sohn!“ beschrieben. In Deutschland scheint er eher selten bis moderat verbreitet zu sein; eine breite Kontroverse ist nicht erkennbar.",
+  "evidence_quality": "mittel bis schwach: zwei klar namenskundliche Webquellen, aber kaum breite öffentliche oder soziale Rezeption sichtbar",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Rouven",
+  "normalized_name": "rouven",
+  "overall_resonance": "Rouven wird in den vorliegenden Quellen überwiegend sachlich und eher positiv wahrgenommen. Der Name erscheint als moderne, deutsch gebräuchliche Variante mit hebräischem Bezug und klarer Bedeutung, ohne erkennbare breite Kontroverse.",
+  "practical_notes": [
+    "Für Suchmaschinen- und Lexikontexte eignet sich eine neutrale, kurze Beschreibung.",
+    "Die Wahrnehmung wirkt eher informativ als emotional aufgeladen.",
+    "Die Aussagen sollten als vorsichtige Einordnung verstanden werden, nicht als allgemeingültiges Urteil."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt überwiegend aus einzelnen Namensdatenbanken.",
+    "Beliebtheits- und Rangangaben sind quellenabhängig und nur begrenzt verallgemeinerbar.",
+    "Es gibt keine belastbaren Hinweise auf eine breite öffentliche Wertung oder Stigmatisierung."
+  ],
+  "short_summary": "Rouven wird eher neutral bis leicht positiv wahrgenommen: ein moderner, seltener bis moderat verbreiteter Name mit hebräischer Herkunft und klarer Bedeutungszuordnung.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.92,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "Vorname Rouven � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/R/Ro/Rouven/"
+    },
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "eher neutral bis leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Rouven: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Rouven.html"
+    }
+  ],
+  "style_effect": [
+    "modern",
+    "namenskundlich",
+    "sachlich",
+    "leicht positiv",
+    "selten bis moderat gebräuchlich"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland wirkt Rouven eher selten bis moderat verbreitet und ist vor allem in Namenslexika und Datenbanken sichtbar; eine breite öffentliche Debatte ist in der Evidenz nicht erkennbar."
+}

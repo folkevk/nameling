@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "altgriechische Herkunft",
+    "Bedeutung: edel / wohlgeboren",
+    "weiblicher Vorname",
+    "Namenstag",
+    "verschiedene Sprachvarianten",
+    "Spitznamen wie Gina oder Genia"
+  ],
+  "confidence": 0.74,
+  "display_text": "Eugenia wirkt in den verfügbaren Quellen klassisch, elegant und eher positiv besetzt. Der Name wird mit altgriechischer Herkunft und der Bedeutung „edel“ bzw. „wohlgeboren“ verbunden. In Deutschland scheint er eher selten bis mäßig verbreitet zu sein. Die Evidenz zur öffentlichen Resonanz ist jedoch begrenzt, da vor allem Namens- und Informationsseiten vorliegen.",
+  "evidence_quality": "mittel bis schwach; überwiegend lexikalische Webseiten, nur begrenzte echte Resonanzhinweise",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Eugenia",
+  "normalized_name": "eugenia",
+  "overall_resonance": "Eugenia wird in den vorliegenden Quellen überwiegend sachlich und eher positiv wahrgenommen: als eleganter, klassisch-griechisch geprägter Vorname mit der Bedeutung „edel“ oder „wohlgeboren“.",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt Eugenia traditionsbewusst und klangvoll.",
+    "Wer einen seltenen, international verständlichen Namen sucht, könnte ihn passend finden.",
+    "Kurzformen und Varianten sind möglich, was den Namen alltagstauglicher machen kann."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Datenlage zur öffentlichen Meinung ist begrenzt; es handelt sich vor allem um beschreibende Namensseiten statt breite Diskussionsbeiträge.",
+    "Seltenheit kann je nach Kontext als besonders oder ungewohnt wirken, ohne dass daraus eine feste gesellschaftliche Bewertung folgt."
+  ],
+  "short_summary": "Eugenia wird eher positiv, klassisch und edel beschrieben, bei insgesamt begrenzter Evidenz zur öffentlichen Resonanz.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Eugenia � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/E/Eu/Eugenia/"
+    },
+    {
+      "confidence": 0.86,
+      "is_name_discussion": true,
+      "sentiment": "mostly positive",
+      "source_type": "web",
+      "title": "&#9655; Vorname Eugenia: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Eugenia.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "elegant",
+    "namenskundlich",
+    "selten",
+    "international anschlussfähig",
+    "eher formell"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland scheint der Name eher selten bis mäßig verbreitet zu sein und dadurch auffälliger, aber nicht unbekannt. Die Evidenz zur öffentlichen Resonanz ist insgesamt eher schwach, da vor allem Namenslexika und Informationsseiten vorliegen."
+}

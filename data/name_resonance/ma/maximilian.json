@@ -1,0 +1,63 @@
+{
+  "associations": [
+    "lateinischer Ursprung",
+    "Bedeutung: „der Größte“",
+    "lange Tradition",
+    "klassischer Vorname",
+    "in Deutschland sehr beliebt",
+    "Kurzform: Max",
+    "teils auch Maxi",
+    "historische und religiöse Bezüge",
+    "regional mit Bayern und Österreich verbunden"
+  ],
+  "confidence": 0.91,
+  "display_text": "Maximilian wirkt in Deutschland überwiegend positiv: ein klassischer, traditionsreicher und zugleich sehr vertrauter Name mit hoher Bekanntheit. Die Kurzform Max verstärkt den zugänglichen Eindruck. Die Evidenz ist gut, aber vor allem lexikalisch-beschreibend.",
+  "evidence_quality": "gut: direkte, namenbezogene Quellen mit überwiegend positiver, sachlich-beschreibender Resonanz; kaum Hinweise auf problematische Konnotationen",
+  "generated_at": "2026-06-12T06:08:03Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Maximilian",
+  "normalized_name": "maximilian",
+  "overall_resonance": "Der Vorname Maximilian wird öffentlich überwiegend positiv und wertschätzend wahrgenommen. Er gilt als klassisch, traditionsreich und im deutschsprachigen Raum gut etabliert; zugleich wirkt er modern genug, um weiterhin beliebt zu sein.",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt Maximilian meist positiv, etabliert und gut anschlussfähig.",
+    "Wer einen formellen Vollnamen mit einer lockeren Kurzform möchte, findet mit Max eine sehr geläufige Abkürzung.",
+    "Der Name wird eher als klassisch als als ausgefallen wahrgenommen."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt vor allem aus Namenslexika und Informationsseiten; die öffentliche Resonanz ist daher eher beschreibend als breit empirisch belegt.",
+    "Beliebtheit und Stilwirkung können je nach Region, Generation und sozialem Umfeld variieren."
+  ],
+  "short_summary": "Maximilian wird in Deutschland überwiegend positiv, klassisch und traditionsreich wahrgenommen; der Name ist sehr bekannt, beliebt und durch „Max“ flexibel nutzbar.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "Vorname Maximilian � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/M/Ma/Maximilian/"
+    },
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "mostly positive",
+      "source_type": "web",
+      "title": "&#9655; Vorname Maximilian: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Maximilian.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch und seriös",
+    "traditionsreich",
+    "eher elegant und formal",
+    "zugleich vertraut durch die Kurzform Max",
+    "namenskundlich aufgeladen",
+    "zeitlos statt trendig"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Sehr hohe Sichtbarkeit in Deutschland; der Name ist breit bekannt, häufig in Namenslexika und Beliebtheitslisten vertreten und mit der Kurzform Max stark anschlussfähig."
+}

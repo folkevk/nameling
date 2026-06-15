@@ -1,0 +1,62 @@
+{
+  "associations": [
+    "lateinische Herkunft",
+    "mögliche Bedeutung wie \"die Wahre\"",
+    "Namenstag",
+    "heilige Verena",
+    "schweizerischer Bezug",
+    "eher selten vergeben",
+    "Kurzformen wie Vreni oder Vera"
+  ],
+  "confidence": 0.78,
+  "display_text": "Verena wirkt in der verfügbaren Evidenz klassisch, traditionsbezogen und eher positiv besetzt. Der Name wird vor allem mit lateinischer Herkunft, Namenstag und dem Bedeutungsfeld um „die Wahre“ verbunden. Eine breite öffentliche Diskussion ist allerdings kaum erkennbar, da die Quellen vor allem Namenslexika sind.",
+  "evidence_quality": "mittel bis schwach: überwiegend redaktionelle Namensseiten, nur wenig echte öffentliche Resonanz",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Verena",
+  "normalized_name": "verena",
+  "overall_resonance": "Verena wird in der verfügbaren Evidenz überwiegend sachlich-informativ und eher positiv dargestellt. Der Name wirkt traditionell, vertraut und namenskundlich gut verankert, mit Bezügen zu lateinischer Herkunft, Namenstag und teils als eher selten vergeben. Eine echte öffentliche Debatte ist daraus jedoch nur begrenzt ableitbar.",
+  "practical_notes": [
+    "Für eine Namenssuche eignet sich Verena als klassischer, traditionsreicher Name mit klarer Herkunft.",
+    "Die Wahrnehmung wirkt eher positiv-neutral als auffällig oder polarisiert.",
+    "Wenn eine moderne oder sehr aktuelle Wirkung gesucht wird, erscheint der Name eher zeitlos als trendig."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist schwach bis mittelstark, weil sie vor allem aus Namenslexika und wenigen Kommentaren besteht.",
+    "Es gibt keine belastbare breite öffentliche Meinungsbildung, daher keine starke Aussage über Trend oder Image.",
+    "Keine Hinweise auf soziale Stigmatisierung in den Quellen; daher keine entsprechende Einordnung nötig."
+  ],
+  "short_summary": "Verena wird überwiegend freundlich, klassisch und informativ wahrgenommen, jedoch auf Basis eher schwacher öffentlicher Evidenz.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Verena � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/V/Ve/Verena/"
+    },
+    {
+      "confidence": 0.84,
+      "is_name_discussion": true,
+      "sentiment": "überwiegend positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Verena: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Verena.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "traditionsbezogen",
+    "namenskundlich",
+    "ruhig",
+    "eher zeitlos",
+    "leicht elegant"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Mittlere Sichtbarkeit: Der Name erscheint in Namenslexika und vereinzelt in Kommentaren, aber die öffentliche Resonanz ist insgesamt eher indirekt als breit diskutiert."
+}

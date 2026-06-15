@@ -1,0 +1,59 @@
+{
+  "associations": [
+    "russische Form von Nikolaus",
+    "altgriechischer Ursprung",
+    "Bedeutung: Sieg des Volkes",
+    "Namenstag(e): 6. Dezember sowie teils 11. August und 19. Dezember",
+    "Spitznamen: Niko, Nik, Kolja",
+    "in Deutschland eher bekannt, aber nicht häufig"
+  ],
+  "confidence": 0.83,
+  "display_text": "Nikolai wird in Deutschland meist als vertraut, klassisch und international empfunden. Der Name ist eher selten, aber nicht fremd wirkend; die Bedeutung und Herkunft werden häufig positiv oder neutral beschrieben.",
+  "evidence_quality": "Mittel: zwei klare Namensquellen mit konsistenter Lexikon- und Beliebtheitsinformation, aber keine breite öffentliche Diskurslage.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Nikolai",
+  "normalized_name": "nikolai",
+  "overall_resonance": "Überwiegend neutral bis leicht positiv: Nikolai wird im deutschen Kontext meist als vertraut, international und traditionell wahrgenommen, ohne stark alltagspräsente Häufigkeit.",
+  "practical_notes": [
+    "Gut geeignet, wenn ein klassisch-internationaler Klang gewünscht ist.",
+    "Durch die Seltenheit in DE bleibt der Name präsent, ohne sehr ungewöhnlich zu wirken.",
+    "Kurzformen sind im Alltag gut anschlussfähig."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt vor allem aus Namenslexika und Beliebtheitsseiten; öffentliche Alltagsresonanz ist nur indirekt belegt.",
+    "Es gibt keine belastbare Aussage über soziale Bewertung im Sinne von Vorurteilen oder Stigmatisierung.",
+    "Einzelne Einschätzungen zur Klangwirkung sind eher beschreibend als repräsentativ."
+  ],
+  "short_summary": "Nikolai wirkt in Deutschland eher selten, aber vertraut und traditionell-international. Die öffentliche Wahrnehmung ist überwiegend neutral bis leicht positiv.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.95,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Nikolai � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/N/Ni/Nikolai/"
+    },
+    {
+      "confidence": 0.94,
+      "is_name_discussion": true,
+      "sentiment": "positive",
+      "source_type": "web",
+      "title": "&#9655; Vorname Nikolai: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Nikolai.html"
+    }
+  ],
+  "style_effect": [
+    "klingt klassisch und international",
+    "wirkt durch die slawisch-russische Form etwas markanter",
+    "hat eine klare, traditionsnahe Namenswirkung",
+    "die Bedeutung 'Sieg des Volkes' wird meist positiv gelesen"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Mittlere Bekanntheit in DE, aber eher selten als Vorname; dadurch auffällig, jedoch nicht exotisch."
+}

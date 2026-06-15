@@ -1,0 +1,62 @@
+{
+  "associations": [
+    "altgriechische Herkunft",
+    "Thera/Therasia als Bezug",
+    "mögliche Bedeutung „die von Thera Stammende“",
+    "mögliche Bedeutung „die Jägerin“",
+    "Namenstag",
+    "italienische und spanische Form von Theresa",
+    "Spitznamen wie Resi, Tessa oder Teri"
+  ],
+  "confidence": 0.86,
+  "display_text": "Teresa wirkt in Deutschland als klassischer, traditionsreicher Vorname mit leicht positiver, sachlicher Resonanz. Die vorliegenden Quellen nennen Herkunft, Namenstag und mögliche Bedeutungen, ohne starke Kontroversen oder negative Konnotationen. Die Evidenz ist allerdings begrenzt und vor allem lexikalisch geprägt.",
+  "evidence_quality": "mittel: zwei überwiegend namenskundliche Webquellen, aber keine breite diskursive Öffentlichkeit und nur begrenzte Meinungsstreuung.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Teresa",
+  "normalized_name": "teresa",
+  "overall_resonance": "Teresa wird in den vorliegenden Quellen überwiegend sachlich und leicht positiv wahrgenommen. Der Name erscheint als klassischer, traditionsreicher Mädchenname mit klarer etymologischer Einordnung und ohne erkennbare starke Kontroversen.",
+  "practical_notes": [
+    "Für Suchmaschinenkontext eignet sich Teresa als klassischer, gut einordbarer Vorname.",
+    "Die Schreibweise ist im deutschen Sprachraum verständlich und etabliert.",
+    "Die Wahrnehmung ist eher neutral bis freundlich, nicht auffällig polarisiert."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist begrenzt und stützt sich im Wesentlichen auf zwei Namenslexika.",
+    "Es gibt keine breite öffentliche Debatte oder klare Meinungsvielfalt im Material.",
+    "Einige Bedeutungsangaben werden als möglich bzw. unsicher formuliert und sollten nicht als endgültig gelten."
+  ],
+  "short_summary": "Teresa wird in den Quellen als klassischer, traditionsreicher Vorname mit leicht positiver, sachlicher Resonanz beschrieben. Die öffentliche Rezeption wirkt eher neutral bis freundlich, bei begrenzter Evidenz.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.89,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "Vorname Teresa � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/T/Te/Teresa/"
+    },
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Teresa: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Teresa.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "traditionell",
+    "eher zeitlos",
+    "sprachlich weich",
+    "seriös",
+    "namenskundlich anschlussfähig"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland wirkt Teresa bekannt, aber eher nicht extrem dominant. Die Quellen ordnen den Namen als geläufigen, klassischen Vornamen ein, nicht als auffälligen Trendnamen."
+}

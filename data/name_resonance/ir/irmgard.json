@@ -1,0 +1,63 @@
+{
+  "associations": [
+    "altdeutsch/germanisch",
+    "allumfassende Beschützerin",
+    "historischer Vorname",
+    "früher beliebt",
+    "heute selten",
+    "Namenstag",
+    "weiblicher Vorname",
+    "Spitznamen wie Irmi oder Irmchen"
+  ],
+  "confidence": 0.88,
+  "display_text": "Irmgard wirkt in Deutschland überwiegend neutral bis traditionsbetont: ein klassischer, altdeutscher Vorname mit historischer Prägung, heute eher selten und vor allem sachlich bekannt.",
+  "evidence_quality": "Gut für Herkunft, Bedeutung und historische Einordnung; schwach für echte öffentliche Meinungsdaten.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Irmgard",
+  "normalized_name": "irmgard",
+  "overall_resonance": "Überwiegend neutral bis leicht traditionsbetont. Irmgard wirkt in der öffentlichen Wahrnehmung vor allem als klassischer, historisch geprägter Vorname mit klarer altdeutscher Anmutung; moderne Popularität ist eher gering.",
+  "practical_notes": [
+    "Für Namenssuchmaschinen eignet sich eine Einordnung als traditionell und selten.",
+    "Der Name hat eine klare historische Einbettung und ist gut etabliert, aber nicht trendig.",
+    "Kurzformen und Varianten können die Wirkung weicher oder vertrauter machen."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt vor allem aus Namenslexika und ist eher beschreibend als meinungsbasiert.",
+    "Es gibt kaum direkte öffentliche Stimmungsdaten; die Rezeption wird daher vorsichtig als neutral eingeordnet.",
+    "Eine mögliche altmodische Wirkung ist eine Wahrnehmungstendenz, keine allgemeingültige Aussage."
+  ],
+  "short_summary": "Irmgard wird meist als klassischer, altdeutscher und heute seltener Vorname wahrgenommen – sachlich bekannt, traditionell und eher historisch als modern.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Irmgard � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/I/Ir/Irmgard/"
+    },
+    {
+      "confidence": 0.95,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Irmgard: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Irmgard.html"
+    }
+  ],
+  "style_effect": [
+    "traditionell",
+    "altdeutsch",
+    "klassisch",
+    "historisch",
+    "sachlich",
+    "leicht würdevoll"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland heute eher selten und nicht sehr präsent, aber als historischer Vorname weiterhin bekannt."
+}

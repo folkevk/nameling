@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "englische Form von Anton/Antonius",
+    "lateinisch-römischer Ursprung",
+    "Bedeutung: der Wertvolle / der Unschätzbare",
+    "männlicher Vorname",
+    "Spitznamen wie Tony möglich",
+    "in Namenslexika als in Deutschland bekannt beschrieben"
+  ],
+  "confidence": 0.78,
+  "display_text": "Anthony gilt im Deutschen als bekannter, internationaler Jungenname mit klassischer, freundlicher Wirkung. Die Quellen nennen lateinisch-römische Wurzeln und die Bedeutung „der Wertvolle“/„der Unschätzbare“. Die öffentliche Resonanz wirkt eher neutral bis leicht positiv, die Datenlage ist aber vor allem auf Namenslexika beschränkt.",
+  "evidence_quality": "mittel bis begrenzt: klare Namensbeschreibungen vorhanden, aber wenig unabhängige Breite in der öffentlichen Wahrnehmung.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Anthony",
+  "normalized_name": "anthony",
+  "overall_resonance": "Anthony wird in den vorliegenden deutschsprachigen Namensquellen überwiegend neutral bis leicht positiv dargestellt. Der Name wirkt international, vertraut und eher klassisch als ausgefallen.",
+  "practical_notes": [
+    "Für Suchmaschinen und Namensübersichten eignet sich die Einordnung als internationaler, klassischer Jungenname.",
+    "Die englische Schreibweise kann als markant, aber nicht ungewöhnlich wahrgenommen werden.",
+    "Kurzformen und Spitznamen können die Wirkung etwas lockern."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt fast vollständig aus wenigen Namenslexika und seiteninternen Kommentaren.",
+    "Öffentliche Resonanz ist daher nur eingeschränkt belastbar und eher als Tendenz zu verstehen.",
+    "Keine Hinweise auf eine soziale Stigmatisierung in der vorliegenden Evidenz."
+  ],
+  "short_summary": "Anthony wird in den Quellen als internationaler, klassischer und eher positiv konnotierter Jungenname beschrieben, mit begrenzter, vor allem namenslexikalischer Evidenz.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Anthony � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/A/An/Anthony/"
+    },
+    {
+      "confidence": 0.91,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Anthony: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Anthony.html"
+    }
+  ],
+  "style_effect": [
+    "international",
+    "klassisch",
+    "zeitlos",
+    "freundlich",
+    "eher modern wirkend"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Im deutschsprachigen Raum ist der Name bekannt und als Vorname geläufig, wirkt aber durch die englische Form etwas weniger alltäglich als Anton/Antonius."
+}

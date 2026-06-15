@@ -1,0 +1,62 @@
+{
+  "associations": [
+    "latinisierte Form",
+    "altgriechische Herkunft",
+    "Bedeutung rund um 'heiliger Name'",
+    "Namenstag",
+    "selten in Deutschland",
+    "biblisch bzw. kirchlich geprägt",
+    "edel und feierlich wirkend"
+  ],
+  "confidence": 0.88,
+  "display_text": "Hieronymus wirkt in Deutschland traditionsreich, klassisch und eher ungewöhnlich. Der Name ist selten und wird vor allem sachlich-namenskundlich beschrieben; einzelne kritische Eindrücke stammen aus subjektiven Kommentaren und sollten nicht verallgemeinert werden.",
+  "evidence_quality": "mittel: zwei thematisch passende Namenslexikon-Quellen, aber keine breite öffentliche Datenlage; teils subjektive Nutzerkommentare.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Hieronymus",
+  "normalized_name": "hieronymus",
+  "overall_resonance": "Eher traditionsreich und fachlich positiv konnotiert, in der öffentlichen Wahrnehmung aber zugleich sehr selten und für manche eher ungewohnt. Die vorhandenen Quellen zeigen insgesamt eine zurückhaltend-neutrale bis leicht gemischte Resonanz.",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt Hieronymus markant, historisch und sehr traditionsbetont.",
+    "Der Name ist im deutschen Alltag selten und fällt daher deutlich auf.",
+    "Als öffentlicher Eindruck überwiegen sachliche Namensinformationen; breite Debatten oder klare Trends sind nicht erkennbar."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist auf wenige Namenslexikon-Seiten begrenzt.",
+    "Einige negative Eindrücke stammen aus subjektiven Kommentaren und sind nicht als allgemeingültig zu werten.",
+    "Die Seltenheit kann als exzentrisch oder ungewohnt wahrgenommen werden, das ist aber eher eine soziale Einschätzung als eine objektive Eigenschaft des Namens."
+  ],
+  "short_summary": "Hieronymus wird öffentlich vor allem als seltener, traditionsreicher und gelehrt wirkender Vorname wahrgenommen. Die belegte Resonanz ist überwiegend neutral-sachlich, mit vereinzelt gemischten oder kritischen Kommentaren, die wegen der dünnen Evidenz vorsichtig zu bewerten sind.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.95,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Hieronymus � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/H/Hi/Hieronymus/"
+    },
+    {
+      "confidence": 0.92,
+      "is_name_discussion": true,
+      "sentiment": "gemischt",
+      "source_type": "web",
+      "title": "&#9655; Vorname Hieronymus: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Hieronymus.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "gelehrt",
+    "traditionsreich",
+    "lateinisch geprägt",
+    "ungewöhnlich",
+    "würdig"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland geringe Verbreitung; dadurch eher bekannt aus Namenskunde als aus alltäglichem Gebrauch."
+}

@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "althochdeutsche Herkunft",
+    "Bedeutung im Umfeld von Mut/Schutz bzw. „der Mutige“",
+    "männlicher Vorname",
+    "Namenstag",
+    "historisch in Deutschland verbreitet",
+    "Beliebtheit seit den 1990er/2000er Jahren rückläufig"
+  ],
+  "confidence": 0.87,
+  "display_text": "Helmut wirkt in der öffentlichen Beschreibung klassisch, traditionell und historisch deutsch. Der Name wird meist über Herkunft, Bedeutung und Namenstag erklärt; zugleich gilt er heute eher als weniger modern und seit den 1990er/2000er Jahren rückläufig. Die Evidenz zur tatsächlichen öffentlichen Resonanz ist dabei eher begrenzt und vor allem namenkundlich geprägt.",
+  "evidence_quality": "mittel bis schwach für öffentliche Resonanz; gut für namenkundliche Grundinformationen, aber begrenzt für aktuelle Wahrnehmung",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Helmut",
+  "normalized_name": "helmut",
+  "overall_resonance": "Helmut wird in der vorliegenden Evidenz vor allem als klassischer, traditioneller und historisch in Deutschland verbreiteter Jungenname dargestellt. Die öffentliche Resonanz wirkt eher sachlich-namenkundlich als emotional: Der Name wird häufig über Herkunft, Bedeutung und Namenstag eingeordnet. Zugleich deuten die Quellen auf eine seit den 1990er/2000er Jahren rückläufige Beliebtheit hin. Die Evidenz zur eigentlichen öffentlichen Wahrnehmung ist jedoch eher schwach und stützt sich überwiegend auf Namenslexika und beschreibende Seiten.",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt Helmut klar deutsch, traditionell und etabliert.",
+    "Der Name hat einen eher klassischen Klang und ist heute weniger modern besetzt.",
+    "Die Aussagen beziehen sich auf Namensbeschreibung und Beliebtheit, nicht auf konkrete Personen."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz zur öffentlichen Resonanz ist begrenzt und besteht vor allem aus allgemeinen Namensbeschreibungen.",
+    "Eine starke aktuelle gesellschaftliche Bewertung lässt sich daraus nicht ableiten."
+  ],
+  "short_summary": "Helmut wird überwiegend als klassischer, traditioneller deutscher Jungenname mit althochdeutscher Herkunft beschrieben; die Beliebtheit scheint seit Jahren rückläufig, die aktuelle öffentliche Resonanz wirkt eher sachlich als trendig.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Helmut � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/H/He/Helmut/"
+    },
+    {
+      "confidence": 0.94,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Helmut: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Helmut.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "traditionell",
+    "historisch",
+    "sachlich",
+    "namenkundlich",
+    "neutral-beschreibend"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Traditionell bekannt, heute eher seltener und weniger trendig wahrgenommen."
+}

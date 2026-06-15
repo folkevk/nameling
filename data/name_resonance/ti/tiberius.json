@@ -1,0 +1,66 @@
+{
+  "associations": [
+    "antikes Rom",
+    "Tiber",
+    "lateinische Herkunft",
+    "historischer Klang",
+    "männlicher Vorname",
+    "Seltenheit",
+    "Namenstag",
+    "Spitzname Tibi"
+  ],
+  "confidence": 0.76,
+  "display_text": "Tiberius wirkt in Deutschland vor allem klassisch-römisch, lateinisch und selten. Die verfügbare Evidenz ist begrenzt, zeigt aber eher eine positive bis neutrale Resonanz in Namensquellen.",
+  "evidence_quality": "Mittel: zwei einschlägige Namensquellen, aber wenig freie Community-Rezeption und kaum breitere soziale Kontextdaten.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Tiberius",
+  "normalized_name": "tiberius",
+  "overall_resonance": "Tiberius wird in den verfügbaren deutschen Namensquellen überwiegend als klassisch-römischer, lateinisch geprägter und sehr seltener Vorname wahrgenommen. Die Resonanz wirkt eher positiv bis neutral, mit einem starken Fokus auf Herkunft, Bedeutung und Seltenheit als auf breite Alltagsverwendung.",
+  "practical_notes": [
+    "Der Name fällt stark auf und wirkt gebildet bzw. traditionsbewusst.",
+    "Wegen der Seltenheit kann er als besonders individuell wahrgenommen werden.",
+    "Kurzformen oder Spitznamen können die formale Wirkung etwas abmildern.",
+    "Für eine öffentliche Resonanzkarte sollte der Name eher als Nischenname mit positiver klassischer Ausstrahlung beschrieben werden."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenzbasis ist begrenzt und stammt vor allem aus Namensdatenbanken statt aus breiter öffentlicher Debatte.",
+    "Positive Eindrücke können durch die lexikalische Präsentation der Quellen verstärkt sein.",
+    "Es gibt keine belastbaren Hinweise auf eine breite gesellschaftliche Stigmatisierung oder auf einheitliche Alltagsurteile."
+  ],
+  "short_summary": "Tiberius wird in deutschen Namensquellen meist positiv-klassisch und sehr selten wahrgenommen; die öffentliche Sichtbarkeit ist gering und die Evidenz begrenzt.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Tiberius � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/T/Ti/Tiberius/"
+    },
+    {
+      "confidence": 0.92,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Tiberius: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Tiberius.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch-römisch",
+    "historisch",
+    "lateinisch",
+    "elegant",
+    "selten",
+    "markant",
+    "ungewöhnlich",
+    "lexikalisch"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Eher geringe öffentliche Sichtbarkeit in Deutschland; der Name erscheint vor allem in Namenslexika und Datenbankeinträgen, nicht als stark diskutierter Alltagsname."
+}

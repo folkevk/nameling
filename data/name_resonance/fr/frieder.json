@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "Kurzform von Friedrich",
+    "Bedeutung: der Friedensreiche / Friedensherrscher",
+    "althochdeutsche Herkunft",
+    "Frieden, Schutz, Sicherheit",
+    "traditioneller Jungenname",
+    "heute kaum noch vergeben"
+  ],
+  "confidence": 0.83,
+  "display_text": "Frieder wirkt in der öffentlichen Wahrnehmung überwiegend neutral bis leicht positiv: ein seltener, traditioneller Jungenname mit der freundlichen Bedeutung rund um Frieden und Schutz. Die Quellen sind vor allem namenskundliche Datenbanken, daher ist die Evidenz zur breiten öffentlichen Resonanz eher begrenzt.",
+  "evidence_quality": "mittel: zwei einschlägige Namensquellen, aber nur begrenzte Breite und wenig direkte öffentliche Meinungsdaten.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Frieder",
+  "normalized_name": "frieder",
+  "overall_resonance": "Überwiegend neutral bis leicht positiv. Der Name Frieder wird in den vorliegenden Quellen vor allem sachlich-namenskundlich beschrieben und kaum emotional aufgeladen.",
+  "practical_notes": [
+    "Wirkt vertraut, aber nicht modern-trendhaft.",
+    "Kann als eigenständige Kurzform oder als traditionelle Ableitung von Friedrich verstanden werden.",
+    "Für Suchende, die einen seltenen, klassischen Namen mit positiver Friedensbedeutung suchen, ist Frieder gut anschlussfähig."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz zur öffentlichen Resonanz ist begrenzt und stützt sich vor allem auf Namensdatenbanken.",
+    "Beliebtheitsaussagen sollten vorsichtig gelesen werden, da nur wenige Quellen vorliegen.",
+    "Keine Hinweise auf relevante Stigmatisierung in den Quellen; falls im Alltag Vorurteile auftreten, wären diese nicht durch die Evidenz gedeckt."
+  ],
+  "short_summary": "Frieder wird überwiegend sachlich und freundlich wahrgenommen: ein seltener, traditioneller Vorname mit friedlicher Bedeutung und klarer Kurzform zu Friedrich.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Frieder � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/F/Fr/Frieder/"
+    },
+    {
+      "confidence": 0.94,
+      "is_name_discussion": true,
+      "sentiment": "eher positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Frieder: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Frieder.html"
+    }
+  ],
+  "style_effect": [
+    "kurz und bodenständig",
+    "altdeutsch/traditionell",
+    "freundlich durch die Friedens-Assoziation",
+    "lexikalisch klar",
+    "eher selten und dadurch markant"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Eher gering bis mittel. Laut den Quellen ist Frieder in Deutschland heute vergleichsweise selten und wird eher als traditionelle Kurzform wahrgenommen."
+}

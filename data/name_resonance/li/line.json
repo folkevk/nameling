@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "Kurzform oder Variante von Lina bzw. Karolina",
+    "Bedeutungsbezüge wie Flachs/Leinen",
+    "Namensdeutungen mit Freiheit und Horizont",
+    "deutschsprachiger Mädchenvorname",
+    "selten bis mäßig verbreitet"
+  ],
+  "confidence": 0.83,
+  "display_text": "Line wirkt in Deutschland eher selten, kurz und modern. Die verfügbaren Namensquellen beschreiben den Namen überwiegend freundlich und positiv, etwa als eigenständig, klar und leicht elegant. Die Evidenz ist dabei vor allem namenkundlich und nicht stark communitybasiert.",
+  "evidence_quality": "mittel bis gut für namenkundliche Einordnung, begrenzt für echte öffentliche Meinungsresonanz",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Line",
+  "normalized_name": "line",
+  "overall_resonance": "Der Vorname Line wird in deutschsprachigen Namensquellen überwiegend freundlich und eher leise positiv wahrgenommen. Er wirkt kurz, klar und modern, zugleich aber auch selten und etwas speziell. Die öffentliche Rezeption ist vor allem beschreibend-namenkundlich und nur begrenzt durch echte Community-Diskussionen gestützt.",
+  "practical_notes": [
+    "Für Suchmaschinen wirkt Line kurz, einprägsam und gut merkbar.",
+    "Die Seltenheit kann als Vorteil für Eigenständigkeit wahrgenommen werden.",
+    "Je nach Kontext kann der Name auch als Kurzform verstanden werden, nicht nur als eigenständiger Vorname.",
+    "Die Schreibweise ist einfach, die Deutung kann aber je nach Quelle variieren."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die vorliegende Evidenz stammt vor allem aus Namenslexika und Katalogseiten; die Resonanz ist daher eher beschreibend als breit diskursiv.",
+    "Positive Eindrücke wie 'schön' oder 'elegant' sind nicht als allgemeingültige Meinung zu verstehen, sondern als Tendenzen der verfügbaren Quellen.",
+    "Keine Hinweise auf soziale Stigmatisierung in der Evidenz."
+  ],
+  "short_summary": "Line wird in deutschen Namensquellen meist als kurzer, seltener und freundlich wirkender Mädchenname beschrieben, mit eher positiver, aber vor allem lexikalisch begründeter Resonanz.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.95,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Line � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/L/Li/Line/"
+    },
+    {
+      "confidence": 0.89,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Line: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Line.html"
+    }
+  ],
+  "style_effect": [
+    "kurz und prägnant",
+    "modern und schlicht",
+    "sanft weiblich konnotiert",
+    "selten und dadurch eigenständig",
+    "eher elegant als verspielt"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland scheint Line eher selten bis mäßig verbreitet zu sein und ist damit sichtbar, aber kein Massenname. Die Evidenzlage ist solide für Lexikon- und Namensdaten, jedoch schwächer für breit geteilte Alltagsresonanz."
+}

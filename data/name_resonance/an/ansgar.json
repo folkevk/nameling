@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "Bedeutung wird meist als „Speer Gottes“ oder „göttlicher Speer“ beschrieben",
+    "altgermanische und altnordische Herkunft",
+    "männlicher Vorname",
+    "Namenstag am 3. Februar",
+    "regionale Verbreitung in Deutschland, besonders im Nordwesten",
+    "eher lexikalische als popkulturelle Präsenz"
+  ],
+  "confidence": 0.83,
+  "display_text": "Ansgar wirkt in Deutschland eher traditionell, historisch und selten. Die öffentliche Wahrnehmung ist vor allem sachlich-namenskundlich; Hinweise auf starke gesellschaftliche Bewertungen gibt es in der vorliegenden Evidenz nicht.",
+  "evidence_quality": "mittel bis schwach: zwei namenskundliche Webquellen, beide sachlich und ohne breite öffentliche Diskussionslage",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Ansgar",
+  "normalized_name": "ansgar",
+  "overall_resonance": "Ansgar wirkt in der öffentlichen Namenswahrnehmung eher traditionell, sachlich und kulturell eingebettet als modisch oder trendig. Die vorhandene Evidenz spricht vor allem für eine namenskundliche, wenig emotionale Rezeption.",
+  "practical_notes": [
+    "Für eine Namenssuche eignet sich Ansgar als klassisch, historisch und eher selten wirkender Vorname.",
+    "Der Name ist gut verständlich, aber nicht modern-trendy.",
+    "Die Quellenlage erlaubt eine vorsichtige Beschreibung, keine weitreichenden Aussagen zur gesellschaftlichen Wirkung."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz zur öffentlichen Resonanz ist begrenzt und stammt fast nur aus Namenslexika.",
+    "Keine belastbaren Hinweise auf starke soziale Bewertung oder Stigmatisierung in der vorliegenden Quelle.",
+    "Beliebtheitsangaben sollten vorsichtig gelesen werden, da sie nicht unbedingt echte Alltagsresonanz abbilden."
+  ],
+  "short_summary": "Ansgar wird überwiegend als traditioneller, altgermanisch geprägter und eher seltener Vorname wahrgenommen. Die vorhandenen Quellen sind sachlich und deuten auf eine regionale, vor allem namenkundliche Präsenz hin.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Ansgar � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/A/An/Ansgar/"
+    },
+    {
+      "confidence": 0.91,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Ansgar: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Ansgar.html"
+    }
+  ],
+  "style_effect": [
+    "traditionell",
+    "altgermanisch/altnordisch geprägt",
+    "sachlich und historisch",
+    "eher selten als alltäglich",
+    "leicht markant durch die Klangform"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland erkennbar, aber eher selten und regional wahrnehmbar; die Quellen nennen besonders Nordwestdeutschland als Verbreitungsraum. Die öffentliche Sichtbarkeit scheint begrenzt und vor allem über Namenslexika und Beliebtheitslisten vermittelt."
+}

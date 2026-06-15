@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "deutscher Vorname im Gebrauch",
+    "slawische Herkunft bzw. Deutung",
+    "althebräische bzw. biblische Herleitung in einigen Quellen",
+    "Bedeutung: Himbeere",
+    "Bedeutung: die Erhabene",
+    "Beliebtheit bzw. Trendbezug in Deutschland"
+  ],
+  "confidence": 0.82,
+  "display_text": "Malina wirkt in den vorliegenden Quellen freundlich, modern und klanglich weich. Der Name wird meist positiv und namenkundlich interessant beschrieben, vor allem wegen unterschiedlicher Herkunfts- und Bedeutungsdeutungen wie „Himbeere“ oder „die Erhabene“. Die Evidenz ist allerdings begrenzt, da sie fast nur aus Namenslexika stammt.",
+  "evidence_quality": "Begrenzt: zwei einschlägige Namensseiten, überwiegend beschreibend und nicht breit öffentlich diskutierend.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Malina",
+  "normalized_name": "malina",
+  "overall_resonance": "Malina wird in den vorliegenden Quellen insgesamt freundlich und eher positiv wahrgenommen. Der Name erscheint modern, weich klingend und zugleich namenkundlich interessant, vor allem durch Hinweise auf Herkunft, Bedeutung und Beliebtheit. Die öffentliche Rezeption wirkt dabei vor allem beschreibend statt kontrovers.",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt Malina angenehm, weich und gut merkbar.",
+    "Wenn man eine eindeutig belegte Herkunft wünscht, sollte man die jeweilige Quelle prüfen, da mehrere Deutungen kursieren.",
+    "Die Wahrnehmung scheint eher positiv-neutral als stark meinungsgetrieben."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist schwach als Maß für echte öffentliche Resonanz, da sie fast ausschließlich aus Namensdatenbanken besteht.",
+    "Mehrere Bedeutungs- und Herkunftsdeutungen werden nebeneinander genannt; das ist eher namenkundliche Einordnung als gesicherte Alltagswahrnehmung.",
+    "Keine Hinweise auf negative gesellschaftliche Stigmatisierung in der vorliegenden Evidenz."
+  ],
+  "short_summary": "Malina wird in den verfügbaren Quellen eher positiv und freundlich beschrieben, mit modernen und weichen Klangassoziationen. Die Evidenz ist jedoch schmal und stammt vor allem aus Namenslexika.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.92,
+      "is_name_discussion": true,
+      "sentiment": "positive",
+      "source_type": "web",
+      "title": "Vorname Malina � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/M/Ma/Malina/"
+    },
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "mostly positive",
+      "source_type": "web",
+      "title": "&#9655; Vorname Malina: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Malina.html"
+    }
+  ],
+  "style_effect": [
+    "weiblich und sanft",
+    "modern, aber nicht übertrieben trendy",
+    "melodisch und leicht zugänglich",
+    "namenskundlich interessant durch mehrere Herleitungen",
+    "freundlich und positiv konnotiert"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Im deutschen Namenskontext ist Malina sichtbar, aber die Evidenz stammt fast nur aus Namenslexika und Infoseiten. Das spricht eher für eine moderate, suchbezogene Bekanntheit als für breit dokumentierte öffentliche Debatten."
+}

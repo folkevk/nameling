@@ -1,0 +1,59 @@
+{
+  "associations": [
+    "schwedische bzw. skandinavische Herkunft",
+    "Kurzform bzw. eigenständige Form von Lars/Laurentius",
+    "Bedeutung im Umfeld von 'Lorbeer' und 'der aus Laurentum Stammende'",
+    "Namenstag",
+    "beliebter Jungenname in Deutschland",
+    "freundlich-leichter Klang"
+  ],
+  "confidence": 0.86,
+  "display_text": "Lasse wirkt im deutschsprachigen Raum freundlich, modern-unaufgeregt und skandinavisch geprägt. Die vorhandene Evidenz deutet auf eine eher positive, jedenfalls unpolarisierte Wahrnehmung hin, ist aber vor allem lexikalisch und daher nur begrenzt öffentlich-repräsentativ.",
+  "evidence_quality": "mittel bis eher schwach: mehrere Namensquellen, aber überwiegend lexikalische statt diskursive Evidenz.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Lasse",
+  "normalized_name": "lasse",
+  "overall_resonance": "Überwiegend freundlich und unauffällig-modern wahrgenommen, mit klar skandinavischem Klang und sachlich positiver Namenswirkung. Die öffentliche Resonanz wirkt eher stabil als polarisierend.",
+  "practical_notes": [
+    "Für Suchmaschinenzwecke lässt sich Lasse als geläufiger, skandinavisch wirkender Jungenname beschreiben.",
+    "Die Wahrnehmung ist insgesamt eher positiv-neutral und wenig konfliktbehaftet.",
+    "Eine starke soziale Stigmatisierung ist in der vorliegenden Evidenz nicht erkennbar."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz basiert vor allem auf Namenslexika und Datenbankeinträgen, nicht auf einer breiten öffentlichen Debatte.",
+    "Positive Eindrücke stammen teils aus Beschreibungen und einzelnen Kommentaren; das ist nur begrenzt repräsentativ."
+  ],
+  "short_summary": "Lasse wird im Deutschen meist als sympathisch, nordisch und klar wahrgenommen. Die öffentliche Resonanz wirkt eher positiv-neutral, basiert aber vor allem auf Namenslexika und nicht auf breiter Debatte.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Lasse � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/L/La/Lasse/"
+    },
+    {
+      "confidence": 0.92,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Lasse: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Lasse.html"
+    }
+  ],
+  "style_effect": [
+    "skandinavisch",
+    "klar und kurz",
+    "modern-traditionell",
+    "sympathisch-unaufgeregt",
+    "eigenständig, aber vertraut"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Im deutschsprachigen Raum gut bekannt und sichtbar, besonders als Jungenname mit nordischem Charakter. Die Wahrnehmung ist jedoch eher namenkundlich als durch breite öffentliche Debatte geprägt."
+}

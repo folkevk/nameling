@@ -1,0 +1,66 @@
+{
+  "associations": [
+    "biblischer Ursprung",
+    "deutsche Form von Magdalena",
+    "Bedeutung: „die aus Magdala Stammende“",
+    "auch gedeutet als „die Erhabene“",
+    "Namenstag",
+    "selten",
+    "zeitlos",
+    "Spitznamen wie Magda, Lene oder Maggi"
+  ],
+  "confidence": 0.79,
+  "display_text": "Magdalene wirkt im deutschsprachigen Raum klassisch, biblisch geprägt und eher selten. Die öffentliche Resonanz ist überwiegend sachlich bis leicht positiv; zugleich kann der Name leicht traditionell oder altmodisch erscheinen. Die Evidenz ist jedoch begrenzt und stammt vor allem aus Namensseiten, nicht aus breiter öffentlicher Diskussion.",
+  "evidence_quality": "mittel bis schwach: zwei namenskundliche Webquellen, überwiegend beschreibend, nur begrenzt öffentliche Resonanz erkennbar.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Magdalene",
+  "normalized_name": "magdalene",
+  "overall_resonance": "Überwiegend sachlich bis leicht positiv, mit traditioneller und eher selten wirkender Anmutung.",
+  "practical_notes": [
+    "Wirkt klassisch und traditionsnah.",
+    "Kann je nach Kontext elegant, historisch oder leicht altmodisch klingen.",
+    "Kurzformen machen den Namen alltagstauglicher.",
+    "Für eine Namenssuche ist die Datenlage eher beschreibend als meinungsstark."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt vor allem aus Namensdatenbanken; echte öffentliche Diskussion ist nur schwach belegt.",
+    "„Altmodisch“ ist hier eher eine Stilwahrnehmung als eine objektive Bewertung.",
+    "Keine belastbaren Hinweise auf starke soziale Stigmatisierung in der vorliegenden Evidenz."
+  ],
+  "short_summary": "Magdalene wird im Deutschen eher als klassischer, biblisch geprägter und seltener Vorname wahrgenommen. Die vorhandenen Quellen zeigen eine sachliche bis leicht positive Resonanz, ohne starke öffentliche Debatte.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "Vorname Magdalene � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/M/Ma/Magdalene/"
+    },
+    {
+      "confidence": 0.84,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Magdalene: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Magdalene.html"
+    }
+  ],
+  "style_effect": [
+    "traditionell",
+    "biblisch geprägt",
+    "historisch",
+    "zeitlos",
+    "eher selten",
+    "leicht altmodisch",
+    "formal/klar",
+    "mit vertrauten Kurzformen"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Im deutschsprachigen Raum bekannt, aber nicht sehr häufig; die öffentliche Sichtbarkeit wirkt eher gering bis mittel."
+}

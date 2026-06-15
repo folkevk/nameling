@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "italienische Form von Paul",
+    "lateinischer Ursprung",
+    "Bedeutung: der Kleine / der Jüngere",
+    "männlicher Vorname",
+    "Namenstag",
+    "in Deutschland bekannt, aber nicht dominant",
+    "Heiligenname/Traditionsbezug"
+  ],
+  "confidence": 0.82,
+  "display_text": "Paolo wirkt in Deutschland eher positiv, klassisch und international. Der Name wird vor allem als italienische Form von Paul mit lateinischem Ursprung wahrgenommen. Die verfügbare Evidenz ist allerdings vor allem lexikalisch; eine breite öffentliche Debatte ist kaum sichtbar.",
+  "evidence_quality": "Begrenzt bis mittel: zwei überwiegend beschreibende Namensquellen, wenig freie öffentliche Diskussion.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Paolo",
+  "normalized_name": "paolo",
+  "overall_resonance": "Eher positiv und sachlich-neutral, mit starker Orientierung an Herkunft und Bedeutung statt an breiter öffentlicher Debatte.",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt Paolo klar, international und unkompliziert.",
+    "Der Name hat in Deutschland eine erkennbare, aber eher spezielle Präsenz.",
+    "Die Wahrnehmung ist stärker von Herkunft und Klang geprägt als von aktuellen Trenddebatten."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt fast nur aus Namenslexika und Ranking-Seiten; freie Alltagsresonanz ist kaum belegt.",
+    "Positive Eindrücke können durch die informative Darstellung und einzelne anekdotische Kommentare verstärkt sein.",
+    "Keine belastbaren Hinweise auf soziale Stigmatisierung in der vorliegenden Evidenz."
+  ],
+  "short_summary": "Paolo wird im deutschsprachigen Raum überwiegend positiv und sachlich wahrgenommen: ein italienisch geprägter, klassisch wirkender Vorname mit klarer Herkunft und Bedeutung. Die Evidenz ist jedoch vor allem lexikalisch und nur eingeschränkt als öffentliche Alltagsresonanz belastbar.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Paolo � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/P/Pa/Paolo/"
+    },
+    {
+      "confidence": 0.9,
+      "is_name_discussion": true,
+      "sentiment": "eher positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Paolo: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Paolo.html"
+    }
+  ],
+  "style_effect": [
+    "italienisch klingend",
+    "klassisch",
+    "kulturell klar zuordenbar",
+    "informativ",
+    "eher elegant als alltäglich"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Mittlere Sichtbarkeit im deutschsprachigen Namenskontext; der Name wird vor allem in Namenslexika und Ranking-/Informationsseiten behandelt, weniger in freier öffentlicher Diskussion."
+}

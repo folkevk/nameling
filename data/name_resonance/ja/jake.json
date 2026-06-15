@@ -1,0 +1,59 @@
+{
+  "associations": [
+    "englische Kurzform von Jacob/Jakob",
+    "männlicher Vorname",
+    "althebräische Herkunft über Jakob",
+    "Bedeutung im Sinn von \"Gott möge schützen\"",
+    "internationaler, angloamerikanischer Klang"
+  ],
+  "confidence": 0.82,
+  "display_text": "Jake wirkt in Deutschland eher neutral bis leicht positiv: ein kurzer, internationaler Jungenname mit englischer Prägung und klarer Herkunft zu Jacob/Jakob. Die Datenlage ist allerdings eher schmal und basiert vor allem auf Namenslexika, nicht auf breiter öffentlicher Diskussion.",
+  "evidence_quality": "mittel bis schwach; vor allem lexikalische Quellen, wenig echte öffentliche Debatte",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Jake",
+  "normalized_name": "jake",
+  "overall_resonance": "Jake wird in der vorliegenden Evidenz überwiegend neutral bis leicht positiv wahrgenommen. Der Name wirkt international, kurz und modern, mit klarer englischer Prägung und einer bekannten Ableitung zu Jacob/Jakob.",
+  "practical_notes": [
+    "Für die Namenssuche ist Jake vor allem dann relevant, wenn ein kurzer, international verständlicher Name gewünscht wird.",
+    "In Deutschland dürfte der Name eher selten und damit auffällig, aber nicht exotisch-extrem wirken.",
+    "Die Wahrnehmung ist insgesamt unaufgeregt; starke soziale Vorurteile sind in der Evidenz nicht erkennbar."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist auf wenige Namenslexika beschränkt; echte öffentliche Diskussionen sind kaum erkennbar.",
+    "Ein Teil der Wirkung stammt aus redaktionellen Beschreibungen und nicht aus breiter Community-Resonanz.",
+    "Positive Töne basieren nur vereinzelt auf Kommentaren und sollten nicht überinterpretiert werden."
+  ],
+  "short_summary": "Jake wird in Deutschland überwiegend neutral bis leicht positiv wahrgenommen: kurz, international und englisch geprägt. Die Evidenz ist aber begrenzt und stammt vor allem aus Namenslexika.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Jake � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/J/Ja/Jake/"
+    },
+    {
+      "confidence": 0.91,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Jake: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Jake.html"
+    }
+  ],
+  "style_effect": [
+    "kurz und prägnant",
+    "international/englisch klingend",
+    "modern und unkompliziert",
+    "lexikalisch gut einordenbar",
+    "eher informell als traditionell deutsch"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland ist der Name sichtbar, aber eher als spezieller internationaler Jungenname als als sehr häufiger Vorname. Die öffentliche Präsenz wirkt vor allem lexikalisch und informationsbasiert, weniger diskussionsstark."
+}

@@ -1,0 +1,62 @@
+{
+  "associations": [
+    "altgriechischer Ursprung",
+    "Bedeutung: die Siegbringende / Siegbringerin",
+    "weiblicher Vorname",
+    "makedonische Form",
+    "Varianten wie Berenike, Bernice",
+    "Namenstag",
+    "selten in Deutschland"
+  ],
+  "confidence": 0.74,
+  "display_text": "Berenice wirkt in Deutschland eher selten, klassisch und leicht elegant. Die vorhandene Evidenz ist vor allem namenskundlich und insgesamt eher positiv, aber die öffentliche Meinungsresonanz ist begrenzt.",
+  "evidence_quality": "mittel bis schwach: gute namenskundliche Quellen, aber wenig echte öffentliche Meinungsresonanz",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Berenice",
+  "normalized_name": "berenice",
+  "overall_resonance": "Berenice wirkt in der öffentlichen Namenswahrnehmung eher selten, klassisch und leicht gehoben. Die vorhandene Evidenz ist überwiegend namenskundlich statt meinungsstark und zeigt vor allem eine positive, sachliche Einordnung.",
+  "practical_notes": [
+    "Der Name dürfte für viele vertraut, aber nicht alltäglich wirken.",
+    "Die Schreib- und Variantenvielfalt kann im Alltag zu Rückfragen führen.",
+    "Für Suchmaschinen ist eine sachliche Einordnung sinnvoll, da die Resonanzlage begrenzt ist."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz zur öffentlichen Meinung ist schwach; es liegen vor allem beschreibende Namensquellen vor.",
+    "Einzelne positive oder neutrale Bewertungen sollten nicht als allgemeine Mehrheitsmeinung verstanden werden.",
+    "Keine belastbaren Hinweise auf soziale Stigmatisierung in der vorliegenden Evidenz."
+  ],
+  "short_summary": "Berenice wird in Deutschland meist als seltener, klassisch-klingender und positiv konnotierter Vorname wahrgenommen. Die Datenlage ist jedoch eher beschreibend als meinungsbasiert.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Berenice � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/B/Be/Berenice/"
+    },
+    {
+      "confidence": 0.86,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Berenice: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Berenice.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "selten",
+    "gehoben",
+    "eher elegant",
+    "historisch-kulturell",
+    "namenskundlich geprägt"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland eher selten bis mäßig verbreitet; die öffentliche Sichtbarkeit ist daher begrenzt. Die Resonanz basiert vor allem auf Namenslexika und wenigen begleitenden Erwähnungen, nicht auf breiter öffentlicher Diskussion."
+}

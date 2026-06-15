@@ -1,0 +1,62 @@
+{
+  "associations": [
+    "altenglische/angelsächsische Herkunft",
+    "Bedeutung im Sinn von Schutz/Besitz",
+    "traditioneller männlicher Vorname",
+    "Namenstag",
+    "selten bis moderat vergeben",
+    "Spitznamen wie Ed, Eddie oder Eddy"
+  ],
+  "confidence": 0.89,
+  "display_text": "Edmund wird in Deutschland meist als klassischer, traditioneller und eher seltener Vorname wahrgenommen. Die verfügbare Evidenz ist vor allem lexikalisch, daher ist die öffentliche Resonanz nur begrenzt sichtbar; negativ besetzt wirkt der Name in den Quellen nicht.",
+  "evidence_quality": "Gut für die Namensbedeutung und Einordnung, aber begrenzt für eine echte öffentliche Meinungsbreite, da die Quellen vor allem redaktionelle Namensseiten sind.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Edmund",
+  "normalized_name": "edmund",
+  "overall_resonance": "Der Vorname Edmund wird im deutschsprachigen Raum insgesamt sachlich bis leicht positiv wahrgenommen. Er wirkt traditionell, klassisch und eher selten, ohne starke negative öffentliche Konnotationen.",
+  "practical_notes": [
+    "Für die Namenswahl wirkt Edmund eher klassisch als modern.",
+    "Der Name kann seriös und traditionsbewusst wahrgenommen werden.",
+    "Kurze Koseformen sind im Umlauf, falls ein lockererer Alltagsstil gewünscht ist."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz basiert fast ausschließlich auf Namenslexika und nicht auf breiter öffentlicher Diskussion.",
+    "Es gibt keine Hinweise auf eine relevante soziale Stigmatisierung des Namens in den Quellen.",
+    "Einzelne Bedeutungszuschreibungen sollten als Namensdeutung und nicht als feste Eigenschaft verstanden werden."
+  ],
+  "short_summary": "Edmund ist in Deutschland ein klassischer, eher seltener Vorname mit überwiegend neutral bis leicht positiver Resonanz.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Edmund � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/E/Ed/Edmund/"
+    },
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Edmund: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Edmund.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "traditionell",
+    "bodenständig",
+    "historisch",
+    "eher selten",
+    "männlich-markant",
+    "formal bis würdevoll"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Eher geringe bis mittlere Sichtbarkeit in Deutschland: bekannt, aber nicht alltäglich. Die öffentliche Präsenz wirkt vor allem lexikalisch und namenskundlich, weniger als breit diskutierter Modename."
+}

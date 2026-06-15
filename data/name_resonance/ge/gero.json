@@ -1,0 +1,62 @@
+{
+  "associations": [
+    "althochdeutsche Herkunft",
+    "Bedeutung: „der Mann mit dem Speer“ / „Speerträger“",
+    "Kurzform von Ger-Namen",
+    "Namenspatron: heiliger Gero",
+    "Namenstag am 29. Juni",
+    "selten, aber bekannt",
+    "eher moderat bis niedrig in der Beliebtheit"
+  ],
+  "confidence": 0.87,
+  "display_text": "Gero wirkt in der öffentlichen Rezeption eher positiv-sachlich: ein seltener, traditionell-deutscher Vorname mit klarer Herkunft und der Bedeutung „Speerträger“. Die Sichtbarkeit ist eher gering bis mittel; die Einschätzungen stammen vor allem aus Namenslexika, nicht aus breiter Debatte.",
+  "evidence_quality": "mittel bis gut; zwei thematisch passende Webquellen, aber keine breite öffentliche Diskussionslage",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Gero",
+  "normalized_name": "gero",
+  "overall_resonance": "Eher positiv bis neutral-sachlich. Gero wirkt in der öffentlichen Namenswahrnehmung vor allem als seltener, traditionell-deutscher Vorname mit klarer Herkunft und angenehmer, bodenständiger Anmutung.",
+  "practical_notes": [
+    "Für Suchmaschinen eignet sich eine knappe, sachliche Einordnung am besten.",
+    "Der Name wird meist als traditionell und eigenständig wahrgenommen.",
+    "Die Seltenheit kann als Pluspunkt für Individualität erscheinen, sollte aber nicht überinterpretiert werden."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenzbasis ist klein und stark auf wenige Namensseiten gestützt.",
+    "Es gibt keine breite öffentliche Debatte oder klare Massenwahrnehmung zu diesem Namen.",
+    "Die positive Tönung ergibt sich vor allem aus Herkunft, Seltenheit und lexikalischer Beschreibung, nicht aus vielen unabhängigen Meinungen."
+  ],
+  "short_summary": "Gero wird überwiegend positiv-sachlich als seltener, altdeutscher Vorname mit klarer Bedeutung und traditioneller Wirkung wahrgenommen.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.91,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "Vorname Gero � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/G/Ge/Gero/"
+    },
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Gero: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Gero.html"
+    }
+  ],
+  "style_effect": [
+    "kurz und markant",
+    "altdeutsch/traditionell",
+    "namenskundlich geprägt",
+    "bodenständig",
+    "selten, aber vertraut",
+    "eher sachlich als verspielt"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Eher geringe bis mittlere Sichtbarkeit in Deutschland: bekannt, aber nicht häufig. Die öffentliche Rezeption scheint eher aus Namenslexika und Bedeutungsseiten als aus breiter Alltagsdiskussion zu stammen."
+}

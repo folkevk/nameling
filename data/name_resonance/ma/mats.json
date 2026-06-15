@@ -1,0 +1,67 @@
+{
+  "associations": [
+    "schwedische Form von Matthias",
+    "biblische Herkunft",
+    "Bedeutung: Geschenk Gottes",
+    "skandinavisch/nordisch",
+    "kurzer Jungenname",
+    "modern und unkompliziert",
+    "Namenstag/Apostel Matthias",
+    "in Deutschland zunehmend beliebt"
+  ],
+  "confidence": 0.84,
+  "display_text": "Mats wirkt in Deutschland überwiegend positiv: kurz, modern, skandinavisch und mit biblischer Bedeutung verbunden. Die vorliegende Evidenz ist allerdings vor allem namenskundlich und daher nur begrenzt aussagekräftig für die breite öffentliche Wahrnehmung.",
+  "evidence_quality": "mittel bis schwach für öffentliche Breitenresonanz; gut für Namensbedeutung und stilistische Einordnung",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Mats",
+  "normalized_name": "mats",
+  "overall_resonance": "Überwiegend positiv und modern-nordisch wahrgenommen, vor allem als kurzer, klarer Jungenname mit skandinavischer Anmutung und biblischer Bedeutung. Die öffentliche Resonanz wirkt freundlich und aktuell, aber die vorliegende Evidenz stammt fast nur aus Namensportalen und ist daher nur eingeschränkt repräsentativ für breitere Alltagswahrnehmung.",
+  "practical_notes": [
+    "Für Suchmaschinen nutzerfreundlich, weil kurz, klar und leicht merkbar.",
+    "Wirkt im Deutschen unkompliziert und zeitgemäß.",
+    "Die skandinavische Färbung kann als Stilmerkmal wahrgenommen werden.",
+    "Als Namensdeutung wird häufig die Bedeutung 'Geschenk Gottes' genannt."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz basiert fast ausschließlich auf Namenslexikon- und Datenbankseiten.",
+    "Die positive Einordnung kann durch die Art der Quellen verstärkt sein.",
+    "Keine belastbare Aussage zur breiten Alltagsresonanz außerhalb dieser Plattformen.",
+    "Keine Hinweise auf soziale Stigmatisierung in den Quellen."
+  ],
+  "short_summary": "Mats wird überwiegend positiv, modern und nordisch wahrgenommen. Die Belege sprechen für Beliebtheit und eine klare Bedeutung, stammen aber fast nur aus Namensportalen.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "Vorname Mats � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/M/Ma/Mats/"
+    },
+    {
+      "confidence": 0.92,
+      "is_name_discussion": true,
+      "sentiment": "überwiegend positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Mats: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Mats.html"
+    }
+  ],
+  "style_effect": [
+    "kurz und prägnant",
+    "modern",
+    "nordisch/skandinavisch",
+    "freundlich",
+    "zeitgemäß",
+    "einfach auszusprechen",
+    "klassisch durch biblische Ableitung",
+    "jugendlich-frisch"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Der Name ist in Deutschland sichtbar und offenbar gut bekannt; in den Quellen wird eine zunehmende bzw. beliebte Nutzung beschrieben. Die Breitenresonanz außerhalb von Namensdatenbanken ist mit den vorliegenden Belegen jedoch nur begrenzt abgesichert."
+}

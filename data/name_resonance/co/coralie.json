@@ -1,0 +1,62 @@
+{
+  "associations": [
+    "Koralle als Bedeutungsbezug",
+    "französischer Sprachraum",
+    "lateinische Herkunft",
+    "selten gebräuchlich",
+    "seit den 1970er Jahren in Deutschland verzeichnet",
+    "Namenstag",
+    "Kurzformen wie Cora oder Callie"
+  ],
+  "confidence": 0.86,
+  "display_text": "Coralie wirkt in Deutschland eher selten, elegant und freundlich-klingend. Die öffentliche Resonanz ist überwiegend positiv bis neutral; die Quellen betonen vor allem Herkunft, Bedeutung und die besondere, französisch anmutende Klangfarbe. Eine breite öffentliche Debatte ist nicht erkennbar.",
+  "evidence_quality": "Gut für Herkunft, Bedeutung und grobe Wahrnehmung, aber auf wenige, vorwiegend informative Namensseiten begrenzt.",
+  "generated_at": "2026-06-14T10:47:41Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Coralie",
+  "normalized_name": "coralie",
+  "overall_resonance": "In Deutschland wirkt Coralie als eher seltener, freundlich und klanglich eleganter Mädchenname mit überwiegend positiver bis neutraler öffentlicher Wahrnehmung. Die verfügbaren Quellen heben vor allem Herkunft, Bedeutung und Seltenheit hervor; eine breite öffentliche Debatte ist nicht erkennbar.",
+  "practical_notes": [
+    "Für die öffentliche Namenswahrnehmung ist vor allem die französisch wirkende, elegante Klangfarbe prägend.",
+    "Wer einen vertrauten, aber nicht sehr häufigen Namen sucht, findet hier einen eher individuellen Eindruck.",
+    "Die Schreibweise ist klar, die Aussprache kann je nach Region leicht unterschiedlich empfunden werden."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt fast ausschließlich aus Namensportalen; eine breite öffentliche Meinungsbasis ist dadurch nur eingeschränkt belegbar.",
+    "Positive Einschätzungen wie \"schön\" oder \"selten\" sind eher qualitative Portalwahrnehmungen als harte Allgemeinwerte.",
+    "Keine Hinweise auf eine soziale Stigmatisierung des Namens in den vorliegenden Quellen."
+  ],
+  "short_summary": "Coralie wird in Deutschland meist als seltener, elegant klingender Mädchenname mit positiver bis neutraler Resonanz wahrgenommen.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Coralie � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/C/Co/Coralie/"
+    },
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Coralie: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Coralie.html"
+    }
+  ],
+  "style_effect": [
+    "elegant",
+    "weich klingend",
+    "international/französisch geprägt",
+    "selten",
+    "namenskundlich interessant",
+    "modern-feminin wahrgenommen"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Eher gering bis moderat sichtbar: Der Name ist bekannt, aber nicht massenhaft verbreitet und wird vor allem in Namenslexika und Infotexten behandelt."
+}

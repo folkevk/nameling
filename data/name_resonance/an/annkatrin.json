@@ -1,0 +1,50 @@
+{
+  "associations": [
+    "Bedeutung und Herkunft",
+    "Doppelform aus zwei bekannten Namenselementen",
+    "Namensstatistik in Deutschland",
+    "seltene Verwendung",
+    "klassisch-deutsch wirkender Gesamteindruck"
+  ],
+  "confidence": 0.82,
+  "display_text": "Annkatrin: seltener, traditionell wirkender Doppelname; die öffentliche Rezeption erscheint in der vorliegenden Evidenz eher neutral und sachlich.",
+  "evidence_quality": "gut für eine vorsichtige, direkte Namensbeschreibung; begrenzt hinsichtlich Breite und Unabhängigkeit der Quellen",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Annkatrin",
+  "normalized_name": "annkatrin",
+  "overall_resonance": "Annkatrin wirkt öffentlich eher selten, sachlich und klar als klassischer deutscher Doppelname wahrgenommen. Die verfügbare Evidenz deutet vor allem auf eine namenskundliche, eher nüchterne Rezeption hin – ohne starke emotionale Aufladung.",
+  "practical_notes": [
+    "Für Suchmaschinen ist eine kurze Einordnung sinnvoll: seltener, traditionell klingender Mädchenvorname mit Doppelform-Charakter.",
+    "Bei öffentlicher Beschreibung besser keine pauschalen Aussagen über soziale Bewertung treffen; die Datenlage ist begrenzt."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz basiert nur auf einer einzelnen, quellengebundenen Namensseite; daraus lässt sich keine breite gesellschaftliche Rezeption ableiten.",
+    "Keine Hinweise auf starke Stigmatisierung oder negative Konnotationen in der vorliegenden Evidenz."
+  ],
+  "short_summary": "Annkatrin wird in der verfügbaren Evidenz als seltener, traditionell wirkender Doppelname mit neutraler, namenskundlicher Wahrnehmung beschrieben.",
+  "source_count": 1,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Annkatrin � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/A/An/Annkatrin/"
+    }
+  ],
+  "style_effect": [
+    "informativ",
+    "traditionell",
+    "doppelförmig",
+    "selten",
+    "lexikalisch",
+    "namenskundlich"
+  ],
+  "usable_evidence_count": 1,
+  "visibility": "eher gering bis moderat; in der öffentlichen Wahrnehmung vor allem als seltener Vorname präsent"
+}

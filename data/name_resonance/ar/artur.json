@@ -1,0 +1,64 @@
+{
+  "associations": [
+    "Bedeutung/Herkunft",
+    "Bär",
+    "Krieger",
+    "Artussage",
+    "keltische bzw. traditionsreiche Herkunft",
+    "Namenstag",
+    "Beliebtheit in Deutschland",
+    "seltenere Schreibweise gegenüber Arthur"
+  ],
+  "confidence": 0.84,
+  "display_text": "Artur wird überwiegend positiv und traditionell wahrgenommen: klassisch, klangvoll und mit starken Bezügen zu Herkunft, Bedeutung und Artussage. Die öffentliche Resonanz ist eher ruhig und vor allem lexikalisch belegt; Hinweise auf starke Debatten oder Stigmatisierung gibt es nicht.",
+  "evidence_quality": "gut, aber vor allem lexikalisch und beschreibend; öffentliche Resonanz nur mittelbar belegt",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Artur",
+  "normalized_name": "artur",
+  "overall_resonance": "Artur wird in den vorliegenden Quellen überwiegend sachlich und leicht positiv dargestellt. Der Name wirkt traditionell, klangvoll und historisch aufgeladen; die Resonanz entsteht vor allem aus Bedeutungs- und Herkunftsassoziationen, nicht aus starker öffentlicher Debatte.",
+  "practical_notes": [
+    "Für eine Namenssuche ist Artur eine gut etablierte, klassische Wahl mit positiver Grundtönung.",
+    "Die Schreibweise wirkt im Deutschen etwas seltener als Arthur und kann dadurch eigenständig erscheinen.",
+    "Wer einen traditionell wirkenden, klaren Namen sucht, findet hier eine unaufgeregte Option."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Quellen beschreiben vor allem den Namen selbst; Aussagen zur öffentlichen Resonanz sind daher nur indirekt ableitbar.",
+    "Keine belastbaren Hinweise auf Stigmatisierung oder negative gesellschaftliche Vorurteile in den Daten.",
+    "Die Einschätzung sollte nicht als allgemeingültige Meinung aller Sprecherinnen und Sprecher verstanden werden."
+  ],
+  "short_summary": "Artur wirkt in den Quellen traditionell, klassisch und leicht positiv. Die Resonanz ist eher ruhig als auffällig, mit starken Herkunfts- und Bedeutungsassoziationen.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "Vorname Artur � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/A/Ar/Artur/"
+    },
+    {
+      "confidence": 0.92,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Artur: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Artur.html"
+    }
+  ],
+  "style_effect": [
+    "traditionell",
+    "klassisch",
+    "namenskundlich",
+    "klangvoll",
+    "historisch",
+    "leicht markant",
+    "eher zeitlos"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Eher mittel bis gering: Es gibt solide Namenslexikon-Einträge und beschreibende Quellen, aber nur begrenzte direkte Hinweise auf breite öffentliche Diskussionen oder starke Trendwahrnehmung."
+}

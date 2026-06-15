@@ -1,0 +1,59 @@
+{
+  "associations": [
+    "Kurz- bzw. Koseform von Katharina",
+    "altgriechischer Herkunft bzw. eingedeutschte Variante",
+    "Bedeutung: „die Reine\"",
+    "Namenstag",
+    "selten, aber bekannt",
+    "Varianten wie Katenka, Katjonka, Katalin, Catharina"
+  ],
+  "confidence": 0.78,
+  "display_text": "Katinka wird eher positiv und klassisch wahrgenommen: ein seltener, aber bekannter Vorname mit der Bedeutung „die Reine“. Die verfügbaren Quellen sind jedoch schmal und vor allem namenskundlich, daher ist die Einordnung vorsichtig zu lesen.",
+  "evidence_quality": "begrenzt: zwei einschlägige Namensseiten, überwiegend beschreibend, keine breite Diskussionslage",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Katinka",
+  "normalized_name": "katinka",
+  "overall_resonance": "Katinka wird in den vorliegenden Quellen überwiegend freundlich und eher positiv-kulturell beschrieben: als seltene, aber bekannte Vornamensvariante mit klassischer Herkunft und der Bedeutung „die Reine“.",
+  "practical_notes": [
+    "Für die Namenssuche ist Katinka ein klarer, gut einordenbarer Name mit traditioneller Herkunft.",
+    "Die Seltenheit kann als individuell und einprägsam wirken.",
+    "Falls eine sehr aktuelle Trendbewertung gewünscht ist, reichen die vorhandenen Quellen dafür nicht aus."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz basiert nur auf wenigen, vorwiegend namenskundlichen Webseiten.",
+    "Es gibt keine belastbare breite öffentliche Meinungslage, daher nur vorsichtige Einordnung möglich.",
+    "Einzelne Quellen spiegeln eher Lexikon-Charakter als echte öffentliche Wahrnehmung wider."
+  ],
+  "short_summary": "Katinka wirkt in den Quellen selten, klassisch und eher positiv konnotiert, mit der Bedeutung „die Reine\". Die öffentliche Resonanz lässt sich wegen der schmalen Evidenz nur vorsichtig bewerten.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "Vorname Katinka � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/K/Ka/Katinka/"
+    },
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "neutral-positive",
+      "source_type": "web",
+      "title": "&#9655; Vorname Katinka: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Katinka.html"
+    }
+  ],
+  "style_effect": [
+    "klingt eher traditionell und zugleich ungewöhnlich",
+    "wirkt weiblich, weich und leicht verspielt",
+    "hat eine namenskundlich-klassische, leicht ost-/mitteleuropäische Anmutung",
+    "durch die Seltenheit auffällig, aber nicht extravagant"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland wirkt der Name eher selten, aber verständlich und nicht erklärungsbedürftig. Eine breite öffentliche Debatte ist in der Evidenz nicht erkennbar."
+}

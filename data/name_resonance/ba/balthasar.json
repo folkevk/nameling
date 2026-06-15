@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "Heilige Drei Könige",
+    "Namenstag am 6. Januar",
+    "biblische und altsprachliche Herkunft",
+    "akkadisch/babylonische Wurzeln",
+    "klassisch-traditioneller Klang",
+    "selten in Deutschland"
+  ],
+  "confidence": 0.9,
+  "display_text": "Balthasar wirkt in Deutschland überwiegend traditionsreich, biblisch und eher selten. Die öffentliche Rezeption ist sachlich bis leicht positiv; der Name wird vor allem mit den Heiligen Drei Königen, dem Namenstag am 6. Januar und einem altsprachlichen Klang verbunden.",
+  "evidence_quality": "gut: zwei namenskundliche Quellen mit konsistenten Angaben zu Herkunft, Namenstag, Bedeutung und Seltenheit in Deutschland; Tonalität überwiegend neutral-sachlich.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Balthasar",
+  "normalized_name": "balthasar",
+  "overall_resonance": "Überwiegend traditionsreich, historisch und eher ungewöhnlich im deutschen Sprachraum; die öffentliche Wahrnehmung wirkt sachlich bis leicht positiv, vor allem wegen der biblisch-kulturellen Einbettung.",
+  "practical_notes": [
+    "Wirkt im Deutschen markant und traditionsbewusst.",
+    "Passt gut zu einer öffentlichen, historisch geprägten Namenswirkung.",
+    "Für viele dürfte der Name eher auffallen als mit einem modernen Mainstream-Eindruck verbunden sein."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist insgesamt solide, aber überwiegend aus Namenslexika und Informationsseiten; das Bild ist daher eher beschreibend als repräsentativ für breite Alltagsmeinungen.",
+    "Die Wahrnehmung als 'besonders' oder 'alt' ist eine kulturelle Einordnung und keine allgemeingültige Bewertung."
+  ],
+  "short_summary": "Balthasar wird in Deutschland vor allem als seltener, traditionsreicher und biblisch geprägter Vorname wahrgenommen.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Balthasar � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/B/Ba/Balthasar/"
+    },
+    {
+      "confidence": 0.94,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Balthasar: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Balthasar.html"
+    }
+  ],
+  "style_effect": [
+    "altsprachlich",
+    "biblisch-religiös",
+    "feierlich",
+    "traditionsreich",
+    "selten/besonders",
+    "historisch"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Eher gering: Der Name wird in Deutschland als selten beschrieben und fällt dadurch mehr als besonderer Traditionsname auf als als verbreiteter Alltagsname."
+}

@@ -1,0 +1,67 @@
+{
+  "associations": [
+    "Nebenform von Karin bzw. Kurzform von Katharina",
+    "Bedeutungen wie „die Reine“ und teils „die Freie“",
+    "in einzelnen Quellen auch skandinavisch, altgriechisch oder japanisch eingeordnet",
+    "gelegentlich mit anderen Schreib- oder Namensformen verwechselt",
+    "selten bis moderat verbreitet in Deutschland"
+  ],
+  "confidence": 0.91,
+  "display_text": "Karen wirkt öffentlich überwiegend neutral bis leicht positiv. Der Name erscheint klassisch und eher selten bis moderat verbreitet, mit vor allem lexikalischen Assoziationen wie „die Reine“ oder als Nebenform von Karin/Katharina. Negative Konnotationen sind in der vorliegenden Evidenz nicht dominant; eher werden gelegentlich Verwechslungen oder unterschiedliche Herkunftsangaben erwähnt.",
+  "evidence_quality": "Mittel bis gut: mehrere klar namensbezogene Lexikonquellen, aber nur begrenzt unabhängige öffentliche Resonanz außerhalb dieser Quellen.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Karen",
+  "normalized_name": "karen",
+  "overall_resonance": "Überwiegend neutral bis leicht positiv; der Name wird in den Quellen vor allem sachlich-namenskundlich beschrieben.",
+  "practical_notes": [
+    "Für die öffentliche Wahrnehmung wirkt Karen eher sachlich, klassisch und unaufgeregt.",
+    "Der Name ist gut einordbar, aber nicht sehr häufig.",
+    "Bei der Namenssuche können unterschiedliche Herkunftsangaben je nach Quelle auftauchen; das ist eher ein Lexikon- als ein Reputationssignal."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die öffentliche Resonanz beruht vor allem auf Namenslexika; unabhängige Alltagsnutzung ist in der Evidenz schwach belegt.",
+    "Herkunft und Bedeutung sind je nach Quelle mehrdeutig und nicht einheitlich.",
+    "Vereinzelt werden Verwechslungs- oder Aussprachehinweise genannt, ohne starke negative Bewertung."
+  ],
+  "short_summary": "Karen wird in den Quellen überwiegend neutral bis leicht positiv wahrgenommen: klassisch, selten bis moderat verbreitet und vor allem etymologisch interessant.",
+  "source_count": 3,
+  "sources": [
+    {
+      "confidence": 0.94,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Karen � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/K/Ka/Karen/"
+    },
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Karen � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/K/Ka/Karen/"
+    },
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Karen: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Karen.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "etymologisch",
+    "nüchtern",
+    "international anschlussfähig",
+    "teils modern, teils traditionell eingeordnet"
+  ],
+  "usable_evidence_count": 3,
+  "visibility": "In Deutschland eher selten bis moderat sichtbar, in Namenslexika aber klar präsent."
+}

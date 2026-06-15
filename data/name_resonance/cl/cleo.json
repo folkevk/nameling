@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "altgriechischer Ursprung",
+    "Bedeutung im Umfeld von Ehre/Ruhm bzw. Berühmtheit",
+    "Kurzform von Cleopatra bzw. verwandten Namen",
+    "häufig als weiblich wahrgenommen, grundsätzlich auch unisex-nah",
+    "selten bis zunehmend beliebt",
+    "sachlich-positive Namenslexikon-Einordnung"
+  ],
+  "confidence": 0.84,
+  "display_text": "Cleo wirkt in den vorliegenden Quellen überwiegend positiv bis neutral: ein kurzer, moderner Name mit altgriechischem Hintergrund und eher angenehmer, markanter Klangwirkung. In Deutschland wird er als bekannt und eher beliebt beschrieben, aber nicht als massenhaft verbreitet. Da die Evidenz vor allem aus Namenslexika stammt, ist die Einschätzung vorsichtig zu lesen.",
+  "evidence_quality": "mittel: zwei relevante, aber überwiegend lexikalische Webquellen; wenig breite öffentliche Debatte",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Cleo",
+  "normalized_name": "cleo",
+  "overall_resonance": "Überwiegend positiv bis neutral: Cleo wird in den vorliegenden Quellen als kurzer, moderner und klanglich eingängiger Vorname mit altgriechischem Bezug beschrieben. Die Rezeption wirkt eher wohlwollend als kontrovers.",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt Cleo modern, kurz und international verständlich.",
+    "Die Quellen deuten auf eine eher positive, unaufgeregte öffentliche Wahrnehmung hin.",
+    "Wegen der eher schmalen Evidenz ist die Einschätzung vorsichtig zu interpretieren."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt fast nur aus Namenslexika und redaktionellen Einordnungen, nicht aus breiten öffentlichen Diskussionen.",
+    "Es sind keine klaren Kontroversen oder negative Stigmatisierungen erkennbar.",
+    "Beliebtheitsangaben sollten vorsichtig gelesen werden, da sie je nach Quelle unterschiedlich gewichtet sein können."
+  ],
+  "short_summary": "Cleo wird in Deutschland überwiegend positiv bis neutral wahrgenommen: kurz, modern, klangvoll und mit altgriechischer Bedeutung. Die verfügbare Evidenz ist jedoch eher lexikalisch als öffentlich-diskursiv.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Cleo � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/C/Cl/Cleo/"
+    },
+    {
+      "confidence": 0.9,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Cleo: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Cleo.html"
+    }
+  ],
+  "style_effect": [
+    "kurz und prägnant",
+    "modern und unkompliziert",
+    "klanglich weich und markant",
+    "namenskundlich aufgeladen",
+    "eher elegant als verspielt"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland als bekannt und eher beliebt beschrieben, zugleich nicht extrem häufig. Die Wahrnehmung ist damit eher präsent als dominant."
+}

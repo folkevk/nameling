@@ -1,0 +1,62 @@
+{
+  "associations": [
+    "spanischer weiblicher Vorname",
+    "lateinische Herkunft",
+    "Bedeutung: die Schmerzensreiche",
+    "Bezug zu Maria / Mater Dolorosa",
+    "Namenstag",
+    "selten in Deutschland",
+    "Spitznamen wie Lola oder Dori"
+  ],
+  "confidence": 0.84,
+  "display_text": "Dolores wirkt in Deutschland eher selten, traditionell und melodisch. Die öffentliche Resonanz ist überwiegend sachlich bis leicht positiv, auch wenn die Bedeutung „die Schmerzensreiche“ eine eher ernste Assoziation mitbringt. Die Evidenz ist dabei vor allem namenskundlich und nur indirekt öffentlich belegt.",
+  "evidence_quality": "mittel bis schwach: zwei namenskundliche Webquellen, wenig echte Publikumsdiskussion, dafür konsistente Angaben zu Herkunft, Bedeutung und Wirkung",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Dolores",
+  "normalized_name": "dolores",
+  "overall_resonance": "Eher sachlich bis leicht positiv wahrgenommen, mit traditioneller und melodischer Ausstrahlung. Die öffentliche Wirkung ist jedoch nur indirekt aus Namenslexika und Beliebtheitsangaben ableitbar, nicht aus starker Diskussion im Netz.",
+  "practical_notes": [
+    "Für Suchmaschinen wirkt der Name klar, klassisch und gut einordenbar.",
+    "Durch die Seltenheit kann Dolores auffallen, ohne exzentrisch zu wirken.",
+    "Die Kurzformen Lola, Dori oder Dolly werden teils als freundlich und weicher wahrgenommen."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Bedeutung ist deutlich schmerzbezogen; das kann bei manchen Menschen eine eher ernste Assoziation auslösen.",
+    "Die Evidenz ist überwiegend lexikalisch und redaktionell, daher nur eingeschränkt als echte öffentliche Resonanz interpretierbar.",
+    "Keine belastbaren Hinweise auf eine einheitlich positive oder negative Gesamtwahrnehmung; der Eindruck hängt stark vom Kontext ab."
+  ],
+  "short_summary": "Dolores wird in Deutschland eher selten, traditionell und melodisch wahrgenommen. Die Resonanz ist meist sachlich bis leicht positiv, wobei die schmerzbezogene Bedeutung als möglicher Haken mitgedacht werden sollte.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.94,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Dolores � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/D/Do/Dolores/"
+    },
+    {
+      "confidence": 0.94,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Dolores: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Dolores.html"
+    }
+  ],
+  "style_effect": [
+    "melodisch",
+    "traditionell",
+    "klassisch-spanisch",
+    "eher selten",
+    "lexikalisch-markant",
+    "katholisch geprägt"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "eher gering bis mittel; der Name wirkt bekannt, aber nicht alltäglich und wird in Deutschland eher selten eingeordnet"
+}

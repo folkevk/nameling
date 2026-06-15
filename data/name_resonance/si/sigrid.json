@@ -1,0 +1,62 @@
+{
+  "associations": [
+    "altnordischer Ursprung",
+    "altisländische Wurzeln",
+    "Bedeutung im Umfeld von 'Sieg' und 'schön'",
+    "nordischer weiblicher Vorname",
+    "früher beliebter, heute seltener Name",
+    "Namenstag",
+    "kurze Spitznamenformen wie Sigi oder Siri"
+  ],
+  "confidence": 0.85,
+  "display_text": "Sigrid wirkt in der öffentlichen Wahrnehmung überwiegend neutral bis leicht positiv: ein klassisch-nordischer, eher seltener Vorname mit traditionsreicher Anmutung. Die Evidenz ist allerdings begrenzt und stammt vor allem aus Namensdatenbanken, nicht aus einer breiten öffentlichen Debatte.",
+  "evidence_quality": "Begrenzt: zwei übereinstimmende, sachliche Namensquellen; keine breite Diskussionslage oder repräsentative öffentliche Debatte sichtbar.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Sigrid",
+  "normalized_name": "sigrid",
+  "overall_resonance": "Überwiegend neutral bis leicht positiv, mit eher sachlich-namenkundlicher Wahrnehmung als breiter öffentlicher Debatte.",
+  "practical_notes": [
+    "Für Suchmaschinen-Nutzer wirkt der Name klar, traditionsreich und gut einordbar.",
+    "Die Wahrnehmung erscheint eher informativ als emotional aufgeladen.",
+    "Wegen der Seltenheit in Deutschland kann der Name als markant, aber nicht exotisch wirken."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz basiert nur auf zwei Namensseiten; eine breite öffentliche Resonanz ist daraus nur eingeschränkt ableitbar.",
+    "Positive oder negative Alltagsassoziationen sind in der Quelle kaum direkt belegt.",
+    "Keine Hinweise auf soziale Stigmatisierung in der vorliegenden Evidenz."
+  ],
+  "short_summary": "Sigrid wird in Deutschland vor allem sachlich als nordisch-traditioneller, eher seltener Vorname wahrgenommen. Die vorliegende Evidenz ist schwach und zeigt keine starke öffentliche Debatte, eher neutrale bis leicht positive Namenskunde.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.95,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Sigrid � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/S/Si/Sigrid/"
+    },
+    {
+      "confidence": 0.94,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Sigrid: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Sigrid.html"
+    }
+  ],
+  "style_effect": [
+    "altnordisch/nordisch geprägt",
+    "klassisch-traditionell",
+    "zeitlos",
+    "eher selten in Deutschland",
+    "namenkundlich klar einordenbar",
+    "mit historischer Anmutung"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Eher geringe öffentliche Sichtbarkeit in Deutschland; der Name wird vor allem in Namensdatenbanken und Lexika erklärt, nicht stark diskutiert."
+}

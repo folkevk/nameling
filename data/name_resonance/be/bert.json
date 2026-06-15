@@ -1,0 +1,59 @@
+{
+  "associations": [
+    "althochdeutsche Herkunft",
+    "Kurzform von Namen mit -bert, etwa Berthold, Bertram oder Albert",
+    "Bedeutung im Umfeld von „der Berühmte“ / „der Strahlende“",
+    "kurzer, klar klingender Vorname",
+    "eher traditionell als modern"
+  ],
+  "confidence": 0.88,
+  "display_text": "Bert wirkt in den Quellen kurz, klassisch und eher traditionell. Die öffentliche Rezeption ist insgesamt neutral bis leicht positiv; der Name wird vor allem über Herkunft, Bedeutung und Klang beschrieben und heute eher als selten vergeben eingeordnet.",
+  "evidence_quality": "gut, aber inhaltlich eng begrenzt auf wenige namenskundliche Webquellen",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Bert",
+  "normalized_name": "bert",
+  "overall_resonance": "Bert wird in deutschsprachigen Namensquellen überwiegend als kurzer, traditioneller und eher klassisch wirkender Jungenname beschrieben. Die öffentliche Rezeption ist insgesamt neutral bis leicht positiv, mit Fokus auf Herkunft, Bedeutung und Klang statt auf starke modische Trends.",
+  "practical_notes": [
+    "Für Namenssuchende wirkt Bert meist unkompliziert, klassisch und leicht merkbar.",
+    "Der Name kann als seltenere, zurückhaltende Alternative zu längeren -bert-Namen wahrgenommen werden.",
+    "Die Quellen betonen vor allem Bedeutung und Herkunft; die Alltagswahrnehmung ist weniger stark dokumentiert."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz zur öffentlichen Resonanz ist begrenzt und stammt vor allem aus Namenslexika.",
+    "Einzelne gemischte Nutzerkommentare werden erwähnt, ohne dass daraus ein eindeutiges Stimmungsbild ableitbar wäre.",
+    "Keine belastbaren Hinweise auf starke soziale Stigmatisierung in den vorliegenden Quellen."
+  ],
+  "short_summary": "Bert wird überwiegend neutral bis leicht positiv wahrgenommen: kurz, klassisch, traditionell und heute eher selten.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Bert � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/B/Be/Bert/"
+    },
+    {
+      "confidence": 0.91,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Bert: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Bert.html"
+    }
+  ],
+  "style_effect": [
+    "kurz und prägnant",
+    "klassisch-traditionell",
+    "eher bodenständig",
+    "namenskundlich klar einzuordnen",
+    "wenig verspielt, eher sachlich"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Der Name ist bekannt, aber heute eher selten vergeben. In den verfügbaren Quellen erscheint er vor allem als namenskundlich interessant und nicht als stark trendiger Vorname."
+}

@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "französische Form von Stefan/Stephan",
+    "Bedeutung: der Gekrönte",
+    "altgriechische Herkunft",
+    "männlicher Vorname",
+    "selten in Deutschland",
+    "Namenstag (je nach Quelle genannt)"
+  ],
+  "confidence": 0.84,
+  "display_text": "Etienne wird in Deutschland meist als seltener, französisch geprägter und stilvoller Vorname wahrgenommen. Die öffentliche Resonanz ist überwiegend neutral bis leicht positiv, allerdings ist die Evidenz eher schmal und kommt vor allem aus Namenslexika.",
+  "evidence_quality": "mittel: direkt namensbezogene Quellen, aber öffentliche Resonanz nur begrenzt und hauptsächlich lexikalisch belegt",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Etienne",
+  "normalized_name": "etienne",
+  "overall_resonance": "Etienne wirkt in der öffentlichen Namenswahrnehmung eher stilvoll, klar französisch geprägt und insgesamt neutral bis leicht positiv. Der Name wird vor allem als seltenere, international klingende Variante von Stefan/Stephan beschrieben.",
+  "practical_notes": [
+    "Für deutsche Ohren wirkt der Name eher markant und international als alltäglich.",
+    "Die Schreibweise ist klar, die Aussprache kann je nach Umfeld als französisch wahrgenommen werden.",
+    "Als seltener Vorname kann Etienne als individuell und distinguiert wahrgenommen werden."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die öffentliche Evidenz ist begrenzt und stammt überwiegend aus Namenslexika statt aus breiter gesellschaftlicher Debatte.",
+    "Die Wahrnehmung basiert vor allem auf sprachlicher und kultureller Einordnung, nicht auf starkem Alltags-Feedback."
+  ],
+  "short_summary": "Etienne wird in Deutschland eher selten, französisch und stilvoll wahrgenommen; die öffentliche Resonanz ist überwiegend neutral bis leicht positiv, aber nur schwach breiter belegt.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Etienne � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/E/Et/Etienne/"
+    },
+    {
+      "confidence": 0.86,
+      "is_name_discussion": true,
+      "sentiment": "mostly positive",
+      "source_type": "web",
+      "title": "&#9655; Vorname Etienne: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Etienne.html"
+    }
+  ],
+  "style_effect": [
+    "französisch",
+    "elegant",
+    "international",
+    "klassisch",
+    "selten",
+    "namenskundlich klar"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland eher selten vergeben und deshalb auffälliger als sehr gebräuchliche Vornamen. Die öffentliche Präsenz ist vorhanden, aber nicht breit diskutiert."
+}

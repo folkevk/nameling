@@ -1,0 +1,70 @@
+{
+  "associations": [
+    "altfranzösische und germanische Herkunft",
+    "Bedeutung wird je nach Quelle unterschiedlich angegeben",
+    "unisex bzw. genderneutral einordbar",
+    "in Deutschland eher selten",
+    "moderne, internationale Anmutung",
+    "Kurzformen und Varianten wie Jocy, Jo oder Josie",
+    "teilweise positive Community-Reaktionen"
+  ],
+  "confidence": 0.78,
+  "display_text": "Jocelyn wirkt in Deutschland eher selten, international und modern. Die öffentliche Rezeption ist überwiegend neutral bis leicht positiv, mit sachlichen Namenslexikon-Quellen und einigen positiven Kommentaren. Die Evidenz ist begrenzt und teils uneinheitlich bei Herkunft und Bedeutung.",
+  "evidence_quality": "mittel bis schwach: mehrere einschlägige Namensquellen, aber keine breite öffentliche Debatte und teils widersprüchliche Bedeutungsangaben.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Jocelyn",
+  "normalized_name": "jocelyn",
+  "overall_resonance": "Jocelyn wird in der verfügbaren Evidenz überwiegend als internationaler, eher seltener und sachlich wahrgenommener Vorname beschrieben. In Deutschland wirkt er bekannt, aber nicht häufig; die öffentliche Rezeption ist eher neutral bis leicht positiv.",
+  "practical_notes": [
+    "Für die öffentliche Wahrnehmung wirkt der Name eher auffällig als alltäglich.",
+    "Im deutschen Kontext dürfte er als international und modern verstanden werden.",
+    "Wegen der geringen Verbreitung ist die genaue Klangwirkung stärker vom persönlichen Umfeld abhängig als bei häufigen Namen."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist schmal und basiert vor allem auf einzelnen Namenslexikon-Seiten.",
+    "Die Angaben zu Herkunft und Bedeutung variieren zwischen den Quellen; das sollte als unterschiedliche Deutungen verstanden werden.",
+    "Ein Teil der positiven Resonanz stammt aus Nutzerkommentaren und ist daher nicht repräsentativ für die Gesamtwahrnehmung."
+  ],
+  "short_summary": "Jocelyn wird in Deutschland eher selten, international und überwiegend neutral bis leicht positiv wahrgenommen; die Evidenz ist jedoch begrenzt und vor allem lexikalisch.",
+  "source_count": 3,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Jocelyn � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/J/Jo/Jocelyn/"
+    },
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Jocelyn � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/J/Jo/Jocelyn/"
+    },
+    {
+      "confidence": 0.91,
+      "is_name_discussion": true,
+      "sentiment": "mostly positive",
+      "source_type": "web",
+      "title": "&#9655; Vorname Jocelyn: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Jocelyn.html"
+    }
+  ],
+  "style_effect": [
+    "international",
+    "modern klingend",
+    "weich und elegant wirkend",
+    "selten, aber nicht unbekannt",
+    "unisex, in der Praxis eher weiblich verwendet",
+    "namenskundlich geprägt statt emotional aufgeladen"
+  ],
+  "usable_evidence_count": 3,
+  "visibility": "Die Sichtbarkeit scheint in Deutschland niedrig bis moderat zu sein: Der Name ist vorhanden und bekannt, aber kein verbreiteter Standardname. Die Evidenzlage ist jedoch begrenzt und stützt sich vor allem auf einzelne Namenslexika."
+}

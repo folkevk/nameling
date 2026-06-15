@@ -1,0 +1,62 @@
+{
+  "associations": [
+    "hebräischer Ursprung",
+    "biblische Bezüge",
+    "verschiedene Bedeutungsdeutungen in den Quellen",
+    "Schreibvariante zu Lea",
+    "Beliebtheit in Deutschland",
+    "Namenstag in manchen Quellen",
+    "Spitznamen wie Lele/Lela/Lee"
+  ],
+  "confidence": 0.84,
+  "display_text": "Leah wirkt in Deutschland überwiegend positiv bis neutral: modern, international und biblisch geprägt. Die vorliegenden Quellen sind vor allem Namenslexika, daher ist die Aussage zur breiten öffentlichen Resonanz vorsichtig zu lesen. Die Bedeutungen und Deutungen sind teils unterschiedlich überliefert.",
+  "evidence_quality": "mittel bis gut für namenskundliche Einordnung, aber nur begrenzt aussagekräftig für breitere öffentliche Resonanz; die Quellen sind hauptsächlich lexikalisch und populärnamenskundlich.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Leah",
+  "normalized_name": "leah",
+  "overall_resonance": "Überwiegend positiv bis neutral; Leah wirkt in den vorliegenden Namensquellen modern, international und vertraut, ohne auffällige negative öffentliche Konnotationen.",
+  "practical_notes": [
+    "Für die öffentliche Wahrnehmung überwiegen sachliche und positive Assoziationen.",
+    "Der Name ist leicht verständlich, international anschlussfähig und in Deutschland bekannt.",
+    "Wer eine eindeutige historische Deutung sucht, sollte die unterschiedlichen Namensbedeutungen mitbedenken."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Etymologie wird in den Quellen unterschiedlich gedeutet; die Bedeutungsangaben sind daher nicht eindeutig.",
+    "Die Evidenz stammt fast ausschließlich aus Namenslexika, daher ist die Aussage zur allgemeinen öffentlichen Resonanz nur begrenzt belastbar.",
+    "Einzelne Kommentare oder personenbezogene Inhalte wurden bewusst nicht als öffentliche Rezeption gewertet."
+  ],
+  "short_summary": "Leah wird in den vorliegenden deutschen Namensquellen überwiegend positiv und neutral wahrgenommen: modern, international und biblisch geprägt. Die Bedeutungen sind jedoch nicht ganz einheitlich, und die Evidenz zur breiten öffentlichen Resonanz ist begrenzt.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.95,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Leah � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/L/Le/Leah/"
+    },
+    {
+      "confidence": 0.89,
+      "is_name_discussion": true,
+      "sentiment": "mostly positive",
+      "source_type": "web",
+      "title": "&#9655; Vorname Leah: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Leah.html"
+    }
+  ],
+  "style_effect": [
+    "modern",
+    "international",
+    "biblisch geprägt",
+    "informativ-lexikalisch",
+    "kurz und klar im Klang",
+    "zeitgemäß, aber nicht ausgefallen"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland gut sichtbar und als Vorname bekannt; die Wahrnehmung scheint vor allem über Namenslexika, Beliebtheitsangaben und Bedeutungsdeutungen geprägt zu sein."
+}

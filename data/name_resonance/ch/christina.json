@@ -1,0 +1,64 @@
+{
+  "associations": [
+    "Bedeutung: die Christin / Anhängerin Christi",
+    "christlicher Bezug",
+    "lateinisch/altgriechische Herkunft",
+    "Namenstag",
+    "historisch weit verbreitet",
+    "in Deutschland bekannt",
+    "Beliebtheitsschwerpunkt in den 1980er-Jahren",
+    "heute seltener"
+  ],
+  "confidence": 0.93,
+  "display_text": "Christina gilt in den Quellen als klassischer, vertrauter und zeitloser Vorname mit christlicher Bedeutung. Die öffentliche Wahrnehmung ist überwiegend positiv bis neutral; eine soziale Stigmatisierung ist nicht erkennbar. Heute scheint der Name seltener als in früheren Jahrzehnten, bleibt aber klar bekannt und etabliert.",
+  "evidence_quality": "Gut für Bedeutung, Herkunft und allgemeine Namenswirkung; begrenzt für aktuelle öffentliche Debatte, da vor allem lexikalische Quellen vorliegen.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Christina",
+  "normalized_name": "christina",
+  "overall_resonance": "Überwiegend positiv bis neutral-klassisch. Der Name Christina wird in den vorliegenden Quellen als vertraut, zeitlos und historisch etabliert beschrieben, mit starker christlicher Namensbedeutung und klarer Bekanntheit in Deutschland.",
+  "practical_notes": [
+    "Für Suchmaschinen-Kontext eignet sich eine kurze Beschreibung als klassischer, traditioneller Vorname.",
+    "Der Name wirkt in den Quellen eher freundlich und etabliert als modern-experimentell.",
+    "Die heutige Nutzung scheint geringer zu sein als in den 1980er-Jahren."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt überwiegend aus Namenslexika und ist daher eher beschreibend als diskursiv.",
+    "Keine klare öffentliche Kontroverse oder soziale Stigmatisierung erkennbar.",
+    "Aussagen zur Wirkung sind vor allem aus der Namensbeschreibung abgeleitet, nicht aus breiter gesellschaftlicher Debatte."
+  ],
+  "short_summary": "Christina wird überwiegend als klassischer, traditioneller und positiv bis neutral wahrgenommener Vorname beschrieben, mit christlicher Bedeutung und historischer Verbreitung.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Christina � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/C/Ch/Christina/"
+    },
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "positive",
+      "source_type": "web",
+      "title": "&#9655; Vorname Christina: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Christina.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "zeitlos",
+    "melodisch",
+    "traditionell",
+    "weiblich",
+    "namenskundlich",
+    "vertraut"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Hoch bekannte, aber heute eher weniger häufige Namensform; besonders in älteren Jahrgängen und in der Namenskunde präsent."
+}

@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "Kurzform von Bernhard",
+    "althochdeutsche Herkunft",
+    "Bedeutung: „der Bärenstarke“",
+    "früher beliebter, heute seltener Vorname",
+    "Namenstag vorhanden",
+    "Schreibvarianten wie Berndt oder Bernt"
+  ],
+  "confidence": 0.83,
+  "display_text": "Bernd wird meist als klassischer, traditionsreicher deutscher Vorname wahrgenommen. Die Quellen betonen vor allem die Bedeutung „der Bärenstarke“, die althochdeutsche Herkunft und die Einordnung als Kurzform von Bernhard. Insgesamt wirkt die öffentliche Resonanz eher sachlich-neutral bis leicht positiv; als moderner Trendname erscheint Bernd heute eher nicht. Da die Evidenz vor allem aus Namenslexika stammt, ist die Aussage zur breiten öffentlichen Wahrnehmung nur vorsichtig zu verstehen.",
+  "evidence_quality": "Gut für Herkunft, Bedeutung und Namensbild; begrenzt für echte öffentliche Breitenresonanz, da die Quellen vor allem lexikalisch-redaktionell sind.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Bernd",
+  "normalized_name": "bernd",
+  "overall_resonance": "Bernd wird öffentlich vor allem als klassischer, traditioneller deutscher Vorname wahrgenommen. Die Resonanz wirkt eher sachlich-neutral bis leicht positiv, mit starkem Fokus auf Herkunft, Bedeutung und Namenskunde. Als modern oder trendig erscheint der Name in den Quellen nicht, eher vertraut und historisch verankert.",
+  "practical_notes": [
+    "Gut geeignet, wenn ein klassischer und klar deutsch wirkender Name gesucht wird.",
+    "Weniger passend, wenn ausdrücklich ein moderner oder sehr häufiger Vorname gewünscht ist.",
+    "Die Wahrnehmung kann je nach Generation unterschiedlich ausfallen, da der Name heute eher selten vergeben wird."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt überwiegend aus redaktionellen Namensseiten und zeigt öffentliche Resonanz nur indirekt.",
+    "Es liegen keine belastbaren Hinweise auf breite aktuelle Meinungsbilder oder soziale Stigmatisierung vor.",
+    "Positive Nuancen ergeben sich vor allem aus der Bedeutungsdeutung; sie sind nicht als allgemeine Alltagswahrheit zu verstehen."
+  ],
+  "short_summary": "Bernd gilt als traditioneller, eher selten gewordener deutscher Vorname mit sachlich bis leicht positivem Klang und starker etymologischer Einordnung.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Bernd � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/B/Be/Bernd/"
+    },
+    {
+      "confidence": 0.88,
+      "is_name_discussion": true,
+      "sentiment": "überwiegend positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Bernd: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Bernd.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "traditionell",
+    "bodenständig",
+    "historisch",
+    "sachlich",
+    "namenskundlich"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Im deutschsprachigen Raum bekannt, aber heute eher selten und nicht mehr besonders zeitgemäß im Popularitätsbild. Die öffentliche Sichtbarkeit entsteht vor allem über Namenslexika und etymologische Beschreibungen, weniger über aktuelle Alltagsresonanz."
+}

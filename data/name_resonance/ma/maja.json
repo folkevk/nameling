@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "Koseform von Maria",
+    "Variante von Maia",
+    "griechisch-römische Mythologie",
+    "Frühlingsgöttin",
+    "Biene Maja",
+    "Beliebtheit in Deutschland"
+  ],
+  "confidence": 0.87,
+  "display_text": "Maja gilt in Deutschland als vertrauter, freundlich wirkender Vorname mit überwiegend positiver Resonanz. Die Quellen verknüpfen ihn mit Namenskunde, möglichen Bezügen zu Maria oder Maia sowie mit der bekannten Assoziation 'Biene Maja'.",
+  "evidence_quality": "mittel bis gut, aber auf wenige Quellen begrenzt",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Maja",
+  "normalized_name": "maja",
+  "overall_resonance": "Überwiegend positiv und freundlich wahrgenommen; der Name Maja wirkt im deutschsprachigen Raum vertraut, modern und zugleich klassisch-nah.",
+  "practical_notes": [
+    "Für Suchmaschinen und öffentliche Namensdarstellungen eignet sich eine kurze, positive Einordnung.",
+    "Der Name wird eher als bekannt und sympathisch beschrieben als als auffällig oder polarisierend.",
+    "Keine Hinweise auf soziale Stigmatisierung in der vorliegenden Evidenz."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz basiert nur auf wenigen Namensseiten; die Einordnung ist daher vorsichtig zu lesen.",
+    "Einige Herkunfts- und Bedeutungsangaben sind etymologisch mehrdeutig.",
+    "Popkulturelle Bezüge wie 'Biene Maja' sind bekannte Assoziationen, aber keine Aussage über den Namen selbst."
+  ],
+  "short_summary": "Maja wird im deutschen Raum überwiegend positiv, bekannt und freundlich wahrgenommen; die Quellen betonen Herkunft, Bedeutung und bekannte Assoziationen wie 'Biene Maja'.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.95,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "Vorname Maja � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/M/Ma/Maja/"
+    },
+    {
+      "confidence": 0.91,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Maja: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Maja.html"
+    }
+  ],
+  "style_effect": [
+    "freundlich",
+    "weich im Klang",
+    "jugendlich-modern",
+    "zugänglich",
+    "namenskundlich etabliert"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Im deutschen Namenskontext gut bekannt und sichtbar, unter anderem durch Beliebtheitshinweise und popkulturelle Assoziationen."
+}

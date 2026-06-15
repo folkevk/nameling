@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "Kurzform von Margarete/Margaret",
+    "Bedeutung: die Perle",
+    "englische bzw. internationale Anmutung",
+    "Spitzname/Koseform",
+    "sachlich-lexikalische Namenswahrnehmung",
+    "gelegentlich popkulturelle Assoziationen"
+  ],
+  "confidence": 0.8,
+  "display_text": "Maggie wirkt im deutschen Raum freundlich, international und eher locker-kurz. Die Rezeption ist überwiegend sachlich bis leicht positiv, aber die Evidenz ist begrenzt und stammt vor allem aus Namenslexika. Als englisch geprägte Kurz- und Koseform von Margarete/Margaret ist der Name in Deutschland eher selten bis mäßig präsent.",
+  "evidence_quality": "mittel bis schwach: zwei überwiegend lexikalische Webquellen, nur begrenzte öffentliche Kommentarresonanz",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Maggie",
+  "normalized_name": "maggie",
+  "overall_resonance": "Maggie wirkt im deutschen Raum eher freundlich, international und locker-kurz. Die öffentliche Rezeption ist überwiegend sachlich bis leicht positiv, aber nicht besonders breit belegt.",
+  "practical_notes": [
+    "Für eine Namenssuche ist Maggie gut verständlich und leicht einzuordnen.",
+    "Wer eine eindeutig deutsche Vollform erwartet, könnte den Namen als eher englisch/kosenamehaft wahrnehmen.",
+    "Die Schreibweise ist vertraut, aber im Alltag in Deutschland nicht sehr häufig."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt überwiegend aus Namenslexika und Begriffsseiten, nicht aus breiter öffentlicher Meinungsdiskussion.",
+    "Die positive Wirkung ist eher eine vorsichtige Tendenz als ein klar messbarer Konsens.",
+    "Keine belastbaren Hinweise auf soziale Stigmatisierung in der vorliegenden Evidenz."
+  ],
+  "short_summary": "Maggie wird in Deutschland meist als freundlicher, internationaler und eher seltener Vorname wahrgenommen. Die Belege sprechen eher für eine leichte, positive Grundwirkung als für eine starke öffentliche Debatte.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.95,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Maggie � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/M/Ma/Maggie/"
+    },
+    {
+      "confidence": 0.91,
+      "is_name_discussion": true,
+      "sentiment": "überwiegend positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Maggie: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Maggie.html"
+    }
+  ],
+  "style_effect": [
+    "kurz und unkompliziert",
+    "international/englisch geprägt",
+    "jugendlich-leicht",
+    "kosehaft und persönlich",
+    "modern, aber nicht trendstark"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland eher selten bis mäßig präsent; als Name vor allem bekannt als englischsprachige Kurz- und Koseform von Margarete/Margaret."
+}

@@ -1,0 +1,63 @@
+{
+  "associations": [
+    "lateinischer Ursprung",
+    "Bedeutung im Sinn von sanftmütig/mild/gnädig",
+    "alter bzw. traditionsreicher Vorname",
+    "selten, aber bekannt",
+    "Namenstag",
+    "internationale Varianten",
+    "Spitznamen"
+  ],
+  "confidence": 0.9,
+  "display_text": "Clemens wird meist freundlich, klassisch und traditionsreich wahrgenommen. Der Name gilt als bekannt, aber eher selten, mit klar positiver, ruhiger Namensausstrahlung. Die Bedeutung wird häufig mit sanftmütig, mild oder gnädig verbunden; das sind jedoch Namensdeutungen, keine Aussagen über Personen.",
+  "evidence_quality": "Gut für eine vorsichtige Namensresonanz, aber auf eine kleine Zahl namenskundlicher Quellen begrenzt.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Clemens",
+  "normalized_name": "clemens",
+  "overall_resonance": "Überwiegend freundlich, traditionell und eher positiv-konnotiert. Der Name wird meist als klassisch und etwas selten, aber stabil wahrgenommen.",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt Clemens solide, seriös und traditionsbewusst.",
+    "Der Name hat wenig modischen Effekt, dafür eine stabile, klassische Ausstrahlung.",
+    "In der öffentlichen Wahrnehmung erscheint er eher freundlich als auffällig oder trendig."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz basiert auf wenigen, vor allem namenskundlichen Webquellen.",
+    "Aussagen zur Beliebtheit und Häufigkeit sind quellenabhängig und sollten vorsichtig gelesen werden.",
+    "Die positiven Bedeutungsassoziationen spiegeln die Namensdeutung wider, nicht Eigenschaften von Namensträgern."
+  ],
+  "short_summary": "Clemens wirkt in der öffentlichen Wahrnehmung klassisch, freundlich und traditionsreich, mit eher positiver, ruhiger Resonanz.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.95,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Clemens � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/C/Cl/Clemens/"
+    },
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Clemens: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Clemens.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "traditionell",
+    "wertschätzend",
+    "lexikalisch",
+    "ruhig",
+    "eher zeitlos",
+    "leicht bildungsnah"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Mittlere Sichtbarkeit in Deutschland: bekannt, aber nicht sehr häufig; in Namenslexika und Diskussionen klar präsent."
+}

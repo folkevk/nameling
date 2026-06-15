@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "lateinisch/römische Herkunft",
+    "weiblicher Vorname",
+    "internationale Verbreitung",
+    "Namenstag",
+    "Varianten und Koseformen",
+    "Namenskunde",
+    "gelegentlich Hinweise auf Schreib- oder Ausspracheunsicherheiten"
+  ],
+  "confidence": 0.86,
+  "display_text": "Tatiana wirkt in Deutschland eher international, klassisch und leicht positiv. Die vorliegende Evidenz ist vor allem sachlich-informativ; Hinweise auf Schreib- oder Ausspracheprobleme gibt es, aber keine klare gesellschaftliche Stigmatisierung.",
+  "evidence_quality": "mittel: zwei überwiegend sachliche Namenslexikon-Quellen mit nur begrenzt verallgemeinerbarer Community-Nähe; insgesamt eher informative als diskursive Evidenz.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Tatiana",
+  "normalized_name": "tatiana",
+  "overall_resonance": "Tatiana wirkt im deutschen Raum insgesamt sachlich bis leicht positiv und eher international geprägt. Die öffentliche Wahrnehmung in den vorliegenden Quellen ist vor allem informativ: Der Name wird als weiblicher Vorname mit lateinisch/römischen Wurzeln, Varianten und Namenstag beschrieben. Eine starke emotionale oder gesellschaftliche Aufladung ist in der Evidenz nicht erkennbar.",
+  "practical_notes": [
+    "Für Suchende kann Tatiana als international verständlicher, klassisch wirkender Vorname erscheinen.",
+    "Wer eine eindeutige deutsche Standardform bevorzugt, sollte mögliche Varianten und Schreibweisen mitdenken.",
+    "Die Resonanzlage ist vorsichtig zu lesen: eher beschreibend als meinungsstark."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist begrenzt und stammt überwiegend aus Namenslexika, nicht aus breiter öffentlicher Debatte.",
+    "Hinweise auf falsche Schreibweisen oder Ausspracheprobleme sind erwähnt, aber nicht als allgemeingültige Eigenschaft zu verstehen.",
+    "Keine belastbaren Hinweise auf soziale Stigmatisierung in den vorliegenden Quellen."
+  ],
+  "short_summary": "Tatiana wird in den vorliegenden deutschen Quellen vor allem sachlich, international und leicht positiv beschrieben. Der Name wirkt klassisch und weiblich, bei zugleich möglichen Schreib- oder Ausspracheunsicherheiten.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.91,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Tatiana � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/T/Ta/Tatiana/"
+    },
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Tatiana: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Tatiana.html"
+    }
+  ],
+  "style_effect": [
+    "klingt international und elegant",
+    "wirkt formal und eher klassisch als modisch",
+    "hat einen klar weiblichen Klang",
+    "erscheint in der Wahrnehmung eher sachlich als trendig"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Eher moderat: Der Name ist bekannt, aber nicht sehr massenhaft verbreitet. In den Quellen erscheint er vor allem in Namenslexika und Eintragsseiten, also eher im Kontext von Namenskunde als in breiter öffentlicher Diskussion."
+}

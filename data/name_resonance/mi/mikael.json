@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "skandinavische Form von Michael",
+    "biblischer Ursprung",
+    "Bedeutung: „Wer ist wie Gott?“",
+    "Namenstag am 29. September",
+    "internationaler Eindruck",
+    "elegant und wohlklingend"
+  ],
+  "confidence": 0.91,
+  "display_text": "Mikael wirkt in Deutschland überwiegend positiv und sachlich: ein internationaler, skandinavisch geprägter Vorname mit biblischem Ursprung. Die vorhandene Evidenz stammt vor allem aus Namenslexika; eine breite öffentliche Debatte ist nicht erkennbar.",
+  "evidence_quality": "Gut für die Beschreibung von Herkunft, Bedeutung und grober Tonlage; begrenzt für echte öffentliche Resonanz, da die Evidenz fast nur aus Namenslexika besteht.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Mikael",
+  "normalized_name": "mikael",
+  "overall_resonance": "Überwiegend positiv bis neutral: Mikael wird öffentlich vor allem sachlich als skandinavische Form von Michael mit biblischem Ursprung wahrgenommen. Die Wahrnehmung wirkt eher namenskundlich-informativ als kontrovers.",
+  "practical_notes": [
+    "Für die Namenssuche wirkt Mikael vertraut, international und klar einordenbar.",
+    "In Deutschland dürfte die Schreibweise Mikael als Variante zu Michael wahrgenommen werden.",
+    "Die öffentliche Rezeption scheint eher ruhig und unproblematisch, ohne starke Polarisierung."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt fast nur aus Namensdatenbanken und Lexikonseiten.",
+    "Es gibt kaum Hinweise auf eine breitere öffentliche Meinungsbildung außerhalb dieser Quellen.",
+    "Wertungen wie „wohlklingend“ oder „elegant“ sind eher subjektive Einschätzungen als belastbare Allgemeinurteile."
+  ],
+  "short_summary": "Mikael wird in Deutschland überwiegend positiv-sachlich wahrgenommen: international, biblisch geprägt und als skandinavische Variante von Michael bekannt. Die Evidenz ist jedoch vor allem lexikalisch und nur begrenzt öffentlichkeitsbreit.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.95,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Mikael � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/M/Mi/Mikael/"
+    },
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Mikael: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Mikael.html"
+    }
+  ],
+  "style_effect": [
+    "informativ",
+    "lexikalisch",
+    "international",
+    "wohlklingend",
+    "eher klassisch als trendy"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Mittlere Sichtbarkeit in deutschsprachigen Namenslexika und einzelnen Kommentaren; eine breitere öffentliche Debatte ist in der vorliegenden Evidenz nicht erkennbar."
+}

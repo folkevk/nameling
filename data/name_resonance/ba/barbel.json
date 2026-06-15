@@ -1,0 +1,24 @@
+{
+  "associations": [],
+  "confidence": 0.0,
+  "display_text": "Für Barbel wurden im aktuellen Quellenlauf keine ausreichend belastbaren öffentlichen Diskussionen über den Vornamen selbst gefunden. Die Resonanzkarte sollte daher als offen und nicht als Bewertung des Namens gelesen werden.",
+  "evidence_quality": "gering",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Barbel",
+  "normalized_name": "barbel",
+  "overall_resonance": "unklar",
+  "practical_notes": [
+    "Es wurden keine ausreichend belastbaren öffentlichen Namensdiskussionen gefunden."
+  ],
+  "region": "DE",
+  "risk_notes": [],
+  "short_summary": "Für Barbel liegt derzeit zu wenig belastbare öffentliche Evidenz vor.",
+  "source_count": 0,
+  "sources": [],
+  "style_effect": [],
+  "usable_evidence_count": 0,
+  "visibility": "gering"
+}

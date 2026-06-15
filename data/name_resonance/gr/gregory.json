@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "englische Form von Gregor",
+    "altgriechischer Ursprung",
+    "Bedeutung: der Wachsame",
+    "Namenstag",
+    "männlicher Vorname",
+    "internationaler Klang"
+  ],
+  "confidence": 0.86,
+  "display_text": "Gregory wird in Deutschland überwiegend neutral bis leicht positiv wahrgenommen: ein international klingender, klassischer und eher seltener Vorname mit der bekannten Deutung als englische Form von Gregor („der Wachsame“).",
+  "evidence_quality": "mittel bis gut; die Quellen sind direkt namenkundlich, aber die öffentliche Resonanz ist nur indirekt über Namensportale ablesbar.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Gregory",
+  "normalized_name": "gregory",
+  "overall_resonance": "Gregory wird in der verfügbaren deutschsprachigen Namens-Evidenz überwiegend neutral bis leicht positiv wahrgenommen. Der Name wirkt international, klassisch und eher bekannt als auffällig, ohne starke kontroverse Konnotationen.",
+  "practical_notes": [
+    "Für Suchende dürfte Gregory als gut verständlicher, internationaler Name mit klassischem Charakter erscheinen.",
+    "Kurzformen wie Greg sind im deutschsprachigen Kontext naheliegend, aber nicht zwingend gebräuchlich.",
+    "Wer einen vertrauten, aber nicht alltäglichen Namen sucht, findet hier eine eher unaufgeregte Option."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt vor allem aus Namensportalen und ist daher für eine breite öffentliche Resonanz nur begrenzt repräsentativ.",
+    "Es gibt keine belastbaren Hinweise auf eine starke gesellschaftliche Stigmatisierung oder auffällige negative Zuschreibungen.",
+    "Beliebtheitsangaben sollten vorsichtig gelesen werden, da sie nicht zwingend die tatsächliche Alltagswahrnehmung abbilden."
+  ],
+  "short_summary": "Gregory wirkt in Deutschland eher selten, international und klassisch. Die verfügbare Evidenz zeigt eine überwiegend neutrale bis leicht positive Rezeption ohne starke negative Konnotationen.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Gregory � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/G/Gr/Gregory/"
+    },
+    {
+      "confidence": 0.89,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Gregory: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Gregory.html"
+    }
+  ],
+  "style_effect": [
+    "international",
+    "klassisch",
+    "eher formell",
+    "zeitlos",
+    "sprachlich klar",
+    "selten, aber vertraut"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland scheint Gregory eher selten bis mäßig präsent zu sein und wird vor allem als englische Form von Gregor wahrgenommen. Die öffentliche Sichtbarkeit ist damit vorhanden, aber nicht besonders breit."
+}

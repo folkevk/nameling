@@ -1,0 +1,62 @@
+{
+  "associations": [
+    "mehrsprachige Herkunftsdeutungen",
+    "arabisch/persisch: die Nacht",
+    "sanskrit: Spiel/Vergnügen",
+    "schwedisch: die Kleine",
+    "Flieder/Violett als Farbassoziation",
+    "Beliebtheit in Deutschland",
+    "Namenstag"
+  ],
+  "confidence": 0.82,
+  "display_text": "Lila wirkt in den vorliegenden Quellen überwiegend neutral bis freundlich-informativ. Der Name wird als kurz, modern und international beschrieben; häufig genannt werden weiche Klangwirkung sowie Bezüge zu Nacht, Spiel oder Flieder/Violett. Die Evidenz zur echten öffentlichen Meinung ist jedoch begrenzt und stammt vor allem aus Namenslexika.",
+  "evidence_quality": "Gut für Lexikon- und Bedeutungsangaben, schwächer für echte öffentliche Resonanz. Die Quellen sind namebezogen und konsistent neutral, aber nur begrenzt meinungsbasiert.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Lila",
+  "normalized_name": "lila",
+  "overall_resonance": "Überwiegend neutral bis freundlich-informativ. In den vorliegenden Quellen wird Lila vor allem als internationaler, mehrsprachig erklärter Vorname beschrieben; die öffentliche Rezeption wirkt eher sachlich als kontrovers.",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt Lila modern, klar und unkompliziert.",
+    "Die internationale Verwendbarkeit wird in den Quellen betont.",
+    "Wenn Herkunft oder Bedeutung wichtig sind, sollte man auf die Mehrdeutigkeit hinweisen."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Herkunfts- und Bedeutungsangaben sind teils mehrdeutig und je nach Quelle unterschiedlich.",
+    "Es gibt nur wenig belastbare Evidenz für eine breite öffentliche Bewertung; vieles stammt aus Namenslexika statt aus spontanen Meinungsäußerungen.",
+    "Keine Hinweise auf starke Stigmatisierung in den vorliegenden Quellen."
+  ],
+  "short_summary": "Lila wird öffentlich meist neutral bis freundlich wahrgenommen: ein kurzer, internationaler Vorname mit weichen, modernen Klangwirkungen und mehreren möglichen Herkunfts- und Bedeutungsdeutungen.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Lila � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/L/Li/Lila/"
+    },
+    {
+      "confidence": 0.91,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Lila: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Lila.html"
+    }
+  ],
+  "style_effect": [
+    "weich",
+    "modern",
+    "kurz und einprägsam",
+    "international",
+    "leicht feminin",
+    "klanglich freundlich"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Mittlere Sichtbarkeit: Der Name erscheint in Namenslexika und Ratgeberseiten, also klar auffindbar, aber die Evidenz zu echter öffentlicher Meinung ist begrenzt."
+}

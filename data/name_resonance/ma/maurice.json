@@ -1,0 +1,59 @@
+{
+  "associations": [
+    "französische und englische Form von Mauritius",
+    "lateinischer Ursprung",
+    "Bedeutung oft als Bezug zu Mauretanien bzw. den 'Mauren' erklärt",
+    "teils auch als 'der Dunkle' / 'Dunkelhäutige' gedeutet",
+    "Namenstag am 22. September",
+    "Spitznamen wie Mo, Mauri oder Morris"
+  ],
+  "confidence": 0.88,
+  "display_text": "Maurice gilt in Deutschland als klassisch, international und eher sachlich wirkender Vorname. Die vorliegenden Namensquellen beschreiben ihn überwiegend neutral bis leicht positiv; zugleich wird er eher als früher beliebter, heute etwas zurückgehender Name eingeordnet. Die Aussagekraft ist begrenzt, da die Evidenz fast nur aus Namenslexika stammt.",
+  "evidence_quality": "gut für Namensbedeutung, Herkunft und grobe Popularitätseinordnung; begrenzt für echte öffentliche Resonanz, da vor allem Lexikonquellen vorliegen.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Maurice",
+  "normalized_name": "maurice",
+  "overall_resonance": "Maurice wird in deutschen Namensquellen überwiegend als klassischer, international verwendeter Vorname mit französisch-englischer Prägung wahrgenommen. Die öffentliche Rezeption wirkt eher sachlich-informativ bis leicht positiv, ohne starke emotionale Aufladung.",
+  "practical_notes": [
+    "Für eine Namenssuche eignet sich Maurice als gut verständlicher, international anschlussfähiger Vorname.",
+    "Die Quellen zeichnen eher ein neutrales bis leicht positives Bild.",
+    "Wenn eine besonders moderne oder auffällige Wirkung gesucht wird, wird Maurice in den Quellen eher nicht als Trendname beschrieben."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Bedeutungsableitung über historische ethnische Begriffe kann heikel wirken und sollte nicht vereinfachend oder wertend verwendet werden.",
+    "Die Evidenz stammt fast ausschließlich aus Namenslexika; die tatsächliche öffentliche Alltagswahrnehmung ist damit nur eingeschränkt belegbar."
+  ],
+  "short_summary": "Maurice wirkt in Deutschland eher klassisch und international, mit neutral bis leicht positiver Resonanz. Die Quellen deuten auf einen bekannten, früher beliebteren Namen hin, dessen heutige Popularität eher etwas zurückgeht.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Maurice � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/M/Ma/Maurice/"
+    },
+    {
+      "confidence": 0.92,
+      "is_name_discussion": true,
+      "sentiment": "eher positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Maurice: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Maurice.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "international",
+    "französisch geprägt",
+    "lexikalisch klingend",
+    "eher zeitlos als modisch"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland ist der Name bekannt und etabliert, wirkt aber nach den vorliegenden Quellen eher nicht mehr trendstark, sondern eher etwas rückläufig bzw. weniger aktuell als früher."
+}

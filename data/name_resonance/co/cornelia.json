@@ -1,0 +1,63 @@
+{
+  "associations": [
+    "lateinische bzw. römische Herkunft",
+    "Geschlecht der Cornelier",
+    "mögliche Ableitung von cornu ('Horn')",
+    "weiblicher Klassiker",
+    "früher in Deutschland populärer",
+    "heute eher seltener",
+    "Kurzformen wie Conni, Cora, Nele, Neli, Lia",
+    "Namenstage werden genannt"
+  ],
+  "confidence": 0.91,
+  "display_text": "Cornelia wird meist als klassischer, traditionsreicher Vorname mit lateinisch-römischer Herkunft wahrgenommen. Die vorhandenen Quellen sind sachlich bis leicht positiv, betonen Bedeutung, Namenstag und Kurzformen wie Conni oder Cora. Eine größere öffentliche Debatte oder Stigmatisierung ist nicht erkennbar.",
+  "evidence_quality": "hoch für Namensbedeutung und Herkunft, mittel für öffentliche Resonanz/Beliebtheit",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Cornelia",
+  "normalized_name": "cornelia",
+  "overall_resonance": "Cornelia wird öffentlich vor allem als klassischer, traditionsreicher Vorname wahrgenommen. Die vorhandenen Quellen beschreiben ihn sachlich bis leicht positiv, mit Fokus auf Herkunft, Bedeutung und Namenskultur. Eine breite emotionale Debatte ist in der Evidenz nicht erkennbar.",
+  "practical_notes": [
+    "Für Suchmaschinen wirkt der Name klar und leicht einordbar.",
+    "Die Wahrnehmung ist eher traditionell als modern-trendig.",
+    "Kurzformen können den Namen informeller und zugänglicher wirken lassen."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt fast ausschließlich aus Namensseiten und ist daher stark quellengebunden.",
+    "Beliebtheits- und Zeitgeist-Aussagen sind nur vorsichtig zu interpretieren.",
+    "Keine belastbare öffentliche Kontroverse oder Stigmatisierung erkennbar."
+  ],
+  "short_summary": "Cornelia gilt öffentlich als klassischer, traditioneller Vorname mit lateinisch-römischer Prägung. Die Quellen zeichnen ein sachlich bis leicht positives Bild; eine stärkere gesellschaftliche Bewertung ist nicht ersichtlich.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Cornelia � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/C/Co/Cornelia/"
+    },
+    {
+      "confidence": 0.92,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Cornelia: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Cornelia.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "traditionell",
+    "namenskundlich",
+    "eher zeitlos",
+    "sachlich-positiv",
+    "mit mehreren gängigen Kurzformen"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Mittlere Sichtbarkeit: Der Name ist bekannt, wirkt aber eher traditionell und heute weniger präsent als in früheren Jahrzehnten."
+}

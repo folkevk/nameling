@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "Bedeutung und Herkunft",
+    "niederdeutsch/friesisch/ostfriesisch",
+    "mögliche Kurzform bzw. weibliche Form von Enno",
+    "selten bis bekannt",
+    "sachlich-informativ in Namenslexika",
+    "teils positiv-rezeptiv"
+  ],
+  "confidence": 0.83,
+  "display_text": "Enna wirkt in den vorliegenden Quellen überwiegend freundlich, kurz und leicht eigenständig. Der Name wird sachlich als nordisch/friesisch bzw. germanisch eingeordnet und teils positiv bewertet. Insgesamt: eher selten, klar und angenehm, mit begrenzter, aber guter Evidenz.",
+  "evidence_quality": "mittel bis gut: zwei klare Namensquellen mit überwiegend sachlicher, teils positiver Darstellung; jedoch begrenzte Breite und keine echte repräsentative Bevölkerungsumfrage.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Enna",
+  "normalized_name": "enna",
+  "overall_resonance": "Enna wirkt in der öffentlichen Wahrnehmung überwiegend freundlich, kurz und modern-traditionell zugleich. In den vorliegenden Quellen wird der Name sachlich-namenskundlich beschrieben und teils positiv aufgenommen; eine starke soziale Aufladung oder negative Stigmatisierung ist nicht erkennbar.",
+  "practical_notes": [
+    "Für eine Namenssuche eignet sich Enna als kurzer, leicht merkbarer Vorname.",
+    "Die Wirkung ist eher ruhig, freundlich und unkompliziert.",
+    "Der Name ist selten genug für Eigenständigkeit, aber nicht so exotisch, dass er unzugänglich wirkt."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt vor allem aus Namenslexika und ist damit begrenzt repräsentativ für die allgemeine Öffentlichkeit.",
+    "Einzelne Bedeutungsdeutungen können je nach Quelle variieren.",
+    "Die Beliebtheitsangaben sollten vorsichtig gelesen werden, da sie nicht auf einer breit angelegten Umfrage beruhen."
+  ],
+  "short_summary": "Enna wird öffentlich meist als kurzer, freundlicher und namenskundlich interessanter Vorname wahrgenommen – eher selten, aber positiv und ohne auffällige Stigmatisierung.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Enna � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/E/En/Enna/"
+    },
+    {
+      "confidence": 0.95,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Enna: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Enna.html"
+    }
+  ],
+  "style_effect": [
+    "kurz und klar",
+    "weich und feminin wahrgenommen",
+    "nordisch/friesisch bzw. germanisch gefärbt",
+    "namenskundlich interessant",
+    "eher zeitlos als modisch-extrem"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Eher bekannt, aber nicht sehr häufig; in den Quellen als kurz, selten bis teils beliebt beschrieben. Die Datenlage deutet auf eine solide, aber keine massenhaft dominierende Präsenz hin."
+}

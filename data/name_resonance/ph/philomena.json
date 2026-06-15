@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "altgriechischer Ursprung",
+    "mögliche Bedeutungen wie \"die Geliebte\" oder \"Freundin des Mutes\"",
+    "christliche Heiligenverehrung",
+    "Namenstag",
+    "selten in Deutschland",
+    "weiblicher Vorname mit eher traditionellem Klang"
+  ],
+  "confidence": 0.86,
+  "display_text": "Philomena: traditionell, eher selten und leicht positiv wahrgenommen. Die Quellen betonen vor allem Herkunft, Bedeutung und Namenstag; eine breite öffentliche Debatte ist nicht erkennbar.",
+  "evidence_quality": "mittel bis gut, aber auf wenige Quellen begrenzt",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Philomena",
+  "normalized_name": "philomena",
+  "overall_resonance": "Philomena wird in den vorliegenden Quellen überwiegend sachlich und leicht positiv wahrgenommen. Der Name wirkt traditionell, bildungssprachlich und eher selten, mit klaren Bezügen zu altgriechischer Herkunft, Namensbedeutung und christlicher Namensüberlieferung.",
+  "practical_notes": [
+    "Der Name ist gut bekannt, aber nicht alltäglich.",
+    "Durch die seltene Nutzung kann er auffallen und als besonders wahrgenommen werden.",
+    "Die wahrgenommene Wirkung hängt stark vom Umfeld ab, wirkt aber insgesamt eher freundlich und klassisch."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz basiert nur auf wenigen Namenslexikon-Quellen.",
+    "Beliebtheitsaussagen sind nur eingeschränkt belastbar.",
+    "Keine erkennbare öffentliche Kontroverse, aber auch keine breite Alltagsresonanz nachweisbar."
+  ],
+  "short_summary": "Philomena wird überwiegend sachlich, traditionsnah und leicht positiv beschrieben. Der Name ist in Deutschland eher selten und wirkt klassisch sowie elegant.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.94,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "Vorname Philomena � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/P/Ph/Philomena/"
+    },
+    {
+      "confidence": 0.88,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Philomena: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Philomena.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "eher selten",
+    "traditionsnah",
+    "bildungsnah",
+    "elegant",
+    "lexikalisch geprägt"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland eher selten bis vereinzelt verwendet. Die öffentliche Sichtbarkeit wirkt dadurch eher Nischen- als Massenname, ohne Hinweise auf eine breite Debatte oder starke Polarisierung."
+}

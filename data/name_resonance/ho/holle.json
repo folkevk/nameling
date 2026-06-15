@@ -1,0 +1,62 @@
+{
+  "associations": [
+    "althochdeutsche Herkunft",
+    "Bedeutungen wie die Holde, die Treue oder die Gnädige",
+    "Nebenform von Hulda/Holda",
+    "Bezug zu nordischer Mythologie",
+    "Assoziation mit Frau Holle und deutschem Volksglauben",
+    "selten verwendeter Vorname in Deutschland",
+    "weiblicher Vorname"
+  ],
+  "confidence": 0.9,
+  "display_text": "Holle wirkt in der öffentlichen Namenswahrnehmung vor allem sachlich-neutral und namenskundlich. Der Name ist selten, traditionsnah und kulturell aufgeladen, mit Bezügen zu althochdeutscher Herkunft, Hulda/Holda und Frau Holle. Eine breite Kontroverse ist nicht erkennbar; die Evidenz ist jedoch auf Namenslexika und einzelne Quellen beschränkt.",
+  "evidence_quality": "Gut für namenskundliche Einordnung, aber begrenzt in Breite: zwei spezialisierte Namensquellen, keine größere öffentliche Diskussionsbasis.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Holle",
+  "normalized_name": "holle",
+  "overall_resonance": "Der Vorname Holle wird öffentlich überwiegend sachlich-neutral und eher namenskundlich wahrgenommen. Die Rezeption ist vor allem von Herkunfts- und Bedeutungsangaben geprägt, mit kulturellen Bezügen zu Frau Holle und nordischer bzw. althochdeutscher Tradition. Insgesamt wirkt der Name selten, markant und traditionsnah, ohne erkennbare breite Kontroverse.",
+  "practical_notes": [
+    "Für Suchmaschinen-Nutzer ist Holle vor allem als traditionsreicher, seltener Vorname einzuordnen.",
+    "Der Name kann durch die Verbindung zu Frau Holle schnell als literarisch oder volkskundlich gelesen werden.",
+    "Die öffentliche Rezeption wirkt eher neutral bis leicht positiv, vor allem wegen der klanglichen und historischen Einordnung.",
+    "Wenn gewünscht, kann man Holle als markanten, ungewöhnlichen Namen mit klarer kultureller Tiefe beschreiben."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist stark quellengebunden und stützt sich im Wesentlichen auf Namenslexika statt auf breite öffentliche Debatten.",
+    "Kulturelle und mythologische Bezüge können je nach Kontext unterschiedlich verstanden werden.",
+    "Einzelne Bedeutungsangaben variieren zwischen den Quellen und sollten nicht als eindeutig verbindlich gelesen werden."
+  ],
+  "short_summary": "Holle wird überwiegend sachlich-neutral wahrgenommen: ein seltener, traditionsnaher Vorname mit althochdeutschen Wurzeln und starken Bezügen zu Frau Holle sowie nordischer Mythologie.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Holle � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/H/Ho/Holle/"
+    },
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Holle: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Holle.html"
+    }
+  ],
+  "style_effect": [
+    "traditionsnah",
+    "selten",
+    "namenskundlich",
+    "kulturell aufgeladen",
+    "eher klassisch als modern"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Eher geringe bis mittlere Sichtbarkeit: Der Name wird in Namenslexika und einzelnen Namensseiten behandelt, aber nicht breit öffentlich diskutiert."
+}

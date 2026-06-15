@@ -1,0 +1,62 @@
+{
+  "associations": [
+    "italienische bzw. süddeutsche Namensform",
+    "altpersische Herkunft",
+    "Bedeutungen wie „das Gute besitzend“ oder „der Mächtige/Bezwinger“",
+    "selten, aber modern etabliert",
+    "eher positive, freundliche Wahrnehmung",
+    "Rückgang nach einer Beliebtheitsphase in den 1990ern"
+  ],
+  "confidence": 0.84,
+  "display_text": "Dario wirkt in DE eher selten, modern und international. Die vorliegenden Namensquellen bewerten den Namen überwiegend positiv und verbinden ihn mit einem klangvollen, zeitlosen Eindruck. Die Evidenz stammt jedoch vor allem aus Namenslexika, daher ist die Aussage zur öffentlichen Resonanz vorsichtig zu lesen.",
+  "evidence_quality": "mittel bis begrenzt: gute inhaltliche Namensbeschreibung, aber schwache Abbildung öffentlicher Resonanz außerhalb von Namenslexika.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Dario",
+  "normalized_name": "dario",
+  "overall_resonance": "Dario wird in den vorliegenden Namensquellen überwiegend positiv und modern wahrgenommen. Der Name wirkt im deutschsprachigen Raum eher selten, aber etabliert und wird oft mit italienisch-süddeutscher bzw. internationaler Klangwirkung verbunden. Die öffentliche Resonanz erscheint freundlich und eher stil- als problemorientiert, allerdings stammt die Evidenz vor allem aus Namenslexika und nicht aus einer breiten öffentlichen Debatte.",
+  "practical_notes": [
+    "Für Suchmaschinen eignet sich eine kurze Einordnung wie: selten, modern, international und klangvoll.",
+    "Der Name wirkt in Deutschland bekannt, aber nicht alltäglich.",
+    "Die Quellen deuten eher auf positive Assoziationen als auf Kontroversen hin."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz basiert überwiegend auf redaktionellen Namensseiten und bildet keine breite öffentliche Meinungsumfrage ab.",
+    "Beliebtheits- und Bedeutungsangaben können je nach Quelle variieren.",
+    "Keine belastbaren Hinweise auf soziale Stigmatisierung in den vorliegenden Quellen; falls einzelne Klischees existieren, wären sie als Vorurteile zu behandeln."
+  ],
+  "short_summary": "Dario wird in Deutschland eher selten, aber modern und positiv wahrgenommen; die Quellen betonen einen internationalen, klangvollen Eindruck, jedoch ist die Evidenz für echte öffentliche Resonanz begrenzt.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.94,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "Vorname Dario � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/D/Da/Dario/"
+    },
+    {
+      "confidence": 0.88,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Dario: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Dario.html"
+    }
+  ],
+  "style_effect": [
+    "modern",
+    "international",
+    "klangvoll",
+    "eher selten",
+    "zeitlos",
+    "selbstbewusst",
+    "elegant"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Im Raum DE eher selten, aber bekannt und mit moderner, internationaler Ausstrahlung. Keine Hinweise auf starke Polarisierung; die Wahrnehmung wirkt eher unauffällig bis positiv."
+}

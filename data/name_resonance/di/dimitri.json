@@ -1,0 +1,63 @@
+{
+  "associations": [
+    "slawische Form",
+    "altgriechischer Ursprung",
+    "Bezug zu Demeter",
+    "griechische Mythologie",
+    "Namenstag",
+    "russischer männlicher Vorname",
+    "selten in Deutschland",
+    "schöner alter Name"
+  ],
+  "confidence": 0.9,
+  "display_text": "Dimitri wird in Deutschland meist als klassischer, slawisch-griechisch geprägter und eher seltener Vorname wahrgenommen. Die öffentliche Resonanz ist überwiegend sachlich bis leicht positiv, mit Assoziationen zu Herkunft, Namenstag und historischer Tiefe.",
+  "evidence_quality": "Gut für eine vorsichtige Namensbeschreibung, aber auf wenige lexikalische Quellen begrenzt und ohne breite öffentliche Debatte.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Dimitri",
+  "normalized_name": "dimitri",
+  "overall_resonance": "In Deutschland wirkt Dimitri überwiegend sachlich bis leicht positiv: Der Name wird vor allem als klassische, slawisch-griechisch geprägte Form mit klarer Herkunft wahrgenommen. Die öffentliche Rezeption ist eher informativ als emotional und insgesamt zurückhaltend freundlich.",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt Dimitri traditionsreich und kulturell gut verortet.",
+    "Der Name kann als markant und international lesbar wahrgenommen werden.",
+    "Die Aussprache und Schreibweise sind im Deutschen meist gut handhabbar, können aber je nach Umfeld als eher ungewöhnlich erscheinen."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt nur aus zwei Namenslexikon-Quellen und ist daher öffentlich eher beschreibend als breit gesellschaftlich belegt.",
+    "Einzelne positive Einschätzungen aus Kommentaren sollten nicht als allgemeine Mehrheitsmeinung verstanden werden.",
+    "Keine Hinweise auf eine relevante gesellschaftliche Stigmatisierung in den vorliegenden Quellen."
+  ],
+  "short_summary": "Dimitri wird in Deutschland eher selten, klassisch und mit slawisch-griechischer Herkunft wahrgenommen; die Resonanz ist überwiegend sachlich bis leicht positiv.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Dimitri � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/D/Di/Dimitri/"
+    },
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Dimitri: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Dimitri.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "international/slawisch geprägt",
+    "namenskundlich markant",
+    "eher selten",
+    "sachlich-positiv",
+    "traditionell mit historischer Tiefe"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Eher gering bis mittel: Der Name ist bekannt, wird aber in den genannten Quellen als eher selten im heutigen Deutschland beschrieben."
+}

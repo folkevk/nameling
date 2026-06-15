@@ -1,0 +1,63 @@
+{
+  "associations": [
+    "dänische und norwegische Kurzform von Petronella",
+    "skandinavischer Vorname",
+    "weiblich",
+    "selten in Deutschland",
+    "historisch-etymologische Herkunft",
+    "Namenstag 31. Mai",
+    "Kurzformen wie Mille oder Prille"
+  ],
+  "confidence": 0.82,
+  "display_text": "Pernille wirkt in Deutschland eher selten, skandinavisch und klangvoll. Die vorliegende Evidenz zeigt eine überwiegend sachlich-informative, leicht positive Resonanz – allerdings auf schmaler Quellenbasis ohne breite öffentliche Debatte.",
+  "evidence_quality": "mittel bis schwach: zwei einschlägige Namenslexikon-Quellen mit überwiegend neutraler bis leicht positiver Tonlage, aber ohne breite öffentliche Diskussion.",
+  "generated_at": "2026-06-14T10:47:41Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Pernille",
+  "normalized_name": "pernille",
+  "overall_resonance": "Pernille wird in der vorliegenden Evidenz überwiegend sachlich-informativ und eher positiv-leise wahrgenommen. Der Name erscheint als skandinavisch geprägter, femininer Vorname mit klarer Herkunfts- und Bedeutungszuordnung. Eine breite öffentliche Debatte oder starke emotionale Aufladung ist nicht erkennbar.",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt Pernille klar, international und ungewöhnlich.",
+    "Die Seltenheit in Deutschland kann den Namen markant, aber auch erklärungsbedürftig machen.",
+    "Die vorhandenen Quellen beschreiben den Namen vor allem lexikalisch; echte öffentliche Resonanz ist nur indirekt sichtbar."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist begrenzt und stammt im Wesentlichen aus einzelnen Vornamensseiten.",
+    "Es gibt keine belastbaren Hinweise auf eine breite öffentliche Bewertung oder Kontroverse.",
+    "Aussagen zur Wahrnehmung sollten daher vorsichtig als tendenziell und nicht als allgemeingültig gelesen werden."
+  ],
+  "short_summary": "Pernille wird in Deutschland eher selten und überwiegend sachlich bis leicht positiv wahrgenommen; die Evidenz ist jedoch begrenzt und stammt vor allem aus Namenslexika.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.94,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Pernille � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/P/Pe/Pernille/"
+    },
+    {
+      "confidence": 0.91,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Pernille: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Pernille.html"
+    }
+  ],
+  "style_effect": [
+    "skandinavisch",
+    "elegant",
+    "weiblich",
+    "selten",
+    "namenskundlich",
+    "leicht klangvoll",
+    "lexikalisch"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland wirkt Pernille eher selten und entsprechend wenig verbreitet. Die öffentliche Sichtbarkeit scheint vor allem über Namenslexika und Vornamensseiten zu kommen, nicht über eine breite Alltags- oder Medienpräsenz."
+}

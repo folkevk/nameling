@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "Kurzform von Joachim",
+    "hebräischer Ursprung",
+    "Bedeutungsbezüge wie 'Gott unterstützt' oder 'Gott wird aufrichten'",
+    "männlicher Vorname",
+    "Namenstag am 26. Juli und 16. August",
+    "eher selten in Deutschland"
+  ],
+  "confidence": 0.78,
+  "display_text": "Achim wirkt in der öffentlichen Wahrnehmung eher neutral bis leicht positiv: klassisch, traditionell und eher selten. Die Quellen nennen vor allem Herkunft, Bedeutung und Namenstag; echte Meinungsäußerungen sind nur begrenzt vorhanden und sollten vorsichtig gewertet werden.",
+  "evidence_quality": "mittel bis schwach: gute namenskundliche Einordnung, aber nur begrenzte echte Resonanzdaten",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Achim",
+  "normalized_name": "achim",
+  "overall_resonance": "Eher neutral bis leicht positiv. In den vorliegenden Quellen wird Achim vor allem sachlich-namenskundlich beschrieben; einzelne Rückmeldungen zum Klang fallen freundlich aus, sind aber nicht sehr belastbar.",
+  "practical_notes": [
+    "Für Suchmaschinen-Nutzer wirkt Achim klar, klassisch und gut einordenbar.",
+    "Der Name vermittelt eher Tradition als Trendigkeit.",
+    "Die Einschätzung sollte als Tendenz verstanden werden, nicht als harte Bewertung."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz besteht überwiegend aus Namenslexika und nicht aus breiter öffentlicher Meinungsbildung.",
+    "Positive Klangurteile stammen teils aus kommentierenden Kontexten und sind daher nur vorsichtig zu gewichten.",
+    "Es gibt keine belastbare Hinweise auf starke gesellschaftliche Stigmatisierung oder besondere Kontroversen."
+  ],
+  "short_summary": "Achim wird öffentlich eher neutral bis leicht positiv wahrgenommen: ein klassischer, seltener und traditionell wirkender Männername mit freundlichen Klangassoziationen, jedoch auf dünner Evidenzbasis.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Achim � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/A/Ac/Achim/"
+    },
+    {
+      "confidence": 0.9,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Achim: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Achim.html"
+    }
+  ],
+  "style_effect": [
+    "kurz und prägnant",
+    "traditionell",
+    "vertraut",
+    "eher selten",
+    "namenskundlich klar einordenbar"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Der Name ist in Deutschland bekannt, wirkt aber eher selten und eher traditionell als modisch. Die öffentliche Sichtbarkeit scheint deshalb eher moderat zu sein."
+}

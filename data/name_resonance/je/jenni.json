@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "Kurzform von Jennifer",
+    "Nebenform von Jenny",
+    "weiblicher Vorname",
+    "keltisch/altwalisische bzw. teils hebräisch erläuterte Namensdeutung",
+    "Bedeutungseinordnungen wie 'weiß'/'gnädig' in den Quellen",
+    "selten in Deutschland"
+  ],
+  "confidence": 0.83,
+  "display_text": "Jenni wirkt in den verfügbaren Quellen neutral bis freundlich und eher modern-vertraut. Die öffentliche Resonanz ist jedoch nur begrenzt sichtbar, weil die Evidenz fast ausschließlich aus Namenslexika stammt. Insgesamt erscheint Jenni als kurze, seltene Variante mit sachlicher Namenswahrnehmung.",
+  "evidence_quality": "mittel bis eher schwach: klare Namensdiskussion, aber kaum echte öffentliche Meinungsäußerungen oder soziale Resonanzdaten",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Jenni",
+  "normalized_name": "jenni",
+  "overall_resonance": "Jenni wirkt in den vorliegenden Quellen vor allem als sachlich-lexikalisch erfasster Vorname mit eher neutraler, wenig emotionaler öffentlicher Resonanz. Die Wahrnehmung ist stark von Namenslexika geprägt; echte diskursive Debatten oder klare Wertungen sind kaum erkennbar.",
+  "practical_notes": [
+    "Für eine Namenssuche ist Jenni vor allem als kurze, vertraute Form bekannt.",
+    "Die Quellen deuten eher auf sachliche Bekanntheit als auf starke emotionale Aufladung hin.",
+    "Wenn eine besonders eindeutige Standardform gesucht wird, erscheint Jenni eher als Variante denn als Hauptform."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist schwach bis mittelstark und stammt fast nur aus Namenslexika.",
+    "Es zeigt sich kaum echte öffentliche Resonanz außerhalb von Beschreibungen des Namens selbst.",
+    "Keine belastbaren Hinweise auf eine breite Stigmatisierung oder stark polarisierende Wahrnehmung."
+  ],
+  "short_summary": "Jenni wird überwiegend neutral und sachlich wahrgenommen; die öffentliche Sicht ist vor allem lexikalisch geprägt, nicht durch starke Debatten oder auffällige soziale Wertungen.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Jenni � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/J/Je/Jenni/"
+    },
+    {
+      "confidence": 0.92,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Jenni: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Jenni.html"
+    }
+  ],
+  "style_effect": [
+    "kurz und freundlich",
+    "modern wirkend",
+    "informell bis vertraut",
+    "als Kurzform wahrgenommen",
+    "eher seltene Schreibvariante"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Eher niedrig bis mittel: Der Name wird in Namensdatenbanken und Lexika beschrieben, aber es gibt nur begrenzte Hinweise auf breitere öffentliche Diskussionen oder starke soziale Zuschreibungen in Deutschland."
+}

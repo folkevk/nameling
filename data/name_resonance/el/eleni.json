@@ -1,0 +1,62 @@
+{
+  "associations": [
+    "griechische bzw. altgriechische Herkunft",
+    "neugriechische Form von Helena/Helene",
+    "Bedeutungen wie „die Leuchtende“ oder „die Strahlende“",
+    "teilweise auch mit „der Mond“ verknüpft",
+    "Namenstag",
+    "beliebt in Deutschland",
+    "Spitznamen wie Leni, Elli oder Ella"
+  ],
+  "confidence": 0.88,
+  "display_text": "Eleni wirkt in der öffentlichen Namenswahrnehmung überwiegend positiv: ein griechisch geprägter, weicher und moderner Vorname, der oft mit „die Leuchtende“ oder „die Strahlende“ verbunden wird. Die Evidenz kommt vor allem aus Namensportalen, daher ist die Einordnung vorsichtig zu lesen.",
+  "evidence_quality": "mittel bis gut: zwei einschlägige Namensquellen mit klarer Namensdiskussion, aber wenig unabhängige Breite außerhalb von Namensportalen.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Eleni",
+  "normalized_name": "eleni",
+  "overall_resonance": "Überwiegend positiv und freundlich aufgeladen. Eleni wird in den vorliegenden Namensquellen meist als griechisch beziehungsweise neugriechisch eingeordnet und mit Bedeutungen wie „die Leuchtende“ oder „die Strahlende“ verbunden.",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt Eleni positiv, leicht zugänglich und kulturell anschlussfähig.",
+    "Die Schreibweise ist klar und international verständlich, kann aber je nach Umfeld als eher griechisch wahrgenommen werden.",
+    "Der Name hat einen weichen, modernen Klang und wird in den Quellen eher als attraktiv und beliebt beschrieben."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt fast ausschließlich aus Namenslexika und Namensportalen; das ist hilfreich, aber nur begrenzt repräsentativ für die tatsächliche öffentliche Wahrnehmung.",
+    "Keine belastbaren Hinweise auf Stigmatisierung oder negative gesellschaftliche Vorurteile in den vorliegenden Quellen."
+  ],
+  "short_summary": "Eleni wird in den vorliegenden Quellen überwiegend positiv beschrieben: griechisch geprägt, klangvoll und mit Bedeutungen wie „die Leuchtende“ verbunden.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "positive",
+      "source_type": "web",
+      "title": "Vorname Eleni � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/E/El/Eleni/"
+    },
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Eleni: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Eleni.html"
+    }
+  ],
+  "style_effect": [
+    "melodisch",
+    "elegant",
+    "international",
+    "griechisch geprägt",
+    "weich im Klang",
+    "modern wirkend",
+    "lexikalisch klar"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Im deutschsprachigen Raum wirkt der Name sichtbar und bekannt, eher als moderner, international klingender Mädchenname mit griechischem Hintergrund. Die öffentliche Präsenz in den Quellen ist ordentlich, aber nicht breit gesellschaftlich belegt."
+}

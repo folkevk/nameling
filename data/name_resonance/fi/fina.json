@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "Kurzform von Josefina oder Serafina",
+    "Bedeutungsbezüge wie „fein“, „zart“ oder „die Feurige / Funkelnde“",
+    "althebräischer bzw. mehrsprachiger Herkunftshintergrund",
+    "Namenstag wird in den Quellen genannt",
+    "positiv-kommentierte, niedliche und schöne Anmutung"
+  ],
+  "confidence": 0.79,
+  "display_text": "Fina wirkt in der öffentlichen Wahrnehmung eher positiv: kurz, weich und freundlich im Klang. Die verfügbaren Quellen beschreiben den Namen als bekannt, aber nicht häufig, mit zarten bzw. charmanten Assoziationen. Die Evidenz ist allerdings begrenzt und basiert vor allem auf Namenslexika.",
+  "evidence_quality": "Mittel: zwei überwiegend positive, namenkundliche Webquellen mit klarer Namensdiskussion, aber begrenzter Breite und ohne belastbare Repräsentativität.",
+  "generated_at": "2026-06-14T10:47:41Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Fina",
+  "normalized_name": "fina",
+  "overall_resonance": "Eher positiv und freundlich wahrgenommen, mit einem sachlich-namenskundlichen Grundton. Fina wird in den Quellen vor allem als kurze, zarte bzw. charmante Namensform beschrieben. Die öffentliche Resonanz wirkt insgesamt unauffällig bis sympathisch, ohne klare Kontroversen.",
+  "practical_notes": [
+    "Gut geeignet für eine kurze, eingängige Ansprache.",
+    "Wirkt eher sanft als streng oder formal.",
+    "Die Namenswirkung kann je nach Kontext als modern, freundlich oder verspielt gelesen werden.",
+    "Als eigenständiger Vorname ebenso nachvollziehbar wie als Kurzform."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz basiert nur auf zwei Namensseiten; die Aussagekraft ist daher begrenzt.",
+    "Die positiven Einschätzungen stammen aus Namenslexika und vereinzelten Kommentierungen, nicht aus breiter empirischer Messung.",
+    "Keine belastbaren Hinweise auf eine gesellschaftliche Stigmatisierung in den vorliegenden Quellen."
+  ],
+  "short_summary": "Fina wird öffentlich eher positiv, freundlich und zart wahrgenommen. Der Name gilt als kurz, charmant und bekannt, aber nicht häufig.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.94,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Fina � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/F/Fi/Fina/"
+    },
+    {
+      "confidence": 0.91,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Fina: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Fina.html"
+    }
+  ],
+  "style_effect": [
+    "kurz und weich im Klang",
+    "eher zart bzw. fein konnotiert",
+    "modern wirkend, zugleich klassisch anschlussfähig",
+    "als Kurzform oder verselbständigte Kurzform wahrgenommen",
+    "freundlich und unkompliziert"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland eher bekannt als häufig: sichtbar, aber nicht alltäglich. Die Evidenz deutet auf eine gewisse Vertrautheit hin, ohne starke Verbreitung."
+}

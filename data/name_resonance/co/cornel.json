@@ -1,0 +1,64 @@
+{
+  "associations": [
+    "Kurzform bzw. Variante von Cornelius",
+    "lateinisch-römische Herkunft",
+    "Bezug zum Geschlecht der Cornelier",
+    "selten in Deutschland",
+    "männlicher Vorname",
+    "Namenstag(e) im September und November",
+    "in einer Quelle auch mit rumänischer Verwendung verknüpft"
+  ],
+  "confidence": 0.84,
+  "display_text": "Cornel wirkt in den vorliegenden Quellen klassisch, lateinisch geprägt und eher selten. Die öffentliche Rezeption ist überwiegend sachlich-neutral mit leicht positiver Tendenz, aber die Evidenz ist begrenzt und stammt fast nur aus Namenslexika.",
+  "evidence_quality": "Begrenzt: zwei vorwiegend lexikalische Webquellen, wenig freie öffentliche Diskussion, einzelne subjektive Nutzerstimmen.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Cornel",
+  "normalized_name": "cornel",
+  "overall_resonance": "Cornel wird in den vorliegenden Quellen überwiegend sachlich und eher positiv bis neutral beschrieben. Der Name wirkt klassisch, lateinisch geprägt und als eher selten in Deutschland. Die öffentliche Wahrnehmung ist damit vor allem namenskundlich-informativ, nicht stark emotional aufgeladen.",
+  "practical_notes": [
+    "Für Suchmaschinen eignet sich die Einordnung als seltener, klassisch-lateinischer Jungenname.",
+    "Die Schreibweise wirkt unkompliziert und eindeutig.",
+    "Wenn Kontext wichtig ist, kann der Bezug zu Cornelius hilfreich sein.",
+    "Aufgrund der Seltenheit kann der Name in Deutschland ungewohnt, aber nicht auffällig negativ wirken."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist begrenzt und basiert fast nur auf Namenslexika, nicht auf breiter öffentlicher Resonanz.",
+    "Positive Nuancen stammen teils aus einzelnen Nutzerkommentaren und sind daher nur eingeschränkt verallgemeinerbar.",
+    "Es gibt keinen Hinweis auf eine bekannte gesellschaftliche Stigmatisierung des Namens in den vorliegenden Quellen."
+  ],
+  "short_summary": "Cornel wird meist sachlich, klassisch und eher positiv-neutral wahrgenommen; in Deutschland ist der Name eher selten und vor allem namenskundlich präsent.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Cornel � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/C/Co/Cornel/"
+    },
+    {
+      "confidence": 0.87,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Cornel: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Cornel.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "knapp",
+    "lateinisch geprägt",
+    "selten",
+    "sachlich",
+    "namenskundlich",
+    "eher traditionell"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Gering bis mittel: Der Name erscheint in deutschsprachigen Namenslexika, aber die Evidenzbasis ist klein und besteht im Wesentlichen aus zwei Eintragsseiten statt aus breiter öffentlicher Diskussion."
+}

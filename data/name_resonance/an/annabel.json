@@ -1,0 +1,64 @@
+{
+  "associations": [
+    "anmutig",
+    "schön",
+    "liebenswert",
+    "altfranzösische bzw. althebräische Wurzeln",
+    "Kurzform-Charakter zu Annabella/Annabelle",
+    "Varianten wie Anabel, Annabell, Anabelle",
+    "Namenstag-Traditionen",
+    "leichte Musik-/Songassoziationen"
+  ],
+  "confidence": 0.82,
+  "display_text": "Annabel wirkt in Deutschland überwiegend positiv, freundlich und elegant. Der Name ist eher selten bis mäßig verbreitet und wird mit Bedeutungen wie „anmutig“, „schön“ und „liebenswert“ verbunden. Die Evidenz zur breiten öffentlichen Resonanz ist allerdings begrenzt, da vor allem Namenslexika als Grundlage vorliegen.",
+  "evidence_quality": "mittel: gute namenskundliche Hinweise, aber nur begrenzte Aussagekraft zur allgemeinen öffentlichen Resonanz",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Annabel",
+  "normalized_name": "annabel",
+  "overall_resonance": "Überwiegend positiv bis freundlich-neutral, mit eher sanfter, klassisch-romantischer Wirkung. Die öffentliche Wahrnehmung wirkt nicht stark polarisiert.",
+  "practical_notes": [
+    "Für eine Namenssuche wirkt Annabel freundlich und stilvoll, ohne aufdringlich zu sein.",
+    "Die Schreibweise ist verständlich, kann aber mit Annabelle oder Anabel verwechselt werden.",
+    "Der Name klingt international anschlussfähig und im deutschsprachigen Raum eher elegant als modisch.",
+    "Durch die eher seltene Verbreitung bleibt Annabel präsent, aber nicht alltäglich."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt vor allem aus zwei Namenslexika; belastbare Daten zur breiten öffentlichen Meinung sind daher nur eingeschränkt vorhanden.",
+    "Einzelne Nutzerkommentare können die Eindruckslage überzeichnen.",
+    "Die beobachteten positiven Bedeutungen spiegeln die Namensbeschreibung wider und nicht zwingend eine allgemeine gesellschaftliche Bewertung."
+  ],
+  "short_summary": "Annabel wird im deutschsprachigen Raum meist freundlich und elegant wahrgenommen. Die verfügbaren Quellen deuten auf eine positive, weiche Namenswirkung hin, doch die öffentliche Resonanz ist nur schwach belegt, weil vor allem Namenslexika und einzelne Kommentare vorliegen.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.83,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Annabel � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/A/An/Annabel/"
+    },
+    {
+      "confidence": 0.93,
+      "is_name_discussion": true,
+      "sentiment": "positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Annabel: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Annabel.html"
+    }
+  ],
+  "style_effect": [
+    "elegant",
+    "liebenswert",
+    "weich klingend",
+    "klassisch-romantisch",
+    "etwas literarisch",
+    "namenskundlich vertraut"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland eher selten bis mäßig verbreitet; als Name bekannt, aber nicht sehr dominant im Alltag."
+}

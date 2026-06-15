@@ -1,0 +1,60 @@
+{
+  "associations": [
+    "althebräische Herkunft",
+    "französische und englische Weiterentwicklung von Anette/Anna",
+    "Bedeutung wie \"die Liebreizende\", \"die Begnadete\", \"die Anmutige\"",
+    "selten in Deutschland",
+    "Namenstag am 4. März und 26. Juli"
+  ],
+  "confidence": 0.76,
+  "display_text": "Nanette erscheint in Deutschland als seltener, klassisch wirkender Vorname mit eher positiver, sanfter Konnotation. Die Quellen verweisen auf Bedeutungen wie \"die Begnadete\" oder \"die Anmutige\"; eine breite öffentliche Debatte ist jedoch nicht sichtbar.",
+  "evidence_quality": "Begrenzt: zwei webbasierte Namenslexikon-Quellen, teils mit wenigen Kommentaren und ohne breite öffentliche Diskussionslage.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Nanette",
+  "normalized_name": "nanette",
+  "overall_resonance": "Nanette wirkt in der vorliegenden Evidenz eher selten, traditionell und leicht positiv besetzt. Der Name wird vor allem sachlich-namenskundlich beschrieben, mit Anklängen an Anmut, Begnadung und einen eher klassischen Stil. Eine breitere öffentliche Debatte in Deutschland ist nicht erkennbar.",
+  "practical_notes": [
+    "Für die öffentliche Wahrnehmung ist vor allem die Seltenheit prägend.",
+    "Der Name wird eher als klassisch und weich wahrgenommen als modern oder trendig.",
+    "Die verfügbaren Quellen sind eher beschreibend als meinungsstark, daher ist die Aussagekraft begrenzt."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist schmal und stützt sich im Wesentlichen auf zwei Namenslexikon-Quellen.",
+    "Es gibt kaum belastbare Hinweise auf eine breite öffentliche Resonanz in Deutschland.",
+    "Einzelne Kommentare in einer Quelle deuten neben positiver Wirkung auch auf vereinzelte skeptische oder spöttische Reaktionen hin; das ist eher punktuell als repräsentativ."
+  ],
+  "short_summary": "Nanette wird in den verfügbaren Quellen als seltener, klassischer und eher positiv konnotierter Vorname beschrieben. Die öffentliche Resonanz wirkt ruhig und überwiegend sachlich, aber die Evidenz ist begrenzt.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.94,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Nanette � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/N/Na/Nanette/"
+    },
+    {
+      "confidence": 0.84,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "&#9655; Vorname Nanette: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Nanette.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "selten",
+    "elegant",
+    "traditionell",
+    "sanft",
+    "namenskundlich"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "In Deutschland scheint Nanette wenig verbreitet zu sein und taucht eher in Namenslexika und vereinzelt in Kommentaren auf. Die Sichtbarkeit in der öffentlichen Wahrnehmung ist daher eher gering."
+}

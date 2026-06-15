@@ -1,0 +1,61 @@
+{
+  "associations": [
+    "lateinische Herkunft",
+    "Bedeutung: die Königin",
+    "Namenstag",
+    "Seltenheit",
+    "christliche/Traditionsbezüge",
+    "Spitznamen wie Gine oder Gina"
+  ],
+  "confidence": 0.84,
+  "display_text": "Regine: klassisch, traditionell und eher selten; in der öffentlichen Wahrnehmung meist sachlich bis positiv, mit der Bedeutung „die Königin“.",
+  "evidence_quality": "mittel: zwei überwiegend lexikalische Webquellen, sachlich und nur begrenzt öffentliche Resonanz abbildend",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Regine",
+  "normalized_name": "regine",
+  "overall_resonance": "Regine wird in der verfügbaren Evidenz überwiegend sachlich bis eher positiv beschrieben: klassisch, traditionell und mit der Bedeutung „die Königin“. Gleichzeitig wird der Name als eher selten und teils altmodisch wahrgenommen.",
+  "practical_notes": [
+    "Der Name wirkt in Deutschland vertraut, aber nicht modern-trendbetont.",
+    "Für eine Namenssuche eignet sich Regine, wenn ein klassischer und klar weiblich markierter Name gesucht wird.",
+    "Die Wahrnehmung kann je nach Generation eher traditionell als zeitgemäß klingen."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt fast nur aus Namenslexika und nicht aus breiten öffentlichen Diskussionen.",
+    "„Altmodisch“ ist eine Wahrnehmungstendenz, keine objektive Eigenschaft.",
+    "Keine belastbaren Hinweise auf starke positive oder negative gesellschaftliche Stigmatisierung in der vorliegenden Evidenz."
+  ],
+  "short_summary": "Regine wird meist als klassischer, seltener und eher traditionell-altmodischer Mädchenname mit der Bedeutung „die Königin“ wahrgenommen.",
+  "source_count": 2,
+  "sources": [
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Regine � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/R/Re/Regine/"
+    },
+    {
+      "confidence": 0.89,
+      "is_name_discussion": true,
+      "sentiment": "mostly positive",
+      "source_type": "web",
+      "title": "&#9655; Vorname Regine: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Regine.html"
+    }
+  ],
+  "style_effect": [
+    "klassisch",
+    "traditionell",
+    "lexikalisch klar",
+    "leicht altmodisch",
+    "eher ruhig als modern",
+    "feierlich durch die Königin-Assoziation"
+  ],
+  "usable_evidence_count": 2,
+  "visibility": "Eher geringe bis mittlere öffentliche Sichtbarkeit in Deutschland; die Evidenz deutet auf einen bekannten, aber nicht sehr häufig verwendeten Vornamen hin."
+}

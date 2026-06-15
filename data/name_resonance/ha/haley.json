@@ -1,0 +1,69 @@
+{
+  "associations": [
+    "altenglische Herkunft",
+    "Bedeutung in Richtung Heuwiese / Heulichtung",
+    "Schreibvariante von Hailey bzw. ähnliche Formen",
+    "als Mädchen- und Jungenname erwähnt",
+    "in Deutschland gelegentlich vergeben",
+    "eher selten"
+  ],
+  "confidence": 0.78,
+  "display_text": "Haley wird in den vorliegenden deutschsprachigen Quellen eher sachlich-neutral bis leicht positiv beschrieben. Der Name wirkt modern, international und unisex, ist in Deutschland aber eher selten. Die Evidenz ist begrenzt und stammt vor allem aus Namenslexika, nicht aus breiter öffentlicher Debatte.",
+  "evidence_quality": "Begrenzt: mehrere Namenslexikon-Quellen, aber kaum echte öffentliche Diskussions- oder Umfragedaten.",
+  "generated_at": "2026-06-14T10:47:40Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Haley",
+  "normalized_name": "haley",
+  "overall_resonance": "Haley wird in der verfügbaren deutschsprachigen Evidenz vor allem sachlich und eher freundlich-neutral wahrgenommen. Der Name wirkt international, modern und als unisex nutzbar, ist in Deutschland aber eher selten und eher als Namenslexikon-Eintrag als durch breite öffentliche Diskussion belegt.",
+  "practical_notes": [
+    "Für Suchmaschinen gut als kurzer, moderner und international verständlicher Name beschreibbar.",
+    "Die Schreibweise kann mit Hailey, Haily oder Hailie verwechselt werden; das kann im Alltag relevant sein.",
+    "Im deutschsprachigen Raum wirkt Haley eher ungewöhnlich als vertraut."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz ist schmal und stammt fast nur aus Namenslexika; das zeigt eher Beschreibung als echte öffentliche Meinungsvielfalt.",
+    "Es gibt keine belastbare breite Debattenlage, daher sollten Resonanzaussagen vorsichtig gelesen werden.",
+    "Wirkung als modern oder international ist plausibel, aber nicht durch viele unabhängige Quellen abgesichert."
+  ],
+  "short_summary": "Haley wirkt im Deutschen eher selten, modern und international, mit sachlich bis leicht positiver Lexikonresonanz. Die Evidenz ist jedoch begrenzt und beschreibt den Namen mehr, als dass sie eine breite öffentliche Meinung zeigt.",
+  "source_count": 3,
+  "sources": [
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Haley � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/H/Ha/Haley/"
+    },
+    {
+      "confidence": 0.94,
+      "is_name_discussion": true,
+      "sentiment": "leicht positiv",
+      "source_type": "web",
+      "title": "Vorname Haley � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/H/Ha/Haley/"
+    },
+    {
+      "confidence": 0.9,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Haley: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Haley.html"
+    }
+  ],
+  "style_effect": [
+    "international",
+    "modern",
+    "leicht englisch geprägt",
+    "lexikalisch klar",
+    "unisex wahrgenommen",
+    "eher selten"
+  ],
+  "usable_evidence_count": 3,
+  "visibility": "Eher geringe bis moderate Sichtbarkeit im deutschsprachigen Raum; in den Quellen wird Haley als gelegentlich vergebener, eher seltener Name beschrieben."
+}

@@ -1,0 +1,68 @@
+{
+  "associations": [
+    "oft als eingedeutschte Schreibweise von Mike beschrieben",
+    "Bezug zu Michael / Mikha'el",
+    "Bedeutung: „Wer ist wie Gott?“",
+    "Namenstag am 29. September",
+    "als in Deutschland gebräuchlicher Vorname eingeordnet",
+    "teils mit Varianten und Kurzformen verknüpft"
+  ],
+  "confidence": 0.86,
+  "display_text": "Maik wird überwiegend neutral und sachlich wahrgenommen. In den Quellen steht die namenskundliche Einordnung im Vordergrund: häufig wird der Name als eingedeutschte Form von Mike bzw. als Kurzform von Michael mit der Bedeutung „Wer ist wie Gott?“ beschrieben. Die Evidenz ist jedoch vor allem lexikalisch und damit nur begrenzt aussagekräftig für eine breite öffentliche Debatte.",
+  "evidence_quality": "mittel bis schwach: mehrere Quellen, aber ähnliche und vorwiegend lexikalische Inhalte ohne breite öffentliche Diskussion.",
+  "generated_at": "2026-06-13T20:38:55Z",
+  "ignored_mentions_count": 0,
+  "language": "de",
+  "model": "gpt-5.4-mini",
+  "name": "Maik",
+  "normalized_name": "maik",
+  "overall_resonance": "Überwiegend neutral bis sachlich-informativ. Der Name wird in den Quellen vor allem namenskundlich erklärt, nicht emotional oder kontrovers diskutiert.",
+  "practical_notes": [
+    "Für eine Suchmaschine eignet sich eine kurze, sachliche Beschreibung am besten.",
+    "Die Wahrnehmung wirkt eher klassisch-namenskundlich als trendig oder polarisierend.",
+    "Bei Bedarf kann die Herleitung über Michael erwähnt werden, ohne sie als einzige Deutung darzustellen."
+  ],
+  "region": "DE",
+  "risk_notes": [
+    "Die Evidenz stammt fast ausschließlich aus Namenslexika bzw. redaktionellen Namensseiten.",
+    "Daraus lässt sich öffentliche Resonanz nur eingeschränkt ableiten.",
+    "Keine belastbaren Hinweise auf starke Stigmatisierung oder besonders starke kulturelle Aufladung in den vorliegenden Quellen."
+  ],
+  "short_summary": "Maik wird in den vorliegenden Quellen neutral und sachlich als Vorname mit Bezug zu Michael erklärt; die öffentliche Resonanz wirkt eher informativ als emotional.",
+  "source_count": 3,
+  "sources": [
+    {
+      "confidence": 0.97,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Maik � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Maedchen/M/Ma/Maik/"
+    },
+    {
+      "confidence": 0.96,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "Vorname Maik � Bedeutung, Herkunft, Beliebtheit & mehr",
+      "url": "https://www.baby-vornamen.de/Jungen/M/Ma/Maik/"
+    },
+    {
+      "confidence": 0.98,
+      "is_name_discussion": true,
+      "sentiment": "neutral",
+      "source_type": "web",
+      "title": "&#9655; Vorname Maik: Herkunft, Bedeutung & Namenstag",
+      "url": "https://www.vorname.com/name,Maik.html"
+    }
+  ],
+  "style_effect": [
+    "lexikalisch",
+    "informativ",
+    "sachlich",
+    "namenskundlich",
+    "beliebtheitsbezogen"
+  ],
+  "usable_evidence_count": 3,
+  "visibility": "Eher gut auffindbar in deutschsprachigen Namenslexika und Datenbanken, aber mit begrenzter Breite an öffentlicher Debatte."
+}
