@@ -513,6 +513,98 @@ body.debug-on .score {
   display: inline;
 }
 
+.resonance-panel {
+  margin-top: 22px;
+  padding-top: 20px;
+  border-top: 1px solid var(--line);
+}
+
+.resonance-header {
+  margin-bottom: 12px;
+}
+
+.resonance-header h2 {
+  font-size: 24px;
+}
+
+.resonance-content {
+  display: grid;
+  gap: 14px;
+}
+
+.resonance-summary {
+  color: #555d5a;
+  font-size: 17px;
+  line-height: 1.62;
+}
+
+.resonance-tags {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+
+.resonance-tags li {
+  border: 1px solid rgba(92, 120, 82, 0.16);
+  border-radius: 999px;
+  background: rgba(237, 246, 232, 0.62);
+  color: #36553b;
+  padding: 5px 10px;
+  font-size: 13px;
+}
+
+.resonance-meta {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px 12px;
+  color: var(--muted);
+  font-size: 13px;
+}
+
+.resonance-sources {
+  padding-top: 4px;
+}
+
+.resonance-sources h3 {
+  margin: 0 0 8px;
+  color: #65706b;
+  font-size: 15px;
+}
+
+.resonance-sources ol {
+  margin: 0;
+  padding-left: 20px;
+  display: grid;
+  gap: 7px;
+}
+
+.resonance-sources li {
+  color: var(--soft-ink);
+  line-height: 1.45;
+}
+
+.resonance-sources a {
+  color: var(--green-deep);
+  text-underline-offset: 0.18em;
+}
+
+.resonance-sources span {
+  display: block;
+  color: var(--muted);
+  font-size: 12px;
+}
+
+.resonance-disclaimer {
+  border-left: 3px solid rgba(79, 143, 58, 0.42);
+  padding-left: 10px;
+  color: var(--soft-ink);
+  font-size: 13px;
+  line-height: 1.5;
+}
+
 .empty-state {
   padding: 42px 12px;
   color: var(--muted);
@@ -662,6 +754,30 @@ body.debug-on .score {
 .site-nav .nav-search-link[aria-current="page"] {
   background: var(--green-deep);
   color: white;
+}
+
+.site-footer {
+  position: relative;
+  z-index: 1;
+  width: min(1080px, calc(100% - 32px));
+  margin: -24px auto 28px;
+  display: flex;
+  justify-content: flex-end;
+  gap: 14px;
+  color: var(--muted);
+  font-size: 12px;
+}
+
+.site-footer a {
+  color: var(--muted);
+  text-decoration: none;
+}
+
+.site-footer a:hover,
+.site-footer a:focus {
+  color: var(--green-deep);
+  text-decoration: underline;
+  text-underline-offset: 0.18em;
 }
 
 .about-page {
@@ -1001,6 +1117,12 @@ body.debug-on .score {
   .legal-page {
     width: min(100% - 20px, 640px);
     padding-top: 24px;
+  }
+
+  .site-footer {
+    width: min(100% - 20px, 640px);
+    margin-top: -8px;
+    justify-content: center;
   }
 
   .about-hero {
